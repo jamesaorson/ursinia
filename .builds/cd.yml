@@ -1,0 +1,30 @@
+image: alpine/edge
+oauth: git.sr.ht/REPOSITORY pages.sr.ht/PAGES:RW
+packages:
+- hut
+sources:
+  - git@git.sr.ht:~jamesaorson/ursinia
+environment:
+  REPO: ursinia
+  DOMAIN: ursinia.net
+secrets:
+  # NOTE: builds-ssh-key
+  - 829b570c-d1ea-4e37-b46c-9229ba50ee63
+tasks:
+- package: |
+    cd ${REPO}/wwwroot
+    for subdomain in $(ls); do
+      cd $subdomain
+      CWD=$(pwd)
+      tar -cvz * > ${CWD}/site.tar.gz
+      cd ..
+- publish: |
+    cd ${REPO}/wwwroot
+    for subdomain in $(ls); do
+      cd $subdomain
+      hut pages publish \
+        --site-config pages.json \
+        -d ${subdomain}.${DOMAIN} site.tar.gz
+      cd ..
+    done
+
