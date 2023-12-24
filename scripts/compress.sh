@@ -8,6 +8,6 @@ subdomain=$1
 shift
 
 cd ./wwwroot/$subdomain
-tar -cvz $@ > ./site.tar.gz
+tar -cvz * > ./site.tar.gz
 cd ../..
 
