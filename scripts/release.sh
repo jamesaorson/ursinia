@@ -1,5 +1,7 @@
 #! /bin/sh
 
+set -eux
+
 # NOTE: Assumes start in wwwroot/
 
 subdomain=$1

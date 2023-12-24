@@ -12,10 +12,12 @@ secrets:
   - 829b570c-d1ea-4e37-b46c-9229ba50ee63
 tasks:
 - package: |
-    cd ${REPO}/wwwroot
+    cd ${REPO}/src
     for subdomain in $(ls); do
       ../scripts/build.sh $subdomain
+      cd ../wwwroot
       ../scripts/compress.sh $subdomain
+      cd ../src
     done
 - publish: |
     cd ${REPO}/wwwroot
