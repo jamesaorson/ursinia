@@ -21,7 +21,7 @@ tasks:
       cd ..
     done
 - compress: |
-    cd ${REPO}/wwwroot
+    cd ${REPO}/src
     subdomains=$(ls)
     # NOTE: Scripts assume start in repo root
     for subdomain in ${subdomains}; do
@@ -30,9 +30,8 @@ tasks:
       cd ..
     done
 - release: |
-    cd ${REPO}/wwwroot
+    cd ${REPO}/src
     subdomains=$(ls)
-    cd ..
     # NOTE: Scripts assume start in repo root
     for subdomain in ${subdomains}; do
       cd ${subdomain}
