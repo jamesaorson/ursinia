@@ -15,6 +15,7 @@ tasks:
     cd ${REPO}/src
     subdomains=$(ls)
     cd ..
+    # NOTE: Scripts assume start in repo root
     for subdomain in ${subdomains}; do
       sh ./scripts/build.sh $subdomain
       sh ./scripts/compress.sh $subdomain
@@ -23,6 +24,7 @@ tasks:
     cd ${REPO}/wwwroot
     subdomains=$(ls)
     cd ..
+    # NOTE: Scripts assume start in repo root
     for subdomain in ${subdomains}; do
       sh ./scripts/release.sh $subdomain
     done
