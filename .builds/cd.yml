@@ -11,21 +11,32 @@ secrets:
   # NOTE: builds-ssh-key
   - 829b570c-d1ea-4e37-b46c-9229ba50ee63
 tasks:
-- package: |
+- build: |
     cd ${REPO}/src
     subdomains=$(ls)
-    cd ..
     # NOTE: Scripts assume start in repo root
     for subdomain in ${subdomains}; do
-      sh ./scripts/build.sh $subdomain
-      sh ./scripts/compress.sh $subdomain
+      cd ${subdomain}
+      sh ./build.sh ${subdomain}
+      cd ..
     done
-- publish: |
+- compress: |
+    cd ${REPO}/wwwroot
+    subdomains=$(ls)
+    # NOTE: Scripts assume start in repo root
+    for subdomain in ${subdomains}; do
+      cd ${subdomain}
+      sh ./compress.sh ${subdomain}
+      cd ..
+    done
+- release: |
     cd ${REPO}/wwwroot
     subdomains=$(ls)
     cd ..
     # NOTE: Scripts assume start in repo root
     for subdomain in ${subdomains}; do
-      sh ./scripts/release.sh $subdomain
+      cd ${subdomain}
+      sh ./release.sh ${subdomain}
+      cd ..
     done
 

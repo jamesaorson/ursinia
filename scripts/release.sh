@@ -2,14 +2,14 @@
 
 set -eux
 
-# NOTE: Assumes start in repo root
+# NOTE: Assumes start in src of subdomain root
 
 subdomain=$1
 shift
 
-cd ./wwwroot/$subdomain
+cd ../../wwwroot/${subdomain}
 hut pages publish \
     --site-config pages.json \
     -d ${subdomain}.${DOMAIN} site.tar.gz
-cd ../..
+cd ../../src/${subdomain}
 

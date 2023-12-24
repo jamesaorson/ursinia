@@ -2,12 +2,12 @@
 
 set -eux
 
-# NOTE: Assumes start in repo root
+# NOTE: Assumes start in src of subdomain root
 
 subdomain=$1
 shift
 
-cd ./wwwroot/$subdomain
+cd ../../wwwroot/${subdomain}
 tar -cvz * > ./site.tar.gz
-cd ../..
+cd ../../src/${subdomain}
 
