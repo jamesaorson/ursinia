@@ -2,9 +2,10 @@
 
 set -eux
 
-#  NOTE: Assumes start in src/
+#  NOTE: Assumes start in repo root
 
 subdomain=$1
 shift
-cp -r ./$subdomain ../wwwroot/
+rm -rf ./wwwroot/${subdomain}
+cp -r ./src/${subdomain} ./wwwroot/${subdomain}
 

@@ -13,15 +13,17 @@ secrets:
 tasks:
 - package: |
     cd ${REPO}/src
-    for subdomain in $(ls); do
-      ../scripts/build.sh $subdomain
-      cd ../wwwroot
-      ../scripts/compress.sh $subdomain
-      cd ../src
+    subdomains=$(ls)
+    cd ..
+    for subdomain in ${subdomains}; do
+      sh ./scripts/build.sh $subdomain
+      sh ./scripts/compress.sh $subdomain
     done
 - publish: |
     cd ${REPO}/wwwroot
-    for subdomain in $(ls); do
-      ../scripts/release.sh $subdomain
+    subdomains=$(ls)
+    cd ..
+    for subdomain in ${subdomains}; do
+      sh ./scripts/release.sh $subdomain
     done
 
