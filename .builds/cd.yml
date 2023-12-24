@@ -14,18 +14,12 @@ tasks:
 - package: |
     cd ${REPO}/wwwroot
     for subdomain in $(ls); do
-      cd $subdomain
-      CWD=$(pwd)
-      tar -cvz * > ${CWD}/site.tar.gz
-      cd ..
+      ../scripts/build.sh $subdomain
+      ../scripts/compress.sh $subdomain
     done
 - publish: |
     cd ${REPO}/wwwroot
     for subdomain in $(ls); do
-      cd $subdomain
-      hut pages publish \
-        --site-config pages.json \
-        -d ${subdomain}.${DOMAIN} site.tar.gz
-      cd ..
+      ../scripts/release.sh $subdomain
     done
 
