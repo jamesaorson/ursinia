@@ -48,28 +48,11 @@ a:visited {
     color: var(--link-color-visit);
 }
 
-.grid-two-wide {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1rem;
-    grid-auto-rows: minmax(2rem, auto);
-}
-
 .list-item-internal-link {
     list-style-type: disclosure-open;
 }
 
 .list-item-external-link {
     list-style-type: disclosure-closed;
-}
-
-#link-section-left {
-    grid-column: 1 / 2;
-    grid-row: 1;
-}
-
-#link-section-right {
-    grid-column: 2 / 2;
-    grid-row: 1;
 }
 
