@@ -9,6 +9,7 @@ shift
 
 rm -rf ../../wwwroot/${subdomain}
 cp -r . ../../wwwroot/${subdomain}
+rm -rf ../../wwwroot/${subdomain}/shared
 cp -r ../../shared ../../wwwroot/${subdomain}/
 
 echo "Cleaning up what was copied over..."

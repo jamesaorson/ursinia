@@ -16,13 +16,13 @@ html, body {
 
 @media screen and (min-width: 601px) {
   body {
-    font-size: 3vw;
+    font-size: 1rem;
   }
 }
 
 @media screen and (max-width: 600px) {
   body {
-    font-size: 4vw;
+    font-size: 2rem;
   }
 }
 
@@ -48,10 +48,7 @@ a:visited {
     color: var(--link-color-visit);
 }
 
-.list-item-internal-link {
-    list-style-type: disclosure-open;
-}
-
-.list-item-external-link {
+li a {
     list-style-type: disclosure-closed;
 }
+
