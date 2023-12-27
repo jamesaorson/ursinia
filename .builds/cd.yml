@@ -16,26 +16,20 @@ tasks:
     subdomains=$(ls)
     # NOTE: Scripts assume start in repo root
     for subdomain in ${subdomains}; do
-      cd ${subdomain}
-      sh ./build.sh ${subdomain}
-      cd ..
+      sh ${subdomain}/build.sh ${subdomain}
     done
 - compress: |
     cd ${REPO}/src
     subdomains=$(ls)
     # NOTE: Scripts assume start in repo root
     for subdomain in ${subdomains}; do
-      cd ${subdomain}
-      sh ./compress.sh ${subdomain}
-      cd ..
+      sh ${subdomain}/compress.sh ${subdomain}
     done
 - release: |
     cd ${REPO}/src
     subdomains=$(ls)
     # NOTE: Scripts assume start in repo root
     for subdomain in ${subdomains}; do
-      cd ${subdomain}
-      sh ./release.sh ${subdomain}
-      cd ..
+      sh ${subdomain}/release.sh ${subdomain}
     done
 
