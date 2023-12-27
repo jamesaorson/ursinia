@@ -2,10 +2,12 @@
 
 set -eux
 
-#  NOTE: Assumes start in src of subdomain root
+cd $(dirname $(readlink -f "$0"))
 
 subdomain=$1
 shift
+
+cd ../src/${subdomain}
 
 rm -rf ../../wwwroot/${subdomain}
 cp -r . ../../wwwroot/${subdomain}
