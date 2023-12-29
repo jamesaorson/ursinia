@@ -9,6 +9,8 @@ shift
 
 cd ../src/${subdomain}
 
+mkdir -p ../../wwwroot
+
 rm -rf ../../wwwroot/${subdomain}
 cp -r . ../../wwwroot/${subdomain}
 rm -rf ../../wwwroot/${subdomain}/shared
