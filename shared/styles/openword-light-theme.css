@@ -1,0 +1,54 @@
+:root {
+    --color-primary: #E8E6E3; /* White */
+    --color-secondary: #2C3032; /* Black */
+    --link-color-start: #FF9A00; /* Orange */
+    --link-color-hover: #CD5C5C; /* Red */
+    --link-color-click: #9999FF; /* Blue */
+    --link-color-visit: #355E3B; /* Green */
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    color: var(--color-secondary);
+    background-color: var(--color-primary);
+}
+
+@media screen and (min-width: 601px) {
+  body {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 2rem;
+  }
+}
+
+a {
+    text-decoration-style: dotted;
+    text-decoration-thickness: from-font;
+}
+
+/* NOTE: Order of a: sections is important */
+a:link {
+    color: var(--link-color-start);
+}
+
+a:hover {
+    color: var(--link-color-hover) !important;
+}
+
+a:active {
+    color: var(--link-color-click) !important;
+}
+
+a:visited {
+    color: var(--link-color-visit);
+}
+
+li a {
+    list-style-type: disclosure-closed;
+}
+
