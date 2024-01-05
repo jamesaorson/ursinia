@@ -14,16 +14,9 @@ html, body {
     background-color: var(--color-primary);
 }
 
-@media screen and (min-width: 601px) {
-  body {
-    font-size: 1rem;
-  }
-}
-
-@media screen and (max-width: 600px) {
-  body {
-    font-size: 2rem;
-  }
+body {
+    /* SOURCE: https://matthewjamestaylor.com/responsive-font-size */
+    font-size: calc(15px + 0.390625vw);
 }
 
 a {
