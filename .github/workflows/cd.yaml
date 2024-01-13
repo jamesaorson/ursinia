@@ -14,8 +14,10 @@ env:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    name: Deploy ${{ matrix.subdomain }}.${{ env.HOSTNAME }}
+    uses: ./.github/workflows/call-deploy-site.yaml
     strategy:
+      fail-fast: true
       matrix:
         subdomains:
           - bible
@@ -27,14 +29,7 @@ jobs:
           - sitemap
           - sunshine
           - todo
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v4
-      with:
-        show-progress: 'false'
-    - name: Deploy ${{ matrix.subdomain }}.${{ env.HOSTNAME }}
-      uses: .github/workflows/call-deploy-site.yaml
-      with:
-        hostname: ${{ env.HOSTNAME }}
-        subdomain: ${{ matrix.subdomain }}
+    with:
+      hostname: ${{ env.HOSTNAME }}
+      subdomain: ${{ matrix.subdomain }}
 
