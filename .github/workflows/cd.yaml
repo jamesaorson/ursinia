@@ -33,6 +33,7 @@ jobs:
           - sunshine
           - todo
     steps:
+    - uses: actions/checkout@v3
     - name: Deploy ${{ matrix.subdomain }}.${{ env.HOSTNAME }}
       uses: ./.github/workflows/call-deploy-site.yaml
       with:
