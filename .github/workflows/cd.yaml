@@ -9,10 +9,6 @@ on:
       - main
   workflow_dispatch:
 
-defaults:
-  run:
-    working-directory: ./client
-
 env:
   HOSTNAME: ursinia.net
 
