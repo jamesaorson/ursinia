@@ -12,6 +12,7 @@ on:
 
 jobs:
   deploy:
+    name: Deploy ${{ inputs.subdomain }}
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
