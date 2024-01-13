@@ -1,0 +1,32 @@
+name: Client
+
+on:
+  workflow_call:
+    input:
+      hostname:
+        required: true
+        type: string
+      subdomain:
+        required: true
+        type: string
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Build
+      run: |
+        cd ./src/${{ inputs.subdomain }}
+        sh ./build.sh ${{ inputs.subdomain }}
+    - name: Deploy
+      if: ${{ github.ref == 'refs/heads/main' }}
+      uses: peaceiris/actions-gh-pages@v3.6.1
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_branch: gh-pages_${{ inputs.subdomain }}
+        publish_dir: ./wwwroot/${{ inputs.subdomain }}
+        allow_empty_commit: false
+        keep_files: false
+        force_orphan: true
+        cname: ${{ inputs.subdomain }}.${{ inputs.hostname }}

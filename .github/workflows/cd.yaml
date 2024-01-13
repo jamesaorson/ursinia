@@ -1,0 +1,41 @@
+name: Deploy Ursinia
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+    
+
+defaults:
+  run:
+    working-directory: ./client
+
+env:
+  HOSTNAME: ursinia.net
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        subdomains:
+          - bible
+          - charter
+          - food
+          - home
+          - mama
+          - papa
+          - sitemap
+          - sunshine
+          - todo
+    steps:
+    - name: Deploy ${{ matrix.subdomain }}.${{ env.HOSTNAME }}
+      uses: ./.github/workflows/call-deploy-site.yaml
+      with:
+        hostname: ${{ env.HOSTNAME }}
+        subdomain: ${{ matrix.subdomain }}
+
