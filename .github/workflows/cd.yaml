@@ -16,7 +16,7 @@ jobs:
     strategy:
       fail-fast: true
       matrix:
-        subdomains:
+        subdomain:
           - bible
           - charter
           - food
