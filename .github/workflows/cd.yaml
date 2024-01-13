@@ -14,7 +14,7 @@ env:
 
 jobs:
   deploy:
-    name: Deploy ${{ matrix.subdomain }}.${{ env.HOSTNAME }}
+    name: Deploy ${{ matrix.subdomain }}
     uses: ./.github/workflows/call-deploy-site.yaml
     strategy:
       fail-fast: true
