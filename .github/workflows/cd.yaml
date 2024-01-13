@@ -9,9 +9,6 @@ on:
       - main
   workflow_dispatch:
 
-env:
-  HOSTNAME: ursinia.net
-
 jobs:
   deploy:
     name: Deploy ${{ matrix.subdomain }}
@@ -30,6 +27,6 @@ jobs:
           - sunshine
           - todo
     with:
-      hostname: ${{ env.HOSTNAME }}
+      hostname: ursinia.net
       subdomain: ${{ matrix.subdomain }}
 
