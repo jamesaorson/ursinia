@@ -33,7 +33,7 @@ jobs:
       with:
         show-progress: 'false'
     - name: Deploy ${{ matrix.subdomain }}.${{ env.HOSTNAME }}
-      uses: ./.github/workflows/call-deploy-site.yaml
+      uses: .github/workflows/call-deploy-site.yaml
       with:
         hostname: ${{ env.HOSTNAME }}
         subdomain: ${{ matrix.subdomain }}
