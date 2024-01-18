@@ -7,9 +7,9 @@ sudo mkdir -p /var/www/ursinia
 WWW=/var/www/ursinia
 
 echo "Syncing website to install"
-INSTALL_DIRS=""
 for dir in src shared .well-known; do
-	sudo rsync -avh --delete ./${dir} ${WWW}/${dir}
+	mkdir -p ${WWW}/${dir}
+	sudo rsync -avh --delete ./${dir}/ ${WWW}/${dir}
 done
 
 echo "Setting up nginx config as default"

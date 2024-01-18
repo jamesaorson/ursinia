@@ -19,17 +19,6 @@
 # Default server configuration
 #
 server {
-       listen 443;
-       listen [::]:443;
-       
-       location / {
-           return 301 http://$server_name$request_uri;
-       }
-}
-
-server {
-	listen 80 default_server;
-	listen [::]:80 default_server;
 
 	# SSL configuration
 	#
@@ -49,12 +38,10 @@ server {
 
 	server_name ~^(?<subdomain>.+)\.ursinia\.net ursinia.net;
         
-        if ($subdomain = "") {
-            return 301 $scheme://home.ursinia.net;
-        }
-        if (!-d /var/www/ursinia/src/$subdomain) {
-            return 301 $scheme://sitemap.ursinia.net;
-        }
+	location /.well-known/ {
+	        root /var/www/ursinia;
+		try_files $uri $uri/ =404;
+	}
 
 	location / {
 	        root /var/www/ursinia/src/$subdomain;
@@ -81,6 +68,15 @@ server {
 	#location ~ /\.ht {
 	#	deny all;
 	#}
+
+    listen [::]:443 ssl ipv6only=on; # managed by Certbot
+    listen 443 ssl; # managed by Certbot
+    ssl_certificate /etc/letsencrypt/live/ursinia.net/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/ursinia.net/privkey.pem; # managed by Certbot
+    include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
+
+
 }
 
 
@@ -102,3 +98,25 @@ server {
 #		try_files $uri $uri/ =404;
 #	}
 #}
+
+server {
+    if ($host ~ ^[^.]+\.ursinia\.net$) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+
+
+    if ($host = ursinia.net) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+
+
+	listen 80 default_server;
+	listen [::]:80 default_server;
+
+	server_name ~^(?<subdomain>.+)\.ursinia\.net ursinia.net;
+    return 404; # managed by Certbot
+
+
+
+
+}
