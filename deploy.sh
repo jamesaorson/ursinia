@@ -7,7 +7,7 @@ sudo mkdir -p /var/www/ursinia
 WWW=/var/www/ursinia
 
 echo "Syncing website to install"
-for dir in src shared .well-known; do
+for dir in src shared; do
 	mkdir -p ${WWW}/${dir}
 	sudo rsync -avh --delete ./${dir}/ ${WWW}/${dir}
 done
