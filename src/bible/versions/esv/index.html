@@ -3,7 +3,7 @@
 <html lang="en">
 
   <head>
-    <title>Ursinia - Bible - ESV</title>
+    <title>Ursinia - ESV</title>
     <link rel="icon" type="image/x-icon" href="/shared/favicons/favicon.ico">
     <link rel="stylesheet" href="/shared/styles/openword-theme.css">
     <link rel="stylesheet" href="/styles/main.css">
@@ -12,18 +12,32 @@
   <body>
     <h1>
       <a id="title"
-         href="#title"
+         href="#full-text"
          >
-        ESV Texts
+        ESV
       </a>
     </h1>
 
-    <div>
+    <div id="resources">
+      <a href="#resources">
+        Self Hosted (downloads a file)
+      </a>
       <ul>
         <li>
-          <a href="/versions/esv/pdf">English Standard Version - PDF</a>
+          <a href="/data/versions/esv.pdf" download>
+            ESV
+          </a>
         </li>
       </ul>
+    </div>
+
+    <div>
+      <object
+        id="full-text"
+        class="full-text-object"
+        data="/data/versions/esv.pdf">
+        <p>PDF text of the ESV bible</p>
+      </object>
     </div>
 
   </body>
