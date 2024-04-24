@@ -6,10 +6,10 @@ echo "WARNING: Run this once"
 
 cd $(dirname ${BASH_SOURCE[0]})/src
 
-DOMAINS="-d www.ursinia.net -d ursinia.net"
+DOMAINS="-d ursinia.net -d www.ursinia.net"
 
 for dir in $(ls); do
-    DOMAINS="-d ${dir}.ursinia.net ${DOMAINS}"
+    DOMAINS="${DOMAINS} -d ${dir}.ursinia.net"
 done
 
 sudo certbot --nginx ${DOMAINS}
