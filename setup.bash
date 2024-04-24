@@ -9,3 +9,4 @@ sudo apt-get install --yes \
 
 sudo snap install --classic \
 	certbot
+sudo ln -s -f /snap/bin/certbot /usr/bin/certbot
