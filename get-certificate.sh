@@ -1,6 +1,15 @@
-#! /bin/sh
+#! /bin/bash
 
-set -eu
+set -euo pipefail
 
 echo "WARNING: Run this once"
-sudo certbot --manual --installer nginx -d 'ursinia.net' -d '*.ursinia.net'
+
+cd $(dirname ${BASH_SOURCE[0]})/src
+
+DOMAINS=""
+
+for dir in $(ls); do
+    DOMAINS="-d ${dir}.ursinia.net ${DOMAINS}"
+done
+
+sudo certbot --installer nginx ${DOMAINS}
