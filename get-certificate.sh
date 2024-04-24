@@ -12,4 +12,4 @@ for dir in $(ls); do
     DOMAINS="-d ${dir}.ursinia.net ${DOMAINS}"
 done
 
-sudo certbot --manual --installer nginx ${DOMAINS}
+sudo certbot --nginx ${DOMAINS}
