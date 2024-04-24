@@ -24,71 +24,7 @@ server {
     ssl_certificate /etc/letsencrypt/live/todo.ursinia.net/fullchain.pem; # managed by Certbot
     ssl_certificate_key /etc/letsencrypt/live/todo.ursinia.net/privkey.pem; # managed by Certbot
 		include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
-		ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
-
-}
-
-server {
-	if ($host ~ ^[^.]+\.ursinia\.net$) {
-		return 301 https://$host$request_uri;
-	} # managed by Certbot
-
-
-	if ($host = ursinia.net) {
-		return 301 https://$host$request_uri;
-	} # managed by Certbot
-
-
-	listen 80 default_server;
-	listen [::]:80 default_server;
-
-	server_name ~^(?<subdomain>.+)\.ursinia\.net ursinia.net;
-	return 404; # managed by Certbot
-
-}
-
-
-server {
-	if ($host ~ ^[^.]+\.ursinia\.net$) {
-		return 301 https://$host$request_uri;
-	} # managed by Certbot
-
-
-	if ($host = ursinia.net) {
-		return 301 https://$host$request_uri;
-	} # managed by Certbot
-    server_name todo.ursinia.net sitemap.ursinia.net papa.ursinia.net harmony.ursinia.net sunshine.ursinia.net www.ursinia.net mama.ursinia.net food.ursinia.net charter.ursinia.net bible.ursinia.net home.ursinia.net; # managed by Certbot
-	return 404; # managed by Certbot
-
-
-
-    listen [::]:443 ssl; # managed by Certbot
-    listen 443 ssl; # managed by Certbot
-    ssl_certificate /etc/letsencrypt/live/todo.ursinia.net/fullchain.pem; # managed by Certbot
-    ssl_certificate_key /etc/letsencrypt/live/todo.ursinia.net/privkey.pem; # managed by Certbot
-    include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
     ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
 
 server {
@@ -146,33 +82,8 @@ server {
         return 301 https://$host$request_uri;
     } # managed by Certbot
 
-
-
-
 	listen 80 ;
 	listen [::]:80 ;
     server_name todo.ursinia.net sitemap.ursinia.net papa.ursinia.net harmony.ursinia.net sunshine.ursinia.net www.ursinia.net mama.ursinia.net food.ursinia.net charter.ursinia.net bible.ursinia.net home.ursinia.net;
     return 404; # managed by Certbot
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
