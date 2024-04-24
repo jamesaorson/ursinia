@@ -1,6 +1,8 @@
-#! /bin/sh
+#! /bin/bash
 
-set -eu
+set -euo pipefail
+
+cd $(dirname ${BASH_SOURCE[0]})
 
 sudo mkdir -p /var/www/ursinia
 

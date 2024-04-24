@@ -6,7 +6,7 @@ echo "WARNING: Run this once"
 
 cd $(dirname ${BASH_SOURCE[0]})/src
 
-DOMAINS=""
+DOMAINS="-d www.ursinia.net -d ursinia.net"
 
 for dir in $(ls); do
     DOMAINS="-d ${dir}.ursinia.net ${DOMAINS}"
