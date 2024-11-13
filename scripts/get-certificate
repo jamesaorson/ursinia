@@ -4,7 +4,7 @@ set -euo pipefail
 
 echo "WARNING: Run this once"
 
-cd $(dirname ${BASH_SOURCE[0]})/src
+cd $(dirname ${BASH_SOURCE[0]})/../src
 
 DOMAINS="-d ursinia.net -d www.ursinia.net"
 
