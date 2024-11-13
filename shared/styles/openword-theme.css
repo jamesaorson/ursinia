@@ -15,7 +15,7 @@ html, body {
 }
 
 body {
-    margin: 1rem;
+    padding: 1rem;
     /* SOURCE: https://matthewjamestaylor.com/responsive-font-size */
     font-size: calc(15px + 0.390625vw);
 }
