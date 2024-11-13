@@ -14,7 +14,7 @@ ssh pi
 # Once logged in...
 cd ./github.com/jamesaorson/ursinia
 git pull
-./deploy.sh
+./deploy
 exit
 ```
 
@@ -41,7 +41,7 @@ james in 🌐 pi in ursinia on  main
 Already up to date.
 
 james in 🌐 pi in ursinia on  main 
-❯ ./deploy.sh
+❯ ./deploy
 Syncing website to install
 sending incremental file list
 
