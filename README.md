@@ -21,27 +21,13 @@ exit
 Here is a full example with output:
 
 ```shell
-tashasorson@Jamess-MacBook-Pro ursinia % ssh pi
-james@10.0.0.217's password: 
-Linux pi 6.1.0-rpi8-rpi-v8 #1 SMP PREEMPT Debian 1:6.1.73-1+rpt1 (2024-01-25) aarch64
+$ ssh ursinia
+$ cd ./github.com/jamesaorson/ursinia
 
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
-
-Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-Last login: Tue Apr  2 21:23:11 2024 from 10.0.0.4
-
-james in 🌐 pi in ~ 
-❯ cd ./github.com/jamesaorson/ursinia
-
-james in 🌐 pi in ursinia on  main 
-❯ git pull
+$ git pull
 Already up to date.
 
-james in 🌐 pi in ursinia on  main 
-❯ make deploy
+$ make deploy
 Syncing website to install
 sending incremental file list
 
@@ -72,7 +58,4 @@ Checking nginx
 
 Nov 14 10:04:16 pi systemd[1]: Starting nginx.service - A high performance web server and a reverse proxy server...
 Nov 14 10:04:16 pi systemd[1]: Started nginx.service - A high performance web server and a reverse proxy server.
-
-james in 🌐 pi in ursinia on  main 
-❯ 
 ```
