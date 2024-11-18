@@ -16,7 +16,7 @@ TEMPLATES := $(shell find templates/ -type f -name '*.scm')
 RENDERS := $(patsubst templates/%.scm,src/%.html,$(TEMPLATES))
 
 $(RENDERS): $(TEMPLATES)
-render: $(RENDERS)
+render: $(RENDERS) ## Renders the template files into their new home
 src/%.html: templates/%.scm
 	@echo "RENDER: $< -> $@"
 	: > $@
