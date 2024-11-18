@@ -12,9 +12,9 @@ To deploy the website with changes
 ```shell
 ssh pi
 # Once logged in...
-cd ./github.com/jamesaorson/ursinia
+cd ./git.sr.ht/jamesaorson/ursinia
 git pull
-make deploy # or ./scripts/deploy
+make deploy
 exit
 ```
 
@@ -22,7 +22,7 @@ Here is a full example with output:
 
 ```shell
 $ ssh ursinia
-$ cd ./github.com/jamesaorson/ursinia
+$ cd ./git.sr.ht/jamesaorson/ursinia
 
 $ git pull
 Already up to date.

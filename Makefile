@@ -1,12 +1,28 @@
 SHELL := /bin/bash
 .SHELLFLAGS = -e -c
 .DEFAULT_GOAL := help
-.NOTPARALLEL:
 .ONESHELL:
+
+NO_GENERATE_TEMPLATES ?= 0
 
 .PHONY: deploy
 deploy: ./scripts/deploy ## Does an incremental deploy/redeploy of the application
-	@$<
+	@if [[ "$(NO_GENERATE_TEMPLATES)" == "0" || -z "$(NO_GENERATE_TEMPLATES)" ]]; then
+		$(MAKE) render
+	fi
+	$<
+
+TEMPLATES := $(shell find templates/ -type f -name '*.scm')
+RENDERS := $(patsubst templates/%.scm,src/%.html,$(TEMPLATES))
+
+$(RENDERS): $(TEMPLATES)
+render: $(RENDERS)
+src/%.html: templates/%.scm
+	@echo "RENDER: $< -> $@"
+	: > $@
+	guile \
+		-L ${PWD} \
+		-s $< >> $@
 
 .PHONY: get-certificate
 get-certificate: ./scripts/get-certificate ## Install or refresh SSL certificates
