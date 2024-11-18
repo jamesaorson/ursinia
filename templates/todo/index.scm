@@ -6,7 +6,7 @@
                                 (span (@ (id "header-sitemap"))
                                     (a (@ (id "header-sitemap-link")
                                          (href "https://sitemap.ursinia.net"))
-                                        #\← " " (code "sitemap")))))
+                                        #\↤ " " (code "sitemap")))))
                         (div
                             (h2 (@ (id "nov-17-2024"))
                                 (a (@ (href "#nov-17-2024"))

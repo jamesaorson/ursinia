@@ -293,7 +293,8 @@
     (#\♠ . "spades")
     (#\♣ . "clubs")
     (#\♥ . "hearts")
-    (#\♦ . "diams"))))
+    (#\♦ . "diams")
+    (#\↤ . "#8612"))))
 
 (define (string->escaped-html s port)
  "Write the HTML escaped form of S to PORT."
