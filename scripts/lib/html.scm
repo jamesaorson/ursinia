@@ -19,13 +19,16 @@
     (sxml->html sxml port)))
 
 (define* (render-template title body
-                           #:key (head '((link (@ (rel "icon")
-                                                  (type "image/x-icon")
-                                                  (href "/shared/favicons/favicon.ico")))
-                                         (link (@ (rel "stylesheet")
-                                                  (href "/shared/styles/openword-theme.css")))
-                                         (link (@ (rel "stylesheet")
-                                                  (href "/styles/main.css")))))
+                          #:key (head '(meta (@ (charset "utf-8")))
+                                       (meta (@ (name "viewport")
+                                                (content "width=device-width, initial-scale=1")))
+                                       (link (@ (rel "icon")
+                                                (type "image/x-icon")
+                                                (href "/shared/favicons/favicon.ico")))
+                                       (link (@ (rel "stylesheet")
+                                                (href "/shared/styles/openword-theme.css")))
+                                       (link (@ (rel "stylesheet")
+                                                (href "/styles/main.css"))))
                                 (port (current-output-port)))
   (format port
           "~a~%"
