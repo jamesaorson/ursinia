@@ -7,9 +7,16 @@ secrets:
   # NOTE: SSH Key - ursinia - remote-deploy
   - e69e1aea-5fd3-4dcc-8360-6c34942d26d1
 tasks:
-  # - ssh-keyscan: |-
-  #     touch ~/.ssh/known_hosts
-  #     ssh-keyscan ursinia.net >> ~/.ssh/known_hosts
+  - ssh-config: |-
+      touch ~/.ssh/config
+      cat <<EOF >> ~/.ssh/config
+      Host ursinia.net
+        User james
+        IdentityFile ~/.ssh/e69e1aea-5fd3-4dcc-8360-6c34942d26d1
+      EOF
+  - ssh-keyscan: |-
+      touch ~/.ssh/known_hosts
+      ssh-keyscan ursinia.net >> ~/.ssh/known_hosts
   - remote-deploy: |-
       cd ${REPO}
-      SSH_IDENTITY_FILE=${HOME}/.ssh/e69e1aea-5fd3-4dcc-8360-6c34942d26d1 make remote-deploy
+      make remote-deploy
