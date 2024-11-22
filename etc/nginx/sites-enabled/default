@@ -9,12 +9,12 @@ server {
 	if ($subdomain = "") {
 		return 301 $scheme://home.ursinia.net;
 	}
-	if (!-d /var/www/ursinia/src/$subdomain) {
+	if (!-d /var/www/ursinia/wwwroot/$subdomain) {
 		return 301 $scheme://sitemap.ursinia.net;
 	}
 
 	location / {
-		root /var/www/ursinia/src/$subdomain;
+		root /var/www/ursinia/wwwroot/$subdomain;
 		index index.html;
 		try_files $uri $uri/ $uri.html =404;
 	}
