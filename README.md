@@ -90,6 +90,8 @@ For example:
 
 ```scheme
 ;; templates/todo/some.txt.scm
+(use-modules (ice-9 format))
+
 (format #t "Some text file~%Idk, ~d" 5)
 ```
 
