@@ -5,7 +5,17 @@
 - [Website](https://ursinia.net)
 - [Source Repository](https://git.sr.ht/~jamesaorson/ursinia)
 
-## Instructions
+## Developing
+
+### Writing Scheme template (preferred)
+
+In [`templates/`](./templates/) is a copy of the site hierarchy, containing `*.scm` files.
+
+Currently, each `*.scm` file maps `1:1` with a file of the name `*`, so `todo/index.html.scm` maps to `todo/index.html`
+
+### Writing raw HTML
+
+## Deploying
 
 To deploy the website with changes
 

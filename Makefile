@@ -13,11 +13,11 @@ deploy: ./scripts/deploy ## Does an incremental deploy/redeploy of the applicati
 	$<
 
 TEMPLATES := $(shell find templates/ -type f -name '*.scm')
-RENDERS := $(patsubst templates/%.scm,wwwroot/%.html,$(TEMPLATES))
+RENDERS := $(patsubst templates/%.scm,wwwroot/%,$(TEMPLATES))
 
 $(RENDERS): $(TEMPLATES)
 render: $(RENDERS) ## Renders the template files into their new home
-wwwroot/%.html: templates/%.scm
+wwwroot/%: templates/%.scm
 	@echo "RENDER: $< -> $@"
 	: > $@
 	guile \
