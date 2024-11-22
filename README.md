@@ -13,59 +13,100 @@ In [`templates/`](./templates/) is a copy of the site hierarchy, containing `*.s
 
 Currently, each `*.scm` file maps `1:1` with a file of the name `*`, so `todo/index.html.scm` maps to `todo/index.html`
 
+#### HTML
+
+For HTML, there is a helper library present for constructing pages.
+
+Here is an example, complete with demonstrating how to iterate over a list to generate HTML pages:
+
+```scheme
+(use-modules (scripts lib html))
+
+(render-template "Ursinia - Example"
+                 `((header (div (@ (id "header"))
+                                (span (@ (id "header-sitemap"))
+                                      (a (@ (id "header-sitemap-link")
+                                            (href "https://sitemap.ursinia.net"))
+                                         #\↤ " " (code "sitemap")))))
+                   (h1 (a (@ (id "title")
+                             (href "#title")
+                             (class "list-item-internal-link"))
+                          "Example"))
+                   (div (p "Why hello there!"))
+                   (div (ul ,(map-in-order (lambda (link)
+                                             (let ([href (car link)]
+                                                   [text (cdr link)])
+                                               `(li (a (@ (href ,href))
+                                                       ,text))))
+                                           '(["/something" . "Dude"]
+                                             ["/else" . "Oh Yeah"]
+                                             ["/why-not" . "Oh boy"]))))))
+```
+
+The resulting output is minified, but if that output is then formatted, it would look like so:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Ursinia - Example</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/x-icon" href="/shared/favicons/favicon.ico" />
+    <link rel="stylesheet" href="/shared/styles/openword-theme.css" />
+    <link rel="stylesheet" href="/styles/main.css" />
+  </head>
+  <body>
+    <header>
+      <div id="header">
+        <span id="header-sitemap"
+          ><a id="header-sitemap-link" href="https://sitemap.ursinia.net"
+            >&#8612; <code>sitemap</code></a
+          ></span
+        >
+      </div>
+    </header>
+    <h1>
+      <a id="title" href="#title" class="list-item-internal-link">Example</a>
+    </h1>
+    <div><p>Why hello there!</p></div>
+    <div>
+      <ul>
+        <li><a href="/something">Dude</a></li>
+        <li><a href="/else">Oh Yeah</a></li>
+        <li><a href="/why-not">Oh boy</a></li>
+      </ul>
+    </div>
+  </body>
+</html>
+```
+
+### Other
+
+Just print to stdout whatever you want in the file and it will render verbatim.
+
+For example:
+
+```scheme
+;; templates/todo/some.txt.scm
+(format #t "Some text file~%Idk, ~d" 5)
+```
+
+would result in `wwwroot/todo/some.txt:
+
+```plaintext
+Some text file
+Idk, 5
+```
+
 ### Writing raw HTML
+
+Write your code directly in [`wwwroot`](./wwwroot/)
 
 ## Deploying
 
-To deploy the website with changes
+### Remote Server
 
 ```shell
-ssh pi
-# Once logged in...
-cd ./git.sr.ht/jamesaorson/ursinia
-git pull
-make deploy
-exit
-```
-
-Here is a full example with output:
-
-```shell
-$ ssh ursinia
-$ cd ./git.sr.ht/jamesaorson/ursinia
-
-$ git pull
-Already up to date.
-
-$ make deploy
-Syncing website to install
-sending incremental file list
-
-sent 4.94K bytes  received 76 bytes  10.03K bytes/sec
-total size is 64.63M  speedup is 12,890.22
-sending incremental file list
-
-sent 336 bytes  received 15 bytes  702.00 bytes/sec
-total size is 9.60M  speedup is 27,359.06
-Setting up nginx config as default
-Restarting nginx
-Checking nginx
-● nginx.service - A high performance web server and a reverse proxy server
-     Loaded: loaded (/lib/systemd/system/nginx.service; enabled; preset: enabled)
-     Active: active (running) since Thu 2024-11-14 10:04:16 PST; 36ms ago
-       Docs: man:nginx(8)
-    Process: 164229 ExecStartPre=/usr/sbin/nginx -t -q -g daemon on; master_process on; (code=exited, status=0/SUCCESS)
-    Process: 164230 ExecStart=/usr/sbin/nginx -g daemon on; master_process on; (code=exited, status=0/SUCCESS)
-   Main PID: 164231 (nginx)
-      Tasks: 5 (limit: 1582)
-        CPU: 67ms
-     CGroup: /system.slice/nginx.service
-             ├─164231 "nginx: master process /usr/sbin/nginx -g daemon on; master_process on;"
-             ├─164232 "nginx: worker process"
-             ├─164233 "nginx: worker process"
-             ├─164234 "nginx: worker process"
-             └─164235 "nginx: worker process"
-
-Nov 14 10:04:16 pi systemd[1]: Starting nginx.service - A high performance web server and a reverse proxy server...
-Nov 14 10:04:16 pi systemd[1]: Started nginx.service - A high performance web server and a reverse proxy server.
+make remote-deploy
 ```
