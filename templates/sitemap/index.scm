@@ -6,15 +6,16 @@
                              (href "#title"))
                           "Sitemap"))
                    (div (ul ,(map-in-order (lambda (link)
-                                    `(li (a (@ (href ,(format #f "https://~a.ursinia.net"
-                                                              (string-downcase link))))
-                                         ,link)))
-                                  '("Home"
-                                    "Charter"
-                                    "Bible"
-                                    "Todo"
-                                    "Food"
-                                    "Papa"
-                                    "Mama"
-                                    "Sunshine"
-                                    "Harmony"))))))
+                                             `(li (a (@ (href ,(format #f "https://~a.ursinia.net"
+                                                                       (string-downcase link))))
+                                                     ,link)))
+                                           '("Home"
+                                             "Charter"
+                                             "Bible"
+                                             "Todo"
+                                             "Food"
+                                             "Papa"
+                                             "Mama"
+                                             "Sunshine"
+                                             "Harmony"))))))
+
