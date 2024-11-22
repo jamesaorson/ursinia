@@ -4,6 +4,7 @@
 
 - [Website](https://ursinia.net)
 - [Source Repository](https://git.sr.ht/~jamesaorson/ursinia)
+- [CI/CD Deployment](https://builds.sr.ht/~jamesaorson/ursinia/commits/main/deploy.yml)
 
 ## Developing
 
@@ -103,10 +104,6 @@ Idk, 5
 
 Write your code directly in [`wwwroot`](./wwwroot/)
 
-## Deploying
+## Deployment
 
-### Remote Server
-
-```shell
-make remote-deploy
-```
+This is done automatically when a push is done to the `main` branch.
