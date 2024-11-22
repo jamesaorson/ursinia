@@ -12,7 +12,7 @@
                                   (href "#title")
                                   (class "list-item-internal-link"))
                                "Recipes"))
-                        (div (ul ,(map (lambda (link)
+                        (div (ul ,(map-in-order (lambda (link)
                                                (let ([id (car link)]
                                                      [text (cdr link)])
                                                     `(li (a (@ (id ,id)

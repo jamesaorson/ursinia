@@ -24,7 +24,7 @@
                         (div
                             (h2 "Interesting Media I have come across:")
                             (ul
-                                ,(map (lambda (link)
+                                ,(map-in-order (lambda (link)
                                                (let ([href (car link)]
                                                      [text (cdr link)])
                                                     `(li (a (@ (href ,href))

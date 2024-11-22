@@ -5,7 +5,7 @@
                              (class "list-item-internal-link")
                              (href "#title"))
                           "Sitemap"))
-                   (div (ul ,(map (lambda (link)
+                   (div (ul ,(map-in-order (lambda (link)
                                     `(li (a (@ (href ,(format #f "https://~a.ursinia.net"
                                                               (string-downcase link))))
                                          ,link)))
