@@ -12,7 +12,23 @@
                            (href "#title")
                            (class "list-item-internal-link"))
                         "Recipes"))
-                   (div (ul ,(map-in-order (lambda (link)
+                   (div (h2 (a (@ (id "carnivore")
+                                  (href "#carnivore"))
+                               "Carnivore"))
+                        (ul ,(map-in-order (lambda (link)
+                                             (let ([id (car link)]
+                                                   [text (cdr link)])
+                                               `(li (a (@ (id ,id)
+                                                          (href ,(format #f "/~a" id)))
+                                                       ,text))))
+                                           '(["cheese-tortillas" . "Cheese Tortillas"]
+                                             ["chicken-burrito" . "Chicken Burrito"]
+                                             ["frozen-chicken-breast" . "[Air Fryer Hack] Frozen Chicken Breast"]
+                                             ["frozen-chicken-wings" . "[Air Fryer Hack] Frozen Chicken Wings"]))))
+                   (div (h2 (a (@ (id "omnivore")
+                                  (href "#omnivore"))
+                               "Omnivore"))
+                        (ul ,(map-in-order (lambda (link)
                                              (let ([id (car link)]
                                                    [text (cdr link)])
                                                `(li (a (@ (id ,id)
@@ -22,22 +38,32 @@
                                              ["beef-chili" . "Beef Chili"]
                                              ["biscuits" . "Biscuits"]
                                              ["candy-cane-cookies" . "Candy Cane Cookies"]
-                                             ["cashew-cheese" . "Cashew Cheese"]
-                                             ["chanterelle-sauce" . "Chanterelle Sauce"]
-                                             ["chikn-alfredo" . "Chi'k'n Alfredo"]
-                                             ["chocolate-syrup" . "Chocolate Syrup"]
                                              ["cookie-dough-balls" . "Cookie Dough Balls"]
-                                             ["french-onion-soup" . "French Onion Soup"]
-                                             ["frozen-custard" . "Frozen Custard"]
                                              ["gingerbread-cookies" . "Gingerbread Cookies"]
                                              ["instant-pot-spaghetti" . "Instant Pot Spaghetti"]
                                              ["lasagna" . "Lasagna"]
                                              ["macadamia-nut-cookies" . "Macadamia Nut Cookies"]
-                                             ["mapo-tofu" . "Mapo Tofu"]
                                              ["pbj-thumbprint-cookies" . "Peanut Butter and Jelly Thumbprint Cookies"]
                                              ["pumpkin-pie" . "Pumpkin Pie"]
+                                             ["shepherds-pie" . "Shepherd's Pie"]))))
+                   (div (h2 (a (@ (id "herbivore")
+                                  (href "#herbivore"))
+                               "Herbivore"))
+                        (ul ,(map-in-order (lambda (link)
+                                             (let ([id (car link)]
+                                                   [text (cdr link)])
+                                               `(li (a (@ (id ,id)
+                                                          (href ,(format #f "/~a" id)))
+                                                       ,text))))
+                                           '(["biscuits" . "Biscuits"]
+                                             ["cashew-cheese" . "Cashew Cheese"]
+                                             ["chanterelle-sauce" . "Chanterelle Sauce"]
+                                             ["chikn-alfredo" . "Chi'k'n Alfredo"]
+                                             ["chocolate-syrup" . "Chocolate Syrup"]
+                                             ["french-onion-soup" . "French Onion Soup"]
+                                             ["frozen-custard" . "Frozen Custard"]
+                                             ["mapo-tofu" . "Mapo Tofu"]
                                              ["roasted-artichoke" . "Roasted Artichoke"]
-                                             ["shepherds-pie" . "Shepherd's Pie"]
                                              ["spicy-fried-chicken-tofu-sandwich" . "Spicy Fried Chicken Tofu Sandwich"]
                                              ["spinach-artichoke-dip" . "Spinach Artichoke Dip"]
                                              ["st-lucia-buns" . "St. Lucia Buns"]
