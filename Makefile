@@ -19,7 +19,7 @@ REMOTE_DIR ?= ~/git.sr.ht/jamesaorson/ursinia
 remote-deploy: ./scripts/deploy ## Remotely deploys the application
 	ssh -t $(REMOTE_LOCATION) "cd $(REMOTE_DIR) && git pull && make deploy"
 
-TEMPLATES := $(shell find templates/ -type f -name '*.scm')
+TEMPLATES := $(shell find templates/ -type f -name '*.html.scm')
 RENDERS := $(patsubst templates/%.scm,wwwroot/%,$(TEMPLATES))
 
 $(RENDERS): $(TEMPLATES)

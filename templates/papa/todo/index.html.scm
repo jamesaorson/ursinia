@@ -1,5 +1,9 @@
 (use-modules (scripts lib html))
 
+(define %year% 2024)
+(define %month% "December")
+(define %month-lower% (string-downcase %month%))
+
 (render-template "Ursinia - Papa - Todo"
                  `((header
                      (div (@ (id "header"))
@@ -11,15 +15,18 @@
                      (section
                         (h2 "Daily Tasks"))
                      (section
-                        (h2 "Day to Day - December 2024")
-                        (ol (li (div (h3 (a (@ (id "december-05-2024")
-                                               (href "#december-05-2024"))
-                                            "December 5, 2024"))
-                                     (ul
-                                        (li (span (input (@ (type "checkbox"))) " Some task 2...")))))
-                            (li (div (h3 (a (@ (id "december-04-2024")
-                                               (href "#december-04-2024"))
-                                            "December 4, 2024"))
-                                     (ul
-                                        (li (span (input (@ (type "checkbox")
-                                                            (checked #t))) " Some task..."))))))))))
+                        (h2 ,(format #f "Day to Day - ~a ~d" %month% %year%))
+                        (ol ,(map-in-order (lambda (item)
+                                              (let* ([day (assoc-ref item 'day)]
+                                                     [tasks (assoc-ref item 'tasks)]
+                                                     [id-suffix (format #f "~a-~2,'0d-~d" %month-lower% day %year%)])
+                                                   `(li (div (h3 (a (@ (id ,id-suffix)
+                                                                       (href ,(format #f "#~a" id-suffix)))
+                                                                    ,(format #f "~a ~d, ~d" %month% day %year%)))
+                                                             (ul
+                                                               ,(map-in-order (lambda (task)
+                                                                                    (let ([content (assoc-ref task 'content)]
+                                                                                          [done? (assoc-ref task 'done?)])
+                                                                                     `(li (span (input (@ (type "checkbox"))) ,(format #f " ~a" content)))))
+                                                                             tasks))))))
+                                           (load ".data/tasks.scm")))))))
