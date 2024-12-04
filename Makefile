@@ -26,8 +26,9 @@ $(RENDERS): $(TEMPLATES)
 render: $(RENDERS) ## Renders the template files into their new home
 wwwroot/%: templates/%.scm
 	@echo "RENDER: $< -> $@"
-	: > $@
-	guile \
+	@mkdir -p $$(dirname $@)
+	@: > $@
+	@guile \
 		-L ${PWD} \
 		-s $< >> $@
 
