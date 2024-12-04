@@ -4,7 +4,7 @@
                  `((header
                      (div (@ (id "header"))
                           (span (@ (id "header-sitemap"))
-                                (a (@ (id "header-sitemap-link")
+                                (a (@ (id "header-back-link")
                                       (href "https://sitemap.ursinia.net"))
                                    #\↤ " " (code "sitemap")))))
                    (div
