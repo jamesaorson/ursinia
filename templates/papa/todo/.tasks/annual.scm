@@ -1,5 +1,9 @@
-'(([day . 5]
-   [tasks . (([content . "Annual task 1..."]
-              [done? . #t])
-              ([content . "Annual task 2..."]
-              [done? . #t]))]))
+'([title "Year to Year"]
+  [tasks . (
+   ([content . "File tax return"]
+    [done? . #f])
+   ([content . "Renew Subaru registration"]
+    [done? . #t])
+   ([content . "Renew van registration"]
+    [done? . #t])
+)])

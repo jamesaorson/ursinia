@@ -1,5 +1,7 @@
-'(([day . 5]
-   [tasks . (([content . "Monthly task 1..."]
-              [done? . #t])
-              ([content . "Monthly task 2..."]
-              [done? . #t]))]))
+'([title "Month to Month"]
+  [tasks . (
+   ([content . "Check car fluids"]
+    [done? . #f])
+   ([content . "Replace home filter"]
+    [done? . #f])
+)])
