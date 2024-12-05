@@ -17,7 +17,7 @@
                                  `((type "checkbox")))))
                                  ,(format #f " ~a" content)))))
 
-   `(ul  (@ (style "list-style-type: none;"))
+   `(ul (@ (style "list-style-type: none;"))
         (li (div (ul (@ (style "list-style-type: none;"))
                      ,(map-in-order -task-list-item
                                     tasks))))))
@@ -32,9 +32,11 @@
             ,(-task-list tasks))))
 
 (define daily-task-list
-   (let ([task-definitions (load-tasks-by-id "daily")])
+   (let* ([id "daily"]
+          [task-definitions (load-tasks-by-id id)])
    `(section
-      (h2 "Day to Day")
+      (h2 (@ (id ,id))
+          (a (@ (href ,(format #f "#~a" id))) "Day to Day"))
       (ol (@ (style "list-style-type: none;"))
           ,(map-in-order (lambda (task-definition)
                               (let* ([day (assoc-ref task-definition 'day)]
