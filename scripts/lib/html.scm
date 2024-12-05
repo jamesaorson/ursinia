@@ -3,6 +3,12 @@
 
 (use-modules (scripts lib sxml html))
 
+(define-public (bool->string x)
+  (if x "true" "false"))
+
+(define-public (string->bool x)
+  (string=? x "true"))
+
 (define (html-page-template title head body lang)
   `((doctype "html")
     (html (@ (lang ,lang))
