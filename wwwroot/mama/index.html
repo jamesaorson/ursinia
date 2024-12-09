@@ -6,7 +6,10 @@
   <title>Mama</title>
   <link rel="icon" type="image/x-icon" href="/shared/favicons/favicon.ico">
   <link rel="stylesheet" href="/shared/styles/openword-theme.css">
-  <link rel="stylesheet" href="/styles/main.css">
+  <!-- IMPORTANT: Using "styles" instead of "/styles" is to aid you with Five Server.\
+   They mean different things, but that is okay at this root level. In nested pages,
+   be explicit about the path by using the /-prefixed path.  -->
+  <link rel="stylesheet" href="styles/main.css">
 </head>
 
 <body>
@@ -31,7 +34,7 @@
       TODO: create a childbirth education system based on the basic questions
       <div>
         <h2>Dream Birth Exercise</h2>
-        <ul style="list-style-type: '- ';">
+        <ul class="dash-list">
           <li>Who? (birth team)</li>
           <li>What? (expectations of sensation, emotion, process)</li>
           <li>When? (pre/post dates, time of day for labor and birth) </li>
