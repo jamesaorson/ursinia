@@ -15,8 +15,7 @@
                                  `((type "checkbox")
                                     (checked ,(bool->string done?)))
                                  `((type "checkbox")))))
-                                 ,(format #f " ~a" content)))))
-
+                                 ,content))))
    `(ul (@ (style "list-style-type: none;"))
         (li (div (ul (@ (style "list-style-type: none;"))
                      ,(map-in-order -task-list-item
