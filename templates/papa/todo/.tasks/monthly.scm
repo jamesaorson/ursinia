@@ -1,4 +1,4 @@
-'([title "Month to Month"]
+'([title . "Month to Month"]
   [tasks . (
    ([content . "Check Subaru fluids"]
     [done? . #f])

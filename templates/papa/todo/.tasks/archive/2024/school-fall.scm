@@ -1,4 +1,4 @@
-'([title "School/Master's Program in Computer Science: Fall 2024"]
+'([title . "School/Master's Program in Computer Science: Fall 2024"]
   [tasks . (
       ([content . "HCI: Distribute surveys"]
        [done? . #t])

@@ -1,4 +1,4 @@
-'([title "Ongoing"]
+'([title . "Ongoing"]
   [tasks . (
       ([content . "Clean up the tile in the bathroom - add pencil liner tile, re-grout some spots"]
        [done? . #f])

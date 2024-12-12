@@ -1,4 +1,4 @@
-'([title "School/Master's Program in Computer Science: Spring 2025"]
+'([title . "School/Master's Program in Computer Science: Spring 2025"]
   [tasks . (
       ([content . (span "Registration: Create class plan on the "
                         (a (@ (href "https://omscscourseplanner.com"))

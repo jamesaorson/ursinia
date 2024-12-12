@@ -1,4 +1,4 @@
-'([title "Year to Year"]
+'([title . "Year to Year"]
   [tasks . (
    ([content . "File tax return"]
     [done? . #f])
