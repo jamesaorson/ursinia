@@ -1,15 +1,15 @@
-'([title "School/Master's Program in Computer Science"]
+'([title "School/Master's Program in Computer Science: Spring 2025"]
   [tasks . (
-      ([content . (span "Spring 2025: Create class plan on the "
+      ([content . (span "Registration: Create class plan on the "
                         (a (@ (href "https://omscscourseplanner.com"))
                            "OMSCS Planner"))]
-       [done? . #f])
-      ([content . "HCI: Distribute surveys"]
        [done? . #t])
-      ([content . "HCI: Deliver final project (Due: December 9th, 2024)"]
+      ([content . (span "Registration: Register on "
+                        (a (@ (href "https://oscar.gatech.edu"))
+                           "OSCAR"))]
        [done? . #t])
-      ([content . "HPCA: Study for final"]
-       [done? . #t])
-      ([content . "HPCA: Take final (Due: December 9th, 2024)"]
+      ([content . (span "Registration: Pay tuition and fees on the "
+                        (a (@ (href "https://bursar.gatech.edu"))
+                           "Bursar page"))]
        [done? . #t])
 )])
