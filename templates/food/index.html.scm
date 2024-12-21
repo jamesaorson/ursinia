@@ -54,6 +54,7 @@
                                        ["french-onion-soup" . "French Onion Soup"]
                                        ["frozen-custard" . "Frozen Custard"]
                                        ["mapo-tofu" . "Mapo Tofu"]
+                                       ["red-cabbage" . "Red Cabbage"]
                                        ["roasted-artichoke" . "Roasted Artichoke"]
                                        ["spicy-fried-chicken-tofu-sandwich" . "Spicy Fried Chicken Tofu Sandwich"]
                                        ["spinach-artichoke-dip" . "Spinach Artichoke Dip"]
