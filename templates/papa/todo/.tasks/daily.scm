@@ -1,4 +1,17 @@
 '(
+   ([day . 28]
+    [tasks . (
+       ([content . "Empty litter boxes"]
+        [done? . #t])
+       ([content . "Sweep floors"]
+        [done? . #f])
+       ([content . "Trade crypto"]
+        [done? . #t])
+       ([content . "Trade stocks"]
+        [done? . #t])
+       ([content . "Workout (skipping, sick)"]
+        [done? . #f])
+   )])
    ([day . 12]
     [tasks . (
        ([content . "Empty litter boxes"]
@@ -10,7 +23,7 @@
        ([content . "Trade stocks"]
         [done? . #t])
        ([content . "Workout"]
-        [done? . #f])
+        [done? . #t])
    )])
    ([day . 11]
     [tasks . (
