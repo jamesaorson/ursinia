@@ -23,6 +23,7 @@ TEMPLATES := $(shell find templates/ -type f -not -path '*/.*' -name '*.scm')
 RENDERS := $(patsubst templates/%.scm,wwwroot/%,$(TEMPLATES))
 
 $(RENDERS): $(TEMPLATES)
+.PHONY: render
 render: $(RENDERS) ## Renders the template files into their new home
 wwwroot/%: templates/%.scm
 	@echo "RENDER: $< -> $@"
