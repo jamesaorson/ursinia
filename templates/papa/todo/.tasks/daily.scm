@@ -4,20 +4,20 @@
        ([content . "Empty litter boxes"]
         [done? . #t])
        ([content . "Sweep floors"]
-        [done? . #f])
+        [done? . #t])
        ([content . "Trade crypto"]
         [done? . #t])
        ([content . "Trade stocks"]
         [done? . #t])
        ([content . "Workout (skipping, sick)"]
-        [done? . #f])
+        [done? . #t])
    )])
    ([day . 12]
     [tasks . (
        ([content . "Empty litter boxes"]
-        [done? . #f])
+        [done? . #t])
        ([content . "Sweep floors"]
-        [done? . #f])
+        [done? . #t])
        ([content . "Trade crypto"]
         [done? . #t])
        ([content . "Trade stocks"]
