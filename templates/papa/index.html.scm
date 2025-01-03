@@ -20,8 +20,10 @@
                      (img (@ (src "/shared/images/papa-bear.png")
                              (alt "Imposing Father Bear in Dramatic Mountain Landscape: An imposing father bear in a more rugged and dramatic mountain landscape. The terrain is harsher, with larger rocks and dramatic cliffs. The bear is mightier, with darker, more defined fur and a more powerful stance. His gaze is intensely protective, surveying the vast landscape under a stormy sky, adding to the wild, untamed nature of the scene."))))
                    (div
-                     (h2 "Maybe a " (a (@ (href "/blog"))
+                     (h2 "My " (a (@ (href "/blog"))
                                        "blog"))
+                     (h2 "My " (a (@ (href "/devlog"))
+                                       "devlog"))
                      (div
                        (h2 "Check out " (a (@ (href "/theology"))
                                            "what I believe")))
