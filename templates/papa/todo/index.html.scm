@@ -55,8 +55,9 @@
                                       (href "https://papa.ursinia.net"))
                                    #\↤ " " (code "papa")))))
                    (main (@ (style "padding-bottom: 1rem;"))
-                     ,(task-list "school")
                      ,daily-task-list
+                     ,(task-list "school/geopolitics-of-cybersecurity")
+                     ,(task-list "school/intro-to-os")
                      ,(task-list "weekly")
                      ,(task-list "monthly")
                      ,(task-list "annual")
