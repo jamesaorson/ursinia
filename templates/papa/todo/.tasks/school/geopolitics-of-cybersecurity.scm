@@ -15,8 +15,8 @@
   (-render-module
     1
     "https://gatech.instructure.com/courses/442358/pages/module-1-instructor-video-content?module_item_id=4505530"
-    `(1 2 3 4 5 6 7)
-    `(8)))
+    `(1 2 3 4 5 6 7 8)
+    `()))
 
 `([title . "Geopolitics of Cybersecurity: Spring 2025"]
   [tasks . [
