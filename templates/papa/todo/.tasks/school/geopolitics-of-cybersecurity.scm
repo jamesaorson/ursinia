@@ -12,7 +12,7 @@
                           "/"
                           (a (@ (href ,href))
                              ,name)
-                          ,(format #f " (Due: ~s)" date))]
+                          ,(format #f " (Due: ~a)" date))]
          [done? . ,done?])))
 
 (define (-render-module module-number module-url completed-videos todo-videos completed-assignments todo-assignments)
