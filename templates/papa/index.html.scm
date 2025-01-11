@@ -27,13 +27,11 @@
                        (h2 "Check out " (a (@ (href "theology"))
                                            "what I believe")))
                      (div
-                       (h2 "Interesting Media I have come across:")
+                       (h2 "My library of content:")
                        (ul
                          ,(map-in-order (lambda (link)
                                           (let ([href (car link)]
                                                 [text (cdr link)])
                                             `(li (a (@ (href ,href))
                                                     ,text))))
-                                        '(["books" . "Books"]
-                                          ["readings" . "Readings"]
-                                          ["links" . "Links"])))))))
+                                        '(["readings" . "Reading Library"])))))))
