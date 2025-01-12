@@ -37,10 +37,14 @@
     `()
     `(["Assignment 1 - Perusall Readings"
        "February 2, 2025"
-       "https://gatech.instructure.com/courses/442358/assignments/1888008?module_item_id=4505534"])
+       "https://gatech.instructure.com/courses/442358/assignments/1888008?module_item_id=4505534"]
+       ["Group Project - Join a group"
+       "February 2, 2025"
+       "https://gatech.instructure.com/groups/460332"]
+    )
     `(["Discussion 1"
        "February 2, 2025"
-       "https://gatech.instructure.com/courses/442358/discussion_topics/1953103?module_item_id=4505536"]
+       "https://docs.google.com/document/d/1jIpXJOfysjIkS8WeP2FK1dFt_ihotMUmUobew8N4Dys/edit?usp=sharing"]
       ["Assignment 2 - Group Project - Case Overview 1 - Part 1"
        "February 2, 2025"
        "https://gatech.instructure.com/courses/442358/assignments/1888010?module_item_id=4505538"])))
