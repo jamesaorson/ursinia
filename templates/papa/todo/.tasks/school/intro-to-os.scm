@@ -21,9 +21,9 @@
           ["P1L1: Course Overview" "January 13, 2025"]
           ["P1L2: Introduction to Operating Systems" "January 13, 2025"]
           ["P2L1: Processes and Process Management" "January 20, 2025"]
+          ["[Project 0] Setup lab environment" "January 13, 2025"]
         )
         `(
-          ["[Project 0] Setup lab environment" "January 13, 2025"]
           ["P2L2: Threads and Concurrency" "January 27, 2025"]
           ["P2L3: Threads Case Study: PThreads" "February 3, 2025"]
           ["[Project 1]" "February 9, 2025"]
