@@ -42,9 +42,12 @@
        "February 2, 2025"
        "https://gatech.instructure.com/groups/460332"]
     )
-    `(["Discussion 1"
-       "February 2, 2025"
+    `(["Discussion 1 - Initial post"
+       "January 18, 2025"
        "https://docs.google.com/document/d/1jIpXJOfysjIkS8WeP2FK1dFt_ihotMUmUobew8N4Dys/edit?usp=sharing"]
+      ["Discussion 1 - Discuss with peers"
+       "February 2, 2025"
+       "https://gatech.instructure.com/courses/442358/discussion_topics/1953103?module_item_id=4505536"]
       ["Assignment 2 - Group Project - Case Overview 1 - Part 1"
        "February 2, 2025"
        "https://gatech.instructure.com/courses/442358/assignments/1888010?module_item_id=4505538"])))
