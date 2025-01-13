@@ -18,15 +18,21 @@
   [tasks . [
     ,@(-render
         `(
-          ["P1L1: Course Overview" "January 13, 2025"]
-          ["P1L2: Introduction to Operating Systems" "January 13, 2025"]
-          ["P2L1: Processes and Process Management" "January 20, 2025"]
+          ["P1L1: Course Overview" "January 10, 2025"]
+          ["P1L2: Introduction to Operating Systems" "January 10, 2025"]
+          ["P2L1: Processes and Process Management" "January 13, 2025"]
           ["[Project 0] Setup lab environment" "January 13, 2025"]
         )
         `(
-          ["P2L2: Threads and Concurrency" "January 27, 2025"]
-          ["P2L3: Threads Case Study: PThreads" "February 3, 2025"]
-          ["[Project 1]" "February 9, 2025"]
+          ["P2L2: Threads and Concurrency" "January 13, 2025"]
+          ["P2L3: Threads Case Study: PThreads" "January 13, 2025"]
+          [(span "[Project 1/Warmup] " (a (@ (href "https://gatech.instructure.com/courses/431938/assignments/1959414")) "echo")) "January 19, 2025"]
+          [(span "[Project 1/Warmup] " (a (@ (href "https://gatech.instructure.com/courses/431938/assignments/1959416")) "transfer file")) "January 19, 2025"]
+          [(span "[Project 1/Part 1] " (a (@ (href "https://gatech.instructure.com/courses/431938/assignments/1959418")) "gfclient")) "January 26, 2025"]
+          [(span "[Project 1/Part 1] " (a (@ (href "https://gatech.instructure.com/courses/431938/assignments/1959420")) "gfserver")) "January 26, 2025"]
+          [(span "[Project 1/Part 2] " (a (@ (href "https://gatech.instructure.com/courses/431938/assignments/1959422")) "multi-threaded gfclient")) "February 9, 2025"]
+          [(span "[Project 1/Part 2] " (a (@ (href "https://gatech.instructure.com/courses/431938/assignments/1959424")) "multi-threaded gfserver")) "February 9, 2025"]
+          [(span (a (@ (href "https://gatech.instructure.com/courses/431938/assignments/1959412")) "[Project 1/README]")) "February 9, 2025"]
           ["P2L4: Thread Design Considerations" "February 10, 2025"]
           ["P2L5: Thread Performance Considerations" "February 17, 2025"]
           ["[Midterm] Sample Questions" "February 20, 2025"]
