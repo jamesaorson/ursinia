@@ -48,7 +48,7 @@
       ["Discussion 1 - Discuss with peers"
        "February 2, 2025"
        "https://gatech.instructure.com/courses/442358/discussion_topics/1953103?module_item_id=4505536"]
-      ["Assignment 2 - Group Project - Case Overview 1 - Part 1"
+      ["Assignment 2 - Group Project, Part 1: Case Overview"
        "February 2, 2025"
        "https://gatech.instructure.com/courses/442358/assignments/1888010?module_item_id=4505538"])))
 
