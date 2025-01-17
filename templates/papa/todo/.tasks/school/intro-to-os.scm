@@ -22,12 +22,12 @@
           ["P1L2: Introduction to Operating Systems" "January 10, 2025"]
           ["P2L1: Processes and Process Management" "January 13, 2025"]
           ["[Project 0] Setup lab environment" "January 13, 2025"]
+          [(span "[Project 1/Warmup] " (a (@ (href "https://gatech.instructure.com/courses/431938/assignments/1959414")) "echo")) "January 19, 2025"]
+          [(span "[Project 1/Warmup] " (a (@ (href "https://gatech.instructure.com/courses/431938/assignments/1959416")) "transfer file")) "January 19, 2025"]
         )
         `(
           ["P2L2: Threads and Concurrency" "January 13, 2025"]
           ["P2L3: Threads Case Study: PThreads" "January 13, 2025"]
-          [(span "[Project 1/Warmup] " (a (@ (href "https://gatech.instructure.com/courses/431938/assignments/1959414")) "echo")) "January 19, 2025"]
-          [(span "[Project 1/Warmup] " (a (@ (href "https://gatech.instructure.com/courses/431938/assignments/1959416")) "transfer file")) "January 19, 2025"]
           [(span "[Project 1/Part 1] " (a (@ (href "https://gatech.instructure.com/courses/431938/assignments/1959418")) "gfclient")) "January 26, 2025"]
           [(span "[Project 1/Part 1] " (a (@ (href "https://gatech.instructure.com/courses/431938/assignments/1959420")) "gfserver")) "January 26, 2025"]
           [(span "[Project 1/Part 2] " (a (@ (href "https://gatech.instructure.com/courses/431938/assignments/1959422")) "multi-threaded gfclient")) "February 9, 2025"]
