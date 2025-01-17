@@ -14,41 +14,44 @@
                            (-render-section section #f))
                     todo)))
 
+(define (-render-assignment title href date)
+  `[(span (a (@ (href ,href)) ,title)) ,date])
+
 `([title . "Spring 2025 - Intro to Operating Systems"]
   [tasks . [
     ,@(-render
         `(
-          ["P1L1: Course Overview" "January 10, 2025"]
-          ["P1L2: Introduction to Operating Systems" "January 10, 2025"]
-          ["P2L1: Processes and Process Management" "January 13, 2025"]
+          ,(-render-assignment "P1L1: Course Overview" "https://gatech.instructure.com/courses/431938/assignments/1959414" "January 10, 2025")
+          ,(-render-assignment "P1L2: Introduction to Operating Systems" "https://gatech.instructure.com/courses/431938/assignments/1959414" "January 10, 2025")
+          ,(-render-assignment "P2L1: Processes and Process Management" "https://gatech.instructure.com/courses/431938/pages/p2l1-processes-and-process-management?module_item_id=4686676" "January 13, 2025")
           ["[Project 0] Setup lab environment" "January 13, 2025"]
-          [(span "[Project 1/Warmup] " (a (@ (href "https://gatech.instructure.com/courses/431938/assignments/1959414")) "echo")) "January 19, 2025"]
-          [(span "[Project 1/Warmup] " (a (@ (href "https://gatech.instructure.com/courses/431938/assignments/1959416")) "transfer file")) "January 19, 2025"]
+          ,(-render-assignment "[Project 1/Warmup] echo" "https://gatech.instructure.com/courses/431938/assignments/1959414" "January 19, 2025")
+          ,(-render-assignment "[Project 1/Warmup] transfer file" "https://gatech.instructure.com/courses/431938/assignments/1959416" "January 19, 2025")
+          ,(-render-assignment "P2L2: Threads and Concurrency" "https://gatech.instructure.com/courses/431938/pages/p2l2-threads-and-concurrency-playlist" "January 13, 2025")
         )
         `(
-          ["P2L2: Threads and Concurrency" "January 13, 2025"]
-          ["P2L3: Threads Case Study: PThreads" "January 13, 2025"]
-          [(span "[Project 1/Part 1] " (a (@ (href "https://gatech.instructure.com/courses/431938/assignments/1959418")) "gfclient")) "January 26, 2025"]
-          [(span "[Project 1/Part 1] " (a (@ (href "https://gatech.instructure.com/courses/431938/assignments/1959420")) "gfserver")) "January 26, 2025"]
-          [(span "[Project 1/Part 2] " (a (@ (href "https://gatech.instructure.com/courses/431938/assignments/1959422")) "multi-threaded gfclient")) "February 9, 2025"]
-          [(span "[Project 1/Part 2] " (a (@ (href "https://gatech.instructure.com/courses/431938/assignments/1959424")) "multi-threaded gfserver")) "February 9, 2025"]
-          [(span (a (@ (href "https://gatech.instructure.com/courses/431938/assignments/1959412")) "[Project 1/README]")) "February 9, 2025"]
-          ["P2L4: Thread Design Considerations" "February 10, 2025"]
-          ["P2L5: Thread Performance Considerations" "February 17, 2025"]
+          ,(-render-assignment "P2L3: Threads Case Study: PThreads" "https://gatech.instructure.com/courses/431938/pages/p2l3-threads-case-study-pthreads-playlist" "January 13, 2025")
+          ,(-render-assignment "[Project 1/Part 1] gfclient" "https://gatech.instructure.com/courses/431938/assignments/1959418" "January 26, 2025")
+          ,(-render-assignment "[Project 1/Part 1] gfserver" "https://gatech.instructure.com/courses/431938/assignments/1959420" "January 26, 2025")
+          ,(-render-assignment "[Project 1/Part 2] multi-threaded gfclient" "https://gatech.instructure.com/courses/431938/assignments/1959418" "February 9, 2025")
+          ,(-render-assignment "[Project 1/Part 2] multi-threaded gfserver" "https://gatech.instructure.com/courses/431938/assignments/1959420" "February 9, 2025")
+          ,(-render-assignment "[Project 1/README]" "https://gatech.instructure.com/courses/431938/assignments/1959412" "February 9, 2025")
+          ,(-render-assignment "P2L4: Thread Design Considerations" "https://gatech.instructure.com/courses/431938/pages/p2l4-thread-design-considerations-playlist" "February 10, 2025")
+          ,(-render-assignment "P2L5: Thread Performance Considerations" "https://gatech.instructure.com/courses/431938/pages/p2l5-thread-performance-considerations-playlist" "February 17, 2025")
           ["[Midterm] Sample Questions" "February 20, 2025"]
           ["[Midterm] Exam" "February 20-24, 2025"]
-          ["P3L1: Scheduling" "February 24, 2025"]
-          ["P3L2: Memory Management" "March 3, 2025"]
-          ["P3L3: Inter-Process Communication" "March 3, 2025"]
-          ["P3L4: Synchronization Constructs" "March 10, 2025"]
-          ["P3L5: I/O Management" "March 17, 2025"]
+          ,(-render-assignment "P3L1: Scheduling" "https://gatech.instructure.com/courses/431938/pages/p3l1-scheduling-playlist" "February 24, 2025")
+          ,(-render-assignment "P3L2: Memory Management" "https://gatech.instructure.com/courses/431938/pages/p3l2-memory-management-playlist" "March 3, 2025")
+          ,(-render-assignment "P3L3: Inter-Process Communication" "https://gatech.instructure.com/courses/431938/pages/p3l3-inter-process-communication-playlist" "March 3, 2025")
+          ,(-render-assignment "P3L4: Synchronization Constructs" "https://gatech.instructure.com/courses/431938/pages/p3l4-synchronization-constructs-playlist" "March 10, 2025")
+          ,(-render-assignment "P3L5: I/O Management" "https://gatech.instructure.com/courses/431938/pages/p3l5-i-slash-o-management-playlist" "March 17, 2025")
           ["[Project 3] there is no project 2" "March 24, 2025"]
-          ["P3L6: Virtualization" "March 31, 2025"]
-          ["P4L1: Remote Procedure Calls" "April 7, 2025"]
-          ["P4L2: Distributed File Systems" "April 14, 2025"]
-          ["P4L3: Distributed Shared Memory" "April 20, 2025"]
+          ,(-render-assignment "P3L6: Virtualization" "https://gatech.instructure.com/courses/431938/pages/p3l6-virtualization-playlist" "March 31, 2025")
+          ,(-render-assignment "P4L1: Remote Procedure Calls" "https://gatech.instructure.com/courses/431938/pages/p4l1-remote-procedure-calls-playlist" "April 7, 2025")
+          ,(-render-assignment "P4L2: Distributed File Systems" "https://gatech.instructure.com/courses/431938/pages/p4l2-distributed-file-systems-playlist" "April 14, 2025")
+          ,(-render-assignment "P4L3: Distributed Shared Memory" "https://gatech.instructure.com/courses/431938/pages/p4l3-distributed-shared-memory-playlist" "April 20, 2025")
           ["[Project 4]" "April 20, 2025"]
-          ["P4L4: Datacenter Technologies" "April 24, 2025"]
+          ,(-render-assignment "P4L4: Datacenter Technologies" "https://gatech.instructure.com/courses/431938/pages/p4l4-datacenter-technologies-playlist" "April 24, 2025")
           ["[Final] Sample Questions" "April 24, 2025"]
           ["[Final] Exam" "April 24-29, 2025"]
         ))]])
