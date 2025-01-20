@@ -28,9 +28,9 @@
           ,(-render-assignment "[Project 1/Warmup] echo" "https://gatech.instructure.com/courses/431938/assignments/1959414" "January 19, 2025")
           ,(-render-assignment "[Project 1/Warmup] transfer file" "https://gatech.instructure.com/courses/431938/assignments/1959416" "January 19, 2025")
           ,(-render-assignment "P2L2: Threads and Concurrency" "https://gatech.instructure.com/courses/431938/pages/p2l2-threads-and-concurrency-playlist" "January 13, 2025")
+          ,(-render-assignment "P2L3: Threads Case Study: PThreads" "https://gatech.instructure.com/courses/431938/pages/p2l3-threads-case-study-pthreads-playlist" "January 13, 2025")
         )
         `(
-          ,(-render-assignment "P2L3: Threads Case Study: PThreads" "https://gatech.instructure.com/courses/431938/pages/p2l3-threads-case-study-pthreads-playlist" "January 13, 2025")
           ,(-render-assignment "[Project 1/Part 1] gfclient" "https://gatech.instructure.com/courses/431938/assignments/1959418" "January 26, 2025")
           ,(-render-assignment "[Project 1/Part 1] gfserver" "https://gatech.instructure.com/courses/431938/assignments/1959420" "January 26, 2025")
           ,(-render-assignment "[Project 1/Part 2] multi-threaded gfclient" "https://gatech.instructure.com/courses/431938/assignments/1959418" "February 9, 2025")

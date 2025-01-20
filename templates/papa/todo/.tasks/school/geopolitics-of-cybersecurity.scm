@@ -38,17 +38,17 @@
     `(["Assignment 1 - Perusall Readings"
        "February 2, 2025"
        "https://gatech.instructure.com/courses/442358/assignments/1888008?module_item_id=4505534"]
-       ["Group Project - Join a group"
+      ["Group Project - Join a group"
        "February 2, 2025"
        "https://gatech.instructure.com/groups/460332"]
-    )
-    `(["Discussion 1 - Initial post"
+      ["Discussion 1 - Initial post"
        "January 18, 2025"
        "https://docs.google.com/document/d/1jIpXJOfysjIkS8WeP2FK1dFt_ihotMUmUobew8N4Dys/edit?usp=sharing"]
       ["Discussion 1 - Discuss with peers"
        "February 2, 2025"
        "https://gatech.instructure.com/courses/442358/discussion_topics/1953103?module_item_id=4505536"]
-      ["Assignment 2 - Group Project, Part 1: Case Overview"
+    )
+    `(["Assignment 2 - Group Project, Part 1: Case Overview"
        "February 2, 2025"
        "https://gatech.instructure.com/courses/442358/assignments/1888010?module_item_id=4505538"])))
 
