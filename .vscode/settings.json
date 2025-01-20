@@ -1,0 +1,15 @@
+{
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features",
+        "editor.unicodeHighlight.nonBasicASCII": true,
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features",
+        "editor.unicodeHighlight.nonBasicASCII": true,
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features",
+        "editor.unicodeHighlight.nonBasicASCII": true,
+    },
+    "editor.formatOnSave": true,
+}
