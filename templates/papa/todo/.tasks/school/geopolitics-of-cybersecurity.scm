@@ -48,7 +48,10 @@
        "February 2, 2025"
        "https://gatech.instructure.com/courses/442358/discussion_topics/1953103?module_item_id=4505536"]
     )
-    `(["Assignment 2 - Group Project, Part 1: Case Overview"
+    `(["Assignment 2 - Group Project, Part 1: Case Overview - Provide a set of comparisons and an outline"
+       "January 28, 2025"
+       "https://gatech.instructure.com/courses/442358/assignments/1888010?module_item_id=4505538"]
+      ["Assignment 2 - Group Project, Part 1: Case Overview"
        "February 2, 2025"
        "https://gatech.instructure.com/courses/442358/assignments/1888010?module_item_id=4505538"])))
 
