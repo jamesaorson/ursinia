@@ -1,5 +1,7 @@
 '([title . "This year"]
   [tasks . (
+   ([content . "Get Harmony a passport"]
+    [done? . #f])
    ([content . "File tax return"]
     [done? . #f])
    ([content . "Renew Subaru registration"]

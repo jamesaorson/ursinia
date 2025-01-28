@@ -2,9 +2,9 @@
    ([day . 21]
     [tasks . (
        ([content . "Empty litter boxes"]
-        [done? . #f])
+        [done? . #t])
        ([content . "Sweep floors"]
-        [done? . #f])
+        [done? . #t])
        ([content . "Trade crypto"]
         [done? . #t])
        ([content . "Trade stocks"]
