@@ -28,7 +28,7 @@ server {
 
 server {
     server_name jamesaorson.net jamesorson.net;
-    return 301 https://papa.ursinia.net/$request_uri;
+    return 301 https://papa.ursinia.net$request_uri;
 }
 
 server {
