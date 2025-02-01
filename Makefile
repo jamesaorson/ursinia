@@ -1,6 +1,6 @@
 SHELL := /bin/bash
 .SHELLFLAGS = -e -c
-.DEFAULT_GOAL := help
+.DEFAULT_GOAL := render
 .ONESHELL:
 
 NO_GENERATE_TEMPLATES ?= 0
@@ -19,13 +19,12 @@ REMOTE_DIR ?= ~/git.sr.ht/jamesaorson/ursinia
 remote-deploy: ./scripts/deploy ## Remotely deploys the application
 	ssh -t $(REMOTE_LOCATION) "cd $(REMOTE_DIR) && git pull && make deploy"
 
-TEMPLATES := $(shell find templates/ -type f -not -path '*/.*' -name '*.scm')
-RENDERS := $(patsubst templates/%.scm,wwwroot/%,$(TEMPLATES))
+TEMPLATES := $(shell find templates/ -type f -not -path '*/.*' -name '*.html.scm')
+RENDERS := $(patsubst templates/%.html.scm,wwwroot/%.html,$(TEMPLATES))
 
-$(RENDERS): $(TEMPLATES)
 .PHONY: render
 render: $(RENDERS) ## Renders the template files into their new home
-wwwroot/%: templates/%.scm
+wwwroot/%.html: templates/%.html.scm 
 	@echo "RENDER: $< -> $@"
 	@mkdir -p $$(dirname $@)
 	@: > $@
