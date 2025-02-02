@@ -18,8 +18,10 @@
                                  ,content))))
    `(ul (@ (style "list-style-type: none;"))
         (li (div (ul (@ (style "list-style-type: none;"))
-                     ,(map-in-order -task-list-item
-                                    tasks))))))
+                     ,(if (null? tasks)
+                        '(li "No tasks")
+                        (map-in-order -task-list-item
+                                    tasks)))))))
 
 (define (task-list id)
    (let* ([task-definition (load-tasks-by-id id)]
@@ -37,7 +39,9 @@
       (h2 (@ (id ,id))
           (a (@ (href ,(format #f "#~a" id))) "Day to Day"))
       (ol (@ (style "list-style-type: none;"))
-          ,(map-in-order (lambda (task-definition)
+          ,(if (null? task-definitions)
+              '(li "No tasks defined.")
+              (map-in-order (lambda (task-definition)
                               (let* ([day (assoc-ref task-definition 'day)]
                                      [tasks (assoc-ref task-definition 'tasks)]
                                      [id-suffix (format #f "~a-~2,'0d-~d" %month-lower% day %year%)])
@@ -45,7 +49,7 @@
                                                       (href ,(format #f "#~a" id-suffix)))
                                                    ,(format #f "~a ~d, ~d" %month% day %year%)))
                                               ,(-task-list tasks)))))
-                         task-definitions)))))
+                         task-definitions))))))
 
 (render-template "Ursinia - Papa - Todo"
                  `((header
@@ -55,10 +59,12 @@
                                       (href "https://papa.ursinia.net"))
                                    #\↤ " " (code "papa")))))
                    (main (@ (style "padding-bottom: 1rem;"))
-                     ,(task-list "school/geopolitics-of-cybersecurity")
-                     ,(task-list "school/intro-to-os")
-                     ,daily-task-list
-                     ,(task-list "weekly")
-                     ,(task-list "monthly")
-                     ,(task-list "annual")
-                     ,(task-list "ongoing"))))
+                     (div (@ (style "float: left"))
+                        ,daily-task-list
+                        ,(task-list "weekly"))
+                     (div (@ (style "float: right"))
+                        ,(task-list "school/geopolitics-of-cybersecurity")
+                        ,(task-list "school/intro-to-os")
+                        ,(task-list "monthly")
+                        ,(task-list "annual")
+                        ,(task-list "ongoing")))))
