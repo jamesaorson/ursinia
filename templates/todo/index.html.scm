@@ -11,4 +11,3 @@
                      (h2 (@ (id "renovation"))
                          (a (@ (href "#renovation"))
                             "Undergoing renovation")))))
-
