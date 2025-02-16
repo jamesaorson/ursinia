@@ -33,7 +33,7 @@
   (-render-module
     1
     "https://gatech.instructure.com/courses/442358/pages/module-1-instructor-video-content?module_item_id=4505530"
-    `(1 2 3 4 5 6 7 8)
+    `()
     `()
     `(["Assignment 1 - Perusall Readings"
        "February 2, 2025"
@@ -50,12 +50,35 @@
       ["Assignment 2 - Group Project, Part 1: Case Overview - Provide a set of comparisons and an outline"
        "January 28, 2025"
        "https://gatech.instructure.com/courses/442358/assignments/1888010?module_item_id=4505538"]
-    )
-    `(["Assignment 2 - Group Project, Part 1: Case Overview"
+      ["Assignment 2 - Group Project, Part 1: Case Overview"
        "February 2, 2025"
-       "https://gatech.instructure.com/courses/442358/assignments/1888010?module_item_id=4505538"])))
+       "https://gatech.instructure.com/courses/442358/assignments/1888010?module_item_id=4505538"]
+    )
+    `()))
+
+(define (module-2)
+  (-render-module
+    2
+    "https://gatech.instructure.com/courses/442358/pages/module-2-instructor-video-content?module_item_id=4505552"
+    `()
+    `()
+    `(["Assignment 3 - Perusall Readings"
+       "March 2, 2025"
+       "https://gatech.instructure.com/courses/442358/assignments/1888012?module_item_id=4505558"]
+    )
+    `(["Discussion 2 - Initial post"
+       "February 20, 2025"
+       "https://gatech.instructure.com/courses/442358/discussion_topics/1953101?module_item_id=4505556"]
+      ["Discussion 2 - Discuss with peers"
+       "March 2, 2025"
+       "https://gatech.instructure.com/courses/442358/discussion_topics/1953101?module_item_id=4505556"]
+      ["Assignment 4 - Group Project, Part 2: Bibliography and Timeline"
+       "March 2, 2025"
+       "https://gatech.instructure.com/courses/442358/assignments/1888014?module_item_id=4505540"]
+    )))
 
 `([title . "Geopolitics of Cybersecurity: Spring 2025"]
   [tasks . [
     ,@(module-1)
+    ,@(module-2)
 ]])
