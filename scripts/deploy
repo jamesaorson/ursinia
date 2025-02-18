@@ -1,0 +1,24 @@
+#! /bin/bash
+
+set -euo pipefail
+
+cd $(dirname ${BASH_SOURCE[0]})/..
+
+sudo mkdir -p /var/www/ursinia
+
+WWW=/var/www/ursinia
+
+echo "Syncing website to install"
+for dir in wwwroot; do
+	sudo mkdir -p ${WWW}/${dir}
+	sudo rsync -avh --delete ./${dir}/ ${WWW}/${dir}
+done
+
+echo "Setting up nginx config as default"
+NGINX_CONF=/etc/nginx/sites-enabled/default
+sudo ln -s -f $(pwd)/${NGINX_CONF} ${NGINX_CONF}
+
+echo "Restarting nginx"
+sudo systemctl restart nginx
+echo "Checking nginx"
+sudo systemctl status nginx

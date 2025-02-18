@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <title>Papa - Devlog - ExoSourcing</title>
+  <link rel="icon" type="image/x-icon" href="/shared/favicons/favicon.ico" />
+  <link rel="stylesheet" href="/shared/styles/openword-theme.css" />
+  <link rel="stylesheet" href="/styles/main.css" />
+</head>
+
+<body>
+  <header>
+    <div id="header">
+      <span id="header-back-link"><a href="/">&#8612 <code>papa</code></a></span>
+    </div>
+  </header>
+
+  <h2>
+    <a id="exosourcing-title" href="https://github.com/exokomodo/exosourcing" target="_blank">Exosourcing</a>
+  </h2>
+
+  <div id="exosourcing">
+    <div>
+      <h3>January 3rd, 2025 - 12:07am</h3>
+      <p>
+        Working on a few different things today. I had some work to do, but being friday it is mostly a day for putting
+        through my PRs, and code review when I can. I also am ideating on how I want to extend and work on Exosourcing.
+        I have watched a few different videos on the topic of constructors, the rule of 5, and memory layouts of types
+        in C/C++.
+        <br>
+      <ul>
+        <li>
+          <a href="https://youtu.be/t5wmI6bnuEc?si=xoSjvIKxJBf-L2O4">C++ Core and Other C++ Guidelines - The Good, the
+            Bad, the… Questionable? - Arne Mertz - C++ on Sea</a>
+          <ul>
+            <li><a href="https://en.cppreference.com/w/cpp/language/rule_of_three">Rule of 0/3/5</a> is not that you
+              SHOULD define them, but that if you define one, you should define all of them</li>
+            <li><a
+                href="https://clang.llvm.org/extra/clang-tidy/checks/cppcoreguidelines/avoid-const-or-ref-data-members.html">Member
+                of a reference type (&)</a> can be used to define the nature of the type's ownership, making it only
+              copy-constructible but not copy-assignable.</li>
+            <li>Treat guidelines as guidelines and rules as rules.</li>
+          </ul>
+        </li>
+        <li>
+          <a href="https://youtu.be/IroPQ150F6c?si=ti-eQvO-yHLT4xbx">Andrew Kelley Practical Data Oriented Design
+            (DoD)</a>
+          <ul>
+            <li>Consider that calculating values may be an order of magnitude faster than accessing even the L1 cache in
+              a memoized operation</li>
+            <li>Reduce size of structures by "tagging", and also remembering to calculate when possible</li>
+          </ul>
+        </li>
+      </ul>
+      </p>
+    </div>
+  </div>
+</body>
+
+</html>

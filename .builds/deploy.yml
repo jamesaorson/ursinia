@@ -1,0 +1,35 @@
+image: alpine/latest
+sources:
+  - git@git.sr.ht:~jamesaorson/ursinia.net
+environment:
+  REPO: ursinia.net
+  DEPLOY_BRANCH: main
+secrets:
+  # SSH Key - ursinia - remote-deploy
+  - e69e1aea-5fd3-4dcc-8360-6c34942d26d1
+tasks:
+  - ssh-config: |-
+      if [[ "${GIT_REF}" != "refs/heads/${DEPLOY_BRANCH}" ]]; then
+        echo "Skipping, not ${DEPLOY_BRANCH} branch"
+        exit 0
+      fi
+      touch ~/.ssh/config
+      cat <<EOF >> ~/.ssh/config
+      Host ursinia.net
+        User james
+        IdentityFile ~/.ssh/e69e1aea-5fd3-4dcc-8360-6c34942d26d1
+      EOF
+  - ssh-keyscan: |-
+      if [[ "${GIT_REF}" != "refs/heads/${DEPLOY_BRANCH}" ]]; then
+        echo "Skipping, not ${DEPLOY_BRANCH} branch"
+        exit 0
+      fi
+      touch ~/.ssh/known_hosts
+      ssh-keyscan ursinia.net >> ~/.ssh/known_hosts
+  - remote-deploy: |-
+      if [[ "${GIT_REF}" != "refs/heads/${DEPLOY_BRANCH}" ]]; then
+        echo "Skipping, not ${DEPLOY_BRANCH} branch"
+        exit 0
+      fi
+      cd ${REPO}
+      make -f ./Makefile remote-deploy

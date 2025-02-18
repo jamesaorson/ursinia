@@ -1,0 +1,15 @@
+#! /bin/bash
+
+set -euo pipefail
+
+echo "WARNING: Run this once"
+
+cd $(dirname ${BASH_SOURCE[0]})/../src
+
+DOMAINS="-d ursinia.net -d www.ursinia.net"
+
+for dir in $(ls); do
+    DOMAINS="${DOMAINS} -d ${dir}.ursinia.net"
+done
+
+sudo certbot --nginx ${DOMAINS}
