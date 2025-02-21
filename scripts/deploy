@@ -16,7 +16,7 @@ done
 
 echo "Setting up nginx config as default"
 NGINX_CONF=/etc/nginx/sites-enabled/default
-rm -f ${NGINX_CONF}
+sudo rm -f ${NGINX_CONF}
 sudo ln -s -f $(pwd)/${NGINX_CONF} ${NGINX_CONF}
 
 echo "Restarting nginx"
