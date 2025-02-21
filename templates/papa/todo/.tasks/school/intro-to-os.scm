@@ -37,10 +37,10 @@
           ,(-render-assignment "P2L5: Thread Performance Considerations" "https://gatech.instructure.com/courses/431938/pages/p2l5-thread-performance-considerations-playlist" "February 17, 2025")
           ,(-render-assignment "[Project 1/README]" "https://gatech.instructure.com/courses/431938/assignments/1959412" "February 9, 2025")
           ,(-render-assignment "P3L1: Scheduling" "https://gatech.instructure.com/courses/431938/pages/p3l1-scheduling-playlist" "February 24, 2025")
-        )
-        `(
           ["[Midterm] Sample Questions" "February 20, 2025"]
           ["[Midterm] Exam" "February 20-24, 2025"]
+        )
+        `(
           ,(-render-assignment "P3L2: Memory Management" "https://gatech.instructure.com/courses/431938/pages/p3l2-memory-management-playlist" "March 3, 2025")
           ,(-render-assignment "P3L3: Inter-Process Communication" "https://gatech.instructure.com/courses/431938/pages/p3l3-inter-process-communication-playlist" "March 3, 2025")
           ,(-render-assignment "P3L4: Synchronization Constructs" "https://gatech.instructure.com/courses/431938/pages/p3l4-synchronization-constructs-playlist" "March 10, 2025")

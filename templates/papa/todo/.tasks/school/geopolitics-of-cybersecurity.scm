@@ -65,11 +65,11 @@
     `(["Assignment 3 - Perusall Readings"
        "March 2, 2025"
        "https://gatech.instructure.com/courses/442358/assignments/1888012?module_item_id=4505558"]
-    )
-    `(["Discussion 2 - Initial post"
+      ["Discussion 2 - Initial post"
        "February 20, 2025"
        "https://gatech.instructure.com/courses/442358/discussion_topics/1953101?module_item_id=4505556"]
-      ["Discussion 2 - Discuss with peers"
+    )
+    `(["Discussion 2 - Discuss with peers"
        "March 2, 2025"
        "https://gatech.instructure.com/courses/442358/discussion_topics/1953101?module_item_id=4505556"]
       ["Assignment 4 - Group Project, Part 2: Bibliography and Timeline"
