@@ -13,7 +13,7 @@ deploy: ./scripts/deploy ## Does an incremental deploy/redeploy of the applicati
 	$<
 
 REMOTE_LOCATION ?= james@ursinia.net
-REMOTE_DIR ?= ~/git.sr.ht/jamesaorson/ursinia
+REMOTE_DIR ?= ~/git.sr.ht/jamesaorson/ursinia.net
 
 .PHONY: remote-deploy
 remote-deploy: ./scripts/deploy ## Remotely deploys the application
