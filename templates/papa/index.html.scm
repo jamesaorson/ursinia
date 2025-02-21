@@ -36,4 +36,6 @@
                                                 [text (cdr link)])
                                             `(li (a (@ (href ,href))
                                                     ,text))))
-                                        '(["readings" . "Reading Library"])))))))
+                                        '(["omscs" . "Computer Science Master's"]
+                                          ["readings" . "Reading Library"]
+                                         )))))))
