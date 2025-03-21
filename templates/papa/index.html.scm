@@ -9,11 +9,11 @@
                                    #\↤ " " (code "sitemap")))))
                    (h1
                      (a (@ (id "title")
-                           (href "#title")
+                           (href "papa#title")
                            (class "list-item-internal-link"))
                         "Papa"))
                    (div
-                     (h2 (a (@ (href "todo")
+                     (h2 (a (@ (href "papa/todo")
                                (class "list-item-internal-link"))
                             "Todo tracker")))
                    (div
@@ -21,12 +21,12 @@
                              (height 200)
                              (alt "Imposing Father Bear in Dramatic Mountain Landscape: An imposing father bear in a more rugged and dramatic mountain landscape. The terrain is harsher, with larger rocks and dramatic cliffs. The bear is mightier, with darker, more defined fur and a more powerful stance. His gaze is intensely protective, surveying the vast landscape under a stormy sky, adding to the wild, untamed nature of the scene."))))
                    (div
-                     (h3 "My " (a (@ (href "blog"))
+                     (h3 "My " (a (@ (href "papa/blog"))
                                        "blog"))
-                     (h3 "My " (a (@ (href "devlog"))
+                     (h3 "My " (a (@ (href "papa/devlog"))
                                        "devlog"))
                      (div
-                       (h3 "Check out " (a (@ (href "theology"))
+                       (h3 "Check out " (a (@ (href "papa/theology"))
                                            "what I believe")))
                      (div
                        (h3 "My library of content:")
@@ -36,6 +36,6 @@
                                                 [text (cdr link)])
                                             `(li (a (@ (href ,href))
                                                     ,text))))
-                                        '(["omscs" . "Computer Science Master's"]
-                                          ["readings" . "Reading Library"]
+                                        '(["papa/omscs" . "Computer Science Master's"]
+                                          ["papa/readings" . "Reading Library"]
                                          )))))))

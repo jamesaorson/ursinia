@@ -1,366 +1,55 @@
 (reverse
 '(
-   ([day . 1]
+   ([day . 20]
     [tasks . (
-       ([content . "Empty litter boxes"]
+       ([content . "[worship] Family Morning (deputized)"]
         [done? . #t])
-       ([content . "Sweep floors"]
+       ([content . "[husband] Empty litter boxes"]
         [done? . #t])
-       ([content . "Trade crypto"]
+       ([content . "[steward] Sweep floors"]
         [done? . #t])
-       ([content . "Trade stocks"]
+       ([content . "[fitness] Workout"]
+        [done? . #f])
+       ([content . "[steward] Kentucky - Get water turned on"]
         [done? . #t])
-       ([content . "Workout"]
+       ([content . "[steward] Kentucky - Get trash people scheduled [Tuesday]"]
+        [done? . #t])
+       ([content . "[worship] Family Evening"]
+        [done? . #t])
+   )])
+   ([day . 21]
+    [tasks . (
+       ([content . "[worship] Family Morning"]
+        [done? . #t])
+       ([content . "[husband] Empty litter boxes"]
+        [done? . #t])
+       ([content . "[steward] Sweep floors"]
+        [done? . #f])
+       ([content . "[fitness] Workout"]
+        [done? . #f])
+       ([content . "[worship] Family Evening"]
+        [done? . #t])
+   )])
+   ([day . 22]
+    [tasks . (
+       ([content . "[worship] Family Morning"]
+        [done? . #t])
+       ([content . "[husband] Empty litter boxes"]
+        [done? . #t])
+       ([content . "[steward] Sweep floors"]
+        [done? . #f])
+       ([content . "[fitness] Workout"]
+        [done? . #f])
+       ([content . "[worship] Family Evening"]
+        [done? . #t])
+   )])
+   ([day . 23]
+    [tasks . (
+       ([content . "[worship] Family Morning"]
+        [done? . #f])
+       ([content . "[sabbath] Church"]
+        [done? . #f])
+       ([content . "[worship] Family Evening"]
         [done? . #f])
    )])
-   ([day . 2]
-    [tasks . (
-       ([content . "Sabbath"]
-        [done? . #t])
-   )])
-   ; ([day . 3]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 4]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 5]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 6]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 7]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 8]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 9]
-   ;  [tasks . (
-   ;     ([content . "Sabbath"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 10]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 11]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 12]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 13]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 14]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 15]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 16]
-   ;  [tasks . (
-   ;     ([content . "Sabbath"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 17]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 18]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 19]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 20]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 21]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 22]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 23]
-   ;  [tasks . (
-   ;     ([content . "Sabbath"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 24]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 25]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 26]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 27]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 28]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 29]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 30]
-   ;  [tasks . (
-   ;     ([content . "Sabbath"]
-   ;      [done? . #f])
-   ; )])
-   ; ([day . 31]
-   ;  [tasks . (
-   ;     ([content . "Empty litter boxes"]
-   ;      [done? . #f])
-   ;     ([content . "Sweep floors"]
-   ;      [done? . #f])
-   ;     ([content . "Trade crypto"]
-   ;      [done? . #f])
-   ;     ([content . "Trade stocks"]
-   ;      [done? . #f])
-   ;     ([content . "Workout"]
-   ;      [done? . #f])
-   ; )])
 ))

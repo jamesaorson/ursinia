@@ -1,48 +1,48 @@
 :root {
-    --color-primary: #2C3032; /* Black */
-    --color-secondary: #E8E6E3; /* White */
-    --link-color-start: #EEC643; /* Yellow */
-    --link-color-hover: #CD5C5C; /* Red */
-    --link-color-click: #9999FF; /* Blue */
-    --link-color-visit: #6EF46F; /* Green */
+  --color-primary: #2c3032; /* Black */
+  --color-secondary: #e8e6e3; /* White */
+  --link-color-start: #eec643; /* Yellow */
+  --link-color-hover: #cd5c5c; /* Red */
+  --link-color-click: #9999ff; /* Blue */
+  --link-color-visit: #6ef46f; /* Green */
 }
 
-html, body {
-    height: 100%;
-    margin: 0;
-    color: var(--color-secondary);
-    background-color: var(--color-primary);
+html,
+body {
+  height: 100%;
+  margin: 0;
+  color: var(--color-secondary);
+  background-color: var(--color-primary);
 }
 
 body {
-    padding: 1rem;
-    /* SOURCE: https://matthewjamestaylor.com/responsive-font-size */
-    font-size: calc(15px + 0.390625vw);
+  padding: 1rem;
+  /* SOURCE: https://matthewjamestaylor.com/responsive-font-size */
+  font-size: calc(15px + 0.390625vw);
 }
 
 a {
-    text-decoration-style: dotted;
-    text-decoration-thickness: from-font;
+  text-decoration-style: dotted;
+  text-decoration-thickness: from-font;
 }
 
 /* NOTE: Order of a: sections is important */
 a:link {
-    color: var(--link-color-start);
+  color: var(--link-color-start);
 }
 
 a:hover {
-    color: var(--link-color-hover) !important;
+  color: var(--link-color-hover) !important;
 }
 
 a:active {
-    color: var(--link-color-click) !important;
+  color: var(--link-color-click) !important;
 }
 
 a:visited {
-    color: var(--link-color-visit);
+  color: var(--link-color-visit);
 }
 
 li a {
-    list-style-type: disclosure-closed;
+  list-style-type: disclosure-closed;
 }
-

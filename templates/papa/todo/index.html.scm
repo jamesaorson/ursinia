@@ -1,7 +1,7 @@
 (use-modules (scripts lib html))
 
-(define %year% 2024)
-(define %month% "December")
+(define %year% 2025)
+(define %month% "March")
 (define %month-lower% (string-downcase %month%))
 
 (define (load-tasks-by-id id)
@@ -11,7 +11,8 @@
    (define (-task-list-item task)
       (let ([content (assoc-ref task 'content)]
             [done? (assoc-ref task 'done?)])
-         `(li (span (input (@ ,@(if done? 
+         `(li (span (@ (style "font-family: monospace;"))
+                    (input (@ ,@(if done? 
                                  `((type "checkbox")
                                     (checked ,(bool->string done?)))
                                  `((type "checkbox")))))

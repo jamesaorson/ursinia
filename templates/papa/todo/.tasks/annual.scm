@@ -1,21 +1,15 @@
 '([title . "This year"]
   [tasks . (
-   ([content . "Get Harmony a passport"]
+   ([content . "[finance] File tax return"]
+    [done? . #t])
+   ([content . "[vehicle] Renew Subaru registration"]
+    [done? . #t])
+   ([content . "[vehicle] Renew van registration"]
+    [done? . #t])
+   ([content . "[steward] Clean up Kentucky"]
     [done? . #f])
-   ([content . "File tax return"]
+   ([content . "[finance] Update budget with compensation changes (Mid-April)"]
     [done? . #f])
-   ([content . "Renew Subaru registration"]
-    [done? . #f])
-   ([content . "Renew van registration"]
-    [done? . #f])
-   ([content . "Travel somewhere far"]
-    [done? . #f])
-   ([content . "Mama - Daily pullups"]
-    [done? . #f])
-   ([content . "Papa - Daily pullups"]
-    [done? . #f])
-   ([content . "Papa - Daily coding (less sabbath)"]
-    [done? . #f])
-   ([content . "Papa - Finish grad degree"]
+   ([content . "[educate] Finish grad degree"]
     [done? . #f])
 )])

@@ -6,7 +6,7 @@
                              (href "#title"))
                           "Sitemap"))
                    (div (ul ,(map-in-order (lambda (link)
-                                             `(li (a (@ (href ,(format #f "https://ursinia.net/~a"
+                                             `(li (a (@ (href ,(format #f "/~a"
                                                                        (string-downcase link))))
                                                      ,link)))
                                            '("Home"
