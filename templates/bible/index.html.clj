@@ -37,7 +37,7 @@
                    (h/html
                     [:div#header
                      [:span#header-sitemap
-                      [:a#header-back-link {:href "https://sitemap.ursinia.net"} "↤ " [:code "sitemap"]]]
+                      [:a#header-back-link {:href "/sitemap"} "↤ " [:code "sitemap"]]]
                      [:h1 [:a#title.list-item-internal-link {:href "#title"} "Bible"]]
                      [:div
                       [:p "In Ursinia, we hold the Bible to be the standard by which we organize and guide our lives. We believe the Bible to be the infallible Word of God, intended to be interpreted by those He has blessed with His Holy Spirit. Naturally, we like to read the Bible then. Any bible-related content we want to host will go here, from open theological discussions, to custom bible reading plans, We are here to help you in reading and knowing God's word."]]
@@ -47,6 +47,6 @@
                                        (let [href (first link)
                                              text (second link)]
                                          [:li [:a {:href href} text]]))
-                                     [["/versions" "Full Text Bibles"]
-                                      ["/reading-plans" "Bible Reading Plans"]
-                                      ["/christian-resources" "Other Christian Resources"]])]]])))
+                                     [["versions" "Full Text Bibles"]
+                                      ["reading-plans" "Bible Reading Plans"]
+                                      ["christian-resources" "Other Christian Resources"]])]]])))

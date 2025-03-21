@@ -62,7 +62,7 @@
        ([content . "Trade stocks"]
         [done? . #t])
        ([content . (span "Workout (Skipped because "
-                         (a (@ (href "https://sunshine.ursinia.net"))
+                         (a (@ (href "/sunshine"))
                             "Sunshine")
                          " needed me home for sickness)")]
         [done? . #t])

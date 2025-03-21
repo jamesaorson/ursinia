@@ -27,7 +27,7 @@ Here is an example, complete with demonstrating how to iterate over a list to ge
                  `((header (div (@ (id "header"))
                                 (span (@ (id "header-sitemap"))
                                       (a (@ (id "header-sitemap-link")
-                                            (href "https://sitemap.ursinia.net"))
+                                            (href "/sitemap"))
                                          #\↤ " " (code "sitemap")))))
                    (h1 (a (@ (id "title")
                              (href "#title")
@@ -61,7 +61,7 @@ The resulting output is minified, but if that output is then formatted, it would
     <header>
       <div id="header">
         <span id="header-sitemap"
-          ><a id="header-sitemap-link" href="https://sitemap.ursinia.net"
+          ><a id="header-sitemap-link" href="/sitemap"
             >&#8612; <code>sitemap</code></a
           ></span
         >

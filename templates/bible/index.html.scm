@@ -5,7 +5,7 @@
                      (div (@ (id "header"))
                           (span (@ (id "header-sitemap"))
                                 (a (@ (id "header-back-link")
-                                      (href "https://sitemap.ursinia.net"))
+                                      (href "/sitemap"))
                                    #\↤ " " (code "sitemap")))))
                    (h1
                      (a (@ (id "title")
@@ -20,7 +20,7 @@
                                                    [text (cdr link)])
                                                `(li (a (@ (href ,href))
                                                        ,text))))
-                                           '(["/versions" . "Full Text Bibles"]
-                                             ["/reading-plans" . "Bible Reading Plans"]
-                                             ["/christian-resources" . "Other Christian Resources"]))))))
+                                           '(["versions" . "Full Text Bibles"]
+                                             ["reading-plans" . "Bible Reading Plans"]
+                                             ["christian-resources" . "Other Christian Resources"]))))))
 

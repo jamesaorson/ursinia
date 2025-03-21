@@ -5,7 +5,7 @@
                      (div (@ (id "header"))
                           (span (@ (id "header-sitemap"))
                                 (a (@ (id "header-back-link")
-                                      (href "https://sitemap.ursinia.net"))
+                                      (href "/sitemap"))
                                    #\↤ " " (code "sitemap")))))
                    (h1
                      (a (@ (id "title")

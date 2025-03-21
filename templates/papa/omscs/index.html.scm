@@ -5,7 +5,7 @@
                      (div (@ (id "header"))
                           (span (@ (id "header-sitemap"))
                                 (a (@ (id "header-back-link")
-                                      (href "https://papa.ursinia.net"))
+                                      (href "/papa"))
                                    #\↤ " " (code "papa")))))
                    (h1
                      (a (@ (id "title")

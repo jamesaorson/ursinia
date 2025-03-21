@@ -5,7 +5,7 @@
                      (div (@ (id "header"))
                           (span (@ (id "header-sitemap"))
                                 (a (@ (id "header-back-link")
-                                      (href "https://sitemap.ursinia.net"))
+                                      (href "/sitemap"))
                                    #\↤ " " (code "sitemap")))))
                    (h1
                      (a (@ (id "title")
@@ -19,6 +19,6 @@
                         (ul
                           (li "Mama will be pregnant by end-of-year")
                           (li "My work stock will breach $100 a share")))
-                     (h2 "Are you lost? Check out the " (a (@ (href "https://sitemap.ursinia.net"))
+                     (h2 "Are you lost? Check out the " (a (@ (href "/sitemap"))
                                                            "Sitemap")))))
 

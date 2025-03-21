@@ -56,7 +56,7 @@
                      (div (@ (id "header"))
                           (span (@ (id "header-back"))
                                 (a (@ (id "header-back-link")
-                                      (href "https://papa.ursinia.net"))
+                                      (href "/papa"))
                                    #\↤ " " (code "papa")))))
                    (main (@ (style "padding-bottom: 1rem;"))
                      (div (@ (style "float: left"))

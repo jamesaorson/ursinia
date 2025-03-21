@@ -5,7 +5,7 @@
                      (div (@ (id "header"))
                           (span (@ (id "header-sitemap"))
                                 (a (@ (id "header-back-link")
-                                      (href "https://sitemap.ursinia.net"))
+                                      (href "/sitemap"))
                                    #\↤ " " (code "sitemap")))))
                    (h1
                      (a (@ (id "title")
@@ -23,6 +23,6 @@
                         (ul (li (em "Under Construction")))
                         (h3 "Third-Order Predictions (Events with direct effect from us)")
                         (ul (li (em "Under Construction"))))
-                     (h2 "Are you lost? Check out the " (a (@ (href "https://sitemap.ursinia.net"))
+                     (h2 "Are you lost? Check out the " (a (@ (href "/sitemap"))
                                                            "Sitemap")))))
 
