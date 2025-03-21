@@ -83,19 +83,20 @@
     "https://gatech.instructure.com/courses/442358/pages/module-3-instructor-video-content?module_item_id=4505566"
     `()
     `()
-    `()
-    `(["Assignment 5 - Perusall Readings"
-       "March 24, 2025"
-       "https://gatech.instructure.com/courses/442358/assignments/1888016?module_item_id=4505574"]
-      ["Discussion 3 - Initial post"
+    `(["Discussion 3 - Initial post"
        "March 10, 2025"
        "https://gatech.instructure.com/courses/442358/discussion_topics/1953097?module_item_id=4505570"]
-      ["Discussion 4 - Part 3: Operational Effectiveness Presentation Peer Feedback"
-       "April 2, 2025"
-       "https://gatech.instructure.com/courses/442358/discussion_topics/1953099?module_item_id=4505572"]
+      ["Assignment 5 - Perusall Readings"
+       "March 24, 2025"
+       "https://gatech.instructure.com/courses/442358/assignments/1888016?module_item_id=4505574"]
+    )
+    `(
       ["Assignment 6 - Group Project, Part 3: Operational Effectiveness Presentation"
-       "March 23, 2025"
+       "April 2, 2025"
        "https://gatech.instructure.com/courses/442358/assignments/1888018?module_item_id=4505542"]
+      ["Discussion 4 - Part 3: Operational Effectiveness Presentation Peer Feedback"
+       "April 9, 2025"
+       "https://gatech.instructure.com/courses/442358/discussion_topics/1953099?module_item_id=4505572"]
     )))
 
 `([title . "Geopolitics of Cybersecurity: Spring 2025"]
