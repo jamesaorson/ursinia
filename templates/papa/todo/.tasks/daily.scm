@@ -24,24 +24,24 @@
        ([content . "[husband] Empty litter boxes"]
         [done? . #t])
        ([content . "[steward] Sweep floors"]
-        [done? . #f])
+        [done? . #t])
        ([content . "[fitness] Workout"]
-        [done? . #f])
+        [done? . #t])
        ([content . "[worship] Family Evening"]
         [done? . #t])
    )])
    ([day . 22]
     [tasks . (
        ([content . "[worship] Family Morning"]
-        [done? . #t])
+        [done? . #f])
        ([content . "[husband] Empty litter boxes"]
-        [done? . #t])
+        [done? . #f])
        ([content . "[steward] Sweep floors"]
         [done? . #f])
        ([content . "[fitness] Workout"]
         [done? . #f])
        ([content . "[worship] Family Evening"]
-        [done? . #t])
+        [done? . #f])
    )])
    ([day . 23]
     [tasks . (
