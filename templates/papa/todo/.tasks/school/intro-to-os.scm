@@ -44,12 +44,12 @@
           ,(-render-assignment "P3L4: Synchronization Constructs" "https://gatech.instructure.com/courses/431938/pages/p3l4-synchronization-constructs-playlist" "March 10, 2025")
           ,(-render-assignment "P3L5: I/O Management" "https://gatech.instructure.com/courses/431938/pages/p3l5-i-slash-o-management-playlist" "March 17, 2025")
           ,(-render-assignment "P3L6: Virtualization" "https://gatech.instructure.com/courses/431938/pages/p3l6-virtualization-playlist" "March 31, 2025")
-        )
-        `(
           ["[Project 3] there is no project 2 [README is remaining]" "March 24, 2025"]
           ,(-render-assignment "P4L1: Remote Procedure Calls" "https://gatech.instructure.com/courses/431938/pages/p4l1-remote-procedure-calls-playlist" "April 7, 2025")
           ,(-render-assignment "P4L2: Distributed File Systems" "https://gatech.instructure.com/courses/431938/pages/p4l2-distributed-file-systems-playlist" "April 14, 2025")
           ,(-render-assignment "P4L3: Distributed Shared Memory" "https://gatech.instructure.com/courses/431938/pages/p4l3-distributed-shared-memory-playlist" "April 20, 2025")
+        )
+        `(
           ["[Project 4]" "April 20, 2025"]
           ,(-render-assignment "P4L4: Datacenter Technologies" "https://gatech.instructure.com/courses/431938/pages/p4l4-datacenter-technologies-playlist" "April 24, 2025")
           ["[Final] Sample Questions" "April 24, 2025"]
