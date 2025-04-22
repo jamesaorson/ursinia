@@ -92,18 +92,17 @@
       ["Assignment 6 - Group Project, Part 3: Operational Effectiveness Presentation"
        "April 2, 2025"
        "https://gatech.instructure.com/courses/442358/assignments/1888018?module_item_id=4505542"]
-    )
-    `(
       ["Discussion 6 - Part 3: Operational Effectiveness Presentation Peer Feedback"
        "April 9, 2025"
        "https://gatech.instructure.com/courses/442358/discussion_topics/1953099?module_item_id=4505572"]
+    )
+    `(
     )))
 
 (define (module-4)
   (-render-module
     4
     "https://gatech.instructure.com/courses/442358/pages/module-4-instructor-video-content?module_item_id=4505582"
-    `()
     `()
     `()
     `(
@@ -116,6 +115,8 @@
       ["Assignment 7 - Perusall Readings"
        "April 22, 2025"
        "https://gatech.instructure.com/courses/442358/assignments/1888020?module_item_id=4505588"]
+    )
+    `(
       ["Assignment 8 - Group Project, Part 4: Analytical Report"
        "April 27, 2025"
        "https://gatech.instructure.com/courses/442358/assignments/1888022?module_item_id=4505544"]
