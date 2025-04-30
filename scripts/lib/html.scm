@@ -3,11 +3,29 @@
 
 (use-modules (scripts lib sxml html))
 
+(define months 
+  '("January" "February" "March" "April" "May" "June"
+    "July" "August" "September" "October" "November" "December"))
+
 (define-public (bool->string x)
   (if x "true" "false"))
 
 (define-public (string->bool x)
   (string=? x "true"))
+
+(define-public (int->month x)
+  (if (and (integer? x) (<= 1 x 12))
+      (list-ref months (- x 1))
+      (error "int->month: invalid month" x)))
+
+(define-public %current-year%
+  (string->number (strftime "%Y" (localtime (current-time)))))
+
+(define-public %current-month%
+  (int->month (string->number (strftime "%m" (localtime (current-time))))))
+
+(define-public %current-month-lower%
+  (string-downcase %current-month%))
 
 (define (html-page-template title head body lang)
   `((doctype "html")

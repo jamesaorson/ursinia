@@ -8,6 +8,4 @@
        [done? . #f])
       ([content . "[steward] Fix the broken heavy bag"]
        [done? . #f])
-      ([content . "[finance] Get rid of PMI (Private Mortgage Insurance)"]
-       [done? . #f])
 )])

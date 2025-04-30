@@ -5,7 +5,7 @@
                      (div (@ (id "header"))
                           (span (@ (id "header-sitemap"))
                                 (a (@ (id "header-back-link")
-                                      (href "/papa"))
+                                      (href "/sitemap"))
                                    #\↤ " " (code "papa")))))
                    (h1
                      (a (@ (id "title")

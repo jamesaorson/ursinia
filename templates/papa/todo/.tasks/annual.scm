@@ -7,9 +7,9 @@
    ([content . "[vehicle] Renew van registration"]
     [done? . #t])
    ([content . "[steward] Clean up Kentucky"]
-    [done? . #f])
+    [done? . #t])
    ([content . "[finance] Update budget with compensation changes (Mid-April)"]
-    [done? . #f])
+    [done? . #t])
    ([content . "[educate] Finish grad degree"]
     [done? . #f])
 )])

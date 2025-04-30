@@ -115,11 +115,11 @@
       ["Assignment 7 - Perusall Readings"
        "April 22, 2025"
        "https://gatech.instructure.com/courses/442358/assignments/1888020?module_item_id=4505588"]
-    )
-    `(
       ["Assignment 8 - Group Project, Part 4: Analytical Report"
        "April 27, 2025"
        "https://gatech.instructure.com/courses/442358/assignments/1888022?module_item_id=4505544"]
+    )
+    `(
     )))
 
 `([title . "Geopolitics of Cybersecurity: Spring 2025"]

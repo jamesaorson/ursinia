@@ -1,9 +1,5 @@
 (use-modules (scripts lib html))
 
-(define %year% 2025)
-(define %month% "March")
-(define %month-lower% (string-downcase %month%))
-
 (define (load-tasks-by-id id)
    (load (format #f ".tasks/~a.scm" id)))
 
@@ -45,10 +41,10 @@
               (map-in-order (lambda (task-definition)
                               (let* ([day (assoc-ref task-definition 'day)]
                                      [tasks (assoc-ref task-definition 'tasks)]
-                                     [id-suffix (format #f "~a-~2,'0d-~d" %month-lower% day %year%)])
+                                     [id-suffix (format #f "~a-~2,'0d-~d" %current-month-lower% day %current-year%)])
                                     `(li (div (h3 (a (@ (id ,id-suffix)
                                                       (href ,(format #f "#~a" id-suffix)))
-                                                   ,(format #f "~a ~d, ~d" %month% day %year%)))
+                                                   ,(format #f "~a ~d, ~d" %current-month% day %current-year%)))
                                               ,(-task-list tasks)))))
                          task-definitions))))))
 
@@ -57,15 +53,14 @@
                      (div (@ (id "header"))
                           (span (@ (id "header-back"))
                                 (a (@ (id "header-back-link")
-                                      (href "/papa"))
+                                      (href ".."))
                                    #\↤ " " (code "papa")))))
                    (main (@ (style "padding-bottom: 1rem;"))
                      (div (@ (style "float: left"))
                         ,daily-task-list
                         ,(task-list "weekly"))
                      (div (@ (style "float: right"))
-                        ,(task-list "school/geopolitics-of-cybersecurity")
-                        ,(task-list "school/intro-to-os")
+                        ,(task-list "school/computer-networks")
                         ,(task-list "monthly")
                         ,(task-list "annual")
                         ,(task-list "ongoing")))))
