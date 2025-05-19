@@ -22,11 +22,11 @@
     ,@(-render
         `(
           ,(-render-assignment "Lesson 1 Quiz: Introduction, History, and Internet Architecture" "https://gatech.instructure.com/courses/453100/quizzes/667769?module_item_id=4958756" "May 25, 2025")
+          ,(-render-assignment "Lesson 2 Quiz: Transport and Applications Layers" "https://gatech.instructure.com/courses/453100/quizzes/667823?module_item_id=4958814" "May 25, 2025")
+          ,(-render-assignment "Lesson 3 Quiz: Intradomain Routing" "https://gatech.instructure.com/courses/453100/quizzes/667805?module_item_id=4958856" "May 25, 2025")
         )
         `(
           ,(-render-assignment "Lesson 1 Project: Spanning Tree Protocol for Network Switches" "https://gatech.instructure.com/courses/453100/modules/items/4958760" "May 25, 2025")
-          ,(-render-assignment "Lesson 2 Quiz: Transport and Applications Layers" "https://gatech.instructure.com/courses/453100/quizzes/667823?module_item_id=4958814" "May 25, 2025")
-          ,(-render-assignment "Lesson 3 Quiz: Intradomain Routing" "https://gatech.instructure.com/courses/453100/quizzes/667805?module_item_id=4958856" "May 25, 2025")
           ,(-render-assignment "Lesson 4 Quiz: AS Relationships and Interdomain Routing" "https://gatech.instructure.com/courses/453100/quizzes/667719?module_item_id=4958898" "June 1, 2025")
           ,(-render-assignment "Project: Distance Vector" "https://gatech.instructure.com/courses/453100/modules/items/4958900" "June 8, 2025")
           ,(-render-assignment "Lesson 5 Quiz: Router Design and Algorithms (Part 1)" "https://gatech.instructure.com/courses/453100/quizzes/667815?module_item_id=4958936" "June 8, 2025")
