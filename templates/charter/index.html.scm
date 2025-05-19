@@ -16,10 +16,10 @@
                      (div
                        (h3 "Maintain Order")
                        (p
-                         "In life, there is a choice between order and chaos at most moments. God is the true being of order "
+                         "In life, there is a choice between order and chaos at most moments. God is the true being of order ("
                          (a (@ (href "/bible/versions/bsb/#1-corinthians"))
                             "1 Corinthians 14:33")
-                         ", and His will is the only certain course for orderly action ("
+                         "), and His will is the only certain course for orderly action ("
                          (a (@ (href "/bible/versions/bsb/#john"))
                             "John 14:6")
                          "). Therefore, consult the Lord in all you do ("
@@ -54,7 +54,7 @@
                          "), and treat our lives as forfeit to Christ who redeemed us ("
                          (a (@ (href "/bible/versions/bsb#matthews"))
                             "Matthew 16:25")
-                         ", not by our own works, but by the work of the Lord "
+                         "), not by our own works, but by the work of the Lord ("
                          (a (@ (href "/bible/versions/bsb#ephesians"))
                             "Ephesians 2:8-10")
                          ")."))
@@ -74,7 +74,7 @@
                          ", "
                          (a (@ (href "/bible/versions/bsb#acts"))
                             "Acts 7:6")
-                         ", with our hearts set upon eternity with Christ on the new Earth ("
+                         "), with our hearts set upon eternity with Christ on the new Earth ("
                          (a (@ (href "/bible/versions/bsb#revelation"))
                             "Revelation 21:1-4")
                          ").")
@@ -87,7 +87,7 @@
                          "), and raise up children who are faithful to and love the Lord ("
                          (a (@ (href "/bible/versions/bsb#ephesians"))
                             "Ephesians 6:1-4")
-                         ", not making our children bitter to their inheritance found in Christ alone ("
+                         "), not making our children bitter to their inheritance found in Christ alone ("
                          (a (@ (href "/bible/versions/bsb#colossians"))
                             "Colossians 3:18-24")
                          ", "
