@@ -6,7 +6,7 @@
                          ,(format #f " (Due: ~a)" date))]
         [done? . ,done?])))
 
-(define (-render completed todo)
+(define (-draw completed todo)
   `(,@(map-in-order (lambda (section)
                            (-render-section section #t))
                     completed)
@@ -19,7 +19,7 @@
 
 `([title . "Summer 2025 - Computer Networks"]
   [tasks . [
-    ,@(-render
+    ,@(-draw
         `(
           ,(-render-assignment "Lesson 1 Quiz: Introduction, History, and Internet Architecture" "https://gatech.instructure.com/courses/453100/quizzes/667769?module_item_id=4958756" "May 25, 2025")
           ,(-render-assignment "Lesson 2 Quiz: Transport and Applications Layers" "https://gatech.instructure.com/courses/453100/quizzes/667823?module_item_id=4958814" "May 25, 2025")
@@ -35,8 +35,6 @@
           ,(-render-assignment "Project: SDN Firewall" "https://gatech.instructure.com/courses/453100/assignments/2063430?module_item_id=4958998" "June 29, 2025")
           ,(-render-assignment "Lesson 9 Quiz: Internet Security" "https://gatech.instructure.com/courses/453100/quizzes/667725?module_item_id=4959096" "June 29, 2025")
           ,(-render-assignment "Lesson 10 Quiz: Internet Surveillance and Censorship" "https://gatech.instructure.com/courses/453100/quizzes/667715?module_item_id=4959132" "July 6, 2025")
-        )
-        `(
           ,(-render-assignment "Lesson 11 Quiz: Applications Part 1: Video" "https://gatech.instructure.com/courses/453100/quizzes/667803?module_item_id=4959210" "July 13, 2025")
           ,(-render-assignment "Project: BGP Measurements" "https://gatech.instructure.com/courses/453100/assignments/2063422?module_item_id=4959212" "July 19, 2025")
           ,(-render-assignment "Extra Credit: Internet-Wide Events" "https://gatech.instructure.com/courses/453100/modules/items/4959214" "July 19, 2025")
@@ -44,4 +42,6 @@
           ,(-render-assignment "Exam 2" "https://gatech.instructure.com/courses/453100/quizzes/667759?module_item_id=4959252" "July 27, 2025")
           ,(-render-assignment "Project: BGP Hijacking" "???" "???, 2025")
           ,(-render-assignment "Lesson 13" "https://gatech.instructure.com/courses/453100/quizzes/667759" "???, 2025")
+        )
+        `(
         ))]])

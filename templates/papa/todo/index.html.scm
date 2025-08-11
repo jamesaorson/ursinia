@@ -57,10 +57,11 @@
                                    #\↤ " " (code "papa")))))
                    (main (@ (style "padding-bottom: 1rem;"))
                      (div (@ (style "float: left"))
-                        ,daily-task-list
                         ,(task-list "weekly"))
                      (div (@ (style "float: right"))
-                        ,(task-list "school/computer-networks")
+                        ,(task-list "school/intro-to-grad-algorithms")
+                        ,(task-list "school/software-analysis-and-test")
+                        ,(task-list "school/software-development-process")
                         ,(task-list "monthly")
                         ,(task-list "annual")
                         ,(task-list "ongoing")))))
