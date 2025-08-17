@@ -27,6 +27,10 @@
       "https://gatech.instructure.com/courses/464202/quizzes/662971"
       "August 25 - August 31, 2025")
     (class/render-assignment
+      "Lab 1: Fuzzing"
+      "https://gatech.instructure.com/courses/464202/assignments/2048032"
+      "August 25, 2025")
+    (class/render-assignment
       "Lesson 4: Automated Test Generation"
       "https://edstem.org/us/courses/77984/lessons/136207/slides/767547"
       "September 1 - September 7, 2025")
@@ -42,10 +46,6 @@
       "Lesson 5: Dataflow Analysis - Quiz"
       "https://gatech.instructure.com/courses/464202/quizzes/662961"
       "September 1 - September 7, 2025")
-    (class/render-assignment
-      "Lab 1: Fuzzing"
-      "https://gatech.instructure.com/courses/464202/assignments/2048032"
-      "August 25, 2025")
     (class/render-assignment
       "Lesson 6: Pointer Analysis"
       "https://edstem.org/us/courses/77984/lessons/136209/slides/767654"
