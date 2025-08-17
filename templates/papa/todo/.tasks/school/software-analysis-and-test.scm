@@ -11,10 +11,6 @@
       "https://gatech.instructure.com/courses/464202/assignments/2048030"
       "August 25, 2025")
     (class/render-assignment
-      "Lesson 2: Introduction to Software Testing"
-      "https://edstem.org/us/courses/77984/lessons/136205/slides/767476"
-      "August 25 - August 31, 2025")
-    (class/render-assignment
       "Lesson 2: Introduction to Software Testing - Quiz"
       "https://gatech.instructure.com/courses/464202/quizzes/662977"
       "August 25 - August 31, 2025")
@@ -163,6 +159,10 @@
       "Lesson 1.5: Soundness and Completeness"
       "https://edstem.org/us/courses/77984/lessons/136204/slides/767465"
       "August 18 - August 24, 2025")
+    (class/render-assignment
+      "Lesson 2: Introduction to Software Testing"
+      "https://edstem.org/us/courses/77984/lessons/136205/slides/767476"
+      "August 25 - August 31, 2025")
   )
 )
 
