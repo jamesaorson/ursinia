@@ -7,10 +7,6 @@
       "https://gatech.instructure.com/courses/464202/quizzes/662993"
       "August 18 - August 24, 2025")
     (class/render-assignment
-      "Lesson 1.5: Soundness and Completeness"
-      "https://edstem.org/us/courses/77984/lessons/136204/slides/767465"
-      "August 18 - August 24, 2025")
-    (class/render-assignment
       "Lab 0: LLVM Intro"
       "https://gatech.instructure.com/courses/464202/assignments/2048030"
       "August 25, 2025")
@@ -162,6 +158,10 @@
     (class/render-assignment
       "Lesson 1: Introduction to Software Analysis"
       "https://edstem.org/us/courses/77984/lessons/136203/slides/767436"
+      "August 18 - August 24, 2025")
+    (class/render-assignment
+      "Lesson 1.5: Soundness and Completeness"
+      "https://edstem.org/us/courses/77984/lessons/136204/slides/767465"
       "August 18 - August 24, 2025")
   )
 )
