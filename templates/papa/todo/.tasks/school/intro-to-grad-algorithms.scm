@@ -11,6 +11,6 @@
   )
 )
 
-`([title . "Fall 2025 - Intro to Grad Algorithms"]
+`([title . "Fall 2025 - Intro to Grad Algorithms (Class only grades exams and the quizzes. Everything else is optional.)"]
   [tasks . [
     ,@(class/render completed todo)]])

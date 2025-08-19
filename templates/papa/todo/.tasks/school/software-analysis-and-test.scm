@@ -166,6 +166,6 @@
   )
 )
 
-`([title . "Fall 2025 - Software Analysis and Test (Everything is open starting August 18, 2025)"]
+`([title . "Fall 2025 - Software Analysis and Test (Everything is open starting August 25, 2025)"]
   [tasks . [
     ,@(class/render completed todo)]])

@@ -94,6 +94,6 @@
   )
 )
 
-`([title . "Fall 2025 - Software Development Process"]
+`([title . "Fall 2025 - Software Development Process (Class only has graded assignments. No exams or quizzes.)"]
   [tasks . [
     ,@(class/render completed todo)]])
