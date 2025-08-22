@@ -3,17 +3,9 @@
 (define todo
   (list
     (class/render-assignment
-      "Lecture: DP1: FIB - LIS - LCS"
-      "https://edstem.org/us/courses/82037/lessons/145028/slides/834909"
-      "August 18 - August 24, 2025")
-    (class/render-assignment
       "Lecture: DP2: Knapsack - Chain Multiply"
       "https://edstem.org/us/courses/82037/lessons/145029/slides/834938"
       "August 25 - August 31, 2025")
-    (class/render-assignment
-      "Homework 1"
-      "https://gatech.instructure.com/courses/468386"
-      "8/25 - 8/31, 2025")
     (class/render-assignment
       "Quiz 1: Format Quiz on DP"
       "https://gatech.instructure.com/courses/468386"
@@ -211,6 +203,14 @@
 
 (define completed
   (list
+    (class/render-assignment
+      "Lecture: DP1: FIB - LIS - LCS"
+      "https://edstem.org/us/courses/82037/lessons/145028/slides/834909"
+      "August 18 - August 24, 2025")
+    (class/render-assignment
+      "Homework 1"
+      "https://gatech.instructure.com/courses/468386"
+      "8/25 - 8/31, 2025")
   )
 )
 
