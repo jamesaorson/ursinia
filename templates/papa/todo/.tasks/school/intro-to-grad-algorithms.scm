@@ -202,15 +202,17 @@
 )
 
 (define completed
-  (list
-    (class/render-assignment
-      "Lecture: DP1: FIB - LIS - LCS"
-      "https://edstem.org/us/courses/82037/lessons/145028/slides/834909"
-      "August 18 - August 24, 2025")
-    (class/render-assignment
-      "Homework 1"
-      "https://gatech.instructure.com/courses/468386"
-      "8/25 - 8/31, 2025")
+  (reverse
+    (list
+      (class/render-assignment
+        "Homework 1"
+        "https://gatech.instructure.com/courses/468386"
+        "8/25 - 8/31, 2025")
+      (class/render-assignment
+        "Lecture: DP1: FIB - LIS - LCS"
+        "https://edstem.org/us/courses/82037/lessons/145028/slides/834909"
+        "August 18 - August 24, 2025")
+    )
   )
 )
 

@@ -3,10 +3,6 @@
 (define todo
   (list
     (class/render-assignment
-      "Lesson 5: Dataflow Analysis"
-      "https://edstem.org/us/courses/77984/lessons/136208/slides/767604"
-      "September 1 - September 7, 2025")
-    (class/render-assignment
       "Lesson 5: Dataflow Analysis - Quiz"
       "https://gatech.instructure.com/courses/464202/quizzes/662961"
       "September 1 - September 7, 2025")
@@ -106,63 +102,65 @@
 )
 
 (define completed
-  (list
-    (class/render-assignment
-      "Start of Course Survey"
-      "https://gatech.instructure.com/courses/464202/quizzes/662969"
-      "August 25, 2025")
-    (class/render-assignment
-      "Syllabus Quiz"
-      "https://gatech.instructure.com/courses/464202/quizzes/662959"
-      "August 25, 2025")
-    (class/render-assignment
-      "Lesson 0: Course Introduction"
-      "https://edstem.org/us/courses/77984/lessons/136202/slides/767416"
-      "August 18 - August 24, 2025")
-    (class/render-assignment
-      "Lesson 1: Introduction to Software Analysis"
-      "https://edstem.org/us/courses/77984/lessons/136203/slides/767436"
-      "August 18 - August 24, 2025")
-    (class/render-assignment
-      "Lesson 1.5: Soundness and Completeness"
-      "https://edstem.org/us/courses/77984/lessons/136204/slides/767465"
-      "August 18 - August 24, 2025")
-    (class/render-assignment
-      "Lesson 1: Introduction to Software Analysis - Quiz"
-      "https://gatech.instructure.com/courses/464202/quizzes/662993"
-      "August 18 - August 24, 2025")
-    (class/render-assignment
-      "Lab 0: LLVM Intro"
-      "https://gatech.instructure.com/courses/464202/assignments/2048030"
-      "August 25, 2025")
-    (class/render-assignment
-      "Lesson 2: Introduction to Software Testing"
-      "https://edstem.org/us/courses/77984/lessons/136205/slides/767476"
-      "August 25 - August 31, 2025")
-    (class/render-assignment
-      "Lesson 2: Introduction to Software Testing - Quiz"
-      "https://gatech.instructure.com/courses/464202/quizzes/662977"
-      "August 25 - August 31, 2025")
-    (class/render-assignment
-      "Lesson 3: Random Testing"
-      "https://edstem.org/us/courses/77984/lessons/136206/slides/767516"
-      "August 25 - August 31, 2025")
-    (class/render-assignment
-      "Lesson 3: Random Testing - Quiz"
-      "https://gatech.instructure.com/courses/464202/quizzes/662971"
-      "August 25 - August 31, 2025")
-    (class/render-assignment
-      "Lesson 4: Automated Test Generation"
-      "https://edstem.org/us/courses/77984/lessons/136207/slides/767547"
-      "September 1 - September 7, 2025")
-    (class/render-assignment
-      "Lesson 4: Automated Test Generation - Quiz"
-      "https://gatech.instructure.com/courses/464202/quizzes/662979"
-      "September 1 - September 7, 2025")
-    (class/render-assignment
-      "Lab 1: Fuzzing"
-      "https://gatech.instructure.com/courses/464202/assignments/2048032"
-      "September 8, 2025")
+  (reverse
+    (list
+      (class/render-assignment
+        "Lab 1: Fuzzing"
+        "https://gatech.instructure.com/courses/464202/assignments/2048032"
+        "September 8, 2025")
+      (class/render-assignment
+        "Lesson 4: Automated Test Generation - Quiz"
+        "https://gatech.instructure.com/courses/464202/quizzes/662979"
+        "September 1 - September 7, 2025")
+      (class/render-assignment
+        "Lesson 4: Automated Test Generation"
+        "https://edstem.org/us/courses/77984/lessons/136207/slides/767547"
+        "September 1 - September 7, 2025")
+      (class/render-assignment
+        "Lesson 3: Random Testing - Quiz"
+        "https://gatech.instructure.com/courses/464202/quizzes/662971"
+        "August 25 - August 31, 2025")
+      (class/render-assignment
+        "Lesson 3: Random Testing"
+        "https://edstem.org/us/courses/77984/lessons/136206/slides/767516"
+        "August 25 - August 31, 2025")
+      (class/render-assignment
+        "Lesson 2: Introduction to Software Testing - Quiz"
+        "https://gatech.instructure.com/courses/464202/quizzes/662977"
+        "August 25 - August 31, 2025")
+      (class/render-assignment
+        "Lesson 2: Introduction to Software Testing"
+        "https://edstem.org/us/courses/77984/lessons/136205/slides/767476"
+        "August 25 - August 31, 2025")
+      (class/render-assignment
+        "Lab 0: LLVM Intro"
+        "https://gatech.instructure.com/courses/464202/assignments/2048030"
+        "August 25, 2025")
+      (class/render-assignment
+        "Lesson 1.5: Soundness and Completeness"
+        "https://edstem.org/us/courses/77984/lessons/136204/slides/767465"
+        "August 18 - August 24, 2025")
+      (class/render-assignment
+        "Lesson 1: Introduction to Software Analysis - Quiz"
+        "https://gatech.instructure.com/courses/464202/quizzes/662993"
+        "August 18 - August 24, 2025")
+      (class/render-assignment
+        "Lesson 1: Introduction to Software Analysis"
+        "https://edstem.org/us/courses/77984/lessons/136203/slides/767436"
+        "August 18 - August 24, 2025")
+      (class/render-assignment
+        "Lesson 0: Course Introduction"
+        "https://edstem.org/us/courses/77984/lessons/136202/slides/767416"
+        "August 18 - August 24, 2025")
+      (class/render-assignment
+        "Syllabus Quiz"
+        "https://gatech.instructure.com/courses/464202/quizzes/662959"
+        "August 25, 2025")
+      (class/render-assignment
+        "Start of Course Survey"
+        "https://gatech.instructure.com/courses/464202/quizzes/662969"
+        "August 25, 2025")
+    )
   )
 )
 

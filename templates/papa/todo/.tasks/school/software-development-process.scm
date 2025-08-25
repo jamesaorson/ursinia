@@ -86,11 +86,13 @@
 )
 
 (define completed
-  (list
-    (class/render-assignment
-      "Assignment 1: Team Matching"
-      "https://gatech.instructure.com/courses/461328/assignments/2123554"
-      "August 18 - August 25, 2025")
+  (reverse
+    (list
+      (class/render-assignment
+        "Assignment 1: Team Matching"
+        "https://gatech.instructure.com/courses/461328/assignments/2123554"
+        "August 18 - August 25, 2025")
+    )
   )
 )
 
