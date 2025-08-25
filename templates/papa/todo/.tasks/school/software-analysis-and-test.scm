@@ -3,14 +3,6 @@
 (define todo
   (list
     (class/render-assignment
-      "Lesson 4: Automated Test Generation"
-      "https://edstem.org/us/courses/77984/lessons/136207/slides/767547"
-      "September 1 - September 7, 2025")
-    (class/render-assignment
-      "Lesson 4: Automated Test Generation - Quiz"
-      "https://gatech.instructure.com/courses/464202/quizzes/662979"
-      "September 1 - September 7, 2025")
-    (class/render-assignment
       "Lesson 5: Dataflow Analysis"
       "https://edstem.org/us/courses/77984/lessons/136208/slides/767604"
       "September 1 - September 7, 2025")
@@ -159,6 +151,14 @@
       "Lesson 3: Random Testing - Quiz"
       "https://gatech.instructure.com/courses/464202/quizzes/662971"
       "August 25 - August 31, 2025")
+    (class/render-assignment
+      "Lesson 4: Automated Test Generation"
+      "https://edstem.org/us/courses/77984/lessons/136207/slides/767547"
+      "September 1 - September 7, 2025")
+    (class/render-assignment
+      "Lesson 4: Automated Test Generation - Quiz"
+      "https://gatech.instructure.com/courses/464202/quizzes/662979"
+      "September 1 - September 7, 2025")
     (class/render-assignment
       "Lab 1: Fuzzing"
       "https://gatech.instructure.com/courses/464202/assignments/2048032"
