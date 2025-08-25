@@ -3,18 +3,6 @@
 (define todo
   (list
     (class/render-assignment
-      "Lesson 5: Dataflow Analysis - Quiz"
-      "https://gatech.instructure.com/courses/464202/quizzes/662961"
-      "September 1 - September 7, 2025")
-    (class/render-assignment
-      "Lesson 6: Pointer Analysis"
-      "https://edstem.org/us/courses/77984/lessons/136209/slides/767654"
-      "September 15 - September 21, 2025")
-    (class/render-assignment
-      "Lesson 6: Pointer Analysis - Quiz"
-      "https://gatech.instructure.com/courses/464202/quizzes/662975"
-      "September 15 - September 21, 2025")
-    (class/render-assignment
       "Lab 2: Dataflow"
       "https://gatech.instructure.com/courses/464202/assignments/2048034"
       "September 22, 2025")
@@ -105,9 +93,21 @@
   (reverse
     (list
       (class/render-assignment
+        "Lesson 6: Pointer Analysis - Quiz"
+        "https://gatech.instructure.com/courses/464202/quizzes/662975"
+        "September 15 - September 21, 2025")
+      (class/render-assignment
+        "Lesson 6: Pointer Analysis"
+        "https://edstem.org/us/courses/77984/lessons/136209/slides/767654"
+        "September 15 - September 21, 2025")
+      (class/render-assignment
         "Lab 1: Fuzzing"
         "https://gatech.instructure.com/courses/464202/assignments/2048032"
         "September 8, 2025")
+      (class/render-assignment
+        "Lesson 5: Dataflow Analysis - Quiz"
+        "https://gatech.instructure.com/courses/464202/quizzes/662961"
+        "September 1 - September 7, 2025")
       (class/render-assignment
         "Lesson 4: Automated Test Generation - Quiz"
         "https://gatech.instructure.com/courses/464202/quizzes/662979"
