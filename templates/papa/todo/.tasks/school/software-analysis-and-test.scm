@@ -23,14 +23,6 @@
       "https://gatech.instructure.com/courses/464202/assignments/2048036"
       "October 13, 2025")
     (class/render-assignment
-      "Lesson 8: Type Systems"
-      "https://edstem.org/us/courses/77984/lessons/136211/slides/767732"
-      "October 13 - October 19, 2025")
-    (class/render-assignment
-      "Lesson 8: Type Systems - Quiz"
-      "https://gatech.instructure.com/courses/464202/quizzes/662953"
-      "October 13 - October 19, 2025")
-    (class/render-assignment
       "Lab 4: Type Systems"
       "https://gatech.instructure.com/courses/464202/assignments/2048038"
       "October 27, 2025")
@@ -84,6 +76,14 @@
 (define completed
   (reverse
     (list
+      (class/render-assignment
+        "Lesson 8: Type Systems - Quiz"
+        "https://gatech.instructure.com/courses/464202/quizzes/662953"
+        "October 13 - October 19, 2025")
+      (class/render-assignment
+        "Lesson 8: Type Systems"
+        "https://edstem.org/us/courses/77984/lessons/136211/slides/767732"
+        "October 13 - October 19, 2025")
       (class/render-assignment
         "Lesson 7: Constraint Based Analysis - Quiz"
         "https://gatech.instructure.com/courses/464202/quizzes/662981"
