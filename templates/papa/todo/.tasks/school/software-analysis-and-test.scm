@@ -27,25 +27,9 @@
       "https://gatech.instructure.com/courses/464202/assignments/2048038"
       "October 27, 2025")
     (class/render-assignment
-      "Lesson 9: Statistical Debugging"
-      "https://edstem.org/us/courses/77984/lessons/136212/slides/767795"
-      "October 27 - November 2, 2025")
-    (class/render-assignment
-      "Lesson 9: Statistical Debugging - Quiz"
-      "https://gatech.instructure.com/courses/464202/quizzes/662989"
-      "October 27 - November 2, 2025")
-    (class/render-assignment
       "Lab 5: Cooperative Bug Isolation"
       "https://gatech.instructure.com/courses/464202/assignments/2048040"
       "November 10, 2025")
-    (class/render-assignment
-      "Lesson 10: Delta Debugging"
-      "https://edstem.org/us/courses/77984/lessons/136213/slides/767854"
-      "November 10 - November 16, 2025")
-    (class/render-assignment
-      "Lesson 10: Delta Debugging - Quiz"
-      "https://gatech.instructure.com/courses/464202/quizzes/662987"
-      "November 10 - November 16, 2025")
     (class/render-assignment
       "Lab 6: Delta Debugging"
       "https://gatech.instructure.com/courses/464202/assignments/2048042"
@@ -76,6 +60,22 @@
 (define completed
   (reverse
     (list
+      (class/render-assignment
+        "Lesson 10: Delta Debugging - Quiz"
+        "https://gatech.instructure.com/courses/464202/quizzes/662987"
+        "November 10 - November 16, 2025")
+      (class/render-assignment
+        "Lesson 10: Delta Debugging"
+        "https://edstem.org/us/courses/77984/lessons/136213/slides/767854"
+        "November 10 - November 16, 2025")
+      (class/render-assignment
+        "Lesson 9: Statistical Debugging - Quiz"
+        "https://gatech.instructure.com/courses/464202/quizzes/662989"
+        "October 27 - November 2, 2025")
+      (class/render-assignment
+        "Lesson 9: Statistical Debugging"
+        "https://edstem.org/us/courses/77984/lessons/136212/slides/767795"
+        "October 27 - November 2, 2025")
       (class/render-assignment
         "Lesson 8: Type Systems - Quiz"
         "https://gatech.instructure.com/courses/464202/quizzes/662953"
