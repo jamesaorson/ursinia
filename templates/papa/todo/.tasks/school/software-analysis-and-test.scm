@@ -35,14 +35,6 @@
       "https://gatech.instructure.com/courses/464202/assignments/2048042"
       "November 24, 2025")
     (class/render-assignment
-      "Lesson 11: Dynamic Symbolic Execution"
-      "https://edstem.org/us/courses/77984/lessons/136214/slides/767897"
-      "November 24 - November 30, 2025")
-    (class/render-assignment
-      "Lesson 11: Dynamic Symbolic Execution - Quiz"
-      "https://gatech.instructure.com/courses/464202/quizzes/662973"
-      "November 24 - November 30, 2025")
-    (class/render-assignment
       "Lab 7: KLEE"
       "https://gatech.instructure.com/courses/464202/assignments/2048044"
       "December 8, 2025")
@@ -50,16 +42,24 @@
       "End-of-Course Survey"
       "https://gatech.instructure.com/courses/464202/quizzes/662983"
       "December 8, 2025")
-    (class/render-assignment
-      "All quizzes"
-      "https://gatech.instructure.com/courses/464202/quizzes"
-      "December 8, 2025")
   )
 )
 
 (define completed
   (reverse
     (list
+      (class/render-assignment
+        "All quizzes"
+        "https://gatech.instructure.com/courses/464202/quizzes"
+        "December 8, 2025")
+      (class/render-assignment
+        "Lesson 11: Dynamic Symbolic Execution - Quiz"
+        "https://gatech.instructure.com/courses/464202/quizzes/662973"
+        "November 24 - November 30, 2025")
+      (class/render-assignment
+        "Lesson 11: Dynamic Symbolic Execution"
+        "https://edstem.org/us/courses/77984/lessons/136214/slides/767897"
+        "November 24 - November 30, 2025")
       (class/render-assignment
         "Lesson 10: Delta Debugging - Quiz"
         "https://gatech.instructure.com/courses/464202/quizzes/662987"
