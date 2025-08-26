@@ -15,14 +15,6 @@
       "https://gatech.instructure.com/courses/464202/quizzes/662955"
       "September 29, 2025")
     (class/render-assignment
-      "Lesson 7: Constraint Based Analysis"
-      "https://edstem.org/us/courses/77984/lessons/136210/slides/767698"
-      "September 29 - October 5, 2025")
-    (class/render-assignment
-      "Lesson 7: Constraint Based Analysis - Quiz"
-      "https://gatech.instructure.com/courses/464202/quizzes/662981"
-      "September 29 - October 5, 2025")
-    (class/render-assignment
       "Mid-Course Survey"
       "https://gatech.instructure.com/courses/464202/quizzes/662985"
       "October 6, 2025")
@@ -92,6 +84,14 @@
 (define completed
   (reverse
     (list
+      (class/render-assignment
+        "Lesson 7: Constraint Based Analysis - Quiz"
+        "https://gatech.instructure.com/courses/464202/quizzes/662981"
+        "September 29 - October 5, 2025")
+      (class/render-assignment
+        "Lesson 7: Constraint Based Analysis"
+        "https://edstem.org/us/courses/77984/lessons/136210/slides/767698"
+        "September 29 - October 5, 2025")
       (class/render-assignment
         "Lesson 6: Pointer Analysis - Quiz"
         "https://gatech.instructure.com/courses/464202/quizzes/662975"
