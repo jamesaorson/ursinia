@@ -2,10 +2,7 @@
 
 (define todo
   (list
-    (class/render-assignment
-      "Lab 2: Dataflow"
-      "https://gatech.instructure.com/courses/464202/assignments/2048034"
-      "September 22, 2025")
+    
     (class/render-assignment
       "Exam Policies Acknowledgment"
       "https://gatech.instructure.com/courses/464202/quizzes/662991"
@@ -18,10 +15,6 @@
       "Mid-Course Survey"
       "https://gatech.instructure.com/courses/464202/quizzes/662985"
       "October 6, 2025")
-    (class/render-assignment
-      "Lab 3: Datalog"
-      "https://gatech.instructure.com/courses/464202/assignments/2048036"
-      "October 13, 2025")
     (class/render-assignment
       "Lab 4: Type Systems"
       "https://gatech.instructure.com/courses/464202/assignments/2048038"
@@ -48,6 +41,14 @@
 (define completed
   (reverse
     (list
+      (class/render-assignment
+        "Lab 3: Datalog"
+        "https://gatech.instructure.com/courses/464202/assignments/2048036"
+        "October 13, 2025")
+      (class/render-assignment
+        "Lab 2: Dataflow"
+        "https://gatech.instructure.com/courses/464202/assignments/2048034"
+        "September 22, 2025")
       (class/render-assignment
         "All quizzes"
         "https://gatech.instructure.com/courses/464202/quizzes"

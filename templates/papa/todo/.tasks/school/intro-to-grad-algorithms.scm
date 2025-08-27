@@ -7,10 +7,6 @@
       "https://edstem.org/us/courses/82037/lessons/145029/slides/834938"
       "August 25 - August 31, 2025")
     (class/render-assignment
-      "Quiz 1: Format Quiz on DP"
-      "https://gatech.instructure.com/courses/468386"
-      "8/25 - 8/31, 2025")
-    (class/render-assignment
       "Lecture: DC1: Fast Integer Multiplication"
       "https://edstem.org/us/courses/82037/lessons/145031/slides/835003"
       "September 1 - September 7, 2025")
@@ -204,6 +200,10 @@
 (define completed
   (reverse
     (list
+      (class/render-assignment
+        "Quiz 1: Format Quiz on DP"
+        "https://gatech.instructure.com/courses/468386"
+        "8/25 - 8/31, 2025")
       (class/render-assignment
         "Homework 1"
         "https://gatech.instructure.com/courses/468386"
