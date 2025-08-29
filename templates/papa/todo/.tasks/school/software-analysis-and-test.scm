@@ -16,10 +16,6 @@
       "https://gatech.instructure.com/courses/464202/quizzes/662985"
       "October 6, 2025")
     (class/render-assignment
-      "Lab 4: Type Systems"
-      "https://gatech.instructure.com/courses/464202/assignments/2048038"
-      "October 27, 2025")
-    (class/render-assignment
       "Lab 5: Cooperative Bug Isolation"
       "https://gatech.instructure.com/courses/464202/assignments/2048040"
       "November 10, 2025")
@@ -41,6 +37,10 @@
 (define completed
   (reverse
     (list
+      (class/render-assignment
+        "Lab 4: Type Systems"
+        "https://gatech.instructure.com/courses/464202/assignments/2048038"
+        "October 27, 2025")
       (class/render-assignment
         "Lab 3: Datalog"
         "https://gatech.instructure.com/courses/464202/assignments/2048036"
