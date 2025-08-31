@@ -16,14 +16,6 @@
       "https://gatech.instructure.com/courses/464202/quizzes/662985"
       "October 6, 2025")
     (class/render-assignment
-      "Lab 5: Cooperative Bug Isolation"
-      "https://gatech.instructure.com/courses/464202/assignments/2048040"
-      "November 10, 2025")
-    (class/render-assignment
-      "Lab 6: Delta Debugging"
-      "https://gatech.instructure.com/courses/464202/assignments/2048042"
-      "November 24, 2025")
-    (class/render-assignment
       "Lab 7: KLEE"
       "https://gatech.instructure.com/courses/464202/assignments/2048044"
       "December 8, 2025")
@@ -37,6 +29,14 @@
 (define completed
   (reverse
     (list
+      (class/render-assignment
+        "Lab 6: Delta Debugging"
+        "https://gatech.instructure.com/courses/464202/assignments/2048042"
+        "November 24, 2025")
+      (class/render-assignment
+        "Lab 5: Cooperative Bug Isolation"
+        "https://gatech.instructure.com/courses/464202/assignments/2048040"
+        "November 10, 2025")
       (class/render-assignment
         "Lab 4: Type Systems"
         "https://gatech.instructure.com/courses/464202/assignments/2048038"
