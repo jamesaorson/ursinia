@@ -7,10 +7,6 @@
       "https://gatech.instructure.com/courses/461328/assignments/2123556"
       "August 30 - September 8, 2025")
     (class/render-assignment
-      "Assignment 3: Basic Java Coding and JUnit"
-      "https://gatech.instructure.com/courses/461328/assignments/2123562"
-      "August 30 - September 8, 2025")
-    (class/render-assignment
       "Assignment 4: Simple Android App"
       "https://gatech.instructure.com/courses/461328/assignments/2123566"
       "September 6 - September 15, 2025")
@@ -84,6 +80,10 @@
 (define completed
   (reverse
     (list
+      (class/render-assignment
+        "Assignment 3: Basic Java Coding and JUnit"
+        "https://gatech.instructure.com/courses/461328/assignments/2123562"
+        "August 30 - September 8, 2025")
       (class/render-assignment
         "Assignment 2: Git Usage"
         "https://gatech.instructure.com/courses/461328/assignments/2123560"
