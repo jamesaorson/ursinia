@@ -3,10 +3,6 @@
 (define todo
   (list
     (class/render-assignment
-      "Lecture: DC1: Fast Integer Multiplication"
-      "https://edstem.org/us/courses/82037/lessons/145031/slides/835003"
-      "September 1 - September 7, 2025")
-    (class/render-assignment
       "Lecture: DC3: Solving Recurrences"
       "https://edstem.org/us/courses/82037/lessons/145033/slides/835035"
       "September 1 - September 7, 2025")
@@ -196,6 +192,10 @@
 (define completed
   (reverse
     (list
+      (class/render-assignment
+        "Lecture: DC1: Fast Integer Multiplication"
+        "https://edstem.org/us/courses/82037/lessons/145031/slides/835003"
+        "September 1 - September 7, 2025")
       (class/render-assignment
         "Lecture: DP2: Knapsack - Chain Multiply"
         "https://edstem.org/us/courses/82037/lessons/145029/slides/834938"
