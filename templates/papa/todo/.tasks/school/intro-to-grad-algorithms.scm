@@ -3,22 +3,6 @@
 (define todo
   (list
     (class/render-assignment
-      "Lecture: DC3: Solving Recurrences"
-      "https://edstem.org/us/courses/82037/lessons/145033/slides/835035"
-      "September 1 - September 7, 2025")
-    (class/render-assignment
-      "Homework 2"
-      "https://gatech.instructure.com/courses/468386"
-      "September 1 - September 7, 2025")
-    (class/render-assignment
-      "Quiz 2: Format Quiz on D&C"
-      "https://gatech.instructure.com/courses/468386"
-      "September 1 - September 7, 2025")
-    (class/render-assignment
-      "Mock Exam 1"
-      "https://gatech.instructure.com/courses/468386"
-      "September 1 - September 7, 2025")
-    (class/render-assignment
       "Lecture: DC2: Linear-Time Median"
       "https://edstem.org/us/courses/82037/lessons/145032/slides/835018"
       "September 8 - September 14, 2025")
@@ -192,6 +176,22 @@
 (define completed
   (reverse
     (list
+      (class/render-assignment
+        "Mock Exam 1"
+        "https://gatech.instructure.com/courses/468386"
+        "September 1 - September 7, 2025")
+      (class/render-assignment
+        "Quiz 2: Format Quiz on D&C"
+        "https://gatech.instructure.com/courses/468386"
+        "September 1 - September 7, 2025")
+      (class/render-assignment
+        "Homework 2"
+        "https://gatech.instructure.com/courses/468386"
+        "September 1 - September 7, 2025")
+      (class/render-assignment
+        "Lecture: DC3: Solving Recurrences"
+        "https://edstem.org/us/courses/82037/lessons/145033/slides/835035"
+        "September 1 - September 7, 2025")
       (class/render-assignment
         "Lecture: DC1: Fast Integer Multiplication"
         "https://edstem.org/us/courses/82037/lessons/145031/slides/835003"

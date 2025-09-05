@@ -2,7 +2,6 @@
 
 (define todo
   (list
-    
     (class/render-assignment
       "Exam Policies Acknowledgment"
       "https://gatech.instructure.com/courses/464202/quizzes/662991"
