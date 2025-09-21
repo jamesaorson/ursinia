@@ -3,14 +3,6 @@
 (define todo
   (list
     (class/render-assignment
-      "Homework 4"
-      "https://gatech.instructure.com/courses/468386"
-      "September 15 - September 21, 2025")
-    (class/render-assignment
-      "Exam 1"
-      "https://gatech.instructure.com/courses/468386"
-      "September 18 - September 21, 2025")
-    (class/render-assignment
       "Lecture: DP3: Shortest Paths"
       "https://edstem.org/us/courses/82037/lessons/145030/slides/834971"
       "September 22 - September 28, 2025")
@@ -164,6 +156,14 @@
 (define completed
   (reverse
     (list
+      (class/render-assignment
+        "Exam 1"
+        "https://gatech.instructure.com/courses/468386"
+        "September 18 - September 21, 2025")
+      (class/render-assignment
+        "Homework 4 (SKIPPED)"
+        "https://gatech.instructure.com/courses/468386"
+        "September 15 - September 21, 2025")
       (class/render-assignment
         "Homework 3"
         "https://gatech.instructure.com/courses/468386"
