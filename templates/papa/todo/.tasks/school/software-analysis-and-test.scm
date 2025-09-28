@@ -3,10 +3,6 @@
 (define todo
   (list
     (class/render-assignment
-      "Course Exam"
-      "https://gatech.instructure.com/courses/464202/quizzes/662955"
-      "September 29, 2025")
-    (class/render-assignment
       "Mid-Course Survey"
       "https://gatech.instructure.com/courses/464202/quizzes/662985"
       "October 6, 2025")
@@ -20,6 +16,10 @@
 (define completed
   (reverse
     (list
+      (class/render-assignment
+        "Course Exam"
+        "https://gatech.instructure.com/courses/464202/quizzes/662955"
+        "September 29, 2025")
       (class/render-assignment
         "Exam Policies Acknowledgment"
         "https://gatech.instructure.com/courses/464202/quizzes/662991"

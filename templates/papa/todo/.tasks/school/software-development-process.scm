@@ -3,10 +3,6 @@
 (define todo
   (list
     (class/render-assignment
-      "Group Project: Deliverable 1"
-      "https://gatech.instructure.com/courses/461328/assignments/2123578"
-      "September 20 - September 29, 2025")
-    (class/render-assignment
       "Group Project: Weekly Report 1"
       "https://gatech.instructure.com/courses/461328/assignments/2123590"
       "September 20 - September 29, 2025")
@@ -64,6 +60,10 @@
 (define completed
   (reverse
     (list
+      (class/render-assignment
+        "Group Project: Deliverable 1"
+        "https://gatech.instructure.com/courses/461328/assignments/2123578"
+        "September 20 - September 29, 2025")
       (class/render-assignment
         "Group Project: Deliverable 0"
         "https://gatech.instructure.com/courses/461328/assignments/2123576"
