@@ -3,23 +3,7 @@
 (define todo
   (list
     (class/render-assignment
-      "Lecture: DP3: Shortest Paths"
-      "https://edstem.org/us/courses/82037/lessons/145030/slides/834971"
-      "September 22 - September 28, 2025")
-    (class/render-assignment
-      "Lecture: GR1: Strongly Connected Components"
-      "https://edstem.org/us/courses/82037/lessons/145036/slides/835091"
-      "September 29 - October 5, 2025")
-    (class/render-assignment
-      "Lecture: GR2: 2-Satisfiability"
-      "https://edstem.org/us/courses/82037/lessons/145037/slides/835121"
-      "September 29 - October 5, 2025")
-    (class/render-assignment
       "Homework 5"
-      "https://gatech.instructure.com/courses/468386"
-      "September 29 - October 5, 2025")
-    (class/render-assignment
-      "Quiz 4: Format Quiz on Graph Theory"
       "https://gatech.instructure.com/courses/468386"
       "September 29 - October 5, 2025")
     (class/render-assignment
@@ -156,6 +140,22 @@
 (define completed
   (reverse
     (list
+      (class/render-assignment
+        "Quiz 4: Format Quiz on Graph Theory"
+        "https://gatech.instructure.com/courses/468386"
+        "September 29 - October 5, 2025")
+      (class/render-assignment
+        "Lecture: GR2: 2-Satisfiability"
+        "https://edstem.org/us/courses/82037/lessons/145037/slides/835121"
+        "September 29 - October 5, 2025")
+      (class/render-assignment
+        "Lecture: GR1: Strongly Connected Components"
+        "https://edstem.org/us/courses/82037/lessons/145036/slides/835091"
+        "September 29 - October 5, 2025")
+      (class/render-assignment
+        "Lecture: DP3: Shortest Paths"
+        "https://edstem.org/us/courses/82037/lessons/145030/slides/834971"
+        "September 22 - September 28, 2025")
       (class/render-assignment
         "Exam 1"
         "https://gatech.instructure.com/courses/468386"
