@@ -7,9 +7,9 @@
    ([content . "[steward] Mop tile floors"]
     [done? . #f])
    ([content . "[steward] Replace home filter"]
-    [done? . #f])
+    [done? . #t])
    ([content . "[steward] Wipe base boards"]
     [done? . #f])
    ([content . "[steward] Wipe crown moulding"]
-    [done? . #f])
+    [done? . #t])
 )])
