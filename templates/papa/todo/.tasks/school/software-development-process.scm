@@ -3,22 +3,6 @@
 (define todo
   (list
     (class/render-assignment
-      "Group Project: Deliverable 2"
-      "https://gatech.instructure.com/courses/461328/assignments/2123580"
-      "September 27 - October 6, 2025")
-    (class/render-assignment
-      "Group Project: Weekly Report 2"
-      "https://gatech.instructure.com/courses/461328/assignments/2123592"
-      "September 27 - October 6, 2025")
-    (class/render-assignment
-      "Group Project: Deliverable 3"
-      "https://gatech.instructure.com/courses/461328/assignments/2123582"
-      "October 4 - October 13, 2025")
-    (class/render-assignment
-      "Group Project: Weekly Report 3"
-      "https://gatech.instructure.com/courses/461328/assignments/2123594"
-      "October 4 - October 13, 2025")
-    (class/render-assignment
       "Group Project: Deliverable 4"
       "https://gatech.instructure.com/courses/461328/assignments/2123584"
       "October 11 - October 20, 2025")
@@ -56,6 +40,22 @@
 (define completed
   (reverse
     (list
+      (class/render-assignment
+        "Group Project: Weekly Report 3"
+        "https://gatech.instructure.com/courses/461328/assignments/2123594"
+        "October 4 - October 13, 2025")
+      (class/render-assignment
+        "Group Project: Deliverable 3"
+        "https://gatech.instructure.com/courses/461328/assignments/2123582"
+        "October 4 - October 13, 2025")
+      (class/render-assignment
+        "Group Project: Weekly Report 2"
+        "https://gatech.instructure.com/courses/461328/assignments/2123592"
+        "September 27 - October 6, 2025")
+      (class/render-assignment
+        "Group Project: Deliverable 2"
+        "https://gatech.instructure.com/courses/461328/assignments/2123580"
+        "September 27 - October 6, 2025")
       (class/render-assignment
         "Group Project: Weekly Report 1"
         "https://gatech.instructure.com/courses/461328/assignments/2123590"

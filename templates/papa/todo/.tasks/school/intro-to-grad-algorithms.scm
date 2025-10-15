@@ -3,38 +3,6 @@
 (define todo
   (list
     (class/render-assignment
-      "Homework 5"
-      "https://gatech.instructure.com/courses/468386"
-      "September 29 - October 5, 2025")
-    (class/render-assignment
-      "Lecture: GR3: Minimum Spanning Tree"
-      "https://edstem.org/us/courses/82037/lessons/145038/slides/835137"
-      "October 6 - October 12 , 2025")
-    (class/render-assignment
-      "Homework 6"
-      "https://gatech.instructure.com/courses/468386"
-      "October 6 - October 12, 2025")
-    (class/render-assignment
-      "Quiz 5: Content Quiz on Graph Theory"
-      "https://gatech.instructure.com/courses/468386"
-      "October 6 - October 12, 2025")
-    (class/render-assignment
-      "Lecture: MF1: Ford-Fulkerson Algorithm"
-      "https://edstem.org/us/courses/82037/lessons/145040/slides/835182"
-      "October 13 - October 19, 2025")
-    (class/render-assignment
-      "Lecture: MF2: Max-Flow Min-Cut"
-      "https://edstem.org/us/courses/82037/lessons/145041/slides/835202"
-      "October 13 - October 19, 2025")
-    (class/render-assignment
-      "Lecture: MF3: Image Segmentation"
-      "https://edstem.org/us/courses/82037/lessons/145042/slides/835218"
-      "October 13 - October 19, 2025")
-    (class/render-assignment
-      "Lecture: MF4: Edmonds-Karp Algorithm"
-      "https://edstem.org/us/courses/82037/lessons/145043/slides/835233"
-      "October 13 - October 19, 2025")
-    (class/render-assignment
       "Homework 7"
       "https://gatech.instructure.com/courses/468386"
       "October 13 - October 19, 2025")
@@ -140,6 +108,38 @@
 (define completed
   (reverse
     (list
+      (class/render-assignment
+        "Quiz 5: Content Quiz on Graph Theory"
+        "https://gatech.instructure.com/courses/468386"
+        "October 6 - October 12, 2025")
+      (class/render-assignment
+        "Homework 6"
+        "https://gatech.instructure.com/courses/468386"
+        "October 6 - October 12, 2025")
+      (class/render-assignment
+        "Lecture: MF4: Edmonds-Karp Algorithm"
+        "https://edstem.org/us/courses/82037/lessons/145043/slides/835233"
+        "October 13 - October 19, 2025")
+      (class/render-assignment
+        "Lecture: MF3: Image Segmentation"
+        "https://edstem.org/us/courses/82037/lessons/145042/slides/835218"
+        "October 13 - October 19, 2025")
+      (class/render-assignment
+        "Lecture: MF2: Max-Flow Min-Cut"
+        "https://edstem.org/us/courses/82037/lessons/145041/slides/835202"
+        "October 13 - October 19, 2025")
+      (class/render-assignment
+        "Lecture: MF1: Ford-Fulkerson Algorithm"
+        "https://edstem.org/us/courses/82037/lessons/145040/slides/835182"
+        "October 13 - October 19, 2025")
+      (class/render-assignment
+        "Lecture: GR3: Minimum Spanning Tree"
+        "https://edstem.org/us/courses/82037/lessons/145038/slides/835137"
+        "October 6 - October 12 , 2025")
+      (class/render-assignment
+        "Homework 5"
+        "https://gatech.instructure.com/courses/468386"
+        "September 29 - October 5, 2025")
       (class/render-assignment
         "Quiz 4: Format Quiz on Graph Theory"
         "https://gatech.instructure.com/courses/468386"
