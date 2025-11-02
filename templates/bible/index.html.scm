@@ -20,7 +20,7 @@
                                                    [text (cdr link)])
                                                `(li (a (@ (href ,href))
                                                        ,text))))
-                                           '(["versions" . "Full Text Bibles"]
-                                             ["reading-plans" . "Bible Reading Plans"]
-                                             ["christian-resources" . "Other Christian Resources"]))))))
+                                           '(["/bible/versions" . "Full Text Bibles"]
+                                             ["/bible/reading-plans" . "Bible Reading Plans"]
+                                             ["/bible/christian-resources" . "Other Christian Resources"]))))))
 
