@@ -3,74 +3,6 @@
 (define todo
   (list
     (class/render-assignment
-      "Homework 7"
-      "https://gatech.instructure.com/courses/468386"
-      "October 13 - October 19, 2025")
-    (class/render-assignment
-      "Homework 8"
-      "https://gatech.instructure.com/courses/468386"
-      "October 13 - October 19, 2025")
-    (class/render-assignment
-      "Exam 2"
-      "https://gatech.instructure.com/courses/468386"
-      "October 23 - October 26, 2025")
-    (class/render-assignment
-      "Lecture: NP1: Definitions"
-      "https://edstem.org/us/courses/82037/lessons/145045/slides/835266"
-      "October 27 - November 2, 2025")
-    (class/render-assignment
-      "Lecture: NP2: 3SAT"
-      "https://edstem.org/us/courses/82037/lessons/145046/slides/835301"
-      "October 27 - November 2, 2025")
-    (class/render-assignment
-      "Lecture: NP3: Graph Problems"
-      "https://edstem.org/us/courses/82037/lessons/145047/slides/835320"
-      "October 27 - November 2, 2025")
-    (class/render-assignment
-      "Homework 9"
-      "https://gatech.instructure.com/courses/468386"
-      "October 27 - November 2, 2025")
-    (class/render-assignment
-      "Quiz 6: Format Quiz on NP Theory"
-      "https://gatech.instructure.com/courses/468386"
-      "October 27 - November 2, 2025")
-      (class/render-assignment
-      "Lecture: LP1: Linear Programming"
-      "https://edstem.org/us/courses/82037/lessons/145050/slides/835375"
-      "November 3 - November 9, 2025")
-    (class/render-assignment
-      "Lecture: LP2: Geometry"
-      "https://edstem.org/us/courses/82037/lessons/145051/slides/835398"
-      "November 3 - November 9, 2025")
-    (class/render-assignment
-      "Lecture: LP3: Duality"
-      "https://edstem.org/us/courses/82037/lessons/145052/slides/835406"
-      "November 3 - November 9, 2025")
-    (class/render-assignment
-      "Homework 10"
-      "https://gatech.instructure.com/courses/468386"
-      "November 3 - November 9, 2025")
-    (class/render-assignment
-      "Quiz 7: Content Quiz on NP & LP"
-      "https://gatech.instructure.com/courses/468386"
-      "November 3 - November 9, 2025")
-    (class/render-assignment
-      "Lecture: NP4: Knapsack"
-      "https://edstem.org/us/courses/82037/lessons/145048/slides/835351"
-      "November 10 - November 16, 2025")
-    (class/render-assignment
-      "Lecture: NP5: Halting Problem"
-      "https://edstem.org/us/courses/82037/lessons/145049/slides/835367"
-      "November 10 - November 16, 2025")
-    (class/render-assignment
-      "Lecture: LP4: Max-SAT Approximation"
-      "https://edstem.org/us/courses/82037/lessons/145053/slides/835425"
-      "November 10 - November 16, 2025")
-    (class/render-assignment
-      "Homework 11"
-      "https://gatech.instructure.com/courses/468386"
-      "November 3 - November 9, 2025")
-    (class/render-assignment
       "Exam 3"
       "https://gatech.instructure.com/courses/468386"
       "November 20 - November 24, 2025")
@@ -108,6 +40,74 @@
 (define completed
   (reverse
     (list
+      (class/render-assignment
+        "Homework 11"
+        "https://gatech.instructure.com/courses/468386"
+        "November 3 - November 9, 2025")
+      (class/render-assignment
+        "Lecture: LP4: Max-SAT Approximation"
+        "https://edstem.org/us/courses/82037/lessons/145053/slides/835425"
+        "November 10 - November 16, 2025")
+      (class/render-assignment
+        "Lecture: NP5: Halting Problem"
+        "https://edstem.org/us/courses/82037/lessons/145049/slides/835367"
+        "November 10 - November 16, 2025")
+      (class/render-assignment
+        "Lecture: NP4: Knapsack"
+        "https://edstem.org/us/courses/82037/lessons/145048/slides/835351"
+        "November 10 - November 16, 2025")
+      (class/render-assignment
+        "Quiz 7: Content Quiz on NP & LP"
+        "https://gatech.instructure.com/courses/468386"
+        "November 3 - November 9, 2025")
+      (class/render-assignment
+        "Homework 10"
+        "https://gatech.instructure.com/courses/468386"
+        "November 3 - November 9, 2025")
+      (class/render-assignment
+        "Lecture: LP3: Duality"
+        "https://edstem.org/us/courses/82037/lessons/145052/slides/835406"
+        "November 3 - November 9, 2025")
+      (class/render-assignment
+        "Lecture: LP2: Geometry"
+        "https://edstem.org/us/courses/82037/lessons/145051/slides/835398"
+        "November 3 - November 9, 2025")
+      (class/render-assignment
+        "Lecture: LP1: Linear Programming"
+        "https://edstem.org/us/courses/82037/lessons/145050/slides/835375"
+        "November 3 - November 9, 2025")
+      (class/render-assignment
+        "Quiz 6: Format Quiz on NP Theory"
+        "https://gatech.instructure.com/courses/468386"
+        "October 27 - November 2, 2025")
+      (class/render-assignment
+        "Homework 9"
+        "https://gatech.instructure.com/courses/468386"
+        "October 27 - November 2, 2025")
+      (class/render-assignment
+        "Lecture: NP3: Graph Problems"
+        "https://edstem.org/us/courses/82037/lessons/145047/slides/835320"
+        "October 27 - November 2, 2025")
+      (class/render-assignment
+        "Lecture: NP2: 3SAT"
+        "https://edstem.org/us/courses/82037/lessons/145046/slides/835301"
+        "October 27 - November 2, 2025")
+      (class/render-assignment
+        "Lecture: NP1: Definitions"
+        "https://edstem.org/us/courses/82037/lessons/145045/slides/835266"
+        "October 27 - November 2, 2025")
+      (class/render-assignment
+        "Exam 2"
+        "https://gatech.instructure.com/courses/468386"
+        "October 23 - October 26, 2025")
+      (class/render-assignment
+        "Homework 8"
+        "https://gatech.instructure.com/courses/468386"
+        "October 13 - October 19, 2025")
+      (class/render-assignment
+        "Homework 7"
+        "https://gatech.instructure.com/courses/468386"
+        "October 13 - October 19, 2025")
       (class/render-assignment
         "Quiz 5: Content Quiz on Graph Theory"
         "https://gatech.instructure.com/courses/468386"
