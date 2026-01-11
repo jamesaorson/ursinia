@@ -4,82 +4,106 @@
 
 ```mermaid
 graph TD
-  PRE500[PRE500: preparatory studies]
-  BS500[BS500: biblical greek]
-  BS501[BS501: biblical hebrew]
-  BS502[BS502: hermeneutics]
-  BS531[BS531: old testament history and theology]
-  BS532[BS532: the pentateuch]
-  BS533[BS533: old testament historical books]
-  BS534[BS534: old testament wisdom books]
-  BS535[BS535: old testament prophetic books]
-  BS541[BS541: new testament history and theology]
-  BS542[BS542: the gospels and acts]
-  BS543[BS543: new testament epistles]
-  BS544[BS544: revelation]
-  TH531[TH531: systematic theology i]
-  TH532[TH532: systematic theology ii]
-  TH533[TH533: systematic theology iii]
-  TH534[TH534: covenant theology]
-  TH620[TH620: the westminster standards]
-  CH520[CH520: history of the church]
-  CH525[CH525: the reformation]
-  CH526[CH526: american church history]
-  CH527[CH527: presbyterian church history]
-  PT501[PT501: homiletics]
-  PT505[PT505: evangelism and missions]
-  AP600[AP600: apologetics]
-  AP605[AP605: survey of world religions and cults]
-  PH600[PH600: survey of philosophy and worldview studies]
-  TH625[TH625: biblical ethics]
-  TH630[TH630: contemporary theology]
-  PT600[PT600: pastoral theology]
-  BS690[BS690: master's thesis]
+  PRE500[PRE500: Preparatory Studies]
+  BS500[BS500: Biblical Greek]
+  BS501[BS501: Biblical Hebrew]
+  BS502[BS502: Hermeneutics]
+  BS531[BS531: Old Testament History and Theology]
+  BS532[BS532: The Pentateuch]
+  BS533[BS533: Old Testament Historical Books]
+  BS534[BS534: Old Testament Wisdom Books]
+  BS535[BS535: Old Testament Prophetic Books]
+  BS541[BS541: New Testament History and Theology]
+  BS542[BS542: The Gospels and Acts]
+  BS543[BS543: New Testament Epistles]
+  BS544[BS544: Revelation]
+  TH531[TH531: Systematic Theology I]
+  TH532[TH532: Systematic Theology II]
+  TH533[TH533: Systematic Theology III]
+  TH534[TH534: Covenant Theology]
+  TH620[TH620: The Westminster Standards]
+  CH520[CH520: History of the Church]
+  CH525[CH525: The Reformation]
+  CH526[CH526: American Church History]
+  CH527[CH527: Presbyterian Church History]
+  PT501[PT501: Homiletics]
+  PT505[PT505: Evangelism and Missions]
+  AP600[AP600: Apologetics]
+  AP605[AP605: Survey of World Religions and Cults]
+  PH600[PH600: Survey of Philosophy and Worldview Studies]
+  TH625[TH625: Biblical Ethics]
+  TH630[TH630: Contemporary Theology]
+  PT600[PT600: Pastoral Theology]
+  BS690[BS690: Master's Thesis]
 
-  PRE500 --> TH531
-  PRE500 --> BS500
-  TH531  --> TH534
-  TH534  --> BS502
-  BS502  --> PT501
-  BS500  --> BS501
-  BS501  --> PT501
+  PRE500 --> BS502
+  BS502 --> BS531
+  BS531 --> BS532
+  BS532 --> BS533
+  BS533 --> BS534
+  BS534 --> BS535
+  BS535 --> BS541
+  BS541 --> BS542
+  BS542 --> BS543
+  BS543 --> BS544
+  BS544 --> BS500
+  BS500 --> BS501
+  BS501 --> TH531
+  TH531 --> TH532
+  TH532 --> TH533
+  TH533 --> TH534
+  TH534 --> TH620
+  TH620 --> TH625
+  TH625 --> TH630
+  TH630 --> CH520
+  CH520 --> CH525
+  CH525 --> CH526
+  CH526 --> CH527
+  CH527 --> PT501
+  PT501 --> PT600
+  PT600 --> PT505
+  PT505 --> AP600
+  AP600 --> AP605
+  AP605 --> PH600
+  PH600 --> BS690
+  BS690
 ```
 
-## Semantic Order (one that should strictly precede another)
+## Semantic Order (strict procession)
 
 ```mermaid
 graph TD
-  PRE500[PRE500: preparatory studies]
-  BS500[BS500: biblical greek]
-  BS501[BS501: biblical hebrew]
-  BS502[BS502: hermeneutics]
-  BS531[BS531: old testament history and theology]
-  BS532[BS532: the pentateuch]
-  BS533[BS533: old testament historical books]
-  BS534[BS534: old testament wisdom books]
-  BS535[BS535: old testament prophetic books]
-  BS541[BS541: new testament history and theology]
-  BS542[BS542: the gospels and acts]
-  BS543[BS543: new testament epistles]
-  BS544[BS544: revelation]
-  TH531[TH531: systematic theology i]
-  TH532[TH532: systematic theology ii]
-  TH533[TH533: systematic theology iii]
-  TH534[TH534: covenant theology]
-  TH620[TH620: the westminster standards]
-  CH520[CH520: history of the church]
-  CH525[CH525: the reformation]
-  CH526[CH526: american church history]
-  CH527[CH527: presbyterian church history]
-  PT501[PT501: homiletics]
-  PT505[PT505: evangelism and missions]
-  AP600[AP600: apologetics]
-  AP605[AP605: survey of world religions and cults]
-  PH600[PH600: survey of philosophy and worldview studies]
-  TH625[TH625: biblical ethics]
-  TH630[TH630: contemporary theology]
-  PT600[PT600: pastoral theology]
-  BS690[BS690: master's thesis]
+  PRE500[PRE500: Preparatory Studies]
+  BS500[BS500: Biblical Greek]
+  BS501[BS501: Biblical Hebrew]
+  BS502[BS502: Hermeneutics]
+  BS531[BS531: Old Testament History and Theology]
+  BS532[BS532: The Pentateuch]
+  BS533[BS533: Old Testament Historical Books]
+  BS534[BS534: Old Testament Wisdom Books]
+  BS535[BS535: Old Testament Prophetic Books]
+  BS541[BS541: New Testament History and Theology]
+  BS542[BS542: The Gospels and Acts]
+  BS543[BS543: New Testament Epistles]
+  BS544[BS544: Revelation]
+  TH531[TH531: Systematic Theology I]
+  TH532[TH532: Systematic Theology II]
+  TH533[TH533: Systematic Theology III]
+  TH534[TH534: Covenant Theology]
+  TH620[TH620: The Westminster Standards]
+  CH520[CH520: History of the Church]
+  CH525[CH525: The Reformation]
+  CH526[CH526: American Church History]
+  CH527[CH527: Presbyterian Church History]
+  PT501[PT501: Homiletics]
+  PT505[PT505: Evangelism and Missions]
+  AP600[AP600: Apologetics]
+  AP605[AP605: Survey of World Religions and Cults]
+  PH600[PH600: Survey of Philosophy and Worldview Studies]
+  TH625[TH625: Biblical Ethics]
+  TH630[TH630: Contemporary Theology]
+  PT600[PT600: Pastoral Theology]
+  BS690[BS690: Master's Thesis]
 
   PRE500 --> BS500
   PRE500 --> BS501
@@ -119,29 +143,71 @@ graph TD
   BS690 -->|"Requires all major coursework"| BS690
 ```
 
-  <!--
-  TH532[TH532: systematic theology ii]
-  TH533[TH533: systematic theology iii]
-  TH620[TH620: the westminster standards]
-  BS531[BS531: old testament history and theology]
-  BS532[BS532: the pentateuch]
-  BS533[BS533: old testament historical books]
-  BS534[BS534: old testament wisdom books]
-  BS535[BS535: old testament prophetic books]
-  BS541[BS541: new testament history and theology]
-  BS542[BS542: the gospels and acts]
-  BS543[BS543: new testament epistles]
-  BS544[BS544: revelation]
-  CH520[CH520: history of the church]
-  CH525[CH525: the reformation]
-  CH526[CH526: american church history]
-  CH527[CH527: presbyterian church history]
-  TH625[TH625: biblical ethics]
-  AP600[AP600: apologetics]
-  PH600[PH600: survey of philosophy and worldview studies]
-  PT505[PT505: evangelism and missions]
-  AP605[AP605: survey of world religions and cults]
-  TH630[TH630: contemporary theology]
-  PT600[PT600: pastoral theology]
-  BS690[BS690: master's thesis]
--->
+## Topological Sort
+
+```mermaid
+graph TD
+  PRE500[PRE500: Preparatory Studies]
+  BS500[BS500: Biblical Greek]
+  BS501[BS501: Biblical Hebrew]
+  BS502[BS502: Hermeneutics]
+  BS531[BS531: Old Testament History and Theology]
+  BS532[BS532: The Pentateuch]
+  BS533[BS533: Old Testament Historical Books]
+  BS534[BS534: Old Testament Wisdom Books]
+  BS535[BS535: Old Testament Prophetic Books]
+  BS541[BS541: New Testament History and Theology]
+  BS542[BS542: The Gospels and Acts]
+  BS543[BS543: New Testament Epistles]
+  BS544[BS544: Revelation]
+  TH531[TH531: Systematic Theology I]
+  TH532[TH532: Systematic Theology II]
+  TH533[TH533: Systematic Theology III]
+  TH534[TH534: Covenant Theology]
+  TH620[TH620: The Westminster Standards]
+  CH520[CH520: History of the Church]
+  CH525[CH525: The Reformation]
+  CH526[CH526: American Church History]
+  CH527[CH527: Presbyterian Church History]
+  PT501[PT501: Homiletics]
+  PT505[PT505: Evangelism and Missions]
+  AP600[AP600: Apologetics]
+  AP605[AP605: Survey of World Religions and Cults]
+  PH600[PH600: Survey of Philosophy and Worldview Studies]
+  TH625[TH625: Biblical Ethics]
+  TH630[TH630: Contemporary Theology]
+  PT600[PT600: Pastoral Theology]
+  BS690[BS690: Master's Thesis]
+
+  PRE500 --> BS502
+  BS502 --> BS531
+  BS531 --> BS532
+  BS532 --> BS533
+  BS533 --> BS534
+  BS534 --> BS535
+  BS535 --> BS541
+  BS541 --> BS542
+  BS542 --> BS543
+  BS543 --> BS544
+  BS544 --> BS500
+  BS500 --> BS501
+  BS501 --> TH531
+  TH531 --> TH532
+  TH532 --> TH533
+  TH533 --> TH534
+  TH534 --> TH620
+  TH620 --> TH625
+  TH625 --> TH630
+  TH630 --> CH520
+  CH520 --> CH525
+  CH525 --> CH526
+  CH526 --> CH527
+  CH527 --> PT501
+  PT501 --> PT600
+  PT600 --> PT505
+  PT505 --> AP600
+  AP600 --> AP605
+  AP605 --> PH600
+  PH600 --> BS690
+  BS690
+```
