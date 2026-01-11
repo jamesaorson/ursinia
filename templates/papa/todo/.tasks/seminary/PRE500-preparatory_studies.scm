@@ -1,6 +1,5 @@
 (use-modules (scripts lib class))
 
-
 (define todo
   (list
     (class/render-assignment
