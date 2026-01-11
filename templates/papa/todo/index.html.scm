@@ -59,7 +59,7 @@
                      (div (@ (style "float: left"))
                         ,(task-list "weekly"))
                      (div (@ (style "float: right"))
-                        ,(task-list "school/00-PRE500-preparatory_studies")
+                        ,(task-list "seminary/PRE500-preparatory_studies")
                         ,(task-list "monthly")
                         ,(task-list "annual")
                         ,(task-list "ongoing")))))
