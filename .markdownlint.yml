@@ -1,0 +1,10 @@
+no-duplicate-heading:
+  siblings_only: true
+line-length:
+  max: 120
+  ignore_urls: true
+  ignore_tables: true
+  ignore_code_blocks: true
+  ignore_trailing_code_fence: true
+  tab_width: 4
+  code_blocks: false
