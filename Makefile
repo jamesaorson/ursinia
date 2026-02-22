@@ -12,13 +12,13 @@ NO_GENERATE_TEMPLATES ?= 0
 
 .PHONY: setup
 setup: ./scripts/setup ## Setup dependencies for system
-	@$<
+	$<
 
 ##@ Local Development
 
 .PHONY: deploy
 deploy: ./scripts/deploy ## Does an incremental deploy/redeploy of the application
-	@if [[ "$(NO_GENERATE_TEMPLATES)" == "0" || -z "$(NO_GENERATE_TEMPLATES)" ]]; then
+	if [[ "$(NO_GENERATE_TEMPLATES)" == "0" || -z "$(NO_GENERATE_TEMPLATES)" ]]; then
 		$(MAKE) -B render
 	fi
 	$<
@@ -26,10 +26,10 @@ deploy: ./scripts/deploy ## Does an incremental deploy/redeploy of the applicati
 .PHONY: render
 render: $(RENDERS) ## Renders the template files into their new home
 wwwroot/%.html: templates/%.html.scm 
-	@echo "RENDER: $< -> $@"
-	@mkdir -p $$(dirname $@)
-	@: > $@
-	@guile \
+	echo "RENDER: $< -> $@"
+	mkdir -p $$(dirname $@)
+	: > $@
+	guile \
 		-L ${PWD} \
 		-s $< >> $@
 
@@ -42,6 +42,14 @@ ifeq ($(UNAME_S),Darwin)
 	open http://localhost:8000
 endif
 	@python3 -m http.server -d ./wwwroot 8000
+
+.PHONY: watch
+watch: ## Watch for changes and re-render templates
+	echo "Watching for changes in templates/..."
+	while true; do
+		inotifywait -e modify,create,delete -r templates/
+		$(MAKE) -B render
+	done
 
 ##@ Helpers
 
