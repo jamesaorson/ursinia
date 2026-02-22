@@ -8,8 +8,8 @@
     "check": "concurrently -m1 npm:check:*",
     "fix": "concurrently -m1 npm:fix:*",
     "format": "npm run fix:prettier",
-    "check:prettier": "prettier --check ./wwwroot/papa/theology",
-    "fix:prettier": "prettier --write ./wwwroot/papa/theology"
+    "check:prettier": "prettier --check ./wwwroot/papa/theology ./wwwroot/**/*.css ./**/*.json ./**/*.yml",
+    "fix:prettier": "prettier --write ./wwwroot/papa/theology ./wwwroot/**/*.css ./**/*.json ./**/*.yml"
   },
   "devDependencies": {
     "concurrently": "^9.2.1",
