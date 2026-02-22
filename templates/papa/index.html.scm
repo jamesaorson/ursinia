@@ -1,6 +1,6 @@
 (use-modules (scripts lib html))
 
-(render-template "Papa"
+(render-template "Papa" "papa"
                  `((header
                      (div (@ (id "header"))
                           (span (@ (id "header-sitemap"))

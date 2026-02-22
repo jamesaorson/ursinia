@@ -9,7 +9,7 @@
                                        ,text))))
          recipes)))
 
-(render-template "Ursinia - Food"
+(render-template "Ursinia - Food" "food"
                  `((header
                      (div (@ (id "header"))
                           (span (@ (id "header-sitemap"))

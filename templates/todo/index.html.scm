@@ -1,6 +1,6 @@
 (use-modules (scripts lib html))
 
-(render-template "Ursinia - Todo"
+(render-template "Ursinia - Todo" "todo"
                  `((header
                      (div (@ (id "header"))
                           (span (@ (id "header-sitemap"))

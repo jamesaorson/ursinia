@@ -1,6 +1,6 @@
 (use-modules (scripts lib html))
 
-(render-template "Harmony"
+(render-template "Harmony" "harmony"
                  `((header
                      (div (@ (id "header"))
                           (span (@ (id "header-sitemap"))

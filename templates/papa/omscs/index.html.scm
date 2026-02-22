@@ -1,6 +1,6 @@
 (use-modules (scripts lib html))
 
-(render-template "OMSCS"
+(render-template "OMSCS" "papa"
                  `((header
                      (div (@ (id "header"))
                           (span (@ (id "header-sitemap"))
