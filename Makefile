@@ -23,6 +23,18 @@ deploy: ./scripts/deploy ## Does an incremental deploy/redeploy of the applicati
 	fi
 	$<
 
+.PHONY: check
+check: ## Checks formatting
+	npm run check
+
+.PHONY: fix
+fix: ## Fixes formatting issues
+	npm run fix
+
+.PHONY: format
+format: ## Fixes formatting issues
+	npm run fix:prettier
+
 .PHONY: render
 render: $(RENDERS) ## Renders the template files into their new home
 wwwroot/%.html: templates/%.html.scm 

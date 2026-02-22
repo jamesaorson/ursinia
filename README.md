@@ -62,7 +62,7 @@ The resulting output is minified, but if that output is then formatted, it would
       <div id="header">
         <span id="header-sitemap"
           ><a id="header-sitemap-link" href="/sitemap"
-            >&#8612; <code>sitemap</code></a
+            >&#8612;<code>sitemap</code></a
           ></span
         >
       </div>
