@@ -1,14 +1,5 @@
 {
-    "calva.replConnectSequences": [
-        {
-            "name": "lein",
-            "projectType": "Leiningen",
-            "autoSelectForJackIn": true,
-            "menuSelections": {
-                "leinProfiles": [
-                    ":uberjar",
-                ]
-            }
-        }
-    ],
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
 }

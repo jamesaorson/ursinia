@@ -1,9 +1,20 @@
-SHELL := /bin/bash
-.SHELLFLAGS = -e -c
-.DEFAULT_GOAL := render
+SHELL := /usr/bin/env
+.SHELLFLAGS = bash -e -c
+.DEFAULT_GOAL := help
 .ONESHELL:
+.SILENT:
+
+UNAME_S := $(shell uname -s)
 
 NO_GENERATE_TEMPLATES ?= 0
+
+##@ Development Environment
+
+.PHONY: setup
+setup: ./scripts/setup ## Setup dependencies for system
+	@$<
+
+##@ Local Development
 
 .PHONY: deploy
 deploy: ./scripts/deploy ## Does an incremental deploy/redeploy of the application
@@ -11,16 +22,6 @@ deploy: ./scripts/deploy ## Does an incremental deploy/redeploy of the applicati
 		$(MAKE) -B render
 	fi
 	$<
-
-REMOTE_LOCATION ?= james@ursinia.net
-REMOTE_DIR ?= ~/git.sr.ht/jamesaorson/ursinia.net
-
-.PHONY: remote-deploy
-remote-deploy: ./scripts/deploy ## Remotely deploys the application
-	ssh -t $(REMOTE_LOCATION) "cd $(REMOTE_DIR) && git pull && make deploy"
-
-TEMPLATES := $(shell find templates/ -type f -not -path '*/.*' -name '*.html.scm')
-RENDERS := $(patsubst templates/%.html.scm,wwwroot/%.html,$(TEMPLATES))
 
 .PHONY: render
 render: $(RENDERS) ## Renders the template files into their new home
@@ -32,16 +33,6 @@ wwwroot/%.html: templates/%.html.scm
 		-L ${PWD} \
 		-s $< >> $@
 
-.PHONY: get-certificate
-get-certificate: ./scripts/get-certificate ## Install or refresh SSL certificates
-	@$<
-
-.PHONY: setup
-setup: ./scripts/setup ## Setup dependencies for system
-	@$<
-
-UNAME_S := $(shell uname -s)
-
 .PHONY: serve
 serve: ## Serve the application locally
 ifeq ($(UNAME_S),Linux)
@@ -51,6 +42,8 @@ ifeq ($(UNAME_S),Darwin)
 	open http://localhost:8000
 endif
 	@python3 -m http.server -d ./wwwroot 8000
+
+##@ Helpers
 
 .PHONY: help
 help: ## Displays help info
