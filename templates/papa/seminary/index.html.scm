@@ -4,7 +4,7 @@
 (define (render-list id)
    (task/render-list (format #f "~a/.tasks" (dirname (current-filename))) id))
 
-(render-template "Ursinia - Papa - Todo" "papa"
+(render-template "Ursinia - Papa - Seminary" "papa"
                  `((header
                      (div (@ (id "header"))
                           (span (@ (id "header-back"))
@@ -13,6 +13,7 @@
                                    #\↤ " " (code "papa")))))
                    (main (@ (style "padding-bottom: 1rem;"))
                      (div (@ (style "float: left"))
-                        ,(render-list "courses/AP600-apologetics"))
-                     (div (@ (style "float: right"))
-                        ,(render-list "courses/AP605-survey_of_world_religions_and_cults")))))
+                        ,(render-list "courses/transcribed/BS502-hermeneutics"))
+                     ; (div (@ (style "float: right"))
+                     ;    ,(render-list "courses/AP605-survey_of_world_religions_and_cults"))
+                        )))
