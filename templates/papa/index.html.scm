@@ -15,7 +15,11 @@
                    (div
                      (h2 (a (@ (href "/papa/todo")
                                (class "list-item-internal-link"))
-                            "Todo tracker")))
+                            "Todo Tracker")))
+                   (div
+                     (h2 (a (@ (href "/papa/seminary")
+                               (class "list-item-internal-link"))
+                            "Seminary Tracker")))
                    (div
                      (img (@ (src "/shared/images/papa-bear.png")
                              (height 200)
