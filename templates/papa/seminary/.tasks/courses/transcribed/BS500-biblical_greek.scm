@@ -11,11 +11,11 @@
       "https://drive.google.com/file/d/1AAdDtDhEXYwx5C2RbeuOtO7smbEwPOrJ/view"
       "...")
     (course/render-assignment
-      "Listen, outline, and take notes on: Greek Grammar I 1-10 (Tom Stegall, 12h)"
+      "Listen, outline, and take notes: Greek Grammar I 1-10 (Tom Stegall, 12h)"
       "https://drive.google.com/drive/folders/1xktSMPDPhkVKLfKm2kfn9sKOe2upfR8_"
       "...")
     (course/render-assignment
-      "Listen, outline, and take notes on: Greek Grammar II 1-11 (Tom Stegall, 11h)"
+      "Listen, outline, and take notes: Greek Grammar II 1-11 (Tom Stegall, 11h)"
       "https://drive.google.com/drive/folders/1AubMEpkxmyqV_cuU9-Uet5cRkSxF5kx6"
       "...")
     (course/render-assignment

@@ -7,11 +7,11 @@
       "https://drive.google.com/file/d/1AAdDtDhEXYwx5C2RbeuOtO7smbEwPOrJ/view"
       "...")
     (course/render-assignment
-      "Listen, outline, and take notes on: Hebrew Grammar I 1-24 (Dr. William Barrick, 24h)"
+      "Listen, outline, and take notes: Hebrew Grammar I 1-24 (Dr. William Barrick, 24h)"
       "https://biblicalelearning.org/hebrewindex-html/"
       "...")
     (course/render-assignment
-      "Listen, outline, and take notes on: Hebrew Grammar II 1-26 (Dr. William Barrick, 26h)"
+      "Listen, outline, and take notes: Hebrew Grammar II 1-26 (Dr. William Barrick, 26h)"
       "https://biblicalelearning.org/hebrewindex-html/"
       "...")
     (course/render-assignment

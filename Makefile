@@ -63,7 +63,7 @@ watch: ## Watch for changes and re-render templates
 	echo "Watching for changes in templates/..."
 	while true; do
 		inotifywait -e modify,create,delete -r templates/
-		$(MAKE) -B render
+		$(MAKE) -B render || true
 	done
 
 ##@ Helpers

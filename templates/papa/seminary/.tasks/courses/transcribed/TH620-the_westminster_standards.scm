@@ -3,19 +3,19 @@
 (define todo
   (list
     (course/render-assignment
-      "Listen, outline, and take notes on: Westminster Standards 1-24 (video) (Dr. John Gerstner, 12h)"
+      "Listen, outline, and take notes: Westminster Standards 1-24 (video) (Dr. John Gerstner, 12h)"
       "https://learn.ligonier.org/series/westminster-confession-of-faith"
       "...")
     (course/render-assignment
-      "Listen, outline, and take notes on: Theology of the WCF 1-19 (Dr. Morton Smith, 17h)"
+      "Listen, outline, and take notes: Theology of the WCF 1-19 (Dr. Morton Smith, 17h)"
       "https://www.sermonaudio.com/series/35866"
       "...")
     (course/render-assignment
-      "Listen, outline, and take notes on: Westminster Standards 1-14 (Dr. Sinclair Ferguson, 16h)"
+      "Listen, outline, and take notes: Westminster Standards 1-14 (Dr. Sinclair Ferguson, 16h)"
       "https://www.monergism.com/westminster-standards-14-part-mp3-lecture-series"
       "...")
     (course/render-assignment
-      "Listen, outline, and take notes on: The American Amendments to the Westminster Confession (Dr. Peter Lillback, 1h6m)"
+      "Listen, outline, and take notes: The American Amendments to the Westminster Confession (Dr. Peter Lillback, 1h6m)"
       "http://media1.wts.edu/media/audio/wa045-copyright.mp3"
       "...")
     (course/render-assignment
@@ -23,15 +23,15 @@
       "https://www.upper-register.com/papers/1788_revision.pdf"
       "...")
     (course/render-assignment
-      "Read and summarize: The Utility and Importance of Creeds and Confessions (Samuel Miller, 134pp)"
+      "Read and provide chapter summaries: The Utility and Importance of Creeds and Confessions (Samuel Miller, 134pp)"
       "https://archive.org/details/utilityimportanc00milluoft"
       "...")
     (course/render-assignment
-      "Read and summarize: The Presbyterian Standards (Francis Beattie, 442pp)"
+      "Read and provide chapter summaries: The Presbyterian Standards (Francis Beattie, 442pp)"
       "https://archive.org/details/presbyterianstan00beat"
       "...")
     (course/render-assignment
-      "Read and summarize: A Commentary on the Confession of Faith (A.A. Hodge, 576pp)"
+      "Read and provide chapter summaries: A Commentary on the Confession of Faith (A.A. Hodge, 576pp)"
       "https://archive.org/details/commentaryonconf1901hodg"
       "...")
     (course/render-assignment

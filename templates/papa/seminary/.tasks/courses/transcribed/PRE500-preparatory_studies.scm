@@ -3,15 +3,15 @@
 (define todo
   (list
     (course/render-assignment
-      "Listen, outline, and take notes on: A Call to the Ministry 1-5 (Albert Martin)"
+      "Listen, outline, and take notes: A Call to the Ministry 1-5 (Albert Martin)"
       "https://www.sermonaudio.com/series/31760"
       "...")
     (course/render-assignment
-      "Listen, outline, and take notes on: Call to Ministry 1-4 (J.I. Packer et al.)"
+      "Listen, outline, and take notes: Call to Ministry 1-4 (J.I. Packer et al.)"
       "https://drive.google.com/drive/folders/1z6uNhtCmD4NyW4uQnpWVTQBfqzUPPONV"
       "...")
     (course/render-assignment
-      "Listen, outline, and take notes on: A Case for the Call 1-3 (Mark Johnson)"
+      "Listen, outline, and take notes: A Case for the Call 1-3 (Mark Johnson)"
       "https://drive.google.com/drive/folders/1EunpJ8uBXeso9LLoE2xKHQeURMoNgvhF"
       "...")
     (course/render-assignment
