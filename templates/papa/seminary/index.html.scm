@@ -13,7 +13,7 @@
                                    #\↤ " " (code "papa")))))
                    (main (@ (style "padding-bottom: 1rem;"))
                      (div (@ (style "float: left"))
-                        ,(render-list "courses/BS541-new_testament_history_and_theology"))
+                        ,(render-list "courses/BS542-the_gospels_and_acts"))
                      ; (div (@ (style "float: right"))
                      ;    ,(render-list "courses/AP605-survey_of_world_religions_and_cults"))
                         )))
