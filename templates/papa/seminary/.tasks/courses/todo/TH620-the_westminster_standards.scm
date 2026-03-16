@@ -39,7 +39,7 @@
       "https://example.com"
       "...")
     (course/render-assignment
-      "Memorize: Westminster Shorter Catechism"
+      "[No artifact] Memorize: Westminster Shorter Catechism"
       "https://www.opc.org/sc.html"
       "...")
     (course/render-assignment
