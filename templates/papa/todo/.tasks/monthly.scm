@@ -11,5 +11,5 @@
    ([content . "[steward] Wipe base boards"]
     [done? . #f])
    ([content . "[steward] Wipe crown moulding"]
-    [done? . #t])
+    [done? . #f])
 )])

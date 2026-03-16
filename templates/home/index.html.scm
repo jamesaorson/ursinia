@@ -1,6 +1,6 @@
 (use-modules (scripts lib html))
 
-(render-template "Ursinia - Home"
+(render-template "Ursinia - Home" "home"
                  `((header
                      (div (@ (id "header"))
                           (span (@ (id "header-sitemap"))

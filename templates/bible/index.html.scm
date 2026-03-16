@@ -1,6 +1,6 @@
 (use-modules (scripts lib html))
 
-(render-template "Ursinia - Bible"
+(render-template "Ursinia - Bible" "bible"
                  `((header
                      (div (@ (id "header"))
                           (span (@ (id "header-sitemap"))

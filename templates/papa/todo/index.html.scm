@@ -1,54 +1,10 @@
-(use-modules (scripts lib html))
+(use-modules (scripts lib html)
+             (scripts lib task))
 
-(define (load-tasks-by-id id)
-   (load (format #f ".tasks/~a.scm" id)))
+(define (render-list id)
+   (task/render-list (format #f "~a/.tasks" (dirname (current-filename))) id))
 
-(define (-task-list tasks)
-   (define (-task-list-item task)
-      (let ([content (assoc-ref task 'content)]
-            [done? (assoc-ref task 'done?)])
-         `(li (span (@ (style "font-family: monospace;"))
-                    (input (@ ,@(if done? 
-                                 `((type "checkbox")
-                                    (checked ,(bool->string done?)))
-                                 `((type "checkbox")))))
-                                 ,content))))
-   `(ul (@ (style "list-style-type: none;"))
-        (li (div (ul (@ (style "list-style-type: none;"))
-                     ,(if (null? tasks)
-                        '(li "No tasks")
-                        (map-in-order -task-list-item
-                                    tasks)))))))
-
-(define (task-list id)
-   (let* ([task-definition (load-tasks-by-id id)]
-          [title (assoc-ref task-definition 'title)]
-          [tasks (assoc-ref task-definition 'tasks)])
-         `(section
-            (h2 (@ (id ,id))
-                (a (@ (href ,(format #f "#~a" id))) ,title))
-            ,(-task-list tasks))))
-
-(define daily-task-list
-   (let* ([id "daily"]
-          [task-definitions (load-tasks-by-id id)])
-   `(section
-      (h2 (@ (id ,id))
-          (a (@ (href ,(format #f "#~a" id))) "Day to Day"))
-      (ol (@ (style "list-style-type: none;"))
-          ,(if (null? task-definitions)
-              '(li "No tasks defined.")
-              (map-in-order (lambda (task-definition)
-                              (let* ([day (assoc-ref task-definition 'day)]
-                                     [tasks (assoc-ref task-definition 'tasks)]
-                                     [id-suffix (format #f "~a-~2,'0d-~d" %current-month-lower% day %current-year%)])
-                                    `(li (div (h3 (a (@ (id ,id-suffix)
-                                                      (href ,(format #f "#~a" id-suffix)))
-                                                   ,(format #f "~a ~d, ~d" %current-month% day %current-year%)))
-                                              ,(-task-list tasks)))))
-                         task-definitions))))))
-
-(render-template "Ursinia - Papa - Todo"
+(render-template "Ursinia - Papa - Todo" "papa"
                  `((header
                      (div (@ (id "header"))
                           (span (@ (id "header-back"))
@@ -57,9 +13,9 @@
                                    #\↤ " " (code "papa")))))
                    (main (@ (style "padding-bottom: 1rem;"))
                      (div (@ (style "float: left"))
-                        ,(task-list "weekly"))
+                        ,(render-list "daily/03-15-2026")
+                        ,(render-list "weekly"))
                      (div (@ (style "float: right"))
-                        ,(task-list "seminary/PRE500-preparatory_studies")
-                        ,(task-list "monthly")
-                        ,(task-list "annual")
-                        ,(task-list "ongoing")))))
+                        ,(render-list "monthly")
+                        ,(render-list "annual")
+                        ,(render-list "ongoing")))))

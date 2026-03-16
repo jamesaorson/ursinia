@@ -1,6 +1,6 @@
 (use-modules (scripts lib html))
 
-(render-template "Sitemap"
+(render-template "Sitemap" "sitemap"
                  `((h1 (a (@ (id "title")
                              (class "list-item-internal-link")
                              (href "#title"))

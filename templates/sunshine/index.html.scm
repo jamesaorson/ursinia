@@ -1,6 +1,6 @@
 (use-modules (scripts lib html))
 
-(render-template "Sunshine"
+(render-template "Sunshine" "sunshine"
                  `((header
                      (div (@ (id "header"))
                           (span (@ (id "header-sitemap"))
