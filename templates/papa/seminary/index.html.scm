@@ -17,4 +17,5 @@
                         ,(render-list "courses/no-artifact/BS500-biblical_greek")
                         ,(render-list "courses/no-artifact/BS501-biblical_hebrew")
                         ,(render-list "courses/no-artifact/TH620-the_westminster_standards")
+                        (h2 (a (@ (href "/papa/seminary/courses")) "Link to all courses"))
                      ))))
