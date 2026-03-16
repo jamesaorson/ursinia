@@ -13,7 +13,7 @@
                                    #\↤ " " (code "papa")))))
                    (main (@ (style "padding-bottom: 1rem;"))
                      (div (@ (style "float: left"))
-                        (h2 "Courses with no artifacts...")
+                        (h2 "Tasks with no artifacts...")
                         ,(render-list "courses/no-artifact/BS500-biblical_greek")
                         ,(render-list "courses/no-artifact/BS501-biblical_hebrew")
                         ,(render-list "courses/no-artifact/TH620-the_westminster_standards")
