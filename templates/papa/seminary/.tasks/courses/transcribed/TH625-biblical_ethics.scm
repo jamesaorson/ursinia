@@ -8,7 +8,7 @@
       "...")
     (course/render-assignment
       "Listen, outline, and take notes: Christian Ethics 1-21 (Dr. Daniel Doriani, 25h)"
-      "https://www.covenantseminary.edu/resources/christian-ethics-doriani/"
+      "https://www.covenantseminary.edu/resources/christian-ethics-doriani/" ; NOTE: 404
       "...")
     (course/render-assignment
       "Read and provide chapter summaries: A Theory of Conduct (Archibald Alexander, 134pp)"
