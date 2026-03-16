@@ -25,3 +25,12 @@ jobs:
       - name: Render
         run: |
           make render
+
+      - name: Check Check for uncommitted changes
+        if: github.event_name != 'workflow_dispatch'
+        run: |
+          if [[ -n $(git status --porcelain) ]]; then
+            echo "Error: Uncommitted changes found. Please commit the rendered files."
+            git status
+            exit 1
+          fi
