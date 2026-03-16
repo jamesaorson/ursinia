@@ -5,7 +5,7 @@
     (course/render-assignment
       "Memorize: Westminster Shorter Catechism"
       "https://www.opc.org/sc.html"
-      "...")
+      #f)
   ))
 
 (define completed

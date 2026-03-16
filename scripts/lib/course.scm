@@ -5,7 +5,7 @@
         [date (cadr section-data)])
       `([content . (span (a (@ (href "https://gatech.instructure.com"))
                             ,section)
-                         ,(format #f " (Due: ~a)" date))]
+                         ,(if date (format #f " (Due: ~a)" date) '()))]
         [done? . ,done?])))
 
 (define-public (course/render completed todo)
