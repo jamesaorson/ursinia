@@ -1,7 +1,11 @@
 (use-modules (scripts lib html)
-             (ice-9 ftw))
+             (scripts lib dirs))
 
-(render-template "Ursinia - Bible - Scripture Readings" "scripture readings"
+(define script-dir (dirname (car (command-line))))
+
+(define subdirs (list-subdirs script-dir))
+
+(render-template "Ursinia - Bible - Scripture Readings" "bible"
                  `((header
                      (div (@ (id "header"))
                           (span (@ (id "header-back"))
@@ -13,12 +17,9 @@
                            (href "#title")
                            (class "list-item-internal-link"))
                         "Scripture Readings"))
-                   (div (ul ,(map-in-order (lambda (link)
-                                             (let ([href (car link)]
-                                                   [text (cdr link)])
-                                               `(li (a (@ (href ,href))
-                                                       ,text))))
-                                           '(["/bible/versions" . "Full Text Bibles"]
-                                             ["/bible/reading-plans" . "Bible Reading Plans"]
-                                             ["/bible/christian-resources" . "Other Christian Resources"]))))))
+                   (div
+                     (ul ,@(map (lambda (dir)
+                                  `(li (a (@ (href ,(string-append "/bible/scripture-readings/" dir)))
+                                          ,(dir-name->display-name dir))))
+                                subdirs)))))
 
