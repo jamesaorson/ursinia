@@ -22,6 +22,10 @@ jobs:
           sudo apt-get install -y \
             guile-3.0
 
+      - name: Test
+        run: |
+          make test
+
       - name: Render
         run: |
           make render
