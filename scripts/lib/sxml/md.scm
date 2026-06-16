@@ -10,6 +10,12 @@
 	(and (>= (string-length s) (string-length prefix))
 			 (string=? (substring s 0 (string-length prefix)) prefix)))
 
+(define (starts-with-at? s index prefix)
+	(let ((prefix-len (string-length prefix))
+				(s-len (string-length s)))
+		(and (<= (+ index prefix-len) s-len)
+				 (string=? (substring s index (+ index prefix-len)) prefix))))
+
 (define (blank-line? s)
 	(string-null? (string-trim-both s)))
 
@@ -38,9 +44,70 @@
 								 (< i (string-length line))
 								 (char=? (string-ref line i) #\space))
 						(let ((text (string-trim (substring line (+ i 1) (string-length line)))))
-							(list (string->symbol (string-append "h" (number->string i))) text))
+							(cons (string->symbol (string-append "h" (number->string i)))
+										(parse-inline text)))
 						#f))))
 
+(define (parse-inline-link-at text i)
+	(if (not (starts-with-at? text i "["))
+			#f
+			(let* ((len (string-length text))
+						 (label-end (string-index text #\] (+ i 1))))
+				(if (or (not label-end)
+							(>= (+ label-end 2) len)
+							(not (char=? (string-ref text (+ label-end 1)) #\()))
+					#f
+					(let ((href-end (string-index text #\) (+ label-end 2))))
+						(if (not href-end)
+								#f
+								(let ((label (substring text (+ i 1) label-end))
+											(href (substring text (+ label-end 2) href-end)))
+									(list (+ href-end 1)
+											(cons 'a
+													(cons (list '@ (list 'href href))
+																(parse-inline label)))))))))))
+
+(define (parse-inline-delimited-at text i delimiter tag)
+	(let ((delim-len (string-length delimiter)))
+		(if (not (starts-with-at? text i delimiter))
+				#f
+				(let ((end (string-contains text delimiter (+ i delim-len))))
+					(if (or (not end)
+							(= end (+ i delim-len)))
+							#f
+							(let ((inner (substring text (+ i delim-len) end)))
+								(list (+ end delim-len)
+										(cons tag (parse-inline inner)))))))))
+
+(define (parse-inline text)
+	(let ((len (string-length text)))
+		(define (flush-text start end nodes)
+			(if (= start end)
+					nodes
+					(cons (substring text start end) nodes)))
+
+		(let loop ((i 0)
+						 (plain-start 0)
+						 (nodes '()))
+			(if (>= i len)
+					(reverse (flush-text plain-start len nodes))
+					(let* ((link-match (parse-inline-link-at text i))
+								 (strong-asterisk (parse-inline-delimited-at text i "**" 'strong))
+								 (strong-underscore (parse-inline-delimited-at text i "__" 'strong))
+								 (em-asterisk (parse-inline-delimited-at text i "*" 'em))
+								 (em-underscore (parse-inline-delimited-at text i "_" 'em))
+								 (match (or link-match
+													strong-asterisk
+													strong-underscore
+													em-asterisk
+													em-underscore)))
+						(if match
+								(let ((next-i (car match))
+											(node (cadr match)))
+									(loop next-i
+												next-i
+												(cons node (flush-text plain-start i nodes))))
+								(loop (+ i 1) plain-start nodes)))))))
 (define (unordered-list-item-text line)
 	(if (and (>= (string-length line) 2)
 					 (let ((c (string-ref line 0)))
@@ -61,7 +128,7 @@
 						#f))))
 
 (define (list-node type items)
-	(cons type (map (lambda (item) (list 'li item)) items)))
+	(cons type (map (lambda (item) (cons 'li (parse-inline item))) items)))
 
 (define (parse-markdown lines)
 	(let loop ((rest lines)
@@ -74,7 +141,8 @@
 		(define (flush-paragraph blocks paragraph-lines)
 			(if (null? paragraph-lines)
 					blocks
-					(cons (list 'p (string-join (reverse paragraph-lines) " ")) blocks)))
+					(cons (cons 'p (parse-inline (string-join (reverse paragraph-lines) " ")))
+							blocks)))
 		(define (flush-list blocks list-type list-items)
 			(if (or (not list-type) (null? list-items))
 					blocks
