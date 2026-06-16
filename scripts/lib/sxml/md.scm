@@ -4,6 +4,7 @@
 	#:use-module (scripts lib sxml html)
 	#:use-module (ice-9 rdelim)
 	#:use-module (ice-9 match)
+	#:use-module (srfi srfi-11)
 	#:use-module (srfi srfi-13)
 	#:export (md->html
 	          parse-frontmatter
@@ -137,34 +138,88 @@
 												next-i
 												(cons node (flush-text plain-start i nodes))))
 								(loop (+ i 1) plain-start nodes)))))))
-(define (unordered-list-item-text line)
-	(if (and (>= (string-length line) 2)
-					 (let ((c (string-ref line 0)))
-						 (or (char=? c #\-) (char=? c #\*) (char=? c #\+)))
-					 (char=? (string-ref line 1) #\space))
-			(string-trim (substring line 2 (string-length line)))
-			#f))
+(define (line-indent line)
+	"Count leading spaces in LINE."
+	(let loop ((i 0))
+		(if (and (< i (string-length line))
+					 (char=? (string-ref line i) #\space))
+				(loop (+ i 1))
+				i)))
 
-(define (ordered-list-item-text line)
-	(let scan-digits ((i 0))
-		(if (and (< i (string-length line)) (char-numeric? (string-ref line i)))
-				(scan-digits (+ i 1))
-				(if (and (> i 0)
-								 (< (+ i 1) (string-length line))
-								 (char=? (string-ref line i) #\.)
-								 (char=? (string-ref line (+ i 1)) #\space))
-						(string-trim (substring line (+ i 2) (string-length line)))
-						#f))))
+(define (list-marker-at line indent)
+	"If LINE has a list marker at column INDENT, return (type . item-text), else #f."
+	(let ((len (string-length line)))
+		(and (>= len (+ indent 2))
+				 (cond
+					((and (memv (string-ref line indent) '(#\- #\* #\+))
+							 (char=? (string-ref line (+ indent 1)) #\space))
+					 (cons 'ul (string-trim-both (substring line (+ indent 2)))))
+					(else
+					 (let num ((i indent))
+						 (cond
+							((>= i len) #f)
+							((char-numeric? (string-ref line i)) (num (+ i 1)))
+							((and (> i indent)
+									 (char=? (string-ref line i) #\.)
+									 (< (+ i 1) len)
+									 (char=? (string-ref line (+ i 1)) #\space))
+							 (cons 'ol (string-trim-both (substring line (+ i 2)))))
+							(else #f))))))))
 
-(define (list-node type items)
-	(cons type (map (lambda (item) (cons 'li (parse-inline item))) items)))
+(define (collect-list-block lines base-indent)
+	"Consume lines belonging to a list starting at BASE-INDENT (no blank lines, indent >= base).
+ Returns two values: collected lines and remaining lines."
+	(let loop ((rest lines) (acc '()))
+		(if (null? rest)
+				(values (reverse acc) '())
+				(let* ((line (car rest))
+							 (trimmed (string-trim-both line)))
+					(cond
+					 ((blank-line? trimmed) (values (reverse acc) rest))
+					 ((< (line-indent line) base-indent) (values (reverse acc) rest))
+					 (else (loop (cdr rest) (cons line acc))))))))
+
+(define (parse-list-block lines base-indent)
+	"Recursively parse a list block at BASE-INDENT. Returns an SXML (ul/ol (li ...) ...) or #f."
+	(let loop ((rest lines)
+						 (list-type #f)
+						 (items '())
+						 (cur-text #f)
+						 (sub-acc '()))
+		(define (build-item)
+			(and cur-text
+					 (let* ((sub-lines (reverse sub-acc))
+									(sub-node (and (not (null? sub-lines))
+															 (parse-list-block
+																sub-lines
+																(apply min (map line-indent sub-lines))))))
+						 (if sub-node
+								 `(li ,@(parse-inline cur-text) ,sub-node)
+								 `(li ,@(parse-inline cur-text))))))
+		(if (null? rest)
+				(let* ((item (build-item))
+							 (all (if item (reverse (cons item items)) (reverse items))))
+					(and list-type (pair? all) (cons list-type all)))
+				(let* ((line (car rest))
+							 (indent (line-indent line))
+							 (marker (list-marker-at line base-indent)))
+					(cond
+					 (marker
+						(let ((item (build-item)))
+							(loop (cdr rest)
+										(or list-type (car marker))
+										(if item (cons item items) items)
+										(cdr marker)
+										'())))
+					 ((> indent base-indent)
+						(loop (cdr rest) list-type items cur-text (cons line sub-acc)))
+					 (else
+						(loop (cdr rest) list-type items cur-text sub-acc)))))))
 
 (define (parse-markdown lines)
 	(let loop ((rest lines)
 						 (blocks '())
 						 (paragraph-lines '())
-						 (list-type #f)
-						 (list-items '())
 						 (in-code? #f)
 						 (code-lines '()))
 		(define (flush-paragraph blocks paragraph-lines)
@@ -172,10 +227,6 @@
 					blocks
 					(cons (cons 'p (parse-inline (string-join (reverse paragraph-lines) " ")))
 							blocks)))
-		(define (flush-list blocks list-type list-items)
-			(if (or (not list-type) (null? list-items))
-					blocks
-					(cons (list-node list-type (reverse list-items)) blocks)))
 		(define (flush-code blocks code-lines)
 			(if (null? code-lines)
 					blocks
@@ -185,15 +236,12 @@
 		(if (null? rest)
 				(reverse
 				 (flush-code
-					(flush-list
-					 (flush-paragraph blocks paragraph-lines)
-					 list-type list-items)
+					(flush-paragraph blocks paragraph-lines)
 					code-lines))
 				(let* ((line (car rest))
 							 (trimmed (string-trim-both line))
 							 (heading (and (not in-code?) (heading-line->node trimmed)))
-							 (ul-item (and (not in-code?) (unordered-list-item-text trimmed)))
-							 (ol-item (and (not in-code?) (ordered-list-item-text trimmed)))
+							 (is-list-start (and (not in-code?) (list-marker-at line 0)))
 							 (is-fence (starts-with? trimmed "```")))
 					(cond
 					 (in-code?
@@ -201,98 +249,47 @@
 								(loop (cdr rest)
 											(flush-code blocks code-lines)
 											paragraph-lines
-											list-type
-											list-items
 											#f
 											'())
 								(loop (cdr rest)
 											blocks
 											paragraph-lines
-											list-type
-											list-items
 											#t
 											(cons line code-lines))))
 					 (is-fence
 						(loop (cdr rest)
-									(flush-list
-									 (flush-paragraph blocks paragraph-lines)
-									 list-type
-									 list-items)
-									'()
-									#f
+									(flush-paragraph blocks paragraph-lines)
 									'()
 									#t
 									'()))
 					 ((blank-line? trimmed)
 						(loop (cdr rest)
-									(flush-list
-									 (flush-paragraph blocks paragraph-lines)
-									 list-type
-									 list-items)
-									'()
-									#f
+									(flush-paragraph blocks paragraph-lines)
 									'()
 									#f
 									code-lines))
 					 (heading
 						(loop (cdr rest)
-									(cons heading
-												(flush-list
-												 (flush-paragraph blocks paragraph-lines)
-												 list-type
-												 list-items))
-									'()
-									#f
+									(cons heading (flush-paragraph blocks paragraph-lines))
 									'()
 									#f
 									code-lines))
-					 (ul-item
-						(if (eq? list-type 'ul)
-								(loop (cdr rest)
-											blocks
+					 (is-list-start
+						(let-values (((list-lines remaining) (collect-list-block rest 0)))
+							(let ((node (parse-list-block list-lines 0)))
+								(loop remaining
+											(if node
+													(cons node (flush-paragraph blocks paragraph-lines))
+													(flush-paragraph blocks paragraph-lines))
 											'()
-											'ul
-											(cons ul-item list-items)
 											#f
-											code-lines)
-								(loop (cdr rest)
-											(flush-list
-											 (flush-paragraph blocks paragraph-lines)
-											 list-type
-											 list-items)
-											'()
-											'ul
-											(list ul-item)
-											#f
-											code-lines)))
-					 (ol-item
-						(if (eq? list-type 'ol)
-								(loop (cdr rest)
-											blocks
-											'()
-											'ol
-											(cons ol-item list-items)
-											#f
-											code-lines)
-								(loop (cdr rest)
-											(flush-list
-											 (flush-paragraph blocks paragraph-lines)
-											 list-type
-											 list-items)
-											'()
-											'ol
-											(list ol-item)
-											#f
-											code-lines)))
+											code-lines))))
 					 (else
 						(loop (cdr rest)
-									(flush-list blocks list-type list-items)
+									blocks
 									(cons trimmed paragraph-lines)
 									#f
-									'()
-									#f
 									code-lines)))))))
-
 (define (text-from-sxml node)
 	"Extract all text content from an SXML node, recursively."
 	(cond
