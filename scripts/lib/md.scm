@@ -1,6 +1,6 @@
 ;; Copyright (C) 2026
 
-(define-module (scripts lib sxml md)
+(define-module (scripts lib md)
 	#:use-module (scripts lib sxml html)
 	#:use-module (ice-9 rdelim)
 	#:use-module (ice-9 match)

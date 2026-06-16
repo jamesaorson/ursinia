@@ -1,20 +1,18 @@
-(use-modules (scripts lib html))
+(use-modules (scripts lib html)
+             (ice-9 ftw))
 
-(render-template "Ursinia - Bible" "bible"
+(render-template "Ursinia - Bible - Scripture Readings" "scripture readings"
                  `((header
                      (div (@ (id "header"))
-                          (span (@ (id "header-sitemap"))
+                          (span (@ (id "header-back"))
                                 (a (@ (id "header-back-link")
-                                      (href "/sitemap"))
-                                   #\↤ " " (code "sitemap")))))
+                                      (href "/bible"))
+                                   #\↤ " " (code "bible")))))
                    (h1
                      (a (@ (id "title")
                            (href "#title")
                            (class "list-item-internal-link"))
-                        "Bible"))
-                   (div
-                     (p
-                       "In Ursinia, we hold the Bible to be the standard by which we organize and guide our lives. We believe the Bible to be the infallible Word of God, intended to be interpreted by those He has blessed with His Holy Spirit. Naturally, we like to read the Bible then. Any bible-related content we want to host will go here, from open theological discussions, to custom bible reading plans, We are here to help you in reading and knowing God's word."))
+                        "Scripture Readings"))
                    (div (ul ,(map-in-order (lambda (link)
                                              (let ([href (car link)]
                                                    [text (cdr link)])
@@ -22,6 +20,5 @@
                                                        ,text))))
                                            '(["/bible/versions" . "Full Text Bibles"]
                                              ["/bible/reading-plans" . "Bible Reading Plans"]
-                                             ["/bible/scripture-readings" . "Scripture Readings"]
                                              ["/bible/christian-resources" . "Other Christian Resources"]))))))
 

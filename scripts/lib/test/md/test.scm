@@ -1,7 +1,7 @@
 ;; Copyright (C) 2026
 
-(define-module (scripts lib sxml test md)
-	#:use-module (scripts lib sxml md)
+(define-module (scripts lib test md)
+	#:use-module (scripts lib md)
 	#:use-module (ice-9 ftw)
 	#:use-module (ice-9 format)
 	#:use-module (ice-9 textual-ports)
@@ -40,7 +40,7 @@
 					(md->html input-port output-port))))))
 
 (define* (md/test #:optional
-													 (root "scripts/lib/sxml/test/md")
+													 (root "scripts/lib/test/md")
 													 (output-port (current-output-port)))
 	"Render each markdown fixture in ROOT and compare it with its matching .html file.
 Returns #t on success and #f if any fixture fails."
@@ -70,7 +70,7 @@ Returns #t on success and #f if any fixture fails."
 		(= failed 0)))
 
 (define* (md/regenerate-fixtures #:optional
-																(root "scripts/lib/sxml/test/md")
+																(root "scripts/lib/test/md")
 																(output-port (current-output-port)))
 	"Render each markdown fixture in ROOT and overwrite its coordinated .html file."
 	(let ((md-files (sort (collect-md-files root) string<?)))

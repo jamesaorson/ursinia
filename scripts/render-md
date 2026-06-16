@@ -1,4 +1,4 @@
-(use-modules (scripts lib sxml md)
+(use-modules (scripts lib md)
              (scripts lib sxml html)
              (ice-9 textual-ports))
 
