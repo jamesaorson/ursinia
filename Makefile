@@ -27,6 +27,30 @@ deploy: ./scripts/deploy ## Does an incremental deploy/redeploy of the applicati
 check: ## Checks formatting
 	npm run check
 
+.PHONY: test
+test: ## Runs all test.scm files under test/ directories
+	TEST_FILES=$$(find . -type f -path '*/test/*/test.scm' -not -path '*/.*')
+	if [[ -z "$${TEST_FILES}" ]]; then
+		echo "No test.scm files found under test/ directories"
+		exit 0
+	fi
+	for test_file in $${TEST_FILES}; do
+		echo "TEST: $${test_file}"
+		guile -L ${PWD} -s "$${test_file}"
+	done
+
+.PHONY: test/regenerate
+test/regenerate: ## Regenerates markdown .html fixtures from coordinated .md files
+	TEST_FILES=$$(find . -type f -path '*/test/*/test.scm' -not -path '*/.*')
+	if [[ -z "$${TEST_FILES}" ]]; then
+		echo "No test.scm files found under test/ directories"
+		exit 0
+	fi
+	for test_file in $${TEST_FILES}; do
+		echo "REGENERATE: $${test_file}"
+		guile -L ${PWD} -s "$${test_file}" --regenerate
+	done
+
 .PHONY: fix
 fix: ## Fixes formatting issues
 	npm run fix

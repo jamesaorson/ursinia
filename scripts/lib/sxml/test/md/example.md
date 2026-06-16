@@ -11,7 +11,7 @@ tags:
 1. Naomi laments the loss of her sons on behalf of Orpah and Ruth, and encourages them both to move on and return to their
    mother’s houses
    1. Orpah leaves Israel to return to Moab, forsaking the Lord and returning to her gods
-   1. Ruth stays with Naomi, committing herself to Israel and, particularly, to the Lord (v. 16\)
+   1. Ruth stays with Naomi, committing herself to Israel and, particularly, to the Lord (v. 16)
       1. Orpah represents the people of Israel who have rejected the Lord
       1. Ruth represents the persistent remnant of Israel, forsaking her foreign identity for the sake of the Lord
          1. Reminiscent of Exodus 6:7, Deuteronomy 29:13, and Jeremiah 11:4
