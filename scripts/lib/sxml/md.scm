@@ -329,15 +329,28 @@
 							(link (@ (rel "stylesheet")
 									 (href "/shared/styles/openword-theme.css")))
 							(title "Page")))
-			(add-heading-anchors? #t))
+			(add-heading-anchors? #t)
+			(frontmatter-title? #f)
+			(extra-body-prefix '()))
 	"Read markdown from INPUT-PORT, skip YAML-style frontmatter, and write HTML to OUTPUT-PORT.
 If FULL-PAGE? is true, wrap in a complete HTML document structure with DOCTYPE, head, and body.
-HEAD is a list of SXML elements to include in the head tag (default includes charset, viewport, and stylesheet).
-If ADD-HEADING-ANCHORS? is true (default), wrap heading tags with clickable anchor links."
+HEAD is a list of SXML elements to include in the head tag.
+If ADD-HEADING-ANCHORS? is true (default), wrap heading tags with clickable anchor links.
+If FRONTMATTER-TITLE? is true, prepend an h1 from the frontmatter 'title' field.
+EXTRA-BODY-PREFIX is a list of SXML nodes prepended before the content (e.g. a backlink header)."
 	(let* ((lines (read-lines input-port))
+				 (fm (parse-frontmatter lines))
 				 (content-lines (drop-frontmatter lines))
 				 (nodes (parse-markdown content-lines))
-				 (processed-nodes (if add-heading-anchors? (add-heading-anchors nodes) nodes)))
+				 (title-node
+					(and frontmatter-title?
+							 (assq-ref fm 'title)
+							 `(h1 ,(assq-ref fm 'title))))
+				 (body-nodes (append
+										 extra-body-prefix
+										 (if title-node (list title-node) '())
+										 nodes))
+				 (processed-nodes (if add-heading-anchors? (add-heading-anchors body-nodes) body-nodes)))
 		(if full-page?
 				(let ((page `((doctype html)
 							(html (@ (lang "en"))

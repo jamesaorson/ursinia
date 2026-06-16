@@ -1,4 +1,4 @@
-(use-modules (scripts lib md)
+(use-modules (scripts lib sxml md)
              (scripts lib sxml html)
              (ice-9 textual-ports))
 
@@ -6,14 +6,33 @@
   (when (< (length args) 2)
     (display "Usage: render-md <markdown-file>\n" (current-error-port))
     (exit 1))
-  
-  (let ((input-file (list-ref args 1)))
+
+  (let* ((input-file (list-ref args 1))
+         ;; Derive backlink from the parent folder name and URL
+         ;; e.g. templates/bible/scripture-readings/08-ruth/ruth-1.md
+         ;;   -> backlink text "08-ruth", href "/bible/scripture-readings/08-ruth"
+         (abs-path (if (string-prefix? "/" input-file)
+                       input-file
+                       (string-append (getcwd) "/" input-file)))
+         (parent-dir (dirname abs-path))
+         (parent-name (basename parent-dir))
+         ;; Derive the URL by stripping the "templates" prefix from the parent dir
+         (templates-prefix (string-append (getcwd) "/templates"))
+         (parent-url (if (string-prefix? templates-prefix parent-dir)
+                         (substring parent-dir (string-length templates-prefix))
+                         (string-append "/" parent-name)))
+         (backlink-header
+          `(header (div (@ (id "header"))
+                        (span (@ (id "header-back"))
+                              (a (@ (id "header-back-link")
+                                    (href ,parent-url))
+                                 ,(string #\x21a4) " " (code ,parent-name)))))))
     (with-input-from-file input-file
       (lambda ()
-        ;; Render as full page with default head (includes stylesheet)
-        ;; To add custom head elements, pass #:head keyword argument
         (md->html (current-input-port)
                   (current-output-port)
-                  #t)))))
+                  #t
+                  #:frontmatter-title? #t
+                  #:extra-body-prefix (list backlink-header))))))
 
 (main (command-line))
