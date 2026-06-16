@@ -3,6 +3,7 @@
 (define-module (scripts lib sxml md)
 	#:use-module (scripts lib sxml html)
 	#:use-module (ice-9 rdelim)
+	#:use-module (ice-9 match)
 	#:use-module (srfi srfi-13)
 	#:export (md->html))
 
@@ -264,22 +265,55 @@
 									#f
 									code-lines)))))))
 
+(define (text-from-sxml node)
+	"Extract all text content from an SXML node, recursively."
+	(cond
+	 ((string? node) node)
+	 ((pair? node)
+	  (string-concatenate (map text-from-sxml (cdr node))))
+	 (else "")))
+
+(define (text->id text)
+	"Convert text to a URL-friendly ID (lowercase, spaces to hyphens)."
+	(string-downcase
+	 (string-map
+	  (lambda (c)
+	   (if (char-set-contains? char-set:whitespace c)
+		   #\-
+		   c))
+	  text)))
+
+(define (add-heading-anchors node)
+	"Recursively process nodes to add anchor links to heading tags (h1-h6)."
+	(match node
+	 (((? (lambda (tag) (memq tag '(h1 h2 h3 h4 h5 h6))) tag) content ...)
+	  (let* ((text (text-from-sxml `(,tag ,@content)))
+		 (id (text->id text)))
+	   `(,tag (a (@ (id ,id) (href ,(string-append "#" id)) (class "list-item-internal-link"))
+		    ,@content))))
+	 ((items ...)
+	  (map add-heading-anchors items))
+	 (else node)))
+
 (define* (md->html input-port #:optional (output-port (current-output-port)) (full-page? #f)
 	#:key (head `((meta (@ (charset "UTF-8")))
 							(meta (@ (name "viewport") (content "width=device-width, initial-scale=1")))
 							(link (@ (rel "stylesheet")
 									 (href "/shared/styles/openword-theme.css")))
-							(title "Page"))))
+							(title "Page")))
+			(add-heading-anchors? #t))
 	"Read markdown from INPUT-PORT, skip YAML-style frontmatter, and write HTML to OUTPUT-PORT.
 If FULL-PAGE? is true, wrap in a complete HTML document structure with DOCTYPE, head, and body.
-HEAD is a list of SXML elements to include in the head tag (default includes charset, viewport, and stylesheet)."
+HEAD is a list of SXML elements to include in the head tag (default includes charset, viewport, and stylesheet).
+If ADD-HEADING-ANCHORS? is true (default), wrap heading tags with clickable anchor links."
 	(let* ((lines (read-lines input-port))
 				 (content-lines (drop-frontmatter lines))
-				 (nodes (parse-markdown content-lines)))
+				 (nodes (parse-markdown content-lines))
+				 (processed-nodes (if add-heading-anchors? (add-heading-anchors nodes) nodes)))
 		(if full-page?
 				(let ((page `((doctype html)
 							(html (@ (lang "en"))
 								(head ,@head)
-								(body ,@nodes)))))
+								(body ,@processed-nodes)))))
 					(for-each (lambda (node) (sxml->html node output-port)) page))
-				(sxml->html nodes output-port))))
+				(sxml->html processed-nodes output-port))))
