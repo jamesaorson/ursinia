@@ -1,6 +1,6 @@
 (define-module (scripts lib dirs)
+  #:use-module (scripts lib sxml md)
   #:use-module (ice-9 ftw)
-  #:use-module (ice-9 rdelim)
   #:use-module (srfi srfi-13)
   #:export (dir-name->display-name
             list-subdirs
@@ -47,14 +47,4 @@ name like 'Ruth' or '2 Corinthians', stripping a leading numeric catalog prefix.
 Returns a string, or #f if no frontmatter or no title key is found."
   (call-with-input-file path
     (lambda (port)
-      (let ((first-line (string-trim-right (read-line port))))
-        (if (string=? first-line "---")
-            (let loop ()
-              (let ((line (read-line port)))
-                (cond
-                 ((eof-object? line) #f)
-                 ((string=? (string-trim-right line) "---") #f)
-                 ((string-prefix? "title:" line)
-                  (string-trim (substring line 6)))
-                 (else (loop)))))
-            #f)))))
+      (assq-ref (read-frontmatter port) 'title))))
