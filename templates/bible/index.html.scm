@@ -22,5 +22,6 @@
                                                        ,text))))
                                            '(["/bible/versions" . "Full Text Bibles"]
                                              ["/bible/reading-plans" . "Bible Reading Plans"]
+                                             ["/bible/scripture-readings" . "Scripture Readings"]
                                              ["/bible/christian-resources" . "Other Christian Resources"]))))))
 
