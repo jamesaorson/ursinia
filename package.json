@@ -12,7 +12,7 @@
     "fix:prettier": "prettier --write ./wwwroot/papa/theology ./wwwroot/**/*.css ./**/*.json ./**/*.yml"
   },
   "devDependencies": {
-    "concurrently": "^9.2.1",
+    "concurrently": "^10.0.3",
     "prettier": "^3.8.1"
   }
 }
