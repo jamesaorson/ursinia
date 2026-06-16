@@ -59,11 +59,15 @@ fix: ## Fixes formatting issues
 format: ## Fixes formatting issues
 	npm run fix:prettier
 
-TEMPLATES := $(shell find templates/ -type f -not -path '*/.*' -name '*.html.scm')
-RENDERS := $(patsubst templates/%.html.scm,wwwroot/%.html,$(TEMPLATES))
+SCM_TEMPLATES := $(shell find templates/ -type f -not -path '*/.*' -name '*.html.scm')
+MD_TEMPLATES := $(shell find templates/ -type f -not -path '*/.*' -name '*.md')
+SCM_RENDERS := $(patsubst templates/%.html.scm,wwwroot/%.html,$(SCM_TEMPLATES))
+MD_RENDERS := $(patsubst templates/%.md,wwwroot/%.html,$(MD_TEMPLATES))
+RENDERS := $(SCM_RENDERS) $(MD_RENDERS)
 
 .PHONY: render
 render: $(RENDERS) ## Renders the template files into their new home
+
 wwwroot/%.html: templates/%.html.scm 
 	echo "RENDER: $< -> $@"
 	mkdir -p $$(dirname $@)
@@ -71,6 +75,14 @@ wwwroot/%.html: templates/%.html.scm
 	guile \
 		-L ${PWD} \
 		-s $< >> $@
+
+wwwroot/%.html: templates/%.md
+	echo "RENDER: $< -> $@"
+	mkdir -p $$(dirname $@)
+	: > $@
+	guile \
+		-L ${PWD} \
+		./scripts/render-md $< >> $@
 
 .PHONY: serve
 serve: ## Serve the application locally

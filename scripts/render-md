@@ -1,0 +1,19 @@
+(use-modules (scripts lib sxml md)
+             (scripts lib sxml html)
+             (ice-9 textual-ports))
+
+(define (main args)
+  (when (< (length args) 2)
+    (display "Usage: render-md <markdown-file>\n" (current-error-port))
+    (exit 1))
+  
+  (let ((input-file (list-ref args 1)))
+    (with-input-from-file input-file
+      (lambda ()
+        ;; Render as full page with default head (includes stylesheet)
+        ;; To add custom head elements, pass #:head keyword argument
+        (md->html (current-input-port)
+                  (current-output-port)
+                  #t)))))
+
+(main (command-line))

@@ -27,11 +27,11 @@
 					(loop (cons line lines))))))
 
 (define (drop-frontmatter lines)
-	(if (and (pair? lines) (string=? (car lines) "---"))
+	(if (and (pair? lines) (string=? (string-trim-right (car lines)) "---"))
 			(let skip ((rest (cdr lines)))
 				(cond
 				 ((null? rest) '())
-				 ((string=? (car rest) "---") (cdr rest))
+				 ((string=? (string-trim-right (car rest)) "---") (cdr rest))
 				 (else (skip (cdr rest)))))
 			lines))
 
@@ -264,9 +264,22 @@
 									#f
 									code-lines)))))))
 
-(define* (md->html input-port #:optional (output-port (current-output-port)))
-	"Read markdown from INPUT-PORT, skip YAML-style frontmatter, and write HTML to OUTPUT-PORT."
+(define* (md->html input-port #:optional (output-port (current-output-port)) (full-page? #f)
+	#:key (head `((meta (@ (charset "UTF-8")))
+							(meta (@ (name "viewport") (content "width=device-width, initial-scale=1")))
+							(link (@ (rel "stylesheet")
+									 (href "/shared/styles/openword-theme.css")))
+							(title "Page"))))
+	"Read markdown from INPUT-PORT, skip YAML-style frontmatter, and write HTML to OUTPUT-PORT.
+If FULL-PAGE? is true, wrap in a complete HTML document structure with DOCTYPE, head, and body.
+HEAD is a list of SXML elements to include in the head tag (default includes charset, viewport, and stylesheet)."
 	(let* ((lines (read-lines input-port))
 				 (content-lines (drop-frontmatter lines))
 				 (nodes (parse-markdown content-lines)))
-		(sxml->html nodes output-port)))
+		(if full-page?
+				(let ((page `((doctype html)
+							(html (@ (lang "en"))
+								(head ,@head)
+								(body ,@nodes)))))
+					(for-each (lambda (node) (sxml->html node output-port)) page))
+				(sxml->html nodes output-port))))
