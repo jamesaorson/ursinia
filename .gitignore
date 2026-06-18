@@ -15,3 +15,6 @@ pom.xml.asc
 !.vscode/launch.json
 node_modules/
 .cpcache
+
+# Generated site output (render/build artifacts)
+wwwroot/*

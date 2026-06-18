@@ -55,12 +55,19 @@ format: ## Fixes formatting issues
 SCM_TEMPLATES := $(shell find templates/ -type f -not -path '*/.*' -name '*.html.scm')
 _MD_TEMPLATES_ALL := $(shell find templates/ -type f -not -path '*/.*' -name '*.md')
 MD_TEMPLATES := $(filter-out %body.md %README.md %AGENTS.md %CLAUDE.md,$(_MD_TEMPLATES_ALL))
+ASSET_FILES := $(shell find assets/ -type f -not -path '*/.*' 2>/dev/null)
 SCM_RENDERS := $(patsubst templates/%.html.scm,wwwroot/%.html,$(SCM_TEMPLATES))
 MD_RENDERS := $(patsubst templates/%.md,wwwroot/%.html,$(MD_TEMPLATES))
-RENDERS := $(SCM_RENDERS) $(MD_RENDERS)
+ASSET_RENDERS := $(patsubst assets/%,wwwroot/assets/%,$(ASSET_FILES))
+RENDERS := $(SCM_RENDERS) $(MD_RENDERS) $(ASSET_RENDERS)
 
 .PHONY: render
 render: $(RENDERS) ## Renders the template files into their new home
+
+.PHONY: clean
+clean: ## Removes generated site output from wwwroot
+	find wwwroot -type f -name '*.html' -delete
+	rm -rf wwwroot/assets
 
 wwwroot/%.html: templates/%.html.scm 
 	echo "RENDER: $< -> $@"
@@ -78,15 +85,20 @@ wwwroot/%.html: templates/%.md
 		-L ${PWD} \
 		./scripts/render-md $< >> $@
 
+wwwroot/assets/%: assets/%
+	echo "ASSET: $< -> $@"
+	mkdir -p $$(dirname $@)
+	cp -f $< $@
+
 .PHONY: serve
 serve: ## Serve the application locally
 	python3 -m http.server -d ./wwwroot --bind 127.0.0.1 8000
 
 .PHONY: watch
 watch: ## Watch for changes and re-render templates
-	echo "Watching for changes in templates/..."
+	echo "Watching for changes in templates/ and assets/..."
 	while true; do
-		inotifywait -e modify,create,delete -r templates/
+		inotifywait -e modify,create,delete -r templates/ assets/
 		$(MAKE) -B render || true
 	done
 
