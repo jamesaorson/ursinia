@@ -19,7 +19,9 @@
 
 (define (indexed-subdirs dir)
   (filter (lambda (name)
-            (file-exists? (string-append dir "/" name "/index.html.scm")))
+            (let ((subdir (string-append dir "/" name)))
+              (or (file-exists? (string-append subdir "/index.html.scm"))
+                  (file-exists? (string-append subdir "/index.md")))))
           (list-subdirs dir)))
 
 (define (md-stem filename)
@@ -31,9 +33,15 @@
          (title (or (read-frontmatter-title (string-append dir "/" filename)) stem)))
     `(li (a (@ (href ,url)) ,title))))
 
-(define (subdir->link-item url-prefix dir)
-  `(li (a (@ (href ,(string-append url-prefix "/" dir)))
-          ,(dir-name->display-name dir))))
+(define (subdir-title root-dir subdir)
+  (let ((index-md (string-append root-dir "/" subdir "/index.md")))
+    (or (and (file-exists? index-md)
+             (read-frontmatter-title index-md))
+        (dir-name->display-name subdir))))
+
+(define (subdir->link-item url-prefix root-dir subdir)
+  `(li (a (@ (href ,(string-append url-prefix "/" subdir)))
+          ,(subdir-title root-dir subdir))))
 
 (define-public (render-section-directory-index section-title pagename section-root-url)
   (let* ((dir (script-dir))
@@ -47,7 +55,7 @@
          (back-label (if is-root? "bible" (basename parent-dir)))
          (subdirs (indexed-subdirs dir))
          (md-files (list-md-files dir))
-         (items (append (map (lambda (subdir) (subdir->link-item url-prefix subdir)) subdirs)
+         (items (append (map (lambda (subdir) (subdir->link-item url-prefix dir subdir)) subdirs)
                         (map (lambda (filename) (md-file->link-item url-prefix dir filename)) md-files))))
     (render-template (string-append "Ursinia - Bible - " display-name) pagename
                      `((header

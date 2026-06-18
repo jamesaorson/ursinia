@@ -14,7 +14,13 @@
          (abs-path (if (string-prefix? "/" input-file)
                        input-file
                        (string-append (getcwd) "/" input-file)))
-         (parent-dir (dirname abs-path))
+         (file-name (basename abs-path))
+         (content-dir (dirname abs-path))
+         ;; For folder-style content (name/index.md), backlink should point to the
+         ;; containing collection directory rather than the page directory itself.
+         (parent-dir (if (string=? file-name "index.md")
+                         (dirname content-dir)
+                         content-dir))
          (parent-name (basename parent-dir))
          ;; Derive the URL by stripping the "templates" prefix from the parent dir
          (templates-prefix (string-append (getcwd) "/templates"))
