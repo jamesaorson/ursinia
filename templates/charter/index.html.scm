@@ -108,23 +108,23 @@
                         (div
                           (a (@ (href "/papa"))
                              (img (@ (width "30%")
-                                     (src "/shared/images/papa-bear.png")
+                                     (src "/assets/shared/images/papa-bear.png")
                                      (alt "Imposing Father Bear in Dramatic Mountain Landscape: An imposing father bear in a more rugged and dramatic mountain landscape. The terrain is harsher, with larger rocks and dramatic cliffs. The bear is mightier, with darker, more defined fur and a more powerful stance. His gaze is intensely protective, surveying the vast landscape under a stormy sky, adding to the wild, untamed nature of the scene.")))))
                         (div
                           (span
                             (a (@ (href "/mama"))
                                (img (@ (width "20%")
-                                       (src "/shared/images/mama-bear.png")
+                                       (src "/assets/shared/images/mama-bear.png")
                                        (alt "Majestic Mother Bear in Enchanted Forest: A majestic mother bear in a dense, enchanting forest, accentuated with rich green foliage and towering ancient trees. She stands tall and proud, her brown fur more pronounced and her gaze deeply nurturing yet commanding. The forest is alive with vivid colors, and the sunlight creates a more dramatic effect, highlighting her protective aura."))))))
                         (div
                           (span
                             (a (@ (href "/sunshine"))
                                (img (@ (width "15%")
-                                       (src "/shared/images/sunshine-bear.png")
+                                       (src "/assets/shared/images/sunshine-bear.png")
                                        (alt "Delightful Baby Bear in Magical Meadow: A more delightful and enchanting baby bear in a lush, magical meadow. The scene is brighter and more colorful, with a greater variety of wildflowers and vibrant butterflies. The baby bear is fluffier, with sparkling, more expressive eyes, capturing a sense of wonder and playfulness. The meadow radiates with an almost fairy-tale-like charm under a brighter, sunnier sky.")))))
                           (span
                             (a (@ (href "/harmony"))
                                (img (@ (width "15%")
-                                       (src "/shared/images/harmony-bear.png")
+                                       (src "/assets/shared/images/harmony-bear.png")
                                        (alt "A serene baby bear representing the concept of 'harmony', depicted in a tranquil forest clearing by a gentle stream. The scene is imbued with the peacefulness of a quick and natural birth. This baby bear is unique, with soft, shimmering fur that seems to radiate light, symbolizing purity and a swift entrance into the world. The bear is emerging from the water, symbolizing the birth pool, surrounded by soft, glowing light and delicate forest flowers, embodying a moment of peaceful harmony in nature.")))))))))
 

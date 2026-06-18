@@ -21,13 +21,6 @@
                            (href "#title")
                            (class "list-item-internal-link"))
                         "Recipes"))
-                   (div (h2 (a (@ (id "carnivore")
-                                  (href "#carnivore"))
-                               "Carnivore"))
-                        ,(recipe-list '(["cheese-tortillas" . "Cheese Tortillas"]
-                                       ["chicken-burrito" . "Chicken Burrito"]
-                                       ["frozen-chicken-breast" . "[Air Fryer Hack] Frozen Chicken Breast"]
-                                       ["frozen-chicken-wings" . "[Air Fryer Hack] Frozen Chicken Wings"])))
                    (div (h2 (a (@ (id "omnivore")
                                   (href "#omnivore"))
                                "Omnivore"))

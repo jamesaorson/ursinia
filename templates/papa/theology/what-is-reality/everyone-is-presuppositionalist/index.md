@@ -1,0 +1,11 @@
+---
+title: Everyone is presuppositionalist
+---
+
+If you actually believe it is even possible to be a brain in a vat, you are perfectly playing out Romans 1:19. You are suppressing the truth of God in unrighteousness, and you are trying to make your own perceptions of things into God. The problem is that, even if we are a brain in a vat, we are all coming in with some presuppositional framework. Everyone has some standard by which they are determining what is real and what is not, what is moral and what is immoral. The atheistic analog for presuppositionalism is "moral anti-realism". You can see this play out in this exchange between PF Jung and Vaush, where [Vaush asks PF Jung "by what system" he deems the holocaust to have been evil](https://youtu.be/22Tg4fhG1kY?t=1370&si=NsM4zubzoPgFNWOA). I believe Vaush is correct in asking PF Jung to explain why this is wrong, as it gets at a more fundamental question of "what is reality" and "what is morality".
+
+So when individuals discuss any epistemological or metaphysical topic, they must first lay the groundwork of **"What is reality?"** and **"What is truth?"** before a reasonable discussion can be had. It may seem laborious and beside the point, but it simply is not. If you are not on the same page about what reality is, then a meaningful discussion about much of anything is not possible. When I go and do street evangelism, greater than 50% of the time the discussion ends up on epistemology. They ask by what reason I care about what I consider to be truth, and then they make their own assertions about what is truth, as if it is inarguable. Like PF Jung up above, they think that what they consider to be moral and true is self-evident, but it is only self-evident withing their chosen framework.
+
+So reality is defined by your presuppositions. If you are a Christian, you have the eternal God of the Bible as your presupposition. If you are an atheist, you have the material world as your presupposition. The Christian defers the presupposition to a being who is transcendent and in control of the reality they are interpreting, while the atheist is fine being a brain in a vat.
+
+Next: [Extra topics](/papa/theology/what-is-reality/extra-topics/)
