@@ -87,13 +87,7 @@ wwwroot/%.html: templates/%.md
 
 .PHONY: serve
 serve: ## Serve the application locally
-ifeq ($(UNAME_S),Linux)
-	xdg-open http://localhost:8000
-endif
-ifeq ($(UNAME_S),Darwin)
-	open http://localhost:8000
-endif
-	python3 -m http.server -d ./wwwroot 8000
+	python3 -m http.server -d ./wwwroot --bind 127.0.0.1 8000
 
 .PHONY: watch
 watch: ## Watch for changes and re-render templates
