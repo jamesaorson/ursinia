@@ -16,13 +16,6 @@ setup: ./scripts/setup ## Setup dependencies for system
 
 ##@ Local Development
 
-.PHONY: deploy
-deploy: ./scripts/deploy ## Does an incremental deploy/redeploy of the application
-	if [[ "$(NO_GENERATE_TEMPLATES)" == "0" || -z "$(NO_GENERATE_TEMPLATES)" ]]; then
-		$(MAKE) -B render
-	fi
-	$<
-
 .PHONY: check
 check: ## Checks formatting
 	npm run check
@@ -61,7 +54,7 @@ format: ## Fixes formatting issues
 
 SCM_TEMPLATES := $(shell find templates/ -type f -not -path '*/.*' -name '*.html.scm')
 _MD_TEMPLATES_ALL := $(shell find templates/ -type f -not -path '*/.*' -name '*.md')
-MD_TEMPLATES := $(filter-out %README.md %AGENTS.md %CLAUDE.md,$(_MD_TEMPLATES_ALL))
+MD_TEMPLATES := $(filter-out %body.md %README.md %AGENTS.md %CLAUDE.md,$(_MD_TEMPLATES_ALL))
 SCM_RENDERS := $(patsubst templates/%.html.scm,wwwroot/%.html,$(SCM_TEMPLATES))
 MD_RENDERS := $(patsubst templates/%.md,wwwroot/%.html,$(MD_TEMPLATES))
 RENDERS := $(SCM_RENDERS) $(MD_RENDERS)
@@ -87,13 +80,7 @@ wwwroot/%.html: templates/%.md
 
 .PHONY: serve
 serve: ## Serve the application locally
-ifeq ($(UNAME_S),Linux)
-	xdg-open http://localhost:8000
-endif
-ifeq ($(UNAME_S),Darwin)
-	open http://localhost:8000
-endif
-	python3 -m http.server -d ./wwwroot 8000
+	python3 -m http.server -d ./wwwroot --bind 127.0.0.1 8000
 
 .PHONY: watch
 watch: ## Watch for changes and re-render templates
