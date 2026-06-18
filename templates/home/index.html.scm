@@ -20,5 +20,6 @@
                           (li "Mama will be pregnant by end-of-year")
                           (li "My work stock will breach $100 a share")))
                      (h2 "Are you lost? Check out the " (a (@ (href "/sitemap"))
-                                                           "Sitemap")))))
+                                                           "Sitemap"))))
+                 #:page-css? #f)
 

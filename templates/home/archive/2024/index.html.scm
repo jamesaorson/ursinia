@@ -24,5 +24,6 @@
                         (h3 "Third-Order Predictions (Events with direct effect from us)")
                         (ul (li (em "Under Construction"))))
                      (h2 "Are you lost? Check out the " (a (@ (href "/sitemap"))
-                                                           "Sitemap")))))
+                                                           "Sitemap"))))
+                 #:page-css? #f)
 

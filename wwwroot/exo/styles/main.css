@@ -1,0 +1,40 @@
+.post-meta {
+  color: #aaa;
+  font-size: 0.85em;
+  margin-bottom: 0.25rem;
+}
+
+.post-list {
+  list-style: none;
+  padding: 0;
+}
+
+.post-list li {
+  margin-bottom: 1.25rem;
+}
+
+.post-list .post-title {
+  font-size: 1.1em;
+}
+
+.post-body p {
+  line-height: 1.7;
+}
+
+.post-body h2 {
+  margin-top: 2rem;
+}
+
+blockquote {
+  border-left: 3px solid #eec643;
+  margin-left: 0;
+  padding-left: 1rem;
+  color: #ccc;
+  font-style: italic;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #444;
+  margin: 2rem 0;
+}

@@ -43,7 +43,8 @@
     (sxml->html sxml port)))
 
 (define* (render-template title pagename body
-                          #:key (head `((meta (@ (charset "utf-8")))
+                          #:key (page-css? #t)
+                                (head `((meta (@ (charset "utf-8")))
                                         (meta (@ (name "viewport")
                                                  (content "width=device-width, initial-scale=1")))
                                         (link (@ (rel "icon")
@@ -51,8 +52,10 @@
                                                  (href "/shared/favicons/favicon.ico")))
                                         (link (@ (rel "stylesheet")
                                                  (href "/shared/styles/openword-theme.css")))
-                                        (link (@ (rel "stylesheet")
-                                                 (href ,(format #f "/~a/styles/main.css" pagename))))))
+                                        ,@(if page-css?
+                                              `((link (@ (rel "stylesheet")
+                                                         (href ,(format #f "/~a/styles/main.css" pagename)))))
+                                              '())))
                                 (port (current-output-port)))
   (format port
           "~a~%"
