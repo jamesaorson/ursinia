@@ -1,6 +1,4 @@
-# Semper Virgo
-
-Research on the perpetual virginity of Mary (*semper virgo* — "ever virgin").
+Research on the perpetual virginity of Mary (_semper virgo_ — "ever virgin").
 
 ## Status
 

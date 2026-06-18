@@ -1,5 +1,3 @@
-# Christian Marriage Contract
-
 A research project exploring what a biblical marriage contract should look like — one that takes seriously both the
 covenantal nature of marriage and the justice God requires when that covenant is broken.
 
@@ -46,15 +44,15 @@ body of Christ before any appeal to secular courts (1 Cor. 6:1–8). The contrac
 
 The current draft (in `drafts/`) follows this structure:
 
-| Section | Contents |
-| ------- | -------- |
-| I. The Authority | Scripture and Christ as governing framework |
-| II. The Parties | Attestation of faith, sound mind, and lawful age |
-| III. The Benefits | Mutual sexual congress, society, child-rearing, financial and moral support |
+| Section              | Contents                                                                                      |
+| -------------------- | --------------------------------------------------------------------------------------------- |
+| I. The Authority     | Scripture and Christ as governing framework                                                   |
+| II. The Parties      | Attestation of faith, sound mind, and lawful age                                              |
+| III. The Benefits    | Mutual sexual congress, society, child-rearing, financial and moral support                   |
 | IV. The Prohibitions | Adultery, abandonment, abortion, assault, criminal/dangerous behavior, ejection, intoxication |
-| V. Appeals | Private confrontation → witnesses → church panel, binding decision |
-| VI. The Remedies | Reconciliation counseling → separation → divorce (limited grounds) |
-| VII. Witnesses | Standards for testimony, protections against abuse of process |
+| V. Appeals           | Private confrontation → witnesses → church panel, binding decision                            |
+| VI. The Remedies     | Reconciliation counseling → separation → divorce (limited grounds)                            |
+| VII. Witnesses       | Standards for testimony, protections against abuse of process                                 |
 
 ---
 
@@ -62,7 +60,7 @@ The current draft (in `drafts/`) follows this structure:
 
 ### Exegetical
 
-- **The divorce exception clause (Matt. 19:9):** The Greek *porneia* is translated "sexual immorality" — broader than
+- **The divorce exception clause (Matt. 19:9):** The Greek _porneia_ is translated "sexual immorality" — broader than
   adultery narrowly construed. The contract grounds divorce primarily here and in Pauline desertion (1 Cor. 7:15).
   Other violations trigger separation and remediation, not automatic divorce.
 
@@ -116,8 +114,8 @@ The current draft (in `drafts/`) follows this structure:
 - **California specifically** (implied by the draft's mention of community property): California is a community
   property state. Property acquired during marriage is presumptively split 50/50. A prenuptial agreement can contract
   around this, but it must satisfy California Family Code § 721 requirements for fiduciary duty and full disclosure.
-  The contract should probably be explicit that it functions as a prenuptial agreement under applicable state law *in
-  addition to* its covenantal character.
+  The contract should probably be explicit that it functions as a prenuptial agreement under applicable state law _in
+  addition to_ its covenantal character.
 
 - **Arbitration clauses and church panels:** Some jurisdictions allow religious arbitration clauses in contracts
   (analogous to commercial arbitration under the FAA). If the church panel is constituted as a binding arbitration
@@ -129,7 +127,7 @@ The current draft (in `drafts/`) follows this structure:
   enforceable as written if contested in family court. See [issue #4](https://github.com/jamesaorson/prenup/issues/4).
 
 - **Abortion clause:** The prohibition on abortion is ethically grounded but legally complex as a contract term.
-  Post-*Dobbs*, state-by-state enforceability is uncertain, and the question of what "remedy" applies to a prohibited
+  Post-_Dobbs_, state-by-state enforceability is uncertain, and the question of what "remedy" applies to a prohibited
   abortion is thorny. Worth considering how this is framed.
 
 ---
@@ -150,10 +148,10 @@ research/        Reference materials
 The project draws on:
 
 - **Scripture** — primary authority throughout
-- **Church Fathers** — Augustine (*On the Good of Marriage*), Chrysostom (*Homilies on Ephesians*),
-  Tertullian (*To His Wife*)
-- **Puritan writers** — William Perkins, John Milton's divorce tracts (*Doctrine and Discipline of Divorce*,
-  *Tetrachordon*, *Colasterion*, *The Judgment of Martin Bucer*)
+- **Church Fathers** — Augustine (_On the Good of Marriage_), Chrysostom (_Homilies on Ephesians_),
+  Tertullian (_To His Wife_)
+- **Puritan writers** — William Perkins, John Milton's divorce tracts (_Doctrine and Discipline of Divorce_,
+  _Tetrachordon_, _Colasterion_, _The Judgment of Martin Bucer_)
 - **Existing marriage contract templates** — for structural reference
 - **Forum and article discussion** — for contemporary Reformed and evangelical engagement with the topic
 

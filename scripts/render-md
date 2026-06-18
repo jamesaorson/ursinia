@@ -31,7 +31,7 @@
           `(header (div (@ (id "header"))
                         (span (@ (id "header-back"))
                               (a (@ (id "header-back-link")
-                                    (href ,parent-url))
+                                    (href ,(string-append parent-url "/")))
                                  ,(string #\x21a4) " " (code ,parent-name)))))))
     (with-input-from-file input-file
       (lambda ()

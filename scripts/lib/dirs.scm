@@ -31,7 +31,7 @@ name like 'Ruth' or '2 Corinthians', stripping a leading numeric catalog prefix.
            (or (scandir dir) '()))
    string<?))
 
-(define %ignored-md-files '("README.md" "AGENTS.md" "CLAUDE.md"))
+(define %ignored-md-files '("body.md" "README.md" "AGENTS.md" "CLAUDE.md"))
 
 (define (list-md-files dir)
   "Return a sorted list of .md filenames in DIR, excluding README/AGENTS/CLAUDE."

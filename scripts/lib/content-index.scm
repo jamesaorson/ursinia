@@ -1,6 +1,7 @@
 (define-module (scripts lib content-index)
   #:use-module (scripts lib html)
   #:use-module (scripts lib dirs)
+  #:use-module (scripts lib sxml md)
   #:use-module (ice-9 ftw)
   #:use-module (srfi srfi-13)
   #:export (render-section-directory-index))
@@ -43,7 +44,7 @@
   `(li (a (@ (href ,(string-append url-prefix "/" subdir)))
           ,(subdir-title root-dir subdir))))
 
-(define-public (render-section-directory-index section-title pagename section-root-url)
+(define-public (render-section-directory-index section-title pagename section-root-url . maybe-body-port)
   (let* ((dir (script-dir))
          (url-prefix (path->url dir))
          (is-root? (string=? url-prefix section-root-url))
@@ -56,7 +57,13 @@
          (subdirs (indexed-subdirs dir))
          (md-files (list-md-files dir))
          (items (append (map (lambda (subdir) (subdir->link-item url-prefix dir subdir)) subdirs)
-                        (map (lambda (filename) (md-file->link-item url-prefix dir filename)) md-files))))
+                        (map (lambda (filename) (md-file->link-item url-prefix dir filename)) md-files)))
+         (body-port (and (pair? maybe-body-port) (car maybe-body-port)))
+         (body-node (and body-port
+                         `(section (@ (class "directory-readme"))
+                                   (raw ,(call-with-output-string
+                                          (lambda (output-port)
+                                            (md->html body-port output-port #f))))))))
     (render-template (string-append "Ursinia - Bible - " display-name) pagename
                      `((header
                          (div (@ (id "header"))
@@ -70,4 +77,5 @@
                                (class "list-item-internal-link"))
                             ,display-name))
                        (div
-                         (ul ,@items))))))
+                         (ul ,@items))
+                       ,@(if body-node (list body-node) '())))))
