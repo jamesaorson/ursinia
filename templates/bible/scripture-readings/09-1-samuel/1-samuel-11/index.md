@@ -1,7 +1,7 @@
 ---
 title: 1 Samuel 11 - Saul's Victory Over Nahash and the Renewal of the Kingdom
 # YYYY-MM-DD
-date: 2026-06-18
+date: 2026-06-21
 author: James Orson
 tags:
   - "1 Samuel"
