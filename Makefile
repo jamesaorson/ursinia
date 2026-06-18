@@ -16,13 +16,6 @@ setup: ./scripts/setup ## Setup dependencies for system
 
 ##@ Local Development
 
-.PHONY: deploy
-deploy: ./scripts/deploy ## Does an incremental deploy/redeploy of the application
-	if [[ "$(NO_GENERATE_TEMPLATES)" == "0" || -z "$(NO_GENERATE_TEMPLATES)" ]]; then
-		$(MAKE) -B render
-	fi
-	$<
-
 .PHONY: check
 check: ## Checks formatting
 	npm run check
