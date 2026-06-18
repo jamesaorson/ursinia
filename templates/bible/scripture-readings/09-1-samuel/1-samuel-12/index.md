@@ -4,7 +4,7 @@ title: 1 Samuel 12 - Samuel's Farewell and the Covenant Warning
 date: 2026-06-18
 author: James Orson
 tags:
-  - 1Samuel
+  - "1 Samuel"
 ---
 
 1. This chapter is Samuel's farewell address as judge — a hinge moment where the old order of judges gives way to the
