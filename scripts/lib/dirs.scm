@@ -1,5 +1,5 @@
 (define-module (scripts lib dirs)
-  #:use-module (scripts lib sxml md)
+  #:use-module (scripts lib md)
   #:use-module (ice-9 ftw)
   #:use-module (srfi srfi-13)
   #:export (dir-name->display-name

@@ -2,12 +2,9 @@
 title: Red Cabbage
 ---
 
-
 ## [Images](#images)
 
--
-
-  [Image: Original recipe, written in Swedish](/assets/food/red-cabbage/images/book-recipe.jpg)
+- ![Original recipe, written in Swedish](/assets/food/red-cabbage/images/book-recipe.jpg)
 
 ### [Ingredients](#ingredients)
 
@@ -42,4 +39,3 @@ Cook the kettle until soft, about 1 1/2 hours.
 Stir the pot, there and there (occasionally).
 
 Season with salt, pepper and possibly juice or red wine.
-

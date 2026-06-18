@@ -28,7 +28,7 @@ jobs:
 
       - name: Render
         run: |
-          make render
+          make -j render
 
       - name: Check Check for uncommitted changes
         if: github.event_name != 'workflow_dispatch'

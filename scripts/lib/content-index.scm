@@ -1,7 +1,7 @@
 (define-module (scripts lib content-index)
   #:use-module (scripts lib html)
   #:use-module (scripts lib dirs)
-  #:use-module (scripts lib sxml md)
+  #:use-module (scripts lib md)
   #:use-module (ice-9 ftw)
   #:use-module (srfi srfi-13)
   #:export (render-section-directory-index))

@@ -29,12 +29,12 @@ title: Papa - Devlog
     responsive, unlike every single LLM chatbot I have ever used before.
     Pretty pathetic UI programming on the part of all companies in the
     space right now.\
-    [Image: Chatbot UI](/assets/papa/devlog/autobutler/images/2025-09-27/chat.png)
+    ![Chatbot UI](/assets/papa/devlog/autobutler/images/2025-09-27/chat.png)
 
   - [File Explorer](http://autobutler.org/files) - You can now manage a
     simple filesystem with Autobutler, with embedded viewing
     capabilities for many file types.\
-    [Image: File Explorer UI](/assets/papa/devlog/autobutler/images/2025-09-27/files.png)\
+    ![File Explorer UI](/assets/papa/devlog/autobutler/images/2025-09-27/files.png)\
     In Google Drive, you cannot view a lot of the most simple file
     types, like plaintext, JSON, XML, CSV, etc. This is incredibly dumb
     and frustrating, so Autobutler supports that by default as a
@@ -47,7 +47,10 @@ title: Papa - Devlog
     to retain simplicity and continuity of the user's experience working
     with their files. If they need to focus and get more screenspace, we
     will support that as well, but not at the current moment.\
-    [Image: Plaintext Viewer](/assets/papa/devlog/autobutler/images/2025-09-27/files-plaintext.png) [Image: PDF Viewer](/assets/papa/devlog/autobutler/images/2025-09-27/files-pdf.png) [Image: Video Viewer](/assets/papa/devlog/autobutler/images/2025-09-27/files-video.png) [Image: Docx Editor](/assets/papa/devlog/autobutler/images/2025-09-27/files-docx.png)\
+    ![Plaintext Viewer](/assets/papa/devlog/autobutler/images/2025-09-27/files-plaintext.png)\
+    ![PDF Viewer](/assets/papa/devlog/autobutler/images/2025-09-27/files-pdf.png)\
+    ![Video Viewer](/assets/papa/devlog/autobutler/images/2025-09-27/files-video.png)\
+    ![Docx Editor](/assets/papa/devlog/autobutler/images/2025-09-27/files-docx.png)\
 
   - [Calendar](http://autobutler.org/calendar) - Last feature for now,
     we have a really basic calendar setup, backed by Sqlite. You can
@@ -55,7 +58,8 @@ title: Papa - Devlog
     now. Eventually, we want to integrate this with an internal email
     system (which is being worked on at the present moment), so you can
     manage them all as related objects.\
-    [Image: Calendar UI](/assets/papa/devlog/autobutler/images/2025-09-27/calendar.png) [Image: Calendar Event Editor](/assets/papa/devlog/autobutler/images/2025-09-27/calendar-event-edit.png)
+    ![Calendar UI](/assets/papa/devlog/autobutler/images/2025-09-27/calendar.png)\
+    ![Calendar Event Editor](/assets/papa/devlog/autobutler/images/2025-09-27/calendar-event-edit.png)
 
   ### [Next Steps](#2025-09-27-next-steps)
 

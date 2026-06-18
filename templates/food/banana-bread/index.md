@@ -2,16 +2,11 @@
 title: Banana Bread
 ---
 
-
 ## [Images](#images)
 
--
+- ![Notecard containing the original ingredients for the following banana bread recipe](/assets/food/banana-bread/images/notecard-ingredients.jpg)
 
-  [Image: Notecard containing the original ingredients for the following banana bread recipe](/assets/food/banana-bread/images/notecard-ingredients.jpg)
-
--
-
-  [Image: Notecard containing the original directions for the following banana bread recipe](/assets/food/banana-bread/images/notecard-directions.jpg)
+- ![Notecard containing the original directions for the following banana bread recipe](/assets/food/banana-bread/images/notecard-directions.jpg)
 
 ### [Ingredients](#ingredients)
 
@@ -34,4 +29,3 @@ title: Banana Bread
 5.  Pour into a greased load pan
 6.  Sprinkle on chocolate chips
 7.  Bake for 70 minutes, or until a toothpick comes out clean
-

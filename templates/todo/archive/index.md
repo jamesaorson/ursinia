@@ -2003,7 +2003,7 @@ See Halei
 
 Reorganize kitchen, with new cutting board
 
-[Image: Walnut end grain cutting board, with fingers and juice groove](/assets/todo/images/cutting-board.jpg)
+![Walnut end grain cutting board, with fingers and juice groove](/assets/todo/images/cutting-board.jpg)
 
 ## January 20, 2024
 
