@@ -3,9 +3,7 @@
 
 ## Images
 
--
-
-  Image: Post-It note containing the original ingredients for the following
+- Image: Post-It note containing the original ingredients for the following
   cookie dough ball recipe (image not currently available in repository).
 
 ## Ingredients
@@ -29,4 +27,3 @@
 3.  Combine the rest of the ingredients in a large bowl
 4.  Add the flax eggs in after a few minutes have passed
 5.  Bake for ?? minutes
-

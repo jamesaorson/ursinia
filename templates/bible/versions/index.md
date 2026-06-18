@@ -2,10 +2,6 @@
 title: Ursinia - Bible - Versions
 ---
 
-↤ bible
-
-# Bible Versions
-
 Ursinia will host free full-text versions of the bible for users to view
 and download at their leisure.
 
@@ -18,4 +14,3 @@ and download at their leisure.
 - [SWORD database
   files](https://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Bibles)
 - [Digital Bible Library](https://thedigitalbiblelibrary.org/)
-

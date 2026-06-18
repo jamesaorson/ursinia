@@ -64,10 +64,10 @@ Go to SJSU vs Boise State Football game with church friends
 
 - [HCI:](#nov-15-2024-papa-grad-school-hci)
   - [x] Team Project Check-In 2 - Work on Needfindining Results/data
-    analysis
+        analysis
 - [HPCA:](#nov-15-2024-papa-grad-school-hpca)
   - [x] Send in corrections for Project 1 (grade was correct from 54% to
-    88%)
+        88%)
 
 [Exokomodo:](#nov-15-2024-papa-exokomodo)
 
@@ -110,7 +110,7 @@ Floor the bedroom closet
 
 - [HCI:](#nov-14-2024-papa-grad-school-hci)
   - [x] Team Project Check-In 2 - Work on Needfindining Results/data
-    analysis
+        analysis
   - [x] Team Project Check-In 2 - Individual Brainstorming
   - [x] Team Project Check-In 2 - Group Brainstorming session at 6:00pm
 - [HPCA:](#nov-14-2024-papa-grad-school-hpca)
@@ -157,7 +157,7 @@ Floor the bedroom closet
 
 - [HCI:](#nov-13-2024-papa-grad-school-hci)
   - [x] Team Project Check-In 2 - Work on Needfindining Results/data
-    analysis
+        analysis
 - [HPCA:](#nov-13-2024-papa-grad-school-hpca)
   - None
 
@@ -229,7 +229,7 @@ Floor the bedroom closet
 
 - [HCI:](#oct-12-2024-papa-grad-school-hci)
   - [ ] Individual Project Check-In 2 - Check survey results (ATTENTION:
-    WEBSITE IS CURRENTLY DOWN DUE TO HURRICANE MILTON)
+        WEBSITE IS CURRENTLY DOWN DUE TO HURRICANE MILTON)
   - [x] Take Quiz 3
 - [HPCA:](#oct-12-2024-papa-grad-school-hpca)
   - [ ] Finish Advanced Caches lesson
@@ -260,7 +260,7 @@ Floor the bedroom closet
 
 - [HCI:](#oct-11-2024-papa-grad-school-hci)
   - [ ] Individual Project Check-In 2 - Check survey results (ATTENTION:
-    WEBSITE IS CURRENTLY DOWN DUE TO HURRICANE MILTON)
+        WEBSITE IS CURRENTLY DOWN DUE TO HURRICANE MILTON)
   - [ ] Take Quiz 3
 - [HPCA:](#oct-11-2024-papa-grad-school-hpca)
   - [ ] Finish Advanced Caches lesson
@@ -353,11 +353,11 @@ Go to Tomi Sushi
   - [x] Individual Project Check-In 1 - Do peer reviews
   - [x] Individual Project Check-In 2 - Create survey
   - [x] Individual Project Check-In 2 - Distribute survey:
-    [Tweet](https://x.com/papa_ursinia/status/1843775522314281253),
-    [Student
-    link](http://peersurvey.cc.gatech.edu/gt/d0bf42f20fef4360a5b3e2c88a9e7fa9),
-    [External
-    link](http://peersurvey.cc.gatech.edu/s/d0bf42f20fef4360a5b3e2c88a9e7fa9)
+        [Tweet](https://x.com/papa_ursinia/status/1843775522314281253),
+        [Student
+        link](http://peersurvey.cc.gatech.edu/gt/d0bf42f20fef4360a5b3e2c88a9e7fa9),
+        [External
+        link](http://peersurvey.cc.gatech.edu/s/d0bf42f20fef4360a5b3e2c88a9e7fa9)
   - [x] Team Project - Join a team
 - [HPCA:](#oct-8-2024-papa-grad-school-hpca)
   - [x] Catch up through VLIW lessons
@@ -2765,4 +2765,3 @@ Get raw milk
 Peter's Bakery for San Jose Monopoly \[Attempted but closed\]
 
 Bake bread
-

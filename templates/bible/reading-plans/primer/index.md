@@ -2,11 +2,6 @@
 title: Ursinia - Bible - Reading Plan - Primer
 ---
 
-↤
-reading plans
-
-# Bible Reading Plan - Primer
-
 The main idea is to read through the following books, in order, and a
 certain number of pages/chapters a day.
 
@@ -17,7 +12,7 @@ Proverbs 31. After the first month, this slot should be filled up with
 memorization practice. Pick a passage or passages and store it in your
 heart.
 
-*Daily reading counts are still in development*.
+_Daily reading counts are still in development_.
 
 1.  [Genesis](/bible/versions/bsb#genesis) - Know that the LORD made you
 2.  [Exodus](/bible/versions/bsb#exodus) - Know that the LORD saves his
@@ -96,4 +91,3 @@ heart.
 63. [Jude](/bible/versions/bsb#jude)
 64. [Daniel](/bible/versions/bsb#daniel)
 65. [Revelation](/bible/versions/bsb#revelation)
-
