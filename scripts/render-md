@@ -24,22 +24,25 @@
          (parent-name (basename parent-dir))
          ;; Derive the URL by stripping the "templates" prefix from the parent dir
          (templates-prefix (string-append (getcwd) "/templates"))
-         (parent-url (if (string-prefix? templates-prefix parent-dir)
-                         (let ((rel (substring parent-dir (string-length templates-prefix))))
-                           (if (string=? rel "") "/" rel))
-                         "/"))
+         ;; If parent-dir is outside templates/, we're at the site root — no backlink.
+         (at-root? (not (string-prefix? templates-prefix parent-dir)))
+         (parent-url (if at-root?
+                         "/"
+                         (substring parent-dir (string-length templates-prefix))))
          (backlink-header
-          `(header (div (@ (id "header"))
-                        (span (@ (id "header-back"))
-                              (a (@ (id "header-back-link")
-                                    (href ,(string-append parent-url "/")))
-                                 ,(string #\x21a4) " " (code ,parent-name)))))))
+          (if at-root?
+              '()
+              `((header (div (@ (id "header"))
+                             (span (@ (id "header-back"))
+                                   (a (@ (id "header-back-link")
+                                         (href ,(string-append parent-url "/")))
+                                      ,(string #\x21a4) " " (code ,parent-name)))))))))
     (with-input-from-file input-file
       (lambda ()
         (md->html (current-input-port)
                   (current-output-port)
                   #t
                   #:frontmatter-title? #t
-                  #:extra-body-prefix (list backlink-header))))))
+                  #:extra-body-prefix backlink-header)))))
 
 (main (command-line))
