@@ -35,8 +35,15 @@
 	(let ((colon-pos (string-index line #\:)))
 		(and colon-pos
 				 (> colon-pos 0)
-				 (let ((key (string-trim-right (substring line 0 colon-pos)))
-							 (val (string-trim (substring line (+ colon-pos 1)))))
+				 (let* ((key (string-trim-right (substring line 0 colon-pos)))
+							  (raw (string-trim (substring line (+ colon-pos 1))))
+							 (len (string-length raw))
+							 ;; Strip surrounding YAML double-quotes if present
+							 (val (if (and (>= len 2)
+													 (char=? (string-ref raw 0) #\")
+													 (char=? (string-ref raw (- len 1)) #\"))
+											 (substring raw 1 (- len 1))
+											 raw)))
 					 (cons (string->symbol key) val)))))
 
 (define (parse-frontmatter lines)
