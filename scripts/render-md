@@ -25,8 +25,9 @@
          ;; Derive the URL by stripping the "templates" prefix from the parent dir
          (templates-prefix (string-append (getcwd) "/templates"))
          (parent-url (if (string-prefix? templates-prefix parent-dir)
-                         (substring parent-dir (string-length templates-prefix))
-                         (string-append "/" parent-name)))
+                         (let ((rel (substring parent-dir (string-length templates-prefix))))
+                           (if (string=? rel "") "/" rel))
+                         "/"))
          (backlink-header
           `(header (div (@ (id "header"))
                         (span (@ (id "header-back"))
