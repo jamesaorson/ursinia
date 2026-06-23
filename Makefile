@@ -29,7 +29,7 @@ test: ## Runs all test.scm files under test/ directories
 	fi
 	for test_file in $${TEST_FILES}; do
 		echo "TEST: $${test_file}"
-		guile -L ${PWD} -L ${PWD}/scripts -s "$${test_file}"
+		guile -L ${PWD} -s "$${test_file}"
 	done
 
 .PHONY: test/regenerate
@@ -41,7 +41,7 @@ test/regenerate: ## Regenerates markdown .html fixtures from coordinated .md fil
 	fi
 	for test_file in $${TEST_FILES}; do
 		echo "REGENERATE: $${test_file}"
-		guile -L ${PWD} -L ${PWD}/scripts -s "$${test_file}" --regenerate
+		guile -L ${PWD} -s "$${test_file}" --regenerate
 	done
 
 .PHONY: fix
@@ -75,7 +75,6 @@ wwwroot/%.html: templates/%.html.scm
 	: > $@
 	guile \
 		-L ${PWD} \
-		-L ${PWD}/scripts \
 		-s $< >> $@
 
 wwwroot/%.html: templates/%.md
@@ -84,7 +83,6 @@ wwwroot/%.html: templates/%.md
 	: > $@
 	guile \
 		-L ${PWD} \
-		-L ${PWD}/scripts \
 		./scripts/render-md $< >> $@
 
 wwwroot/assets/%: assets/%
