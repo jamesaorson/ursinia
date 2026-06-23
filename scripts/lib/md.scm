@@ -238,7 +238,16 @@
 										(cdr marker)
 										'())))
 					 ((> indent base-indent)
-						(loop (cdr rest) list-type items cur-text (cons line sub-acc)))
+						;; Route to sub-acc if: line has a list marker at its indent (sub-item),
+						;; or we're already collecting sub-items (continuation of a sub-item).
+						;; Otherwise it's a continuation of the current item's text.
+						(if (or (list-marker-at line indent) (not (null? sub-acc)))
+								(loop (cdr rest) list-type items cur-text (cons line sub-acc))
+								(loop (cdr rest) list-type items
+											(if cur-text
+													(string-append cur-text " " (string-trim-both line))
+													(string-trim-both line))
+											sub-acc)))
 					 (else
 						(loop (cdr rest) list-type items cur-text sub-acc)))))))
 
