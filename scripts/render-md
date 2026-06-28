@@ -36,12 +36,14 @@
                (next-link (and next-name
                                `(a (@ (id "nav-next")
                                       (href ,(string-append parent-url "/" next-name "/")))
-                                   ,(sibling-title next-name) " " ,(string #\x2192)))))
+                                   ,(sibling-title next-name) " " ,(string #\x2192))))
+               (js "<script>document.addEventListener('keydown',function(e){if(e.altKey||e.ctrlKey||e.metaKey)return;if(e.key==='ArrowLeft'){var a=document.getElementById('nav-prev');if(a)a.click();}if(e.key==='ArrowRight'){var a=document.getElementById('nav-next');if(a)a.click();}});</script>"))
           (if (or prev-link next-link)
               `((nav (@ (id "page-nav"))
                      ,@(if prev-link (list prev-link) '())
                      ,@(if (and prev-link next-link) '(" ") '())
-                     ,@(if next-link (list next-link) '())))
+                     ,@(if next-link (list next-link) '()))
+                (raw ,js))
               '())))))
 
 (define (main args)
