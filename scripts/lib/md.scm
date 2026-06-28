@@ -363,7 +363,8 @@
 							(title "Page")))
 			(add-heading-anchors? #t)
 			(frontmatter-title? #f)
-			(extra-body-prefix '()))
+			(extra-body-prefix '())
+			(extra-body-suffix '()))
 	"Read markdown from INPUT-PORT, skip YAML-style frontmatter, and write HTML to OUTPUT-PORT.
 If FULL-PAGE? is true, wrap in a complete HTML document structure with DOCTYPE, head, and body.
 HEAD is a list of SXML elements to include in the head tag.
@@ -381,7 +382,8 @@ EXTRA-BODY-PREFIX is a list of SXML nodes prepended before the content (e.g. a b
 				 (body-nodes (append
 										 extra-body-prefix
 										 (if title-node (list title-node) '())
-										 nodes))
+										 nodes
+										 extra-body-suffix))
 				 (processed-nodes (if add-heading-anchors? (add-heading-anchors body-nodes) body-nodes)))
 		(if full-page?
 				(let ((page `((doctype html)
