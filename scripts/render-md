@@ -37,12 +37,21 @@
                                    (a (@ (id "header-back-link")
                                          (href ,(string-append parent-url "/")))
                                       ,(string #\x21a4) " " (code ,parent-name)))))))))
-    (with-input-from-file input-file
-      (lambda ()
-        (md->html (current-input-port)
-                  (current-output-port)
-                  #t
-                  #:frontmatter-title? #t
-                  #:extra-body-prefix backlink-header)))))
+    (let* ((fm (call-with-input-file input-file read-frontmatter))
+           (page-title (or (assq-ref fm 'title) "Page"))
+           (head `((meta (@ (charset "UTF-8")))
+                   (meta (@ (name "viewport") (content "width=device-width, initial-scale=1")))
+                   (link (@ (rel "stylesheet")
+                            (href "/shared/styles/openword-theme.css")))
+                   (title ,page-title))))
+      (with-input-from-file input-file
+        (lambda ()
+          (md->html (current-input-port)
+                    (current-output-port)
+                    #t
+                    #:head head
+                    #:frontmatter-title? #t
+                    #:extra-body-prefix backlink-header))))))
+
 
 (main (command-line))
