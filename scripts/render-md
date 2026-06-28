@@ -1,6 +1,47 @@
 (use-modules (scripts lib md)
              (scripts lib sxml html)
-             (ice-9 textual-ports))
+             (scripts lib dirs)
+             (ice-9 ftw)
+             (ice-9 textual-ports)
+             (srfi srfi-1))
+
+(define (indexed-siblings dir)
+  "Return sorted list of sibling directory names under DIR that have an index.md."
+  (sort
+   (filter (lambda (name)
+             (and (not (string=? name "."))
+                  (not (string=? name ".."))
+                  (let ((subdir (string-append dir "/" name)))
+                    (and (eq? 'directory (stat:type (stat subdir)))
+                         (file-exists? (string-append subdir "/index.md"))))))
+           (or (scandir dir) '()))
+   string<?))
+
+(define (sibling-nav parent-dir self-name parent-url)
+  "Build a prev/next nav footer for SELF-NAME within PARENT-DIR."
+  (let* ((siblings (indexed-siblings parent-dir))
+         (pos (list-index (lambda (s) (string=? s self-name)) siblings)))
+    (if (not pos)
+        '()
+        (let* ((prev-name (and (> pos 0) (list-ref siblings (- pos 1))))
+               (next-name (and (< pos (- (length siblings) 1)) (list-ref siblings (+ pos 1))))
+               (sibling-title (lambda (name)
+                                (let ((path (string-append parent-dir "/" name "/index.md")))
+                                  (or (read-frontmatter-title path)
+                                      (dir-name->display-name name)))))
+               (prev-link (and prev-name
+                               `(a (@ (id "nav-prev")
+                                      (href ,(string-append parent-url "/" prev-name "/")))
+                                   ,(string #\x2190) " " ,(sibling-title prev-name))))
+               (next-link (and next-name
+                               `(a (@ (id "nav-next")
+                                      (href ,(string-append parent-url "/" next-name "/")))
+                                   ,(sibling-title next-name) " " ,(string #\x2192)))))
+          (if (or prev-link next-link)
+              `((nav (@ (id "page-nav"))
+                     ,@(if prev-link (list prev-link) '())
+                     ,@(if next-link (list next-link) '())))
+              '())))))
 
 (define (main args)
   (when (< (length args) 2)
@@ -9,18 +50,18 @@
 
   (let* ((input-file (list-ref args 1))
          ;; Derive backlink from the parent folder name and URL
-         ;; e.g. templates/bible/scripture-readings/08-ruth/ruth-1.md
-         ;;   -> backlink text "08-ruth", href "/bible/scripture-readings/08-ruth"
+         ;; e.g. templates/bible/scripture-readings/08-ruth/ruth-1/index.md
+         ;;   -> backlink text "09-1-samuel", href "/bible/scripture-readings/09-1-samuel"
          (abs-path (if (string-prefix? "/" input-file)
                        input-file
                        (string-append (getcwd) "/" input-file)))
          (file-name (basename abs-path))
          (content-dir (dirname abs-path))
-         ;; For folder-style content (name/index.md), backlink should point to the
-         ;; containing collection directory rather than the page directory itself.
-         (parent-dir (if (string=? file-name "index.md")
-                         (dirname content-dir)
-                         content-dir))
+         ;; For folder-style content (name/index.md), backlink points to the
+         ;; containing collection; self-name is the current folder name.
+         (is-index? (string=? file-name "index.md"))
+         (self-name (if is-index? (basename content-dir) #f))
+         (parent-dir (if is-index? (dirname content-dir) content-dir))
          (parent-name (basename parent-dir))
          ;; Derive the URL by stripping the "templates" prefix from the parent dir
          (templates-prefix (string-append (getcwd) "/templates"))
@@ -36,7 +77,11 @@
                              (span (@ (id "header-back"))
                                    (a (@ (id "header-back-link")
                                          (href ,(string-append parent-url "/")))
-                                      ,(string #\x21a4) " " (code ,parent-name)))))))))
+                                      ,(string #\x21a4) " " (code ,parent-name))))))))
+         ;; Prev/next nav — only for folder-style index.md pages with siblings
+         (nav-footer (if (and is-index? (not at-root?) self-name)
+                         (sibling-nav parent-dir self-name parent-url)
+                         '())))
     (let* ((fm (call-with-input-file input-file read-frontmatter))
            (page-title (or (assq-ref fm 'title) "Page"))
            (head `((meta (@ (charset "UTF-8")))
@@ -51,7 +96,7 @@
                     #t
                     #:head head
                     #:frontmatter-title? #t
-                    #:extra-body-prefix backlink-header))))))
-
+                    #:extra-body-prefix backlink-header
+                    #:extra-body-suffix nav-footer))))))
 
 (main (command-line))
