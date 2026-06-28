@@ -7,7 +7,7 @@ tags:
   - "1 Samuel"
 ---
 
-1. Jonathan does what Saul should have, actung in faith.
+1. Jonathan does what Saul should have, acting in faith.
    1. He tells no one but his armor-bearer (v. 1), while Saul sits under a pomegranate tree (v. 2).
    1. His confession is the theological heart of the passage: "Nothing can hinder the Lord
       from saving by many or by few" (v. 6).
