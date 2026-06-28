@@ -16,7 +16,7 @@ tags:
    1. Samuel arrives immediately after (v. 10)  Saul's faith failed.
 1. Samuel's verdict is the hinge of the narrative (vv. 13–14).
    1. "You have not kept the commandment of the Lord your God."
-   1. The Lord has sought out "a man after his own heart", a phrase we hers later to describe David.
+   1. The Lord has sought out "a man after his own heart", a phrase we hear later to describe David.
 1. There is  great irony when considered in light of chapters 11 and 12.
    1. Saul had just witnessed the covenant renewal at Gilgal. He lacked not information but trust.
    1. He does not repent, but rather he explains. This pattern will deepen through Sayl's reign.
