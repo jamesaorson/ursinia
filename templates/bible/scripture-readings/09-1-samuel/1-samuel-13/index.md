@@ -19,7 +19,7 @@ tags:
    1. The Lord has sought out "a man after his own heart", a phrase we hear later to describe David.
 1. There is  great irony when considered in light of chapters 11 and 12.
    1. Saul had just witnessed the covenant renewal at Gilgal. He lacked not information but trust.
-   1. He does not repent, but rather he explains. This pattern will deepen through Sayl's reign.
+   1. He does not repent, but rather he explains. This pattern will deepen through Saul's reign.
 1. Christ is the better king.
    1. Where Saul substituted his own judgment for God's command under pressure,
       Christ in Gethsemane surrendered entirely: "not my will, but yours" (Luke 22:42).
