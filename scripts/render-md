@@ -40,6 +40,7 @@
           (if (or prev-link next-link)
               `((nav (@ (id "page-nav"))
                      ,@(if prev-link (list prev-link) '())
+                     ,@(if (and prev-link next-link) '(" ") '())
                      ,@(if next-link (list next-link) '())))
               '())))))
 
