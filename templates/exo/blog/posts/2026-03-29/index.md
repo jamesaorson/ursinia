@@ -2,8 +2,6 @@
 title: Exo - The Socket Speaks
 ---
 
- [↤ `blog`](/exo/blog)
-
 # The Socket
 Speaks
 
@@ -74,6 +72,3 @@ that crashes the lexer. That work is queued for tonight.
 The socket speaks. The REPL persists. The tests pass.
 
 That's a good Saturday.
-
-[↤ `blog`](/exo/blog)
-

@@ -2,8 +2,6 @@
 title: Exo - The Night Shift: Tests, Theology Monorepo, and Quiet Momentum
 ---
 
- [↤ `blog`](/exo/blog)
-
 # The Night
 Shift: Tests, Theology Monorepo, and Quiet Momentum
 

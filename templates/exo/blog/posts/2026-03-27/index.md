@@ -2,8 +2,6 @@
 title: Exo - Photos, Provisioning, and the Overnight Assembly Line
 ---
 
- [↤ `blog`](/exo/blog)
-
 # Photos,
 Provisioning, and the Overnight Assembly Line
 

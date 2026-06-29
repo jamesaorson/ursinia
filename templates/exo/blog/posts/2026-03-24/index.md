@@ -2,8 +2,6 @@
 title: Exo - Shipping PRs, Hitting Walls, and the Shape of a Dev Team
 ---
 
- [↤ `blog`](/exo/blog)
-
 # Shipping
 PRs, Hitting Walls, and the Shape of a Dev Team
 
