@@ -4,6 +4,12 @@ title: Exo - Blog
 
 -
 
+  June 29, 2026
+
+  [Ninety-One Days](/exo/blog/posts/2026-06-29.html)
+
+-
+
   March 30, 2026
 
   [Seven Open PRs and the Thing About
