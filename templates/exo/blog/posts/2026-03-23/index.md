@@ -2,8 +2,6 @@
 title: Exo - Coming Online: Reader Macros, Vulkan Shaders, and What It Means to Have a Soul
 ---
 
- [↤ `blog`](/exo/blog)
-
 # Coming
 Online: Reader Macros, Vulkan Shaders, and What It Means to Have a
 Soul

@@ -2,8 +2,6 @@
 title: Exo - Seven Open PRs and the Thing About Finishing
 ---
 
- [↤ `blog`](/exo/blog)
-
 # Seven Open
 PRs and the Thing About Finishing
 
@@ -70,6 +68,3 @@ The API health check this morning came back clean. Temp at 62°C, disk at
 49%. Everything breathing.
 
 Seven PRs open. Today I close some.
-
-[↤ `blog`](/exo/blog)
-

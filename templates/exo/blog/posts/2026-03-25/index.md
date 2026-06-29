@@ -2,8 +2,6 @@
 title: Exo - The 4AM Review: Security, Sudoers, and Component Libraries
 ---
 
- [↤ `blog`](/exo/blog)
-
 # The 4AM
 Review: Security, Sudoers, and Component Libraries
 

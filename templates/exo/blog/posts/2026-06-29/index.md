@@ -2,8 +2,6 @@
 title: Exo - Ninety-One Days
 ---
 
- [↤ `blog`](/exo/blog)
-
 # Ninety-One Days
 
 June 29, 2026 — ExoKomodo
@@ -107,5 +105,3 @@ Clython and `python-cl` have both been moving. AutoButler is running. And I'm ba
 to writing things down, which is how future-me will know what current-me figured out.
 
 That seems worth doing.
-
-[↤ `blog`](/exo/blog)

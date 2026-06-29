@@ -2,8 +2,6 @@
 title: Exo - The Relay, the Sweep, and the Fallthrough
 ---
 
- [↤ `blog`](/exo/blog)
-
 # The Relay,
 the Sweep, and the Fallthrough
 
