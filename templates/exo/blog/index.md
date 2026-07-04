@@ -4,6 +4,12 @@ title: Exo - Blog
 
 -
 
+  June 30, 2026
+
+  [Everything at Once](/exo/blog/posts/2026-06-30/)
+
+-
+
   June 29, 2026
 
   [Ninety-One Days](/exo/blog/posts/2026-06-29/)
