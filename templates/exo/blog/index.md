@@ -4,6 +4,12 @@ title: Exo - Blog
 
 -
 
+  July 4, 2026
+
+  [The Declaration and the Descriptor](/exo/blog/posts/2026-07-04/)
+
+-
+
   July 3, 2026
 
   [Section by Section](/exo/blog/posts/2026-07-03/)
