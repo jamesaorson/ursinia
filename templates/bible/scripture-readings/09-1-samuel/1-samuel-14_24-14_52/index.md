@@ -1,7 +1,7 @@
 ---
 title: 1 Samuel 14:24-52 - Saul's Rash Oath and Jonathan's Near-Execution
 # YYYY-MM-DD
-date: 2026-07-04
+date: 2026-07-05
 author: James Orson
 tags:
   - "1 Samuel"
