@@ -19,11 +19,9 @@ tags:
    - The refusal of Saul's armor could be seen as a refusal of Saul's kingship.
    - God will be more greatly glorified when an unarmored man kills the Philistine's champion.
 1. The pre-battle exchange makes clear that David has faith that the battle is won not by him, but by the LORD (vv. 45–47).
-1. David kills Goliath with a single stone from a shepherd's sling (vv. 49–50), then uses Goliath's own sword
-   to take his head (v. 51). The weapons of the destroyer are used against the destroyer.
+1. David kills Goliath with a single stone from a shepherd's sling (vv. 49–50), then uses Goliath's own sword to take his head (v. 51). The weapons of the destroyer are used against the destroyer.
 1. Israel yet again inherits a victory they did not begin, similar again to the victory gained by the actions of Jonathan and his armor-bearer.
    - David fights as the representative champion for a people who cannot defeat the enemy themselves.
    - He enters the conflict not with the weapons of the world but with something the enemy despises.
    - His people inherit what he won. He goes first; they follow.
-   - The enemy's own weapon turned against him points to Christ, who destroyed death through death,
-     rendering powerless the one who held the power of death ([Hebrews 2:14](/bible/versions/bsb/#hebrews)).
+   - The enemy's own weapon turned against him points to Christ, who destroyed death through death, rendering powerless the one who held the power of death ([Hebrews 2:14](/bible/versions/bsb/#hebrews)).
