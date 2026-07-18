@@ -22,7 +22,7 @@ tags:
      - Every device Saul sets against David results in David prospering further.
      - God's hand on David means that even Saul's evil schemes serve David's advancement.
 1. Saul grows more afraid and becomes David's enemy permanently (vv. 28–29).
-   - The narrative arc of this chapter is a complete inversion of position.
+1. The narrative arc of this chapter is a complete inversion of position.
      - Saul begins as king with every advantage, as recognized king of Israel.
      - By the end, he is afraid of a shepherd who has outperformed him in everything.
-   - David does not scheme to take the kingdom, but simply serves faithfully, and God has given him everything to glorify His name.
+     - Christ was a man born into a shameful position, but His faithfulness was used to greatly glorify the LORD who outperforms all other kings.
