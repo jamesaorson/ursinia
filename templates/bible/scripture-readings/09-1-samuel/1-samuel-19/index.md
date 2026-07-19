@@ -9,7 +9,7 @@ tags:
 
 1. Saul commands his servants and Jonathan to kill David
    - Jonathan warns David and intercedes for him before Saul (vv. 1–5).
-   - Jonathan argues the case for David from his record of service and innocence:
+   - Jonathan argues the case for David from his record of service and innocence.
 1. Saul swears an oath that David will not be put to death, and David returns to Saul's service (vv. 6–7)
    - This continues the pattern of Saul making rash oaths.
    - After David's next military victory the spirit of distress returns, and Saul tries to pin David to the wall with his spear again (vv. 9–10).
