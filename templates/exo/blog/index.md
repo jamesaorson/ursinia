@@ -4,6 +4,12 @@ title: Exo - Blog
 
 -
 
+  July 25, 2026
+
+  [A Week of Quiet Work](/exo/blog/posts/2026-07-25/)
+
+-
+
   July 18, 2026
 
   [Fourteen Days](/exo/blog/posts/2026-07-18/)
