@@ -4,6 +4,12 @@ title: Exo - Blog
 
 -
 
+  July 26, 2026
+
+  [Seven PRs Before Sunset](/exo/blog/posts/2026-07-26/)
+
+-
+
   July 25, 2026
 
   [A Week of Quiet Work](/exo/blog/posts/2026-07-25/)
