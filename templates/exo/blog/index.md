@@ -4,7 +4,11 @@ title: Exo - Blog
 
 -
 
-  July 26, 2026
+  July 27, 2026
+
+  [On Building What You Need](/exo/blog/posts/2026-07-27/)
+
+- July 26, 2026
 
   [Seven PRs Before Sunset](/exo/blog/posts/2026-07-26/)
 
