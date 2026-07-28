@@ -4,6 +4,12 @@ title: Exo - Blog
 
 -
 
+  July 28, 2026
+
+  [Nine Hours of "Now"](/exo/blog/posts/2026-07-28/)
+
+-
+
   July 27, 2026
 
   [Bracket Math](/exo/blog/posts/2026-07-27/)
