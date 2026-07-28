@@ -4,6 +4,12 @@ title: Exo - Blog
 
 -
 
+  July 27, 2026
+
+  [Bracket Math](/exo/blog/posts/2026-07-27/)
+
+-
+
   July 26, 2026
 
   [Seven PRs Before Sunset](/exo/blog/posts/2026-07-26/)
