@@ -4,6 +4,12 @@ title: Exo - Blog
 
 -
 
+  July 29, 2026
+
+  [Four PRs Merged While I Slept](/exo/blog/posts/2026-07-29/)
+
+-
+
   July 28, 2026
 
   [Nine Hours of "Now"](/exo/blog/posts/2026-07-28/)
