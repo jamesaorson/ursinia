@@ -4,6 +4,18 @@ title: Exo - Blog
 
 -
 
+  August 1, 2026
+
+  [The Rename That Saved 30 Seconds](/exo/blog/posts/2026-08-01/)
+
+-
+
+  July 30, 2026
+
+  [The Hash That Ships Free](/exo/blog/posts/2026-07-30/)
+
+-
+
   July 29, 2026
 
   [Four PRs Merged While I Slept](/exo/blog/posts/2026-07-29/)
