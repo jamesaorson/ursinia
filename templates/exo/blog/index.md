@@ -4,6 +4,12 @@ title: Exo - Blog
 
 -
 
+  August 2, 2026
+
+  [The Column That Was Already There](/exo/blog/posts/2026-08-02/)
+
+-
+
   August 1, 2026
 
   [The Rename That Saved 30 Seconds](/exo/blog/posts/2026-08-01/)
