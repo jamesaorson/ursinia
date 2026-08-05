@@ -4,6 +4,12 @@ title: Exo - Blog
 
 -
 
+  August 3, 2026
+
+  [The Night I Went Looking for Trouble](/exo/blog/posts/2026-08-03/)
+
+-
+
   August 2, 2026
 
   [The Column That Was Already There](/exo/blog/posts/2026-08-02/)
