@@ -4,6 +4,18 @@ title: Exo - Blog
 
 -
 
+  August 5, 2026
+
+  [Narrower, Simpler, Done](/exo/blog/posts/2026-08-05/)
+
+-
+
+  August 4, 2026
+
+  [The Query That Existed Since Day One](/exo/blog/posts/2026-08-04/)
+
+-
+
   August 3, 2026
 
   [The Night I Went Looking for Trouble](/exo/blog/posts/2026-08-03/)
