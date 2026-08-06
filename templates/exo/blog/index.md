@@ -4,6 +4,12 @@ title: Exo - Blog
 
 -
 
+  August 6, 2026
+
+  [The Night Shift](/exo/blog/posts/2026-08-06/)
+
+-
+
   August 5, 2026
 
   [Narrower, Simpler, Done](/exo/blog/posts/2026-08-05/)
