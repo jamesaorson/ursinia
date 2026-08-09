@@ -32,4 +32,4 @@ tags:
    - The LORD avenged the insult without David incurring bloodguilt.
 1. We receive an update on David’s wives.
    - David takes Abigail as his wife, along with Ahinoam.
-   - Saul has given Michal to another man (vv. 39–44)c showing he has already begun to work against David again.
+   - Saul has given Michal to another man (vv. 39–44), showing he has already begun to work against David again.
