@@ -29,7 +29,7 @@ tags:
         - God is not co-eternal with primordial matter, but the progenitor of it.
   - Gap theory must be presented here, as it has become common in contemporary Christianity.
     - Quoting John Gill’s exposition on Genesis 1:2, for I find his response to be the most reasonable:
-      - “(Thomas Chamlers (1780-1847) in 1814 was the first to purpose that there is a gap between verse 1 and 2. Into
+      - “Thomas Chalmers (1780-1847) in 1814 was the first to purpose that there is a gap between verse 1 and 2. Into
         this gap he places a pre-Adamic age, about which the scriptures say nothing. Some great catastrophe took place,
         which left the earth "without form and void" or ruined, in which state it remained for as many years as the geologist
         required. {g} This speculation has been popularised by the 1917 Scofield Reference Bible. However, the numerous
@@ -48,8 +48,8 @@ tags:
       - [Zohar Bereshit A Verse 18](https://www.zohar.com/zohar/Bereshit%20A/verses/17-27)
         - "And wind (also: 'spirit') from Elohim" (Ibid.) ALLUDES TO the spirit of holiness that proceeded from living Elohim
           and "moved over the surface of the waters" (Ibid.). THIS MEANS THAT after this wind blew, a thin layer from the
-          refuse was refined, just as the filth flies off and away. In this manner, it was refined, covered and purified over
-          and over again until the foulness was left without any filth.
+          refuse was refined, just as the filth flies off and away. In this manner, it was refined, covered and purified
+          over and over again until the foulness was left without any filth.
       - Interestingly enough, they use the same description we would of how the Son proceeds from the Father (and due to
         the Filioque clause, how the Spirit proceeds from the Father and the Son).
 - (v. 3-5) 3 And God said, “Let there be light,” and there was light. 4 And God saw that the light was good. And God separated
