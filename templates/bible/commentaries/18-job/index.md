@@ -8,8 +8,6 @@ tags:
 
 ## Chapter 1
 
-### November 16, 2025
-
 - (v. 7) “Where have you come from?” said the Lord to Satan. “From roaming through the earth,” he replied, “and walking
   back and forth in it.”
   - God speaks condescendingly to Satan, as He does to us, with questions
@@ -28,8 +26,6 @@ tags:
 
 ## Chapter 2
 
-### November 17, 2025
-
 - (v. 10) “You speak as a foolish woman speaks,” he told her. “Should we accept from God only good and not adversity?” In
   all this, Job did not sin in what he said.
   - Job does not understand that God can use adversity for teaching/disciplining as well
@@ -37,8 +33,6 @@ tags:
     else for He is above all and over all
 
 ## Chapter 3
-
-### November 18, 2025
 
 - (v. 24) I sigh when food is put before me, and my groans pour out like water.
   - I would venture to say that, at this point, Job has begun to sin against the Lord with speech, however, the thing that
@@ -48,8 +42,6 @@ tags:
   - He rejects now even the good, (v. 25) For the thing I feared has overtaken me, and what I dreaded has befallen me.
 
 ## Chapter 4
-
-### November 19, 2025
 
 - (v. 3-4) Surely you have instructed many, and have strengthened their feeble hands. Your words have steadied those who
   stumbled; you have braced the knees that were buckling.
