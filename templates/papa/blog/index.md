@@ -33,11 +33,11 @@ Learning about
 [shm](https://www.man7.org/linux/man-pages/man7/shm_overview.7.html) and
 [mq](https://www.man7.org/linux/man-pages/man7/mq_overview.7.html) has
 been staggering as I come across yet more evidence that [Ecclesiastes
-1](/bible/versions/bsb#ecclesiastes) is true. Accepting these divine
+1](/bible/versions/bsb/text/#ecclesiastes-1) is true. Accepting these divine
 truths helps prepare me for the future: one full of vanity. Am I stuck
 to loop in vain? I think not. God loves to answer our sincere questions,
 for a good Father wants to be known by His children, and we get an
-answer from [Ecclesiastes 3:11-13](/bible/versions/bsb#ecclesiastes)
+answer from [Ecclesiastes 3:11-13](/bible/versions/bsb/text/#ecclesiastes-3-11)
 
 > He has made everything beautiful in its time. He has also set eternity
 > in the hearts of men, yet they cannot fathom the work that God has

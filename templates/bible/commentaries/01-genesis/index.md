@@ -8,8 +8,7 @@ tags:
 
 ## Chapter 1
 
-- (v. 1-2) 1 In the beginning, God created the heavens and the earth. 2 The earth was without form and void, and darkness
-  was over the face of the deep. And the Spirit of God was hovering over the face of the waters.
+- (v. [1](/bible/versions/bsb/text/#genesis-1-1)-[2](/bible/versions/bsb/text/#genesis-1-2))
   - Readers often like to pick and choose from the events presented in the Creation narrative, and these two verses are
     ones that effectively all Christians affirm as being true, to varying degrees.
     - All would generally affirm that God created the heavens and the earth, but even to the extent that the earth’s matter
@@ -20,26 +19,28 @@ tags:
           - וָבֹ֔הוּ (wā·ḇō·hū) A vacuity, an undistinguishable ruin
         - The word for “water” is:
           - הַמָּֽיִם׃ (ham·mā·yim) Water, juice, urine, semen
-      - Verse 1 is describing what God is going to make in the coming chapters, which is all of reality that angels and
-        man exist within. Verse 1 can be seen as the initial production by God of the primordial matter that makes up creation,
-        and presumably the angels were created in this verse as well.
+      - [Verse 1](/bible/versions/bsb/text/#genesis-1-1) is describing what God is going to make in the coming chapters,
+        which is all of reality that angels and man exist within. [Verse 1](/bible/versions/bsb/text/#genesis-1-1) can
+        be seen as the initial production by God of the primordial matter that makes up creation, and presumably the
+        angels were created in this verse as well.
         - This primordial matter is what the “water” within the “void” represents.
         - God is not co-eternal with primordial matter, but the progenitor of it.
   - Gap theory must be presented here, as it has become common in contemporary Christianity.
     - Quoting John Gill’s exposition on Genesis 1:2, for I find his response to be the most reasonable:
-      - “Thomas Chalmers (1780-1847) in 1814 was the first to purpose that there is a gap between verse 1 and 2. Into
-        this gap he places a pre-Adamic age, about which the scriptures say nothing. Some great catastrophe took place,
-        which left the earth "without form and void" or ruined, in which state it remained for as many years as the geologist
-        required. {g} This speculation has been popularised by the 1917 Scofield Reference Bible. However, the numerous
-        rock layers that are the supposed proof for these ages, were mainly laid down by Noah's flood. In Exodus 20:11 we
-        read of a literal six day creation. No gaps, not even for one minute, otherwise these would not be six normal days.
-        Also, in Romans 5:12 we read that death is the result of Adam's sin. Because the rock layers display death on a
-        grand scale, they could not have existed before the fall of Adam. There is no direct evidence that the earth is
-        much older than six thousand years. However, we have the direct eyewitness report of God himself that he made everything
-        in six days. Tracing back through the biblical genealogies we can determine the age of the universe to be about
-        six thousand years with an error of not more than two per cent.“
-    - So when we describe verse 1 as the creation of primordial matter, we must clarify that this is part and parcel with
-      the first day where light is created.
+      - “Thomas Chalmers (1780-1847) in 1814 was the first to purpose that there is a gap between verse
+        [1](/bible/versions/bsb/text/#genesis-1-1) and [2](/bible/versions/bsb/text/#genesis-1-2). Into this gap he places
+        a pre-Adamic age, about which the scriptures say nothing. Some great catastrophe took place, which left the earth
+        "without form and void" or ruined, in which state it remained for as many years as the geologist required. {g}
+        This speculation has been popularised by the 1917 Scofield Reference Bible. However, the numerous rock layers that
+        are the supposed proof for these ages, were mainly laid down by Noah's flood. In Exodus 20:11 we read of a literal
+        six day creation. No gaps, not even for one minute, otherwise these would not be six normal days. Also, in Romans
+        5:12 we read that death is the result of Adam's sin. Because the rock layers display death on a grand scale, they
+        could not have existed before the fall of Adam. There is no direct evidence that the earth is much older than six
+        thousand years. However, we have the direct eyewitness report of God himself that he made everything in six days.
+        Tracing back through the biblical genealogies we can determine the age of the universe to be about six thousand
+        years with an error of not more than two per cent.“
+    - So when we describe [verse 1](/bible/versions/bsb/text/#genesis-1-1) as the creation of primordial matter, we must
+      clarify that this is part and parcel with the first day where light is created.
   - Which person of the Trinity is the Spirit of God that hovered over the waters?
     - It is pretty clearly the Holy Spirit’s participation in creation.
     - What do the Jews think of this passage though?
@@ -50,9 +51,7 @@ tags:
           over and over again until the foulness was left without any filth.
       - Interestingly enough, they use the same description we would of how the Son proceeds from the Father (and due to
         the Filioque clause, how the Spirit proceeds from the Father and the Son).
-- (v. 3-5) 3 And God said, “Let there be light,” and there was light. 4 And God saw that the light was good. And God separated
-  the light from the darkness. 5 God called the light Day, and the darkness he called Night. And there was evening and there
-  was morning, the first day.
+- (v. [3](/bible/versions/bsb/text/#genesis-1-3)-[5](/bible/versions/bsb/text/#genesis-1-5))
   - Gap theorists will claim that, before the light came, there was an indeterminately large period of time which passed
     where there was at least no sun.
     - This gap allows for an explicit time for Satan and his brood of angels to sin against God and fall.
@@ -60,10 +59,7 @@ tags:
       comes in, however, that would necessitate some kind of light.
       - The light in scripture then would have to specifically be the sun.
       - Not actually speaking about light itself, which would be present through traditional universe expansion.
-- (v. 6-8) 6 And God said, “Let there be an expanse in the midst of the waters, and let it separate the waters from the
-  waters.” 7 And God made the expanse and separated the waters that were under the expanse from the waters that were above
-  the expanse. And it was so. 8 And God called the expanse Heaven. And there was evening and there was morning, the second
-  day.
+- (v. [6](/bible/versions/bsb/text/#genesis-1-6)-[8](/bible/versions/bsb/text/#genesis-1-8))
   - Quick summary of what is going on:
     - God separates the water that is present on the earth into the various layers of the atmosphere.
     - There is a specific grand detail here though that is important later in the flood narrative, for it separated “the
@@ -85,9 +81,7 @@ tags:
       - God makes a covenant with Noah, permitting humans now to eat meat, requiring us to pay back murder with the death
         penalty, a promise that seasons and the day-night cycle will persist, and a promise to never destroy the earth with
         water.
-        - Genesis 9:9-10 9 “Behold, I establish my covenant with you and your offspring after you, 10 and with every living
-          creature that is with you, the birds, the livestock, and every beast of the earth with you, as many as came out
-          of the ark; it is for every beast of the earth.
+        - Genesis 9:9-10
         - God explicitly marks the covenant as being applied to Noah, Noah’s offspring, and all creatures in the ark, then
           in following verses God refers to these same groups as “all flesh”
           - Genesis 9:15 I will remember my covenant that is between me and you and every living creature of all flesh.
@@ -96,11 +90,7 @@ tags:
     - If/since the flood was global, the Noahic Covenant applies to all flesh.
     - So it is easiest to accept the flood was global, and traumatic to the earth, and all further implications of that,
       if there was a great deluge of water released from both the heavens above and the earth beneath.
-- (v. 14-17) 14 And God said, “Let there be lights in the expanse of the heavens to separate the day from the night. And
-  let them be for signs and for seasons, and for days and years, 15 and let them be lights in the expanse of the heavens
-  to give light upon the earth.” And it was so. 16 And God made the two great lights—the greater light to rule the day and
-  the lesser light to rule the night—and the stars. 17 And God set them in the expanse of the heavens to give light on the
-  earth,
+- (v. [14](/bible/versions/bsb/text/#genesis-1-14)-[17](/bible/versions/bsb/text/#genesis-1-17))
   - This day of creation always brings forth a specific question from people “I thought light and darkness had already been
     created on the first day?”
     - The simple answer is “correct”, the real puzzle is how could both possibly be true?
@@ -114,25 +104,19 @@ tags:
       like the nebula.
       - Christ is frequently referred to as the Light of the World.
       - Regardless, this imagery is helpful in a typical fashion, even if the light was from nebulae.
-- (v. 20-21) 20 And God said, “Let the waters swarm with swarms of living creatures, and let birds fly above the earth across
-  the expanse of the heavens.” 21 So God created the great sea creatures and every living creature that moves, with which
-  the waters swarm, according to their kinds, and every winged bird according to its kind. And God saw that it was good.
+- (v. [20](/bible/versions/bsb/text/#genesis-1-20)-[21](/bible/versions/bsb/text/#genesis-1-21))
   - Just an interesting thing to consider about the nature of these kinds of animals in particular.
     - Both the sea creatures and the birds of the air “swim” through a fluid.
     - There is much in common between the two mediums, and both are mediums that man cannot naturally dwell within.
     - In some sense, these creatures are all seen as the least of creatures, lowly to the earth and “crawling” upon it.
 
-- (v. 22) 22 And God blessed them, saying, “Be fruitful and multiply and fill the waters in the seas, and let birds multiply
-  on the earth.”
+- (v. [22](/bible/versions/bsb/text/#genesis-1-22))
   - It is here first that we see God command something He has made to “be fruitful and multiply”.
     - It says that in commanding His creation of this, God had “blessed” the creatures He had just made.
     - To be able to, and to even be commanded, to bear offspring is a blessing.
     - The blessing and command to bear offspring is common to all creatures, not just man.
   - Side note: Consider if it is without sin that we spay and neuter animals.
-- (v. 26-27) 26 Then God said, “Let us make man in our image, after our likeness. And let them have dominion over the fish
-  of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing
-  that creeps on the earth.” 27 So God created man in his own image, in the image of God he created him; male and female
-  he created them.
+- (v. [26](/bible/versions/bsb/text/#genesis-1-26)-[27](/bible/versions/bsb/text/#genesis-1-27))
   - God declared man to be in His image upon creation, applying this to both man and woman.
     - Say you believe in theistic evolution, at what point did man get created into His image?
       - Did man at one point in time get gifted the image of God?
@@ -149,9 +133,7 @@ tags:
       - Man has then always generally been in the state he is in, and male and female both have this divine image, not one
         more than the other.
       - All rights that are conferred by having God’s divine image then have been around for all of time for man.
-- (v. 28\) 28 And God blessed them. And God said to them, “Be fruitful and multiply and fill the earth and subdue it, and
-  have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the
-  earth.”
+- (v. [28](/bible/versions/bsb/text/#genesis-1-28))
   - We now see that God blesses man in a similar way as He did to the birds and sea creatures, commanding them to bear offspring
     and fill the earth with them.
     - This also establishes marriage as a divine ordinance, transcending any human tradition and decision, for we also see

@@ -1,5 +1,6 @@
 ---
 title: Berean Standard Bible
+scripture-links: false
 ---
 
 The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee.

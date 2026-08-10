@@ -4,7 +4,7 @@ title: Extra Topics
 
 ### [The name of God](#yhwh)
 
-Did Descartes choose his wording as a cheeky nod to the name of God? If God is real, then did Descartes have a choice not to make this nod? I like to think it's a joke from on high. A reference to [His word in Romans 1](/bible/versions/bsb#romans), that the thought of any being necessitates the "I am" of Yahweh.
+Did Descartes choose his wording as a cheeky nod to the name of God? If God is real, then did Descartes have a choice not to make this nod? I like to think it's a joke from on high. A reference to [His word in Romans 1](/bible/versions/bsb/text/#romans-1), that the thought of any being necessitates the "I am" of Yahweh.
 
 ### [LLMs](#llms)
 

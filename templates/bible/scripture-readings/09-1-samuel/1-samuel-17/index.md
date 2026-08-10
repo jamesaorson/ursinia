@@ -24,4 +24,4 @@ tags:
    - David fights as the representative champion for a people who cannot defeat the enemy themselves.
    - He enters the conflict not with the weapons of the world but with something the enemy despises.
    - His people inherit what he won. He goes first; they follow.
-   - The enemy's own weapon turned against him points to Christ, who destroyed death through death, rendering powerless the one who held the power of death ([Hebrews 2:14](/bible/versions/bsb/#hebrews)).
+   - The enemy's own weapon turned against him points to Christ, who destroyed death through death, rendering powerless the one who held the power of death ([Hebrews 2:14](/bible/versions/bsb/text/#hebrews-2-14)).

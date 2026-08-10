@@ -17,19 +17,19 @@
                        (h3 "Maintain Order")
                        (p
                          "In life, there is a choice between order and chaos at most moments. God is the true being of order ("
-                         (a (@ (href "/bible/versions/bsb/#1-corinthians"))
+                         (a (@ (href "/bible/versions/bsb/text/#1-corinthians-14-33"))
                             "1 Corinthians 14:33")
                          "), and His will is the only certain course for orderly action ("
-                         (a (@ (href "/bible/versions/bsb/#john"))
+                         (a (@ (href "/bible/versions/bsb/text/#john-14-6"))
                             "John 14:6")
                          "). Therefore, consult the Lord in all you do ("
-                         (a (@ (href "/bible/versions/bsb/#proverbs"))
+                         (a (@ (href "/bible/versions/bsb/text/#proverbs-3-5"))
                             "Proverbs 3:5-6")
                          "), listening to the groans of the spirit ("
-                         (a (@ (href "/bible/versions/bsb/#romans"))
+                         (a (@ (href "/bible/versions/bsb/text/#romans-8-26"))
                             "Romans 8:26")
                          "). As order is counter cultural, we are to be unashamed of the Gospel of Christ our Lord and God ("
-                         (a (@ (href "/bible/versions/bsb#romans"))
+                         (a (@ (href "/bible/versions/bsb/text/#romans-1-16"))
                             "Romans 1:16")
                          ").")
                        (h3 "Through marriage")
@@ -40,22 +40,22 @@
                          (a (@ (href "/mama"))
                             "Mama")
                          " demonstrates the profound mystery of Christ's love of the church ("
-                         (a (@ (href "/bible/versions/bsb#ephesians"))
+                         (a (@ (href "/bible/versions/bsb/text/#ephesians-5-31"))
                             "Ephesians 5:31-32")
                          "). All that we do can be seen as a reflection of Christ and His love for the church. It is by this marriage that the Orson family was founded and continues to orient itself. Through this marriage, God continues to bless us with children, and may our quiver be full to the Lord's desire ("
-                         (a (@ (href "/bible/versions/bsb#psalms"))
+                         (a (@ (href "/bible/versions/bsb/text/#psalm-127-3"))
                             "Psalm 127:3-5")
                          ").")
                        (h3 "In Christ")
                        (p
                          "As we live, let our focus and effort be for Christ and His kingdom ("
-                         (a (@ (href "/bible/versions/bsb#philippians"))
+                         (a (@ (href "/bible/versions/bsb/text/#philippians-1-21"))
                             "Philippians 1:21-24")
                          "), and treat our lives as forfeit to Christ who redeemed us ("
-                         (a (@ (href "/bible/versions/bsb#matthews"))
+                         (a (@ (href "/bible/versions/bsb/text/#matthew-16-25"))
                             "Matthew 16:25")
                          "), not by our own works, but by the work of the Lord ("
-                         (a (@ (href "/bible/versions/bsb#ephesians"))
+                         (a (@ (href "/bible/versions/bsb/text/#ephesians-2-8"))
                             "Ephesians 2:8-10")
                          ")."))
                      (div
@@ -63,44 +63,44 @@
                        (h3 "Our Trajectory")
                        (p
                          "We are continually called to grow where we are planted ("
-                         (a (@ (href "/bible/versions/bsb/#1-corinthians"))
+                         (a (@ (href "/bible/versions/bsb/text/#1-corinthians-7-20"))
                             "1 Corinthians 7:20-24")
                          "). God is the one who will uproot and plant us wherever His mission may be for our family. We are strangers in a strange land ("
-                         (a (@ (href "/bible/versions/bsb#exodus"))
+                         (a (@ (href "/bible/versions/bsb/text/#exodus-2-22"))
                             "Exodus 2:22")
                          ", "
-                         (a (@ (href "/bible/versions/bsb#psalms"))
+                         (a (@ (href "/bible/versions/bsb/text/#psalm-137-4"))
                             "Psalm 137:4")
                          ", "
-                         (a (@ (href "/bible/versions/bsb#acts"))
+                         (a (@ (href "/bible/versions/bsb/text/#acts-7-6"))
                             "Acts 7:6")
                          "), with our hearts set upon eternity with Christ on the new Earth ("
-                         (a (@ (href "/bible/versions/bsb#revelation"))
+                         (a (@ (href "/bible/versions/bsb/text/#revelation-21-1"))
                             "Revelation 21:1-4")
                          ").")
                        (h3 "Our Calling")
 
                        (p
                          "We are to make disciples of all nations ("
-                         (a (@ (href "/bible/versions/bsb#matthew"))
+                         (a (@ (href "/bible/versions/bsb/text/#matthew-28-17"))
                             "Matthew 28:17-20")
                          "), and raise up children who are faithful to and love the Lord ("
-                         (a (@ (href "/bible/versions/bsb#ephesians"))
+                         (a (@ (href "/bible/versions/bsb/text/#ephesians-6-1"))
                             "Ephesians 6:1-4")
                          "), not making our children bitter to their inheritance found in Christ alone ("
-                         (a (@ (href "/bible/versions/bsb#colossians"))
+                         (a (@ (href "/bible/versions/bsb/text/#colossians-3-18"))
                             "Colossians 3:18-24")
                          ", "
-                         (a (@ (href "/bible/versions/bsb#ephesians"))
+                         (a (@ (href "/bible/versions/bsb/text/#ephesians-1-11"))
                             "Ephesians 1:11")
                          ", "
-                         (a (@ (href "/bible/versions/bsb#hebrews"))
+                         (a (@ (href "/bible/versions/bsb/text/#hebrews-9-14"))
                             "Hebrews 9:14-15")
                          "). For it is God the Father who draws us to Christ, while we were wholly dead He gave us life ("
-                         (a (@ (href "/bible/versions/bsb#john"))
+                         (a (@ (href "/bible/versions/bsb/text/#john-6-43"))
                             "John 6:43-51")
                          ", "
-                         (a (@ (href "/bible/versions/bsb#ephesians"))
+                         (a (@ (href "/bible/versions/bsb/text/#ephesians-2-1"))
                             "Ephesians 2:1-7")
                          ").")))
 

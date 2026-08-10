@@ -1,7 +1,7 @@
 ;; Copyright (C) 2026
 
 (define-module (scripts lib bible)
-  #:use-module (scripts lib md)
+  #:use-module (scripts lib text)
   #:use-module (ice-9 rdelim)
   #:use-module (srfi srfi-1)
   #:use-module (srfi srfi-9)

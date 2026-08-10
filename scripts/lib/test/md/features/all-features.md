@@ -43,5 +43,8 @@ This line has *italics*, _italics_, **strong**, and __strong__.
 ## Paragraph Anchors
 This paragraph carries a trailing anchor marker. {#all-features-anchor}
 
+## Scripture Links
+A reference to Romans 1:16 and a range Genesis 1:1-3 become links.
+
 ###### Final Heading
 End paragraph.

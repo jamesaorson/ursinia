@@ -23,4 +23,4 @@ tags:
 1. Samuel completes the work that God had requested of Saul by hacking Agag to pieces (v. 33), then departs from Saul (v. 35).
 1. Christ is the king after God's own heart that Samuel's verdict was reaching toward.
    - Where Saul substituted his judgment for God's command and dressed it in piety, Christ obeyed perfectly,
-     offering the sacrifice that was found by his perfect obedience ([Philippians 2:8](/bible/versions/bsb/#philippians)).
+     offering the sacrifice that was found by his perfect obedience ([Philippians 2:8](/bible/versions/bsb/text/#philippians-2-8)).

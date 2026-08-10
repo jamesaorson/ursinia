@@ -83,6 +83,9 @@
     (lambda (port)
       (format port "---~%")
       (format port "title: ~a~%" (version-title version))
+      ;; The renderer links bare scripture references in prose. On the scripture
+      ;; itself that would be self-referential, so opt this page out.
+      (format port "scripture-links: false~%")
       (format port "---~%~%")
       (for-each (lambda (line) (format port "~a~%~%" line))
                 (take headers

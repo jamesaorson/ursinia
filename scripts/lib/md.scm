@@ -2,14 +2,17 @@
 
 (define-module (scripts lib md)
 	#:use-module (scripts lib sxml html)
+	#:use-module (scripts lib text)
+	#:use-module (scripts lib bible)
 	#:use-module (ice-9 rdelim)
 	#:use-module (ice-9 match)
+	#:use-module (srfi srfi-1)
 	#:use-module (srfi srfi-11)
 	#:use-module (srfi srfi-13)
+	#:re-export (text->id)
 	#:export (md->html
 	          parse-frontmatter
-	          read-frontmatter
-	          text->id))
+	          read-frontmatter))
 
 (define (starts-with? s prefix)
 	(and (>= (string-length s) (string-length prefix))
@@ -366,15 +369,209 @@ unchanged and #f, so ordinary content containing braces is left alone."
 	  (string-concatenate (map text-from-sxml (cdr node))))
 	 (else "")))
 
-(define (text->id text)
-	"Convert text to a URL-friendly ID (lowercase, spaces to hyphens)."
-	(string-downcase
-	 (string-map
-	  (lambda (c)
-	   (if (char-set-contains? char-set:whitespace c)
-		   #\-
-		   c))
-	  text)))
+;;; ---------------------------------------------------------------------------
+;;; Scripture reference linking
+;;;
+;;; Turns bare references in prose ("Exodus 6:7", "Genesis 1:1-3") into links to
+;;; the full-text Bible pages. This runs over the parsed tree rather than the
+;;; raw markdown, so existing links, code spans and fenced blocks are already
+;;; separate nodes and are left alone for free.
+;;; ---------------------------------------------------------------------------
+
+(define %scripture-base-url "/bible/versions/bsb/text/")
+
+(define %scripture-book-aliases
+	;; Spellings that appear in prose but are not the canonical display name.
+	'(("Psalms" . "Psalm")
+	  ("Song of Songs" . "Song of Solomon")))
+
+(define %scripture-books
+	;; (name . slug), longest name first so "1 John" wins over "John" and
+	;; "Song of Solomon" is never truncated to "Song".
+	(sort
+	 (append
+	  (map (lambda (book) (cons (book-display-name book) (book-slug book)))
+			 bible-books)
+	  (filter-map
+	   (lambda (alias)
+		 (let ((book (book-by-display-name (cdr alias))))
+		   (and book (cons (car alias) (book-slug book)))))
+	   %scripture-book-aliases))
+	 (lambda (a b) (> (string-length (car a)) (string-length (car b))))))
+
+(define (word-char? c)
+	(or (char-alphabetic? c) (char-numeric? c)))
+
+(define (range-separator? c)
+	(or (char=? c #\-) (char=? c #\x2013)))
+
+(define (scan-digits text i)
+	"Return two values: the integer of the digit run at I (or #f) and its end."
+	(let loop ((j i))
+		(if (and (< j (string-length text))
+				 (char-numeric? (string-ref text j)))
+			(loop (+ j 1))
+			(if (= j i)
+				(values #f i)
+				(values (string->number (substring text i j)) j)))))
+
+(define (match-book-at text i)
+	"Return two values: the slug of a book name starting at I (or #f) and its end."
+	(let loop ((entries %scripture-books))
+		(if (null? entries)
+			(values #f i)
+			(let* ((entry (car entries))
+				   (name (car entry))
+				   (end (+ i (string-length name))))
+				(if (and (starts-with-at? text i name)
+						 (or (>= end (string-length text))
+							 (not (word-char? (string-ref text end)))))
+					(values (cdr entry) end)
+					(loop (cdr entries)))))))
+
+(define (scripture-link label anchor)
+	`(a (@ (href ,(string-append %scripture-base-url "#" anchor))) ,label))
+
+(define (chapter-anchor slug chapter)
+	(string-append slug "-" (number->string chapter)))
+
+(define (verse-anchor slug chapter verse)
+	(string-append slug "-" (number->string chapter) "-" (number->string verse)))
+
+(define (match-reference-at text i)
+	"Try to read a scripture reference starting at I.
+Returns two values: a list of SXML nodes for it (or #f) and the index just past
+the match. Both ends of a range become their own link, so either end of
+\"Genesis 1:1-3\" can be followed to the verse it names."
+	(let-values (((slug book-end) (match-book-at text i)))
+		(if (not slug)
+			(values #f i)
+			;; The book name must be followed by a single space and a chapter.
+			(let ((sep-end (let loop ((j book-end))
+							 (if (and (< j (string-length text))
+									  (char=? (string-ref text j) #\space))
+								 (loop (+ j 1))
+								 j))))
+				(if (= sep-end book-end)
+					(values #f i)
+					(let-values (((chapter chapter-end) (scan-digits text sep-end)))
+						(if (not chapter)
+							(values #f i)
+							(let* ((book-label (substring text i book-end))
+								   (head-label (substring text i chapter-end)))
+								(if (and (< chapter-end (string-length text))
+										 (char=? (string-ref text chapter-end) #\:))
+									;; Book chapter:verse, optionally a range.
+									(let-values (((verse verse-end)
+												  (scan-digits text (+ chapter-end 1))))
+										(if (not verse)
+											;; A colon that ends a clause ("since Romans 2:")
+											;; rather than introducing a verse -- still a
+											;; perfectly good chapter reference.
+											(match-chapter-range text i chapter-end slug
+																 (chapter-anchor slug chapter)
+																 head-label book-label)
+											(let ((anchor (verse-anchor slug chapter verse))
+												  (label (substring text i verse-end)))
+												(match-verse-range text i verse-end slug
+																   chapter anchor label))))
+									;; Book chapter, optionally a chapter range.
+									(let ((anchor (chapter-anchor slug chapter)))
+										(match-chapter-range text i chapter-end slug
+															 anchor head-label
+															 book-label)))))))))))
+
+(define (match-verse-range text start verse-end slug chapter anchor label)
+	"Extend a matched verse into a range if one follows, else emit a single link."
+	(if (and (< verse-end (string-length text))
+			 (range-separator? (string-ref text verse-end)))
+		(let-values (((first second-end) (scan-digits text (+ verse-end 1))))
+			(if (not first)
+				(values (list (scripture-link label anchor)) verse-end)
+				(if (and (< second-end (string-length text))
+						 (char=? (string-ref text second-end) #\:))
+					;; Cross-chapter: "John 15:18-16:4"
+					(let-values (((second verse2-end) (scan-digits text (+ second-end 1))))
+						(if (not second)
+							(values (list (scripture-link label anchor)) verse-end)
+							(values (list (scripture-link label anchor)
+										  (string (string-ref text verse-end))
+										  (scripture-link
+										   (substring text (+ verse-end 1) verse2-end)
+										   (verse-anchor slug first second)))
+									verse2-end)))
+					;; Within one chapter: "Genesis 1:1-3"
+					(values (list (scripture-link label anchor)
+								  (string (string-ref text verse-end))
+								  (scripture-link
+								   (substring text (+ verse-end 1) second-end)
+								   (verse-anchor slug chapter first)))
+							second-end))))
+		(values (list (scripture-link label anchor)) verse-end)))
+
+(define (match-chapter-range text start chapter-end slug anchor label book-label)
+	"Extend a matched chapter into a chapter range if one follows."
+	(if (and (< chapter-end (string-length text))
+			 (range-separator? (string-ref text chapter-end)))
+		(let-values (((second second-end) (scan-digits text (+ chapter-end 1))))
+			(if (or (not second)
+					;; A verse follows, so this was not a chapter range.
+					(and (< second-end (string-length text))
+						 (char=? (string-ref text second-end) #\:)))
+				(values (list (scripture-link label anchor)) chapter-end)
+				(values (list (scripture-link label anchor)
+							  (string (string-ref text chapter-end))
+							  (scripture-link
+							   (substring text (+ chapter-end 1) second-end)
+							   (chapter-anchor slug second)))
+						second-end)))
+		(values (list (scripture-link label anchor)) chapter-end)))
+
+(define (linkify-scripture-string text)
+	"Split TEXT into a list of plain strings and scripture link nodes."
+	(let ((len (string-length text)))
+		(let loop ((i 0) (plain-start 0) (nodes '()))
+			(define (flush end)
+				(if (= plain-start end)
+					nodes
+					(cons (substring text plain-start end) nodes)))
+			(cond
+			 ((>= i len) (reverse (flush len)))
+			 ;; Inline code spans are not a node type in this renderer -- backticks
+			 ;; survive as literal text -- so skip over them here instead.
+			 ((char=? (string-ref text i) #\`)
+			  (let ((close (string-index text #\` (+ i 1))))
+				(if close
+					(loop (+ close 1) plain-start nodes)
+					(loop (+ i 1) plain-start nodes))))
+			 ((not (or (= i 0) (not (word-char? (string-ref text (- i 1))))))
+			  (loop (+ i 1) plain-start nodes))
+			 (else
+			  (let-values (((matched end) (match-reference-at text i)))
+				(if matched
+					(loop end end (append (reverse matched) (flush i)))
+					(loop (+ i 1) plain-start nodes))))))))
+
+(define %scripture-opaque-tags
+	;; Nodes whose contents must never be touched: attribute lists (their values
+	;; are URLs, not prose), existing links (nesting an <a> is invalid), code, raw
+	;; passthrough, and headings (add-heading-anchors wraps those in an <a>
+	;; afterwards, which would nest too).
+	'(@ a code pre script style raw doctype h1 h2 h3 h4 h5 h6))
+
+(define (linkify-scripture-node node)
+	"Return a list of nodes replacing NODE, linking any scripture references."
+	(match node
+	 ((? string? text) (linkify-scripture-string text))
+	 (((? symbol? tag) rest ...)
+	  (if (memq tag %scripture-opaque-tags)
+		  (list node)
+		  (list (cons tag (append-map linkify-scripture-node rest)))))
+	 ((items ...) (list (append-map linkify-scripture-node items)))
+	 (else (list node))))
+
+(define (linkify-scripture nodes)
+	(append-map linkify-scripture-node nodes))
 
 (define (add-heading-anchors node)
 	"Recursively process nodes to add anchor links to heading tags (h1-h6)."
@@ -395,6 +592,7 @@ unchanged and #f, so ordinary content containing braces is left alone."
 									 (href "/shared/styles/openword-theme.css")))
 							(title "Page")))
 			(add-heading-anchors? #t)
+			(scripture-links? #t)
 			(frontmatter-title? #f)
 			(extra-body-prefix '())
 			(extra-body-suffix '()))
@@ -417,7 +615,13 @@ EXTRA-BODY-PREFIX is a list of SXML nodes prepended before the content (e.g. a b
 										 (if title-node (list title-node) '())
 										 nodes
 										 extra-body-suffix))
-				 (processed-nodes (if add-heading-anchors? (add-heading-anchors body-nodes) body-nodes)))
+				 ;; A page opts out with "scripture-links: false" in its frontmatter --
+				 ;; the generated Bible pages do, since linking scripture to itself
+				 ;; would add tens of thousands of self-references.
+				 (link-scripture? (and scripture-links?
+															 (not (equal? (assq-ref fm 'scripture-links) "false"))))
+				 (linked-nodes (if link-scripture? (linkify-scripture body-nodes) body-nodes))
+				 (processed-nodes (if add-heading-anchors? (add-heading-anchors linked-nodes) linked-nodes)))
 		(if full-page?
 				(let ((page `((doctype html)
 							(html (@ (lang "en"))

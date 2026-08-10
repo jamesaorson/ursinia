@@ -1,5 +1,6 @@
 ---
 title: King James Version
+scripture-links: false
 ---
 
 Holy Bible, Authorized (King James) Version, Textfile 930105.
