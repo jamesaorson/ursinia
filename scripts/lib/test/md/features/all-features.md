@@ -40,5 +40,8 @@ This line has *italics*, _italics_, **strong**, and __strong__.
 (display (square 5))
 ```
 
+## Paragraph Anchors
+This paragraph carries a trailing anchor marker. {#all-features-anchor}
+
 ###### Final Heading
 End paragraph.

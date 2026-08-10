@@ -52,6 +52,18 @@ fix: ## Fixes formatting issues
 format: ## Fixes formatting issues
 	npm run fix:prettier
 
+##@ Content Generation
+
+.PHONY: bible
+bible: ## Regenerates the amalgamated Bible markdown from the plain-text sources
+	./scripts/generate-bible
+
+.PHONY: bible/check
+bible/check: ## Verifies the committed Bible markdown matches its plain-text sources
+	./scripts/generate-bible --check
+
+##@ Rendering
+
 SCM_TEMPLATES := $(shell find templates/ -type f -not -path '*/.*' -name '*.html.scm')
 _MD_TEMPLATES_ALL := $(shell find templates/ -type f -not -path '*/.*' -name '*.md')
 MD_TEMPLATES := $(filter-out %body.md %README.md %AGENTS.md %CLAUDE.md,$(_MD_TEMPLATES_ALL))
@@ -106,4 +118,4 @@ watch: ## Watch for changes and re-render templates
 
 .PHONY: help
 help: ## Displays help info
-	awk 'BEGIN {FS = ":.*##"; printf "\nUsage:\n  make \033[36m\033[0m\n"} /^[a-zA-Z_-]+:.*?##/ { printf "  \033[36m%-15s\033[0m %s\n", $$1, $$2 } /^##@/ { printf "\n\033[1m%s\033[0m\n", substr($$0, 5) } ' $(MAKEFILE_LIST)
+	awk 'BEGIN {FS = ":.*##"; printf "\nUsage:\n  make \033[36m\033[0m\n"} /^[a-zA-Z_\/-]+:.*?##/ { printf "  \033[36m%-15s\033[0m %s\n", $$1, $$2 } /^##@/ { printf "\n\033[1m%s\033[0m\n", substr($$0, 5) } ' $(MAKEFILE_LIST)

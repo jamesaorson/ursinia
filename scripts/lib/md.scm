@@ -8,7 +8,8 @@
 	#:use-module (srfi srfi-13)
 	#:export (md->html
 	          parse-frontmatter
-	          read-frontmatter))
+	          read-frontmatter
+	          text->id))
 
 (define (starts-with? s prefix)
 	(and (>= (string-length s) (string-length prefix))
@@ -251,6 +252,38 @@
 					 (else
 						(loop (cdr rest) list-type items cur-text sub-acc)))))))
 
+(define (anchor-id-char? c)
+	"True if C is allowed inside a {#id} anchor marker."
+	(not (or (char-set-contains? char-set:whitespace c)
+					 (char=? c #\{)
+					 (char=? c #\}))))
+
+(define (split-trailing-anchor text)
+	"Split a trailing {#id} anchor marker off the end of TEXT.
+Returns two values: TEXT with the marker removed (and trailing space trimmed)
+and the id string. If TEXT does not end in a well-formed marker, returns TEXT
+unchanged and #f, so ordinary content containing braces is left alone."
+	(let ((len (string-length text)))
+		(if (or (= len 0)
+						(not (char=? (string-ref text (- len 1)) #\})))
+				(values text #f)
+				(let ((open (string-rindex text #\{)))
+					(if (or (not open)
+									(not (starts-with-at? text open "{#"))
+									(>= (+ open 2) (- len 1)))
+							(values text #f)
+							(let ((id (substring text (+ open 2) (- len 1))))
+								(if (string-every anchor-id-char? id)
+										(values (string-trim-right (substring text 0 open)) id)
+										(values text #f))))))))
+
+(define (paragraph->node text)
+	"Build a (p ...) node from paragraph TEXT, honoring a trailing {#id} anchor."
+	(let-values (((body id) (split-trailing-anchor text)))
+		(if id
+				(cons 'p (cons `(@ (id ,id)) (parse-inline body)))
+				(cons 'p (parse-inline body)))))
+
 (define (parse-markdown lines)
 	(let loop ((rest lines)
 						 (blocks '())
@@ -260,7 +293,7 @@
 		(define (flush-paragraph blocks paragraph-lines)
 			(if (null? paragraph-lines)
 					blocks
-					(cons (cons 'p (parse-inline (string-join (reverse paragraph-lines) " ")))
+					(cons (paragraph->node (string-join (reverse paragraph-lines) " "))
 							blocks)))
 		(define (flush-code blocks code-lines)
 			(if (null? code-lines)

@@ -2,6 +2,8 @@
 title: Ursinia - BSB
 ---
 
+- [Full text](/bible/versions/bsb/text/)
+
 ## Self-Hosted (downloads a file)
 
 - [BSB - Source](/assets/bible/data/versions/bsb.txt)
