@@ -21,6 +21,7 @@
                                                `(li (a (@ (href ,href))
                                                        ,text))))
                                            '(["/bible/versions" . "Full Text Bibles"]
+                                             ["/bible/commentaries" . "My own commentaries"]
                                              ["/bible/reading-plans" . "Bible Reading Plans"]
                                              ["/bible/scripture-readings" . "Scripture Readings"]
                                              ["/bible/theology" . "Theology"]
