@@ -11,5 +11,13 @@
   },
   "[yaml]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "cSpell.words": [
+    "earthers",
+    "Eliphaz",
+    "Noahic",
+    "sentencer",
+    "unpayable",
+    "Zohar"
+  ]
 }
