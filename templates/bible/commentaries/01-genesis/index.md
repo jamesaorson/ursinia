@@ -8,8 +8,6 @@ tags:
 
 ## Chapter 1
 
-### Date: November 21, 2025
-
 - (v. 1-2) 1 In the beginning, God created the heavens and the earth. 2 The earth was without form and void, and darkness
   was over the face of the deep. And the Spirit of God was hovering over the face of the waters.
   - Readers often like to pick and choose from the events presented in the Creation narrative, and these two verses are
@@ -164,9 +162,6 @@ tags:
       to the earth or does it expand to all celestial bodies?
 
 ## Chapter 2
-
-Date: November 23, 2025  
-_ESV is used for this day’s notes (as this was part of preparing for teaching on wednesday)_
 
 - Generally, old earthers and skeptics alike, question why we get this “second creation narrative”.
   - This chapter can be easily understood as a recap of the creation account, but focused upon the creation of things most

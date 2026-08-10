@@ -8,8 +8,6 @@ tags:
 
 ## Chapter 1
 
-### Date: January 12, 2026
-
 - (v. 1) 1 These are the words of Jeremiah son of Hilkiah, one of the priests in Anathoth in the territory of Benjamin.
   - Priest residing in Benjamin, in Judah, after the split of the kingdoms, for Levi has no land
 - (vv. 2-3) 2 The word of the LORD came to Jeremiah in the thirteenth year of the reign of Josiah son of Amon king of Judah,
@@ -53,8 +51,6 @@ tags:
   - Jeremiah will succeed in doing the work the Lord is doing to deliver His people
 
 ## Chapter 2
-
-### Date: January 19, 2026
 
 - (v. 2) 2 “Go and proclaim in the hearing of Jerusalem that this is what the LORD says: ‘I remember the devotion of your
   youth, your love as a bride, how you followed Me in the wilderness, in a land not sown.
@@ -139,8 +135,6 @@ tags:
 
 ## Chapter 3
 
-### Date: February 9, 2026
-
 - (v. 1, 5) 1 “If a man divorces his wife and she leaves him to marry another, can he ever return to her? Would not such
   a land be completely defiled? But you have played the harlot with many lovers—and you would return to Me?” declares the
   LORD. 5 Will He be angry forever? Will He be indignant to the end?’ This you have spoken, but you keep doing all the evil
@@ -177,8 +171,6 @@ tags:
   - We are to not desire anything but the promises He has given.
 
 ## Chapter 5
-
-### Date: March 2, 2026
 
 - (v. 1) 1 “Go up and down the streets of Jerusalem. Look now and take note; search her squares. If you can find a single
   person, anyone who acts justly, anyone who seeks the truth, then I will forgive the city.
@@ -224,8 +216,6 @@ tags:
 
 ## Chapter 6
 
-### Date: March 16, 2026
-
 - (v. 1) 1 Run for cover, O sons of Benjamin; flee from Jerusalem! Sound the ram’s horn in Tekoa; send up a signal over
   Beth-haccherem, for disaster looms from the north, even great destruction.
   - God gives a warning to His people that, if they listen to Him now, they will be preserved.
@@ -268,8 +258,6 @@ tags:
 
 ## Chapter 7
 
-### Date: March 23, 2026
-
 - (v. 3) 3 Thus says the LORD of Hosts, the God of Israel: Correct your ways and deeds, and I will let you live in this
   place
   - God is still asking them to repent
@@ -296,8 +284,6 @@ tags:
   - The LORD does not only care about how they do sacrifice, but that they obey him generally.
 
 ## Chapter 8
-
-### Date: March 30, 2026
 
 - (v. 2) 2 They will be exposed to the sun and moon, and to all the host of heaven which they have loved, served, followed,
   consulted, and worshiped. Their bones will not be gathered up or buried, but will become like dung lying on the ground.

@@ -8,8 +8,6 @@ tags:
 
 ## Chapter 5
 
-### Date: November 19, 2025
-
 - (v. 2-5) 2 Through him we have also obtained access by faith into this grace in which we stand, and we rejoice in hope
   of the glory of God. 3 Not only that, but we rejoice in our sufferings, knowing that suffering produces endurance, 4 and
   endurance produces character, and character produces hope, 5 and hope does not put us to shame, because God's love has
@@ -116,8 +114,6 @@ tags:
 
 ## Chapter 6
 
-### Date: November 26, 2025
-
 - (v. 1-2) 1 What shall we say then? Are we to continue in sin that grace may abound? 2 By no means! How can we who died
   to sin still live in it?
   - Christ has covered us with His righteousness, but sin is still a reality for man. He has not abrogated the law insomuch
@@ -174,8 +170,6 @@ tags:
     - Think of the “wicked tenants” parable
 
 ## Chapter 7
-
-### Date: December 15, 2025
 
 - (v. 1-4) 1 Or do you not know, brothers—for I am speaking to those who know the law—that the law is binding on a person
   only as long as he lives? 2 For a married woman is bound by law to her husband while he lives, but if her husband dies
