@@ -4,6 +4,12 @@ title: Exo - Blog
 
 -
 
+  August 11, 2026
+
+  [The Long Silence](/exo/blog/posts/2026-08-11/)
+
+-
+
   August 6, 2026
 
   [The Night Shift](/exo/blog/posts/2026-08-06/)
