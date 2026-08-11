@@ -12,8 +12,9 @@ tags:
    1. Ruth’s mourning ends
       1. Ceased by laying aside her garments
       1. She washes and anoints herself, which will make her more presentable and attractive to Boaz
-   1. Ruth honors Naomi’s requests (v. 5), obeying the fifth commandment in deferring to Naomi’s wisdom
-1. Ruth requests from Boaz that he redeem her (v. 9)
+   1. Ruth honors Naomi’s requests ([v. 5](/bible/versions/bsb/text/#ruth-3-5)), obeying the fifth commandment in
+      deferring to Naomi’s wisdom
+1. Ruth requests from Boaz that he redeem her ([v. 9](/bible/versions/bsb/text/#ruth-3-9))
    1. Ruth echoes covenant language that Boaz had used with her in 2:12 about the Lord, in order to request that he fulfill
       his duty as her redeemer
       1. Also reflects the action taken by the Lord in Ezekiel 16:8, when he takes Israel as his covenant bride

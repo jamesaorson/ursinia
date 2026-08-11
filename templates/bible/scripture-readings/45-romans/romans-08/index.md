@@ -14,7 +14,9 @@ tags:
    1. Christ's righteousness covers us, and is the mechanism by which we are no longer condemned for our sin.
    1. Our mind, now set on the Spirit, brings life and peace, with the indwelling Spirit marking us as belonging to Christ and giving life to our bodies.
    1. We are adopted as sons of God's kingdom, receiving an inheritance as heirs.
-1. Verses 29-30 lays out a progression of things which can provide the believer assurance, and the Reformers referred to these 5 things as "the Golden Chain of Salvation":
+1. [Verses 29](/bible/versions/bsb/text/#romans-8-29)-[30](/bible/versions/bsb/text/#romans-8-30) lays out a progression
+   of things which can provide the believer assurance, and the Reformers referred to these 5 things as "the Golden Chain
+   of Salvation":
    1. Foreknowledge: God's prior knowledge or loving awareness of His people.
    1. Predestination: God's eternal decree to conform believers to Christ's image.
    1. Effectual Calling: God's irresistible call to salvation.

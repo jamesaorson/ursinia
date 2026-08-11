@@ -7,14 +7,19 @@ tags:
   - "1 Samuel"
 ---
 
-1. David arrives at Nob alone, without weapons or provisions, and deceives the priest Ahimelech (vv. 1–2).
+1. David arrives at Nob alone, without weapons or provisions, and deceives the priest Ahimelech
+   ([vv. 1](/bible/versions/bsb/text/#1-samuel-21-1)–[2](/bible/versions/bsb/text/#1-samuel-21-2)).
    - Ahimelech is alarmed that David is alone, so David constructs a lie.
-   - This deception will have catastrophic consequences, with Doeg the Edomite, Saul's chief herdsman, witnessing the entire exchange (v. 7).
-1. Ahimelech gives David the consecrated showbread (vv. 3–6).
+   - This deception will have catastrophic consequences, with Doeg the Edomite, Saul's chief herdsman, witnessing the
+     entire exchange ([v. 7](/bible/versions/bsb/text/#1-samuel-21-7)).
+1. Ahimelech gives David the consecrated showbread
+   ([vv. 3](/bible/versions/bsb/text/#1-samuel-21-3)–[6](/bible/versions/bsb/text/#1-samuel-21-6)).
    - Jesus cites this very episode in defending his disciples plucking grain on the Sabbath (Matthew 12:3–4), that the law serves life, not the other way around.
-1. David takes Goliath's sword from behind the ephod (vv. 8–9).
+1. David takes Goliath's sword from behind the ephod
+   ([vv. 8](/bible/versions/bsb/text/#1-samuel-21-8)–[9](/bible/versions/bsb/text/#1-samuel-21-9)).
    - The man who won the greatest victory for Israel is now a fugitive whose only weapon is the spoil of that victory.
-1. David flees to Achish, king of Gath, and feigns madness to survive (vv. 10–15).
+1. David flees to Achish, king of Gath, and feigns madness to survive
+   ([vv. 10](/bible/versions/bsb/text/#1-samuel-21-10)–[15](/bible/versions/bsb/text/#1-samuel-21-15)).
    - Gath is Goliath's city. David flees to the Philistines.
    - The servants of Achish recognize David immediately and his fame as Israel's champion.
    - The LORD's anointed, Israel's greatest warrior, is preserved at the lowest point of his flight through humiliation before a pagan king.

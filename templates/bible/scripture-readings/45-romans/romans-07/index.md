@@ -11,7 +11,8 @@ tags:
    1. *Romans 6:1a What shall we say then? Are we to continue in sin that grace may abound?*
    1. *Romans 6:15a What then? Are we to sin because we are not under law but under grace?*
 1. Now Paul brings forth another objection \- *Romans 7:7a What then shall we say? That the law is sin?*
-   1. He brings up this objection because back in verse 5, he claims that our sinful passions were aroused by the law, which one could interpret as him saying the law was sin itself.
+   1. He brings up this objection because back in [verse 5](/bible/versions/bsb/text/#romans-7-5), he claims that our
+      sinful passions were aroused by the law, which one could interpret as him saying the law was sin itself.
    1. To deal with this objection, Paul presents a positive understanding of the law, which we can understand through the three uses of the law:
      1. *The law as a mirror, exposing to all man the sin within him*
         1. *Romans 7:7b Yet if it had not been for the law, I would not have known sin. For I would not have known what it is to covet if the law had not said, "You shall not covet."*

@@ -20,7 +20,9 @@ tags:
    1. If Martha places requirements and restrictions upon Christ's power over something like this, how much more will she do this on the greater works of Christ?
       1. We have an opportunity to demonstrate our faith in Christ in small things and not restrict our view of His power and influence. This will work to deepen our affections and loyalty to the Lord.
       1. These affections will help us in refraining from cheapening Christ's salvific work. His work on the cross was not penultimate, but final and lacking nothing from our efforts.
-1. *Christ makes a point of his own ability to resurrect \[Reference: [https://www.studylight.org/commentaries/eng/geb/john-11.html](https://www.studylight.org/commentaries/eng/geb/john-11.html), verse 25\]*
+1. *Christ makes a point of his own ability to resurrect
+   \[Reference: [https://www.studylight.org/commentaries/eng/geb/john-11.html](https://www.studylight.org/commentaries/eng/geb/john-11.html),
+   [verse 25](/bible/versions/bsb/text/#john-11-25)\]*
    1. Christ responds to Martha with a profound statement of his authority and power, claiming authority over the penal evils of death.
    1. Christ is pointing out His ability to resurrect without asking of the father, reflecting what we have heard Christ claim about himself before.
       1. We have John 5:19-21 where Christ ends by saying "For as the Father raises the dead and gives them life, so also the Son gives life to whom he will"

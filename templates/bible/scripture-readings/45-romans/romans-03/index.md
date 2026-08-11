@@ -13,7 +13,8 @@ tags:
    1. Neither is righteous before God, for neither can follow the perfect law.
    1. It is these realities that help to demonstrate that Jew and Gentile are the same.
 1. So is it even possible that we can be made righteous?
-   1. Yes, if we look at verse 22, we can be covered by "the righteousness of God through faith in Jesus Christ"
+   1. Yes, if we look at [verse 22](/bible/versions/bsb/text/#romans-3-22), we can be covered by "the righteousness of
+      God through faith in Jesus Christ"
    1. This is not our own righteousness, but Christ's righteousness, covering us and justifying us.
 1. Paul explains to us why God allowed man to be in sin and unrighteous for so long, so that His glory may be magnified in saving us and allowing us to experience forgiveness.
 1. With Christ's righteousness now imputed and credited to us, we are now free to, in our thankfulness to Christ, uphold the law, no longer condemned by it.

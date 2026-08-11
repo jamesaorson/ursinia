@@ -14,9 +14,15 @@ tags:
    1. Matthew Henry points out that, in Christ's haste, he takes the time and effort to pity and help the blind man, acting as a lesson to us in the generosity and love of our Lord, of which we are told to imitate.
    1. This man was not blind by some accident, but was born blind.
    1. Christ is, physically, out of the picture for most of this passage, with the focus being upon the conversation between the Jews and the blind man who had been healed.
-   1. Christ returns near the end of the passage, to speak again to the man who was once blind. He reveals himself to the man, as to give him no question of who it was that healed him. Christ asking in verse 35, "Do you believe in the Son of Man?" followed by "You have seen him, and it is he who is speaking to you." This is meant not only to teach the blind man, but to prepare for a rebuke of the Pharisees, who Christ knew were listening in.
-   1. His rebuke comes from verse 41, and is targeted at their arrogance, and their sense that they understood what others could not.
-   1. This kind of gnosticism, Christ points out in verse 41 is what leaves them truly blind, and is preventing them from seeing Christ's true nature.
+   1. Christ returns near the end of the passage, to speak again to the man who was once blind. He reveals himself to
+      the man, as to give him no question of who it was that healed him. Christ asking in
+      [verse 35](/bible/versions/bsb/text/#john-9-35), "Do you believe in the Son of Man?" followed by "You have seen
+      him, and it is he who is speaking to you." This is meant not only to teach the blind man, but to prepare for a
+      rebuke of the Pharisees, who Christ knew were listening in.
+   1. His rebuke comes from [verse 41](/bible/versions/bsb/text/#john-9-41), and is targeted at their arrogance, and
+      their sense that they understood what others could not.
+   1. This kind of gnosticism, Christ points out in [verse 41](/bible/versions/bsb/text/#john-9-41) is what leaves them
+      truly blind, and is preventing them from seeing Christ's true nature.
    1. This is all following an extended discourse questioning the blind man and the healing that took place.
    1. These men knew what Christ had done, yet still stood against Christ
    1. The significance of the miracle they had just verified intensifies the sharpness of the rebuke.
