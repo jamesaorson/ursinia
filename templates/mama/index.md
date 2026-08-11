@@ -11,4 +11,3 @@ TODO: create a childbirth education system based on the basic questions
 - When? (pre/post dates, time of day for labor and birth)
 - Where? (early/active/post, home/center/hospital)
 - How? (details, potential interventions)
-

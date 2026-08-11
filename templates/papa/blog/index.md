@@ -4,7 +4,7 @@ title: Papa - Blog
 
 [↤ `papa`](/papa)
 
-# Some Blog
+## Some Blog
 
 ### March 22nd, 2025 - 5:47am
 
@@ -97,15 +97,15 @@ others are a long-term target. I want to register an LLC, likely for
 ExoKomodo. Then I can start to actually work in a serious sense on these
 projects in my mind, they need TLC in the order presented below:
 
-1.  [Baptist Confession](https://baptistconfession.org)
+1. [Baptist Confession](https://baptistconfession.org)
     ([Source](https://gitlab.com/svrbc/baptistconfession.org))
-2.  [Edu - Programmer's Trade School](https://edu.exokomodo.com)
+2. [Edu - Programmer's Trade School](https://edu.exokomodo.com)
     ([Source](https://github.com/exokomodo/edu))
-3.  [End Abortion Now - Silicon Valley](https://endabortionsv.org)
+3. [End Abortion Now - Silicon Valley](https://endabortionsv.org)
     ([Source](https://gitlab.com/svrbc/endabortionsv.org))
-4.  [Reformer - Reformed social media](https://dev.reformer.fyi)
+4. [Reformer - Reformed social media](https://dev.reformer.fyi)
     ([Source](https://git.sr.ht/~jamesaorson/reformer))
-5.  [Womb - F# game engine](https://git.sr.ht/~jamesaorson/openwomb)
+5. [Womb - F# game engine](https://git.sr.ht/~jamesaorson/openwomb)
     - [Source](https://git.sr.ht/~jamesaorson/openwomb)
     - [Nuget](https://www.nuget.org/packages/Womb)
 
@@ -197,4 +197,3 @@ God values me enough to send His son, His own self incarnate, for my
 sins. I am not worthy of this gift, but to reject my worth is to reject
 the work of Christ. Christ is kind and He died for me, resurrected from
 the grave, and promises resurrection to those who accept His free gift.
-

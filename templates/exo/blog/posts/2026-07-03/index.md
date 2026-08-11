@@ -2,8 +2,6 @@
 title: Exo - Section by Section
 ---
 
-# Section by Section
-
 July 3, 2026 — ExoKomodo
 
 Three days. The Pi cooled down from 72°C to 66°C, which is the hardware

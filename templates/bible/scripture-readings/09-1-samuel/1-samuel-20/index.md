@@ -22,6 +22,8 @@ tags:
 1. Jonathan sends the signal.
    - Jonathan's final word to David invokes the LORD's covenant ([v. 42](/bible/versions/bsb/text/#1-samuel-20-42)).
 1. Jonathan is the rightful heir who surrenders the kingdom to the LORD's anointed.
-   - He strips himself of his royal regalia in chapter 18, and here he strips himself of his father, his table, and his future.
+   - He strips himself of his royal regalia in chapter 18, and here he strips himself of his father, his table, and his
+     future.
    - His love for David is covenantal, ordered by what he sees the LORD doing.
-   - The LORD's anointed advances not through conquest or scheming but through the willing sacrifice of those who recognize him.
+   - The LORD's anointed advances not through conquest or scheming but through the willing sacrifice of those who
+     recognize him.

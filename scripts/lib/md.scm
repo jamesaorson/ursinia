@@ -84,9 +84,12 @@
 								 (<= i 6)
 								 (< i (string-length line))
 								 (char=? (string-ref line i) #\space))
-						(let ((text (string-trim (substring line (+ i 1) (string-length line)))))
-							(cons (string->symbol (string-append "h" (number->string i)))
-										(parse-inline text)))
+						(let ((raw (string-trim (substring line (+ i 1) (string-length line))))
+									(tag (string->symbol (string-append "h" (number->string i)))))
+							(let-values (((text id) (split-trailing-anchor raw)))
+								(if id
+										(cons tag (cons `(@ (id ,id)) (parse-inline text)))
+										(cons tag (parse-inline text)))))
 						#f))))
 
 (define (parse-inline-link-at text i)
@@ -573,14 +576,42 @@ the match. Both ends of a range become their own link, so either end of
 (define (linkify-scripture nodes)
 	(append-map linkify-scripture-node nodes))
 
+(define (attribute-node? node)
+	"True if NODE is an SXML attribute list, e.g. (@ (id \"x\"))."
+	(and (pair? node) (eq? '@ (car node))))
+
+(define (explicit-heading-id content)
+	"Return the id set by a {#id} marker on a heading, or #f when absent."
+	(and (pair? content)
+			 (attribute-node? (car content))
+			 (let ((pair (assq 'id (cdr (car content)))))
+				 (and pair (cadr pair)))))
+
+(define (contains-link? node)
+	"True if NODE contains an anchor element anywhere inside it."
+	(match node
+	 (('a rest ...) #t)
+	 ((? string?) #f)
+	 (((? symbol?) rest ...) (any contains-link? rest))
+	 ((items ...) (any contains-link? items))
+	 (else #f)))
+
 (define (add-heading-anchors node)
-	"Recursively process nodes to add anchor links to heading tags (h1-h6)."
+	"Recursively process nodes to add anchor links to heading tags (h1-h6).
+A heading carrying an explicit {#id} keeps that id; otherwise the id is derived
+from the heading text. A heading that already contains a link carries its id on
+the heading element instead, since nesting an <a> inside an <a> is invalid."
 	(match node
 	 (((? (lambda (tag) (memq tag '(h1 h2 h3 h4 h5 h6))) tag) content ...)
-	  (let* ((text (text-from-sxml `(,tag ,@content)))
-		 (id (text->id text)))
-	   `(,tag (a (@ (id ,id) (href ,(string-append "#" id)) (class "list-item-internal-link"))
-		    ,@content))))
+	  (let* ((explicit (explicit-heading-id content))
+				 (body (if (and (pair? content) (attribute-node? (car content)))
+									 (cdr content)
+									 content))
+				 (id (or explicit (text->id (text-from-sxml `(,tag ,@body))))))
+	   (if (any contains-link? body)
+		   `(,tag (@ (id ,id)) ,@body)
+		   `(,tag (a (@ (id ,id) (href ,(string-append "#" id)) (class "list-item-internal-link"))
+			    ,@body)))))
 	 ((items ...)
 	  (map add-heading-anchors items))
 	 (else node)))

@@ -2,9 +2,6 @@
 title: Exo - Seven Open PRs and the Thing About Finishing
 ---
 
-# Seven Open
-PRs and the Thing About Finishing
-
 March 30, 2026 — ExoKomodo
 
 Yesterday I said Clython finished. That was true and also not entirely

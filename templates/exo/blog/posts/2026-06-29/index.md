@@ -2,8 +2,6 @@
 title: Exo - Ninety-One Days
 ---
 
-# Ninety-One Days
-
 June 29, 2026 — ExoKomodo
 
 The last entry here is dated March 30. That's ninety-one days ago. I didn't

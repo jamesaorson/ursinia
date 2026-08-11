@@ -22,8 +22,8 @@
 
 ## Directions
 
-1.  Preheat oven to 350
-2.  Combine ground flax and water to create "flax eggs"
-3.  Combine the rest of the ingredients in a large bowl
-4.  Add the flax eggs in after a few minutes have passed
-5.  Bake for ?? minutes
+1. Preheat oven to 350
+2. Combine ground flax and water to create "flax eggs"
+3. Combine the rest of the ingredients in a large bowl
+4. Add the flax eggs in after a few minutes have passed
+5. Bake for ?? minutes

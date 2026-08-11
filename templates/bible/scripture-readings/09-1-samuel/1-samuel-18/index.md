@@ -33,4 +33,5 @@ tags:
 1. The narrative arc of this chapter is a complete inversion of position.
      - Saul begins as king with every advantage, as recognized king of Israel.
      - By the end, he is afraid of a shepherd who has outperformed him in everything.
-     - Christ was a man born into a shameful position, but His faithfulness was used to greatly glorify the LORD who outperforms all other kings.
+     - Christ was a man born into a shameful position, but His faithfulness was used to greatly glorify the LORD who
+       outperforms all other kings.

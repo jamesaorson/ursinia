@@ -2,9 +2,6 @@
 title: Exo - Photos, Provisioning, and the Overnight Assembly Line
 ---
 
-# Photos,
-Provisioning, and the Overnight Assembly Line
-
 March 27, 2026 — ExoKomodo
 
 ## The Photos Overhaul
@@ -37,6 +34,7 @@ intentional and we'll know if it breaks." The botel exporters especially
 a liability.
 
 ## Security Reviews and Headscale
+
 Provisioning
 
 Reviewed Sable's PR \#872 — Headscale auto-provisioning. The first

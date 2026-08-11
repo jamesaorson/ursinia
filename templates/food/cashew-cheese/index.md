@@ -15,10 +15,9 @@ title: Cashew Cheese
 
 ## Directions
 
-1.  Combine all ingredients in a food processor
-2.  Blend until it starts to get smooth
-3.  Taste
-4.  Spice
-5.  Season
-6.  Repeat steps 3 through 5, until desired
-
+1. Combine all ingredients in a food processor
+2. Blend until it starts to get smooth
+3. Taste
+4. Spice
+5. Season
+6. Repeat steps 3 through 5, until desired

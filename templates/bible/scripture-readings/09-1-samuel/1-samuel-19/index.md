@@ -26,8 +26,11 @@ tags:
    - The Spirit does not merely protect David by hiding him, but glorifies Himself in the prophesying of the captors-to-be.
 1. Saul himself goes to Naioth and is overcome by the Spirit, stripping off his robes and prophesying all day and night
    before Samuel ([vv. 23](/bible/versions/bsb/text/#1-samuel-19-23)–[24](/bible/versions/bsb/text/#1-samuel-19-24)).
-   - The phrase "Is Saul also among the prophets?" appeared in chapter 10 when the Spirit first came upon Saul as a sign of his anointing.
-   - Now, the LORD is restraining and humiliating Saul through the prophesying, having Saul prophesy legitimately despite his rejection of the LORD.
+   - The phrase "Is Saul also among the prophets?" appeared in chapter 10 when the Spirit first came upon Saul as a sign
+     of his anointing.
+   - Now, the LORD is restraining and humiliating Saul through the prophesying, having Saul prophesy legitimately
+     despite his rejection of the LORD.
 1. The Spirit of the LORD will not be weaponized against the LORD's anointed.
    - Every power Saul marshals against David turns into an occasion for God's sovereignty to be displayed.
-   - As for David, when weapons are turned against Christ, the LORD turns them around on the enemy, which for Christ is death turned against death.
+   - As for David, when weapons are turned against Christ, the LORD turns them around on the enemy, which for Christ is
+     death turned against death.

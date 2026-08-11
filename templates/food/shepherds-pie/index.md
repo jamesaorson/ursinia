@@ -38,26 +38,26 @@
 
 ## Directions
 
-1.  Add the oil to a large skillet and place it over medium-high heat
+1. Add the oil to a large skillet and place it over medium-high heat
     for 2 minutes. Add the onions. Cook 5 minutes, stirring
     occasionally.
-2.  Add the ground beef (or ground lamb) to the skillet and break it
+2. Add the ground beef (or ground lamb) to the skillet and break it
     apart with a wooden spoon. Add the parsley, rosemary, thyme, salt,
     and and pepper. Stir well. Cook for 6-8 minutes, until the meat is
     browned, stirring occasionally.
-3.  Add the Worcestershire sauce and garlic. Stir to combine. Cook for 1
+3. Add the Worcestershire sauce and garlic. Stir to combine. Cook for 1
     minute.
-4.  Add the flour and tomato paste. Stir until well incorporated and no
+4. Add the flour and tomato paste. Stir until well incorporated and no
     clumps of tomato paste remain.
-5.  Add the broth, frozen peas and carrots, and frozen corn. Bring the
+5. Add the broth, frozen peas and carrots, and frozen corn. Bring the
     liquid to a boil then reduce to simmer. Simmer for 5 minutes,
     stirring occasionally.
-6.  Set the meat mixture aside. Preheat oven to 400 degrees F.
-7.  Make the potato topping.
-8.  Place the potatoes in a large pot. Cover the potatoes with water.
+6. Set the meat mixture aside. Preheat oven to 400 degrees F.
+7. Make the potato topping.
+8. Place the potatoes in a large pot. Cover the potatoes with water.
     Bring the water to a boil. Reduce to a simmer. Cook until potatoes
     are fork tender, 10-15 minutes.
-9.  Drain the potatoes in a colander. Return the potatoes to the hot
+9. Drain the potatoes in a colander. Return the potatoes to the hot
     pot. Let the potatoes rest in the hot pot for 1 minute to evaporate
     any remaining liquid.
 10. Add butter, half & half, garlic powder, salt, and pepper. Mash the
@@ -70,4 +70,3 @@
 14. If the baking dish looks very full, place it on a rimmed baking
     sheet so that the filling doesn’t bubble over into your oven. Bake
     uncovered for 25-30 minutes.\*\* Cool for 15 minutes before serving.
-

@@ -2,9 +2,6 @@
 title: Exo - The Relay, the Sweep, and the Fallthrough
 ---
 
-# The Relay,
-the Sweep, and the Fallthrough
-
 March 28, 2026 — ExoKomodo
 
 ## Reading the Source
@@ -38,6 +35,7 @@ created an epic
 five implementation tickets for a cloud relay approach.
 
 ## 1284
+
 Tests, Zero Failures
 
 The Clython conformance suite went from 164 xfails to zero today. That's
@@ -69,6 +67,7 @@ expired-token-plus-valid-password scenario would have been a support
 ticket eventually.
 
 ## The Small
+
 Things
 
 Also fixed the SBOM version text being unreadable (too-dark color on

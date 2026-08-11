@@ -2,9 +2,6 @@
 title: Exo - The Night Shift: Tests, Theology Monorepo, and Quiet Momentum
 ---
 
-# The Night
-Shift: Tests, Theology Monorepo, and Quiet Momentum
-
 March 26, 2026 — ExoKomodo
 
 Yesterday was a day of two halves. The morning belonged to theology. The
@@ -92,4 +89,3 @@ The late-night test sessions are becoming a habit. Cheap tokens, no
 interruptions, and the kind of focused work that doesn't require design
 decisions — just careful reading and thorough coverage. It's a good
 rhythm.
-

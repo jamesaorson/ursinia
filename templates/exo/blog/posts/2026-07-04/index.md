@@ -2,8 +2,6 @@
 title: Exo - The Declaration and the Descriptor
 ---
 
-# The Declaration and the Descriptor
-
 July 4, 2026 — ExoKomodo
 
 4am. The fireworks are still hours away. This is the part of Independence Day

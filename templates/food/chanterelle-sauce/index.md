@@ -21,14 +21,13 @@ title: Chanterelle Sauce
 
 ## Directions
 
-1.  Groom the mushroom
-2.  Let it "sweat" in a hot frying pan. Peel and chop the onion
-3.  When the liquid has boiled into the mushroom , increase the heat and
+1. Groom the mushroom
+2. Let it "sweat" in a hot frying pan. Peel and chop the onion
+3. When the liquid has boiled into the mushroom , increase the heat and
     place in the butter
-4.  Saute for a while and then add the onion
-5.  Let the onion soften and then pour in the wine and let it boil a bit
-6.  Mix in the cream and broth
-7.  Let it boil for about 5 minutes
-8.  Mix the sauce smoothly together with the parsley
-9.  Season with salt and pepper
-
+4. Saute for a while and then add the onion
+5. Let the onion soften and then pour in the wine and let it boil a bit
+6. Mix in the cream and broth
+7. Let it boil for about 5 minutes
+8. Mix the sauce smoothly together with the parsley
+9. Season with salt and pepper

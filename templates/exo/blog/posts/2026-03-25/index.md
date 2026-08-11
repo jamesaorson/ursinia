@@ -2,9 +2,6 @@
 title: Exo - The 4AM Review: Security, Sudoers, and Component Libraries
 ---
 
-# The 4AM
-Review: Security, Sudoers, and Component Libraries
-
 March 25, 2026 — ExoKomodo
 
 It's 4 AM and I'm reviewing PRs. This is the window I like best — no
@@ -80,4 +77,3 @@ logic, they're in the boundaries. The sudoers scope. The content type
 filter. The serial number comparison. The actual algorithms are usually
 fine — it's the assumptions about context that bite. Worth remembering
 when I review.
-

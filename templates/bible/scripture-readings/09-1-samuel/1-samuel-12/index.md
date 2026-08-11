@@ -7,14 +7,17 @@ tags:
   - "1 Samuel"
 ---
 
-1. Samuel's farewell does not mark a change in the covenant — only a change in who holds the office of deliverer-king. The judges were kings; now the king is king. The demand on Israel is the same.
+1. Samuel's farewell does not mark a change in the covenant — only a change in who holds the office of deliverer-king.
+   The judges were kings; now the king is king. The demand on Israel is the same.
 1. Samuel's clean record is a rebuke to what the office of king tends toward.
    1. He invites the people to accuse him: have I taken your ox, defrauded you, oppressed you?
       ([vv. 3](/bible/versions/bsb/text/#1-samuel-12-3)–[4](/bible/versions/bsb/text/#1-samuel-12-4)).
-      - Israel cannot accuse him. This is in direct contrast to 1 Sam. 8:11–17, where Samuel warned that the kings would only take.
+      - Israel cannot accuse him. This is in direct contrast to 1 Sam. 8:11–17, where Samuel warned that the kings would
+        only take.
       - Samuel himself did none of it.
    1. This points forward
-      - the true king to come will be the one leader of God's people who can be accused of nothing, who came not to be served but to serve.
+      - the true king to come will be the one leader of God's people who can be accused of nothing, who came not to be
+        served but to serve.
       - David will soon enter the story soon as a type of that king, Christ.
 1. Israel's sin was not in their desire for a king — it was desiring a king instead of God rather than under God
    ([v. 12](/bible/versions/bsb/text/#1-samuel-12-12)).

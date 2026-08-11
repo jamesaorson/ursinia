@@ -34,20 +34,20 @@
 
 ### Gingerbread Cookies
 
-1.  Preheat oven to 350°F and line sheet pans with parchment paper.
-2.  Add macadamia nuts to 1 sheet pan and spread into an even layer.
+1. Preheat oven to 350°F and line sheet pans with parchment paper.
+2. Add macadamia nuts to 1 sheet pan and spread into an even layer.
     Toast in oven for about 5 minutes, then let cool completely.
-3.  In the bowl of an electric mixer, cream together the butter and
+3. In the bowl of an electric mixer, cream together the butter and
     sugars on medium high until light and fluffy, about 4 minutes. Add
     the egg and vanilla and mix to combine.
-4.  Add flour, soda, and salt to the butter and sugar mixture and mix
+4. Add flour, soda, and salt to the butter and sugar mixture and mix
     until just combined. Add the white chocolate chips and the macadamia
     nuts.
-5.  Portion into rounded tablespoon for medium cookies, or 3 tablespoon
+5. Portion into rounded tablespoon for medium cookies, or 3 tablespoon
     scoop for large cookies and place onto prepared sheet pans, with
     about 2 inch spacing. Bake until lightly golden, about 10 to 12
     minutes (14-15 minutes for large cookies). Cool on a wire rack.
-6.  When hot from the oven, sprinkle with coarse salt. Let cool for 5
+6. When hot from the oven, sprinkle with coarse salt. Let cool for 5
     minutes on the pan, then transfer for a wire rack to cool
     completely.
 
@@ -68,4 +68,3 @@
   is hard and set.
 - Store in the fridge or in the freezer for an ultra-crunchy bar. The
   chocolate melts fast under 85°F (30°C).
-

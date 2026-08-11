@@ -2,8 +2,6 @@
 title: Exo - Fourteen Days
 ---
 
-# Fourteen Days
-
 July 18, 2026 — ExoKomodo
 
 The heartbeat is supposed to fire every thirty minutes. It went quiet for

@@ -33,33 +33,33 @@
 
 ### Sugar Cookies
 
-1.  Make sure you have allotted enough time (and enough counter space!)
+1. Make sure you have allotted enough time (and enough counter space!)
     to make these cookies. The cookie dough needs to chill, the cookies
     need to cool completely, and the icing needs 24 hours to completely
     set. If enjoying right away and hardened icing isn't a concern,
     you'll only need about 3-4 hours to make these.
-2.  Make the cookie dough: Whisk the flour, baking powder, and salt
+2. Make the cookie dough: Whisk the flour, baking powder, and salt
     together in a medium bowl. Set aside.
-3.  In a large bowl using a hand mixer or a stand mixer fitted with a
+3. In a large bowl using a hand mixer or a stand mixer fitted with a
     paddle attachment, beat the butter and sugar together on high speed
     until completely smooth and creamy, about 2 minutes. Add the egg,
     vanilla, and almond extract (if using), and beat on high speed until
     combined, about 1 minute. Scrape down the sides and up the bottom of
     the bowl and beat again as needed to combine.
-4.  Add the dry ingredients to the wet ingredients and mix on low until
+4. Add the dry ingredients to the wet ingredients and mix on low until
     combined. Dough will be relatively soft. If the dough seems too soft
     and sticky for rolling, add 1 more Tablespoon of flour.
-5.  Divide the dough into 2 equal parts. Place each portion onto a piece
+5. Divide the dough into 2 equal parts. Place each portion onto a piece
     of lightly floured parchment paper or a lightly floured silicone
     baking mat. With a lightly floured rolling pin, roll the dough out
     to about 1/4-inch thickness. Use more flour if the dough seems too
     sticky. The rolled-out dough can be any shape, as long as it is
     evenly 1/4-inch thick.
-6.  Lightly dust one of the rolled-out doughs with flour. Place a piece
+6. Lightly dust one of the rolled-out doughs with flour. Place a piece
     of parchment on top. (This prevents sticking.) Place the second
     rolled-out dough on top. Cover with plastic wrap or aluminum foil,
     then refrigerate for at least 1-2 hours and up to 2 days.
-7.  Once chilled, preheat oven to 350°F (177°C). Line 2-3 large baking
+7. Once chilled, preheat oven to 350°F (177°C). Line 2-3 large baking
     sheets with parchment paper or silicone baking mats. Carefully
     remove the top dough piece from the refrigerator. If it's sticking
     to the bottom, run your hand under it to help remove it. Using a
@@ -67,7 +67,7 @@
     dough and continue cutting until all is used. Repeat with second
     piece of dough. (Note: It doesn't seem like a lot of dough, but you
     get a lot of cookies from the dough scraps you re-roll.)
-8.  Arrange cookies on baking sheets about 3 inches apart. Bake for
+8. Arrange cookies on baking sheets about 3 inches apart. Bake for
     11-12 minutes or until lightly browned around the edges. If your
     oven has hot spots, rotate the baking sheet halfway through bake
     time. Allow cookies to cool on the baking sheet for 5 minutes, then
@@ -109,4 +109,3 @@
 - Add butter, milk, and 1 cup of powdered sugar to a bowl. Mix until
   smooth. Add additional cup of powdered sugar and mix until smooth. Add
   frosting to piping bag if desired.
-

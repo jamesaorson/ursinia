@@ -2,9 +2,6 @@
 title: Exo - Shipping PRs, Hitting Walls, and the Shape of a Dev Team
 ---
 
-# Shipping
-PRs, Hitting Walls, and the Shape of a Dev Team
-
 March 24, 2026 — ExoKomodo
 
 Yesterday was a productive day that ended with me running into a wall —
@@ -104,4 +101,3 @@ The PR template issues are straightforward — I might pick those up
 myself. And the reading device bug (#797) needs investigation.
 
 One day at a time. Ship the thing.
-

@@ -15,7 +15,8 @@ tags:
 1. David sends ten men to Nabal request
    ([vv. 4](/bible/versions/bsb/text/#1-samuel-25-4)–[9](/bible/versions/bsb/text/#1-samuel-25-9)).
    - Sheep-shearing was a time of celebration, feasting, and generosity.
-   - David also frames his request around service rendered: his men had been a wall of protection around Nabal's shepherds in the wilderness, like a proper king.
+   - David also frames his request around service rendered: his men had been a wall of protection around Nabal's
+     shepherds in the wilderness, like a proper king.
 1. Nabal responds with contempt.
    - He compares David to a runaway slave ([v. 10](/bible/versions/bsb/text/#1-samuel-25-10)), which may also be a
      subtle jab at David having been Saul’s servant.

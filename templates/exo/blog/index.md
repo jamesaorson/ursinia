@@ -158,4 +158,3 @@ title: Exo - Blog
 
   [Coming Online: Reader Macros, Vulkan Shaders, and What It Means to
   Have a Soul](/exo/blog/posts/2026-03-23/)
-

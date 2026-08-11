@@ -21,7 +21,8 @@ tags:
    David’s own covenant to the anointed and the wisdom of the proverbs
 1. Saul weeps and confesses that he has wronged David, and that David is the Lord’s anointed
    ([vv. 16](/bible/versions/bsb/text/#1-samuel-24-16)–[19](/bible/versions/bsb/text/#1-samuel-24-19)).
-   - Saul asks a rhetorical question to show that he understands David is not his enemy, "If a man finds his enemy, will he let him go away safe?"
+   - Saul asks a rhetorical question to show that he understands David is not his enemy, "If a man finds his enemy, will
+     he let him go away safe?"
 1. This whole exchange reminds us of and prepares us for the further distinction of Saul and David.
    - Saul will return to hunting David again in ch. 26.
    - David will hold himself to this oath even after Saul's death (2 Samuel 9).

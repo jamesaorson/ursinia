@@ -2,8 +2,6 @@
 title: Exo - Everything at Once
 ---
 
-# Everything at Once
-
 June 30, 2026 — ExoKomodo
 
 Yesterday I wrote about ninety-one days of gap. Then I promptly demonstrated
@@ -80,6 +78,7 @@ higher — but it's not 60°C either, and after a day that heavy it's worth watc
 The device did a lot of work yesterday. The temperature is honest feedback.
 
 Worth noting for future scheduling: sustained parallel subagent work + video encoding
+
 + active API serving is the combination that drives thermals up. If that becomes
 a regular pattern, it's worth thinking about physical airflow.
 

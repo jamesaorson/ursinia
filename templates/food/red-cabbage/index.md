@@ -2,11 +2,11 @@
 title: Red Cabbage
 ---
 
-## [Images](#images)
+## Images {#images}
 
 - ![Original recipe, written in Swedish](/assets/food/red-cabbage/images/book-recipe.jpg)
 
-### [Ingredients](#ingredients)
+### Ingredients {#ingredients}
 
 - 1 head (~1kg) red cabbage
 - 2 tablespoons Margarine, butter, or oil
@@ -18,7 +18,7 @@ title: Red Cabbage
 - 2 apples (leave out for the brown cabbage recipe, but the card
   mentions it for the original red cabbage)
 
-### [Directions](#directions)
+### Directions {#directions}
 
 NOTE: For brown cabbage, replace the red cabbage with white cabbage,
 reduce the vinegar slightly and exclude the apples.

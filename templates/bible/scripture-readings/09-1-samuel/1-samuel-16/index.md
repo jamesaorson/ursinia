@@ -13,7 +13,8 @@ tags:
 1. Samuel fears Saul will kill him, and God provides a cover by telling him to bring a heifer for sacrifice
    ([v. 2](/bible/versions/bsb/text/#1-samuel-16-2)).
    - This is not God commanding a lie, for He does desire that Samuel do the sacrifice. It is a partial disclosure.
-1. Samuel arrives and immediately repeats Israel's mistake, by assuming the man who seems outwardly "king-like" is the intended anointee.
+1. Samuel arrives and immediately repeats Israel's mistake, by assuming the man who seems outwardly "king-like" is the
+   intended anointee.
    - God rebukes Samuel for this, "the LORD does not see as man does. For man sees the outward appearance, but the LORD
      sees the heart" ([v. 7](/bible/versions/bsb/text/#1-samuel-16-7)).
 1. The chosen one is out tending the sheep ([v. 11](/bible/versions/bsb/text/#1-samuel-16-11)), not where one would

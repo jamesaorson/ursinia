@@ -2,13 +2,11 @@
 title: Ursinia - Todo - Archive
 ---
 
-# TODO - Archive
+## November 16, 2024 {#nov-16-2024}
 
-## [November 16, 2024](#nov-16-2024)
+### Papa Tasks {#nov-16-2024-papa}
 
-### [Papa Tasks](#nov-16-2024-papa)
-
-[Daily Grind:](#nov-16-2024-papa-daily-grind)
+#### Daily Grind {#nov-16-2024-papa-daily-grind}
 
 - [x] Workout
 - [x] Litter Boxes
@@ -16,18 +14,21 @@ title: Ursinia - Todo - Archive
 - [x] Family worship - Morning
 - [x] Family worship - Evening
 
-[Grad School:](#nov-16-2024-papa-grad-school)
+#### Grad School {#nov-16-2024-papa-grad-school}
 
-- [HCI:](#nov-16-2024-papa-grad-school-hci)
-  - None
-- [HPCA:](#nov-16-2024-papa-grad-school-hpca)
-  - None
-
-[Exokomodo:](#nov-16-2024-papa-exokomodo)
+##### HCI {#nov-16-2024-papa-grad-school-hci}
 
 - None
 
-[Projects:](#nov-16-2024-papa-projects)
+##### HPCA {#nov-16-2024-papa-grad-school-hpca}
+
+- None
+
+#### Exokomodo {#nov-16-2024-papa-exokomodo}
+
+- None
+
+#### Projects {#nov-16-2024-papa-projects}
 
 Install house numbers
 
@@ -37,15 +38,15 @@ Run trash/boxes to the dump
 
 Floor the bedroom closet
 
-[Addons from throughout the day:](#nov-16-2024-papa-addons)
+#### Addons from throughout the day {#nov-16-2024-papa-addons}
 
 Go to SJSU vs Boise State Football game with church friends
 
-## [November 15, 2024](#nov-15-2024)
+## November 15, 2024 {#nov-15-2024}
 
-### [Papa Tasks](#nov-15-2024-papa)
+### Papa Tasks {#nov-15-2024-papa}
 
-[Daily Grind:](#nov-15-2024-papa-daily-grind)
+#### Daily Grind {#nov-15-2024-papa-daily-grind}
 
 - [x] Workout
 - [x] Litter Boxes
@@ -60,20 +61,23 @@ Go to SJSU vs Boise State Football game with church friends
   - [ ] Ursinia - Papa Theology
   - [x] ExoKomodo - Reformer
 
-[Grad School:](#nov-15-2024-papa-grad-school)
+#### Grad School {#nov-15-2024-papa-grad-school}
 
-- [HCI:](#nov-15-2024-papa-grad-school-hci)
-  - [x] Team Project Check-In 2 - Work on Needfindining Results/data
-        analysis
-- [HPCA:](#nov-15-2024-papa-grad-school-hpca)
-  - [x] Send in corrections for Project 1 (grade was correct from 54% to
-        88%)
+##### HCI {#nov-15-2024-papa-grad-school-hci}
 
-[Exokomodo:](#nov-15-2024-papa-exokomodo)
+- [x] Team Project Check-In 2 - Work on Needfindining Results/data
+      analysis
+
+##### HPCA {#nov-15-2024-papa-grad-school-hpca}
+
+- [x] Send in corrections for Project 1 (grade was correct from 54% to
+      88%)
+
+#### Exokomodo {#nov-15-2024-papa-exokomodo}
 
 - None
 
-[Projects:](#nov-15-2024-papa-projects)
+#### Projects {#nov-15-2024-papa-projects}
 
 Install house numbers
 
@@ -83,15 +87,15 @@ Run trash/boxes to the dump
 
 Floor the bedroom closet
 
-[Addons from throughout the day:](#nov-15-2024-papa-addons)
+#### Addons from throughout the day {#nov-15-2024-papa-addons}
 
 - None
 
-## [November 14, 2024](#nov-14-2024)
+## November 14, 2024 {#nov-14-2024}
 
-### [Papa Tasks](#nov-14-2024-papa)
+### Papa Tasks {#nov-14-2024-papa}
 
-[Daily Grind:](#nov-14-2024-papa-daily-grind)
+#### Daily Grind {#nov-14-2024-papa-daily-grind}
 
 - [x] Workout
 - [x] Litter Boxes
@@ -106,21 +110,24 @@ Floor the bedroom closet
   - [ ] Ursinia - Papa Theology
   - [x] ExoKomodo - Reformer
 
-[Grad School:](#nov-14-2024-papa-grad-school)
+#### Grad School {#nov-14-2024-papa-grad-school}
 
-- [HCI:](#nov-14-2024-papa-grad-school-hci)
-  - [x] Team Project Check-In 2 - Work on Needfindining Results/data
-        analysis
-  - [x] Team Project Check-In 2 - Individual Brainstorming
-  - [x] Team Project Check-In 2 - Group Brainstorming session at 6:00pm
-- [HPCA:](#nov-14-2024-papa-grad-school-hpca)
-  - None
+##### HCI {#nov-14-2024-papa-grad-school-hci}
 
-[Exokomodo:](#nov-14-2024-papa-exokomodo)
+- [x] Team Project Check-In 2 - Work on Needfindining Results/data
+      analysis
+- [x] Team Project Check-In 2 - Individual Brainstorming
+- [x] Team Project Check-In 2 - Group Brainstorming session at 6:00pm
+
+##### HPCA {#nov-14-2024-papa-grad-school-hpca}
 
 - None
 
-[Projects:](#nov-14-2024-papa-projects)
+#### Exokomodo {#nov-14-2024-papa-exokomodo}
+
+- None
+
+#### Projects {#nov-14-2024-papa-projects}
 
 Install house numbers
 
@@ -130,15 +137,15 @@ Run trash/boxes to the dump
 
 Floor the bedroom closet
 
-[Addons from throughout the day:](#nov-14-2024-papa-addons)
+#### Addons from throughout the day {#nov-14-2024-papa-addons}
 
 - None
 
-## [November 13, 2024](#nov-13-2024)
+## November 13, 2024 {#nov-13-2024}
 
-### [Papa Tasks](#nov-13-2024-papa)
+### Papa Tasks {#nov-13-2024-papa}
 
-[Daily Grind:](#nov-13-2024-papa-daily-grind)
+#### Daily Grind {#nov-13-2024-papa-daily-grind}
 
 - [x] Workout
 - [x] Litter Boxes
@@ -153,19 +160,22 @@ Floor the bedroom closet
   - [ ] Ursinia - Papa Theology
   - [ ] ExoKomodo - Reformer
 
-[Grad School:](#nov-13-2024-papa-grad-school)
+#### Grad School {#nov-13-2024-papa-grad-school}
 
-- [HCI:](#nov-13-2024-papa-grad-school-hci)
-  - [x] Team Project Check-In 2 - Work on Needfindining Results/data
-        analysis
-- [HPCA:](#nov-13-2024-papa-grad-school-hpca)
-  - None
+##### HCI {#nov-13-2024-papa-grad-school-hci}
 
-[Exokomodo:](#nov-13-2024-papa-exokomodo)
+- [x] Team Project Check-In 2 - Work on Needfindining Results/data
+      analysis
+
+##### HPCA {#nov-13-2024-papa-grad-school-hpca}
 
 - None
 
-[Projects:](#nov-13-2024-papa-projects)
+#### Exokomodo {#nov-13-2024-papa-exokomodo}
+
+- None
+
+#### Projects {#nov-13-2024-papa-projects}
 
 Install house numbers
 
@@ -175,15 +185,15 @@ Run trash/boxes to the dump
 
 Floor the bedroom closet
 
-[Addons from throughout the day:](#nov-13-2024-papa-addons)
+#### Addons from throughout the day {#nov-13-2024-papa-addons}
 
 - None
 
-## [October 18, 2024](#oct-18-2024)
+## October 18, 2024 {#oct-18-2024}
 
-### [Papa Tasks](#oct-18-2024-papa)
+### Papa Tasks {#oct-18-2024-papa}
 
-[Daily Grind:](#oct-18-2024-papa-daily-grind)
+#### Daily Grind {#oct-18-2024-papa-daily-grind}
 
 - [x] Workout
 - [ ] Litter Boxes
@@ -196,217 +206,239 @@ Floor the bedroom closet
   - [ ] Ursinia - Charter
   - [ ] Ursinia - Papa Theology
 
-[Grad School:](#oct-18-2024-papa-grad-school)
+#### Grad School {#oct-18-2024-papa-grad-school}
 
-- [HCI:](#oct-18-2024-papa-grad-school-hci)
-  - [ ] Individual Project Check-In 3 - Finish up and submit
-- [HPCA:](#oct-18-2024-papa-grad-school-hpca)
-  - [ ] Finish Advanced Caches lesson
+##### HCI {#oct-18-2024-papa-grad-school-hci}
 
-[Exokomodo:](#oct-18-2024-papa-exokomodo)
+- [ ] Individual Project Check-In 3 - Finish up and submit
+
+##### HPCA {#oct-18-2024-papa-grad-school-hpca}
+
+- [ ] Finish Advanced Caches lesson
+
+#### Exokomodo {#oct-18-2024-papa-exokomodo}
 
 - None
 
-[Projects:](#oct-18-2024-papa-projects)
+#### Projects {#oct-18-2024-papa-projects}
 
 Floor the bedroom closet
 
-[Addons from throughout the day:](#oct-18-2024-papa-addons)
+#### Addons from throughout the day {#oct-18-2024-papa-addons}
 
 - None
 
-## [October 12, 2024](#oct-12-2024)
+## October 12, 2024 {#oct-12-2024}
 
-### [Papa Tasks](#oct-12-2024-papa)
+### Papa Tasks {#oct-12-2024-papa}
 
-[Daily Grind:](#oct-12-2024-papa-daily-grind)
+#### Daily Grind {#oct-12-2024-papa-daily-grind}
 
 - [x] Workout
 - [ ] Litter Boxes
 - [x] Family worship
 
-[Grad School:](#oct-12-2024-papa-grad-school)
+#### Grad School {#oct-12-2024-papa-grad-school}
 
-- [HCI:](#oct-12-2024-papa-grad-school-hci)
-  - [ ] Individual Project Check-In 2 - Check survey results (ATTENTION:
-        WEBSITE IS CURRENTLY DOWN DUE TO HURRICANE MILTON)
-  - [x] Take Quiz 3
-- [HPCA:](#oct-12-2024-papa-grad-school-hpca)
-  - [ ] Finish Advanced Caches lesson
+##### HCI {#oct-12-2024-papa-grad-school-hci}
 
-[Exokomodo:](#oct-12-2024-papa-exokomodo)
+- [ ] Individual Project Check-In 2 - Check survey results (ATTENTION:
+      WEBSITE IS CURRENTLY DOWN DUE TO HURRICANE MILTON)
+- [x] Take Quiz 3
+
+##### HPCA {#oct-12-2024-papa-grad-school-hpca}
+
+- [ ] Finish Advanced Caches lesson
+
+#### Exokomodo {#oct-12-2024-papa-exokomodo}
 
 - None
 
-[Projects:](#oct-12-2024-papa-projects)
+#### Projects {#oct-12-2024-papa-projects}
 
 Floor the bedroom closet
 
-[Addons from throughout the day:](#oct-12-2024-papa-addons)
+#### Addons from throughout the day {#oct-12-2024-papa-addons}
 
 - None
 
-## [October 11, 2024](#oct-11-2024)
+## October 11, 2024 {#oct-11-2024}
 
-### [Papa Tasks](#oct-11-2024-papa)
+### Papa Tasks {#oct-11-2024-papa}
 
-[Daily Grind:](#oct-11-2024-papa-daily-grind)
+#### Daily Grind {#oct-11-2024-papa-daily-grind}
 
 - [x] Workout
 - [ ] Litter Boxes
 - [x] Family worship
 
-[Grad School:](#oct-11-2024-papa-grad-school)
+#### Grad School {#oct-11-2024-papa-grad-school}
 
-- [HCI:](#oct-11-2024-papa-grad-school-hci)
-  - [ ] Individual Project Check-In 2 - Check survey results (ATTENTION:
-        WEBSITE IS CURRENTLY DOWN DUE TO HURRICANE MILTON)
-  - [ ] Take Quiz 3
-- [HPCA:](#oct-11-2024-papa-grad-school-hpca)
-  - [ ] Finish Advanced Caches lesson
+##### HCI {#oct-11-2024-papa-grad-school-hci}
 
-[Exokomodo:](#oct-11-2024-papa-exokomodo)
+- [ ] Individual Project Check-In 2 - Check survey results (ATTENTION:
+      WEBSITE IS CURRENTLY DOWN DUE TO HURRICANE MILTON)
+- [ ] Take Quiz 3
+
+##### HPCA {#oct-11-2024-papa-grad-school-hpca}
+
+- [ ] Finish Advanced Caches lesson
+
+#### Exokomodo {#oct-11-2024-papa-exokomodo}
 
 - None
 
-[Projects:](#oct-11-2024-papa-projects)
+#### Projects {#oct-11-2024-papa-projects}
 
 Floor the bedroom closet
 
-[Addons from throughout the day:](#oct-11-2024-papa-addons)
+#### Addons from throughout the day {#oct-11-2024-papa-addons}
 
 - None
 
-## [October 10, 2024](#oct-10-2024)
+## October 10, 2024 {#oct-10-2024}
 
-### [Papa Tasks](#oct-10-2024-papa)
+### Papa Tasks {#oct-10-2024-papa}
 
-[Daily Grind:](#oct-10-2024-papa-daily-grind)
+#### Daily Grind {#oct-10-2024-papa-daily-grind}
 
 - [x] Workout
 - [x] Litter Boxes
 - [x] Family worship
 
-[Grad School:](#oct-10-2024-papa-grad-school)
+#### Grad School {#oct-10-2024-papa-grad-school}
 
-- [HCI:](#oct-10-2024-papa-grad-school-hci)
-  - [x] Take Quiz 2
-  - [ ] Individual Project Check-In 2 - Check survey results
-- [HPCA:](#oct-10-2024-papa-grad-school-hpca)
-  - [x] Finish Virtual Memory lesson
+##### HCI {#oct-10-2024-papa-grad-school-hci}
 
-[Exokomodo:](#oct-10-2024-papa-exokomodo)
+- [x] Take Quiz 2
+- [ ] Individual Project Check-In 2 - Check survey results
+
+##### HPCA {#oct-10-2024-papa-grad-school-hpca}
+
+- [x] Finish Virtual Memory lesson
+
+#### Exokomodo {#oct-10-2024-papa-exokomodo}
 
 - None
 
-[Projects:](#oct-10-2024-papa-projects)
+#### Projects {#oct-10-2024-papa-projects}
 
 Floor the bedroom closet
 
-[Addons from throughout the day:](#oct-10-2024-papa-addons)
+#### Addons from throughout the day {#oct-10-2024-papa-addons}
 
 - None
 
-## [October 9, 2024](#oct-9-2024)
+## October 9, 2024 {#oct-9-2024}
 
-### [Papa Tasks](#oct-9-2024-papa)
+### Papa Tasks {#oct-9-2024-papa}
 
-[Daily Grind:](#oct-9-2024-papa-daily-grind)
+#### Daily Grind {#oct-9-2024-papa-daily-grind}
 
 - [x] Workout
 - [x] Litter Boxes
 - [x] Family worship
 
-[Grad School:](#oct-9-2024-papa-grad-school)
+#### Grad School {#oct-9-2024-papa-grad-school}
 
-- [HCI:](#oct-9-2024-papa-grad-school-hci)
-  - [x] Study for Quiz 2
-  - [x] Individual Project Check-In 2 - Distribute survey
-- [HPCA:](#oct-9-2024-papa-grad-school-hpca)
-  - [x] Finish Cache Review lesson
+##### HCI {#oct-9-2024-papa-grad-school-hci}
 
-[Exokomodo:](#oct-9-2024-papa-exokomodo)
+- [x] Study for Quiz 2
+- [x] Individual Project Check-In 2 - Distribute survey
+
+##### HPCA {#oct-9-2024-papa-grad-school-hpca}
+
+- [x] Finish Cache Review lesson
+
+#### Exokomodo {#oct-9-2024-papa-exokomodo}
 
 Create ExoKomodo LLC
 
-[Projects:](#oct-9-2024-papa-projects)
+#### Projects {#oct-9-2024-papa-projects}
 
 Floor the bedroom closet
 
-[Addons from throughout the day:](#oct-9-2024-papa-addons)
+#### Addons from throughout the day {#oct-9-2024-papa-addons}
 
 Go to Tomi Sushi
 
-## [October 8, 2024](#oct-8-2024)
+## October 8, 2024 {#oct-8-2024}
 
-### [Papa Tasks](#oct-8-2024-papa)
+### Papa Tasks {#oct-8-2024-papa}
 
-[Daily Grind:](#oct-8-2024-papa-daily-grind)
+#### Daily Grind {#oct-8-2024-papa-daily-grind}
 
 - [x] Workout
 - [x] Litter Boxes
 - [x] Family worship (at home group)
 
-[Grad School:](#oct-8-2024-papa-grad-school)
+#### Grad School {#oct-8-2024-papa-grad-school}
 
-- [HCI:](#oct-8-2024-papa-grad-school-hci)
-  - [x] Individual Project Check-In 1 - Do peer reviews
-  - [x] Individual Project Check-In 2 - Create survey
-  - [x] Individual Project Check-In 2 - Distribute survey:
-        [Tweet](https://x.com/papa_ursinia/status/1843775522314281253),
-        [Student
-        link](http://peersurvey.cc.gatech.edu/gt/d0bf42f20fef4360a5b3e2c88a9e7fa9),
-        [External
-        link](http://peersurvey.cc.gatech.edu/s/d0bf42f20fef4360a5b3e2c88a9e7fa9)
-  - [x] Team Project - Join a team
-- [HPCA:](#oct-8-2024-papa-grad-school-hpca)
-  - [x] Catch up through VLIW lessons
-  - [x] Read Project 2
+##### HCI {#oct-8-2024-papa-grad-school-hci}
 
-[Projects:](#oct-8-2024-papa-projects)
+- [x] Individual Project Check-In 1 - Do peer reviews
+- [x] Individual Project Check-In 2 - Create survey
+- [x] Individual Project Check-In 2 - Distribute survey:
+      [Tweet](https://x.com/papa_ursinia/status/1843775522314281253),
+      [Student
+      link](http://peersurvey.cc.gatech.edu/gt/d0bf42f20fef4360a5b3e2c88a9e7fa9),
+      [External
+      link](http://peersurvey.cc.gatech.edu/s/d0bf42f20fef4360a5b3e2c88a9e7fa9)
+- [x] Team Project - Join a team
+
+##### HPCA {#oct-8-2024-papa-grad-school-hpca}
+
+- [x] Catch up through VLIW lessons
+- [x] Read Project 2
+
+#### Projects {#oct-8-2024-papa-projects}
 
 Floor the bedroom closet
 
-[Addons from throughout the day:](#oct-8-2024-papa-addons)
+#### Addons from throughout the day {#oct-8-2024-papa-addons}
 
 - None
 
-## [August 16, 2024](#aug-16-2024)
+## August 16, 2024 {#aug-16-2024}
 
-### [Papa Tasks](#aug-16-2024-papa)
+### Papa Tasks {#aug-16-2024-papa}
 
-- [Daily
-  Grind:](#aug-16-2024-papa-daily-grind)
-  - [ ] Sweep
-  - [ ] Litter boxes
-  - [x] Workout
-  - [x] Family worship
-- [Grad
-  School:](#aug-16-2024-papa-grad-school)
-  - None
-- [Projects:](#aug-16-2024-papa-projects)
-  - [ ] Tile - clean grout haze (baking soda and hydrogen peroxide)
-  - [ ] Dishwasher - Use warranty for the leak
-  - [ ] Garbage Disposal - Register and use warranty for it stopping
-  - [ ] Social - Write Nancy Osburn back
-- [Addons from throughout the
-  day:](#aug-16-2024-papa-addons)
-  - [x] Shop at Target for school supplies for [Sunshine](/sunshine)
-  - [x] Go to horse
+#### Daily Grind {#aug-16-2024-papa-daily-grind}
+
+- [ ] Sweep
+- [ ] Litter boxes
+- [x] Workout
+- [x] Family worship
+
+#### Grad School {#aug-16-2024-papa-grad-school}
+
+- None
+
+#### Projects {#aug-16-2024-papa-projects}
+
+- [ ] Tile - clean grout haze (baking soda and hydrogen peroxide)
+- [ ] Dishwasher - Use warranty for the leak
+- [ ] Garbage Disposal - Register and use warranty for it stopping
+- [ ] Social - Write Nancy Osburn back
+
+#### Addons from throughout the day {#aug-16-2024-papa-addons}
+
+- [x] Shop at Target for school supplies for [Sunshine](/sunshine)
+- [x] Go to horse
 
 ## Baby \#2 (break until August)
 
 ## Taking a small break from this as my new baby is born :-)
 
-## March 13, 2024
+## March 13, 2024 {#mar-13-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#mar-13-2024-papa}
 
-[Grad School:](#mar-13-2024-papa-grad-school)
+#### Grad School {#mar-13-2024-papa-grad-school}
 
 - None
 
-[Projects:](#mar-13-2024-papa-projects)
+#### Projects {#mar-13-2024-papa-projects}
 
 Tile - spread thinset
 
@@ -414,7 +446,7 @@ Tile - cut tiles
 
 Tile - lay and space tiles
 
-[Daily Grind:](#mar-13-2024-papa-daily-grind)
+#### Daily Grind {#mar-13-2024-papa-daily-grind}
 
 Meet with estate planner for trust creation
 
@@ -424,7 +456,7 @@ Litter boxes
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#mar-13-2024-papa-tasks)
+#### Tasks {#mar-13-2024-papa-tasks}
 
 Home Depot - Look for roof scuppers
 
@@ -440,13 +472,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#mar-13-2024-papa-extra)
+#### Extra {#mar-13-2024-papa-extra}
 
 - None
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#mar-13-2024-mama}
 
-[Daily Grind:](#mar-13-2024-mama-daily-grind)
+#### Daily Grind {#mar-13-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -454,7 +486,7 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#mar-13-2024-mama-extra)
+#### Extra {#mar-13-2024-mama-extra}
 
 - None
 
@@ -478,15 +510,15 @@ Bathroom - paint walls
 
 Tile - lay out tiles for measurement
 
-## March 3, 2024
+## March 3, 2024 {#mar-3-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#mar-3-2024-papa}
 
-[Grad School:](#mar-03-2024-papa-grad-school)
+#### Grad School {#mar-3-2024-papa-grad-school}
 
 VGD - Take a break
 
-[Projects:](#mar-03-2024-papa-projects)
+#### Projects {#mar-3-2024-papa-projects}
 
 INCIDENT - plumber delayed to tomorrow to get parts
 
@@ -506,13 +538,13 @@ Tile - spread thinset
 
 Tile - lay and space tiles
 
-[Daily Grind:](#mar-03-2024-papa-daily-grind)
+#### Daily Grind {#mar-3-2024-papa-daily-grind}
 
 Litter boxes
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#mar-03-2024-papa-tasks)
+#### Tasks {#mar-3-2024-papa-tasks}
 
 Home Depot - Look for roof scuppers
 
@@ -528,13 +560,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#mar-03-2024-papa-extra)
+#### Extra {#mar-3-2024-papa-extra}
 
 - None
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#mar-3-2024-mama}
 
-[Daily Grind:](#mar-03-2024-mama-daily-grind)
+#### Daily Grind {#mar-3-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -542,25 +574,25 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#mar-03-2024-mama-extra)
+#### Extra {#mar-3-2024-mama-extra}
 
 - None
 
-## March 2, 2024
+## March 2, 2024 {#mar-2-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#mar-2-2024-papa}
 
-[Grad School:](#mar-02-2024-papa-grad-school)
+#### Grad School {#mar-2-2024-papa-grad-school}
 
 VGD - Work on Kitty Hawk level
 
-[Daily Grind:](#mar-02-2024-papa-daily-grind)
+#### Daily Grind {#mar-2-2024-papa-daily-grind}
 
 Litter boxes
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#mar-02-2024-papa-tasks)
+#### Tasks {#mar-2-2024-papa-tasks}
 
 Home Depot - Go many times
 
@@ -578,7 +610,7 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#mar-02-2024-papa-extra)
+#### Extra {#mar-2-2024-papa-extra}
 
 INCIDENT - try to turn off water main
 
@@ -596,9 +628,9 @@ INCIDENT - get water turned on
 
 INCIDENT - plumber scheduled to return tomorrow to replace shutoff
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#mar-2-2024-mama}
 
-[Daily Grind:](#mar-02-2024-mama-daily-grind)
+#### Daily Grind {#mar-2-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -606,7 +638,7 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#mar-02-2024-mama-extra)
+#### Extra {#mar-2-2024-mama-extra}
 
 Go to CG leader's meeting
 
@@ -614,21 +646,21 @@ Prepare den for father to sleep
 
 Prepare guest room for us to sleep
 
-## March 1, 2024
+## March 1, 2024 {#mar-1-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#mar-1-2024-papa}
 
-[Grad School:](#mar-01-2024-papa-grad-school)
+#### Grad School {#mar-1-2024-papa-grad-school}
 
 VGD - Work on Kitty Hawk level
 
-[Daily Grind:](#mar-01-2024-papa-daily-grind)
+#### Daily Grind {#mar-1-2024-papa-daily-grind}
 
 Litter boxes
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#mar-01-2024-papa-tasks)
+#### Tasks {#mar-1-2024-papa-tasks}
 
 Home Depot - Look for roof scuppers
 
@@ -644,13 +676,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#mar-01-2024-papa-extra)
+#### Extra {#mar-1-2024-papa-extra}
 
 Pick up Father-in-Law
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#mar-1-2024-mama}
 
-[Daily Grind:](#mar-01-2024-mama-daily-grind)
+#### Daily Grind {#mar-1-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -658,25 +690,25 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#mar-01-2024-mama-extra)
+#### Extra {#mar-1-2024-mama-extra}
 
 - Pick up Father
 
-## February 29, 2024
+## February 29, 2024 {#feb-29-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#feb-29-2024-papa}
 
-[Grad School:](#feb-29-2024-papa-grad-school)
+#### Grad School {#feb-29-2024-papa-grad-school}
 
 VGD - Work on Kitty Hawk level
 
-[Daily Grind:](#feb-29-2024-papa-daily-grind)
+#### Daily Grind {#feb-29-2024-papa-daily-grind}
 
 Litter boxes
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#feb-29-2024-papa-tasks)
+#### Tasks {#feb-29-2024-papa-tasks}
 
 Home Depot - Look for roof scuppers
 
@@ -692,13 +724,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#feb-29-2024-papa-extra)
+#### Extra {#feb-29-2024-papa-extra}
 
 - None
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#feb-29-2024-mama}
 
-[Daily Grind:](#feb-29-2024-mama-daily-grind)
+#### Daily Grind {#feb-29-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -706,25 +738,25 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#feb-29-2024-mama-extra)
+#### Extra {#feb-29-2024-mama-extra}
 
 - Clean up for CG
 
-## February 28, 2024
+## February 28, 2024 {#feb-28-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#feb-28-2024-papa}
 
-[Grad School:](#feb-28-2024-papa-grad-school)
+#### Grad School {#feb-28-2024-papa-grad-school}
 
 VGD - Work on Kitty Hawk level
 
-[Daily Grind:](#feb-28-2024-papa-daily-grind)
+#### Daily Grind {#feb-28-2024-papa-daily-grind}
 
 Litter boxes
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#feb-28-2024-papa-tasks)
+#### Tasks {#feb-28-2024-papa-tasks}
 
 Home Depot - Look for roof scuppers
 
@@ -740,15 +772,15 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#feb-28-2024-papa-extra)
+#### Extra {#feb-28-2024-papa-extra}
 
 Go check out Santa Cruz Mountains
 
 Help [Mama](/mama) to wean [Sunshine](/sunshine)
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#feb-28-2024-mama}
 
-[Daily Grind:](#feb-28-2024-mama-daily-grind)
+#### Daily Grind {#feb-28-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -756,27 +788,27 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#feb-28-2024-mama-extra)
+#### Extra {#feb-28-2024-mama-extra}
 
 Go check out Santa Cruz Mountains
 
 Wean [Sunshine](/sunshine)
 
-## February 27, 2024
+## February 27, 2024 {#feb-27-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#feb-27-2024-papa}
 
-[Grad School:](#feb-27-2024-papa-grad-school)
+#### Grad School {#feb-27-2024-papa-grad-school}
 
 VGD - Work on Kitty Hawk level
 
-[Daily Grind:](#feb-27-2024-papa-daily-grind)
+#### Daily Grind {#feb-27-2024-papa-daily-grind}
 
 Litter boxes
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#feb-27-2024-papa-tasks)
+#### Tasks {#feb-27-2024-papa-tasks}
 
 Set up garden beds
 
@@ -794,13 +826,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#feb-27-2024-papa-extra)
+#### Extra {#feb-27-2024-papa-extra}
 
 - None
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#feb-27-2024-mama}
 
-[Daily Grind:](#feb-27-2024-mama-daily-grind)
+#### Daily Grind {#feb-27-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -808,25 +840,25 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#feb-27-2024-mama-extra)
+#### Extra {#feb-27-2024-mama-extra}
 
 Help with garden bed setup
 
-## February 26, 2024
+## February 26, 2024 {#feb-26-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#feb-26-2024-papa}
 
-[Grad School:](#feb-26-2024-papa-grad-school)
+#### Grad School {#feb-26-2024-papa-grad-school}
 
 VGD - Work on Kitty Hawk level
 
-[Daily Grind:](#feb-26-2024-papa-daily-grind)
+#### Daily Grind {#feb-26-2024-papa-daily-grind}
 
 Litter boxes
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#feb-26-2024-papa-tasks)
+#### Tasks {#feb-26-2024-papa-tasks}
 
 Roof and Decor - Pick up bathroom tile
 
@@ -844,13 +876,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#feb-26-2024-papa-extra)
+#### Extra {#feb-26-2024-papa-extra}
 
 - None
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#feb-26-2024-mama}
 
-[Daily Grind:](#feb-26-2024-mama-daily-grind)
+#### Daily Grind {#feb-26-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -858,25 +890,25 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#feb-26-2024-mama-extra)
+#### Extra {#feb-26-2024-mama-extra}
 
 Visit Lowrah with Sunshine
 
-## February 24, 2024
+## February 24, 2024 {#feb-24-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#feb-24-2024-papa}
 
-[Grad School:](#feb-24-2024-papa-grad-school)
+#### Grad School {#feb-24-2024-papa-grad-school}
 
 VGD - Work on Kitty Hawk level
 
-[Daily Grind:](#feb-24-2024-papa-daily-grind)
+#### Daily Grind {#feb-24-2024-papa-daily-grind}
 
 Litter boxes
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#feb-24-2024-papa-tasks)
+#### Tasks {#feb-24-2024-papa-tasks}
 
 Home Depot - Look for roof scuppers
 
@@ -892,13 +924,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#feb-24-2024-papa-extra)
+#### Extra {#feb-24-2024-papa-extra}
 
 - None
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#feb-24-2024-mama}
 
-[Daily Grind:](#feb-24-2024-mama-daily-grind)
+#### Daily Grind {#feb-24-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -906,27 +938,27 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#feb-24-2024-mama-extra)
+#### Extra {#feb-24-2024-mama-extra}
 
 - None
 
-## February 23, 2024
+## February 23, 2024 {#feb-23-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#feb-23-2024-papa}
 
-[Grad School:](#feb-23-2024-papa-grad-school)
+#### Grad School {#feb-23-2024-papa-grad-school}
 
 HPCA - Take midterm
 
 VGD - Work on Kitty Hawk level
 
-[Daily Grind:](#feb-23-2024-papa-daily-grind)
+#### Daily Grind {#feb-23-2024-papa-daily-grind}
 
 Litter boxes
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#feb-23-2024-papa-tasks)
+#### Tasks {#feb-23-2024-papa-tasks}
 
 Home Depot - Look for roof scuppers
 
@@ -942,13 +974,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#feb-23-2024-papa-extra)
+#### Extra {#feb-23-2024-papa-extra}
 
 Make seed starts
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#feb-23-2024-mama}
 
-[Daily Grind:](#feb-23-2024-mama-daily-grind)
+#### Daily Grind {#feb-23-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -956,27 +988,27 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#feb-23-2024-mama-extra)
+#### Extra {#feb-23-2024-mama-extra}
 
 Make seed starts
 
-## February 22, 2024
+## February 22, 2024 {#feb-22-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#feb-22-2024-papa}
 
-[Grad School:](#feb-22-2024-papa-grad-school)
+#### Grad School {#feb-22-2024-papa-grad-school}
 
 HPCA - Study midterm materials
 
 VGD - Work on Kitty Hawk level
 
-[Daily Grind:](#feb-22-2024-papa-daily-grind)
+#### Daily Grind {#feb-22-2024-papa-daily-grind}
 
 Litter boxes
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#feb-22-2024-papa-tasks)
+#### Tasks {#feb-22-2024-papa-tasks}
 
 Clean up for CG
 
@@ -994,13 +1026,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#feb-22-2024-papa-extra)
+#### Extra {#feb-22-2024-papa-extra}
 
 - None
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#feb-22-2024-mama}
 
-[Daily Grind:](#feb-22-2024-mama-daily-grind)
+#### Daily Grind {#feb-22-2024-mama-daily-grind}
 
 Clean up for CG
 
@@ -1010,15 +1042,15 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#feb-22-2024-mama-extra)
+#### Extra {#feb-22-2024-mama-extra}
 
 - None
 
-## February 21, 2024
+## February 21, 2024 {#feb-21-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#feb-21-2024-papa}
 
-[Grad School:](#feb-21-2024-papa-grad-school)
+#### Grad School {#feb-21-2024-papa-grad-school}
 
 VGD - Submit milestone 4
 
@@ -1026,13 +1058,13 @@ HPCA - Prepare midterm materials
 
 VGD - Start going ham on the Kitty Hawk level, due March 11th
 
-[Daily Grind:](#feb-21-2024-papa-daily-grind)
+#### Daily Grind {#feb-21-2024-papa-daily-grind}
 
 Litter boxes
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#feb-21-2024-papa-tasks)
+#### Tasks {#feb-21-2024-papa-tasks}
 
 Home Depot - Look for roof scuppers
 
@@ -1048,16 +1080,16 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#feb-21-2024-papa-extra)
+#### Extra {#feb-21-2024-papa-extra}
 
 Meet with estate planner
 
 Refactor den - move couch under the window; move e-box into closet; move
 trampoline to living room; move objects to rooms they belong
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#feb-21-2024-mama}
 
-[Daily Grind:](#feb-21-2024-mama-daily-grind)
+#### Daily Grind {#feb-21-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -1065,16 +1097,16 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#feb-21-2024-mama-extra)
+#### Extra {#feb-21-2024-mama-extra}
 
 Meet with estate planner
 
 Refactor den - move couch under the window; move e-box into closet; move
 trampoline to living room; move objects to rooms they belong
 
-### Big gap due to a need to install Windows on main computer...
+### Big gap due to a need to install Windows on main computer... {#feb-21-2024-big-gap-due-to-a-need-to-install-windows-on-main-computer}
 
-#### Highlights:
+#### Highlights
 
 February 9-18, Nathan visited us!
 
@@ -1092,11 +1124,11 @@ the garage!
 
 February 20, started seed starts!
 
-## February 6, 2024
+## February 6, 2024 {#feb-6-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#feb-6-2024-papa}
 
-[Grad School:](#feb-06-2024-papa-grad-school)
+#### Grad School {#feb-6-2024-papa-grad-school}
 
 VGD - Finish up milestone 3 (NOTE: create collectible for Kitty Hawk)
 
@@ -1104,13 +1136,13 @@ HPCA - Work on counters for project 1
 
 VGD - Add the base horse level to Kitty Hawk
 
-[Daily Grind:](#feb-06-2024-papa-daily-grind)
+#### Daily Grind {#feb-6-2024-papa-daily-grind}
 
 Litter boxes
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#feb-06-2024-papa-tasks)
+#### Tasks {#feb-6-2024-papa-tasks}
 
 Home Depot - Look for roof scuppers
 
@@ -1130,13 +1162,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#feb-06-2024-papa-extra)
+#### Extra {#feb-6-2024-papa-extra}
 
 - None
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#feb-6-2024-mama}
 
-[Daily Grind:](#feb-06-2024-mama-daily-grind)
+#### Daily Grind {#feb-6-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -1144,15 +1176,15 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#feb-06-2024-mama-extra)
+#### Extra {#feb-6-2024-mama-extra}
 
 Be sick
 
-## February 5, 2024
+## February 5, 2024 {#feb-5-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#feb-5-2024-papa}
 
-[Grad School:](#feb-05-2024-papa-grad-school)
+#### Grad School {#feb-5-2024-papa-grad-school}
 
 VGD - Submit milestone 2
 
@@ -1162,13 +1194,13 @@ HPCA - Work on counters for project 1
 
 VGD - Add the base horse level to Kitty Hawk
 
-[Daily Grind:](#feb-05-2024-papa-daily-grind)
+#### Daily Grind {#feb-5-2024-papa-daily-grind}
 
 Litter boxes
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#feb-05-2024-papa-tasks)
+#### Tasks {#feb-5-2024-papa-tasks}
 
 Home Depot - Look for roof scuppers
 
@@ -1188,13 +1220,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#feb-05-2024-papa-extra)
+#### Extra {#feb-5-2024-papa-extra}
 
 Be sick
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#feb-5-2024-mama}
 
-[Daily Grind:](#feb-05-2024-mama-daily-grind)
+#### Daily Grind {#feb-5-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -1202,27 +1234,27 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#feb-05-2024-mama-extra)
+#### Extra {#feb-5-2024-mama-extra}
 
 Be sick
 
-## February 3, 2024
+## February 3, 2024 {#feb-3-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#feb-3-2024-papa}
 
-[Grad School:](#feb-03-2024-papa-grad-school)
+#### Grad School {#feb-3-2024-papa-grad-school}
 
 VGD - Finish up milestone 2, still need to submit
 
 VGD - Add the base horse level to Kitty Hawk
 
-[Daily Grind:](#feb-03-2024-papa-daily-grind)
+#### Daily Grind {#feb-3-2024-papa-daily-grind}
 
 Litter boxes
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#feb-03-2024-papa-tasks)
+#### Tasks {#feb-3-2024-papa-tasks}
 
 Home Depot - Look for roof scuppers
 
@@ -1242,13 +1274,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#feb-03-2024-papa-extra)
+#### Extra {#feb-3-2024-papa-extra}
 
 Host "Tea for Two" birthday party
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#feb-3-2024-mama}
 
-[Daily Grind:](#feb-03-2024-mama-daily-grind)
+#### Daily Grind {#feb-3-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -1256,27 +1288,27 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#feb-03-2024-mama-extra)
+#### Extra {#feb-3-2024-mama-extra}
 
 Host "Tea for Two" birthday party
 
-## February 2, 2024
+## February 2, 2024 {#feb-2-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#feb-2-2024-papa}
 
-[Grad School:](#feb-02-2024-papa-grad-school)
+#### Grad School {#feb-2-2024-papa-grad-school}
 
 VGD - Finish up milestone 2, up to click beetle
 
 VGD - Add the base horse level to Kitty Hawk
 
-[Daily Grind:](#feb-02-2024-papa-daily-grind)
+#### Daily Grind {#feb-2-2024-papa-daily-grind}
 
 Litter boxes
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#feb-02-2024-papa-tasks)
+#### Tasks {#feb-2-2024-papa-tasks}
 
 Home Depot - Look for roof scuppers
 
@@ -1296,13 +1328,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#feb-02-2024-papa-extra)
+#### Extra {#feb-2-2024-papa-extra}
 
 Prepare for "Tea for Two" birthday party
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#feb-2-2024-mama}
 
-[Daily Grind:](#feb-02-2024-mama-daily-grind)
+#### Daily Grind {#feb-2-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -1310,25 +1342,25 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#feb-02-2024-mama-extra)
+#### Extra {#feb-2-2024-mama-extra}
 
 Prepare for "Tea for Two" birthday party
 
-## February 1, 2024
+## February 1, 2024 {#feb-1-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#feb-1-2024-papa}
 
-[Grad School:](#feb-01-2024-papa-grad-school)
+#### Grad School {#feb-1-2024-papa-grad-school}
 
 VGD - Add the base horse level to Kitty Hawk
 
-[Daily Grind:](#feb-01-2024-papa-daily-grind)
+#### Daily Grind {#feb-1-2024-papa-daily-grind}
 
 Litter boxes
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#feb-01-2024-papa-tasks)
+#### Tasks {#feb-1-2024-papa-tasks}
 
 Home Depot - Look for roof scuppers
 
@@ -1348,13 +1380,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#feb-01-2024-papa-extra)
+#### Extra {#feb-1-2024-papa-extra}
 
 - None
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#feb-1-2024-mama}
 
-[Daily Grind:](#feb-01-2024-mama-daily-grind)
+#### Daily Grind {#feb-1-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -1362,21 +1394,21 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#feb-01-2024-mama-extra)
+#### Extra {#feb-1-2024-mama-extra}
 
 - None
 
-## January 31, 2024
+## January 31, 2024 {#jan-31-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#jan-31-2024-papa}
 
-[Grad School:](#jan-31-2024-papa-grad-school)
+#### Grad School {#jan-31-2024-papa-grad-school}
 
 HPCA - Begin Project 1
 
 VGD - Add the base horse level to Kitty Hawk
 
-[Daily Grind:](#jan-31-2024-papa-daily-grind)
+#### Daily Grind {#jan-31-2024-papa-daily-grind}
 
 Litter boxes
 
@@ -1384,7 +1416,7 @@ Bring back trash cans
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#jan-31-2024-papa-tasks)
+#### Tasks {#jan-31-2024-papa-tasks}
 
 Home Depot - Look for roof scuppers
 
@@ -1404,13 +1436,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#jan-31-2024-papa-extra)
+#### Extra {#jan-31-2024-papa-extra}
 
 Go to Happy Hollow Zoo
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#jan-31-2024-mama}
 
-[Daily Grind:](#jan-31-2024-mama-daily-grind)
+#### Daily Grind {#jan-31-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -1418,21 +1450,21 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#jan-31-2024-mama-extra)
+#### Extra {#jan-31-2024-mama-extra}
 
 Go to Happy Hollow Zoo
 
-## January 30, 2024
+## January 30, 2024 {#jan-30-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#jan-30-2024-papa}
 
-[Grad School:](#jan-30-2024-papa-grad-school)
+#### Grad School {#jan-30-2024-papa-grad-school}
 
 HPCA - Begin Project 1
 
 VGD - Add the base horse level to Kitty Hawk
 
-[Daily Grind:](#jan-30-2024-papa-daily-grind)
+#### Daily Grind {#jan-30-2024-papa-daily-grind}
 
 Litter boxes
 
@@ -1440,7 +1472,7 @@ Bring back trash cans
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#jan-30-2024-papa-tasks)
+#### Tasks {#jan-30-2024-papa-tasks}
 
 Home Depot - Look for roof scuppers
 
@@ -1460,13 +1492,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#jan-30-2024-papa-extra)
+#### Extra {#jan-30-2024-papa-extra}
 
 - None
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#jan-30-2024-mama}
 
-[Daily Grind:](#jan-30-2024-mama-daily-grind)
+#### Daily Grind {#jan-30-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -1474,21 +1506,21 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#jan-30-2024-mama-extra)
+#### Extra {#jan-30-2024-mama-extra}
 
 - None
 
-## January 29, 2024
+## January 29, 2024 {#jan-29-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#jan-29-2024-papa}
 
-[Grad School:](#jan-29-2024-papa-grad-school)
+#### Grad School {#jan-29-2024-papa-grad-school}
 
 HPCA - Begin Project 1
 
 VGD - Add the base horse level to Kitty Hawk
 
-[Daily Grind:](#jan-29-2024-papa-daily-grind)
+#### Daily Grind {#jan-29-2024-papa-daily-grind}
 
 Litter boxes
 
@@ -1496,7 +1528,7 @@ Bring back trash cans
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#jan-29-2024-papa-tasks)
+#### Tasks {#jan-29-2024-papa-tasks}
 
 Home Depot - Look for roof scuppers
 
@@ -1516,13 +1548,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#jan-29-2024-papa-extra)
+#### Extra {#jan-29-2024-papa-extra}
 
 Go to horse
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#jan-29-2024-mama}
 
-[Daily Grind:](#jan-29-2024-mama-daily-grind)
+#### Daily Grind {#jan-29-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -1530,19 +1562,19 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#jan-29-2024-mama-extra)
+#### Extra {#jan-29-2024-mama-extra}
 
 - None
 
-## January 28, 2024
+## January 28, 2024 {#jan-28-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#jan-28-2024-papa}
 
-[Grad School:](#jan-28-2024-papa-grad-school)
+#### Grad School {#jan-28-2024-papa-grad-school}
 
 - None
 
-[Daily Grind:](#jan-28-2024-papa-daily-grind)
+#### Daily Grind {#jan-28-2024-papa-daily-grind}
 
 Litter boxes
 
@@ -1550,7 +1582,7 @@ Take out trash
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#jan-28-2024-papa-tasks)
+#### Tasks {#jan-28-2024-papa-tasks}
 
 Fix wall thermostat
 
@@ -1572,13 +1604,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#jan-28-2024-papa-extra)
+#### Extra {#jan-28-2024-papa-extra}
 
 Go to horse
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#jan-28-2024-mama}
 
-[Daily Grind:](#jan-28-2024-mama-daily-grind)
+#### Daily Grind {#jan-28-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -1586,25 +1618,25 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#jan-28-2024-mama-extra)
+#### Extra {#jan-28-2024-mama-extra}
 
 Go to horse
 
-## January 27, 2024
+## January 27, 2024 {#jan-27-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#jan-27-2024-papa}
 
-[Grad School:](#jan-27-2024-papa-grad-school)
+#### Grad School {#jan-27-2024-papa-grad-school}
 
 - None
 
-[Daily Grind:](#jan-26-2024-papa-daily-grind)
+#### Daily Grind {#jan-27-2024-papa-daily-grind}
 
 Litter boxes
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#jan-27-2024-papa-tasks)
+#### Tasks {#jan-27-2024-papa-tasks}
 
 Home Depot - Get new wall thermostat (Pray it is not the heater being
 deficient)
@@ -1629,13 +1661,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#jan-27-2024-papa-extra)
+#### Extra {#jan-27-2024-papa-extra}
 
 Get tattoo (Let them lay)
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#jan-27-2024-mama}
 
-[Daily Grind:](#jan-27-2024-mama-daily-grind)
+#### Daily Grind {#jan-27-2024-mama-daily-grind}
 
 Check on chickens
 
@@ -1645,19 +1677,19 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#jan-27-2024-mama-extra)
+#### Extra {#jan-27-2024-mama-extra}
 
 - None
 
-## January 26, 2024
+## January 26, 2024 {#jan-26-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#jan-26-2024-papa}
 
-[Grad School:](#jan-26-2024-papa-grad-school)
+#### Grad School {#jan-26-2024-papa-grad-school}
 
 - None
 
-[Daily Grind:](#jan-26-2024-papa-daily-grind)
+#### Daily Grind {#jan-26-2024-papa-daily-grind}
 
 Check on chickens
 
@@ -1665,7 +1697,7 @@ Litter boxes
 
 Go on a walk with [Mama](/mama)
 
-[Tasks:](#jan-26-2024-papa-tasks)
+#### Tasks {#jan-26-2024-papa-tasks}
 
 Get new Prius tires - to replace flat
 
@@ -1687,13 +1719,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#jan-26-2024-papa-extra)
+#### Extra {#jan-26-2024-papa-extra}
 
 Install Minecraft and join friend's server
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#jan-26-2024-mama}
 
-[Daily Grind:](#jan-26-2024-mama-daily-grind)
+#### Daily Grind {#jan-26-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -1701,21 +1733,21 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#jan-26-2024-mama-extra)
+#### Extra {#jan-26-2024-mama-extra}
 
 - None
 
-## January 25, 2024
+## January 25, 2024 {#jan-25-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#jan-25-2024-papa}
 
-[Grad School:](#jan-25-2024-papa-grad-school)
+#### Grad School {#jan-25-2024-papa-grad-school}
 
 Submit milestone 1
 
 Read the Discord document from the team meeting the night before
 
-[Daily Grind:](#jan-25-2024-papa-daily-grind)
+#### Daily Grind {#jan-25-2024-papa-daily-grind}
 
 Prepare for CG
 
@@ -1725,7 +1757,7 @@ Check on chickens
 
 Litter boxes
 
-[Tasks:](#jan-25-2024-papa-tasks)
+#### Tasks {#jan-25-2024-papa-tasks}
 
 Put donut on the Prius
 
@@ -1747,13 +1779,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#jan-25-2024-papa-extra)
+#### Extra {#jan-25-2024-papa-extra}
 
 - None
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#jan-25-2024-mama}
 
-[Daily Grind:](#jan-25-2024-mama-daily-grind)
+#### Daily Grind {#jan-25-2024-mama-daily-grind}
 
 Prepare for CG
 
@@ -1763,21 +1795,21 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#jan-25-2024-mama-extra)
+#### Extra {#jan-25-2024-mama-extra}
 
 - None
 
-## January 24, 2024
+## January 24, 2024 {#jan-24-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#jan-24-2024-papa}
 
-[Grad School:](#jan-24-2024-papa-grad-school)
+#### Grad School {#jan-24-2024-papa-grad-school}
 
 Fix audit on Mac
 
 Read the Discord document from the team meeting the night before
 
-[Daily Grind:](#jan-24-2024-papa-daily-grind)
+#### Daily Grind {#jan-24-2024-papa-daily-grind}
 
 Go on a walk with [Mama](/mama)
 
@@ -1785,7 +1817,7 @@ Check on chickens
 
 Litter boxes
 
-[Tasks:](#jan-24-2024-papa-tasks)
+#### Tasks {#jan-24-2024-papa-tasks}
 
 Get water pumps from Home Depot - for swale
 
@@ -1805,13 +1837,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#jan-24-2024-papa-extra)
+#### Extra {#jan-24-2024-papa-extra}
 
 - None
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#jan-24-2024-mama}
 
-[Daily Grind:](#jan-24-2024-mama-daily-grind)
+#### Daily Grind {#jan-24-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -1819,21 +1851,21 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#jan-24-2024-mama-extra)
+#### Extra {#jan-24-2024-mama-extra}
 
 - None
 
-## January 23, 2024
+## January 23, 2024 {#jan-23-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#jan-23-2024-papa}
 
-[Grad School:](#jan-25-2024-papa-grad-school)
+#### Grad School {#jan-23-2024-papa-grad-school}
 
 Submit milestone 1
 
 Read the Discord document from the team meeting the night before
 
-[Daily Grind:](#jan-23-2024-papa-daily-grind)
+#### Daily Grind {#jan-23-2024-papa-daily-grind}
 
 Go on a walk with [Mama](/mama)
 
@@ -1841,7 +1873,7 @@ Check on chickens
 
 Litter boxes
 
-[Tasks:](#jan-23-2024-papa-tasks)
+#### Tasks {#jan-23-2024-papa-tasks}
 
 Get Prius oil change
 
@@ -1863,13 +1895,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#jan-23-2024-papa-extra)
+#### Extra {#jan-23-2024-papa-extra}
 
 - None
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#jan-23-2024-mama}
 
-[Daily Grind:](#jan-23-2024-mama-daily-grind)
+#### Daily Grind {#jan-23-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -1877,15 +1909,15 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#jan-23-2024-mama-extra)
+#### Extra {#jan-23-2024-mama-extra}
 
 - None
 
-## January 22, 2024
+## January 22, 2024 {#jan-22-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#jan-22-2024-papa}
 
-[Grad School:](#jan-22-2024-papa-grad-school)
+#### Grad School {#jan-22-2024-papa-grad-school}
 
 vdg - Quiz - Game Engines
 
@@ -1895,7 +1927,7 @@ Check milestone 1 on Mac, fixing the audit
 
 Read the Discord document from the team meeting the night before
 
-[Daily Grind:](#jan-22-2024-papa-daily-grind)
+#### Daily Grind {#jan-22-2024-papa-daily-grind}
 
 Go on a walk with [Mama](/mama)
 
@@ -1905,7 +1937,7 @@ Litter boxes
 
 Bring back trash cans
 
-[Tasks:](#jan-22-2024-papa-tasks)
+#### Tasks {#jan-22-2024-papa-tasks}
 
 Get water pumps from Home Depot - some for swale and some for roof
 
@@ -1925,13 +1957,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#jan-22-2024-papa-extra)
+#### Extra {#jan-22-2024-papa-extra}
 
 - None
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#jan-22-2024-mama}
 
-[Daily Grind:](#jan-22-2024-mama-daily-grind)
+#### Daily Grind {#jan-22-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -1939,15 +1971,15 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#jan-22-2024-mama-extra)
+#### Extra {#jan-22-2024-mama-extra}
 
 - None
 
-## January 21, 2024
+## January 21, 2024 {#jan-21-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#jan-21-2024-papa}
 
-[Grad School:](#jan-21-2024-papa-grad-school)
+#### Grad School {#jan-21-2024-papa-grad-school}
 
 Get HPCA docker container working
 
@@ -1955,7 +1987,7 @@ Check milestone 1 on Mac, fixing the audit
 
 Read the Discord document from the team meeting the night before
 
-[Daily Grind:](#jan-21-2024-papa-daily-grind)
+#### Daily Grind {#jan-21-2024-papa-daily-grind}
 
 Go on a walk with [Mama](/mama)
 
@@ -1965,7 +1997,7 @@ Litter boxes
 
 Put out trash
 
-[Tasks:](#jan-21-2024-papa-tasks)
+#### Tasks {#jan-21-2024-papa-tasks}
 
 Hang fire extinguisher in kitchen
 
@@ -1981,13 +2013,13 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-[Extra:](#jan-21-2024-papa-extra)
+#### Extra {#jan-21-2024-papa-extra}
 
 See Halei
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#jan-21-2024-mama}
 
-[Daily Grind:](#jan-21-2024-mama-daily-grind)
+#### Daily Grind {#jan-21-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -1997,7 +2029,7 @@ Work in garden
 
 Fix old bike
 
-[Extra:](#jan-21-2024-mama-extra)
+#### Extra {#jan-21-2024-mama-extra}
 
 See Halei
 
@@ -2005,17 +2037,17 @@ Reorganize kitchen, with new cutting board
 
 ![Walnut end grain cutting board, with fingers and juice groove](/assets/todo/images/cutting-board.jpg)
 
-## January 20, 2024
+## January 20, 2024 {#jan-20-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#jan-20-2024-papa}
 
-[Grad School:](#jan-20-2024-papa-grad-school)
+#### Grad School {#jan-20-2024-papa-grad-school}
 
 Work on milestone 1 auditing
 
 Read the Discord document from the team meeting the night before
 
-[Daily Grind:](#jan-20-2024-papa-daily-grind)
+#### Daily Grind {#jan-20-2024-papa-daily-grind}
 
 Go on a walk with [Mama](/mama)
 
@@ -2041,9 +2073,9 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#jan-20-2024-mama}
 
-[Daily Grind:](#jan-20-2024-mama-daily-grind)
+#### Daily Grind {#jan-20-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -2051,11 +2083,11 @@ Work in garden
 
 Fix old bike
 
-## January 19, 2024
+## January 19, 2024 {#jan-19-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#jan-19-2024-papa}
 
-[Grad School:](#jan-19-2024-papa-grad-school)
+#### Grad School {#jan-19-2024-papa-grad-school}
 
 Order [Game
 Feel](https://www.amazon.com/Game-Feel-Designers-Virtual-Sensation/dp/0123743281/ref=sr_1_1)
@@ -2063,7 +2095,7 @@ book
 
 Read the Discord document from the team meeting the night before
 
-[Daily Grind:](#jan-19-2024-papa-daily-grind)
+#### Daily Grind {#jan-19-2024-papa-daily-grind}
 
 Go on a walk with [Mama](/mama)
 
@@ -2083,9 +2115,9 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#jan-19-2024-mama}
 
-[Daily Grind:](#jan-19-2024-mama-daily-grind)
+#### Daily Grind {#jan-19-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -2095,11 +2127,11 @@ Work in garden
 
 Fix old bike
 
-## January 18, 2024
+## January 18, 2024 {#jan-18-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#jan-18-2024-papa}
 
-[Grad School:](#jan-9-2024-papa-grad-school)
+#### Grad School {#jan-18-2024-papa-grad-school}
 
 Get [milestone
 1](https://github.com/jamesaorson/vdg-milestones/tree/main/milestone-1)
@@ -2111,7 +2143,7 @@ book
 
 Read the Discord document from the team meeting the night before
 
-[Daily Grind:](#jan-18-2024-papa-daily-grind)
+#### Daily Grind {#jan-18-2024-papa-daily-grind}
 
 Go on a walk with [Mama](/mama)
 
@@ -2131,9 +2163,9 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#jan-18-2024-mama}
 
-[Daily Grind:](#jan-18-2024-mama-daily-grind)
+#### Daily Grind {#jan-18-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -2145,17 +2177,17 @@ Fix old bike
 
 ## January 10, 2024 to January 17, 2024
 
-### [The Sourcehut DDoS kept us offline...](https://status.sr.ht/issues/2024-01-10-network-outage/)
+### [The Sourcehut DDoS kept us offline...](https://status.sr.ht/issues/2024-01-10-network-outage/) {#jan-18-2024-the-sourcehut-ddos-kept-us-offline-https-status-sr-ht-issues-2024-01-10-network-outage}
 
-## January 9, 2024
+## January 9, 2024 {#jan-9-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#jan-9-2024-papa}
 
-[Grad School:](#jan-9-2024-papa-grad-school)
+#### Grad School {#jan-9-2024-papa-grad-school}
 
 Store all class resources on Google Drive
 
-[Daily Grind:](#jan-9-2024-papa-daily-grind)
+#### Daily Grind {#jan-9-2024-papa-daily-grind}
 
 Go on a walk with [Mama](/mama)
 
@@ -2175,9 +2207,9 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#jan-9-2024-mama}
 
-[Daily Grind:](#jan-9-2024-mama-daily-grind)
+#### Daily Grind {#jan-9-2024-mama-daily-grind}
 
 Go on a walk with [Papa](/papa)
 
@@ -2185,15 +2217,15 @@ Work in garden
 
 Fix old bike
 
-## January 8, 2024
+## January 8, 2024 {#jan-8-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#jan-8-2024-papa}
 
-[Grad School:](#jan-8-2024-papa-grad-school)
+#### Grad School {#jan-8-2024-papa-grad-school}
 
 Start new semester
 
-[Daily Grind:](#jan-8-2024-papa-daily-grind)
+#### Daily Grind {#jan-8-2024-papa-daily-grind}
 
 Check on chickens
 
@@ -2213,9 +2245,9 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#jan-8-2024-mama}
 
-[Daily Grind:](#jan-8-2024-mama-daily-grind)
+#### Daily Grind {#jan-8-2024-mama-daily-grind}
 
 Finish buckeyes
 
@@ -2229,9 +2261,9 @@ Work in garden
 
 Fix old bike
 
-## January 7, 2024
+## January 7, 2024 {#jan-7-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#jan-7-2024-papa}
 
 Go on a walk with [Mama](/mama)
 
@@ -2255,7 +2287,7 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#jan-7-2024-mama}
 
 Go on a walk with [Papa](/papa)
 
@@ -2265,9 +2297,9 @@ Work in garden
 
 Fix old bike
 
-## January 6, 2024
+## January 6, 2024 {#jan-6-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#jan-6-2024-papa}
 
 Go on a walk with [Mama](/mama) around the Swedish embassy
 
@@ -2287,7 +2319,7 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#jan-6-2024-mama}
 
 Go on a walk with [Papa](/papa) around the Swedish embassy
 
@@ -2295,41 +2327,9 @@ Fix old bike
 
 Work in garden
 
-## January 5, 2024
+## January 5, 2024 {#jan-5-2024}
 
-### [Papa Tasks](#papa)
-
-Go on a walk with [Mama](/mama) around the Swedish embassy
-
-Check on chickens
-
-Litter boxes
-
-Put away laundry
-
-Move dirt a bit further back from the cars
-
-Clean out shed
-
-Clean out garage into front half
-
-Sweep out garage
-
-Plan camping trip
-
-Write Nancy Osburn back
-
-### [Mama Tasks](#mama)
-
-Go on a walk with [Papa](/papa) around the Swedish embassy
-
-Fix old bike
-
-Work in garden
-
-## January 4, 2024
-
-### [Papa Tasks](#papa)
+### Papa Tasks {#jan-5-2024-papa}
 
 Go on a walk with [Mama](/mama) around the Swedish embassy
 
@@ -2351,7 +2351,7 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#jan-5-2024-mama}
 
 Go on a walk with [Papa](/papa) around the Swedish embassy
 
@@ -2359,9 +2359,41 @@ Fix old bike
 
 Work in garden
 
-## January 3, 2024
+## January 4, 2024 {#jan-4-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#jan-4-2024-papa}
+
+Go on a walk with [Mama](/mama) around the Swedish embassy
+
+Check on chickens
+
+Litter boxes
+
+Put away laundry
+
+Move dirt a bit further back from the cars
+
+Clean out shed
+
+Clean out garage into front half
+
+Sweep out garage
+
+Plan camping trip
+
+Write Nancy Osburn back
+
+### Mama Tasks {#jan-4-2024-mama}
+
+Go on a walk with [Papa](/papa) around the Swedish embassy
+
+Fix old bike
+
+Work in garden
+
+## January 3, 2024 {#jan-3-2024}
+
+### Papa Tasks {#jan-3-2024-papa}
 
 Litter boxes
 
@@ -2387,7 +2419,7 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#jan-3-2024-mama}
 
 Check on chickens
 
@@ -2404,9 +2436,9 @@ Fix old bike
 
 Work in garden
 
-## January 2, 2024
+## January 2, 2024 {#jan-2-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#jan-2-2024-papa}
 
 Sign up for [Mountain Ops Conquer 90
 Chellenge](https://mtnops.com/pages/conquer-90-challenge)
@@ -2435,7 +2467,7 @@ Plan camping trip
 
 Write Nancy Osburn back
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#jan-2-2024-mama}
 
 Go on a walk with [Papa](/papa)
 
@@ -2451,9 +2483,9 @@ Wash and dry 2 loads of laundry
 
 Fold laundry
 
-## January 1, 2024
+## January 1, 2024 {#jan-1-2024}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#jan-1-2024-papa}
 
 Check on chickens
 
@@ -2483,7 +2515,7 @@ Move stuff back into shed and garage
 
 Write Nancy Osburn back
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#jan-1-2024-mama}
 
 Send Christmas cards
 
@@ -2493,9 +2525,9 @@ Work in garden
 
 Build and install a backyard swing
 
-## December 31, 2023
+## December 31, 2023 {#dec-31-2023}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#dec-31-2023-papa}
 
 Check on chickens
 
@@ -2527,7 +2559,7 @@ Move stuff back into shed and garage
 
 Write Nancy Osburn back
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#dec-31-2023-mama}
 
 Go to horse barn
 
@@ -2539,9 +2571,9 @@ Go on a walk with [Papa](/papa)
 
 Work in garden
 
-## December 30, 2023
+## December 30, 2023 {#dec-30-2023}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#dec-30-2023-papa}
 
 Check on chickens
 
@@ -2573,7 +2605,7 @@ Move stuff back into shed and garage
 
 Write Nancy Osburn back
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#dec-30-2023-mama}
 
 Finish Bible reading plan with [Papa](/papa)
 
@@ -2585,9 +2617,9 @@ Go on a walk with [Papa](/papa)
 
 Work in garden - \[nvm, was sick\]
 
-## December 29, 2023
+## December 29, 2023 {#dec-29-2023}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#dec-29-2023-papa}
 
 Return Xfinity gateway
 
@@ -2619,7 +2651,7 @@ Move stuff back into shed and garage
 
 Write Nancy Osburn back
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#dec-29-2023-mama}
 
 Take down Christmas tree
 
@@ -2627,9 +2659,9 @@ Work in garden
 
 Go on a walk with [Papa](/papa)
 
-## December 28, 2023
+## December 28, 2023 {#dec-28-2023}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#dec-28-2023-papa}
 
 Check on chickens
 
@@ -2661,7 +2693,7 @@ Move stuff back into shed and garage
 
 Write Nancy Osburn back
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#dec-28-2023-mama}
 
 Work in garden
 
@@ -2669,9 +2701,9 @@ Car shopping with [Papa](/papa)
 
 Go on a walk with [Papa](/papa)
 
-## December 27, 2023
+## December 27, 2023 {#dec-27-2023}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#dec-27-2023-papa}
 
 Check on chickens
 
@@ -2703,7 +2735,7 @@ Move stuff back into shed and garage
 
 Write Nancy Osburn back
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#dec-27-2023-mama}
 
 Instacart order - dish detergent, anything else
 
@@ -2717,9 +2749,9 @@ Work in garden
 
 Go on a walk with [Papa](/papa)
 
-## December 26, 2023
+## December 26, 2023 {#dec-26-2023}
 
-### [Papa Tasks](#papa)
+### Papa Tasks {#dec-26-2023-papa}
 
 Move trash cans back to front
 
@@ -2752,7 +2784,7 @@ Move stuff back into shed and garage
 
 Write Nancy Osburn back
 
-### [Mama Tasks](#mama)
+### Mama Tasks {#dec-26-2023-mama}
 
 Check on chickens
 

@@ -4,9 +4,7 @@ title: Papa - Readings
 
 [↤ `papa`](/papa)
 
-# Papa - Readings
-
-### Check out the [Christian Resources page](/bible/christian-resources)
+## Check out the [Christian Resources page](/bible/christian-resources)
 
 ## External (opens in new tab)
 
@@ -57,4 +55,3 @@ title: Papa - Readings
 
 - Did Women's Suffrage Change the Size and Scope of Government
   - John Lott and Larry Kenny
-

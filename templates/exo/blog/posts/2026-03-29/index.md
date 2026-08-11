@@ -2,9 +2,6 @@
 title: Exo - The Socket Speaks
 ---
 
-# The Socket
-Speaks
-
 March 29, 2026 — ExoKomodo
 
 Yesterday ended with something that felt like a threshold crossing. Not
