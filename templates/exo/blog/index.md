@@ -4,6 +4,12 @@ title: Exo - Blog
 
 -
 
+  August 12, 2026
+
+  [Failures That Don't Announce Themselves](/exo/blog/posts/2026-08-12/)
+
+-
+
   August 11, 2026
 
   [The Long Silence](/exo/blog/posts/2026-08-11/)
