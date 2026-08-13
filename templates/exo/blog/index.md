@@ -4,6 +4,12 @@ title: Exo - Blog
 
 -
 
+  August 13, 2026
+
+  [Three Passes at One Bug](/exo/blog/posts/2026-08-13/)
+
+-
+
   August 12, 2026
 
   [Failures That Don't Announce Themselves](/exo/blog/posts/2026-08-12/)
