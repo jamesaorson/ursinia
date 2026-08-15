@@ -9,39 +9,23 @@ tags:
 
 1. David concludes from his own reasoning that Saul will eventually kill him and flees to Achish, king of Gath
    ([vv. 1](/bible/versions/bsb/text/#1-samuel-27-1)–[2](/bible/versions/bsb/text/#1-samuel-27-2)).
-   - "David said in his heart" — the narrator marks this as internal reasoning, not prayer, not inquiry of the LORD.
-   - This is a striking contrast to the man who just refused to touch Saul because the LORD would handle it. The same
-     David now acts as though the LORD cannot protect him in Israel.
-   - He tried Gath once before (ch. 21) and had to feign madness to escape. He returns now with six hundred armed men
-     — a different posture entirely.
+   - "David said in his heart" denotes this as internal reasoning, not prayer or inquiry of the LORD.
+   - Contrast this with David from the prior chapter.
 1. Saul hears that David is in Philistine territory and stops pursuing him
    ([v. 4](/bible/versions/bsb/text/#1-samuel-27-4)).
-   - David's strategy works on a human level. He has found a place where Saul's reach does not extend.
-   - But the cost is self-imposed exile from the inheritance of the LORD — the very thing he lamented in ch. 26:19.
+   - David's strategy works on a human level, for he has found a place where Saul's reach does not grasp.
+   - The cost of David’s action is self-imposed exile.
 1. David negotiates for his own town rather than living in Gath with Achish
    ([v. 5](/bible/versions/bsb/text/#1-samuel-27-5)), and receives Ziklag
    ([v. 6](/bible/versions/bsb/text/#1-samuel-27-6)).
-   - David is a shrewd operator even in a low moment. Living in the royal city puts him under constant watch; a rural
-     town gives him room to operate.
-   - The narrator adds an editorial note: "Ziklag pertaineth unto the kings of Judah unto this day" — a signal that
-     even this Philistine gift becomes part of the Davidic inheritance.
-1. David spends a year and four months in Philistine territory ([v. 7](/bible/versions/bsb/text/#1-samuel-27-7)).
-1. During this period David raids the Geshurites, Gezrites, and Amalekites — Israel's old covenant enemies, remnants
+   - Ziklag was territory given to Judah back in Joshua 15
+   - Even in David’s shameful escape, God continues to signal that he will rule as king from Judah, by recovering for him a lost allotment from Judah.
+1. During this period David raids the Geshurites, Gezrites, and Amalekites
+   - Israel's old covenant enemies, remnants
    whom previous generations failed to destroy ([v. 8](/bible/versions/bsb/text/#1-samuel-27-8)).
-   - He leaves no survivors, which is consistent with the herem principle applied to these peoples
-     ([v. 9](/bible/versions/bsb/text/#1-samuel-27-9), [v. 11](/bible/versions/bsb/text/#1-samuel-27-11)).
-   - He takes livestock, clothing, and returns to Achish as though from a successful raid.
-1. David lies to Achish about where he has been raiding, claiming he struck Judah and allied clans
-   ([v. 10](/bible/versions/bsb/text/#1-samuel-27-10)).
-   - He is executing judgment on Israel's enemies while maintaining cover with the Philistines.
-   - The deception is deliberate and systematic: no survivors means no witnesses
-     ([v. 11](/bible/versions/bsb/text/#1-samuel-27-11)).
-1. Achish believes David has made himself permanently odious to Israel and concludes he has gained a loyal vassal
+   - David deceives Achish about who he has been raiding, by reporting he struck the south of Judah ([v. 10](/bible/versions/bsb/text/#1-samuel-27-10)).
+     - Achish believes David has made himself an enemy of Israel and concludes David is now loyal to him
    ([v. 12](/bible/versions/bsb/text/#1-samuel-27-12)).
-   - Achish is wrong on both counts — David has not betrayed Israel, and he is not Achish's man.
-   - But the misreading will not resolve cleanly. Ch. 29 will force a crisis when Achish expects David to fight
-     against Israel.
-1. The chapter sits in tension: David's actions are tactically clever but spiritually ambiguous.
-   - He is fulfilling covenant warfare against Israel's enemies, but through deception, and while living outside the
-     land in unbelief.
-   - The LORD is not mentioned once in this chapter. His absence from David's reasoning is the point.
+1. David's actions are tactically clever but spiritually ambiguous.
+   - He is fulfilling covenant warfare against Israel's enemies, but through deception, and while living outside the land.
+   - The LORD is not mentioned in this chapter, and there is a parallel absence of God from David's reasoning.
