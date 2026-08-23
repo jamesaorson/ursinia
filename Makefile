@@ -56,11 +56,11 @@ format: ## Fixes formatting issues
 
 .PHONY: bible
 bible: ## Regenerates the amalgamated Bible markdown from the plain-text sources
-	./scripts/generate-bible
+	./scripts/generate-bible.sh
 
 .PHONY: bible/check
 bible/check: ## Verifies the committed Bible markdown matches its plain-text sources
-	./scripts/generate-bible --check
+	./scripts/generate-bible.sh --check
 
 ##@ Rendering
 
@@ -95,7 +95,7 @@ wwwroot/%.html: templates/%.md
 	: > $@
 	guile \
 		-L ${PWD} \
-		./scripts/render-md $< >> $@
+		./scripts/render-md.scm $< >> $@
 
 wwwroot/assets/%: assets/%
 	echo "ASSET: $< -> $@"
