@@ -8,8 +8,8 @@ tags:
 ---
 
 1. David meets a crossroads where he has to now determine who his loyalty is towards, Israel or the Philistines.
-   - The narrative is [ch. 28](/bible/versions/bsb/text/#1-samuel-28) paralleled with Saul at Endor,
-     for Saul has received a judgment from God, to be served by the Philistines and end in David's reign, with David now
+   - The narrative is paralleled with Saul at Endor,
+     for Saul has received a judgment from God, to be killed by the Philistines and end with David's reign, with David now
      marching with the Philistines.
 1. The Philistine commanders object to David fighting with them
    ([vv. 3](/bible/versions/bsb/text/#1-samuel-29-3)–[5](/bible/versions/bsb/text/#1-samuel-29-5)).
