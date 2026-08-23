@@ -5,7 +5,7 @@
 ;; would not change a file leaves it untouched, so `make render` does not
 ;; re-render several megabytes of markdown for nothing.
 ;;
-;; Invoked through ./scripts/generate-bible, which anchors the working directory
+;; Invoked through ./scripts/generate-bible.sh, which anchors the working directory
 ;; to the repo root so the relative paths in (scripts lib bible) resolve.
 
 (use-modules (scripts lib bible)

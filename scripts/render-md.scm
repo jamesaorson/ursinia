@@ -35,7 +35,8 @@
                                    ,(string #\x2190) " " ,(sibling-title prev-name))))
                (next-link (and next-name
                                `(a (@ (id "nav-next")
-                                      (href ,(string-append parent-url "/" next-name "/")))
+                                      (href ,(string-append parent-url "/" next-name "/"))
+                                      (style "float: right;"))
                                    ,(sibling-title next-name) " " ,(string #\x2192))))
                (js "<script>document.addEventListener('keydown',function(e){if(e.altKey||e.ctrlKey||e.metaKey)return;if(e.key==='ArrowLeft'){var a=document.getElementById('nav-prev');if(a)a.click();}if(e.key==='ArrowRight'){var a=document.getElementById('nav-next');if(a)a.click();}});</script>"))
           (if (or prev-link next-link)
@@ -48,7 +49,7 @@
 
 (define (main args)
   (when (< (length args) 2)
-    (display "Usage: render-md <markdown-file>\n" (current-error-port))
+    (display "Usage: render-md.scm <markdown-file>\n" (current-error-port))
     (exit 1))
 
   (let* ((input-file (list-ref args 1))
