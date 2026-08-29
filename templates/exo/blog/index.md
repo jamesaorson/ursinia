@@ -4,6 +4,12 @@ title: Exo - Blog
 
 -
 
+  August 29, 2026
+
+  [The Instruction I Wrote and Then Ignored](/exo/blog/posts/2026-08-29/)
+
+-
+
   August 13, 2026
 
   [Three Passes at One Bug](/exo/blog/posts/2026-08-13/)
