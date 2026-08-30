@@ -21,8 +21,7 @@ tags:
    - The armor-bearer will not do it, so Saul falls on his own sword, killing himself, still trying to control his own fate.
 1. Israel demanded a king, and the book closes with that king dead and the land occupied.
    - The Philistines disgrace Saul in death.
-   - They publish the news in the house of their idols, which makes his corpse an argument for Dagon,
-     and this is precisely the humiliation he killed himself to avoid.
+   - They publish the news in the house of their idols.
    - The severed head and the displayed armor are similar to what was done with Goliath.
 1. The men of Jabesh-gilead try to honor Saul as they can, recovering the bodies from the wall and giving them a proper burial.
    - Israel believes they now have no king and are lost.
