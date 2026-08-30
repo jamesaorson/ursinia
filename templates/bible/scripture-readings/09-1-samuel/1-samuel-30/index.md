@@ -28,7 +28,7 @@ tags:
      [v. 8](/bible/versions/bsb/text/#1-samuel-30-8) is fulfilled to the word.
 1. David rules that the men who stayed with the baggage share equally with the men who fought
    ([vv. 21](/bible/versions/bsb/text/#1-samuel-30-21)–[25](/bible/versions/bsb/text/#1-samuel-30-25)).
-   - His men complain that the two hundred wicked and worthless and would return their wives and children
+   - His men complain that the two hundred were wicked and worthless, and they would only return their wives and children
      and nothing else.
    - David declares instead a new ordinance on how to split the spoil, asserting his kingly authority.
 1. David sends portions of the spoil to the elders of Judah in the towns where he had roamed
