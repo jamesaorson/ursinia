@@ -21,5 +21,8 @@ jobs:
               ref: 'main',
               inputs: {
                 ref: context.ref
+              },
+              headers: {
+                'x-github-api-version': '2026-03-10'
               }
             });
