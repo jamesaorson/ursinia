@@ -31,7 +31,7 @@ Inline citations here are shorthand only (author + short title).
 
 ---
 
-## 0. Framing, Method, and Scope
+## 0. Framing, Method, and Scope {#0-framing-method-and-scope}
 
 1. **What is actually being argued?** Three candidate theses, in descending strength. Pick one before drafting.
    1. **Strong thesis:** Monarchy is the divinely-normed political form; other forms are defective participations in it.
@@ -52,12 +52,17 @@ Inline citations here are shorthand only (author + short title).
       independent foundations.
    1. **[GAP]** **The research folder contains zero confessional sources.** For a 1689 project this is the biggest
       hole. See [IX.2](#ix2-confessional-gap--none-currently-in-the-repo).
-      1. 1689 LBCF ch. 24 (Of the Civil Magistrate) — must be engaged directly.
-      1. 1689 ch. 23 (Of Lawful Oaths and Vows) — this is _directly_ on the oath thesis and is currently unused.
+      1. 1689 [LBCF](#ix2-confessional-gap--none-currently-in-the-repo) ch. 24 (Of the Civil Magistrate) — must be
+         engaged directly.
+      1. [1689](#ix2-confessional-gap--none-currently-in-the-repo) ch. 23 (Of Lawful Oaths and Vows) — this is
+         _directly_ on the oath thesis and is currently unused.
          This is the single most important missing citation in the whole project.
-      1. WCF 23 + WCF 22 for comparison; note where the 1689 deliberately diverges from Westminster on the
+      1. [WCF](#ix2-confessional-gap--none-currently-in-the-repo) 23 +
+         [WCF](#ix2-confessional-gap--none-currently-in-the-repo) 22 for comparison; note where the 1689 deliberately
+         diverges from [Westminster](#ix2-confessional-gap--none-currently-in-the-repo) on the
          magistrate's power _circa sacra_.
-   1. **[TENSION]** The 1689 revision of WCF 23 _removes_ the magistrate's authority over the church. A high
+   1. **[TENSION]** The 1689 revision of [WCF](#ix2-confessional-gap--none-currently-in-the-repo) 23 _removes_ the
+      magistrate's authority over the church. A high
       monarchist argument that leans on Eusebius, Byzantium, and James I is leaning on exactly the
       caesaropapism the 1689 pruned away. This must be addressed head-on, not avoided.
 1. **Genre and audience.** Decide early; it changes everything.
@@ -88,7 +93,7 @@ Inline citations here are shorthand only (author + short title).
 
 ---
 
-## I. The Anthropological Case — Monarchy Is the Default
+## I. The Anthropological Case — Monarchy Is the Default {#i-the-anthropological-case--monarchy-is-the-default}
 
 Purpose of this part: establish the _explanandum_. Before arguing monarchy is right, show that it is what
 humans overwhelmingly do. This is the weakest kind of argument (is/ought) but the best rhetorical opener.
@@ -96,15 +101,18 @@ humans overwhelmingly do. This is the weakest kind of argument (is/ought) but th
 1. **The empirical observation.**
    1. **[CLAIM]** Kingship emerges independently across civilizations with no plausible diffusion path:
       Mesopotamia, Egypt, Shang China, Vedic India, Mesoamerica, sub-Saharan Africa, Polynesia, pre-Roman Europe.
-      1. **[EV]** Frankfort, _Kingship and the Gods_ — divine kingship in Egypt and Mesopotamia as the _assumed_
+      1. **[EV]** Frankfort, [_Kingship and the Gods_](#ix7-secondary-scholarship-and-modern) — divine kingship in Egypt
+         and Mesopotamia as the _assumed_
          cosmological order, not an innovation.
-      1. **[EV]** Fukuyama, _The Origins of Political Order_ — a non-monarchist tracing monarchy as the default
+      1. **[EV]** Fukuyama, [_The Origins of Political Order_](#ix7-secondary-scholarship-and-modern) — a non-monarchist
+         tracing monarchy as the default
          pre-modern institutional form. Hostile witness; therefore valuable.
       1. **[GAP]** Need at least one comparative anthropology source outside the Near East / Europe axis, or the
          "universal" claim is really "Eurasian."
    1. **[CLAIM]** Democracy is historically anomalous — geographically narrow, chronologically brief, and unstable
       where transplanted.
-      1. **[EV]** Fukuyama, _Political Order and Political Decay_ — institutional decay in mature democracies.
+      1. **[EV]** Fukuyama, [_Political Order and Political Decay_](#ix7-secondary-scholarship-and-modern) —
+         institutional decay in mature democracies.
       1. **[Q]** Is the Athens/Rome-republic counterexample fatal? They are early, and they are the tradition's
          own self-image. Handle rather than ignore.
 1. **The move from frequency to nature.** This is the hinge and it is where the argument is most vulnerable.
@@ -121,13 +129,18 @@ humans overwhelmingly do. This is the weakest kind of argument (is/ought) but th
          into tyranny — same pattern as marriage, fatherhood, and worship. Universality of the corrupted form is
          evidence of the underlying created form.
 1. **The household as the seed of the polity.**
-   1. **[EV]** Aristotle, _Politics_ I — the polis grows from household → village → city; the political is
+   1. **[EV]** Aristotle, [_Politics_](http://classics.mit.edu/Aristotle/politics.html) I — the polis grows from
+      household → village → city; the political is
       continuous with the domestic.
-   1. **[EV]** Filmer, _Patriarcha_ — the strong form: royal authority _is_ Adam's paternal authority, transmitted.
-   1. **[EV]** Rutherford, _Lex Rex_ Q.2 — direct denial. Paternal power is not political in kind; if it is natural
+   1. **[EV]** Filmer,
+      [_Patriarcha_](https://oll.libertyfund.org/titles/filmer-patriarcha-or-the-natural-power-of-kings) — the strong
+      form: royal authority _is_ Adam's paternal authority, transmitted.
+   1. **[EV]** Rutherford, [_Lex Rex_](#ix5-early-modern) Q.2 — direct denial. Paternal power is not political in kind;
+      if it is natural
       at all it is a "secondary law of nature."
       1. See research/lex-rex/lex-rex.md Question 2 notes.
-   1. **[EV]** Aquinas, _De Regno_ I.1 — sidesteps the kind-of-authority question and argues from man's social
+   1. **[EV]** Aquinas, [_De Regno_](https://isidore.co/aquinas/english/DeRegno.htm) I.1 — sidesteps the
+      kind-of-authority question and argues from man's social
       nature to the necessity of _some_ governing principle. Eccl. 4:9, "where there is no governor, the people
       shall fall."
    1. **[TENSION]** **Filmer vs. Rutherford is the fault line of the whole project.** A 1689 Baptist inherits
@@ -140,65 +153,80 @@ humans overwhelmingly do. This is the weakest kind of argument (is/ought) but th
          than usually assumed.
       1. **[Q]** My instinct is option 3 then option 1. James should decide; this determines the paper's posture
          toward the Reformed tradition.
-   1. **[GAP]** Locke's _First Treatise_ is the canonical demolition of Filmer and is not in the reference set.
+   1. **[GAP]** Locke's [_First Treatise_](#ix5-early-modern) is the canonical demolition of Filmer and is not in the
+      reference set.
       If Filmer is used at all, Locke must be answered.
 
 ---
 
-## II. The Case From Nature and Reason
+## II. The Case From Nature and Reason {#ii-the-case-from-nature-and-reason}
 
 Purpose: show that monarchy is rationally defensible on its own terms, so that the scriptural case is not
 carrying the entire load. Corroboration, not foundation.
 
 1. **Aristotle — unity of rule as the terminus of virtue.**
-   1. **[EV]** _Politics_ III.13 — _pambasileia_: where one man's virtue is incommensurable with the rest, he is
+   1. **[EV]** [_Politics_](http://classics.mit.edu/Aristotle/politics.html) III.13 — _pambasileia_: where one man's
+      virtue is incommensurable with the rest, he is
       "a god among men" and cannot justly be reckoned as merely one among equals.
-   1. **[EV]** _Politics_ III.12 — the flute analogy. The superior instrument goes to the superior artist, not to
+   1. **[EV]** [_Politics_](http://classics.mit.edu/Aristotle/politics.html) III.12 — the flute analogy. The superior
+      instrument goes to the superior artist, not to
       the better-born. Merit is measured by _fitness for the function_, not by birth or by counting heads.
       1. **[CLAIM]** This is quietly devastating to democracy: rule is a _craft_ with a standard of excellence,
          and craft excellence is not determined by vote.
       1. **[TENSION]** It is also quietly devastating to _hereditary_ monarchy, which distributes the flute by
          birth. Aristotle's argument supports _aristocracy of virtue_, not dynasty. This must be answered, not
          glossed. See II.6.
-   1. **[EV]** _Politics_ III — the five types of kingship; the taxonomy matters because the paper should say
+   1. **[EV]** [_Politics_](http://classics.mit.edu/Aristotle/politics.html) III — the five types of kingship; the
+      taxonomy matters because the paper should say
       _which_ it defends.
    1. **[Q]** Does Aristotle actually endorse _pambasileia_ as practical policy, or is it a limiting case used to
       test the theory of distributive justice? The scholarly consensus leans toward the latter. Overreading here
       is a credibility risk.
 1. **Plato — rule by knowledge.**
-   1. **[EV]** _Statesman_ — the true king rules by _episteme_, not by law; law is a second-best approximation for
+   1. **[EV]** [_Statesman_](http://classics.mit.edu/Plato/stateman.html) — the true king rules by _episteme_, not by
+      law; law is a second-best approximation for
       when the true statesman is unavailable.
-   1. **[EV]** _Republic_ — philosopher-king; the ordered soul as the template for the ordered city.
+   1. **[EV]** [_Republic_](http://classics.mit.edu/Plato/republic.html) — philosopher-king; the ordered soul as the
+      template for the ordered city.
    1. **[CLAIM]** The soul/city isomorphism is the pagan anticipation of the Christian cosmological argument
       (one God, one soul, one reason, one king). Useful as a bridge to Aquinas.
    1. **[Q]** Plato's rule-above-law is _precisely_ what the paper needs to reject in Part V. Use with care or
       the paper hands ammunition to the tyranny objection.
 1. **Xenophon and Cicero — the character of the ruler.**
-   1. **[EV]** Xenophon, _Cyropaedia_ — the most influential ancient text on ideal kingship; voluntary obedience
+   1. **[EV]** Xenophon, [_Cyropaedia_](http://www.gutenberg.org/ebooks/2085) — the most influential ancient text on
+      ideal kingship; voluntary obedience
       as the mark of true kingship. Subjects _love_ the good king.
       1. **[CLAIM]** "Voluntary obedience" is an early anticipation of the freely-sworn oath in Part IV.
-   1. **[EV]** Xenophon, _Hiero_ — the tyrant is _miserable_; tyranny is bad for the tyrant. Useful because it
+   1. **[EV]** Xenophon, [_Hiero_](#ix3-classical) — the tyrant is _miserable_; tyranny is bad for the tyrant. Useful
+      because it
       grounds the king/tyrant distinction in something other than the ruled's preferences.
-   1. **[EV]** Cicero, _De Re Publica_ — the _rector_, guardian of the commonwealth; monarchy can be the best form.
-   1. **[EV]** Cicero, _De Legibus_ — natural law as the ground of magisterial authority; magistrates and oaths.
-   1. **[EV]** Seneca, _De Clementia_ — the emperor as the _soul_ of the state; clemency as the defining royal
+   1. **[EV]** Cicero, [_De Re Publica_](http://oll.libertyfund.org/titles/cicero-de-re-publica) — the _rector_,
+      guardian of the commonwealth; monarchy can be the best form.
+   1. **[EV]** Cicero, [_De Legibus_](#ix3-classical) — natural law as the ground of magisterial authority; magistrates
+      and oaths.
+   1. **[EV]** Seneca, [_De Clementia_](http://www.gutenberg.org/ebooks/64424) — the emperor as the _soul_ of the state;
+      clemency as the defining royal
       virtue. Written for Nero, which is either poignant or damning.
 1. **Aquinas — the cosmological and teleological argument.**
-   1. **[EV]** _De Regno_ I.1 — man is naturally social; society requires a governing principle; without a governor
+   1. **[EV]** [_De Regno_](https://isidore.co/aquinas/english/DeRegno.htm) I.1 — man is naturally social; society
+      requires a governing principle; without a governor
       the people fall (Eccl. 4:9). "Each man would be a king unto himself, under God, the highest King."
-   1. **[EV]** _De Regno_ I.2–3 — the argument from unity: what is one in itself produces unity better than what is
+   1. **[EV]** [_De Regno_](https://isidore.co/aquinas/english/DeRegno.htm) I.2–3 — the argument from unity: what is one
+      in itself produces unity better than what is
       many. The end of government is the _unity of peace_; the cause most apt to produce unity is itself one.
    1. Analogical chain to develop: one God over creation → one soul over body → reason over the passions →
       one heart, one leader bee, one helmsman → one king over the polity.
       1. **[Q]** How much weight can analogy bear? Reformed readers are rightly suspicious of arguing from
          cosmological analogy to political prescription — it is the same move that grounded the divine right of
          _bishops_. Flag the method's limits.
-   1. **[EV]** _De Regno_ I.6–7 — monarchy is best but corrupts worst; therefore the king must be chosen so as to
+   1. **[EV]** [_De Regno_](https://isidore.co/aquinas/english/DeRegno.htm) I.6–7 — monarchy is best but corrupts worst;
+      therefore the king must be chosen so as to
       make tyranny improbable, and the constitution must remove the _opportunity_ to tyrannize. Cites
       1 Sam 13:14, "the Lord sought a man according to his own heart."
       1. **[CLAIM]** Aquinas is _already_ a limited-monarchy theorist. The Filmer/Bossuet absolutism is a later
          and separable development. The paper can have Aquinas without buying absolutism.
-   1. **[EV]** _Summa Theologiae_ I-II q.105 a.1 — Israel's constitution as a _mixed_ regime: monarchy in Moses,
+   1. **[EV]** [_Summa Theologiae_](#ix4-patristic-and-medieval) I-II q.105 a.1 — Israel's constitution as a _mixed_
+      regime: monarchy in Moses,
       aristocracy in the seventy elders, democracy in that they were chosen from and by the people.
       1. **[TENSION]** **This is a serious problem for the strong thesis.** Aquinas reads the divinely-given
          Israelite polity as _mixed_, not as pure monarchy. If the best political theologian in the tradition
@@ -208,18 +236,24 @@ carrying the entire load. Corroboration, not foundation.
          thesis from 0.1.2.
       1. **[Q]** This may be the single strongest internal objection in the whole project. Do not bury it.
 1. **The medieval synthesis.**
-   1. **[EV]** Isidore, _Etymologiae_ — _rex a recte regendo_, "king from ruling rightly." The title is
+   1. **[EV]** Isidore, [_Etymologiae_](#ix4-patristic-and-medieval) — _rex a recte regendo_, "king from ruling
+      rightly." The title is
       _earned by function_; a king who rules unrighteously forfeits the name.
       1. **[CLAIM]** Etymological, but it encodes the whole normative theory: kingship is a _moral office_, not a
          status. Excellent one-line epigraph material.
-   1. **[EV]** John of Salisbury, _Policraticus_ — the most systematic 12th c. treatment; the body-politic metaphor
+   1. **[EV]** John of Salisbury, [_Policraticus_](#ix4-patristic-and-medieval) — the most systematic 12th c. treatment;
+      the body-politic metaphor
       (prince as head, judges as eyes, soldiers as hands, peasants as feet); the prince as image of God.
-      1. Note: _Policraticus_ also contains the most notorious medieval defense of tyrannicide. Both are in the
+      1. Note: [_Policraticus_](#ix4-patristic-and-medieval) also contains the most notorious medieval defense of
+         tyrannicide. Both are in the
          same book. Handle in Part V.
-   1. **[EV]** Dante, _De Monarchia_ — universal monarchy; the sun/moon analogy; one emperor under God as the
+   1. **[EV]** Dante, [_De Monarchia_](https://oll.libertyfund.org/titles/reinhardt-de-monarchia) — universal monarchy;
+      the sun/moon analogy; one emperor under God as the
       condition of universal peace and of the full actualization of the human intellect.
-   1. **[EV]** Engelbert of Admont, _De Ortu et Fine Romani Imperii_ — natural order argument for imperial monarchy.
-   1. **[EV]** Christine de Pizan, _Book of the Body Politic_ — oath-keeping as the central princely virtue.
+   1. **[EV]** Engelbert of Admont, [_De Ortu et Fine Romani Imperii_](#ix4-patristic-and-medieval) — natural order
+      argument for imperial monarchy.
+   1. **[EV]** Christine de Pizan, [_Book of the Body Politic_](#ix4-patristic-and-medieval) — oath-keeping as the
+      central princely virtue.
       Useful because it comes from outside the usual scholastic voice.
 1. **The hereditary problem.** **[GAP]** The current research does not address this and it is the obvious question.
    1. If monarchy is justified by the _virtue_ of the ruler (Aristotle, Aquinas), heredity is arbitrary and
@@ -231,7 +265,9 @@ carrying the entire load. Corroboration, not foundation.
       1. **Time preference:** **[EV]** Hoppe — the hereditary monarch owns the capital stock and so has a low
          discount rate; the elected official rents it and extracts. Note Hoppe is anarcho-capitalist and does not
          actually want a king; hostile witness, which strengthens it.
-      1. **Formation:** the heir is raised to rule from birth. **[EV]** James I, _Basilikon Doron_, is literally
+      1. **Formation:** the heir is raised to rule from birth. **[EV]** James I, [_Basilikon
+         Doron_](https://archive.org/details/bim_early-english-books-1475-1640_the-true-lawe-of-free-mo_james-i-king_1603),
+         is literally
          this document — a king's manual of formation written for his son.
       1. **Providence:** God gives the king; Dan 2:21, 4:17. This is the theological answer and it is the one
          that actually fits the confession — but it proves too much unless carefully bounded, since it equally
@@ -240,22 +276,31 @@ carrying the entire load. Corroboration, not foundation.
       for elective monarchy too (Saul, David, the Holy Roman Empire, the Byzantine acclamation). Consider
       defending _personal undivided sovereignty_ and treating heredity as a prudential mechanism.
 1. **Modern secular corroboration — use as hostile witnesses only.**
-   1. **[EV]** Hobbes, _Leviathan_ — undivided sovereignty from the war of all against all; the covenant that
+   1. **[EV]** Hobbes, [_Leviathan_](https://www.gutenberg.org/ebooks/3207) — undivided sovereignty from the war of all
+      against all; the covenant that
       constitutes the sovereign. Not a traditional monarchist; his sovereign may be an assembly.
       1. **[CLAIM]** Hobbes's covenant is horizontal (subjects with each other) and God is not a party. This is
          precisely the _contract_ the paper must distinguish from the _oath_. Hobbes is the perfect foil for
          Part IV.
-   1. **[EV]** Bodin, _Six Books of the Commonwealth_ — sovereignty as indivisible and perpetual; monarchy as its
+   1. **[EV]** Bodin, [_Six Books of the Commonwealth_](https://yorku.ca/comninel/courses/3020pdf/six_books.pdf) —
+      sovereignty as indivisible and perpetual; monarchy as its
       natural home. Bodin also insists the sovereign is bound by divine and natural law. Useful precisely because
       he is _not_ an absolutist in the caricatured sense.
-   1. **[EV]** Yarvin, "A Formalist Manifesto" — formalism: align formal power with actual power; the primary
+   1. **[EV]** Yarvin, "[A Formalist
+      Manifesto](https://www.unqualified-reservations.org/2007/04/formalist-manifesto-originally-posted/)" — formalism:
+      align formal power with actual power; the primary
       political evil is violence; divided sovereignty conceals rather than limits power.
-   1. **[EV]** Yarvin, "Patchwork" — sovereign micro-states; "all exit, no voice"; the Bourbon-legitimacy passage
+   1. **[EV]** Yarvin, "[Patchwork](https://www.unqualified-reservations.org/2008/11/patchwork-positive-vision-part-1/)"
+      — sovereign micro-states; "all exit, no voice"; the Bourbon-legitimacy passage
       on arbitrary rules as Schelling points of nonviolent agreement.
-   1. **[EV]** Yarvin, _Gray Mirror_ — the monarchy/fascism distinction (calm autocratic neutrality vs. mass
+   1. **[EV]** Yarvin, [_Gray Mirror_](https://graymirror.substack.com) — the monarchy/fascism distinction (calm
+      autocratic neutrality vs. mass
       populist mobilization).
-   1. **[EV]** Hoppe, _Democracy: The God That Failed_ — time-preference argument.
-   1. **[EV]** Kuehnelt-Leddihn, _Liberty or Equality_ — Catholic monarchist; democracy as inherently leveling.
+   1. **[EV]** Hoppe, [_Democracy: The God That
+      Failed_](https://dn721606.ca.archive.org/0/items/911-material/Pdfs/Democracy%20The%20God%20That%20Failed.pdf) —
+      time-preference argument.
+   1. **[EV]** Kuehnelt-Leddihn, [_Liberty or Equality_](#ix7-secondary-scholarship-and-modern) — Catholic monarchist;
+      democracy as inherently leveling.
    1. **[CLAIM]** **The Yarvin critique — this needs its own subsection, it is the sharpest thing in the paper.**
       1. Yarvin's accountability mechanism is _exit_. Exit is the mechanism of a _consumer_, not a subject.
       1. Exit generates zero ongoing obligation, invokes no witness, binds no conscience, and evaporates the
@@ -273,7 +318,7 @@ carrying the entire load. Corroboration, not foundation.
 
 ---
 
-## III. The Scriptural Case
+## III. The Scriptural Case {#iii-the-scriptural-case}
 
 Purpose: the load-bearing part. Everything else is corroboration.
 
@@ -333,7 +378,8 @@ Purpose: the load-bearing part. Everything else is corroboration.
    1. Samuel's warning (vv. 11–18): _mishpat ha-melek_, the "manner/custom of the king."
       1. **[CLAIM]** This is descriptive of the ANE king, not prescriptive of the Israelite king. It maps onto the
          Canaanite/Egyptian pattern, which is exactly what Deut 17 was legislated against.
-      1. **[GAP]** Need Ishida, _Kings and Kinship in Early Israel_, and ANE comparative material to substantiate
+      1. **[GAP]** Need Ishida, [_Kings and Kinship in Early Israel_](#ix7-secondary-scholarship-and-modern), and ANE
+         comparative material to substantiate
          that "the manner of the king" is a recognizable ANE type.
    1. God's response: "Obey their voice and make them a king" (v. 22). God does not merely tolerate; He commands
       Samuel to install.
@@ -435,7 +481,7 @@ Purpose: the load-bearing part. Everything else is corroboration.
 
 ---
 
-## IV. The Oath as Covenant
+## IV. The Oath as Covenant {#iv-the-oath-as-covenant}
 
 The intellectual heart of the project. If only one part gets fully drafted, this is it.
 
@@ -456,17 +502,20 @@ The intellectual heart of the project. If only one part gets fully drafted, this
    1. **Termination.** Contract: on performance, breach, or expiry. Oath: not at will; it binds "to his own hurt"
       (Ps 15:4).
    1. **Relation created.** Contract: exchange. Covenant: _status_ — a new standing that persists.
-   1. **[EV]** 1689 LBCF ch. 23, Of Lawful Oaths and Vows — "the name of God only is that by which men ought to
+   1. **[EV]** 1689 [LBCF](#ix2-confessional-gap--none-currently-in-the-repo) ch. 23, Of Lawful Oaths and Vows — "the
+      name of God only is that by which men ought to
       swear"; an oath binds even when it is to one's own disadvantage. **[GAP]** This chapter is _made_ for this
       argument and is currently uncited anywhere in the repo.
-   1. **[EV]** Grotius, _De Jure Belli ac Pacis_ — the oath to a sovereign as a natural-law obligation; breach is
+   1. **[EV]** Grotius, [_De Jure Belli ac Pacis_](#ix5-early-modern) — the oath to a sovereign as a natural-law
+      obligation; breach is
       perjury before God, not merely breach of contract.
-   1. **[EV]** Elazar, _Covenant and Polity in Biblical Israel_ — the covenantal-political tradition and its
+   1. **[EV]** Elazar, [_Covenant and Polity in Biblical Israel_](#ix7-secondary-scholarship-and-modern) — the
+      covenantal-political tradition and its
       difference from contractarian theory.
    1. **[CLAIM]** The modern state is contractual all the way down: taxation is a transaction, voting is a
       preference-registration, citizenship is a bundle of entitlements. Nothing in it invokes God, binds
       conscience, or covers the person. It cannot generate the obligation it constantly demands.
-1. **Fulbert of Chartres (1020) as the pivot text.**
+1. **[Fulbert of Chartres](https://sourcebooks.web.fordham.edu/source/fulbert1.asp) (1020) as the pivot text.**
    1. Occasion: Duke William V of Aquitaine asks what a vassal owes his lord. The answer is a compact treatise.
    1. The six negatives — the vassal must be _incolumem, tutum, honestum, utile, facile, possibile_: he must not
       harm the lord's body, betray his secrets, endanger his defenses, injure his justice, damage his
@@ -483,19 +532,26 @@ The intellectual heart of the project. If only one part gets fully drafted, this
    1. The threefold structure to extract and then use everywhere: the oath is **mutual**, **before God**, and
       **comprehensive**.
    1. **[Q]** Fulbert is describing vassalage, not kingship. Is the extension to the king/subject relation
-      legitimate, or is it an equivocation? Defensible via the Anglo-Saxon fealty oath and the coronation oath,
+      legitimate, or is it an equivocation? Defensible via the [Anglo-Saxon fealty
+      oath](https://sourcebooks.fordham.edu/source/feud-oath1.asp) and the coronation oath,
       which are king-facing — but the move must be argued, not assumed.
 1. **The oath formulas themselves.**
-   1. **[EV]** Anglo-Saxon oath of fealty: "I will be faithful and loyal to N. and love all that he loves and shun
+   1. **[EV]** [Anglo-Saxon oath of fealty](https://sourcebooks.fordham.edu/source/feud-oath1.asp): "I will be faithful
+      and loyal to N. and love all that he loves and shun
       all that he shuns."
       1. **[CLAIM]** _Love_ and _shun_ — the oath binds the **affections**, not merely the behavior. No modern
          political obligation reaches that far. Compare the _shema_: love the LORD with all your heart. The
          grammar of political fealty is borrowed from the grammar of covenant love.
       1. Predates Norman feudalism — the tradition has Germanic/Anglo-Saxon roots, not merely Frankish-legal ones.
-   1. **[EV]** Fordham Medieval Sourcebook feudal oath compilation — multiple homage and fealty formulas, 9th–13th c.
-   1. **[EV]** Assizes of Jerusalem (1197) — homage and fealty in the crusader states; obligations of king and
+   1. **[EV]** [Fordham Medieval Sourcebook feudal oath
+      compilation](https://sourcebooks.fordham.edu/source/feud-oath1.asp) — multiple homage and fealty formulas,
+      9th–13th c.
+   1. **[EV]** [Assizes of Jerusalem](#ix6-oaths-coronation-and-fealty) (1197) — homage and fealty in the crusader
+      states; obligations of king and
       vassal; consequences of breach. Useful because it is a _legal code_, not a moral exhortation.
-   1. **[EV]** "Fealty — Love, Loyalty and Choice in Feudalism" — the vassal _chose_ his lord; homage was offered,
+   1. **[EV]** "[Fealty — Love, Loyalty and Choice in
+      Feudalism](https://historymedieval.com/fealty-love-loyalty-and-choice-in-feudalism)" — the vassal _chose_ his
+      lord; homage was offered,
       not extracted.
       1. **[CLAIM]** The oath binds _because_ it was freely entered. Voluntariness is not the opposite of binding
          obligation — it is its precondition. This dissolves the standard modern objection that hierarchy is
@@ -504,24 +560,33 @@ The intellectual heart of the project. If only one part gets fully drafted, this
          **[GAP]** Need a social-historical source on how freely fealty was in fact chosen, or the claim is
          idealized.
 1. **The coronation oath — the king is bound too.**
-   1. **[EV]** English coronation oath, Leofric Missal form (King Edgar, 973): three promises — that the Church of
+   1. **[EV]** [English coronation
+      oath](https://web.archive.org/web/20240911012220/https://researchbriefings.files.parliament.uk/documents/SN00435/SN00435.pdf),
+      Leofric Missal form (King Edgar, 973): three promises — that the Church of
       God and all Christian people keep true peace; that he forbid rapacity and all iniquities to all degrees;
       that he enjoin justice and mercy in all judgments.
-   1. **[EV]** The 1689 statutory form (Coronation Oath Act) — note the date. **[CLAIM]** The same year as the LBCF,
+   1. **[EV]** The 1689 statutory form ([Coronation Oath
+      Act](https://web.archive.org/web/20240911012220/https://researchbriefings.files.parliament.uk/documents/SN00435/SN00435.pdf))
+      — note the date. **[CLAIM]** The same year as the [LBCF](#ix2-confessional-gap--none-currently-in-the-repo),
       and the product of a _deposition_. Worth remarking: 1689 is simultaneously the year of James's confession
       and the year England removed a king for oath-breach. That is not an accident of the paper's framing; it is
       the argument in historical form.
    1. Order of the rite: recognition/acclamation → oath → anointing → investiture → enthronement → homage.
       1. **[CLAIM]** The people acclaim _before_ the anointing but they do not confer. They recognize what God does.
          The anointing is the constitutive act and it is sacramental in structure.
-   1. **[EV]** Byzantine coronation — acclamation by army and senate, _axios_ ("he is worthy"); coronation by the
+   1. **[EV]** [Byzantine coronation](https://grokipedia.com/page/Coronation_of_the_Byzantine_emperor) — acclamation by
+      army and senate, _axios_ ("he is worthy"); coronation by the
       Patriarch; the emperor as _christos_ in a derivative sense.
-      1. **[TENSION]** Byzantine caesaropapism is exactly what a 1689 Baptist rejects (LBCF 24 vs. WCF 23). Use the
+      1. **[TENSION]** Byzantine caesaropapism is exactly what a 1689 Baptist rejects
+         ([LBCF](#ix2-confessional-gap--none-currently-in-the-repo) 24 vs.
+         [WCF](#ix2-confessional-gap--none-currently-in-the-repo) 23). Use the
          _oath structure_ while explicitly repudiating the _church-state fusion_. Do this in the text, not in a
          footnote.
-   1. **[EV]** Visigothic royal oaths, Toledo Councils, 7th c. — among the earliest formalized Western royal oath
+   1. **[EV]** [Visigothic royal oaths, Toledo Councils](#ix6-oaths-coronation-and-fealty), 7th c. — among the earliest
+      formalized Western royal oath
       liturgies; bishops as witnesses.
-   1. **[EV]** Magna Carta (1215) — even the paradigm document of limitation on royal power is _oath-based_, not
+   1. **[EV]** [Magna Carta](#ix6-oaths-coronation-and-fealty) (1215) — even the paradigm document of limitation on
+      royal power is _oath-based_, not
       election-based. **[CLAIM]** Constitutional limitation historically arrives _through_ the oath structure, not
       as an alternative to it.
 1. **The theological grammar of oaths.**
@@ -539,10 +604,13 @@ The intellectual heart of the project. If only one part gets fully drafted, this
          its breach generations later. Nothing in contract law behaves like this.
    1. Judg 11 — Jephthah's vow. The dark side; oaths bind, and rash oaths destroy.
    1. Matt 5:33–37 and Jas 5:12 — "let your yes be yes." **[Q]** Does Christ abolish oaths? The Reformed answer
-      (LBCF 23, WCF 22) is no: He forbids _casual and evasive_ swearing, while lawful oaths before the magistrate
+      ([LBCF](#ix2-confessional-gap--none-currently-in-the-repo) 23,
+      [WCF](#ix2-confessional-gap--none-currently-in-the-repo) 22) is no: He forbids _casual and evasive_ swearing,
+      while lawful oaths before the magistrate
       remain. The Anabaptist reading is the opposite. **[CLAIM]** The paper must handle this or a Baptist reader
       will stop here. Note the irony that the _Baptist_ confession is on the pro-oath side.
-   1. **[EV]** Calvin, _Institutes_ IV.20 — magistrates as God's deputies; the binding force of the oath of loyalty;
+   1. **[EV]** Calvin, [_Institutes_](#ix5-early-modern) IV.20 — magistrates as God's deputies; the binding force of the
+      oath of loyalty;
       the lesser magistrate.
 1. **Why democratic consent cannot replicate this.**
    1. A vote is anonymous, discrete, revocable, and secret. **[CLAIM]** A _secret ballot_ is the precise structural
@@ -567,17 +635,19 @@ The intellectual heart of the project. If only one part gets fully drafted, this
       everything. **[CLAIM]** This is the exact moment the Western tradition traded covenant for contract, and it
       is datable.
 1. **The king's two bodies.**
-   1. **[EV]** Kantorowicz, _The King's Two Bodies_ — the natural body and the body politic; the office persists
+   1. **[EV]** Kantorowicz, [_The King's Two Bodies_](#ix7-secondary-scholarship-and-modern) — the natural body and the
+      body politic; the office persists
       through the person's death and failure.
    1. **[CLAIM]** The oath is sworn to the _office_, which is why it survives a bad king. This answers "what if the
       king is wicked?" without either dissolving the obligation or endorsing tyranny.
    1. Connect to Rom 13's "the authority" as distinct from Nero the man.
-   1. **[GAP]** Berman, _Law and Revolution_ — the Gregorian reform's effect on oath and fealty structures.
+   1. **[GAP]** Berman, [_Law and Revolution_](#ix7-secondary-scholarship-and-modern) — the Gregorian reform's effect on
+      oath and fealty structures.
       Currently in the CSV, unused in any draft.
 
 ---
 
-## V. Tyranny, Limits, and Resistance
+## V. Tyranny, Limits, and Resistance {#v-tyranny-limits-and-resistance}
 
 The part that keeps the paper from being read as an apology for despotism. It should be _long_.
 
@@ -601,7 +671,7 @@ The part that keeps the paper from being read as an apology for despotism. It sh
    1. The coronation oath — the king is bound by what he swore.
    1. **[CLAIM]** Cumulatively: biblical monarchy is _constitutional_ monarchy, and it was so a thousand years
       before the word existed. The paper's real target is not democracy but _unaccountable_ power in any form.
-1. **Rutherford and _Lex Rex_.**
+1. **Rutherford and [_Lex Rex_](#ix5-early-modern).**
    1. Occasion: 1644, against royalist absolutism; the king is under the law, _lex_ is _rex_.
    1. Q.1 — natural law is divine law; natural revelation is admissible in determining valid government.
       (See research/lex-rex/lex-rex.md.)
@@ -619,16 +689,21 @@ The part that keeps the paper from being read as an apology for despotism. It sh
       1. Recommended: absorb. Rutherford's target is _absolutism_, not monarchy. He explicitly grants monarchy's
          lawfulness. The paper can defend covenantal monarchy while conceding Rutherford's case against
          _arbitrary_ monarchy — indeed, using it.
-   1. **[GAP]** Only four pages of _Lex Rex_ have been read (Questions 1–3 of 44). The full work needs a proper
+   1. **[GAP]** Only four pages of [_Lex Rex_](#ix5-early-modern) have been read (Questions 1–3 of 44). The full work
+      needs a proper
       pass. This is the single largest research task remaining.
 1. **The resistance question.**
    1. Acts 5:29 — the floor: obedience is limited by God's command. Not optional, not disputed.
-   1. The lesser-magistrate doctrine: **[EV]** Calvin, _Institutes_ IV.20.31 — private men may not resist, but
+   1. The lesser-magistrate doctrine: **[EV]** Calvin, [_Institutes_](#ix5-early-modern) IV.20.31 — private men may not
+      resist, but
       constituted inferior magistrates may.
-   1. **[GAP]** The Magdeburg Confession (1550) is the _locus classicus_ of lesser-magistrate resistance and is
-      entirely absent from the repo. So is Beza's _Du droit des magistrats_ and the _Vindiciae contra tyrannos_.
+   1. **[GAP]** The [Magdeburg Confession](#ix5-early-modern) (1550) is the _locus classicus_ of lesser-magistrate
+      resistance and is
+      entirely absent from the repo. So is Beza's [_Du droit des magistrats_](#ix5-early-modern) and the [_Vindiciae
+      contra tyrannos_](#ix5-early-modern).
       For a Reformed treatment of monarchy this is a conspicuous hole.
-   1. **[EV]** Barclay, _De Regno et Regali Potestate_ — the royalist reply to the monarchomachs; coined the term.
+   1. **[EV]** Barclay, [_De Regno et Regali Potestate_](#ix5-early-modern) — the royalist reply to the monarchomachs;
+      coined the term.
       Useful to represent the other side at strength.
    1. John of Salisbury on tyrannicide — the medieval extreme; note it, do not endorse it.
    1. **[CLAIM]** The oath framework gives the _right_ answer here: an oath is not dissolved by the other party's
@@ -639,9 +714,11 @@ The part that keeps the paper from being read as an apology for despotism. It sh
       Fulbert says the lord is guilty of bad faith; he does not say the vassal is thereby freed. Work out
       whether the tradition draws that inference, and where.
 1. **The 1689 and the civil magistrate.**
-   1. LBCF 24 — the magistrate ordained by God for His own glory and the public good; lawful for Christians to
+   1. [LBCF](#ix2-confessional-gap--none-currently-in-the-repo) 24 — the magistrate ordained by God for His own glory
+      and the public good; lawful for Christians to
       serve; subjection due.
-   1. What the 1689 _removed_ from WCF 23: the magistrate's authority to call synods, suppress heresy, and order
+   1. What the 1689 _removed_ from [WCF](#ix2-confessional-gap--none-currently-in-the-repo) 23: the magistrate's
+      authority to call synods, suppress heresy, and order
       the church. **[CLAIM]** The Baptist confession is deliberately _less_ Erastian.
    1. **[TENSION]** Therefore: the paper may defend a strong monarchy in the civil sphere while denying the
       Constantinian/Byzantine fusion that most historical monarchist sources assume. This is the paper's most
@@ -656,7 +733,7 @@ The part that keeps the paper from being read as an apology for despotism. It sh
 
 ---
 
-## VI. The Christological and Eschatological Frame
+## VI. The Christological and Eschatological Frame {#vi-the-christological-and-eschatological-frame}
 
 Purpose: this is what makes it _theology_ rather than political science with proof texts. It should also be
 where the paper is at its most confident, because here the Reformed tradition is unanimously on its side.
@@ -692,7 +769,8 @@ where the paper is at its most confident, because here the Reformed tradition is
          the exact inversion of 1 Sam 8:7. Israel's story ends where it began: rejecting God as king. That
          inclusio should be exploited; it is the most powerful single point available to this paper.
    1. Ascension and session — seated at the right hand, all authority given (Matt 28:18); Ps 110 fulfilled.
-   1. **[EV]** 1689 LBCF ch. 8 on Christ the Mediator in His threefold office; ch. 26 on Christ as head of the
+   1. **[EV]** 1689 [LBCF](#ix2-confessional-gap--none-currently-in-the-repo) ch. 8 on Christ the Mediator in His
+      threefold office; ch. 26 on Christ as head of the
       church. **[GAP]** Uncited.
 1. **The eschatological consummation.**
    1. Rev 17:14; 19:16 — King of kings and Lord of lords; the kings of the earth make war and are defeated.
@@ -719,7 +797,7 @@ where the paper is at its most confident, because here the Reformed tradition is
 
 ---
 
-## VII. Objections
+## VII. Objections {#vii-objections}
 
 Each objection stated at maximum strength _before_ any reply. Any objection that cannot be stated in a form
 its proponents would endorse has not been understood.
@@ -757,7 +835,8 @@ its proponents would endorse has not been understood.
    II.7.7. Name the disagreement explicitly and early.
 1. **"Aquinas says Israel's polity was mixed, not monarchical."** — Reply: II.4.6. This is the strongest internal
    objection. Answer or concede; do not omit.
-1. **"Christ forbids oaths (Matt 5:34)."** — Reply: IV.6.7 and LBCF 23. Note that the _Baptist_ confession is
+1. **"Christ forbids oaths (Matt 5:34)."** — Reply: IV.6.7 and
+   [LBCF](#ix2-confessional-gap--none-currently-in-the-repo) 23. Note that the _Baptist_ confession is
    firmly on the pro-oath side.
 1. **"Restoration is impossible, so the argument is academic."** — Reply: the paper is normative, not a program.
    **[CLAIM]** Even if no king is coming, the _diagnosis_ stands: a polity that binds no one by oath and locates
@@ -765,7 +844,7 @@ its proponents would endorse has not been understood.
 
 ---
 
-## VIII. Application and Open Problems
+## VIII. Application and Open Problems {#viii-application-and-open-problems}
 
 1. **What follows practically for a Christian under a modern republic?**
    1. Rom 13 and 1 Pet 2 apply regardless of form. Obedience is not contingent on the regime being ideal.
@@ -776,14 +855,16 @@ its proponents would endorse has not been understood.
       1. This also connects the monarchy project to the prenup project in the same repo. Same underlying
          theology of the oath. **[Q]** Worth a shared "theology of oaths" chapter serving both?
 1. **Live research tasks, in priority order.**
-   1. Read the whole of _Lex Rex_ (44 questions; 3 done).
-   1. Obtain and work through Bossuet, _Politics Drawn from the Very Words of Holy Scripture_ — described in the
+   1. Read the whole of [_Lex Rex_](#ix5-early-modern) (44 questions; 3 done).
+   1. Obtain and work through Bossuet, [_Politics Drawn from the Very Words of Holy
+      Scripture_](https://archive.org/details/politicsdrawnfro0000boss) — described in the
       references as the most thorough biblical defense of monarchy ever written, and entirely unused so far.
-   1. Add the confessional layer: LBCF 23, 24, 8, 26; WCF 22, 23; the deliberate divergences.
+   1. Add the confessional layer: [LBCF](#ix2-confessional-gap--none-currently-in-the-repo) 23, 24, 8, 26;
+      [WCF](#ix2-confessional-gap--none-currently-in-the-repo) 22, 23; the deliberate divergences.
    1. Add the prophetic counter-evidence properly (Part III.8).
    1. Add the Psalms (Part III.7).
-   1. Add the resistance-theory sources: Magdeburg Confession, Vindiciae, Beza.
-   1. Add Locke's _First Treatise_ if Filmer is retained.
+   1. Add the resistance-theory sources: [Magdeburg Confession](#ix5-early-modern), [Vindiciae](#ix5-early-modern), Beza.
+   1. Add Locke's [_First Treatise_](#ix5-early-modern) if Filmer is retained.
    1. Work the Hebrew of Deut 17:14 and Eccl 8:2.
    1. Find social-historical work on feudal practice to avoid romanticizing.
 1. **Structural decisions blocking the draft.**
@@ -794,13 +875,13 @@ its proponents would endorse has not been understood.
 
 ---
 
-## IX. Reference Inventory
+## IX. Reference Inventory {#ix-reference-inventory}
 
 Everything currently in the reference CSVs under monarchy/research/references/, plus items identified as gaps. Marked **[GAP]**
 where not yet in the repo. This section is a working inventory, not a formatted bibliography — formatting
 comes at draft time.
 
-### IX.1 Scripture
+### IX.1 Scripture {#ix1-scripture}
 
 1. Genesis 1:26–28 — Adamic dominion **[GAP]**
 1. Genesis 9:6 — the sword after the flood **[GAP]**
@@ -862,7 +943,7 @@ comes at draft time.
 1. Revelation 5:10; 17:14; 19:16; 20:6; 21:24; 22:5 — King of kings; the saints reign; the kings bring their
    glory in. Partially in scripture.csv.
 
-### IX.2 Confessional [GAP] — none currently in the repo
+### IX.2 Confessional [GAP] — none currently in the repo {#ix2-confessional-gap--none-currently-in-the-repo}
 
 1. Second London Baptist Confession (1689) ch. 23, Of Lawful Oaths and Vows. **Highest-priority addition.**
 1. Second London Baptist Confession (1689) ch. 24, Of the Civil Magistrate.
@@ -870,27 +951,27 @@ comes at draft time.
 1. Westminster Confession of Faith ch. 22 (Oaths and Vows) and ch. 23 (Civil Magistrate) — for the comparison.
 1. Baptist Catechism (1695) and Heidelberg Catechism on the third commandment / oaths.
 
-### IX.3 Classical (classical.csv)
+### IX.3 Classical (classical.csv) {#ix3-classical}
 
 1. Aristotle, _Politics_ — Bk. I (household → polis), Bk. III.12–13 (flute analogy; five kingships;
-   _pambasileia_). c. 350 BCE. <http://classics.mit.edu/Aristotle/politics.html>
+   _pambasileia_). c. 350 BCE. [http://classics.mit.edu/Aristotle/politics.html](http://classics.mit.edu/Aristotle/politics.html)
 1. Plato, _Statesman (Politicus)_, c. 360 BCE — rule by knowledge above law.
-   <http://classics.mit.edu/Plato/stateman.html>
+   [http://classics.mit.edu/Plato/stateman.html](http://classics.mit.edu/Plato/stateman.html)
 1. Plato, _Republic_, c. 380 BCE — philosopher-king; soul/city isomorphism.
-   <http://classics.mit.edu/Plato/republic.html>
+   [http://classics.mit.edu/Plato/republic.html](http://classics.mit.edu/Plato/republic.html)
 1. Xenophon, _Cyropaedia_, c. 370 BCE — the ideal monarch; voluntary obedience.
-   <http://www.gutenberg.org/ebooks/2085>
+   [http://www.gutenberg.org/ebooks/2085](http://www.gutenberg.org/ebooks/2085)
 1. Xenophon, _Hiero_, c. 380–360 BCE — king vs. tyrant.
-1. Cicero, _De Re Publica_, 54–51 BCE — the _rector_. <http://oll.libertyfund.org/titles/cicero-de-re-publica>
+1. Cicero, _De Re Publica_, 54–51 BCE — the _rector_. [http://oll.libertyfund.org/titles/cicero-de-re-publica](http://oll.libertyfund.org/titles/cicero-de-re-publica)
 1. Cicero, _De Legibus_, 52 BCE — natural law, magistrates, oaths.
 1. Homer, _Iliad_ / _Odyssey_, c. 8th c. BCE — heroic kingship; the _basileus_.
-   <http://classics.mit.edu/Homer/iliad.html>
+   [http://classics.mit.edu/Homer/iliad.html](http://classics.mit.edu/Homer/iliad.html)
 1. Plutarch, _Lives_ (Alexander, Lycurgus, Numa), c. 100 AD.
-   <http://classics.mit.edu/Plutarch/lives.html>
+   [http://classics.mit.edu/Plutarch/lives.html](http://classics.mit.edu/Plutarch/lives.html)
 1. Seneca, _De Clementia_, 55 AD — the emperor as the soul of the state.
-   <http://www.gutenberg.org/ebooks/64424>
+   [http://www.gutenberg.org/ebooks/64424](http://www.gutenberg.org/ebooks/64424)
 
-### IX.4 Patristic and Medieval (patristic_medieval.csv)
+### IX.4 Patristic and Medieval (patristic_medieval.csv) {#ix4-patristic-and-medieval}
 
 1. Eusebius of Caesarea, _Oration in Praise of Constantine_ (Tricennial Oration), 336 AD — one God, one emperor.
 1. Eusebius, _Ecclesiastical History_, 313 AD — providence and empire.
@@ -902,27 +983,27 @@ comes at draft time.
 1. Alcuin, _Letters to Charlemagne_, 790s — Charlemagne as David figure.
 1. John of Salisbury, _Policraticus_, 1159 — body politic; prince as image of God; tyrannicide.
 1. Thomas Aquinas, _De Regno (On Kingship)_, c. 1267 — I.1 (social nature), I.2–3 (unity), I.6–7 (tyranny).
-   <https://isidore.co/aquinas/english/DeRegno.htm>
+   [https://isidore.co/aquinas/english/DeRegno.htm](https://isidore.co/aquinas/english/DeRegno.htm)
 1. Thomas Aquinas, _Summa Theologiae_ I-II q.105 — Israel's mixed constitution.
 1. Dante Alighieri, _De Monarchia_, c. 1313 — universal monarchy; sun/moon.
-   <https://oll.libertyfund.org/titles/reinhardt-de-monarchia>
+   [https://oll.libertyfund.org/titles/reinhardt-de-monarchia](https://oll.libertyfund.org/titles/reinhardt-de-monarchia)
 1. Engelbert of Admont, _De Ortu et Fine Romani Imperii_, 1307–10.
 1. Christine de Pizan, _The Book of the Body Politic_, 1407 — oath-keeping as princely virtue.
 
-### IX.5 Early Modern (early_modern.csv)
+### IX.5 Early Modern (early_modern.csv) {#ix5-early-modern}
 
 1. King James I, _The True Law of Free Monarchies_, 1598 — divine right; the coronation oath.
-   <https://scaife.perseus.org/library/urn:cts:engLit:james1.trewlaw.perseus-eng1>
+   [https://scaife.perseus.org/library/urn:cts:engLit:james1.trewlaw.perseus-eng1](https://scaife.perseus.org/library/urn:cts:engLit:james1.trewlaw.perseus-eng1)
 1. King James I, _Basilikon Doron_, 1599 — the education of a prince; the king's oath to God first.
-   <https://archive.org/details/bim_early-english-books-1475-1640_the-true-lawe-of-free-mo_james-i-king_1603>
+   [https://archive.org/details/bim_early-english-books-1475-1640_the-true-lawe-of-free-mo_james-i-king_1603](https://archive.org/details/bim_early-english-books-1475-1640_the-true-lawe-of-free-mo_james-i-king_1603)
 1. Robert Filmer, _Patriarcha_, written c. 1630s, pub. 1680 — monarchy from Adam's paternal authority.
-   <https://oll.libertyfund.org/titles/filmer-patriarcha-or-the-natural-power-of-kings>
+   [https://oll.libertyfund.org/titles/filmer-patriarcha-or-the-natural-power-of-kings](https://oll.libertyfund.org/titles/filmer-patriarcha-or-the-natural-power-of-kings)
 1. Robert Filmer, _The Necessity of the Absolute Power of All Kings_, 1648.
 1. Jean Bodin, _Six Books of the Commonwealth_, 1576 — indivisible sovereignty.
-   <https://yorku.ca/comninel/courses/3020pdf/six_books.pdf>
+   [https://yorku.ca/comninel/courses/3020pdf/six_books.pdf](https://yorku.ca/comninel/courses/3020pdf/six_books.pdf)
 1. Jacques-Bénigne Bossuet, _Politics Drawn from the Very Words of Holy Scripture_, 1709 — the most thorough
    biblical defense of monarchy. **Unused so far; high priority.**
-   <https://archive.org/details/politicsdrawnfro0000boss>
+   [https://archive.org/details/politicsdrawnfro0000boss](https://archive.org/details/politicsdrawnfro0000boss)
 1. Bossuet, _Discourse on Universal History_, 1681 — providence through monarchs.
 1. Richard Hooker, _Of the Laws of Ecclesiastical Polity_, 1594–97 — consent within ordered hierarchy.
 1. Hugo Grotius, _De Jure Belli ac Pacis_, 1625 — the oath to a sovereign as natural-law obligation; breach as
@@ -931,7 +1012,7 @@ comes at draft time.
    research/lex-rex/lex-rex.md; 41 questions unread.
 1. William Barclay, _De Regno et Regali Potestate_, 1600 — against the monarchomachs.
 1. Thomas Hobbes, _Leviathan_, 1651 — undivided sovereignty; the horizontal covenant.
-   <https://www.gutenberg.org/ebooks/3207>
+   [https://www.gutenberg.org/ebooks/3207](https://www.gutenberg.org/ebooks/3207)
 1. John Locke, _First Treatise of Government_, 1689 — the refutation of Filmer **[GAP]**
 1. The Magdeburg Confession, 1550 — lesser-magistrate resistance **[GAP]**
 1. _Vindiciae contra tyrannos_, 1579 **[GAP]**
@@ -939,34 +1020,34 @@ comes at draft time.
 1. John Calvin, _Institutes_ IV.20 — magistrates as God's deputies; the lesser magistrate; oaths.
    (Listed in oaths.csv.)
 
-### IX.6 Oaths, Coronation, and Fealty (oaths.csv)
+### IX.6 Oaths, Coronation, and Fealty (oaths.csv) {#ix6-oaths-coronation-and-fealty}
 
 1. Fulbert of Chartres, _Letter to Duke William V of Aquitaine on Fealty_, 1020 — the six negatives; positive
    _consilium et auxilium_; the reciprocity clause. **Pivot text.**
-   <https://sourcebooks.web.fordham.edu/source/fulbert1.asp>
+   [https://sourcebooks.web.fordham.edu/source/fulbert1.asp](https://sourcebooks.web.fordham.edu/source/fulbert1.asp)
 1. Anglo-Saxon form of the oath of fealty, c. 10th–11th c. — "love all that he loves and shun all that he shuns."
-   <https://sourcebooks.fordham.edu/source/feud-oath1.asp>
+   [https://sourcebooks.fordham.edu/source/feud-oath1.asp](https://sourcebooks.fordham.edu/source/feud-oath1.asp)
 1. Fordham Medieval Sourcebook, feudal oaths compilation, 9th–13th c.
-   <https://sourcebooks.web.fordham.edu/source/feud-oath1.asp>
+   [https://sourcebooks.web.fordham.edu/source/feud-oath1.asp](https://sourcebooks.web.fordham.edu/source/feud-oath1.asp)
 1. "Fealty — Love, Loyalty and Choice in Feudalism," historymedieval.com — the voluntary dimension.
-   <https://historymedieval.com/fealty-love-loyalty-and-choice-in-feudalism>
+   [https://historymedieval.com/fealty-love-loyalty-and-choice-in-feudalism](https://historymedieval.com/fealty-love-loyalty-and-choice-in-feudalism)
 1. English Coronation Oath — Leofric Missal form (King Edgar, c. 973) and the 1689 statutory form; surveyed in
    UK Parliament Research Briefing SN00435.
-   <https://web.archive.org/web/20240911012220/https://researchbriefings.files.parliament.uk/documents/SN00435/SN00435.pdf>
+   [https://web.archive.org/web/20240911012220/https://researchbriefings.files.parliament.uk/documents/SN00435/SN00435.pdf](https://web.archive.org/web/20240911012220/https://researchbriefings.files.parliament.uk/documents/SN00435/SN00435.pdf)
 1. Byzantine imperial coronation and acclamation, 4th–15th c. — _axios_; patriarchal coronation; the emperor as
-   derivative _christos_. <https://grokipedia.com/page/Coronation_of_the_Byzantine_emperor>
+   derivative _christos_. [https://grokipedia.com/page/Coronation_of_the_Byzantine_emperor](https://grokipedia.com/page/Coronation_of_the_Byzantine_emperor)
 1. Henry de Bracton, _De Legibus et Consuetudinibus Angliae_, c. 1235, vol. 2 p. 33 ll. 8–9 — _"Ipse autem rex
    non debet esse sub homine sed sub deo et sub lege, quia lex facit regem."_
-   Latin: <https://amesfoundation.law.harvard.edu/Bracton/Unframed/Latin/v2/33.htm> —
-   English: <https://amesfoundation.law.harvard.edu/Bracton/Unframed/English/v2/33.htm>
+   Latin: [https://amesfoundation.law.harvard.edu/Bracton/Unframed/Latin/v2/33.htm](https://amesfoundation.law.harvard.edu/Bracton/Unframed/Latin/v2/33.htm) —
+   English: [https://amesfoundation.law.harvard.edu/Bracton/Unframed/English/v2/33.htm](https://amesfoundation.law.harvard.edu/Bracton/Unframed/English/v2/33.htm)
 1. Magna Carta, 1215 — limitation via sworn compact.
 1. The Solemn League and Covenant, 1638 / 1643 — Reformed political covenanting.
 1. Visigothic royal oath texts, Toledo Councils, 7th c. — earliest formalized Western royal oath liturgies.
 1. Assizes of Jerusalem, 1197 — homage and fealty in crusader legal codes.
 1. GotQuestions.org, "What is the Divine Right of Kings?" — introductory synthesis.
-   <https://www.gotquestions.org/divine-right-kings.html>
+   [https://www.gotquestions.org/divine-right-kings.html](https://www.gotquestions.org/divine-right-kings.html)
 
-### IX.7 Secondary Scholarship and Modern (forums_articles.csv)
+### IX.7 Secondary Scholarship and Modern (forums_articles.csv) {#ix7-secondary-scholarship-and-modern}
 
 1. Johann Sommerville, _Filmer and His Critics_, Cambridge UP, 1991.
 1. Tomoo Ishida, _Kings and Kinship in Early Israel_, SBL, 1977 — ANE context for Israelite monarchy.
@@ -979,18 +1060,18 @@ comes at draft time.
 1. Harold Berman, _Law and Revolution_, Harvard UP, 1983 — the Gregorian reform and oath structures.
 1. Erik von Kuehnelt-Leddihn, _Liberty or Equality_, Christendom Press, 1952 — Catholic monarchist.
 1. Hans-Hermann Hoppe, _Democracy: The God That Failed_, Transaction, 2001 — time preference.
-   <https://dn721606.ca.archive.org/0/items/911-material/Pdfs/Democracy%20The%20God%20That%20Failed.pdf>
+   [https://dn721606.ca.archive.org/0/items/911-material/Pdfs/Democracy%20The%20God%20That%20Failed.pdf](https://dn721606.ca.archive.org/0/items/911-material/Pdfs/Democracy%20The%20God%20That%20Failed.pdf)
 1. Robert Paxton, _The Anatomy of Fascism_, Knopf, 2004 — keeps monarchy and fascism distinct.
 1. Francis Fukuyama, _The Origins of Political Order_, FSG, 2011 — monarchy as the default pre-modern order.
 1. Francis Fukuyama, _Political Order and Political Decay_, FSG, 2014 — democratic institutional decay.
-1. Christine Hayes, Yale Open Courses, Old Testament lectures. <https://oyc.yale.edu/religious-studies/rels-145>
+1. Christine Hayes, Yale Open Courses, Old Testament lectures. [https://oyc.yale.edu/religious-studies/rels-145](https://oyc.yale.edu/religious-studies/rels-145)
 1. Curtis Yarvin (Mencius Moldbug), "A Formalist Manifesto," _Unqualified Reservations_, April 2007.
-   <https://www.unqualified-reservations.org/2007/04/formalist-manifesto-originally-posted/>
+   [https://www.unqualified-reservations.org/2007/04/formalist-manifesto-originally-posted/](https://www.unqualified-reservations.org/2007/04/formalist-manifesto-originally-posted/)
 1. Curtis Yarvin, "Patchwork: A Political System for the 21st Century," _Unqualified Reservations_, Nov. 2008.
-   <https://www.unqualified-reservations.org/2008/11/patchwork-positive-vision-part-1/>
+   [https://www.unqualified-reservations.org/2008/11/patchwork-positive-vision-part-1/](https://www.unqualified-reservations.org/2008/11/patchwork-positive-vision-part-1/)
 1. Curtis Yarvin, "Divine-right monarchy for the modern secular intellectual," _Unqualified Reservations_, 2010.
 1. Curtis Yarvin, _Gray Mirror_ (Substack), 2020– — monarchy vs. fascism; RAGE; Caesarist transition.
-   <https://graymirror.substack.com>
+   [https://graymirror.substack.com](https://graymirror.substack.com)
 1. **[GAP]** Social history of feudal practice — needed to avoid romanticizing the oath. Source TBD.
 1. **[GAP]** Comparative anthropology of kingship outside the Eurasian axis. Source TBD.
 1. **[GAP]** Hebrew-language commentary on Deut 17:14–20 and Eccl 8:2. Source TBD.
