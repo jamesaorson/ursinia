@@ -11,7 +11,7 @@ A historical and theological study of monarchy as a political system, with parti
 
 [Thesis](/bible/theology/monarchy/thesis) holds the writing. The master outline is the current working
 document — a nested inventory of every claim, source, open question, and gap, to be pruned into a paper
-later. Draft 001 is the earlier prose attempt, superseded but kept for reference.
+later. Draft is the earlier prose attempt, superseded but kept for reference.
 
 [Research](/bible/theology/monarchy/research) holds the source tables, grouped by period and topic:
 scripture, patristic and medieval, early modern, classical, oaths and coronation, and modern secondary
