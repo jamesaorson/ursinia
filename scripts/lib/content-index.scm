@@ -18,6 +18,31 @@
         (substring path (string-length templates-prefix))
         "/")))
 
+(define (asset-dir-for url-prefix)
+  "Parallel directory under assets/ for the template directory at URL-PREFIX."
+  (string-append (getcwd) "/assets" url-prefix))
+
+(define (list-asset-files url-prefix)
+  "Sorted regular filenames in the assets/ directory mirroring URL-PREFIX.
+Content directories keep their downloadable sources (CSV tables, PDFs) under
+assets/ rather than templates/, so those files are invisible to the template
+walk and have to be picked up here."
+  (let ((dir (asset-dir-for url-prefix)))
+    (if (not (file-exists? dir))
+        '()
+        (sort
+         (filter (lambda (name)
+                   (and (not (string=? name "."))
+                        (not (string=? name ".."))
+                        (eq? 'regular
+                             (stat:type (stat (string-append dir "/" name))))))
+                 (or (scandir dir) '()))
+         string<?))))
+
+(define (asset-file->link-item url-prefix filename)
+  `(li (a (@ (href ,(string-append "/assets" url-prefix "/" filename)))
+          (code ,filename))))
+
 (define (indexed-subdirs dir)
   (filter (lambda (name)
             (let ((subdir (string-append dir "/" name)))
@@ -56,8 +81,10 @@
          (back-label (if is-root? "bible" (basename parent-dir)))
          (subdirs (indexed-subdirs dir))
          (md-files (list-md-files dir))
+         (asset-files (list-asset-files url-prefix))
          (items (append (map (lambda (subdir) (subdir->link-item url-prefix dir subdir)) subdirs)
-                        (map (lambda (filename) (md-file->link-item url-prefix dir filename)) md-files)))
+                        (map (lambda (filename) (md-file->link-item url-prefix dir filename)) md-files)
+                        (map (lambda (filename) (asset-file->link-item url-prefix filename)) asset-files)))
          (body-port (and (pair? maybe-body-port) (car maybe-body-port)))
          (body-node (and body-port
                          `(section (@ (class "directory-readme"))

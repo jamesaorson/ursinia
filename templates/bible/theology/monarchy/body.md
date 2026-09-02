@@ -9,27 +9,13 @@ A historical and theological study of monarchy as a political system, with parti
 
 ## Structure
 
-The writing lives under [thesis](/bible/theology/monarchy/thesis):
+[Thesis](/bible/theology/monarchy/thesis) holds the writing. The master outline is the current working
+document — a nested inventory of every claim, source, open question, and gap, to be pruned into a paper
+later. Draft 001 is the earlier prose attempt, superseded but kept for reference.
 
-1. [Master Outline](/bible/theology/monarchy/thesis/outline-001) — the current working document. A nested
-   inventory of every claim, source, open question, and gap, to be pruned into a paper later.
-2. [Draft 001](/bible/theology/monarchy/thesis/draft-001) — the first prose draft, superseded by the outline
-   but kept for reference.
-
-The reference tables live under [research/references](/bible/theology/monarchy/research/references):
-
-1. [scripture.csv](/assets/bible/theology/monarchy/research/references/scripture.csv) — OT/NT passages
-   relevant to monarchy and royal oaths
-2. [patristic_medieval.csv](/assets/bible/theology/monarchy/research/references/patristic_medieval.csv) —
-   Church Fathers and medieval sources
-3. [early_modern.csv](/assets/bible/theology/monarchy/research/references/early_modern.csv) —
-   Reformation-era and royalist writers
-4. [classical.csv](/assets/bible/theology/monarchy/research/references/classical.csv) — Greek and Roman
-   sources
-5. [oaths.csv](/assets/bible/theology/monarchy/research/references/oaths.csv) — Sources specifically on
-   coronation oaths, fealty, homage
-6. [forums_articles.csv](/assets/bible/theology/monarchy/research/references/forums_articles.csv) — Modern
-   scholarship and secondary sources
+[Research](/bible/theology/monarchy/research) holds the source tables, grouped by period and topic:
+scripture, patristic and medieval, early modern, classical, oaths and coronation, and modern secondary
+scholarship.
 
 ## Thesis Direction
 
