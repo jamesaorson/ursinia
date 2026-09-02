@@ -104,7 +104,7 @@ wwwroot/assets/%: assets/%
 
 .PHONY: serve
 serve: ## Serve the application locally
-	python3 -m http.server -d ./wwwroot --bind 127.0.0.1 8000
+	python3 -m http.server -d ./wwwroot --bind 127.0.0.1 8081
 
 .PHONY: watch
 watch: ## Watch for changes and re-render templates
