@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "ursinia",
+  "project_id": "992ac4a3-2cf2-4217-b71c-c32aa68bd3fc"
+}
