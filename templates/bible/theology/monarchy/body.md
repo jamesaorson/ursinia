@@ -9,6 +9,13 @@ A historical and theological study of monarchy as a political system, with parti
 
 ## Structure
 
+The writing lives under [thesis](/bible/theology/monarchy/thesis):
+
+1. [Master Outline](/bible/theology/monarchy/thesis/outline-001) — the current working document. A nested
+   inventory of every claim, source, open question, and gap, to be pruned into a paper later.
+2. [Draft 001](/bible/theology/monarchy/thesis/draft-001) — the first prose draft, superseded by the outline
+   but kept for reference.
+
 The reference tables live under [research/references](/bible/theology/monarchy/research/references):
 
 1. [scripture.csv](/assets/bible/theology/monarchy/research/references/scripture.csv) — OT/NT passages
