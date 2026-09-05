@@ -38,3 +38,6 @@ title: Ursinia - Bible - Simony Review
   to know in a short inline clause what Aquinas's stance was.
   - Thomas Aquinas devoted an article to the question of “whether it is always unlawful to give money for the sacraments,”
     handling a number of objections to the thesis.
+- Improved by scripture reference:
+  - "The church’s power to bind and loose—to discipline and restore—is spiritual."
+  - Matthew 18:18
