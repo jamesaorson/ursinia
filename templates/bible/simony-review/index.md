@@ -46,4 +46,5 @@ title: Ursinia - Bible - Simony Review
 - Improved by scripture reference:
   - "The church’s power to bind and loose—to discipline and restore—is spiritual."
   - Matthew 18:18
--
+
+### [Chapter 4](https://simony.info/#ch4)
