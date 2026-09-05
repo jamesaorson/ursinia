@@ -7,6 +7,8 @@ title: Ursinia - Bible - Simony Review
 ### General Quality-of-Life Suggestions for the Website Format
 
 - The underline on scripture references is such a thin pixel width that I accidentally discovered they could be hovered.
+- Full chapter references in the hover tooltip truncate after a few verses, and the ellipsis it provides does not react
+  to anything. Seems like it would be an expansion?
 - The style chosen to explain the English form of a Latin phrase is inconsistent throughout the work. Pick a style for all
   cases.
   - English inline, followed by the Latin in parentheses - "by essence (per essentiam) or by cause (per causam)"
