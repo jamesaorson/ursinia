@@ -6,8 +6,7 @@ title: Ursinia - Bible - Simony Review
 
 ### General Quality-of-Life Suggestions for the Website Format
 
-- It would be helpful if any verse reference made would have some kind of hover tooltip which shows the passage for the,
-  similar to what you see on the [John Gill commentary found here](https://johngill.thekingsbible.com/CommentaryChapter/1/1).
+- The underline on scripture references is such a thin pixel width that I accidentally discovered they could be hovered.
 - The style chosen to explain the English form of a Latin phrase is inconsistent throughout the work. Pick a style for all
   cases.
   - English inline, followed by the Latin in parentheses - "by essence (per essentiam) or by cause (per causam)"
