@@ -25,5 +25,6 @@
                                              ["/bible/reading-plans" . "Bible Reading Plans"]
                                              ["/bible/scripture-readings" . "Scripture Readings"]
                                              ["/bible/theology" . "Theology"]
+                                             ["/bible/simony-review" . "Review of The Doctrine of Simony"]
                                              ["/bible/christian-resources" . "Other Christian Resources"]))))))
 
