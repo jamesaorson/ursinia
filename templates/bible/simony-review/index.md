@@ -34,3 +34,7 @@ title: Ursinia - Bible - Simony Review
     itself but, by selling the act of baptizing, commits simony.
   - Suggested - For example, someone who sells an ordinance such as baptism is not capable of selling the grace of baptism
     itself, but, by selling the act of baptizing, commits simony.
+- Desire some on "the thesis" that Aquinas handled objections to. This may be a pedantic complaint, but it would be nice
+  to know in a short inline clause what Aquinas's stance was.
+  - Thomas Aquinas devoted an article to the question of “whether it is always unlawful to give money for the sacraments,”
+    handling a number of objections to the thesis.
