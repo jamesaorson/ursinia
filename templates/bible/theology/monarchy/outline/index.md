@@ -51,17 +51,17 @@ Inline citations here are shorthand only (author + short title).
    1. Scripture is the sole infallible rule. Natural law and tradition are corroborating witnesses, never
       independent foundations.
    1. **[GAP]** **The research folder contains zero confessional sources.** For a 1689 project this is the biggest
-      hole. See [IX.2](#ix2-confessional-gap--none-currently-in-the-repo).
-      1. 1689 [LBCF](#ix2-confessional-gap--none-currently-in-the-repo) ch. 24 (Of the Civil Magistrate) — must be
+      hole. See IX.2.
+      1. 1689 LBCF ch. 24 (Of the Civil Magistrate) — must be
          engaged directly.
-      1. [1689](#ix2-confessional-gap--none-currently-in-the-repo) ch. 23 (Of Lawful Oaths and Vows) — this is
+      1. 1689 ch. 23 (Of Lawful Oaths and Vows) — this is
          _directly_ on the oath thesis and is currently unused.
          This is the single most important missing citation in the whole project.
-      1. [WCF](#ix2-confessional-gap--none-currently-in-the-repo) 23 +
-         [WCF](#ix2-confessional-gap--none-currently-in-the-repo) 22 for comparison; note where the 1689 deliberately
-         diverges from [Westminster](#ix2-confessional-gap--none-currently-in-the-repo) on the
+      1. WCF 23 +
+         WCF 22 for comparison; note where the 1689 deliberately
+         diverges from Westminster on the
          magistrate's power _circa sacra_.
-   1. **[TENSION]** The 1689 revision of [WCF](#ix2-confessional-gap--none-currently-in-the-repo) 23 _removes_ the
+   1. **[TENSION]** The 1689 revision of WCF 23 _removes_ the
       magistrate's authority over the church. A high
       monarchist argument that leans on Eusebius, Byzantium, and James I is leaning on exactly the
       caesaropapism the 1689 pruned away. This must be addressed head-on, not avoided.
@@ -502,7 +502,7 @@ The intellectual heart of the project. If only one part gets fully drafted, this
    1. **Termination.** Contract: on performance, breach, or expiry. Oath: not at will; it binds "to his own hurt"
       (Ps 15:4).
    1. **Relation created.** Contract: exchange. Covenant: _status_ — a new standing that persists.
-   1. **[EV]** 1689 [LBCF](#ix2-confessional-gap--none-currently-in-the-repo) ch. 23, Of Lawful Oaths and Vows — "the
+   1. **[EV]** 1689 LBCF ch. 23, Of Lawful Oaths and Vows — "the
       name of God only is that by which men ought to
       swear"; an oath binds even when it is to one's own disadvantage. **[GAP]** This chapter is _made_ for this
       argument and is currently uncited anywhere in the repo.
@@ -567,7 +567,7 @@ The intellectual heart of the project. If only one part gets fully drafted, this
       that he enjoin justice and mercy in all judgments.
    1. **[EV]** The 1689 statutory form ([Coronation Oath
       Act](https://web.archive.org/web/20240911012220/https://researchbriefings.files.parliament.uk/documents/SN00435/SN00435.pdf))
-      — note the date. **[CLAIM]** The same year as the [LBCF](#ix2-confessional-gap--none-currently-in-the-repo),
+      — note the date. **[CLAIM]** The same year as the LBCF,
       and the product of a _deposition_. Worth remarking: 1689 is simultaneously the year of James's confession
       and the year England removed a king for oath-breach. That is not an accident of the paper's framing; it is
       the argument in historical form.
@@ -578,8 +578,8 @@ The intellectual heart of the project. If only one part gets fully drafted, this
       army and senate, _axios_ ("he is worthy"); coronation by the
       Patriarch; the emperor as _christos_ in a derivative sense.
       1. **[TENSION]** Byzantine caesaropapism is exactly what a 1689 Baptist rejects
-         ([LBCF](#ix2-confessional-gap--none-currently-in-the-repo) 24 vs.
-         [WCF](#ix2-confessional-gap--none-currently-in-the-repo) 23). Use the
+         (LBCF 24 vs.
+         WCF 23). Use the
          _oath structure_ while explicitly repudiating the _church-state fusion_. Do this in the text, not in a
          footnote.
    1. **[EV]** [Visigothic royal oaths, Toledo Councils](#ix6-oaths-coronation-and-fealty), 7th c. — among the earliest
@@ -604,8 +604,8 @@ The intellectual heart of the project. If only one part gets fully drafted, this
          its breach generations later. Nothing in contract law behaves like this.
    1. Judg 11 — Jephthah's vow. The dark side; oaths bind, and rash oaths destroy.
    1. Matt 5:33–37 and Jas 5:12 — "let your yes be yes." **[Q]** Does Christ abolish oaths? The Reformed answer
-      ([LBCF](#ix2-confessional-gap--none-currently-in-the-repo) 23,
-      [WCF](#ix2-confessional-gap--none-currently-in-the-repo) 22) is no: He forbids _casual and evasive_ swearing,
+      (LBCF 23,
+      WCF 22) is no: He forbids _casual and evasive_ swearing,
       while lawful oaths before the magistrate
       remain. The Anabaptist reading is the opposite. **[CLAIM]** The paper must handle this or a Baptist reader
       will stop here. Note the irony that the _Baptist_ confession is on the pro-oath side.
@@ -714,10 +714,10 @@ The part that keeps the paper from being read as an apology for despotism. It sh
       Fulbert says the lord is guilty of bad faith; he does not say the vassal is thereby freed. Work out
       whether the tradition draws that inference, and where.
 1. **The 1689 and the civil magistrate.**
-   1. [LBCF](#ix2-confessional-gap--none-currently-in-the-repo) 24 — the magistrate ordained by God for His own glory
+   1. LBCF 24 — the magistrate ordained by God for His own glory
       and the public good; lawful for Christians to
       serve; subjection due.
-   1. What the 1689 _removed_ from [WCF](#ix2-confessional-gap--none-currently-in-the-repo) 23: the magistrate's
+   1. What the 1689 _removed_ from WCF 23: the magistrate's
       authority to call synods, suppress heresy, and order
       the church. **[CLAIM]** The Baptist confession is deliberately _less_ Erastian.
    1. **[TENSION]** Therefore: the paper may defend a strong monarchy in the civil sphere while denying the
@@ -769,7 +769,7 @@ where the paper is at its most confident, because here the Reformed tradition is
          the exact inversion of 1 Sam 8:7. Israel's story ends where it began: rejecting God as king. That
          inclusio should be exploited; it is the most powerful single point available to this paper.
    1. Ascension and session — seated at the right hand, all authority given (Matt 28:18); Ps 110 fulfilled.
-   1. **[EV]** 1689 [LBCF](#ix2-confessional-gap--none-currently-in-the-repo) ch. 8 on Christ the Mediator in His
+   1. **[EV]** 1689 LBCF ch. 8 on Christ the Mediator in His
       threefold office; ch. 26 on Christ as head of the
       church. **[GAP]** Uncited.
 1. **The eschatological consummation.**
@@ -836,7 +836,7 @@ its proponents would endorse has not been understood.
 1. **"Aquinas says Israel's polity was mixed, not monarchical."** — Reply: II.4.6. This is the strongest internal
    objection. Answer or concede; do not omit.
 1. **"Christ forbids oaths (Matt 5:34)."** — Reply: IV.6.7 and
-   [LBCF](#ix2-confessional-gap--none-currently-in-the-repo) 23. Note that the _Baptist_ confession is
+   LBCF 23. Note that the _Baptist_ confession is
    firmly on the pro-oath side.
 1. **"Restoration is impossible, so the argument is academic."** — Reply: the paper is normative, not a program.
    **[CLAIM]** Even if no king is coming, the _diagnosis_ stands: a polity that binds no one by oath and locates
@@ -859,8 +859,8 @@ its proponents would endorse has not been understood.
    1. Obtain and work through Bossuet, [_Politics Drawn from the Very Words of Holy
       Scripture_](https://archive.org/details/politicsdrawnfro0000boss) — described in the
       references as the most thorough biblical defense of monarchy ever written, and entirely unused so far.
-   1. Add the confessional layer: [LBCF](#ix2-confessional-gap--none-currently-in-the-repo) 23, 24, 8, 26;
-      [WCF](#ix2-confessional-gap--none-currently-in-the-repo) 22, 23; the deliberate divergences.
+   1. Add the confessional layer: LBCF 23, 24, 8, 26;
+      WCF 22, 23; the deliberate divergences.
    1. Add the prophetic counter-evidence properly (Part III.8).
    1. Add the Psalms (Part III.7).
    1. Add the resistance-theory sources: [Magdeburg Confession](#ix5-early-modern), [Vindiciae](#ix5-early-modern), Beza.

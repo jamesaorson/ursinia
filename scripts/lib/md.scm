@@ -111,6 +111,56 @@
 													(cons (list '@ (list 'href href))
 																(parse-inline label)))))))))))
 
+(define (footnote-label-char? c)
+	"True if C is allowed inside a [^label] footnote label."
+	(not (or (char-set-contains? char-set:whitespace c)
+					 (char=? c #\[)
+					 (char=? c #\]))))
+
+(define (parse-inline-footnote-at text i)
+	"Match a [^label] footnote reference at I.
+Emits a (footnote-ref label) marker; numbering happens later, in document order."
+	(if (not (starts-with-at? text i "[^"))
+			#f
+			(let ((label-end (string-index text #\] (+ i 2))))
+				(if (or (not label-end)
+							(= label-end (+ i 2))
+							(not (string-every footnote-label-char?
+																 (substring text (+ i 2) label-end))))
+						#f
+						(list (+ label-end 1)
+								`(footnote-ref ,(substring text (+ i 2) label-end)))))))
+
+
+(define (parse-inline-reference-link-at text i)
+	"Match a reference link: [label][key], [label][] or the shortcut [label].
+Emits a (link-ref key raw label ...) marker; the definition map is applied later.
+Runs after the inline [label](href) form, so that always wins."
+	(if (or (not (starts-with-at? text i "["))
+					(starts-with-at? text i "[^"))
+			#f
+			(let ((label-end (string-index text #\] (+ i 1))))
+				(and label-end
+						 (> label-end (+ i 1))
+						 (let* ((label (substring text (+ i 1) label-end))
+										(bracketed? (and (< (+ label-end 1) (string-length text))
+																	 (char=? (string-ref text (+ label-end 1)) #\[)))
+										(key-end (and bracketed?
+																	(string-index text #\] (+ label-end 2)))))
+							 (cond
+								((and bracketed? key-end)
+								 (let ((key (substring text (+ label-end 2) key-end)))
+									 (list (+ key-end 1)
+											 `(link-ref ,(string-downcase (if (string-null? key) label key))
+															,(substring text i (+ key-end 1))
+															,@(parse-inline label)))))
+								(bracketed? #f)
+								(else
+								 (list (+ label-end 1)
+											 `(link-ref ,(string-downcase label)
+															 ,(substring text i (+ label-end 1))
+															 ,@(parse-inline label))))))))))
+
 (define (parse-inline-image-at text i)
 	(if (not (starts-with-at? text i "!["))
 			#f
@@ -153,13 +203,17 @@
 			(if (>= i len)
 					(reverse (flush-text plain-start len nodes))
 					(let* ((image-match (parse-inline-image-at text i))
+								 (footnote-match (parse-inline-footnote-at text i))
 								 (link-match (parse-inline-link-at text i))
+								 (reference-match (parse-inline-reference-link-at text i))
 								 (strong-asterisk (parse-inline-delimited-at text i "**" 'strong))
 								 (strong-underscore (parse-inline-delimited-at text i "__" 'strong))
 								 (em-asterisk (parse-inline-delimited-at text i "*" 'em))
 								 (em-underscore (parse-inline-delimited-at text i "_" 'em))
 								 (match (or image-match
+													footnote-match
 													link-match
+													reference-match
 													strong-asterisk
 													strong-underscore
 													em-asterisk
@@ -221,14 +275,17 @@
 						 (sub-acc '()))
 		(define (build-item)
 			(and cur-text
-					 (let* ((sub-lines (reverse sub-acc))
-									(sub-node (and (not (null? sub-lines))
-															 (parse-list-block
-																sub-lines
-																(apply min (map line-indent sub-lines))))))
-						 (if sub-node
-								 `(li ,@(parse-inline cur-text) ,sub-node)
-								 `(li ,@(parse-inline cur-text))))))
+					 (let*-values (((text id) (split-trailing-anchor cur-text))
+													 ((sub-lines) (reverse sub-acc))
+													 ((sub-node) (and (not (null? sub-lines))
+																				(parse-list-block
+																				 sub-lines
+																				 (apply min (map line-indent sub-lines))))))
+						 (let ((body (append (parse-inline text)
+													 (if sub-node (list sub-node) '()))))
+							 (if id
+									 `(li (@ (id ,id)) ,@body)
+									 `(li ,@body))))))
 		(if (null? rest)
 				(let* ((item (build-item))
 							 (all (if item (reverse (cons item items)) (reverse items))))
@@ -283,6 +340,165 @@ unchanged and #f, so ordinary content containing braces is left alone."
 										(values (string-trim-right (substring text 0 open)) id)
 										(values text #f))))))))
 
+(define (footnote-definition-at line)
+	"Parse a \"[^label]: text\" definition line into (label . text), or #f."
+	(and (starts-with? line "[^")
+			 (let ((label-end (string-index line #\] 2)))
+				 (and label-end
+							(> label-end 2)
+							(< (+ label-end 1) (string-length line))
+							(char=? (string-ref line (+ label-end 1)) #\:)
+							(string-every footnote-label-char? (substring line 2 label-end))
+							(cons (substring line 2 label-end)
+										(string-trim (substring line (+ label-end 2))))))))
+
+
+(define (string-split-on text separator)
+	"Split TEXT on every occurrence of the literal string SEPARATOR."
+	(let loop ((start 0) (parts '()))
+		(let ((hit (string-contains text separator start)))
+			(if hit
+					(loop (+ hit (string-length separator))
+								(cons (substring text start hit) parts))
+					(reverse (cons (substring text start) parts))))))
+
+(define (unescape-table-pipes cell)
+	"Trim CELL and turn its escaped pipes back into literal ones."
+	(let ((trimmed (string-trim-both cell)))
+		(if (string-contains trimmed "\\|")
+				(string-join (string-split-on trimmed "\\|") "|")
+				trimmed)))
+
+(define (split-table-row line)
+	"Split a pipe-table row into trimmed cell strings.
+A leading and trailing pipe are optional; \"\\|\" is a literal pipe in a cell."
+	(let* ((trimmed (string-trim-both line))
+				 (inner (let* ((a (if (string-prefix? "|" trimmed) (substring trimmed 1) trimmed))
+											 (b (if (string-suffix? "|" a) (substring a 0 (- (string-length a) 1)) a)))
+								 b)))
+		(let loop ((i 0) (start 0) (cells '()))
+			(cond
+			 ((>= i (string-length inner))
+				(reverse (cons (unescape-table-pipes (substring inner start)) cells)))
+			 ((and (char=? (string-ref inner i) #\\)
+						 (< (+ i 1) (string-length inner))
+						 (char=? (string-ref inner (+ i 1)) #\|))
+				(loop (+ i 2) start cells))
+			 ((char=? (string-ref inner i) #\|)
+				(loop (+ i 1) (+ i 1)
+							(cons (unescape-table-pipes (substring inner start i)) cells)))
+			 (else (loop (+ i 1) start cells))))))
+
+(define (table-alignment cell)
+	"Read one delimiter cell (\"---\", \":--\", \":-:\", \"--:\") into an alignment, or #f."
+	(let* ((left? (string-prefix? ":" cell))
+				 (right? (string-suffix? ":" cell))
+				 (dashes (string-trim-both cell #\:)))
+		(and (> (string-length dashes) 0)
+				 (string-every #\- dashes)
+				 (cond ((and left? right?) "center")
+							 (right? "right")
+							 (left? "left")
+							 (else "none")))))
+
+(define (table-delimiter-row line)
+	"Return the list of column alignments for a delimiter row, or #f."
+	(and (string-index line #\|)
+			 (let ((cells (split-table-row line)))
+				 (and (pair? cells)
+							(let ((alignments (map table-alignment cells)))
+								(and (every (lambda (a) a) alignments) alignments))))))
+
+(define (table-start? line next-line)
+	"True if LINE is a table header row and NEXT-LINE its delimiter row."
+	(and (string-index line #\|)
+			 (let ((alignments (table-delimiter-row next-line)))
+				 (and alignments
+							(= (length alignments) (length (split-table-row line)))))))
+
+(define (table-cell tag alignment content)
+	(if (string=? alignment "none")
+			(cons tag content)
+			(cons tag (cons `(@ (style ,(string-append "text-align: " alignment)))
+											 content))))
+
+(define (table-row tag alignments line)
+	"Build a (tr ...) from LINE, padded or truncated to the header's column count."
+	(let* ((cells (split-table-row line))
+				 (width (length alignments))
+				 (sized (if (< (length cells) width)
+										(append cells (make-list (- width (length cells)) ""))
+										(list-head cells width))))
+		(cons 'tr (map (lambda (alignment cell)
+											 (table-cell tag alignment (parse-inline cell)))
+									 alignments
+									 sized))))
+
+(define (collect-table-rows lines)
+	"Consume body rows of a table: contiguous non-blank lines containing a pipe."
+	(let loop ((rest lines) (acc '()))
+		(if (or (null? rest)
+						(blank-line? (car rest))
+						(not (string-index (car rest) #\|)))
+				(values (reverse acc) rest)
+				(loop (cdr rest) (cons (car rest) acc)))))
+
+(define (parse-table-block header-line lines)
+	"Build a (table ...) node. LINES starts at the delimiter row.
+Returns two values: the node and the remaining lines."
+	(let ((alignments (table-delimiter-row (car lines))))
+		(let-values (((body-lines rest) (collect-table-rows (cdr lines))))
+			(values
+			 ;; Wrapped so a wide table scrolls inside its own box instead of
+			 ;; widening the page on a narrow viewport.
+			 `(div (@ (class "table-scroll"))
+				(table
+				 (thead ,(table-row 'th alignments header-line))
+				 ,@(if (null? body-lines)
+							 '()
+							 (list (cons 'tbody
+													 (map (lambda (line) (table-row 'td alignments line))
+															body-lines))))))
+			 rest))))
+
+(define (link-definition-at line)
+	"Parse a \"[key]: url\" or \"[key]: url \\\"title\\\"\" definition into (key url . title), or #f.
+A footnote definition ([^label]: ...) is not one of these."
+	(and (starts-with? line "[")
+			 (not (starts-with? line "[^"))
+			 (let ((key-end (string-index line #\] 1)))
+				 (and key-end
+							(> key-end 1)
+							(< (+ key-end 1) (string-length line))
+							(char=? (string-ref line (+ key-end 1)) #\:)
+							(let* ((rest (string-trim (substring line (+ key-end 2))))
+										 (quote-start (string-index rest #\"))
+										 (url-part (string-trim-right
+																 (if quote-start (substring rest 0 quote-start) rest)))
+										 (title (and quote-start
+																 (let ((close (string-index rest #\" (+ quote-start 1))))
+																	 (and close (substring rest (+ quote-start 1) close)))))
+										 ;; An <angle-bracketed> url is allowed by CommonMark.
+										 (url (if (and (string-prefix? "<" url-part)
+																	 (string-suffix? ">" url-part))
+															(substring url-part 1 (- (string-length url-part) 1))
+															url-part)))
+								(and (not (string-null? url))
+										 (cons (string-downcase (substring line 1 key-end))
+												 (cons url title))))))))
+
+(define (collect-footnote-continuation lines)
+	"Consume the continuation lines of a footnote definition.
+Stops at a blank line or at the next definition, so definitions written on
+consecutive lines stay separate. Returns collected lines and the rest."
+	(let loop ((rest lines) (acc '()))
+		(if (or (null? rest)
+						(blank-line? (car rest))
+						(footnote-definition-at (string-trim-both (car rest))))
+				(values (reverse acc) rest)
+				(loop (cdr rest) (cons (string-trim-both (car rest)) acc)))))
+
+
 (define (paragraph->node text)
 	"Build a (p ...) node from paragraph TEXT, honoring a trailing {#id} anchor."
 	(let-values (((body id) (split-trailing-anchor text)))
@@ -315,6 +531,11 @@ unchanged and #f, so ordinary content containing braces is left alone."
 				(let* ((line (car rest))
 							 (trimmed (string-trim-both line))
 							 (heading (and (not in-code?) (heading-line->node trimmed)))
+							 (footnote-def (and (not in-code?) (footnote-definition-at trimmed)))
+							 (link-def (and (not in-code?) (link-definition-at trimmed)))
+							 (is-table-start (and (not in-code?)
+							 										 (pair? (cdr rest))
+							 										 (table-start? line (cadr rest))))
 							 (is-list-start (and (not in-code?) (list-marker-at line 0)))
 							 (is-fence (starts-with? trimmed "```")))
 					(cond
@@ -348,6 +569,30 @@ unchanged and #f, so ordinary content containing braces is left alone."
 									'()
 									#f
 									code-lines))
+					 (link-def
+					 	(loop (cdr rest)
+					 				(cons (cons 'link-def link-def)
+					 							(flush-paragraph blocks paragraph-lines))
+					 				'()
+					 				#f
+					 				code-lines))
+					 (footnote-def
+					 	(let-values (((extra remaining) (collect-footnote-continuation (cdr rest))))
+					 		(loop remaining
+					 				(cons `(footnote-def ,(car footnote-def)
+					 													 ,@(parse-inline
+					 															(string-join (cons (cdr footnote-def) extra) " ")))
+					 							(flush-paragraph blocks paragraph-lines))
+					 				'()
+					 				#f
+					 				code-lines)))
+					 (is-table-start
+					 	(let-values (((node remaining) (parse-table-block line (cdr rest))))
+					 		(loop remaining
+					 				(cons node (flush-paragraph blocks paragraph-lines))
+					 				'()
+					 				#f
+					 				code-lines)))
 					 (is-list-start
 						(let-values (((list-lines remaining) (collect-list-block rest 0)))
 							(let ((node (parse-list-block list-lines 0)))
@@ -364,6 +609,148 @@ unchanged and #f, so ordinary content containing braces is left alone."
 									(cons trimmed paragraph-lines)
 									#f
 									code-lines)))))))
+
+;;; ---------------------------------------------------------------------------
+;;; Footnotes
+;;;
+;;; Parsing leaves (footnote-ref label) markers in the tree and (footnote-def
+;;; label ...) blocks wherever the definitions were written. This pass numbers
+;;; the references in document order, pulls the definitions out of the flow, and
+;;; appends them as an ordered list with back-links.
+;;; ---------------------------------------------------------------------------
+
+(define (collect-footnote-definitions nodes)
+	"Return two values: NODES without footnote-def blocks, and those blocks in order."
+	(let loop ((rest nodes) (kept '()) (defs '()))
+		(cond
+		 ((null? rest) (values (reverse kept) (reverse defs)))
+		 ((and (pair? (car rest)) (eq? 'footnote-def (caar rest)))
+			(loop (cdr rest) kept (cons (car rest) defs)))
+		 (else (loop (cdr rest) (cons (car rest) kept) defs)))))
+
+(define (footnote-ref-labels node)
+	"List every footnote label referenced in NODE, in document order, with repeats."
+	(match node
+	 (('footnote-ref label) (list label))
+	 ((? string?) '())
+	 (((? symbol?) rest ...) (append-map footnote-ref-labels rest))
+	 ((items ...) (append-map footnote-ref-labels items))
+	 (else '())))
+
+(define (number-footnotes labels defined)
+	"Assign numbers in first-reference order, then to any unreferenced DEFINED
+label. Only defined labels are numbered, so a reference with no definition has
+nothing to point at and is left literal. Returns an alist of (label . number)."
+	(let loop ((rest (append (filter (lambda (label) (member label defined)) labels)
+											 defined))
+					 (seen '())
+					 (n 1))
+		(cond
+		 ((null? rest) (reverse seen))
+		 ((assoc (car rest) seen) (loop (cdr rest) seen n))
+		 (else (loop (cdr rest) (cons (cons (car rest) n) seen) (+ n 1))))))
+
+(define (footnote-ref-node number first?)
+	"Superscript link to a footnote. Only the first reference carries the id the
+back-link targets, since duplicate ids would be invalid."
+	`(sup (@ ,@(if first?
+							 (list (list 'id (string-append "fnref-" (number->string number))))
+							 '())
+					 (class "footnote-ref"))
+			 (a (@ (href ,(string-append "#fn-" (number->string number))))
+					,(number->string number))))
+
+(define (resolve-footnote-refs numbers seen node)
+	"Replace (footnote-ref label) markers with numbered superscript links.
+A reference with no definition stays literal, so nothing is silently dropped.
+SEEN spans the whole document -- it must not be per-node, or every block would
+restart it and re-emit an id that is meant to appear exactly once.
+Recursion is explicitly left-to-right so \"first reference\" means document order."
+	(begin
+		(let walk ((node node))
+			(match node
+			 (('footnote-ref label)
+				(let ((entry (assoc label numbers)))
+					(if entry
+							(let ((first? (not (hash-ref seen label))))
+								(hash-set! seen label #t)
+								(footnote-ref-node (cdr entry) first?))
+							(string-append "[^" label "]"))))
+			 ((? string?) node)
+			 (((? symbol? tag) rest ...)
+				(cons tag (let loop ((rest rest) (acc '()))
+										 (if (null? rest)
+												 (reverse acc)
+												 (loop (cdr rest) (cons (walk (car rest)) acc))))))
+			 ((items ...) (let loop ((rest items) (acc '()))
+											 (if (null? rest)
+													 (reverse acc)
+													 (loop (cdr rest) (cons (walk (car rest)) acc)))))
+			 (else node)))))
+
+(define (footnote-list-node numbers defs)
+	"Build the ordered list of footnote definitions, sorted by assigned number."
+	(let* ((entries (filter-map
+									 (lambda (def)
+										 (let ((entry (assoc (cadr def) numbers)))
+											 (and entry (cons (cdr entry) (cddr def)))))
+									 defs))
+				 (sorted (sort entries (lambda (a b) (< (car a) (car b))))))
+		`(ol (@ (class "footnotes"))
+				 ,@(map (lambda (entry)
+									(let ((number (car entry)))
+										`(li (@ (id ,(string-append "fn-" (number->string number))))
+												 ,@(cdr entry)
+												 " "
+												 (a (@ (href ,(string-append "#fnref-" (number->string number)))
+															 (class "footnote-backref"))
+														,(string #\x21a9)))))
+								sorted))))
+
+(define (resolve-footnotes nodes)
+	"Number footnote references, move definitions to the end, and link the two."
+	(let-values (((body defs) (collect-footnote-definitions nodes)))
+		(if (null? defs)
+				nodes
+				(let* ((numbers (number-footnotes (footnote-ref-labels body)
+																			 (map cadr defs)))
+							 (seen (make-hash-table))
+							 (resolved (map (lambda (node) (resolve-footnote-refs numbers seen node))
+														 body)))
+					(append resolved (list (footnote-list-node numbers defs)))))))
+
+(define (collect-link-definitions nodes)
+	"Return two values: NODES without link-def blocks, and a (key url . title) map."
+	(let loop ((rest nodes) (kept '()) (defs '()))
+		(cond
+		 ((null? rest) (values (reverse kept) (reverse defs)))
+		 ((and (pair? (car rest)) (eq? 'link-def (caar rest)))
+			(loop (cdr rest) kept (cons (cdar rest) defs)))
+		 (else (loop (cdr rest) (cons (car rest) kept) defs)))))
+
+(define (resolve-link-refs definitions node)
+	"Replace (link-ref key raw label ...) markers using DEFINITIONS.
+An unresolved key keeps its original bracketed text, so ordinary prose that
+happens to use brackets -- \"**[CLAIM]**\" and the like -- is left alone."
+	(match node
+	 (('link-ref key raw label ...)
+		(let ((entry (assoc key definitions)))
+			(if entry
+					`(a (@ (href ,(cadr entry))
+								 ,@(if (cddr entry) (list (list 'title (cddr entry))) '()))
+							,@label)
+					raw)))
+	 ((? string?) node)
+	 (((? symbol? tag) rest ...)
+		(cons tag (map (lambda (child) (resolve-link-refs definitions child)) rest)))
+	 ((items ...) (map (lambda (child) (resolve-link-refs definitions child)) items))
+	 (else node)))
+
+(define (resolve-reference-links nodes)
+	"Apply [key]: url definitions to the reference-link markers left by parsing."
+	(let-values (((body definitions) (collect-link-definitions nodes)))
+		(map (lambda (node) (resolve-link-refs definitions node)) body)))
+
 (define (text-from-sxml node)
 	"Extract all text content from an SXML node, recursively."
 	(cond
@@ -530,8 +917,10 @@ the match. Both ends of a range become their own link, so either end of
 						second-end)))
 		(values (list (scripture-link label anchor)) chapter-end)))
 
-(define (linkify-scripture-string text)
-	"Split TEXT into a list of plain strings and scripture link nodes."
+(define (linkify-string-with match-at text)
+	"Split TEXT into a list of plain strings and link nodes.
+MATCH-AT is tried at each word start and returns two values: a list of nodes for
+the match (or #f) and the index just past it."
 	(let ((len (string-length text)))
 		(let loop ((i 0) (plain-start 0) (nodes '()))
 			(define (flush end)
@@ -550,31 +939,150 @@ the match. Both ends of a range become their own link, so either end of
 			 ((not (or (= i 0) (not (word-char? (string-ref text (- i 1))))))
 			  (loop (+ i 1) plain-start nodes))
 			 (else
-			  (let-values (((matched end) (match-reference-at text i)))
+			  (let-values (((matched end) (match-at text i)))
 				(if matched
 					(loop end end (append (reverse matched) (flush i)))
 					(loop (+ i 1) plain-start nodes))))))))
 
-(define %scripture-opaque-tags
+(define (linkify-scripture-string text)
+	"Split TEXT into a list of plain strings and scripture link nodes."
+	(linkify-string-with match-reference-at text))
+
+(define %opaque-tags
 	;; Nodes whose contents must never be touched: attribute lists (their values
 	;; are URLs, not prose), existing links (nesting an <a> is invalid), code, raw
 	;; passthrough, and headings (add-heading-anchors wraps those in an <a>
 	;; afterwards, which would nest too).
 	'(@ a code pre script style raw doctype h1 h2 h3 h4 h5 h6))
 
-(define (linkify-scripture-node node)
-	"Return a list of nodes replacing NODE, linking any scripture references."
+(define (linkify-node split-text node)
+	"Return a list of nodes replacing NODE, applying SPLIT-TEXT to its prose."
 	(match node
-	 ((? string? text) (linkify-scripture-string text))
+	 ((? string? text) (split-text text))
 	 (((? symbol? tag) rest ...)
-	  (if (memq tag %scripture-opaque-tags)
+	  (if (memq tag %opaque-tags)
 		  (list node)
-		  (list (cons tag (append-map linkify-scripture-node rest)))))
-	 ((items ...) (list (append-map linkify-scripture-node items)))
+		  (list (cons tag (append-map (lambda (child) (linkify-node split-text child))
+									  rest)))))
+	 ((items ...) (list (append-map (lambda (child) (linkify-node split-text child))
+								   items)))
 	 (else (list node))))
 
+(define (linkify-nodes split-text nodes)
+	(append-map (lambda (node) (linkify-node split-text node)) nodes))
+
 (define (linkify-scripture nodes)
-	(append-map linkify-scripture-node nodes))
+	(linkify-nodes linkify-scripture-string nodes))
+
+;;; ---------------------------------------------------------------------------
+;;; Confession reference linking
+;;;
+;;; Turns bare confessional citations ("LBCF 23.4", "WCF 22", "1689 ch. 23") into
+;;; links to baptistconfession.org, which hosts both confessions one paragraph
+;;; per page. Mirrors the scripture linker above and shares its tree walk.
+;;; ---------------------------------------------------------------------------
+
+(define %confession-base-url "https://baptistconfession.org/")
+
+(define %confessions
+	;; (name . url-path-prefix), longest name first so "Westminster Confession"
+	;; is never truncated to a shorter alias and "2LBCF" wins over "LBCF".
+	(sort
+	 '(("Second London Baptist Confession" . "")
+	   ("Westminster Confession" . "wcf/")
+	   ("Baptist Confession" . "")
+	   ("2LBCF" . "")
+	   ("LBCF" . "")
+	   ("WCF" . "wcf/")
+	   ("1689" . ""))
+	 (lambda (a b) (> (string-length (car a)) (string-length (car b))))))
+
+(define (match-confession-name-at text i)
+	"Return two values: the url path prefix of a confession named at I (or #f) and its end."
+	(let loop ((entries %confessions))
+		(if (null? entries)
+			(values #f i)
+			(let* ((entry (car entries))
+				   (name (car entry))
+				   (end (+ i (string-length name))))
+				(if (and (starts-with-at? text i name)
+						 (or (>= end (string-length text))
+							 (not (word-char? (string-ref text end)))))
+					(values (cdr entry) end)
+					(loop (cdr entries)))))))
+
+(define (skip-spaces text i)
+	(let loop ((j i))
+		(if (and (< j (string-length text)) (char=? (string-ref text j) #\space))
+			(loop (+ j 1))
+			j)))
+
+(define (skip-confession-year text i)
+	"Skip a parenthesized year, as in \"Second London Baptist Confession (1689) ch. 23\"."
+	(let ((j (skip-spaces text i)))
+		(if (and (< j (string-length text)) (char=? (string-ref text j) #\())
+			(let-values (((year year-end) (scan-digits text (+ j 1))))
+				(if (and year
+						 (< year-end (string-length text))
+						 (char=? (string-ref text year-end) #\)))
+					(+ year-end 1)
+					i))
+			i)))
+
+(define (skip-chapter-word text i)
+	"Skip a \"ch.\", \"chap.\" or \"chapter\" lead-in before the chapter number."
+	(let ((j (skip-spaces text i)))
+		(cond
+		 ((starts-with-at? text j "chapter") (+ j 7))
+		 ((starts-with-at? text j "chap.") (+ j 5))
+		 ((starts-with-at? text j "ch.") (+ j 3))
+		 (else i))))
+
+(define (confession-link label path chapter paragraph)
+	`(a (@ (href ,(string-append %confession-base-url
+								 path
+								 (number->string chapter)
+								 "."
+								 (number->string paragraph))))
+		,label))
+
+(define (match-confession-at text i)
+	"Try to read a confessional citation starting at I.
+Returns two values: a list of SXML nodes for it (or #f) and the index just past
+the match. A chapter-only citation links to that chapter's first paragraph,
+since the source site publishes no chapter-level page."
+	(let-values (((path name-end) (match-confession-name-at text i)))
+		(if (not path)
+			(values #f i)
+			(let* ((after-year (skip-confession-year text name-end))
+				   (after-word (skip-chapter-word text after-year))
+				   (number-start (skip-spaces text after-word)))
+				;; A name on its own is not a citation -- there is nothing to link to.
+				(if (= number-start name-end)
+					(values #f i)
+					(let-values (((chapter chapter-end) (scan-digits text number-start)))
+						(if (not chapter)
+							(values #f i)
+							;; Only treat "." as a paragraph separator when a digit follows,
+							;; so a citation ending a sentence ("WCF 23.") stays intact.
+							(let*-values (((separated?)
+											 (and (< (+ chapter-end 1) (string-length text))
+												  (char=? (string-ref text chapter-end) #\.)
+												  (char-numeric? (string-ref text (+ chapter-end 1)))))
+										  ((paragraph paragraph-end)
+										   (if separated?
+											   (scan-digits text (+ chapter-end 1))
+											   (values #f chapter-end))))
+								(values (list (confession-link (substring text i paragraph-end)
+															  path chapter (or paragraph 1)))
+										paragraph-end)))))))))
+
+(define (linkify-confession-string text)
+	"Split TEXT into a list of plain strings and confession link nodes."
+	(linkify-string-with match-confession-at text))
+
+(define (linkify-confessions nodes)
+	(linkify-nodes linkify-confession-string nodes))
 
 (define (attribute-node? node)
 	"True if NODE is an SXML attribute list, e.g. (@ (id \"x\"))."
@@ -624,19 +1132,22 @@ the heading element instead, since nesting an <a> inside an <a> is invalid."
 							(title "Page")))
 			(add-heading-anchors? #t)
 			(scripture-links? #t)
+			(confession-links? #t)
 			(frontmatter-title? #f)
 			(extra-body-prefix '())
 			(extra-body-suffix '()))
 	"Read markdown from INPUT-PORT, skip YAML-style frontmatter, and write HTML to OUTPUT-PORT.
 If FULL-PAGE? is true, wrap in a complete HTML document structure with DOCTYPE, head, and body.
 HEAD is a list of SXML elements to include in the head tag.
+Bare scripture and confession citations in prose are linked unless disabled.
 If ADD-HEADING-ANCHORS? is true (default), wrap heading tags with clickable anchor links.
 If FRONTMATTER-TITLE? is true, prepend an h1 from the frontmatter 'title' field.
 EXTRA-BODY-PREFIX is a list of SXML nodes prepended before the content (e.g. a backlink header)."
 	(let* ((lines (read-lines input-port))
 				 (fm (parse-frontmatter lines))
 				 (content-lines (drop-frontmatter lines))
-				 (nodes (parse-markdown content-lines))
+				 (nodes (resolve-footnotes
+				 						 (resolve-reference-links (parse-markdown content-lines))))
 				 (title-node
 					(and frontmatter-title?
 							 (assq-ref fm 'title)
@@ -651,7 +1162,14 @@ EXTRA-BODY-PREFIX is a list of SXML nodes prepended before the content (e.g. a b
 				 ;; would add tens of thousands of self-references.
 				 (link-scripture? (and scripture-links?
 															 (not (equal? (assq-ref fm 'scripture-links) "false"))))
-				 (linked-nodes (if link-scripture? (linkify-scripture body-nodes) body-nodes))
+				 (scripture-nodes (if link-scripture? (linkify-scripture body-nodes) body-nodes))
+				 ;; Confessional citations ("LBCF 23.4", "WCF 22") link out the same way;
+				 ;; a page opts out with "confession-links: false" in its frontmatter.
+				 (link-confessions? (and confession-links?
+															 (not (equal? (assq-ref fm 'confession-links) "false"))))
+				 (linked-nodes (if link-confessions?
+								  (linkify-confessions scripture-nodes)
+								  scripture-nodes))
 				 (processed-nodes (if add-heading-anchors? (add-heading-anchors linked-nodes) linked-nodes)))
 		(if full-page?
 				(let ((page `((doctype html)

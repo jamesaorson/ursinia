@@ -46,3 +46,41 @@ a:visited {
 li a {
   list-style-type: disclosure-closed;
 }
+
+/* Tables scroll inside their own box so a wide one never widens the page. */
+.table-scroll {
+  overflow-x: auto;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+
+th,
+td {
+  border: 1px solid var(--color-secondary);
+  padding: 0.35rem 0.6rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  font-weight: 600;
+}
+
+/* Footnotes read as apparatus, not body text. */
+.footnote-ref {
+  line-height: 0;
+}
+
+.footnotes {
+  font-size: 0.9em;
+  border-top: 1px solid var(--color-secondary);
+  margin-top: 2rem;
+  padding-top: 0.5rem;
+}
+
+.footnote-backref {
+  text-decoration: none;
+}
