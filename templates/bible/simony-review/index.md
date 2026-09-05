@@ -46,3 +46,15 @@ title: Ursinia - Bible - Simony Review
 - Improved by scripture reference:
   - "The church’s power to bind and loose—to discipline and restore—is spiritual."
   - Matthew 18:18
+
+### [Chapter 4](https://simony.info/#ch4)
+
+All good
+
+### [Chapter 5](https://simony.info/#ch5)
+
+- Just noticed it now, but is the use of the word "we" simply a rhetorical technique while writing something like this?
+  Who is the we? This may just be my own ignorance here, and if so, report back to me what my misunderstanding is.
+  - Example: From there, we will consider the simoniacal nature of withholding spiritual things, whether by silence, false
+    teaching, or refusal to minister. Finally, we will survey the broader circle of guilt, tracing the ways one may participate
+    indirectly in the sin.
