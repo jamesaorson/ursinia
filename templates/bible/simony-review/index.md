@@ -17,6 +17,8 @@ title: Ursinia - Bible - Simony Review
     well."
 - Hover tooltip for Greek terms
   - Example: δογμάτων
+- Sometimes include the text of a verse inline, rather than just the tooltip
+  - Example: the curse of Jeremiah 48:10 (“Cursed is he who does the work of the Lord fraudulently”)
 
 ### [Chapter 3](https://simony.info/#ch3)
 
