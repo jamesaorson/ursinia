@@ -15,6 +15,8 @@ title: Ursinia - Bible - Simony Review
   - Latin inline, followed by the English between commas - "ex opere operato, on account of the work itself,"
   - Latin inline, followed by english after an emdash - "qui bene distinguit, bene docet—he who distinguishes well teaches
     well."
+- Hover tooltip for Greek terms
+  - Example: δογμάτων
 
 ### [Chapter 3](https://simony.info/#ch3)
 
@@ -42,3 +44,4 @@ title: Ursinia - Bible - Simony Review
 - Improved by scripture reference:
   - "The church’s power to bind and loose—to discipline and restore—is spiritual."
   - Matthew 18:18
+-
