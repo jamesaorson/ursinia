@@ -75,3 +75,7 @@ All good
 ### [Chapter 8](https://simony.info/#ch8)
 
 All good
+
+### [Chapter 9](https://simony.info/#ch9)
+
+All good
