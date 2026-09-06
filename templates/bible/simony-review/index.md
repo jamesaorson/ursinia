@@ -59,7 +59,12 @@ All good
     teaching, or refusal to minister. Finally, we will survey the broader circle of guilt, tracing the ways one may participate
     indirectly in the sin.
 
-### [Chapter 6](https://simony.info/#c6)
+### [Chapter 6](https://simony.info/#ch6)
 
 - Unclear as to what the quote believes can be bought and sold, or sacred things. sounds contradictory to the thesis/deserves explanation as to the author’s particular view.
   - Quote: He gave several examples: we are to “buy without silver” (Isa. 55:1), teachers are to receive a temporal stipend in the context of their instruction (1 Cor. 9:11), and sacred things may in some cases be bought and sold.
+
+### [Chapter 7](https://simony.info/#ch7)
+
+- Who is contending that it is fine? Pascal, the Jesuits, or both?
+  - Quote: In a relatively extreme example, Blaise Pascal contended with the Jesuit casuistry that would permit selling spiritual things so long as money was offered as a “motive” rather than a “price.”
