@@ -74,12 +74,16 @@ All good
 
 ### [Chapter 8](https://simony.info/#ch8)
 
-All good
+All good.
 
 ### [Chapter 9](https://simony.info/#ch9)
 
-All good
+All good.
 
 ### [Chapter 10](https://simony.info/#ch10)
 
-All good
+All good. Found this section to have enjoyable historical facts for external parties.
+
+### [Chapter 11](https://simony.info/#ch11)
+
+All good. Really enjoyed this section as a way to handle the biblicist.
