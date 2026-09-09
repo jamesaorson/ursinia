@@ -103,3 +103,11 @@ All good.
 ### [Chapter 14](https://simony.info/#ch14)
 
 All good, and especially liked the points in the LLM section.
+
+### [Chapter 15](https://simony.info/#ch15)
+
+- Conceptually I understand the "reciprocity" stuff, due to familiarity with the teaching
+  - However, I do think people coming to this will easily misunderstand how God functions between the "giver" and "minister",
+    since their money is either being directly given to the minister, or done so via an intermediary entity like a church
+    bank account.
+  - So, how does one avoid "direct obligation" being present in the relationship? How does the church orient itself practically?
