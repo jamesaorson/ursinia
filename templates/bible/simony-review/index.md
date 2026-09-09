@@ -99,3 +99,7 @@ All good.
     the same as one another. Is it just "error", or "damnable error"?
   - I have run into this issue myself in other circles of professed Christians and "Christian" sects as well, so there is
     a need for intense clarity.
+
+### [Chapter 14](https://simony.info/#ch14)
+
+All good, and especially liked the points in the LLM section.
