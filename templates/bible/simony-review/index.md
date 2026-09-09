@@ -87,3 +87,7 @@ All good. Found this section to have enjoyable historical facts for external par
 ### [Chapter 11](https://simony.info/#ch11)
 
 All good. Really enjoyed this section as a way to handle the biblicist.
+
+### [Chapter 12](https://simony.info/#ch12)
+
+All good.
