@@ -111,3 +111,6 @@ All good, and especially liked the points in the LLM section.
     since their money is either being directly given to the minister, or done so via an intermediary entity like a church
     bank account.
   - So, how does one avoid "direct obligation" being present in the relationship? How does the church orient itself practically?
+- The link to Philippians 4:18 has no link:
+  - Quote: he identified their gift in Philippians 2:30 as a due service to him, and in 4:18 as a sort of payment to him
+    but a sacrifice to God.
