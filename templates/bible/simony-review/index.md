@@ -91,3 +91,11 @@ All good. Really enjoyed this section as a way to handle the biblicist.
 ### [Chapter 12](https://simony.info/#ch12)
 
 All good.
+
+### [Chapter 13](https://simony.info/#ch13)
+
+- Consider having a beginning section to explain the meaning of the word "heresy" by the writers you quote.
+  - We have run into this issue within conversations in our own church where people don't understand "heresy" as meaning
+    the same as one another. Is it just "error", or "damnable error"?
+  - I have run into this issue myself in other circles of professed Christians and "Christian" sects as well, so there is
+    a need for intense clarity.
