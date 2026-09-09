@@ -19,6 +19,7 @@ title: Ursinia - Bible - Simony Review
   - Example: δογμάτων
 - Sometimes include the text of a verse inline, rather than just the tooltip
   - Example: the curse of Jeremiah 48:10 (“Cursed is he who does the work of the Lord fraudulently”)
+- Verse references that exist just as "chapter:verse" do not work, and need to be linked via context. Chapter 15 and 16 contain examples.
 
 ### [Chapter 3](https://simony.info/#ch3)
 
@@ -121,3 +122,6 @@ All good, and especially liked the points in the LLM section.
 ## [Chapter 16](https://simony.info/#ch16)
 
 - Heresy is defined here. That definition may be best also lifted into [chapter 13](https://simony.info/#ch13).
+- Links to verses that do not work because they are bare numbers:
+  - Quote: Second, the proclamation of the gospel is not a mere vessel for its message; the “word of his grace” (Acts 14:3; 20:32)
+  - Quote: It is not merely that the word of God ought to be offered “without money and without price” (Isa. 55:1; cf. Rev. 21:6; 22:17)
