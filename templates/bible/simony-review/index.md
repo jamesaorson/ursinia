@@ -125,3 +125,4 @@ All good, and especially liked the points in the LLM section.
 - Links to verses that do not work because they are bare numbers:
   - Quote: Second, the proclamation of the gospel is not a mere vessel for its message; the “word of his grace” (Acts 14:3; 20:32)
   - Quote: It is not merely that the word of God ought to be offered “without money and without price” (Isa. 55:1; cf. Rev. 21:6; 22:17)
+  - Quote: After all, the New Testament regards Balaam as chief among deplorable mercenary prophets (2 Pet. 2:15; Jude 11), but all his words were true (Num. 22:38; 23:12).
