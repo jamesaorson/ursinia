@@ -117,3 +117,7 @@ All good, and especially liked the points in the LLM section.
 - Is not clear whether or not we are allowed to have parachurch organizations.
   - It is clear that they should not ask for money for what they do.
   - It is clear that they collapse the definitions when called ministry.
+
+## [Chapter 16](https://simony.info/#ch16)
+
+- Heresy is defined here. That definition may be best also lifted into [chapter 13](https://simony.info/#ch13).
