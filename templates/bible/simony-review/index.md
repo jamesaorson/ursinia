@@ -114,3 +114,6 @@ All good, and especially liked the points in the LLM section.
 - The link to Philippians 4:18 has no link:
   - Quote: he identified their gift in Philippians 2:30 as a due service to him, and in 4:18 as a sort of payment to him
     but a sacrifice to God.
+- Is not clear whether or not we are allowed to have parachurch organizations.
+  - It is clear that they should not ask for money for what they do.
+  - It is clear that they collapse the definitions when called ministry.
