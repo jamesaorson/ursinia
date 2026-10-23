@@ -49,6 +49,10 @@ title: Papa - Readings
 
   [Image](https://s3proxy.cdn-zlib.sk/covers400/collections/userbooks/e3ab45fdf3f0bb643744d7382427e99a2d45926130ea255da1171281029705c1.jpg)
 
+## Poems
+
+- [Meditations on Smoking Tobacco; or, Smoking Spiritualized](/papa/readings/meditations-on-smoking-tobacco)
+
 ## [My Goodreads Profile...](https://www.goodreads.com/user/show/171102796-james-orson)
 
 ## Self-Hosted (downloads a file)
