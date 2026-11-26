@@ -1,0 +1,62 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+gen	theoldtestamenti00unknuoft	135	1	σοι	ἐνεδείξαντο:	σοι	σοι	class R6 (OCR letters differ): the other OCR reading agrees with c
+gen	theoldtestamenti00unknuoft	135	1	ἐνεδείξαντο:	∅	ἐνεδείξαντο·	ἐνεδείξαντο·	class R2+R0: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	135	2	∅	∅	τοῦ	τοῦ	image (3x): τοῦ is the first word of the line; both OCRs dropped it
+gen	theoldtestamenti00unknuoft	135	2	πατρός	πατρός	πατρός	πατρός	image (3x): acute before enclitic as printed
+gen	theoldtestamenti00unknuoft	135	2	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	image (3x): smooth breathing on capital (diphthong: on second vowel); accent as printed
+gen	theoldtestamenti00unknuoft	135	3	καὶ	18 +καἱ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+gen	theoldtestamenti00unknuoft	135	3	Οἵδε	Οἵδε	Οἵδε	Οἵδε	image (3x): capital Ο unmarked, rough breathing and acute on ι
+gen	theoldtestamenti00unknuoft	135	3	Kal	""καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	135	3	εἶπεν	εἰπεν	εἶπεν	εἶπεν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+gen	theoldtestamenti00unknuoft	135	4	Ἰωσήφ	Ἰωσήφ	Ἰωσήφ	Ἰωσήφ	image (3x): smooth breathing on capital (diphthong: on second vowel); accent as printed
+gen	theoldtestamenti00unknuoft	135	4	rod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	135	4	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	135	4	εἰμί:	εἰμί:	εἰμί·	εἰμί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	135	4	“ὑμεῖς	“ὑμεῖς	ὑμεῖς	ὑμεῖς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	135	4	€Bovdev-	ἐβουλεύ-	ἐβουλεύ-	ἐβουλεύ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	135	5	ὃ	ὃ	ὁ	ὁ	image (3x): rough breathing only, no accent (article)
+gen	theoldtestamenti00unknuoft	135	6	iva	ἵνα	ἵνα	ἵνα	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	135	6	εἶπεν	“"εἰπεν	εἶπεν	εἶπεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+gen	theoldtestamenti00unknuoft	135	7	φοβεῖσθε:	φοβεῖσθε:	φοβεῖσθε·	φοβεῖσθε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	135	8	καρδίαν.	καρδίαν. +555	καρδίαν.	καρδίαν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	135	9	$2 +Kal	Καὶ	Καὶ	Καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+gen	theoldtestamenti00unknuoft	135	9	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	image (3x): smooth breathing on capital (diphthong: on second vowel); accent as printed
+gen	theoldtestamenti00unknuoft	135	9	Αἰγύπτῳ,	Αἰγύπτῳ,	Αἰγύπτῳ,	Αἰγύπτῳ,	image (3x): smooth breathing on capital (diphthong: on second vowel); accent as printed
+gen	theoldtestamenti00unknuoft	135	10	αὐτοῦ"	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	135	10	ἔζησεν	ἔζησεν +3	ἔζησεν	ἔζησεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	135	10	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	image (3x): smooth breathing on capital (diphthong: on second vowel); accent as printed
+gen	theoldtestamenti00unknuoft	135	11	kal	“53καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	135	11	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	image (3x): smooth breathing on capital (diphthong: on second vowel); accent as printed
+gen	theoldtestamenti00unknuoft	135	11	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing on capital (diphthong: on second vowel); accent as printed
+gen	theoldtestamenti00unknuoft	135	11	γενεᾶς"	γενεᾶς"	γενεᾶς·	γενεᾶς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	135	11	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before capitalized name (not a quotation)
+gen	theoldtestamenti00unknuoft	135	12	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	135	12	loon. +34	Ἰωσήφ.	Ἰωσήφ.	Ἰωσήφ.	image (3x): smooth breathing on capital (diphthong: on second vowel); accent as printed
+gen	theoldtestamenti00unknuoft	135	12	καὶ	“Γκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	135	13	Ἰωσὴφ	Ιωσὴφ	Ἰωσὴφ	Ἰωσὴφ	image (3x): smooth breathing on capital (diphthong: on second vowel); accent as printed
+gen	theoldtestamenti00unknuoft	135	13	Ἐγὼ	Ἐγὼ	Ἐγὼ	Ἐγὼ	image (3x): smooth breathing on capital (diphthong: on second vowel); accent as printed
+gen	theoldtestamenti00unknuoft	135	13	ἀποθνήσκω"	ἀποθνήσκω"	ἀποθνήσκω·	ἀποθνήσκω·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	135	14	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+gen	theoldtestamenti00unknuoft	135	15	ὦμοσεν	ὦμοσεν	ὤμοσεν	ὤμοσεν	image (4x): smooth breathing plus acute on ω, not circumflex
+gen	theoldtestamenti00unknuoft	135	15	ὃ	ὃ	ὁ	ὁ	image (3x): rough breathing only, no accent (article)
+gen	theoldtestamenti00unknuoft	135	15	Ἀβραὰμ	3 +Αβραὰμ	Ἀβραὰμ	Ἀβραὰμ	image (3x): smooth breathing on capital (diphthong: on second vowel); accent as printed
+gen	theoldtestamenti00unknuoft	135	15	καὶ	καὶ +Ὁ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	135	15	Ἰσαὰκ	Ἰσαὰκ	Ἰσαὰκ	Ἰσαὰκ	image (3x): smooth breathing on capital (diphthong: on second vowel); accent as printed
+gen	theoldtestamenti00unknuoft	135	16	Ἰακώβ.	Ἰακώβ.	Ἰακώβ.	Ἰακώβ.	image (3x): smooth breathing on capital (diphthong: on second vowel); accent as printed
+gen	theoldtestamenti00unknuoft	135	16	“Ξκαὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	135	16	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	image (3x): smooth breathing on capital (diphthong: on second vowel); accent as printed
+gen	theoldtestamenti00unknuoft	135	16	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave before capitalized name (not a quotation)
+gen	theoldtestamenti00unknuoft	135	16	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital (diphthong: on second vowel); accent as printed
+gen	theoldtestamenti00unknuoft	135	16	Ἔν	Ἔν	Ἐν	Ἐν	image (3x): smooth breathing on capital (diphthong: on second vowel); accent as printed
+gen	theoldtestamenti00unknuoft	135	17	ἣ	ἣἧ	ᾗ	ᾗ	image (3x): rough breathing, circumflex and iota subscript
+gen	theoldtestamenti00unknuoft	135	18	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	image (3x): smooth breathing on capital (diphthong: on second vowel); accent as printed
+gen	theoldtestamenti00unknuoft	135	18	δέκα:	δέκα:	δέκα·	δέκα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	135	19	αὑτον	αὑτον	αὐτὸν	αὐτὸν	image (3x): smooth breathing on υ, grave on ο
+gen	theoldtestamenti00unknuoft	135	19	Και	Και	καὶ	καὶ	image (3x): breathing and accent as printed
+gen	theoldtestamenti00unknuoft	135	19	εν	εν	ἐν	ἐν	image (3x): breathing and accent as printed
+gen	theoldtestamenti00unknuoft	135	19	ΤΊ	ΤΊ	τῇ	τῇ	image (3x): circumflex with iota subscript
+gen	theoldtestamenti00unknuoft	135	19	σόορῳ	σόορῳ	σορῷ	σορῷ	image (3x): circumflex with iota subscript
+gen	theoldtestamenti00unknuoft	135	19	εν	εν	ἐν	ἐν	image (3x): breathing and accent as printed
+gen	theoldtestamenti00unknuoft	135	19	Αἰγύπτῳ.	Αἰγυπτῳ.	Αἰγύπτῳ.	Αἰγύπτῳ.	image (3x): smooth breathing on capital (diphthong: on second vowel); accent as printed
+gen	theoldtestamenti00unknuoft	135	4	-	-	εἰμί·	εἰμί·	image (4x): printed ἐγὼ εἰμί· (grave on ἐγὼ, acute on εἰμί), unusual enclitic accentuation, kept as printed
+gen	theoldtestamenti00unknuoft	135	8	-	-	αὐτῶν	αὐτῶν	image (3x): small dot low between αὐτῶν and εἰς is a speck, not punctuation

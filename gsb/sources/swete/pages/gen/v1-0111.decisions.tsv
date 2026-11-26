@@ -1,0 +1,79 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+gen	theoldtestamenti00unknuoft	111	1	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	3	ἄχει:	ἄχει:	ἄχει·	ἄχει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	3	ϑἄλλαι	ϑἄλλαι	ἄλλαι	ἄλλαι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	5	ἄχει	ἄχει:	ἄχει·	ἄχει·	image (3x): ἄχει then ano teleia
+gen	theoldtestamenti00unknuoft	111	5	ἔφαγον	“καὶ	καὶ	καὶ	image (3x): verse superscript 4 then καὶ
+gen	theoldtestamenti00unknuoft	111	5	∅	κατέφαγον	κατέφαγον	κατέφαγον	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	7	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	7	δεύτερον:	δεύτερον:	δεύτερον·	δεύτερον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	8	καλοί: +6	καλοί: +5	καλοί·	καλοί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	9	αὐτούς"	αὐτούς"	αὐτούς·	αὐτούς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	10	∅	7 +᾿καὶ	καὶ	καὶ	image (3x): verse superscript 7 then καὶ; margin 7 outside text
+gen	theoldtestamenti00unknuoft	111	10	∅	κατέπιον	κατέπιον	κατέπιον	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	10	∅	οἱ	οἱ	οἱ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	10	∅	ἑπτὰ	ἑπτὰ	ἑπτὰ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	10	∅	στάχυες	στάχυες	στάχυες	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	10	∅	οἱ	οἱ	οἱ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	10	∅	λεπτοὶ	λεπτοὶ	λεπτοὶ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	10	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	10	∅	ἀνεμόφθοροι	ἀνεμόφθοροι	ἀνεμόφθοροι	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	10	∅	τοὺς	τοὺς	τοὺς	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	10	∅	ἑπτὰ	ἑπτὰ	ἑπτὰ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	11	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	11	jv	ἣν	ἦν	ἦν	image (3x): ἦν smooth breathing with circumflex
+gen	theoldtestamenti00unknuoft	111	12	“ἐγένετο	“έγένετο	ἐγένετο	ἐγένετο	image (3x): verse superscript 8 then ἐγένετο, smooth breathing
+gen	theoldtestamenti00unknuoft	111	13	ἐξηγητὰς	ἐξηγητὰς	ἐξηγητὰς	ἐξηγητὰς	image (3x): grave before a capitalized name (not a quotation)
+gen	theoldtestamenti00unknuoft	111	13	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing on ι of Αἰ
+gen	theoldtestamenti00unknuoft	111	14	αὐτῆς-	αὐτῆς-	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	14	ἢν	ἢν	ἦν	ἦν	image (3x): ἦν smooth breathing with circumflex
+gen	theoldtestamenti00unknuoft	111	16	σήμερον.	σήμερον. +το	σήμερον.	σήμερον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	17	ὠργίσθη	ργίσθη	ὠργίσθη	ὠργίσθη	class R6 (OCR letters differ): the other OCR reading agrees with c
+gen	theoldtestamenti00unknuoft	111	18	∅	τοῦ	τοῦ	τοῦ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	18	∅	ἀρχιδεσμοφύλακος,	ἀρχιδεσμοφύλακος,	ἀρχιδεσμοφύλακος,	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	18	∅	ἐμέ	ἐμέ	ἐμέ	image (3x): acute before enclitic
+gen	theoldtestamenti00unknuoft	111	18	∅	τε	τε	τε	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	18	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	18	∅	τὸν	τὸν	τὸν	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	18	∅	ἀρχισιτοποιόν:	ἀρχισιτοποιόν·	ἀρχισιτοποιόν·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	18	∅	“καὶ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	18	∅	ἴδομεν	ἴδομεν	ἴδομεν	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	19	∅	ἐνύπνιον	ἐνύπνιον	ἐνύπνιον	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	19	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	19	∅	νυκτὶ	νυκτὶ	νυκτὶ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	19	∅	μιᾷ,	μιᾷ,	μιᾷ,	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	19	∅	ἐγὼ	ἐγὼ	ἐγὼ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	19	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	19	∅	αὐτός:	αὐτός·	αὐτός·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	19	∅	ἕκαστος	ἕκαστος	ἕκαστος	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	19	∅	κατὰ	κατὰ	κατὰ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	19	∅	τὸ	τὸ	τὸ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	19	∅	αὐτοῦ	αὐτοῦ	αὐτοῦ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	19	∅	ἐνύπνιον	ἐνύπνιον	ἐνύπνιον	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	20	∅	ἴδομεν.	ἴδομεν.	ἴδομεν.	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	20	∅	“ἦν	ἦν	ἦν	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	20	∅	δὲ	δὲ	δὲ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	20	∅	ἐκεῖ	ἐκεῖ	ἐκεῖ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	20	∅	μεθ᾽	μεθ᾽	μεθ᾽	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	20	∅	ἡμῶν	ἡμῶν	ἡμῶν	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	20	∅	νεανίσκος	νεανίσκος	νεανίσκος	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	20	∅	παῖς	παῖς	παῖς	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	20	∅	Ἔβραῖος	Ἐβραῖος	Ἐβραῖος	image (3x): smooth breathing on Ε
+gen	theoldtestamenti00unknuoft	111	20	∅	τοῦ	τοῦ	τοῦ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	20	∅	ἀρχιμα-	ἀρχιμα-	ἀρχιμα-	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	21	"3Ξἐγενήθη	"᾿ἐγενήθη	ἐγενήθη	ἐγενήθη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	21	Oe	δὲ	δὲ	δὲ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	22	ἐμέ	ἐμέ	ἐμέ	ἐμέ	image (3x): acute before enclitic
+gen	theoldtestamenti00unknuoft	111	23	ἀρχήν	ἀρχήν	ἀρχήν	ἀρχήν	image (3x): acute before enclitic
+gen	theoldtestamenti00unknuoft	111	23	κρεμασθῆ	κρεμασθῆναι.	κρεμασθῆναι.	κρεμασθῆναι.	class R6 (OCR letters differ): the other OCR reading agrees with c
+gen	theoldtestamenti00unknuoft	111	23	"4 +A ποστείλας	Αποστείλας	Ἀποστείλας	Ἀποστείλας	image (3x): verse superscript 14 then Ἀποστείλας, smooth breathing on Α
+gen	theoldtestamenti00unknuoft	111	24	Φαραὼ	Φα +ραὼ	Φαραὼ	Φαραὼ	class R6 (OCR letters differ): the other OCR reading agrees with c
+gen	theoldtestamenti00unknuoft	111	24	τὸν	τὸν +Ἷ	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	24	Ἰωσήφ,	Ἰωσήφ,	Ἰωσήφ,	Ἰωσήφ,	image (3x): smooth breathing on Ι
+gen	theoldtestamenti00unknuoft	111	24	ὀχυρώματος	ὀχυρώματος +,	ὀχυρώματος·	ὀχυρώματος·	image (3x): ano teleia after ὀχυρώματος
+gen	theoldtestamenti00unknuoft	111	26	"δεἶπεν	"δεἶπεν	εἶπεν	εἶπεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	111	26	Ἰωσήφ	Ἰωσήφ	Ἰωσήφ	Ἰωσήφ	image (3x): smooth breathing on Ι, acute on η before capitalized quotation
+gen	theoldtestamenti00unknuoft	111	26	“Evvmviv	Ἐνύπνιον	Ἐνύπνιον	Ἐνύπνιον	image (3x): smooth breathing on Ε
+gen	theoldtestamenti00unknuoft	111	26	ὃ	ὁ	ὁ	ὁ	image (3x): ὁ rough breathing, no accent
+gen	theoldtestamenti00unknuoft	111	1	-	-	ἑστάναι	ἑστάναι	image (4x): rough breathing on ε confirmed; no OCR disagreement
+gen	theoldtestamenti00unknuoft	111	1	-	-	ποταμοῦ,	ποταμοῦ,	ambiguous: light grave-like speck over τα of the first ποταμοῦ; read as a speck, no accent there

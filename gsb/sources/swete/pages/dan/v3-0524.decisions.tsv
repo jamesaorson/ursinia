@@ -1,0 +1,44 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan	oldtestgreek00unknuoft	524	1	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word
+dan	oldtestgreek00unknuoft	524	3	οἴνῳ,	᾿	οἴνῳ,	οἴνῳ,	c read from the image strip; dissent is a known OCR failure (Γ read as Τ, [ ] read as Ϊ/ί/], diacritics dropped or doubled, junk); not separately zoomed
+dan	oldtestgreek00unknuoft	524	3	καὶ	οινῷ,	καὶ	καὶ	c read from the image strip; dissent is a known OCR failure (Γ read as Τ, [ ] read as Ϊ/ί/], diacritics dropped or doubled, junk); not separately zoomed
+dan	oldtestgreek00unknuoft	524	3	ἠξίωσεν	και ἢ σεν	ἠξίωσεν	ἠξίωσεν	c read from the image strip; dissent is a known OCR failure (Γ read as Τ, [ ] read as Ϊ/ί/], diacritics dropped or doubled, junk); not separately zoomed
+dan	oldtestgreek00unknuoft	524	3	a	αρχιευνουχον	ἀρχιευνοῦχον	ἀρχιευνοῦχον	class R5: Latin-letter substitution in OCR; c read from image
+dan	oldtestgreek00unknuoft	524	3	ῦ	ἐνα	ἵνα	ἵνα	c read from the image strip; dissent is a known OCR failure (Γ read as Τ, [ ] read as Ϊ/ί/], diacritics dropped or doubled, junk); not separately zoomed
+dan	oldtestgreek00unknuoft	524	3	i ὴ	μὴ	μὴ	μὴ	class R5: Latin-letter substitution in OCR; c read from image
+dan	oldtestgreek00unknuoft	524	3	συμμολυνθῇ.	συμμο.	συμμολυνθῇ.	συμμολυνθῇ.	c read from the image strip; dissent is a known OCR failure (Γ read as Τ, [ ] read as Ϊ/ί/], diacritics dropped or doubled, junk); not separately zoomed
+dan	oldtestgreek00unknuoft	524	3	καὶ	υ ἢ- 9καὶ	καὶ	καὶ	c read from the image strip; dissent is a known OCR failure (Γ read as Τ, [ ] read as Ϊ/ί/], diacritics dropped or doubled, junk); not separately zoomed
+dan	oldtestgreek00unknuoft	524	4	καὶ	και	καὶ	καὶ	c read from the image strip; dissent is a known OCR failure (Γ read as Τ, [ ] read as Ϊ/ί/], diacritics dropped or doubled, junk); not separately zoomed
+dan	oldtestgreek00unknuoft	524	4	ἐναντίον	εναντίον	ἐναντίον	ἐναντίον	c read from the image strip; dissent is a known OCR failure (Γ read as Τ, [ ] read as Ϊ/ί/], diacritics dropped or doubled, junk); not separately zoomed
+dan	oldtestgreek00unknuoft	524	4	τοῦ	του	τοῦ	τοῦ	c read from the image strip; dissent is a known OCR failure (Γ read as Τ, [ ] read as Ϊ/ί/], diacritics dropped or doubled, junk); not separately zoomed
+dan	oldtestgreek00unknuoft	524	4	ἀρχιευ-᾿	αρχιευ-	ἀρχιευ-	ἀρχιευ-	c read from the image strip; dissent is a known OCR failure (Γ read as Τ, [ ] read as Ϊ/ί/], diacritics dropped or doubled, junk); not separately zoomed
+dan	oldtestgreek00unknuoft	524	5	vovxov.	νούχου.	νούχου.	νούχου.	class R5: Latin-letter substitution in OCR; c read from image
+dan	oldtestgreek00unknuoft	524	5	"“καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word
+dan	oldtestgreek00unknuoft	524	9	“kal	"᾿καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from image
+dan	oldtestgreek00unknuoft	524	10	Ἀνανίαν,	Ἀνανίαν,	Ἁνανίαν,	Ἁνανίαν,	image: rough breathing
+dan	oldtestgreek00unknuoft	524	11	ἸξΠείρασον	᾿ΞΠείρασον	Πείρασον	Πείρασον	class R1: OCR fused/misread the superscript verse number into the word
+dan	oldtestgreek00unknuoft	524	12	ὑδροποτεῖν᾽	ὑδροποτεῖν᾽	ὑδροποτεῖν·	ὑδροποτεῖν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe; image shows a raised dot
+dan	oldtestgreek00unknuoft	524	12	""καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word
+dan	oldtestgreek00unknuoft	524	14	θέλῃς.	θέλῃς.	θέλῃς	θέλῃς	image: no period
+dan	oldtestgreek00unknuoft	524	15	χρῆσαϊ	χρῆσαὶϊ	χρῆσαι	χρῆσαι	image: no diaeresis
+dan	oldtestgreek00unknuoft	524	15	"“καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word
+dan	oldtestgreek00unknuoft	524	16	“pera	μετὰ	μετὰ	μετὰ	class R5: Latin-letter substitution in OCR; c read from image
+dan	oldtestgreek00unknuoft	524	16	ἡμέρας	ἡμέρας +᾽ ’ ον κ κα “	ἡμέρας	ἡμέρας	class R3: OCR appended accent-row or margin junk
+dan	oldtestgreek00unknuoft	524	18	“kai	“καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from image
+dan	oldtestgreek00unknuoft	524	19	Ἀβιεσδρὶ	Αβιεσδρὶ	Ἀβιεσδρὶ	Ἀβιεσδρὶ	c read from the image strip; dissent is a known OCR failure (Γ read as Τ, [ ] read as Ϊ/ί/], diacritics dropped or doubled, junk); not separately zoomed
+dan	oldtestgreek00unknuoft	524	19	αὐτῶν.	αὐτῶν	αὐτῶν	αὐτῶν	image: no period
+dan	oldtestgreek00unknuoft	524	20	"καὶ	17 "καὶ	καὶ	καὶ	c read from the image strip; dissent is a known OCR failure (Γ read as Τ, [ ] read as Ϊ/ί/], diacritics dropped or doubled, junk); not separately zoomed
+dan	oldtestgreek00unknuoft	524	21	ὁ	ὁ.	ὁ	ὁ	c read from the image strip; dissent is a known OCR failure (Γ read as Τ, [ ] read as Ϊ/ί/], diacritics dropped or doubled, junk); not separately zoomed
+dan	oldtestgreek00unknuoft	524	23	‘pera	“μετὰ	μετὰ	μετὰ	class R5: Latin-letter substitution in OCR; c read from image
+dan	oldtestgreek00unknuoft	524	23	ταύτας	ταῦτας	ταύτας	ταύτας	image: acute
+dan	oldtestgreek00unknuoft	524	25	"καὶ	"ὁκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word
+dan	oldtestgreek00unknuoft	524	27	Ἀνανίᾳ	Ἀνανίᾳ	Ἁνανίᾳ	Ἁνανίᾳ	image: rough breathing
+dan	oldtestgreek00unknuoft	524	27	Ἀζαρίᾳ:	Ἀζαρίᾳ:	Ἀζαρίᾳ·	Ἀζαρίᾳ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe; image shows a raised dot
+dan	oldtestgreek00unknuoft	524	28	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from image
+dan	oldtestgreek00unknuoft	524	28	λύγῳ	λόγῳ	λόγῳ	λόγῳ	c read from the image strip; dissent is a known OCR failure (Γ read as Τ, [ ] read as Ϊ/ί/], diacritics dropped or doubled, junk); not separately zoomed
+dan	oldtestgreek00unknuoft	524	28	map	παρ᾽	παρ᾽	παρ᾽	class R5: Latin-letter substitution in OCR; c read from image
+dan	oldtestgreek00unknuoft	524	28	αὐὖ-	αὐὖ-	αὐ-	αὐ-	image: plain αὐ- (no doubled letter)
+dan	oldtestgreek00unknuoft	524	29	ὁ	ὃ	ὁ	ὁ	image: article
+dan	oldtestgreek00unknuoft	524	30	αὐ-	αὐὖ-	αὐ-	αὐ-	c read from the image strip; dissent is a known OCR failure (Γ read as Τ, [ ] read as Ϊ/ί/], diacritics dropped or doubled, junk); not separately zoomed
+dan	oldtestgreek00unknuoft	524	31	τοῦ:	τοῦ"	τοῦ·	τοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe; image shows a raised dot
+dan	oldtestgreek00unknuoft	524	31	ἄρχοντας,	ἄρχοντας, +τ. ἐν ἃ ᾿ ν ΄ ᾿ ως ΕΠ ’	ἄρχοντας,	ἄρχοντας,	class R3: OCR appended accent-row or margin junk

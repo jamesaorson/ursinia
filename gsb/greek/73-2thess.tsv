@@ -1,0 +1,838 @@
+ref	n	pre	word	post	lemma	strong	morph	flags
+2thess.1.1	1		Παῦλος		Παῦλος	G3972	N-NSM	
+2thess.1.1	2		καὶ		καί	G2532	CONJ	
+2thess.1.1	3		Σιλουανὸς		Σιλουανός	G4610	N-NSM	
+2thess.1.1	4		καὶ		καί	G2532	CONJ	
+2thess.1.1	5		Τιμόθεος		Τιμόθεος	G5095	N-NSM	
+2thess.1.1	6		τῇ		ὁ	G3588	T-DSF	
+2thess.1.1	7		ἐκκλησίᾳ		ἐκκλησία	G1577	N-DSF	
+2thess.1.1	8		Θεσσαλονικέων		Θεσσαλονικεύς	G2331	N-GPM	
+2thess.1.1	9		ἐν		ἐν	G1722	PREP	
+2thess.1.1	10		Θεῷ		θεός	G2316	N-DSM	
+2thess.1.1	11		Πατρὶ		πατήρ	G3962	N-DSM	
+2thess.1.1	12		ἡμῶν		ἐγώ	G1473	P-1GP	
+2thess.1.1	13		καὶ		καί	G2532	CONJ	
+2thess.1.1	14		Κυρίῳ		κύριος	G2962	N-DSM	
+2thess.1.1	15		Ἰησοῦ		Ἰησοῦς	G2424	N-DSM	
+2thess.1.1	16		Χριστῷ	·	Χριστός	G5547	N-DSM	
+2thess.1.2	1		χάρις		χάρις	G5485	N-NSF	
+2thess.1.2	2		ὑμῖν		σύ	G4771	P-2DP	
+2thess.1.2	3		καὶ		καί	G2532	CONJ	
+2thess.1.2	4		εἰρήνη		εἰρήνη	G1515	N-NSF	
+2thess.1.2	5		ἀπὸ		ἀπό	G575	PREP	
+2thess.1.2	6		Θεοῦ		θεός	G2316	N-GSM	
+2thess.1.2	7		Πατρὸς		πατήρ	G3962	N-GSM	
+2thess.1.2	8		ἡμῶν		ἐγώ	G1473	P-1GP	tr
+2thess.1.2	9		καὶ		καί	G2532	CONJ	
+2thess.1.2	10		Κυρίου		κύριος	G2962	N-GSM	
+2thess.1.2	11		Ἰησοῦ		Ἰησοῦς	G2424	N-GSM	
+2thess.1.2	12		Χριστοῦ	.	Χριστός	G5547	N-GSM	
+2thess.1.3	1		Εὐχαριστεῖν		εὐχαριστέω	G2168	V-PAN	
+2thess.1.3	2		ὀφείλομεν		ὀφείλω	G3784	V-PAI-1P	
+2thess.1.3	3		τῷ		ὁ	G3588	T-DSM	
+2thess.1.3	4		Θεῷ		θεός	G2316	N-DSM	
+2thess.1.3	5		πάντοτε		πάντοτε	G3842	ADV	
+2thess.1.3	6		περὶ		περί	G4012	PREP	
+2thess.1.3	7		ὑμῶν	,	σύ	G4771	P-2GP	
+2thess.1.3	8		ἀδελφοί	,	ἀδελφός	G80	N-VPM	
+2thess.1.3	9		καθὼς		καθώς	G2531	ADV	
+2thess.1.3	10		ἄξιόν		ἄξιος	G514	A-NSN	
+2thess.1.3	11		ἐστιν	,	εἰμί	G1510	V-PAI-3S	
+2thess.1.3	12		ὅτι		ὅτι	G3754	CONJ	
+2thess.1.3	13		ὑπεραυξάνει		ὑπεραυξάνω	G5232	V-PAI-3S	
+2thess.1.3	14		ἡ		ὁ	G3588	T-NSF	
+2thess.1.3	15		πίστις		πίστις	G4102	N-NSF	
+2thess.1.3	16		ὑμῶν		σύ	G4771	P-2GP	
+2thess.1.3	17		καὶ		καί	G2532	CONJ	
+2thess.1.3	18		πλεονάζει		πλεονάζω	G4121	V-PAI-3S	
+2thess.1.3	19		ἡ		ὁ	G3588	T-NSF	
+2thess.1.3	20		ἀγάπη		ἀγάπη	G26	N-NSF	
+2thess.1.3	21		ἑνὸς		εἷς	G1520	A-GSM	
+2thess.1.3	22		ἑκάστου		ἕκαστος	G1538	A-GSM	
+2thess.1.3	23		πάντων		πᾶς	G3956	A-GPM	
+2thess.1.3	24		ὑμῶν		σύ	G4771	P-2GP	
+2thess.1.3	25		εἰς		εἰς	G1519	PREP	
+2thess.1.3	26		ἀλλήλους	,	ἀλλήλων	G240	C-APM	
+2thess.1.4	1		ὥστε		ὥστε	G5620	CONJ	
+2thess.1.4	2		αὐτοὺς		αὐτός	G846	P-APM	
+2thess.1.4	3		ἡμᾶς		ἐγώ	G1473	P-1AP	
+2thess.1.4	4		ἐν		ἐν	G1722	PREP	
+2thess.1.4	5		ὑμῖν		σύ	G4771	P-2DP	
+2thess.1.4	6		ἐνκαυχᾶσθαι		ἐγκαυχάομαι	G2744	V-PNN	
+2thess.1.4	7		ἐν		ἐν	G1722	PREP	
+2thess.1.4	8		ταῖς		ὁ	G3588	T-DPF	
+2thess.1.4	9		ἐκκλησίαις		ἐκκλησία	G1577	N-DPF	
+2thess.1.4	10		τοῦ		ὁ	G3588	T-GSM	
+2thess.1.4	11		Θεοῦ		θεός	G2316	N-GSM	
+2thess.1.4	12		ὑπὲρ		ὑπέρ	G5228	PREP	
+2thess.1.4	13		τῆς		ὁ	G3588	T-GSF	
+2thess.1.4	14		ὑπομονῆς		ὑπομονή	G5281	N-GSF	
+2thess.1.4	15		ὑμῶν		σύ	G4771	P-2GP	
+2thess.1.4	16		καὶ		καί	G2532	CONJ	
+2thess.1.4	17		πίστεως		πίστις	G4102	N-GSF	
+2thess.1.4	18		ἐν		ἐν	G1722	PREP	
+2thess.1.4	19		πᾶσιν		πᾶς	G3956	A-DPM	
+2thess.1.4	20		τοῖς		ὁ	G3588	T-DPM	
+2thess.1.4	21		διωγμοῖς		διωγμός	G1375	N-DPM	
+2thess.1.4	22		ὑμῶν		σύ	G4771	P-2GP	
+2thess.1.4	23		καὶ		καί	G2532	CONJ	
+2thess.1.4	24		ταῖς		ὁ	G3588	T-DPF	
+2thess.1.4	25		θλίψεσιν		θλῖψις	G2347	N-DPF	
+2thess.1.4	26		αἷς		ὅς	G3739	R-DPF	
+2thess.1.4	27		ἀνέχεσθε	,	ἀνέχω	G430	V-PNI-2P	
+2thess.1.5	1		ἔνδειγμα		ἔνδειγμα	G1730	N-NSN	
+2thess.1.5	2		τῆς		ὁ	G3588	T-GSF	
+2thess.1.5	3		δικαίας		δίκαιος	G1342	A-GSF	
+2thess.1.5	4		κρίσεως		κρίσις	G2920	N-GSF	
+2thess.1.5	5		τοῦ		ὁ	G3588	T-GSM	
+2thess.1.5	6		Θεοῦ	,	θεός	G2316	N-GSM	
+2thess.1.5	7		εἰς		εἰς	G1519	PREP	
+2thess.1.5	8		τὸ		ὁ	G3588	T-ASN	
+2thess.1.5	9		καταξιωθῆναι		καταξιόω	G2661	V-APN	
+2thess.1.5	10		ὑμᾶς		σύ	G4771	P-2AP	
+2thess.1.5	11		τῆς		ὁ	G3588	T-GSF	
+2thess.1.5	12		βασιλείας		βασιλεία	G932	N-GSF	
+2thess.1.5	13		τοῦ		ὁ	G3588	T-GSM	
+2thess.1.5	14		Θεοῦ	,	θεός	G2316	N-GSM	
+2thess.1.5	15		ὑπὲρ		ὑπέρ	G5228	PREP	
+2thess.1.5	16		ἧς		ὅς	G3739	R-GSF	
+2thess.1.5	17		καὶ		καί	G2532	CONJ	
+2thess.1.5	18		πάσχετε	,	πάσχω	G3958	V-PAI-2P	
+2thess.1.6	1		εἴπερ		εἴπερ	G1512	COND	
+2thess.1.6	2		δίκαιον		δίκαιος	G1342	A-NSN	
+2thess.1.6	3		παρὰ		παρά	G3844	PREP	
+2thess.1.6	4		Θεῷ		θεός	G2316	N-DSM	
+2thess.1.6	5		ἀνταποδοῦναι		ἀνταποδίδωμι	G467	V-2AAN	
+2thess.1.6	6		τοῖς		ὁ	G3588	T-DPM	
+2thess.1.6	7		θλίβουσιν		θλίβω	G2346	V-PAP-DPM	
+2thess.1.6	8		ὑμᾶς		σύ	G4771	P-2AP	
+2thess.1.6	9		θλῖψιν		θλῖψις	G2347	N-ASF	
+2thess.1.7	1		καὶ		καί	G2532	CONJ	
+2thess.1.7	2		ὑμῖν		σύ	G4771	P-2DP	
+2thess.1.7	3		τοῖς		ὁ	G3588	T-DPM	
+2thess.1.7	4		θλιβομένοις		θλίβω	G2346	V-PPP-DPM	
+2thess.1.7	5		ἄνεσιν		ἄνεσις	G425	N-ASF	
+2thess.1.7	6		μεθ’		μετά	G3326	PREP	
+2thess.1.7	7		ἡμῶν	,	ἐγώ	G1473	P-1GP	
+2thess.1.7	8		ἐν		ἐν	G1722	PREP	
+2thess.1.7	9		τῇ		ὁ	G3588	T-DSF	
+2thess.1.7	10		ἀποκαλύψει		ἀποκάλυψις	G602	N-DSF	
+2thess.1.7	11		τοῦ		ὁ	G3588	T-GSM	
+2thess.1.7	12		Κυρίου		κύριος	G2962	N-GSM	
+2thess.1.7	13		Ἰησοῦ		Ἰησοῦς	G2424	N-GSM	
+2thess.1.7	14		ἀπ’		ἀπό	G575	PREP	
+2thess.1.7	15		οὐρανοῦ		οὐρανός	G3772	N-GSM	
+2thess.1.7	16		μετ’		μετά	G3326	PREP	
+2thess.1.7	17		ἀγγέλων		ἄγγελος	G32	N-GPM	
+2thess.1.7	18		δυνάμεως		δύναμις	G1411	N-GSF	
+2thess.1.7	19		αὐτοῦ		αὐτός	G846	P-GSM	
+2thess.1.8	1		ἐν		ἐν	G1722	PREP	
+2thess.1.8	2		πυρὶ		πῦρ	G4442	N-DSN	
+2thess.1.8	3		φλογός	,	φλόξ	G5395	N-GSF	
+2thess.1.8	4		διδόντος		δίδωμι	G1325	V-PAP-GSM	
+2thess.1.8	5		ἐκδίκησιν		ἐκδίκησις	G1557	N-ASF	
+2thess.1.8	6		τοῖς		ὁ	G3588	T-DPM	
+2thess.1.8	7		μὴ		μή	G3361	PRT-N	
+2thess.1.8	8		εἰδόσιν		οἶδα	G1492	V-RAP-DPM	
+2thess.1.8	9		Θεὸν		θεός	G2316	N-ASM	
+2thess.1.8	10		καὶ		καί	G2532	CONJ	
+2thess.1.8	11		τοῖς		ὁ	G3588	T-DPM	
+2thess.1.8	12		μὴ		μή	G3361	PRT-N	
+2thess.1.8	13		ὑπακούουσιν		ὑπακούω	G5219	V-PAP-DPM	
+2thess.1.8	14		τῷ		ὁ	G3588	T-DSN	
+2thess.1.8	15		εὐαγγελίῳ		εὐαγγέλιον	G2098	N-DSN	
+2thess.1.8	16		τοῦ		ὁ	G3588	T-GSM	
+2thess.1.8	17		Κυρίου		κύριος	G2962	N-GSM	
+2thess.1.8	18		ἡμῶν		ἐγώ	G1473	P-1GP	
+2thess.1.8	19		Ἰησοῦ		Ἰησοῦς	G2424	N-GSM	
+2thess.1.8	20		Χριστοῦ	,	Χριστός	G5547	N-GSM	tr,punct
+2thess.1.9	1		οἵτινες		ὅστις	G3748	R-NPM	
+2thess.1.9	2		δίκην		δίκη	G1349	N-ASF	
+2thess.1.9	3		τίσουσιν		τίνω	G5099	V-FAI-3P	
+2thess.1.9	4		ὄλεθρον		ὄλεθρος	G3639	N-ASM	
+2thess.1.9	5		αἰώνιον		αἰώνιος	G166	A-ASM	
+2thess.1.9	6		ἀπὸ		ἀπό	G575	PREP	
+2thess.1.9	7		προσώπου		πρόσωπον	G4383	N-GSN	
+2thess.1.9	8		τοῦ		ὁ	G3588	T-GSM	
+2thess.1.9	9		Κυρίου		κύριος	G2962	N-GSM	
+2thess.1.9	10		καὶ		καί	G2532	CONJ	
+2thess.1.9	11		ἀπὸ		ἀπό	G575	PREP	
+2thess.1.9	12		τῆς		ὁ	G3588	T-GSF	
+2thess.1.9	13		δόξης		δόξα	G1391	N-GSF	
+2thess.1.9	14		τῆς		ὁ	G3588	T-GSF	
+2thess.1.9	15		ἰσχύος		ἰσχύς	G2479	N-GSF	
+2thess.1.9	16		αὐτοῦ	,	αὐτός	G846	P-GSM	
+2thess.1.10	1		ὅταν		ὅταν	G3752	CONJ	
+2thess.1.10	2		ἔλθῃ		ἔρχομαι	G2064	V-2AAS-3S	
+2thess.1.10	3		ἐνδοξασθῆναι		ἐνδοξάζομαι	G1740	V-APN	
+2thess.1.10	4		ἐν		ἐν	G1722	PREP	
+2thess.1.10	5		τοῖς		ὁ	G3588	T-DPM	
+2thess.1.10	6		ἁγίοις		ἅγιος	G40	A-DPM	
+2thess.1.10	7		αὐτοῦ		αὐτός	G846	P-GSM	
+2thess.1.10	8		καὶ		καί	G2532	CONJ	
+2thess.1.10	9		θαυμασθῆναι		θαυμάζω	G2296	V-APN	
+2thess.1.10	10		ἐν		ἐν	G1722	PREP	
+2thess.1.10	11		πᾶσιν		πᾶς	G3956	A-DPM	
+2thess.1.10	12		τοῖς		ὁ	G3588	T-DPM	
+2thess.1.10	13		πιστεύσασιν	,	πιστεύω	G4100	V-AAP-DPM	
+2thess.1.10	14		ὅτι		ὅτι	G3754	CONJ	
+2thess.1.10	15		ἐπιστεύθη		πιστεύω	G4100	V-API-3S	
+2thess.1.10	16		τὸ		ὁ	G3588	T-NSN	
+2thess.1.10	17		μαρτύριον		μαρτύριον	G3142	N-NSN	
+2thess.1.10	18		ἡμῶν		ἐγώ	G1473	P-1GP	
+2thess.1.10	19		ἐφ’		ἐπί	G1909	PREP	
+2thess.1.10	20		ὑμᾶς	,	σύ	G4771	P-2AP	
+2thess.1.10	21		ἐν		ἐν	G1722	PREP	
+2thess.1.10	22		τῇ		ὁ	G3588	T-DSF	
+2thess.1.10	23		ἡμέρᾳ		ἡμέρα	G2250	N-DSF	
+2thess.1.10	24		ἐκείνῃ	.	ἐκεῖνος	G1565	D-DSF	
+2thess.1.11	1		Εἰς		εἰς	G1519	PREP	
+2thess.1.11	2		ὃ		ὅς	G3739	R-ASN	
+2thess.1.11	3		καὶ		καί	G2532	CONJ	
+2thess.1.11	4		προσευχόμεθα		προσεύχομαι	G4336	V-PNI-1P	
+2thess.1.11	5		πάντοτε		πάντοτε	G3842	ADV	
+2thess.1.11	6		περὶ		περί	G4012	PREP	
+2thess.1.11	7		ὑμῶν	,	σύ	G4771	P-2GP	
+2thess.1.11	8		ἵνα		ἵνα	G2443	CONJ	
+2thess.1.11	9		ὑμᾶς		σύ	G4771	P-2AP	
+2thess.1.11	10		ἀξιώσῃ		ἀξιόω	G515	V-AAS-3S	
+2thess.1.11	11		τῆς		ὁ	G3588	T-GSF	
+2thess.1.11	12		κλήσεως		κλῆσις	G2821	N-GSF	
+2thess.1.11	13		ὁ		ὁ	G3588	T-NSM	
+2thess.1.11	14		Θεὸς		θεός	G2316	N-NSM	
+2thess.1.11	15		ἡμῶν		ἐγώ	G1473	P-1GP	
+2thess.1.11	16		καὶ		καί	G2532	CONJ	
+2thess.1.11	17		πληρώσῃ		πληρόω	G4137	V-AAS-3S	
+2thess.1.11	18		πᾶσαν		πᾶς	G3956	A-ASF	
+2thess.1.11	19		εὐδοκίαν		εὐδοκία	G2107	N-ASF	
+2thess.1.11	20		ἀγαθωσύνης		ἀγαθωσύνη	G19	N-GSF	
+2thess.1.11	21		καὶ		καί	G2532	CONJ	
+2thess.1.11	22		ἔργον		ἔργον	G2041	N-ASN	
+2thess.1.11	23		πίστεως		πίστις	G4102	N-GSF	
+2thess.1.11	24		ἐν		ἐν	G1722	PREP	
+2thess.1.11	25		δυνάμει	,	δύναμις	G1411	N-DSF	
+2thess.1.12	1		ὅπως		ὅπως	G3704	ADV	
+2thess.1.12	2		ἐνδοξασθῇ		ἐνδοξάζομαι	G1740	V-APS-3S	
+2thess.1.12	3		τὸ		ὁ	G3588	T-NSN	
+2thess.1.12	4		ὄνομα		ὄνομα	G3686	N-NSN	
+2thess.1.12	5		τοῦ		ὁ	G3588	T-GSM	
+2thess.1.12	6		Κυρίου		κύριος	G2962	N-GSM	
+2thess.1.12	7		ἡμῶν		ἐγώ	G1473	P-1GP	
+2thess.1.12	8		Ἰησοῦ		Ἰησοῦς	G2424	N-GSM	
+2thess.1.12	9		χριστοῦ		Χριστός	G5547	N-GSM	tr
+2thess.1.12	10		ἐν		ἐν	G1722	PREP	
+2thess.1.12	11		ὑμῖν	,	σύ	G4771	P-2DP	
+2thess.1.12	12		καὶ		καί	G2532	CONJ	
+2thess.1.12	13		ὑμεῖς		σύ	G4771	P-2NP	
+2thess.1.12	14		ἐν		ἐν	G1722	PREP	
+2thess.1.12	15		αὐτῷ	,	αὐτός	G846	P-DSM	
+2thess.1.12	16		κατὰ		κατά	G2596	PREP	
+2thess.1.12	17		τὴν		ὁ	G3588	T-ASF	
+2thess.1.12	18		χάριν		χάρις	G5485	N-ASF	
+2thess.1.12	19		τοῦ		ὁ	G3588	T-GSM	
+2thess.1.12	20		Θεοῦ		θεός	G2316	N-GSM	
+2thess.1.12	21		ἡμῶν		ἐγώ	G1473	P-1GP	
+2thess.1.12	22		καὶ		καί	G2532	CONJ	
+2thess.1.12	23		Κυρίου		κύριος	G2962	N-GSM	
+2thess.1.12	24		Ἰησοῦ		Ἰησοῦς	G2424	N-GSM	
+2thess.1.12	25		Χριστοῦ	.	Χριστός	G5547	N-GSM	
+2thess.2.1	1		Ἐρωτῶμεν		ἐρωτάω	G2065	V-PAI-1P	
+2thess.2.1	2		δὲ		δέ	G1161	CONJ	
+2thess.2.1	3		ὑμᾶς	,	σύ	G4771	P-2AP	
+2thess.2.1	4		ἀδελφοί	,	ἀδελφός	G80	N-VPM	
+2thess.2.1	5		ὑπὲρ		ὑπέρ	G5228	PREP	
+2thess.2.1	6		τῆς		ὁ	G3588	T-GSF	
+2thess.2.1	7		παρουσίας		παρουσία	G3952	N-GSF	
+2thess.2.1	8		τοῦ		ὁ	G3588	T-GSM	
+2thess.2.1	9		Κυρίου		κύριος	G2962	N-GSM	
+2thess.2.1	10		ἡμῶν		ἐγώ	G1473	P-1GP	
+2thess.2.1	11		Ἰησοῦ		Ἰησοῦς	G2424	N-GSM	
+2thess.2.1	12		Χριστοῦ		Χριστός	G5547	N-GSM	
+2thess.2.1	13		καὶ		καί	G2532	CONJ	
+2thess.2.1	14		ἡμῶν		ἐγώ	G1473	P-1GP	
+2thess.2.1	15		ἐπισυναγωγῆς		ἐπισυναγωγή	G1997	N-GSF	
+2thess.2.1	16		ἐπ’		ἐπί	G1909	PREP	
+2thess.2.1	17		αὐτόν	,	αὐτός	G846	P-ASM	
+2thess.2.2	1		εἰς		εἰς	G1519	PREP	
+2thess.2.2	2		τὸ		ὁ	G3588	T-ASN	
+2thess.2.2	3		μὴ		μή	G3361	PRT-N	
+2thess.2.2	4		ταχέως		ταχέως	G5030	ADV	
+2thess.2.2	5		σαλευθῆναι		σαλεύω	G4531	V-APN	
+2thess.2.2	6		ὑμᾶς		σύ	G4771	P-2AP	
+2thess.2.2	7		ἀπὸ		ἀπό	G575	PREP	
+2thess.2.2	8		τοῦ		ὁ	G3588	T-GSM	
+2thess.2.2	9		νοὸς		νοῦς	G3563	N-GSM	
+2thess.2.2	10		μηδὲ		μηδέ	G3366	CONJ-N	
+2thess.2.2	11		θροεῖσθαι		θροέω	G2360	V-PPN	
+2thess.2.2	12		μήτε		μήτε	G3383	CONJ-N	
+2thess.2.2	13		διὰ		διά	G1223	PREP	
+2thess.2.2	14		πνεύματος		πνεῦμα	G4151	N-GSN	
+2thess.2.2	15		μήτε		μήτε	G3383	CONJ-N	
+2thess.2.2	16		διὰ		διά	G1223	PREP	
+2thess.2.2	17		λόγου		λόγος	G3056	N-GSM	
+2thess.2.2	18		μήτε		μήτε	G3383	CONJ-N	
+2thess.2.2	19		δι’		διά	G1223	PREP	
+2thess.2.2	20		ἐπιστολῆς		ἐπιστολή	G1992	N-GSF	
+2thess.2.2	21		ὡς		ὡς	G5613	ADV	
+2thess.2.2	22		δι’		διά	G1223	PREP	
+2thess.2.2	23		ἡμῶν	,	ἐγώ	G1473	P-1GP	
+2thess.2.2	24		ὡς		ὡς	G5613	ADV	
+2thess.2.2	25		ὅτι		ὅτι	G3754	CONJ	
+2thess.2.2	26		ἐνέστηκεν		ἐνίστημι	G1764	V-RAI-3S	
+2thess.2.2	27		ἡ		ὁ	G3588	T-NSF	
+2thess.2.2	28		ἡμέρα		ἡμέρα	G2250	N-NSF	
+2thess.2.2	29		τοῦ		ὁ	G3588	T-GSM	
+2thess.2.2	30		Κυρίου	.	κύριος	G2962	N-GSM	
+2thess.2.3	1		μή		μή	G3361	PRT-N	
+2thess.2.3	2		τις		τὶς	G5100	X-NSM	
+2thess.2.3	3		ὑμᾶς		σύ	G4771	P-2AP	
+2thess.2.3	4		ἐξαπατήσῃ		ἐξαπατάω	G1818	V-AAS-3S	
+2thess.2.3	5		κατὰ		κατά	G2596	PREP	
+2thess.2.3	6		μηδένα		μηδείς	G3367	A-ASM-N	
+2thess.2.3	7		τρόπον	·	τρόπος	G5158	N-ASM	
+2thess.2.3	8		ὅτι		ὅτι	G3754	CONJ	
+2thess.2.3	9		ἐὰν		ἐάν	G1437	COND	
+2thess.2.3	10		μὴ		μή	G3361	PRT-N	
+2thess.2.3	11		ἔλθῃ		ἔρχομαι	G2064	V-2AAS-3S	
+2thess.2.3	12		ἡ		ὁ	G3588	T-NSF	
+2thess.2.3	13		ἀποστασία		ἀποστασία	G646	N-NSF	
+2thess.2.3	14		πρῶτον		πρῶτος	G4412	ADV-S	
+2thess.2.3	15		καὶ		καί	G2532	CONJ	
+2thess.2.3	16		ἀποκαλυφθῇ		ἀποκαλύπτω	G601	V-APS-3S	
+2thess.2.3	17		ὁ		ὁ	G3588	T-NSM	
+2thess.2.3	18		ἄνθρωπος		ἄνθρωπος	G444	N-NSM	
+2thess.2.3	19		τῆς		ὁ	G3588	T-GSF	
+2thess.2.3	20		ἀνομίας	,	ἀνομία	G458	N-GSF	
+2thess.2.3	21		ὁ		ὁ	G3588	T-NSM	
+2thess.2.3	22		υἱὸς		υἱός	G5207	N-NSM	
+2thess.2.3	23		τῆς		ὁ	G3588	T-GSF	
+2thess.2.3	24		ἀπωλείας	,	ἀπώλεια	G684	N-GSF	
+2thess.2.4	1		ὁ		ὁ	G3588	T-NSM	
+2thess.2.4	2		ἀντικείμενος		ἀντίκειμαι	G480	V-PNP-NSM	
+2thess.2.4	3		καὶ		καί	G2532	CONJ	
+2thess.2.4	4		ὑπεραιρόμενος		ὑπεραίρω	G5229	V-PPP-NSM	
+2thess.2.4	5		ἐπὶ		ἐπί	G1909	PREP	
+2thess.2.4	6		πάντα		πᾶς	G3956	A-ASM	
+2thess.2.4	7		τὸ		ὁ	G3588	T-ASN	tr
+2thess.2.4	8		λεγόμενον		λέγω	G3004	V-PPP-ASM	
+2thess.2.4	9		Θεὸν		θεός	G2316	N-ASM	
+2thess.2.4	10		ἢ		ἤ	G2228	PRT	
+2thess.2.4	11		σέβασμα	,	σέβασμα	G4574	N-ASN	
+2thess.2.4	12		ὥστε		ὥστε	G5620	CONJ	
+2thess.2.4	13		αὐτὸν		αὐτός	G846	P-ASM	
+2thess.2.4	14		εἰς		εἰς	G1519	PREP	
+2thess.2.4	15		τὸν		ὁ	G3588	T-ASM	
+2thess.2.4	16		ναὸν		ναός	G3485	N-ASM	
+2thess.2.4	17		τοῦ		ὁ	G3588	T-GSM	
+2thess.2.4	18		Θεοῦ		θεός	G2316	N-GSM	
+2thess.2.4	19		ὡς		ὡς	G5613	ADV	tr
+2thess.2.4	20		θεὸν		θεός	G2316	N-ASM	tr
+2thess.2.4	21		καθίσαι	,	καθίζω	G2523	V-AAN	
+2thess.2.4	22		ἀποδεικνύντα		ἀποδείκνυμι	G584	V-PAP-ASM	
+2thess.2.4	23		ἑαυτὸν		ἑαυτοῦ	G1438	F-3ASM	
+2thess.2.4	24		ὅτι		ὅτι	G3754	CONJ	
+2thess.2.4	25		ἔστιν		εἰμί	G1510	V-PAI-3S	
+2thess.2.4	26		Θεός	.	θεός	G2316	N-NSM	
+2thess.2.5	1		Οὐ		οὐ	G3756	PRT-N	
+2thess.2.5	2		μνημονεύετε		μνημονεύω	G3421	V-PAI-2P	
+2thess.2.5	3		ὅτι		ὅτι	G3754	CONJ	
+2thess.2.5	4		ἔτι		ἔτι	G2089	ADV	
+2thess.2.5	5		ὢν		εἰμί	G1510	V-PAP-NSM	
+2thess.2.5	6		πρὸς		πρός	G4314	PREP	
+2thess.2.5	7		ὑμᾶς		σύ	G4771	P-2AP	
+2thess.2.5	8		ταῦτα		οὗτος	G3778	D-APN	
+2thess.2.5	9		ἔλεγον		λέγω	G3004	V-IAI-1S	
+2thess.2.5	10		ὑμῖν	;	σύ	G4771	P-2DP	
+2thess.2.6	1		καὶ		καί	G2532	CONJ	
+2thess.2.6	2		νῦν		νῦν	G3568	ADV	
+2thess.2.6	3		τὸ		ὁ	G3588	T-ASN	
+2thess.2.6	4		κατέχον		κατέχω	G2722	V-PAP-ASN	
+2thess.2.6	5		οἴδατε	,	οἶδα	G1492	V-RAI-2P	
+2thess.2.6	6		εἰς		εἰς	G1519	PREP	
+2thess.2.6	7		τὸ		ὁ	G3588	T-ASN	
+2thess.2.6	8		ἀποκαλυφθῆναι		ἀποκαλύπτω	G601	V-APN	
+2thess.2.6	9		αὐτὸν		αὐτός	G846	P-ASM	
+2thess.2.6	10		ἐν		ἐν	G1722	PREP	
+2thess.2.6	11		τῷ		ὁ	G3588	T-DSM	
+2thess.2.6	12		αὐτοῦ		αὐτός	G846	P-GSN	
+2thess.2.6	13		καιρῷ	.	καιρός	G2540	N-DSM	
+2thess.2.7	1		τὸ		ὁ	G3588	T-NSN	
+2thess.2.7	2		γὰρ		γάρ	G1063	CONJ	
+2thess.2.7	3		μυστήριον		μυστήριον	G3466	N-NSN	
+2thess.2.7	4		ἤδη		ἤδη	G2235	ADV	
+2thess.2.7	5		ἐνεργεῖται		ἐνεργέω	G1754	V-PMI-3S	
+2thess.2.7	6		τῆς		ὁ	G3588	T-GSF	
+2thess.2.7	7		ἀνομίας	·	ἀνομία	G458	N-GSF	
+2thess.2.7	8		μόνον		μόνος	G3440	ADV	
+2thess.2.7	9		ὁ		ὁ	G3588	T-NSM	
+2thess.2.7	10		κατέχων		κατέχω	G2722	V-PAP-NSM	
+2thess.2.7	11		ἄρτι		ἄρτι	G737	ADV	
+2thess.2.7	12		ἕως		ἕως	G2193	ADV	
+2thess.2.7	13		ἐκ		ἐκ	G1537	PREP	
+2thess.2.7	14		μέσου		μέσος	G3319	A-GSN	
+2thess.2.7	15		γένηται	.	γίνομαι	G1096	V-2ADS-3S	
+2thess.2.8	1		καὶ		καί	G2532	CONJ	
+2thess.2.8	2		τότε		τότε	G5119	ADV	
+2thess.2.8	3		ἀποκαλυφθήσεται		ἀποκαλύπτω	G601	V-FPI-3S	
+2thess.2.8	4		ὁ		ὁ	G3588	T-NSM	
+2thess.2.8	5		ἄνομος	,	ἄνομος	G459	A-NSM	
+2thess.2.8	6		ὃν		ὅς	G3739	R-ASM	
+2thess.2.8	7		ὁ		ὁ	G3588	T-NSM	
+2thess.2.8	8		Κύριος		κύριος	G2962	N-NSM	
+2thess.2.8	9		Ἰησοῦς		Ἰησοῦς	G2424	N-NSM	
+2thess.2.8	10		ἀνελεῖ		ἀναιρέω	G337	V-2FAI-3S	
+2thess.2.8	11		τῷ		ὁ	G3588	T-DSN	
+2thess.2.8	12		πνεύματι		πνεῦμα	G4151	N-DSN	
+2thess.2.8	13		τοῦ		ὁ	G3588	T-GSN	
+2thess.2.8	14		στόματος		στόμα	G4750	N-GSN	
+2thess.2.8	15		αὐτοῦ		αὐτός	G846	P-GSM	
+2thess.2.8	16		καὶ		καί	G2532	CONJ	
+2thess.2.8	17		καταργήσει		καταργέω	G2673	V-FAI-3S	
+2thess.2.8	18		τῇ		ὁ	G3588	T-DSF	
+2thess.2.8	19		ἐπιφανείᾳ		ἐπιφάνεια	G2015	N-DSF	
+2thess.2.8	20		τῆς		ὁ	G3588	T-GSF	
+2thess.2.8	21		παρουσίας		παρουσία	G3952	N-GSF	
+2thess.2.8	22		αὐτοῦ	,	αὐτός	G846	P-GSM	
+2thess.2.9	1		οὗ		ὅς	G3739	R-GSM	
+2thess.2.9	2		ἐστιν		εἰμί	G1510	V-PAI-3S	
+2thess.2.9	3		ἡ		ὁ	G3588	T-NSF	
+2thess.2.9	4		παρουσία		παρουσία	G3952	N-NSF	
+2thess.2.9	5		κατ’		κατά	G2596	PREP	
+2thess.2.9	6		ἐνέργειαν		ἐνέργεια	G1753	N-ASF	
+2thess.2.9	7		τοῦ		ὁ	G3588	T-GSM	
+2thess.2.9	8		Σατανᾶ		Σατανᾶς	G4567	N-GSM	
+2thess.2.9	9		ἐν		ἐν	G1722	PREP	
+2thess.2.9	10		πάσῃ		πᾶς	G3956	A-DSF	
+2thess.2.9	11		δυνάμει		δύναμις	G1411	N-DSF	
+2thess.2.9	12		καὶ		καί	G2532	CONJ	
+2thess.2.9	13		σημείοις		σημεῖον	G4592	N-DPN	
+2thess.2.9	14		καὶ		καί	G2532	CONJ	
+2thess.2.9	15		τέρασιν		τέρας	G5059	N-DPN	
+2thess.2.9	16		ψεύδους		ψεῦδος	G5579	N-GSN	
+2thess.2.10	1		καὶ		καί	G2532	CONJ	
+2thess.2.10	2		ἐν		ἐν	G1722	PREP	
+2thess.2.10	3		πάσῃ		πᾶς	G3956	A-DSF	
+2thess.2.10	4		ἀπάτῃ		ἀπάτη	G539	N-DSF	
+2thess.2.10	5		τῆς		ὁ	G3588	T-GSF	tr
+2thess.2.10	6		ἀδικίας		ἀδικία	G93	N-GSF	
+2thess.2.10	7		ἐν		ἐν	G1722	PREP	tr
+2thess.2.10	8		τοῖς		ὁ	G3588	T-DPM	
+2thess.2.10	9		ἀπολλυμένοις	,	ἀπόλλυμι	G622	V-PEP-DPM	
+2thess.2.10	10		ἀνθ’		ἀντί	G473	PREP	
+2thess.2.10	11		ὧν		ὅς	G3739	R-GPN	
+2thess.2.10	12		τὴν		ὁ	G3588	T-ASF	
+2thess.2.10	13		ἀγάπην		ἀγάπη	G26	N-ASF	
+2thess.2.10	14		τῆς		ὁ	G3588	T-GSF	
+2thess.2.10	15		ἀληθείας		ἀλήθεια	G225	N-GSF	
+2thess.2.10	16		οὐκ		οὐ	G3756	PRT-N	
+2thess.2.10	17		ἐδέξαντο		δέχομαι	G1209	V-ADI-3P	
+2thess.2.10	18		εἰς		εἰς	G1519	PREP	
+2thess.2.10	19		τὸ		ὁ	G3588	T-ASN	
+2thess.2.10	20		σωθῆναι		σῴζω	G4982	V-APN	
+2thess.2.10	21		αὐτούς	.	αὐτός	G846	P-APM	
+2thess.2.11	1		καὶ		καί	G2532	CONJ	
+2thess.2.11	2		διὰ		διά	G1223	PREP	
+2thess.2.11	3		τοῦτο		οὗτος	G3778	D-ASN	
+2thess.2.11	4		πέμπει		πέμπω	G3992	V-PAI-3S	
+2thess.2.11	5		αὐτοῖς		αὐτός	G846	P-DPM	
+2thess.2.11	6		ὁ		ὁ	G3588	T-NSM	
+2thess.2.11	7		Θεὸς		θεός	G2316	N-NSM	
+2thess.2.11	8		ἐνέργειαν		ἐνέργεια	G1753	N-ASF	
+2thess.2.11	9		πλάνης		πλάνη	G4106	N-GSF	
+2thess.2.11	10		εἰς		εἰς	G1519	PREP	
+2thess.2.11	11		τὸ		ὁ	G3588	T-ASN	
+2thess.2.11	12		πιστεῦσαι		πιστεύω	G4100	V-AAN	
+2thess.2.11	13		αὐτοὺς		αὐτός	G846	P-APM	
+2thess.2.11	14		τῷ		ὁ	G3588	T-DSN	
+2thess.2.11	15		ψεύδει	,	ψεῦδος	G5579	N-DSN	
+2thess.2.12	1		ἵνα		ἵνα	G2443	CONJ	
+2thess.2.12	2		κριθῶσιν		κρίνω	G2919	V-APS-3P	
+2thess.2.12	3		πάντες		πᾶς	G3956	A-NPM	
+2thess.2.12	4		οἱ		ὁ	G3588	T-NPM	
+2thess.2.12	5		μὴ		μή	G3361	PRT-N	
+2thess.2.12	6		πιστεύσαντες		πιστεύω	G4100	V-AAP-NPM	
+2thess.2.12	7		τῇ		ὁ	G3588	T-DSF	
+2thess.2.12	8		ἀληθείᾳ		ἀλήθεια	G225	N-DSF	
+2thess.2.12	9		ἀλλὰ		ἀλλά	G235	CONJ	
+2thess.2.12	10		εὐδοκήσαντες		εὐδοκέω	G2106	V-AAP-NPM	
+2thess.2.12	11		ἐν		ἐν	G1722	PREP	tr
+2thess.2.12	12		τῇ		ὁ	G3588	T-DSF	
+2thess.2.12	13		ἀδικίᾳ	.	ἀδικία	G93	N-DSF	
+2thess.2.13	1		Ἡμεῖς		ἐγώ	G1473	P-1NP	
+2thess.2.13	2		δὲ		δέ	G1161	CONJ	
+2thess.2.13	3		ὀφείλομεν		ὀφείλω	G3784	V-PAI-1P	
+2thess.2.13	4		εὐχαριστεῖν		εὐχαριστέω	G2168	V-PAN	
+2thess.2.13	5		τῷ		ὁ	G3588	T-DSM	
+2thess.2.13	6		Θεῷ		θεός	G2316	N-DSM	
+2thess.2.13	7		πάντοτε		πάντοτε	G3842	ADV	
+2thess.2.13	8		περὶ		περί	G4012	PREP	
+2thess.2.13	9		ὑμῶν	,	σύ	G4771	P-2GP	
+2thess.2.13	10		ἀδελφοὶ		ἀδελφός	G80	N-VPM	
+2thess.2.13	11		ἠγαπημένοι		ἀγαπάω	G25	V-RPP-NPM	
+2thess.2.13	12		ὑπὸ		ὑπό	G5259	PREP	
+2thess.2.13	13		Κυρίου	,	κύριος	G2962	N-GSM	
+2thess.2.13	14		ὅτι		ὅτι	G3754	CONJ	
+2thess.2.13	15		εἵλατο		αἱρέω	G138	V-AMI-3S	
+2thess.2.13	16		ὑμᾶς		σύ	G4771	P-2AP	
+2thess.2.13	17		ὁ		ὁ	G3588	T-NSM	
+2thess.2.13	18		Θεὸς		θεός	G2316	N-NSM	
+2thess.2.13	19		ἀπ’		ἀπό	G575	PREP	
+2thess.2.13	20		ἀρχῆς		ἀρχή	G746	N-GSF	
+2thess.2.13	21		εἰς		εἰς	G1519	PREP	
+2thess.2.13	22		σωτηρίαν		σωτηρία	G4991	N-ASF	
+2thess.2.13	23		ἐν		ἐν	G1722	PREP	
+2thess.2.13	24		ἁγιασμῷ		ἁγιασμός	G38	N-DSM	
+2thess.2.13	25		Πνεύματος		πνεῦμα	G4151	N-GSN	
+2thess.2.13	26		καὶ		καί	G2532	CONJ	
+2thess.2.13	27		πίστει		πίστις	G4102	N-DSF	
+2thess.2.13	28		ἀληθείας	,	ἀλήθεια	G225	N-GSF	
+2thess.2.14	1		εἰς		εἰς	G1519	PREP	
+2thess.2.14	2		ὃ		ὅς	G3739	R-ASN	
+2thess.2.14	3		καὶ		καί	G2532	CONJ	
+2thess.2.14	4		ἐκάλεσεν		καλέω	G2564	V-AAI-3S	
+2thess.2.14	5		ὑμᾶς		σύ	G4771	P-2AP	
+2thess.2.14	6		διὰ		διά	G1223	PREP	
+2thess.2.14	7		τοῦ		ὁ	G3588	T-GSN	
+2thess.2.14	8		εὐαγγελίου		εὐαγγέλιον	G2098	N-GSN	
+2thess.2.14	9		ἡμῶν	,	ἐγώ	G1473	P-1GP	
+2thess.2.14	10		εἰς		εἰς	G1519	PREP	
+2thess.2.14	11		περιποίησιν		περιποίησις	G4047	N-ASF	
+2thess.2.14	12		δόξης		δόξα	G1391	N-GSF	
+2thess.2.14	13		τοῦ		ὁ	G3588	T-GSM	
+2thess.2.14	14		Κυρίου		κύριος	G2962	N-GSM	
+2thess.2.14	15		ἡμῶν		ἐγώ	G1473	P-1GP	
+2thess.2.14	16		Ἰησοῦ		Ἰησοῦς	G2424	N-GSM	
+2thess.2.14	17		Χριστοῦ	.	Χριστός	G5547	N-GSM	
+2thess.2.15	1		Ἄρα		ἄρα	G686	PRT	
+2thess.2.15	2		οὖν	,	οὖν	G3767	CONJ	
+2thess.2.15	3		ἀδελφοί	,	ἀδελφός	G80	N-VPM	
+2thess.2.15	4		στήκετε	,	στήκω	G4739	V-PAM-2P	
+2thess.2.15	5		καὶ		καί	G2532	CONJ	
+2thess.2.15	6		κρατεῖτε		κρατέω	G2902	V-PAM-2P	
+2thess.2.15	7		τὰς		ὁ	G3588	T-APF	
+2thess.2.15	8		παραδόσεις		παράδοσις	G3862	N-APF	
+2thess.2.15	9		ἃς		ὅς	G3739	R-APF	
+2thess.2.15	10		ἐδιδάχθητε		διδάσκω	G1321	V-API-2P	
+2thess.2.15	11		εἴτε		εἴτε	G1535	CONJ	
+2thess.2.15	12		διὰ		διά	G1223	PREP	
+2thess.2.15	13		λόγου		λόγος	G3056	N-GSM	
+2thess.2.15	14		εἴτε		εἴτε	G1535	CONJ	
+2thess.2.15	15		δι’		διά	G1223	PREP	
+2thess.2.15	16		ἐπιστολῆς		ἐπιστολή	G1992	N-GSF	
+2thess.2.15	17		ἡμῶν	.	ἐγώ	G1473	P-1GP	
+2thess.2.16	1		Αὐτὸς		αὐτός	G846	P-NSM	
+2thess.2.16	2		δὲ		δέ	G1161	CONJ	
+2thess.2.16	3		ὁ		ὁ	G3588	T-NSM	
+2thess.2.16	4		Κύριος		κύριος	G2962	N-NSM	
+2thess.2.16	5		ἡμῶν		ἐγώ	G1473	P-1GP	
+2thess.2.16	6		Ἰησοῦς		Ἰησοῦς	G2424	N-NSM	
+2thess.2.16	7		Χριστὸς		Χριστός	G5547	N-NSM	
+2thess.2.16	8		καὶ		καί	G2532	CONJ	
+2thess.2.16	9		ὁ		ὁ	G3588	T-NSM	
+2thess.2.16	10		Θεὸς		θεός	G2316	N-NSM	
+2thess.2.16	11		ὁ		ὁ	G3588	T-NSM	
+2thess.2.16	12		Πατὴρ		πατήρ	G3962	N-NSM	
+2thess.2.16	13		ἡμῶν	,	ἐγώ	G1473	P-1GP	
+2thess.2.16	14		ὁ		ὁ	G3588	T-NSM	
+2thess.2.16	15		ἀγαπήσας		ἀγαπάω	G25	V-AAP-NSM	
+2thess.2.16	16		ἡμᾶς		ἐγώ	G1473	P-1AP	
+2thess.2.16	17		καὶ		καί	G2532	CONJ	
+2thess.2.16	18		δοὺς		δίδωμι	G1325	V-2AAP-NSM	
+2thess.2.16	19		παράκλησιν		παράκλησις	G3874	N-ASF	
+2thess.2.16	20		αἰωνίαν		αἰώνιος	G166	A-ASF	
+2thess.2.16	21		καὶ		καί	G2532	CONJ	
+2thess.2.16	22		ἐλπίδα		ἐλπίς	G1680	N-ASF	
+2thess.2.16	23		ἀγαθὴν		ἀγαθός	G18	A-ASF	
+2thess.2.16	24		ἐν		ἐν	G1722	PREP	
+2thess.2.16	25		χάριτι	,	χάρις	G5485	N-DSF	
+2thess.2.17	1		παρακαλέσαι		παρακαλέω	G3870	V-AAO-3S	
+2thess.2.17	2		ὑμῶν		σύ	G4771	P-2GP	
+2thess.2.17	3		τὰς		ὁ	G3588	T-APF	
+2thess.2.17	4		καρδίας		καρδία	G2588	N-APF	
+2thess.2.17	5		καὶ		καί	G2532	CONJ	
+2thess.2.17	6		στηρίξαι		στηρίζω	G4741	V-AAO-3S	
+2thess.2.17	7		ὑμᾶς		σύ	G4771	P-2AP	tr
+2thess.2.17	8		ἐν		ἐν	G1722	PREP	
+2thess.2.17	9		παντὶ		πᾶς	G3956	A-DSN	
+2thess.2.17	10		ἔργῳ		ἔργον	G2041	N-DSN	
+2thess.2.17	11		καὶ		καί	G2532	CONJ	
+2thess.2.17	12		λόγῳ		λόγος	G3056	N-DSM	
+2thess.2.17	13		ἀγαθῷ	.	ἀγαθός	G18	A-DSM	
+2thess.3.1	1		Τὸ		ὁ	G3588	T-ASN	
+2thess.3.1	2		λοιπὸν		λοιπός	G3062	A-ASN	
+2thess.3.1	3		προσεύχεσθε	,	προσεύχομαι	G4336	V-PNM-2P	
+2thess.3.1	4		ἀδελφοί	,	ἀδελφός	G80	N-VPM	
+2thess.3.1	5		περὶ		περί	G4012	PREP	
+2thess.3.1	6		ἡμῶν	,	ἐγώ	G1473	P-1GP	
+2thess.3.1	7		ἵνα		ἵνα	G2443	CONJ	
+2thess.3.1	8		ὁ		ὁ	G3588	T-NSM	
+2thess.3.1	9		λόγος		λόγος	G3056	N-NSM	
+2thess.3.1	10		τοῦ		ὁ	G3588	T-GSM	
+2thess.3.1	11		Κυρίου		κύριος	G2962	N-GSM	
+2thess.3.1	12		τρέχῃ		τρέχω	G5143	V-PAS-3S	
+2thess.3.1	13		καὶ		καί	G2532	CONJ	
+2thess.3.1	14		δοξάζηται		δοξάζω	G1392	V-PPS-3S	
+2thess.3.1	15		καθὼς		καθώς	G2531	ADV	
+2thess.3.1	16		καὶ		καί	G2532	CONJ	
+2thess.3.1	17		πρὸς		πρός	G4314	PREP	
+2thess.3.1	18		ὑμᾶς	,	σύ	G4771	P-2AP	
+2thess.3.2	1		καὶ		καί	G2532	CONJ	
+2thess.3.2	2		ἵνα		ἵνα	G2443	CONJ	
+2thess.3.2	3		ῥυσθῶμεν		ῥύομαι	G4506	V-APS-1P	
+2thess.3.2	4		ἀπὸ		ἀπό	G575	PREP	
+2thess.3.2	5		τῶν		ὁ	G3588	T-GPM	
+2thess.3.2	6		ἀτόπων		ἄτοπος	G824	A-GPM	
+2thess.3.2	7		καὶ		καί	G2532	CONJ	
+2thess.3.2	8		πονηρῶν		πονηρός	G4190	A-GPM	
+2thess.3.2	9		ἀνθρώπων	·	ἄνθρωπος	G444	N-GPM	
+2thess.3.2	10		οὐ		οὐ	G3756	PRT-N	
+2thess.3.2	11		γὰρ		γάρ	G1063	CONJ	
+2thess.3.2	12		πάντων		πᾶς	G3956	A-GPM	
+2thess.3.2	13		ἡ		ὁ	G3588	T-NSF	
+2thess.3.2	14		πίστις	.	πίστις	G4102	N-NSF	
+2thess.3.3	1		Πιστὸς		πιστός	G4103	A-NSM	
+2thess.3.3	2		δέ		δέ	G1161	CONJ	
+2thess.3.3	3		ἐστιν		εἰμί	G1510	V-PAI-3S	
+2thess.3.3	4		ὁ		ὁ	G3588	T-NSM	
+2thess.3.3	5		Κύριος	,	κύριος	G2962	N-NSM	
+2thess.3.3	6		ὃς		ὅς	G3739	R-NSM	
+2thess.3.3	7		στηρίξει		στηρίζω	G4741	V-FAI-3S	
+2thess.3.3	8		ὑμᾶς		σύ	G4771	P-2AP	
+2thess.3.3	9		καὶ		καί	G2532	CONJ	
+2thess.3.3	10		φυλάξει		φυλάσσω	G5442	V-FAI-3S	
+2thess.3.3	11		ἀπὸ		ἀπό	G575	PREP	
+2thess.3.3	12		τοῦ		ὁ	G3588	T-GSM	
+2thess.3.3	13		πονηροῦ	.	πονηρός	G4190	A-GSM	
+2thess.3.4	1		πεποίθαμεν		πείθω	G3982	V-2RAI-1P	
+2thess.3.4	2		δὲ		δέ	G1161	CONJ	
+2thess.3.4	3		ἐν		ἐν	G1722	PREP	
+2thess.3.4	4		Κυρίῳ		κύριος	G2962	N-DSM	
+2thess.3.4	5		ἐφ’		ἐπί	G1909	PREP	
+2thess.3.4	6		ὑμᾶς	,	σύ	G4771	P-2AP	
+2thess.3.4	7		ὅτι		ὅτι	G3754	CONJ	
+2thess.3.4	8		ἃ		ὅς	G3739	R-APN	
+2thess.3.4	9		παραγγέλλομεν		παραγγέλλω	G3853	V-PAI-1P	
+2thess.3.4	10		ὑμῖν		σύ	G4771	P-2DP	tr
+2thess.3.4	11		καὶ		καί	G2532	CONJ	
+2thess.3.4	12		ποιεῖτε		ποιέω	G4160	V-PAI-2P	
+2thess.3.4	13		καὶ		καί	G2532	CONJ	
+2thess.3.4	14		ποιήσετε	.	ποιέω	G4160	V-FAI-2P	
+2thess.3.5	1		Ὁ		ὁ	G3588	T-NSM	
+2thess.3.5	2		δὲ		δέ	G1161	CONJ	
+2thess.3.5	3		Κύριος		κύριος	G2962	N-NSM	
+2thess.3.5	4		κατευθύναι		κατευθύνω	G2720	V-AAO-3S	
+2thess.3.5	5		ὑμῶν		σύ	G4771	P-2GP	
+2thess.3.5	6		τὰς		ὁ	G3588	T-APF	
+2thess.3.5	7		καρδίας		καρδία	G2588	N-APF	
+2thess.3.5	8		εἰς		εἰς	G1519	PREP	
+2thess.3.5	9		τὴν		ὁ	G3588	T-ASF	
+2thess.3.5	10		ἀγάπην		ἀγάπη	G26	N-ASF	
+2thess.3.5	11		τοῦ		ὁ	G3588	T-GSM	
+2thess.3.5	12		Θεοῦ		θεός	G2316	N-GSM	
+2thess.3.5	13		καὶ		καί	G2532	CONJ	
+2thess.3.5	14		εἰς		εἰς	G1519	PREP	
+2thess.3.5	15		τὴν		ὁ	G3588	T-ASF	
+2thess.3.5	16		ὑπομονὴν		ὑπομονή	G5281	N-ASF	
+2thess.3.5	17		τοῦ		ὁ	G3588	T-GSM	
+2thess.3.5	18		Χριστοῦ	.	Χριστός	G5547	N-GSM	
+2thess.3.6	1		Παραγγέλλομεν		παραγγέλλω	G3853	V-PAI-1P	
+2thess.3.6	2		δὲ		δέ	G1161	CONJ	
+2thess.3.6	3		ὑμῖν	,	σύ	G4771	P-2DP	
+2thess.3.6	4		ἀδελφοί	,	ἀδελφός	G80	N-VPM	
+2thess.3.6	5		ἐν		ἐν	G1722	PREP	
+2thess.3.6	6		ὀνόματι		ὄνομα	G3686	N-DSN	
+2thess.3.6	7		τοῦ		ὁ	G3588	T-GSM	
+2thess.3.6	8		Κυρίου		κύριος	G2962	N-GSM	
+2thess.3.6	9		ἡμῶν		ἐγώ	G1473	P-1GP	tr
+2thess.3.6	10		Ἰησοῦ		Ἰησοῦς	G2424	N-GSM	
+2thess.3.6	11		Χριστοῦ		Χριστός	G5547	N-GSM	
+2thess.3.6	12		στέλλεσθαι		στέλλω	G4724	V-PMN	
+2thess.3.6	13		ὑμᾶς		σύ	G4771	P-2AP	
+2thess.3.6	14		ἀπὸ		ἀπό	G575	PREP	
+2thess.3.6	15		παντὸς		πᾶς	G3956	A-GSM	
+2thess.3.6	16		ἀδελφοῦ		ἀδελφός	G80	N-GSM	
+2thess.3.6	17		ἀτάκτως		ἀτάκτως	G814	ADV	
+2thess.3.6	18		περιπατοῦντος		περιπατέω	G4043	V-PAP-GSM	
+2thess.3.6	19		καὶ		καί	G2532	CONJ	
+2thess.3.6	20		μὴ		μή	G3361	PRT-N	
+2thess.3.6	21		κατὰ		κατά	G2596	PREP	
+2thess.3.6	22		τὴν		ὁ	G3588	T-ASF	
+2thess.3.6	23		παράδοσιν		παράδοσις	G3862	N-ASF	
+2thess.3.6	24		ἣν		ὅς	G3739	R-ASF	
+2thess.3.6	25		παρελάβετε		παραλαμβάνω	G3880	V-2AAI-2P	
+2thess.3.6	26		παρ’		παρά	G3844	PREP	
+2thess.3.6	27		ἡμῶν	.	ἐγώ	G1473	P-1GP	
+2thess.3.7	1		αὐτοὶ		αὐτός	G846	P-NPM	
+2thess.3.7	2		γὰρ		γάρ	G1063	CONJ	
+2thess.3.7	3		οἴδατε		οἶδα	G1492	V-RAI-2P	
+2thess.3.7	4		πῶς		πῶς	G4459	ADV	
+2thess.3.7	5		δεῖ		δεῖ	G1163	V-PAI-3S	
+2thess.3.7	6		μιμεῖσθαι		μιμέομαι	G3401	V-PNN	
+2thess.3.7	7		ἡμᾶς	,	ἐγώ	G1473	P-1AP	
+2thess.3.7	8		ὅτι		ὅτι	G3754	CONJ	
+2thess.3.7	9		οὐκ		οὐ	G3756	PRT-N	
+2thess.3.7	10		ἠτακτήσαμεν		ἀτακτέω	G812	V-AAI-1P	
+2thess.3.7	11		ἐν		ἐν	G1722	PREP	
+2thess.3.7	12		ὑμῖν	,	σύ	G4771	P-2DP	
+2thess.3.8	1		οὐδὲ		οὐδέ	G3761	CONJ-N	
+2thess.3.8	2		δωρεὰν		δωρεάν	G1432	ADV	
+2thess.3.8	3		ἄρτον		ἄρτος	G740	N-ASM	
+2thess.3.8	4		ἐφάγομεν		ἐσθίω	G5315	V-2AAI-1P	
+2thess.3.8	5		παρά		παρά	G3844	PREP	
+2thess.3.8	6		τινος	,	τὶς	G5100	X-GSM	
+2thess.3.8	7		ἀλλ’		ἀλλά	G235	CONJ	
+2thess.3.8	8		ἐν		ἐν	G1722	PREP	
+2thess.3.8	9		κόπῳ		κόπος	G2873	N-DSM	
+2thess.3.8	10		καὶ		καί	G2532	CONJ	
+2thess.3.8	11		μόχθῳ		μόχθος	G3449	N-DSM	
+2thess.3.8	12		νυκτὸς		νύξ	G3571	N-GSF	
+2thess.3.8	13		καὶ		καί	G2532	CONJ	
+2thess.3.8	14		ἡμέρας		ἡμέρα	G2250	N-GSF	
+2thess.3.8	15		ἐργαζόμενοι		ἐργάζομαι	G2038	V-PNP-NPM	
+2thess.3.8	16		πρὸς		πρός	G4314	PREP	
+2thess.3.8	17		τὸ		ὁ	G3588	T-ASN	
+2thess.3.8	18		μὴ		μή	G3361	PRT-N	
+2thess.3.8	19		ἐπιβαρῆσαί		ἐπιβαρέω	G1912	V-AAN	
+2thess.3.8	20		τινα		τὶς	G5100	X-ASM	
+2thess.3.8	21		ὑμῶν	·	σύ	G4771	P-2GP	
+2thess.3.9	1		οὐχ		οὐ	G3756	PRT-N	
+2thess.3.9	2		ὅτι		ὅτι	G3754	CONJ	
+2thess.3.9	3		οὐκ		οὐ	G3756	PRT-N	
+2thess.3.9	4		ἔχομεν		ἔχω	G2192	V-PAI-1P	
+2thess.3.9	5		ἐξουσίαν	,	ἐξουσία	G1849	N-ASF	
+2thess.3.9	6		ἀλλ’		ἀλλά	G235	CONJ	
+2thess.3.9	7		ἵνα		ἵνα	G2443	CONJ	
+2thess.3.9	8		ἑαυτοὺς		ἑαυτοῦ	G1438	F-1APM	
+2thess.3.9	9		τύπον		τύπος	G5179	N-ASM	
+2thess.3.9	10		δῶμεν		δίδωμι	G1325	V-2AAS-1P	
+2thess.3.9	11		ὑμῖν		σύ	G4771	P-2DP	
+2thess.3.9	12		εἰς		εἰς	G1519	PREP	
+2thess.3.9	13		τὸ		ὁ	G3588	T-ASN	
+2thess.3.9	14		μιμεῖσθαι		μιμέομαι	G3401	V-PNN	
+2thess.3.9	15		ἡμᾶς	.	ἐγώ	G1473	P-1AP	
+2thess.3.10	1		καὶ		καί	G2532	CONJ	
+2thess.3.10	2		γὰρ		γάρ	G1063	CONJ	
+2thess.3.10	3		ὅτε		ὅτε	G3753	ADV	
+2thess.3.10	4		ἦμεν		εἰμί	G1510	V-IAI-1P	
+2thess.3.10	5		πρὸς		πρός	G4314	PREP	
+2thess.3.10	6		ὑμᾶς	,	σύ	G4771	P-2AP	
+2thess.3.10	7		τοῦτο		οὗτος	G3778	D-ASN	
+2thess.3.10	8		παρηγγέλλομεν		παραγγέλλω	G3853	V-IAI-1P	
+2thess.3.10	9		ὑμῖν	,	σύ	G4771	P-2DP	
+2thess.3.10	10		ὅτι		ὅτι	G3754	CONJ	
+2thess.3.10	11		εἴ		εἰ	G1487	COND	
+2thess.3.10	12		τις		τὶς	G5100	X-NSM	
+2thess.3.10	13		οὐ		οὐ	G3756	PRT-N	
+2thess.3.10	14		θέλει		θέλω	G2309	V-PAI-3S	
+2thess.3.10	15		ἐργάζεσθαι	,	ἐργάζομαι	G2038	V-PNN	
+2thess.3.10	16		μηδὲ		μηδέ	G3366	CONJ-N	
+2thess.3.10	17		ἐσθιέτω	.	ἐσθίω	G2068	V-PAM-3S	
+2thess.3.11	1		ἀκούομεν		ἀκούω	G191	V-PAI-1P	
+2thess.3.11	2		γάρ		γάρ	G1063	CONJ	
+2thess.3.11	3		τινας		τὶς	G5100	X-APM	
+2thess.3.11	4		περιπατοῦντας		περιπατέω	G4043	V-PAP-APM	
+2thess.3.11	5		ἐν		ἐν	G1722	PREP	
+2thess.3.11	6		ὑμῖν		σύ	G4771	P-2DP	
+2thess.3.11	7		ἀτάκτως	,	ἀτάκτως	G814	ADV	
+2thess.3.11	8		μηδὲν		μηδείς	G3367	A-ASN-N	
+2thess.3.11	9		ἐργαζομένους		ἐργάζομαι	G2038	V-PNP-APM	
+2thess.3.11	10		ἀλλὰ		ἀλλά	G235	CONJ	
+2thess.3.11	11		περιεργαζομένους	·	περιεργάζομαι	G4020	V-PNP-APM	
+2thess.3.12	1		τοῖς		ὁ	G3588	T-DPM	
+2thess.3.12	2		δὲ		δέ	G1161	CONJ	
+2thess.3.12	3		τοιούτοις		τοιοῦτος	G5108	D-DPM	
+2thess.3.12	4		παραγγέλλομεν		παραγγέλλω	G3853	V-PAI-1P	
+2thess.3.12	5		καὶ		καί	G2532	CONJ	
+2thess.3.12	6		παρακαλοῦμεν		παρακαλέω	G3870	V-PAI-1P	
+2thess.3.12	7		ἐν		ἐν	G1722	PREP	
+2thess.3.12	8		Κυρίῳ		κύριος	G2962	N-DSM	
+2thess.3.12	9		ἡμῶν		ἐγώ	G1473	P-1GP	tr
+2thess.3.12	10		Ἰησοῦ		Ἰησοῦς	G2424	N-DSM	
+2thess.3.12	11		Χριστῷ		Χριστός	G5547	N-DSM	
+2thess.3.12	12		ἵνα		ἵνα	G2443	CONJ	
+2thess.3.12	13		μετὰ		μετά	G3326	PREP	
+2thess.3.12	14		ἡσυχίας		ἡσυχία	G2271	N-GSF	
+2thess.3.12	15		ἐργαζόμενοι		ἐργάζομαι	G2038	V-PNP-NPM	
+2thess.3.12	16		τὸν		ὁ	G3588	T-ASM	
+2thess.3.12	17		ἑαυτῶν		ἑαυτοῦ	G1438	F-3GPM	
+2thess.3.12	18		ἄρτον		ἄρτος	G740	N-ASM	
+2thess.3.12	19		ἐσθίωσιν	.	ἐσθίω	G2068	V-PAS-3P	
+2thess.3.13	1		Ὑμεῖς		σύ	G4771	P-2NP	
+2thess.3.13	2		δέ	,	δέ	G1161	CONJ	
+2thess.3.13	3		ἀδελφοί	,	ἀδελφός	G80	N-VPM	
+2thess.3.13	4		μὴ		μή	G3361	PRT-N	
+2thess.3.13	5		ἐγκακήσητε		ἐγκακέω	G1573	V-AAS-2P	
+2thess.3.13	6		καλοποιοῦντες	.	καλοποιέω	G2569	V-PAP-NPM	
+2thess.3.14	1		εἰ		εἰ	G1487	COND	
+2thess.3.14	2		δέ		δέ	G1161	CONJ	
+2thess.3.14	3		τις		τὶς	G5100	X-NSM	
+2thess.3.14	4		οὐχ		οὐ	G3756	PRT-N	
+2thess.3.14	5		ὑπακούει		ὑπακούω	G5219	V-PAI-3S	
+2thess.3.14	6		τῷ		ὁ	G3588	T-DSM	
+2thess.3.14	7		λόγῳ		λόγος	G3056	N-DSM	
+2thess.3.14	8		ἡμῶν		ἐγώ	G1473	P-1GP	
+2thess.3.14	9		διὰ		διά	G1223	PREP	
+2thess.3.14	10		τῆς		ὁ	G3588	T-GSF	
+2thess.3.14	11		ἐπιστολῆς	,	ἐπιστολή	G1992	N-GSF	
+2thess.3.14	12		τοῦτον		οὗτος	G3778	D-ASM	
+2thess.3.14	13		σημειοῦσθε		σημειόω	G4593	V-PMM-2P	
+2thess.3.14	14		καί	,	καί	G2532	CONJ	tr,punct
+2thess.3.14	15		μὴ		μή	G3361	PRT-N	
+2thess.3.14	16		συναναμίγνυσθαι		συναναμίγνυμι	G4874	V-PMN	
+2thess.3.14	17		αὐτῷ	,	αὐτός	G846	P-DSM	
+2thess.3.14	18		ἵνα		ἵνα	G2443	CONJ	
+2thess.3.14	19		ἐντραπῇ	·	ἐντρέπω	G1788	V-2APS-3S	
+2thess.3.15	1		καὶ		καί	G2532	CONJ	
+2thess.3.15	2		μὴ		μή	G3361	PRT-N	
+2thess.3.15	3		ὡς		ὡς	G5613	ADV	
+2thess.3.15	4		ἐχθρὸν		ἐχθρός	G2190	A-ASM	
+2thess.3.15	5		ἡγεῖσθε	,	ἡγέομαι	G2233	V-PNM-2P	
+2thess.3.15	6		ἀλλὰ		ἀλλά	G235	CONJ	
+2thess.3.15	7		νουθετεῖτε		νουθετέω	G3560	V-PAM-2P	
+2thess.3.15	8		ὡς		ὡς	G5613	ADV	
+2thess.3.15	9		ἀδελφόν	.	ἀδελφός	G80	N-ASM	
+2thess.3.16	1		Αὐτὸς		αὐτός	G846	P-NSM	
+2thess.3.16	2		δὲ		δέ	G1161	CONJ	
+2thess.3.16	3		ὁ		ὁ	G3588	T-NSM	
+2thess.3.16	4		Κύριος		κύριος	G2962	N-NSM	
+2thess.3.16	5		τῆς		ὁ	G3588	T-GSF	
+2thess.3.16	6		εἰρήνης		εἰρήνη	G1515	N-GSF	
+2thess.3.16	7		δῴη		δίδωμι	G1325	V-2AAO-3S	
+2thess.3.16	8		ὑμῖν		σύ	G4771	P-2DP	
+2thess.3.16	9		τὴν		ὁ	G3588	T-ASF	
+2thess.3.16	10		εἰρήνην		εἰρήνη	G1515	N-ASF	
+2thess.3.16	11		διὰ		διά	G1223	PREP	
+2thess.3.16	12		παντὸς		πᾶς	G3956	A-GSN	
+2thess.3.16	13		ἐν		ἐν	G1722	PREP	
+2thess.3.16	14		παντὶ		πᾶς	G3956	A-DSM	
+2thess.3.16	15		τρόπῳ	.	τρόπος	G5158	N-DSM	
+2thess.3.16	16		ὁ		ὁ	G3588	T-NSM	
+2thess.3.16	17		Κύριος		κύριος	G2962	N-NSM	
+2thess.3.16	18		μετὰ		μετά	G3326	PREP	
+2thess.3.16	19		πάντων		πᾶς	G3956	A-GPM	
+2thess.3.16	20		ὑμῶν	.	σύ	G4771	P-2GP	
+2thess.3.17	1		Ὁ		ὁ	G3588	T-NSM	
+2thess.3.17	2		ἀσπασμὸς		ἀσπασμός	G783	N-NSM	
+2thess.3.17	3		τῇ		ὁ	G3588	T-DSF	
+2thess.3.17	4		ἐμῇ		ἐμός	G1699	S-1SDSF	
+2thess.3.17	5		χειρὶ		χείρ	G5495	N-DSF	
+2thess.3.17	6		Παύλου	,	Παῦλος	G3972	N-GSM	
+2thess.3.17	7		ὅ		ὅς	G3739	R-NSN	
+2thess.3.17	8		ἐστιν		εἰμί	G1510	V-PAI-3S	
+2thess.3.17	9		σημεῖον		σημεῖον	G4592	N-NSN	
+2thess.3.17	10		ἐν		ἐν	G1722	PREP	
+2thess.3.17	11		πάσῃ		πᾶς	G3956	A-DSF	
+2thess.3.17	12		ἐπιστολῇ	·	ἐπιστολή	G1992	N-DSF	
+2thess.3.17	13		οὕτως		οὕτω	G3779	ADV	
+2thess.3.17	14		γράφω	.	γράφω	G1125	V-PAI-1S	
+2thess.3.18	1		ἡ		ὁ	G3588	T-NSF	
+2thess.3.18	2		χάρις		χάρις	G5485	N-NSF	
+2thess.3.18	3		τοῦ		ὁ	G3588	T-GSM	
+2thess.3.18	4		Κυρίου		κύριος	G2962	N-GSM	
+2thess.3.18	5		ἡμῶν		ἐγώ	G1473	P-1GP	
+2thess.3.18	6		Ἰησοῦ		Ἰησοῦς	G2424	N-GSM	
+2thess.3.18	7		Χριστοῦ		Χριστός	G5547	N-GSM	
+2thess.3.18	8		μετὰ		μετά	G3326	PREP	
+2thess.3.18	9		πάντων		πᾶς	G3956	A-GPM	
+2thess.3.18	10		ὑμῶν		σύ	G4771	P-2GP	
+2thess.3.18	11		ἀμήν	.	ἀμήν	G281	HEB	tr,punct

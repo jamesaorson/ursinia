@@ -1,0 +1,51 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+gen	theoldtestamenti00unknuoft	33	1	EN	τς « ν ᾿ 5 ν ᾿ ε « . ἘΝ	ΕΝ	ΕΝ	class R5: Latin-letter substitution in OCR; c read from image
+gen	theoldtestamenti00unknuoft	33	1	APXH	ΑΡΧΗ	ΑΡΧΗ	ΑΡΧΗ	image: unaccented capitals
+gen	theoldtestamenti00unknuoft	33	1	“ἡ	“ἡ	ἡ	ἡ	class R1: OCR fused/misread the superscript verse number into the word
+gen	theoldtestamenti00unknuoft	33	1	yn	γῆ	γῆ	γῆ	class R5: Latin-letter substitution in OCR; c read from image
+gen	theoldtestamenti00unknuoft	33	2	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from image
+gen	theoldtestamenti00unknuoft	33	2	ἀβύσσου"	ἀβύσσου"	ἀβύσσου·	ἀβύσσου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe; image shows a raised dot
+gen	theoldtestamenti00unknuoft	33	3	3καὶ	3καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word
+gen	theoldtestamenti00unknuoft	33	3	θεός	θεὸς	θεός	θεός	image: acute (Swete's acute before a capitalized quotation)
+gen	theoldtestamenti00unknuoft	33	3	Tevn-	Τενη- ΄ ΄σ νὰ «ς ν ᾿ ΄“΄ “ ’	Γενη-	Γενη-	class R5: Latin-letter substitution in OCR; c read from image
+gen	theoldtestamenti00unknuoft	33	4	φῶς:	φῶς:	φῶς·	φῶς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe; image shows a raised dot
+gen	theoldtestamenti00unknuoft	33	4	tka	“καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from image
+gen	theoldtestamenti00unknuoft	33	4	καλόν"	καλόν"	καλόν·	καλόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe; image shows a raised dot
+gen	theoldtestamenti00unknuoft	33	5	ava	ἀνὰ	ἀνὰ	ἀνὰ	class R5: Latin-letter substitution in OCR; c read from image
+gen	theoldtestamenti00unknuoft	33	5	ava	ἀνὰ	ἀνὰ	ἀνὰ	class R5: Latin-letter substitution in OCR; c read from image
+gen	theoldtestamenti00unknuoft	33	6	Tous.	τους.	τους.	τους.	class R5: Latin-letter substitution in OCR; c read from image
+gen	theoldtestamenti00unknuoft	33	6	Skat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from image
+gen	theoldtestamenti00unknuoft	33	7	Καὶ	6Κ αἱ	Καὶ	Καὶ	c read from the image strip; dissent is a known OCR failure (Γ read as Τ, [ ] read as Ϊ/ί/], diacritics dropped or doubled, junk); not separately zoomed
+gen	theoldtestamenti00unknuoft	33	8	Τενηθήτω	Τενηθήτω	Γενηθήτω	Γενηθήτω	c read from the image strip; dissent is a known OCR failure (Γ read as Τ, [ ] read as Ϊ/ί/], diacritics dropped or doubled, junk); not separately zoomed
+gen	theoldtestamenti00unknuoft	33	8	Tov	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from image
+gen	theoldtestamenti00unknuoft	33	8	ἔστω.	ἔστω.	ἔστω	ἔστω	ambiguous: faint sub-baseline tick after ἔστω, lighter than ink and smaller than any comma/period on the page; treated as a speck, no punctuation
+gen	theoldtestamenti00unknuoft	33	9	ὕδατος"	ὕδατος"	ὕδατος·	ὕδατος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe; image shows a raised dot
+gen	theoldtestamenti00unknuoft	33	9	7kal	71καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from image
+gen	theoldtestamenti00unknuoft	33	9	ἐποίη-	ἐποίη- +« 4 εἶ ν Ν 1 ᾿ φέις	ἐποίη-	ἐποίη-	class R3: OCR appended accent-row or margin junk
+gen	theoldtestamenti00unknuoft	33	10	ὃ	ὁ	ὁ	ὁ	image: article, rough breathing only
+gen	theoldtestamenti00unknuoft	33	10	στερέωμα:	στερέωμα:	στερέωμα·	στερέωμα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe; image shows a raised dot
+gen	theoldtestamenti00unknuoft	33	10	ὕδατος	ὕδατος +ΠῚ ε « ’ ΄- ἀπ ᾽ ΄ “ ΄σ Ε] ,	ὕδατος	ὕδατος	class R3: OCR appended accent-row or margin junk
+gen	theoldtestamenti00unknuoft	33	12	TOU	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from image
+gen	theoldtestamenti00unknuoft	33	12	ϑϑκαὶ	88καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word
+gen	theoldtestamenti00unknuoft	33	12	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from image
+gen	theoldtestamenti00unknuoft	33	12	οὐρανόν:	οὐρανόν:	οὐρανόν·	οὐρανόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe; image shows a raised dot
+gen	theoldtestamenti00unknuoft	33	13	ἡμέρα	ἡμέρα +9᾽ ΄ ᾿ς Κι ς , σ΄	ἡμέρα	ἡμέρα	class R3: OCR appended accent-row or margin junk
+gen	theoldtestamenti00unknuoft	33	14	δευτέρα.	δευτέρα. +9	δευτέρα.	δευτέρα.	class R3: OCR appended accent-row or margin junk
+gen	theoldtestamenti00unknuoft	33	15	Enpa:	ξηρα:	ξηρά·	ξηρά·	image: acute
+gen	theoldtestamenti00unknuoft	33	16	TOU	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from image
+gen	theoldtestamenti00unknuoft	33	17	ὥφθη	ὥφθη	ὤφθη	ὤφθη	image (4x): smooth breathing + acute, same shape as smooth on ἐκεῖ; OCR rough breathing wrong
+gen	theoldtestamenti00unknuoft	33	17	"οκαὶ	"οκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word
+gen	theoldtestamenti00unknuoft	33	18	pata	ματα	ματα	ματα	class R5: Latin-letter substitution in OCR; c read from image
+gen	theoldtestamenti00unknuoft	33	18	θαλάσσας:	θαλάσσας"	θαλάσσας·	θαλάσσας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe; image shows a raised dot
+gen	theoldtestamenti00unknuoft	33	18	καλόν. +τ'	καλόν. +τ'	καλόν.	καλόν.	class R3: OCR appended accent-row or margin junk
+gen	theoldtestamenti00unknuoft	33	21	γῆς"	γῆς"	γῆς·	γῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe; image shows a raised dot
+gen	theoldtestamenti00unknuoft	33	22	‘Kal	"καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from image
+gen	theoldtestamenti00unknuoft	33	23	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from image
+gen	theoldtestamenti00unknuoft	33	24	Kata	κατὰ	κατὰ	κατὰ	class R5: Latin-letter substitution in OCR; c read from image
+gen	theoldtestamenti00unknuoft	33	24	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from image
+gen	theoldtestamenti00unknuoft	33	25	"kal	"3καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from image
+gen	theoldtestamenti00unknuoft	33	25	ἐγένετο +ὃ	ἐγένετο +ὃ	ἐγένετο	ἐγένετο	class R3: OCR appended accent-row or margin junk
+gen	theoldtestamenti00unknuoft	33	25	αἱ	αἱ 3 ε , Π ΄ Ι ΄ , - Ε Αν π	Καὶ	Καὶ	c read from the image strip; dissent is a known OCR failure (Γ read as Τ, [ ] read as Ϊ/ί/], diacritics dropped or doubled, junk); not separately zoomed
+gen	theoldtestamenti00unknuoft	33	26	Τενηθήτωσαν	Τενηθήτωσαν	Γενηθήτωσαν	Γενηθήτωσαν	c read from the image strip; dissent is a known OCR failure (Γ read as Τ, [ ] read as Ϊ/ί/], diacritics dropped or doubled, junk); not separately zoomed
+gen	theoldtestamenti00unknuoft	33	26	TH	τῷ	τῷ	τῷ	class R5: Latin-letter substitution in OCR; c read from image
+gen	theoldtestamenti00unknuoft	33	26	τοῦ	του	τοῦ	τοῦ	image: circumflex

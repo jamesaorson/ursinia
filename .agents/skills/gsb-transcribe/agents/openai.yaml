@@ -1,0 +1,4 @@
+interface:
+  display_name: "GSB Swete transcription"
+  short_description: "Transcribe Swete's Septuagint from page scans"
+  default_prompt: "Use $gsb-transcribe to transcribe the Swete leaves you were given."

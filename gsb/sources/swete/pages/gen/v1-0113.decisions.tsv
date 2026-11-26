@@ -1,0 +1,90 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+gen	theoldtestamenti00unknuoft	113	1	∅	.	μετὰ	μετὰ	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	1	ἰσχυρὸς:	ἰσχυρὸς:	ἰσχυρὸς	ἰσχυρὸς	image (3x): ἰσχυρὸς; the small light dot before γὰρ is a speck (lighter and smaller than an ano teleia), not punctuation
+gen	theoldtestamenti00unknuoft	113	1	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	1	σφόδρα. +3᾽	σφόδρα. +5᾽	σφόδρα.	σφόδρα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	1	τοῦ	τοῦ +ὃ	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	1	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	2	∅	∅	ἐνύπνιον	ἐνύπνιον	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	2	Sis,	δίς,	δίς,	δίς,	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	2	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	2	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	3	∅	∅	ταχυνεῖ	ταχυνεῖ	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	3	Bviv	ϑϑΞνῦν	νῦν	νῦν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	4	Kal	∅	νιμον	νιμον	class R5+R0: Latin-letter substitution in OCR; OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	4	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	4	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	4	THs	τῆς	τῆς	τῆς	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	4	Αἰγύπτου: +*	Αἰγύπτου" +3	Αἰγύπτου·	Αἰγύπτου·	image (3x): smooth breathing on ι of Αἰ
+gen	theoldtestamenti00unknuoft	113	5	∅	∅	ποιησάτω	ποιησάτω	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	5	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	6	∅	∅	πεμπτωσάτωσαν	πεμπτωσάτωσαν	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	6	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing on ι of Αἰ
+gen	theoldtestamenti00unknuoft	113	7	∅	∅	ἐτῶν	ἐτῶν	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	7	Sxal	55καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	8	∅	∅	ἑπτὰ	ἑπτὰ	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	8	τούτων:	τούτων:	τούτων·	τούτων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	9	∅	∅	σῖτος	σῖτος	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	9	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	9	συναχθήτω. +3)	συναχθήτω. +3)	συναχθήτω.	συναχθήτω.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	10	∅	∅	ἔσται	ἔσται	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	10	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	11	∅	∅	ἃ	ἃ	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	11	Αἰγύπτῳ,	Αἰγύπτῳ,	Αἰγύπτῳ,	Αἰγύπτῳ,	image (3x): smooth breathing on ι of Αἰ
+gen	theoldtestamenti00unknuoft	113	12	λιμῴ.	λιμῴ.	λιμῷ.	λιμῷ.	image (3x): circumflex and iota subscript, λιμῷ
+gen	theoldtestamenti00unknuoft	113	12	ρέσεν	3 +ρεσεν	Ἤρεσεν	Ἤρεσεν	image (3x): smooth breathing + acute on capital Η, Ἤρεσεν
+gen	theoldtestamenti00unknuoft	113	12	ἐναντίον	ἐναντίον +Φ	ἐναντίον	ἐναντίον	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	13	∅	∅	πάντων	πάντων	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	13	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	13	3Ξκαὶ	3Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	14	∅	∅	αὐτοῦ	αὐτοῦ	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	14	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	15	3εἶπεν	3εἶπεν	αὐτῷ;	αὐτῷ;	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	15	∅	∅	εἶπεν	εἶπεν	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	15	Ἰωσήφ	Ἰωσήφ	Ἰωσήφ	Ἰωσήφ	image (3x): smooth breathing; acute on oxytone before capitalized word
+gen	theoldtestamenti00unknuoft	113	15	Ἐπειδὴ	Ἐπειδὴ	Ἐπειδὴ	Ἐπειδὴ	image (3x): smooth breathing on capital Ε, grave on final syllable
+gen	theoldtestamenti00unknuoft	113	15	θεός	θεός	θεός	θεός	image (3x): acute on θεός before enclitic σοι
+gen	theoldtestamenti00unknuoft	113	16	∅	∅	πάντα	πάντα	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	16	φρονιμώτερός	φρονιμώτερός	φρονιμώτερός	φρονιμώτερός	image (3x): second acute on φρονιμώτερός before enclitic σου
+gen	theoldtestamenti00unknuoft	113	17	∅	∅	σὺ	σὺ	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	17	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	17	TO	τῷ	τῷ	τῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	17	στόματί	στόματί	στόματί	στόματί	image (3x): second acute on στόματί before enclitic σου
+gen	theoldtestamenti00unknuoft	113	18	μου:	μου:	λαός	λαός	image (3x): λαός with acute before enclitic μου
+gen	theoldtestamenti00unknuoft	113	18	∅	∅	μου·	μου·	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	18	“᾿εἶπεν	“εἶπεν	εἶπεν	εἶπεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	19	Ἰωσήφ	Ἰωσήφ	Ἰωσήφ	Ἰωσήφ	image (3x): smooth breathing; acute on oxytone before capitalized word
+gen	theoldtestamenti00unknuoft	113	19	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on capital Ι, Ἰδοὺ
+gen	theoldtestamenti00unknuoft	113	19	καθίστημΐ	καθίστημί	καθίστημί	καθίστημί	image (3x): plain acute on final ι before enclitic σε, no diaeresis
+gen	theoldtestamenti00unknuoft	113	19	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	image (3x): smooth breathing on ι of Αἰ
+gen	theoldtestamenti00unknuoft	113	19	“kal	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	20	∅	∅	περιελόμενος	περιελόμενος	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	21	∅	∅	αὐτὸν	αὐτὸν	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	21	Ἰωσήφ,	Ἰωσήφ,	Ἰωσήφ,	Ἰωσήφ,	image (3x): smooth breathing on Ἰ
+gen	theoldtestamenti00unknuoft	113	22	∅	∅	περιέθηκεν	περιέθηκεν	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	22	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	22	“Kai	“43καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	23	∅	∅	βασεν	βασεν	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	24	∅	∅	ἔμπροσθεν	ἔμπροσθεν	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	24	κήρυξ:	κήρυξ:	κήρυξ·	κήρυξ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	25	“elmev	“'εἶπεν	Αἰγύπτου.	Αἰγύπτου.	image (3x): smooth breathing on ι of Αἰ
+gen	theoldtestamenti00unknuoft	113	25	∅	∅	εἶπεν	εἶπεν	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	25	Ἰωσήφ	Ἰωσήφ	Ἰωσήφ	Ἰωσήφ	image (3x): smooth breathing; acute on oxytone before capitalized word
+gen	theoldtestamenti00unknuoft	113	25	Ἐγὼ	Ἐγὼ	Ἐγὼ	Ἐγὼ	image (3x): smooth breathing on capital Ε, grave on final syllable
+gen	theoldtestamenti00unknuoft	113	25	Φαραώ:	Φαραώ:	Φαραώ·	Φαραώ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	26	∅	∅	ἐξαρεῖ	ἐξαρεῖ	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	26	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	image (3x): smooth breathing on ι of Αἰ
+gen	theoldtestamenti00unknuoft	113	26	“Kal	“"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	27	∅	∅	Φαραὼ	Φαραὼ	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	27	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	image (3x): smooth breathing, grave before the name Ψονθομφανήχ (not a quotation)
+gen	theoldtestamenti00unknuoft	113	27	Ψον +θομφανήχ-	Ψον +θομφανήχ-	Ψονθομφανήχ·	Ψονθομφανήχ·	image (3x): one word Ψονθομφανήχ with ano teleia
+gen	theoldtestamenti00unknuoft	113	27	ait@	αὐτῷ	αὐτῷ	αὐτῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	27	Acevved	Ἀσεννὲθ	Ἀσεννὲθ	Ἀσεννὲθ	image (3x): smooth breathing on capital Α, Ἀσεννὲθ
+gen	theoldtestamenti00unknuoft	113	28	∅	Πετρεφὴ	θυγατέρα	θυγατέρα	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	28	Πετρεφῆ	∅	Πετρεφῆ	Πετρεφῆ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	113	28	“Ἡλίου	"Ηλίου	Ἡλίου	Ἡλίου	image (3x): rough breathing on capital Η, Ἡλίου
+gen	theoldtestamenti00unknuoft	113	28	Ιω	Ιω	Ἰω-	Ἰω-	image (3x): smooth breathing on capital Ι; hyphen printed
+gen	theoldtestamenti00unknuoft	113	29	∅	∅	σὴφ	σὴφ	image (3x): word as transcribed; OCR dropped/misaligned the line-initial word beside the margin number
+gen	theoldtestamenti00unknuoft	113	30	∅	∅	Αἰγύπτου.	Αἰγύπτου.	image (3x): smooth breathing on ι of Αἰ
+gen	theoldtestamenti00unknuoft	113	30	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	image (3x): smooth breathing on Ἰ
+gen	theoldtestamenti00unknuoft	113	1	-	-	ἰσχυρὸς	ἰσχυρὸς	ambiguous: a small light mid-height dot stands between ἰσχυρὸς and γὰρ; read as a speck, not an ano teleia

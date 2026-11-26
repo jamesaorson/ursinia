@@ -1,0 +1,6 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan	oldtestgreek00unknuoft	526	1	∅	∅	ἐν	ἐν	image: no period
+dan	oldtestgreek00unknuoft	526	1	ἐν	ἐν.	ἐν	ἐν	image: no period
+dan	oldtestgreek00unknuoft	526	1	αὐτοῦ. +“"	αὐτοῦ. +“"	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk
+dan	oldtestgreek00unknuoft	526	1	Δανιὴλ.	Δανιὴλ.	Δανιὴλ	Δανιὴλ	image: no period
+dan	oldtestgreek00unknuoft	526	1	ἕως +2x	ἕως +οἱ	ἕως	ἕως	class R3: OCR appended accent-row or margin junk
