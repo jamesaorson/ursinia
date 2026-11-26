@@ -1,0 +1,66 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+gen	theoldtestamenti00unknuoft	49	1	Ἰεκτάν.	Ἰεκτάν.	Ἰεκτάν.	Ἰεκτάν.	image (3x): smooth breathing on Ι
+gen	theoldtestamenti00unknuoft	49	1	ϑ3οκαὶ	30καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	2	ϑβτοὗτοι	ϑβτοὗτοι	οὗτοι	οὗτοι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	2	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	2	viol	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave on υἱοὶ before Σὴμ
+gen	theoldtestamenti00unknuoft	49	4	αὐτῶν. +3:	αὐτῶν.	αὐτῶν.	αὐτῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	4	Αὗται	Αὗται	Αὗται	Αὗται	image (3x): rough breathing + circumflex on υ
+gen	theoldtestamenti00unknuoft	49	4	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	4	Noe	Νῶε	Νῶε	Νῶε	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	5	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	7	αἱ	τΚαὶ	Καὶ	Καὶ	image (3x): capital Καὶ after superscript verse number
+gen	theoldtestamenti00unknuoft	49	7	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	7	pia	μία	μία	μία	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	7	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	8	yn	γῇ	γῇ	γῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	9	3καὶ	38καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	9	TO	τῷ	τῷ	τῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	11	4kal	4καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	12	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	12	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	13	"διασπαρῆναι	"διασπαρῆναι	διασπαρῆναι	διασπαρῆναι	image (3x): § printed in the text before διασπαρῆναι (witness mark), kept; OCR quote mark is the §
+gen	theoldtestamenti00unknuoft	49	14	"καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	14	Κύ	Κύριος	Κύριος	Κύριος	class R6 (OCR letters differ): the other OCR reading agrees with c
+gen	theoldtestamenti00unknuoft	49	14	ᾧκο-	ᾧκο-	ᾠκο-	ᾠκο-	image (3x): smooth breathing on ω with iota subscript, no accent on this half
+gen	theoldtestamenti00unknuoft	49	15	δόμησαν	ὁμησαν	δόμησαν	δόμησαν	class R6 (OCR letters differ): the other OCR reading agrees with c
+gen	theoldtestamenti00unknuoft	49	15	δκαὶ	6 +δκαὶ	καὶ	καὶ	image (3x): καὶ after superscript 6
+gen	theoldtestamenti00unknuoft	49	15	Κύριος	Κύριος +Γ1ὃ	Κύριος	Κύριος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	15	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on Ι
+gen	theoldtestamenti00unknuoft	49	15	ἕν	ἕν	ἓν	ἓν	image (3x): χεῖλος ἓν πάντων· — ἓν has rough breathing + grave; OCR lost this line
+gen	theoldtestamenti00unknuoft	49	15	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	16	∅	ἕν	χεῖλος	χεῖλος	image (3x): χεῖλος ἓν πάντων· — ἓν has rough breathing + grave; OCR lost this line
+gen	theoldtestamenti00unknuoft	49	16	∅	πάντων:	ἓν	ἓν	image (3x): χεῖλος ἓν πάντων· — ἓν has rough breathing + grave; OCR lost this line
+gen	theoldtestamenti00unknuoft	49	16	∅	∅	πάντων·	πάντων·	image (3x): χεῖλος ἓν πάντων· — ἓν has rough breathing + grave; OCR lost this line
+gen	theoldtestamenti00unknuoft	49	16	καὶ +ἕν πάντων: Kai	καὶ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	16	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	17	7δεῦτε	17δεῦτε	δεῦτε	δεῦτε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	17	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	18	∅	∅	μεν	μεν	image (3x): line present in print, OCR lost it
+gen	theoldtestamenti00unknuoft	49	19	*%xali	ὅκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	19	αὐτοὺς	αὐτοὺς	αὐτοὺς	αὐτοὺς	image (3x): grave on αὐτοὺς before Κύριος
+gen	theoldtestamenti00unknuoft	49	20	Τῆς	τῆς	τῆς	τῆς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+gen	theoldtestamenti00unknuoft	49	20	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	20	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	20	πύργον.	πύργον. +9	πύργον.	πύργον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	20	9ϑδιὰ	διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	21	∅	τοῦτο	τοῦτο	τοῦτο	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	21	αὐτοῦ	αὐτοῦ +Σ	αὐτοῦ	αὐτοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	21	συνέχεεν	συνέχεεν +Κ	συνέχεεν	συνέχεεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	22	αὐτοὺς	αὐτοὺς	αὐτοὺς	αὐτοὺς	ambiguous (3x): grave on αὐτοὺς before Κύριος; the ο of αὐτοὺς is filled with ink (clogged type), read ο
+gen	theoldtestamenti00unknuoft	49	23	∅	∅	πρόσωπον	πρόσωπον	image (3x): line present in print, OCR lost it
+gen	theoldtestamenti00unknuoft	49	25	Αρφαξάδ,	Ἀρφαξάδ,	Ἀρφαξάδ,	Ἀρφαξάδ,	image (3x): smooth breathing on Α, acute on ά
+gen	theoldtestamenti00unknuoft	49	25	‘kal	"᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	26	ἡμ	ἡμ	Σὴμ	Σὴμ	image (3x): Σ present, grave on η
+gen	theoldtestamenti00unknuoft	49	26	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	26	Ἀρφαξὰδ	Ἀρφαξὰδ	Ἀρφαξὰδ	Ἀρφαξὰδ	image (3x): smooth breathing on Α
+gen	theoldtestamenti00unknuoft	49	27	σὲν	σὲν	σεν	σεν	image (3x): σεν without accent (second half of ἐγέννη-σεν)
+gen	theoldtestamenti00unknuoft	49	27	Kal	το +καὶ	Καὶ	Καὶ	image (3x): capital Καὶ after superscript verse number
+gen	theoldtestamenti00unknuoft	49	27	Ἀρφαξὰδ	Ἀρφαξὰδ	Ἀρφαξὰδ	Ἀρφαξὰδ	image (3x): smooth breathing on Α
+gen	theoldtestamenti00unknuoft	49	28	ἔτη;	ἔτη;	ἔτη,	ἔτη,	image (3x): comma, not question mark
+gen	theoldtestamenti00unknuoft	49	28	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	28	Kawav,	Καινάν.	Καινάν.	Καινάν.	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	28	*3Kal	:3καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	29	ρφαξὰδ	ρφαξὰδ	Ἀρφαξὰδ	Ἀρφαξὰδ	image (3x): smooth breathing on Α
+gen	theoldtestamenti00unknuoft	49	29	τὸν	τὸν +Ἶ	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	49	22	-	-	αὐτοὺς	αὐτοὺς	ambiguous: the ο of the second αὐτοὺς (v.9) prints as a filled blot (clogged type); read ο

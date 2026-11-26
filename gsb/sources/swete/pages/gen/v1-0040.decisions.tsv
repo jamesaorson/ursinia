@@ -1,0 +1,65 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+gen	theoldtestamenti00unknuoft	40	1	pas.	ρας.	ρας.	ρας.	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	1	%kal	ϑ8καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	1	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	2	πέθανεν.	ἀπέθανεν.	ἀπέθανεν.	ἀπέθανεν.	class R6 (OCR letters differ): the other OCR reading agrees with c
+gen	theoldtestamenti00unknuoft	40	2	αἱ	αἱ	Καὶ	Καὶ	image (3x): Καὶ after superscript number
+gen	theoldtestamenti00unknuoft	40	2	νὼς	Ἐνὼς	Ἐνὼς	Ἐνὼς	image (3x): smooth breathing
+gen	theoldtestamenti00unknuoft	40	2	ἔτη,	ἔτη;	ἔτη,	ἔτη,	class R6 (OCR letters differ): the other OCR reading agrees with c
+gen	theoldtestamenti00unknuoft	40	3	τοκαὶ	Ιο +τοκαὶ	καὶ	καὶ	image (3x): superscript 10 then καὶ
+gen	theoldtestamenti00unknuoft	40	3	Ἐ̔νὼς	» +᾿νὼς	Ἐνὼς	Ἐνὼς	image (3x): smooth breathing
+gen	theoldtestamenti00unknuoft	40	3	αὑτὸν	αὐτὸν	αὐτὸν	αὐτὸν	image (3x): smooth breathing on υ
+gen	theoldtestamenti00unknuoft	40	3	Tov	τὸν	τὸν	τὸν	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	3	Kaway	Καινὰν	Καινὰν	Καινὰν	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	4	καὶ	καὶ +θ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	4	θυγατέρας. +“""	θυγατέρας. +""	θυγατέρας.	θυγατέρας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	5	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	5	Ἐνὼς	Ἐνὼς	Ἐνὼς	Ἐνὼς	image (3x): smooth breathing
+gen	theoldtestamenti00unknuoft	40	5	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	6	θανεν. +I τῷ	θανεν. +ἵ τῷ	θανεν.	θανεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	6	€(noev	ἔξησεν	ἔζησεν	ἔζησεν	image (3x): ζ, smooth breathing + acute
+gen	theoldtestamenti00unknuoft	40	6	Kaway	Καινὰν	Καινὰν	Καινὰν	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	7	"3καὶ	"3καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	7	Made-	Μαλε-	Μαλε-	Μαλε-	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	8	θυγατέρας.	θυγατέρας. +14	θυγατέρας.	θυγατέρας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	9	και	και	καὶ	καὶ	image (3x): καὶ with grave; dot after it is a speck
+gen	theoldtestamenti00unknuoft	40	10	θανεν. +τ5	θανεν. +τ5	θανεν.	θανεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	11	Ἰάρεδ.	Ἰάρεδ.	Ἰάρεδ.	Ἰάρεδ.	image (3x): smooth breathing
+gen	theoldtestamenti00unknuoft	40	11	al	"ὁκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	11	ἔξησεν	ἔξησεν	ἔζησεν	ἔζησεν	image (3x): ζ, smooth breathing + acute
+gen	theoldtestamenti00unknuoft	40	12	Ἰάρεδὃ	Ἰάρεδὃ	Ἰάρεδ	Ἰάρεδ	image (3x): smooth breathing
+gen	theoldtestamenti00unknuoft	40	12	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	12	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	12	καὶ	καὶ +θ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	12	Ovyare-	θυγατέ-	θυγατέ-	θυγατέ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	13	‘7xal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	14	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	14	δ +ταὶ	δ +ταὶ	Καὶ	Καὶ	image (3x): Καὶ after superscript number
+gen	theoldtestamenti00unknuoft	40	14	Ἰἀρεὃ	Ἰἀρεὃ	Ἰάρεδ	Ἰάρεδ	image (3x): smooth breathing
+gen	theoldtestamenti00unknuoft	40	15	Eva.	“Ενωχ.	Ἑνώχ.	Ἑνώχ.	image (3x): rough breathing
+gen	theoldtestamenti00unknuoft	40	15	ἔζησεν	ἔξησεν	ἔζησεν	ἔζησεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+gen	theoldtestamenti00unknuoft	40	15	Ἰάρεὃ	Ἰάρεδ	Ἰάρεδ	Ἰάρεδ	image (3x): smooth breathing
+gen	theoldtestamenti00unknuoft	40	16	“Ei@x	ς +Ἑ:ὡχ	Ἑιὼχ	Ἑιὼχ	image (3x): misprint Ειὼχ (ι for ν) with rough breathing, kept as printed
+gen	theoldtestamenti00unknuoft	40	17	Ἰάρεδ	Ἰάρεδὃ	Ἰάρεδ	Ἰάρεδ	image (3x): smooth breathing
+gen	theoldtestamenti00unknuoft	40	18	ἀπέθανεν.	ἀπέθανεν. +οι	ἀπέθανεν.	ἀπέθανεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	18	“Ενὼχ	ς +Ενὼχ	Ἑνὼχ	Ἑνὼχ	image (3x): rough breathing
+gen	theoldtestamenti00unknuoft	40	19	Μαθουσάλα.	Μαθουσάλα. +2	Μαθουσάλα.	Μαθουσάλα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	19	δὲ	δὲ +᾿ς	δὲ	δὲ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	19	Ἑνὼχ	Ἑνὼχ	Ἑνὼχ	Ἑνὼχ	image (3x): rough breathing
+gen	theoldtestamenti00unknuoft	40	21	vyatépas.	υγατέρας.	θυγατέρας.	θυγατέρας.	image (3x): θ present
+gen	theoldtestamenti00unknuoft	40	21	“3καὶ	“3καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	21	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	21	Ενὼχ	Ενὼχ	Ἑνὼχ	Ἑνὼχ	image (3x): rough breathing
+gen	theoldtestamenti00unknuoft	40	22	Ns	η.	καὶ	καὶ	image (3x): superscript 24 then καὶ
+gen	theoldtestamenti00unknuoft	40	22	“καὶ	“καὶ	εὐηρέστησεν	εὐηρέστησεν	image (3x): εὐηρέστησεν, smooth breathing on υ; OCR misaligned
+gen	theoldtestamenti00unknuoft	40	22	εὐηρέ +“Ἑνὼχ	εὐηρέ +“Ἑνὼχ	Ἑνὼχ	Ἑνὼχ	image (3x): εὐηρέστησεν, smooth breathing on υ; OCR misaligned
+gen	theoldtestamenti00unknuoft	40	22	θεῷ:	θεῷ:	θεῷ·	θεῷ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	22	οὐ	οὐ	οὐχ	οὐχ	image (3x): οὐχ
+gen	theoldtestamenti00unknuoft	40	22	ἡρίσκετο,	ἡρίσκετο,	ηὑρίσκετο,	ηὑρίσκετο,	image (3x): rough breathing on υ
+gen	theoldtestamenti00unknuoft	40	23	θεός. +5	θεός. +55	θεός.	θεός.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	23	ἔζησεν	ἔξησεν	ἔζησεν	ἔζησεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+gen	theoldtestamenti00unknuoft	40	24	kal	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	25	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	26	“Ἰκαὶ	“Ἰκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	26	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	40	27	as	ἃς	ἃς	ἃς	class R5: Latin-letter substitution in OCR; c read from the image strip

@@ -1,0 +1,100 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+gen	theoldtestamenti00unknuoft	50	1	EKATOV	ἑκατον	ἑκατον	ἑκατον	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	1	ἔτη;	ἔτη;	ἔτη,	ἔτη,	image (3x): comma, not question mark
+gen	theoldtestamenti00unknuoft	50	1	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	1	Sada,	Σάλα.	Σάλα.	Σάλα.	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	2	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	2	Sada	Σάλα	Σάλα	Σάλα	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	3	ἀπέθανεν. +τ	ἀπέθανεν. +τ	ἀπέθανεν.	ἀπέθανεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	3	Sada	Σάλα	Σάλα	Σάλα	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	4	∅	ἔτη,	ἔτη,	ἔτη,	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	4	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	4	∅	ἐγέννησεν	ἐγέννησεν	ἐγέννησεν	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	4	EBep	ἼἜβερ.	Ἔβερ.	Ἔβερ.	image (3x): smooth breathing + acute on Ε
+gen	theoldtestamenti00unknuoft	50	4	∅	""καὶ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	4	∅	ἔζησεν	ἔζησεν	ἔζησεν	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	4	∅	Σάλα	Σάλα	Σάλα	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	4	∅	μετὰ	μετὰ	μετὰ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	4	∅	τὸ	τὸ	τὸ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	4	∅	γεννῆσαι	γεννῆσαι	γεννῆσαι	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	4	∅	αὐτὸν	αὐτὸν	αὐτὸν	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	5	∅	τὸν	τὸν	τὸν	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	5	∅	ἜἜβερ	Ἔβερ	Ἔβερ	image (3x): smooth breathing + acute on Ε
+gen	theoldtestamenti00unknuoft	50	6	αἱ	αἱ	Καὶ	Καὶ	image (3x): Καὶ after superscript 16
+gen	theoldtestamenti00unknuoft	50	6	Ἔβερ	Ἔβερ	Ἔβερ	Ἔβερ	image (3x): smooth breathing + acute on Ε
+gen	theoldtestamenti00unknuoft	50	6	ἔτη;	ἔτη;	ἔτη,	ἔτη,	image (3x): comma, not question mark
+gen	theoldtestamenti00unknuoft	50	7	Tov	τὸν	τὸν	τὸν	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	7	Φαλεκ.	Φάλεκ.	Φάλεκ.	Φάλεκ.	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+gen	theoldtestamenti00unknuoft	50	7	καὶ	τ7καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	7	Ἔβερ	Ἔβερ	Ἔβερ	Ἔβερ	image (3x): smooth breathing + acute on Ε
+gen	theoldtestamenti00unknuoft	50	7	αὐτὸν	αὑτὸν	αὐτὸν	αὐτὸν	image (3x): smooth breathing on υ
+gen	theoldtestamenti00unknuoft	50	8	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	9	pas,	ρας,	ρας,	ρας,	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	9	ἀπέθανεν. +Ἵ 8	ἀπέθανεν. +Ἵ 18	ἀπέθανεν.	ἀπέθανεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	10	Tov	τὸν	τὸν	τὸν	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	10	Payav.	« +Ῥαγαυ. το	Ῥαγαύ.	Ῥαγαύ.	image (3x): rough breathing on Ρ
+gen	theoldtestamenti00unknuoft	50	10	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	10	τὸν	τὸν +ς	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	11	ayav	Ῥαγαὺ	Ῥαγαὺ	Ῥαγαὺ	image (3x): rough breathing on Ρ
+gen	theoldtestamenti00unknuoft	50	12	ΞοΚαὶ	ΞοΚαὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	12	Ῥαγαὺ	Ῥαγαὺ	Ῥαγαὺ	Ῥαγαὺ	image (3x): rough breathing on Ρ
+gen	theoldtestamenti00unknuoft	50	13	Payav	Ῥαγαὺ	Ῥαγαὺ	Ῥαγαὺ	image (3x): rough breathing on Ρ
+gen	theoldtestamenti00unknuoft	50	14	Tov	τὸν	τὸν	τὸν	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	14	Sepovx	Σεροὺχ	Σεροὺχ	Σεροὺχ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	15	ἀπέθανεν.	ἀπέθανεν. +Ξε	ἀπέθανεν.	ἀπέθανεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	16	vnoev	νησεν	νησεν	νησεν	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	16	3Kal	“33καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	16	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	17	αχὼρ	Ν +αχὼρ	Ναχὼρ	Ναχὼρ	image (3x): Ν present, grave on ω
+gen	theoldtestamenti00unknuoft	50	17	ἔτη	ἔτη +ὃ	ἔτη	ἔτη	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	17	καὶ	καὶ +θ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	17	ἀπέθα	ἀπέθα-	ἀπέθα-	ἀπέθα-	class R6 (OCR letters differ): the other OCR reading agrees with c
+gen	theoldtestamenti00unknuoft	50	18	vey.	νεν.	νεν.	νεν.	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	18	Kai	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	19	“Ξκαὶ	“Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	19	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	19	αὑτὸν	αὐτὸν	αὐτὸν	αὐτὸν	image (3x): smooth breathing on υ
+gen	theoldtestamenti00unknuoft	50	19	Tov	τὸν	τὸν	τὸν	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	21	ἀπέθανεν. +Ξ6	ἀπέθανεν. +Ξ6	ἀπέθανεν.	ἀπέθανεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	22	Ἀβρὰμ	Ἀβρὰμ	Ἀβρὰμ	Ἀβρὰμ	image (3x): smooth breathing on Α
+gen	theoldtestamenti00unknuoft	50	22	“Appay. +27	ὑΑρρᾶν. +57	Ἁρράν.	Ἁρράν.	image (3x): rough breathing on Α
+gen	theoldtestamenti00unknuoft	50	23	Αὗται	Αὗται	Αὗται	Αὗται	image (3x): rough breathing + circumflex on υ
+gen	theoldtestamenti00unknuoft	50	23	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	23	Θάρα:	Θάρα:	Θάρα·	Θάρα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	23	Ἀβρὰμ	Ἀβρὰμ	Ἀβρὰμ	Ἀβρὰμ	image (3x): smooth breathing on Α
+gen	theoldtestamenti00unknuoft	50	24	∅	τὸν	τὸν	τὸν	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	24	∅	Ναχὼρ	Ναχὼρ	Ναχὼρ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	24	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	24	∅	τὸν	τὸν	τὸν	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	24	∅	Ἀρράν,	Ἁρράν,	Ἁρράν,	image (3x): rough breathing on Α
+gen	theoldtestamenti00unknuoft	50	24	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	24	∅	Ἀρρὰν	Ἁρρὰν	Ἁρρὰν	image (3x): rough breathing on Α
+gen	theoldtestamenti00unknuoft	50	24	∅	ἐγέννησεν	ἐγέννησεν	ἐγέννησεν	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	24	∅	τὸν	τὸν	τὸν	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	24	∅	Λώτ.	Λώτ.	Λώτ.	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	24	∅	“ϑκαὶ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	25	Ἀρρὰν	Ἀρρὰν	Ἁρρὰν	Ἁρρὰν	image (3x): rough breathing on Α
+gen	theoldtestamenti00unknuoft	50	25	ἣ	ἡ	ᾗ	ᾗ	image (3x): rough breathing + circumflex + iota subscript on η
+gen	theoldtestamenti00unknuoft	50	26	79xail	ὃΞ9καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	26	Ἀβρὰμ	Ἀβρὰμ	Ἀβρὰμ	Ἀβρὰμ	image (3x): smooth breathing on Α
+gen	theoldtestamenti00unknuoft	50	27	γυναῖκας"	γυναῖκας"	γυναῖκας·	γυναῖκας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	27	γυναικὶ	γυναικὶ	γυναικὶ	γυναικὶ	image (3x): grave on γυναικὶ before name
+gen	theoldtestamenti00unknuoft	50	27	Ἀβρὰμ	Ἀβρὰμ	Ἀβρὰμ	Ἀβρὰμ	image (3x): grave before capitalized name
+gen	theoldtestamenti00unknuoft	50	27	Sapa,	Σάρα,	Σάρα,	Σάρα,	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	27	γυναικὶ	γυναικὶ	γυναικὶ	γυναικὶ	image (3x): grave on γυναικὶ before name
+gen	theoldtestamenti00unknuoft	50	27	Ναχὼρ	Ναχὼρ	Ναχὼρ	Ναχὼρ	image (3x): grave before capitalized name
+gen	theoldtestamenti00unknuoft	50	28	“Appay,	ς +Δ̓ρράν,	Ἁρράν,	Ἁρράν,	image (3x): rough breathing on Α
+gen	theoldtestamenti00unknuoft	50	28	πατὴρ	πατὴρ	πατὴρ	πατὴρ	image (3x): grave on πατὴρ before name
+gen	theoldtestamenti00unknuoft	50	28	πατὴρ	πατὴρ	πατὴρ	πατὴρ	image (3x): grave on πατὴρ before name
+gen	theoldtestamenti00unknuoft	50	28	Ἰεσχά.	Ἴεσχά.	Ἰεσχά.	Ἰεσχά.	image (3x): smooth breathing only on Ι
+gen	theoldtestamenti00unknuoft	50	28	3οκαὶ	30καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	28	ἣν	ἣν	ἦν	ἦν	image (3x): smooth breathing + circumflex on η
+gen	theoldtestamenti00unknuoft	50	29	Sapa	Σαρα	Σάρα	Σάρα	image (3x): acute on first α
+gen	theoldtestamenti00unknuoft	50	29	ἐτεκνοποίει. +3:	ἐτεκνοποίει. +3:	ἐτεκνοποίει.	ἐτεκνοποίει.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	29	τὸν	τὸν +»	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	50	29	Ἀβρὰμ	Ἀβρὰμ	Ἀβρὰμ	Ἀβρὰμ	image (3x): smooth breathing on Α
+gen	theoldtestamenti00unknuoft	50	30	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): grave on υἱὸν
+gen	theoldtestamenti00unknuoft	50	30	“Appay,	Ἀρρᾶν,	Ἁρράν,	Ἁρράν,	image (3x): rough breathing on Α
+gen	theoldtestamenti00unknuoft	50	30	υἱον	υἱον	υἱὸν	υἱὸν	image (3x): grave on υἱὸν
+gen	theoldtestamenti00unknuoft	50	30	αὐτοῦ,	αὑτοῦ,	αὐτοῦ,	αὐτοῦ,	image (3x): smooth breathing on υ
+gen	theoldtestamenti00unknuoft	50	1	-	-	ἑκατον	ἑκατον	ambiguous (4x): first word ἑκατον prints with rough breathing but no accent on ο (elsewhere ἑκατὸν); accent missing or dropped type; kept as printed

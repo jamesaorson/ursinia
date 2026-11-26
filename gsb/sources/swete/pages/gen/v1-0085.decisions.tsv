@@ -1,0 +1,93 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+gen	theoldtestamenti00unknuoft	85	1	Ἰακώβ.	Ἰακώβ.	Ἰακώβ.	Ἰακώβ.	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	1	“ἔδωκεν	“ἔδωκεν	ἔδωκεν	ἔδωκεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	1	Λαβὰν	Λαβὰν	Λαβὰν	Λαβὰν	image (3x): accent on Λαβάν/Λαβὰν as typed (acute before a quotation, grave before a name)
+gen	theoldtestamenti00unknuoft	85	1	Acia	Λείᾳ	Λείᾳ	Λείᾳ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	2	“5ἐγένετο	“5ἐγένετο	ἐγένετο	ἐγένετο	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	2	πρωΐ,	πρωί,	πρωί,	πρωί,	image (3x): πρωί with plain acute, no diaeresis
+gen	theoldtestamenti00unknuoft	85	2	Λεία:	Λεία.	Λεία·	Λεία·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	3	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	3	Λαβάν	Λαβάν	Λαβάν	Λαβάν	image (3x): accent on Λαβάν/Λαβὰν as typed (acute before a quotation, grave before a name)
+gen	theoldtestamenti00unknuoft	85	3	ἐποίησάς	ἐποίησάς	ἐποίησάς	ἐποίησάς	image (3x): acute before enclitic as printed
+gen	theoldtestamenti00unknuoft	85	3	Ῥαχὴλ	Ῥαχὴλ	Ῥαχὴλ	Ῥαχὴλ	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	4	iva	ἵνα	ἵνα	ἵνα	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	4	με; +56	με; +56	με;	με;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	4	Λαβάν	Λαβάν	Λαβάν	Λαβάν	image (3x): accent on Λαβάν/Λαβὰν as typed (acute before a quotation, grave before a name)
+gen	theoldtestamenti00unknuoft	85	4	Οὐκ	Οὐκ	Οὐκ	Οὐκ	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	5	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	6	ραν:	ραν᾽	ραν·	ραν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	6	“Ισυντέλεσον	συντέλεσον	συντέλεσον	συντέλεσον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	6	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	7	map	παρ᾽	παρ᾽	παρ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	7	““ἐποίησεν	““ἐποίησεν	ἐποίησεν	ἐποίησεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	8	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	8	ταύτης:	ταύτης:	ταύτης·	ταύτης·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	9	AaBav	Λαβὰν	Λαβὰν	Λαβὰν	image (3x): accent on Λαβάν/Λαβὰν as typed (acute before a quotation, grave before a name)
+gen	theoldtestamenti00unknuoft	85	9	Ῥαχὴλ	Ῥαχὴλ	Ῥαχὴλ	Ῥαχὴλ	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	9	“ἔδωκεν	“ἔδωκεν	ἔδωκεν	ἔδωκεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	9	Λαβὰν	Λαβὰν	Λαβὰν	Λαβὰν	image (3x): accent on Λαβάν/Λαβὰν as typed (acute before a quotation, grave before a name)
+gen	theoldtestamenti00unknuoft	85	10	Ῥαχὴλ	Ῥαχὴλ	Ῥαχὴλ	Ῥαχὴλ	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	10	αὐτοῦ	αὐτοῦ +Ἱ	αὐτοῦ	αὐτοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	10	παιδίσκην. +3.	παιδίσκην. +3.	παιδίσκην.	παιδίσκην.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	11	Ῥαχήλ:	Ῥαχήλ':	Ῥαχήλ·	Ῥαχήλ·	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	11	Ῥαχὴλ	Ῥαχὴλ	Ῥαχὴλ	Ῥαχὴλ	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	11	Λείαν"	Λείαν"	Λείαν·	Λείαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	12	ἕτερα. +3:	ἕτερα. +3: »	ἕτερα.	ἕτερα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	12	Ἰδὼν	Ἰδὼν	Ἰδὼν	Ἰδὼν	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	13	αὐτῆς:	αὐτῆς:	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	13	Ῥαχὴλ	Ῥαχὴλ	Ῥαχὴλ	Ῥαχὴλ	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	13	στεῖρα. +5"	στεῖρα. +53"	στεῖρα.	στεῖρα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	14	Ἰακώβ:	Ἰακώβ:	Ἰακώβ·	Ἰακώβ·	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	15	Ῥουβὴν	Ῥουβὴν	Ῥουβὴν	Ῥουβὴν	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	15	εἶδέν	εἶδέν	εἶδέν	εἶδέν	image (3x): acute before enclitic as printed
+gen	theoldtestamenti00unknuoft	85	15	ταπείνωσιν:	ταπείνωσιν:	ταπείνωσιν·	ταπείνωσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	16	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	16	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+gen	theoldtestamenti00unknuoft	85	16	ἀνήρ	ἀνήρ	ἀνήρ	ἀνήρ	image (3x): acute before enclitic as printed
+gen	theoldtestamenti00unknuoft	85	16	pov.	μου.	μου.	μου.	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	16	33καὶ	33καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	17	evtepov	δεύτερον	δεύτερον	δεύτερον	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	17	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	17	"Ἤκουσεν	"Ἤκουσεν	Ἤκουσεν	Ἤκουσεν	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	18	προσέδωκέν	προσέδωκέν	προσέδωκέν	προσέδωκέν	image (3x): acute before enclitic as printed
+gen	theoldtestamenti00unknuoft	85	18	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	18	τοῦτον:	τοῦτον:	τοῦτον·	τοῦτον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	18	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	18	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	18	Συμεών. +3	Συμεών. +3	Συμεών.	Συμεών.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	19	Ἔν	Ἔν	Ἐν	Ἐν	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	19	τῴ	τῴ	τῷ	τῷ	image (3x): τῷ circumflex
+gen	theoldtestamenti00unknuoft	85	19	Kaip@	καιρῷ	καιρῷ	καιρῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	20	ἀνήρ	ἀνήρ	ἀνήρ	ἀνήρ	image (3x): acute before enclitic as printed
+gen	theoldtestamenti00unknuoft	85	20	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	20	υἱούς"	υἱούς"	υἱούς·	υἱούς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	21	35καὶ	35καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	22	Nov	Νῦν	Νῦν	Νῦν	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	22	Κυρίῳ:	Κυρίῳ:	Κυρίῳ·	Κυρίῳ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	22	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	23	Ἰουδά.	Ἰουδά.	Ἰουδά.	Ἰουδά.	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	24	Ιδοῦσα	:Ἰδοῦσα	Ἰδοῦσα	Ἰδοῦσα	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	24	Ραχὴλ	Ῥαχὴλ	Ῥαχὴλ	Ῥαχὴλ	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	24	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	24	Ῥαχὴλ	Ῥαχὴλ	Ῥαχὴλ	Ῥαχὴλ	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	25	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	25	Ἰακώβ	Ἰακώβ	Ἰακώβ	Ἰακώβ	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	25	Ads	Δός	Δός	Δός	image (3x): acute before enclitic as printed
+gen	theoldtestamenti00unknuoft	85	25	τέκνα:	τέκνα:	τέκνα·	τέκνα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	26	“ἐθυμώθη	“ἐθυμώθη	ἐθυμώθη	ἐθυμώθη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	26	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	26	Ῥαχὴλ	Ρ̓̔αχὴλ	Ῥαχὴλ	Ῥαχὴλ	image (3x): breathing as typed (smooth on Ἰ Ἐ Ἤ Οὐ; rough on Ῥ)
+gen	theoldtestamenti00unknuoft	85	27	∅	του	ἀντὶ	ἀντὶ	image (3x): last line ἀντὶ τοῦ θεοῦ ἐγώ εἰμι, ὃς ... κοιλίας; εἶπεν δὲ as typed (A lost it; B misaligned)
+gen	theoldtestamenti00unknuoft	85	27	∅	ὕεον	τοῦ	τοῦ	image (3x): last line ἀντὶ τοῦ θεοῦ ἐγώ εἰμι, ὃς ... κοιλίας; εἶπεν δὲ as typed (A lost it; B misaligned)
+gen	theoldtestamenti00unknuoft	85	27	∅	εγω	θεοῦ	θεοῦ	image (3x): last line ἀντὶ τοῦ θεοῦ ἐγώ εἰμι, ὃς ... κοιλίας; εἶπεν δὲ as typed (A lost it; B misaligned)
+gen	theoldtestamenti00unknuoft	85	27	∅	ειμι,	ἐγώ	ἐγώ	image (3x): acute before enclitic as printed
+gen	theoldtestamenti00unknuoft	85	27	∅	ος	εἰμι,	εἰμι,	image (3x): last line ἀντὶ τοῦ θεοῦ ἐγώ εἰμι, ὃς ... κοιλίας; εἶπεν δὲ as typed (A lost it; B misaligned)
+gen	theoldtestamenti00unknuoft	85	27	∅	εστερὴῆσεν	ὃς	ὃς	image (3x): last line ἀντὶ τοῦ θεοῦ ἐγώ εἰμι, ὃς ... κοιλίας; εἶπεν δὲ as typed (A lost it; B misaligned)
+gen	theoldtestamenti00unknuoft	85	27	∅	∅	ἐστέρησέν	ἐστέρησέν	image (3x): acute before enclitic as printed
+gen	theoldtestamenti00unknuoft	85	27	∅	σε	σε	σε	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	27	∅	καρπὸν	καρπὸν	καρπὸν	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	85	27	∅	Κοιλιαὰς	κοιλίας;	κοιλίας;	image (3x): last line ἀντὶ τοῦ θεοῦ ἐγώ εἰμι, ὃς ... κοιλίας; εἶπεν δὲ as typed (A lost it; B misaligned)
+gen	theoldtestamenti00unknuoft	85	27	∅	;	εἶπεν	εἶπεν	image (3x): last line ἀντὶ τοῦ θεοῦ ἐγώ εἰμι, ὃς ... κοιλίας; εἶπεν δὲ as typed (A lost it; B misaligned)
+gen	theoldtestamenti00unknuoft	85	27	∅	“εἰπεν +έ	δὲ	δὲ	image (3x): last line ἀντὶ τοῦ θεοῦ ἐγώ εἰμι, ὃς ... κοιλίας; εἶπεν δὲ as typed (A lost it; B misaligned)
+gen	theoldtestamenti00unknuoft	85	5	-	-	ἢ	ἢ	ambiguous: tiny breathing over ἢ (πρὶν ἢ), direction not certain; read smooth
+gen	theoldtestamenti00unknuoft	85	11	-	-	ἢ	ἢ	ambiguous: tiny breathing over ἢ (μᾶλλον ἢ), direction not certain; read smooth

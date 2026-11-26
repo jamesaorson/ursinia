@@ -21,7 +21,7 @@ check: ## Checks formatting
 	npm run check
 
 .PHONY: test
-test: ## Runs all test.scm files under test/ directories
+test: gsb/lint ## Runs all test.scm files under test/ directories, after gsb/lint
 	TEST_FILES=$$(find . -type f -path '*/test/*/test.scm' -not -path '*/.*')
 	if [[ -z "$${TEST_FILES}" ]]; then
 		echo "No test.scm files found under test/ directories"
@@ -62,6 +62,49 @@ bible: ## Regenerates the amalgamated Bible markdown from the plain-text sources
 bible/check: ## Verifies the committed Bible markdown matches its plain-text sources
 	./scripts/generate-bible.sh --check
 
+.PHONY: gsb/fetch
+gsb/fetch: ## Downloads the pinned Greek Source Bible source texts into gsb/sources/
+	./scripts/gsb-fetch.sh
+
+.PHONY: gsb
+gsb: ## Rebuilds the Greek Source Bible word tables (gsb/greek/) and reports from gsb/sources/
+	./scripts/gsb-build.sh
+
+.PHONY: gsb/check
+gsb/check: ## Verifies the committed gsb/greek/ tables and reports match their sources
+	./scripts/gsb-build.sh --check
+
+.PHONY: gsb/swete/doctor gsb/swete/status gsb/swete/merge
+gsb/swete/doctor: ## Checks the Swete transcription prerequisites
+	./scripts/gsb-swete-fetch.sh doctor
+
+gsb/swete/status: ## Shows done/missing/failing Swete leaves (BOOK=gen)
+	./scripts/gsb-swete.sh status $(or $(BOOK),gen)
+
+gsb/swete/merge: ## Rebuilds the Swete verse tables, decisions.tsv, provenance.tsv from per-leaf files
+	./scripts/gsb-swete.sh merge
+
+.PHONY: gsb/lint
+gsb/lint: ## Checks the Greek Source Bible translation files (gsb/translation/) and concordance
+	./scripts/gsb-check.sh
+
+.PHONY: gsb/uses
+gsb/uses: ## Lists every literal-layer use of a lemma with its sense and English (LEMMA=ἀρχή)
+	@if [ -z "$(LEMMA)" ]; then echo "Usage: make gsb/uses LEMMA=<lemma as in gsb/greek/>, e.g. make gsb/uses LEMMA=ἀρχή" >&2; exit 2; fi
+	./scripts/gsb-check.sh --uses "$(LEMMA)"
+
+GSB_SITE_INPUTS := $(wildcard gsb/books.tsv gsb/README.md gsb/greek/*.tsv gsb/lexicon/* gsb/translation/*.md gsb/translation/*/*.scm) \
+	scripts/gsb-site.scm scripts/gsb-site.sh scripts/lib/gsb.scm scripts/lib/gsb-translation.scm scripts/lib/md.scm \
+	assets/bible/gsb/gsb.css assets/bible/gsb/gsb.js
+
+.PHONY: gsb/site
+gsb/site: wwwroot/bible/versions/gsb/text/index.html ## Generates the Greek Source Bible page and dataset into wwwroot/bible/versions/gsb/
+
+wwwroot/bible/versions/gsb/text/index.html: $(GSB_SITE_INPUTS)
+	mkdir -p wwwroot/bible/versions/gsb/text wwwroot/bible/versions/gsb/data/translation
+	./scripts/gsb-site.sh
+	touch $@
+
 ##@ Rendering
 
 SCM_TEMPLATES := $(shell find templates/ -type f -not -path '*/.*' -name '*.html.scm')
@@ -74,7 +117,7 @@ ASSET_RENDERS := $(patsubst assets/%,wwwroot/assets/%,$(ASSET_FILES))
 RENDERS := $(SCM_RENDERS) $(MD_RENDERS) $(ASSET_RENDERS)
 
 .PHONY: render
-render: $(RENDERS) ## Renders the template files into their new home
+render: $(RENDERS) gsb/site ## Renders the template files into their new home
 
 .PHONY: clean
 clean: ## Removes generated site output from wwwroot

@@ -1,0 +1,6 @@
+# Pinned upstream files are stored byte for byte so gsb/sources/SHA256SUMS holds.
+gsb/sources/nestle1904/** -text
+gsb/sources/tr/** -text
+gsb/sources/rp/** -text
+gsb/sources/dodson/** -text
+gsb/sources/strongs/** -text

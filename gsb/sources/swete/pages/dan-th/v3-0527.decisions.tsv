@@ -1,0 +1,4 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan-th	oldtestgreek00unknuoft	527	1	βασιλείᾳ.	βασιλείᾳ.	βασιλείᾳ	βασιλείᾳ	image: no period
+dan-th	oldtestgreek00unknuoft	527	1	Kal	“᾿καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from image
+dan-th	oldtestgreek00unknuoft	527	2	βασιλέως.	βασιλέως. +;	βασιλέως.	βασιλέως.	class R3: OCR appended accent-row or margin junk

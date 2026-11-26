@@ -1,0 +1,64 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+gen	theoldtestamenti00unknuoft	59	2	Οὕτως	Οὕτως	Οὕτως	Οὕτως	image (3x): Οὕτως rough breathing with acute
+gen	theoldtestamenti00unknuoft	59	2	∅	και	καὶ	καὶ	image (3x): καὶ ἔσπευσεν after superscript 6
+gen	theoldtestamenti00unknuoft	59	2	∅	εσπευσεν	ἔσπευσεν	ἔσπευσεν	image (3x): καὶ ἔσπευσεν after superscript 6
+gen	theoldtestamenti00unknuoft	59	3	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	image (3x): smooth breathing on the capital
+gen	theoldtestamenti00unknuoft	59	4	pipacov	φύρασον	φύρασον	φύρασον	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	4	ἐγκρυφίας. +7	ἐγκρυφίας. +7	ἐγκρυφίας.	ἐγκρυφίας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	5	Boas	βόας	βόας	βόας	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	5	Ἀβραάμ,	Ἀβραάμ,	Ἀβραάμ,	Ἀβραάμ,	image (3x): smooth breathing on the capital
+gen	theoldtestamenti00unknuoft	59	6	TH	τῷ	τῷ	τῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	6	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	6	ποιῆσαι.	ποιῆσαι.	ποιῆσαι	ποιῆσαι	image (3x): speck between ποιῆσαι and αὐτό, off the baseline weight; not a period
+gen	theoldtestamenti00unknuoft	59	6	ϑέλαβεν	ϑέλαβεν	ἔλαβεν	ἔλαβεν	image (3x): ἔλαβεν after superscript 8
+gen	theoldtestamenti00unknuoft	59	7	Tupov	τυρον	τυρον	τυρον	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	8	ἐφάγοσαν"	ἐφάγοσαν"	ἐφάγοσαν·	ἐφάγοσαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	8	“εἶπεν	“εἶπεν	εἶπεν	εἶπεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	9	αὐτόν	αὐτόν	αὐτόν	αὐτόν	image (3x): acute before capitalized quotation
+gen	theoldtestamenti00unknuoft	59	9	γυνή	γυνή	γυνή	γυνή	image (3x): acute before enclitic as transcribed
+gen	theoldtestamenti00unknuoft	59	9	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on the capital
+gen	theoldtestamenti00unknuoft	59	10	ἐν	∅	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	10	εἶπεν	“εἶπεν	εἶπεν	εἶπεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	10	Ἐπαναστρέφων	Ἐπαναστρέφων	Ἐπαναστρέφων	Ἐπαναστρέφων	image (3x): smooth breathing on the capital
+gen	theoldtestamenti00unknuoft	59	11	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): grave before capitalized word that is not a quotation (name/noun mid-sentence)
+gen	theoldtestamenti00unknuoft	59	11	n	ἡ	ἡ	ἡ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	11	γυνὴ	γυνὴ	γυνή	γυνή	image (3x): acute before enclitic as transcribed
+gen	theoldtestamenti00unknuoft	59	12	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	12	THs	τῆς	τῆς	τῆς	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	12	βραὰμ	Αβραὰμ	Ἀβραὰμ	Ἀβραὰμ	image (3x): smooth breathing on the capital
+gen	theoldtestamenti00unknuoft	59	13	ἡμερῶν:	ἡμερῶν:	ἡμερῶν·	ἡμερῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	14	“Ζἐγέλασεν	ἐγέλασεν	ἐγέλασεν	ἐγέλασεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	14	Οὔπω	Οὔπω	Οὔπω	Οὔπω	image (3x): Οὔπω smooth breathing with acute
+gen	theoldtestamenti00unknuoft	59	15	μέν	μέν	μέν	μέν	image (3x): acute before enclitic as transcribed
+gen	theoldtestamenti00unknuoft	59	15	Tov	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	15	νῦν:	νῦν:	νῦν·	νῦν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	15	κύριός	κύριός	κύριός	κύριός	image (3x): acute before enclitic as transcribed
+gen	theoldtestamenti00unknuoft	59	15	“kai	"Ξκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	16	Ἀβραάμ	Ἀβραάμ	Ἀβραάμ	Ἀβραάμ	image (3x): acute before capitalized quotation
+gen	theoldtestamenti00unknuoft	59	16	Ὅτι	Ὅτι	Ὅτι	Ὅτι	image (3x): Ὅτι rough breathing with acute
+gen	theoldtestamenti00unknuoft	59	17	ἾΑρά	∅	Ἆρά	Ἆρά	image (3x): smooth breathing with circumflex on Α, acute on final α before enclitic γε
+gen	theoldtestamenti00unknuoft	59	17	“pn	“᾿μὴ	μὴ	μὴ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	19	vids.	υἱός.	υἱός.	υἱός.	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	19	"δἠρνήσατο	"δἠρνήσατο	ἠρνήσατο	ἠρνήσατο	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	19	Οὐκ	Οὐκ	Οὐκ	Οὐκ	image (3x): smooth breathing on Ου
+gen	theoldtestamenti00unknuoft	59	19	ἐγέλασα᾽	ἐγέλασα᾽	ἐγέλασα·	ἐγέλασα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	20	Οὐχί,	Οὐχί,	Οὐχί,	Οὐχί,	image (3x): smooth breathing on Ου
+gen	theoldtestamenti00unknuoft	59	20	16 +°K Eava-	16 +ἘἜξανα-	Ἐξανα-	Ἐξανα-	image (3x): Ἐξανα- smooth breathing, hyphen printed
+gen	theoldtestamenti00unknuoft	59	22	Τομόρρας:	Τομόρρας:	Γομόρρας·	Γομόρρας·	image (3x): Γ, not Τ; ano teleia
+gen	theoldtestamenti00unknuoft	59	22	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	image (3x): smooth breathing on the capital
+gen	theoldtestamenti00unknuoft	59	23	76	"1ὁ	ὁ	ὁ	image (3x): ὁ rough, after superscript 17
+gen	theoldtestamenti00unknuoft	59	23	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	image (3x): smooth breathing on the capital
+gen	theoldtestamenti00unknuoft	59	23	παιδός	παιδός	παιδός	παιδός	image (3x): acute before enclitic as transcribed
+gen	theoldtestamenti00unknuoft	59	24	τ“᾿Ἀβραὰμ	"“Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	image (3x): smooth breathing on the capital
+gen	theoldtestamenti00unknuoft	59	25	dew	"“ἤδειν	ᾔδειν	ᾔδειν	image (3x): ᾔδειν smooth+acute with iota subscript
+gen	theoldtestamenti00unknuoft	59	27	ὁδοὺς	ὁδοὺς	ὁδοὺς	ὁδοὺς	image (3x): grave before capitalized word that is not a quotation (name/noun mid-sentence)
+gen	theoldtestamenti00unknuoft	59	28	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	image (3x): smooth breathing on the capital
+gen	theoldtestamenti00unknuoft	59	29	eimev	“εἶπεν	εἶπεν	εἶπεν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	29	Κραυγὴ	Κραυγὴ	Κραυγὴ	Κραυγὴ	image (3x): grave before capitalized word that is not a quotation (name/noun mid-sentence)
+gen	theoldtestamenti00unknuoft	59	30	at	αἷ	αἱ	αἱ	image (3x): αἱ rough breathing, no accent
+gen	theoldtestamenti00unknuoft	59	30	“᾿καταβὰς	“᾿καταβὰς	καταβὰς	καταβὰς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	31	συντελοῦνται"	συντελοῦνται"	συντελοῦνται·	συντελοῦνται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	32	“Καὶ	“Καὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	33	Σόδομα:	Σόδομα:	Σόδομα·	Σόδομα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	59	33	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	image (3x): smooth breathing on the capital
+gen	theoldtestamenti00unknuoft	59	33	Kai	“Ξκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip

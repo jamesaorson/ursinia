@@ -1,0 +1,80 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+gen	theoldtestamenti00unknuoft	92	1	εἶπεν	εἰπεν	εἶπεν	εἶπεν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+gen	theoldtestamenti00unknuoft	92	1	Ἰακώβ	Ἰακώβ +Ι	Ἰακώβ	Ἰακώβ	image (3x): smooth breathing; acute on Ἰακώβ before capitalized word / comma
+gen	theoldtestamenti00unknuoft	92	1	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on the capital
+gen	theoldtestamenti00unknuoft	92	2	ἐστίν"	ἐστίν"	ἐστίν·	ἐστίν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	2	σοῦ.	σοῦ. +Ξ̓	σοῦ.	σοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	2	“Ῥλαβὼν	λαβὼν	λαβὼν	λαβὼν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	2	δὲ +45	δὲ +45	δὲ	δὲ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	3	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing on the capital
+gen	theoldtestamenti00unknuoft	92	3	στήλην.	στήλην. +46	στήλην.	στήλην.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	3	““εἶπεν	εἶπεν	εἶπεν	εἶπεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	3	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing on the capital
+gen	theoldtestamenti00unknuoft	92	3	ἀδελφοῖς +46	ἀδελφοῖς +46	ἀδελφοῖς	ἀδελφοῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	4	βουν +ὀν-	βουνόν"	βουνόν·	βουνόν·	image (3x): βουνόν with ano teleia
+gen	theoldtestamenti00unknuoft	92	5	βουνοῦ. +(95)	βουνοῦ. +(5)	βουνοῦ.	βουνοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	5	AaBav	Λαβάν	Λαβάν	Λαβάν	image (3x): acute on Λαβάν before capitalized word
+gen	theoldtestamenti00unknuoft	92	6	© +(48 Ὃ	(48 +Ὃ	Ὁ	Ὁ	image (3x): rough breathing, no accent; (48) is the inline common marker
+gen	theoldtestamenti00unknuoft	92	6	σήμερον" +“7	σήμερον" +“7	σήμερον·	σήμερον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	6	καὶ +47	καὶ +47	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	7	αὐτὸν	αὐτὸν	αὐτὸν	αὐτὸν	image (3x): grave on αὐτὸν (followed by Λαβάν, not a capital quotation)
+gen	theoldtestamenti00unknuoft	92	7	Λαβάν	Λαβάν	Λαβάν	Λαβάν	image (3x): acute on Λαβάν before capitalized word
+gen	theoldtestamenti00unknuoft	92	7	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing on the capital
+gen	theoldtestamenti00unknuoft	92	7	αὐτόν	αὐτόν	αὐτόν	αὐτόν	image (3x): acute on αὐτόν before capitalized Βουνὸς
+gen	theoldtestamenti00unknuoft	92	8	μαρτυρεῖ. +48	μαρτυρεῖ.	μαρτυρεῖ.	μαρτυρεῖ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	8	εἶπεν	““Ξεἶπεν	εἶπεν	εἶπεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+gen	theoldtestamenti00unknuoft	92	8	Ἰακώβ	Ἰακώβ	Ἰακώβ	Ἰακώβ	image (3x): smooth breathing; acute on Ἰακώβ before capitalized word / comma
+gen	theoldtestamenti00unknuoft	92	8	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on the capital
+gen	theoldtestamenti00unknuoft	92	8	οὗτος +48 (sr)	οὗτος +48 (51)	οὗτος	οὗτος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	9	ava	ἃ +ἄνὰ	ἀνὰ	ἀνὰ	image (3x): ἀνὰ, smooth breathing, grave
+gen	theoldtestamenti00unknuoft	92	9	σοῦ: +(5)	σοῦ" +(5)	σοῦ·	σοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	9	ὁ +(52	ὁ +(52	ὁ	ὁ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	10	αὕτη" +("ϑ)	αὕτη" +(5)	αὕτη·	αὕτη·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	10	τὸ +(48	τὸ +(48	τὸ	τὸ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	11	Kai	“καί	καί	καί	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	11	Ἣ	Ἣ	Ἡ	Ἡ	image (3x): rough breathing on Ἡ, no accent
+gen	theoldtestamenti00unknuoft	92	11	Ἐφίδοι	Ἐφίδοι	Ἐφίδοι	Ἐφίδοι	image (3x): smooth breathing on the capital
+gen	theoldtestamenti00unknuoft	92	11	ὁ +49	ὁ +,9	ὁ	ὁ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	13	ἑτέρου.	ἑτέρου. +5»	ἑτέρου.	ἑτέρου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	13	“ei	εἰ	εἰ	εἰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	13	γυναῖκας +50 (50	γυναῖκας +50 (590	γυναῖκας	γυναῖκας	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	14	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	14	dpa,	ὅρα,	ὅρα,	ὅρα,	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	14	éav	5:ἐάν	ἐάν	ἐάν	image (3x): ἐάν acute before enclitic τε
+gen	theoldtestamenti00unknuoft	92	15	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	15	μὴ	μὴ +ὃ	μὴ	μὴ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	15	ov	σὺ +ὃ	σὺ	σὺ	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	15	pe	μὲ	μὲ	μὲ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	15	Tod-	τοῦ-	τοῦ-	τοῦ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	16	53ὁ	53ὁ	ὁ	ὁ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	16	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave on θεὸς (next word is a proper name, not a quotation)
+gen	theoldtestamenti00unknuoft	92	16	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	image (3x): smooth breathing on the capital
+gen	theoldtestamenti00unknuoft	92	16	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave on θεὸς (next word is a proper name, not a quotation)
+gen	theoldtestamenti00unknuoft	92	17	ava	ἀνὰ	ἀνὰ	ἀνὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	17	ἡμῶν. +5!	ἡμῶν. +5!	ἡμῶν.	ἡμῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	17	ὦμοσεν	ὦμοσεν	ὤμοσεν	ὤμοσεν	image (3x): ὤμοσεν with smooth breathing and acute, not circumflex
+gen	theoldtestamenti00unknuoft	92	17	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing on the capital
+gen	theoldtestamenti00unknuoft	92	18	Ἰσαάκ.(5)	Ἰσαάκ.(5)	Ἰσαάκ.	Ἰσαάκ.	image (3x): smooth breathing Ἰσαάκ. followed by inline (54) common marker
+gen	theoldtestamenti00unknuoft	92	18	ἔθυσεν	ἔθυσεν +9	ἔθυσεν	ἔθυσεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	18	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing on the capital
+gen	theoldtestamenti00unknuoft	92	18	ὄρει"	ὄρει:	ὄρει·	ὄρει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	20	Savacras	δ"αναστὰς	ἀναστὰς	ἀναστὰς	image (3x): ἀναστὰς, Swete verse 55 superscript before it
+gen	theoldtestamenti00unknuoft	92	20	υἱοὺς +55 (x)	υἱοὺς +55 (1)	υἱοὺς	υἱοὺς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	21	αὐτούς-	αὐτούς":	αὐτούς·	αὐτούς·	image (3x): αὐτούς with ano teleia
+gen	theoldtestamenti00unknuoft	92	22	φεὶς	φεὶς	φεὶς	φεὶς	image (3x): grave on φεὶς (next word Λαβὰν is a name, not a quotation)
+gen	theoldtestamenti00unknuoft	92	22	*Kal	Κ̓αὶ +᾽	Καὶ	Καὶ	image (3x): Καὶ, no breathing; verse 1 superscript before it
+gen	theoldtestamenti00unknuoft	92	22	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing on the capital
+gen	theoldtestamenti00unknuoft	92	22	ἀπῆλ- +τ (2)	ἀπῆλ- +τ (2)	ἀπῆλ-	ἀπῆλ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	23	ὁδόν:	ὁδόν:	ὁδόν·	ὁδόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	25	“εἶπεν	“εἶπεν	εἶπεν	εἶπεν	image (3x): εἶπεν, superscript 2 before it
+gen	theoldtestamenti00unknuoft	92	25	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing; acute on Ἰακώβ before capitalized word / comma
+gen	theoldtestamenti00unknuoft	92	25	αὐτούς,	αὐτούς,	αὐτούς,	αὐτούς,	image (3x): acute on αὐτούς before comma and capitalized Παρεμβολὴ
+gen	theoldtestamenti00unknuoft	92	25	αὕτη" +2 (3)	αὕτη" +« (3)	αὕτη·	αὕτη·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	27	3 +Απέστειλεν	3 +Απέστειλεν	Ἀπέστειλεν	Ἀπέστειλεν	image (3x): smooth breathing Ἀπέστειλεν; superscript 3 before it
+gen	theoldtestamenti00unknuoft	92	27	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing on the capital
+gen	theoldtestamenti00unknuoft	92	27	Ἢσαὺ	Ἢσαὺ	Ἠσαῦ	Ἠσαὺ	image (3x): smooth breathing and grave on υ: Ἠσαὺ, not circumflex
+gen	theoldtestamenti00unknuoft	92	27	ἀδελφὸν +3 (4)	ἀδελφὸν +3 (4)	ἀδελφὸν	ἀδελφὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+gen	theoldtestamenti00unknuoft	92	5	-	-	Λαβάν	Λαβάν	image (3x): light speck after Λαβάν before the margin (48 a) is not punctuation; nothing printed
+gen	theoldtestamenti00unknuoft	92	5	-	-	{=31:48}καὶ	{=31:48}καὶ	versification: margin prints (48 a), (51), (52 a), (48 b), (50 a), 52 b and inline (48) (52) (48) (54): LXX order of 31:46-52 differs from common; encoded {=31:48} (48a), {48}{=31:51}, {=31:52} (52a), {=31:48} (48b); letters a/b dropped; common refs go backwards, coordinator to decide encoding
+gen	theoldtestamenti00unknuoft	92	14	-	-	{52}ἐάν	{52}ἐάν	versification: Swete prints no verse 51 (apparatus: [51 om ADE]); his {52} follows {50}; margin 50 (50 a) and 52 b, so {50} and {52} left without {=c:v}
+gen	theoldtestamenti00unknuoft	92	17	-	-	{54}{=31:53}καὶ	{54}{=31:53}καὶ	versification: Swete 54 starts at καὶ ὤμοσεν but inline (54) is printed before καὶ ἔθυσεν, so the first part is encoded common 31:53 (no (53) printed), as at leaf 69

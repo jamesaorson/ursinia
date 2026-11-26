@@ -1,0 +1,29 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan	oldtestgreek00unknuoft	522	1	ἘΠῚ	ἘΠῚ	ΕΠΙ	ΕΠΙ	image: unaccented capitals
+dan	oldtestgreek00unknuoft	522	3	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word
+dan	oldtestgreek00unknuoft	522	5	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from image
+dan	oldtestgreek00unknuoft	522	5	εἰς	εἰς +Η . ΝᾺ Ν γι κ	εἰς	εἰς	class R3: OCR appended accent-row or margin junk
+dan	oldtestgreek00unknuoft	522	6	σκεύη"	σκεύη"	σκεύη·	σκεύη·	class R2: OCR renders the ano teleia (·) as " : or apostrophe; image shows a raised dot
+dan	oldtestgreek00unknuoft	522	7	ϑκαὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word
+dan	oldtestgreek00unknuoft	522	9	∅	ἐκ	ἐκ	ἐκ	OCR line lost in coordinate extraction; c read from image
+dan	oldtestgreek00unknuoft	522	9	∅	τοῦ	τοῦ	τοῦ	OCR line lost in coordinate extraction; c read from image
+dan	oldtestgreek00unknuoft	522	9	∅	βασιλικοῦ	βασιλικοῦ	βασιλικοῦ	OCR line lost in coordinate extraction; c read from image
+dan	oldtestgreek00unknuoft	522	9	∅	γένους	γένους	γένους	OCR line lost in coordinate extraction; c read from image
+dan	oldtestgreek00unknuoft	522	9	∅	καὶ	καὶ	καὶ	OCR line lost in coordinate extraction; c read from image
+dan	oldtestgreek00unknuoft	522	9	∅	ἐκ	ἐκ	ἐκ	OCR line lost in coordinate extraction; c read from image
+dan	oldtestgreek00unknuoft	522	9	∅	τῶν	τῶν	τῶν	OCR line lost in coordinate extraction; c read from image
+dan	oldtestgreek00unknuoft	522	9	∅	ἐπιλέκτων,	ἐπιλέκτων,	ἐπιλέκτων,	OCR line lost in coordinate extraction; c read from image
+dan	oldtestgreek00unknuoft	522	9	∅	“νεανίσκους	νεανίσκους	νεανίσκους	OCR line lost in coordinate extraction; c read from image
+dan	oldtestgreek00unknuoft	522	9	∅	ἀμώ-	ἀμώ-	ἀμώ-	OCR line lost in coordinate extraction; c read from image
+dan	oldtestgreek00unknuoft	522	12	Χαλδαικήν᾽	Χαλδαικήν"	Χαλδαικήν·	Χαλδαικήν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe; image shows a raised dot
+dan	oldtestgreek00unknuoft	522	13	5καὶ	5καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word
+dan	oldtestgreek00unknuoft	522	14	στὴν	στὴν	στην	στην	image: no accent (ἑκά-στην)
+dan	oldtestgreek00unknuoft	522	14	ἀπὸ	ἀπὸ +ὸ	ἀπὸ	ἀπὸ	class R3: OCR appended accent-row or margin junk
+dan	oldtestgreek00unknuoft	522	16	βασιλέως.	βασιλέως. +“	βασιλέως.	βασιλέως.	class R3: OCR appended accent-row or margin junk
+dan	oldtestgreek00unknuoft	522	16	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from image
+dan	oldtestgreek00unknuoft	522	16	ἦσαν	σαν	ἦσαν	ἦσαν	c read from the image strip; dissent is a known OCR failure (Γ read as Τ, [ ] read as Ϊ/ί/], diacritics dropped or doubled, junk); not separately zoomed
+dan	oldtestgreek00unknuoft	522	17	“Avavias,	Ἀνανίας,	Ἀνανίας,	Ἁνανίας,	image (2x): ROUGH breathing (compare smooth on Ἰουδαίας); c first read smooth, Tesseract agreed with that error
+dan	oldtestgreek00unknuoft	522	18	Τκαὶ	Ἰκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word
+dan	oldtestgreek00unknuoft	522	18	6	ὁ	ὁ	ὁ	c read from the image strip; dissent is a known OCR failure (Γ read as Τ, [ ] read as Ϊ/ί/], diacritics dropped or doubled, junk); not separately zoomed
+dan	oldtestgreek00unknuoft	522	18	τῷ +μ	τῷ	τῷ	τῷ	class R3: OCR appended accent-row or margin junk
+dan	oldtestgreek00unknuoft	522	19	‘Avavia	Ἀνανίᾳ	Ἀνανίᾳ	Ἁνανίᾳ	image: rough breathing
