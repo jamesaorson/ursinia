@@ -1,0 +1,73 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+1kgdms	theoldtestamenti00unknuoft	621	1	ἸΠορεύου,	ἸΠορεύου,	Πορεύου,	Πορεύου,	image (3x): Πορεύου, no mark before Π; OCR took breathing of the next line
+1kgdms	theoldtestamenti00unknuoft	621	1	πόλιν.	πόλιν. +“"	πόλιν.	πόλιν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	1	“Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	2	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	2	τοῦ:	τοῦ.	τοῦ	τοῦ	image (3x): τοῦ followed by a smudge, no punctuation
+1kgdms	theoldtestamenti00unknuoft	621	2	apyaB	ἀργὰβ	ἀργὰβ	ἀργὰβ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	3	τρίς;	τρίς;	τρίς,	τρίς,	image (3x): comma after τρίς
+1kgdms	theoldtestamenti00unknuoft	621	5	ἕως	εως	ἕως	ἕως	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+1kgdms	theoldtestamenti00unknuoft	621	5	“kat	και	καὶ	καὶ	image (3x): καὶ after a superscript verse number
+1kgdms	theoldtestamenti00unknuoft	621	5	Ἰωναθάν	Ἰωναθὰν	Ἰωναθάν	Ἰωναθάν	image (3x): smooth breathing on the capital; acute before capitalized quotation
+1kgdms	theoldtestamenti00unknuoft	621	5	ἹΤορεύου	Πορεύου	Πορεύου	Πορεύου	class R6 (OCR letters differ): the other OCR reading agrees with c
+1kgdms	theoldtestamenti00unknuoft	621	5	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	5	εἰρήνην,	εἰρηνὴν,	εἰρήνην,	εἰρήνην,	image (3x): accents as written
+1kgdms	theoldtestamenti00unknuoft	621	7	τοῦ +43	τοῦ +43	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	8	σπέρματός	σπέρματός	σπέρματός	σπέρματός	image (3x): acute before enclitic
+1kgdms	theoldtestamenti00unknuoft	621	8	“Kal	“43καὶ	καὶ	καὶ	image (3x): καὶ after a superscript verse number
+1kgdms	theoldtestamenti00unknuoft	621	8	ἀνέστη.	ἀνέστη.	ἀνέστη	ἀνέστη	image (3x): no period after ἀνέστη; speck
+1kgdms	theoldtestamenti00unknuoft	621	9	Ἰωναθὰν	Ἰωναθὰν	Ἰωναθὰν	Ἰωναθὰν	image (3x): smooth breathing (apostrophe shape) on the capital
+1kgdms	theoldtestamenti00unknuoft	621	10	x +*Kai	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	10	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	10	Ἀβιμέλεχ	Ἀβιμέλεχ	Ἀβιμέλεχ	Ἀβιμέλεχ	image (3x): smooth breathing (apostrophe shape) on the capital
+1kgdms	theoldtestamenti00unknuoft	621	10	ἱερέα"	ἱερέα"	ἱερέα·	ἱερέα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	10	“καὶ	“καὶ	καὶ	καὶ	image (3x): καὶ after a superscript verse number
+1kgdms	theoldtestamenti00unknuoft	621	11	ἐξέστη	ἐξέστη +᾽	ἐξέστη	ἐξέστη	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	11	Ἀβειμέλεχ	Ἀβειμέλεχ	Ἀβειμέλεχ	Ἀβειμέλεχ	image (3x): smooth breathing (apostrophe shape) on the capital
+1kgdms	theoldtestamenti00unknuoft	621	11	σὺ +2	σὺ +2	σὺ	σὺ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	12	“καὶ	Ζ2καὶ	καὶ	καὶ	image (3x): καὶ after a superscript verse number
+1kgdms	theoldtestamenti00unknuoft	621	12	ἐἶπεν	ἐἶπεν	εἶπεν	εἶπεν	image (3x): εἶπεν, no smooth breathing on ε
+1kgdms	theoldtestamenti00unknuoft	621	12	Ὃ	Ὃ	Ὁ	Ὁ	image (3x): rough breathing, no accent on Ὁ
+1kgdms	theoldtestamenti00unknuoft	621	13	ἐντέταλταί	ἐντέταλταί	ἐντέταλταί	ἐντέταλταί	image (3x): acute before enclitic
+1kgdms	theoldtestamenti00unknuoft	621	13	εἶπέν	εἶπέν	εἶπέν	εἶπέν	image (3x): acute before enclitic
+1kgdms	theoldtestamenti00unknuoft	621	14	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	14	ἐντέταλμαί	ἐντέταλμαί	ἐντέταλμαί	ἐντέταλμαί	image (3x): acute before enclitic
+1kgdms	theoldtestamenti00unknuoft	621	14	σοι:	σοι:	σοι·	σοι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	14	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	15	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	15	πίστις, +3	πίστις,	πίστις,	πίστις,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	16	Φελλανεὶ	Φελλανεὶ	Φελλανεὶ	Φελλανεὶ	image (3x): grave on Φελλανεὶ before the second name Μαεμωνεί (not a quotation)
+1kgdms	theoldtestamenti00unknuoft	621	16	3καὶ	3καὶ	καὶ	καὶ	image (3x): καὶ after a superscript verse number
+1kgdms	theoldtestamenti00unknuoft	621	16	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	16	χεῖρά	χεῖρά	χεῖρά	χεῖρά	image (3x): acute before enclitic
+1kgdms	theoldtestamenti00unknuoft	621	16	ἄρτοι; +4	ἄρτοι; +4	ἄρτοι;	ἄρτοι;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	17	χεῖρά	χεῖρά	χεῖρά	χεῖρά	image (3x): acute before enclitic
+1kgdms	theoldtestamenti00unknuoft	621	17	“καὶ	“καὶ	καὶ	καὶ	image (3x): καὶ after a superscript verse number
+1kgdms	theoldtestamenti00unknuoft	621	18	Οὐκ	Οὐκ	Οὐκ	Οὐκ	image (3x): smooth breathing (apostrophe shape) on the capital
+1kgdms	theoldtestamenti00unknuoft	621	18	χεῖρά	χεῖρά	χεῖρά	χεῖρά	image (3x): acute before enclitic
+1kgdms	theoldtestamenti00unknuoft	621	19	ἅγιοί	ἅγιοί	ἅγιοί	ἅγιοί	image (3x): acute before enclitic
+1kgdms	theoldtestamenti00unknuoft	621	19	εἰσιν:	εἰσιν-	εἰσιν·	εἰσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	19	πτεεφυλαγμένα	πττεεφυλαγμένα	πεφυλαγμένα	πεφυλαγμένα	image (3x): πεφυλαγμένα, single π and ε
+1kgdms	theoldtestamenti00unknuoft	621	19	παιδάριά	παιδάριά	παιδάριά	παιδάριά	image (3x): acute before enclitic
+1kgdms	theoldtestamenti00unknuoft	621	19	γυναικός; +5	γυναικός, +5	γυναικός,	γυναικός,	image (3x): comma after γυναικός
+1kgdms	theoldtestamenti00unknuoft	621	20	Sai	5καὶ	καὶ	καὶ	image (3x): καὶ after a superscript verse number
+1kgdms	theoldtestamenti00unknuoft	621	20	Ἀλλὰ	Ἀλλὰ	Ἀλλὰ	Ἀλλὰ	image (3x): smooth breathing (apostrophe shape) on the capital
+1kgdms	theoldtestamenti00unknuoft	621	21	ἀπὸ +γυ	ἀπὸ	ἀπὸ	ἀπὸ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	21	γυναικὸς	γυναϊκὸς	γυναικὸς	γυναικὸς	image (3x): accents as written
+1kgdms	theoldtestamenti00unknuoft	621	21	ἡμέραν:	ἡμέραν"	ἡμέραν·	ἡμέραν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	22	ὁδὸς +6	ὁδὸς +6	ὁδὸς	ὁδὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	23	μου.	μου. +“ὃ	μου.	μου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	23	“καὶ	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1kgdms	theoldtestamenti00unknuoft	621	24	Ἀβειμέλεχ	Ἀβειμέλεχ	Ἀβειμέλεχ	Ἀβειμέλεχ	image (3x): smooth breathing (apostrophe shape) on the capital
+1kgdms	theoldtestamenti00unknuoft	621	24	τοὺς +τοὺς	τοὺς	τοὺς	τοὺς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	24	τῆ	τῆς	τῆς	τῆς	class R6 (OCR letters differ): the other OCR reading agrees with c
+1kgdms	theoldtestamenti00unknuoft	621	24	οθέ	προθέσεως,	προθέσεως,	προθέσεως,	class R6 (OCR letters differ): the other OCR reading agrees with c
+1kgdms	theoldtestamenti00unknuoft	621	25	AAA	ἀλλ᾽	ἀλλ᾽	ἀλλ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	25	ἀφηρημένοι	ἀφῃρημένοι	ἀφῃρημένοι	ἀφῃρημένοι	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+1kgdms	theoldtestamenti00unknuoft	621	25	προσώπου +7	προσώπου +γ	προσώπου	προσώπου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	621	26	ἧ	ἣ	ᾗ	ᾗ	image (3x): rough + circumflex with iota subscript, ᾗ
+1kgdms	theoldtestamenti00unknuoft	621	26	71καὶ	17καὶ	καὶ	καὶ	image (3x): καὶ after a superscript verse number
+1kgdms	theoldtestamenti00unknuoft	621	27	ἕν	ἕν	ἓν	ἓν	image (8x): compact closed mark (rough + grave), ἓν
+1kgdms	theoldtestamenti00unknuoft	621	28	Neeooapav	Νεεσσαραν	Νεεσσαρὰν	Νεεσσαρὰν	image (3x): accents as written
+1kgdms	theoldtestamenti00unknuoft	621	28	Δωηκ	Δωηκ	Δωὴκ	Δωὴκ	image (3x): accents as written
+1kgdms	theoldtestamenti00unknuoft	621	8	-	-	καὶ	καὶ	numbering: margin beside this line prints (XXI) (1) 43; Swete own 43 is common (Hebrew) 21:1, encoded {43}{=21:1}; next margin XXI (2) 1 = {C21}{1}{=21:2}, then (3) 2 ... (8) 7

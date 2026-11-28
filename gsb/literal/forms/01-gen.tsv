@@ -293,7 +293,7 @@ form	lemma	tag	sense	note
 ἐφάγοσαν	ἐσθίω	V-2AAI-3P		the -οσαν ending for ἔφαγον
 παριστήκει	παρίστημι	V-LAI-3S		intransitive pluperfect, "had stood by"
 Ἐπαναστρέφων	ἐπαναστρέφω	V-PAP-NSM
-ἐξέλειπεν	ἐκλείπω	V-IAI-3S
+ἐξέλειπεν	ἐκλείπω	V-2AAI-3S		Swete's ει for the ι of the aorist ἐξέλιπεν (Genesis 8:13, 18:11, 21:15; he prints ἐξέλιπεν at 47:13 and 49:33); formally an imperfect, but the aorist fits the sense
 γυναίκια	γυναικεῖος	A-NPN		Swete prints γυναίκια, the itacistic spelling of γυναικεῖα
 τέξομαι	τίκτω	V-FDI-1S
 γεγήρακα	γηράσκω	V-RAI-1S
@@ -410,7 +410,6 @@ form	lemma	tag	sense	note
 εὐλογηθήσονται	εὐλογέω	V-FPI-3P
 ᾤχετο	οἴχομαι	V-IDI-3S
 ἐκτήσαντο	κτάομαι	V-ADI-3P
-ἐξήλθοσαν	ἐξέρχομαι	V-2AAI-3P		the -οσαν ending of the aorist
 διώδευσεν	διοδεύω	V-AAI-3S
 δρῦν	δρῦς	N-ASF
 ὑψηλήν	ὑψηλός	A-ASF
@@ -440,7 +439,6 @@ form	lemma	tag	sense	note
 ἀπότρεχε	ἀποτρέχω	V-PAM-2S
 συνπροπέμψαι	συμπροπέμπω	V-AAN		Swete prints the unassimilated συν-
 ἐροῦσιν	λέγω	V-FAI-3P		future of λέγω
-Ἁγγαί	Ἁγγαί	N-PRI
 συμπορευομένῳ	συμπορεύομαι	V-PNP-DSM
 βόες	βοῦς	N-NPM
 ἐχώρει	χωρέω	V-IAI-3S
@@ -465,7 +463,6 @@ form	lemma	tag	sense	note
 Μαμβρήν	Μαμβρή	N-PRI		Swete gives the accusative ending (Gen 13:18)
 Χεβρών	Χεβρών	N-PRI
 Ἀμαρφὰλ	Ἀμαρφάλ	N-PRI
-Σενναάρ	Σενναάρ	N-PRI
 Ἀριὼχ	Ἀριώχ	N-PRI
 Ἐλλασὰρ	Ἐλλασάρ	N-PRI
 Χοδολλογόμορ	Χοδολλογόμορ	N-PRI
@@ -573,7 +570,6 @@ form	lemma	tag	sense	note
 κράτησον	κρατέω	V-AAM-2S
 ἔπλησεν	πίμπλημι	V-AAI-3S
 τοξότης	τοξότης	N-NSM
-Φαράν	Φαράν	N-PRI
 Ἀβιμέλεχ	Ἀβιμέλεχ	N-PRI
 Ὀχοζὰθ	Ὀχοζάθ	N-PRI
 νυμφαγωγὸς	νυμφαγωγός	N-NSM
@@ -646,7 +642,6 @@ form	lemma	tag	sense	note
 ἐρίφους	ἔριφος	N-APM
 ἁπαλοὺς	ἁπαλός	A-APM
 εἰσοίσεις	εἰσφέρω	V-FAI-2S
-Ῥεβέκκαν	Ῥεβέκκα	N-ASF
 Ῥεβέκκᾳ	Ῥεβέκκα	N-DSF
 Ῥεβέκκας	Ῥεβέκκα	N-GSF
 δασύς	δασύς	A-NSM
@@ -674,7 +669,6 @@ form	lemma	tag	sense	note
 φάγομαι	ἐσθίω	V-FDI-1S
 φίλησόν	φιλέω	V-AAM-2S	kiss	the aorist of φιλέω in Genesis 27 is the kiss
 ἐφίλησεν	φιλέω	V-AAI-3S	kiss	the aorist of φιλέω in Genesis 27 is the kiss
-ὠσφράνθη	ὀσφραίνομαι	V-AOI-3S
 πλήρους	πλήρης	A-GSM
 δρόσου	δρόσος	N-GSF
 δουλευσάτωσάν	δουλεύω	V-AAM-3P
@@ -714,14 +708,12 @@ form	lemma	tag	sense	note
 ἀτεκνωθῶ	ἀτεκνόω	V-APS-1S
 Προσώχθικα	προσοχθίζω	V-RAI-1S
 Χέτ	Χέτ	N-PRI
-Βαθουὴλ	Βαθουήλ	N-PRI
 εὐλογήσαι	εὐλογέω	V-AAO-3S
 αὐξήσαι	αὐξάνω	V-AAO-3S
 πληθύναι	πληθύνω	V-AAO-3S
 παροικήσεώς	παροίκησις	N-GSF
 Σύρου	Σύρος	N-GSM
 ἀπῴχετο	ἀποίχομαι	V-INI-3S
-Ἰσμαήλ	Ἰσμαήλ	N-PRI
 Μαελὲθ	Μαελέθ	N-PRI
 Ναβαιώθ	Ναβαιώθ	N-PRI
 ἀπήντησεν	ἀπαντάω	V-AAI-3S
@@ -734,7 +726,6 @@ form	lemma	tag	sense	note
 κατέβαινον	καταβαίνω	V-IAI-3P
 ἐπεστήρικτο	ἐπιστηρίζω	V-LPI-3S
 πλατυνθήσεται	πλατύνω	V-FPI-3S
-βορρᾶν	βορρᾶς	N-ASM
 διαφυλάσσων	διαφυλάσσω	V-PAP-NSM
 πορευθῇς	πορεύομαι	V-AOS-2S
 ἀποστρέψω	ἀποστρέφω	V-FAI-1S
@@ -849,7 +840,6 @@ form	lemma	tag	sense	note
 Οὐφεὶρ	Οὐφείρ	N-PRI
 Εὑειλὰ	Εὑειλά	N-PRI
 Ἰωβάβ	Ἰωβάβ	N-PRI
-κατοίκησις	κατοίκησις	N-NSF
 Μασσηὲ	Μασσηέ	N-PRI
 Σωφήρα	Σωφήρα	N-PRI
 Προσθέμενος	προστίθημι	V-2AMP-NSM		Hebrew idiom "Abraham added and took": προστίθημι middle, "having added"
@@ -1027,7 +1017,6 @@ form	lemma	tag	sense	note
 ταπεινώθητι	ταπεινόω	V-APM-2S
 ἀριθμήσεται	ἀριθμέω	V-FPI-3S		future middle form with passive sense: "will not be counted"
 ἐπήκουσεν	ἐπακούω	V-AAI-3S
-ἄγροικος	ἄγροικος	A-NSM
 κατοικήσει	κατοικέω	V-FAI-3S
 ἐφιδών	ἐπεῖδον	V-2AAP-NSM	look-upon	aorist of ἐφοράω, lemmatized ἐπεῖδον as in Genesis 4:4
 ὀφθέντα	ὁράω	V-APP-ASM	appear
@@ -1092,8 +1081,6 @@ form	lemma	tag	sense	note
 δυνήσομαι	δύναμαι	V-FDI-1S
 ἀποθάνω	ἀποθνῄσκω	V-2AAS-1S
 καταφυγεῖν	καταφεύγω	V-2AAN
-καταστρέψαι	καταστρέφω	V-AAN
-ἐλάλησας	λαλέω	V-AAI-2S
 περίοικον	περίοικος	A-ASF		substantival feminine (χώρα understood): the surroundings
 ἀνατέλλοντα	ἀνατέλλω	V-PAP-APN	rise
 στήλη	στήλη	N-NSF
@@ -1117,14 +1104,12 @@ form	lemma	tag	sense	note
 Ἀμμάν	Ἀμμάν	N-PRI
 Ἀμμανιτῶν	Ἀμμανίτης	N-GPM
 ἐκίνησεν	κινέω	V-AAI-3S
-Σούρ	Σούρ	N-PRI
 Γεράροις	Γέραρα	N-DPN
 Γεράρων	Γέραρα	N-GPN
 ἀποθνήσκεις	ἀποθνῄσκω	V-PAI-2S
 συνῳκηκυῖα	συνοικέω	V-RAP-NSF
 ἀγνοοῦν	ἀγνοέω	V-PAP-ASN
 ἀγνοοῦν	ἀγνοέω	V-PAP-NSN
-ἀπολεῖς	ἀπόλλυμι	V-FAI-2S
 ὕπνον	ὕπνος	N-ASM
 ἐφεισάμην	φείδομαι	V-ADI-1S
 ἁμαρτεῖν	ἁμαρτάνω	V-2AAN
@@ -1134,8 +1119,6 @@ form	lemma	tag	sense	note
 ἀποθανῇ	ἀποθνῄσκω	V-FDI-2S
 ἀποθανῇ	ἀποθνῄσκω	V-2AAS-3S
 ἡμάρτομεν	ἁμαρτάνω	V-2AAI-1P
-ἐπήγαγες	ἐπάγω	V-2AAI-2S
-πεποίηκάς	ποιέω	V-RAI-2S
 ἐνιδὼν	ἐνοράω	V-2AAP-NSM
 θεοσέβεια	θεοσέβεια	N-NSF
 κατοίκει	κατοικέω	V-PAM-2S
@@ -1143,21 +1126,15 @@ form	lemma	tag	sense	note
 θεῖον	θεῖον	N-ASN		the noun "sulfur" (Luke 17:29), not the adjective θεῖος the table guessed
 Ἀρβόκ	Ἀρβόκ	N-PRI
 κοιλώματι	κοίλωμα	N-DSN
-Χεβρὼν	Χεβρών	N-PRI
 κόψασθαι	κόπτω	V-AMN	bewail	the middle of κόπτω, to beat oneself in mourning
-Σάρραν	Σάρρα	N-ASF
 πενθῆσαι	πενθέω	V-AAN
-Χὲτ	Χέτ	N-PRI
 παρεπίδημος	παρεπίδημος	A-NSM
 κτῆσιν	κτῆσις	N-ASF
 θάψω	θάπτω	V-FAI-1S
 θάψω	θάπτω	V-AAS-1S
-ἄκουσον	ἀκούω	V-AAM-2S
 θάψον	θάπτω	V-AAM-2S
 κωλύσει	κωλύω	V-FAI-3S
 λαλήσατε	λαλέω	V-AAM-2P
-Ἐφρὼν	Ἐφρών	N-PRI
-Σάαρ	Σάαρ	N-PRI
 μερίδι	μερίς	N-DSF
 ἀξίου	ἄξιος	A-GSN
 Χετταῖος	Χετταῖος	N-NSM
@@ -1168,20 +1145,14 @@ form	lemma	tag	sense	note
 δοκίμου	δόκιμος	A-GSN
 ἐνπόροις	ἔμπορος	N-DPM		Swete's unassimilated spelling of ἐμπόροις
 διπλῷ	διπλοῦς	A-DSN
-σπηλαίῳ	σπήλαιον	N-DSN
-Μαμβρή	Μαμβρή	N-PRI
 ἔθαψεν	θάπτω	V-AAI-3S
 ἐκυρώθη	κυρόω	V-API-3S
 προβεβηκὼς	προβαίνω	V-RAP-NSM
-παιδὶ	παῖς	N-DSM
 Θὲς	τίθημι	V-2AAM-2S
 ἐξορκίσω	ἐξορκίζω	V-FAI-1S
 ἐξορκίσω	ἐξορκίζω	V-AAS-1S
 λάβῃς	λαμβάνω	V-2AAS-2S
-Χαναναίων	Χαναναῖος	N-GPM
 οἰκῶ	οἰκέω	V-PAI-1S		the verb, not the noun οἶκος
-ἀποστρέψω	ἀποστρέφω	V-FAI-1S
-ἀποστρέψω	ἀποστρέφω	V-AAS-1S
 ἀποστρέψῃς	ἀποστρέφω	V-AAS-2S
 καμήλους	κάμηλος	N-APF		feminine in Genesis 24 (τὰς καμήλους)
 καμήλων	κάμηλος	N-GPF
@@ -1198,20 +1169,11 @@ form	lemma	tag	sense	note
 πίνουσαι	πίνω	V-PAP-NPF
 συντελέσαι	συντελέω	V-AAN
 τεχθεῖσα	τίκτω	V-APP-NSF
-Βαθουήλ	Βαθουήλ	N-PRI
 Μέλχας	Μελχά	N-GSF
-Μελχά	Μελχά	N-NSF
 ὤμων	ὦμος	N-GPM
-καλὴ	καλός	A-NSF
-ὄψει	ὁράω	V-FDI-2S
-ὄψει	ὄψις	N-DSF
 καταβᾶσα	καταβαίνω	V-2AAP-NSF
-πηγὴν	πηγή	N-ASF
-ἔπλησεν	πίμπλημι	V-AAI-3S
 ἐπέδραμεν	ἐπιτρέχω	V-2AAI-3S
-συνάντησιν	συνάντησις	N-ASF
 Πότισόν	ποτίζω	V-AAM-2S
-ἔσπευσεν	σπεύδω	V-AAI-3S
 βραχίονα	βραχίων	N-ASM
 ὑδρεύσομαι	ὑδρεύω	V-FMI-1S
 ἐξεκένωσεν	ἐκκενόω	V-AAI-3S
@@ -1234,36 +1196,26 @@ form	lemma	tag	sense	note
 εὐδοκήσας	εὐδοκέω	V-AAP-NSM
 ἐγκατέλειπεν	ἐγκαταλείπω	V-2AAI-3S		Swete's ει for the ι of the aorist ἐγκατέλιπεν (Genesis 24:27); formally an imperfect, but the aorist fits the sense
 δραμοῦσα	τρέχω	V-2AAP-NSF
-Ῥεβέκκᾳ	Ῥεβέκκα	N-DSF
-Ῥεβέκκας	Ῥεβέκκα	N-GSF
-Ῥεβέκκαν	Ῥεβέκκα	N-ASF
-Λαβάν	Λαβάν	N-PRI
 ἑστηκότος	ἵστημι	V-RAP-GSM
 ἡτοίμασα	ἑτοιμάζω	V-AAI-1S
 ἀπέσαξεν	ἀποσάσσω	V-AAI-3S
-ὑψώθη	ὑψόω	V-API-3S
 ὄνους	ὄνος	N-APM
-γηρᾶσαι	γηράσκω	V-AAN
 ὥρκισέν	ὁρκίζω	V-AAI-3S
 παροικῶ	παροικέω	V-PAI-1S
 εὐηρέστησα	εὐαρεστέω	V-AAI-1S
 ἐξαποστελεῖ	ἐξαποστέλλω	V-FAI-3S
 εὐοδώσει	εὐοδόω	V-FAI-3S
-ὁρκισμοῦ	ὁρκισμός	N-GSM
 εὐοδοῖς	εὐοδόω	V-PAI-2S
 ὑδρεύσασθαι	ὑδρεύω	V-AMN
 θεράποντι	θεράπων	N-DSM
-πεποίηκας	ποιέω	V-RAI-2S
 σπεύσασα	σπεύδω	V-AAP-NSF
 ἠρώτησα	ἐρωτάω	V-AAI-1S
 περιέθηκα	περιτίθημι	V-AAI-1S
 προσεκύνησα	προσκυνέω	V-AAI-1S
-εὐλόγησα	εὐλογέω	V-AAI-1S
 εὐόδωσέν	εὐοδόω	V-AAI-3S
 ἀριστεράν	ἀριστερός	A-ASF
 πρόσταγμα	πρόσταγμα	N-NSN
 πρόσταγμα	πρόσταγμα	N-ASN
-ἀπότρεχε	ἀποτρέχω	V-PAM-2S
 ἐξενέγκας	ἐκφέρω	V-AAP-NSM
 Ἐκπέμψατέ	ἐκπέμπω	V-AAM-2P
 Μεινάτω	μένω	V-AAM-3S
@@ -1273,11 +1225,8 @@ form	lemma	tag	sense	note
 ἐκάλεσαν	καλέω	V-AAI-3P
 εὐλόγησαν	εὐλογέω	V-AAI-3P
 κληρονομησάτω	κληρονομέω	V-AAM-3S
-ὑπεναντίων	ὑπεναντίος	A-GPM
 ἅβραι	ἅβρα	N-NPF
 ἐπέβησαν	ἐπιβαίνω	V-2AAI-3P
-ὁράσεως	ὅρασις	N-GSF
-κατῴκει	κατοικέω	V-IAI-3S
 ἀδολεσχῆσαι	ἀδολεσχέω	V-AAN
 δείλης	δείλη	N-GSF
 ἐρχομένας	ἔρχομαι	V-PNP-APF

@@ -42,6 +42,12 @@
   (unless (and (any (lambda (e) (string-contains e "why")) errs)
                (any (lambda (e) (string-contains e "twice")) errs))
     (fail "FAIL concordance problems not reported: ~s~%" errs)))
+;; A lemma listed twice (compared as NFC) names both files.
+(let ((errs (check-gloss-files `(("a.scm" (lemma "κατοικέω" (sense dwell (gloss "dwell") (why "w"))))
+                                 ("b.scm" (lemma ,(string-normalize-nfd "κατοικέω") (sense live (gloss "live") (why "w"))))))))
+  (unless (equal? errs (list (format #f "lemma ~a is listed twice: a.scm and b.scm; merge its senses into the first entry"
+                                     (string-normalize-nfd "κατοικέω"))))
+    (fail "FAIL duplicate lemma not reported with its files: ~s~%" errs)))
 (let ((errs (check-glosses '((lemma "x" (sense a (gloss "a") (readable 3) (why "w")))))))
   (unless (any (lambda (e) (string-contains e "(readable ...)")) errs)
     (fail "FAIL bad (readable ...) in the concordance not reported: ~s~%" errs)))

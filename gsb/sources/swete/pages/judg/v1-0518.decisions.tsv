@@ -1,0 +1,43 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+judg	theoldtestamenti00unknuoft	518	1	Ξ᾽Ἀπεκαλύφθη	Ξ᾽Ἀπεκαλύφθη	Ἀπεκαλύφθη	Ἀπεκαλύφθη	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	518	1	Ἰσραήλ᾽ +ω	Ἰσραήλ	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	518	2	Κύριον.	Κύριον	Κύριον.	Κύριον.	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	518	3	βάκούσατε	βάἀκούσατε	ἀκούσατε	ἀκούσατε	image (3x): superscript verse number fused into the word; word as in the page file
+judg	theoldtestamenti00unknuoft	518	3	σατράπαι"	σατράπαι:	σατράπαι·	σατράπαι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	518	4	ἐγώ	ἐγώ	ἐγώ	ἐγώ	image (3x): acute on ἐγώ before enclitic εἰμι as printed
+judg	theoldtestamenti00unknuoft	518	4	εἶμι	εἶμι	εἰμι	εἰμι	image (3x): εἰμι with smooth breathing only, no circumflex
+judg	theoldtestamenti00unknuoft	518	4	ἐγώ	ἐγώ	ἐγώ	ἐγώ	image (3x): acute on ἐγώ before enclitic εἰμι as printed
+judg	theoldtestamenti00unknuoft	518	4	ᾷσομαι,	ᾷσομαι,	ᾄσομαι,	ᾄσομαι,	image (3x): smooth + acute over α with iota subscript
+judg	theoldtestamenti00unknuoft	518	5	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	518	6	ἸΚύριε,	ἸΚύριε,	Κύριε,	Κύριε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	518	7	Ἐ̓δώ	Ἐδώμ,	Ἐδώμ,	Ἐδώμ,	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	518	10	5épn	δὄρη	ὄρη	ὄρη	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	518	10	Ἐλωεί,	Ἐ̓λωεί,	Ἐλωεί,	Ἐλωεί,	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	518	11	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	518	12	∅	δὲν	ἐν	ἐν	image (3x): superscript verse number fused into the word; word as in the page file
+judg	theoldtestamenti00unknuoft	518	12	∅	ἡμέραις	ἡμέραις	ἡμέραις	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	518	12	∅	Σαμεγὰρ	Σαμεγὰρ	Σαμεγὰρ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	518	12	∅	υἱοῦ	υἱοῦ	υἱοῦ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	518	12	∅	Ἀνάθ,	Ἀνάθ,	Ἀνάθ,	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	518	12	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	518	12	∅	ἡμέραις	ἡμέραις	ἡμέραις	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	518	12	∅	Ἰ̓Ἰαήλ,	Ἰαήλ,	Ἰαήλ,	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	518	15	7ἐξέλιπον	7ἐξέλιπον	ἐξέλιπον	ἐξέλιπον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	518	15	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	518	16	Δεββωρά,	Δεββωρά, +“ ΓΞ γσ- , ᾽ 3 ΄	Δεββωρά,	Δεββωρά,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	518	17	Ἰσραὴλ.	Ισραηλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	518	18	δέξελέξαντο	δέξελέξαντο	ἐξελέξαντο	ἐξελέξαντο	image (3x): superscript verse number fused into the word; word as in the page file
+judg	theoldtestamenti00unknuoft	518	19	ἀρχόντων"	ἀρχόντων"	ἀρχόντων·	ἀρχόντων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	518	20	λόγχη. +:	λόγχη. +᾿	λόγχη	λόγχη	ambiguous: image (3x): tiny light dot after λόγχη at the baseline, lighter than real points; read as a speck, no punctuation
+judg	theoldtestamenti00unknuoft	518	21	Ἰσραήλ.	Ἰσραῆλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	518	22	Ἰσραήλ᾽	Ἰ̓σραήλ᾽	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	518	23	οἱ	ἱ	οἱ	οἱ	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	518	23	ἐ	ἐν	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	518	23	ᾧ,	λαῷ,	λαῷ,	λαῷ,	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	518	23	Κύριον.	Κύ	Κύριον.	Κύριον.	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	518	24	"ἐπιβεβηκότες	ἐπιβεβηκότες	ἐπιβεβηκότες	ἐπιβεβηκότες	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	518	26	ὁδῷ" +- τι	ὁδῷ"	ὁδῷ·	ὁδῷ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	518	27	διηγεῖσθε	- +τι ὃ ιηγεῖσθε (	διηγεῖσθε	διηγεῖσθε	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	518	27	(ards	ἀπὸ	ἀπὸ	ἀπὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	518	27	ἀνακρονομένων,	ἀνακρουομένων,	ἀνακρουομένων,	ἀνακρουομένων,	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	518	27	-	-	διηγεῖσθε	διηγεῖσθε	image: Swete prints superscript 11 before διηγεῖσθε and a parenthesized (11) inside the line before ἀπὸ, no parenthesized margin number; διηγεῖσθε has no common verse of its own and runs on with common 5:10 ({11}{=5:10}), common 5:11 starts at ἀπὸ

@@ -1,0 +1,47 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+judg	theoldtestamenti00unknuoft	512	1	ἡ-	ἡἧ-	ἠ-	ἠ-	image (3x): smooth breathing, no accent on ἠ-
+judg	theoldtestamenti00unknuoft	512	3	ἐν	δέν	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	512	3	ois	οἷς	οἷς	οἷς	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	3	χεὶρ	χεὶρ	χεὶρ	χεὶρ	image (3x): grave; next word is a name, not a quotation
+judg	theoldtestamenti00unknuoft	512	3	ἦν	ἢν	ἦν	ἦν	image (3x): smooth + circumflex
+judg	theoldtestamenti00unknuoft	512	3	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	4	ὦμοσεν	ὦμοσεν	ὤμοσεν	ὤμοσεν	image (3x, line zoom): smooth + acute, two strokes, not circumflex
+judg	theoldtestamenti00unknuoft	512	5	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	6	αὐτοὺς	αὐτοὺς	αὐτοὺς	αὐτοὺς	image (3x): grave; next word is a name, not a quotation
+judg	theoldtestamenti00unknuoft	512	6	προνομευόντὼν	προνομευόντὼν	προνομευόντων	προνομευόντων	image (3x): grave on ω is a smudge-free plain ω; no accent
+judg	theoldtestamenti00unknuoft	512	6	“Kai	"7καί	καί	καί	image (3x): acute on καί before enclitic γε
+judg	theoldtestamenti00unknuoft	512	6	ye	γε	γε	γε	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	9	Κυρίου:	Κυρίου:	Κυρίου·	Κυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	10	οὕτως.	οὕτως. +“8	οὕτως.	οὕτως.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	10	“Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	10	pera	μετὰ	μετὰ	μετὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	12	κριτοῦ:	κριτοῦ:	κριτοῦ·	κριτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	14	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	16	αὐτοῖς"	αὐτοῖς"	αὐτοῖς·	αὐτοῖς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	17	μ +ata	ματα	ματα	ματα	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	512	17	αὐτῶν +|	αὐτῶν	αὐτῶν	αὐτῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	17	ὁδοὺς +ς	ὁδοὺς	ὁδοὺς	ὁδοὺς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	17	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	18	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	512	18	Ἀνθ᾽	Ἀνθ᾽	Ἀνθ᾽	Ἀνθ᾽	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	512	20	pov,	μου, +“᾽	μου,	μου,	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	20	“καί	καί	καί	καί	image (3x): acute on καί before enclitic γε
+judg	theoldtestamenti00unknuoft	512	20	ye	γε	γε	γε	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	20	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	21	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	512	21	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave; next word is a name, not a quotation
+judg	theoldtestamenti00unknuoft	512	22	avn	Ναυὴ	Ναυὴ	Ναυὴ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	22	γῇ"	γῇ"	γῇ·	γῇ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	22	““τοῦ	““τοῦ	τοῦ	τοῦ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	22	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	512	23	ὁδὸν	ὁδὸν	ὁδὸν	ὁδὸν	image (3x): grave; next word is a name, not a quotation
+judg	theoldtestamenti00unknuoft	512	24	“3καὶ	“Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	25	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	25	χειρὶ	χειρὶ	χειρὶ	χειρὶ	image (3x): grave; next word is a name, not a quotation
+judg	theoldtestamenti00unknuoft	512	25	Ἰησοῦ.	Ἰησοῦ.	Ἰησοῦ.	Ἰησοῦ.	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	512	27	σραῆλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	512	27	ἐγνωκύτας	ἐγνωκότας	ἐγνωκότας	ἐγνωκότας	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	512	27	“πλὴν	“πλὴν	πλὴν	πλὴν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	28	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	512	29	αὐτά:	αὐτά:	αὐτά·	αὐτά·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	512	29	Ξτὰς	"τὰς	τὰς	τὰς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip

@@ -1,0 +1,59 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+josh	theoldtestamenti00unknuoft	489	3	αὐτόν, +5"	αὐτόν, +"	αὐτόν,	αὐτόν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	3	Ἰούδας	Ἰούδας	Ἰούδας	Ἰούδας	image (3x): smooth breathing on capital
+josh	theoldtestamenti00unknuoft	489	4	viol	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave; capital that follows is a proper name, not a quotation
+josh	theoldtestamenti00unknuoft	489	4	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	image (3x): smooth breathing on capital
+josh	theoldtestamenti00unknuoft	489	5	ὑμεῖς	“ὑμεῖς	ὑμεῖς	ὑμεῖς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	7	∅	∅	οὐ	οὐ	image (3x): οὐ with smooth breathing and grave after superscript 7
+josh	theoldtestamenti00unknuoft	489	7	∅	γάρ	γάρ	γάρ	image (3x): acute on γάρ before enclitic ἐστιν
+josh	theoldtestamenti00unknuoft	489	7	∅	ἐστιν	ἐστιν	ἐστιν	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	7	αὐτοῦ:	τοῖς	τοῖς	τοῖς	class R6 (OCR letters differ): the other OCR reading agrees with c
+josh	theoldtestamenti00unknuoft	489	7	∅	υἱοῖς	υἱοῖς	υἱοῖς	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	7	∅	Λευεὶ	Λευεὶ	Λευεὶ	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	7	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	7	∅	ὑμῖν,	ὑμῖν,	ὑμῖν,	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	7	∅	ἱερατεία	ἱερατεία	ἱερατεία	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	7	∅	γὰρ	γὰρ	γὰρ	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	7	∅	Κυριου	Κυρίου	Κυρίου	image (3x): Κυρίου with acute
+josh	theoldtestamenti00unknuoft	489	8	∅	μερὶς	μερὶς	μερὶς	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	8	∅	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	8	Tad	Τὰδ	Γὰδ	Γὰδ	image (3x): Γ, not Τ
+josh	theoldtestamenti00unknuoft	489	8	Ῥουβὴν	Ῥουβὴν	Ῥουβὴν	Ῥουβὴν	image (3x): rough breathing on Ρ
+josh	theoldtestamenti00unknuoft	489	8	Mavacon	Μανασσὴ	Μανασσὴ	Μανασσὴ	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	9	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	9	Ἰορδάνου	Ἰορδάνου	Ἰορδάνου	Ἰορδάνου	image (3x): smooth breathing on capital
+josh	theoldtestamenti00unknuoft	489	10	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+josh	theoldtestamenti00unknuoft	489	10	Κυρίου. +ὅ	Κυρίου.	Κυρίου.	Κυρίου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	10	καὶ	και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+josh	theoldtestamenti00unknuoft	489	10	ἀναστάντες	ανασταντες	ἀναστάντες	ἀναστάντες	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+josh	theoldtestamenti00unknuoft	489	10	ἄνδρες	αν +βες	ἄνδρες	ἄνδρες	class R6 (OCR letters differ): the other OCR reading agrees with c
+josh	theoldtestamenti00unknuoft	489	11	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	image (3x): smooth breathing on capital
+josh	theoldtestamenti00unknuoft	489	13	μέ",	μέ",	μέ·	μέ·	image (3x): ano teleia after μέ; the small low mark before καὶ is a speck, not a comma
+josh	theoldtestamenti00unknuoft	489	14	Σηλώ. +9	Σηλώ. +9	Σηλώ.	Σηλώ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	15	αὐτὴν,	αὐτὴν,	αὐτήν,	αὐτήν,	image (3x): acute on final eta
+josh	theoldtestamenti00unknuoft	489	16	Ἰησοῦν.	Ἰησοῦν.	Ἰησοῦν.	Ἰησοῦν.	image (3x): smooth breathing on capital
+josh	theoldtestamenti00unknuoft	489	16	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	16	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	image (3x): smooth breathing on capital
+josh	theoldtestamenti00unknuoft	489	17	‘kal	"᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	18	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	19	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on capital
+josh	theoldtestamenti00unknuoft	489	19	Ἰωσήφ.	Ἰωσήφ.	Ἰωσήφ.	Ἰωσήφ.	image (3x): smooth breathing on capital
+josh	theoldtestamenti00unknuoft	489	20	βορρᾶ:	βορρᾶ:	βορρᾶ·	βορρᾶ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	20	Ἰορδάνου	Ἰορδάνου	Ἰορδάνου	Ἰορδάνου	image (3x): smooth breathing on capital
+josh	theoldtestamenti00unknuoft	489	21	ὅρια	ὁρια	ὅρια	ὅρια	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+josh	theoldtestamenti00unknuoft	489	21	Ἰερειχὼ	» +Ἱερειχὼ	Ἰερειχὼ	Ἰερειχὼ	image (3x): smooth breathing on capital
+josh	theoldtestamenti00unknuoft	489	22	Βαιθών" +13	Βαιθών"	Βαιθών·	Βαιθών·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	23	καὶ	᾿ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	23	Λοῦζα	Λοῦξα	Λοῦζα	Λοῦζα	class R6 (OCR letters differ): the other OCR reading agrees with c
+josh	theoldtestamenti00unknuoft	489	24	ἐστὶν	ἐστὶν	ἐστὶν	ἐστὶν	image (3x): grave on ἐστὶν as printed; following capital is a proper name
+josh	theoldtestamenti00unknuoft	489	24	Βαιθήλ:	Βαιθήλ:	Βαιθήλ·	Βαιθήλ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	24	Maarapwbopéey	Μααταρωθορὲχ	Μααταρωθορὲχ	Μααταρωθορὲχ	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	25	ἥ	ἥ	ἥ	ἥ	image (3x): rough + acute (open curl then rising stroke)
+josh	theoldtestamenti00unknuoft	489	25	Kara:	κάτω"	κάτω·	κάτω·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	25	“Kai	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	26	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	26	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	489	28	ἐστὶν	ἐστὶν	ἐστὶν	ἐστὶν	image (3x): grave on ἐστὶν as printed; following capital is a proper name
+josh	theoldtestamenti00unknuoft	489	7	-	-	Λευεὶ	Λευεὶ	image (3x): brown stain under the υ is not ink of the text; read Λευεὶ
+josh	theoldtestamenti00unknuoft	489	24	-	-	αὕτη	αὕτη	image (3x): rough + acute on υ (same mark as on ἥ, line 25)
+josh	theoldtestamenti00unknuoft	489	28	-	-	αὕτη	αὕτη	image (3x): rough + acute on υ (same mark as on ἥ, line 25)

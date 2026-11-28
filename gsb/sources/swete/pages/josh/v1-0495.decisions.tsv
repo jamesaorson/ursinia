@@ -1,0 +1,62 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+josh	theoldtestamenti00unknuoft	495	1	Mavacon	Μανασσὴ	Μανασσὴ	Μανασσὴ	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	1	δέκα" +ὃ	δέκα"	δέκα·	δέκα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	2	Ἰσσαχὰρ	Ἰσσαχὰρ	Ἰσσαχὰρ	Ἰσσαχὰρ	image (3x): smooth breathing (apostrophe shape) on the capital
+josh	theoldtestamenti00unknuoft	495	3	Ἀσὴρ	Ἀσὴρ	Ἀσὴρ	Ἀσὴρ	image (3x): smooth breathing (apostrophe shape) on the capital
+josh	theoldtestamenti00unknuoft	495	4	∅	Μανασσὴ	Μανασσὴ	Μανασσὴ	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	4	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	4	∅	τῷ	τῷ	τῷ	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	4	∅	Βασὰν	Βασὰν	Βασὰν	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	4	∅	πόλεις	πόλεις	πόλεις	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	4	∅	δέκα	δέκα	δέκα	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	4	∅	τρεῖς" +7	τρεῖς·	τρεῖς·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	4	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	4	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	4	∅	τοῖς	τοῖς	τοῖς	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	4	∅	υἱοῖς	υἱοῖς	υἱοῖς	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	4	∅	Μεραρεὶ	Μεραρεὶ	Μεραρεὶ	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	5	Ῥουβὴν	Ῥουβὴν	Ῥουβὴν	Ῥουβὴν	image (3x): rough breathing on Ρ
+josh	theoldtestamenti00unknuoft	495	6	δώδεκα. +ὃ	δώδεκα. +ὃ	δώδεκα.	δώδεκα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	7	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before the capitalized name (not a quotation)
+josh	theoldtestamenti00unknuoft	495	7	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape) on the capital
+josh	theoldtestamenti00unknuoft	495	7	Aeveitas	Λευείταις	Λευείταις	Λευείταις	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	7	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	8	9καὶ	9καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	9	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing (apostrophe shape) on the capital
+josh	theoldtestamenti00unknuoft	495	10	ταύτας:	ταύτας:	ταύτας·	ταύτας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	10	“rots	ΙΟ +"““τοῖς	τοῖς	τοῖς	image (3x): τοῖς after superscript 10
+josh	theoldtestamenti00unknuoft	495	10	υἱοῖς	υἱοῖς +᾽	υἱοῖς	υἱοῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	10	Ἀαρὼν	Ἀαρὼν	Ἀαρὼν	Ἀαρὼν	image (3x): smooth breathing (apostrophe shape) on the capital
+josh	theoldtestamenti00unknuoft	495	11	Aevei,	Λευεί,	Λευεί,	Λευεί,	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	12	“kal	᾿'καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	12	Ἐνάκ,	Ἐνάκ,	Ἐνάκ,	Ἐνάκ,	image (3x): smooth breathing (apostrophe shape) on the capital
+josh	theoldtestamenti00unknuoft	495	12	αὕτη	αὕτη.	αὕτη	αὕτη	class R6 (OCR letters differ): the other OCR reading agrees with c
+josh	theoldtestamenti00unknuoft	495	13	ἐστὶν	ἐστὶν +Χ	ἐστὶν	ἐστὶν	image (3x): grave before the capitalized name (not a quotation)
+josh	theoldtestamenti00unknuoft	495	13	Ἰούδα᾽	ἐὲ +Ἰούδα᾽ Ξ	Ἰούδα·	Ἰούδα·	image (3x): smooth breathing (apostrophe shape) on the capital
+josh	theoldtestamenti00unknuoft	495	13	"καὶ	12 +"καὶ	καὶ	καὶ	image (3x): καὶ after superscript 12
+josh	theoldtestamenti00unknuoft	495	14	πύλεως	πύλεως	πόλεως	πόλεως	image (3x): ο, not υ (πόλεως)
+josh	theoldtestamenti00unknuoft	495	14	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	image (3x): smooth breathing (apostrophe shape) on the capital
+josh	theoldtestamenti00unknuoft	495	15	Ἰεφοννὴ	Ἰεφοννὴ	Ἰεφοννὴ	Ἰεφοννὴ	image (3x): smooth breathing (apostrophe shape) on the capital
+josh	theoldtestamenti00unknuoft	495	15	“Kal	"Ξκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	15	Ἀαρὼν	Ἀαρὼν	Ἀαρὼν	Ἀαρὼν	image (3x): smooth breathing (apostrophe shape) on the capital
+josh	theoldtestamenti00unknuoft	495	18	“kat	"“Ἰκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	18	Αἰλὼμ	Αἰλὼμ	Αἰλὼμ	Αἰλὼμ	image (3x): no breathing on Α; smooth breathing on ι, grave on ω
+josh	theoldtestamenti00unknuoft	495	18	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	19	kat	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	20	∅	"καὶ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	20	∅	Ασα	Ἄσα	Ἄσα	image (6x): smooth breathing + acute (apostrophe then rising stroke) on Α: Ἄσα
+josh	theoldtestamenti00unknuoft	495	20	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	20	∅	τὰ	τὰ	τὰ	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	21	Tavd	Τανὺ	Τανὺ	Τανὺ	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	22	αὐτῇ:	αὐτῇ:	αὐτῇ·	αὐτῇ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	23	τὴν.	τὴν.	τὴν	τὴν	ambiguous: image (3x): small light dot on the baseline after τὴν, mid-clause; read as a speck, not a period
+josh	theoldtestamenti00unknuoft	495	24	Τάθεθ	Τάθεθ	Γάθεθ	Γάθεθ	image (3x): Γ, not Τ
+josh	theoldtestamenti00unknuoft	495	24	kai	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	24	Ἀναθὼθ	Ἀναθὼθ	Ἀναθὼθ	Ἀναθὼθ	image (3x): smooth breathing (apostrophe shape) on the capital
+josh	theoldtestamenti00unknuoft	495	24	apo-	ἀφω-	ἀφω-	ἀφω-	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	25	Ταμαλὰ	Γαμαλὰ	Γαμαλὰ	Γαμαλὰ	class R6 (OCR letters differ): the other OCR reading agrees with c
+josh	theoldtestamenti00unknuoft	495	25	τέσσαρες. +9	τέσσαρες.	τέσσαρες.	τέσσαρες.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	26	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	26	Ἀαρὼν	Ἀαρὼν	Ἀαρὼν	Ἀαρὼν	image (3x): smooth breathing (apostrophe shape) on the capital
+josh	theoldtestamenti00unknuoft	495	26	*Kal	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	495	23	-	-	τὴν	τὴν	ambiguous: small light dot after τὴν before Γαβαὼν; read as a speck, not a period

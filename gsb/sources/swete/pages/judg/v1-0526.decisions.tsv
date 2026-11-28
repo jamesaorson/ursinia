@@ -1,0 +1,55 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+judg	theoldtestamenti00unknuoft	526	2	᾿	“καὶ	καὶ	καὶ	image (3x): superscript 4 and specks, not text; no period after εἶπεν
+judg	theoldtestamenti00unknuoft	526	2	“καὶ +εἶπεν.	εἶπεν.	εἶπεν	εἶπεν	image (3x): superscript 4 and specks, not text; no period after εἶπεν
+judg	theoldtestamenti00unknuoft	526	2	Γεδεών +τ	Γεδεών	Γεδεών	Γεδεών	image (3x): acute before capitalized quotation
+judg	theoldtestamenti00unknuoft	526	2	Ἔτι	Ἔτι	Ἔτι	Ἔτι	image (6x): smooth + acute (apostrophe then rising stroke) on Ἔτι
+judg	theoldtestamenti00unknuoft	526	3	4 +πολύς"	4 +πολύς"	πολύς·	πολύς·	image (3x): raised ano teleia; margin 4 not text
+judg	theoldtestamenti00unknuoft	526	3	ἐκεῖ:	ἐκεῖ:	ἐκεῖ·	ἐκεῖ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	4	σέ	σέ	σέ	σέ	image (3x): acute before capitalized quotation
+judg	theoldtestamenti00unknuoft	526	4	Οὗτος	Οὗτος	Οὗτος	Οὗτος	image (3x): rough breathing + circumflex on υ of Οὗτος
+judg	theoldtestamenti00unknuoft	526	5	σοί:	σοί:	σοί·	σοί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	5	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	5	σέ	σέ	σέ	σέ	image (3x): acute before capitalized quotation
+judg	theoldtestamenti00unknuoft	526	5	Οὗτος	Οὗτος	Οὗτος	Οὗτος	image (3x): rough breathing + circumflex on υ of Οὗτος
+judg	theoldtestamenti00unknuoft	526	5	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	6	PETA	μετὰ	μετὰ	μετὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	6	καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	7	Vdwp:	ὕδωρ:	ὕδωρ·	ὕδωρ·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	7	Τεδεών	Τεδεών	Γεδεών	Γεδεών	image (3x): acute before capitalized quotation
+judg	theoldtestamenti00unknuoft	526	9	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	10	‘Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	10	χαψάντων	χλαψάντων	λαψάντων	λαψάντων	image (3x): λαψάντων
+judg	theoldtestamenti00unknuoft	526	10	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	12	ὕδωρ.	ὕδωρ. +7	ὕδωρ.	ὕδωρ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	12	7καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	12	Τεδεών	Τεδεών	Γεδεών	Γεδεών	image (3x): acute before capitalized quotation
+judg	theoldtestamenti00unknuoft	526	12	Ἔν	Ἔν	Ἐν	Ἐν	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	526	14	Μαδιὰμ.	Μαδιὰμ	Μαδιὰμ	Μαδιὰμ	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	526	14	χειρί	χειρί	χειρί	χειρί	image (3x): acute before enclitic σου
+judg	theoldtestamenti00unknuoft	526	15	αὐτοῦ.	αὑτοῦ. +ὃ“	αὐτοῦ.	αὐτοῦ.	image (3x): smooth breathing on αὐτοῦ
+judg	theoldtestamenti00unknuoft	526	15	“καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	15	λαοῦ	λαοῦ +ἡ	λαοῦ	λαοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	16	αὐτῶν"	αὐτῶν"	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	16	ἄνδρα	ἄνδρα +᾽	ἄνδρα	ἄνδρα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	16	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	526	18	παρεμβολὴ	παρεμβολὴ	παρεμβολὴ	παρεμβολὴ	image (3x): grave accent (no capitalized quotation follows)
+judg	theoldtestamenti00unknuoft	526	18	αὐτοῦ.	αὐτοῦ.	αὐτοῦ	αὐτοῦ	image (3x): speck, not a period
+judg	theoldtestamenti00unknuoft	526	18	9Kai +9	Καὶ +9	Καὶ	Καὶ	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	19	αὐτὸν	αὐτὸν	αὐτὸν	αὐτὸν	image (3x): grave accent (no capitalized quotation follows)
+judg	theoldtestamenti00unknuoft	526	19	Ἀνάστας	Ἀνάστας	Ἀνάστας	Ἀνάστας	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	526	20	χειρί	χειρί	χειρί	χειρί	image (3x): acute before enclitic σου
+judg	theoldtestamenti00unknuoft	526	20	Gov.	σου.	σου.	σου.	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	21	*xat	᾿οκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	21	Papa	Φαρὰ	Φαρὰ	Φαρὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	21	παιδάριόν	παιδάριόν	παιδάριόν	παιδάριόν	image (3x): acute before enclitic σου
+judg	theoldtestamenti00unknuoft	526	22	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	22	παρεμβολην,	παρεμβολην,	παρεμβολήν,	παρεμβολήν,	image (3x): acute on η
+judg	theoldtestamenti00unknuoft	526	22	“kat	"᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	22	λαλήσουσιν".	λαλήσουσιν".	λαλήσουσιν·	λαλήσουσιν·	image (3x): raised ano teleia
+judg	theoldtestamenti00unknuoft	526	22	τοῦτο +τι	τοῦτο +τι	τοῦτο	τοῦτο	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	23	χεῖρές	χεῖρές	χεῖρές	χεῖρές	image (3x): acute before enclitic σου
+judg	theoldtestamenti00unknuoft	526	24	αὐτοῦ.	αὐτοῦ.	αὐτοῦ	αὐτοῦ	image (3x): speck, not a period
+judg	theoldtestamenti00unknuoft	526	25	ol	οἱ	οἳ	οἳ	image (6x): rough + grave, compact closed mark
+judg	theoldtestamenti00unknuoft	526	25	""καὶ	"Ζκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	526	25	Ἀμαλὴκ	Ἀμαλὴκ	Ἀμαλὴκ	Ἀμαλὴκ	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	526	25	καὶ +12	καὶ +τ2	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip

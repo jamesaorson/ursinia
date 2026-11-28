@@ -1,0 +1,85 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+judg	theoldtestamenti00unknuoft	539	1	ᾧκησεν	ᾧκησεν	ᾤκησεν	ᾤκησεν	image (3x): smooth+acute with iota subscript
+judg	theoldtestamenti00unknuoft	539	1	THB	Τώβ-	Τώβ·	Τώβ·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	2	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	2	αὐτοῦ. +"Ὁ	αὐτοῦ.	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	2	Καὶ	πὴ	Καὶ	Καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	539	3	ἡνίκᾳ	ἡνίκᾳ	ἡνίκα	ἡνίκα	image (3x): no iota subscript under final α
+judg	theoldtestamenti00unknuoft	539	3	viol	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before the capitalized name (not a quotation)
+judg	theoldtestamenti00unknuoft	539	3	Ἀμμὼν	Ἀμμὼν	Ἀμμὼν	Ἀμμὼν	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	3	Ἰσραήλ, +5"	Ἰσραήλ, +5"	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	4	Tadaad	Γαλαὰδ	Γαλαὰδ	Γαλαὰδ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	4	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	4	THB	Τώβ᾽	Τώβ·	Τώβ·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	5	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	5	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	6	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave before the capitalized name (not a quotation)
+judg	theoldtestamenti00unknuoft	539	6	Ἀμμών.	Ἀμμών.	Ἀμμών.	Ἀμμών.	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	6	Τ7καὶ	Τ7καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	6	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	7	Γαλαάδ	Γαλαάδ	Γαλαάδ	Γαλαάδ	image (3x): acute on Γαλαάδ before capitalized quotation
+judg	theoldtestamenti00unknuoft	539	7	Οὐχὶ	Οὐχὶ	Οὐχὶ	Οὐχὶ	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	7	ἐμισήσατέ	ἐμισήσατέ	ἐμισήσατέ	ἐμισήσατέ	image (3x): acute before enclitic
+judg	theoldtestamenti00unknuoft	539	7	pe,	με,	με,	με,	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	7	ἐξεβάλετέ	ἐξεβάλετέ	ἐξεβάλετέ	ἐξεβάλετέ	image (3x): acute before enclitic
+judg	theoldtestamenti00unknuoft	539	7	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	8	πατρός	πατρός	πατρός	πατρός	image (3x): acute before enclitic
+judg	theoldtestamenti00unknuoft	539	8	ἐξαπεστείλατέ	ἐξαπεστείλατέ	ἐξαπεστείλατέ	ἐξαπεστείλατέ	image (3x): acute before enclitic
+judg	theoldtestamenti00unknuoft	539	9	pe	μὲ	μὲ	μὲ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	9	χρήζετε;	χρήζετε;	χρῄζετε;	χρῄζετε;	image (3x): acute with iota subscript on η (no breathing)
+judg	theoldtestamenti00unknuoft	539	9	®Kal	ϑκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	9	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	10	Ἰεφθάε	Ἶ +εφθάε Δ	Ἰεφθάε	Ἰεφθάε	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	10	μεθ᾽	μεθ᾽ +θ᾽	μεθ᾽	μεθ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	11	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave before the capitalized name (not a quotation)
+judg	theoldtestamenti00unknuoft	539	11	Ἀμμών:	Ἀμμών:	Ἀμμών·	Ἀμμών·	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	12	Ταλαάδ. +9	Γαλαάδ. +9	Γαλαάδ.	Γαλαάδ.	image (3x): Γ, not Τ
+judg	theoldtestamenti00unknuoft	539	12	‘lepOde	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	12	Ταλαάδ	Γαλαάδ	Γαλαάδ	Γαλαάδ	image (3x): acute on Γαλαάδ before capitalized quotation
+judg	theoldtestamenti00unknuoft	539	13	Ei	Εἰ	Εἰ	Εἰ	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	13	ἐπιστρέφετέ	ἐπιστρέφετέ	ἐπιστρέφετέ	ἐπιστρέφετέ	image (3x): acute before enclitic
+judg	theoldtestamenti00unknuoft	539	13	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	13	Ἀμμὼν	Ἀμμὼν	Ἀμμὼν	Ἀμμὼν	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	14	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	14	ἄρχοντα;	ἄρχοντα; +"	ἄρχοντα;	ἄρχοντα;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	14	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	15	Ταλαὰδ	Ταλαὰδ	Γαλαὰδ	Γαλαὰδ	image (3x): Γ, not Τ
+judg	theoldtestamenti00unknuoft	539	15	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	16	ῥῆμά	ῥῆμά	ῥῆμά	ῥῆμά	image (3x): acute before enclitic
+judg	theoldtestamenti00unknuoft	539	16	ποιήσομεν.	ποιήσομεν. +“Ὑἶ	ποιήσομεν.	ποιήσομεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	16	“Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	17	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	17	pera	μετὰ	μετὰ	μετὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	17	Tadadd,	Τ'αλαάδ,	Γαλαάδ,	Γαλαάδ,	image (3x): Γ, not Τ
+judg	theoldtestamenti00unknuoft	539	17	“αὐτὸν	αὐτὸν	αὐτὸν	αὐτὸν	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	539	17	ὁ	ὃ	ὁ	ὁ	image (3x): rough breathing only on ὁ
+judg	theoldtestamenti00unknuoft	539	18	ἀρχηγόν:	ἀρχηγόν:	ἀρχηγόν·	ἀρχηγόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	18	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	19	Και	Και	Καὶ	Καὶ	image (3x): καὶ after superscript verse number
+judg	theoldtestamenti00unknuoft	539	20	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	20	Ἀμμὼν	Ἀμμὼν	Ἀμμὼν	Ἀμμὼν	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	21	∅	ἐμοὶ	ἐμοὶ	ἐμοὶ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	21	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	21	∅	σοί,	σοί,	σοί,	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	21	∅	ὅτι	ὅτι	ὅτι	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	21	∅	ἦλθές	ἦλθες	ἦλθες	image (3x): ἦλθες, no acute on final syllable
+judg	theoldtestamenti00unknuoft	539	21	∅	πρὸς	πρὸς	πρὸς	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	21	∅	μὲ	μὲ	μὲ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	21	∅	τοῦ	τοῦ	τοῦ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	21	∅	παρατάξασθαι	παρατάξασθαι	παρατάξασθαι	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	21	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	21	∅	τῇ	τῇ	τῇ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	21	∅	γῇ	γῇ	γῇ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	21	∅	μου;	μου;	μου;	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	21	∅	13 +"καὶ	καὶ	καὶ	image (3x): καὶ after superscript verse number
+judg	theoldtestamenti00unknuoft	539	22	Ἀμμὼν	Ἀμμὼν	Ἀμμὼν	Ἀμμὼν	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	22	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	22	Ὅτι	Ὅτι	Ὅτι	Ὅτι	image (3x): rough+acute on capital O (open curl then rising stroke), unlike smooth+acute on ἔλαβεν beside it
+judg	theoldtestamenti00unknuoft	539	23	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	23	γῆν	γῆν +μ	γῆν	γῆν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	539	23	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	24	Αρνὼν	Ἀρνὼν	Ἀρνὼν	Ἀρνὼν	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	24	ἕως	ἔως	ἕως	ἕως	image (3x): rough+acute curl, same as the second ἕως on the line
+judg	theoldtestamenti00unknuoft	539	24	‘laBox	Ἰαβὸκ	Ἰαβὸκ	Ἰαβὸκ	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	24	Ἰορδάνου:	Ἰορδάνου:	Ἰορδάνου·	Ἰορδάνου·	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	539	24	viv	νῦν	νῦν	νῦν	class R5: Latin-letter substitution in OCR; c read from the image strip

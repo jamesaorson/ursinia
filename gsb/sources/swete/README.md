@@ -164,7 +164,8 @@ per line (`#` lines below the header are comments). Markers:
 | `{=2:25}` | the common reference from here until Swete's next `{n}` (his parenthesized number, in the margin or the text); may go backwards, but each common verse is given once per book |
 | `{=31:48a}` | the same for a half verse (Swete's `(48 a)`, or our letters where he prints a number twice) |
 | `{=40:30-31}` `{=36:34,36}` | one Swete verse for several common verses, as printed (`(30, 31)` with consecutive numbers is a range) |
-| `{52!}` | Swete's verse 52 as printed, out of sequence: his own numbering skips (Gen 31:52) or prints a number early or late (Num 6: 23, `{27!}`, `{24!}`, 25, 26; Num 10: 33, `{35!}`, 36, `{34!}`); each Swete number still occurs once per chapter. An unmarked break in sequence fails |
+| `{52!}` | Swete's verse 52 as printed, out of sequence: his own numbering skips (Gen 31:52) or prints a number early or late (Num 6: 23, `{27!}`, `{24!}`, 25, 26; Num 10: 33, `{35!}`, 36, `{34!}`) or opens a chapter on a later number (1 Kgdms 18: `{C18}{6!}`); each Swete number still occurs once per chapter. An unmarked break in sequence fails |
+| `{42a}` | Swete's own lettered verse as printed (superscript `42a`, margin `42 a` without parentheses: Josh 21:42a-d, 24:33a-b): an extra Greek verse after his 42, not a half of it; only after `{42}` or another letter of 42; table verse `42a` |
 | `{P}` | the line starts an indented paragraph |
 | `{S}` | the line is a line of poetry |
 | `¶` `§` | witness marks printed in the text |

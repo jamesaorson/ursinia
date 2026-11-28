@@ -22,7 +22,7 @@
 
 (lemma "παραβιάζομαι" (sense constrain (gloss "constrain" "constrained" "constrains" "constraining") (why "To press hard, urge, compel by entreaty (Genesis 19:3 παρεβιάζετο αὐτούς; 19:9, the men of Sodom pressing on Lot; Luke 24:29, the two at Emmaus constrained him). \"Constrain\" as in the KJV of Luke 24:29.")))
 
-(lemma "παραγίνομαι"(sense arrive (gloss "arrive" "arrived" "arrives" "arriving") (why "To arrive, come to be present.")))
+(lemma "παραγίνομαι" (sense arrive (gloss "arrive" "arrived" "arrives" "arriving") (why "To arrive, come to be present.")))
 
 (lemma "παράδεισος"
   (sense paradise
@@ -186,7 +186,7 @@
 
 (lemma "πλατεῖα" (sense street (gloss "street" "streets") (why "(LXX form supplied.) A broad way, street, square (Genesis 19:2 ἐν τῇ πλατείᾳ καταλύσομεν; Matthew 6:5; Luke 14:21): the feminine of πλατύς \"broad\" used as a noun.")))
 
-(lemma "πλάτος"(sense breadth (gloss "breadth") (why "Breadth, width (Genesis 6:15; Ephesians 3:18; Revelation 21:16).")))
+(lemma "πλάτος" (sense breadth (gloss "breadth") (why "Breadth, width (Genesis 6:15; Ephesians 3:18; Revelation 21:16).")))
 
 (lemma "πλατύνω" (sense enlarge (dative "for") (gloss "enlarge" "enlarged" "enlarges" "enlarging") (why "To make broad, enlarge (Genesis 9:27, πλατύναι ὁ θεὸς τῷ Ἰάφεθ, \"may God enlarge for Japheth\", the dative of advantage; Matthew 23:5; 2 Corinthians 6:11, 13). Against πλάτος \"breadth\".")))
 
@@ -332,7 +332,7 @@
 
 (lemma "προσεύχομαι" (sense pray (gloss "pray" "prayed" "prays" "praying") (why "To pray (Genesis 20:7, 17, Abraham prays for Abimelech; Matthew 6:5-9). The deponent is rendered active.")))
 
-(lemma "προσέχω"(sense give-heed (gloss "give heed" "gave heed" "gives heed" "giving heed") (dative "") (why "To pay attention to, give heed (Genesis 4:5; Hebrews 2:1).")))
+(lemma "προσέχω" (sense give-heed (gloss "give heed" "gave heed" "gives heed" "giving heed") (dative "") (why "To pay attention to, give heed (Genesis 4:5; Hebrews 2:1).")))
 
 (lemma "προσήλυτος" (sense proselyte (person) (gloss "proselyte" "proselytes") (why "One who has come over, a resident foreigner (Exodus 20:10) and in the New Testament a convert (Matthew 23:15).")))
 
@@ -349,7 +349,7 @@
 
 (lemma "προσοίγω" (sense close (gloss "close" "closed" "closes" "closing") (why "(LXX, supplied.) To shut to, close (Genesis 19:6 τὴν θύραν προσέῳξεν ὀπίσω αὐτοῦ). Kept apart from κλείω \"shut\" and ἀποκλείω \"shut off\".")))
 
-(lemma "πρόσταγμα"(sense ordinance (gloss "ordinance" "ordinances") (why "(LXX.) An ordinance, command.")))
+(lemma "πρόσταγμα" (sense ordinance (gloss "ordinance" "ordinances") (why "(LXX.) An ordinance, command.")))
 
 (lemma "προστίθημι" (sense add (gloss "add" "added" "adds" "adding") (why "To add; with an infinitive, to do again (Genesis 4:2, \"added to bear\"; 4:12). The literal layer keeps \"add\".")))
 
@@ -376,7 +376,7 @@
 
 (lemma "πρωτοτόκια" (sense birthright (gloss "birthright" "birthrights") (why "The rights of the firstborn, birthright (Genesis 25:31-34; 27:36 τά τε πρωτοτοκεῖά μου εἴληφεν; Hebrews 12:16, Esau who sold his πρωτοτόκια). Swete spells it πρωτοτοκεῖα; the lemma follows the New Testament spelling so both testaments meet.")))
 
-(lemma "πρωτότοκος"(sense firstborn (gloss "firstborn") (why "Firstborn (Genesis 4:4; Luke 2:7; Colossians 1:15).")))
+(lemma "πρωτότοκος" (sense firstborn (gloss "firstborn") (why "Firstborn (Genesis 4:4; Luke 2:7; Colossians 1:15).")))
 
 (lemma "πτέρνα"
   (sense heel

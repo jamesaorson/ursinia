@@ -1,0 +1,59 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+josh	theoldtestamenti00unknuoft	465	1	ἄνδρα.	ἄνδρα. +"5	ἄνδρα.	ἄνδρα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	1	“kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	1	ἐνδειχθῇ,	ἐνδειχθῆ,	ἐνδειχθῇ,	ἐνδειχθῇ,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+josh	theoldtestamenti00unknuoft	465	2	αὐτῷ"	αὐτῷ"	αὐτῷ·	αὐτῷ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	3	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on capital (apostrophe shape)
+josh	theoldtestamenti00unknuoft	465	3	Kai	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	3	ὥρθρισεν	ὥρθρισεν	ὤρθρισεν	ὤρθρισεν	image (3x): smooth + acute (apostrophe then rising stroke), not rough
+josh	theoldtestamenti00unknuoft	465	3	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	image (3x): smooth breathing on capital (apostrophe shape)
+josh	theoldtestamenti00unknuoft	465	4	φυλάς:	φυλάς":	φυλάς·	φυλάς·	image (3x): ano teleia
+josh	theoldtestamenti00unknuoft	465	4	φυλὴ	φυλὴ	φυλὴ	φυλὴ	image (3x): grave; following capital is a name, not a quotation
+josh	theoldtestamenti00unknuoft	465	4	Ἰούδα.	Ἰούδα.	Ἰούδα.	Ἰούδα.	image (3x): smooth breathing on capital (apostrophe shape)
+josh	theoldtestamenti00unknuoft	465	5	Ζαραεί:	Ζαραεί:	Ζαραεί·	Ζαραεί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	6	ἤχθη	ἤχθη	ήχθη	ήχθη	image (3x): second half of hyphenated προσ-ήχθη: acute only, no breathing
+josh	theoldtestamenti00unknuoft	465	6	"δκαὶ	""καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	6	Ἀχὰρ	Ἀχὰρ	Ἀχὰρ	Ἀχὰρ	image (3x): smooth breathing on capital (apostrophe shape)
+josh	theoldtestamenti00unknuoft	465	6	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave; following capital is a name, not a quotation
+josh	theoldtestamenti00unknuoft	465	6	Zapa. +᾿"	Ζάρα.	Ζάρα.	Ζάρα.	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	7	καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	7	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	image (3x): smooth breathing on capital (apostrophe shape)
+josh	theoldtestamenti00unknuoft	465	7	Ἀχάρ	Ἀχάρ	Ἀχάρ	Ἀχάρ	image (3x): smooth breathing; acute before capitalized quotation
+josh	theoldtestamenti00unknuoft	465	7	Ἰσραήλ,	Ἰσραηλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on capital (apostrophe shape)
+josh	theoldtestamenti00unknuoft	465	8	ἀνάγγειλόν	ἀνάγγειλόν	ἀνάγγειλόν	ἀνάγγειλόν	image (3x): extra acute on ἀνάγγειλόν before enclitic μοι
+josh	theoldtestamenti00unknuoft	465	9	““καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	9	Ἀχὰρ	Ἀχὰρ	Ἀχὰρ	Ἀχὰρ	image (3x): smooth breathing on capital (apostrophe shape)
+josh	theoldtestamenti00unknuoft	465	9	Ἰησοῖ	Ἰησοῖ	Ἰησοῖ	Ἰησοῖ	image (3x): smooth breathing on capital (apostrophe shape)
+josh	theoldtestamenti00unknuoft	465	9	Ἀληθῶς	Ἀληθῶς	Ἀληθῶς	Ἀληθῶς	image (3x): smooth breathing on capital (apostrophe shape)
+josh	theoldtestamenti00unknuoft	465	10	Ἰσραήλ:	Ἰσραήλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing on capital (apostrophe shape)
+josh	theoldtestamenti00unknuoft	465	11	"tov	ττΐδον	ἴδον	ἴδον	image (3x): smooth + acute on iota; superscript 21 is not text
+josh	theoldtestamenti00unknuoft	465	13	ἔλαβον:	ἔλαβον:	ἔλαβον·	ἔλαβον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	14	““καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	14	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	image (3x): smooth breathing on capital (apostrophe shape)
+josh	theoldtestamenti00unknuoft	465	15	παρεμβολήν"	παρεμβολήν"	παρεμβολήν·	παρεμβολήν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	16	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	16	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	16	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	16	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	17	3Kal	“3Ξκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	17	Ἰησοῦν	Ἰησοῦν	Ἰησοῦν	Ἰησοῦν	image (3x): smooth breathing on capital (apostrophe shape)
+josh	theoldtestamenti00unknuoft	465	18	Toys	τοὺς	τοὺς	τοὺς	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	18	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on capital (apostrophe shape)
+josh	theoldtestamenti00unknuoft	465	19	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	image (3x): smooth breathing on capital (apostrophe shape)
+josh	theoldtestamenti00unknuoft	465	19	Ἀχὰρ	Ἀχὰρ	Ἀχὰρ	Ἀχὰρ	image (3x): smooth breathing on capital (apostrophe shape)
+josh	theoldtestamenti00unknuoft	465	19	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): grave; following capital is a name, not a quotation
+josh	theoldtestamenti00unknuoft	465	19	Zapa	Ζάρα	Ζάρα	Ζάρα	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	20	Ἀχώρ,	Ἀχώρ,	Ἀχώρ,	Ἀχώρ,	image (3x): smooth breathing on capital (apostrophe shape)
+josh	theoldtestamenti00unknuoft	465	23	μετ	μετ᾽	μετ᾽	μετ᾽	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	23	αὐτοῦ:	αὐτοῦ᾽	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	23	Ἐ̓μεκαχώρ.	Ἐμεκαχώρ.	Ἐμεκαχώρ.	Ἐμεκαχώρ.	image (3x): smooth breathing on capital (apostrophe shape)
+josh	theoldtestamenti00unknuoft	465	23	““καὶ	“"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	23	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	image (3x): smooth breathing on capital (apostrophe shape)
+josh	theoldtestamenti00unknuoft	465	24	Axap	Ἀχάρ	Ἀχάρ	Ἀχάρ	image (3x): smooth breathing; acute before capitalized quotation
+josh	theoldtestamenti00unknuoft	465	24	Tt	Τί	Τί	Τί	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	24	ἡμας;	ἡμᾶς;	ἡμᾶς;	ἡμᾶς;	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+josh	theoldtestamenti00unknuoft	465	24	Κύυριος,	Κύριος,	Κύριος,	Κύριος,	class R6 (OCR letters differ): the other OCR reading agrees with c
+josh	theoldtestamenti00unknuoft	465	25	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on capital (apostrophe shape)
+josh	theoldtestamenti00unknuoft	465	25	““καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	26	μέγαν:	μέγαν:	μέγαν·	μέγαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	465	24	-	-	καθὰ	καθὰ	image (3x): small speck under the second α, not a letter or point

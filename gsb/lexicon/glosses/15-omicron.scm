@@ -69,7 +69,7 @@
 
 (lemma "ὁλοκάρπωσις" (sense whole-offering (with-preposition "εἰς" for) (gloss "whole offering" "whole offerings") (why "(LXX, supplied.) An offering given whole, the Septuagint's word in Genesis 8:20 (and elsewhere) for the burnt offering: ὅλος \"whole\" with καρπόω \"offer as fruit, burn\". \"Whole offering\" keeps it apart from ὁλοκαύτωμα \"whole burnt offering\".")))
 
-(lemma "ὁλοκαύτωμα"(sense whole-burnt-offering (gloss "whole burnt offering" "whole burnt offerings") (why "A whole burnt offering (Hebrews 10:6).")))
+(lemma "ὁλοκαύτωμα" (sense whole-burnt-offering (gloss "whole burnt offering" "whole burnt offerings") (why "A whole burnt offering (Hebrews 10:6).")))
 
 (lemma "ὅλος" (sense whole (gloss "whole") (why "Whole, entire, all of (Genesis 25:25, Esau came out ὅλος ὡσεὶ δορὰ δασύς, \"whole as if [a] hairy pelt\"; Matthew 4:23; John 4:53). \"Whole\" keeps it apart from πᾶς \"all\".")))
 
@@ -113,7 +113,7 @@
 
 (lemma "ὀπτάω" (sense bake (gloss "bake" "baked" "bakes" "baking") (why "(LXX, supplied.) To roast, bake (Genesis 11:3, \"let us bake them with fire\", of bricks).")))
 
-(lemma "ὅπως"(sense in-order-that (gloss "in order that") (why "Purpose: \"in order that\", kept apart from ἵνα \"so that\".")))
+(lemma "ὅπως" (sense in-order-that (gloss "in order that") (why "Purpose: \"in order that\", kept apart from ἵνα \"so that\".")))
 
 (lemma "ὅραμα" (sense vision (gloss "vision" "visions") (why "A thing seen, a vision (Genesis 15:1 ἐν ὁράματι; Acts 9:10; 10:3). \"Vision\" against ὅρασις, the act of seeing.")))
 
@@ -145,7 +145,7 @@
 
 (lemma "ὀργή" (sense wrath (gloss "wrath") (why "Anger, wrath (Genesis 27:45 τὸν θυμὸν καὶ τὴν ὀργὴν τοῦ ἀδελφοῦ σου; Romans 1:18; 2:8 ὀργὴ καὶ θυμός). \"Wrath\" keeps it apart from θυμός \"fury\" and θυμόω \"anger\". (LXX form supplied.)")))
 
-(lemma "ὀρθῶς"(sense rightly (gloss "rightly") (why "Rightly, correctly (Luke 7:43).")))
+(lemma "ὀρθῶς" (sense rightly (gloss "rightly") (why "Rightly, correctly (Luke 7:43).")))
 
 (lemma "ὁρκίζω" (sense swear-in(gloss "swear in" "swore in" "sworn in" "swears in" "swearing in") (why "To make someone swear, put under oath (Genesis 24:37, ὥρκισέν με ὁ κύριός μου; Mark 5:7; 1 Thessalonians 5:27, where it is \"adjure\"). \"Swear in\" keeps it apart from ἐξορκίζω \"adjure\" and ὀμνύω \"swear\"; the object stands before the particle (\"swore me in\").")))
 
@@ -215,7 +215,7 @@
 
 (lemma "οὐδείς" (sense no-one (person) (gloss "no one") (why "No one, nobody (Genesis 19:31 οὐδείς ἐστιν ἐπὶ τῆς γῆς; 20:9 ἔργον ὃ οὐδεὶς ποιήσει; John 1:18). The neuter οὐδέν, \"nothing\", will be its own sense.")))
 
-(lemma "Οὖλ"(sense name (gloss "Hul") (why "(LXX, supplied.) A son of Aram (Genesis 10:23), Greek Οὖλ; traditional English Hul.")))
+(lemma "Οὖλ" (sense name (gloss "Hul") (why "(LXX, supplied.) A son of Aram (Genesis 10:23), Greek Οὖλ; traditional English Hul.")))
 
 (lemma "Οὐλαμμαύς" (sense name (gloss "Ulammaus") (why "(LXX, supplied.) Genesis 28:19, the former name of the city at Bethel. The Hebrew reads \"Luz\" (ulam Luz, \"but Luz\"); the Greek took the words as one name, Οὐλαμμαύς. The Greek gives a different name, so the English follows the Greek, as Θόβελ is \"Tubal\". For the owner: \"Luz\" if the traditional name is preferred.")))
 
@@ -230,7 +230,7 @@
 
 (lemma "οὖς" (sense ear (gloss "ear" "ears") (why "The ear (Genesis 20:8 εἰς τὰ ὦτα αὐτῶν; Matthew 11:15; Luke 1:44).")))
 
-(lemma "οὔτε"(sense nor (gloss "nor") (why "Neither, nor; shares \"nor\" with οὐδέ.")))
+(lemma "οὔτε" (sense nor (gloss "nor") (why "Neither, nor; shares \"nor\" with οὐδέ.")))
 
 (lemma "οὗτος"
   (sense this

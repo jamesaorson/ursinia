@@ -8,7 +8,7 @@
 
 (lemma "Ἰάραδ" (sense name (gloss "Jerah") (why "(LXX, supplied.) A son of Joktan (Genesis 10:26), Greek Ἰάραδ; traditional English Jerah. Not Ἰάρεδ \"Jared\" of Genesis 5.")))
 
-(lemma "Ἰάρεδ"(sense name (gloss "Jared") (why "(LXX spelling supplied.) Genesis 5:15-20, traditional English Jared; Luke 3:37 spells Ἰάρετ.")))
+(lemma "Ἰάρεδ" (sense name (gloss "Jared") (why "(LXX spelling supplied.) Genesis 5:15-20, traditional English Jared; Luke 3:37 spells Ἰάρετ.")))
 
 (lemma "Ἰάφεθ" (sense name (gloss "Japheth") (why "(LXX, supplied.) Noah's son (Genesis 5:32; 6:10), traditional English Japheth.")))
 

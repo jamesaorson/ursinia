@@ -1,0 +1,27 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+judg	theoldtestamenti00unknuoft	520	1	σκηνώσει. +τὸ	σκηνώσει. +τὸ	σκηνώσει.	σκηνώσει.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	520	4	ἦλθον	ϑῆλθον	ἦλθον	ἦλθον	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	520	4	παρετάξαντο᾽	παρετάξαντο"	παρετάξαντο·	παρετάξαντο·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	520	6	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	520	6	∅	Θαναὰχ	Θαναὰχ	Θαναὰχ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	520	6	∅	ἐπὶ	ἐπὶ	ἐπὶ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	520	6	∅	ὕδατι	ὕδατι	ὕδατι	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	520	6	∅	Μεγεδδώ-	Μεγεδδώ·	Μεγεδδώ·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	520	9	Σεισαρά. +3:	Σεισαρά.	Σεισαρά.	Σεισαρά.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	520	10	ὼν	Κεισὼν	Κεισὼν	Κεισὼν	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	520	10	αὐτούς,	αὐτούς, +:	αὐτούς,	αὐτούς,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	520	11	Κεισών᾽	Κεισών᾽	Κεισών·	Κεισών·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	520	12	ψυχή	ψυχή	ψυχή	ψυχή	image (3x): acute on ψυχή before enclitic μου as printed
+judg	theoldtestamenti00unknuoft	520	13	Ξεγύότε	Ξεγότε	τότε	τότε	image (8x): superscript verse number fused; ὕδωρ has rough + acute (open curl then rising stroke), unlike the smooth + acute on ᾔτησεν
+judg	theoldtestamenti00unknuoft	520	15	*3Karapagbe	ϑΚαταρᾶσθε	Καταρᾶσθε	Καταρᾶσθε	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	520	15	Μηρώζ,	Μηρώς,	Μηρώζ,	Μηρώζ,	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	520	15	καταρᾶσθε:	καταρᾶσθε:	καταρᾶσθε·	καταρᾶσθε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	520	16	αὐτήν"	αὐτήν"	αὐτήν·	αὐτήν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	520	19	“εὐλογηθείη	“εὐλογηθείη	εὐλογηθείη	εὐλογηθείη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	520	19	γυναιξὶν	γυναιξὶν	γυναιξὶν	γυναιξὶν	image (3x): grave before capitalized name (not a quotation)
+judg	theoldtestamenti00unknuoft	520	19	“land,	Ἰαήλ,	Ἰαήλ,	Ἰαήλ,	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	520	20	γυνὴ	γυνὴ	γυνὴ	γυνὴ	image (3x): grave before capitalized name (not a quotation)
+judg	theoldtestamenti00unknuoft	520	20	Κειναίου:"	Κειναίου"	Κειναίου·	Κειναίου·	image (3x): ano teleia
+judg	theoldtestamenti00unknuoft	520	21	γυναικῶν	γυναικών	γυναικῶν	γυναικῶν	image (3x): circumflex on ῶ
+judg	theoldtestamenti00unknuoft	520	22	ϑύδωρ	ϑύδωρ	ὕδωρ	ὕδωρ	image (8x): superscript verse number fused; ὕδωρ has rough + acute (open curl then rising stroke), unlike the smooth + acute on ᾔτησεν
+judg	theoldtestamenti00unknuoft	520	22	ἤτησεν,	ἤτησεν,	ᾔτησεν,	ᾔτησεν,	image (8x): iota subscript under η, smooth + acute

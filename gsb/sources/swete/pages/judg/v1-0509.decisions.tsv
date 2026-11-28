@@ -1,0 +1,72 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+judg	theoldtestamenti00unknuoft	509	1	Sehéx,	Σεφέκ,	Σεφέκ,	Σεφέκ,	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	1	αὐτούς"	αὐτούς"	αὐτούς·	αὐτούς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	1	καὶ +B	καὶ +Β	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	2	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	2	THs	τῆς	τῆς	τῆς	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	2	Ἀνάθεμα.	Ἀνάθεμα.	Ἀνάθεμα.	Ἀνάθεμα.	image (3x): smooth breathing (apostrophe); trailing OCR junk is a margin mark/speck
+judg	theoldtestamenti00unknuoft	509	2	“Kal	"“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	3	Ἰούδας	Ἰούδας	Ἰούδας	Ἰούδας	image (3x): smooth breathing (apostrophe); trailing OCR junk is a margin mark/speck
+judg	theoldtestamenti00unknuoft	509	3	Τάζαν	Τάζαν	Γάζαν	Γάζαν	image (3x): Γ, not Τ
+judg	theoldtestamenti00unknuoft	509	3	Ἀσκάλωνα	Ἀσκάλωνα	Ἀσκάλωνα	Ἀσκάλωνα	image (3x): smooth breathing (apostrophe); trailing OCR junk is a margin mark/speck
+judg	theoldtestamenti00unknuoft	509	4	Ἀκκαρὼν	Ἀκκαρὼν	Ἀκκαρὼν	Ἀκκαρὼν	image (3x): smooth breathing (apostrophe); trailing OCR junk is a margin mark/speck
+judg	theoldtestamenti00unknuoft	509	4	Ἀζωτον	Ἀζωτον	Ἄζωτον	Ἄζωτον	image (3x): apostrophe then rising stroke = smooth + acute
+judg	theoldtestamenti00unknuoft	509	5	Kat	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	5	Ἰούδα"	Ἰούδα"	Ἰούδα·	Ἰούδα·	image (3x): smooth breathing (apostrophe); trailing OCR junk is a margin mark/speck
+judg	theoldtestamenti00unknuoft	509	6	ὅρος,	ὄρος,	ὄρος,	ὄρος,	image (3x): apostrophe then rising stroke = smooth + acute
+judg	theoldtestamenti00unknuoft	509	6	ἡδυνάσθησαν	ἡδυνάσθησαν	ἠδυνάσθησαν	ἠδυνάσθησαν	image (3x): smooth breathing on η
+judg	theoldtestamenti00unknuoft	509	7	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	7	Ῥηχὰβ	Ῥηχὰβ	Ῥηχὰβ	Ῥηχὰβ	image (3x): rough breathing (reversed comma)
+judg	theoldtestamenti00unknuoft	509	7	αὐτοῖς. +““	αὐτοῖς. +““	αὐτοῖς.	αὐτοῖς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	8	ὴν	τὴν	τὴν	τὴν	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	509	8	Μωσῆς:	Μωσῆς:	Μωσῆς·	Μωσῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	9	Ἔνάκ. +*	Ε] +Ἔνάκ. 5“	Ἐνάκ.	Ἐνάκ.	image (3x): smooth breathing (apostrophe); trailing OCR junk is a margin mark/speck
+judg	theoldtestamenti00unknuoft	509	9	τὸν.	τὸν. +᾽	τὸν	τὸν	image (4x): small light dot after τὸν, like the broken-type dot inside Ἰεβουσαῖον; read speck, not punctuation
+judg	theoldtestamenti00unknuoft	509	9	Ἰεβουσαῖον	Ἰεβουσαῖον	Ἰεβουσαῖον	Ἰεβουσαῖον	image (3x): smooth breathing (apostrophe); trailing OCR junk is a margin mark/speck
+judg	theoldtestamenti00unknuoft	509	10	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing (apostrophe); trailing OCR junk is a margin mark/speck
+judg	theoldtestamenti00unknuoft	509	10	ἐκληρονόμησαν	ἐκὰλ +᾿	ἐκληρονόμησαν	ἐκληρονόμησαν	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	509	10	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave; next word is not a quotation
+judg	theoldtestamenti00unknuoft	509	10	Βενιαμείν:	Βενιαμείν:	Βενιαμείν·	Βενιαμείν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	10	ὁ	ὃ	ὁ	ὁ	image (3x): rough breathing only, no accent
+judg	theoldtestamenti00unknuoft	509	11	Ιεβουσαῖος	Ιεβουσαῖος	Ἰεβουσαῖος	Ἰεβουσαῖος	image (3x): smooth breathing (apostrophe); trailing OCR junk is a margin mark/speck
+judg	theoldtestamenti00unknuoft	509	11	Beviapeiv	Βενιαμεὶν	Βενιαμεὶν	Βενιαμεὶν	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	11	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	11	Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing (apostrophe); trailing OCR junk is a margin mark/speck
+judg	theoldtestamenti00unknuoft	509	12	Ξε +Kal	Ξε +καὶ	Καὶ	Καὶ	image (3x): verse superscript then Καὶ/καὶ as printed
+judg	theoldtestamenti00unknuoft	509	12	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave; next word is not a quotation
+judg	theoldtestamenti00unknuoft	509	12	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	image (3x): smooth breathing (apostrophe); trailing OCR junk is a margin mark/speck
+judg	theoldtestamenti00unknuoft	509	12	καί	καί	καί	καί	image (3x): acute before enclitic γε
+judg	theoldtestamenti00unknuoft	509	12	ye	γε	γε	γε	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	12	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	13	ἢν	ἢν	ἦν	ἦν	image (3x): circumflex
+judg	theoldtestamenti00unknuoft	509	13	per	μετ᾽	μετ᾽	μετ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	13	“᾿καὶ	“᾿καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	14	Βαιθήλ:	Βαιθήλ:	Βαιθήλ·	Βαιθήλ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	14	Kal	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	15	πόλεως"	πόλεως"	πόλεως·	πόλεως·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	16	εἴσοδον,	εἰσοδον,	εἴσοδον,	εἴσοδον,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	509	17	ἔλεις.	ἔλεις.	ἔλεος.	ἔλεος.	image (3x): broken ο prints like ι + c; read ἔλεος
+judg	theoldtestamenti00unknuoft	509	17	“καὶ	25 +“"καὶ	καὶ	καὶ	image (3x): verse superscript then Καὶ/καὶ as printed
+judg	theoldtestamenti00unknuoft	509	18	πόλεως"	πόλεως"	πόλεως·	πόλεως·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	18	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	18	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	18	Tov	τὸν	τὸν	τὸν	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	19	καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	20	γὴν	γὴν	γῆν	γῆν	image (3x): circumflex
+judg	theoldtestamenti00unknuoft	509	20	Xerreiv,	Χεττείν,	Χεττείν,	Χεττείν,	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	20	kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	20	φκοδόμησεν	ὠκοδόμησεν	ᾠκοδόμησεν	ᾠκοδόμησεν	image (3x): ᾠ = ω with smooth breathing and iota subscript; acute on ο
+judg	theoldtestamenti00unknuoft	509	20	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	21	Λοῦζα.	Λοῦξα.	Λοῦζα.	Λοῦζα.	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	509	21	"7 +Kat	Καὶ	Καὶ	Καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	509	22	ἥ	ἥ	ἥ	ἥ	image (3x): curl + rising stroke = rough + acute
+judg	theoldtestamenti00unknuoft	509	22	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	24	Awp	Δὼρ	Δὼρ	Δὼρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	25	αὐτῆς,	αὐτῆς;	αὐτῆς,	αὐτῆς,	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	509	26	θυγατέρας	θ +υγατέρας	θυγατέρας	θυγατέρας	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	509	27	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	509	27	Ἰεβλαὰμ.	Ἰεβλαὰμ.	Ἰεβλαὰμ	Ἰεβλαὰμ	image (3x): smooth breathing (apostrophe); trailing OCR junk is a margin mark/speck
+judg	theoldtestamenti00unknuoft	509	16	Δεῖξον	Δεῖξον	Δείξον	Δείξον	image (3x): acute on ι, not circumflex; apparent misprint for Δεῖξον, kept as printed
+judg	theoldtestamenti00unknuoft	509	9	-	-	τὸν	τὸν	ambiguous: a small light dot after τὸν at mid height; read as a speck (no punctuation)
+judg	theoldtestamenti00unknuoft	509	17	-	-	ἔλεος.	ἔλεος.	ambiguous: broken type, the ο prints as an open c-like mark; read ἔλεος
+judg	theoldtestamenti00unknuoft	509	9	-	-	Ἰεβουσαῖον	Ἰεβουσαῖον	ambiguous: broken υ with a dot inside it; read Ἰεβουσαῖον

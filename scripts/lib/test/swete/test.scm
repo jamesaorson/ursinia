@@ -147,6 +147,12 @@
        '((40 1 fail)))                                   ; an unmarked skip still fails
 (check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{49}α. {50!}β.\n")) #f #f)
        '((40 1 fail)))                                   ; {n!} where nothing is skipped
+;; A chapter that opens on a later number as printed (1 Kgdms 18 opens at 6).
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C17}{1}α. {C18}{6!}β. {7}γ.\n")) #f #f) '())
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C17}{1}α. {C18}{6}β.\n")) #f #f)
+       '((40 1 fail)))                                   ; unmarked, still fails
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C17}{1}α. {C18}{1!}β.\n")) #f #f)
+       '((40 1 fail)))                                   ; {1!} opening a chapter
 ;; Swete's own numbers printed out of sequence (Num 6:23-27, 10:33-36): each
 ;; out-of-place number is marked; the table keeps the printed order, no warnings.
 (check (book-problems (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C10}{1}α. {2}β. {3}γ. {5!}δ. {6}ε. {4!}ζ. {C11}{1}η.\n")) #f #f 1)
@@ -163,6 +169,19 @@
        '((40 1 fail)))                                   ; a whole verse and a half of it
 (check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C31}{1}α. {=31:1}β.\n")) #f #f)
        '())                                              ; the same reference running on is one row
+
+;; Swete's own lettered verses (Josh 21:42a-d; 24: 28, 31, 29, 30, 30a, 32):
+;; verses of their own after his number, not halves of it.
+(define pj (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C24}{1}α. {4!}β. {2!}γ. {3}δ. {3a}ε. {5!}ζ. {6}η. {6a}θ. {6b}ι.\n"))
+(check (book-problems (list pj) #f #f 1) '())             ; no failures and no warnings
+(call-with-values (lambda () (book-verses (list pj)))
+  (lambda (rows problems) (check (map second rows) '(1 4 2 3 "3a" 5 6 "6a" "6b"))))
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C21}{1}α. {2}β. {2a}γ. {2b}δ. {3}ε.\n")) #f #f)
+       '())                                              ; 3 runs on from 2
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C21}{1}α. {2a}β.\n")) #f #f)
+       '((40 1 fail)))                                   ; 2a without 2 before it
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C21}{1}α. {2}β. {2a}γ. {2a}δ.\n")) #f #f)
+       '((40 1 fail)))                                   ; the same letter twice
 
 ;; Combined common numbers (Exod 37:4-5, 36:34,36): one row, each verse claimed.
 (call-with-values (lambda () (book-verses (list (page 40 "{C38}{1}{=37:4-5}α. {2}{=36:34,36}β. {3}{=37:6}γ."))))

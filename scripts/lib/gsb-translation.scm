@@ -23,6 +23,7 @@
             read-gloss-forms
             parse-glosses
             check-glosses
+            check-gloss-files
             translation-dir
             chapter-files
             chapter-file-number
@@ -127,17 +128,26 @@ initial letter), or the older single gsb/lexicon/glosses.scm."
   "Every (lemma ...) form of the concordance, file by file."
   (append-map read-forms (gloss-files)))
 
-(define (check-glosses forms)
-  "Problems with the concordance forms, as strings (empty when it is valid)."
+(define (check-gloss-files files)
+  "check-glosses over FILES, a list of (path . forms), naming the files of a
+lemma listed twice."
+  (check-glosses (append-map cdr files)
+                 (append-map (match-lambda ((path . forms) (map (const path) forms))) files)))
+
+(define* (check-glosses forms #:optional paths)
+  "Problems with the concordance forms, as strings (empty when it is valid).
+PATHS, when given, is each form's file, for naming a duplicate's files."
   (let ((seen (make-hash-table)))
     (append-map
-     (lambda (form)
+     (lambda (form path)
        (match form
          (('lemma (? string? lemma) senses ...)
-          (let ((dup (hash-ref seen lemma)))
-            (hash-set! seen lemma #t)
+          (let* ((key (string-normalize-nfc lemma)) (dup (hash-ref seen key)))
+            (unless dup (hash-set! seen key (or path #t)))
             (append
-             (if dup (list (format #f "lemma ~a is listed twice; merge its senses into one (lemma ...) entry" lemma)) '())
+             (cond ((not dup) '())
+                   (path (list (format #f "lemma ~a is listed twice: ~a and ~a; merge its senses into the first entry" lemma dup path)))
+                   (else (list (format #f "lemma ~a is listed twice; merge its senses into the first entry" lemma))))
              (if (null? senses) (list (format #f "lemma ~a has no senses; add (sense <name> (gloss \"...\") (why \"...\"))" lemma)) '())
              (let ((names (filter-map (lambda (s) (and (pair? s) (pair? (cdr s)) (cadr s))) senses)))
                (if (= (length names) (length (delete-duplicates names)))
@@ -162,7 +172,7 @@ initial letter), or the older single gsb/lexicon/glosses.scm."
                   (_ (list (format #f "lemma ~a: expected (sense <name> (gloss ...) (why ...)), got ~s" lemma s)))))
               senses))))
          (_ (list (format #f "expected (lemma \"<greek>\" (sense ...) ...), got ~s" form)))))
-     forms)))
+     forms (or paths (map (const #f) forms)))))
 
 (define (parse-glosses forms)
   "Hash of lemma -> list of (name glosses why) from already-checked FORMS."

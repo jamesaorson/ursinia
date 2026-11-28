@@ -1,0 +1,67 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+judg	theoldtestamenti00unknuoft	558	1	Metyaia,	Μειχαία,	Μειχαία,	Μειχαία,	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	1	ἑστώς:	ἑστώς:	ἑστώς·	ἑστώς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	3	ἱερεὺς	ἱερεύς	ἱερεύς	ἱερεύς	image (3x): acute before capitalized quotation
+judg	theoldtestamenti00unknuoft	558	3	"καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	4	χεῖρά	χεῖρά	χεῖρά	χεῖρά	image (3x): acute before enclitic
+judg	theoldtestamenti00unknuoft	558	5	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	5	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	5	ἱερέα:	ἱερέα:	ἱερέα·	ἱερέα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	5	εἶναί	εἶναί	εἶναί	εἶναί	image (3x): acute before enclitic
+judg	theoldtestamenti00unknuoft	558	6	δῆμον	δῆμον +3	δῆμον	δῆμον	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	6	Ἰσραήλ;	Ἰσραήλ; +Ξο	Ἰσραήλ;	Ἰσραήλ;	image (3x): smooth breathing (apostrophe shape)
+judg	theoldtestamenti00unknuoft	558	7	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	8	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	8	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	9	“᾿καὶ	“᾿καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	10	““αὐτοὶ	““αὐτοὶ	αὐτοὶ	αὐτοὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	11	ἰδοὺ	ἰδοὺ	ἰδοὺ	ἰδοὺ	image (3x): grave on oxytone before a name, not a quotation
+judg	theoldtestamenti00unknuoft	558	11	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	12	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave on oxytone before a name, not a quotation
+judg	theoldtestamenti00unknuoft	558	13	skal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	13	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave on oxytone before a name, not a quotation
+judg	theoldtestamenti00unknuoft	558	13	τῷ	τῷ +23	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	14	23	Μειχαίᾳ	Μειχαίᾳ	Μειχαίᾳ	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	558	14	∅	Τί	Τί	Τί	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	14	∅	ἐστίν	ἐστίν	ἐστίν	image (3x): acute before enclitic
+judg	theoldtestamenti00unknuoft	558	14	∅	σοι	σοι	σοι	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	14	∅	ὅτι	ὅτι	ὅτι	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	14	∅	ἐβόησας;	ἐβόησας;	ἐβόησας;	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	14	∅	“καὶ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	14	∅	εἶπεν	εἶπεν	εἶπεν	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	14	∅	Μειχαίας	Μειχαίας	Μειχαίας	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	14	∅	Ὅτι	Ὅτι	Ὅτι	image (3x): rough + acute, open curl then separate rising stroke
+judg	theoldtestamenti00unknuoft	558	14	∅	τὸ +24	τὸ	τὸ	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	15	γλυπτόν	γλυπτόν	γλυπτόν	γλυπτόν	image (3x): acute before enclitic
+judg	theoldtestamenti00unknuoft	558	15	ἐπορεύθητε:	ἐπορεύθητε:	ἐπορεύθητε·	ἐπορεύθητε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	16	μέ	μέ	μέ	μέ	image (3x): acute before capitalized quotation
+judg	theoldtestamenti00unknuoft	558	16	κράζεις; +“"	κράζεις; +“"	κράζεις;	κράζεις;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	16	καὶ +25	καὶ +25	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	17	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave on oxytone before a name, not a quotation
+judg	theoldtestamenti00unknuoft	558	17	Δάν	Δάν	Δὰν	Δάν	image (3x): acute on Δάν before capitalized quotation Μὴ
+judg	theoldtestamenti00unknuoft	558	17	φωνή	φωνή	φωνή	φωνή	image (3x): acute before enclitic
+judg	theoldtestamenti00unknuoft	558	18	μὴ	μή	μή	μή	image (3x): acute before enclitic
+judg	theoldtestamenti00unknuoft	558	18	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	18	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	18	mpoo-	προσ-	προσ-	προσ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	19	noovow	ἥσουσιν	θήσουσιν	θήσουσιν	image (3x): θήσουσιν, second half of hyphenated προσ-θήσουσιν
+judg	theoldtestamenti00unknuoft	558	19	Ψυχὴν	ψυχὴν	ψυχὴν	ψυχὴν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	558	19	σου.	σου. +36	σου.	σου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	19	““καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	19	ἐπορεύθησαν +26	ἐπορεύθησαν +6	ἐπορεύθησαν	ἐπορεύθησαν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	20	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave on oxytone before a name, not a quotation
+judg	theoldtestamenti00unknuoft	558	20	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	20	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	20	δυνατώτεροί	δυνατώτεροί	δυνατώτεροί	δυνατώτεροί	image (3x): acute before enclitic
+judg	theoldtestamenti00unknuoft	558	21	υἱοὶ +27	υἱοὶ +27	υἱοὶ	υἱοὶ	image (3x): grave on oxytone before a name, not a quotation
+judg	theoldtestamenti00unknuoft	558	22	edaBov	ἔλαβον	ἔλαβον	ἔλαβον	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	22	ὃς	ὃς +μὰ	ὃς	ὃς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	22	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	23	ἐλπίδι:	ἐλπίδι:	ἐλπίδι·	ἐλπίδι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	24	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	558	25	καὶ	και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	558	25	ἦν	ἣν	ἦν	ἦν	image (3x): smooth + circumflex, ἦν
+judg	theoldtestamenti00unknuoft	558	25	ῥυόμενος,	ρύομεένος,	ῥυόμενος,	ῥυόμενος,	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	558	25	ὅτι	οτι	ὅτι	ὅτι	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	558	25	μακράν	μακραᾶαν	μακράν	μακράν	image (3x): acute before enclitic
+judg	theoldtestamenti00unknuoft	558	25	ἀπὸ	απὸ	ἀπὸ	ἀπὸ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c

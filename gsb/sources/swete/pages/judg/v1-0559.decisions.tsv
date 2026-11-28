@@ -1,0 +1,63 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+judg	theoldtestamenti00unknuoft	559	2	Ῥαάβ.	Ῥαάβ.	Ῥαάβ.	Ῥαάβ.	image (3x): rough breathing (reversed comma) on Ρ
+judg	theoldtestamenti00unknuoft	559	2	ῳκοδόμησαν	ῳκοδόμησαν	ᾠκοδόμησαν	ᾠκοδόμησαν	image (3x): smooth breathing + circumflex, iota subscript on ω
+judg	theoldtestamenti00unknuoft	559	3	“"καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	559	3	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	559	3	Δαν	Δαν	Δὰν	Δὰν	image (3x): grave on Δὰν at line end
+judg	theoldtestamenti00unknuoft	559	4	ὃς	ὺς	πατρὸς	πατρὸς	image (3x): word as printed, accents clear; OCR garbled
+judg	theoldtestamenti00unknuoft	559	4	Ἰσραήλ:	Ἰ̓Ισραήλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing (apostrophe shape)
+judg	theoldtestamenti00unknuoft	559	4	Οὐλαμάις	Οὐλαμάις	Οὐλαμάις	Οὐλαμάις	image (3x): smooth breathing (apostrophe shape)
+judg	theoldtestamenti00unknuoft	559	4	τῆ	τῆ	τῆς	τῆς	image (3x): word as printed, accents clear; OCR garbled
+judg	theoldtestamenti00unknuoft	559	5	πρότερον. +3“	πρότερον. +30	πρότερον.	πρότερον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	559	5	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave on oxytone before a name, not a quotation
+judg	theoldtestamenti00unknuoft	559	5	γλυπτόν"	γλυπτόν"	γλυπτόν·	γλυπτόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	559	6	Ἰωναθὰμ	Ἰωναθὰμ	Ἰωναθὰμ	Ἰωναθὰμ	image (3x): smooth breathing (apostrophe shape)
+judg	theoldtestamenti00unknuoft	559	6	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave on oxytone before a name, not a quotation
+judg	theoldtestamenti00unknuoft	559	6	Τηρσὸμ	Τηρσὸμ	Γηρσὸμ	Γηρσὸμ	image (3x): Γ, not Τ
+judg	theoldtestamenti00unknuoft	559	6	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave on oxytone before a name, not a quotation
+judg	theoldtestamenti00unknuoft	559	6	Μανασσῆ,	Μανασσῆ,	Μανασσή,	Μανασσή,	image (3x): acute on final η, not circumflex
+judg	theoldtestamenti00unknuoft	559	7	γῆς. +53᾽	γῆς. +3	γῆς.	γῆς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	559	10	ἐν	ἐν +3	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	559	10	Ἰσραήλ.	Ἰσραήλ. +:	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing (apostrophe shape)
+judg	theoldtestamenti00unknuoft	559	11	"Kal	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	559	11	ἀνὴρ	ἀνὴρ	ἀνὴρ	ἀνὴρ	image (3x): grave on oxytone before a name, not a quotation
+judg	theoldtestamenti00unknuoft	559	11	Ἔ +φράιμ,	Ἔφραιμ,	Ἐφράιμ,	Ἐφράιμ,	image (3x): smooth breathing (apostrophe shape)
+judg	theoldtestamenti00unknuoft	559	12	Ἰούδα.	Ἰούδα.	Ἰούδα.	Ἰούδα.	image (3x): smooth breathing (apostrophe shape)
+judg	theoldtestamenti00unknuoft	559	12	*xat	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	559	13	map	παρ᾽	παρ᾽	παρ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	559	14	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	559	14	Ἰούδα:	3 +Ἰούδα:	Ἰούδα·	Ἰούδα·	image (3x): smooth breathing (apostrophe shape)
+judg	theoldtestamenti00unknuoft	559	15	δ΄	δ΄	δʹ	δʹ	image (3x): numeral δ with keraia (written ʹ)
+judg	theoldtestamenti00unknuoft	559	15	ϑκαὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	559	16	αὐτῷ:	αὐτῷ"	αὐτῷ·	αὐτῷ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	559	18	αὐτῆς"	αὐτῆς"	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	559	18	THs	τῆς	τῆς	τῆς	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	559	19	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	559	20	is	αὐτου	αὐτοῦ	αὐτοῦ	image (3x): word as printed, accents clear; OCR garbled
+judg	theoldtestamenti00unknuoft	559	20	∅	ὁ	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	559	20	∅	Τ᾽	πατὴρ	πατὴρ	image (3x): word as printed, accents clear; OCR garbled
+judg	theoldtestamenti00unknuoft	559	20	∅	αΤΉΡ +Τῆς	τῆς	τῆς	image (3x): word as printed, accents clear; OCR garbled
+judg	theoldtestamenti00unknuoft	559	20	∅	νεάνιδος,	νεάνιδος,	νεάνιδος,	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	559	20	∅	Και	καὶ	καὶ	image (3x): word as printed, accents clear; OCR garbled
+judg	theoldtestamenti00unknuoft	559	20	∅	ἐκάθισεν	ἐκάθισεν	ἐκάθισεν	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	559	20	∅	μετ	μετ᾽	μετ᾽	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	559	20	∅	αὔυτου	αὐτοῦ	αὐτοῦ	image (3x): word as printed, accents clear; OCR garbled
+judg	theoldtestamenti00unknuoft	559	20	∅	επι	ἐπὶ	ἐπὶ	image (3x): word as printed, accents clear; OCR garbled
+judg	theoldtestamenti00unknuoft	559	20	∅	τρε +ἰς	τρεῖς	τρεῖς	image (3x): word as printed, accents clear; OCR garbled
+judg	theoldtestamenti00unknuoft	559	21	Καὶ	Και	καὶ	καὶ	image (3x): word as printed, accents clear; OCR garbled
+judg	theoldtestamenti00unknuoft	559	21	και	Και	καὶ	καὶ	image (3x): word as printed, accents clear; OCR garbled
+judg	theoldtestamenti00unknuoft	559	21	ἐπιον,	ἐπίιον,	ἔπιον,	ἔπιον,	image (3x): smooth + acute on ε
+judg	theoldtestamenti00unknuoft	559	21	καὶ	και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	559	21	ηὐλισθησαν	ηἠυλισσῆσαν	ηὐλίσθησαν	ηὐλίσθησαν	image (3x): smooth breathing on υ, acute on ι
+judg	theoldtestamenti00unknuoft	559	21	εκει.	εκει.	ἐκεῖ.	ἐκεῖ.	image (3x): word as printed, accents clear; OCR garbled
+judg	theoldtestamenti00unknuoft	559	21	καὶ	5 +Και	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	559	21	Τῇ	ΤΊ	τῇ	τῇ	image (3x): word as printed, accents clear; OCR garbled
+judg	theoldtestamenti00unknuoft	559	21	ἡμέρᾳ	ἡμερᾳ	ἡμέρᾳ	ἡμέρᾳ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	559	22	ὥρθρισαν	ὥρθρισαν	ὤρθρισαν	ὤρθρισαν	image (8x): smooth + acute, apostrophe then rising stroke, same shape as ὄνων on this page
+judg	theoldtestamenti00unknuoft	559	22	Tov	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	559	22	πορευθῆναι:	πορευθῆναι:	πορευθῆναι·	πορευθῆναι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	559	23	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	559	23	Στήρισόν	Στήρισόν	Στήρισόν	Στήρισόν	image (3x): acute before enclitic
+judg	theoldtestamenti00unknuoft	559	24	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	559	17	-	-	ἥδε	ἥδε	image (8x): breathing + acute over η is an open curl then a rising stroke (rough + acute), unlike ὄνων on the same line; read ἥδε; a speck sits before η
+judg	theoldtestamenti00unknuoft	559	9	-	-	καὶ	καὶ	Swete prints a parenthesized superscript (1) in the text before this καὶ ἐγένετο (no margin parenthesis): common 19:1 begins here inside Swete 18:31, encoded {=19:1}; Swete 19:1 then runs on as the same common verse

@@ -1,0 +1,47 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+judg	theoldtestamenti00unknuoft	547	1	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	1	ἥλατο +B	ἥλατο +Β	ἥλατο	ἥλατο	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	3	ἔριφον:	ἔριφον:	ἔριφον·	ἔριφον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	4	τῷ	∅	τῷ	τῷ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	4	ἸΤκαὶ	Τκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	5	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	5	Σαμψών. +ὃ	Σαμψών. +ὃ	Σαμψών.	Σαμψών.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	6	μεθ᾽	μεθ᾽ +ν᾽	μεθ᾽	μεθ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	6	αὐτὴν:	αὐτὴν:	αὐτήν·	αὐτήν·	image (3x): acute on final syllable, ano teleia raised
+judg	theoldtestamenti00unknuoft	547	7	Tov	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	7	TH	τῷ	τῷ	τῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	8	9ϑκαὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	9	ἐσθίων:	ἐσθίων:	ἐσθίων·	ἐσθίων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	11	OTL	ὅτι	ὅτι	ὅτι	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	11	TOU	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	11	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	11	μέλι.	μέλι. +1το	μέλι.	μέλι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	12	γυναῖκα:	γυναῖκα:	γυναῖκα·	γυναῖκα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	13	ζ΄	ζ΄	ζʹ	ζʹ	image (3x): letter numeral zeta with keraia
+judg	theoldtestamenti00unknuoft	547	13	“Kal	"᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	14	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	15	Kal	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	15	Σαμψών	Σαμψών	Σαμψὼν	Σαμψών	image (3x): acute on ω before capitalized quotation
+judg	theoldtestamenti00unknuoft	547	15	προβάλλομαι:	προβάλλομαι:	προβάλλομαι·	προβάλλομαι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	17	ἱματίων"	ἱματίων"	ἱματίων·	ἱματίων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	18	∅	13 +Ξκαὶ	καὶ	καὶ	image (3x): superscript 13 then καὶ
+judg	theoldtestamenti00unknuoft	547	18	ἀπαγγεῖλαί	ἀπαγγεῖλαί	ἀπαγγεῖλαί	ἀπαγγεῖλαί	image (3x): acute before enclitic as printed
+judg	theoldtestamenti00unknuoft	547	20	αὐτό. +“!	αὐτό. +“"	αὐτό.	αὐτό.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	23	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	23	ηδύναντο	ηδύναντο	ἠδύναντο	ἠδύναντο	image (3x): smooth breathing on η
+judg	theoldtestamenti00unknuoft	547	23	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	23	ἡμέρας. +"5	ἡμέρας. +"5	ἡμέρας.	ἡμέρας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	24	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	24	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	24	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	24	γυναικὶ	γυναικὶ	γυναικὶ	γυναικὶ	image (3x): grave on γυναικὶ (not before quotation; Σαμψών is the next word)
+judg	theoldtestamenti00unknuoft	547	24	Σαμψών	Σαμψών.	Σαμψών	Σαμψών	image (3x): acute on ω before capitalized quotation
+judg	theoldtestamenti00unknuoft	547	25	Ἀπάτησον	Ἀπάτησον	Ἀπάτησον	Ἀπάτησον	image (3x): smooth breathing (apostrophe shape)
+judg	theoldtestamenti00unknuoft	547	26	μὴ	μὴ	μή	μή	image (3x): acute before enclitic as printed
+judg	theoldtestamenti00unknuoft	547	26	κατακαύσωμέν	κατακαύσωμέν	κατακαύσωμέν	κατακαύσωμέν	image (3x): acute before enclitic as printed
+judg	theoldtestamenti00unknuoft	547	26	TOY	τὸν	τὸν	τὸν	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	26	TOU	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	26	πατρός	πατρός	πατρός	πατρός	image (3x): acute before enclitic as printed
+judg	theoldtestamenti00unknuoft	547	26	πυρί:	πυρί:	πυρί·	πυρί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	547	26	-	-	κατακαύσωμέν	κατακαύσωμέν	ambiguous: small dot under the second α, read as a speck, not an iota subscript
+judg	theoldtestamenti00unknuoft	547	10	-	-	αὐτοῖς	αὐτοῖς	image: small comma-shaped mark before αὐτοῖς, away from ἔδωκεν; read as a speck, not punctuation

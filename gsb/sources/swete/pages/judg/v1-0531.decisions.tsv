@@ -1,0 +1,66 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+judg	theoldtestamenti00unknuoft	531	2	Μαδιάμ,	Μαδιάμ, +᾿	Μαδιάμ,	Μαδιάμ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	3	Kat	“Τκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	3	αὐτὸ	αὐτὸ	αὐτὸ	αὐτὸ	image (3x): grave before capitalized proper name as printed
+judg	theoldtestamenti00unknuoft	531	3	Τεδεὼν	Τεδεὼν	Γεδεὼν	Γεδεὼν	image (3x): Γ, not Τ
+judg	theoldtestamenti00unknuoft	531	4	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	4	Ἐφραθά:	Ἐφραθά:	Ἐφραθά·	Ἐφραθά·	image (3x): smooth breathing on capital (apostrophe shape), accents and points as printed; Ἰερο- smooth, no accent
+judg	theoldtestamenti00unknuoft	531	5	vevoevy	νευσεν	νευσεν	νευσεν	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	5	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital (apostrophe shape), accents and points as printed; Ἰερο- smooth, no accent
+judg	theoldtestamenti00unknuoft	531	5	Kat	᾿καὶ	καὶ	καὶ	image (3x): plain καὶ
+judg	theoldtestamenti00unknuoft	531	6	“Kal	“Ῥκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	7	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on capital (apostrophe shape), accents and points as printed; Ἰερο- smooth, no accent
+judg	theoldtestamenti00unknuoft	531	7	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	7	ἄραι	ἄραι	ἆραι	ἆραι	image (3x): smooth + circumflex: ἆραι
+judg	theoldtestamenti00unknuoft	531	8	ἣ	ἣ	ἡ	ἡ	image (3x): rough breathing only, no accent: ἡ
+judg	theoldtestamenti00unknuoft	531	9	∅	Ἰεαροβάαλ	Ἰεροβάαλ	Ἰεαροβάαλ	image (3x): Ἰεαροβάαλ with α after ε clearly printed; apparent misprint for Ἰεροβάαλ (so spelled at 8:35 and 9:1), kept as printed
+judg	theoldtestamenti00unknuoft	531	9	∅	υἱὸς	υἱὸς	υἱὸς	image (3x): grave before capitalized proper name as printed
+judg	theoldtestamenti00unknuoft	531	9	∅	Ιωὰς	Ἰωὰς	Ἰωὰς	image (3x): smooth breathing on capital (apostrophe shape), accents and points as printed; Ἰερο- smooth, no accent
+judg	theoldtestamenti00unknuoft	531	9	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	9	∅	ἐκάθισεν	ἐκάθισεν	ἐκάθισεν	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	9	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	9	∅	οἴκῳ	οἴκῳ	οἴκῳ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	9	∅	αὐτοῦ. +3.	αὐτοῦ.	αὐτοῦ.	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	9	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	9	∅	τῷ	τῷ	τῷ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	9	∅	Γεδεὼν	Γεδεὼν	Γεδεὼν	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	10	viol	υἱοὶ	υἱοὶ	υἱοὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	10	OTL	ὅτι	ὅτι	ὅτι	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	11	αὐτῷ.	αὐτῷ. +3᾽	αὐτῷ.	αὐτῷ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	11	3*kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	11	Συχέμ:	Συχέμ:	Συχέμ·	Συχέμ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	12	Kal	καί	καί	καί	image (3x): acute before enclitic as printed
+judg	theoldtestamenti00unknuoft	531	12	ye	γε	γε	γε	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	12	Ἀβειμέλεχ.	Αβειμέλεχ.	Ἀβειμέλεχ.	Ἀβειμέλεχ.	image (3x): smooth breathing on capital (apostrophe shape), accents and points as printed; Ἰερο- smooth, no accent
+judg	theoldtestamenti00unknuoft	531	12	“Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	13	Τεδεὼν	Τεδεὼν	Γεδεὼν	Γεδεὼν	image (3x): Γ, not Τ
+judg	theoldtestamenti00unknuoft	531	13	vids	υἱὸς	υἱὸς	υἱὸς	image (3x): grave before capitalized proper name as printed
+judg	theoldtestamenti00unknuoft	531	13	Ἰωὰς	Ἰωὰς	Ἰωὰς	Ἰωὰς	image (3x): smooth breathing on capital (apostrophe shape), accents and points as printed; Ἰερο- smooth, no accent
+judg	theoldtestamenti00unknuoft	531	14	Iwas	Ιωὰς	Ἰωὰς	Ἰωὰς	image (3x): smooth breathing on capital (apostrophe shape), accents and points as printed; Ἰερο- smooth, no accent
+judg	theoldtestamenti00unknuoft	531	14	Ἐφραθὰ	Ἐφραθὰ	Ἐφραθὰ	Ἐφραθὰ	image (3x): smooth breathing on capital (apostrophe shape), accents and points as printed; Ἰερο- smooth, no accent
+judg	theoldtestamenti00unknuoft	531	14	Ἀβιεσδρί. +38	Ἀβιεσδρί. +33	Ἀβιεσδρί.	Ἀβιεσδρί.	image (3x): smooth breathing on capital (apostrophe shape), accents and points as printed; Ἰερο- smooth, no accent
+judg	theoldtestamenti00unknuoft	531	15	Τεδεών,	Τεδεών,	Γεδεών,	Γεδεών,	image (3x): Γ, not Τ
+judg	theoldtestamenti00unknuoft	531	15	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before capitalized proper name as printed
+judg	theoldtestamenti00unknuoft	531	15	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital (apostrophe shape), accents and points as printed; Ἰερο- smooth, no accent
+judg	theoldtestamenti00unknuoft	531	17	θεόν.	θεόν. +3᾽	θεόν.	θεόν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	17	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	17	υἱοὶ	υἱοὶ +3	υἱοὶ	υἱοὶ	image (3x): grave before capitalized proper name as printed
+judg	theoldtestamenti00unknuoft	531	17	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital (apostrophe shape), accents and points as printed; Ἰερο- smooth, no accent
+judg	theoldtestamenti00unknuoft	531	19	κυκλόθεν. +3	κυκλόθεν.	κυκλόθεν.	κυκλόθεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	19	καὶ	35καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	19	Ἴερο-	Ἴερο-	Ἱερο-	Ἰερο-	image (3x): smooth breathing on capital (apostrophe shape), accents and points as printed; Ἰερο- smooth, no accent
+judg	theoldtestamenti00unknuoft	531	20	Baad,	βάαλ,	βάαλ,	βάαλ,	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	20	αὐτός	αὐτός	αὐτός	αὐτός	image (3x): acute before enclitic as printed
+judg	theoldtestamenti00unknuoft	531	20	Τεδεών,	Τεδεών,	Γεδεών,	Γεδεών,	image (3x): Γ, not Τ
+judg	theoldtestamenti00unknuoft	531	21	.	.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on capital (apostrophe shape), accents and points as printed; Ἰερο- smooth, no accent
+judg	theoldtestamenti00unknuoft	531	22	Ἰσραῆλ.	Ἰσραὴλ. +Σ Κ̓αὶ	Καὶ	Καὶ	image (3x): Καὶ after superscript 1, chapter IX, indented paragraph
+judg	theoldtestamenti00unknuoft	531	22	∅	ἐπορεύθη	ἐπορεύθη	ἐπορεύθη	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	22	∅	Ἀβειμέλεχ	Ἀβειμέλεχ	Ἀβειμέλεχ	image (3x): smooth breathing on capital (apostrophe shape), accents and points as printed; Ἰερο- smooth, no accent
+judg	theoldtestamenti00unknuoft	531	22	∅	υἱὸς	υἱὸς	υἱὸς	image (3x): grave before capitalized proper name as printed
+judg	theoldtestamenti00unknuoft	531	22	∅	Ἰεροβάαλ	Ἰεροβάαλ	Ἰεροβάαλ	image (3x): smooth breathing on capital (apostrophe shape), accents and points as printed; Ἰερο- smooth, no accent
+judg	theoldtestamenti00unknuoft	531	22	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	22	∅	Συχὲμ	Συχὲμ	Συχὲμ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	22	∅	πρὸς	πρὸς	πρὸς	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	22	∅	ἀδελ-	ἀδελ-	ἀδελ-	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	531	24	∅	∅	νίαν	νίαν	image (3x): νίαν at line start (continuation of συγγε-)
+judg	theoldtestamenti00unknuoft	531	24	“Λαλήσατε	“Λαλήσατε	Λαλήσατε	Λαλήσατε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip

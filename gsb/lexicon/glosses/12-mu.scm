@@ -26,7 +26,7 @@
 
 (lemma "μᾶλλον" (sense more (gloss "more") (why "More, rather; μᾶλλον ἤ, \"more than\" (Genesis 19:9 σὲ κακώσομεν μᾶλλον ἢ ἐκείνους; John 3:19; Acts 5:29). \"More\" because ἀλλά has \"rather\".")))
 
-(lemma "Μαμβρή"(sense name (gloss "Mamre") (why "(LXX, supplied.) The place (or owner) of the oak by which Abraham lived (Genesis 13:18; 18:1); traditional English Mamre. Indeclinable.")))
+(lemma "Μαμβρή" (sense name (gloss "Mamre") (why "(LXX, supplied.) The place (or owner) of the oak by which Abraham lived (Genesis 13:18; 18:1); traditional English Mamre. Indeclinable.")))
 
 (lemma "μαρτυρία" (sense testimony (gloss "testimony") (why "Testimony, witness borne.")))
 
@@ -116,7 +116,10 @@
     (why "In οὐ μή and οὐδὲ μή with the aorist subjunctive, the strongest Greek negation (Genesis 3:1, 3; John 6:37). The second negative is rendered \"at all\" so both words show: \"not at all will you eat\"."))
   (sense lest
     (gloss "lest")
-    (why "Introducing a feared possibility, \"lest\" (μή ποτε, Genesis 3:22; Matthew 4:6, where it is printed as one word μήποτε).")))
+    (why "Introducing a feared possibility, \"lest\" (μή ποτε, Genesis 3:22; Matthew 4:6, where it is printed as one word μήποτε)."))
+  (sense question
+    (gloss "")
+    (why "Opening a question, μή marks it as expecting the answer \"no\" (Genesis 18:14 μὴ ἀδυνατεῖ παρὰ τῷ θεῷ ῥῆμα; \"Is utterance impossible beside God?\"; 4:9; John 4:29). English has no word for it: it is not \"not\", which would turn the question into one expecting \"yes\" or into a statement, so the literal layer writes a plain yes/no question (auxiliary before the subject, as the KJV does) and aligns μή with it unrendered.")))
 
 (lemma "μηδαμῶς" (sense by-no-means (gloss "by no means") (why "By no means, not at all (Genesis 18:25, twice; Acts 10:14; 11:8, Peter's \"By no means, Lord\").")))
 
@@ -141,12 +144,12 @@
 
 (lemma "μήτρα" (sense womb (gloss "womb" "wombs") (why "The womb (Genesis 20:18 συνέκλεισεν ... πᾶσαν μήτραν; Luke 2:23; Romans 4:19). Kept apart from κοιλία \"belly\".")))
 
-(lemma "μιαίνω"(sense defile (gloss "defile" "defiled" "defiles" "defiling") (why "To defile, stain.")))
+(lemma "μιαίνω" (sense defile (gloss "defile" "defiled" "defiles" "defiling") (why "To defile, stain.")))
 
 (lemma "μικρός" (sense small (gloss "small") (why "Small, little (Genesis 19:11 ἀπὸ μικροῦ ἕως μεγάλου, from small to great; 19:20; Matthew 10:42; Acts 8:10). The opposite of μέγας \"great\"."))
   (sense almost (gloss "almost") (why "The genitive μικροῦ used as an adverb, \"by a little\", almost (Genesis 26:10 μικροῦ ἐκοιμήθη τις, \"almost someone lay\"). Chosen by a word override, since μικροῦ is also the plain genitive \"of small\".")))
 
-(lemma "μιμνῄσκω"(sense remember (voice active) (genitive "") (gloss "remember" "remembered" "remembers" "remembering") (why "Middle/passive: to remember (Exodus 20:8 Μνήσθητι).")))
+(lemma "μιμνῄσκω" (sense remember (voice active) (genitive "") (gloss "remember" "remembered" "remembers" "remembering") (why "Middle/passive: to remember (Exodus 20:8 Μνήσθητι).")))
 
 (lemma "μισέω" (sense hate (gloss "hate" "hated" "hates" "hating") (why "To hate.")))
 
@@ -176,7 +179,7 @@
 
 (lemma "Μωαβίτης" (sense name (person) (gloss "Moabite" "Moabites") (why "(LXX, supplied.) The people descended from Μωάβ (Genesis 19:37 πατὴρ Μωαβιτῶν); traditional English Moabites.")))
 
-(lemma "μώλωψ"(sense stripe (gloss "stripe" "stripes") (why "A weal, the mark of a blow: Genesis 4:23; 1 Peter 2:24 (\"by whose stripe\").")))
+(lemma "μώλωψ" (sense stripe (gloss "stripe" "stripes") (why "A weal, the mark of a blow: Genesis 4:23; 1 Peter 2:24 (\"by whose stripe\").")))
 
 (lemma "Μωϋσῆς" (sense name (gloss "Moses") (why "Traditional English form; Swete spells Μωυσῆς and Μωσῆς.")))
 

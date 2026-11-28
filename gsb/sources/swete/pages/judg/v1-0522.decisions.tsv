@@ -1,0 +1,73 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+judg	theoldtestamenti00unknuoft	522	1	Ἀμαλήκ,	Ἀμαλήκ,	Ἀμαλήκ,	Ἀμαλήκ,	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	522	1	ἀνατολῶν.	ἀνατολῶν.	ἀνατολῶν	ἀνατολῶν	image (3x): speck / show-through, not a period; no point printed
+judg	theoldtestamenti00unknuoft	522	1	συνανέβαινον.	συνανέβαινον.	συνανέβαινον	συνανέβαινον	image (3x): speck / show-through, not a period; no point printed
+judg	theoldtestamenti00unknuoft	522	1	αὐτοῖς"	αὐτοῖς"	αὐτοῖς·	αὐτοῖς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	2	αὐτούς,	αὐτοὺς,	αὐτούς,	αὐτούς,	image (3x): acute accent
+judg	theoldtestamenti00unknuoft	522	2	“καὶ	4 +“καὶ	καὶ	καὶ	image (3x): superscript verse number and specks, not text
+judg	theoldtestamenti00unknuoft	522	3	Τάζαν,	Τάζαν,	Γάζαν,	Γάζαν,	image (3x): Γ, not Τ
+judg	theoldtestamenti00unknuoft	522	3	ζωῆς	ζωῆς +ἢ	ζωῆς	ζωῆς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	3	Ἰσβῥαὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	522	4	ὅτι.	ὅτι.	ὅτι	ὅτι	image (3x): speck / show-through, not a period; no point printed
+judg	theoldtestamenti00unknuoft	522	6	οὐκ.	οὐκ.	οὐκ	οὐκ	image (3x): speck / show-through, not a period; no point printed
+judg	theoldtestamenti00unknuoft	522	6	ἀριθμός:	ἀριθμός"	ἀριθμός·	ἀριθμός·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	7	γὴν	γῆν	γῆν	γῆν	image (3x): circumflex
+judg	theoldtestamenti00unknuoft	522	7	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	522	7	αὐτὴν,	αὐτήν,	αὐτήν,	αὐτήν,	image (3x): acute accent
+judg	theoldtestamenti00unknuoft	522	7	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	7	ἐπτώχευσεν +6	ἐπτώχευσεν +ὁ	ἐπτώχευσεν	ἐπτώχευσεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	8	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	522	8	ΜαδιάμἩ	Μαδιάμ.	Μαδιάμ.	Μαδιάμ.	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	522	8	0 +ὁ ΤΚαὶ	6 +ΤΚαὶ	Καὶ	Καὶ	image (3x): superscript verse number and specks, not text
+judg	theoldtestamenti00unknuoft	522	8	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave accent (no capitalized quotation follows)
+judg	theoldtestamenti00unknuoft	522	9	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	522	9	8καὶ	ϑ8καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	9	ἐξαπέστειλεν	ἐξαπέστειλεν +8	ἐξαπέστειλεν	ἐξαπέστειλεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	10	uptos	Κύριος	Κύριος	Κύριος	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	10	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave accent (no capitalized quotation follows)
+judg	theoldtestamenti00unknuoft	522	10	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	522	10	εἶπεν.	εἶπεν.	εἶπεν	εἶπεν	image (3x): speck / show-through, not a period; no point printed
+judg	theoldtestamenti00unknuoft	522	10	αὐτοῖς.	αὐτοῖς.	αὐτοῖς	αὐτοῖς	image (3x): speck / show-through, not a period; no point printed
+judg	theoldtestamenti00unknuoft	522	11	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave accent (no capitalized quotation follows)
+judg	theoldtestamenti00unknuoft	522	11	Ἰσραήλ	Ἰσραήλ	Ἰσραὴλ	Ἰσραήλ	image (3x): smooth breathing; acute before capitalized quotation Ἐγώ
+judg	theoldtestamenti00unknuoft	522	11	Ἐγώ	Ἐγώ	Ἐγώ	Ἐγώ	image (3x): smooth breathing; acute before enclitic εἰμι
+judg	theoldtestamenti00unknuoft	522	12	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	522	12	ὑμῶν, +9	ὑμῶν, +9	ὑμῶν,	ὑμῶν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	12	ἐρρυ- +9	ἐρρυ- +9	ἐρρυ-	ἐρρυ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	13	χειρὸς	χειρὸς	χειρὸς	χειρὸς	image (3x): grave accent (no capitalized quotation follows)
+judg	theoldtestamenti00unknuoft	522	13	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	522	13	τῶν.	τών.	τῶν	τῶν	image (3x): speck / show-through, not a period; no point printed
+judg	theoldtestamenti00unknuoft	522	14	kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	15	αὐτῶν"	αὐτῶν" +"᾽	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	15	‘kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	15	Ἐγὼ	Ἐγὼ	Ἐγὼ	Ἐγὼ	image (3x): smooth breathing; grave (Κύριος is not a quotation start)
+judg	theoldtestamenti00unknuoft	522	15	φοβηθήσεσθε	φοβηθήσεσθε +το	φοβηθήσεσθε	φοβηθήσεσθε	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	16	Ἀμορραίου,	Ἀμορραίου,	Ἀμορραίου,	Ἀμορραίου,	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	522	16	αὐτῶν-	αὐτῶν"	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	17	μου.	μου. +τ	μου.	μου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	17	Kal	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	17	Κυρίου +τι	Κυρίου +τι	Κυρίου	Κυρίου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	18	Ἐφραθὰ	Ἐφραθὰ	Ἐφραθὰ	Ἐφραθὰ	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	522	18	Ἰωὰς	Ἰωὰς	Ἰωὰς	Ἰωὰς	image (3x): smooth breathing on the capital
+judg	theoldtestamenti00unknuoft	522	19	Ἐσδρεί:	Ἐ̓σδρεί:	Ἐσδρεί·	Ἐσδρεί·	image (3x): smooth breathing; raised ano teleia
+judg	theoldtestamenti00unknuoft	522	19	Τεδεὼν	Τεδεὼν	Γεδεὼν	Γεδεὼν	image (3x): Γ, not Τ
+judg	theoldtestamenti00unknuoft	522	20	"Kal	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	20	ὥφθη	ὥφθη	ὤφθη	ὤφθη	image (6x): smooth + acute (apostrophe then rising stroke), not rough
+judg	theoldtestamenti00unknuoft	522	20	ἄγγελος	ἄγγελος +ι-	ἄγγελος	ἄγγελος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	21	εἰπεν	εἶπεν	εἶπεν	εἶπεν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	522	21	αὐτόν	αὐτόν	αὐτόν	αὐτόν	image (3x): acute before capitalized quotation
+judg	theoldtestamenti00unknuoft	522	22	∅	Ξκαὶ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	22	∅	εἶπεν.	εἶπεν	εἶπεν	image (3x): reddish speck after εἶπεν, not printed ink; no period
+judg	theoldtestamenti00unknuoft	522	22	∅	πρὸς	πρὸς	πρὸς	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	22	∅	αὑτὸν	αὐτὸν	αὐτὸν	image (3x): grave accent (no capitalized quotation follows)
+judg	theoldtestamenti00unknuoft	522	22	∅	Γεδεών	Γεδεών	Γεδεών	image (3x): acute before capitalized quotation
+judg	theoldtestamenti00unknuoft	522	22	∅	Ἔν	Ἐν	Ἐν	image (3x): smooth breathing, no accent
+judg	theoldtestamenti00unknuoft	522	22	∅	ἐμοι,	ἐμοί,	ἐμοί,	image (3x): acute on ι
+judg	theoldtestamenti00unknuoft	522	22	∅	κυριέ	κύριέ	κύριέ	image (3x): two acutes, κύριέ before enclitic μου
+judg	theoldtestamenti00unknuoft	522	22	∅	μου,	μου,	μου,	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	22	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	22	∅	εἰ	εἰ	εἰ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	22	∅	ἐστιν +τ3	ἔστιν	ἔστιν	image (3x): smooth + acute ἔστιν after εἰ; margin 13 not text
+judg	theoldtestamenti00unknuoft	522	23	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	24	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	522	24	λέγοντες.	λέγοντες.	λέγοντες	λέγοντες	image (3x): speck / show-through, not a period; no point printed

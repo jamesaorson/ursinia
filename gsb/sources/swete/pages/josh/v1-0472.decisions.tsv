@@ -1,0 +1,74 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+josh	theoldtestamenti00unknuoft	472	1	παρεμβολὴν	παρεμβολὴν +ΕῚ	παρεμβολὴν	παρεμβολὴν	image (3x): grave before capitalized word
+josh	theoldtestamenti00unknuoft	472	1	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	472	1	χεῖράς	χεῖράς	χεῖράς	χεῖράς	image (3x): acute before enclitic σου
+josh	theoldtestamenti00unknuoft	472	2	gov	σου	σου	σου	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	2	σου:	σου:	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	3	ἡμῖν:	ἡμῖν:	ἡμῖν·	ἡμῖν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	3	ot	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	4	Ἀμορραίων	Ἀμορραίων	Ἀμορραίων	Ἀμορραίων	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	472	4	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	4	ὀρεινήν. +7	ὀρεινήν. +7	ὀρεινήν.	ὀρεινήν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	5	Ιησοῦς	7 +νὰ Ιησοῦς	Ἰησοῦς	Ἰησοῦς	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	472	5	Ταλγάλων,	Ταλγάλων,	Γαλγάλων,	Γαλγάλων,	image (3x): Γ, not Τ
+josh	theoldtestamenti00unknuoft	472	5	μετ᾽	μετ᾽ +3	μετ᾽	μετ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	6	ὃ	πᾶς	πᾶς	πᾶς	class R6 (OCR letters differ): the other OCR reading agrees with c
+josh	theoldtestamenti00unknuoft	472	6	∅	δυνατὸς	δυνατὸς	δυνατὸς	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	6	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	6	∅	ἰσχύι. +ὃ	ἰσχύι.	ἰσχύι.	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	6	Ἰησοῦν	Ἰησοῦν	Ἰησοῦν	Ἰησοῦν	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	472	6	φοβηθῇς	φοβηθῆς +8	φοβηθῇς	φοβηθῇς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+josh	theoldtestamenti00unknuoft	472	7	χεῖράς	χεῖράς	χεῖράς	χεῖράς	image (3x): acute before enclitic σου
+josh	theoldtestamenti00unknuoft	472	7	αὐτούς:	αὐτούς:	αὐτούς·	αὐτούς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	8	ὑμών.	ὑμῶν.	ὑμῶν.	ὑμῶν.	image (3x): circumflex
+josh	theoldtestamenti00unknuoft	472	8	καὶ	9θκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	8	παρεγένετο	παρεγένετο +9	παρεγένετο	παρεγένετο	class R3: OCR appended accent-row or margin junk; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	9	αὐτοὺς	αὐτοὺς	αὐτοὺς	αὐτοὺς	image (3x): grave before capitalized word
+josh	theoldtestamenti00unknuoft	472	9	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	472	9	ex	ἐκ	ἐκ	ἐκ	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	9	Tadryadov.	Ταλγάλων.	Γαλγάλων.	Γαλγάλων.	image (3x): Γ, not Τ
+josh	theoldtestamenti00unknuoft	472	10	αὐτοὺς	αὐτοὺς	αὐτοὺς	αὐτοὺς	image (3x): grave before capitalized word
+josh	theoldtestamenti00unknuoft	472	10	Ἰσραὴλ,	Ἰσραηλ, +το	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	472	11	αὐτοὺς	αὐτοὺς	αὐτοὺς	αὐτοὺς	image (3x): grave before capitalized word
+josh	theoldtestamenti00unknuoft	472	11	Ταβαών-	Ταβαών-	Γαβαών·	Γαβαών·	image (3x): Γ, not Τ; ano teleia
+josh	theoldtestamenti00unknuoft	472	12	‘Qpwvely,	Ὠ̔ρωνείν,	Ὡρωνείν,	Ὡρωνείν,	image (3x): rough breathing on Ω
+josh	theoldtestamenti00unknuoft	472	13	ews	ἕως	ἕως	ἕως	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	13	Ἀζηκὰ	Ἀζηκὰ	Ἀζηκὰ	Ἀζηκὰ	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	472	13	“ev	""ἐν	ἐν	ἐν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	13	προσώ-	προσώ-	προσώ-	προσώ-	image (3x): hyphenated προσώ-που, no enclitic
+josh	theoldtestamenti00unknuoft	472	14	υἱῶν	υἱῶν +3	υἱῶν	υἱῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	14	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	472	14	καταβάσεως	καταβάσεως +ς	καταβάσεως	καταβάσεως	class R3: OCR appended accent-row or margin junk; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	14	Ὡρωνείν,	Ὡρωνείν,	Ὡρωνείν,	Ὡρωνείν,	image (3x): rough breathing on Ω
+josh	theoldtestamenti00unknuoft	472	15	Ἀζηκά-:	Ἀζηκά-:	Ἀζηκά·	Ἀζηκά·	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	472	17	οὺς	οὺς	οὓς	οὓς	image (3x): rough + grave (compact closed mark)
+josh	theoldtestamenti00unknuoft	472	17	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before capitalized word
+josh	theoldtestamenti00unknuoft	472	17	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	472	17	πολέμῳ	πολέμῳ	πολέμῳ.	πολέμῳ.	image (3x): period after the word
+josh	theoldtestamenti00unknuoft	472	17	Tore	Ἰ}ύτε	Τότε	Τότε	image (3x): Τότε after superscript 12
+josh	theoldtestamenti00unknuoft	472	18	Ἰησοῦς	ἽἿ +Ἰησοῦὺς	Ἰησοῦς	Ἰησοῦς	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	472	18	ἧ	ἧ	ᾗ	ᾗ	image (3x): rough breathing, circumflex, iota subscript
+josh	theoldtestamenti00unknuoft	472	18	ὁ	ὁ +θ	ὁ	ὁ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	19	Αμορραῖον	Αμορραῖον	Ἀμορραῖον	Ἀμορραῖον	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	472	19	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	472	19	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	19	TaBawy	Ταβαὼν	Γαβαὼν	Γαβαὼν	image (3x): Γ, not Τ
+josh	theoldtestamenti00unknuoft	472	20	Ἰσραήλ:	Ἰσραήλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	472	20	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	472	21	Ταβαών,	Ταβαών,	Γαβαών,	Γαβαών,	image (3x): Γ, not Τ
+josh	theoldtestamenti00unknuoft	472	22	Αἰλών.	Αἰλών.	Αἰλών.	Αἰλών.	image (3x): smooth breathing and no accent on ι of Αἰ
+josh	theoldtestamenti00unknuoft	472	23	σεληνὴ	σελήνη	σελήνη	σελήνη	image (3x): acute on penult, no accent on final η
+josh	theoldtestamenti00unknuoft	472	26	καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	26	τοιαυτὴ	τοιαύτη	τοιαύτη	τοιαύτη	image (3x): acute on penult, no accent on final η
+josh	theoldtestamenti00unknuoft	472	27	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	27	ἀνθρώπου"	ἀνθρώπου"	ἀνθρώπου·	ἀνθρώπου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	28	Ἰσραήλ.	Ισραηλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	472	29	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	29	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	30	Ἰ̓ησοῦ	Ἰησοῦ	Ἰησοῦ	Ἰησοῦ	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	472	30	Εὕρηνται	Εὕρηνται	Εὕρηνται	Εὕρηνται	image (3x): rough + acute (open curl then rising stroke) on υ
+josh	theoldtestamenti00unknuoft	472	31	Μακηδά.	Μακηδά	Μακηδά.	Μακηδά.	class R6 (OCR letters differ): the other OCR reading agrees with c
+josh	theoldtestamenti00unknuoft	472	31	“καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	472	32	Ιησοῦς	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	472	16	-	-	ἢ	ἢ	ambiguous: worn breathing+accent mark (8x); a blob with a stroke falling right, read smooth + grave
+josh	theoldtestamenti00unknuoft	472	30	-	-	Μακηδά.	Μακηδά.	image (3x): reddish speck after the period is a stain, not print

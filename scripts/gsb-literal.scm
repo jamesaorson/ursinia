@@ -54,6 +54,10 @@
 
 (define (load-env)
   (unless (file-exists? "gsb/greek") (die "Greek tables missing (gsb/greek/); run `make gsb`"))
+  (let ((errors (check-gloss-files (map (lambda (p) (cons p (read-forms p))) (gloss-files)))))
+    (unless (null? errors)
+      (for-each (lambda (e) (format (current-error-port) "error\t~a~%" e)) errors)
+      (die "fix the concordance above (gsb/lexicon/glosses/; `make gsb/lint` checks it)")))
   (call-with-values load-literal-env
     (lambda (env problems)
       (unless (null? problems)

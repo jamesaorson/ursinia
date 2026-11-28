@@ -125,7 +125,7 @@
 
 (lemma "σπήλαιον" (sense cave (gloss "cave" "caves") (why "A cave (Genesis 19:30, Lot and his daughters in the cave; 23:9; John 11:38; Hebrews 11:38).")))
 
-(lemma "σποδός"(sense ashes (gloss "ashes") (why "Ashes (Genesis 18:27 γῆ καὶ σποδός \"earth and ashes\"; Matthew 11:21; Hebrews 9:13). A singular noun in Greek; English says \"ashes\".")))
+(lemma "σποδός" (sense ashes (gloss "ashes") (why "Ashes (Genesis 18:27 γῆ καὶ σποδός \"earth and ashes\"; Matthew 11:21; Hebrews 9:13). A singular noun in Greek; English says \"ashes\".")))
 
 (lemma "σπόριμος"
   (sense sowable
@@ -179,7 +179,7 @@
 
 (lemma "συγγίνομαι" (sense be-with (dative "") (verb "be with" "was with" "been with") (gloss "be with" "was with" "were with" "been with" "being with") (why "(LXX, supplied.) To come together with, be with, and so to have intercourse with (Genesis 19:5 ἵνα συγγενώμεθα αὐτοῖς). \"Be with\" keeps the Greek's restraint; the readable layer can say more.")))
 
-(lemma "συγκαθίζω"(sense sit-together (dative "with") (gloss "sit together" "sat together" "sits together" "sitting together") (why "To sit down together (with someone): Genesis 15:11 συνεκάθισεν αὐτοῖς Ἀβράμ, \"Abram sat together with them\", where the Hebrew has \"drove them away\"; we translate the Greek. Luke 22:55.")))
+(lemma "συγκαθίζω" (sense sit-together (dative "with") (gloss "sit together" "sat together" "sits together" "sitting together") (why "To sit down together (with someone): Genesis 15:11 συνεκάθισεν αὐτοῖς Ἀβράμ, \"Abram sat together with them\", where the Hebrew has \"drove them away\"; we translate the Greek. Luke 22:55.")))
 
 (lemma "συγκλείω" (sense shut-up (gloss "shut up" "shut up" "shuts up" "shutting up") (why "To shut in, shut up, confine (Genesis 16:2, the Lord has shut Sarai up from bearing; Romans 11:32; Galatians 3:22).")))
 
@@ -208,7 +208,7 @@
 
 (lemma "συμπαραλαμβάνω" (sense take-along-with (verb "take along with" "took" "taken") (gloss "take along with" "took along with" "taken along with" "takes along with" "taking along with") (why "To take along with oneself (Acts 12:25; 15:37-38). Genesis 19:17 μή ποτε συνπαραλημφθῇς, lest you be taken along with [the city]. Built on παραλαμβάνω \"take along\".")))
 
-(lemma "συμπίπτω"(sense fall-together (intransitive) (gloss "fall together" "fell together" "falls together" "falling together") (why "(LXX sense.) To fall together, collapse (Luke 6:49). Genesis 4:5-6, Cain's face fell.")))
+(lemma "συμπίπτω" (sense fall-together (intransitive) (gloss "fall together" "fell together" "falls together" "falling together") (why "(LXX sense.) To fall together, collapse (Luke 6:49). Genesis 4:5-6, Cain's face fell.")))
 
 (lemma "συμποδίζω" (sense fetter (gloss "fetter" "fettered" "fetters" "fettering") (why "(LXX, supplied.) To tie the feet together, fetter (Genesis 22:9 συμποδίσας Ἰσαάκ), from σύν + πούς.")))
 
@@ -238,7 +238,7 @@
 
 (lemma "συνοικέω" (sense dwell-with (dative "") (verb "dwell with" "dwelt" "dwelt") (gloss "dwell with" "dwelt with" "dwells with" "dwelling with") (why "To live together with, dwell with, of marriage (Genesis 20:3 συνῳκηκυῖα ἀνδρί; 1 Peter 3:7). Built on οἰκέω \"dwell\".")))
 
-(lemma "συντάσσω"(sense direct (dative "") (gloss "direct" "directed" "directs" "directing") (why "To arrange, give orders, direct, with the dative of the person (Genesis 18:19 συντάξει τοῖς υἱοῖς αὐτοῦ; Matthew 21:6; 26:19). \"Direct\" keeps it apart from ἐντέλλομαι \"command\" and τάσσω.")))
+(lemma "συντάσσω" (sense direct (dative "") (gloss "direct" "directed" "directs" "directing") (why "To arrange, give orders, direct, with the dative of the person (Genesis 18:19 συντάξει τοῖς υἱοῖς αὐτοῦ; Matthew 21:6; 26:19). \"Direct\" keeps it apart from ἐντέλλομαι \"command\" and τάσσω.")))
 
 (lemma "συντελέω"
   (sense complete
@@ -249,7 +249,7 @@
 
 (lemma "συντρίβω" (sense crush (gloss "crush" "crushed" "crushes" "crushing") (why "To break in pieces, shatter, crush (Genesis 19:9 ἤγγισαν συντρίψαι τὴν θύραν; Mark 14:3; Romans 16:20). Kept apart from κλάω \"break\" (bread).")))
 
-(lemma "Σύρος"(sense syrian (person) (gloss "Syrian" "Syrians") (why "A Syrian (Genesis 22:21 πατέρα Σύρων, where the Hebrew has Aram; Luke 4:27 Ναιμὰν ὁ Σύρος). The Greek gives the people's name, so the English follows it.")))
+(lemma "Σύρος" (sense syrian (person) (gloss "Syrian" "Syrians") (why "A Syrian (Genesis 22:21 πατέρα Σύρων, where the Hebrew has Aram; Luke 4:27 Ναιμὰν ὁ Σύρος). The Greek gives the people's name, so the English follows it.")))
 
 (lemma "συνωμότης" (sense confederate (person) (gloss "confederate" "confederates") (why "(LXX, supplied.) One bound by oath with another, a sworn ally (Genesis 14:13, who were confederates of Abram), from σύν + ὄμνυμι \"swear\".")))
 
@@ -268,11 +268,11 @@
 
 (lemma "σφοδρῶς" (sense vehemently (gloss "vehemently") (why "Violently, vehemently (Genesis 7:19, σφόδρα σφοδρῶς, \"exceedingly vehemently\"; Acts 27:18). Kept apart from σφόδρα \"exceedingly\" so the doubled Greek stays visible.")))
 
-(lemma "σφυροκόπος"(sense hammerer (person) (gloss "hammerer") (why "(LXX, supplied.) One who strikes with a hammer, a smith at the forge (Genesis 4:22).")))
+(lemma "σφυροκόπος" (sense hammerer (person) (gloss "hammerer") (why "(LXX, supplied.) One who strikes with a hammer, a smith at the forge (Genesis 4:22).")))
 
 (lemma "σῴζω" (sense save (gloss "save" "saved" "saves" "saving") (why "To save, rescue, keep safe (Genesis 19:17 Σώζων σῶζε τὴν σεαυτοῦ ψυχήν, 19:20, 22; Matthew 1:21). The middle σώζου, \"save [yourself]\", is rendered active.")))
 
-(lemma "σῶμα"(sense body (gloss "body" "bodies") (why "Body; a dead body, carcass (Genesis 15:11, the birds came down on the bodies; Matthew 6:22; Luke 17:37).")))
+(lemma "σῶμα" (sense body (gloss "body" "bodies") (why "Body; a dead body, carcass (Genesis 15:11, the birds came down on the bodies; Matthew 6:22; Luke 17:37).")))
 
 (lemma "σχίζω" (sense split (verb "split" "split" "split") (gloss "split" "splits" "splitting") (why "To split, cleave, tear (Genesis 22:3 σχίσας ξύλα; Matthew 27:51 τὸ καταπέτασμα ἐσχίσθη, Luke 5:36).")))
 

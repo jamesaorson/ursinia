@@ -1,0 +1,77 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+judg	theoldtestamenti00unknuoft	513	1	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	1	‘Kat	'καὶ	καὶ	καὶ	image (3x): tick before καὶ is a speck/show-through, not print
+judg	theoldtestamenti00unknuoft	513	1	Evaiov	Ἐὑαῖον	Εὐαῖον	Εὑαῖον	image (10x/8x): rough breathing on υ (open curl like c, same as υἱοὶ), Εὑ
+judg	theoldtestamenti00unknuoft	513	2	‘Aeppov	Ἀερμὼν	Ἁερμὼν	Ἁερμὼν	image (3x): rough breathing (reversed comma) on capital
+judg	theoldtestamenti00unknuoft	513	2	AaBw	Λαβὼ	Λαβὼ	Λαβὼ	image (3x): grave; next word is a name, not a quotation
+judg	theoldtestamenti00unknuoft	513	2	Ἕμάθ.	μάθ.	Ἑμάθ.	Ἑμάθ.	image (3x): rough breathing (reversed comma) on capital
+judg	theoldtestamenti00unknuoft	513	3	‘kal	ἑκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	3	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	513	4	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	4	ἐντολὰς	ἐντολὰς	ἐντολὰς	ἐντολὰς	image (3x): grave; next word is a name, not a quotation
+judg	theoldtestamenti00unknuoft	513	4	χειρὶ	χειρὶ	χειρὶ	χειρὶ	image (3x): grave; next word is a name, not a quotation
+judg	theoldtestamenti00unknuoft	513	5	Μωυση.	Μωυσῆ.	Μωυσῆ.	Μωυσῆ.	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	513	5	"καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	5	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave; next word is a name, not a quotation
+judg	theoldtestamenti00unknuoft	513	5	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	513	5	Χαναναίου	Χαναναί	Χαναναίου	Χαναναίου	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	513	6	Tov	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	6	Τοῦ	Τοῦ	τοῦ	τοῦ	image (3x): lowercase τ with a speck above; τοῦ
+judg	theoldtestamenti00unknuoft	513	6	Ἀμορραίου	Ἀμορραίου	Ἀμορραίου	Ἀμορραίου	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	513	6	Evaiou	Ἐὐαίου	Εὐαίου	Εὑαίου	image (10x/8x): rough breathing on υ (open curl like c, same as υἱοὶ), Εὑ
+judg	theoldtestamenti00unknuoft	513	7	Ἰεβουσαίου: +°	Ἰεβουσαίου:	Ἰεβουσαίου·	Ἰεβουσαίου·	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	513	7	καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	9	αὐτῶν.	αὐτῶν. +7	αὐτῶν.	αὐτῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	10	Kai	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	10	υἱοὶ	υἱοὶ +ΤῈ	υἱοὶ	υἱοὶ	image (3x): grave; next word is a name, not a quotation
+judg	theoldtestamenti00unknuoft	513	10	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	513	12	ἄλσεσιν. +8	ἄλσεσιν. +8	ἄλσεσιν.	ἄλσεσιν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	12	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	513	13	χειρὶ	χειρὶ	χειρὶ	χειρὶ	image (3x): grave; next word is a name, not a quotation
+judg	theoldtestamenti00unknuoft	513	13	edov-	ἐδού- +»	ἐδού-	ἐδού-	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	14	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave; next word is a name, not a quotation
+judg	theoldtestamenti00unknuoft	513	14	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	513	14	9ϑκαὶ	9 +9καὶ	καὶ	καὶ	image: superscript 9 then καὶ
+judg	theoldtestamenti00unknuoft	513	15	viol	υἱοὶ +13	υἱοὶ	υἱοὶ	image (3x): grave; next word is a name, not a quotation
+judg	theoldtestamenti00unknuoft	513	15	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	513	15	Κύριον:	Κύριον:	Κύριον·	Κύριον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	15	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	513	16	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	16	Τοθονιὴλ	Τοθονιὴλ	Γοθονιὴλ	Γοθονιὴλ	image (3x): Γ, not Τ
+judg	theoldtestamenti00unknuoft	513	16	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): grave; next word is a name, not a quotation
+judg	theoldtestamenti00unknuoft	513	16	Χαλὲβ.	Χαλὲβ.	Χαλὲβ	Χαλὲβ	image (3x): faint speck after β, not a period
+judg	theoldtestamenti00unknuoft	513	17	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	18	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	513	19	σαθάιμ᾽	σαθάιμ᾽	σαθάιμ·	σαθάιμ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	20	Xov-	Χου-	Χου-	Χου-	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	21	σαρσαθάιμ.	σαρσαθάιμ. +᾿τ᾽	σαρσαθάιμ.	σαρσαθάιμ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	21	“Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	21	ἔτη᾽	ἔτη"	ἔτη·	ἔτη·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	22	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave; next word is a name, not a quotation
+judg	theoldtestamenti00unknuoft	513	22	Κενέζ	Κενέζ +12	Κενέζ.	Κενέζ.	image (3x): period on baseline
+judg	theoldtestamenti00unknuoft	513	23	ai	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	23	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave; next word is a name, not a quotation
+judg	theoldtestamenti00unknuoft	513	23	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	513	24	Κυρίου:	Κυρίου	Κυρίου·	Κυρίου·	image (3x): raised point, ano teleia
+judg	theoldtestamenti00unknuoft	513	24	Ἑ +γλὼμ	Ἐγλὼμ	Ἐγλὼμ	Ἐγλὼμ	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	513	25	Ἰσραήλ,	Ισραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	513	25	"3καὶ	"3καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	26	υἱοὺς	υἱοὺς +15	υἱοὺς	υἱοὺς	image (3x): grave; next word is a name, not a quotation
+judg	theoldtestamenti00unknuoft	513	26	Ἀμμὼν	Ἀμμὼν	Ἀμμὼν	Ἀμμὼν	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	513	26	Ἀμαλήκ,	Ἀμαλήκ,	Ἀμαλήκ,	Ἀμαλήκ,	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	513	26	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	27	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	513	28	φοινίκων,	φοινίκων,	φοινίκων.	φοινίκων.	image (3x): period on baseline
+judg	theoldtestamenti00unknuoft	513	28	"καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	28	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave; next word is a name, not a quotation
+judg	theoldtestamenti00unknuoft	513	28	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	513	28	Ἐγλὼμ	Ἐγλὼμ	Ἐγλὼμ	Ἐγλὼμ	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	513	29	“kal	""καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	29	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave; next word is a name, not a quotation
+judg	theoldtestamenti00unknuoft	513	29	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	513	29	Κύριον"	Κύριον"	Κύριον·	Κύριον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	513	30	αὕτοις	αὐτοῖς	αὐτοῖς	αὐτοῖς	image (3x): smooth breathing on υ, circumflex on οῖ
+judg	theoldtestamenti00unknuoft	513	30	Αὠὸδ	Ἀὼδ	Ἀὼδ	Ἀὼδ	image (3x): smooth breathing (apostrophe) on capital
+judg	theoldtestamenti00unknuoft	513	30	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): grave; next word is a name, not a quotation
+judg	theoldtestamenti00unknuoft	513	30	Τηρα	Γηρὰ	Γηρὰ	Γηρὰ	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	513	30	lepevei,	Ἰεμενεί,	Ἰεμενεί,	Ἰεμενεί,	image (3x): smooth breathing (apostrophe) on capital

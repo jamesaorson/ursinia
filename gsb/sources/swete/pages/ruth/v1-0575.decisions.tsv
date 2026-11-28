@@ -1,0 +1,90 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ruth	theoldtestamenti00unknuoft	575	1	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	1	Boos	Βόος	Βόος	Βόος	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	2	ὧδε:	ὧδε:	ὧδε·	ὧδε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	2	∅	∅	καὶ	καὶ	image (3x): text present; the point after ἐκάθισαν. is followed by a lighter speck, not a second period
+ruth	theoldtestamenti00unknuoft	575	2	∅	∅	ἐκάθισαν.	ἐκάθισαν.	image (3x): text present; the point after ἐκάθισαν. is followed by a lighter speck, not a second period
+ruth	theoldtestamenti00unknuoft	575	2	καὶ +ἐκάθισαν... Ξκαὶ	καὶ +ἐκάθισαν... "καὶ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	2	Boos	Βόος	Βόος	Βόος	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	3	ἥ	ἥ	ἥ	ἥ	image (4x): rough breathing + acute (curl then rising stroke) before enclitic
+ruth	theoldtestamenti00unknuoft	575	3	Ἀβειμέλεχ,	Ἀβειμέλεχ,	Ἀβειμέλεχ,	Ἀβειμέλεχ,	image (3x): smooth breathing on the capital (apostrophe shape), no accent beyond what is written
+ruth	theoldtestamenti00unknuoft	575	4	Μωάβ,	Μωαβ,	Μωάβ,	Μωάβ,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ruth	theoldtestamenti00unknuoft	575	4	“κἀγὼ	“κἀγὼ	κἀγὼ	κἀγὼ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	4	εἶπα	εἰπα	εἶπα	εἶπα	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ruth	theoldtestamenti00unknuoft	575	5	Ἀποκαλύψω	Ἀποκαλύψω	Ἀποκαλύψω	Ἀποκαλύψω	image (3x): smooth breathing on the capital (apostrophe shape), no accent beyond what is written
+ruth	theoldtestamenti00unknuoft	575	6	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	6	μου:	μου:	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	6	ayxXioTeEvE	ἀγχίστευε᾽	ἀγχίστευε·	ἀγχίστευε·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	7	ἀνάγγειλόν	ἀνάγγειλόν	ἀνάγγειλόν	ἀνάγγειλόν	image (3x): accent before enclitic as printed
+ruth	theoldtestamenti00unknuoft	575	8	κἀγώ	κἀγώ	κἀγώ	κἀγώ	image (3x): accent before enclitic as printed
+ruth	theoldtestamenti00unknuoft	575	8	Ἐγώ	Ἐ̓γώ	Ἐγώ	Ἐγώ	image (3x): smooth breathing on the capital (apostrophe shape), no accent beyond what is written
+ruth	theoldtestamenti00unknuoft	575	9	εἶμι	εἰμι	εἰμι	εἰμι	image (3x): εἰμι, smooth breathing, no circumflex
+ruth	theoldtestamenti00unknuoft	575	9	καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	9	Boos	Βόος	Βόος	Βόος	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	9	Ἔν	Ἔν	Ἐν	Ἐν	image (3x): smooth breathing on the capital (apostrophe shape), no accent beyond what is written
+ruth	theoldtestamenti00unknuoft	575	9	κτήσασθαί	κτήσασθαί	κτήσασθαί	κτήσασθαί	image (3x): accent before enclitic as printed
+ruth	theoldtestamenti00unknuoft	575	10	χειρὸς	χειρὸς	χειρὸς	χειρὸς	image (3x): accent as printed; next word a name or quotation as written
+ruth	theoldtestamenti00unknuoft	575	10	Ῥοὺθ	Ῥοὺθ	Ῥοὺθ	Ῥοὺθ	image (3x): rough breathing on Ρ
+ruth	theoldtestamenti00unknuoft	575	11	κτήσασθαί	κτήσασθαί	κτήσασθαί	κτήσασθαί	image (3x): accent before enclitic as printed
+ruth	theoldtestamenti00unknuoft	575	12	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	12	Tov	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	12	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	13	ἀγχιστεύς	ἀγχιστεύς	ἀγχιστεύς	ἀγχιστεύς	image (3x): accent as printed; next word a name or quotation as written
+ruth	theoldtestamenti00unknuoft	575	13	Οὐ	Οὐ	Οὐ	Οὐ	image (3x): smooth breathing on the capital (apostrophe shape), no accent beyond what is written
+ruth	theoldtestamenti00unknuoft	575	13	μή	μή	μή	μή	image (3x): accent before enclitic as printed
+ruth	theoldtestamenti00unknuoft	575	14	μου:	μου	μου·	μου·	image (3x): ano teleia
+ruth	theoldtestamenti00unknuoft	575	15	Ore	ὅτι	ὅτι	ὅτι	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	15	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	15	Kal	1καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	16	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital (apostrophe shape), no accent beyond what is written
+ruth	theoldtestamenti00unknuoft	575	17	λόγον"	λόγον"	λόγον·	λόγον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	18	TH	τῷ	τῷ	τῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	18	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	18	αὐτοῦ":	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	image (3x): ano teleia
+ruth	theoldtestamenti00unknuoft	575	19	nv	ἦν	ἦν	ἦν	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	19	μαρτυριον	μαρτύριον	μαρτύριον	μαρτύριον	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ruth	theoldtestamenti00unknuoft	575	19	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	19	Ἰσραηλ.	Ἰσραὴλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on the capital (apostrophe shape), no accent beyond what is written
+ruth	theoldtestamenti00unknuoft	575	19	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	19	εἰπεν	εἶπεν	εἶπεν	εἶπεν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ruth	theoldtestamenti00unknuoft	575	19	Boos	Βόος	Βόος	Βόος	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	19	Κτησαι	Κτησαι	Κτῆσαι	Κτῆσαι	image (3x): circumflex on η
+ruth	theoldtestamenti00unknuoft	575	20	μου"	μου"	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	21	ϑΚαὶ	ϑΚαὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	21	Boos	Βόος	Βόος	Βόος	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	22	Μάρτυρες	Μάρτυ	Μάρτυρες	Μάρτυρες	class R6 (OCR letters differ): the other OCR reading agrees with c
+ruth	theoldtestamenti00unknuoft	575	22	᾽Αβει-	᾽Αβει-	Ἀβει-	Ἀβει-	image (3x): smooth breathing on the capital (apostrophe shape), no accent beyond what is written
+ruth	theoldtestamenti00unknuoft	575	23	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	23	πᾶντα	πάντα	πάντα	πάντα	image (3x): acute on α
+ruth	theoldtestamenti00unknuoft	575	24	∅	χειρὸς	χειρὸς	χειρὸς	image (3x): accent as printed; next word a name or quotation as written
+ruth	theoldtestamenti00unknuoft	575	24	∅	Νωεμείν:	Νωεμείν·	Νωεμείν·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	24	∅	καί	καί	καί	image (3x): accent before enclitic as printed
+ruth	theoldtestamenti00unknuoft	575	24	∅	γε +ε	γε	γε	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	24	∅	Ῥοὺθ	Ῥοὺθ	Ῥοὺθ	image (3x): rough breathing on Ρ
+ruth	theoldtestamenti00unknuoft	575	24	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	24	∅	Μωαβεῖτιν	Μωαβεῖτιν	Μωαβεῖτιν	class R0: OCR lost the word in extraction; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	24	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	24	∅	γυναῖκα	γυναῖκα	γυναῖκα	class R0: OCR lost the word in extraction; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	24	∅	Μααλὼν	Μααλὼν	Μααλὼν	class R0: OCR lost the word in extraction; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	25	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	27	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	28	σήμερον.	σήμερον. +"᾽	σήμερον.	σήμερον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	28	“kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	28	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	29	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	29	Κύριος	Κύ	Κύριος	Κύριος	class R6 (OCR letters differ): the other OCR reading agrees with c
+ruth	theoldtestamenti00unknuoft	575	29	τὴν	Ἷ	τὴν	τὴν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ruth	theoldtestamenti00unknuoft	575	29	γυναῖκά	ἴκά	γυναῖκά	γυναῖκά	image (3x): accent before enclitic as printed
+ruth	theoldtestamenti00unknuoft	575	30	οἶκόν	οἶκόν	οἶκόν	οἶκόν	image (3x): accent before enclitic as printed
+ruth	theoldtestamenti00unknuoft	575	30	Ῥαχὴλ	Ῥαχὴλ	Ῥαχὴλ	Ῥαχὴλ	image (3x): rough breathing on Ρ
+ruth	theoldtestamenti00unknuoft	575	30	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	30	ws	ὡς	ὡς	ὡς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	31	αἱ	αἱ	αἳ	αἳ	image (4x): closed mark like small d over ι, rough + grave
+ruth	theoldtestamenti00unknuoft	575	31	ῳκοδόμησαν	ῳκοδόμησαν	ᾠκοδόμησαν	ᾠκοδόμησαν	image (3x): smooth breathing on ω with iota subscript
+ruth	theoldtestamenti00unknuoft	575	31	τοῦ	τοῦ +7	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	31	Ἰσραὴλ	Ἰσραὴλ +ΧᾺ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on Ι; trailing OCR junk is margin
+ruth	theoldtestamenti00unknuoft	575	32	Ἐ̔φράθα:	᾽ +Ἐφράθα:	Ἐφράθα·	Ἐφράθα·	image (3x): smooth breathing on the capital (apostrophe shape), no accent beyond what is written
+ruth	theoldtestamenti00unknuoft	575	32	“kal	"“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ruth	theoldtestamenti00unknuoft	575	2	-	-	ἐκάθισαν.	ἐκάθισαν.	image: a lighter speck follows the period; speck, not a second period
+ruth	theoldtestamenti00unknuoft	575	18	-	-	αὐτοῦ	αὐτοῦ	image: speck below the line after αὐτοῦ (before τῷ), not a period
+ruth	theoldtestamenti00unknuoft	575	18	-	-	καὶ	καὶ	image: speck after καὶ (before τοῦτο), not a period

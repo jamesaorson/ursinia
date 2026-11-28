@@ -94,11 +94,12 @@ with chapter #f."
   "(values forms errors) for the concordance files (gsb/lexicon/glosses/*.scm)."
   (let* ((read (map (lambda (p) (cons p (safe-read-forms p))) (gloss-files)))
          (bad (filter (lambda (r) (string? (cdr r))) read))
-         (forms (append-map cdr (remove (lambda (r) (string? (cdr r))) read))))
+         (good (remove (lambda (r) (string? (cdr r))) read))
+         (forms (append-map cdr good)))
     (values forms
             (append (map cdr bad)
                     (if (null? (gloss-files)) (list (format #f "~a: no concordance files; it should hold one .scm file per initial letter" %glosses)) '())
-                    (map (lambda (m) (string-append %glosses ": " m)) (check-glosses forms))))))
+                    (map (lambda (m) (string-append %glosses ": " m)) (check-gloss-files good))))))
 
 (define (uses books glosses lemma)
   "Print every literal-layer use of LEMMA; exit 1 if there is none."
@@ -174,7 +175,10 @@ with chapter #f."
                                   (let ((e (readdir dir)))
                                     (if (eof-object? e) (begin (closedir dir) (sort acc string<?)) (loop (cons e acc))))))))
            (errors (append gloss-errors avoid-errors stray
-                           (append-map (lambda (b) (check-book b glosses avoid warn)) books)))
+                           ;; A broken concordance would make every chapter's lemmas look missing.
+                           (if (null? gloss-errors)
+                               (append-map (lambda (b) (check-book b glosses avoid warn)) books)
+                               '())))
            (chapters (apply + (map (lambda (b) (length (filter chapter-file-number (chapter-files b)))) books))))
       (for-each (lambda (w) (format (current-error-port) "~a~%" w)) (reverse warnings))
       (for-each (lambda (e) (format (current-error-port) "~a~%" e)) errors)

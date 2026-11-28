@@ -1,0 +1,52 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+judg	theoldtestamenti00unknuoft	549	1	Σαμψών	Σαμψών	Σαμψών	Σαμψών	image (3x): acute on ω before capitalized word
+judg	theoldtestamenti00unknuoft	549	1	Ἢθῴωμαι	Ἢθῴωμαι	Ἠθῴωμαι	Ἠθῴωμαι	image (3x): single apostrophe-shaped mark, smooth breathing, no accent on Η
+judg	theoldtestamenti00unknuoft	549	2	per	μετ᾽ +3	μετ᾽	μετ᾽	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	549	2	‘kai	4 +“καὶ	καὶ	καὶ	image (3x): superscript verse number then καὶ
+judg	theoldtestamenti00unknuoft	549	6	ἀλλοφύλων:	ἀλλοφύλων:	ἀλλοφύλων·	ἀλλοφύλων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	549	6	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	549	7	καὶ.	καὶ.	καὶ	καὶ	image (3x): light dot after καὶ is a speck, not a period
+judg	theoldtestamenti00unknuoft	549	7	“καὶ	και	καὶ	καὶ	image (3x): superscript verse number then καὶ
+judg	theoldtestamenti00unknuoft	549	7	εἶπαν	εἰπαᾶν	εἶπαν	εἶπαν	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	549	8	Tis	Τίς	Τίς	Τίς	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	549	9	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	549	10	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	549	11	7Kal	ἸΤκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	549	11	Σαμψών	Σαμψών	Σαμψών	Σαμψών	image (3x): acute on ω before capitalized word
+judg	theoldtestamenti00unknuoft	549	11	Ἐὰν	Ἐὰν	Ἐὰν	Ἐὰν	image (3x): smooth breathing on Ε, grave on α
+judg	theoldtestamenti00unknuoft	549	12	∅	ΤΟΙ	ποιήσητε	ποιήσητε	image (3x): line read from the image; OCR A lost it
+judg	theoldtestamenti00unknuoft	549	12	∅	σΤΕ	οὕτως	οὕτως	image (3x): line read from the image; OCR A lost it
+judg	theoldtestamenti00unknuoft	549	12	∅	οὐτῶς	ταύτην,	ταύτην,	image (3x): line read from the image; OCR A lost it
+judg	theoldtestamenti00unknuoft	549	12	∅	Ταῦτην, +ΟοτΤι	ὅτι	ὅτι	image (3x): line read from the image; OCR A lost it
+judg	theoldtestamenti00unknuoft	549	12	∅	εἰ	εἰ	εἰ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	549	12	∅	μὴν	μὴν	μὴν	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	549	12	∅	ἐκδικήσω	ἐκδικήσω	ἐκδικήσω	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	549	12	∅	εν	ἐν	ἐν	image (3x): line read from the image; OCR A lost it
+judg	theoldtestamenti00unknuoft	549	12	∅	υμιν,	ὑμῖν,	ὑμῖν,	image (3x): line read from the image; OCR A lost it
+judg	theoldtestamenti00unknuoft	549	12	∅	Και	καὶ	καὶ	image (3x): line read from the image; OCR A lost it
+judg	theoldtestamenti00unknuoft	549	12	∅	εσχατον	ἔσχατον	ἔσχατον	image (3x): line read from the image; OCR A lost it
+judg	theoldtestamenti00unknuoft	549	13	κοπάσω.	κοπάσω. +ὃ	κοπάσω.	κοπάσω.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	549	13	ὃκαὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	549	13	peyadny:	μεγάλην"	μεγάλην·	μεγάλην·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	549	14	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	549	14	Hrap. +9	Ἢτάμ. +9	Ἠτάμ.	Ἠτάμ.	image (3x): single apostrophe-shaped mark, smooth breathing, no accent on Η
+judg	theoldtestamenti00unknuoft	549	15	Ἰούδᾳ,	Ἰούδᾳ,	Ἰούδᾳ,	Ἰούδᾳ,	image (3x): smooth breathing on Ι
+judg	theoldtestamenti00unknuoft	549	16	∅	∅	ἐν	ἐν	image (4x): ἐν
+judg	theoldtestamenti00unknuoft	549	16	∅	∅	Λευεί.	Λεύει.	image (4x): acute on υ, Λεύει
+judg	theoldtestamenti00unknuoft	549	16	ἀνὴρ	ἀνὴρ	ἀνὴρ	ἀνὴρ	image (3x): grave; next word Ἰούδα is a name, not a quotation
+judg	theoldtestamenti00unknuoft	549	16	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on Ι
+judg	theoldtestamenti00unknuoft	549	16	Eis	Εἰς	Εἰς	Εἰς	image (3x): smooth breathing on Ει
+judg	theoldtestamenti00unknuoft	549	18	ἡμῖν.	ἡμῖν. +ΤΙ	ἡμῖν.	ἡμῖν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	549	18	“Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	549	19	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on Ι
+judg	theoldtestamenti00unknuoft	549	19	Ἢτάμ,	Ἢτάμ,	Ἠτάμ,	Ἠτάμ,	image (3x): single apostrophe-shaped mark, smooth breathing, no accent on Η
+judg	theoldtestamenti00unknuoft	549	19	Σαμψών	Σαμψών	Σαμψών	Σαμψών	image (3x): acute on ω before capitalized word
+judg	theoldtestamenti00unknuoft	549	20	Οὐκ	Οὐκ	Οὐκ	Οὐκ	image (3x): smooth breathing on υ
+judg	theoldtestamenti00unknuoft	549	21	Σαμψών	Σαμψών	Σαμψών	Σαμψών	image (3x): acute on ω before capitalized word
+judg	theoldtestamenti00unknuoft	549	21	“Ov	Ὃν	Ὃν	Ὃν	image (3x): compact closed d-shaped mark, rough + grave
+judg	theoldtestamenti00unknuoft	549	21	ἐποίησάν	ἐποίησάν	ἐποίησάν	ἐποίησάν	image (3x): acute before enclitic as printed
+judg	theoldtestamenti00unknuoft	549	22	"“καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	549	22	Δῆσαί	Δῆσαί	Δῆσαί	Δῆσαί	image (3x): acute before enclitic as printed
+judg	theoldtestamenti00unknuoft	549	22	δοῦναί	δοῦναί	δοῦναί	δοῦναί	image (3x): acute before enclitic as printed
+judg	theoldtestamenti00unknuoft	549	23	Σαμψών	Σαμψών	Σαμψών	Σαμψών	image (3x): acute on ω before capitalized word
+judg	theoldtestamenti00unknuoft	549	23	Ὀμόσατέ	Ὀμόσατέ	Ὀμόσατέ	Ὀμόσατέ	image (3x): smooth breathing on Ο; acute before enclitic μοι

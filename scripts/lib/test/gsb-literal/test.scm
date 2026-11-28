@@ -108,6 +108,91 @@
               (lambda (segs _) (segments->sexp env segs (make-hash-table))))))
   (check "segments" sexp '(("Let" (1 come-to-be "γίνομαι")) ("light" (2 light "φῶς")) ("come to be." (cont 1)))))
 
+;;; Real verses, rendered from the repository's data (form analyses,
+;;; concordance, phrases) with NO overrides or pinned verses, so each check is
+;;; the rules' own output. Expected English decided from the Greek in
+;;; gsb/greek/01-gen.tsv.
+(define real-env
+  (call-with-values load-literal-env
+    (lambda (e problems)
+      (make-env (env-forms e) (env-nt e) (env-senses e) (env-phrases e) (make-hash-table) (make-hash-table)))))
+(define gen-verses (read-greek-table "gsb/greek/01-gen.tsv"))
+(define (gen ref)
+  (call-with-values (lambda () (render-verse real-env ref (assoc-ref gen-verses ref) #t))
+    (lambda (segs stop?) (string-join (map car segs) " "))))
+(define (has ref . parts)
+  (let ((text (gen ref)))
+    (for-each (lambda (p) (check (format #f "~a has ~s" ref p) (and (string-contains text p) #t) #t)) parts)))
+(define (lacks ref . parts)
+  (let ((text (gen ref)))
+    (for-each (lambda (p) (check (format #f "~a lacks ~s (in ~s)" ref p text) (string-contains text p) #f)) parts)))
+
+;; A1. μή opening a question expects "no": a plain yes/no question, not a negation.
+(has "gen.18.14" "Is utterance impossible beside God?")
+(has "gen.18.17" "Shall I hide from Abraham")
+(has "gen.4.9" "am I guard of my brother?")
+(has "gen.27.38" "Is one blessing to you, father?")
+;; A2. Prohibitions: μή + second person subjunctive, no subject pronoun.
+(has "gen.18.3" "do not pass by your servant")
+(lacks "gen.18.3" "you do not pass")
+(has "gen.19.7" "do not do evil")
+(has "gen.19.17" "do not look around" "nor stand")
+(has "gen.22.12" "Do not cast your hand upon the lad")
+(has "gen.26.2" "Do not go down into Egypt")
+(has "gen.3.1" "You will not eat at all")   ; οὐ μή is not a prohibition
+;; μή + first/third person subjunctive, μή ποτε: "lest".
+(has "gen.19.19" "lest the bad overtake me and I die")
+(has "gen.20.2" "lest ever the men of the city kill him")
+;; A3. The whole subject phrase moves, or nothing; never across a clause.
+(has "gen.27.19" "And Jacob his son said to his father")
+(has "gen.20.2" "But Abimelech king of Gerar sent and took Sarah")
+(has "gen.21.22" "Abimelech and Ahuzzath his groomsman and Phicol the commander-in-chief of his power said to Abraham")
+(has "gen.24.36" "And Sarah the woman of my")
+(has "gen.24.12" "said, Lord the God of")          ; vocative not moved, no [the]
+(has "gen.27.35" "Your brother having come with deceit took your blessing")
+(has "gen.24.65" "But the servant said, This is my")
+(lacks "gen.28.20" "I preserve")
+(has "gen.9.22" "And Ham the father of Canaan saw the nakedness of his father")
+(has "gen.9.23" "And Shem and Japheth having taken the garment")
+(has "gen.7.21" "And every flesh moving upon the earth of the birds and the livestock and the beasts died")
+(has "gen.10.10" "beginning of his/its kingdom came to be Babylon")
+(has "gen.25.11" "God blessed Isaac his son")
+(has "gen.26.5" "Abraham your father obeyed")
+(has "gen.12.7" "Abram built there altar")
+(has "gen.21.20" "but he came to be archer")       ; a person predicate gives the gender
+(has "gen.20.7" "that he is prophet")
+(has "gen.12.18" "that she is your woman")
+(has "gen.20.9" "What [is] this you made to us?")
+(has "gen.19.38" "But also the younger bore son")
+(has "gen.8.9" "And the dove not having found rest")
+(has "gen.12.11" "I know that")
+(has "gen.19.13" "That we destroy this place")
+(has "gen.22.12" "that you fear God")
+(has "gen.4.26" "son came to be")                 ; a dative possessor: the person is the subject
+(lacks "gen.22.1" "Abraham said")                 ; Ἀβραὰμ Ἀβραάμ is a call
+(has "gen.27.1" "and called Esau his son")        ; undecidable: Greek order, no false actor
+(has "gen.27.18" "who are you, child?")
+;; A4. Subjects of articular infinitives: possessive gerunds.
+(has "gen.19.16" "in [the] Lord's sparing him")
+(has "gen.19.29" "in [the] Lord's rubbing out all the cities" "in [the] Lord's overturning the cities")
+(has "gen.13.14" "after Lot's being separated from him")
+(has "gen.16.3" "of Abram's dwelling")
+(has "gen.27.1" "after Isaac's growing old")
+(has "gen.8.7" "until the water's being dried up from the earth")
+(has "gen.19.19" "of my soul's living")
+(has "gen.20.6" "of your not sinning into me")
+(has "gen.28.15" "until my making all")
+(has "gen.24.33" "until my speaking my utterances")
+(has "gen.27.33" "before your going in")
+(has "gen.11.2" "in their moving")
+(has "gen.28.6" "in blessing him")                ; a transitive infinitive's pronoun is its object
+;; A5. Genitive absolutes.
+(has "gen.18.1" "he being seated upon the door")
+(has "gen.24.30" "he having stood upon the camels")
+(has "gen.25.6" "he further living")
+;; B. Mechanics.
+(lacks "gen.13.8" "Let  not")
+
 (if (zero? failures)
     (format #t "gsb-literal: all checks pass~%")
     (begin (format #t "gsb-literal: ~a check(s) failed~%" failures) (exit 1)))

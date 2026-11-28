@@ -1,0 +1,28 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+judg	theoldtestamenti00unknuoft	507	1	KAI	ΚΑΙ	ΚΑΙ	ΚΑΙ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	507	1	pera	μετὰ	μετὰ	μετὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	507	1	τελευτὴν	τελευτὴν	τελευτὴν	τελευτὴν	image (3x): grave; next word is not a quotation
+judg	theoldtestamenti00unknuoft	507	1	Ἰησοῦ	Ἰησοῦ	Ἰησοῦ	Ἰησοῦ	image (3x): smooth breathing (apostrophe)
+judg	theoldtestamenti00unknuoft	507	1	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave; next word is not a quotation
+judg	theoldtestamenti00unknuoft	507	2	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe)
+judg	theoldtestamenti00unknuoft	507	3	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	507	4	Ἰούδας	Ἰούδας	Ἰούδας	Ἰούδας	image (3x): smooth breathing (apostrophe)
+judg	theoldtestamenti00unknuoft	507	4	τῇ.	τῇ	τῇ	τῇ	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	507	5	Ξκαὶ	Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	507	5	Ἰούδας	Ἰούδας	Ἰούδας	Ἰούδας	image (3x): smooth breathing (apostrophe)
+judg	theoldtestamenti00unknuoft	507	5	Ἀνάβηθι	Ἀνάβηθι	Ἀνάβηθι	Ἀνάβηθι	image (3x): smooth breathing (apostrophe)
+judg	theoldtestamenti00unknuoft	507	6	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	507	7	Gov.	σου.	σου.	σου.	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	507	8	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	507	8	Ἰούδας:	Ἰούδας:	Ἰούδας·	Ἰούδας·	image (3x): smooth breathing (apostrophe)
+judg	theoldtestamenti00unknuoft	507	10	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	507	10	Ἀδωνιβέζεκ	Ἀδωνιβέζεκ	Ἀδωνιβέζεκ	Ἀδωνιβέζεκ	image (3x): smooth breathing (apostrophe)
+judg	theoldtestamenti00unknuoft	507	11	αὐτόν:	αὐτόν:	αὐτόν·	αὐτόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	507	12	°xal	ὁκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	507	12	Ἀδωνιβέζεκ:	Ἀδωνιβέζεκ:	Ἀδωνιβέζεκ·	Ἀδωνιβέζεκ·	image (3x): smooth breathing (apostrophe)
+judg	theoldtestamenti00unknuoft	507	14	Τκαὶ	Τκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	507	14	Ἀδωνιβέζεκ	Ἀδωνιβέζεκ	Ἀδωνιβέζεκ	Ἀδωνιβέζεκ	image (3x): smooth breathing (apostrophe)
+judg	theoldtestamenti00unknuoft	507	14	Ἑβδομήκοντα	Ἑβδομήκοντα	Ἑβδομήκοντα	Ἑβδομήκοντα	image (3x): rough breathing (reversed comma)
+judg	theoldtestamenti00unknuoft	507	16	pou:	μου:	μου·	μου·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	507	17	ἀνταπέδωκέν	ἀνταπέδωκέν	ἀνταπέδωκέν	ἀνταπέδωκέν	image (3x): two acutes before enclitic μοι
+judg	theoldtestamenti00unknuoft	507	17	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing (apostrophe)

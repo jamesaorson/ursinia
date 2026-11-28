@@ -1,0 +1,77 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+josh	theoldtestamenti00unknuoft	475	1	Ἀσηδὼθ	Ἀσηδὼθ	Ἀσηδὼθ	Ἀσηδὼθ	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	475	1	αὐτῆς:	αὐτῆς"	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	1	κατέλιπον	κατέλιπον +Β	κατέλιπον	κατέλιπον	class R3: OCR appended accent-row or margin junk; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	2	Cans	ζωῆς	ζωῆς	ζωῆς	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	3	∅	ἐνετείλατο	ἐνετείλατο	ἐνετείλατο	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	3	∅	Κύριος	Κύριος	Κύριος	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	3	∅	ὁ	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	3	∅	θεὸς	θεὸς	θεὸς	image (3x): grave before capitalized word
+josh	theoldtestamenti00unknuoft	475	3	∅	Ἰσραήλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	475	3	∅	“᾿ἀπὸ	ἀπὸ	ἀπὸ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	3	∅	Καδὴς	Καδὴς	Καδὴς	image (3x): grave before capitalized word
+josh	theoldtestamenti00unknuoft	475	3	∅	Βαρνὴ	Βαρνὴ	Βαρνὴ	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	3	∅	ἕως	ἕως	ἕως	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	3	∅	Ταζης,	Γάζης,	Γάζης,	image (3x): Γ, not Τ
+josh	theoldtestamenti00unknuoft	475	4	Τόσομ	Τόσομ	Γόσομ	Γόσομ	image (3x): Γ, not Τ
+josh	theoldtestamenti00unknuoft	475	4	ews	ἕως	ἕως	ἕως	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	4	“Kai	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	5	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	475	5	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	5	ἅπαξ᾽	ἅπαξ᾽	ἅπαξ·	ἅπαξ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	5	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave before capitalized word
+josh	theoldtestamenti00unknuoft	475	6	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	475	6	Ἰσραήλ	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	475	7	: +Os	τΩς	Ὡς	Ὡς	image (3x): rough breathing on Ω after superscript 1
+josh	theoldtestamenti00unknuoft	475	7	Ἰαβεὶς	Ἰαβεὶς	Ἰαβεὶς	Ἰαβεὶς	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	475	7	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave before capitalized word
+josh	theoldtestamenti00unknuoft	475	7	Ἀσώρ,	Ἀσώρ,	Ἁσώρ,	Ἁσώρ,	image (3x): rough breathing (reversed comma) on Α
+josh	theoldtestamenti00unknuoft	475	7	Ἰωβὰβ	Ἰωβὰβ	Ἰωβὰβ	Ἰωβὰβ	image (3x): smooth breathing; grave on α, final β slightly blotted
+josh	theoldtestamenti00unknuoft	475	8	Ἀζείφ,	Ἀζείφ,	Ἀζείφ,	Ἀζείφ,	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	475	9	καὶ	ΡῚ +“καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+josh	theoldtestamenti00unknuoft	475	9	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	10	Ραβὰ	Ραβὰ	Ῥαβὰ	Ῥαβὰ	image (3x): rough breathing on Ρ
+josh	theoldtestamenti00unknuoft	475	11	καὶ	Ξκαὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+josh	theoldtestamenti00unknuoft	475	11	παραλίους +(3)	παραλίους +(3	παραλίους	παραλίους	class R3: OCR appended accent-row or margin junk; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	12	Ἀμορραίους	Ἀμορραίους	Ἀμορραίους	Ἀμορραίους	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	475	12	Evaiovs	Ἑὐαίους	Εὐαίους	Εὑαίους	image (3x): rough breathing on υ (open c-shape, unlike the apostrophe of Ἀμορραίους)
+josh	theoldtestamenti00unknuoft	475	12	Ἰεβουσαίους	Ἰεβουσαίους	Ἰεβουσαίους	Ἰεβουσαίους	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	475	13	∅	τῷ	τῷ	τῷ	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	13	∅	ὄρει	ὄρει	ὄρει	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	13	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	13	∅	τοὺς +Χ	τοὺς	τοὺς	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	13	∅	Χετταίους	Χετταίους	Χετταίους	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	13	∅	τοὺς	τοὺς	τοὺς	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	13	∅	ὑπὸ	ὑπὸ	ὑπὸ	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	13	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	13	∅	ἔρημον	ἔρημον	ἔρημον	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	13	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	13	∅	τὴν +Μ	τὴν	τὴν	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	13	∅	Μασευμάν.	Μασευμάν.	Μασευμάν.	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	13	∅	4 +“καὶ	καὶ	καὶ	image (3x): καὶ after superscript 4
+josh	theoldtestamenti00unknuoft	475	14	per	μετ᾽	μετ᾽	μετ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	15	σφόδρα. +5	σφόδρα.	σφόδρα.	σφόδρα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	15	καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	16	mapevé-	παρενέ-	παρενέ-	παρενέ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	17	Badov	βαλον	βαλον	βαλον	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	17	Mappav	Μαρρὼν	Μαρρὼν	Μαρρὼν	class R5: Latin-letter substitution in OCR; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	17	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	475	17	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	18	Ἰησοῦν	Ἰησοῦν	Ἰησοῦν	Ἰησοῦν	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	475	20	Ἰσραήλ:	Ἰσραήλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	475	21	71καὶ	1καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	21	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	image (3x): smooth breathing
+josh	theoldtestamenti00unknuoft	475	22	∅	ΕἾΤ	ἐπ᾽	ἐπ᾽	image (3x, strip 5): last printed line read from the image; OCR lost it
+josh	theoldtestamenti00unknuoft	475	22	∅	αὐτοὺυς	αὐτοὺς	αὐτοὺς	image (3x, strip 5): last printed line read from the image; OCR lost it
+josh	theoldtestamenti00unknuoft	475	22	∅	ἐπιτου	ἐπὶ	ἐπὶ	image (3x, strip 5): last printed line read from the image; OCR lost it
+josh	theoldtestamenti00unknuoft	475	22	∅	ὠρ	τὸ	τὸ	image (3x, strip 5): last printed line read from the image; OCR lost it
+josh	theoldtestamenti00unknuoft	475	22	∅	∅	ὕδωρ	ὕδωρ	image (3x, strip 5): last printed line read from the image; OCR lost it
+josh	theoldtestamenti00unknuoft	475	22	∅	Μαρρὼν	Μαρρὼν	Μαρρὼν	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	22	∅	ἐξάπινα,	ἐξάπινα,	ἐξάπινα,	class R0: OCR lost the word in extraction; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	22	∅	Και	καὶ	καὶ	image (3x, strip 5): last printed line read from the image; OCR lost it
+josh	theoldtestamenti00unknuoft	475	22	∅	ΕἸἼΤΕΊΤΕσαΨν	ἐπέπεσαν	ἐπέπεσαν	image (3x, strip 5): last printed line read from the image; OCR lost it
+josh	theoldtestamenti00unknuoft	475	22	∅	ἐπ	ἐπ᾽	ἐπ᾽	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+josh	theoldtestamenti00unknuoft	475	22	∅	αὐτους	αὐτοὺς	αὐτοὺς	image (3x, strip 5): last printed line read from the image; OCR lost it
+josh	theoldtestamenti00unknuoft	475	22	∅	εν	ἐν	ἐν	image (3x, strip 5): last printed line read from the image; OCR lost it
+josh	theoldtestamenti00unknuoft	475	11	-	-	Χαναναίους	Χαναναίους	image (3x): a parenthesized (3) is printed inside the line before Χαναναίους, after Swete superscript 3 at the line start; encoded {3}{=11:2}...{=11:3} (the (2) run-on is our inference)
+josh	theoldtestamenti00unknuoft	475	7	-	-	Ἰωβὰβ	Ἰωβὰβ	ambiguous: a blot touches the final β (worn type or ink); read β

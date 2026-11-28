@@ -369,6 +369,11 @@ spelling-key -> (lemma tag #f) readings, most frequent first."
   (and a b (case-of a) (eqv? (case-of a) (case-of b)) (eqv? (num-of a) (num-of b))
        (or (not (gen-of a)) (not (gen-of b)) (eqv? (gen-of a) (gen-of b)))))
 (define (lemma-in? x . ls) (and x (member (lemma x) ls) #t))
+(define %numeral-lemmas '("εἷς" "δύο" "τρεῖς" "τέσσαρες" "πέντε" "ἕξ" "ἑπτά" "ὀκτώ" "ἐννέα" "δέκα"))
+(define (numeral? x)
+  (and x (is? x "A") (or (apply lemma-in? x %numeral-lemmas) (equal? (u x 'tag) "A-NUI")
+                         (and (string? (u x 'tag)) (string-suffix? "-NUI" (u x 'tag))))
+       #t))
 
 (define (capital? s)
   (let ((c (string-index s char-alphabetic?)))
@@ -512,7 +517,12 @@ capital for a paragraph or direct speech, not for a name."
              ;; A capital on a common word (not a name, not Κύριος) opens
              ;; direct speech in Swete: "said, Let".
              (lower-cap . ,(lower-cap? (word-text* w) lem))
-             (speech . ,(and (> i 0) (lower-cap? (word-text* w) lem)))
+             ;; also a capital vocative (εἶπεν Κύριε): its capital is the speech's
+             (speech . ,(and (> i 0) (or (lower-cap? (word-text* w) lem)
+                                         (and (capital? (word-text* w)) (eqv? (tag-field (parse-tag tag) 'case) #\V)
+                                              ;; not inside speech: Δέσποτα Κύριε; Μή τι, Κύριε
+                                              ;; (after another vocative: assign-roles)
+                                              (string-null? (word-post* (list-ref words (- i 1))))))))
              (english . ,(override env ref n 'english))
              (before . ,(override env ref n 'before))
              (after . ,(override env ref n 'after))
@@ -535,6 +545,8 @@ capital for a paragraph or direct speech, not for a name."
         (let ((m (find (lambda (p)
                          (let ((ls (phrase-field p 'lemmas)))
                            (and (<= (length ls) (length us))
+                                ;; Κύριε ὁ θεός: a vocative is not the name phrase
+                                (not (eqv? (case-of (car us)) #\V))
                                 (every (lambda (l x) (equal? (string-normalize-nfc l) (lemma x))) ls (take us (length ls))))))
                        (env-phrases env))))
           (if (not m)
@@ -576,15 +588,32 @@ capital for a paragraph or direct speech, not for a name."
                  (vector-set! v i (u+ x 'tp (append (filter (lambda (kv) (memq (car kv) '(case number gender))) (tp p)) (tp x)))))
                 ((and (is? p "PREP") (assoc (lemma p) %prep-case))
                  => (lambda (pc) (vector-set! v i (u+ x 'tp (cons (cons 'case (cdr pc)) (tp x))))))
+                ;; after a preposition of several cases (ἐπὶ Ἅβελ) it is at least
+                ;; not a nominative
+                ((is? p "PREP") (vector-set! v i (u+ x 'prep-obj #t)))
                 ;; a name right after a noun is its genitive: τῷ οἴκῳ Ἰακώβ
                 ((and (is? x "N") (is? p "N") (not (tag-field (tp p) 'indeclinable)) (not (u p 'phrase))
                       (string-null? (u p 'post)))
                  (vector-set! v i (u+ x 'tp (cons '(case . #\G) (tp x)))))))))
+    ;; εἶπεν αὐτῷ Ἀβραὰμ Ἀβραάμ: a name said twice is a call, a vocative that
+    ;; opens speech
+    (do ((i 0 (+ i 1))) ((>= i (- n 1)))
+      (let ((x (at i)) (nx (at (+ i 1))))
+        (when (and (is? x "N") (not (case-of x)) (equal? (lemma x) (lemma nx)) (string-null? (u x 'post)))
+          (vector-set! v i (u+ x 'tp (cons '(case . #\V) (tp x)) 'speech (> i 0)))
+          (vector-set! v (+ i 1) (u+ nx 'tp (cons '(case . #\V) (tp nx)))))))
+    ;; Δέσποτα Κύριε: a vocative after a vocative does not open speech
+    (do ((i 1 (+ i 1))) ((>= i n))
+      (let ((x (at i)))
+        (when (and (u x 'speech) (eqv? (case-of x) #\V) (eqv? (case-of (at (- i 1))) #\V))
+          (vector-set! v i (u+ x 'speech #f)))))
     ;; κύριος without the article (the divine name) takes a supplied "[the]":
     ;; a sense's (anarthrous "[the]").
     (do ((i 0 (+ i 1))) ((>= i n))
       (let* ((x (at i)) (s (and (is? x "N") (not (u x 'phrase)) (unit-sense env x))) (a (and s (field1 s 'anarthrous))))
-        (when (and a (not (u x 'before)) (not (is? (at (skip-post (- i 1) -1)) "T")))
+        (when (and a (not (u x 'before)) (not (is? (at (skip-post (- i 1) -1)) "T"))
+                   ;; a vocative takes no article: Κύριε "Lord"
+                   (not (eqv? (case-of x) #\V)))
           (vector-set! v i (u+ x 'before a)))))
     ;; οὗ before a verb (or ἐάν, ἄν) is the adverb "where": τὸν γνόφον οὗ ἦν ὁ θεός.
     (do ((i 0 (+ i 1))) ((>= i (- n 1)))
@@ -602,12 +631,22 @@ capital for a paragraph or direct speech, not for a name."
          ((is? x "T")
           (vector-set! v i
             (u+ x 'role
-                (cond ((or (infinitive? nx) (and (lemma-in? nx "μή") (infinitive? (at (+ i 2))))) 'infinitive)
+                (cond ((or (infinitive? nx) (and (lemma-in? nx "μή") (infinitive? (at (+ i 2))))
+                           ;; πρὸ τοῦ σε εἰσελθεῖν: the subject between
+                           (and (is? nx "P") (eqv? (case-of nx) #\A) (infinitive? (at (+ i 2)))))
+                       'infinitive)
                       ;; ὁ δέ, οἱ δέ: the article as a pronoun, "but he".
                       ((and (lemma-in? (at (+ i 1)) "δέ" "μέν") (not (nominal? (at (+ i 2))))
                             (sense-of env "ὁ" 'pronoun))
                        'pronoun)
-                      ((and nx (name-like? env nx)) 'unrendered)
+                      ;; ... but in apposition to a name before it, "the":
+                      ;; Ἐφρὼν ὁ Χετταῖος "Ephron the Hittite"
+                      ((and nx (name-like? env nx)
+                            (not (and p (name-like? env p) (not (lemma-in? p "θεός")) (string-null? (u p 'post)) (not (u x 'speech))
+                                      (if (case-of p) (agree? p x) (eqv? (case-of x) #\N))))
+                            ;; Κύριε ὁ θεός: after a vocative, "the God"
+                            (not (and p (eqv? (case-of p) #\V))))
+                       'unrendered)
                       ((and p (or (is? p "N") (and (is? p "A") (not (lemma-in? p "πᾶς"))) (participle? p) (u p 'phrase))
                             (agree? p x)
                             (or (is? nx "A" "PREP" "ADV") (participle? nx)))
@@ -631,7 +670,9 @@ capital for a paragraph or direct speech, not for a name."
           (vector-set! v i (set-sense x 'if)))
          ((and (lemma-in? x "τέ") (not (u x 'sense)))
           (vector-set! v i (set-sense x (if (any (lambda (k) (lemma-in? (at k) "καί")) (iota (max 0 (- n i 1)) (+ i 1))) 'both 'and))))
-         ((and (is? x "D") p (is? p "N") (agree? p x) (at (- i 2)) (is? (at (- i 2)) "T") (agree? (at (- i 2)) p))
+         ((and (is? x "D") p (is? p "N") (agree? p x) (at (- i 2)) (is? (at (- i 2)) "T") (agree? (at (- i 2)) p)
+               ;; εἶπεν δὲ ὁ παῖς Οὗτός ἐστιν: a demonstrative opening speech is not the noun's
+               (not (u x 'speech)) (string-null? (u p 'post)))
           (vector-set! v i (u+ x 'role 'post-demonstrative)))
          ;; A noun can choose the sense of the preposition before it:
          ;; (with-preposition "εἰς" for) on σημεῖον gives εἰς σημεῖα "for signs".
@@ -677,6 +718,8 @@ capital for a paragraph or direct speech, not for a name."
                ;; The word before, looking past δέ/γάρ (ἀπὸ δὲ τοῦ ξύλου).
                (p (find (lambda (y) (not (apply lemma-in? y "ἄν" %postpositive))) prev)))
           (if (not (and (memv c '(#\G #\D)) (or (nominal? x) (u x 'phrase)) (not (u x 'phrase-prep))
+                        ;; a genitive absolute takes no "of": "he being seated"
+                        (not (u x 'gabs)) (not (u x 'gabs-start))
                         (not (eq? (u x 'role) 'possessive)) (np-start? x p)
                         ;; ταῖς ἑαυτοῦ γυναιξίν: the article two back starts the phrase
                         (not (and p (is? p "F" "P") (eqv? (case-of p) #\G) (is? x "N")
@@ -701,6 +744,13 @@ capital for a paragraph or direct speech, not for a name."
                               (cond
                                ;; after a preposition, or an adverb used as one (ἐπάνω τῆς ἀβύσσου)
                                ((and p (or (is? p "PREP") (and (is? p "ADV") (assoc (lemma p) %prep-case)))) (values "" #t))
+                               ;; an apposition shares its name's helper: ἀπὸ Ἀβραὰμ
+                               ;; τοῦ παιδός μου "from Abraham my servant", Σάρᾳ τῇ
+                               ;; γυναικὶ αὐτοῦ "to Sarai his woman"
+                               ((and p (name-like? env p) (not (lemma-in? p "θεός")) (eqv? (case-of p) c)
+                                     (let ((noun (if (is? x "T") (find (lambda (y) (not (is? y "T" "A"))) (take (cdr us) (min 2 (length (cdr us))))) x)))
+                                       (and noun (is? noun "N") (not (name-like? env noun)) (person-noun? env noun))))
+                                (values "" #f))
                                ;; "of the sea and the birds": a phrase joined by
                                ;; καί to one in the same case shares its helper.
                                ((and before-kai (eqv? (case-of before-kai) c) (assv c last-helper))
@@ -729,7 +779,11 @@ capital for a paragraph or direct speech, not for a name."
 
 (define (person-noun? env y)
   (let ((s (unit-sense env y)))
-    (and s (or (assq 'person (cdr s)) (eq? (car s) 'name) (lemma-in? y "θεός")) #t)))
+    (and s (or (assq 'person (cdr s))
+               ;; a proper name (capital gloss): not ὄνομα, whose sense is also called name
+               (and (eq? (car s) 'name) (string-index (gloss1 s) char-upper-case?))
+               (lemma-in? y "θεός"))
+         #t)))
 
 (define (strong-stop? post)
   (and (or (string-contains post "·") (string-contains post ".") (string-contains post ";")) #t))
@@ -783,6 +837,16 @@ with the open form (english \"his/its\")."
           (when (and (eq? (u (cadr us) 'role) 'possessive) (lemma-in? (cadr us) "αὐτός" "ἑαυτοῦ"))
             (hashq-set! h (car us) #t))
           (loop (cdr us))))
+      ;; τὸ ὄνομα τοῦ υἱοῦ αὐτοῦ: the noun a genitive owned noun depends on is
+      ;; not the owner either
+      (let loop ((us (reverse us)))
+        (when (pair? us)
+          (let ((y (car us)))
+            (when (and (hashq-ref h y) (eqv? (case-of y) #\G))
+              (let ((head (find (lambda (z) (not (is? z "T"))) (cdr us))))
+                ;; (not a name it is in apposition to: ἀντὶ Ἰσαὰκ τοῦ υἱοῦ αὐτοῦ)
+                (when (and head (is? head "N") (not (person-noun? env head))) (hashq-set! h head #t)))))
+          (loop (cdr us))))
       h))
   (define owned (possessed-set (append prev-units units)))
   (let loop ((us units) (prev '()) (acc '()))
@@ -830,20 +894,203 @@ or another accusative follows (its object): μετὰ τὸ γεννῆσαι α
 \"after his begetting Seth\", ἐν τῷ εἶναι αὐτούς \"in their being\"."
   (let* ((v (list->vector units)) (n (vector-length v)))
     (define (at i) (and (>= i 0) (< i n) (vector-ref v i)))
+    (define (acc-after? k)
+      ;; an accusative noun phrase (the infinitive's object) starts at K
+      (let ((y (at k))) (and y (eqv? (case-of y) #\A) (or (nominal? y) (u y 'phrase)) (not (is? y "R")))))
     (do ((i 0 (+ i 1))) ((>= i n) (vector->list v))
       (let ((x (at i)))
         (when (and (is? x "T") (eq? (u x 'role) 'infinitive))
-          (let* ((k (if (lemma-in? (at (+ i 1)) "μή") (+ i 2) (+ i 1)))
+          (let* ((pre-subj (and (is? (at (+ i 1)) "P") (eqv? (case-of (at (+ i 1))) #\A) (infinitive? (at (+ i 2)))))
+                 (k (cond (pre-subj (+ i 2)) ((lemma-in? (at (+ i 1)) "μή") (+ i 2)) (else (+ i 1))))
                  (inf (at k))
-                 (after-prep (and (at (- i 1)) (is? (at (- i 1)) "PREP"))))
-            (when (and (infinitive? inf) (or (u x 'gerund) after-prep))
-              (vector-set! v k (u+ inf 'gerund #t))
-              (let ((s (at (+ k 1))) (s2 (at (+ k 2))))
-                (when (and after-prep s (is? s "P") (eqv? (case-of s) #\A)
-                           (or (lemma-in? inf "εἰμί")
-                               (assq 'intransitive (cdr (or (unit-sense env inf) '(#f))))
-                               (and s2 (eqv? (case-of s2) #\A) (or (nominal? s2) (u s2 'phrase)))))
-                  (vector-set! v (+ k 1) (u+ s 'role 'inf-subject)))))))))))
+                 (after-prep (and (at (- i 1)) (or (is? (at (- i 1)) "PREP") (assoc (lemma (at (- i 1))) %prep-case)) #t))
+                 (sense (unit-sense env inf))
+                 (intrans (or (lemma-in? inf "εἰμί") (and sense (assq 'intransitive (cdr sense)))
+                              ;; a true passive (not a passive deponent, V-AON: μνησθῆναι)
+                              (and inf (eqv? (tag-field (tp inf) 'voice) #\P) (not (equal? (field1 sense 'voice) 'active))))))
+            ;; πρὸ τοῦ σε εἰσελθεῖν: the subject before the infinitive
+            (when pre-subj (vector-set! v (+ i 1) (u+ (at (+ i 1)) 'role 'inf-subject)))
+            (when (infinitive? inf)
+              (let ((s (at (+ k 1))) (gerund? (or (u x 'gerund) after-prep pre-subj)))
+                (define (subject-found!)
+                  ;; τοῦ ζῆσαι τὴν ψυχήν μου: with a subject the infinitive is a
+                  ;; possessive gerund too, "of my soul's living"
+                  (unless gerund?
+                    (vector-set! v k (u+ (at k) 'gerund #t))
+                    (when (and (eqv? (case-of x) #\G) (string-null? (u x 'helper)))
+                      (vector-set! v i (u+ (at i) 'helper "of")))))
+                (when gerund? (vector-set! v k (u+ inf 'gerund #t)))
+                (cond
+                 (pre-subj #t)
+                 ;; μετὰ τὸ γεννῆσαι αὐτὸν τὸν Σήθ, ἐν τῷ κινῆσαι αὐτούς: an
+                 ;; accusative pronoun is the subject when the infinitive is
+                 ;; intransitive, or (after a preposition) another accusative, its
+                 ;; object, follows; else it is the object (ἐν τῷ εὐλογεῖν αὐτόν
+                 ;; "in blessing him"; τοῦ μὴ ἀνελεῖν αὐτὸν πάντα τὸν εὑρίσκοντα).
+                 ((and s (is? s "P") (eqv? (case-of s) #\A) (or intrans (and after-prep (acc-after? (+ k 2)))))
+                  (vector-set! v (+ k 1) (u+ s 'role 'inf-subject))
+                  (subject-found!))
+                 ;; A noun subject: μετὰ τὸ διαχωρισθῆναι τὸν Λώτ, ἐν τῷ ἐκτρῖψαι
+                 ;; Κύριον πάσας τὰς πόλεις, μετὰ τὸ γηρᾶσαι Ἰσαάκ: an accusative
+                 ;; (or indeclinable name) phrase after the infinitive is its
+                 ;; subject when the infinitive is intransitive or passive, takes
+                 ;; a genitive object, an object follows, or it is a name.
+                 ((and s (not (is? s "P" "R")) (or (eqv? (case-of s) #\A) (caseless-name? s))
+                       (scan-np (vector->list v) (+ k 1) #f #:want #\A #:env env))
+                  => (lambda (np)
+                       (when (pair? np)
+                         (let* ((end (first np))
+                                (gen-obj (and (field sense 'genitive) (at end) (eqv? (case-of (at end)) #\G)))
+                                ;; φείσασθαι Κύριον αὐτοῦ: with a verb taking a
+                                ;; genitive, αὐτοῦ is the object, not "his Lord"
+                                (poss-obj (and (field sense 'genitive) (let ((y (at (- end 1))))
+                                                                         (and (is? y "P") (eq? (u y 'role) 'possessive) (> (- end 1) (+ k 1))))))
+                                (end (if poss-obj (- end 1) end)))
+                           (when (or intrans gen-obj poss-obj (acc-after? end) (caseless-name? (third np)))
+                             (when poss-obj (vector-set! v end (u+ (at end) 'role #f)))
+                             (for-each (lambda (m) (vector-set! v m (u+ (at m) 'inf-np #t))) (iota (- end k 1) (+ k 1)))
+                             (subject-found!)))))))))))))))
+
+(define (mark-genitive-absolutes env units)
+  "A genitive absolute: an anarthrous genitive participle with a genitive
+subject agreeing with it, not governed by a preposition, an article, a noun
+or a verb taking the genitive: καθημένου αὐτοῦ \"he being seated\", ἔτι
+ζῶντος αὐτοῦ \"he still living\". The participle ('gabs) and its subject
+('gabs-subj) take no \"of\"; the subject goes before the participle in
+the nominative (np-internal-moves)."
+  (let* ((v (list->vector units)) (n (vector-length v)))
+    (define (at i) (and (>= i 0) (< i n) (vector-ref v i)))
+    (do ((i 0 (+ i 1))) ((>= i n) (vector->list v))
+      (let* ((x (at i))
+             (pk (let back ((k (- i 1))) (let ((y (at k))) (if (and y (or (lemma-in? y "ἔτι") (apply lemma-in? y %postpositive))) (back (- k 1)) k))))
+             (p (at pk))
+             (s (at (+ i 1))))
+        (when (and (participle? x) (eqv? (case-of x) #\G)
+                   (not (and p (or (is? p "PREP" "T")
+                                   ;; (an attributive participle follows its noun directly)
+                                   (and (= pk (- i 1)) (string-null? (u p 'post))
+                                        (eqv? (case-of p) #\G) (or (nominal? p) (u p 'phrase)))
+                                   (and (is? p "V" "A") (field (unit-sense env p) 'genitive)))))
+                   s (eqv? (case-of s) #\G) (is? s "P" "T" "N") (not (eq? (u s 'role) 'possessive))
+                   (eqv? (num-of s) (num-of x)) (memv (gen-of s) (list (gen-of x) #f)))
+          (let ((np (scan-np (vector->list v) (+ i 1) #t #:want #\G #:env env)))
+            (when (pair? np)
+              (vector-set! v i (u+ x 'gabs #t))
+              (for-each (lambda (m) (vector-set! v m (u+ (at m) 'gabs-subj #t (if (memv m (fourth np)) 'gabs-start 'gabs-in) #t)))
+                        (iota (- (first np) i 1) (+ i 1))))))))))
+
+;;; μή (gsb/literal/README.md, "Negation"): a question expecting "no", a
+;;; prohibition, a fear ("lest") or a plain "not", decided in Greek order.
+
+(define %mh-subordinators
+  '("ἵνα" "ὅπως" "ἐάν" "εἰ" "ὅταν" "ὅτι" "ἕως" "ὥστε" "διότι" "ὡς" "ἄν" "ὅς" "ὅστις" "πρίν" "ὅτε" "ἡνίκα"))
+
+(define (mark-mh env units)
+  "μή opening a sentence that ends in a question mark (no subordinator before
+it) marks a yes/no question: μή is unrendered ('yn-q, sense question) and
+its finite verb gets 'yn-question (\"Is utterance impossible beside God?\").
+Otherwise, outside a subordinate clause: μή ποτε and μή + first or third
+person subjunctive are \"lest\"; μή (or μηδέ) + second person subjunctive is a
+prohibition ('prohibit: no subject pronoun, \"do not pass by\")."
+  (let* ((v (list->vector units)) (n (vector-length v)))
+    (define (at i) (and (>= i 0) (< i n) (vector-ref v i)))
+    (define (prev-word i)
+      ;; the word before I, past postpositives; #f at a sentence start
+      (let loop ((k (- i 1)))
+        (let ((y (at k)))
+          (cond ((not y) #f)
+                ((strong-stop? (u y 'post)) #f)
+                ((apply lemma-in? y %postpositive) (loop (- k 1)))
+                (else y)))))
+    (define (question-end? i)
+      (let loop ((k i))
+        (let ((y (at k)))
+          (cond ((not y) #f)
+                ((string-contains (u y 'post) ";") #t)
+                ((strong-stop? (u y 'post)) #f)
+                (else (loop (+ k 1)))))))
+    (define (first-finite i)
+      ;; the first finite verb after I in its sentence, not past a relative
+      ;; or subordinator
+      (let loop ((k (+ i 1)))
+        (let ((y (at k)))
+          (cond ((not y) #f)
+                ((finite? y) k)
+                ((or (is? y "R") (apply lemma-in? y %mh-subordinators)) #f)
+                ((strong-stop? (u y 'post)) #f)
+                (else (loop (+ k 1)))))))
+    (do ((i 0 (+ i 1))) ((>= i n) (vector->list v))
+      (let* ((x (at i)) (p (prev-word i)) (nx (at (+ i 1))))
+        (cond
+         ((and (lemma-in? x "μή") (not (u x 'sense)))
+          (let ((sub? (or (and p (or (apply lemma-in? p %mh-subordinators) (is? p "T" "R")
+                                     ;; οὐ μή, οὐδὲ μή: the emphatic negation
+                                     (lemma-in? p "οὐ" "οὐδέ")))
+                          ;; ἐὰν ὀρθῶς προσενέγκῃς, ὀρθῶς δὲ μὴ διέλῃς: a subordinator
+                          ;; earlier in the sentence (not before direct speech)
+                          (let back ((k (- i 1)))
+                            (let ((y (at k)))
+                              (cond ((or (not y) (strong-stop? (u y 'post))) #f)
+                                    ;; (one that takes the subjunctive: after εἰ ... , μὴ
+                                    ;; παρέλθῃς is the apodosis, a prohibition)
+                                    ((lemma-in? y "ἐάν" "ἵνα" "ὅπως" "ὅταν" "ἄν") #t)
+                                    ((u y 'speech) #f)
+                                    (else (back (- k 1)))))))))
+            (cond
+             ((lemma-in? nx "ποτέ") (vector-set! v i (u+ (set-sense x 'lest) 'opener #t)))
+             (sub? #f)
+             ((and (or (not p) (lemma-in? p "καί") (not (string-null? (u p 'post))) (u x 'speech) (u x 'cap))
+                   (question-end? i) (first-finite i) (sense-of env "μή" 'question))
+              => (lambda (_)
+                   (let ((k (first-finite i)))
+                     (vector-set! v i (u+ (set-sense x 'question) 'yn-q #t))
+                     (vector-set! v k (u+ (at k) 'yn-question #t)))))
+             ((and (finite? nx) (eqv? (mood nx) #\S))
+              (if (eqv? (tag-field (tp nx) 'person) #\2)
+                  (vector-set! v (+ i 1) (u+ nx 'prohibit #t))
+                  (when (sense-of env "μή" 'lest)
+                    (vector-set! v i (u+ (set-sense x 'lest) 'opener #t))))))))
+         ((and (lemma-in? x "μηδέ") (finite? nx) (eqv? (mood nx) #\S) (eqv? (tag-field (tp nx) 'person) #\2))
+          (vector-set! v (+ i 1) (u+ nx 'prohibit #t))))))))
+
+;;; Clauses: every unit gets 'cl, a number that changes where a clause opens
+;;; (direct speech, a relative, a subordinator, καί before a finite verb).
+;;; No word order rule moves a word into another clause.
+
+(define %clause-openers
+  '("ὅτι" "διότι" "ἵνα" "ὅπως" "εἰ" "ἐάν" "ὅταν" "ὅτε" "ἡνίκα" "ἐπεί" "ἐπειδή" "καθώς" "καθά" "καθότι"
+    "ὡς" "ὥσπερ" "ὥστε" "πρίν" "ἀλλά" "ὅπου" "ὅθεν" "οὗ" "καθάπερ" "καθό" "ὅσος" "οἷος" "ἡνίκα" "ὅτε" "ἐπάν"))
+
+(define (mark-questions units)
+  "'in-question on every unit of a sentence that ends in a Greek question
+mark (;), also past commas: Τί τοῦτο ἐποίησάς μοι, ὅτι ...;"
+  (let loop ((us (reverse units)) (q? #f) (acc '()))
+    (match us
+      (() acc)
+      ((x . rest)
+       (let ((q? (cond ((string-contains (u x 'post) ";") #t)
+                       ((strong-stop? (u x 'post)) #f)
+                       (else q?))))
+         (loop rest q? (cons (u+ x 'in-question q?) acc)))))))
+
+(define (mark-clauses units)
+  (let loop ((us (mark-questions units)) (cl 0) (acc '()))
+    (match us
+      (() (reverse acc))
+      ((x . rest)
+       (let* ((nx (and (pair? rest) (car rest)))
+              (opens? (and (pair? acc)
+                           (or (u x 'speech) (u x 'opener)
+                               (and (is? x "R") (not (eq? (u x 'role) 'possessive)))
+                               (and (apply lemma-in? x %clause-openers) (not (is? x "PREP"))
+                                    ;; ὅσα ἐάν, οὗ ἐάν: "ever", inside the relative's clause
+                                    (not (and (lemma-in? x "ἐάν") (is? (car acc) "R" "ADV"))))
+                               (and (lemma-in? x "ἕως") (not (and nx (eqv? (case-of nx) #\G))))
+                               (and (lemma-in? x "καί") nx
+                                    (or (finite? nx)
+                                        (and (lemma-in? nx "οὐ" "μή") (pair? (cdr rest)) (finite? (cadr rest))))))))
+              (cl (if opens? (+ cl 1) cl)))
+         (loop rest cl (cons (u+ x 'cl cl) acc)))))))
 
 ;;; Spans: runs of units ending at Greek punctuation.
 
@@ -893,6 +1140,18 @@ or another accusative follows (its object): μετὰ τὸ γεννῆσαι α
                (y (and (< (+ i 1) (length span)) (list-ref span (+ i 1))))
                (z (and (< (+ i 2) (length span)) (list-ref span (+ i 2)))))
           (cond
+           ;; μὴ φύλαξ τοῦ ἀδελφοῦ μού εἰμι ἐγώ; the question's verb comes up to
+           ;; its μή, which stays unrendered: "Am I guard of my brother?"
+           ((u x 'yn-q)
+            (let ((k (index-where span (lambda (w) (u w 'yn-question)))))
+              (loop (if (and k (> k (+ i 1))) (move span k (+ i 1)) span) (+ i 1))))
+           ((memq (u x 'sense) '(lest question)) (loop span (+ i 1)))
+           ;; οὐ μή σε ἐγκαταλείπω: the pronoun goes after the verb
+           ((and (lemma-in? x "οὐ") (lemma-in? y "μή") z (is? z "P" "F") (not (eqv? (case-of z) #\N))
+                 (< (+ i 3) (length span)) (finite? (list-ref span (+ i 3))))
+            (let ((w (list-ref span (+ i 3))))
+              (loop (append (take span i) (list (u+ (merge-refs x (merge-refs y w)) 'neg #t 'at-all #t) z) (drop span (+ i 4)))
+                    (+ i 1))))
            ((and (lemma-in? x "οὐ") (lemma-in? y "μή") (finite? z))
             (loop (append (take span i) (list (u+ (merge-refs x (merge-refs y z)) 'neg #t 'at-all #t)) (drop span (+ i 3))) (+ i 1)))
            ;; οὐδὲ μή: "nor at all will you serve"
@@ -926,7 +1185,8 @@ article), attributive adjectives before their noun."
            ;; an articular infinitive's subject goes before it as a
            ;; possessive: μετὰ τὸ γεννῆσαι αὐτόν "after his begetting"
            ((and (eq? (u x 'role) 'inf-subject) (not (u x 'moved)) p (infinitive? p))
-            (loop (move (list-set-copy span i (u+ x 'moved #t)) i (- i 1)) (+ i 1)))
+            ;; τοῦ μὴ ἁμαρτεῖν σε "of your not sinning"
+            (loop (move (list-set-copy span i (u+ x 'moved #t)) i (if (and pp (lemma-in? pp "μή")) (- i 2) (- i 1))) (+ i 1)))
            ;; article + reflexive genitive + noun: "the women of himself"
            ;; (ταῖς ἑαυτοῦ γυναιξίν); English has no slot between.
            ((and (is? x "T") (is? nx "F") (eqv? (case-of nx) #\G) (not (u nx 'moved))
@@ -954,12 +1214,46 @@ article), attributive adjectives before their noun."
            ((and (is? x "N") (not (u x 'phrase)) (not (and p (is? p "T") (agree? p x)))
                  nx (agree? x nx) (not (u nx 'moved))
                  (or (and (is? nx "A") (not (lemma-in? nx "πᾶς"))
-                          ;; not an adjective with its own complement (ὅμοιος αὐτῷ)
-                          (let ((nn (at (+ i 2)))) (not (and nn (nominal? nn) (memv (case-of nn) '(#\G #\D))))))
+                          ;; not an adjective with its own complement (ὅμοιος αὐτῷ);
+                          ;; a numeral has none (υἱὸν ἕνα τῷ κυρίῳ μου "one son")
+                          (or (numeral? nx)
+                              (let ((nn (at (+ i 2)))) (not (and nn (nominal? nn) (memv (case-of nn) '(#\G #\D)))))))
+                     ;; (with a complement it stays after: σὰρξ κινουμένη ἐπὶ τῆς γῆς)
                      (and (participle? nx)
-                          (let ((nn (at (+ i 2)))) (or (not nn) (is? nn "CONJ" "PREP"))))))
+                          (let ((nn (at (+ i 2)))) (or (not nn) (is? nn "CONJ"))))))
             (let ((span (move (list-set-copy span (+ i 1) (u+ nx 'moved #t)) (+ i 1) i)))
               (loop (transfer-helper span i (+ i 1)) (+ i 2))))
+           (else (loop span (+ i 1))))))))
+
+(define (move-verbal-subjects span)
+  "The subject phrase of an articular infinitive goes before it as a
+possessive (μετὰ τὸ διαχωρισθῆναι τὸν Λώτ \"after Lot's being separated\",
+the last word taking \"'s\"); a genitive absolute's subject goes before its
+participle in the nominative (καθημένου αὐτοῦ \"he being seated\", ἔτι
+ζῶντος αὐτοῦ \"he still living\")."
+  (define (block-end span k key)
+    (let loop ((m k)) (if (and (< m (length span)) (u (list-ref span m) key)) (loop (+ m 1)) m)))
+  (let loop ((span span) (i 0))
+    (if (>= i (length span))
+        span
+        (let ((x (list-ref span i)))
+          (cond
+           ((and (infinitive? x) (u x 'gerund) (< (+ i 1) (length span)) (u (list-ref span (+ i 1)) 'inf-np))
+            (let* ((end (block-end span (+ i 1) 'inf-np))
+                   (span (list-set-copy span (- end 1) (u+ (list-ref span (- end 1)) 'poss-s #t)))
+                   (to (if (and (> i 0) (lemma-in? (list-ref span (- i 1)) "μή")) (- i 1) i)))
+              (loop (move-range span (+ i 1) end to) (+ i 1 (- end i 1)))))
+           ((and (u x 'gabs) (< (+ i 1) (length span)) (u (list-ref span (+ i 1)) 'gabs-subj))
+            (let* ((end (block-end span (+ i 1) 'gabs-subj))
+                   (to (if (and (> i 0) (lemma-in? (list-ref span (- i 1)) "ἔτι")) (- i 1) i))
+                   (span (append (take span (+ i 1))
+                                 (map (lambda (y) (if (is? y "P" "F") (u+ y 'as-nominative #t) y)) (take (drop span (+ i 1)) (- end i 1)))
+                                 (drop span end)))
+                   (span (move-range span (+ i 1) end to))
+                   ;; the participle's capital (a sentence start) goes to the subject
+                   (span (if (u (list-ref span to) 'cap) span
+                             (list-set-copy span to (u+ (list-ref span to) 'cap (u x 'cap))))))
+              (loop span (+ i 1 (- end i 1)))))
            (else (loop span (+ i 1))))))))
 
 ;;; Subjects.
@@ -971,7 +1265,10 @@ name with no article. A participle or adjective only after its article
 (ἔστω διαχωρίζον, γυμνοὶ ἦσαν are not subjects); not the first word of
 direct speech."
   (and x (or (nominal? x) (u x 'phrase))
-       (not (memq (u x 'role) '(possessive)))
+       (not (memq (u x 'role) '(possessive inf-subject)))
+       ;; a vocative's apposition, a genitive absolute's or an infinitive's
+       ;; subject is not the verb's
+       (not (u x 'vocative)) (not (u x 'gabs-subj)) (not (u x 'inf-np)) (not (u x 'gabs)) (not (u x 'prep-obj))
        (or (not (or (participle? x) (and (is? x "A") (not (u x 'phrase)))))
            (and prev (is? prev "T") (agree? prev x))
            (lemma-in? x "πᾶς")   ; πᾶς ὁ λαός
@@ -982,56 +1279,151 @@ direct speech."
 
 (define (nom-or-participle? x prev definite?) (nom? x definite? prev))
 
-(define* (scan-np span j definite? #:optional no-genitive?)
-  "The subject noun phrase starting at J as (end coordinated? head), END
-exclusive, or #f."
-  (let loop ((k j) (state 'pre) (coord #f) (head #f))
-    (let ((x (and (< k (length span)) (list-ref span k)))
-          (p (and (> k 0) (list-ref span (- k 1))))
-          (nx (and (< (+ k 1) (length span)) (list-ref span (+ k 1)))))
-      (define (done) (and head (list k coord head)))
+(define* (np-word? x want definite? #:optional prev)
+  "X can be a word of a noun phrase in case WANT (#\\N: nom?)."
+  (if (eqv? want #\N)
+      (nom? x definite? prev)
+      (and x (or (nominal? x) (u x 'phrase))
+           (not (memq (u x 'role) '(possessive inf-subject)))
+           (or (not (or (participle? x) (and (is? x "A") (not (u x 'phrase)))))
+               (and prev (is? prev "T") (agree? prev x))
+               (lemma-in? x "πᾶς") (u x 'moved))
+           (or (eqv? (case-of x) want) (and (is? x "N") (not (case-of x)))))))
+
+(define (np-noun span k)
+  "The first word from K that is not an article or a possessive moved before
+its noun: the noun of the phrase starting at K."
+  (find (lambda (y) (not (or (is? y "T" "A") (and (memq (u y 'role) '(possessive post-demonstrative)) (u y 'moved)))))
+        (drop span (min k (length span)))))
+
+(define (phrase-before span k)
+  "The word before the noun phrase that K is in: past articles, adjectives and
+possessives moved before their noun (καὶ αὐτοῦ ἡ γυνή: καί)."
+  (let loop ((m (- k 1)))
+    (let ((y (and (>= m 0) (list-ref span m))))
+      (if (and y (or (is? y "T" "A") (and (memq (u y 'role) '(possessive post-demonstrative)) (u y 'moved))))
+          (loop (- m 1))
+          y))))
+
+(define (caseless-name? x)(and x (is? x "N") (not (case-of x)) (tag-field (tp x) 'indeclinable) #t))
+
+(define* (scan-np span j definite? #:key no-genitive? (want #\N) cl copula? env)
+  "The whole noun phrase in case WANT starting at J, in the span's current
+order: its head with article, adjectives, genitives, possessives,
+attributive phrases, an agreeing participle with its complements, an
+apposition, and members joined by καί, all inside clause CL (when given). As
+(end coordinated? head starts), END exclusive, STARTS the indices where its
+members and appositions begin; 'name-oblique when its head is an
+indeclinable name followed by a person noun in another case (ἐκάλεσεν Ἠσαὺ
+τὸν υἱὸν αὐτοῦ: Esau is in apposition to the object); or #f."
+  (define (at k) (and (>= k 0) (< k (length span)) (list-ref span k)))
+  (define (in-cl? x) (and x (or (not cl) (eqv? (u x 'cl) cl))))
+  (define (word? x p) (and (in-cl? x) (np-word? x want definite? p)))
+  (let loop ((k j) (state 'pre) (coord #f) (head #f) (starts (list j)) (arth #f))
+    (let ((x (at k)) (p (at (- k 1))) (nx (at (+ k 1))))
+      (define (done) (and head (list k coord head (reverse starts))))
       (case state
         ((pre)
-         (cond ((not x) (done))
+         (cond ((not (in-cl? x)) (done))
                ;; a possessive already moved before its noun: "their adornment"
-               ((and (memq (u x 'role) '(possessive post-demonstrative)) (u x 'moved)) (loop (+ k 1) 'pre coord head))
+               ((and (memq (u x 'role) '(possessive post-demonstrative)) (u x 'moved)) (loop (+ k 1) 'pre coord head starts arth))
                ;; an interrogative, relative or the first word of direct speech
-               ;; begins a new clause, not the subject of the verb before it
+               ;; begins a new clause
                ((and (= k j) (or (is? x "I" "R") (u x 'speech))) #f)
-               ((not (nom-or-participle? x p definite?)) (done))
+               ((not (word? x p)) (done))
                ((and (not (u x 'phrase))
                      (or (and (is? x "T") nx)
-                         (and (is? x "D") (nom-or-participle? nx x definite?))
-                         (and (is? x "A") nx (or (and (is? nx "T") (agree? x nx)) (nom? nx definite?)
+                         (and (is? x "D") (word? nx x))
+                         (and (is? x "A") nx (or (and (is? nx "T") (agree? x nx)) (word? nx x)
                                                  ;; πᾶς αὐτῶν ὁ κόσμος, the possessive moved forward
                                                  (and (eq? (u nx 'role) 'possessive) (u nx 'moved))))))
-                (loop (+ k 1) 'pre coord head))
-               (else (loop (+ k 1) 'post coord (or head x)))))
+                (loop (+ k 1) 'pre coord head starts (or arth (is? x "T"))))
+               (else (loop (+ k 1) 'post coord (or head x) starts (or arth (and p (is? p "T") (agree? p x)))))))
         ((post)
-         (cond ((not x) (done))
-               ;; a genitive belongs to the subject, unless the verb takes a
-               ;; genitive object (ἐπλήσθη ἡ γῆ ἀδικίας: NO-GENITIVE?)
-               ;; nor after an indeclinable name (ἦν Νῶε ἐτῶν πεντακοσίων)
-               ((and (not no-genitive?) (not (and head (tag-field (tp head) 'indeclinable)))
+         (cond ((not (in-cl? x)) (done))
+               ((and env (caseless-name? head) (eq? p head)
+                     (let ((noun (np-noun span k)))
+                       (and noun (is? noun "N") (case-of noun) (not (eqv? (case-of noun) want))
+                            ;; (a name is singular: ἐνετείλατο Φαραὼ ἀνδράσιν; an
+                            ;; apposition has its article: λήμψεται Ἰακὼβ γυναῖκα; and a
+                            ;; genitive is the verb's: ἤκουσεν Ἰακὼβ τοῦ πατρός)
+                            (not (eqv? (num-of noun) #\P)) (not (eqv? (case-of noun) #\G))
+                            (any (lambda (y) (is? y "T")) (take-while (lambda (y) (not (eq? y noun))) (drop span k)))
+                            (not (name-like? env noun)) (person-noun? env noun))))
+                'name-oblique)
+               ;; a genitive belongs to the phrase, unless the verb takes a
+               ;; genitive object (ἐπλήσθη ἡ γῆ ἀδικίας: NO-GENITIVE?) nor
+               ;; after a name with εἰμί (ἦν Νῶε ἐτῶν πεντακοσίων)
+               ((and (not no-genitive?) (not (and copula? head (tag-field (tp head) 'indeclinable)))
+                     ;; (a pronoun has no genitive: ἐφεισάμην ἐγώ σου)
+                     (not (is? head "P" "F"))
                      (memv (case-of x) '(#\G)) (or (nominal? x) (u x 'phrase)) (not (is? x "R"))
-                     (not (eq? (u x 'role) 'possessive)))
-                (loop (+ k 1) 'post coord head))
-               ((and (memq (u x 'role) '(possessive post-demonstrative)) (not (u x 'moved))) (loop (+ k 1) 'post coord head))
-               ((eq? (u x 'role) 'attributive) (loop (+ k 1) 'attr coord head))
-               ((and definite? (lemma-in? x "καί") (or (nom? nx #t) (and (lemma-in? nx "πᾶς") (eqv? (case-of nx) #\N))))
-                (loop (+ k 1) 'pre #t head))
+                     ;; (a possessive moved before its own genitive noun only)
+                     (or (not (eq? (u x 'role) 'possessive))
+                         (and (u x 'moved)
+                              (let ((y (find (lambda (y) (not (eq? (u y 'role) 'absorbed))) (drop span (+ k 1)))))
+                                (and y (eqv? (case-of y) #\G) (is? y "N" "A")))))
+                     ;; in a genitive phrase, only a noun (τῶν υἱῶν Χέτ)
+                     (or (not (eqv? want #\G)) (is? x "N")))
+                (loop (+ k 1) 'post coord head starts arth))
+               ((and (memq (u x 'role) '(possessive post-demonstrative)) (not (u x 'moved))) (loop (+ k 1) 'post coord head starts arth))
+               ((eq? (u x 'role) 'attributive) (loop (+ k 1) 'attr coord head starts arth))
+               ;; σὰρξ κινουμένη ἐπὶ τῆς γῆς: an anarthrous participle agreeing
+               ;; with an anarthrous common noun, with its complements
+               ((and (participle? x) (eqv? (case-of x) want) (agree? head x) (not arth)
+                     (is? head "N") (not (tag-field (tp head) 'indeclinable)) (not (u x 'moved))
+                     ;; (after a name it is adverbial: ἠρνήσατο Σάρρα λέγουσα)
+                     (not (and env (name-like? env head))))
+                (loop (+ k 1) 'pcomp coord head starts arth))
+               ;; an apposition: Ἰακὼβ ὁ υἱὸς αὐτοῦ, Ἀβιμέλεχ βασιλεὺς Γεράρων
+               ;; a substantival participle's complements: τῶν εἰσπορευομένων εἰς τὴν πόλιν
+               ((and (participle? p) (is? x "PREP") (at (- k 2)) (is? (at (- k 2)) "T")) (loop k 'pcomp coord head starts arth))
+               ;; τῶν πετεινῶν καὶ τῶν κτηνῶν: genitives joined by καί stay with
+               ;; the phrase they follow
+               ((and (lemma-in? x "καί") p (eqv? (case-of p) #\G) (not (eqv? want #\G)) (in-cl? nx)
+                     (eqv? (case-of nx) #\G) (is? nx "T" "N" "A"))
+                (loop (+ k 1) 'post coord head starts arth))
+               ((and (not copula?) (is? head "N" "P")
+                     ;; an apposition names a person (Κύριον | τὰς πόλεις is the object)
+                     env (let ((noun (np-noun span k))) (and noun (person-noun? env noun)))
+                     (or (and (or (is? x "T") (and (is? x "N") (not (caseless-name? x))))
+                              (eqv? (case-of x) want) (word? x p)
+                              (or (not (is? x "T")) (and nx (is? nx "N" "A"))))
+                         ;; ὁ υἱὸς αὐτοῦ, its possessive already moved before it
+                         (and (memq (u x 'role) '(possessive post-demonstrative)) (u x 'moved)
+                              (let ((y (find (lambda (y) (not (eq? (u y 'role) 'absorbed))) (drop span (+ k 1)))))
+                                (and y (in-cl? y) (is? y "N" "A") (eqv? (case-of y) want))))))
+                (loop k 'pre coord head (cons k starts) #f))
+               ((and definite? (lemma-in? x "καί") (in-cl? nx)
+                     (or (word? nx x) (and (lemma-in? nx "πᾶς") (eqv? (case-of nx) want))))
+                (loop (+ k 1) 'pre #t head (cons (+ k 1) starts) #f))
                (else (done))))
-        ;; After an attributive article: one adjective or participle, or one
-        ;; preposition/adverb with its noun phrase (τὸ ὑποκάτω τοῦ οὐρανοῦ).
+        ;; After an attributive article: one adjective or participle (with its
+        ;; complements), or one preposition/adverb with its noun phrase
+        ;; (τὸ ὑποκάτω τοῦ οὐρανοῦ).
         ((attr)
-         (cond ((not x) (done))
-               ((or (participle? x) (is? x "A")) (loop (+ k 1) 'post coord head))
-               ((is? x "PREP" "ADV") (loop (+ k 1) 'attr-obj coord head))
-               (else (loop k 'post coord head))))
+         (cond ((not (in-cl? x)) (done))
+               ((participle? x) (loop (+ k 1) 'pcomp coord head starts arth))
+               ((is? x "A") (loop (+ k 1) 'post coord head starts arth))
+               ((is? x "PREP" "ADV") (loop (+ k 1) 'attr-obj coord head starts arth))
+               (else (loop k 'post coord head starts arth))))
         ((attr-obj)
-         (cond ((and x (or (nominal? x) (u x 'phrase)) (not (eqv? (case-of x) #\N)))
-                (loop (+ k 1) (if (is? x "T" "A" "D") 'attr-obj 'post) coord head))
-               (else (loop k 'post coord head))))))))
+         (cond ((and (in-cl? x) (or (nominal? x) (u x 'phrase)) (not (eqv? (case-of x) #\N)))
+                (loop (+ k 1) (if (is? x "T" "A" "D") 'attr-obj 'post) coord head starts arth))
+               (else (loop k 'post coord head starts arth))))
+        ;; A participle's complements: prepositional phrases and oblique noun
+        ;; phrases (ὁ πορευόμενος ἐν τῷ πεδίῳ).
+        ((pcomp)
+         (cond ((not (in-cl? x)) (done))
+               ((is? x "PREP")
+                (let obj ((m (+ k 1)))
+                  (let ((z (at m)))
+                    (if (and (in-cl? z) (or (nominal? z) (u z 'phrase)) (not (eqv? (case-of z) #\N)) (not (is? z "R")))
+                        (obj (+ m 1))
+                        (loop m 'pcomp coord head starts arth)))))
+               ((and (or (nominal? x) (u x 'phrase)) (memv (case-of x) '(#\A #\D)) (not (is? x "R")) (not (participle? x)))
+                (loop (+ k 1) 'pcomp coord head starts arth))
+               (else (loop k 'post coord head starts arth))))))))
 
 (define %subordinators '("ἵνα" "ὅπως" "ἐάν" "ἄν" "ὅταν" "ἕως" "μή" "ὅς" "ὅστις" "εἰ" "ὅτι" "ἐπεί"))
 
@@ -1058,18 +1450,26 @@ sons of God having seen the daughters\"."
         span
         (let* ((x (list-ref span i))
                (p (and (> i 0) (list-ref span (- i 1)))))
-          (if (and (participle? x) (eqv? (case-of x) #\N) (not (and p (is? p "T"))) (not (u x 'moved)))
+          (if (and (participle? x) (eqv? (case-of x) #\N) (not (and p (is? p "T"))) (not (u x 'moved))
+                   ;; a perfect only before a finite verb of its clause (Εὐλογημένος
+                   ;; Ἀβράμ, "Blessed Abram", has none)
+                   (or (not (eqv? (tag-field (tp x) 'tense) #\R))
+                       (any (lambda (y) (and (finite? y) (eqv? (u y 'cl) (u x 'cl)))) (drop span (+ i 1)))))
               (let* ((j (let skip ((k (+ i 1)) (left 2))
                           (let ((y (and (< k (length span)) (list-ref span k))))
-                            (if (and y (> left 0) (is? y "P" "F") (not (eqv? (case-of y) #\N)))
+                            (if (and y (> left 0) (is? y "P" "F") (not (eqv? (case-of y) #\N)) (eqv? (u y 'cl) (u x 'cl))
+                                     (not (eq? (u y 'role) 'possessive)))
                                 (skip (+ k 1) (- left 1))
                                 k))))
-                     (np (scan-np span j #t)))
-                (if (and np (let ((h (third np)))
-                              (and (eqv? (case-of h) #\N) (memv (num-of h) (list (num-of x) #f))
-                                   (memv (gen-of h) (list (gen-of x) #f)))))
+                     (np (scan-np span j #t #:cl (u x 'cl) #:env env))
+                     ;; οὐχ εὑροῦσα ἡ περιστερά: the subject goes before the negation
+                     (to (if (and p (lemma-in? p "οὐ" "μή") (eqv? (u p 'cl) (u x 'cl))) (- i 1) i)))
+                (if (and (pair? np) (let ((h (third np)))
+                                      (and (or (eqv? (case-of h) #\N) (caseless-name? h))
+                                           (memv (num-of h) (list (num-of x) #f))
+                                           (memv (gen-of h) (list (gen-of x) #f)))))
                     (let ((end (first np)))
-                      (loop (move-range (list-set-copy span i (u+ x 'moved #t)) j end i) (+ i (- end j) 1)))
+                      (loop (move-range (list-set-copy span i (u+ x 'moved #t)) j end to) (+ i (- end j) 1)))
                     (loop span (+ i 1))))
               (loop span (+ i 1)))))))
 
@@ -1100,11 +1500,13 @@ pronoun before it: ἐξαπέστειλεν αὐτόν \"sent him out\"."
   "In a question (Greek ;) an interrogative followed by its verb inverts
 English-style: ποῦ εἶ \"where are you\", ἵνα τί συνέπεσεν τὸ πρόσωπόν σου
 \"why did your face fall\" (the auxiliary before the subject)."
-  (let ((q (and (any (lambda (y) (string-contains (or (u y 'post) "") ";")) span)
-                (index-where span interrogative?))))
+  (let* ((yn (index-where span (lambda (y) (u y 'yn-q))))
+         (q (or yn
+                (and (any (lambda (y) (u y 'in-question)) span)
+                     (index-where span interrogative?)))))
     (if (not q)
         span
-        (let ((k (index-where (drop span (+ q 1)) finite?)))
+        (let ((k (index-where (drop span (+ q 1)) (if yn (lambda (y) (u y 'yn-question)) finite?))))
           (if (not k)
               span
               (let* ((vi (+ q 1 k)) (x (list-ref span vi))
@@ -1112,9 +1514,20 @@ English-style: ποῦ εἶ \"where are you\", ἵνα τί συνέπεσεν 
                 (cond
                  ((u x 'let-rest) span)
                  ((null? between) (list-set-copy span vi (u+ x 'question #t)))
-                 ((every (lambda (y) (or (nom? y #f) (memq (u y 'role) '(possessive attributive absorbed)) (u y 'phrase)
-                                         (and (eqv? (case-of y) #\G) (is? y "N" "T"))))
-                         between)
+                 ;; Τί τοῦτο ἐποίησας ἡμῖν; τοῦτο is not the subject of a
+                 ;; first or second person verb: "What [is] this you did to us?"
+                 ((and (not yn) (lemma-in? (list-ref span q) "τίς") (memv (tag-field (tp x) 'person) '(#\1 #\2))
+                       (= 1 (length between)) (is? (car between) "D") (eqv? (gen-of (car between)) #\N))
+                  (append (take span (+ q 1))
+                          (list `((supplied-piece . #t) (text . "[is]") (refs . ()) (helper . "") (post . "") (cap . #f)))
+                          (drop span (+ q 1))))
+                 ((or (every (lambda (y) (or (nom? y #f) (memq (u y 'role) '(possessive attributive absorbed)) (u y 'phrase)
+                                             (and (eqv? (case-of y) #\G) (is? y "N" "T"))))
+                             between)
+                      ;; the whole subject phrase find-subjects moved there (ποῦ
+                      ;; εἰσιν οἱ ἄνδρες οἱ εἰσελθόντες πρὸς σέ)
+                      (and (u x 'subj-moved) (every (lambda (y) (eqv? (u y 'cl) (u x 'cl))) between)
+                           (not (any finite? between))))
                   ;; The auxiliary goes before the subject, the rest after it.
                   (let ((marker `((let-marker . #t) (question-aux . #t) (refs . ,(u x 'refs)) (idx . ,(u x 'idx))
                                   (helper . "") (post . "") (cap . #f) (greek . ,(u x 'greek)) (verb . ,(u+ x 'question #t)))))
@@ -1128,45 +1541,118 @@ English-style: ποῦ εἶ \"where are you\", ἵνα τί συνέπεσεν 
   (let ((i (string-index s #\space)))
     (if i (cons (substring s 0 i) (substring s (+ i 1))) (cons s ""))))
 
+(define (gender-pronoun y)
+  (if (eqv? (num-of y) #\P) "they" (case (gen-of y) ((#\F) "she") ((#\N) "it") (else "he"))))
+
+(define (predicate-person? env span k)
+  "The word at K is an anarthrous nominative common noun naming a person: with
+εἰμί or γίνομαι, the predicate (ἐγένετο δὲ τοξότης, ὅτι προφήτης ἐστίν)."
+  (let ((y (list-ref span k)) (p (and (> k 0) (list-ref span (- k 1)))))
+    (and (is? y "N") (eqv? (case-of y) #\N) (not (u y 'phrase)) (not (name-like? env y)) (person-noun? env y)
+         (not (and p (is? p "T") (agree? p y)))
+         (not (memq (u y 'role) '(absorbed))))))
+
 (define (find-subjects env span)
-  "Move a subject that follows its finite verb to stand before it; give a
-verb with no subject in its clause the pronoun of its ending; mark third
-person imperatives for \"let\"."
+  "Move a whole subject phrase that follows its finite verb in the same clause
+to stand before the verb; give a verb with no subject in its clause the
+pronoun of its ending; mark third person imperatives for \"let\". Where the
+subject cannot be told apart (an indeclinable name in apposition to an
+oblique noun, two nominatives), leave the Greek order and mark the verb
+'subject-unsure for `check` (gsb/literal/README.md)."
   (let loop ((span span) (i 0))
     (if (>= i (length span))
         span
         (let ((x (list-ref span i)))
           (if (or (not (finite? x)) (u x 'subj-done))
               (loop span (+ i 1))
-              (let* ((person (tag-field (tp x) 'person))
+              (let* ((cl (u x 'cl))
+                     (n (length span))
+                     (at (lambda (k) (and (>= k 0) (< k n) (list-ref span k))))
+                     (in-cl? (lambda (y) (and y (eqv? (u y 'cl) cl))))
+                     (person (tag-field (tp x) 'person))
                      (number (tag-field (tp x) 'number))
                      (imper (eqv? (mood x) #\M))
-                     ;; The clause runs back to a conjunction or finite verb
-                     ;; (exclusive) or a relative pronoun (inclusive: ὃ ἦν).
+                     (copula (lemma-in? x "εἰμί" "γίνομαι"))
+                     ;; The clause runs back to its opening word (inclusive: ὃ
+                     ;; ἦν), a conjunction or another finite verb (exclusive).
                      (clause-start (let back ((k (- i 1)))
-                                     (cond ((< k 0) 0)
-                                           ((is? (list-ref span k) "R") k)
-                                           ((let ((y (list-ref span k))) (or (is? y "CONJ") (finite? y))) (+ k 1))
-                                           (else (back (- k 1))))))
+                                     (let ((y (at k)))
+                                       (cond ((not (in-cl? y)) (+ k 1))
+                                             ((is? y "R") k)
+                                             ((or (is? y "CONJ") (finite? y)) (+ k 1))
+                                             (else (back (- k 1)))))))
+                     (clause-end (let fwd ((k (+ i 1))) (if (in-cl? (at k)) (fwd (+ k 1)) k)))
                      (before (take (drop span clause-start) (- i clause-start)))
-                     (before-nom? (any (lambda (k) (nom? (list-ref span k) #t (and (> k 0) (list-ref span (- k 1)))))
-                                       (iota (- i clause-start) clause-start)))
+                     (after (take (drop span (+ i 1)) (- clause-end i 1)))
+                     (before-noms (filter (lambda (k) (nom? (at k) #t (at (- k 1)))) (iota (- i clause-start) clause-start)))
                      (x (u+ x 'subj-done #t
                             'may (and (eqv? (mood x) #\S) (any (lambda (y) (lemma-in? y "ἵνα" "ὅπως")) (take span i))))))
+                (define (dative-possessor?)
+                  ;; καὶ τῷ Σὴθ ἐγένετο υἱός: a bare dative (it has "to") makes
+                  ;; the person noun the subject, "son came to be to Seth"
+                  (any (lambda (y) (and (eqv? (case-of y) #\D) (not (string-null? (u y 'helper))))) (append before after)))
+                (define (gender-cue)
+                  ;; συλλαβοῦσα ἔτεκεν "she bore", ἦν οἰκοδομῶν "he was building":
+                  ;; a nominative singular participle, adjective or pronoun of
+                  ;; the clause; with εἰμί/γίνομαι also a predicate person noun.
+                  (let ((w (find (lambda (y) (and (or (participle? y) (is? y "A" "P" "D")) (not (memq (u y 'role) '(possessive)))
+                                                  (not (u y 'gabs-subj)) (not (u y 'gabs))
+                                                  (eqv? (case-of y) #\N) (eqv? (num-of y) #\S) (gen-of y)))
+                                 (append before (take-while (lambda (y) (not (or (finite? y) (lemma-in? y "καί")))) after)))))
+                    (cond (w (gender-pronoun w))
+                          ((and copula (not (dative-possessor?))
+                                (find (lambda (k) (and (predicate-person? env span k) (eqv? (num-of (at k)) (or number #\S))))
+                                             (append (iota (- i clause-start) clause-start) (iota (length after) (+ i 1)))))
+                           => (lambda (k) (gender-pronoun (at k))))
+                          (else #f))))
                 (cond
+                 ;; A word override's (subject ...) always wins.
+                 ((string? (u x 'subject))
+                  (loop (list-set-copy span i (u+ x 'subj (u x 'subject))) (+ i 1)))
                  ((memv person '(#\1 #\2))
-                  ;; An explicit ἐγώ / σύ anywhere in the clause (εἰμι ἐγώ), or a
-                  ;; nominative relative before the verb (ὅστις ἐξήγαγον), is the subject.
-                  (let* ((after (take-while (lambda (y) (not (or (finite? y) (is? y "CONJ")))) (drop span (+ i 1))))
-                         (explicit (or (any (lambda (y) (and (is? y "P") (eqv? (case-of y) #\N) (eqv? (tag-field (tp y) 'person) person)))
-                                            (append before after))
-                                       (any (lambda (y) (and (is? y "R") (eqv? (case-of y) #\N))) before))))
-                    (loop (list-set-copy span i (u+ x 'subj (if (or explicit imper) #f (personal-subject person number #f))
-                                                    'hortatory (and (eqv? (mood x) #\S) (eqv? person #\1) (eqv? number #\P)
-                                                                    (not (any (lambda (y) (apply lemma-in? y %subordinators)) (take span i))))
-                                                    'may (and (memv (mood x) '(#\S)) (any (lambda (y) (lemma-in? y "ἵνα" "ὅπως")) (take span i)))))
-                          (+ i 1))))
-                 (before-nom?
+                  ;; An explicit ἐγώ / σύ in the clause, or a nominative relative
+                  ;; before the verb (ὅστις ἐξήγαγον), is the subject; after the
+                  ;; verb it moves before it with its phrase (φοβῇ τὸν θεὸν σύ
+                  ;; "you fear God", ἀποθανῇ σὺ καὶ πάντα τὰ σά).
+                  (let* ((own? (lambda (y) (and (is? y "P") (eqv? (case-of y) #\N) (eqv? (tag-field (tp y) 'person) person))))
+                         (explicit-before (or (any own? before) (any (lambda (y) (and (is? y "R") (eqv? (case-of y) #\N))) before)))
+                         ;; (an imperative keeps it after: Πίε σύ "Drink you")
+                         ;; (nor after an interrogative: τίς εἶ σύ "who are you")
+                         (pk (and (not explicit-before) (not imper) (not (any (lambda (y) (is? y "I")) before))
+                                  (list-index own? after)))
+                         (pk (and pk (+ i 1 pk)))
+                         (np (and pk (scan-np span pk #t #:cl cl #:env env)))
+                         (end (if (pair? np) (first np) (and pk (+ pk 1))))
+                         (span (if pk (move-range span pk end i) span))
+                         (vi (if pk (+ i (- end pk)) i)))
+                    (loop (list-set-copy span vi (u+ x 'subj (if (or explicit-before (any own? after) imper (u x 'prohibit)) #f (personal-subject person number #f))
+                                                     'hortatory (and (eqv? (mood x) #\S) (eqv? person #\1) (eqv? number #\P)
+                                                                     (not (u x 'yn-question))
+                                                                     (not (any (lambda (y) (apply lemma-in? y %subordinators)) (take span i))))
+                                                     'may (and (memv (mood x) '(#\S)) (any (lambda (y) (lemma-in? y "ἵνα" "ὅπως")) (take span i)))))
+                          (+ vi 1))))
+                 ((and (pair? before-noms) copula (not (u x 'neg)) (not (dative-possessor?))
+                       (every (lambda (k) (and (predicate-person? env span k) (eqv? (num-of (at k)) #\S))) before-noms)
+                       ;; right before the verb, and no subject after it (Γυνὴ αὐτοῦ ἐστιν αὕτη)
+                       (>= (apply min before-noms) (nominative-run span i clause-start #t))
+                       (not (any (lambda (y) (nom? y #t)) after)))
+                  ;; ὅτι προφήτης ἐστίν: an anarthrous person noun before εἰμί is
+                  ;; the predicate; its gender is the subject's, and it goes after
+                  ;; the verb: "that he is prophet", Ἀδελφή μού ἐστιν "She is my sister".
+                  (let* ((run-start (let back ((k (nominative-run span i clause-start #t)))
+                                      ;; with its possessive moved before it (σου γυνή)
+                                      (let ((y (at (- k 1))))
+                                        (if (and (> k clause-start) (or (u y 'moved) (eq? (u y 'role) 'absorbed))
+                                                 (memq (u y 'role) '(possessive absorbed post-demonstrative)))
+                                            (back (- k 1))
+                                            k))))
+                         (x (u+ x 'subj (gender-pronoun (at (car before-noms)))))
+                         (first-word (at run-start))
+                         ;; the run's speech capital passes to the verb
+                         (x (if (u first-word 'speech) (u+ x 'speech #t 'cap #t) x))
+                         (span (if (u first-word 'speech) (list-set-copy span run-start (u+ first-word 'speech #f 'cap #f)) span)))
+                    (loop (move (list-set-copy span i x) i run-start) (+ i 1))))
+                 ((pair? before-noms)
                   ;; Subject already before the verb; a third person imperative's
                   ;; "let" goes before the nominative run touching the verb.
                   (let ((run-start (nominative-run span i clause-start #t)))
@@ -1174,42 +1660,85 @@ person imperatives for \"let\"."
                         (loop (insert-let span i run-start x) (+ i 2))
                         (loop (list-set-copy span i x) (+ i 1)))))
                  (else
-                  ;; The subject may follow object pronouns or one prepositional
-                  ;; phrase: εὐλόγησεν αὐτοὺς ὁ θεός; λαλείτω πρὸς ἡμᾶς ὁ θεός.
-                  (let* ((j (let skip ((k (+ i 1)) (left 2) (pp 1))
-                              (let ((y (and (< k (length span)) (list-ref span k))))
-                                (cond ((and y (> left 0) (is? y "P" "F") (not (eqv? (case-of y) #\N)) (not (eq? (u y 'role) 'possessive)))
-                                       (skip (+ k 1) (- left 1) pp))
-                                      ((and y (> pp 0) (is? y "PREP"))
-                                       (let obj ((m (+ k 1)))
-                                         (let ((z (and (< m (length span)) (list-ref span m))))
-                                           (if (and z (or (nominal? z) (u z 'phrase)) (not (eqv? (case-of z) #\N)))
-                                               (obj (+ m 1))
-                                               (skip m left 0)))))
+                  ;; The subject may follow object pronouns, an adverb or one
+                  ;; prepositional phrase: εὐλόγησεν αὐτοὺς ὁ θεός; λαλείτω πρὸς
+                  ;; ἡμᾶς ὁ θεός; ᾠκοδόμησεν ἐκεῖ Ἀβράμ; and an adverbial καί
+                  ;; goes with it (ἔτεκεν δὲ καὶ ἡ νεωτέρα "but also the younger bore").
+                  (let* ((j (let skip ((k (+ i 1)) (left 2) (pp 1) (adv 1))
+                              (let ((y (at k)))
+                                (cond ((not (in-cl? y)) k)
+                                      ((and (> left 0) (is? y "P" "F") (not (eqv? (case-of y) #\N)) (not (eq? (u y 'role) 'possessive)))
+                                       (skip (+ k 1) (- left 1) pp adv))
+                                      ((and (> adv 0) (is? y "ADV") (not (interrogative? y)) (not (lemma-in? y "οὐ" "μή")))
+                                       (skip (+ k 1) left pp (- adv 1)))
+                                      ((and (> pp 0) (is? y "PREP"))
+                                       ;; the object: words in its first word's case and
+                                       ;; their genitives (παρὰ τῷ θεῷ | ῥῆμα)
+                                       (let obj ((m (+ k 1)) (c #f))
+                                         (let ((z (at m)))
+                                           (if (and (in-cl? z) (or (nominal? z) (u z 'phrase)) (not (eqv? (case-of z) #\N))
+                                                    (if c (or (eqv? (case-of z) c) (eqv? (case-of z) #\G)) #t))
+                                               (obj (+ m 1) (or c (and (not (eq? (u z 'role) 'possessive)) (case-of z))))
+                                               (skip m left 0 adv)))))
                                       (else k)))))
-                         ;; A neuter noun may be the subject when the verb is
-                         ;; not active, is εἰμί or an imperative, or its object
-                         ;; is already taken by a relative (ἃ ἐξήγαγεν τὰ ὕδατα).
-                         (neuter-ok (or imper (lemma-in? x "εἰμί") (not (memv (tag-field (tp x) 'voice) '(#\A)))
+                         (kai-k (and (lemma-in? (at j) "καί") (in-cl? (at (+ j 1))) (nom? (at (+ j 1)) #t (at j)) j))
+                         (j (if kai-k (+ j 1) j))
+                         ;; A neuter noun may be the subject when the verb is not
+                         ;; active, is εἰμί or an imperative, or its object is
+                         ;; already taken by a relative (ἃ ἐξήγαγεν τὰ ὕδατα) or a
+                         ;; pronoun (μὴ καταλάβῃ με τὰ κακά).
+                         ;; (a middle is transitive: ἐπεκαλέσατο ἐκεῖ τὸ ὄνομα Κυρίου)
+                         (neuter-ok (or imper copula (eqv? (tag-field (tp x) 'voice) #\P)
                                         (assq 'intransitive (cdr (or (unit-sense env x) '(#f))))
-                                        (any (lambda (y) (and (is? y "R") (eqv? (case-of y) #\A))) before)))
+                                        (any (lambda (y) (and (is? y "R") (eqv? (case-of y) #\A))) before)
+                                        (any (lambda (y) (and (is? y "P") (eqv? (case-of y) #\A) (not (memq (u y 'role) '(inf-subject possessive)))))
+                                             (append before after))))
                          (gen-object? (and (field (unit-sense env x) 'genitive) #t))
-                         (np (or (scan-np span j #t gen-object?) (and neuter-ok (scan-np span j #f gen-object?))))
+                         (np (or (scan-np span j #t #:no-genitive? gen-object? #:cl cl #:copula? copula #:env env)
+                                 (and neuter-ok (scan-np span j #f #:no-genitive? gen-object? #:cl cl #:copula? copula #:env env))))
+                         (s (at j))
                          ;; After εἰμί an anarthrous common noun is the predicate
                          ;; (ἦν σφυροκόπος): not moved. An articular subject (also
-                         ;; behind a possessive: αἱ ἡμέραι αὐτῶν) or a name (ἦν Νῶε,
-                         ;; ποῦ ἐστιν Ἅβελ) is the subject and moves.
+                         ;; behind a possessive: αἱ ἡμέραι αὐτῶν), a demonstrative,
+                         ;; a pronoun or a name (ἦν Νῶε, ποῦ ἐστιν Ἅβελ) is the
+                         ;; subject and moves. After γίνομαι an anarthrous person
+                         ;; noun is the predicate (ἐγένετο δὲ τοξότης), a thing the
+                         ;; subject (ἐγένετο φῶς).
                          (nominative-after
-                          (and np (lemma-in? x "εἰμί")
-                               (let ((s (list-ref span j)))
-                                 (not (or (is? s "T" "D") (and (eq? (u s 'role) 'possessive) (u s 'moved))
-                                          (name-like? env s))))))
-                         (np (and (not nominative-after) np))
-                         (ok (and np
-                                  (let ((head (third np)))
-                                    (or (second np) (eqv? (num-of head) number) (not (num-of head))
-                                        (and (eqv? (gen-of head) #\N) (eqv? number #\S))))))
-                         (run-start (and (not ok) neuter-ok
+                          (and (pair? np)
+                               (or (and (lemma-in? x "εἰμί")
+                                        (not (or (is? s "T" "D" "P") (and (eq? (u s 'role) 'possessive) (u s 'moved))
+                                                 (name-like? env s))))
+                                   (and (lemma-in? x "γίνομαι") (predicate-person? env span j) (not (dative-possessor?))))))
+                         (np (if nominative-after #f np))
+                         (end (and (pair? np) (first np)))
+                         (head (and (pair? np) (third np)))
+                         ;; Two candidates: a name with a declined nominative after
+                         ;; it, or a second nominative after a non-copula verb's
+                         ;; subject. Stiff Greek order beats a wrong actor.
+                         ;; (a passive of naming takes a predicate: ἐκλήθη τὸ ὄνομα αὐτοῦ
+                         ;; Σύγχυσις; a later member joined by καί is the subject's:
+                         ;; ἀνέβη Ἀβρὰμ ... αὐτὸς καὶ ἡ γυνὴ αὐτοῦ)
+                         (unsure (or (eq? np 'name-oblique)
+                                     (and (pair? np) (not copula) (not (eqv? (tag-field (tp x) 'voice) #\P))
+                                          (caseless-name? head)
+                                          (any (lambda (k) (let ((y (at k)))
+                                                             ;; (a neuter may be accusative: τὸ πρωί)
+                                                             (and (nom? y #t (at (- k 1))) (case-of y) (not (participle? y)) (not (is? y "P" "R" "T"))
+                                                                  (not (eqv? (gen-of y) #\N))
+                                                                  (not (u y 'phrase))
+                                                                  (let ((w (phrase-before span k)))
+                                                                    (not (and w (lemma-in? w "καί" "ἐκ" "ἀπό" "εἰς" "ἐν" "ἐπί" "πρός" "παρά" "μετά" "διά" "κατά" "περί" "ὑπό"))))
+                                                                  (not (is? (phrase-before span k) "PREP")))))
+                                               (iota (max 0 (- clause-end end)) end)))))
+                         (ok (and (pair? np) (not unsure)
+                                  (or (second np) (eqv? (num-of head) number) (not (num-of head))
+                                      (and (eqv? (gen-of head) #\N) (eqv? number #\S)))))
+                         (run-start (and (not ok) (not unsure)
+                                         ;; (not for a pronoun object: τί καλέσει αὐτά)
+                                         (or imper (lemma-in? x "εἰμί") (not (memv (tag-field (tp x) 'voice) '(#\A)))
+                                             (assq 'intransitive (cdr (or (unit-sense env x) '(#f))))
+                                             (any (lambda (y) (and (is? y "R") (eqv? (case-of y) #\A))) before))
                                          (nominative-run span i clause-start #f
                                                          ;; ὃ ἦν: a neuter relative is the subject
                                                          ;; of εἰμί or a passive, not of an active verb
@@ -1225,16 +1754,21 @@ person imperatives for \"let\"."
                           (loop (insert-let span i run-start x) (+ i 2))
                           (loop (list-set-copy span i x) (+ i 1))))
                      (ok
-                        (let* ((end (first np))
-                               (span (move-range (list-set-copy span i x) j end i))
-                               (vi (+ i (- end j))))
-                          (if imper
-                              (loop (insert-let span vi i x) (+ vi 2))
-                              (loop span (+ vi 1)))))
+                      (let* ((start (or kai-k j))
+                             (span (if (and kai-k (not (u (at kai-k) 'sense)) (sense-of env "καί" 'also))
+                                       (list-set-copy span kai-k (set-sense (at kai-k) 'also))
+                                       span))
+                             (span (move-range (list-set-copy span i (u+ x 'subj-moved #t)) start end i))
+                             (vi (+ i (- end start))))
+                        (if imper
+                            (loop (insert-let span vi i x) (+ vi 2))
+                            (loop span (+ vi 1)))))
+                     (unsure
+                      (loop (list-set-copy span i (u+ x 'subj "" 'subject-unsure #t)) (+ i 1)))
                      (else
                       ;; Rule 16a: the pronoun of a verb ending is never chosen
                       ;; from a nearby noun's meaning.
-                      (loop (list-set-copy span i (u+ x 'subj (or (u x 'subject)
+                      (loop (list-set-copy span i (u+ x 'subj (or (and nominative-after (lemma-in? x "γίνομαι") (gender-pronoun s))
                                                                   ;; ποῦ ἐστιν Ἅβελ: the nominative after εἰμί is enough
                                                                   (and (or nominative-after neuter-before) "")
                                                                   ;; true impersonals (ἐγένετο "it came to be")
@@ -1242,20 +1776,9 @@ person imperatives for \"let\"."
                                                                   ;; καὶ συνέλαβεν: joined to the verb before, no pronoun
                                                                   (and (u x 'kai-joined) (not imper) "")
                                                                   subj
-                                                                  ;; συλλαβοῦσα ἔτεκεν "she bore": gender from the clause
-                                                                  (clause-gender span i clause-start)
+                                                                  (gender-cue)
                                                                   "he/she/it")))
                             (+ i 1)))))))))))))
-
-(define (clause-gender span i clause-start)
-  "he, she or it when a nominative singular participle, adjective or pronoun in
-the verb's clause gives the gender (ἦν οἰκοδομῶν, συλλαβοῦσα ἔτεκεν), else #f."
-  (let* ((after (take-while (lambda (y) (not (or (finite? y) (lemma-in? y "καί")))) (drop span (+ i 1))))
-         (before (take (drop span clause-start) (- i clause-start)))
-         (w (find (lambda (y) (and (or (participle? y) (is? y "A" "P" "D")) (not (memq (u y 'role) '(possessive)))
-                                   (eqv? (case-of y) #\N) (eqv? (num-of y) #\S) (gen-of y)))
-                  (append before after))))
-    (and w (case (gen-of w) ((#\F) "she") ((#\N) "it") (else "he")))))
 
 (define* (nominative-run span i clause-start definite? #:optional relative-ok?)
   "Start of the run of subject words that ends right before index I (I when
@@ -1264,7 +1787,7 @@ there is none): nominatives with their genitives (πνεῦμα θεοῦ)."
     (if (and (>= k clause-start)
              (let ((y (list-ref span k)))
                (or (and (nom-or-participle? y (and (> k 0) (list-ref span (- k 1))) definite?)
-                        (or definite? (not (is? y "R" "P")) (and relative-ok? (is? y "R"))))
+                        (or definite? (not (is? y "R" "P" "K")) (and relative-ok? (is? y "R"))))
                    (memq (u y 'role) '(possessive post-demonstrative attributive))
                    (and (eqv? (case-of y) #\G) (is? y "N" "T" "A")))))
         (back (- k 1)
@@ -1342,6 +1865,9 @@ for a third person imperative whose subject stands between, else #f."
                    ((u x 'at-all) (string-append (if passive (w "will not be" pp) (w "will not" head)) " at all"))
                    ((and neg (u x 'hortatory)) (w "not" head))
                    ((or (u x 'may) (eqv? m #\O)) (if passive (w "may" (and neg "not") "be" pp) (w "may" (and neg "not") head)))
+                   ;; a deliberative question: Μὴ κρύψω ἐγώ "Shall I hide"
+                   ((or (u x 'yn-question) (u x 'question))
+                    (if passive (w "shall" (and neg "not") "be" pp) (w "shall" (and neg "not") head)))
                    (else (if passive (w (and neg "not") "be" pp) (w (and neg "do not") head))))))
       (else
        (cons #f
@@ -1368,7 +1894,19 @@ for a third person imperative whose subject stands between, else #f."
          (n (tag-field t 'number)) (g (tag-field t 'gender))
          ;; an infinitive's subject is a possessive: "after his begetting"
          (poss (memq (u x 'role) '(possessive inf-subject))))
-    (case person
+    (case (if (u x 'as-nominative) 'nominative person)
+      ;; a genitive absolute's subject: καθημένου αὐτοῦ "he being seated"
+      ((nominative)
+       (case person
+         ((#\1) (if (eqv? n #\P) "we" "I"))
+         ((#\2) "you")
+         (else (cond ((eqv? n #\P) "they")
+                     ((eq? (u x 'ante) 'thing) "it")
+                     ((eqv? g #\F) "she")
+                     ((and (mn-ambiguous? x) (eq? (u x 'ante) 'person)) "he")
+                     ((mn-ambiguous? x) "he/it")
+                     ((eqv? g #\N) "it")
+                     (else "he")))))
       ((#\1) (if (eqv? n #\P) (cond (poss "our") ((eqv? c #\N) "we") (else "us"))
                  (cond (poss "my") ((eqv? c #\N) "I") (else "me"))))
       ((#\2) (if poss "your" "you"))
@@ -1483,7 +2021,7 @@ lemma) or (cont n)."
                              span)))
                      span
                      (filter (lambda (x) (u x 'speech)) span)))
-         (words (remove (lambda (x) (or (u x 'let-marker) (u x 'tail-piece))) span))
+         (words (remove (lambda (x) (or (u x 'let-marker) (u x 'tail-piece) (u x 'supplied-piece))) span))
          (greek-order (sort words (lambda (a b) (< (u a 'idx) (u b 'idx)))))
          (first-greek (car greek-order))
          (punct (punct-english (u (last greek-order) 'post)))
@@ -1495,7 +2033,10 @@ lemma) or (cont n)."
              (let* ((e (cond ((u x 'question-aux) (car (split-first (cdr (unit-english env (u x 'verb))))))
                              ((u x 'let-marker) (if (u x 'neg) "let not" "let"))
                              ((u x 'tail-piece) (u x 'text))
+                             ((u x 'supplied-piece) (u x 'text))
                              (else (unit-english env x))))
+                    ;; an infinitive's noun subject: "after Lot's being separated"
+                    (e (if (and (u x 'poss-s) (string? e) (not (string-null? e))) (string-append e "'s") e))
                     (speech? (and (u x 'speech) (u x 'cap) (not (eqv? (u x 'idx) (u first-greek 'idx))) (> k 0)))
                     (compose (lambda (core subj)
                                (string-join (filter (lambda (s) (and s (not (string-null? s))))
@@ -1508,6 +2049,7 @@ lemma) or (cont n)."
                 (cond
                  ((u x 'english) (list (mk (u x 'english) (u x 'refs))))
                  ((u x 'tail-piece) (list (mk e (list (list 'cont (u x 'n))))))
+                 ((u x 'supplied-piece) (list (mk e '())))
                  ((pair? e)
                   (match e
                     ((_ . rest) (=> next)
@@ -1525,9 +2067,12 @@ lemma) or (cont n)."
                                      (u x 'refs))))
                          (next)))
                     (("let" . rest)
-                     (list (mk (compose (string-append "let " (if (eqv? (num-of x) #\P) "them"
-                                                                  (match (u x 'subj) ("he" "him") ("she" "her") ("he/she/it" "him/her/it") (#f "it") (s s)))
-                                                       " " rest)
+                     (list (mk (compose (string-join
+                                         (remove string-null?
+                                                 (list "let" (if (eqv? (num-of x) #\P) "them"
+                                                                 (match (u x 'subj) ("he" "him") ("she" "her") ("he/she/it" "him/her/it") (#f "it") (s s)))
+                                                       rest))
+                                         " ")
                                         #f)
                                (u x 'refs))))
                     ((_ . rest) (list (mk (compose (if (u x 'hortatory) (string-append "let us " rest) rest)
@@ -1566,6 +2111,13 @@ lemma) or (cont n)."
              (cons text (u p 'refs))))
          merged (iota n))))
 
+(define (order-span env span)
+  "One punctuation-delimited span of units in English order (the word order
+rules of gsb/literal/README.md)."
+  (invert-questions env
+    (place-particles env
+      (find-subjects env (participle-subjects env (move-verbal-subjects (np-internal-moves (merge-negation (move-postpositives span)))))))))
+
 (define* (render-verse env ref words prev-full-stop? #:optional (prev-words '()))
   "Segments for one verse (WORDS: rows of read-greek-table), and whether it
 ends a sentence. PREV-WORDS, the verse before, is where a pronoun may find
@@ -1579,9 +2131,7 @@ its antecedent. Pinned verses are the caller's business (env-pins)."
                            acc
                            (let* ((span (car spans))
                                   (first-cap (u (car span) 'lower-cap))
-                                  (ordered (invert-questions env
-                                            (place-particles env
-                                              (find-subjects env (participle-subjects env (np-internal-moves (merge-negation (move-postpositives span)))))))))
+                                  (ordered (order-span env span)))
                              (loop (cdr spans)
                                    (sentence-end? (u (last span) 'post))
                                    (append acc (span->segments env ordered (or cap? first-cap)))))))))
@@ -1598,7 +2148,9 @@ its antecedent. Pinned verses are the caller's business (env-pins)."
        (analyze-verse env ref words)))
 
 (define (verse-units env ref words)
-  (assign-verse-context env (mark-gerunds env (assign-helpers env (assign-roles env (collapse-phrases env (base-units env ref words)))))))
+  (mark-clauses
+   (mark-mh env
+            (assign-verse-context env (mark-gerunds env (assign-helpers env (mark-genitive-absolutes env (assign-roles env (collapse-phrases env (base-units env ref words))))))))))
 
 (define* (analyze-verse env ref words #:optional (prev-words '()))
   "The verse's units with readings, roles, helpers and context, in Greek

@@ -13,7 +13,7 @@
 
 (lemma "ὑετός" (sense rain (gloss "rain" "rains") (why "Rain (Genesis 7:4, 12; 8:2; Acts 14:17; James 5:7, 18). The noun shares \"rain\" with the verb βρέχω (Genesis 2:5); English has one word for both.")))
 
-(lemma "υἱός"(sense son (person) (gloss "son" "sons") (why "Son.")))
+(lemma "υἱός" (sense son (person) (gloss "son" "sons") (why "Son.")))
 
 (lemma "ὑμέτερος" (sense your (gloss "your") (why "The possessive adjective of ὑμεῖς, \"your\" (Genesis 9:5, τὸ ὑμέτερον αἷμα; John 7:6; 15:20). It shares \"your\" with the genitive ὑμῶν, as English has one word for both.")))
 

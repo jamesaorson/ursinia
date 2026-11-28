@@ -55,7 +55,7 @@
 
 (lemma "δεσπότης" (sense master (person) (gloss "Master" "master" "masters") (why "Master, owner with full authority (Genesis 15:2, 8 Δέσποτα Κύριε; Luke 2:29; Acts 4:24). \"Master\" against κύριος \"lord\".")))
 
-(lemma "δεῦτε"(sense come-here (gloss "come here") (why "The plural of δεῦρο, an exhortation, \"hither!\", \"come!\" (Genesis 11:3, 4, 7, before a first plural subjunctive; Matthew 11:28; 28:6). \"Come here\" keeps it apart from the verbs ἔρχομαι and ἥκω \"come\".")))
+(lemma "δεῦτε" (sense come-here (gloss "come here") (why "The plural of δεῦρο, an exhortation, \"hither!\", \"come!\" (Genesis 11:3, 4, 7, before a first plural subjunctive; Matthew 11:28; 28:6). \"Come here\" keeps it apart from the verbs ἔρχομαι and ἥκω \"come\".")))
 
 (lemma "δεύτερος"
   (sense second
@@ -100,7 +100,7 @@
 
 (lemma "διασῴζω" (sense rescue (gloss "rescue" "rescued" "rescues" "rescuing") (why "To bring safely through, rescue; passive, escape to safety (Genesis 19:19 οὐ δυνήσομαι διασωθῆναι εἰς τὸ ὄρος; Acts 27:44; 28:1; 1 Peter 3:20). \"Rescue\" keeps it apart from σῴζω \"save\".")))
 
-(lemma "διατηρέω"(sense maintain (gloss "maintain" "maintained" "maintains" "maintaining") (why "To keep carefully, keep up (Genesis 17:9-10, the covenant; Luke 2:51; Acts 15:29). \"Maintain\" keeps it apart from τηρέω \"keep\" and φυλάσσω \"guard\".")))
+(lemma "διατηρέω" (sense maintain (gloss "maintain" "maintained" "maintains" "maintaining") (why "To keep carefully, keep up (Genesis 17:9-10, the covenant; Luke 2:51; Acts 15:29). \"Maintain\" keeps it apart from τηρέω \"keep\" and φυλάσσω \"guard\".")))
 
 (lemma "διασπείρω" (sense scatter (gloss "scatter" "scattered" "scatters" "scattering") (why "To sow throughout, scatter, disperse (Genesis 11:4, 8, 9, the dispersal from Babel; Acts 8:1, 4, the church scattered).")))
 
@@ -160,7 +160,7 @@
 
 (lemma "δορά" (sense pelt (gloss "pelt" "pelts") (why "(LXX, supplied.) A flayed skin, hide, pelt (Genesis 25:25, Esau \"whole as if [a] hairy pelt\"). \"Pelt\" keeps it apart from δέρμα \"skin\" and from the verb \"hide\" (κρύπτω).")))
 
-(lemma "δουλεία"(sense slavery (gloss "slavery") (why "Slavery, bondage (Exodus 20:2 \"house of slavery\"; Romans 8:15). Swete spells δουλία.")))
+(lemma "δουλεία" (sense slavery (gloss "slavery") (why "Slavery, bondage (Exodus 20:2 \"house of slavery\"; Romans 8:15). Swete spells δουλία.")))
 
 (lemma "δουλεύω" (sense slave (dative "for") (gloss "slave" "slaved" "slaves" "slaving") (why "To be a slave, serve as a slave (Genesis 14:4, they were slaving for Chedorlaomer; 15:13; Matthew 6:24). \"Slave\" as a verb, beside δουλεία \"slavery\", keeps it apart from λατρεύω \"serve\".")))
 

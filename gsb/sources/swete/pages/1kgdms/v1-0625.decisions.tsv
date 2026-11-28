@@ -1,0 +1,80 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+1kgdms	theoldtestamenti00unknuoft	625	1	κυρίου"	κυρίου"	κυρίου·	κυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	1	αὕτῳ	αὐτῷ	αὐτῷ	αὐτῷ	TODO zoom: A DIA, B same
+1kgdms	theoldtestamenti00unknuoft	625	1	εἰπεν	εἶπεν	εἶπεν	εἶπεν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+1kgdms	theoldtestamenti00unknuoft	625	1	αὕτον	αὐτόν	αὐτόν	αὐτόν	TODO zoom: acute or grave before a capitalized word; A DIA, B same
+1kgdms	theoldtestamenti00unknuoft	625	2	Ἀνάστηθι	Ἀνάστηθι	Ἀνάστηθι	Ἀνάστηθι	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+1kgdms	theoldtestamenti00unknuoft	625	3	χεῖράς	χεῖράς	χεῖράς	χεῖράς	TODO zoom: accent before an enclitic
+1kgdms	theoldtestamenti00unknuoft	625	3	gov.	σου..	σου.	σου.	TODO zoom: A R5, B OPEN
+1kgdms	theoldtestamenti00unknuoft	625	3	Skai	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	3	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	4	ἀλλοφύλοις:	ἀλλοφύλοις:	ἀλλοφύλοις·	ἀλλοφύλοις·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	4	προσώ-	προσώ-	προσώ-	προσώ-	TODO zoom: accent before an enclitic
+1kgdms	theoldtestamenti00unknuoft	625	6	μεγάλην:	μεγάλην:	μεγάλην·	μεγάλην·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	7	Κεειλά. +“	Κεειλά.	Κεειλά.	Κεειλά.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	7	Ἀβιαθὰρ	Ἀβιαθὰρ	Ἀβιαθὰρ	Ἀβιαθὰρ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+1kgdms	theoldtestamenti00unknuoft	625	7	υἱὸν	υἱὸν	υἱὸν	υἱὸν	TODO zoom: acute or grave before a capitalized word
+1kgdms	theoldtestamenti00unknuoft	625	7	Ἀβειμέλεχ	Ἀβειμέλεχ	Ἀβειμέλεχ	Ἀβειμέλεχ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+1kgdms	theoldtestamenti00unknuoft	625	9	∅	∅	ἐν	ἐν	TODO zoom: no OCR reading at all
+1kgdms	theoldtestamenti00unknuoft	625	9	7Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	9	Gre	ὅτι	ὅτι	ὅτι	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	10	Σαούλ	Σαούλ	Σαοὺλ	Σαοὺλ	TODO zoom: acute or grave before a capitalized word; A DIA, B DIA
+1kgdms	theoldtestamenti00unknuoft	625	10	χεῖράς	χεῖράς	χεῖράς	χεῖράς	TODO zoom: accent before an enclitic
+1kgdms	theoldtestamenti00unknuoft	625	11	δὃκαὶ	δὃκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	13	∅	συνέχειν	συνέχειν	συνέχειν	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	13	∅	τὸν	τὸν	τὸν	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	13	∅	Δαυεὶδ	Δαυεὶδ	Δαυεὶδ	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	13	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	13	∅	τοὺς	τοὺς	τοὺς	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	13	∅	ἄνδρας	ἄνδρας	ἄνδρας	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	13	∅	αὐτοῦ. +9	αὐτοῦ.	αὐτοῦ.	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	13	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	13	∅	ἔγνω	ἔγνω	ἔγνω	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	13	∅	Δαυεὶδ	Δαυεὶδ	Δαυεὶδ	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	13	∅	ὅτι	ὅτι	ὅτι	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	13	∅	οὐ	οὐ	οὐ	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	15	Ἀβιαθὰρ	Ἀβιαθὰρ	Ἀβιαθὰρ	Ἀβιαθὰρ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+1kgdms	theoldtestamenti00unknuoft	625	15	ἸἹΤροσάγαγε	Προσάγαγε	Προσάγαγε	Προσάγαγε	class R6 (OCR letters differ): the other OCR reading agrees with c
+1kgdms	theoldtestamenti00unknuoft	625	15	ἐφοὺδ	ἐφοὺδ	ἐφοὺδ	ἐφοὺδ	TODO zoom: acute or grave before a capitalized word
+1kgdms	theoldtestamenti00unknuoft	625	15	Κυρίου. +““	Κυρίου.	Κυρίου.	Κυρίου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	15	καὶ	"““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	15	Δαυείδ	Δαυείδ	Δαυείδ	Δαυείδ	TODO zoom: acute or grave before a capitalized word
+1kgdms	theoldtestamenti00unknuoft	625	16	θεὸς	θεὸς	θεὸς	θεὸς	TODO zoom: acute or grave before a capitalized word
+1kgdms	theoldtestamenti00unknuoft	625	16	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+1kgdms	theoldtestamenti00unknuoft	625	16	δοῦλός	δοῦλός	δοῦλός	δοῦλός	TODO zoom: accent before an enclitic
+1kgdms	theoldtestamenti00unknuoft	625	17	du	δι᾽	δι᾽	δι᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	17	“εἰ	"εἰ	εἰ	εἰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	18	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1kgdms	theoldtestamenti00unknuoft	625	18	δοῦλός	δοῦλός	δοῦλός	δοῦλός	TODO zoom: accent before an enclitic
+1kgdms	theoldtestamenti00unknuoft	625	19	θεὸς	θεὸς	θεὸς	θεὸς	TODO zoom: acute or grave before a capitalized word
+1kgdms	theoldtestamenti00unknuoft	625	19	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+1kgdms	theoldtestamenti00unknuoft	625	19	σου. +(")	σου.	σου.	σου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	19	καὶ	("καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1kgdms	theoldtestamenti00unknuoft	625	20	Αποκλεισθήσεται.	Αποκλεισθήσεται.	Ἀποκλεισθήσεται.	Ἀποκλεισθήσεται.	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DROP, B DROP
+1kgdms	theoldtestamenti00unknuoft	625	20	"Ξ3καὶ	"Ξ3καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	20	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	20	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	22	θησαν:	θησαν:	θησαν·	θησαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	23	“Kal	"Καὶ	Καὶ	Καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	24	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	24	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	24	Leif,	Ζείφ,	Ζείφ,	Ζείφ,	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	25	∅	τῇ	τῇ	τῇ	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	25	∅	αὐχμώδει: +'ς	αὐχμώδει·	αὐχμώδει·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	25	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	25	∅	ἐζήτει	ἐζήτει	ἐζήτει	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	25	∅	αὐτὸν +ς	αὐτὸν	αὐτὸν	TODO zoom: acute or grave before a capitalized word
+1kgdms	theoldtestamenti00unknuoft	625	25	∅	Σαοὺλ	Σαοὺλ	Σαοὺλ	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	25	∅	πάσας	πάσας	πάσας	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	25	∅	τὰς	τὰς	τὰς	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	25	∅	ἡμέρας,	ἡμέρας,	ἡμέρας,	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	25	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	25	∅	οὐ	οὐ	οὐ	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	26	αὐτὸν	αὐτὸν	αὐτὸν	αὐτὸν	TODO zoom: acute or grave before a capitalized word
+1kgdms	theoldtestamenti00unknuoft	625	26	αὐτοῦ. +"5	αὐτοῦ. +"5	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	26	εἰδεν	εἰδεν	εἶδεν	εἶδεν	TODO zoom: A DROP, B DROP
+1kgdms	theoldtestamenti00unknuoft	625	27	Aaveid:	Δαυείδ:	Δαυείδ·	Δαυείδ·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	28	‘Kal	"““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	625	28	Ἰωναθὰν	Ἰωναθὰν	Ἰωναθὰν	Ἰωναθὰν	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+1kgdms	theoldtestamenti00unknuoft	625	28	υἱὸς	υἱὸς	υἱὸς	υἱὸς	TODO zoom: acute or grave before a capitalized word
+1kgdms	theoldtestamenti00unknuoft	625	29	Καινὴν,	Καινὴν,	Καινήν,	Καινήν,	TODO zoom: A DIA, B DIA

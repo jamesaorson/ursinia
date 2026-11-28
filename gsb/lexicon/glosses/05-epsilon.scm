@@ -36,11 +36,11 @@
 
 (lemma "ἐγκοτέω" (sense resent (dative "") (gloss "resent" "resented" "resents" "resenting") (why "(LXX, supplied.) To bear a grudge against, with the dative (Genesis 27:41 ἐνεκότει Ἠσαὺ τῷ Ἰακώβ, \"Esau was resenting Jacob\"). \"Resent\" because \"bear a grudge\" would need an unbracketed \"a\".")))
 
-(lemma "ἔγκειμαι"(sense lie-in (gloss "lie in" "lay in" "lain in" "lies in" "lying in") (why "(LXX, supplied.) To lie in or on, be set on, be intent on (Genesis 8:21, ἔγκειται ἡ διάνοια ... ἐπὶ τὰ πονηρά, the mind lies intent on evil things). \"Lie in\" renders the ἐν- of the compound; the readable layer will say \"is set on\".")))
+(lemma "ἔγκειμαι" (sense lie-in (gloss "lie in" "lay in" "lain in" "lies in" "lying in") (why "(LXX, supplied.) To lie in or on, be set on, be intent on (Genesis 8:21, ἔγκειται ἡ διάνοια ... ἐπὶ τὰ πονηρά, the mind lies intent on evil things). \"Lie in\" renders the ἐν- of the compound; the readable layer will say \"is set on\".")))
 
 (lemma "ἐγκρυφίας" (sense ash-cake (gloss "ash-cake" "ash-cakes") (why "(LXX, supplied.) A loaf baked hidden (ἐν + κρύπτω) in the hot ashes (Genesis 18:6). \"Ash-cake\" names it by how it was baked.")))
 
-(lemma "ἐγχειρίδιον"(sense hand-tool (gloss "hand-tool") (why "(LXX, supplied.) Something held in the hand, a tool or blade (Exodus 20:25). Swete spells ἐνχειρίδιον.")))
+(lemma "ἐγχειρίδιον" (sense hand-tool (gloss "hand-tool") (why "(LXX, supplied.) Something held in the hand, a tool or blade (Exodus 20:25). Swete spells ἐνχειρίδιον.")))
 
 (lemma "ἐγώ"
   (sense pronoun
@@ -72,7 +72,7 @@
 
 (lemma "εἰκάς" (sense twentieth (dative "") (gloss "twentieth") (why "(LXX, supplied.) The twentieth day of a month, a feminine noun: ἑβδόμῃ καὶ εἰκάδι τοῦ μηνός, \"on [the] seventh and twentieth of the month\" (Genesis 7:11; 8:4, 14), the twenty-seventh day.")))
 
-(lemma "εἴκοσι"(sense twenty (gloss "twenty") (why "The numeral twenty (Genesis 6:3; Acts 27:28).")))
+(lemma "εἴκοσι" (sense twenty (gloss "twenty") (why "The numeral twenty (Genesis 6:3; Acts 27:28).")))
 
 (lemma "εἰκών"
   (sense image
@@ -152,7 +152,7 @@
 
 (lemma "ἐκκενόω" (sense empty-out (gloss "empty out" "emptied out" "empties out" "emptying out") (why "(LXX, supplied.) To empty out, pour out completely (Genesis 24:20, the jar emptied into the trough). Kept apart from κενόω \"empty\" (Philippians 2:7) by the particle.")))
 
-(lemma "ἐκκλίνω"(sense turn-aside (gloss "turn aside" "turned aside" "turns aside" "turning aside") (why "To turn aside, turn away (Genesis 18:5, the guests turned aside to Abraham; Romans 3:12; 16:17; 1 Peter 3:11). Kept apart from the στρέφω compounds.")))
+(lemma "ἐκκλίνω" (sense turn-aside (gloss "turn aside" "turned aside" "turns aside" "turning aside") (why "To turn aside, turn away (Genesis 18:5, the guests turned aside to Abraham; Romans 3:12; 16:17; 1 Peter 3:11). Kept apart from the στρέφω compounds.")))
 
 (lemma "ἐκλέγω" (sense choose (gloss "choose" "chose" "chosen" "chooses" "choosing") (why "Middle: to pick out for oneself, choose (Genesis 6:2; Luke 6:13; Ephesians 1:4).")))
 
@@ -210,7 +210,7 @@
 
 (lemma "ἐλέγχω" (sense reprove (gloss "reprove" "reproved" "reproves" "reproving") (why "To bring to account, reprove, rebuke (Genesis 21:25 ἤλεγξεν Ἀβραὰμ τὸν Ἀβιμέλεχ; Matthew 18:15; John 16:8).")))
 
-(lemma "ἔλεος"(sense mercy (gloss "mercy") (why "Mercy.")))
+(lemma "ἔλεος" (sense mercy (gloss "mercy") (why "Mercy.")))
 
 (lemma "Ἐλιέζερ" (sense name (gloss "Eliezer") (why "Abram's house-born heir (Genesis 15:2); also the name in Luke 3:29. Traditional English Eliezer.")))
 
@@ -348,7 +348,7 @@
 
 (lemma "ἔξω" (sense outside (gloss "outside") (why "Outside, out of doors (Genesis 9:22, he told his two brothers ἔξω; Matthew 26:69; John 6:37). It shares \"outside\" with ἔξωθεν, unavoidably: English has one word for both; ἔξωθεν, \"from outside\", is the rarer.")))
 
-(lemma "ἔξωθεν"(sense outside (gloss "outside") (why "From outside, on the outside (Genesis 6:14, the ark pitched ἔσωθεν καὶ ἔξωθεν; Matthew 23:27). Paired with ἔσωθεν \"inside\".")))
+(lemma "ἔξωθεν" (sense outside (gloss "outside") (why "From outside, on the outside (Genesis 6:14, the ark pitched ἔσωθεν καὶ ἔξωθεν; Matthew 23:27). Paired with ἔσωθεν \"inside\".")))
 
 (lemma "ἐπάγω" (sense bring-on (gloss "bring on" "brought on" "brings on" "bringing on") (why "To bring upon (Genesis 6:17, the flood; 2 Peter 2:5, ἐπάξας κατακλυσμόν). \"Bring on\" against ἄγω and its other compounds.")))
 
@@ -374,7 +374,7 @@
 
 (lemma "ἐπεί" (sense when (gloss "when") (why "When, since (Genesis 15:17 ἐπεὶ δὲ ἐγίνετο ὁ ἥλιος πρὸς δυσμαῖς; Luke 1:34 \"since\"). \"When\" is shared with ὅτε and ἡνίκα, \"since\" being διότι's.")))
 
-(lemma "ἐπειδή"(sense seeing-that (gloss "seeing that") (why "Since, seeing that (Genesis 18:31 Ἐπειδὴ ἔχω λαλῆσαι; Luke 7:1; 1 Corinthians 1:21-22). \"Seeing that\" because διότι takes \"since\" and ὅτι \"because\".")))
+(lemma "ἐπειδή" (sense seeing-that (gloss "seeing that") (why "Since, seeing that (Genesis 18:31 Ἐπειδὴ ἔχω λαλῆσαι; Luke 7:1; 1 Corinthians 1:21-22). \"Seeing that\" because διότι takes \"since\" and ὅτι \"because\".")))
 
 (lemma "ἐπεῖδον" (sense look (gloss "look" "looked" "looks" "looking") (why "The aorist of ἐφοράω, to look upon (with favor): Genesis 4:4; Luke 1:25. Swete spells ἔπιδεν. \"Look\": the ἐπί that follows it in Genesis 4:4 gives the \"upon\"."))
   (sense look-upon
@@ -401,7 +401,7 @@
 
 (lemma "ἐπιγινώσκω" (sense recognize (gloss "recognize" "recognized" "recognizes" "recognizing") (why "To know fully, recognize (Genesis 27:23, Isaac did not recognize Jacob; Luke 24:16, 31). \"Recognize\" keeps it apart from γινώσκω \"know\". (LXX form supplied.)")))
 
-(lemma "ἐπιθυμέω"(sense desire (genitive "") (gloss "desire" "desired" "desires" "desiring") (why "To desire, set the heart on. \"Desire\" in the literal layer (Exodus 20:17; Romans 7:7 quotes it); the readable layer may say \"covet\".")))
+(lemma "ἐπιθυμέω" (sense desire (genitive "") (gloss "desire" "desired" "desires" "desiring") (why "To desire, set the heart on. \"Desire\" in the literal layer (Exodus 20:17; Romans 7:7 quotes it); the readable layer may say \"covet\".")))
 
 (lemma "ἐπικαλέω" (sense call-upon (voice active) (gloss "call upon" "called upon" "calls upon" "calling upon") (why "Middle: to call upon (a name), Genesis 4:26; Romans 10:13.")))
 
@@ -420,7 +420,7 @@
 
 (lemma "ἐπιλαμβάνω" (sense take-hold (genitive "of") (gloss "take hold" "took hold" "taken hold" "takes hold" "taking hold") (why "In the middle, to lay hold of, take hold of, with the genitive (Genesis 25:26, Jacob's hand ἐπειλημμένη τῆς πτέρνης Ἠσαύ; Mark 8:23; Hebrews 2:16).")))
 
-(lemma "ἐπιμελῶς"(sense diligently (gloss "diligently") (why "Carefully, diligently (Genesis 6:5; Luke 15:8).")))
+(lemma "ἐπιμελῶς" (sense diligently (gloss "diligently") (why "Carefully, diligently (Genesis 6:5; Luke 15:8).")))
 
 (lemma "ἐπισάσσω" (sense saddle (gloss "saddle" "saddled" "saddles" "saddling") (why "(LXX, supplied.) To pack or saddle a beast (Genesis 22:3 ἐπέσαξεν τὴν ὄνον αὐτοῦ).")))
 
@@ -432,9 +432,9 @@
 
 (lemma "ἐπιστηρίζω" (sense lean (voice active) (gloss "lean" "leaned" "leans" "leaning") (why "(LXX, supplied.) To prop upon; passive, to lean or be set firm upon (Genesis 28:13 ὁ δὲ Κύριος ἐπεστήρικτο ἐπ’ αὐτῆς, \"the Lord had leaned upon it\", the ladder). The passive is rendered active. In the New Testament (Acts 14:22; 15:32, 41) it is \"strengthen\", which will be its own sense.")))
 
-(lemma "ἐπιστρέφω"(sense turn-again (gloss "turn again" "turned again" "turns again" "turning again") (why "Intransitive: to turn around, turn back again, return (Genesis 8:12, the dove did not add of turning again to him; Luke 17:4; Acts 3:19). \"Turn again\" keeps it apart from στρέφω \"turn\", ἀποστρέφω \"turn back\", ἀναστρέφω \"come back\" and ὑποστρέφω \"return\".")))
+(lemma "ἐπιστρέφω" (sense turn-again (gloss "turn again" "turned again" "turns again" "turning again") (why "Intransitive: to turn around, turn back again, return (Genesis 8:12, the dove did not add of turning again to him; Luke 17:4; Acts 3:19). \"Turn again\" keeps it apart from στρέφω \"turn\", ἀποστρέφω \"turn back\", ἀναστρέφω \"come back\" and ὑποστρέφω \"return\".")))
 
-(lemma "ἐπισυνάγω"(sense gather-together (gloss "gather together" "gathered together" "gathers together" "gathering together") (why "To gather together (Matthew 23:37, a hen gathering her chicks). In Genesis 6:16 ἐπισυνάγων ποιήσεις seems to mean building the ark drawn in toward the top; the literal layer keeps \"gathering together\". Kept apart from συνάγω \"gather\".")))
+(lemma "ἐπισυνάγω" (sense gather-together (gloss "gather together" "gathered together" "gathers together" "gathering together") (why "To gather together (Matthew 23:37, a hen gathering her chicks). In Genesis 6:16 ἐπισυνάγων ποιήσεις seems to mean building the ark drawn in toward the top; the literal layer keeps \"gathering together\". Kept apart from συνάγω \"gather\".")))
 
 (lemma "ἐπιτίθημι"
   (sense lay-on

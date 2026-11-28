@@ -4,10 +4,10 @@ exod	transcribed	24648	21087	85.6	21087	85.6	4132	2125	51.4
 lev	transcribed	19042	16241	85.3	16241	85.3	2642	1295	49.0
 num	transcribed	24974	20907	83.7	20907	83.7	3655	1790	49.0
 deut	transcribed	22502	19764	87.8	19764	87.8	3844	2042	53.1
-josh	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
-judg	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
+josh	transcribed	14841	12443	83.8	12443	83.8	2811	1337	47.6
+judg	transcribed	7896	6641	84.1	6641	84.1	1775	1024	57.7
 ruth	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
-1kgdms	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
+1kgdms	transcribed	1979	1745	88.2	1745	88.2	662	478	72.2
 2kgdms	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
 3kgdms	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
 4kgdms	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
@@ -57,4 +57,4 @@ dan	transcribed	526	434	82.5	434	82.5	248	172	69.4
 dan-th	transcribed	495	414	83.6	414	83.6	224	160	71.4
 bel	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
 bel-th	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
-TOTAL		124823	107712	86.3	107712	86.3	12236	4703	38.4
+TOTAL		149539	128541	86.0	128541	86.0	14234	5098	35.8

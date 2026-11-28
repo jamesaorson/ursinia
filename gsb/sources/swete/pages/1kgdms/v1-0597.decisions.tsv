@@ -1,0 +1,66 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+1kgdms	theoldtestamenti00unknuoft	597	1	Κ̓αὶ	Καὶ	Καὶ	Καὶ	image (3x): plain capital K, no breathing (A noise)
+1kgdms	theoldtestamenti00unknuoft	597	1	μῆνα	μῆνα +()	μῆνα	μῆνα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	1	(xa	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	1	Nads	Ναὰς	Ναὰς	Ναὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	1	Ἀμμανείτης	Ἀμμανείτης	Ἀμμανείτης	Ἀμμανείτης	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	597	1	καὶ +B	καὶ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	2	ἸἸαβεὶς	Ἰαβεὶς	Ἰαβεὶς	Ἰαβεὶς	image (3x): smooth breathing; grave before lowercase Γαλαάδ is not a capital-quotation case, grave as printed
+1kgdms	theoldtestamenti00unknuoft	597	2	Γαλαάδ᾽	Γαλαάδ᾽	Γαλαάδ·	Γαλαάδ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	2	Ἰ̓αβεὶς	Ἰαβεὶς	Ἰαβεὶς	Ἰαβεὶς	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	597	3	Nads	Ναὰς	Ναὰς	Ναὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	3	Ἀμμανείτην	Ἀμμανείτην	Ἀμμανείτην	Ἀμμανείτην	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	597	3	δουλεύσομέν	δουλεύσομέν	δουλεύσομέν	δουλεύσομέν	image (3x): acute on final syllable before enclitic σοι
+1kgdms	theoldtestamenti00unknuoft	597	4	*kal	σοι.	σοι.	σοι.	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	4	∅	“καὶ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	4	αὐτοὺς	αὐτοὺς	αὐτοὺς	αὐτοὺς	image (3x): grave as printed (next word is a name, not a quotation)
+1kgdms	theoldtestamenti00unknuoft	597	4	Ἀμμανείτης	Ἀμμανείτης	Ἀμμανείτης	Ἀμμανείτης	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	597	4	Ἔν	Ἔν	Ἐν	Ἐν	image (3x): smooth breathing only, no accent on Ἐν
+1kgdms	theoldtestamenti00unknuoft	597	4	διαθή-	διαθη-	διαθή-	διαθή-	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+1kgdms	theoldtestamenti00unknuoft	597	6	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	597	6	3Kat	3καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	7	Ιαβείς	Ιαβείς	Ἰαβεὶς	Ἰαβείς	image (3x): smooth breathing; acute before capitalized quotation
+1kgdms	theoldtestamenti00unknuoft	597	7	“Aves	ΓΔνες	Ἄνες	Ἄνες	image (3x): smooth + acute (apostrophe then rising stroke)
+1kgdms	theoldtestamenti00unknuoft	597	8	Ἰσραήλ:	Ἰσραήλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	597	8	ἢ	ἢ	ᾖ	ᾖ	image (3x): circumflex, smooth breathing, iota subscript
+1kgdms	theoldtestamenti00unknuoft	597	8	ὑμᾶς.	ὑμᾶς. +Τ	ὑμᾶς.	ὑμᾶς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	9	“καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	9	Ταβαὰ	Ταβαὰ	Γαβαὰ	Γαβαὰ	image (3x): Γ, not Τ
+1kgdms	theoldtestamenti00unknuoft	597	10	λαοῦ:	λαοῦ:	λαοῦ·	λαοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	10	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	11	καὶ	5 +“καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1kgdms	theoldtestamenti00unknuoft	597	11	ἰδοὺ	ἰδοὺ	ἰδοὺ	ἰδοὺ	image (3x): grave as printed (next word is a name, not a quotation)
+1kgdms	theoldtestamenti00unknuoft	597	12	ἀγροῦ:	ἀγροῦ:	ἀγροῦ·	ἀγροῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	12	Σαούλ	Σαούλ	Σαοὺλ	Σαούλ	image (3x): acute before capitalized quotation Τί
+1kgdms	theoldtestamenti00unknuoft	597	12	Ti	Τί	Τί	Τί	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	13	υἱῶν	υἱῶν +᾽	υἱῶν	υἱῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	13	Ἰαβείς.	Ἰαβείς.	Ἰαβείς.	Ἰαβείς.	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	597	13	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	15	ἸΤκαὶ	ἸΤκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	16	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	597	16	ἐν	ἐν.	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+1kgdms	theoldtestamenti00unknuoft	597	16	“Os	“Ὃς	Ὃς	Ὃς	image (8x): rough + grave, one compact closed d-shaped mark
+1kgdms	theoldtestamenti00unknuoft	597	17	Σαμουὴλ,	Σαμουὴλ,	Σαμουήλ,	Σαμουήλ,	image (3x): acute on η before comma
+1kgdms	theoldtestamenti00unknuoft	597	18	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	19	λαὸν	λαὸν	λαὸν	λαὸν	image (3x): grave as printed (next word is a name, not a quotation)
+1kgdms	theoldtestamenti00unknuoft	597	19	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	597	19	καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	20	αὐτοὺς	αὐτοὺς	αὐτοὺς	αὐτοὺς	image (3x): grave as printed (next word is a name, not a quotation)
+1kgdms	theoldtestamenti00unknuoft	597	20	Ἀβιέζεκ	Ἀβιέζεκ	Ἀβιέζεκ	Ἀβιέζεκ	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	597	20	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	597	21	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	597	21	χιλιάδας, +9	χιλιάδας, +9	χιλιάδας,	χιλιάδας,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	22	Αὔριον	Αὔριον	Αὔριον	Αὔριον	image (3x): plain capital A, smooth breathing + acute on υ
+1kgdms	theoldtestamenti00unknuoft	597	24	Ἰαβείς,	Ἰαβείς,	Ἰαβείς,	Ἰαβείς,	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	597	24	"kai	"“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	25	Ἰαβεὶς	Ἰαβεὶς	Ἰαβεὶς	Ἰαβεὶς	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	597	25	Naas	Ναὰς	Ναὰς	Ναὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	25	Ἀμμανείτην	Ἀμμανείτην	Ἀμμανείτην	Ἀμμανείτην	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	597	25	Αὔριον	Αὔριον	Αὔριον	Αὔριον	image (3x): plain capital A, smooth breathing + acute on υ
+1kgdms	theoldtestamenti00unknuoft	597	27	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	27	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	29	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave as printed (next word is a name, not a quotation)
+1kgdms	theoldtestamenti00unknuoft	597	29	Ἀμμὼν	Ἀμμὼν	Ἀμμὼν	Ἀμμὼν	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	597	29	ἡμέρα:	ἡμέρα:	ἡμέρα·	ἡμέρα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	22	ἀνδράσιν	ἀνδράσιν +᾽	ἀνδράσιν	ἀνδράσιν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	597	22	Ἰαβείς	Ἰαβείς	Ἰαβείς	Ἰαβείς	image (3x): smooth breathing; acute before capitalized quotation

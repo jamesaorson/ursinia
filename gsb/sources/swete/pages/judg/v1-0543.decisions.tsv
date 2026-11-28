@@ -1,0 +1,65 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+judg	theoldtestamenti00unknuoft	543	1	∅	∅	οὐκ	οὐκ	image (3x): word clearly printed at line start; OCR lost it
+judg	theoldtestamenti00unknuoft	543	1	ψυχήν	ψυχήν	ψυχήν	ψυχήν	image (3x): acute before enclitic μου as printed
+judg	theoldtestamenti00unknuoft	543	1	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	543	1	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	543	1	χειρί	χειρί	χειρί	χειρί	image (3x): acute before enclitic μου as printed
+judg	theoldtestamenti00unknuoft	543	2	∅	∅	πρὸς	πρὸς	image (3x): word clearly printed at line start; OCR lost it
+judg	theoldtestamenti00unknuoft	543	2	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): accent before capitalized word as printed
+judg	theoldtestamenti00unknuoft	543	2	Ἀμμῶν,	Ἀμμῶν,	Ἀμμών,	Ἀμμών,	image (3x): smooth breathing on Α; acute (not circumflex) on ω
+judg	theoldtestamenti00unknuoft	543	2	αὐτοὺς	αὐτοὺς	αὐτοὺς	αὐτοὺς	image (3x): accent before capitalized word as printed
+judg	theoldtestamenti00unknuoft	543	2	χειρί	χειρί	χειρί	χειρί	image (3x): acute before enclitic μου as printed
+judg	theoldtestamenti00unknuoft	543	2	μου"	μου"	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	543	3	maparagacGa	παρὰάτάξασθαι	παρατάξασθαι	παρατάξασθαι	image (3x): παρατάξασθαι, one acute
+judg	theoldtestamenti00unknuoft	543	3	ἐμοί; +“	ἐμοί; +“	ἐμοί;	ἐμοί;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	543	4	∅	∅	συνέστρεψεν	συνέστρεψεν	image (3x): word clearly printed at line start; OCR lost it
+judg	theoldtestamenti00unknuoft	543	4	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	543	4	Ταλαὰδ	Ταλαὰδ	Γαλαὰδ	Γαλαὰδ	image (3x): Γ, not Τ
+judg	theoldtestamenti00unknuoft	543	5	∅	∅	Ἐφράιμ·	Ἐφράιμ·	image (3x): word clearly printed at line start; OCR lost it
+judg	theoldtestamenti00unknuoft	543	5	Ταλαὰδ	Γαλαὰδ	Γαλαὰδ	Γαλαὰδ	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	543	5	Ἐφράιμ,	Ἐ̓φράιμ,	Ἐφράιμ,	Ἐφράιμ,	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	543	6	∅	διασωζόμενοι	διασωζόμενοι	διασωζόμενοι	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	543	6	"Edpaip	Ἔφραϊμ	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	543	6	Ὑμεῖς	Ὑμεῖς	Ὑμεῖς	Ὑμεῖς	image (3x): rough breathing on Υ
+judg	theoldtestamenti00unknuoft	543	6	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	543	6	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	543	7	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	543	8	Ἰορδάνου	Ἰορδάνου	Ἰορδάνου	Ἰορδάνου	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	543	8	"Edpauy	Ἐφράιμ:	Ἐφράιμ·	Ἐφράιμ·	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	543	8	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	543	8	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	543	9	Διαβῶμεν:	Διαβῶμεν:	Διαβῶμεν·	Διαβῶμεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	543	9	Ταλαάδ	Ταλαάδ	Γαλαάδ	Γαλαάδ	image (3x): accent before capitalized word as printed
+judg	theoldtestamenti00unknuoft	543	9	Ἐφραθείτης	Ἐφραθείτης	Ἐφραθείτης	Ἐφραθείτης	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	543	10	Οὔ.	Οὔ.	Οὔ.	Οὔ.	image (3x): smooth breathing + acute on υ
+judg	theoldtestamenti00unknuoft	543	10	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	543	10	Εἰπὸν	Εἰπὸν	Εἰπὸν	Εἰπὸν	image (3x): smooth breathing on ι of Εἰπὸν, grave on ο
+judg	theoldtestamenti00unknuoft	543	10	δὴ	δὴ	δή	δή	image (3x): acute on δή before capitalized Στάχυς
+judg	theoldtestamenti00unknuoft	543	12	Ἰορδάνου:	Ἰορδάνου:	Ἰορδάνου·	Ἰορδάνου·	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	543	12	TO	τῷ	τῷ	τῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	543	13	Ἔφραιμ	Ἔφραιμ	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing, no accent on Ε; acute on α
+judg	theoldtestamenti00unknuoft	543	13	7Καὶ	7Καὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	543	13	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	543	14	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	543	14	ἔτη:	ἔτη:	ἔτη·	ἔτη·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	543	14	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	Ἰεφθάε	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	543	14	Tadaadeirns,	Ταλααδείτης,	Γαλααδείτης,	Γαλααδείτης,	image (3x): Γ, not Τ
+judg	theoldtestamenti00unknuoft	543	15	Ταλαάδ.	Γαλαάδ.	Γαλαάδ.	Γαλαάδ.	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	543	16	per	μετ᾽	μετ᾽	μετ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	543	16	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): accent before capitalized word as printed
+judg	theoldtestamenti00unknuoft	543	16	Ἀβαισὰν	Ἀβαισὰν	Ἀβαισὰν	Ἀβαισὰν	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	543	17	∅	∅	καὶ	καὶ	image (3x): word clearly printed at line start; OCR lost it
+judg	theoldtestamenti00unknuoft	543	19	ἔξωθεν:	ἔξωθεν"	ἔξωθεν·	ἔξωθεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	543	19	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	543	19	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	543	19	Ἀβαισάν,	Ἀβαισάν,	Ἀβαισάν,	Ἀβαισάν,	image (3x): smooth breathing on capital
+judg	theoldtestamenti00unknuoft	543	20	Βαιθλέεμ.	Βαιθλέεμ. +:	Βαιθλέεμ.	Βαιθλέεμ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	543	21	Ξ +“Καὶ	Καὶ	Καὶ	Καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	543	21	per	μετ᾽	μετ᾽	μετ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	543	21	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): accent before capitalized word as printed
+judg	theoldtestamenti00unknuoft	543	21	Αἰλὼμ	Αἰλὼμ	Αἰλὼμ	Αἰλὼμ	image (3x): capital Α unmarked, smooth breathing on ι (Αἰλὼμ)
+judg	theoldtestamenti00unknuoft	543	22	"kal	"““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	543	22	Αἰλὼμ	Αἰλὼμ	Αἰλὼμ	Αἰλὼμ	image (3x): capital Α unmarked, smooth breathing on ι (Αἰλὼμ)
+judg	theoldtestamenti00unknuoft	543	22	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	543	22	Αἰλὼμ	Αἰλὼμ	Αἰλὼμ	Αἰλὼμ	image (3x): capital Α unmarked, smooth breathing on ι (Αἰλὼμ)
+judg	theoldtestamenti00unknuoft	543	23	Ζαβουλών. +*	Ζαβουλών. +;	Ζαβουλών.	Ζαβουλών.	class R3: OCR appended accent-row or margin junk; c read from the image strip

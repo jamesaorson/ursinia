@@ -34,7 +34,7 @@
 
 (lemma "νίπτω" (sense wash (gloss "wash" "washed" "washes" "washing") (why "To wash part of the body, hands or feet (Genesis 18:4 νιψάτω τοὺς πόδας ὑμῶν; John 13:5-14). Kept apart from λούω (the whole body) and πλύνω (clothes).")))
 
-(lemma "Νοεμά"(sense name (gloss "Naamah") (why "(LXX, supplied.) Genesis 4:22, traditional English Naamah.")))
+(lemma "Νοεμά" (sense name (gloss "Naamah") (why "(LXX, supplied.) Genesis 4:22, traditional English Naamah.")))
 
 (lemma "νόμιμος" (sense lawful (gloss "lawful") (why "Lawful, according to law; the neuter plural τὰ νόμιμα, \"the lawful [things]\", statutes, customs (Genesis 26:5, Abraham kept God's νόμιμα; Leviticus passim). (LXX, supplied.) The adjective of νόμος \"law\"; kept apart from δικαίωμα \"statute\" and πρόσταγμα \"ordinance\".")))
 

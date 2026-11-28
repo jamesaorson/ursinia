@@ -7,13 +7,13 @@
 
 (lemma "Καδής" (sense name (gloss "Kadesh") (why "(LXX, supplied.) Kadesh in the southern wilderness (Genesis 14:7; 16:14; 20:1); traditional English Kadesh.")))
 
-(lemma "καθά"(sense according-as (gloss "according as") (why "(LXX, supplied.) According as, just as: καθὰ ἐνετείλατο αὐτῷ ὁ θεός, \"according as God commanded him\" (Genesis 7:9, 16; Matthew 27:10). \"According as\" keeps it apart from ὡς \"as\" and καθώς \"just as\".")))
+(lemma "καθά" (sense according-as (gloss "according as") (why "(LXX, supplied.) According as, just as: καθὰ ἐνετείλατο αὐτῷ ὁ θεός, \"according as God commanded him\" (Genesis 7:9, 16; Matthew 27:10). \"According as\" keeps it apart from ὡς \"as\" and καθώς \"just as\".")))
 
 (lemma "καθαιρέω" (sense take-down (gloss "take down" "took down" "taken down" "takes down" "taking down") (why "To take down, lower (Genesis 27:40 ἡνίκα ἐὰν καθέλῃς, \"whenever you take down\", the yoke; Mark 15:36, 46, taking the body down; Luke 1:52). (LXX form supplied.)")))
 
 (lemma "καθάπερ" (sense even-as (gloss "even as") (why "Even as, just as (Genesis 12:4, \"even as the Lord spoke to him\"; Romans 4:6). \"Even as\" keeps it apart from καθώς \"just as\", καθά \"according as\" and ὡς \"as\".")))
 
-(lemma "καθαρίζω"(sense cleanse (gloss "cleanse" "cleansed" "cleanses" "cleansing") (why "To cleanse, and so to hold guiltless (Exodus 20:7).")))
+(lemma "καθαρίζω" (sense cleanse (gloss "cleanse" "cleansed" "cleanses" "cleansing") (why "To cleanse, and so to hold guiltless (Exodus 20:7).")))
 
 (lemma "καθαρός" (sense clean (gloss "clean") (why "Clean, pure: of animals fit for sacrifice (Genesis 7:2-3, 8; 8:20, the clean cattle and the clean birds), and of the heart (Matthew 5:8). \"Clean\" for the ritual sense of the Septuagint; a \"pure\" sense may follow where the New Testament needs it.")))
 
@@ -27,7 +27,7 @@
     (gloss "be fitting" "is fitting" "was fitting" "been fitting" "being fitting")
     (why "Impersonal: it is fitting, proper (Genesis 19:31 ὡς καθήκει πάσῃ τῇ γῇ; Acts 22:22; Romans 1:28 τὰ μὴ καθήκοντα).")))
 
-(lemma "κάθημαι"(sense be-seated (verb "be seated" "was seated" "been seated") (gloss "be seated" "is seated" "was seated" "were seated" "been seated" "being seated") (why "To be seated, sit (Genesis 18:1 καθημένου αὐτοῦ ἐπὶ τῆς θύρας, as he was seated at the door; Matthew 9:9; Revelation 4:2). \"Be seated\" keeps the state apart from καθίζω \"sit\" (sit down).")))
+(lemma "κάθημαι" (sense be-seated (verb "be seated" "was seated" "been seated") (gloss "be seated" "is seated" "was seated" "were seated" "been seated" "being seated") (why "To be seated, sit (Genesis 18:1 καθημένου αὐτοῦ ἐπὶ τῆς θύρας, as he was seated at the door; Matthew 9:9; Revelation 4:2). \"Be seated\" keeps the state apart from καθίζω \"sit\" (sit down).")))
 
 (lemma "καθίζω" (sense sit (verb "sit" "sat" "sat") (gloss "sit" "sat" "sits" "sitting") (why "Intransitive: to sit, settle (Genesis 8:4, the ark sat on the mountains; Matthew 5:1). The transitive \"seat\" (Ephesians 1:20) will be its own sense.")))
 
@@ -82,7 +82,7 @@
 
 (lemma "κάμινος" (sense furnace (gloss "furnace" "furnaces") (why "A furnace, kiln (Genesis 19:28 ὡσεὶ ἀτμὶς καμίνου; Matthew 13:42; Revelation 9:2).")))
 
-(lemma "καπνίζω"(sense smoke (gloss "smoke" "smoked" "smokes" "smoking") (why "(LXX, supplied.) To smoke (Exodus 20:18, the mountain smoking).")))
+(lemma "καπνίζω" (sense smoke (gloss "smoke" "smoked" "smokes" "smoking") (why "(LXX, supplied.) To smoke (Exodus 20:18, the mountain smoking).")))
 
 (lemma "καρδία" (sense heart (gloss "heart" "hearts") (why "Heart, the seat of thought and will (Genesis 6:5-6; Matthew 5:8).")))
 
@@ -155,7 +155,7 @@
 
 (lemma "καταμανθάνω" (sense observe (gloss "observe" "observed" "observes" "observing") (why "To learn thoroughly by looking, observe closely (Genesis 24:21, the man was observing her; Matthew 6:28, \"consider the lilies\"). \"Observe\" keeps it apart from μανθάνω \"learn\" and κατανοέω.")))
 
-(lemma "καταμένω"(sense remain (gloss "remain" "remained" "remains" "remaining") (why "To stay on, remain (Genesis 6:3; Acts 1:13). μένω, when it comes, will need its own English (\"abide\").")))
+(lemma "καταμένω" (sense remain (gloss "remain" "remained" "remains" "remaining") (why "To stay on, remain (Genesis 6:3; Acts 1:13). μένω, when it comes, will need its own English (\"abide\").")))
 
 (lemma "κατανοέω"
   (sense consider
@@ -173,17 +173,17 @@
 
 (lemma "καταράκτης" (sense floodgate (gloss "floodgate" "floodgates") (why "(LXX, supplied.) A rushing downfall of water, and so the sluice or floodgate through which it rushes: οἱ καταράκται τοῦ οὐρανοῦ, the floodgates of heaven (Genesis 7:11; 8:2).")))
 
-(lemma "καταράομαι"(sense curse (gloss "curse" "cursed" "curses" "cursing") (why "To curse (Genesis 5:29, the earth which the Lord God cursed; Matthew 5:44; Mark 11:21). Its past \"cursed\" is also the English of the adjective ἐπικατάρατος (Genesis 3:14, 17); the alignment shows which Greek word stands behind it.")))
+(lemma "καταράομαι" (sense curse (gloss "curse" "cursed" "curses" "cursing") (why "To curse (Genesis 5:29, the earth which the Lord God cursed; Matthew 5:44; Mark 11:21). Its past \"cursed\" is also the English of the adjective ἐπικατάρατος (Genesis 3:14, 17); the alignment shows which Greek word stands behind it.")))
 
 (lemma "καταστρέφω" (sense overturn (gloss "overturn" "overturned" "overturns" "overturning") (why "To turn upside down, overturn, overthrow (Genesis 19:21, 25, 29, the overturning of Sodom; Matthew 21:12, the tables of the money-changers).")))
 
 (lemma "καταστροφή" (sense overturning (gloss "overturning") (why "(LXX form supplied.) An overturning, overthrow, ruin (Genesis 19:29 ἐκ μέσου τῆς καταστροφῆς; 2 Peter 2:6, which uses it of Sodom and Gomorrah). The noun of καταστρέφω \"overturn\".")))
 
-(lemma "κατάσχεσις"(sense possession (with-preposition "εἰς" for) (gloss "possession" "possessions") (why "A holding, possession (Genesis 17:8 εἰς κατάσχεσιν αἰώνιον \"for everlasting possession\"; Acts 7:5, 45, which recall it).")))
+(lemma "κατάσχεσις" (sense possession (with-preposition "εἰς" for) (gloss "possession" "possessions") (why "A holding, possession (Genesis 17:8 εἰς κατάσχεσιν αἰώνιον \"for everlasting possession\"; Acts 7:5, 45, which recall it).")))
 
 (lemma "καταφεύγω" (sense take-refuge (verb "take refuge" "took" "taken") (gloss "take refuge" "took refuge" "taken refuge" "takes refuge" "taking refuge") (why "To flee for refuge (Genesis 19:20 τοῦ καταφυγεῖν με ἐκεῖ; Acts 14:6; Hebrews 6:18). \"Take refuge\" keeps it apart from φεύγω \"flee\".")))
 
-(lemma "καταφθείρω"(sense ruin (gloss "ruin" "ruined" "ruins" "ruining") (why "(LXX forms supplied.) To destroy, ruin; perfect passive, ruined, corrupted (Genesis 6:12-13, 17; 2 Peter 2:12). The Greek of Genesis 6:12-17 uses one verb for all flesh ruining its way and for God ruining all flesh; one English word keeps that visible. Kept apart from φθείρω \"corrupt\" (6:11).")))
+(lemma "καταφθείρω" (sense ruin (gloss "ruin" "ruined" "ruins" "ruining") (why "(LXX forms supplied.) To destroy, ruin; perfect passive, ruined, corrupted (Genesis 6:12-13, 17; 2 Peter 2:12). The Greek of Genesis 6:12-17 uses one verb for all flesh ruining its way and for God ruining all flesh; one English word keeps that visible. Kept apart from φθείρω \"corrupt\" (6:11).")))
 
 (lemma "καταφρονέω" (sense despise (gloss "despise" "despised" "despises" "despising") (why "To think down on, despise (Genesis 27:12 ἔσομαι ἐναντίον αὐτοῦ ὡς καταφρονῶν, \"as despising\", where the Hebrew has \"as a mocker\"; Matthew 6:24; Hebrews 12:2). (LXX form supplied.)")))
 
@@ -243,13 +243,13 @@
 
 (lemma "κιθάρα" (sense harp (gloss "harp" "harps") (why "The lyre or harp (1 Corinthians 14:7; Revelation 5:8).")))
 
-(lemma "κινέω" (sense move (voice active) (gloss "move" "moved" "moves" "moving") (why "To move, set in motion; the passive (\"be moved\") is rendered as the intransitive \"move\" (Genesis 7:14, 21; 8:17, 19, every creeping thing moving on the earth; Acts 17:28, in him we live and move).")))
+(lemma "κινέω" (sense move (voice active) (intransitive) (gloss "move" "moved" "moves" "moving") (why "To move, set in motion; the passive (\"be moved\") is rendered as the intransitive \"move\" (Genesis 7:14, 21; 8:17, 19, every creeping thing moving on the earth; Acts 17:28, in him we live and move).")))
 
 (lemma "κλαίω" (sense weep (gloss "weep" "wept" "weeps" "weeping") (why "To weep, cry (Genesis 21:16, 23:2; Luke 6:21; John 11:33).")))
 
 (lemma "κλείω" (sense shut (verb "shut" "shut" "shut") (gloss "shut" "shuts" "shutting") (why "To shut, close (Genesis 7:16, the Lord God shut the ark from outside it; Matthew 25:10, the door was shut).")))
 
-(lemma "κλέπτω"(sense steal (gloss "steal" "stole" "stolen" "steals" "stealing") (why "To steal.")))
+(lemma "κλέπτω" (sense steal (gloss "steal" "stole" "stolen" "steals" "stealing") (why "To steal.")))
 
 (lemma "κλίβανος" (sense oven (gloss "oven" "ovens") (why "An oven for baking (Genesis 15:17 κλίβανος καπνιζόμενος; Matthew 6:30). \"Oven\" keeps it apart from κάμινος \"furnace\".")))
 
@@ -273,7 +273,7 @@
     (gloss "make lie down" "made lie down" "makes lie down" "making lie down")
     (why "The active κοιμάω, causative: to put to bed, make lie down (Genesis 24:11, ἐκοίμησεν τὰς καμήλους, of camels made to kneel and rest). Listed under κοιμάομαι, the table's lemma for the verb.")))
 
-(lemma "κοπάζω"(sense abate (intransitive) (gloss "abate" "abated" "abates" "abating") (why "To grow weary, abate, cease (Genesis 8:1, 7-8, 11, the water abated; Matthew 14:32, the wind abated).")))
+(lemma "κοπάζω" (sense abate (intransitive) (gloss "abate" "abated" "abates" "abating") (why "To grow weary, abate, cease (Genesis 8:1, 7-8, 11, the water abated; Matthew 14:32, the wind abated).")))
 
 (lemma "κοπή" (sense slaughter (gloss "slaughter") (why "A cutting down, slaughter in battle (Genesis 14:17, from the slaughter of Chedorlaomer; Hebrews 7:1 quotes it). From κόπτω; beside κατακόπτω \"cut down\".")))
 
@@ -288,7 +288,7 @@
 
 (lemma "κρατέω" (sense hold (genitive "") (dative "with") (gloss "hold" "held" "holds" "holding") (why "To grasp, take hold of, hold (Genesis 21:18 κράτησον τῇ χειρί σου αὐτό; Matthew 9:25; Mark 1:31). κατέχω is \"hold fast\".")))
 
-(lemma "κραυγή"(sense outcry (gloss "outcry" "outcries") (why "A crying out, outcry (Genesis 18:20-21, the outcry of Sodom and Gomorrah; Matthew 25:6; Hebrews 5:7). \"Outcry\" because βοάω takes \"cry out\".")))
+(lemma "κραυγή" (sense outcry (gloss "outcry" "outcries") (why "A crying out, outcry (Genesis 18:20-21, the outcry of Sodom and Gomorrah; Matthew 25:6; Hebrews 5:7). \"Outcry\" because βοάω takes \"cry out\".")))
 
 (lemma "κρέας" (sense meat (gloss "meat" "meats") (why "Meat, flesh as food (Genesis 9:4, πλὴν κρέας ἐν αἵματι ψυχῆς; Romans 14:21; 1 Corinthians 8:13). \"Meat\" keeps it apart from σάρξ \"flesh\".")))
 

@@ -46,7 +46,7 @@
 
 (lemma "Θεργαμά" (sense name (gloss "Togarmah") (why "(LXX, supplied.) Gomer's son (Genesis 10:3), Greek Θεργαμά; traditional English Togarmah.")))
 
-(lemma "θερισμός"(sense harvest (gloss "harvest" "harvests") (why "Harvest, reaping (Genesis 8:22, seed and harvest; Matthew 9:37-38; John 4:35).")))
+(lemma "θερισμός" (sense harvest (gloss "harvest" "harvests") (why "Harvest, reaping (Genesis 8:22, seed and harvest; Matthew 9:37-38; John 4:35).")))
 
 (lemma "θέριστρον" (sense veil (gloss "veil" "veils") (why "(LXX, supplied.) A light summer garment or veil (Genesis 24:65, Rebekah took τὸ θέριστρον and covered herself). From θέρος \"summer\". κάλυμμα, when it comes, will need its own English.")))
 
@@ -80,7 +80,7 @@
 
 (lemma "θυρίς" (sense window (gloss "window" "windows") (why "A small opening, window (Genesis 8:6, Noah opened the window of the ark; Acts 20:9; 2 Corinthians 11:33). Kept apart from θύρα \"door\".")))
 
-(lemma "θυσία"(sense sacrifice (gloss "sacrifice" "sacrifices") (why "Sacrifice, offering (Genesis 4:3; Hebrews 11:4, Abel's sacrifice).")))
+(lemma "θυσία" (sense sacrifice (gloss "sacrifice" "sacrifices") (why "Sacrifice, offering (Genesis 4:3; Hebrews 11:4, Abel's sacrifice).")))
 
 (lemma "θυσιαστήριον" (sense altar (gloss "altar" "altars") (why "Altar, the place of sacrifice (θυσία).")))
 

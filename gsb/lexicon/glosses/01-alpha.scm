@@ -75,7 +75,7 @@
 
 (lemma "ἀδολεσχέω" (sense muse (gloss "muse" "mused" "muses" "musing") (why "(LXX, supplied.) To talk at length, ponder, muse (Genesis 24:63, Isaac went out into the plain ἀδολεσχῆσαι; the Psalms use it of musing on God's works). The Hebrew word there is uncertain; the Greek is musing, talking with oneself.")))
 
-(lemma "ἀδυνατέω" (sense be-impossible (verb "be impossible" "was impossible" "been impossible") (gloss "be impossible" "is impossible" "was impossible" "been impossible" "being impossible" "is not impossible") (why "(LXX, supplied.) To be impossible, unable (Genesis 18:14 μὴ ἀδυνατεῖ παρὰ τῷ θεῷ ῥῆμα; Luke 1:37 echoes it, οὐκ ἀδυνατήσει παρὰ τοῦ θεοῦ πᾶν ῥῆμα; Matthew 17:20). \"Be impossible\" keeps the δυνατός root (\"possible\") visible.")))
+(lemma "ἀδυνατέω" (sense be-impossible (intransitive) (verb "be impossible" "was impossible" "been impossible") (gloss "be impossible" "is impossible" "was impossible" "been impossible" "being impossible" "is not impossible") (why "(LXX, supplied.) To be impossible, unable (Genesis 18:14 μὴ ἀδυνατεῖ παρὰ τῷ θεῷ ῥῆμα; Luke 1:37 echoes it, οὐκ ἀδυνατήσει παρὰ τοῦ θεοῦ πᾶν ῥῆμα; Matthew 17:20). \"Be impossible\" keeps the δυνατός root (\"possible\") visible.")))
 
 (lemma "Ἁζαῦ" (sense name (gloss "Hazo") (why "(LXX, supplied.) Nahor's son (Genesis 22:22); the Greek form of the Hebrew Hazo. Traditional English Hazo.")))
 
@@ -169,7 +169,7 @@
 
 (lemma "Ἀμαλήκ" (sense name (gloss "Amalek") (why "(LXX, supplied.) Amalek (Genesis 14:7, the rulers of Amalek); traditional English.")))
 
-(lemma "ἁμαρτάνω" (sense sin (gloss "sin" "sinned" "sins" "sinning") (why "To sin (Genesis 4:7).")))
+(lemma "ἁμαρτάνω" (sense sin (intransitive) (gloss "sin" "sinned" "sins" "sinning") (why "To sin (Genesis 4:7).")))
 
 (lemma "ἁμαρτία" (sense sin (gloss "sin" "sins") (why "Sin, the noun of ἁμαρτάνω.")))
 
@@ -420,7 +420,7 @@
 
 (lemma "ἀργύριον" (sense silver (gloss "silver") (why "Silver, as metal and as money (Genesis 13:2, rich in silver and gold; Matthew 25:18; Acts 3:6). It shares \"silver\" with the adjective ἀργυροῦς \"of silver\"; a sense \"money\" (Matthew 28:12) may be added where the coins are meant.")))
 
-(lemma "ἀργυροῦς"(sense silver (gloss "silver") (why "Made of silver (Exodus 20:23; Acts 19:24).")))
+(lemma "ἀργυροῦς" (sense silver (gloss "silver") (why "Made of silver (Exodus 20:23; Acts 19:24).")))
 
 (lemma "ἀργυρώνητος" (sense bought-with-silver (gloss "bought with silver") (why "(LXX, supplied.) Bought with silver (ἄργυρος + ὠνέομαι), of a purchased slave (Genesis 17:12-27, beside the οἰκογενής \"home-born\"). Spelled out so both parts of the compound show.")))
 

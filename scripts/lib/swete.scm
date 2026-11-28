@@ -106,6 +106,10 @@ letter (\"a\" for {=31:48a}), or the rest of a combined number as printed
    ((string-match "^C([0-9]+)$" s) => (lambda (m) (list 'chapter (string->number (match:substring m 1)))))
    ((string-match "^([0-9]+)$" s) => (lambda (m) (list 'verse (string->number (match:substring m 1)))))
    ((string-match "^([0-9]+)!$" s) => (lambda (m) (list 'verse (string->number (match:substring m 1)) 'skip)))
+   ;; {42a}: Swete's own lettered verse as printed (Josh 21:42a-d, 24:33a-b):
+   ;; an extra verse after his 42, not a half of it.
+   ((string-match "^([0-9]+)([a-z])$" s)
+    => (lambda (m) (list 'verse (string->number (match:substring m 1)) 'letter (match:substring m 2))))
    ((string-match "^=([0-9]+):([0-9]+)([a-z]?|-[0-9]+|(,[0-9]+[a-z]?)+)$" s)
     => (lambda (m)
          (let ((c (string->number (match:substring m 1))) (v (string->number (match:substring m 2)))
@@ -195,9 +199,9 @@ dropped. Returns (values rows problems), problems as for book-problems."
                           (else (string-append text " " s)))
                     #f where rows problems)))))
          (('chapter n) (loop rest n ref text join? where rows problems))
-         (('verse n . _)
+         (('verse n . opts)
           (if ch
-              (loop rest ch (list ch n "") "" #f where (flush) problems)
+              (loop rest ch (list ch n (match opts (('letter l) l) (_ ""))) "" #f where (flush) problems)
               (loop rest ch ref text join? where rows
                     (cons (list (first where) (second where) 'fail (format #f "verse {~a} before any {C<n>} chapter marker" n)) problems))))
          (('common c v part) (loop rest ch (list c v part) "" #f where (flush) problems))
@@ -276,7 +280,7 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
                              (format #f "non-Greek character~a ~a: read the image again (Latin look-alikes, stray digits?; a numeral's keraia is ʹ U+02B9, right after its letters)"
                                      (if (> (length cs) 1) "s" "")
                                      (string-join (map (lambda (c) (format #f "~a (U+~a)" c (string-upcase (number->string (char->integer c) 16)))) cs) ", "))))))
-           (filter-map (match-lambda (('bad s) (list leaf n 'fail (format #f "unknown marker ~a (use {C3} {7} {7!} {=2:25} {=31:48a} {=40:30-31} {=36:34,36} {P} {S}; combined numbers ascend)" s)))
+           (filter-map (match-lambda (('bad s) (list leaf n 'fail (format #f "unknown marker ~a (use {C3} {7} {7!} {7a} {=2:25} {=31:48a} {=40:30-31} {=36:34,36} {P} {S}; combined numbers ascend)" s)))
                                      (_ #f))
                        (line-items line))))))
      (page-lines page)))
@@ -305,7 +309,9 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
         (match ref
           ((c v part . _)
            (let* ((members   ; ((verse . half-letter) ...)
-                   (cond ((string-prefix? "-" part)
+                   (cond ((memq 'extra ref) ; Swete's own 42a is a verse of its own, not a half of 42
+                          (list (cons (string-append (number->string v) part) "")))
+                         ((string-prefix? "-" part)
                           (map (lambda (n) (cons n "")) (iota (- (string->number (string-drop part 1)) v -1) v)))
                          ((string-prefix? "," part)
                           (cons (cons v "")
@@ -344,6 +350,17 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
               (loop rest where n 'after-chapter ref last-ref pending-text? depth hyphen?
                     (if (and ch (not (= n (+ ch 1)))) (seq "Swete chapter {C~a} after chapter ~a" n ch)
                         (if (and (not ch) opens? (not (= n 1))) (add 'fail "book opens with {C~a}, expected {C1}" n) acc))))
+             (('verse n 'letter l)
+              ;; Swete's own lettered verse {42a}: only after his {42} (or
+              ;; another letter of it); V stays 42, so {43} runs on.
+              (let* ((key (list ch (string-append (number->string n) l)))
+                     (again (and ch (hash-ref swete-seen key))))
+                (when ch (hash-set! swete-seen key where))
+                (loop rest where ch v (and ch (list ch n l 'explicit 'extra)) last-ref pending-text? depth hyphen?
+                      (cond (again (seq "Swete verse {~a~a} again in chapter ~a (already at leaf ~a line ~a): misread letter?" n l ch (first again) (second again)))
+                            ((and v (not (eqv? v n)))
+                             (seq "Swete verse {~a~a} after {~a}: a lettered verse follows its own number ({~a} ... {~a~a})" n l v n n l))
+                            (else acc)))))
              (('verse n . skip)
               ;; V is the last Swete verse, 'after-chapter right after {C},
               ;; #f at the start of a run (unknown). Swete's own numbers must
@@ -358,7 +375,12 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
                       (cond (again
                              (seq "Swete verse {~a} again in chapter ~a (already at leaf ~a line ~a): misread number?" n ch (first again) (second again)))
                             ((eq? v 'after-chapter)
-                             (if (= n 1) acc (seq "Swete chapter ~a starts with verse {~a}, expected {1}" ch n)))
+                             ;; A chapter may open on a later number when Swete
+                             ;; prints it so (1 Kgdms 18 opens at 6): {6!}.
+                             (cond ((and (= n 1) (pair? skip))
+                                    (seq "{1!} marks Swete's number as out of sequence, but it opens chapter ~a: write {1}" ch))
+                                   ((or (= n 1) (pair? skip)) acc)
+                                   (else (seq "Swete chapter ~a starts with verse {~a}, expected {1} (if Swete really prints ~a first, write {~a!})" ch n n n))))
                             ((and (number? v) (pair? skip) (= n (+ v 1)))
                              (seq "{~a!} marks Swete's number as out of sequence, but it follows {~a}: write {~a}" n v n))
                             ((and (number? v) (null? skip) (not (= n (+ v 1))))

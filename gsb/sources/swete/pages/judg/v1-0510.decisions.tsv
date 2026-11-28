@@ -1,0 +1,76 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+judg	theoldtestamenti00unknuoft	510	1	αὐτῆς"	αὐτῆς"	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	2	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	2	Kal	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	2	ἐνίσχυσεν	ἐνίσχυσεν +ΕΣ	ἐνίσχυσεν	ἐνίσχυσεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	2	Ἰσραήλ, +28	Ἰσραήλ, +:8	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe); margin number not text
+judg	theoldtestamenti00unknuoft	510	4	αὐτόν. +9	αὐτόν. +9	αὐτόν.	αὐτόν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	4	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing (apostrophe); margin number not text
+judg	theoldtestamenti00unknuoft	510	5	Τάζερ᾽	Τάζερ᾽	Γάζερ·	Γάζερ·	image (3x): Γ, not Τ
+judg	theoldtestamenti00unknuoft	510	5	ς	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	510	5	∅	αἴος	Χαναναῖος	Χαναναῖος	image (4x): smudged αῖ, circumflex over ι visible; read Χαναναῖος
+judg	theoldtestamenti00unknuoft	510	5	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	5	∅	μέσᾳ	μέσῳ	μέσῳ	image (3x): ῳ, omega with iota subscript
+judg	theoldtestamenti00unknuoft	510	5	∅	αὐτοῦ	αὐτοῦ	αὐτοῦ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	5	μέσςᾳ +ρ,	ΤῬάζερ,	Γάζερ,	Γάζερ,	image (3x): Γ, not Τ
+judg	theoldtestamenti00unknuoft	510	6	φόρον.	φόρον. +30	φόρον.	φόρον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	6	Kali	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	7	Δωμανά:	Δωμανά:	Δωμανά·	Δωμανά·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	7	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	510	8	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	8	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	8	φύρον.	φύρον.	φόρον.	φόρον.	image (3x): ό, not ύ
+judg	theoldtestamenti00unknuoft	510	8	αἱ	αἱ	Καὶ	Καὶ	image (3x): verse superscript then Καὶ/καὶ as printed
+judg	theoldtestamenti00unknuoft	510	8	Ἀσὴρ	Ἀσὴρ	Ἀσὴρ	Ἀσὴρ	image (3x): smooth breathing (apostrophe); margin number not text
+judg	theoldtestamenti00unknuoft	510	8	ἐξῆ-	ἐξῆ- +51	ἐξῆ-	ἐξῆ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	9	51 +pev	ρεν	ρεν	ρεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+judg	theoldtestamenti00unknuoft	510	9	Ἀκχώ,	Ἀκχώ,	Ἀκχώ,	Ἀκχώ,	image (3x): smooth breathing (apostrophe); margin number not text
+judg	theoldtestamenti00unknuoft	510	11	tov	τὸν	τὸν	τὸν	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	11	Ἀσχαζεὶ	Ἀσχαζεὶ	Ἀσχαζεὶ	Ἀσχαζεὶ	image (3x): smooth breathing (apostrophe); margin number not text
+judg	theoldtestamenti00unknuoft	510	11	“Epeo. +3:	Ἐρεώ.	Ἐρεώ.	Ἐρεώ.	image (3x): smooth breathing (apostrophe); margin number not text
+judg	theoldtestamenti00unknuoft	510	12	καὶ	3Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	12	Ἀσὴρ	Ἀσὴρ	Ἀσὴρ	Ἀσὴρ	image (3x): smooth breathing (apostrophe); margin number not text
+judg	theoldtestamenti00unknuoft	510	12	κατοικοῦντος	κατοικοῦντος +3:	κατοικοῦντος	κατοικοῦντος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	13	33Καὶ	33Καὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	13	Νεφθαλεὶ +33	Νεφθαλεὶ +33	Νεφθαλεὶ	Νεφθαλεὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	15	Βαιθανάχ᾽	Βαιθανάχ᾽	Βαιθανάχ·	Βαιθανάχ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	17	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	17	φόρον. +3.	φόρον. +34	φόρον.	φόρον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	17	Ἀμορραῖος	Ἀμορραῖος	Ἀμορραῖος	Ἀμορραῖος	image (3x): smooth breathing (apostrophe); margin number not text
+judg	theoldtestamenti00unknuoft	510	17	τοὺς +34	τοὺς +34	τοὺς	τοὺς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	18	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): accent as printed before the capitalized word
+judg	theoldtestamenti00unknuoft	510	18	κοιλάδα.	κοιλάδα. +35	κοιλάδα.	κοιλάδα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	19	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	19	∅	ἤρξατο	ἤρξατο	ἤρξατο	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	19	∅	ὁ	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	19	∅	Ἀμορραῖος	Ἀμορραῖος	Ἀμορραῖος	image (3x): smooth breathing (apostrophe); margin number not text
+judg	theoldtestamenti00unknuoft	510	19	∅	κατοικεῖν	κατοικεῖν	κατοικεῖν	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	19	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	19	∅	τῷ	τῷ	τῷ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	19	∅	ὄρει	ὄρει	ὄρει	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	19	∅	τῷ	τῷ	τῷ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	19	∅	ὀστρακώδει,	ὀστρακώδει,	ὀστρακώδει,	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	19	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	19	∅	ᾧ	ᾧ	ᾧ	class R0: OCR lost the word in extraction; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	19	∅	αἱ +35	αἱ	αἱ	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	20	Θαλαβείν:	Θαλαβείν:	Θαλαβείν·	Θαλαβείν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	21	“Iwan	Ιωσὴφ	Ἰωσὴφ	Ἰωσὴφ	image (3x): smooth breathing (apostrophe); margin number not text
+judg	theoldtestamenti00unknuoft	510	21	Ἀμορραῖον,	Ἀμορραῖον,	Ἀμορραῖον,	Ἀμορραῖον,	image (3x): smooth breathing (apostrophe); margin number not text
+judg	theoldtestamenti00unknuoft	510	22	φόρον. +3	φόρον. +3	φόρον.	φόρον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	22	Αμορραίου	Ε +Αμορραίου	Ἀμορραίου	Ἀμορραίου	image (3x): smooth breathing (apostrophe); margin number not text
+judg	theoldtestamenti00unknuoft	510	22	ἀναβάσεως +36	ἀναβάσεως +536	ἀναβάσεως	ἀναβάσεως	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	23	Ἀκραβεὶν	Ἀκραβεὶν	Ἀκραβεὶν	Ἀκραβεὶν	image (3x): smooth breathing (apostrophe); margin number not text
+judg	theoldtestamenti00unknuoft	510	24	"Kai	Κ̓αὶ	Καὶ	Καὶ	image (3x): verse superscript then Καὶ/καὶ as printed
+judg	theoldtestamenti00unknuoft	510	24	καὶ +1	καὶ +τ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	25	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe); margin number not text
+judg	theoldtestamenti00unknuoft	510	25	αὐτούς	αὐτούς	αὐτούς	αὐτούς	image (3x): accent as printed before the capitalized word
+judg	theoldtestamenti00unknuoft	510	26	Ἀνεβίβασα	Ἀνεβίβασα	Ἀνεβίβασα	Ἀνεβίβασα	image (3x): smooth breathing (apostrophe); margin number not text
+judg	theoldtestamenti00unknuoft	510	26	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	image (3x): smooth breathing (apostrophe); margin number not text
+judg	theoldtestamenti00unknuoft	510	27	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	27	γὴν	γῆν	γῆν	γῆν	image (3x): circumflex
+judg	theoldtestamenti00unknuoft	510	27	ὦμοσα	ὦμοσα	ὤμοσα	ὤμοσα	image (3x): apostrophe then rising stroke = smooth + acute
+judg	theoldtestamenti00unknuoft	510	27	Οὐ	Οὐ	Οὐ	Οὐ	image (3x): smooth breathing (apostrophe); margin number not text
+judg	theoldtestamenti00unknuoft	510	28	μεθ᾽	μεθ᾽ +ϑι	μεθ᾽	μεθ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	28	“καὶ	ΡῚ +“καὶ	καὶ	καὶ	image (3x): verse superscript then Καὶ/καὶ as printed
+judg	theoldtestamenti00unknuoft	510	28	διαθήσεσθε +2	διαθήσεσθε	διαθήσεσθε	διαθήσεσθε	class R3: OCR appended accent-row or margin junk; c read from the image strip
+judg	theoldtestamenti00unknuoft	510	5	-	-	Χαναναῖος	Χαναναῖος	ambiguous: αι smudged (ink spread); read Χαναναῖος
