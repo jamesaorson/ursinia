@@ -57,7 +57,7 @@
     ("the fruits" 8 9)
     ("of the earth" 10 11)
     ("sacrifice" 12)
-    ("to the lord;" 13 14)))
+    ("to the Lord;" 13 14)))
 
 (verse 4
   (status draft)
@@ -260,7 +260,7 @@
     ("Cain" 3)
     ("said" 2)
     ("to" (4 to))
-    ("the lord," 5 6)
+    ("the Lord," 5 6)
     ("Greater" 7)
     ("my" 10)
     ("charge" (8 absorbed) 9)

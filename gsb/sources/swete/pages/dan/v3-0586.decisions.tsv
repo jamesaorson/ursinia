@@ -1,68 +1,69 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
-dan	oldtestgreek00unknuoft	586	1	εἰκάδι.	εἰκάδι.	εἰκάδι	εἰκάδι	TODO zoom: A OPEN, B OPEN
+dan	oldtestgreek00unknuoft	586	1	εἰκάδι.	εἰκάδι.	εἰκάδι	εἰκάδι	image (3x): faint speck, not a period
 dan	oldtestgreek00unknuoft	586	1	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
-dan	oldtestgreek00unknuoft	586	1	ἐγὼ.	ἐγὼ.	ἐγὼ	ἐγὼ	TODO zoom: A OPEN, B OPEN
+dan	oldtestgreek00unknuoft	586	1	ἐγὼ.	ἐγὼ.	ἐγὼ	ἐγὼ	image (3x): faint speck, not a period
 dan	oldtestgreek00unknuoft	586	1	ἐπὶ	ἐπὶ.	ἐπὶ	ἐπὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
-dan	oldtestgreek00unknuoft	586	1	χείλούς	χείλούς	χείλους	χείλους	TODO zoom: A DIA, B DIA
-dan	oldtestgreek00unknuoft	586	2	ὅς	ὅς	ὅς	ὅς	TODO zoom: accent before an enclitic
+dan	oldtestgreek00unknuoft	586	1	χείλούς	χείλούς	χείλους	χείλους	ambiguous (7x): thin light mark above υ, fainter than the acute on ι; read as speck, χείλους
+dan	oldtestgreek00unknuoft	586	2	ὅς	ὅς	ὅς	ὅς	image (3x): acute before enclitic
 dan	oldtestgreek00unknuoft	586	2	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-dan	oldtestgreek00unknuoft	586	3	povs	μούς	μούς	μούς	TODO zoom: accent before an enclitic
+dan	oldtestgreek00unknuoft	586	3	povs	μούς	μούς	μούς	image (3x): acute before enclitic
 dan	oldtestgreek00unknuoft	586	4	φῶς"	φῶς" +ὃ	φῶς·	φῶς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 dan	oldtestgreek00unknuoft	586	7	xloves	χίονες	χίονες	χίονες	class R5: Latin-letter substitution in OCR; c read from the image strip
 dan	oldtestgreek00unknuoft	586	7	“χαλκὸς	χαλκὸς	χαλκὸς	χαλκὸς	class R6 (OCR letters differ): the other OCR reading agrees with c
 dan	oldtestgreek00unknuoft	586	8	θορύβου. +Ἵ	θορύβου. +1	θορύβου.	θορύβου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
-dan	oldtestgreek00unknuoft	586	8	εἶδον.	εἶδον.	εἶδον	εἶδον	TODO zoom: A OPEN, B OPEN
-dan	oldtestgreek00unknuoft	586	8	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	TODO zoom: acute or grave before a capitalized word
+dan	oldtestgreek00unknuoft	586	8	εἶδον.	εἶδον.	εἶδον	εἶδον	image (3x): faint speck, not a period
+dan	oldtestgreek00unknuoft	586	8	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave before capitalized name (not a quotation)
 dan	oldtestgreek00unknuoft	586	8	πὴν	τὴν	τὴν	τὴν	class R6 (OCR letters differ): the other OCR reading agrees with c
 dan	oldtestgreek00unknuoft	586	9	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
 dan	oldtestgreek00unknuoft	586	9	per	μετ᾽	μετ᾽	μετ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
 dan	oldtestgreek00unknuoft	586	11	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-dan	oldtestgreek00unknuoft	586	11	ἐγὼ.	ἐγὼ.	ἐγὼ	ἐγὼ	TODO zoom: A OPEN, B OPEN
+dan	oldtestgreek00unknuoft	586	11	ἐγὼ.	ἐγὼ.	ἐγὼ	ἐγὼ	image (3x): faint speck, not a period
 dan	oldtestgreek00unknuoft	586	11	μό-	μύ-	μό-	μό-	class R6 (OCR letters differ): the other OCR reading agrees with c
 dan	oldtestgreek00unknuoft	586	12	vos	νος	νος	νος	class R5: Latin-letter substitution in OCR; c read from the image strip
-dan	oldtestgreek00unknuoft	586	12	«μεγάλην	᾿'μεγάλην	μεγάλην	μεγάλην	TODO zoom: A OPEN, B OPEN
-dan	oldtestgreek00unknuoft	586	12	“ταύτην,	«ταύτην,	ταύτην,	ταύτην,	TODO zoom: A OPEN, B OPEN
-dan	oldtestgreek00unknuoft	586	12	οὐκ.	οὐκ.	οὐκ	οὐκ	TODO zoom: A OPEN, B OPEN
+dan	oldtestgreek00unknuoft	586	12	«μεγάλην	᾿'μεγάλην	μεγάλην	μεγάλην	image (3x): no mark before the word; OCR junk from show-through
+dan	oldtestgreek00unknuoft	586	12	“ταύτην,	«ταύτην,	ταύτην,	ταύτην,	image (3x): no mark before the word; OCR junk from show-through
+dan	oldtestgreek00unknuoft	586	12	οὐκ.	οὐκ.	οὐκ	οὐκ	image (3x): faint speck, not a period
 dan	oldtestgreek00unknuoft	586	13	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
 dan	oldtestgreek00unknuoft	586	14	ov.	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
 dan	oldtestgreek00unknuoft	586	14	%Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 dan	oldtestgreek00unknuoft	586	14	αὐτοῦ"	αὐτοῦ"	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-dan	oldtestgreek00unknuoft	586	15	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	TODO zoom: accent before an enclitic
-dan	oldtestgreek00unknuoft	586	15	pov	μοὺυ	μου	μου	TODO zoom: A R5, B OPEN
+dan	oldtestgreek00unknuoft	586	15	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): acute before enclitic
+dan	oldtestgreek00unknuoft	586	15	pov	μοὺυ	μου	μου	image (3x): μου unaccented
 dan	oldtestgreek00unknuoft	586	15	"“καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-dan	oldtestgreek00unknuoft	586	16	προσήγαγέ	προσήγαγέ	προσήγαγέ	προσήγαγέ	TODO zoom: accent before an enclitic
-dan	oldtestgreek00unknuoft	586	16	ἤγειρέ	ἤγειρέ	ἤγειρέ	ἤγειρέ	TODO zoom: accent before an enclitic
+dan	oldtestgreek00unknuoft	586	16	προσήγαγέ	προσήγαγέ	προσήγαγέ	προσήγαγέ	image (3x): acute before enclitic
+dan	oldtestgreek00unknuoft	586	16	ἤγειρέ	ἤγειρέ	ἤγειρέ	ἤγειρέ	image (3x): acute before enclitic
 dan	oldtestgreek00unknuoft	586	17	pov.	μου.	μου.	μου.	class R5: Latin-letter substitution in OCR; c read from the image strip
 dan	oldtestgreek00unknuoft	586	17	“Kali	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
-dan	oldtestgreek00unknuoft	586	17	εἶπέ.	εἶπέ.	εἶπέ	εἶπέ	TODO zoom: accent before an enclitic; A OPEN, B OPEN
+dan	oldtestgreek00unknuoft	586	17	εἶπέ.	εἶπέ.	εἶπέ	εἶπέ	image (3x): acute before enclitic
 dan	oldtestgreek00unknuoft	586	17	εἶ"	εἶ"	εἶ·	εἶ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-dan	oldtestgreek00unknuoft	586	17	δια-	διά-	δια-	δια-	TODO zoom: A same, B DIA
+dan	oldtestgreek00unknuoft	586	17	δια-	διά-	δια-	δια-	image (3x): δια- unaccented, hyphen
 dan	oldtestgreek00unknuoft	586	18	ois	οἷς	οἷς	οἷς	class R5: Latin-letter substitution in OCR; c read from the image strip
 dan	oldtestgreek00unknuoft	586	19	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
 dan	oldtestgreek00unknuoft	586	19	καὶ	᾿καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
 dan	oldtestgreek00unknuoft	586	20	per	μετ᾽	μετ᾽	μετ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
 dan	oldtestgreek00unknuoft	586	20	“Kal	"᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
-dan	oldtestgreek00unknuoft	586	21	μέ	μέ	μέ	μέ	TODO zoom: acute or grave before a capitalized word
+dan	oldtestgreek00unknuoft	586	21	μέ	μέ	μέ	μέ	image (3x): acute before capitalized quotation
 dan	oldtestgreek00unknuoft	586	21	Δανιήλ᾽	Δανιήλ᾽	Δανιήλ·	Δανιήλ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-dan	oldtestgreek00unknuoft	586	22	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	TODO zoom: accent before an enclitic
+dan	oldtestgreek00unknuoft	586	22	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): acute before enclitic
 dan	oldtestgreek00unknuoft	586	22	cov	σου	σου	σου	class R5: Latin-letter substitution in OCR; c read from the image strip
 dan	oldtestgreek00unknuoft	586	23	cov,	σου,	σου,	σου,	class R5: Latin-letter substitution in OCR; c read from the image strip
-dan	oldtestgreek00unknuoft	586	23	ῥῆμά	ῥῆμά	ῥῆμά	ῥῆμά	TODO zoom: accent before an enclitic
-dan	oldtestgreek00unknuoft	586	24	ῥήματί	ῥήματί	ῥήματί	ῥήματί	TODO zoom: accent before an enclitic
+dan	oldtestgreek00unknuoft	586	23	ῥῆμά	ῥῆμά	ῥῆμά	ῥῆμά	image (3x): acute before enclitic
+dan	oldtestgreek00unknuoft	586	24	ῥήματί	ῥήματί	ῥήματί	ῥήματί	image (3x): acute before enclitic
 dan	oldtestgreek00unknuoft	586	24	gov.	σου.	σου.	σου.	class R5: Latin-letter substitution in OCR; c read from the image strip
-dan	oldtestgreek00unknuoft	586	24	"Ξκαὶ	3 +"καὶ	καὶ	καὶ	TODO zoom: A R1, B OPEN
+dan	oldtestgreek00unknuoft	586	24	"Ξκαὶ	3 +"καὶ	καὶ	καὶ	image (3x): superscript verse number, not text
 dan	oldtestgreek00unknuoft	586	24	στρατηγὸς	στρατηγὸς +β	στρατηγὸς	στρατηγὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
 dan	oldtestgreek00unknuoft	586	24	βασιλέως	βασιλέως +Π	βασιλέως	βασιλέως	class R3: OCR appended accent-row or margin junk; c read from the image strip
 dan	oldtestgreek00unknuoft	586	25	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
 dan	oldtestgreek00unknuoft	586	25	ἡμέραν:	ἡμέραν:	ἡμέραν·	ἡμέραν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-dan	oldtestgreek00unknuoft	586	25	ἰδοὺ	ἰδοὺ	ἰδοὺ	ἰδοὺ	TODO zoom: acute or grave before a capitalized word
-dan	oldtestgreek00unknuoft	586	26	βοηθῆσαί	βοηθῆσαί	βοηθῆσαί	βοηθῆσαί	TODO zoom: accent before an enclitic
-dan	oldtestgreek00unknuoft	586	27	Aurrov	λιπὸον	λιπον	λιπον	TODO zoom: A R5, B OPEN
+dan	oldtestgreek00unknuoft	586	25	ἰδοὺ	ἰδοὺ	ἰδοὺ	ἰδοὺ	image (3x): grave before capitalized name (not a quotation)
+dan	oldtestgreek00unknuoft	586	26	βοηθῆσαί	βοηθῆσαί	βοηθῆσαί	βοηθῆσαί	image (3x): acute before enclitic
+dan	oldtestgreek00unknuoft	586	27	Aurrov	λιπὸον	λιπον	λιπον	image (3x): λιπον, no accent (second half of κατέ-λιπον)
 dan	oldtestgreek00unknuoft	586	27	“kai	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
-dan	oldtestgreek00unknuoft	586	27	εἶπέν	εἶπέν	εἶπέν	εἶπέν	TODO zoom: accent before an enclitic
-dan	oldtestgreek00unknuoft	586	28	Ἦλθον	Ἦλθον	Ἦλθον	Ἦλθον	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-dan	oldtestgreek00unknuoft	586	28	ὑποδεῖξαί	ὑποδεῖξαί	ὑποδεῖξαί	ὑποδεῖξαί	TODO zoom: accent before an enclitic
+dan	oldtestgreek00unknuoft	586	27	εἶπέν	εἶπέν	εἶπέν	εἶπέν	image (3x): acute before enclitic
+dan	oldtestgreek00unknuoft	586	28	Ἦλθον	Ἦλθον	Ἦλθον	Ἦλθον	image (3x): smooth + circumflex on capital H
+dan	oldtestgreek00unknuoft	586	28	ὑποδεῖξαί	ὑποδεῖξαί	ὑποδεῖξαί	ὑποδεῖξαί	image (3x): acute before enclitic
 dan	oldtestgreek00unknuoft	586	29	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
 dan	oldtestgreek00unknuoft	586	29	Spa	ὥρα	ὥρα	ὥρα	class R5: Latin-letter substitution in OCR; c read from the image strip
 dan	oldtestgreek00unknuoft	586	29	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
 dan	oldtestgreek00unknuoft	586	29	"“καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	586	1	-	-	χείλους	χείλους	ambiguous: thin faint mark above υ (lighter than real accents); read as speck

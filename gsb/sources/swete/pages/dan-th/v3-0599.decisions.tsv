@@ -1,0 +1,32 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan-th	oldtestgreek00unknuoft	599	1	5Καὶ	5Καὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	599	1	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ before Δανιήλ (a vocative-like name, not a quotation), as printed
+dan-th	oldtestgreek00unknuoft	599	1	cis	εἷς	εἷς	εἷς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	599	1	ἐν- +B	ἐν- +Β	ἐν-	ἐν-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	599	3	“καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	599	3	Baddeiv,	βαδδείν,	βαδδείν,	βαδδείν,	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	599	4	Ἕως	Ἕως	Ἕως	Ἕως	image (6x): rough + acute (open curl then rising stroke) on the capital, Ἕως
+dan-th	oldtestgreek00unknuoft	599	5	∅	τῶν	τῶν	τῶν	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	599	5	Τκαὶ	Τκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	599	5	Bad-	βαὸ-	βαδ-	βαδ-	image (3x): βαδ- with δ, hyphenated
+dan-th	oldtestgreek00unknuoft	599	6	deiv,	δείν,	δείν,	δείν,	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	599	7	αὐτοῦ"	αὐτοῦ"	αὐτοῦ	αὐτοῦ	image (3x): no mark after αὐτοῦ
+dan-th	oldtestgreek00unknuoft	599	7	Tov	τὸν	τὸν	τὸν	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	599	7	ὥμοσεν	ὥμοσεν	ὤμοσεν	ὤμοσεν	image (6x): smooth + acute (apostrophe then rising stroke, like ὕδατος shows the rough curl for contrast), ὤμοσεν
+dan-th	oldtestgreek00unknuoft	599	8	καιροῦ:	καιροῦ:	καιροῦ·	καιροῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	599	9	Sxal	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	599	10	τούτων; +9	τούτων; +9	τούτων;	τούτων;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	599	11	εἶπεν	εἶπεν +Δ	εἶπεν	εἶπεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	599	11	Δεῦρο	Δεῦρο +Δ	Δεῦρο	Δεῦρο	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	599	11	oi	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	599	12	"“ἐκλεγῶσιν	"“ἐκλεγῶσιν	ἐκλεγῶσιν	ἐκλεγῶσιν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	599	13	ἄνομοι:	ἄνομοι:	ἄνομοι·	ἄνομοι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	599	13	οἱ	οἷ	οἱ	οἱ	image (3x): οἱ rough breathing only
+dan-th	oldtestgreek00unknuoft	599	14	τι +“Kal	"᾿καὶ	καὶ	καὶ	image (3x): superscript verse number before the word, not text
+dan-th	oldtestgreek00unknuoft	599	16	“μακάριος	ΤΩ +“μακάριος	μακάριος	μακάριος	image (3x): superscript verse number before the word, not text
+dan-th	oldtestgreek00unknuoft	599	16	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	599	17	"Ξκαὶ	"Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	599	17	ἀναπαύου"	ἀναπαύου"	ἀναπαύου·	ἀναπαύου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	599	18	κλῆρόν	κλῆρόν	κλῆρόν	κλῆρόν	image (3x): acute on κλῆρόν before enclitic σου
+dan-th	oldtestgreek00unknuoft	599	19	ἡμερῶν. +4r	ἡμερῶν: +ἽΓΡ	ἡμερῶν.	ἡμερῶν.	image (3x): period then ¶ witness mark in the text (kept); margin ¶Γ is a siglum
+dan-th	oldtestgreek00unknuoft	599	18	-	-	ἀναπλήρωσιν	ἀναπλήρωσιν	ambiguous: ρ printed faint/broken (broken type); read ρ

@@ -392,6 +392,26 @@ leaf numbers here; the images and OCR layers stay out of the repo
   chapter 3 has 62 rows against the English 66. Hebrew = English, so there
   are no `versification.tsv` rows; the preface has no English counterpart
   and stands in 1:1.
+- **Ezekiel** (leaves v3 409-521) is set as prose (`{P}` at indented
+  paragraph starts; no verse lines, the laments included). Parenthesized
+  numbers are `{=c:v}` markers with a `# margin:` / `# in-text:` comment,
+  written as printed (Hebrew); words before an in-text number run on with
+  the previous common verse, and a Swete verse with no parenthesized number
+  just before a differing one runs on with the common verse before it (our
+  `{=c:v}`, commented and flagged): his 2:1 = end of 1:28 + in-text `(1)`;
+  in-text 1:3, 16:45 (his 45 begins in 16:44), 27:19, 28:26 (his 26 begins
+  in 28:25), 39:4, 39:13 (his 12 = end of 39:11, his `13 (12)`), 41:2 (his 2
+  begins in 41:1), 46:22 and 47:20 (his 22 and 20 begin in 46:21 and 47:19).
+  *Chapter 7*: the Greek orders the verses differently; the margin prints
+  `(6) 3` ... `(9) 6`, `(3) 7` ... `(5) 9`, so the table runs 7:1-2, 7:6-9,
+  7:3-5, 7:10 (the only verses out of ascending order). *Chapters 20-21*:
+  his 20:45-49 are `(XXI) (1)`-`(5)` and his XXI 1-32 are `(6)`-`(37)`
+  (Hebrew 21:1-5 = English 20:45-49, 21:6-37 = 21:1-32, `versification.tsv`);
+  at his 21:20 no parenthesis is printed (runs on with Hebrew 21:24) and
+  Hebrew 21:25 starts at an unparenthesized superscript 25 in the text.
+  Codex B lacks 1:14, 10:14, 11:11-12, 27:31, 32:19, 33:26 and 40:30: Swete
+  skips the number (`{15!}`, `{13!}`, `{32!}`, `{20!}`, `{27!}`, `{31!}`), so
+  those chapters have one or two verses fewer than the English.
 - **Editorial marks** in the text, such as Swete's asterisk at Gen 37:1 tied to
   a note, are apparatus and are left out.
 - **Daniel** is printed twice: the Old Greek (Chigi MS 87, `ΔΑΝΙΗΛ ΚΑΤΑ ΤΟΥΣ Ο'`)

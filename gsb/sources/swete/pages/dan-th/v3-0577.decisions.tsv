@@ -1,65 +1,65 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
-dan-th	oldtestgreek00unknuoft	577	1	∅	∅	καὶ	καὶ	TODO zoom: no OCR reading at all
-dan-th	oldtestgreek00unknuoft	577	2	B +αὐτόν:	Β +αὐτόν"	αὐτόν·	αὐτόν·	TODO zoom: A R5, B OPEN
+dan-th	oldtestgreek00unknuoft	577	1	∅	∅	καὶ	καὶ	image (3x): as in the page file; OCR lost or misread diacritics, specks, superscripts or the margin siglum B
+dan-th	oldtestgreek00unknuoft	577	2	B +αὐτόν:	Β +αὐτόν"	αὐτόν·	αὐτόν·	image (3x): as in the page file; OCR lost or misread diacritics, specks, superscripts or the margin siglum B
 dan-th	oldtestgreek00unknuoft	577	3	αὐτοῦ"	αὐτοῦ"	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-dan-th	oldtestgreek00unknuoft	577	5	αὐτοῦ...	αὐτοῦ...	αὐτοῦ.	αὐτοῦ.	TODO zoom: A OPEN, B OPEN
+dan-th	oldtestgreek00unknuoft	577	5	αὐτοῦ...	αὐτοῦ...	αὐτοῦ.	αὐτοῦ.	image (3x): as in the page file; OCR lost or misread diacritics, specks, superscripts or the margin siglum B
 dan-th	oldtestgreek00unknuoft	577	5	Kal	ἑκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 dan-th	oldtestgreek00unknuoft	577	6	σφόδρα:	σφόδρα:	σφόδρα·	σφόδρα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 dan-th	oldtestgreek00unknuoft	577	6	τ᾽	τὸ	τὸ	τὸ	class R6 (OCR letters differ): the other OCR reading agrees with c
-dan-th	oldtestgreek00unknuoft	577	9	ἤλθεν	ἦλθεν	ῆλθεν	ῆλθεν	TODO zoom: A DIA, B DIA
-dan-th	oldtestgreek00unknuoft	577	9	Ev	ἕν᾽	ἓν	ἓν	TODO zoom: A R5, B OPEN
+dan-th	oldtestgreek00unknuoft	577	9	ἤλθεν	ἦλθεν	ῆλθεν	ῆλθεν	image (3x): as in the page file; OCR lost or misread diacritics, specks, superscripts or the margin siglum B
+dan-th	oldtestgreek00unknuoft	577	9	Ev	ἕν᾽	ἓν	ἓν	image (3x): compact closed rough+grave over ε: ἓν
 dan-th	oldtestgreek00unknuoft	577	10	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 dan-th	oldtestgreek00unknuoft	577	10	δύναμιν"	δύναμιν"	δύναμιν·	δύναμιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 dan-th	oldtestgreek00unknuoft	577	10	"ἐμεγαλύνθη	"ἐμεγαλύνθη	ἐμεγαλύνθη	ἐμεγαλύνθη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 dan-th	oldtestgreek00unknuoft	577	10	οὐρανοῦ:	οὐρανοῦ"	οὐρανοῦ·	οὐρανοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 dan-th	oldtestgreek00unknuoft	577	12	“Kal	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 dan-th	oldtestgreek00unknuoft	577	13	pvonra	ῥύσηται	ῥύσηται	ῥύσηται	class R5: Latin-letter substitution in OCR; c read from the image strip
-dan-th	oldtestgreek00unknuoft	577	13	δ	δ	δι᾽	δι᾽	TODO zoom: A OPEN, B OPEN
+dan-th	oldtestgreek00unknuoft	577	13	δ	δ	δι᾽	δι᾽	image (3x): as in the page file; OCR lost or misread diacritics, specks, superscripts or the margin siglum B
 dan-th	oldtestgreek00unknuoft	577	13	Karevo-	κατευο-	κατευο-	κατευο-	class R5: Latin-letter substitution in OCR; c read from the image strip
 dan-th	oldtestgreek00unknuoft	577	14	αὐτῷ"	αὐτῷ"	αὐτῷ·	αὐτῷ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 dan-th	oldtestgreek00unknuoft	577	14	Kal	"“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 dan-th	oldtestgreek00unknuoft	577	15	δικαιοσύνη"	δικαιοσύνη"	δικαιοσύνη·	δικαιοσύνη·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 dan-th	oldtestgreek00unknuoft	577	15	εὐοδώθη.	εὐοδώθ	εὐοδώθη.	εὐοδώθη.	class R6 (OCR letters differ): the other OCR reading agrees with c
-dan-th	oldtestgreek00unknuoft	577	16	Skat	η. +Ξ̓καὶ	καὶ	καὶ	TODO zoom: A R5, B OPEN
+dan-th	oldtestgreek00unknuoft	577	16	Skat	η. +Ξ̓καὶ	καὶ	καὶ	image (3x): as in the page file; OCR lost or misread diacritics, specks, superscripts or the margin siglum B
 dan-th	oldtestgreek00unknuoft	577	16	λαλοῦντος"	λαλοῦντος"	λαλοῦντος·	λαλοῦντος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 dan-th	oldtestgreek00unknuoft	577	17	A	τῷ	τῷ	τῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
 dan-th	oldtestgreek00unknuoft	577	17	¢	λαλοῦντι	λαλοῦντι	λαλοῦντι	class R6 (OCR letters differ): the other OCR reading agrees with c
-dan-th	oldtestgreek00unknuoft	577	17	∅	Ἕως +:	Ἕως	Ἕως	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+dan-th	oldtestgreek00unknuoft	577	17	∅	Ἕως +:	Ἕως	Ἕως	image (3x): rough + acute on capital Ε (open curl then rising stroke): Ἕως
 dan-th	oldtestgreek00unknuoft	577	18	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 dan-th	oldtestgreek00unknuoft	577	19	“Kal	“ἰκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
-dan-th	oldtestgreek00unknuoft	577	19	“Eas	Ἕως	Ἕως	Ἕως	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+dan-th	oldtestgreek00unknuoft	577	19	“Eas	Ἕως	Ἕως	Ἕως	image (3x): rough + acute on capital Ε (open curl then rising stroke): Ἕως
 dan-th	oldtestgreek00unknuoft	577	19	δισχί-	δισχί- +»Ἶ	δισχί-	δισχί-	class R3: OCR appended accent-row or margin junk; c read from the image strip
 dan-th	oldtestgreek00unknuoft	577	20	τριακόσιαι:	τριακόσιαι:	τριακόσιαι·	τριακόσιαι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 dan-th	oldtestgreek00unknuoft	577	20	τὸ	τὸ +ἅ	τὸ	τὸ	class R3: OCR appended accent-row or margin junk; c read from the image strip
 dan-th	oldtestgreek00unknuoft	577	20	ἅγιον.	ἅγιον. +Ξ 15	ἅγιον.	ἅγιον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
 dan-th	oldtestgreek00unknuoft	577	21	γέ	ἐγένετο	ἐγένετο	ἐγένετο	class R6 (OCR letters differ): the other OCR reading agrees with c
-dan-th	oldtestgreek00unknuoft	577	21	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	TODO zoom: acute or grave before a capitalized word
-dan-th	oldtestgreek00unknuoft	577	22	cow:	εσὶν"	εσιν·	εσιν·	TODO zoom: A R5, B OPEN
+dan-th	oldtestgreek00unknuoft	577	21	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ before Δανιήλ (not a quotation), as printed
+dan-th	oldtestgreek00unknuoft	577	22	cow:	εσὶν"	εσιν·	εσιν·	image (3x): as in the page file; OCR lost or misread diacritics, specks, superscripts or the margin siglum B
 dan-th	oldtestgreek00unknuoft	577	22	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 dan-th	oldtestgreek00unknuoft	577	22	“Kal	"“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 dan-th	oldtestgreek00unknuoft	577	23	rod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
-dan-th	oldtestgreek00unknuoft	577	23	Οὐβάλ,	Οὐβάλ,	Οὐβάλ,	Οὐβάλ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-dan-th	oldtestgreek00unknuoft	577	23	Ta-	Τα-	Γα-	Γα-	TODO zoom: A R5, B OPEN
+dan-th	oldtestgreek00unknuoft	577	23	Οὐβάλ,	Οὐβάλ,	Οὐβάλ,	Οὐβάλ,	image (3x): Οὐβάλ, smooth breathing on υ
+dan-th	oldtestgreek00unknuoft	577	23	Ta-	Τα-	Γα-	Γα-	image (3x): as in the page file; OCR lost or misread diacritics, specks, superscripts or the margin siglum B
 dan-th	oldtestgreek00unknuoft	577	24	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-dan-th	oldtestgreek00unknuoft	577	25	στάσεώς	στάσεώς	στάσεώς	στάσεώς	TODO zoom: accent before an enclitic
-dan-th	oldtestgreek00unknuoft	577	25	μου!	μου᾽	μου·	μου·	TODO zoom: A OPEN, B R2
-dan-th	oldtestgreek00unknuoft	577	25	ἀὐτὸν	αὐτὸν	αὐτὸν	αὐτὸν	TODO zoom: A DIA, B same
-dan-th	oldtestgreek00unknuoft	577	25	ἐθαμβήθην,	ἐθαμβηθὴν,	ἐθαμβήθην,	ἐθαμβήθην,	TODO zoom: A same, B DIA
-dan-th	oldtestgreek00unknuoft	577	26	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	TODO zoom: accent before an enclitic
-dan-th	oldtestgreek00unknuoft	577	26	pov:	μου!	μου·	μου·	TODO zoom: A R5, B OPEN
-dan-th	oldtestgreek00unknuoft	577	26	μέ	μέ	μέ	μέ	TODO zoom: acute or grave before a capitalized word
-dan-th	oldtestgreek00unknuoft	577	26	Ὑἱὲ	Ὑἱὲ	Υἱὲ	Υἱὲ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B DIA
+dan-th	oldtestgreek00unknuoft	577	25	στάσεώς	στάσεώς	στάσεώς	στάσεώς	image (3x): acute before the enclitic as printed
+dan-th	oldtestgreek00unknuoft	577	25	μου!	μου᾽	μου·	μου·	image (3x): as in the page file; OCR lost or misread diacritics, specks, superscripts or the margin siglum B
+dan-th	oldtestgreek00unknuoft	577	25	ἀὐτὸν	αὐτὸν	αὐτὸν	αὐτὸν	image (3x): as in the page file; OCR lost or misread diacritics, specks, superscripts or the margin siglum B
+dan-th	oldtestgreek00unknuoft	577	25	ἐθαμβήθην,	ἐθαμβηθὴν,	ἐθαμβήθην,	ἐθαμβήθην,	image (3x): as in the page file; OCR lost or misread diacritics, specks, superscripts or the margin siglum B
+dan-th	oldtestgreek00unknuoft	577	26	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): acute before the enclitic as printed
+dan-th	oldtestgreek00unknuoft	577	26	pov:	μου!	μου·	μου·	image (3x): as in the page file; OCR lost or misread diacritics, specks, superscripts or the margin siglum B
+dan-th	oldtestgreek00unknuoft	577	26	μέ	μέ	μέ	μέ	image (3x): acute on μέ before capitalized Υἱὲ, as printed
+dan-th	oldtestgreek00unknuoft	577	26	Ὑἱὲ	Ὑἱὲ	Υἱὲ	Υἱὲ	image (3x): no breathing on capital Υ; rough breathing on ι, grave on ε: Υἱὲ
 dan-th	oldtestgreek00unknuoft	577	27	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
-dan-th	oldtestgreek00unknuoft	577	27	ἣ	ἡ	ἡ	ἡ	TODO zoom: A DIA, B same
-dan-th	oldtestgreek00unknuoft	577	27	“xal	ΤΗΝ +"“ξκαὶ	καὶ	καὶ	TODO zoom: A R5, B OPEN
+dan-th	oldtestgreek00unknuoft	577	27	ἣ	ἡ	ἡ	ἡ	image (3x): as in the page file; OCR lost or misread diacritics, specks, superscripts or the margin siglum B
+dan-th	oldtestgreek00unknuoft	577	27	“xal	ΤΗΝ +"“ξκαὶ	καὶ	καὶ	image (3x): as in the page file; OCR lost or misread diacritics, specks, superscripts or the margin siglum B
 dan-th	oldtestgreek00unknuoft	577	27	λαλεῖν	εῖν	λαλεῖν	λαλεῖν	class R6 (OCR letters differ): the other OCR reading agrees with c
-dan-th	oldtestgreek00unknuoft	577	28	πιπτὼ	πιπτὼ	πίπτω	πίπτω	TODO zoom: A DIA, B DIA
+dan-th	oldtestgreek00unknuoft	577	28	πιπτὼ	πιπτὼ	πίπτω	πίπτω	image (3x): as in the page file; OCR lost or misread diacritics, specks, superscripts or the margin siglum B
 dan-th	oldtestgreek00unknuoft	577	28	ἐπι	ἐπὶ	ἐπὶ	ἐπὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
-dan-th	oldtestgreek00unknuoft	577	28	προσῶπον	προσῶπον	πρόσωπόν	πρόσωπόν	TODO zoom: accent before an enclitic; A DIA, B DIA
-dan-th	oldtestgreek00unknuoft	577	28	pov	μοὺ	μου	μου	TODO zoom: A R5, B DIA
+dan-th	oldtestgreek00unknuoft	577	28	προσῶπον	προσῶπον	πρόσωπόν	πρόσωπόν	image (3x): as in the page file; OCR lost or misread diacritics, specks, superscripts or the margin siglum B
+dan-th	oldtestgreek00unknuoft	577	28	pov	μοὺ	μου	μου	image (3x): as in the page file; OCR lost or misread diacritics, specks, superscripts or the margin siglum B
 dan-th	oldtestgreek00unknuoft	577	28	ETL	ἐπὶ	ἐπὶ	ἐπὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
-dan-th	oldtestgreek00unknuoft	577	28	γὴν;	γὴν;	γῆν,	γῆν,	TODO zoom: A OPEN, B OPEN
-dan-th	oldtestgreek00unknuoft	577	28	και	και	καὶ	καὶ	TODO zoom: A DROP, B DROP
-dan-th	oldtestgreek00unknuoft	577	28	ἥψατό	ἥψατό	ἥψατό	ἥψατό	TODO zoom: accent before an enclitic
-dan-th	oldtestgreek00unknuoft	577	28	και	και	καὶ	καὶ	TODO zoom: A DROP, B DROP
-dan-th	oldtestgreek00unknuoft	577	28	εστη-	εστη-	ἔστη-	ἔστη-	TODO zoom: A DROP, B DROP
+dan-th	oldtestgreek00unknuoft	577	28	γὴν;	γὴν;	γῆν,	γῆν,	image (3x): as in the page file; OCR lost or misread diacritics, specks, superscripts or the margin siglum B
+dan-th	oldtestgreek00unknuoft	577	28	και	και	καὶ	καὶ	image (3x): as in the page file; OCR lost or misread diacritics, specks, superscripts or the margin siglum B
+dan-th	oldtestgreek00unknuoft	577	28	ἥψατό	ἥψατό	ἥψατό	ἥψατό	image (3x): acute before the enclitic as printed
+dan-th	oldtestgreek00unknuoft	577	28	και	και	καὶ	καὶ	image (3x): as in the page file; OCR lost or misread diacritics, specks, superscripts or the margin siglum B
+dan-th	oldtestgreek00unknuoft	577	28	εστη-	εστη-	ἔστη-	ἔστη-	image (3x): as in the page file; OCR lost or misread diacritics, specks, superscripts or the margin siglum B

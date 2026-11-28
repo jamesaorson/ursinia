@@ -363,7 +363,7 @@
     ("Abraham" 15)
     ("and" 16)
     ("Isaac," 17)
-    ("the lord" 18 19)
+    ("the Lord" 18 19)
     ("nourishing" (20 attributive) (21 nourish "τρέφω"))
     ("me" 22)
     ("out of" 23)

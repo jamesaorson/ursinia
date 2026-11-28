@@ -1194,7 +1194,7 @@
     ("having answered" 1)
     ("said," 6)
     ("From" (7 from))
-    ("lord" 8)
+    ("Lord" 8)
     ("this" 12)
     ("ordinance" (10 absorbed) (11 ordinance "πρόσταγμα"))
     ("went forth;" 9)
