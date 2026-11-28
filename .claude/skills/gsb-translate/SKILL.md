@@ -133,12 +133,14 @@ entry: `(lemma "λέξις" (sense <name> [fields] (gloss "base" "other forms"..
   a Greek article behind every "the"): "in front of", not "in the presence
   of"; "when", not "at the time when".
 - The generator spells English forms by rule plus a built-in list of
-  irregular verbs and of verbs that double their last consonant
-  (`%irregular`, `%double` in `scripts/lib/gsb-literal.scm`). A
-  `(verb "base" "past" "pp")` field fixes the past forms only; if the
-  "-ing" form comes out wrong ("begeting"), report the verb as a rule fault
-  (do not edit the library) and fix the verses meanwhile with an
-  `(english ...)` override.
+  irregular verbs (`%irregular`); a final consonant doubles by rule in a
+  one-syllable verb (blot "blotting"), and in a longer verb only if
+  `%double` lists it (`%stress-initial` lists those that do not); `check`
+  warns `spelling` for a longer verb in neither list: report it (do not
+  edit the library). A `(verb "base" "past" "pp")` field fixes the past
+  forms; for a base of several words write them in full, `(verb "go down"
+  "went down" "gone down")` (the trailing words are added once; a word
+  doubled inside a segment is a `check` error).
 - The edit tool needs each file read before it is edited: read each letter
   file once, then make all its insertions.
 - Add generator fields where needed (table in `gsb/literal/README.md`):
@@ -192,12 +194,20 @@ first place that applies, then regenerate:
    generated segments from `gsb/literal/NN-<id>/CCC.scm` and change only
    what must change). Rare: a pin is a missing rule.
 6. **A rule fault** (the same wrong English would recur in other books:
-   word order, a construction): do not work around it verse by verse. Note
-   it for your report (the verse, the Greek, what the rule should do). The
-   one exception: a verse whose English says something **false** about who
-   does what (the subject read as the object) may be pinned if no more than
-   two or three verses of your range need it; say so in the `why` ("until
-   the rule exists"). A merely stiff verse is never pinned.
+   word order, a construction): do not work around stiffness verse by
+   verse. Note it for your report (the verse, the Greek, what the rule
+   should do). A merely stiff verse is never pinned, and "two or three pins
+   per range" is the guide for stiffness only.
+   **A verse that states something false is always fixed, with no cap**:
+   a wrong actor (the subject read as the object, a vocative or a phrase
+   from inside speech made the subject, a wrong person "I"/"they"), a
+   reversed sense (a negation that is not in the Greek, a question asserting
+   the opposite), a statement for a command. Fix it with the smallest data
+   that does it (a `(tag ...)`, `(sense ...)`, `(subject ...)` or `(english
+   ...)` word override), else pin the verse; say in the `why` which rule
+   fault it works around. Never leave a false verse for a later pass.
+   `check` warns `subject-unsure` where the rules kept the Greek order
+   because they could not tell the subject: read each such verse.
 
 Never edit `gsb/literal/NN-<id>/*.scm` (generated), the hand files in
 `gsb/translation/`, or the library.

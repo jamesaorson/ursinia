@@ -190,6 +190,11 @@
 (lacks "gen.22.1" "Abraham said")                 ; Ἀβραὰμ Ἀβραάμ is a call
 (has "gen.27.1" "and called Esau his son")        ; undecidable: Greek order, no false actor
 (has "gen.27.18" "who are you, child?")
+(has "gen.3.8" "both Adam and his woman hid")         ; ὅ τε X καὶ Y
+(has "gen.18.4" "Let water be taken indeed")          ; past the particle δή
+(has "gen.15.14" "after these they will go forth")    ; a preposition's object is no subject
+(has "gen.14.16" "and Lot his brother he/she/it turned back") ; a fronted object with its apposition
+(has "gen.18.10" "and Sarah your woman will have son") ; past a plain object
 ;; A4. Subjects of articular infinitives: possessive gerunds.
 (has "gen.19.16" "in [the] Lord's sparing him")
 (has "gen.19.29" "in [the] Lord's rubbing out all the cities" "in [the] Lord's overturning the cities")

@@ -567,9 +567,9 @@
     ("of the [one]" (8 unrendered))
     ("of Milcah," (9 name "Μελχά"))
     ("whom" 10)
-    ("Nahor" 13)
-    ("bore" 11)
-    ("to him." 12)))
+    ("he/she/it bore" 11)
+    ("to him" 12)
+    ("to Nahor." 13)))
 
 (verse 25
   (status draft)
@@ -895,9 +895,9 @@
   (status draft)
   (literal
     ("And" 1)
-    ("the Lord God" 4 5 6)
-    ("said" 2)
+    ("he/she/it said" 2)
     ("to me," 3)
+    ("The Lord God," 4 5 6)
     ("to whom" 7)
     ("I was well-pleasing" (8 be-well-pleasing "εὐαρεστέω"))
     ("in front of" 9)
@@ -1093,7 +1093,7 @@
     ("camels" (17 absorbed) (18 camel "κάμηλος"))
     ("I will water;" (20 water "ποτίζω"))
     ("and" 21)
-    ("they drank," 22)
+    ("I drank," 22)
     ("and" 23)
     ("my" 26)
     ("camels" (24 absorbed) (25 camel "κάμηλος"))
@@ -1316,7 +1316,7 @@
     ("and" 17)
     ("after" (18 after))
     ("these" 19)
-    ("will go away." (20 go-away "ἀπέρχομαι"))))
+    ("he/she/it will go away." (20 go-away "ἀπέρχομαι"))))
 
 (verse 56
   (status draft)

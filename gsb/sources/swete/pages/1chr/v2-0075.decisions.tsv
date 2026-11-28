@@ -1,0 +1,80 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+1chr	oldtestamenting02swet	75	1	Τὸ	Τ7ὁὸ	ὁ	ὁ	image (3x): ὁ, rough breathing only; OCR read the verse superscript
+1chr	oldtestamenting02swet	75	1	Ἀσαὴλ	Ἀσαὴλ	Ἀσαὴλ	Ἀσαὴλ	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	2	ἀδελφὸς	ἀδελφὸς	ἀδελφὸς	ἀδελφὸς	image (3x): grave as printed before the capitalized word
+1chr	oldtestamenting02swet	75	2	Ἰωὰβ	Ἰωὰβ	Ἰωὰβ	Ἰωὰβ	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	2	Ἀβδείας	Ἀβδείας	Ἀβδείας	Ἀβδείας	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	3	δὸ	δὸ	ὁ	ὁ	image (3x): ὁ, rough breathing only; OCR read the verse superscript
+1chr	oldtestamenting02swet	75	4	ἢ	τῷ	τῷ	τῷ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	75	4	ὶ	μηνὶ	μηνὶ	μηνὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	75	4	ἡγούμενος	ἡγούμενος +Σ	ἡγούμενος	ἡγούμενος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	75	4	Ἔ +σρᾶε,	Ἔ +Ἔσρᾶε,	Ἐσρᾶε,	Ἐσρᾶε,	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	4	τῆ	τῆς	τῆς	τῆς	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	75	5	9ὁ	9ὁ	ὁ	ὁ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	75	5	ἔκτος	ἔκτος	ἕκτος	ἕκτος	image (3x): rough + acute on ε (ἕκτος/ἕκτῳ), circumflex absent
+1chr	oldtestamenting02swet	75	6	ἐκτῷῳ	ἐκτῷ	ἕκτῳ	ἕκτῳ	image (3x): rough + acute on ε (ἕκτος/ἕκτῳ), circumflex absent
+1chr	oldtestamenting02swet	75	6	Οδουίας	Οδουίας	Ὀδουίας	Ὀδουίας	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	6	ἘΒκκὴς	Ἐκκὴς	Ἐκκὴς	Ἐκκὴς	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	8	ἑβδύμῳ	ἑβδύμῳ	ἑβδόμῳ	ἑβδόμῳ	image (3x): ἑβδόμῳ, ό
+1chr	oldtestamenting02swet	75	8	Ἐφράιμ,	Ἐφράιμ,	Ἐφράιμ,	Ἐφράιμ,	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	9	“ὁ	"᾿ὁ	ὁ	ὁ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	75	10	Ἱσαθεὶ	ἹΙσαθεὶ	Ἰσαθεὶ	Ἱσαθεὶ	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	11	ὁ	"ὁ	ὁ	ὁ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	75	11	Αβιέζερ	Ἀβιέζερ	Ἀβιέζερ	Ἀβιέζερ	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	12	Ἀναθὼθ	Ἀναθὼθ	Ἀναθὼθ	Ἀναθὼθ	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	13	“ὁ	"ὁ	ὁ	ὁ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	75	13	τῴ	τῷ	τῷ	τῷ	image (3x): τῷ with circumflex and iota subscript
+1chr	oldtestamenting02swet	75	15	"ὁ	"ὁ	ὁ	ὁ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	75	15	ἐνδεκάτῳ	ἐνδεκάτῳ	ἑνδεκάτῳ	ἑνδεκάτῳ	image (3x): ἑνδεκάτῳ, rough breathing
+1chr	oldtestamenting02swet	75	16	Ἐφράιμ,	Ἐφράιμ,	Ἐφράιμ,	Ἐφράιμ,	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	17	ὁ	᾿5ὁ	ὁ	ὁ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	75	19	χιλιάδες. +᾿ὁ	χιλιάδες. +᾿	χιλιάδες.	χιλιάδες.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	75	19	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	20	τῶν	τῶν +ἤς	τῶν	τῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	75	20	Ῥουβὴν	Ῥουβὴν	Ῥουβὴν	Ῥουβὴν	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	20	Ελιέζερ	Ἐλιέζερ	Ἐλιέζερ	Ἐλιέζερ	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	20	Ζεχρεί:	Ζεχρεί᾽	Ζεχρεί·	Ζεχρεί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	75	20	Συμεὼν	Συμεὼν	Συμεὼν	Συμεὼν	image (3x): grave as printed before the capitalized word
+1chr	oldtestamenting02swet	75	21	Μαχά᾽	Μαχά᾽	Μαχά·	Μαχά·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	75	21	"τῷ	"τῷ	τῷ	τῷ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	75	21	Λευεὶ	Λευεὶ	Λευεὶ	Λευεὶ	image (3x): grave as printed before the capitalized word
+1chr	oldtestamenting02swet	75	21	Ἀσαβίας	Ἀσαβίας	Ἁσαβίας	Ἁσαβίας	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	21	Σαμουήλ᾽	Σαμουήλ᾽	Σαμουήλ·	Σαμουήλ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	75	21	∅	τῷ	τῷ	τῷ	class R0: OCR lost the word in extraction; c read from the image strip
+1chr	oldtestamenting02swet	75	21	∅	Ἀαρὼν	Ἀαρὼν	Ἀαρὼν	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	21	∅	Σαδώκ:	Σαδώκ·	Σαδώκ·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	75	22	τῷ +Λ̓αρὼν Σαδώκ᾽ “τῷ	“τῷ	τῷ	τῷ	class R3+R1: OCR appended accent-row or margin junk; OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	75	22	Ἰούδᾳ	Ιούδᾳ	Ἰούδᾳ	Ἰούδᾳ	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	22	Ἐλιὰβ	Ἐλιὰβ	Ἐλιὰβ	Ἐλιὰβ	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	22	Δαυείδ:	Δαυείδ:	Δαυείδ·	Δαυείδ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	75	22	Ἰσσαχὰρ	Ἰσσαχὰρ	Ἰσσαχὰρ	Ἰσσαχὰρ	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	22	Ἀμβρεὶ	Ἀμβρεὶ	Ἀμβρεὶ	Ἀμβρεὶ	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	23	Μεισαήλ-	Μεισαήλ-	Μεισαήλ·	Μεισαήλ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	75	23	“τῷ	Ν +19 “τῷ	τῷ	τῷ	image (3x): τῷ with circumflex and iota subscript
+1chr	oldtestamenting02swet	75	23	Ζαβουλὼν	Ζαβουλὼν	Ζαβουλὼν	Ζαβουλὼν	image (3x): grave as printed before the capitalized word
+1chr	oldtestamenting02swet	75	23	Ἀβδειού:	Ἀβδειού:	Ἀβδειού·	Ἀβδειού·	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	23	Νεφθαλεὶ	Νεφθαλεὶ	Νεφθαλεὶ	Νεφθαλεὶ	image (3x): grave as printed before the capitalized word
+1chr	oldtestamenting02swet	75	23	Ἐ̓ρειμὼθ	Ἐ̓ρειμὼθ	Ἐρειμὼθ	Ἐρειμὼθ	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	24	3	ν.»	Ἐσρειήλ·	Ἐσρειήλ·	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	24	Ἐσρειηλ᾽	Εσρειηλ᾽	τῷ	τῷ	image (3x): τῷ with circumflex and iota subscript
+1chr	oldtestamenting02swet	75	24	20	“τῷ +Ἔ φράιμ ς	Ἐφράιμ	Ἐφράιμ	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	24	“τῷ +Ἔφράαιμ ς ὩὭὩσὴ	Ὡσὴ	Ὡσὴ	Ὡσὴ	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	24	3 +Οζειοῦ:	ῳ +Οζειοῦυ:	Ὀζειού·	Ὀζειού·	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	25	Μανασσὴ	Μανασσὴ +ΕΣ	Μανασσὴ	Μανασσὴ	image (3x): grave as printed before the capitalized word
+1chr	oldtestamenting02swet	75	25	Ἰωὴλ	Ἰωὴλ	Ἰωὴλ	Ἰωὴλ	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	25	Φαλαδαιά:	Φαλαδαιά:	Φαλαδαιά·	Φαλαδαιά·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	75	25	“'τῷῴ	οι +“'τῷῴ	τῷ	τῷ	image (3x): τῷ with circumflex and iota subscript
+1chr	oldtestamenting02swet	75	26	Ταλαὰδ	Ταλαὰδ	Γαλαὰδ	Γαλαὰδ	image (3x): grave as printed before the capitalized word
+1chr	oldtestamenting02swet	75	26	ἸΙαδδαὶ	Ἰαδδαὶ	Ἰαδδαὶ	Ἰαδδαὶ	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	26	Ζαβδειού:	Ζαβδειού:	Ζαβδειού·	Ζαβδειού·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	75	26	Βενιαμεὶν	Βενιαμεὶν	Βενιαμεὶν	Βενιαμεὶν	image (3x): grave as printed before the capitalized word
+1chr	oldtestamenting02swet	75	26	Ἀσειὴρ	Ἀσειὴρ	Ἀσειὴρ	Ἀσειὴρ	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	27	ἃ	Αβεννήρ᾽	Ἀβεννήρ·	Ἀβεννήρ·	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	27	Ἀβεννήρ᾽ +“τῷ	“τῷ	τῷ	τῷ	image (3x): τῷ with circumflex and iota subscript
+1chr	oldtestamenting02swet	75	27	Δὰν +᾽	Δὰν	Δὰν	Δὰν	image (3x): grave as printed before the capitalized word
+1chr	oldtestamenting02swet	75	27	Ἀζαραὴλ	Ἀζαραὴλ	Ἀζαραὴλ	Ἀζαραὴλ	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	27	Ἰωράμ.	Ἰωράμ.	Ἰωράμ.	Ἰωράμ.	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	28	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): breathing on the capital as in the page file
+1chr	oldtestamenting02swet	75	28	“"καὶ	“"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	75	29	τὸν +2	τὸν	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	75	29	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): breathing on the capital as in the page file

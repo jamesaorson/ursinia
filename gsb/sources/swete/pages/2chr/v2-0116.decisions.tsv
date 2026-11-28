@@ -1,0 +1,93 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+2chr	oldtestamenting02swet	116	1	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	1	Τοθολία	Τοθολία	Γοθολία	Γοθολία	image (3x): Γ, not Τ
+2chr	oldtestamenting02swet	116	2	Ἀμβρεί. +3	Αμβρεί. +3	Ἀμβρεί.	Ἀμβρεί.	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	2	οἴκου +᾽	οἴκου	οἴκου	οἴκου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	116	2	Ἀχαάβ,	Ἀχαάβ,	Ἀχαάβ,	Ἀχαάβ,	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	3	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	116	4	οἶκος	οἶκος +»	οἶκος	οἶκος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	116	4	Ἀχαάβ,	Ἀχαάβ,	Ἀχαάβ,	Ἀχαάβ,	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	5	“καὶ	5 +ϑκαὶ	καὶ	καὶ	image (3x): OCR junk / misaligned last line (verse numbers fused); page reading confirmed against the image
+2chr	oldtestamenting02swet	116	6	Ἰωρὰμ	Ἰωρὰμ	Ἰωρὰμ	Ἰωρὰμ	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	6	Ἀχαὰβ	Ἀχαὰβ	Ἀχαὰβ	Ἀχαὰβ	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	7	Ἀζαὴλ	Ἀζαὴλ	Ἀζαὴλ	Ἀζαὴλ	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	7	Ῥαμὰ	Ῥαμὰ	Ῥαμὰ	Ῥαμὰ	image (3x): rough breathing on Ρ; grave before the name Γαλαάδ
+2chr	oldtestamenting02swet	116	7	Ταλαάδ᾽	Ταλαάδ᾽	Γαλαάδ·	Γαλαάδ·	image (3x): Γ, not Τ
+2chr	oldtestamenting02swet	116	8	τὸν +᾽	τὸν +᾽	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	116	8	Ἰωράμ.	Ἰωράμ.	Ἰωράμ.	Ἰωράμ.	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	8	“καὶ	6. +“καὶ	καὶ	καὶ	image (3x): OCR junk / misaligned last line (verse numbers fused); page reading confirmed against the image
+2chr	oldtestamenting02swet	116	8	» +ἸΙωρὰμ	» +Ιωρὰμ	Ἰωρὰμ	Ἰωρὰμ	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	9	εἰς +ΕἾ	εἰς	εἰς	εἰς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	116	9	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	10	ἐν +«ς	ἐν	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	116	10	Ῥαμὰ	Ῥαμὰ	Ῥαμὰ	Ῥαμὰ	image (3x): rough breathing on Ρ; grave before the name Γαλαάδ
+2chr	oldtestamenting02swet	116	10	᾽ +Αζαὴλ	Αζαὴλ	Ἀζαὴλ	Ἀζαὴλ	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	10	Συρίας"	Συρίας"	Συρίας·	Συρίας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	116	11	Οχοζείας	Σ +Οχοζείας	Ὀχοζείας	Ὀχοζείας	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	11	υἱὸς	υἱὸς +»	υἱὸς	υἱὸς	image (3x): grave; the capital is a name/Κύριος, not a quotation
+2chr	oldtestamenting02swet	116	11	Ἰωρὰμ	Ἰωρὰμ	Ἰωρὰμ	Ἰωρὰμ	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	11	βασιλεὺς	βασιλεὺς +5	βασιλεὺς	βασιλεὺς	image (3x): grave; the capital is a name/Κύριος, not a quotation
+2chr	oldtestamenting02swet	116	11	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	11	θεᾶσθαι	θεᾶσθαι;	θεᾶσθαι	θεᾶσθαι	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	116	11	Ἰωρὰμ	Ἰωρὰμ	Ἰωρὰμ	Ἰωρὰμ	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	12	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): grave; the capital is a name/Κύριος, not a quotation
+2chr	oldtestamenting02swet	116	12	Ἀχαὰβ	Ἀχαὰβ	Ἀχαὰβ	Ἀχαὰβ	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	12	Ισραῆλ,	Ἰσραὴλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	12	ὅτε	ὅτι	ὅτι	ὅτι	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	116	12	ἠρρώστει.	ἡἠρρώστει.	ἠρρώστει.	ἠρρώστει.	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	116	12	Τκαὶ	Τκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	116	13	καταστροφὴ	καταστροφὴ	καταστροφὴ	καταστροφὴ	image (3x): grave; the capital is a name/Κύριος, not a quotation
+2chr	oldtestamenting02swet	116	13	Ὀχοζείᾳ	Ὀχοζείᾳ	Ὀχοζείᾳ	Ὀχοζείᾳ	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	13	Ἰωράμ:	Ἰωράμ:	Ἰωράμ·	Ἰωράμ·	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	14	Ἰωρὰμ	Ιωρὰμ	Ἰωρὰμ	Ἰωρὰμ	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	14	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): grave; the capital is a name/Κύριος, not a quotation
+2chr	oldtestamenting02swet	116	14	χριστὸν	χριστὸν	χριστὸν	χριστὸν	image (3x): grave; the capital is a name/Κύριος, not a quotation
+2chr	oldtestamenting02swet	116	15	Ἀχαάβ.	Ἀχαάβ.	Ἀχαάβ.	Ἀχαάβ.	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	15	ὅκαὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	116	15	Ἰοὺ	Ἰοὺ	Ἰοὺ	Ἰοὺ	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	15	Ἀχαάβ, +8	Ἀχαάβ, +8	Ἀχαάβ,	Ἀχαάβ,	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	16	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	16	ἀδελφοὺς	ἀδελφοὺς	ἀδελφοὺς	ἀδελφοὺς	image (3x): grave; the capital is a name/Κύριος, not a quotation
+2chr	oldtestamenting02swet	116	16	Ὀχοζεία	Ὀχοζεία	Ὀχοζεία	Ὀχοζεία	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	17	Ὀχοζείᾳ	Ὀχοζείᾳ	Ὀχοζείᾳ	Ὀχοζείᾳ	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	17	αὐτούς.	αὐτούς. +9	αὐτούς.	αὐτούς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	116	17	9καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	116	17	ζητῆσαι +9	ζητῆσαι +ὁ	ζητῆσαι	ζητῆσαι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	116	18	Ὀχοζείαν:	Ὀχοζείαν:	Ὀχοζείαν·	Ὀχοζείαν·	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	19	2 +ἸΙού,	Ἰού,	Ἰού,	Ἰού,	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	20	Ὑἱὸς	Ὑἱὸς	Υἱὸς	Υἱὸς	image (3x): no breathing on the capital Υ; rough breathing + grave on ι (Υἱὸς), capitalized quotation start
+2chr	oldtestamenting02swet	116	20	Ἰωσαφάτ	Ἰωσαφάτ	Ἰωσαφάτ	Ἰωσαφάτ	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	21	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	116	21	καὶ	καὶ +οὐ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	116	21	ἢν	ἢν	ἦν	ἦν	image (3x): smooth breathing + circumflex
+2chr	oldtestamenting02swet	116	21	οἴκῳ +Ὄ	οἴκῳ +Ὄ	οἴκῳ	οἴκῳ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	116	21	Ὀχοζεία	Ὀχοζεία	Ὀχοζεία	Ὀχοζεία	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	23	ἸοΚαὶ	Καὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	116	23	Τοθολία	Τοθολία	Γοθολία	Γοθολία	image (3x): Γ, not Τ
+2chr	oldtestamenting02swet	116	23	μήτηρ	μήτηρ +»	μήτηρ	μήτηρ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	116	23	Ὀχοζεία	Ὀχοζεία	Ὀχοζεία	Ὀχοζεία	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	25	Ἰούδα.	Ἰούδα.	Ἰούδα.	Ἰούδα.	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	25	""καὶ	"᾿καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	116	25	Ἰωσαβεὲ	Ιωσαβεὲ	Ἰωσαβεὲ	Ἰωσαβεὲ	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	25	Ἰωὰς	Ἰωὰς	Ἰωὰς	Ἰωὰς	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	25	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): grave; the capital is a name/Κύριος, not a quotation
+2chr	oldtestamenting02swet	116	25	Ὀχοζεία,	Ὀχοζεία,	Ὀχοζεία,	Ὀχοζεία,	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	25	καὶ +ττ	καὶ +ττ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	116	27	κλινῶν:	κλινῶν:	κλινῶν·	κλινῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	116	28	αὐτὸν	αὐτὸν	αὐτὸν	αὐτὸν	image (3x): grave; the capital is a name/Κύριος, not a quotation
+2chr	oldtestamenting02swet	116	28	Ἰωσαβεὲ	Ἰωσαβεὲ	Ἰωσαβεὲ	Ἰωσαβεὲ	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	28	Ἰωράμ,	Ἰωράμ,	Ἰωράμ,	Ἰωράμ,	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	28	ἀδελφὴ	ἀδελφὴ	ἀδελφὴ	ἀδελφὴ	image (3x): grave; the capital is a name/Κύριος, not a quotation
+2chr	oldtestamenting02swet	116	29	Οχοζείου	Οχοζείου	Ὀχοζείου	Ὀχοζείου	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	29	γυνὴ	γυνὴ	γυνὴ	γυνὴ	image (3x): grave; the capital is a name/Κύριος, not a quotation
+2chr	oldtestamenting02swet	116	29	Ιωδᾶε:	Ἰωδᾶε:	Ἰωδᾶε·	Ἰωδᾶε·	image (3x): smooth breathing on the capital; accents as in the page file
+2chr	oldtestamenting02swet	116	30	ΓῸ	ΓῸ	Γοθολίας,	Γοθολίας,	image (3x): Γ, not Τ
+2chr	oldtestamenting02swet	116	30	ολίας,	ολίας,	καὶ	καὶ	image (3x): OCR junk / misaligned last line (verse numbers fused); page reading confirmed against the image
+2chr	oldtestamenting02swet	116	30	∅	∅	οὐκ	οὐκ	image (3x): OCR junk / misaligned last line (verse numbers fused); page reading confirmed against the image
+2chr	oldtestamenting02swet	116	30	∅	∅	ἀπέκτεινεν	ἀπέκτεινεν	image (3x): OCR junk / misaligned last line (verse numbers fused); page reading confirmed against the image
+2chr	oldtestamenting02swet	116	30	∅	∅	αὐτόν.	αὐτόν.	image (3x): OCR junk / misaligned last line (verse numbers fused); page reading confirmed against the image
+2chr	oldtestamenting02swet	116	30	Οὐκ	Οὐκ	ἦν	ἦν	image (3x): OCR junk / misaligned last line (verse numbers fused); page reading confirmed against the image
+2chr	oldtestamenting02swet	116	30	απέεκτεινεν	απέεκτεινεν	μετ᾽	μετ᾽	image (3x): OCR junk / misaligned last line (verse numbers fused); page reading confirmed against the image
+2chr	oldtestamenting02swet	116	30	αὐτον. +και ην μετ αὐυτου	αὐυτον. +και ἣν μετ αὐτου	αὐτοῦ	αὐτοῦ	image (3x): OCR junk / misaligned last line (verse numbers fused); page reading confirmed against the image
+2chr	oldtestamenting02swet	116	11	-	-	θεᾶσθαι	θεᾶσθαι	ambiguous: small light raised tick after the word, lighter and smaller than an ano teleia; read as a speck, no punctuation
+2chr	oldtestamenting02swet	116	11	-	-	κατέβη	κατέβη	image (4x): dot under ε is a speck

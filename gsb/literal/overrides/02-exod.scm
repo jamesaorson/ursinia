@@ -9,3 +9,6 @@
 (word "exod.20.9#5" (sense do) (why "ποιήσεις πάντα τὰ ἔργα σου: \"do\" works."))
 (word "exod.20.10#12" (sense do) (why "οὐ ποιήσεις ... πᾶν ἔργον: \"do\" work."))
 (word "exod.20.12#18" (sense land) (why "ἡ γῆ ἡ ἀγαθή: the land given to Israel."))
+(word "exod.20.10#15" (sense any) (why "οὐ ποιήσεις ... πᾶν ἔργον: the negative with πᾶς is \"not any\", no work at all; \"not ... every work\" would allow some."))
+(word "exod.20.23#4" (sense intensive) (english "yourselves") (why "ὑμῖν αὐτοῖς: the intensive with the second person, \"to you yourselves\", not a third party \"them\"."))
+(word "exod.20.23#13" (english "yourselves") (why "ὑμῖν ἑαυτοῖς: the reflexive of the second person, \"yourselves\"."))

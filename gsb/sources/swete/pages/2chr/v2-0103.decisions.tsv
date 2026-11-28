@@ -1,0 +1,68 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+2chr	oldtestamenting02swet	103	1	∅	∅	τὰς	τὰς	image (3x): reads as transcribed; OCR lost the word, fused the verse number, or dropped diacritics
+2chr	oldtestamenting02swet	103	1	Ἀβιά,	Ἀβιά,	Ἀβιά,	Ἀβιά,	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	103	1	αὐτὸν	αὐτὸν	αὐτὸν	αὐτὸν	image (3x): grave before Κύριος, as printed
+2chr	oldtestamenting02swet	103	2	∅	∅	καὶ	καὶ	image (3x): reads as transcribed; OCR lost the word, fused the verse number, or dropped diacritics
+2chr	oldtestamenting02swet	103	2	Ἀβιά,	Ἀβιά,	Ἀβιά,	Ἀβιά,	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	103	3	∅	∅	καὶ	καὶ	image (3x): reads as transcribed; OCR lost the word, fused the verse number, or dropped diacritics
+2chr	oldtestamenting02swet	103	3	ἕξ. +“"	ἕξ.	ἕξ.	ἕξ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	103	3	καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	103	4	∅	∅	λοιποὶ	λοιποὶ	image (3x): reads as transcribed; OCR lost the word, fused the verse number, or dropped diacritics
+2chr	oldtestamenting02swet	103	4	Ἀβιὰ	Ἀβιὰ	Ἀβιὰ	Ἀβιὰ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	103	5	∅	∅	μένοι	μένοι	image (3x): reads as transcribed; OCR lost the word, fused the verse number, or dropped diacritics
+2chr	oldtestamenting02swet	103	5	Ἀδώ. +- ᾿	Ἀδώ.	Ἀδώ.	Ἀδώ.	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	103	6	Καὶ	τ +Κ̓αὶ	Καὶ	Καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	103	6	Ἀβιὰ	Ἀβιὰ	Ἀβιὰ	Ἀβιὰ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	103	7	Δαυείδ:	Δαυείδ:	Δαυείδ·	Δαυείδ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	103	7	Ἀσὰ	Ἀσὰ	Ἀσὰ	Ἀσὰ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	103	7	αὐτοῦ. +«	αὐτοῦ. +«2	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	103	8	Ἀσὰ	Ἀσὰ	Ἀσὰ	Ἀσὰ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	103	8	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	103	8	“καὶ	“καὶ	καὶ	καὶ	image (3x): reads as transcribed; OCR lost the word, fused the verse number, or dropped diacritics
+2chr	oldtestamenting02swet	103	8	ἐποίη- +-	ἐποίη-	ἐποίη-	ἐποίη-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	103	9	Κυρίου	Ἰζυρίου	Κυρίου	Κυρίου	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	103	9	53καὶ	3καὶ	καὶ	καὶ	image (3x): reads as transcribed; OCR lost the word, fused the verse number, or dropped diacritics
+2chr	oldtestamenting02swet	103	10	καὶ +4	καὶ +4	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	103	11	“καὶ	4 +“καὶ	καὶ	καὶ	image (3x): reads as transcribed; OCR lost the word, fused the verse number, or dropped diacritics
+2chr	oldtestamenting02swet	103	12	Ἰούδᾳ	Ιούδᾳ	Ἰούδᾳ	Ἰούδᾳ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	103	12	ποιῆσαι +-	ποιῆσαι	ποιῆσαι	ποιῆσαι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	103	13	τὸν	-τὸν	τὸν	τὸν	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	103	13	ὅκαὶ	ὅκαὶ	καὶ	καὶ	image (3x): reads as transcribed; OCR lost the word, fused the verse number, or dropped diacritics
+2chr	oldtestamenting02swet	103	14	πόλεων +»	πόλεων	πόλεων	πόλεων	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	103	14	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	103	15	6 +6 “πόλεις	6 +6 “πόλεις	πόλεις	πόλεις	image (3x): reads as transcribed; OCR lost the word, fused the verse number, or dropped diacritics
+2chr	oldtestamenting02swet	103	15	γῇ +15	γῇ +15)	γῇ	γῇ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	103	15	Ἰούδα,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	103	15	γῆ;	γῆ"	γῆ·	γῆ·	image (3x): raised point, ano teleia
+2chr	oldtestamenting02swet	103	15	ἢν	ἦν	ἦν	ἦν	image (3x): smooth breathing + circumflex, ἦν
+2chr	oldtestamenting02swet	103	17	γ7καὶ	γ7καὶ	καὶ	καὶ	image (3x): reads as transcribed; OCR lost the word, fused the verse number, or dropped diacritics
+2chr	oldtestamenting02swet	103	17	Ἰούδᾳ	Ἰούδᾳ	Ἰούδᾳ	Ἰούδᾳ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	103	17	Οἰκοδομήσωμεν	Οἰκοδομήσωμεν	Οἰκοδομήσωμεν	Οἰκοδομήσωμεν	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	103	19	κυριεύσομεν:	κυριεύσομεν:	κυριεύσομεν·	κυριεύσομεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	103	21	∅	∅	ἡμῖν.	ἡμῖν.	image (3x): reads as transcribed; OCR lost the word, fused the verse number, or dropped diacritics
+2chr	oldtestamenting02swet	103	21	Ἀσὰ	Ἀσὰ	Ἀσὰ	Ἀσὰ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	103	21	ὁπλοφόρω	ὁπλοφόρων	ὁπλοφόρων	ὁπλοφόρων	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	103	21	ἰρό	αἰρό	αἰρόντων	αἰρόντων	image (3x): reads as transcribed; OCR lost the word, fused the verse number, or dropped diacritics
+2chr	oldtestamenting02swet	103	22	γῇ +ὦ	γῇ	γῇ	γῇ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	103	22	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	103	23	πεντήκοντα +ο	πεντήκοντα +ο	πεντήκοντα	πεντήκοντα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	103	24	9καὶ	9καὶ	καὶ	καὶ	image (3x): reads as transcribed; OCR lost the word, fused the verse number, or dropped diacritics
+2chr	oldtestamenting02swet	103	25	Αἰθίοψ	Αἰθίοψ	Αἰθίοψ	Αἰθίοψ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	103	25	τρια- +το	τρια- +το	τρια-	τρια-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	103	26	ἕως	ἔως	ἕως	ἕως	image (8x): rough breathing + acute (open curl then stroke), ἕως
+2chr	oldtestamenting02swet	103	26	Μαρισήλ.	Μαρισῆλ.	Μαρισήλ.	Μαρισήλ.	image (3x): reads as transcribed; OCR lost the word, fused the verse number, or dropped diacritics
+2chr	oldtestamenting02swet	103	26	“καὶ	“καὶ	καὶ	καὶ	image (3x): reads as transcribed; OCR lost the word, fused the verse number, or dropped diacritics
+2chr	oldtestamenting02swet	103	26	Ἀσὰ	Ἀσὰ	Ἀσὰ	Ἀσὰ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	103	27	κατὰ +τι	κατὰ +τε	κατὰ	κατὰ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	103	28	Μαρείσης.	Μαρείσης. +“᾽	Μαρείσης.	Μαρείσης.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	103	28	"“᾿καὶ	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	103	28	Ἀσὰ	Ἀσὰ	Ἀσὰ	Ἀσὰ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	103	30	ὀλίγοις"	ὀλίγοις"	ὀλίγοις·	ὀλίγοις·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	103	31	θ +αμεν,	θαμεν,	θαμεν,	θαμεν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	103	31	ὀνόματί	ὀνόματί	ὀνόματί	ὀνόματί	image (3x): acute on ὀνόματί before enclitic σου
+2chr	oldtestamenting02swet	103	32	Τοῦυτο"	Τουτο"	τοῦτο·	τοῦτο·	image (3x): reads as transcribed; OCR lost the word, fused the verse number, or dropped diacritics
+2chr	oldtestamenting02swet	103	32	Κυριε	Κυριε	Κύριε	Κύριε	image (3x): reads as transcribed; OCR lost the word, fused the verse number, or dropped diacritics
+2chr	oldtestamenting02swet	103	32	ο	[	ὁ	ὁ	image (3x): reads as transcribed; OCR lost the word, fused the verse number, or dropped diacritics
+2chr	oldtestamenting02swet	103	32	ἡμῶν.	ἡμῶν,	ἡμῶν,	ἡμῶν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	103	32	σρος	σρος	πρὸς	πρὸς	image (3x): reads as transcribed; OCR lost the word, fused the verse number, or dropped diacritics
+2chr	oldtestamenting02swet	103	32	σε	σε	σὲ	σὲ	image (3x): reads as transcribed; OCR lost the word, fused the verse number, or dropped diacritics

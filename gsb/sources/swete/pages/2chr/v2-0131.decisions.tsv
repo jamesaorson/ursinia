@@ -1,0 +1,55 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+2chr	oldtestamenting02swet	131	1	ταῦτα. +35	ταῦτα. +53	ταῦτα.	ταῦτα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	131	2	35:ἀλλ΄	5.ἀλλ᾽	ἀλλ᾽	ἀλλ᾽	image (3x): superscript 34 then ἀλλ᾽ with elision
+2chr	oldtestamenting02swet	131	6	35 +35καὶ	35 +Ῥδκαὶ	καὶ	καὶ	image (3x): superscript 35 then καὶ
+2chr	oldtestamenting02swet	131	7	ὁλοκαυτώσεως:	ὁλοκαυτώσεως:	ὁλοκαυτώσεως·	ὁλοκαυτώσεως·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	131	8	Κυρίου.	Κυρίου. +3.	Κυρίου.	Κυρίου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	131	8	35καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	131	8	“Ἐζεκίας	“Ἐζεκίας	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing on the capital (reversed comma)
+2chr	oldtestamenting02swet	131	10	ὁ	ὃ	ὁ	ὁ	image (3x): rough breathing alone, no grave: ὁ
+2chr	oldtestamenting02swet	131	10	Ἑζεκίας	Ἑ +ζεκίας	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing on the capital (reversed comma)
+2chr	oldtestamenting02swet	131	10	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital (apostrophe shape)
+2chr	oldtestamenting02swet	131	11	Ἰούδαν,	Ἰούδαν,	Ἰούδαν,	Ἰούδαν,	image (3x): smooth breathing on the capital (apostrophe shape)
+2chr	oldtestamenting02swet	131	11	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing on the capital (apostrophe shape)
+2chr	oldtestamenting02swet	131	12	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on the capital (apostrophe shape)
+2chr	oldtestamenting02swet	131	13	ΙΙσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on the capital (apostrophe shape)
+2chr	oldtestamenting02swet	131	13	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	131	14	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on the capital (apostrophe shape)
+2chr	oldtestamenting02swet	131	15	Ξοὺ	Ξοὺ	οὐ	οὐ	image (3x): superscript 3 then οὐ with smooth+grave
+2chr	oldtestamenting02swet	131	16	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing on the capital (apostrophe shape)
+2chr	oldtestamenting02swet	131	17	Γκαὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	131	18	ϑκαὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	131	18	παντὶ	παντὶ	παντὶ	παντὶ	image (3x): grave; next capitalized word is a name, not a quotation
+2chr	oldtestamenting02swet	131	18	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital (apostrophe shape)
+2chr	oldtestamenting02swet	131	20	Ὶ +σραὴλ	Ισραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital (apostrophe shape)
+2chr	oldtestamenting02swet	131	20	Ἴ +Ἱερουσαλήμ,	Ἱερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing on the capital (apostrophe shape)
+2chr	oldtestamenting02swet	131	20	γραφην.	γραφήν.	γραφήν.	γραφήν.	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	131	22	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital (apostrophe shape)
+2chr	oldtestamenting02swet	131	22	Ἰουδὰ	Ἰουδὰ	Ἰουδὰ	Ἰουδὰ	image (3x): smooth breathing on the capital (apostrophe shape)
+2chr	oldtestamenting02swet	131	23	Οἱ	Οἱ	Οἱ	Οἱ	image (3x): Ο unmarked, rough breathing on ι: Οἱ
+2chr	oldtestamenting02swet	131	23	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave; next capitalized word is a name, not a quotation
+2chr	oldtestamenting02swet	131	23	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on the capital (apostrophe shape)
+2chr	oldtestamenting02swet	131	24	θεὸν +»	θεὸν	θεὸν	θεὸν	image (3x): grave; next capitalized word is a name, not a quotation
+2chr	oldtestamenting02swet	131	24	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	image (3x): smooth breathing on the capital (apostrophe shape)
+2chr	oldtestamenting02swet	131	24	καὶ +ΕΣ	καὶ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	131	24	Ἰσαὰκ	Ἰσαὰκ	Ἰσαὰκ	Ἰσαὰκ	image (3x): smooth breathing on the capital (apostrophe shape)
+2chr	oldtestamenting02swet	131	24	καὶ +2	καὶ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	131	24	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on the capital (apostrophe shape)
+2chr	oldtestamenting02swet	131	25	Ἀσσούρ. +τὰ	Ἀσσούρ.	Ἀσσούρ.	Ἀσσούρ.	image (3x): smooth breathing on the capital (apostrophe shape)
+2chr	oldtestamenting02swet	131	26	οἱ	οἱ	οἳ	οἳ	image (3x): compact closed mark = rough+grave, οἳ
+2chr	oldtestamenting02swet	131	28	ὅκαὶ	ὅκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	131	29	ὑμῶν:	ὑμῶν:	ὑμῶν·	ὑμῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	131	31	ὅτι	"ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	131	32	υμας	ὑμᾶς	ὑμᾶς	ὑμᾶς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	131	32	τρὸς	πρὸς	πρὸς	πρὸς	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	131	32	Κυριον	Κύριον	Κύριον	Κύριον	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	131	32	οι	οἱ	οἱ	οἱ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	131	32	υμωὼν	ὑμῶν	ὑμῶν	ὑμῶν	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	131	32	και	καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	131	32	Τὰ	τὰ	τὰ	τὰ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	131	32	Τεκνα	τέκνα	τέκνα	τέκνα	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	131	32	υμῶν	ὑμῶν	ὑμῶν	ὑμῶν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	131	32	εσόονται	ἔσονται	ἔσονται	ἔσονται	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	131	32	εν	ἐν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	131	2	-	-	ἢ	ἢ	image (3x): apostrophe then a stroke falling right = smooth+grave, same shape as leaf 127 line 27
+2chr	oldtestamenting02swet	131	8	-	-	ἔργον	ἔργον	image: speck under ο, not text

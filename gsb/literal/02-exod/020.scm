@@ -161,7 +161,7 @@
     ("you will not do" 11 (12 do))
     ("in" 13)
     ("it" 14)
-    ("every" (15 every))
+    ("any" (15 any))
     ("work," 16)
     ("you" 17)
     ("and" 18)
@@ -421,7 +421,7 @@
   (literal
     ("you will not make" 1 2)
     ("to you" 3)
-    ("to them" 4)
+    ("yourselves" (4 intensive))
     ("silver" 6)
     ("gods," 5)
     ("and" 7)
@@ -429,7 +429,7 @@
     ("gods" 8)
     ("you will not make" 10 11)
     ("to you" 12)
-    ("to themselves." 13)))
+    ("yourselves." 13)))
 
 (verse 24
   (status draft)

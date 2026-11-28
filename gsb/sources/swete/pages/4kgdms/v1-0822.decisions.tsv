@@ -1,0 +1,84 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+4kgdms	theoldtestamenti00unknuoft	822	1	∅	ὅτι	ὅτι	ὅτι	class R0: OCR lost the word in extraction; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	1	∅	ηρρώστησεν	ἠρρώστησεν	ἠρρώστησεν	image (3x): smooth + acute on initial eta
+4kgdms	theoldtestamenti00unknuoft	822	1	∅	Ἑ	Ἑζεκίας.	Ἑζεκίας.	image (3x): rough breathing (reversed comma) on capital
+4kgdms	theoldtestamenti00unknuoft	822	1	∅	ζεκίας. +"Ξκαὶ	καὶ	καὶ	image (3x): superscript 13 is verse number; word καὶ
+4kgdms	theoldtestamenti00unknuoft	822	1	∅	ἐχάρη	ἐχάρη	ἐχάρη	class R0: OCR lost the word in extraction; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	1	∅	ἐπ᾽	ἐπ᾽	ἐπ᾽	class R0: OCR lost the word in extraction; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	1	∅	αὐτοῖς	αὐτοῖς	αὐτοῖς	class R0: OCR lost the word in extraction; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	1	∅	ἝἙ +ζεκίας,	Ἑζεκίας,	Ἑζεκίας,	image (3x): rough breathing (reversed comma) on capital
+4kgdms	theoldtestamenti00unknuoft	822	1	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	4	kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	4	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	5	Efexias	Ἑζεκίας	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing (reversed comma) on capital
+4kgdms	theoldtestamenti00unknuoft	822	5	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	5	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	5	αὐτοῦ. +τ	αὐτοῦ.	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	6	καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	6	“Hoaias	Ἢσαίας	Ἠσαίας	Ἠσαίας	image (3x): smooth breathing on capital
+4kgdms	theoldtestamenti00unknuoft	822	6	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+4kgdms	theoldtestamenti00unknuoft	822	6	Ἕ +ζεκίαν	Ἕ +ζεκίαν	Ἑζεκίαν	Ἑζεκίαν	image (3x): rough breathing (reversed comma) on capital
+4kgdms	theoldtestamenti00unknuoft	822	7	εἰπεν	εἰπεν	εἶπεν	εἶπεν	image (3x): circumflex with smooth breathing
+4kgdms	theoldtestamenti00unknuoft	822	7	αὐτόν	αὐτόν	αὐτόν	αὐτόν	image (3x): acute before capitalized quotation / before enclitic σου
+4kgdms	theoldtestamenti00unknuoft	822	8	εἰπεν	εἶπεν	εἶπεν	εἶπεν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+4kgdms	theoldtestamenti00unknuoft	822	8	“Efexias	Ἕζεκίας	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing (reversed comma) on capital
+4kgdms	theoldtestamenti00unknuoft	822	8	Ex	Ἔκ	Ἐκ	Ἐκ	image (3x): smooth breathing on capital
+4kgdms	theoldtestamenti00unknuoft	822	9	“Kat	"Ξκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	9	Ti	Τί	Τί	Τί	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	10	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	10	εἶδον:	εἶδον:	εἶδον·	εἶδον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	10	ἦν	ἢν	ἦν	ἦν	image (3x): circumflex with smooth breathing
+4kgdms	theoldtestamenti00unknuoft	822	11	μου.	μου. +τό	μου.	μου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	11	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	11	∅	εἶπεν	εἶπεν	εἶπεν	class R0: OCR lost the word in extraction; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	11	∅	Ἡσαίας	Ἠσαίας	Ἠσαίας	image (3x): smooth breathing on capital
+4kgdms	theoldtestamenti00unknuoft	822	12	Ἑζεκίαν	Ἕ	Ἑζεκίαν	Ἑζεκίαν	image (3x): rough breathing (reversed comma) on capital
+4kgdms	theoldtestamenti00unknuoft	822	12	Ἄκουσον	ζεκίαν +ΓΑκουσον	Ἄκουσον	Ἄκουσον	image (3x): smooth + acute, apostrophe then rising stroke
+4kgdms	theoldtestamenti00unknuoft	822	12	Κυρίου:	Κυρίου:	Κυρίου·	Κυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	12	"7ἰδοὺ	"7ἰδοὺ	ἰδοὺ	ἰδοὺ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	13	ημφθήσεται	λημφθήσεται	λημφθήσεται	λημφθήσεται	class R6 (OCR letters differ): the other OCR reading agrees with c
+4kgdms	theoldtestamenti00unknuoft	822	13	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	13	οἴκᾳ	οἴκῳ	οἴκῳ	οἴκῳ	class R6 (OCR letters differ): the other OCR reading agrees with c
+4kgdms	theoldtestamenti00unknuoft	822	14	Βαβυλῶνα:	Βαβυλῶνα:	Βαβυλῶνα·	Βαβυλῶνα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	15	Κύριος: +"δ	Κύριος" +τ	Κύριος·	Κύριος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	15	υἱοί	υἱοί	υἱοί	υἱοί	image (3x): acute before capitalized quotation / before enclitic σου
+4kgdms	theoldtestamenti00unknuoft	822	15	οἱ	οἱ	οἳ	οἳ	image (3x): rough + grave, compact closed mark (οἳ)
+4kgdms	theoldtestamenti00unknuoft	822	16	οὗς	οὗ	οὓς	οὓς	image (3x): rough + grave, compact closed mark (οὓς)
+4kgdms	theoldtestamenti00unknuoft	822	16	γεννήσεις	5. +ννήσεις	γεννήσεις	γεννήσεις	class R6 (OCR letters differ): the other OCR reading agrees with c
+4kgdms	theoldtestamenti00unknuoft	822	16	λήμψεται,	λήμψεται, +᾽	λήμψεται,	λήμψεται,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	17	Tov	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	17	Kat	"ϑκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	17	“Ἐζεκίας	“Ἐζεκίας	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing (reversed comma) on capital
+4kgdms	theoldtestamenti00unknuoft	822	17	Hoaiay	Ἡσαίαν	Ἠσαίαν	Ἠσαίαν	image (3x): smooth breathing on capital
+4kgdms	theoldtestamenti00unknuoft	822	17	Ἀγαθὸς	Ἀγαθὸς	Ἀγαθὸς	Ἀγαθὸς	image (3x): smooth breathing on capital
+4kgdms	theoldtestamenti00unknuoft	822	18	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	18	“ECekiov	Ἕ +ζεκίου	Ἑζεκίου	Ἑζεκίου	image (3x): rough breathing (reversed comma) on capital
+4kgdms	theoldtestamenti00unknuoft	822	19	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	19	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	20	yoyov,	γωγόν,	γωγόν,	γωγόν,	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	20	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	21	Ἰούδα; +*	Ἰούδα; +“"	Ἰούδα;	Ἰούδα;	image (3x): smooth breathing on capital
+4kgdms	theoldtestamenti00unknuoft	822	22	Εζεκίας	Εζεκίας	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing (reversed comma) on capital
+4kgdms	theoldtestamenti00unknuoft	822	24	Υ̓ἱὸς	Υ̓ἱὸς	Υἱὸς	Υἱὸς	image (3x): rough breathing on iota of Υἱὸς; capital Υ carries none
+4kgdms	theoldtestamenti00unknuoft	822	25	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing on capital
+4kgdms	theoldtestamenti00unknuoft	822	25	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	26	‘Owed.	“Οψειβά.	Ὀψειβά.	Ὁψειβά.	image (3x): rough breathing (reversed comma) on capital
+4kgdms	theoldtestamenti00unknuoft	822	26	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	28	Ἰσραήλ. +5	Ε)	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on capital
+4kgdms	theoldtestamenti00unknuoft	822	28	καὶ	Ἰσραῆλ. +ΕἸ 58καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+4kgdms	theoldtestamenti00unknuoft	822	28	φκοδόμησεν	φκοδόμησεν	ᾠκοδόμησεν	ᾠκοδόμησεν	image (3x): smooth breathing + iota subscript on omega, ᾠκοδόμησεν
+4kgdms	theoldtestamenti00unknuoft	822	29	3 +Ἐζεκίας	53 +“Ἐς εκίας	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing (reversed comma) on capital
+4kgdms	theoldtestamenti00unknuoft	822	29	ἀνέστησεν	ἀνέστησεν +θ	ἀνέστησεν	ἀνέστησεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	29	τῇ	τῇ +Β	τῇ	τῇ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	29	Baad,	Βάαλ,	Βάαλ,	Βάαλ,	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	30	Ἀχαὰβ	Ἀχαὰβ	Ἀχαὰβ	Ἀχαὰβ	image (3x): smooth breathing on capital
+4kgdms	theoldtestamenti00unknuoft	822	30	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave before capitalized name (not a quotation)
+4kgdms	theoldtestamenti00unknuoft	822	30	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on capital
+4kgdms	theoldtestamenti00unknuoft	822	30	mpoo-	προσ-	προσ-	προσ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	31	αὐτοῖς. +“	αὐτοῖς.	αὐτοῖς.	αὐτοῖς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	31	καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	822	32	4 +φκοδόμησεν θ	4 +ὁκοδόμησεν θ	ᾠκοδόμησεν	ᾠκοδόμησεν	image (3x): smooth breathing + iota subscript on omega, ᾠκοδόμησεν
+4kgdms	theoldtestamenti00unknuoft	822	32	Ἔν	Ἔν	Ἐν	Ἐν	image (3x): smooth breathing on capital
+4kgdms	theoldtestamenti00unknuoft	822	32	ρ +ἡμ	ρ +ἡμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on capital
+4kgdms	theoldtestamenti00unknuoft	822	26	-	-	Ὁψειβά.	Ὁψειβά.	image (6x): rough breathing on Omicron (reversed comma, as on Ἑζεκίας), read Ὁψειβά
+4kgdms	theoldtestamenti00unknuoft	822	2	-	-	νεχωθά,	νεχωθά,	image (3x): lowercase ν as printed

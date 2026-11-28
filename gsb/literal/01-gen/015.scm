@@ -290,7 +290,7 @@
     ("but" 10)
     ("after" (9 after))
     ("these" 11)
-    ("will go forth" 12)
+    ("they will go forth" 12)
     ("here" 13)
     ("with" 14)
     ("many" 16)

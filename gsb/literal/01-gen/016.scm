@@ -192,8 +192,7 @@
   (literal
     ("And" 1)
     ("the angel" 4 5)
-    ("[the]")
-    ("of Lord" 6)
+    ("of [the] Lord" 6)
     ("said" 2)
     ("to her," 3)
     ("Hagar" 7)

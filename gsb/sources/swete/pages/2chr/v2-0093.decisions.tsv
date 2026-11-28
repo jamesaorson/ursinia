@@ -1,56 +1,56 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
-2chr	oldtestamenting02swet	93	1	κρίματά	κρίματά	κρίματά	κρίματά	TODO zoom: accent before an enclitic
+2chr	oldtestamenting02swet	93	1	κρίματά	κρίματά	κρίματά	κρίματά	image (3x): acute before enclitic as printed
 2chr	oldtestamenting02swet	93	1	φυλάξῃ,	φυλάξῃ, +ἰδ	φυλάξῃ,	φυλάξῃ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
 2chr	oldtestamenting02swet	93	1	“καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 2chr	oldtestamenting02swet	93	1	βασιλείας +Β	βασιλείας +Β	βασιλείας	βασιλείας	class R3: OCR appended accent-row or margin junk; c read from the image strip
-2chr	oldtestamenting02swet	93	2	πατρί	πατρί	πατρί	πατρί	TODO zoom: accent before an enclitic
-2chr	oldtestamenting02swet	93	2	Οὐκ	Οὐκ	Οὐκ	Οὐκ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-2chr	oldtestamenting02swet	93	2	ἐξαρθήσεταί	ἐξαρθήσεταί	ἐξαρθήσεταί	ἐξαρθήσεταί	TODO zoom: accent before an enclitic
+2chr	oldtestamenting02swet	93	2	πατρί	πατρί	πατρί	πατρί	image (3x): acute before enclitic as printed
+2chr	oldtestamenting02swet	93	2	Οὐκ	Οὐκ	Οὐκ	Οὐκ	image (3x): smooth breathing on capital (apostrophe shape)
+2chr	oldtestamenting02swet	93	2	ἐξαρθήσεταί	ἐξαρθήσεταί	ἐξαρθήσεταί	ἐξαρθήσεταί	image (3x): acute before enclitic as printed
 2chr	oldtestamenting02swet	93	3	ἐν +»	ἐν	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
-2chr	oldtestamenting02swet	93	3	Ἰσραήλ. +19	» +Ἰσραῆήλ. 19	Ἰσραήλ.	Ἰσραήλ.	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A R3, B OPEN
-2chr	oldtestamenting02swet	93	4	προστάγματά	προστάγματά	προστάγματά	προστάγματά	TODO zoom: accent before an enclitic
-2chr	oldtestamenting02swet	93	4	ἐντολάς	ἐντολάς	ἐντολάς	ἐντολάς	TODO zoom: accent before an enclitic
-2chr	oldtestamenting02swet	93	6	Κυνήσητε	Κυνήσητε	κυνήσητε	κυνήσητε	TODO zoom: A DROP, B DROP
+2chr	oldtestamenting02swet	93	3	Ἰσραήλ. +19	» +Ἰσραῆήλ. 19	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on capital (apostrophe shape)
+2chr	oldtestamenting02swet	93	4	προστάγματά	προστάγματά	προστάγματά	προστάγματά	image (3x): acute before enclitic as printed
+2chr	oldtestamenting02swet	93	4	ἐντολάς	ἐντολάς	ἐντολάς	ἐντολάς	image (3x): acute before enclitic as printed
+2chr	oldtestamenting02swet	93	6	Κυνήσητε	Κυνήσητε	κυνήσητε	κυνήσητε	image (3x): lowercase first letter, κυνήσητε / τῇ
 2chr	oldtestamenting02swet	93	6	““καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 2chr	oldtestamenting02swet	93	6	αὐτοῖς,	αὐτοῖς, +π᾽ π ἃ πεν 419 , 3 ν ᾿	αὐτοῖς,	αὐτοῖς,	class R3: OCR appended accent-row or margin junk; c read from the image strip
-2chr	oldtestamenting02swet	93	7	ὀνόματί	ὀνόματί	ὀνόματί	ὀνόματί	TODO zoom: accent before an enclitic
-2chr	oldtestamenting02swet	93	9	2Ὶ +“καὶ	21 +“"καὶ	καὶ	καὶ	TODO zoom: A OPEN, B OPEN
+2chr	oldtestamenting02swet	93	7	ὀνόματί	ὀνόματί	ὀνόματί	ὀνόματί	image (3x): acute before enclitic as printed
+2chr	oldtestamenting02swet	93	9	2Ὶ +“καὶ	21 +“"καὶ	καὶ	καὶ	image (3x): καὶ after superscript verse number (not text)
 2chr	oldtestamenting02swet	93	9	ὁ +ὃ	ὁ +ὃ	ὁ	ὁ	class R3: OCR appended accent-row or margin junk; c read from the image strip
-2chr	oldtestamenting02swet	93	11	Τῇ	Τῇ	τῇ	τῇ	TODO zoom: A DROP, B DROP
+2chr	oldtestamenting02swet	93	11	Τῇ	Τῇ	τῇ	τῇ	image (3x): lowercase first letter, κυνήσητε / τῇ
 2chr	oldtestamenting02swet	93	11	“᾿καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-2chr	oldtestamenting02swet	93	13	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2chr	oldtestamenting02swet	93	13	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	image (3x): smooth breathing on capital (apostrophe shape)
 2chr	oldtestamenting02swet	93	14	αὐτοῖς-	αὐτοῖς:	αὐτοῖς·	αὐτοῖς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 2chr	oldtestamenting02swet	93	14	ἐπ +5	ἐπ᾽ +«ν5	ἐπ᾽	ἐπ᾽	class R2+R3: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; OCR appended accent-row or margin junk; c read from the image strip
-2chr	oldtestamenting02swet	93	17	“καὶ	ψεῖς +“καὶ	καὶ	καὶ	TODO zoom: A R1, B OPEN
-2chr	oldtestamenting02swet	93	18	φκοδόμησεν	φκοδόμησεν	ᾠκοδόμησεν	ᾠκοδόμησεν	TODO zoom: A OPEN, B OPEN
-2chr	oldtestamenting02swet	93	18	αὐτὰς	αὐτὰς	αὐτὰς	αὐτὰς	TODO zoom: acute or grave before a capitalized word
-2chr	oldtestamenting02swet	93	19	υἱοὺς +Ε]	υἱοὺς	υἱοὺς	υἱοὺς	TODO zoom: acute or grave before a capitalized word
-2chr	oldtestamenting02swet	93	19	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2chr	oldtestamenting02swet	93	17	“καὶ	ψεῖς +“καὶ	καὶ	καὶ	image (3x): καὶ after superscript verse number (not text)
+2chr	oldtestamenting02swet	93	18	φκοδόμησεν	φκοδόμησεν	ᾠκοδόμησεν	ᾠκοδόμησεν	image (3x): ᾠκοδόμησεν, smooth breathing, circumflex-free acute on ό, iota subscript
+2chr	oldtestamenting02swet	93	18	αὐτὰς	αὐτὰς	αὐτὰς	αὐτὰς	image (3x): grave before capitalized name (not a quotation)
+2chr	oldtestamenting02swet	93	19	υἱοὺς +Ε]	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave before capitalized name (not a quotation)
+2chr	oldtestamenting02swet	93	19	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on capital (apostrophe shape)
 2chr	oldtestamenting02swet	93	20	3Καὶ	3Καὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 2chr	oldtestamenting02swet	93	20	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-2chr	oldtestamenting02swet	93	21	φκοδόμησεν	φκοδόμησεν	ᾠκοδόμησεν	ᾠκοδόμησεν	TODO zoom: A OPEN, B OPEN
+2chr	oldtestamenting02swet	93	21	φκοδόμησεν	φκοδόμησεν	ᾠκοδόμησεν	ᾠκοδόμησεν	image (3x): ᾠκοδόμησεν, smooth breathing, circumflex-free acute on ό, iota subscript
 2chr	oldtestamenting02swet	93	21	τὴν +Θ	τὴν +Θ	τὴν	τὴν	class R3: OCR appended accent-row or margin junk; c read from the image strip
-2chr	oldtestamenting02swet	93	22	ῳφκοδόμησεν	φκοδόμησεν	ᾠκοδόμησεν	ᾠκοδόμησεν	TODO zoom: A OPEN, B OPEN
-2chr	oldtestamenting02swet	93	22	ΕΠ	Ἣμάθ.	Ἡμάθ.	Ἡμάθ.	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B DIA
-2chr	oldtestamenting02swet	93	22	Ἣμάθ.	"καὶ	καὶ	καὶ	TODO zoom: A OPEN, B R1
-2chr	oldtestamenting02swet	93	22	5 +"καὶ ῳκοδόμησεν	ὠκοδόμησεν	ᾠκοδόμησεν	ᾠκοδόμησεν	TODO zoom: A OPEN, B DROP
+2chr	oldtestamenting02swet	93	22	ῳφκοδόμησεν	φκοδόμησεν	ᾠκοδόμησεν	ᾠκοδόμησεν	image (3x): ᾠκοδόμησεν, smooth breathing, circumflex-free acute on ό, iota subscript
+2chr	oldtestamenting02swet	93	22	ΕΠ	Ἣμάθ.	Ἡμάθ.	Ἡμάθ.	image (3x): rough breathing + acute on alpha, Ἡμάθ
+2chr	oldtestamenting02swet	93	22	Ἣμάθ.	"καὶ	καὶ	καὶ	image (3x): καὶ after superscript verse number (not text)
+2chr	oldtestamenting02swet	93	22	5 +"καὶ ῳκοδόμησεν	ὠκοδόμησεν	ᾠκοδόμησεν	ᾠκοδόμησεν	image (3x): ᾠκοδόμησεν, smooth breathing, circumflex-free acute on ό, iota subscript
 2chr	oldtestamenting02swet	93	22	τὴν +Β	τὴν	τὴν	τὴν	class R3: OCR appended accent-row or margin junk; c read from the image strip
 2chr	oldtestamenting02swet	93	23	τὴν	τὴν +Β	τὴν	τὴν	class R3: OCR appended accent-row or margin junk; c read from the image strip
 2chr	oldtestamenting02swet	93	24	μοχλοί:	μοχλοί:	μοχλοί·	μοχλοί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-2chr	oldtestamenting02swet	93	24	“καὶ	6 +“καὶ	καὶ	καὶ	TODO zoom: A R1, B OPEN
-2chr	oldtestamenting02swet	93	24	αἱ	αἱ	αἳ	αἳ	TODO zoom: A DROP, B DROP
-2chr	oldtestamenting02swet	93	27	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-2chr	oldtestamenting02swet	93	27	πά	πά	πάσῃ	πάσῃ	TODO zoom: A OPEN, B OPEN
-2chr	oldtestamenting02swet	93	27	γ +β	γ +β	τῇ	τῇ	TODO zoom: A OPEN, B OPEN
+2chr	oldtestamenting02swet	93	24	“καὶ	6 +“καὶ	καὶ	καὶ	image (3x): καὶ after superscript verse number (not text)
+2chr	oldtestamenting02swet	93	24	αἱ	αἱ	αἳ	αἳ	image (3x): compact closed rough+grave mark, αἳ / οἳ
+2chr	oldtestamenting02swet	93	27	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on capital (apostrophe shape)
+2chr	oldtestamenting02swet	93	27	πά	πά	πάσῃ	πάσῃ	image (3x): πάσῃ τῇ with iota subscripts
+2chr	oldtestamenting02swet	93	27	γ +β	γ +β	τῇ	τῇ	image (3x): πάσῃ τῇ with iota subscripts
 2chr	oldtestamenting02swet	93	28	∅	λείᾳ	λείᾳ	λείᾳ	class R0: OCR lost the word in extraction; c read from the image strip
-2chr	oldtestamenting02swet	93	29	Αμορραίου	Αμορραίου	Ἀμορραίου	Ἀμορραίου	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DROP, B DROP
-2chr	oldtestamenting02swet	93	29	Ἑὐαίου	Ἐὐαίου	Εὐαίου	Εὐαίου	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B DIA
-2chr	oldtestamenting02swet	93	29	Ἰεβουσαίου,	Ἰεβουσαίου,	Ἰεβουσαίου,	Ἰεβουσαίου,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-2chr	oldtestamenting02swet	93	30	∅	οἵ	οἳ	οἳ	TODO zoom: A R0, B DIA
+2chr	oldtestamenting02swet	93	29	Αμορραίου	Αμορραίου	Ἀμορραίου	Ἀμορραίου	image (3x): smooth breathing on capital (apostrophe shape)
+2chr	oldtestamenting02swet	93	29	Ἑὐαίου	Ἐὐαίου	Εὐαίου	Εὑαίου	image (4x): rough breathing on upsilon (open c-shape, unlike the apostrophe on Ἀμορραίου), Εὑαίου
+2chr	oldtestamenting02swet	93	29	Ἰεβουσαίου,	Ἰεβουσαίου,	Ἰεβουσαίου,	Ἰεβουσαίου,	image (3x): smooth breathing on capital (apostrophe shape)
+2chr	oldtestamenting02swet	93	30	∅	οἵ	οἳ	οἳ	image (3x): compact closed rough+grave mark, αἳ / οἳ
 2chr	oldtestamenting02swet	93	30	εἰσιν	εἰσὶν	εἰσὶν	εἰσὶν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
 2chr	oldtestamenting02swet	93	30	∅	ἐκ	ἐκ	ἐκ	class R0: OCR lost the word in extraction; c read from the image strip
 2chr	oldtestamenting02swet	93	30	∅	τοῦ	τοῦ	τοῦ	class R0: OCR lost the word in extraction; c read from the image strip
-2chr	oldtestamenting02swet	93	30	∅	Ἰσραήλ:	Ἰσραήλ·	Ἰσραήλ·	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2chr	oldtestamenting02swet	93	30	∅	Ἰσραήλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing on capital (apostrophe shape)
 2chr	oldtestamenting02swet	93	30	∅	“ἦσαν	ἦσαν	ἦσαν	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
 2chr	oldtestamenting02swet	93	30	ἐκ +του Ἰσραήλ᾽ σαν εκ	ἐκ	ἐκ	ἐκ	class R3: OCR appended accent-row or margin junk; c read from the image strip
-2chr	oldtestamenting02swet	93	30	αὕτων	αὐτῶν	αὐτῶν	αὐτῶν	TODO zoom: A DIA, B same
+2chr	oldtestamenting02swet	93	30	αὕτων	αὐτῶν	αὐτῶν	αὐτῶν	image (3x): αὐτῶν smooth + circumflex

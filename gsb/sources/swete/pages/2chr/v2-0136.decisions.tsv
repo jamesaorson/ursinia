@@ -1,0 +1,65 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+2chr	oldtestamenting02swet	136	2	Ἐζεκίαν	Ἐζεκίαν	Ἑζεκίαν	Ἑζεκίαν	image (3x): rough breathing on Ε
+2chr	oldtestamenting02swet	136	2	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	136	2	Ἰουδὰ	Ἰουδὰ	Ἰουδὰ	Ἰουδὰ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	136	2	Ἰερου-	Ἰερου-	Ἰερου-	Ἰερου-	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	136	3	λέγων +᾿᾽	λέγων	λέγων	λέγων	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	136	3	Οὕτως	“Οὕτως	Οὕτως	Οὕτως	image (3x): Οὕτως, rough+acute on υ, after superscript 10
+2chr	oldtestamenting02swet	136	3	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave; following capitalized word is a name, not a quotation
+2chr	oldtestamenting02swet	136	3	Ἀσσυρίων +»	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	136	3	Ἐπὶ	᾽πὶ	Ἐπὶ	Ἐπὶ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	136	4	Ἰερουσαλήμ;	᾿ερουσαλήμ;	Ἰερουσαλήμ;	Ἰερουσαλήμ;	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	136	4	"᾿οὐχὶ	"᾿οὐχὶ	οὐχὶ	οὐχὶ	image (3x): superscript 11 then οὐχὶ with grave; Ἑζεκίας is a name
+2chr	oldtestamenting02swet	136	4	Ἕ +ζεκίας	Ἕζεκίας	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing on Ε
+2chr	oldtestamenting02swet	136	7	Ασσούρ;	Ἀσσούρ;	Ἀσσούρ;	Ἀσσούρ;	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	136	7	"οὗτός	"οὗτός	οὗτός	οὗτός	image (3x): οὗτός with acute before enclitic ἐστιν
+2chr	oldtestamenting02swet	136	7	“Εζεκίας	“Εζεκίας	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing on Ε
+2chr	oldtestamenting02swet	136	8	τῷ +Ὁ	τῷ +τὶ	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	136	8	Ἰούδᾳ	Ἰούδᾳ	Ἰούδᾳ	Ἰούδᾳ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	136	9	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	136	10	"ϑοὐὺ	"᾿ϑοὐ	οὐ	οὐ	image (3x): superscript 13 then οὐ
+2chr	oldtestamenting02swet	136	10	ὃ	ὃ	ὅ	ὅ	image (3x): ὅ τι, open rough curl then rising acute (rough+acute), not the compact rough+grave
+2chr	oldtestamenting02swet	136	12	αὐτών	αὐτῶν	αὐτῶν	αὐτῶν	image (3x): circumflex on ω
+2chr	oldtestamenting02swet	136	12	χειρός	χειρός	χειρός	χειρός	image (3x): acute on χειρός before enclitic μου
+2chr	oldtestamenting02swet	136	13	““τίς	“τίς	τίς	τίς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	136	13	οἣς	οὗς	οὓς	οὓς	image (3x): compact closed rough+grave mark on υ: οὓς
+2chr	oldtestamenting02swet	136	14	ηδύναντο	ηδύναντο	ἠδύναντο	ἠδύναντο	image (3x): smooth breathing on ἠ
+2chr	oldtestamenting02swet	136	14	χειρός	χειρός	χειρός	χειρός	image (3x): acute on χειρός before enclitic μου
+2chr	oldtestamenting02swet	136	15	σώσαι	σώσαι	σῶσαι	σῶσαι	image (3x): circumflex on ω
+2chr	oldtestamenting02swet	136	15	χειρός	χειρός	χειρός	χειρός	image (3x): acute on χειρός before enclitic μου
+2chr	oldtestamenting02swet	136	15	“νῦν	“νῦν	νῦν	νῦν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	136	16	“Εζεκίας,	Εζεκίας,	Ἑζεκίας,	Ἑζεκίας,	image (3x): rough breathing on Ε
+2chr	oldtestamenting02swet	136	17	αὐτῷ"	αὐτῷ"	αὐτῷ·	αὐτῷ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	136	18	χειρός	χειρός	χειρός	χειρός	image (3x): acute on χειρός before enclitic μου
+2chr	oldtestamenting02swet	136	19	χειρός	χειρός	χειρός	χειρός	image (3x): acute on χειρός before enclitic μου
+2chr	oldtestamenting02swet	136	19	μου. +τό	μου. +τό	μου.	μου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	136	20	Ἐ̔ζεκίαν	Ἐ̔ζεκίαν	Ἑζεκίαν	Ἑζεκίαν	image (3x): rough breathing on Ε
+2chr	oldtestamenting02swet	136	21	αὐτοῦ. +“7	αὐτοῦ. +“7	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	136	21	θεὸν	θεὸν	θεὸν	θεὸν	image (3x): grave; following capitalized word is a name, not a quotation
+2chr	oldtestamenting02swet	136	22	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	136	22	Ὥς	Ὥς	Ὡς	Ὡς	image (3x): rough breathing only on Ω, no accent printed; kept as printed
+2chr	oldtestamenting02swet	136	23	χειρός	χειρός	χειρός	χειρός	image (3x): acute on χειρός before enclitic μου
+2chr	oldtestamenting02swet	136	24	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave; following capitalized word is a name, not a quotation
+2chr	oldtestamenting02swet	136	24	Ἑ +ζεκίου	Ἑ +ζεκίου	Ἑζεκίου	Ἑζεκίου	image (3x): rough breathing on Ε
+2chr	oldtestamenting02swet	136	24	χειρός	χειρός	χειρός	χειρός	image (3x): acute on χειρός before enclitic μου
+2chr	oldtestamenting02swet	136	24	μους	μους	μου.	μου.	image (3x): μου followed by a period
+2chr	oldtestamenting02swet	136	24	᾿δκαὶ	᾿δκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	136	25	μεγάλῃ	μεγάλῃ +Ω	μεγάλῃ	μεγάλῃ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	136	25	Ε] +Ἰ̓Ιουδαιστὶ	Ἰουδαιστὶ	Ἰουδαιστὶ	Ἰουδαιστὶ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	136	25	λαὸν +»	λαὸν +»	λαὸν	λαὸν	image (3x): grave; following capitalized word is a name, not a quotation
+2chr	oldtestamenting02swet	136	25	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	136	27	ἰϑκαὶ	ἰϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	136	27	θεὸν	θεὸν	θεὸν	θεὸν	image (3x): grave; following capitalized word is a name, not a quotation
+2chr	oldtestamenting02swet	136	27	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	136	27	λαῶν +το	λαῶν +το	λαῶν	λαῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	136	28	ἀνθρώπων. +οΟ	ἀνθρώπων.	ἀνθρώπων.	ἀνθρώπων.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	136	28	Ἑςζ +εκίας	Ἕ	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing on Ε
+2chr	oldtestamenting02swet	136	28	ὁ +20	ζεκίας +ὃ 20	ὁ	ὁ	image (3x): ὁ, rough breathing; 20 is the margin number
+2chr	oldtestamenting02swet	136	29	Ἢσαίας	Ἢσαίας	Ἠσαίας	Ἠσαίας	image (3x): smooth breathing only on Η (apostrophe), no accent: Ἠσαίας
+2chr	oldtestamenting02swet	136	29	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave; following capitalized word is a name, not a quotation
+2chr	oldtestamenting02swet	136	29	Ἀμὼς	Ἀμὼς	Ἀμὼς	Ἀμὼς	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	136	30	οὐρανόν. +“"᾽	οὐρανόν.	οὐρανόν.	οὐρανόν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	136	30	ἄγγελον:	ἄγγελον:	ἄγγελον·	ἄγγελον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	136	30	ἐξέ- +“1	ἐξέ- +οἵ	ἐξέ-	ἐξέ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	136	22	-	-	Ὡς	Ὡς	unaccented: Ὡς prints with rough breathing and no accent before a capitalized quotation start; kept as printed
+2chr	oldtestamenting02swet	136	10	-	-	ἐποίησα	ἐποίησα	image: small speck at baseline after ἐποίησα, lighter than a comma; not punctuation

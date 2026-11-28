@@ -410,7 +410,7 @@
     ("place;" (7 absorbed) 8)
     ("this" 12)
     ("is not" 10 11)
-    ("rather" 13 (14 alla-phrase))
+    ("[anything] rather than" 13 (14 alla-phrase))
     ("house" 15)
     ("of God," 16)
     ("and" 17)

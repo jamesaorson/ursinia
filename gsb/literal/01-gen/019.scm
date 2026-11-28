@@ -478,10 +478,10 @@
     ("into" 28)
     ("the mountain," 29 30)
     ("lest" (31 lest))
-    ("lest overtake" 32)
-    ("me" 33)
     ("the bad" 34 35)
     ("[things]")
+    ("overtake" 32)
+    ("me" 33)
     ("and" 36)
     ("I die;" (37 die "ἀποθνῄσκω"))))
 
@@ -625,9 +625,9 @@
     ("the [things]" 7)
     ("behind," 8)
     ("and" 9)
+    ("he/she/it came to be" 10)
     ("pillar" (11 pillar "στήλη"))
-    ("of salt" (12 salt "ἅλς"))
-    ("came to be." 10)))
+    ("of salt." (12 salt "ἅλς"))))
 
 (verse 27
   (status draft)

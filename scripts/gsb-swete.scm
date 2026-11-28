@@ -323,9 +323,15 @@ leading comment lines."
                         (#f (format #f "OCR line ~a (the page file has no text yet)" line)))
                       scale))))))))
       ((x0 y0 x1 y1 . scale)
-       (let ((out (format #f "~a/zoom-~a-~a.png" dir x0 y0)))
-         (ffmpeg "-i" img "-vf" (crop-filter x0 y0 x1 y1 (if (pair? scale) (car scale) 3)) out)
-         (say "~a" out)))
+       (let-values (((w h) (page-size info leaf)))
+         ;; Clip to the page (pages differ in size, vol. II from 2100 to 2206 px
+         ;; wide), so a rectangle that runs off the edge still crops.
+         (let ((x0 (max 0 x0)) (y0 (max 0 y0)) (x1 (min w x1)) (y1 (min h y1))
+               (out (format #f "~a/zoom-~a-~a.png" dir x0 y0)))
+           (unless (and (< x0 x1) (< y0 y1))
+             (die "the rectangle ~a ~a ~a ~a lies outside the page (~ax~a): give X0 Y0 X1 Y1 within it" x0 y0 x1 y1 w h))
+           (ffmpeg "-i" img "-vf" (crop-filter x0 y0 x1 y1 (if (pair? scale) (car scale) 3)) out)
+           (say "~a" out))))
       (_ (die "zoom takes BOOK LEAF LINE [SCALE] or BOOK LEAF X0 Y0 X1 Y1 [SCALE]")))))
 
 ;;; ---------------------------------------------------------------------------

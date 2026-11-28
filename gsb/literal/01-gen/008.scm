@@ -252,7 +252,7 @@
     ("he sent out" 8)
     ("the dove," 9 10)
     ("and" 11)
-    ("did not add" 12 13)
+    ("he/she/it did not add" 12 13)
     ("to turn again" (14 infinitive) 15)
     ("to" (16 to))
     ("him" 17)

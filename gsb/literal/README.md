@@ -110,11 +110,11 @@ consecutive lemmas rendered as one segment (ἀνὰ μέσον, ἐν μέσῳ
 
 | field | meaning |
 |---|---|
-| `(verb "base" ["past" "pp"])` | the verb's English when the first gloss is not its base or it is irregular beyond the built-in list (`(verb "bear" "bore" "borne")`) |
+| `(verb "base" ["past" "pp"])` | the verb's English when the first gloss is not its base or it is irregular beyond the built-in list (`(verb "bear" "bore" "borne")`). For a base of several words write the past forms in full: `(verb "go down" "went down" "gone down")`; the generator adds the trailing words once (the older `(verb "go down" "went" "gone")` renders the same) |
 | `(plural "oxen")` | noun plural beyond the built-in rules |
 | `(comparative "greater")` | adjective comparative |
 | `(voice active)` | render passive forms as active (ὁράω appear, κρύπτω hide) |
-| `(intransitive)` | a neuter noun after the active verb may be its subject |
+| `(intransitive)` | a neuter noun after the active verb may be its subject; an accusative right after its articular infinitive is the infinitive's subject (ἐν τῷ κινῆσαι αὐτούς "in their moving") |
 | `(genitive "over")`, `(dative "on")` | the English a genitive/dative takes: on a verb or adjective, for its object (ἄρχω `over`, ἀκούω `""`); on a noun, for itself (ἡμέρα `on`) |
 | `(with-preposition "εἰς" for)` | after this preposition the noun takes that sense of it (εἰς σημεῖα "for signs") |
 | `(object-case "A")` | on a preposition sense: use it for an object in this case (μετά + acc. `after`, πρός + acc. `to`, κατά + gen. `against`) |
@@ -123,7 +123,13 @@ consecutive lemmas rendered as one segment (ἀνὰ μέσον, ἐν μέσῳ
 | `(anarthrous "[the]")` | supplied before the noun without its article (κύριος: "[the] Lord") |
 
 English inflection uses the first gloss plus regular rules and a built-in
-list of irregular verbs and nouns (`%irregular` in the library). Every
+list of irregular verbs and nouns (`%irregular` in the library). A final
+consonant doubles before -ing/-ed by rule in a one-syllable verb ending
+consonant-vowel-consonant (blot "blotting", run "running"; not w, x, y);
+a longer verb doubles only if `%double` lists it (stress on the end:
+beget "begetting", permit), and `%stress-initial` lists the longer ones
+that do not (open "opening", prosper); an -ing/-ed form of a longer verb
+in neither list is a `check` warning (`spelling`). Every
 inflected form must still contain one of the sense's glosses, which
 `make gsb/literal/check` verifies with the hand drafts' checker.
 
@@ -140,8 +146,30 @@ after a noun or preposition "of making". Middle and deponent forms are active
 English; passive is passive unless the sense says `(voice active)`.
 
 **Negation.** οὐ/μή before a finite verb joins it: "did not rain", "will not
-eat", "was not", "do not"; οὐ μή "will not eat at all"; οὐδὲ μή "nor at all
-will you serve"; μή + third imperative "let not God speak".
+eat", "was not", "do not"; οὐ μή "will not eat at all" (also with a pronoun
+between: οὐ μή σε ἐγκαταλείπω "I will not forsake at all you"); οὐδὲ μή "nor
+at all will you serve"; μή + third imperative "let not God speak".
+
+**μή, decided in Greek order** (`mark-mh`):
+- *A question expecting "no".* μή opening a sentence that ends in a
+  question mark, with no subordinator before it, is not a negation: it is
+  aligned unrendered (sense `question`) and its finite verb becomes a plain
+  yes/no question, auxiliary before the subject, with the words between μή
+  and the verb after it: μὴ ἀδυνατεῖ παρὰ τῷ θεῷ ῥῆμα; "Is utterance
+  impossible beside God?"; μὴ φύλαξ τοῦ ἀδελφοῦ μού εἰμι ἐγώ; "am I guard of
+  my brother?"; a subjunctive is deliberative "shall": Μὴ κρύψω ἐγώ "Shall I
+  hide". English has no word for the expected "no"; "not" would turn it into
+  a question expecting "yes" or into a statement (the KJV asks the same plain
+  question).
+- *A prohibition.* μή (or μηδέ) + second person subjunctive, outside a
+  subordinate clause, is a command: no subject pronoun, "do not pass by",
+  "nor stand". A second person present imperative with μή was already "do
+  not".
+- *A fear.* μή ποτε, and μή + first or third person subjunctive outside a
+  subordinate clause, is "lest" (sense `lest`): μὴ καταλάβῃ με τὰ κακά "lest
+  the bad overtake me".
+- After a subordinator (ἵνα, ἐάν, εἰ, ὅπως, ὅτι, the article of an
+  infinitive ...) or οὐ/οὐδέ it stays "not".
 
 **Supplied words** (rule 16a: stiff is fine): the generator supplies only
 `[one]`/`[ones]`/`[thing]`/`[things]` after an article with a participle or
@@ -157,11 +185,18 @@ auxiliaries ("will", "was", "has", "let", "did").
 
 **Third person pronouns (rule 16a).**
 - A third person verb with no subject in its clause gets:
-  1. nothing, when the verb is joined by καί to an earlier verb of the same
-     sentence (up to a `·`, `.` or `;`): "and conceived and bore Cain";
+  1. nothing, when the verb is joined by καί (also past a negation: καὶ οὐκ
+     ἐτεκνοποίει) to the last verb of the same sentence (up to a `·`, `.`
+     or `;`) and that verb has the same person and number: "and conceived
+     and bore Cain"; after a verb of another person or number it gets its
+     pronoun (ἐγένοντο αἱ ἡμέραι ... καὶ ἀπέθανεν "and he/she/it died");
   2. "he", "she" or "it" when a nominative singular participle, adjective or
      pronoun in its clause gives the gender: συλλαβοῦσα ἔτεκεν "she bore",
-     ἦν οἰκοδομῶν "he was building";
+     ἦν οἰκοδομῶν "he was building"; with εἰμί/γίνομαι also a predicate
+     noun naming a person (ὅτι γυνή σού ἐστιν "that she is your woman",
+     ἐγένετο δὲ τοξότης "but he came to be archer"). Words inside direct
+     speech are another clause and give the verb of saying nothing (καὶ εἶπεν
+     Ἐπαναστρέφων ἥξω: "he/she/it said");
   3. "it" for a true impersonal (a sense's `(subject "it")`: ἐγένετο);
   4. otherwise "he/she/it" (plural "they"): "And he/she/it said".
 
@@ -183,43 +218,125 @@ auxiliaries ("will", "was", "has", "let", "did").
   not syntax; a wrong pick is fixed with `(english "his/its")` (the open
   form, never a referent by meaning). The verse before is not searched:
   in dialogue it gave wrong antecedents.
-- **Articular infinitive after a preposition** is a gerund; an accusative
-  pronoun right after it is its subject (when the infinitive is εἶναι or
-  intransitive, or another accusative, its object, follows) and becomes a
-  possessive before it: μετὰ τὸ γεννῆσαι αὐτὸν τὸν Σήθ "after his begetting
-  Seth", ἐν τῷ εἶναι αὐτούς "in their being", διὰ τὸ εἶναι αὐτοὺς σάρκας
-  "through their being fleshes". ponytail: pronoun subjects only; a noun
-  subject (μετὰ τὸ γεννῆσαι Ἀδάμ) is not yet recognized.
+- **Articular infinitive with a subject: the possessive gerund.** After a
+  preposition (or ἕως, πρό) the articular infinitive is a gerund. Its
+  subject goes before it as a possessive, a pronoun as "his", "my", "your",
+  a noun phrase with "'s" on its last word:
+  μετὰ τὸ γεννῆσαι αὐτὸν τὸν Σήθ "after his begetting Seth", ἐν τῷ κινῆσαι
+  αὐτούς "in their moving", μετὰ τὸ διαχωρισθῆναι τὸν Λώτ "after Lot's
+  being separated", ἐν τῷ φείσασθαι Κύριον αὐτοῦ "in [the] Lord's sparing
+  him", ἕως τοῦ ξηρανθῆναι τὸ ὕδωρ "until the water's being dried up", πρὸ
+  τοῦ σε εἰσελθεῖν "before your going in". An accusative after the
+  infinitive is its subject when the infinitive is intransitive (εἶναι, a
+  true passive, a sense with `(intransitive)`), takes a genitive object
+  (φείδομαι), is followed by another accusative (its object: ἐν τῷ ἐκτρῖψαι
+  Κύριον πάσας τὰς πόλεις), or is an indeclinable name (μετὰ τὸ γηρᾶσαι
+  Ἰσαάκ); otherwise it is the object (ἐν τῷ εὐλογεῖν αὐτόν "in blessing
+  him"). A genitive τοῦ + infinitive with such a subject is a gerund too,
+  with "of": τοῦ ζῆσαι τὴν ψυχήν μου "of my soul's living", τοῦ μὴ ἁμαρτεῖν σε
+  "of your not sinning".
+- **Genitive absolute.** An anarthrous genitive participle with an agreeing
+  genitive subject after it, not governed by a preposition, an article, a
+  noun before it or a verb taking the genitive, is rendered subject first,
+  in the nominative, with no "of": καθημένου αὐτοῦ "he being seated",
+  ἑστηκότος αὐτοῦ "he having stood", ἔτι ζῶντος αὐτοῦ "he further living",
+  ἀκουόντων τῶν υἱῶν Χέτ "the sons of Heth ... hearing". The pronoun keeps the
+  open forms ("he/it" when masculine/neuter with no person before it).
 - The relative ὅς is "who"/"whom" when its nearest noun agrees with it and
   is a person (a sense with `(person)`, a name, θεός), else "which".
 
+**Clauses.** Every word belongs to a clause (`mark-clauses`); a new one
+opens at direct speech (a capital common word or vocative), a relative
+pronoun (also ὅσος, οἷος), a subordinator (ὅτι, ἵνα, ὅπως, εἰ, ἐάν, ὅταν,
+ὅτε, ἡνίκα, ὡς, καθώς, καθάπερ, ἀλλά, ἕως before a verb, μή "lest" ...) and
+καί before a finite verb. **No move takes a word into another clause.** A
+capital after ὄνομα or a verb of naming is the name given, not speech
+(ἐκλήθη τὸ ὄνομα αὐτῆς Σύγχυσις "was called Confusion"); a name said twice
+(Ἀβραὰμ Ἀβραάμ) is a vocative call; a vocative is never a subject.
+
 **Word order** is the Greek's except for these named moves, all inside one
 punctuation-delimited stretch:
-1. δέ, γάρ, οὖν, μέν, τε move before the word they follow ("But the earth").
-2. A subject after its finite verb moves before it ("And God said"), also
-   past object pronouns or one prepositional phrase, and joined by καί
-   ("the heaven and the earth and all their adornment were completed"); after
-   εἰμί only an articular subject or a name ("but their days will be",
-   "And Noah was of five hundred years"), not an anarthrous common noun,
-   which is the predicate ("and was hammerer"); not into direct speech. A
-   verb that takes a genitive object (a `(genitive ...)` field: πίμπλημι)
-   leaves the genitive after it: "the earth was filled with
-   unrighteousness". The same move applies to an adverbial nominative
-   participle and its subject: "But the Lord God having seen that ...".
+1. δέ, γάρ, οὖν, μέν, τε move before the phrase of the word they follow
+   ("But the earth", τὸν υἱὸν δέ "but the son", μετὰ σοῦ γάρ "for with you").
+2. **The subject phrase moves whole, or not at all.** A subject after its
+   finite verb, in the same clause, moves before it with its article,
+   adjectives, genitives, possessives, attributive phrases, an anarthrous
+   participle with its complements (σὰρξ κινουμένη ἐπὶ τῆς γῆς), an
+   apposition naming a person (Ἰακὼβ ὁ υἱὸς αὐτοῦ, Ἀβιμέλεχ βασιλεὺς
+   Γεράρων) and members joined by καί ("And Jacob his son said to his
+   father"). It may stand after object pronouns, one adverb (ἐκεῖ), one
+   prepositional phrase, an adverbial καί that goes with it ("But also the
+   younger bore son"), and one plain object (a masculine/feminine
+   accusative or a dative) when a nominative follows (ἕξει υἱὸν Σάρρα ἡ
+   γυνή σου "Sarah your woman will have son"). After εἰμί an anarthrous
+   common noun is the predicate, not moved ("and was hammerer"); so after
+   γίνομαι is an anarthrous noun naming a person, unless a dative possessor
+   makes it existential (καὶ τῷ Σὴθ ἐγένετο υἱός "son came to be to
+   Seth"); a passive of naming takes a predicate, not an apposition. A verb
+   that takes a genitive object (a `(genitive ...)` field: πίμπλημι) leaves
+   the genitive after it. A nominative before another finite verb of the
+   clause is that verb's, not an impersonal ἐγένετο's. A first/second
+   person pronoun subject after its verb moves too ("I know that", "that
+   you fear God"; not after an imperative, "Drink you", nor after an
+   interrogative, "who are you?").
+   **Indeclinable names** take their case from an article, a preposition, a
+   noun before them (genitive), or an apposition naming a person after
+   them: with an apposition in another case (ἐκάλεσεν Ἠσαὺ τὸν υἱὸν αὐτοῦ;
+   καὶ Λὼτ τὸν ἀδελφὸν αὐτοῦ ἀπέστρεψεν) the name is not the subject.
+   **Where the subject cannot be told** (a name with such an apposition,
+   or a name followed by another declined nominative after a non-copula
+   verb), the Greek order is kept with no pronoun ("and called Esau his son
+   the older", "And said Abraham to his servant") and `check` warns
+   `subject-unsure`: stiff, but never a wrong actor. Read the verse; if the
+   order still misleads, fix it with an override.
+   The same whole-phrase move applies to an adverbial nominative participle
+   and its subject, before a negation that goes with the participle: "But
+   the Lord God having seen that ...", "And the dove not having found".
+2a. A nominative predicate before εἰμί goes after it: ὅτι προφήτης ἐστίν
+   "that he is prophet", Ἀδελφή μού ἐστιν "She is my sister", ἀδελφὴ αὐτοῦ
+   εἰμι "I am his sister" (a singular person noun right before the verb,
+   with no subject after it, no negation and no dative possessor).
 3. A third person imperative splits around its subject: "Let light come to be".
 4. A genitive pronoun after its noun becomes a possessive before it, the
    article absorbed ("his works", "of your face"); also one before article +
    noun (ὑμῶν οἱ ὀφθαλμοί "your eyes").
 5. A demonstrative after article + noun goes before it ("that land").
 6. An attributive adjective goes before its noun ("the sixth day", "living
-   soul", "flying birds"), and article + πᾶς becomes "all the".
+   soul", "flying birds"; also with a negation, τῶν κτηνῶν τῶν μὴ καθαρῶν
+   "the not clean livestock"; not a participle with a complement, "flesh
+   moving upon the earth"; not an adjective with its own noun after it, τοῦ
+   Νῶε τοῦ δευτέρου μηνός "of Noah of the second month"), and article + πᾶς
+   becomes "all the". A compound numeral moves whole (ἔτη τετρακόσια
+   τριάκοντα "four hundred thirty years") and takes its noun's case through
+   the run ("of eighty six years"); a repeated numeral is "two [by] two".
+   A possessive or demonstrative goes before a numeral too: "to his two
+   brothers", "These seven ewe lambs". An article before a possessive
+   adjective is absorbed ("my voice"); with no noun after it the adjective
+   takes "[things]"/"[ones]" ("all your [things]"); an article with a
+   genitive and no noun of its own is "the [one]/[things]" (τὰ αὐτοῦ "the
+   [things] of him").
 7. Article + reflexive genitive + noun: "the women of himself".
 8. A verb whose English ends in a particle puts an object pronoun before the
    particle: "sent him out", "brought you out".
-9. In a question (Greek `;`), an interrogative (τί, ποῦ, πῶς, ἵνα τί)
-   directly followed by its verb, or by the verb's subject and then the verb,
-   inverts: "where are you?", "what did you do?", "why did your face fall
-   together?".
+9. In a question (a sentence ending in Greek `;`, also past commas), an
+   interrogative (τί, ποῦ, πῶς, ἵνα τί) directly followed by its verb, or by
+   the verb's (moved) subject phrase and then the verb, inverts: "where are
+   you?", "what did you do?", "why did your face fall together?", "Where
+   are the men having gone in to you the night?". τί + τοῦτο + a first or
+   second person verb is "What [is] this you did to us?" (τοῦτο is the
+   object, not the subject). μή questions: see Negation.
+10. οὗ εἵνεκεν "on account of which"; ὅπως ἄν, ἵνα ἄν "in order that" (ἄν
+   unrendered); ἀνά outside ἀνὰ μέσον is distributive "each"; a μετά (or
+   other) preposition takes the sense its object's case names
+   (`object-case`) unless the noun's `with-preposition` names that same
+   preposition.
+11. Case helpers: an apposition shares its name's helper (ἀπὸ Ἀβραὰμ τοῦ
+   παιδός μου "from Abraham my servant", Σάρᾳ τῇ γυναικὶ αὐτοῦ "to Sarai his
+   woman"); an article after a name in apposition is "the" (Ἐφρὼν ὁ
+   Χετταῖος "Ephron the Hittite"); with no noun the adjective gives the
+   helper (τῇ πρώτῃ τοῦ μηνός "on the first"); a supplied word goes after
+   the helper ("of [the] Lord", "altar to [the] Lord"); a vocative takes no
+   "[the]" (Κύριε "Lord").
 
 **Kept as the Greek has it** (rule 9): demonstratives are "this/that", never
 "he"; no name is supplied for a pronoun; capitals follow sentence ends and
@@ -233,11 +350,17 @@ with the next word; a listed chapter not generated; and every `make gsb/lint`
 check on the generated chapters (each Greek word aligned once, glosses
 present, brackets, "the" needs ὁ, demonstratives and names kept).
 
+Also errors: a word doubled inside one segment ("came back back"); a lemma
+listed twice in the concordance (the message names both files; `make
+gsb/lint` gives the same one).
+
 Warnings (listed): a reading borrowed from the New Testament where that form
 had readings of different lemmas or parts of speech (decide with a form row
 or override); a pinned verse; a verse more than half of whose words carry an
 override; a καί-joined verb with no pronoun after a clause naming another
-person (see the pronoun rules).
+person (see the pronoun rules); `subject-unsure` (Greek order kept, read the
+verse); `spelling` (an -ing/-ed form whose consonant doubling the rule
+cannot decide).
 
 Supplied words, the test (rule 16a "middle"): an override adds `[is]`,
 `[was]`, `[There]` where the verse, or a clause of it, cannot be read as an

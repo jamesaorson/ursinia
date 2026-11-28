@@ -13,7 +13,7 @@
     ("his" 7)
     ("woman," (5 absorbed) 6)
     ("and" 8)
-    ("conceived" 9)
+    ("he/she/it conceived" 9)
     ("and" 10)
     ("bore" 11)
     ("Cain." (12 unrendered) 13)
@@ -264,7 +264,7 @@
     ("Greater" 7)
     ("my" 10)
     ("charge" (8 absorbed) 9)
-    ("of my" (11 infinitive) 13)
+    ("than my" (11 infinitive) 13)
     ("being forgiven." (12 forgive "ἀφίημι"))))
 
 (verse 14

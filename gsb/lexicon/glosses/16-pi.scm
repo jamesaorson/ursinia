@@ -65,7 +65,10 @@
     (why "With a plural, with the article, or used alone: \"all\" (\"all the earth\", \"all the beasts\")."))
   (sense every
     (gloss "every")
-    (why "With a singular noun without the article: \"every\" (πᾶν ξύλον, \"every tree\"; πᾶσαν ψυχήν, \"every soul\").")))
+    (why "With a singular noun without the article: \"every\" (πᾶν ξύλον, \"every tree\"; πᾶσαν ψυχήν, \"every soul\")."))
+  (sense any
+    (gloss "any")
+    (why "After a negative, the Hebraic οὐ ... πᾶς is \"not ... any\", no one at all (Exodus 20:10 οὐ ποιήσεις ... πᾶν ἔργον \"you will not do any work\"; Romans 3:20): \"not ... every\" would allow some. Chosen by word override.")))
 
 (lemma "πατάσσω" (sense strike (verb "strike" "struck" "struck") (gloss "strike" "struck" "strikes" "striking") (why "To strike, smite (Genesis 8:21, I will not add to strike all living flesh; Matthew 26:31, I will strike the shepherd; Acts 12:7, 23).")))
 

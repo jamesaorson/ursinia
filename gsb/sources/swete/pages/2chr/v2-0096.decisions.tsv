@@ -1,0 +1,41 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+2chr	oldtestamenting02swet	96	1	"δκαὶ	"δκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	96	1	βασιλεὺς +τ5	βασιλεὺς +τε	βασιλεὺς	βασιλεὺς	image (3x): grave; next token is the margin number 15, not text
+2chr	oldtestamenting02swet	96	4	θυρεόν: +“᾽	θυρεόν"	θυρεόν·	θυρεόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	96	4	ἔδωκεν +τό	ἔδωκεν +τό	ἔδωκεν	ἔδωκεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	96	5	"καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	96	5	ὁ +1τ7	ὁ +τ7	ὁ	ὁ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	96	7	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	96	7	ἐξ	ἐξ	ἓξ	ἓξ	image (3x): compact closed rough+grave mark, ἓξ
+2chr	oldtestamenting02swet	96	7	χρυσίῳ, +τ8	χρυσίῳ, +τ8	χρυσίῳ,	χρυσίῳ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	96	9	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	96	9	ἕστη- +τὸ	ἑστη- +τὸ	ἑστη-	ἑστη-	image (3x): rough breathing, no accent, ἑστη- (margin 19 is not text)
+2chr	oldtestamenting02swet	96	10	ἐξ	ἐξ	ἓξ	ἓξ	image (3x): compact closed rough+grave mark, ἓξ
+2chr	oldtestamenting02swet	96	10	ἔνθεν:	ἔνθεν:	ἔνθεν·	ἔνθεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	96	11	“καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	96	11	βασιλέως +5:0	βασιλέως +20	βασιλέως	βασιλέως	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	96	13	κατειλημμένα:	κατειλημμένα:	κατειλημμένα·	κατειλημμένα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	96	13	ἢν	ἢν	ἦν	ἦν	image (3x): smooth+circumflex, ἦν
+2chr	oldtestamenting02swet	96	14	οὐθέν. +“"	οὐθέν. +“"	οὐθέν.	οὐθέν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	96	14	Θαρσεὶς +«-:	Θαρσεὶς +«-:	Θαρσεὶς	Θαρσεὶς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	96	15	Χειράμ:	Χειράμ:	Χειράμ·	Χειράμ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	96	16	Θ +ὶς	Θαρσεὶς	Θαρσεὶς	Θαρσεὶς	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	96	16	γέμοντα	γέμοντα +χΧρ	γέμοντα	γέμοντα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	96	16	σίου	χρυσίου	χρυσίου	χρυσίου	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	96	17	22 +““καὶ	32 +““καὶ	καὶ	καὶ	image (3x): καὶ after superscript verse number
+2chr	oldtestamenting02swet	96	17	πάντας +522	πάντας +55	πάντας	πάντας	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	96	18	“Ξ3καὶ	“3καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	96	18	τῆς +53	τῆς +23	τῆς	τῆς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	96	20	ὁ +θ	ὁ +θ	ὁ	ὁ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	96	20	αὐτοῦ. +24	αὐτοῦ. +24	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	96	20	τὰ +54	τὰ +54	τὰ	τὰ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	96	22	“Ξκαὶ	“Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	96	25	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing (apostrophe shape)
+2chr	oldtestamenting02swet	96	25	“καὶ	“᾿καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	96	27	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	image (3x): smooth breathing (apostrophe shape)
+2chr	oldtestamenting02swet	96	27	27 +“7καὶ	“7καὶ	καὶ	καὶ	image (3x): καὶ after superscript verse number
+2chr	oldtestamenting02swet	96	28	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing (apostrophe shape)
+2chr	oldtestamenting02swet	96	29	πλῆθος. +“ὅ	πλῆθος.	πλῆθος.	πλῆθος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	96	29	καὶ	“ἑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	96	29	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing (apostrophe shape)
+2chr	oldtestamenting02swet	96	30	γῆς. +"9	γῆς. +"9	γῆς.	γῆς.	class R3: OCR appended accent-row or margin junk; c read from the image strip

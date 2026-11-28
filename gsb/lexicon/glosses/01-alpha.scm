@@ -542,7 +542,10 @@
 (lemma "αὐτός"
   (sense pronoun
     (gloss "he" "him" "his" "she" "her" "hers" "it" "its" "they" "them" "their" "theirs")
-    (why "The third-person pronoun. The English form follows the Greek gender, number and case; a neuter referring to a thing is \"it\". The intensive (\"himself\") and identifying (\"the same\") uses become their own senses when they occur. A nominative αὐτός (Genesis 3:15-16) is emphatic; the literal layer still says \"he\" and the emphasis is noted, not added.")))
+    (why "The third-person pronoun. The English form follows the Greek gender, number and case; a neuter referring to a thing is \"it\". The intensive (\"himself\") and identifying (\"the same\") uses become their own senses when they occur. A nominative αὐτός (Genesis 3:15-16) is emphatic; the literal layer still says \"he\" and the emphasis is noted, not added."))
+  (sense intensive
+    (gloss "himself" "herself" "itself" "themselves" "yourself" "yourselves" "myself" "ourselves")
+    (why "Intensive with another pronoun, \"-self\": ὑμῖν αὐτοῖς \"to you yourselves\" (Exodus 20:23). Chosen by word override, with the English of the person it intensifies.")))
 
 (lemma "αὐτοῦ" (sense right-here (gloss "right here") (why "The adverb αὐτοῦ, \"in the very place\", here or there (Genesis 22:5 Καθίσατε αὐτοῦ, as Matthew 26:36 Καθίσατε αὐτοῦ; Acts 18:19). The same spelling as the genitive of αὐτός; a word override picks it. \"Right here\" keeps it apart from ὧδε \"here\".")))
 

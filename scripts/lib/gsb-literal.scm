@@ -1765,6 +1765,8 @@ oblique noun, two nominatives), leave the Greek order and mark the verb
                      (before (take (drop span clause-start) (- i clause-start)))
                      (after (take (drop span (+ i 1)) (- clause-end i 1)))
                      (before-noms (filter (lambda (k) (and (nom? (at k) #t (at (- k 1)))
+                                                           ;; (not a preposition's object: μετὰ δὲ ταῦτα ἐξελεύσονται)
+                                                           (not (is? (phrase-before span k) "PREP"))
                                                            ;; καὶ Λὼτ τὸν ἀδελφὸν αὐτοῦ ἀπέστρεψεν: a name with
                                                            ;; an oblique apposition is in that case
                                                            (not (and (caseless-name? (at k))
@@ -1896,7 +1898,8 @@ oblique noun, two nominatives), leave the Greek order and mark the verb
                                                    k)))))
                                       ((and (> left 0) (is? y "P" "F") (not (eqv? (case-of y) #\N)) (not (eq? (u y 'role) 'possessive)))
                                        (skip (+ k 1) (- left 1) pp adv obl))
-                                      ((and (> adv 0) (is? y "ADV") (not (interrogative? y)) (not (lemma-in? y "οὐ" "μή")))
+                                      ;; (also a particle: λημφθήτω δὴ ὕδωρ)
+                                      ((and (> adv 0) (is? y "ADV" "PRT") (not (interrogative? y)) (not (lemma-in? y "οὐ" "μή" "οὐδέ" "μηδέ" "τέ")))
                                        (skip (+ k 1) left pp (- adv 1) obl))
                                       ((and (> pp 0) (is? y "PREP"))
                                        ;; the object: words in its first word's case and
@@ -1908,7 +1911,8 @@ oblique noun, two nominatives), leave the Greek order and mark the verb
                                                (obj (+ m 1) (or c (and (not (eq? (u z 'role) 'possessive)) (case-of z))))
                                                (skip m left 0 adv obl)))))
                                       (else k)))))
-                         (kai-k (and (lemma-in? (at j) "καί") (in-cl? (at (+ j 1))) (nom? (at (+ j 1)) #t (at j)) j))
+                         ;; (also τε of ὅ τε Ἀδὰμ καὶ ἡ γυνή, moved before its article)
+                         (kai-k (and (lemma-in? (at j) "καί" "τέ") (in-cl? (at (+ j 1))) (nom? (at (+ j 1)) #t (at j)) j))
                          (j (if kai-k (+ j 1) j))
                          ;; A neuter noun may be the subject when the verb is not
                          ;; active, is εἰμί or an imperative, or its object is
@@ -2024,6 +2028,7 @@ there is none): nominatives with their genitives (πνεῦμα θεοῦ)."
     (if (and (>= k clause-start)
              (let ((y (list-ref span k)))
                (or (and (nom-or-participle? y (and (> k 0) (list-ref span (- k 1))) definite?)
+                        (not (is? (phrase-before span k) "PREP"))
                         (or definite? (not (is? y "R" "P" "K")) (and relative-ok? (is? y "R"))))
                    (memq (u y 'role) '(possessive post-demonstrative attributive))
                    (and (eqv? (case-of y) #\G) (is? y "N" "T" "A")))))

@@ -193,7 +193,10 @@
     (why "Introducing what is seen, known or said: \"that\" (Genesis 1:4, God saw ... that [it was] good)."))
   (sense because
     (gloss "because")
-    (why "Causal: \"because\" (Genesis 2:3, 23; 3:10, 14, 17, 19, 20). \"For\" is kept for γάρ, so causal ὅτι takes \"because\".")))
+    (why "Causal: \"because\" (Genesis 2:3, 23; 3:10, 14, 17, 19, 20). \"For\" is kept for γάρ, so causal ὅτι takes \"because\"."))
+  (sense why
+    (gloss "why")
+    (why "Interrogative, for τί ὅτι: \"why\" (Genesis 18:13 Ὅτι ἐγέλασεν Σάρρα; Mark 2:16, 9:11). Chosen by word override.")))
 
 (lemma "οὐ"
   (sense not
