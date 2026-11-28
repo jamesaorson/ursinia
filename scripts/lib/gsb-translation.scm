@@ -248,11 +248,13 @@ PATHS, when given, is each form's file, for naming a duplicate's files."
   (string-join (map segment-text segs) " "))
 
 (define (words-of text)
-  "Lowercased English words of TEXT, padded with spaces for whole-word search."
+  "Lowercased English words of TEXT, padded with spaces for whole-word search;
+a possessive \"'s\" is dropped (\"Lot's\" holds the gloss \"Lot\")."
   (string-append
    " "
-   (string-join (string-tokenize (string-downcase text)
-                                 (char-set-union char-set:letter (char-set #\' #\-)))
+   (string-join (map (lambda (t) (if (string-suffix? "'s" t) (substring t 0 (- (string-length t) 2)) t))
+                     (string-tokenize (string-downcase text)
+                                      (char-set-union char-set:letter (char-set #\' #\-))))
                 " ")
    " "))
 

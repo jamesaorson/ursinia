@@ -396,8 +396,8 @@
   (status draft)
   (literal
     ("But" 2)
-    ("Abraham" 3)
     ("said" 1)
+    ("Abraham" 3)
     ("to" (4 to))
     ("God" (5 unrendered) 6)
     ("let" (9 live "ζάω"))

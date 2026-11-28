@@ -346,7 +346,8 @@
     ("speak" (cont 10))
     ("to" (11 to))
     ("us," 12)
-    ("let us not die." 15 16)))
+    ("lest" (15 lest))
+    ("we die." 16)))
 
 (verse 20
   (status draft)
@@ -404,7 +405,7 @@
     ("to the house" 8 9)
     ("of Jacob" 10)
     ("and" 11)
-    ("will declare" (12 declare "ἀναγγέλλω"))
+    ("you will declare" (12 declare "ἀναγγέλλω"))
     ("to the sons" 13 14)
     ("of Israel," 15)
     ("You" 16)

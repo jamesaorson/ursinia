@@ -5,8 +5,8 @@ nn	id	english	greek	testament	deuterocanonical	role	source	notes	chapters
 04	num	Numbers	Ἀριθμοί	OT	no	main	swete		36
 05	deut	Deuteronomy	Δευτερονόμιον	OT	no	main	swete		34
 06	josh	Joshua	Ἰησοῦς Ναυῆ	OT	no	main	swete	Swete's text (Codex Vaticanus).	24
-07	judg	Judges	Κριταί	OT	no	main	swete	Swete's text (Codex Vaticanus, the B-type text).
-08	ruth	Ruth	Ῥούθ	OT	no	main	swete
+07	judg	Judges	Κριταί	OT	no	main	swete	Swete's text (Codex Vaticanus, the B-type text).	21
+08	ruth	Ruth	Ῥούθ	OT	no	main	swete		4
 09	1kgdms	1 Kingdoms	Βασιλειῶν Αʹ	OT	no	main	swete	= 1 Samuel.
 10	2kgdms	2 Kingdoms	Βασιλειῶν Βʹ	OT	no	main	swete	= 2 Samuel.
 11	3kgdms	3 Kingdoms	Βασιλειῶν Γʹ	OT	no	main	swete	= 1 Kings; includes the long Greek supplements (lettered sub-verses such as 2:35a).

@@ -41,9 +41,9 @@
 
 (lemma "παρασιωπάω" (sense keep-silent(gloss "keep silent" "kept silent" "keeps silent" "keeping silent") (why "(LXX, supplied.) To pass over in silence, keep silent (Genesis 24:21, the man was keeping silent to learn whether the Lord had prospered his way). Kept apart from σιωπάω, which may take \"be silent\".")))
 
-(lemma "παρατάσσω" (sense line-up (verb "line up" "lined" "lined") (dative "against") (gloss "line up" "lined up" "lines up" "lining up") (why "(LXX, supplied.) To draw up side by side; middle, to draw up for battle against someone, with the dative (Genesis 14:8, they lined up against them for war).")))
+(lemma "παρατάσσω" (sense line-up (verb "line up" "lined up" "lined up") (dative "against") (gloss "line up" "lined up" "lines up" "lining up") (why "(LXX, supplied.) To draw up side by side; middle, to draw up for battle against someone, with the dative (Genesis 14:8, they lined up against them for war).")))
 
-(lemma "παρατίθημι" (sense set-before (verb "set before" "set" "set") (dative "")(gloss "set before" "sets before" "setting before") (why "To set before, place beside, of food served (Genesis 18:8 παρέθηκεν αὐτοῖς; Mark 6:41; Luke 10:8); the middle \"entrust\" (Luke 23:46) will be its own sense.")))
+(lemma "παρατίθημι" (sense set-before (verb "set before" "set before" "set before") (dative "")(gloss "set before" "sets before" "setting before") (why "To set before, place beside, of food served (Genesis 18:8 παρέθηκεν αὐτοῖς; Mark 6:41; Luke 10:8); the middle \"entrust\" (Luke 23:46) will be its own sense.")))
 
 (lemma "παρεπίδημος" (sense temporary-resident (person) (gloss "temporary resident" "temporary residents") (why "One staying for a time among a foreign people, a temporary resident (Genesis 23:4, Πάροικος καὶ παρεπίδημος, taken up in Hebrews 11:13 and 1 Peter 2:11, \"strangers and pilgrims\"). Kept apart from πάροικος \"sojourner\" and ξένος, which will take \"stranger\".")))
 
@@ -51,7 +51,7 @@
 
 (lemma "παρθένος" (sense virgin (person) (gloss "virgin" "virgins") (why "A virgin, a young unmarried woman (Genesis 24:14-16, 43, 55, Rebekah; Isaiah 7:14, quoted in Matthew 1:23; Luke 1:27).")))
 
-(lemma "παρίστημι" (sense stand-by (verb "stand by" "stood" "stood") (gloss "stand by" "stood by" "stands by" "standing by") (why "Intransitive (perfect and pluperfect): to stand by, stand near, attend (Genesis 18:8 αὐτὸς δὲ παριστήκει αὐτοῖς; Luke 1:19; Acts 1:10). Transitive \"present\" (Romans 12:1) will be its own sense.")))
+(lemma "παρίστημι" (sense stand-by (verb "stand by" "stood by" "stood by") (gloss "stand by" "stood by" "stands by" "standing by") (why "Intransitive (perfect and pluperfect): to stand by, stand near, attend (Genesis 18:8 αὐτὸς δὲ παριστήκει αὐτοῖς; Luke 1:19; Acts 1:10). Transitive \"present\" (Romans 12:1) will be its own sense.")))
 
 (lemma "παροικέω" (sense sojourn (gloss "sojourn" "sojourned" "sojourns" "sojourning") (why "To live as a foreigner, sojourn (Hebrews 11:9).")))
 
@@ -253,7 +253,7 @@
 
 (lemma "πολυχρόνιος" (sense long-timed (gloss "long-timed") (why "(LXX, supplied.) Lasting much time (πολύς + χρόνος): Genesis 26:8 ἐγένετο δὲ πολυχρόνιος ἐκεῖ, Isaac \"came to be long-timed there\", stayed a long time. \"Long-timed\" keeps the χρόνος root and keeps it apart from μακροχρόνιος \"long-lived\".")))
 
-(lemma "πονηρεύομαι" (sense do-evil (verb "do evil" "did" "done") (gloss "do evil" "did evil" "done evil" "does evil" "doing evil") (why "(LXX, supplied.) To act wickedly, do evil (Genesis 19:7 μὴ πονηρεύσησθε). The verb of πονηρός \"evil\".")))
+(lemma "πονηρεύομαι" (sense do-evil (verb "do evil" "did evil" "done evil") (gloss "do evil" "did evil" "done evil" "does evil" "doing evil") (why "(LXX, supplied.) To act wickedly, do evil (Genesis 19:7 μὴ πονηρεύσησθε). The verb of πονηρός \"evil\".")))
 
 (lemma "πονηρός"
   (sense evil
@@ -279,7 +279,7 @@
   (sense water
     (gloss "water" "waters" "watered" "watering")
     (why "To give to drink, to water (Genesis 2:6, 10; 1 Corinthians 3:6-8, Apollos watered). English \"water\" serves; the noun ὕδωρ shares the word, and the alignment shows which is which."))
-  (sense give-drink (verb "give to drink" "gave" "given") (gloss "give to drink" "gave to drink" "given to drink" "gives to drink" "giving to drink") (why "Of persons, with a second accusative of the drink: to give someone something to drink (Genesis 19:32-35 ποτίσωμεν τὸν πατέρα ἡμῶν οἶνον; Matthew 10:42; 1 Corinthians 3:2 γάλα ὑμᾶς ἐπότισα). \"Water\" cannot take a person and a drink.")))
+  (sense give-drink (verb "give to drink" "gave to drink" "given to drink") (gloss "give to drink" "gave to drink" "given to drink" "gives to drink" "giving to drink") (why "Of persons, with a second accusative of the drink: to give someone something to drink (Genesis 19:32-35 ποτίσωμεν τὸν πατέρα ἡμῶν οἶνον; Matthew 10:42; 1 Corinthians 3:2 γάλα ὑμᾶς ἐπότισα). \"Water\" cannot take a person and a drink.")))
 
 (lemma "ποτιστήριον" (sense trough (gloss "trough" "troughs") (why "(LXX, supplied.) A watering trough (Genesis 24:20; 30:38). From ποτίζω \"water\".")))
 
@@ -353,7 +353,7 @@
 
 (lemma "προστίθημι" (sense add (gloss "add" "added" "adds" "adding") (why "To add; with an infinitive, to do again (Genesis 4:2, \"added to bear\"; 4:12). The literal layer keeps \"add\".")))
 
-(lemma "προστρέχω" (sense run-to (verb "run to" "ran" "run") (gloss "run to" "ran to" "runs to" "running to") (why "To run to, run up (Genesis 18:2 προσέδραμεν εἰς συνάντησιν αὐτοῖς; Mark 9:15; Acts 8:30). Built on τρέχω \"run\".")))
+(lemma "προστρέχω" (sense run-to (verb "run to" "ran to" "run to") (gloss "run to" "ran to" "runs to" "running to") (why "To run to, run up (Genesis 18:2 προσέδραμεν εἰς συνάντησιν αὐτοῖς; Mark 9:15; Acts 8:30). Built on τρέχω \"run\".")))
 
 (lemma "προσφέρω" (sense offer (gloss "offer" "offered" "offers" "offering") (why "To bring to, offer (a sacrifice): Genesis 4:7; Hebrews 11:4.")))
 

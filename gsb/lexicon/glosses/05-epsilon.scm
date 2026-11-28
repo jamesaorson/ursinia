@@ -107,7 +107,7 @@
 
 (lemma "εἰσπορεύομαι" (sense enter (gloss "enter" "entered" "enters" "entering") (why "To go in, enter (Genesis 6:4; Mark 1:21). \"Enter\" to keep it apart from εἰσέρχομαι \"go in\", as ἐκπορεύομαι \"go out\" is kept apart from ἐξέρχομαι \"go forth\". In Genesis 6:4 εἰσπορεύεσθαι πρός is to go in to a woman; the literal layer keeps \"were entering to\".")))
 
-(lemma "εἰσσπάω" (sense draw-in (verb "draw in" "drew" "drawn") (gloss "draw in" "drew in" "drawn in" "draws in" "drawing in") (why "(LXX, supplied.) To draw in, pull inside (Genesis 19:10, the men drew Lot in to themselves). The middle is rendered active.")))
+(lemma "εἰσσπάω" (sense draw-in (verb "draw in" "drew in" "drawn in") (gloss "draw in" "drew in" "drawn in" "draws in" "drawing in") (why "(LXX, supplied.) To draw in, pull inside (Genesis 19:10, the men drew Lot in to themselves). The middle is rendered active.")))
 
 (lemma "εἰσφέρω" (sense carry-in (gloss "carry in" "carried in" "carries in" "carrying in") (why "To carry in, bring in (Genesis 27:10, 18, 25, 31, 33, Jacob and Esau bringing food in to Isaac; Luke 5:18). \"Carry in\" follows φέρω \"carry\" and keeps it apart from εἰσάγω \"bring in\".")))
 
@@ -186,7 +186,7 @@
     (gloss "sixth")
     (why "The ordinal \"sixth\".")))
 
-(lemma "ἐκτρίβω" (sense rub-out (gloss "rub out" "rubbed out" "rubs out" "rubbing out") (verb "rub out" "rubbed" "rubbed") (why "(LXX, supplied.) To rub out, wipe away completely, destroy (Genesis 19:13-14, 29, the angels' word for what they will do to Sodom). \"Rub out\" keeps its picture and keeps it apart from ἀπόλλυμι \"destroy\", ἀπαλείφω \"wipe out\" and ἐξαλείφω \"blot out\".")))
+(lemma "ἐκτρίβω" (sense rub-out (gloss "rub out" "rubbed out" "rubs out" "rubbing out") (verb "rub out" "rubbed out" "rubbed out") (why "(LXX, supplied.) To rub out, wipe away completely, destroy (Genesis 19:13-14, 29, the angels' word for what they will do to Sodom). \"Rub out\" keeps its picture and keeps it apart from ἀπόλλυμι \"destroy\", ἀπαλείφω \"wipe out\" and ἐξαλείφω \"blot out\".")))
 
 (lemma "ἐκφέρω"
   (sense bring-forth
@@ -226,7 +226,7 @@
 
 (lemma "ἐμός" (sense my (gloss "my") (why "The possessive adjective \"my\" (Genesis 22:18 τῆς ἐμῆς φωνῆς; John 4:34). It shares \"my\" with the genitive μου, the same meaning in another form.")))
 
-(lemma "ἐμπίπτω" (sense fall-in (verb "fall in" "fell" "fallen") (gloss "fall in" "fell in" "fallen in" "falls in" "falling in") (why "To fall in, fall into (Genesis 14:10, the kings fell in there, into the asphalt pits; Matthew 12:11; Luke 10:36). Kept apart from πίπτω \"fall\" and ἐπιπίπτω \"fall upon\".")))
+(lemma "ἐμπίπτω" (sense fall-in (verb "fall in" "fell in" "fallen in") (gloss "fall in" "fell in" "fallen in" "falls in" "falling in") (why "To fall in, fall into (Genesis 14:10, the kings fell in there, into the asphalt pits; Matthew 12:11; Luke 10:36). Kept apart from πίπτω \"fall\" and ἐπιπίπτω \"fall upon\".")))
 
 (lemma "ἔμπορος" (sense merchant (person) (gloss "merchant" "merchants") (why "A merchant, trader (Genesis 23:16, silver approved ἐμπόροις, Swete's ἐνπόροις; Matthew 13:45; Revelation 18:3).")))
 
@@ -316,7 +316,7 @@
 
 (lemma "ἑξακοσιοστός" (sense six-hundredth (gloss "six hundredth") (why "(LXX, supplied.) The ordinal \"six hundredth\" (Genesis 7:11; 8:13, ἐν τῷ ἑνὶ καὶ ἑξακοσιοστῷ ἔτει, \"in the one and six hundredth year\", kept word for word).")))
 
-(lemma "ἐξαλείφω" (sense blot-out (verb "blot out" "blotted" "blotted") (gloss "blot out" "blotted out" "blots out" "blotting out") (why "To wipe out, blot out (Genesis 7:4, 23, of the flood; Acts 3:19, that your sins may be blotted out; Revelation 3:5). \"Blot out\" keeps it apart from ἀπαλείφω \"wipe out\" (Genesis 6:7), as that entry asked.")))
+(lemma "ἐξαλείφω" (sense blot-out (verb "blot out" "blotted out" "blotted out") (gloss "blot out" "blotted out" "blots out" "blotting out") (why "To wipe out, blot out (Genesis 7:4, 23, of the flood; Acts 3:19, that your sins may be blotted out; Revelation 3:5). \"Blot out\" keeps it apart from ἀπαλείφω \"wipe out\" (Genesis 6:7), as that entry asked.")))
 
 (lemma "ἐξανατέλλω"
   (sense cause-to-spring-up
@@ -325,7 +325,7 @@
     (why "Transitive in Genesis 2:9 (God made every tree spring up out of the earth). Intransitive \"spring up\" (Matthew 13:5) becomes its own sense. Kept apart from ἀνατέλλω \"rise\" by the ἐξ- (\"spring up out\").")))
 
 (lemma "ἐξανίστημι" (sense raise-up (gloss "raise up" "raised up" "raises up" "raising up") (why "Transitive: to raise up (offspring), Genesis 4:25; Mark 12:19. Kept apart from ἀνίστημι \"stand up\"."))
-  (sense get-up (verb "get up" "got" "gotten") (gloss "get up" "got up" "gotten up" "gets up" "getting up") (why "Intransitive (second aorist and middle): to get up, rise and set out (Genesis 18:16 Ἐξαναστάντες δὲ ἐκεῖθεν οἱ ἄνδρες; Acts 15:5). \"Get up\" because \"rise\" is ἀνατέλλω's and \"stand up\" ἀνίστημι's.")))
+  (sense get-up (verb "get up" "got up" "gotten up") (gloss "get up" "got up" "gotten up" "gets up" "getting up") (why "Intransitive (second aorist and middle): to get up, rise and set out (Genesis 18:16 Ἐξαναστάντες δὲ ἐκεῖθεν οἱ ἄνδρες; Acts 15:5). \"Get up\" because \"rise\" is ἀνατέλλω's and \"stand up\" ἀνίστημι's.")))
 
 (lemma "ἐξαποστέλλω"
   (sense send-out
@@ -358,7 +358,7 @@
 
 (lemma "ἐπακούω" (sense listen-to (genitive "") (dative "") (gloss "listen to" "listened to" "listens to" "listening to") (why "To listen to, give a hearing to, with the genitive (Genesis 17:20 ἐπήκουσά σου \"I listened to you\"; 2 Corinthians 6:2 quoting Isaiah 49:8). Kept apart from ἀκούω \"hear\".")))
 
-(lemma "ἐπαναστρέφω" (sense come-back-again (verb "come back again" "came" "come") (gloss "come back again" "came back again" "comes back again" "coming back again") (why "(LXX, supplied.) To come back again, return (Genesis 18:10 Ἐπαναστρέφων ἥξω \"coming back again I will come\"). Built on ἀναστρέφω \"come back\", with \"again\" for the added ἐπ-, as ἐπιστρέφω \"turn again\".")))
+(lemma "ἐπαναστρέφω" (sense come-back-again (verb "come back again" "came back again" "come back again") (gloss "come back again" "came back again" "comes back again" "coming back again") (why "(LXX, supplied.) To come back again, return (Genesis 18:10 Ἐπαναστρέφων ἥξω \"coming back again I will come\"). Built on ἀναστρέφω \"come back\", with \"again\" for the added ἐπ-, as ἐπιστρέφω \"turn again\".")))
 
 (lemma "ἐπάνω"
   (sense over
@@ -428,7 +428,7 @@
 
 (lemma "ἐπισπουδάζω" (sense urge (gloss "urge" "urged" "urges" "urging") (why "(LXX, supplied.) To press on, hurry someone along, urge (Genesis 19:15, the angels urging Lot). Kept apart from σπεύδω and σπουδάζω.")))
 
-(lemma "ἐπιπίπτω" (sense fall-upon (verb "fall upon" "fell" "fallen") (dative "") (gloss "fall upon" "fell upon" "fallen upon" "falls upon" "falling upon") (why "To fall upon, attack (Genesis 14:15, Abram fell upon them by night); also of fear or the Spirit falling on people (Luke 1:12; Acts 10:44).")))
+(lemma "ἐπιπίπτω" (sense fall-upon (verb "fall upon" "fell upon" "fallen upon") (dative "") (gloss "fall upon" "fell upon" "fallen upon" "falls upon" "falling upon") (why "To fall upon, attack (Genesis 14:15, Abram fell upon them by night); also of fear or the Spirit falling on people (Luke 1:12; Acts 10:44).")))
 
 (lemma "ἐπιστηρίζω" (sense lean (voice active) (gloss "lean" "leaned" "leans" "leaning") (why "(LXX, supplied.) To prop upon; passive, to lean or be set firm upon (Genesis 28:13 ὁ δὲ Κύριος ἐπεστήρικτο ἐπ’ αὐτῆς, \"the Lord had leaned upon it\", the ladder). The passive is rendered active. In the New Testament (Acts 14:22; 15:32, 41) it is \"strengthen\", which will be its own sense.")))
 
@@ -438,7 +438,7 @@
 
 (lemma "ἐπιτίθημι"
   (sense lay-on
-    (verb "lay on" "laid" "laid")
+    (verb "lay on" "laid on" "laid on")
     (dative "")
     (gloss "lay on" "laid on" "lays on" "laying on")
     (why "To put or lay on (Matthew 19:13, laying hands on; Luke 23:26). The commonest sense, listed first."))

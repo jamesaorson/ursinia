@@ -206,7 +206,7 @@
 
 (lemma "Συμόβορ" (sense name (gloss "Shemeber") (why "(LXX, supplied.) King of Zeboiim (Genesis 14:2); traditional English Shemeber, the same man in a Greek spelling.")))
 
-(lemma "συμπαραλαμβάνω" (sense take-along-with (verb "take along with" "took" "taken") (gloss "take along with" "took along with" "taken along with" "takes along with" "taking along with") (why "To take along with oneself (Acts 12:25; 15:37-38). Genesis 19:17 μή ποτε συνπαραλημφθῇς, lest you be taken along with [the city]. Built on παραλαμβάνω \"take along\".")))
+(lemma "συμπαραλαμβάνω" (sense take-along-with (verb "take along with" "took along with" "taken along with") (gloss "take along with" "took along with" "taken along with" "takes along with" "taking along with") (why "To take along with oneself (Acts 12:25; 15:37-38). Genesis 19:17 μή ποτε συνπαραλημφθῇς, lest you be taken along with [the city]. Built on παραλαμβάνω \"take along\".")))
 
 (lemma "συμπίπτω" (sense fall-together (intransitive) (gloss "fall together" "fell together" "falls together" "falling together") (why "(LXX sense.) To fall together, collapse (Luke 6:49). Genesis 4:5-6, Cain's face fell.")))
 
@@ -230,13 +230,13 @@
 (lemma "συνάντησις" (sense meeting (with-preposition "εἰς" for) (gloss "meeting") (why "A meeting; εἰς συνάντησιν + dative, \"for meeting\" someone, to meet them (Genesis 18:2; Matthew 8:34; John 12:13).")))
 
 (lemma "συναπόλλυμι" (sense destroy-together (gloss "destroy together" "destroyed together" "destroys together" "destroying together") (why "To destroy together with (Genesis 18:23-25 μὴ συναπολέσῃς δίκαιον μετὰ ἀσεβοῦς; Hebrews 11:31, Rahab did not perish together with the disobedient). Built on ἀπόλλυμι \"destroy\"; the συν- is \"together\"."))
-  (sense perish-together (dative "with") (verb "perish together" "perished" "perished") (gloss "perish together" "perished together" "perishes together" "perishing together") (why "The middle: to perish together with (Genesis 19:15 ἵνα μὴ συναπόλῃ ταῖς ἀνομίαις τῆς πόλεως; Hebrews 11:31 οὐ συναπώλετο τοῖς ἀπειθήσασιν). Chosen by the form row.")))
+  (sense perish-together (dative "with") (verb "perish together" "perished together" "perished together") (gloss "perish together" "perished together" "perishes together" "perishing together") (why "The middle: to perish together with (Genesis 19:15 ἵνα μὴ συναπόλῃ ταῖς ἀνομίαις τῆς πόλεως; Hebrews 11:31 οὐ συναπώλετο τοῖς ἀπειθήσασιν). Chosen by the form row.")))
 
 (lemma "συνέχω" (sense restrain (gloss "restrain" "restrained" "restrains" "restraining") (why "To hold together, hold back, restrain (Genesis 8:2, the rain was restrained from heaven; Luke 12:50; 2 Corinthians 5:14, the love of Christ constrains us). \"Restrain\" for holding back; \"hold together\" or \"press\" (Luke 8:45) may become their own senses.")))
 
 (lemma "συννεφέω" (sense mass (gloss "mass" "massed" "masses" "massing") (why "(LXX, supplied.) To gather clouds, cloud over (σύν + νέφος); Genesis 9:14, ἐν τῷ συννεφεῖν με νεφέλας, with the cognate object, \"in my massing clouds\". \"Mass\" renders the σύν- and lets the object νεφέλας say \"clouds\"; \"gather\" is συνάγω's.")))
 
-(lemma "συνοικέω" (sense dwell-with (dative "") (verb "dwell with" "dwelt" "dwelt") (gloss "dwell with" "dwelt with" "dwells with" "dwelling with") (why "To live together with, dwell with, of marriage (Genesis 20:3 συνῳκηκυῖα ἀνδρί; 1 Peter 3:7). Built on οἰκέω \"dwell\".")))
+(lemma "συνοικέω" (sense dwell-with (dative "") (verb "dwell with" "dwelt with" "dwelt with") (gloss "dwell with" "dwelt with" "dwells with" "dwelling with") (why "To live together with, dwell with, of marriage (Genesis 20:3 συνῳκηκυῖα ἀνδρί; 1 Peter 3:7). Built on οἰκέω \"dwell\".")))
 
 (lemma "συντάσσω" (sense direct (dative "") (gloss "direct" "directed" "directs" "directing") (why "To arrange, give orders, direct, with the dative of the person (Genesis 18:19 συντάξει τοῖς υἱοῖς αὐτοῦ; Matthew 21:6; 26:19). \"Direct\" keeps it apart from ἐντέλλομαι \"command\" and τάσσω.")))
 

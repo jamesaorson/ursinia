@@ -145,7 +145,7 @@
 
 (lemma "ἀλήθεια" (sense truth (gloss "truth" "truths") (why "Truth, faithfulness (Genesis 24:27, 48, God's righteousness and truth; John 1:14, 17).")))
 
-(lemma "ἀληθεύω" (sense speak-truth (verb "speak truth" "spoke" "spoken") (gloss "speak truth" "spoke truth" "spoken truth" "speaks truth" "speaking truth") (why "(LXX form supplied.) To speak the truth, be truthful (Genesis 20:16 πάντα ἀλήθευσον; Galatians 4:16; Ephesians 4:15). \"Speak truth\" keeps the ἀληθ- root (ἀληθῶς \"truly\").")))
+(lemma "ἀληθεύω" (sense speak-truth (verb "speak truth" "spoke truth" "spoken truth") (gloss "speak truth" "spoke truth" "spoken truth" "speaks truth" "speaking truth") (why "(LXX form supplied.) To speak the truth, be truthful (Genesis 20:16 πάντα ἀλήθευσον; Galatians 4:16; Ephesians 4:15). \"Speak truth\" keeps the ἀληθ- root (ἀληθῶς \"truly\").")))
 
 (lemma "ἀληθῶς" (sense truly (gloss "truly") (why "Truly, really (Genesis 18:13; Matthew 14:33; John 1:47). The adverb of ἀληθής \"true\".")))
 
@@ -198,12 +198,18 @@
 (lemma "ἄν"
   (sense ever
     (gloss "ever")
-    (why "The particle of contingency. After a relative (ᾗ ἂν ἡμέρᾳ, Genesis 2:17; 3:5) it makes the clause indefinite; rendered \"ever\" (\"in which ever day\") so the particle is visible rather than absorbed into \"whatever\". In conditions (\"would\") it becomes its own sense. ἐάν after a relative takes the same gloss.")))
+    (why "The particle of contingency. After a relative (ᾗ ἂν ἡμέρᾳ, Genesis 2:17; 3:5) it makes the clause indefinite; rendered \"ever\" (\"in which ever day\") so the particle is visible rather than absorbed into \"whatever\". In conditions (\"would\") it becomes its own sense. ἐάν after a relative takes the same gloss."))
+  (sense unrendered
+    (gloss "")
+    (why "After ὅπως or ἵνα (ὅπως ἄν, Genesis 18:19; Acts 3:19) ἄν adds nothing English can say: \"in order that ever\" misreads as a time word, so it is aligned with the conjunction and left unrendered (chosen by the generator).")))
 
 (lemma "ἀνά"
   (sense meson
     (gloss "")
-    (why "In the Septuagint ἀνά almost always stands in the fixed phrase ἀνὰ μέσον, \"between\" (also 1 Corinthians 6:5). The phrase is one English word, carried by μέσος (sense between); ἀνά is aligned with it and left unrendered. The distributive ἀνά (\"each\", Matthew 20:9) becomes its own sense when it occurs.")))
+    (why "In the Septuagint ἀνά almost always stands in the fixed phrase ἀνὰ μέσον, \"between\" (also 1 Corinthians 6:5). The phrase is one English word, carried by μέσος (sense between); ἀνά is aligned with it and left unrendered. The distributive ἀνά (\"each\", Matthew 20:9) becomes its own sense when it occurs."))
+  (sense each
+    (gloss "each")
+    (why "Distributive, \"apiece, each\": ἐνώτια χρυσᾶ ἀνὰ δραχμὴν ὁλκῆς \"golden earrings, each [a] drachma of weight\" (Genesis 24:22; Matthew 20:9, 10 ἀνὰ δηνάριον). The generator takes it wherever ἀνά is not in ἀνὰ μέσον.")))
 
 (lemma "ἀναβαθμίς" (sense step (gloss "step" "steps") (why "(LXX, supplied.) A step, stair (Exodus 20:26).")))
 
@@ -352,7 +358,7 @@
 (lemma "ἀποδεκατόω" (sense tithe (gloss "tithe" "tithed" "tithes" "tithing") (why "To give or take the tenth, tithe (Genesis 28:22 δεκάτην ἀποδεκατώσω, \"[a] tenth I will tithe\"; Matthew 23:23; Luke 18:12). (LXX form supplied.)")))
 
 (lemma "ἀποδίδωμι" (sense repay (verb "repay" "repaid" "repaid") (gloss "repay" "repaid" "repays" "repaying") (why "To give back, repay, render (Exodus 20:5; Romans 12:17)."))
-  (sense give-back (verb "give back" "gave" "given") (gloss "give back" "gave back" "given back" "gives back" "giving back") (why "To give back what was taken, restore (Genesis 20:7 ἀπόδος τὴν γυναῖκα, 20:14 ἀπέδωκεν αὐτῷ Σάρραν; Luke 4:20, the scroll given back). \"Repay\" would say a debt was paid."))
+  (sense give-back (verb "give back" "gave back" "given back") (gloss "give back" "gave back" "given back" "gives back" "giving back") (why "To give back what was taken, restore (Genesis 20:7 ἀπόδος τὴν γυναῖκα, 20:14 ἀπέδωκεν αὐτῷ Σάρραν; Luke 4:20, the scroll given back). \"Repay\" would say a debt was paid."))
   (sense sell (gloss "sell" "sold" "sells" "selling") (why "The middle, \"give away for oneself\", is \"sell\" (Genesis 25:31, 33, Esau sold the birthright; Acts 5:8; Hebrews 12:16 quotes it). The form rows choose this sense for the middle.")))
 
 (lemma "ἀποθνῄσκω"
@@ -361,13 +367,13 @@
     (gloss "die" "died" "dies" "dying")
     (why "To die. θανάτῳ ἀποθανεῖσθε (Genesis 2:17; 3:4) is \"by death you will die\" in the literal layer.")))
 
-(lemma "ἀποίχομαι" (sense go-off (verb "go off" "went" "gone") (gloss "go off" "went off" "gone off" "goes off" "going off") (why "(LXX, supplied.) To be gone, go off (Genesis 14:12, the kings took Lot and were going off). \"Go off\" keeps it apart from ἀπέρχομαι \"go away\" and ἀπαίρω \"depart\".")))
+(lemma "ἀποίχομαι" (sense go-off (verb "go off" "went off" "gone off") (gloss "go off" "went off" "gone off" "goes off" "going off") (why "(LXX, supplied.) To be gone, go off (Genesis 14:12, the kings took Lot and were going off). \"Go off\" keeps it apart from ἀπέρχομαι \"go away\" and ἀπαίρω \"depart\".")))
 
 (lemma "ἀποκαθίστημι" (sense restore (gloss "restore" "restored" "restores" "restoring") (why "To restore, give back (Matthew 12:13; Acts 1:6); in Genesis 23:16 of paying over the silver to Ephron. Swete's ἀπεκατέστησεν has the double augment.")))
 
 (lemma "ἀποκαλύπτω" (sense uncover (gloss "uncover" "uncovered" "uncovers" "uncovering") (why "To uncover, reveal. \"Uncover\" for the literal sense (Exodus 20:26); \"reveal\" becomes its own sense for revelation (Matthew 11:25).")))
 
-(lemma "ἀποκλείω" (sense shut-off (verb "shut off" "shut" "shut") (gloss "shut off" "shuts off" "shutting off") (why "To shut, close off (Genesis 19:10 τὴν θύραν ... ἀπέκλεισαν; Luke 13:25, the master shuts the door). \"Shut off\" keeps the ἀπο- of the compound against κλείω \"shut\" and συγκλείω.")))
+(lemma "ἀποκλείω" (sense shut-off (verb "shut off" "shut off" "shut off") (gloss "shut off" "shuts off" "shutting off") (why "To shut, close off (Genesis 19:10 τὴν θύραν ... ἀπέκλεισαν; Luke 13:25, the master shuts the door). \"Shut off\" keeps the ἀπο- of the compound against κλείω \"shut\" and συγκλείω.")))
 
 (lemma "ἀποκρίνομαι" (sense answer (gloss "answer" "answered" "answers" "answering") (why "To answer, reply (Genesis 18:9, 27 ὁ δὲ ἀποκριθεὶς εἶπεν; very often in the Gospels). The passive-deponent aorist is rendered active.")))
 

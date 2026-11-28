@@ -1,0 +1,73 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+1kgdms	theoldtestamenti00unknuoft	601	1	pe	μὲ	μὲ	μὲ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	1	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	1	Τάλγαλα,	Γάλγαλα,	Γάλγαλα,	Γάλγαλα,	class R6 (OCR letters differ): the other OCR reading agrees with c
+1kgdms	theoldtestamenti00unknuoft	601	2	ἐδεήθην-	ἐδεήθην-	ἐδεήθην·	ἐδεήθην·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	3	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	3	∅	ὁλοκαύτωσιν.	ὁλοκαύτωσιν.	ὁλοκαύτωσιν.	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	3	∅	"Ξκαὶ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	3	∅	εἶπεν	εἶπεν	εἶπεν	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	3	∅	Σαμουὴλ	Σαμουὴλ	Σαμουὴλ	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	3	∅	πρὸς	πρὸς	πρὸς	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	3	∅	Σαούλ	Σαούλ	Σαούλ	image (3x): acute before capitalized quotation Μεματαίωταί
+1kgdms	theoldtestamenti00unknuoft	601	3	∅	Μεματαίωταϊ	Μεματαίωταί	Μεματαίωταί	image (3x): Μεματαίωταί, second acute before enclitic σοι
+1kgdms	theoldtestamenti00unknuoft	601	3	∅	σοι,	σοι,	σοι,	class R0: OCR lost the word in extraction; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	4	ἐντολὴν	ἐντολήν	ἐντολήν	ἐντολήν	image (3x): acute before enclitic μου
+1kgdms	theoldtestamenti00unknuoft	601	4	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	4	ἐνετείλατό	ἐνετείλατό	ἐνετείλατό	ἐνετείλατό	image (3x): extra acute before enclitic σοι
+1kgdms	theoldtestamenti00unknuoft	601	4	Κύριος"	Κύριος"	Κύριος·	Κύριος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	5	Ἰσραήλ. +"“	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	601	5	καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	6	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	8	ὅ	ὅ	ὅ	ὅ	image (3x): ὅ τι, acute before enclitic τι
+1kgdms	theoldtestamenti00unknuoft	601	8	ἐνετείλατό	ἐνετείλατό	ἐνετείλατό	ἐνετείλατό	image (3x): extra acute before enclitic σοι
+1kgdms	theoldtestamenti00unknuoft	601	8	Κύριος.	Κύριος. +᾿5	Κύριος.	Κύριος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	8	Kai	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	9	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	11	Γαβαὰ	Γαβαὰ	Γαβαὰ	Γαβαὰ	image (3x): grave as printed before a name
+1kgdms	theoldtestamenti00unknuoft	601	13	“Kai	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	13	Ἰωναθάν	Ἰωναθάν	Ἰωναθάν	Ἰωναθάν	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	601	14	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	14	per	μετ᾽	μετ᾽	μετ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	14	TaBeé	Ταβεὲ	Γαβεὲ	Γαβεὲ	image (3x): grave as printed before a name
+1kgdms	theoldtestamenti00unknuoft	601	15	Μαχεμάς.	Μαχεμάς. +“7	Μαχεμάς.	Μαχεμάς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	15	*7 +Kat	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1kgdms	theoldtestamenti00unknuoft	601	16	ἀρχαῖς.	ἀρχαῖς:	ἀρχαῖς·	ἀρχαῖς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	17	ὁδὸν	ὁδὸν	ὁδὸν	ὁδὸν	image (3x): grave as printed before a name
+1kgdms	theoldtestamenti00unknuoft	601	17	Τοφερὰ	Τοφερὰ	Γοφερὰ	Γοφερὰ	image (3x): Γ, not Τ
+1kgdms	theoldtestamenti00unknuoft	601	17	“kai	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	18	ὁδὸν	ὁδὸν	ὁδὸν	ὁδὸν	image (3x): grave as printed before a name
+1kgdms	theoldtestamenti00unknuoft	601	18	ὁδὸν	ὁδὸν	ὁδὸν	ὁδὸν	image (3x): grave as printed before a name
+1kgdms	theoldtestamenti00unknuoft	601	19	Val	Ταὶ	Γαὶ	Γαὶ	image (3x): Γ, not Τ
+1kgdms	theoldtestamenti00unknuoft	601	19	xal	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	20	yn	γῇ	γῇ	γῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	20	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	601	20	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	21	Ἑβραῖοι	ΕῚ +Ἑβραῖοι	Ἐβραῖοι	Ἐβραῖοι	image (3x): smooth breathing printed on Ἐβραῖοι (apostrophe shape, same as on Ἰσραὴλ below); apparent misprint for rough, kept as printed
+1kgdms	theoldtestamenti00unknuoft	601	21	δόρυ.	δόρυ. +Ξο	δόρυ.	δόρυ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	21	kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	22	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	601	24	Kal	“᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	24	θερίζειν:	θερίζειν:	θερίζειν·	θερίζειν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	25	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	26	“Kal	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	28	Ἰωναθάν,	Ἰωναθάν,	Ἰωναθάν,	Ἰωναθάν,	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	601	28	TH	τῷ	τῷ	τῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	28	Ιωναθὰν	Ἰωναθὰν	Ἰωναθὰν	Ἰωναθὰν	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	601	29	Kal	“"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	30	Μαχεμάς"	Μαχεμάς"	Μαχεμάς·	Μαχεμάς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	31	*Kai	Κ̓αὶ	Καὶ	Καὶ	image (3x): plain capital K, no breathing; chapter-opening Καὶ
+1kgdms	theoldtestamenti00unknuoft	601	31	Ἰωναθὰν	ἸΙωναθὰν	Ἰωναθὰν	Ἰωναθὰν	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	601	31	vids	υἱὸς	υἱὸς	υἱὸς	image (3x): grave as printed before a name
+1kgdms	theoldtestamenti00unknuoft	601	33	ἐκείνῳ:	ἐκείνῳ:	ἐκείνῳ·	ἐκείνῳ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	33	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	34	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	34	poay	ῥόαν	ῥόαν	ῥόαν	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	35	3xai	ὅκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	35	Ἀχιὰ	Ἀχιὰ	Ἀχιὰ	Ἀχιὰ	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	601	36	vids	υἱὸς	υἱὸς	υἱὸς	image (3x): grave as printed before a name
+1kgdms	theoldtestamenti00unknuoft	601	36	Ἀχιτὼβ	Ἀχιτὼβ	Ἀχιτὼβ	Ἀχιτὼβ	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	601	36	Ἰωχαβὴλ	Ἰωχαβὴλ	Ἰωχαβὴλ	Ἰωχαβὴλ	image (3x): smooth breathing (apostrophe) on the capital
+1kgdms	theoldtestamenti00unknuoft	601	36	Pewees	Φεινεὲς	Φεινεὲς	Φεινεὲς	class R5: Latin-letter substitution in OCR; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	601	13	-	-	Ἰωναθάν	Ἰωναθάν	image (3x): acute (not grave) printed before lowercase υἱὸς; kept as printed
+1kgdms	theoldtestamenti00unknuoft	601	21	-	-	Ἐβραῖοι	Ἐβραῖοι	misprint?: smooth breathing printed where rough is expected; kept as printed

@@ -25,7 +25,7 @@
 
 (lemma "θαρσέω" (sense take-courage (gloss "take courage" "took courage" "takes courage" "taking courage") (why "To be of good courage (Exodus 20:20; Matthew 9:2).")))
 
-(lemma "θαυμάζω" (sense marvel-at (verb "marvel at" "marveled" "marveled") (gloss "marvel at" "marveled at" "marvels at" "marveling at") (why "To wonder, marvel at (Matthew 8:10; Luke 7:9). Genesis 19:21 ἐθαύμασά σου τὸ πρόσωπον, \"I marveled at your face\", is the Hebrew idiom of lifting up the face, showing favor; the literal layer keeps the Greek verb.")))
+(lemma "θαυμάζω" (sense marvel-at (verb "marvel at" "marveled at" "marveled at") (gloss "marvel at" "marveled at" "marvels at" "marveling at") (why "To wonder, marvel at (Matthew 8:10; Luke 7:9). Genesis 19:21 ἐθαύμασά σου τὸ πρόσωπον, \"I marveled at your face\", is the Hebrew idiom of lifting up the face, showing favor; the literal layer keeps the Greek verb.")))
 
 (lemma "θεῖον" (sense sulfur (gloss "sulfur") (why "(LXX form supplied.) Sulfur, brimstone (Genesis 19:24 θεῖον καὶ πῦρ; Luke 17:29, which recalls it; Revelation 14:10). Not the adjective θεῖος \"divine\".")))
 

@@ -182,12 +182,42 @@
          (glosses (parse-glosses (read-gloss-forms))))
     (check-chapter path (book-field book 'id) chapter forms (book-verses book) glosses)))
 
+(define (english-problems heads book chapter)
+  "(error|warning kind ref text detail) for the English of a generated
+chapter: a word doubled inside one segment (\"came back back\": a (verb ...)
+field's particle given twice) is an error; a suspicious -ing/-ed spelling a
+warning (`doubles?` in scripts/lib/gsb-literal.scm)."
+  (append-map
+   (match-lambda
+     (('verse n items ...)
+      (let ((ref (format #f "~a.~a.~a" (book-field book 'id) chapter n))
+            (segs (filter (lambda (s) (and (pair? s) (string? (car s)))) (or (assq-ref items 'literal) '()))))
+        (append-map
+         (lambda (s)
+           (let* ((text (car s))
+                  (ws (string-tokenize (string-downcase text) char-set:letter))
+                  (doubled (let loop ((ws ws))
+                             (cond ((or (null? ws) (null? (cdr ws))) #f)
+                                   ((string=? (car ws) (cadr ws)) (car ws))
+                                   (else (loop (cdr ws)))))))
+             (append
+              (if doubled
+                  (list (list 'error 'doubled-word ref text (format #f "~s twice in one segment; write a (verb ...) field's past forms once (gsb/literal/README.md)" doubled)))
+                  '())
+              (filter-map (lambda (w) (and (suspicious-spelling? heads w)
+                                           (list 'warning 'spelling ref text
+                                                 (format #f "~s: a longer verb ending consonant-vowel-consonant; if its stress is final add it to %double, else to %stress-initial (scripts/lib/gsb-literal.scm)" w))))
+                          ws))))
+         segs)))
+     (_ '()))
+   (read-forms (out-path book chapter))))
+
 (define (check env tgts)
   "Errors (unknown form, lemma or sense missing from the concordance, an
 article that does not agree, any lint error in the output, a chapter not
 generated) fail; warnings (ambiguous New Testament reading, pinned verse,
 verse mostly overrides) are listed."
-  (let ((problems 0) (warnings 0))
+  (let ((problems 0) (warnings 0) (heads (verb-heads env)))
     (define (problem! fmt . args) (set! problems (+ problems 1)) (apply format #t (string-append "error\t" fmt "~%") args))
     (define (warning! fmt . args) (set! warnings (+ warnings 1)) (apply format #t (string-append "warning\t" fmt "~%") args))
     (for-each
@@ -207,7 +237,12 @@ verse mostly overrides) are listed."
                                           (verse-warnings env ref words))))))
                        (chapter-verses verses (book-field book 'id) c))
              (if (file-exists? (out-path book c))
-                 (for-each (lambda (e) (problem! "lint\t~a" e)) (lint-generated env book c))
+                 (begin
+                   (for-each (lambda (e) (problem! "lint\t~a" e)) (lint-generated env book c))
+                   (for-each (match-lambda
+                               (('error kind ref text detail) (problem! "~a\t~a\t~s\t~a" kind ref text detail))
+                               (('warning kind ref text detail) (warning! "~a\t~a\t~s\t~a" kind ref text detail)))
+                             (english-problems heads book c)))
                  (problem! "not-generated\t~a\trun ./scripts/gsb-literal.sh generate ~a ~a" (out-path book c) (book-field book 'id) c)))
            chapters))))
      tgts)

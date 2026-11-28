@@ -1,0 +1,55 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ruth	theoldtestamenti00unknuoft	576	1	οἶκός	οἶκός	οἶκός	οἶκός	image (3x): accent before enclitic as printed
+ruth	theoldtestamenti00unknuoft	576	1	Ἰ̓Ἰούδᾳ,	Ἰ̓Ἰούδᾳ,	Ἰούδᾳ,	Ἰούδᾳ,	image (3x): smooth breathing on the capital (apostrophe shape), no accent on it
+ruth	theoldtestamenti00unknuoft	576	2	Κύριός	Κύριός	Κύριός	Κύριός	image (3x): accent before enclitic as printed
+ruth	theoldtestamenti00unknuoft	576	2	ταύτης.	ταύτης. +13	ταύτης.	ταύτης.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ruth	theoldtestamenti00unknuoft	576	3	Boos	Βόος	Βόος	Βόος	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	576	3	‘Pové,	ἹῬΡούθ,	Ῥούθ,	Ῥούθ,	image (3x): rough breathing on Ρ
+ruth	theoldtestamenti00unknuoft	576	4	υἱον.	υἱον.	υἱόν.	υἱόν.	image (3x): rough breathing on ι, acute on ο
+ruth	theoldtestamenti00unknuoft	576	4	εἰπαν	εἶπαν	εἶπαν	εἶπαν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ruth	theoldtestamenti00unknuoft	576	4	ai	αἷ	αἱ	αἱ	image (3x): αἱ, rough breathing only
+ruth	theoldtestamenti00unknuoft	576	4	Νωεμείν	Νωεμείν	Νωεμείν	Νωεμείν	image (3x): accent as printed
+ruth	theoldtestamenti00unknuoft	576	4	Ἑὐλογητὸς	Ἑὐλογητὸς	Εὐλογητὸς	Εὐλογητὸς	image (3x): smooth breathing on υ of Εὐ, grave on ο
+ruth	theoldtestamenti00unknuoft	576	5	κατέλυσέ	κατέλυσέ	κατέλυσέ	κατέλυσέ	image (3x): accent before enclitic as printed
+ruth	theoldtestamenti00unknuoft	576	5	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): accent before enclitic as printed
+ruth	theoldtestamenti00unknuoft	576	6	gov	σου	σου	σου	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	576	6	ev	ἐν᾽	ἐν	ἐν	image (3x): ἐν; a small raised speck stands between ἐν and Ἰσραήλ, not text
+ruth	theoldtestamenti00unknuoft	576	6	Ἰσραήλ:	Ἰσραήλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing on the capital (apostrophe shape), no accent on it
+ruth	theoldtestamenti00unknuoft	576	6	“kat	"βκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ruth	theoldtestamenti00unknuoft	576	7	πολιάν	πολιάν	πολιάν	πολιάν	image (3x): accent before enclitic as printed
+ruth	theoldtestamenti00unknuoft	576	7	ἡ	ἢ	ἡ	ἡ	image (3x): ἡ, rough breathing only
+ruth	theoldtestamenti00unknuoft	576	7	ἀγαπήσασά	ἀγαπήσασά	ἀγαπήσασά	ἀγαπήσασά	image (3x): accent before enclitic as printed
+ruth	theoldtestamenti00unknuoft	576	8	ἥ	ἥ	ἥ	ἥ	image (3x): accent before enclitic as printed
+ruth	theoldtestamenti00unknuoft	576	8	ἀγαθή	ἀγαθὴ	ἀγαθή	ἀγαθή	image (3x): accent before enclitic as printed
+ruth	theoldtestamenti00unknuoft	576	8	υἱούς.	υἱούς. +16	υἱούς.	υἱούς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ruth	theoldtestamenti00unknuoft	576	8	‘Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	576	10	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ruth	theoldtestamenti00unknuoft	576	10	Ἐτέχθη	Ἐτέχθη	Ἐτέχθη	Ἐτέχθη	image (3x): smooth breathing on the capital (apostrophe shape), no accent on it
+ruth	theoldtestamenti00unknuoft	576	11	Ὠβήδ᾽	Ὠβηδ᾽	Ὠβήδ·	Ὠβήδ·	image (3x): smooth breathing on Ω; accent on η as written
+ruth	theoldtestamenti00unknuoft	576	11	πατὴρ	πατὴρ	πατὴρ	πατὴρ	image (3x): accent as printed
+ruth	theoldtestamenti00unknuoft	576	12	Ιεσσαὶ	Ιεσσαὶ	Ἰεσσαὶ	Ἰεσσαὶ	image (3x): smooth breathing on the capital (apostrophe shape), no accent on it
+ruth	theoldtestamenti00unknuoft	576	12	πατρὸς	πατρὸς	πατρὸς	πατρὸς	image (3x): accent as printed
+ruth	theoldtestamenti00unknuoft	576	13	9Ἐσρὼν	᾿ϑκαὶ	Καὶ	Καὶ	image (3x): superscript 18 then Καὶ, capital with grave
+ruth	theoldtestamenti00unknuoft	576	13	∅	αὗται	αὗται	αὗται	class R0: OCR lost the word in extraction; c read from the image strip
+ruth	theoldtestamenti00unknuoft	576	13	∅	αἱ	αἱ	αἱ	class R0: OCR lost the word in extraction; c read from the image strip
+ruth	theoldtestamenti00unknuoft	576	13	∅	γενέσεις	γενέσεις	γενέσεις	class R0: OCR lost the word in extraction; c read from the image strip
+ruth	theoldtestamenti00unknuoft	576	13	∅	Φάρες:	Φάρες·	Φάρες·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ruth	theoldtestamenti00unknuoft	576	13	∅	Φάρες	Φάρες	Φάρες	class R0: OCR lost the word in extraction; c read from the image strip
+ruth	theoldtestamenti00unknuoft	576	13	∅	ἐγέννησεν	ἐγέννησεν	ἐγέννησεν	class R0: OCR lost the word in extraction; c read from the image strip
+ruth	theoldtestamenti00unknuoft	576	13	∅	τὸν	τὸν	τὸν	class R0: OCR lost the word in extraction; c read from the image strip
+ruth	theoldtestamenti00unknuoft	576	13	∅	Ἑ).“σρών,	Ἑσρών,	Ἑσρών,	image (3x): rough breathing on Ε (open curl)
+ruth	theoldtestamenti00unknuoft	576	14	∅	ϑἘσρὼν	Ἑσρὼν	Ἑσρὼν	image (3x): rough breathing on Ε (open curl)
+ruth	theoldtestamenti00unknuoft	576	14	Ἀρράν,	Ἀρράν,	Ἀρράν,	Ἀρράν,	image (3x): smooth breathing on the capital (apostrophe shape), no accent on it
+ruth	theoldtestamenti00unknuoft	576	14	Ἀρρὰν	Ἀρρὰν	Ἀρρὰν	Ἀρρὰν	image (3x): smooth breathing on the capital (apostrophe shape), no accent on it
+ruth	theoldtestamenti00unknuoft	576	15	Ἀμειναδάβ,	Ἀμειναδάβ,	Ἀμειναδάβ,	Ἀμειναδάβ,	image (3x): smooth breathing on the capital (apostrophe shape), no accent on it
+ruth	theoldtestamenti00unknuoft	576	15	Kai	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ruth	theoldtestamenti00unknuoft	576	15	Ἀμειναδὰβ	Ἀμειναδὰβ	Ἀμειναδὰβ	Ἀμειναδὰβ	image (3x): smooth breathing on the capital (apostrophe shape), no accent on it
+ruth	theoldtestamenti00unknuoft	576	16	“᾿καὶ	“᾿καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ruth	theoldtestamenti00unknuoft	576	16	Boos,	Βόος,	Βόος,	Βόος,	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	576	16	Boos	Βόος	Βόος	Βόος	class R5: Latin-letter substitution in OCR; c read from the image strip
+ruth	theoldtestamenti00unknuoft	576	17	Ὠβηδ,	Ὠβηδ,	Ὠβήδ,	Ὠβήδ,	image (3x): smooth breathing on Ω; accent on η as written
+ruth	theoldtestamenti00unknuoft	576	17	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ruth	theoldtestamenti00unknuoft	576	17	Ὠβὴδ	Ὠβὴδ	Ὠβὴδ	Ὠβὴδ	image (3x): smooth breathing on Ω; accent on η as written
+ruth	theoldtestamenti00unknuoft	576	17	Ἴεσσαί,	Ἴεσσαί,	Ἰεσσαί,	Ἰεσσαί,	image (3x): smooth breathing on the capital (apostrophe shape), no accent on it
+ruth	theoldtestamenti00unknuoft	576	17	Ἰεσσαὶ	Ἰεσσαὶ	Ἰεσσαὶ	Ἰεσσαὶ	image (3x): smooth breathing on the capital (apostrophe shape), no accent on it
+ruth	theoldtestamenti00unknuoft	576	6	-	-	ἐν	ἐν	image: small raised speck after ἐν, before Ἰσραήλ; speck, not a mark

@@ -361,7 +361,7 @@
     ("and" 24)
     ("as many as" 25)
     ("ever" 26)
-    ("be" 27)
+    ("he/she/it be" 27)
     ("upon" 28)
     ("the earth" 29 30)
     ("will expire." (31 expire "τελευτάω"))))

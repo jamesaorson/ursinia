@@ -414,7 +414,9 @@ sidecar rows after adding the new ones, PROBLEMS a list of strings."
                => (lambda (k) (let ((l (list-ref lines k)))
                                 (list (third box) (first l) (fourth box) (second l)))))
               (else #f))))
-    (let loop ((rs todo) (k 1) (acc '()))
+    ;; Rows with no crop are left out up front, so ffmpeg labels [c0]..[cN-1]
+    ;; stay contiguous and each "#i" matches its place on the sheet.
+    (let loop ((rs (filter rect todo)) (k 1) (acc '()))
       (if (null? rs)
           (reverse acc)
           (let* ((group (take rs (min 4 (length rs))))

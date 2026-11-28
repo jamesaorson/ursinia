@@ -1,47 +1,47 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 1kgdms	theoldtestamenti00unknuoft	638	1	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	638	1	Ἀγχοὺς	Ἀγχοὺς	Ἀγχοὺς	Ἀγχοὺς	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+1kgdms	theoldtestamenti00unknuoft	638	1	Ἀγχοὺς	Ἀγχοὺς	Ἀγχοὺς	Ἀγχοὺς	image (3x): smooth breathing (apostrophe shape)
 1kgdms	theoldtestamenti00unknuoft	638	1	ὅτι +6	ὅτι +6	ὅτι	ὅτι	class R3: OCR appended accent-row or margin junk; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	638	2	ἔξοδός	ἔξοδός	ἔξοδός	ἔξοδός	TODO zoom: accent before an enclitic
-1kgdms	theoldtestamenti00unknuoft	638	2	εἴσοδός	εἴσοδός	εἴσοδός	εἴσοδός	TODO zoom: accent before an enclitic
+1kgdms	theoldtestamenti00unknuoft	638	2	ἔξοδός	ἔξοδός	ἔξοδός	ἔξοδός	image (3x): acute before enclitic as printed
+1kgdms	theoldtestamenti00unknuoft	638	2	εἴσοδός	εἴσοδός	εἴσοδός	εἴσοδός	image (3x): acute before enclitic as printed
 1kgdms	theoldtestamenti00unknuoft	638	3	παρεμβολῇ:	παρεμβολῇ:	παρεμβολῇ·	παρεμβολῇ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	4	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	5	pois	μοῖς	μοῖς	μοῖς	class R5: Latin-letter substitution in OCR; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	5	‘Kal	1καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	7	*xai	ὃκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	638	7	Ἀγχούς	Ἀγχούς	Ἀγχούς	Ἀγχούς	TODO zoom: breathing on a capital (OCR misreads rough/smooth); acute or grave before a capitalized word
+1kgdms	theoldtestamenti00unknuoft	638	7	Ἀγχούς	Ἀγχούς	Ἀγχούς	Ἀγχούς	image (3x): smooth breathing (apostrophe shape)
 1kgdms	theoldtestamenti00unknuoft	638	7	Ti	Τί	Τί	Τί	class R5: Latin-letter substitution in OCR; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	638	7	πεποίηκά	πεποίηκά	πεποίηκά	πεποίηκά	TODO zoom: accent before an enclitic
+1kgdms	theoldtestamenti00unknuoft	638	7	πεποίηκά	πεποίηκά	πεποίηκά	πεποίηκά	image (3x): acute before enclitic as printed
 1kgdms	theoldtestamenti00unknuoft	638	8	ἀφ᾽	ἀφ᾽ +-	ἀφ᾽	ἀφ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	638	8	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	TODO zoom: accent before an enclitic
+1kgdms	theoldtestamenti00unknuoft	638	8	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	image (3x): acute before enclitic as printed
 1kgdms	theoldtestamenti00unknuoft	638	9	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	10	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	10	καὶ	9καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	638	10	Ἀγχοὺς	Ἀγχοὺς	Ἀγχοὺς	Ἀγχοὺς	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-1kgdms	theoldtestamenti00unknuoft	638	10	Δαυείδ	Δαυείδ	Δαυεὶδ	Δαυεὶδ	TODO zoom: acute or grave before a capitalized word; A DIA, B DIA
-1kgdms	theoldtestamenti00unknuoft	638	10	Οἶδα	Οἶδα	Οἶδα	Οἶδα	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+1kgdms	theoldtestamenti00unknuoft	638	10	Ἀγχοὺς	Ἀγχοὺς	Ἀγχοὺς	Ἀγχοὺς	image (3x): smooth breathing (apostrophe shape)
+1kgdms	theoldtestamenti00unknuoft	638	10	Δαυείδ	Δαυείδ	Δαυεὶδ	Δαυείδ	image (3x): acute on Δαυείδ before capitalized quotation
+1kgdms	theoldtestamenti00unknuoft	638	10	Οἶδα	Οἶδα	Οἶδα	Οἶδα	image (3x): smooth breathing (apostrophe shape)
 1kgdms	theoldtestamenti00unknuoft	638	12	yovow	γουσιν	γουσιν	γουσιν	class R5: Latin-letter substitution in OCR; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	638	12	Οὐχ	Οὐχ	Οὐχ	Οὐχ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+1kgdms	theoldtestamenti00unknuoft	638	12	Οὐχ	Οὐχ	Οὐχ	Οὐχ	image (3x): smooth breathing (apostrophe shape)
 1kgdms	theoldtestamenti00unknuoft	638	12	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	12	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	12	viv	νῦν	νῦν	νῦν	class R5: Latin-letter substitution in OCR; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	14	ἐκεῖ:	ἐκεῖ:	ἐκεῖ·	ἐκεῖ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	14	λόγον	λόγον +λ	λόγον	λόγον	class R3: OCR appended accent-row or margin junk; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	15	Ons	θῇς	θῇς	θῇς	class R5: Latin-letter substitution in OCR; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	638	15	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	TODO zoom: accent before an enclitic
+1kgdms	theoldtestamenti00unknuoft	638	15	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	image (3x): acute before enclitic as printed
 1kgdms	theoldtestamenti00unknuoft	638	15	μου"	μου" +:	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	15	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	16	πορεύθητε.	πορεύθητε. +τ	πορεύθητε.	πορεύθητε.	class R3: OCR appended accent-row or margin junk; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	16	“kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	638	16	ὥρθρισεν	ὥρθρισεν	ὤρθρισεν	ὤρθρισεν	TODO zoom: A DIA, B DIA
-1kgdms	theoldtestamenti00unknuoft	638	17	γὴν	γὴν	γῆν	γῆν	TODO zoom: A DIA, B DIA
-1kgdms	theoldtestamenti00unknuoft	638	18	Ἰσραὴλ. +τ᾽	Ἰσραήλ. +τ᾽	Ἰσραήλ.	Ἰσραήλ.	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B R3
-1kgdms	theoldtestamenti00unknuoft	638	20	Ἀμαλὴκ	Ἀμαλὴκ	Ἀμαλὴκ	Ἀμαλὴκ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+1kgdms	theoldtestamenti00unknuoft	638	16	ὥρθρισεν	ὥρθρισεν	ὤρθρισεν	ὤρθρισεν	image (3x): smooth + acute (apostrophe then rising stroke), not rough
+1kgdms	theoldtestamenti00unknuoft	638	17	γὴν	γὴν	γῆν	γῆν	image (3x): circumflex, not grave
+1kgdms	theoldtestamenti00unknuoft	638	18	Ἰσραὴλ. +τ᾽	Ἰσραήλ. +τ᾽	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing (apostrophe shape)
+1kgdms	theoldtestamenti00unknuoft	638	20	Ἀμαλὴκ	Ἀμαλὴκ	Ἀμαλὴκ	Ἀμαλὴκ	image (3x): smooth breathing (apostrophe shape)
 1kgdms	theoldtestamenti00unknuoft	638	21	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	21	πυρί:	πυρί:	πυρί·	πυρί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	22	Ξκαὶ	Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	22	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	638	23	ἠχμαλώτευσαν"	ἠχμαλώτευσαν"	ᾐχμαλώτευσαν·	ᾐχμαλώτευσαν·	TODO zoom: A OPEN, B OPEN
+1kgdms	theoldtestamenti00unknuoft	638	23	ἠχμαλώτευσαν"	ἠχμαλώτευσαν"	ᾐχμαλώτευσαν·	ᾐχμαλώτευσαν·	image (3x): iota subscript under initial eta plus smooth breathing
 1kgdms	theoldtestamenti00unknuoft	638	24	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	24	3καὶ	3καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	25	kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
@@ -50,18 +50,20 @@ book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 1kgdms	theoldtestamenti00unknuoft	638	26	viol	υἱοὶ	υἱοὶ	υἱοὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	26	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	26	ai	αἱ +θ	αἱ	αἱ	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	638	26	ἠχμαλωτευμένοι.	ἠχμαλωτευμένοι.	ᾐχμαλωτευμένοι.	ᾐχμαλωτευμένοι.	TODO zoom: A DROP, B DROP
-1kgdms	theoldtestamenti00unknuoft	638	26	“καὶ	4 +“καὶ	καὶ	καὶ	TODO zoom: A R1, B OPEN
+1kgdms	theoldtestamenti00unknuoft	638	26	ἠχμαλωτευμένοι.	ἠχμαλωτευμένοι.	ᾐχμαλωτευμένοι.	ᾐχμαλωτευμένοι.	image (3x): iota subscript under initial eta plus smooth breathing
+1kgdms	theoldtestamenti00unknuoft	638	26	“καὶ	4 +“καὶ	καὶ	καὶ	image (3x): superscript 4 then καὶ
 1kgdms	theoldtestamenti00unknuoft	638	26	ἦρεν	ἦρεν +Δ	ἦρεν	ἦρεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	26	Δαυεὶδ +4	Δαυεὶδ +4	Δαυεὶδ	Δαυεὶδ	class R3: OCR appended accent-row or margin junk; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	638	27	ἣν	ἦν	ἦν	ἦν	TODO zoom: A DIA, B same
-1kgdms	theoldtestamenti00unknuoft	638	28	κλαίειν...	κλαίειν.. +5	κλαίειν.	κλαίειν.	TODO zoom: A OPEN, B OPEN
+1kgdms	theoldtestamenti00unknuoft	638	27	ἣν	ἦν	ἦν	ἦν	image (3x): smooth + circumflex
+1kgdms	theoldtestamenti00unknuoft	638	28	κλαίειν...	κλαίειν.. +5	κλαίειν.	κλαίειν.	image (3x): one period; the second dot is a reddish-brown stain, not ink
 1kgdms	theoldtestamenti00unknuoft	638	28	"καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	28	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	638	28	nxpa-	ἡχμα-	ᾐχμα-	ᾐχμα-	TODO zoom: A R5, B DIA
-1kgdms	theoldtestamenti00unknuoft	638	29	Ἀχεινόομ	Ἀχεινόομ	Ἀχεινόομ	Ἀχεινόομ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-1kgdms	theoldtestamenti00unknuoft	638	29	Ἰσραηλεῖτις	Ἰσραηλεῖτις	Ἰσραηλεῖτις	Ἰσραηλεῖτις	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-1kgdms	theoldtestamenti00unknuoft	638	29	Ἀβειγαία	Ἀβειγαία	Ἀβειγαία	Ἀβειγαία	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-1kgdms	theoldtestamenti00unknuoft	638	29	γυνὴ	γυνὴ	γυνὴ	γυνὴ	TODO zoom: acute or grave before a capitalized word
+1kgdms	theoldtestamenti00unknuoft	638	28	nxpa-	ἡχμα-	ᾐχμα-	ᾐχμα-	image (3x): iota subscript under initial eta plus smooth breathing
+1kgdms	theoldtestamenti00unknuoft	638	29	Ἀχεινόομ	Ἀχεινόομ	Ἀχεινόομ	Ἀχεινόομ	image (3x): smooth breathing (apostrophe shape)
+1kgdms	theoldtestamenti00unknuoft	638	29	Ἰσραηλεῖτις	Ἰσραηλεῖτις	Ἰσραηλεῖτις	Ἰσραηλεῖτις	image (3x): smooth breathing (apostrophe shape)
+1kgdms	theoldtestamenti00unknuoft	638	29	Ἀβειγαία	Ἀβειγαία	Ἀβειγαία	Ἀβειγαία	image (3x): smooth breathing (apostrophe shape)
+1kgdms	theoldtestamenti00unknuoft	638	29	γυνὴ	γυνὴ	γυνὴ	γυνὴ	image (3x): grave on γυνὴ before the name (not a quotation)
 1kgdms	theoldtestamenti00unknuoft	638	30	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	638	30	λιθο- +6	λιθο-	λιθο-	λιθο-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1kgdms	theoldtestamenti00unknuoft	638	6	-	-	καὶ	καὶ	ambiguous: accent on καὶ prints as a small v-shaped mark (damaged type); read grave
+1kgdms	theoldtestamenti00unknuoft	638	24	-	-	εἰς	εἰς	image: reddish speck below the baseline between εἰς and τὴν, not a period

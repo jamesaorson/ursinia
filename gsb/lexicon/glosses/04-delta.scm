@@ -94,7 +94,7 @@
     (gloss "open" "opened" "opens" "opening")
     (why "(Supplied in Genesis 3:5.) To open fully, of eyes (Genesis 3:5, 7; Luke 24:31, their eyes were opened), ears, the womb, the Scriptures. \"Open\", against ἀνοίγω, which will need its own gloss or a note.")))
 
-(lemma "διασκεδάζω" (sense break-up (gloss "break up" "broke up" "broken up" "breaks up" "breaking up") (verb "break up" "broke" "broken") (why "(LXX, supplied.) To scatter, break up, and so make void (Genesis 17:14 τὴν διαθήκην μου διεσκέδασεν \"he/she/it broke up my covenant\"). \"Break up\" keeps the picture of scattering; \"break\" alone is kept free for other verbs.")))
+(lemma "διασκεδάζω" (sense break-up (gloss "break up" "broke up" "broken up" "breaks up" "breaking up") (verb "break up" "broke up" "broken up") (why "(LXX, supplied.) To scatter, break up, and so make void (Genesis 17:14 τὴν διαθήκην μου διεσκέδασεν \"he/she/it broke up my covenant\"). \"Break up\" keeps the picture of scattering; \"break\" alone is kept free for other verbs.")))
 
 (lemma "διαστέλλω" (sense part (gloss "part" "parted" "parts" "parting") (why "To set apart, divide, separate (Genesis 25:23, the two peoples \"will be parted\" from Rebekah's womb). \"Part\" keeps it apart from διαχωρίζω \"separate\" and διαιρέω. The New Testament's middle \"give orders, charge\" (Mark 7:36) will be its own sense.")))
 
@@ -173,7 +173,7 @@
 (lemma "δρόσος" (sense dew (gloss "dew") (why "(LXX, supplied.) Dew (Genesis 27:28, 39, ἀπὸ τῆς δρόσου τοῦ οὐρανοῦ, Isaac's blessings).")))
 
 (lemma "δρῦς" (sense oak (gloss "oak" "oaks") (why "(LXX, supplied.) An oak (Genesis 18:1 πρὸς τῇ δρυὶ τῇ Μαμβρή, \"by the oak of Mamre\").")))
-(lemma "δύναμαι" (sense be-able (verb "be able" "was" "been") (gloss "be able" "able") (why "To be able, can (Genesis 13:6, 16; Matthew 6:24). \"Be able\" so every tense can be formed (\"were able\", \"is able\").")))
+(lemma "δύναμαι" (sense be-able (verb "be able" "was able" "been able") (gloss "be able" "able") (why "To be able, can (Genesis 13:6, 16; Matthew 6:24). \"Be able\" so every tense can be formed (\"were able\", \"is able\").")))
 
 (lemma "δύνω" (sense set (gloss "set" "sets") (why "Of the sun, to go down, set (Genesis 28:11 ἔδυ γὰρ ὁ ἥλιος; Mark 1:32; Luke 4:40). Its noun δυσμή is \"setting\". (LXX form supplied.)")))
 

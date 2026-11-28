@@ -1,61 +1,61 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 1kgdms	theoldtestamenti00unknuoft	596	1	Skat	Ἰδκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	596	1	“ὁ	“ὁ	ὁ	ὁ	TODO zoom: A OPEN, B OPEN
-1kgdms	theoldtestamenti00unknuoft	596	1	Σαούλ	Σαούλ	Σαοὺλ	Σαοὺλ	TODO zoom: acute or grave before a capitalized word; A DIA, B DIA
-1kgdms	theoldtestamenti00unknuoft	596	1	Ἀπάγγειλον	Ἀπάγγειλον	Ἀπάγγειλον	Ἀπάγγειλον	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-1kgdms	theoldtestamenti00unknuoft	596	1	δή	δή	δή	δή	TODO zoom: accent before an enclitic
-1kgdms	theoldtestamenti00unknuoft	596	1	εἶπέν	εἶπέν	εἶπέν	εἶπέν	TODO zoom: accent before an enclitic
+1kgdms	theoldtestamenti00unknuoft	596	1	“ὁ	“ὁ	ὁ	ὁ	image (3x): ὁ; light speck to its left is not text
+1kgdms	theoldtestamenti00unknuoft	596	1	Σαούλ	Σαούλ	Σαοὺλ	Σαούλ	image (3x): acute before capitalized word
+1kgdms	theoldtestamenti00unknuoft	596	1	Ἀπάγγειλον	Ἀπάγγειλον	Ἀπάγγειλον	Ἀπάγγειλον	image (3x): smooth breathing (apostrophe shape)
+1kgdms	theoldtestamenti00unknuoft	596	1	δή	δή	δή	δή	image (3x): acute before enclitic
+1kgdms	theoldtestamenti00unknuoft	596	1	εἶπέν	εἶπέν	εἶπέν	εἶπέν	image (3x): acute before enclitic
 1kgdms	theoldtestamenti00unknuoft	596	1	σοι +τ5	σοι +τ5	σοι	σοι	class R3: OCR appended accent-row or margin junk; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	596	2	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	596	2	Ἀπήγγειλεν +τό	Ἀπήγγειλεν +τό	Ἀπήγγειλεν	Ἀπήγγειλεν	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+1kgdms	theoldtestamenti00unknuoft	596	2	Ἀπήγγειλεν +τό	Ἀπήγγειλεν +τό	Ἀπήγγειλεν	Ἀπήγγειλεν	image (3x): smooth breathing (apostrophe shape)
 1kgdms	theoldtestamenti00unknuoft	596	3	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	596	3	ὄνοι:	ὄνοι"	ὄνοι·	ὄνοι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	596	5	7Kat	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	596	5	εἰς +17	εἰς +17	εἰς	εἰς	class R3: OCR appended accent-row or margin junk; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	596	6	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	596	6	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	TODO zoom: acute or grave before a capitalized word
-1kgdms	theoldtestamenti00unknuoft	596	6	Ἰσραήλ	Ἰσραήλ	Ἰσραήλ	Ἰσραήλ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); acute or grave before a capitalized word
+1kgdms	theoldtestamenti00unknuoft	596	6	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave, next word is a name or Κύριος, not a quotation
+1kgdms	theoldtestamenti00unknuoft	596	6	Ἰσραήλ	Ἰσραήλ	Ἰσραήλ	Ἰσραήλ	image (3x): smooth breathing (apostrophe shape)
 1kgdms	theoldtestamenti00unknuoft	596	6	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
-1kgdms	theoldtestamenti00unknuoft	596	6	θεὸς +18	θεὸς +ι8	θεὸς	θεὸς	TODO zoom: acute or grave before a capitalized word
-1kgdms	theoldtestamenti00unknuoft	596	7	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-1kgdms	theoldtestamenti00unknuoft	596	7	Ἐγὼ	Ἐγὼ	Ἐγὼ	Ἐγὼ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-1kgdms	theoldtestamenti00unknuoft	596	7	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	TODO zoom: acute or grave before a capitalized word
-1kgdms	theoldtestamenti00unknuoft	596	7	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-1kgdms	theoldtestamenti00unknuoft	596	7	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+1kgdms	theoldtestamenti00unknuoft	596	6	θεὸς +18	θεὸς +ι8	θεὸς	θεὸς	image (3x): grave, next word is a name or Κύριος, not a quotation
+1kgdms	theoldtestamenti00unknuoft	596	7	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape)
+1kgdms	theoldtestamenti00unknuoft	596	7	Ἐγὼ	Ἐγὼ	Ἐγὼ	Ἐγὼ	image (3x): smooth breathing (apostrophe shape)
+1kgdms	theoldtestamenti00unknuoft	596	7	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave, next word is a name or Κύριος, not a quotation
+1kgdms	theoldtestamenti00unknuoft	596	7	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape)
+1kgdms	theoldtestamenti00unknuoft	596	7	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	image (3x): smooth breathing (apostrophe shape)
 1kgdms	theoldtestamenti00unknuoft	596	7	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	596	8	ex	ἐκ	ἐκ	ἐκ	class R5: Latin-letter substitution in OCR; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	596	8	χειρὸς	χειρὸς	χειρὸς	χειρὸς	TODO zoom: acute or grave before a capitalized word
-1kgdms	theoldtestamenti00unknuoft	596	8	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+1kgdms	theoldtestamenti00unknuoft	596	8	χειρὸς	χειρὸς	χειρὸς	χειρὸς	image (3x): grave, next word is a name or Κύριος, not a quotation
+1kgdms	theoldtestamenti00unknuoft	596	8	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing (apostrophe shape)
 1kgdms	theoldtestamenti00unknuoft	596	9	‘Kat	᾿ϑκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	596	9	ἐξουθενη- +19	ἐξουθενή- +τὸ	ἐξουθενή-	ἐξουθενή-	TODO zoom: A DROP, B R3
-1kgdms	theoldtestamenti00unknuoft	596	10	αὐτός	αὐτός	αὐτός	αὐτός	TODO zoom: accent before an enclitic
-1kgdms	theoldtestamenti00unknuoft	596	11	Οὐχί,	Οὐχί,	Οὐχί,	Οὐχί,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-1kgdms	theoldtestamenti00unknuoft	596	12	ἐνώσιον	ἐνώσιον	ἐνώπιον	ἐνώπιον	TODO zoom: A OPEN, B OPEN
+1kgdms	theoldtestamenti00unknuoft	596	9	ἐξουθενη- +19	ἐξουθενή- +τὸ	ἐξουθενή-	ἐξουθενή-	image (3x): acute on η, hyphen; margin number 19 is not text
+1kgdms	theoldtestamenti00unknuoft	596	10	αὐτός	αὐτός	αὐτός	αὐτός	image (3x): acute before enclitic
+1kgdms	theoldtestamenti00unknuoft	596	11	Οὐχί,	Οὐχί,	Οὐχί,	Οὐχί,	image (3x): smooth breathing (apostrophe shape)
+1kgdms	theoldtestamenti00unknuoft	596	12	ἐνώσιον	ἐνώσιον	ἐνώπιον	ἐνώπιον	image (3x): π, not σ
 1kgdms	theoldtestamenti00unknuoft	596	13	kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	596	13	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	596	13	ὑμῶν. +““	ὑμῶν. +““	ὑμῶν.	ὑμῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	596	13	πάντα	πάντα +20	πάντα	πάντα	class R3: OCR appended accent-row or margin junk; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	596	14	20 +Ta	τὰ	τὰ	τὰ	class R6 (OCR letters differ): the other OCR reading agrees with c
-1kgdms	theoldtestamenti00unknuoft	596	14	lopand,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+1kgdms	theoldtestamenti00unknuoft	596	14	lopand,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe shape)
 1kgdms	theoldtestamenti00unknuoft	596	14	Βενιαμείν"	Βενιαμείν" +“᾽	Βενιαμείν·	Βενιαμείν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	596	14	Kai +21	καὶ +“1	καὶ	καὶ	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	596	15	κατακληροῦται	κατακληροῦται +εἰ	κατακληροῦται	κατακληροῦται	class R3: OCR appended accent-row or margin junk; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	596	15	φυλὴ	φυλὴ	φυλὴ	φυλὴ	TODO zoom: acute or grave before a capitalized word
+1kgdms	theoldtestamenti00unknuoft	596	15	φυλὴ	φυλὴ	φυλὴ	φυλὴ	image (3x): grave, next word is a name or Κύριος, not a quotation
 1kgdms	theoldtestamenti00unknuoft	596	16	Ματταρεί:	Ματταρεί:	Ματταρεί·	Ματταρεί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	596	16	φυλὴν	φυλὴν	φυλὴν	φυλὴν	TODO zoom: acute or grave before a capitalized word
-1kgdms	theoldtestamenti00unknuoft	596	17	υἱὸς	υἱὸς	υἱὸς	υἱὸς	TODO zoom: acute or grave before a capitalized word
+1kgdms	theoldtestamenti00unknuoft	596	16	φυλὴν	φυλὴν	φυλὴν	φυλὴν	image (3x): grave, next word is a name or Κύριος, not a quotation
+1kgdms	theoldtestamenti00unknuoft	596	17	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave, next word is a name or Κύριος, not a quotation
 1kgdms	theoldtestamenti00unknuoft	596	17	εὑρίσκετο. +“Ξ	εὑρίσκετο. +“Ξ	εὑρίσκετο.	εὑρίσκετο.	class R3: OCR appended accent-row or margin junk; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	596	18	Ei	Ἐῤ	Εἰ	Εἰ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A R5, B OPEN
+1kgdms	theoldtestamenti00unknuoft	596	18	Ei	Ἐῤ	Εἰ	Εἰ	image (3x): smooth breathing (apostrophe shape)
 1kgdms	theoldtestamenti00unknuoft	596	18	ἐνταῦθα;	ἐνταῦθα; +::	ἐνταῦθα;	ἐνταῦθα;	class R3: OCR appended accent-row or margin junk; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	596	19	22 +kat	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
-1kgdms	theoldtestamenti00unknuoft	596	19	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+1kgdms	theoldtestamenti00unknuoft	596	19	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing (apostrophe shape)
 1kgdms	theoldtestamenti00unknuoft	596	19	καὶ +23	καὶ +23	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	596	20	ἐκεῖθεν, +᾿	ἐκεῖθεν,	ἐκεῖθεν,	ἐκεῖθεν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	596	21	λαοῦ:	λαοῦ:	λαοῦ·	λαοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	596	21	ἐπάνω.	ἐπάνω. +“"	ἐπάνω.	ἐπάνω.	class R3: OCR appended accent-row or margin junk; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	596	21	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	596	22	λαόν	λαόν	λαόν	λαόν	TODO zoom: acute or grave before a capitalized word
-1kgdms	theoldtestamenti00unknuoft	596	22	Ei	Ἐῤ	Εἰ	Εἰ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A R5, B OPEN
+1kgdms	theoldtestamenti00unknuoft	596	22	λαόν	λαόν	λαόν	λαόν	image (3x): acute before capitalized word
+1kgdms	theoldtestamenti00unknuoft	596	22	Ei	Ἐῤ	Εἰ	Εἰ	image (3x): smooth breathing (apostrophe shape)
 1kgdms	theoldtestamenti00unknuoft	596	23	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	596	24	mas	πᾶς	πᾶς	πᾶς	class R5: Latin-letter substitution in OCR; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	596	24	βασιλεύς. +"5	βασιλεύς. +"5	βασιλεύς.	βασιλεύς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
@@ -64,5 +64,5 @@ book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 1kgdms	theoldtestamenti00unknuoft	596	28	Γαβαά:	Γαβαά:	Γαβαά·	Γαβαά·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	596	29	Σαούλ.	Σαούλ. +“7	Σαούλ.	Σαούλ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
 1kgdms	theoldtestamenti00unknuoft	596	29	“7καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-1kgdms	theoldtestamenti00unknuoft	596	29	Tis	Ῥίς	Τίς	Τίς	TODO zoom: A R5, B OPEN
-1kgdms	theoldtestamenti00unknuoft	596	30	ἡτίμασαν	ἠτίμασαν	ἠτίμασαν	ἠτίμασαν	TODO zoom: A DIA, B same
+1kgdms	theoldtestamenti00unknuoft	596	29	Tis	Ῥίς	Τίς	Τίς	image (3x): Τ with acute on ι
+1kgdms	theoldtestamenti00unknuoft	596	30	ἡτίμασαν	ἠτίμασαν	ἠτίμασαν	ἠτίμασαν	image (3x): smooth breathing on η

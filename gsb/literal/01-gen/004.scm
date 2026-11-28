@@ -189,12 +189,11 @@
     ("But" 14)
     ("he said," (13 pronoun) 15)
     ("I do not know;" 16 17)
-    ("not" 18)
-    ("guard" (19 guard "φύλαξ"))
+    ("am" (18 question) 23)
+    ("I" 24)
+    ("guard" (cont 23) (19 guard "φύλαξ"))
     ("of my" 22)
-    ("brother" (20 absorbed) 21)
-    ("am" 23)
-    ("I?" 24)))
+    ("brother?" (20 absorbed) 21)))
 
 (verse 10
   (status draft)
@@ -265,8 +264,8 @@
     ("Greater" 7)
     ("my" 10)
     ("charge" (8 absorbed) 9)
-    ("of being forgiven" (11 infinitive) (12 forgive "ἀφίημι"))
-    ("me." 13)))
+    ("of my" (11 infinitive) 13)
+    ("being forgiven." (12 forgive "ἀφίημι"))))
 
 (verse 14
   (status draft)
@@ -347,8 +346,8 @@
   (status draft)
   (literal
     ("And" 1)
-    ("Cain" 3)
     ("knew" 2)
+    ("Cain" 3)
     ("his" 6)
     ("woman," (4 absorbed) 5)
     ("and" 7)
@@ -427,7 +426,7 @@
   (literal
     ("And" 1)
     ("name" 2)
-    ("to his" 5)
+    ("to its" 5)
     ("brother" (3 absorbed) 4)
     ("Jubal;" (6 name "Ἰουβάλ"))
     ("this" 7)

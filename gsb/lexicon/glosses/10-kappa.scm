@@ -121,7 +121,7 @@
     (gloss "during")
     (why "With the accusative of time: during, in the course of (Genesis 20:6 εἶπεν δὲ αὐτῷ ὁ θεὸς καθ’ ὕπνον; Matthew 1:20; 2:12 κατ’ ὄναρ, \"during [a] dream\"; Acts 16:25 κατὰ τὸ μεσονύκτιον). Chosen by a word override.")))
 
-(lemma "καταβαίνω" (sense go-down (gloss "go down" "went down" "gone down" "goes down" "going down") (verb "go down" "went" "gone") (why "To go down, come down (Genesis 18:21 καταβὰς οὖν ὄψομαι; John 1:51; 3:13). The counterpart of ἀναβαίνω \"go up\".")))
+(lemma "καταβαίνω" (sense go-down (gloss "go down" "went down" "gone down" "goes down" "going down") (verb "go down" "went down" "gone down") (why "To go down, come down (Genesis 18:21 καταβὰς οὖν ὄψομαι; John 1:51; 3:13). The counterpart of ἀναβαίνω \"go up\".")))
 
 (lemma "καταβλέπω" (sense look-down (gloss "look down" "looked down" "looks down" "looking down") (why "(LXX, supplied.) To look down on, look down toward (Genesis 18:16 κατέβλεψαν ἐπὶ πρόσωπον Σοδόμων). Kept apart from ἀναβλέπω \"look up\" and βλέπω \"see\".")))
 
@@ -133,7 +133,7 @@
 
 (lemma "κατακλυσμός" (sense flood (gloss "flood" "floods") (why "Deluge, flood (Genesis 6:17; Matthew 24:38-39; 2 Peter 2:5).")))
 
-(lemma "κατακόπτω" (sense cut-down (verb "cut down" "cut" "cut") (gloss "cut down" "cuts down" "cutting down") (why "To cut down, cut to pieces; of an army, to strike down in battle (Genesis 14:5, 7; Mark 5:5 has \"cutting himself\").")))
+(lemma "κατακόπτω" (sense cut-down (verb "cut down" "cut down" "cut down") (gloss "cut down" "cuts down" "cutting down") (why "To cut down, cut to pieces; of an army, to strike down in battle (Genesis 14:5, 7; Mark 5:5 has \"cutting himself\").")))
 
 (lemma "κατακυριεύω"
   (sense master
@@ -181,7 +181,7 @@
 
 (lemma "κατάσχεσις" (sense possession (with-preposition "εἰς" for) (gloss "possession" "possessions") (why "A holding, possession (Genesis 17:8 εἰς κατάσχεσιν αἰώνιον \"for everlasting possession\"; Acts 7:5, 45, which recall it).")))
 
-(lemma "καταφεύγω" (sense take-refuge (verb "take refuge" "took" "taken") (gloss "take refuge" "took refuge" "taken refuge" "takes refuge" "taking refuge") (why "To flee for refuge (Genesis 19:20 τοῦ καταφυγεῖν με ἐκεῖ; Acts 14:6; Hebrews 6:18). \"Take refuge\" keeps it apart from φεύγω \"flee\".")))
+(lemma "καταφεύγω" (sense take-refuge (verb "take refuge" "took refuge" "taken refuge") (gloss "take refuge" "took refuge" "taken refuge" "takes refuge" "taking refuge") (why "To flee for refuge (Genesis 19:20 τοῦ καταφυγεῖν με ἐκεῖ; Acts 14:6; Hebrews 6:18). \"Take refuge\" keeps it apart from φεύγω \"flee\".")))
 
 (lemma "καταφθείρω" (sense ruin (gloss "ruin" "ruined" "ruins" "ruining") (why "(LXX forms supplied.) To destroy, ruin; perfect passive, ruined, corrupted (Genesis 6:12-13, 17; 2 Peter 2:12). The Greek of Genesis 6:12-17 uses one verb for all flesh ruining its way and for God ruining all flesh; one English word keeps that visible. Kept apart from φθείρω \"corrupt\" (6:11).")))
 

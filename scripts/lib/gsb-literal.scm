@@ -40,7 +40,7 @@
             env-forms env-nt env-overrides env-phrases env-senses
             segments->sexp
             write-chapter
-            english-past english-pp english-ing english-s3 english-plural
+            english-past english-pp english-ing english-s3 english-plural suspicious-spelling? verb-heads
             normalize-for-compare))
 
 ;;; ---------------------------------------------------------------------------
@@ -120,10 +120,60 @@ person, tense, voice, mood, degree (characters). #f for no tag."
     ("rend" "rent" "rent") ("shoot" "shot" "shot") ("sweep" "swept" "swept") ("burn" "burned" "burned")
     ("show" "showed" "shown") ("fall" "fell" "fallen") ("undo" "undid" "undone")))
 
-;; Final consonant doubled before -ed/-ing.
-(define %double '("plan" "stop" "beg" "sin" "rob" "permit" "commit" "admit" "submit" "occur" "prefer"
-                  "refer" "regret" "beget" "transfer" "forget" "dip" "drop" "grip" "hop" "hug" "nod" "pat" "pin" "plot" "rub" "sip"
-                  "skip" "slip" "step" "tap" "trap" "trip" "wrap" "stir" "spin" "shun" "slam" "strip"))
+;; Final consonant doubled before -ed/-ing: by rule a one-syllable verb ending
+;; consonant-vowel-consonant (blot, run, beg; not w, x, y: snow, fix, play);
+;; longer verbs only when the stress is final, which spelling does not show,
+;; so they are listed. %no-double: one-syllable exceptions.
+(define %double '("permit" "commit" "admit" "submit" "occur" "prefer" "refer" "regret" "beget" "transfer"
+                  "forget" "begin" "compel" "repel" "rebel" "control" "patrol" "equip" "omit" "upset" "abet" "befit"))
+(define %no-double '())
+;; Longer verbs ending consonant-vowel-consonant with the stress before the
+;; end (no doubling): a -ing/-ed form of one not listed here or in %double is
+;; a `check` warning, since spelling cannot show the stress.
+(define %stress-initial
+  '("open" "visit" "gather" "enter" "listen" "deliver" "remember" "number" "wander" "offer" "suffer" "murmur"
+    "answer" "harden" "happen" "hearken" "travel" "marvel" "quarrel" "inherit" "inhabit" "covet" "summon" "reckon"
+    "hasten" "scatter" "utter" "wonder" "order" "water" "honor" "cover" "consider" "worship" "fashion" "question"
+    "strengthen" "dishonor" "fetter" "prosper" "ponder" "anger" "uncover" "sober"))
+
+(define (cvc-end? w)
+  (let ((n (string-length w)))
+    (and (>= n 3)
+         (let ((c3 (string-ref w (- n 1))) (v (string-ref w (- n 2))) (c1 (string-ref w (- n 3))))
+           (and (not (vowel? c3)) (not (memv c3 '(#\w #\x #\y))) (vowel? v) (not (vowel? c1)))))))
+
+(define (verb-heads env)
+  "The English head word of every concordance sense of a Greek verb (a lemma
+in -ω, -μι, -μαι)."
+  (let ((h (make-hash-table)))
+    (hash-for-each
+     (lambda (lemma senses)
+       (when (any (lambda (e) (string-suffix? e lemma)) '("ω" "ώ" "μι" "μαι"))
+         (for-each (lambda (s) (let ((g (car (verb-base s)))) (unless (string-null? g) (hash-set! h g #t)))) senses)))
+     (env-senses env))
+    h))
+
+(define (suspicious-spelling? heads word)
+  "WORD is the -ing/-ed form, undoubled, of a verb head (HEADS: verb-heads)
+of more than one syllable ending consonant-vowel-consonant that neither
+%double nor %stress-initial lists: whether its consonant doubles depends on
+the stress, which spelling does not show (\"begeting\")."
+  (let ((stem (cond ((string-suffix? "ing" word) (chop word 3))
+                    ((string-suffix? "ed" word) (chop word 2))
+                    (else #f))))
+    (and stem (hash-ref heads stem) (cvc-end? stem)
+         (string-index (substring stem 0 (- (string-length stem) 2)) vowel?)
+         (not (member stem %double)) (not (member stem %stress-initial))
+         #t)))
+
+(define (doubles? w)
+  (or (member w %double)
+      (and (not (member w %no-double)) (>= (string-length w) 3)
+           (let* ((n (string-length w)) (c3 (string-ref w (- n 1))) (v (string-ref w (- n 2))) (c1 (string-ref w (- n 3))))
+             (and (not (vowel? c3)) (not (memv c3 '(#\w #\x #\y))) (vowel? v) (not (vowel? c1))
+                  ;; one syllable: no other vowel before
+                  (not (string-index (substring w 0 (- n 2)) (lambda (c) (or (vowel? c) (eqv? c #\y))))))))
+      #f))
 
 (define %irregular-plural
   '(("man" . "men") ("woman" . "women") ("child" . "children") ("foot" . "feet") ("tooth" . "teeth")
@@ -147,7 +197,7 @@ person, tense, voice, mood, degree (characters). #f for no tag."
 (define (regular-ed w)
   (cond ((ends? w "e") (string-append w "d"))
         ((cons-y? w) (string-append (chop w 1) "ied"))
-        ((member w %double) (string-append w (last-char w) "ed"))
+        ((doubles? w) (string-append w (last-char w) "ed"))
         (else (string-append w "ed"))))
 
 (define (english-past w) (let ((i (assoc w %irregular))) (if i (cadr i) (regular-ed w))))
@@ -158,7 +208,7 @@ person, tense, voice, mood, degree (characters). #f for no tag."
         ((ends? w "ie") (string-append (chop w 2) "ying"))
         ((and (ends? w "e") (not (any (lambda (e) (ends? w e)) '("ee" "ye" "oe"))) (> (string-length w) 2))
          (string-append (chop w 1) "ing"))
-        ((member w %double) (string-append w (last-char w) "ing"))
+        ((doubles? w) (string-append w (last-char w) "ing"))
         (else (string-append w "ing"))))
 
 (define (english-plural w)
@@ -677,10 +727,13 @@ capital for a paragraph or direct speech, not for a name."
          ;; A noun can choose the sense of the preposition before it:
          ;; (with-preposition "εἰς" for) on σημεῖον gives εἰς σημεῖα "for signs".
          ((and (is? x "PREP") (not (u x 'sense))
-               (let ((noun (find (lambda (y) (not (is? y "T" "A"))) (filter identity (map at (iota 3 (+ i 1)))))))
-                 (and noun (field (unit-sense env noun) 'with-preposition))))
+               (let* ((noun (find (lambda (y) (not (is? y "T" "A"))) (filter identity (map at (iota 3 (+ i 1))))))
+                      (f (and noun (field (unit-sense env noun) 'with-preposition))))
+                 ;; only for its own preposition (ἡμέρα's ἐν does not make μετὰ
+                 ;; τὰς ἑπτὰ ἡμέρας "with")
+                 (and (pair? f) (equal? (car f) (lemma x)) f)))
           => (match-lambda
-               ((prep name) (when (equal? prep (lemma x)) (vector-set! v i (set-sense x name))))
+               ((prep name) (vector-set! v i (set-sense x name)))
                (_ #f)))
          ;; A preposition sense may name the case it takes: μετά + accusative "after".
          ((and (is? x "PREP") (not (u x 'sense))
@@ -688,6 +741,15 @@ capital for a paragraph or direct speech, not for a name."
                       (senses (hash-ref (env-senses env) (lemma x) '())))
                  (and obj (find (lambda (s) (equal? (field1 s 'object-case) (string (case-of obj)))) senses))))
           => (lambda (s) (vector-set! v i (set-sense x (car s)))))
+         ;; ἀνά outside ἀνὰ μέσον is distributive: ἀνὰ δραχμήν "each drachma"
+         ((and (lemma-in? x "ἀνά") (not (u x 'sense)) (not (u x 'phrase)) (sense-of env "ἀνά" 'each))
+          (vector-set! v i (set-sense x 'each)))
+         ;; δύο δύο, ἑπτὰ ἑπτά: "two [by] two"
+         ((and (numeral? x) nx (equal? (lemma x) (lemma nx)) (not (u x 'after)) (string-null? (u x 'post)))
+          (vector-set! v i (u+ x 'after "[by]")))
+         ;; ὅπως ἄν, ἵνα ἄν: "in order that", the ἄν unrendered
+         ((and (lemma-in? x "ἄν") (not (u x 'sense)) (lemma-in? p "ὅπως" "ἵνα") (sense-of env "ἄν" 'unrendered))
+          (vector-set! v i (set-sense x 'unrendered)))
          ((and (lemma-in? x "πᾶς") (not (ref-sense* (car (u x 'refs)))))
           (vector-set! v i (set-sense x (if (and (eqv? (num-of x) #\S) (not (is? nx "T"))) 'every 'all)))))))
     ;; Demonstrative before article + noun: the article is absorbed (not
@@ -1809,10 +1871,15 @@ there is none): nominatives with their genitives (πνεῦμα θεοῦ)."
          (phrase (if (pair? v) (car v) (gloss1 sense)))
          (words (string-split phrase #\space))
          (head (car words))
-         (tail (string-join (cdr words) " ")))
+         (tail (string-join (cdr words) " "))
+         ;; (verb "come back" "came back" "come back"), the convention, or
+         ;; (verb "come back" "came" "come"): the particle is added once
+         (bare (lambda (f) (if (and (not (string-null? tail)) (string-suffix? (string-append " " tail) f))
+                               (substring f 0 (- (string-length f) (string-length tail) 1))
+                               f))))
     (list head tail
-          (if (and (pair? v) (>= (length v) 2)) (second v) (english-past head))
-          (if (and (pair? v) (>= (length v) 3)) (third v) (english-pp head)))))
+          (if (and (pair? v) (>= (length v) 2)) (bare (second v)) (english-past head))
+          (if (and (pair? v) (>= (length v) 3)) (bare (third v)) (english-pp head)))))
 
 (define (verb-english env x)
   "Verb phrase words for verb unit X as (let-part . rest): LET-PART is \"let\"
@@ -2040,14 +2107,29 @@ lemma) or (cont n)."
                     (speech? (and (u x 'speech) (u x 'cap) (not (eqv? (u x 'idx) (u first-greek 'idx))) (> k 0)))
                     (compose (lambda (core subj)
                                (string-join (filter (lambda (s) (and s (not (string-null? s))))
-                                                    (list (u x 'pre) (u x 'helper) subj core))
+                                                    (list (u x 'pre) (u x 'helper)
+                                                          (and (not (string-null? (u x 'helper))) (u x 'before))
+                                                          subj core))
                                             " ")))
                     (mk (lambda (text refs) `((text . ,text) (refs . ,refs) (speech . ,speech?)
                                               (prefix . ,(and (is? x "T") (pair? refs)))))))
                (only-first-speech
-                (if (u x 'before) (list (mk (u x 'before) '())) '())
+                ;; a supplied word before the word goes after its case helper:
+                ;; "of [the] Lord", "altar to [the] Lord" (one segment)
+                (if (and (u x 'before) (string-null? (u x 'helper))) (list (mk (u x 'before) '())) '())
                 (cond
-                 ((u x 'english) (list (mk (u x 'english) (u x 'refs))))
+                 ;; an (english ...) override of a pronoun keeps its case helper
+                 ;; (αὐτῷ (english "him/it"): "to him/it"); on other words the
+                 ;; override is the whole English, helper included
+                 ((u x 'english)
+                  (let* ((h (if (and (is? x "P" "F")
+                                     (member (u x 'english) '("him/it" "his/its" "himself/itself" "him" "her" "it" "them" "his" "its" "he/it")))
+                                (u x 'helper) ""))
+                         (t (u x 'english))
+                         (b (and (not (string-null? (u x 'helper))) (u x 'before)))
+                         (t (if b (string-append b " " t) t))
+                         (t (if (or (string-null? h) (string-prefix? (string-append h " ") t) (string=? h t)) t (string-append h " " t))))
+                    (list (mk t (u x 'refs)))))
                  ((u x 'tail-piece) (list (mk e (list (list 'cont (u x 'n))))))
                  ((u x 'supplied-piece) (list (mk e '())))
                  ((pair? e)
@@ -2093,6 +2175,10 @@ lemma) or (cont n)."
                      ((p . rest)
                       (cond ((string-null? (string-trim-both (u p 'text)))
                              (loop rest (append carry (u p 'refs)) text (or sp (u p 'speech)) acc))
+                            ;; a supplied word ("[the]") passes the carried Greek on
+                            ;; to the next word: ἐν τῷ ... "in [the] Lord's"
+                            ((and (null? (u p 'refs)) (pair? carry) (pair? rest) (string-null? text) (string-prefix? "[" (u p 'text)))
+                             (loop rest carry "" #f (cons (u+ p 'speech (or sp (u p 'speech))) acc)))
                             ((and (u p 'prefix) (pair? rest))
                              (loop rest (append carry (u p 'refs)) (string-trim-both (string-append text " " (u p 'text)))
                                    (or sp (u p 'speech)) acc))
@@ -2233,8 +2319,17 @@ speech, and a verse more than half of whose words are overridden."
                                    "no pronoun, as the Greek has none; if it reads as the wrong subject, override (subject \"he/she/it\")")
                              acc)))
                 ((finite? x) (loop rest '() #t acc))
-                (else (loop rest (cons x since-verb) seen-verb? acc))))))))
-    (append borrowed kai-after-person
+                (else (loop rest (cons x since-verb) seen-verb? acc)))))))
+         ;; A verb whose subject the rules could not tell apart (an
+         ;; indeclinable name with an apposition in another case, a second
+         ;; nominative): left in Greek order, to be read (gsb/literal/README.md).
+         (unsure
+          (filter-map (lambda (x)
+                        (and (u x 'subject-unsure)
+                             (list 'subject-unsure (format #f "~a#~a" ref (u x 'n)) (u x 'greek)
+                                   "subject not certain: Greek order kept; check the verse states the right actor, else add an override")))
+                      (append-map (lambda (span) (order-span env span)) (split-spans units)))))
+    (append borrowed kai-after-person unsure
             (if (and (pair? words) (> (* 2 n-over) (length words)))
                 (list (list 'mostly-overrides ref "" (format #f "~a of ~a words overridden" n-over (length words))))
                 '()))))

@@ -139,7 +139,7 @@
 
 (lemma "ὀρεινός" (sense hill-country (gloss "hill country") (why "Mountainous; ἡ ὀρεινή (γῆ), the hill country (Genesis 14:10, the ones left fled into the hill country; Luke 1:39, 65). Swete spells it ὀρινή.")))
 
-(lemma "ὀρθρίζω" (sense rise-early (verb "rise early" "rose" "risen") (gloss "rise early" "rose early" "risen early" "rises early" "rising early") (why "To rise at dawn, get up early (Genesis 19:2, 27; 20:8; Luke 21:38, the people came early in the morning). The verb of ὄρθρος \"dawn\".")))
+(lemma "ὀρθρίζω" (sense rise-early (verb "rise early" "rose early" "risen early") (gloss "rise early" "rose early" "risen early" "rises early" "rising early") (why "To rise at dawn, get up early (Genesis 19:2, 27; 20:8; Luke 21:38, the people came early in the morning). The verb of ὄρθρος \"dawn\".")))
 
 (lemma "ὄρθρος" (sense dawn (gloss "dawn") (why "Daybreak, dawn (Genesis 19:15 ἡνίκα δὲ ὄρθρος ἐγίνετο; Luke 24:1; John 8:2).")))
 

@@ -25,6 +25,10 @@
 ;; English morphology.
 (check "past" (map english-past '("make" "carry" "sin" "open")) '("made" "carried" "sinned" "opened"))
 (check "ing" (map english-ing '("make" "die" "see")) '("making" "dying" "seeing"))
+;; consonant doubling by rule (one syllable consonant-vowel-consonant) and list
+(check "ing doubling" (map english-ing '("blot" "run" "beget" "open" "visit" "snow" "fix" "rain"))
+       '("blotting" "running" "begetting" "opening" "visiting" "snowing" "fixing" "raining"))
+(check "past doubling" (map english-past '("blot" "beg" "prosper")) '("blotted" "begged" "prospered"))
 (check "plural" (map english-plural '("fig tree" "man" "city")) '("fig trees" "men" "cities"))
 
 ;; A tiny lexicon and two verses (Genesis 1:3 and 2:7-like).
@@ -107,6 +111,19 @@
                                                       #t))
               (lambda (segs _) (segments->sexp env segs (make-hash-table))))))
   (check "segments" sexp '(("Let" (1 come-to-be "γίνομαι")) ("light" (2 light "φῶς")) ("come to be." (cont 1)))))
+
+;; (verb "come back" "came back" ...) and (verb "come back" "came" ...) give
+;; the particle once.
+(for-each
+ (lambda (v)
+   (let* ((s (gloss-senses `((lemma "ἀναστρέφω" (sense return ,v (gloss "come back" "came back") (why "w"))))))
+          (f (index-forms-rows '(("ἀνέστρεψεν" "ἀναστρέφω" "V-AAI-3S"))))
+          (e (make-env f (make-hash-table) s '() (make-hash-table) (make-hash-table))))
+     (check (format #f "particle once ~s" v)
+            (call-with-values (lambda () (render-verse e "gen.8.9" (list (row 1 "ἀνέστρεψεν" "." "ἀναστρέφω" "")) #t))
+              (lambda (segs _) (string-join (map car segs) " ")))
+            "He/she/it came back.")))
+ '((verb "come back" "came back" "come back") (verb "come back" "came" "come")))
 
 ;;; Real verses, rendered from the repository's data (form analyses,
 ;;; concordance, phrases) with NO overrides or pinned verses, so each check is
