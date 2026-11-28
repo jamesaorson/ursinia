@@ -82,7 +82,7 @@
     ("seven hundred" (12 seven-hundred "ἑπτακόσιοι"))
     ("years," 13)
     ("and" 14)
-    ("begot" 15)
+    ("he/she/it begot" 15)
     ("sons" 16)
     ("and" 17)
     ("daughters." 18)))
@@ -150,7 +150,7 @@
     ("twelve" 8)
     ("years," 9)
     ("and" 10)
-    ("died." 11)))
+    ("he/she/it died." 11)))
 
 (verse 9
   (status draft)
@@ -199,7 +199,7 @@
     ("five" 9)
     ("years," 10)
     ("and" 11)
-    ("died." 12)))
+    ("he/she/it died." 12)))
 
 (verse 12
   (status draft)
@@ -247,7 +247,7 @@
     ("ten" 9)
     ("years," 10)
     ("and" 11)
-    ("died." 12)))
+    ("he/she/it died." 12)))
 
 (verse 15
   (status draft)
@@ -298,7 +298,7 @@
     ("five" 10)
     ("years," 11)
     ("and" 12)
-    ("died." 13)))
+    ("he/she/it died." 13)))
 
 (verse 18
   (status draft)
@@ -347,7 +347,7 @@
     ("two" 10)
     ("years," 11)
     ("and" 12)
-    ("died." 13)))
+    ("he/she/it died." 13)))
 
 (verse 21
   (status draft)
@@ -540,7 +540,7 @@
     ("three" 10)
     ("years," 11)
     ("and" 12)
-    ("died." 13)))
+    ("he/she/it died." 13)))
 
 (verse 32
   (status draft)

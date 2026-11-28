@@ -1,23 +1,23 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 3kgdms	theoldtestamenti00unknuoft	758	10	-	-	λαόν	λαόν	ambiguous: τὸν λαόν damaged (ν of τὸν broken, ο of λαόν blotted); accent reads acute before the capitalized quotation
 3kgdms	theoldtestamenti00unknuoft	758	11	-	-	αὐτόν.	αὐτόν.	ambiguous: final ν of αὐτόν printed detached and partly blotted; read αὐτόν.
-3kgdms	theoldtestamenti00unknuoft	758	1	αὐτοὺς	αὐτοὺς	αὐτοὺς	αὐτοὺς	TODO zoom: acute or grave before a capitalized word
-3kgdms	theoldtestamenti00unknuoft	758	1	Ἠλειοὺ	Ἠλειοὺ	Ἠλειοὺ	Ἠλειοὺ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-3kgdms	theoldtestamenti00unknuoft	758	1	Θεσϑβείτης	Θεσϑβείτης	Θεσβείτης	Θεσβείτης	TODO zoom: A OPEN, B OPEN
-3kgdms	theoldtestamenti00unknuoft	758	2	Ἐ̓πικαλεῖσθε	Ἐπικαλεῖσθε	Ἐπικαλεῖσθε	Ἐπικαλεῖσθε	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DROP, B same
-3kgdms	theoldtestamenti00unknuoft	758	2	θεός	θεός	θεός	θεός	TODO zoom: accent before an enclitic
+3kgdms	theoldtestamenti00unknuoft	758	1	αὐτοὺς	αὐτοὺς	αὐτοὺς	αὐτοὺς	image (3x): grave as printed before a capitalized name or title (not a quotation)
+3kgdms	theoldtestamenti00unknuoft	758	1	Ἠλειοὺ	Ἠλειοὺ	Ἠλειοὺ	Ἠλειοὺ	image (3x): smooth breathing (apostrophe shape); accent and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	758	1	Θεσϑβείτης	Θεσϑβείτης	Θεσβείτης	Θεσβείτης	image (3x): Θεσβείτης, no extra θ
+3kgdms	theoldtestamenti00unknuoft	758	2	Ἐ̓πικαλεῖσθε	Ἐπικαλεῖσθε	Ἐπικαλεῖσθε	Ἐπικαλεῖσθε	image (3x): smooth breathing (apostrophe shape); accent and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	758	2	θεός	θεός	θεός	θεός	image (3x): accent as printed before the enclitic / word
 3kgdms	theoldtestamenti00unknuoft	758	2	aor,	ἐστιν,	ἐστιν,	ἐστιν,	class R5: Latin-letter substitution in OCR; c read from the image strip
-3kgdms	theoldtestamenti00unknuoft	758	3	∅	ει	ἐστίν,	ἐστιν,	TODO zoom: A R0, B OPEN
+3kgdms	theoldtestamenti00unknuoft	758	3	∅	ει	ἐστίν,	ἐστιν,	image (3x): line 3 clearly printed as in the page file; both OCRs lost the line; ἐστιν unaccented
 3kgdms	theoldtestamenti00unknuoft	758	3	καὶ	∅	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
-3kgdms	theoldtestamenti00unknuoft	758	3	ἐξαναστήσεται:	∅	ἅμα	ἅμα	TODO zoom: A OPEN, B R0
-3kgdms	theoldtestamenti00unknuoft	758	3	ee	∅	μή	μή	TODO zoom: accent before an enclitic
-3kgdms	theoldtestamenti00unknuoft	758	3	∅	∅	ποτε	ποτε	TODO zoom: no OCR reading at all
-3kgdms	theoldtestamenti00unknuoft	758	3	∅	∅	χρηματίζει	χρηματίζει	TODO zoom: no OCR reading at all
-3kgdms	theoldtestamenti00unknuoft	758	3	∅	∅	αὐτός,	αὐτός,	TODO zoom: no OCR reading at all
-3kgdms	theoldtestamenti00unknuoft	758	3	∅	∅	ἢ	ἢ	TODO zoom: no OCR reading at all
-3kgdms	theoldtestamenti00unknuoft	758	3	∅	∅	μή	μή	TODO zoom: accent before an enclitic; no OCR reading at all
-3kgdms	theoldtestamenti00unknuoft	758	3	∅	∅	ποτε	ποτε	TODO zoom: no OCR reading at all
-3kgdms	theoldtestamenti00unknuoft	758	3	∅	∅	καθεύδει	καθεύδει	TODO zoom: no OCR reading at all
+3kgdms	theoldtestamenti00unknuoft	758	3	ἐξαναστήσεται:	∅	ἅμα	ἅμα	image (3x): line 3 clearly printed as in the page file; both OCRs lost the line; ἐστιν unaccented
+3kgdms	theoldtestamenti00unknuoft	758	3	ee	∅	μή	μή	image (3x): accent as printed before the enclitic / word
+3kgdms	theoldtestamenti00unknuoft	758	3	∅	∅	ποτε	ποτε	image (3x): line 3 clearly printed as in the page file; both OCRs lost the line; ἐστιν unaccented
+3kgdms	theoldtestamenti00unknuoft	758	3	∅	∅	χρηματίζει	χρηματίζει	image (3x): line 3 clearly printed as in the page file; both OCRs lost the line; ἐστιν unaccented
+3kgdms	theoldtestamenti00unknuoft	758	3	∅	∅	αὐτός,	αὐτός,	image (3x): line 3 clearly printed as in the page file; both OCRs lost the line; ἐστιν unaccented
+3kgdms	theoldtestamenti00unknuoft	758	3	∅	∅	ἢ	ἢ	image (3x): line 3 clearly printed as in the page file; both OCRs lost the line; ἐστιν unaccented
+3kgdms	theoldtestamenti00unknuoft	758	3	∅	∅	μή	μή	image (3x): accent as printed before the enclitic / word
+3kgdms	theoldtestamenti00unknuoft	758	3	∅	∅	ποτε	ποτε	image (3x): line 3 clearly printed as in the page file; both OCRs lost the line; ἐστιν unaccented
+3kgdms	theoldtestamenti00unknuoft	758	3	∅	∅	καθεύδει	καθεύδει	image (3x): line 3 clearly printed as in the page file; both OCRs lost the line; ἐστιν unaccented
 3kgdms	theoldtestamenti00unknuoft	758	3	∅	αὐτός,	αὐτός,	αὐτός,	class R0: OCR lost the word in extraction; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	4	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	4	∅	ἐξαναστήσεται.	ἐξαναστήσεται.	ἐξαναστήσεται.	class R0: OCR lost the word in extraction; c read from the image strip
@@ -32,101 +32,101 @@ book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 3kgdms	theoldtestamenti00unknuoft	758	6	∅	παρῆλθεν	παρῆλθεν	παρῆλθεν	class R0: OCR lost the word in extraction; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	6	∅	τὸ	τὸ	τὸ	class R0: OCR lost the word in extraction; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	6	∅	δειλινόν.	δειλινόν.	δειλινόν.	class R0: OCR lost the word in extraction; c read from the image strip
-3kgdms	theoldtestamenti00unknuoft	758	6	∅	᾿καὶ	καὶ	καὶ	TODO zoom: A R0, B OPEN
+3kgdms	theoldtestamenti00unknuoft	758	6	∅	᾿καὶ	καὶ	καὶ	image (3x): lowercase καὶ; the mark before it is a superscript or speck
 3kgdms	theoldtestamenti00unknuoft	758	6	∅	ἐγένετο	ἐγένετο	ἐγένετο	class R0: OCR lost the word in extraction; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	6	∅	ὡς +209	ὡς	ὡς	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
-3kgdms	theoldtestamenti00unknuoft	758	7	Kai	.καὶ	καὶ	καὶ	TODO zoom: A R5, B OPEN
-3kgdms	theoldtestamenti00unknuoft	758	7	Ἠλειοὺ	Ἠλειοὺ:	Ἠλειοὺ	Ἠλειοὺ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A same, B OPEN
+3kgdms	theoldtestamenti00unknuoft	758	7	Kai	.καὶ	καὶ	καὶ	image (3x): lowercase καὶ; the mark before it is a superscript or speck
+3kgdms	theoldtestamenti00unknuoft	758	7	Ἠλειοὺ	Ἠλειοὺ:	Ἠλειοὺ	Ἠλειοὺ	image (3x): smooth breathing (apostrophe shape); accent and punctuation as printed
 3kgdms	theoldtestamenti00unknuoft	758	7	πρὸς	π᾽ +ρὸς	πρὸς	πρὸς	class R6 (OCR letters differ): the other OCR reading agrees with c
 3kgdms	theoldtestamenti00unknuoft	758	8	nal	προφήτας	προφήτας	προφήτας	class R5: Latin-letter substitution in OCR; c read from the image strip
-3kgdms	theoldtestamenti00unknuoft	758	8	Μεΐάστητε	Μεΐάστητε	Μετάστητε	Μετάστητε	TODO zoom: A OPEN, B OPEN
+3kgdms	theoldtestamenti00unknuoft	758	8	Μεΐάστητε	Μεΐάστητε	Μετάστητε	Μετάστητε	image (3x): Μετάστητε, τ clear
 3kgdms	theoldtestamenti00unknuoft	758	8	τοῦ.	τοῦ	τοῦ	τοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
-3kgdms	theoldtestamenti00unknuoft	758	9	“ὁλοκαύτωμά	ὁλοκαύτωμά	ὁλοκαύτωμά	ὁλοκαύτωμά	TODO zoom: accent before an enclitic; A OPEN, B same
+3kgdms	theoldtestamenti00unknuoft	758	9	“ὁλοκαύτωμά	ὁλοκαύτωμά	ὁλοκαύτωμά	ὁλοκαύτωμά	image (3x): accent as printed before the enclitic / word
 3kgdms	theoldtestamenti00unknuoft	758	9	μου"	μου:	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	9	αὐλὸν.	ἀπῆλθον.	ἀπῆλθον.	ἀπῆλθον.	class R6 (OCR letters differ): the other OCR reading agrees with c
 3kgdms	theoldtestamenti00unknuoft	758	10	"Kal	βσκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	10	εἶπεν	εἶπεν +ψ	εἶπεν	εἶπεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
-3kgdms	theoldtestamenti00unknuoft	758	10	Ἠλειοὺ	Ἠλειοὺ	Ἠλειοὺ	Ἠλειοὺ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-3kgdms	theoldtestamenti00unknuoft	758	10	τὸν;	΄ +τὸν;	τὸν	τὸν	TODO zoom: A OPEN, B OPEN
-3kgdms	theoldtestamenti00unknuoft	758	10	λαΐν	λαόν	λαόν	λαόν	TODO zoom: acute or grave before a capitalized word; A OPEN, B same
+3kgdms	theoldtestamenti00unknuoft	758	10	Ἠλειοὺ	Ἠλειοὺ	Ἠλειοὺ	Ἠλειοὺ	image (3x): smooth breathing (apostrophe shape); accent and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	758	10	τὸν;	΄ +τὸν;	τὸν	τὸν	image (3x): τὸν with broken ν (no semicolon); see flag
+3kgdms	theoldtestamenti00unknuoft	758	10	λαΐν	λαόν	λαόν	λαόν	image (3x): λαόν, acute; see flag
 3kgdms	theoldtestamenti00unknuoft	758	10	Προσαγάγετε	Προσαγάγετε +-	Προσαγάγετε	Προσαγάγετε	class R3: OCR appended accent-row or margin junk; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	10	μέ:	μέ᾽	μέ·	μέ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-3kgdms	theoldtestamenti00unknuoft	758	10	προσή-	προσῆ- +30	προσή-	προσή-	TODO zoom: A same, B DIA
+3kgdms	theoldtestamenti00unknuoft	758	10	προσή-	προσῆ- +30	προσή-	προσή-	image (3x): acute on η of προσή-
 3kgdms	theoldtestamenti00unknuoft	758	11	30 +γάγϑι	γαγεν	γαγεν	γαγεν	class R6 (OCR letters differ): the other OCR reading agrees with c
-3kgdms	theoldtestamenti00unknuoft	758	11	αὐτὸ +yo	αὐτόν. +"3	αὐτόν.	αὐτόν.	TODO zoom: A OPEN, B R3
-3kgdms	theoldtestamenti00unknuoft	758	11	Ἠλειοὺ	Ἠ̓̀λειοὺ	Ἠλειοὺ	Ἠλειοὺ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A same, B DIA
+3kgdms	theoldtestamenti00unknuoft	758	11	αὐτὸ +yo	αὐτόν. +"3	αὐτόν.	αὐτόν.	image (3x): αὐτόν. with detached ν; see flag
+3kgdms	theoldtestamenti00unknuoft	758	11	Ἠλειοὺ	Ἠ̓̀λειοὺ	Ἠλειοὺ	Ἠλειοὺ	image (3x): smooth breathing (apostrophe shape); accent and punctuation as printed
 3kgdms	theoldtestamenti00unknuoft	758	11	λίθους	λίθους +3:	λίθους	λίθους	class R3: OCR appended accent-row or margin junk; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	12	31	κατ᾽	κατ᾽	κατ᾽	class R6 (OCR letters differ): the other OCR reading agrees with c
 3kgdms	theoldtestamenti00unknuoft	758	12	∅	ἀριθμὸν	ἀριθμὸν	ἀριθμὸν	class R0: OCR lost the word in extraction; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	12	∅	φυλῶν	φυλῶν	φυλῶν	class R0: OCR lost the word in extraction; c read from the image strip
-3kgdms	theoldtestamenti00unknuoft	758	12	∅	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+3kgdms	theoldtestamenti00unknuoft	758	12	∅	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe shape); accent and punctuation as printed
 3kgdms	theoldtestamenti00unknuoft	758	12	∅	ὡς	ὡς	ὡς	class R0: OCR lost the word in extraction; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	12	∅	ἐλάλησεν	ἐλάλησεν	ἐλάλησεν	class R0: OCR lost the word in extraction; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	12	∅	Κύριος	Κύριος	Κύριος	class R0: OCR lost the word in extraction; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	12	∅	πρὸς	πρὸς	πρὸς	class R0: OCR lost the word in extraction; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	12	∅	αὐτὸν	αὐτὸν	αὐτὸν	class R0: OCR lost the word in extraction; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	12	∅	λέγων	λέγων	λέγων	class R0: OCR lost the word in extraction; c read from the image strip
-3kgdms	theoldtestamenti00unknuoft	758	13	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-3kgdms	theoldtestamenti00unknuoft	758	13	ὄνομά	ὄνομά	ὄνομά	ὄνομά	TODO zoom: accent before an enclitic
+3kgdms	theoldtestamenti00unknuoft	758	13	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape); accent and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	758	13	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): accent as printed before the enclitic / word
 3kgdms	theoldtestamenti00unknuoft	758	13	σου.	σου. +σου. 3:	σου.	σου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	13	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
-3kgdms	theoldtestamenti00unknuoft	758	13	φκοδόμησεν +-	φκοδόμησεν.	ᾠκοδόμησεν	ᾠκοδόμησεν	TODO zoom: A OPEN, B OPEN
+3kgdms	theoldtestamenti00unknuoft	758	13	φκοδόμησεν +-	φκοδόμησεν.	ᾠκοδόμησεν	ᾠκοδόμησεν	image (3x): ᾠ with smooth breathing and iota subscript; the dot under ο is a speck
 3kgdms	theoldtestamenti00unknuoft	758	14	32 +ἀρ	ὀνόματι	ὀνόματι	ὀνόματι	class R6 (OCR letters differ): the other OCR reading agrees with c
 3kgdms	theoldtestamenti00unknuoft	758	14	“τὸ	τὸ	τὸ	τὸ	class R6 (OCR letters differ): the other OCR reading agrees with c
-3kgdms	theoldtestamenti00unknuoft	758	14	κατεσκἄμμένον,	κατεσκἄμμένον,	κατεσκαμμένον,	κατεσκαμμένον,	TODO zoom: A DIA, B DIA
+3kgdms	theoldtestamenti00unknuoft	758	14	κατεσκἄμμένον,	κατεσκἄμμένον,	κατεσκαμμένον,	κατεσκαμμένον,	image (3x): plain α in κατεσκαμμένον
 3kgdms	theoldtestamenti00unknuoft	758	15	∅	ἐποίησεν	ἐποίησεν	ἐποίησεν	class R0: OCR lost the word in extraction; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	15	∅	θάλασσαν	θάλασσαν	θάλασσαν	class R0: OCR lost the word in extraction; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	15	∅	χωροῦσαν	χωροῦσαν	χωροῦσαν	class R0: OCR lost the word in extraction; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	15	∅	δύο	δύο	δύο	class R0: OCR lost the word in extraction; c read from the image strip
-3kgdms	theoldtestamenti00unknuoft	758	15	∅	μέτρητὰς	μετρητὰς	μετρητὰς	TODO zoom: A R0, B DIA
+3kgdms	theoldtestamenti00unknuoft	758	15	∅	μέτρητὰς	μετρητὰς	μετρητὰς	image (3x): no accent on first ε; grave on final α
 3kgdms	theoldtestamenti00unknuoft	758	15	∅	σπέρματος	σπέρματος	σπέρματος	class R0: OCR lost the word in extraction; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	15	∅	κυκλόθεν	κυκλόθεν	κυκλόθεν	class R0: OCR lost the word in extraction; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	15	∅	τοῦ	τοῦ	τοῦ	class R0: OCR lost the word in extraction; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	16	θυσιαστηρίου. +383	θυσιαστηρίου.	θυσιαστηρίου.	θυσιαστηρίου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	16	καὶ	33καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-3kgdms	theoldtestamenti00unknuoft	758	16	ἐστοίβασεν.	ἐστοίβασεν.-	ἐστοίβασεν	ἐστοίβασεν	TODO zoom: A OPEN, B OPEN
+3kgdms	theoldtestamenti00unknuoft	758	16	ἐστοίβασεν.	ἐστοίβασεν.-	ἐστοίβασεν	ἐστοίβασεν	image (3x): word as in the page file; extra OCR marks are specks or margin numbers; ano teleia where raised
 3kgdms	theoldtestamenti00unknuoft	758	16	ἀχίδακαν	σχίδακας	σχίδακας	σχίδακας	class R6 (OCR letters differ): the other OCR reading agrees with c
-3kgdms	theoldtestamenti00unknuoft	758	17	ὁλδκαύτωμα	ὁλδκαύτωμα	ὁλοκαύτωμα	ὁλοκαύτωμα	TODO zoom: A OPEN, B OPEN
+3kgdms	theoldtestamenti00unknuoft	758	17	ὁλδκαύτωμα	ὁλδκαύτωμα	ὁλοκαύτωμα	ὁλοκαύτωμα	image (3x): word as in the page file; extra OCR marks are specks or margin numbers; ano teleia where raised
 3kgdms	theoldtestamenti00unknuoft	758	17	σχίδακας,	σχίδακας;	σχίδακας,	σχίδακας,	class R6 (OCR letters differ): the other OCR reading agrees with c
-3kgdms	theoldtestamenti00unknuoft	758	18	ϑυσσνηρον. +.«3᾽	θυσιαστήριον. +3	θυσιαστήριον.	θυσιαστήριον.	TODO zoom: A OPEN, B R3
-3kgdms	theoldtestamenti00unknuoft	758	18	εἶπέν	εἶπέν	εἶπεν	εἶπεν	TODO zoom: A DIA, B DIA
-3kgdms	theoldtestamenti00unknuoft	758	18	Λάβετέ	Λάβετέ	Λάβετέ	Λάβετέ	TODO zoom: accent before an enclitic
+3kgdms	theoldtestamenti00unknuoft	758	18	ϑυσσνηρον. +.«3᾽	θυσιαστήριον. +3	θυσιαστήριον.	θυσιαστήριον.	image (3x): word as in the page file; extra OCR marks are specks or margin numbers; ano teleia where raised
+3kgdms	theoldtestamenti00unknuoft	758	18	εἶπέν	εἶπέν	εἶπεν	εἶπεν	image (3x): accent as printed before the enclitic / word
+3kgdms	theoldtestamenti00unknuoft	758	18	Λάβετέ	Λάβετέ	Λάβετέ	Λάβετέ	image (3x): accent as printed before the enclitic / word
 3kgdms	theoldtestamenti00unknuoft	758	18	ΜΕ	μοι	μοι	μοι	class R6 (OCR letters differ): the other OCR reading agrees with c
 3kgdms	theoldtestamenti00unknuoft	758	19	ΠΡΊΝ +ΑΝ	ὑδρίας	ὑδρίας	ὑδρίας	class R6 (OCR letters differ): the other OCR reading agrees with c
 3kgdms	theoldtestamenti00unknuoft	758	19	ἘΝΈΧΈΓΕ,	ἐπιχέετε	ἐπιχέετε	ἐπιχέετε	class R6 (OCR letters differ): the other OCR reading agrees with c
 3kgdms	theoldtestamenti00unknuoft	758	19	σχίδακας-	σχίδακας"	σχίδακας·	σχίδακας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	20	Δευτερώσατε:	Δευτερώσατε:	Δευτερώσατε·	Δευτερώσατε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-3kgdms	theoldtestamenti00unknuoft	758	21	Τρισσώσατε:	Τρισσώσατε:᾽	Τρισσώσατε·	Τρισσώσατε·	TODO zoom: A R2, B OPEN
-3kgdms	theoldtestamenti00unknuoft	758	21	ἐτρίσσευσαν: +35	ἐτρίσσευσαν: +585	ἐτρίσσευσαν.	ἐτρίσσευσαν.	TODO zoom: A OPEN, B OPEN
-3kgdms	theoldtestamenti00unknuoft	758	22	ὕδαξος. +36	ὕδαΐζος. +536	ὕδατος.	ὕδατος.	TODO zoom: A OPEN, B OPEN
-3kgdms	theoldtestamenti00unknuoft	758	23	Ἠλειοὺ	Ἠ̓λειοὺ	Ἠλειοὺ	Ἠλειοὺ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A same, B DROP
-3kgdms	theoldtestamenti00unknuoft	758	23	6	δ΄	ὁ	ὁ	TODO zoom: A OPEN, B OPEN
-3kgdms	theoldtestamenti00unknuoft	758	23	θεὸς	θεὸς	θεὸς	θεὸς	TODO zoom: acute or grave before a capitalized word
-3kgdms	theoldtestamenti00unknuoft	758	23	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-3kgdms	theoldtestamenti00unknuoft	758	23	Ἰσαὰκ	Ἰσαὰκ	Ἰσαὰκ	Ἰσαὰκ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+3kgdms	theoldtestamenti00unknuoft	758	21	Τρισσώσατε:	Τρισσώσατε:᾽	Τρισσώσατε·	Τρισσώσατε·	image (3x): word as in the page file; extra OCR marks are specks or margin numbers; ano teleia where raised
+3kgdms	theoldtestamenti00unknuoft	758	21	ἐτρίσσευσαν: +35	ἐτρίσσευσαν: +585	ἐτρίσσευσαν.	ἐτρίσσευσαν.	image (3x): word as in the page file; extra OCR marks are specks or margin numbers; ano teleia where raised
+3kgdms	theoldtestamenti00unknuoft	758	22	ὕδαξος. +36	ὕδαΐζος. +536	ὕδατος.	ὕδατος.	image (3x): word as in the page file; extra OCR marks are specks or margin numbers; ano teleia where raised
+3kgdms	theoldtestamenti00unknuoft	758	23	Ἠλειοὺ	Ἠ̓λειοὺ	Ἠλειοὺ	Ἠλειοὺ	image (3x): smooth breathing (apostrophe shape); accent and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	758	23	6	δ΄	ὁ	ὁ	image (3x): ὁ with rough breathing, no accent
+3kgdms	theoldtestamenti00unknuoft	758	23	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave as printed before a capitalized name or title (not a quotation)
+3kgdms	theoldtestamenti00unknuoft	758	23	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	image (3x): smooth breathing (apostrophe shape); accent and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	758	23	Ἰσαὰκ	Ἰσαὰκ	Ἰσαὰκ	Ἰσαὰκ	image (3x): smooth breathing (apostrophe shape); accent and punctuation as printed
 3kgdms	theoldtestamenti00unknuoft	758	24	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
-3kgdms	theoldtestamenti00unknuoft	758	24	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-3kgdms	theoldtestamenti00unknuoft	758	24	ἐπάκουσόν	ἐπάκουσόν	ἐπάκουσόν	ἐπάκουσόν	TODO zoom: accent before an enclitic
-3kgdms	theoldtestamenti00unknuoft	758	24	ἐπάκουσόν	ἐπάκουσόν	ἐπάκουσόν	ἐπάκουσόν	TODO zoom: accent before an enclitic
-3kgdms	theoldtestamenti00unknuoft	758	25	ὁ	ὃ	ὁ	ὁ	TODO zoom: A same, B DIA
-3kgdms	theoldtestamenti00unknuoft	758	25	σὺ	σὺ	σὺ	σὺ	TODO zoom: acute or grave before a capitalized word
-3kgdms	theoldtestamenti00unknuoft	758	25	Beds	θεὸς	θεὸς	θεὸς	TODO zoom: acute or grave before a capitalized word
-3kgdms	theoldtestamenti00unknuoft	758	25	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+3kgdms	theoldtestamenti00unknuoft	758	24	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe shape); accent and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	758	24	ἐπάκουσόν	ἐπάκουσόν	ἐπάκουσόν	ἐπάκουσόν	image (3x): accent as printed before the enclitic / word
+3kgdms	theoldtestamenti00unknuoft	758	24	ἐπάκουσόν	ἐπάκουσόν	ἐπάκουσόν	ἐπάκουσόν	image (3x): accent as printed before the enclitic / word
+3kgdms	theoldtestamenti00unknuoft	758	25	ὁ	ὃ	ὁ	ὁ	image (3x): ὁ with rough breathing, no accent
+3kgdms	theoldtestamenti00unknuoft	758	25	σὺ	σὺ	σὺ	σὺ	image (3x): grave as printed before a capitalized name or title (not a quotation)
+3kgdms	theoldtestamenti00unknuoft	758	25	Beds	θεὸς	θεὸς	θεὸς	image (3x): grave as printed before a capitalized name or title (not a quotation)
+3kgdms	theoldtestamenti00unknuoft	758	25	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe shape); accent and punctuation as printed
 3kgdms	theoldtestamenti00unknuoft	758	25	κἀγὼ	κἀγὰ	κἀγὼ	κἀγὼ	class R6 (OCR letters differ): the other OCR reading agrees with c
-3kgdms	theoldtestamenti00unknuoft	758	26	δοῦλός	δοῦλός	δοῦλός	δοῦλός	TODO zoom: accent before an enclitic
+3kgdms	theoldtestamenti00unknuoft	758	26	δοῦλός	δοῦλός	δοῦλός	δοῦλός	image (3x): accent as printed before the enclitic / word
 3kgdms	theoldtestamenti00unknuoft	758	26	ταῦτα. +57	ταῦτα.	ταῦτα.	ταῦτα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
-3kgdms	theoldtestamenti00unknuoft	758	26	ἐπάκουσόν	537ἐπάκουσόν	ἐπάκουσόν	ἐπάκουσόν	TODO zoom: accent before an enclitic
+3kgdms	theoldtestamenti00unknuoft	758	26	ἐπάκουσόν	537ἐπάκουσόν	ἐπάκουσόν	ἐπάκουσόν	image (3x): accent as printed before the enclitic / word
 3kgdms	theoldtestamenti00unknuoft	758	27	ee	Κύριε,	Κύριε,	Κύριε,	class R5: Latin-letter substitution in OCR; c read from the image strip
-3kgdms	theoldtestamenti00unknuoft	758	27	ἐπάκουσόν	ἐπάκουσόν	ἐπάκουσόν	ἐπάκουσόν	TODO zoom: accent before an enclitic
+3kgdms	theoldtestamenti00unknuoft	758	27	ἐπάκουσόν	ἐπάκουσόν	ἐπάκουσόν	ἐπάκουσόν	image (3x): accent as printed before the enclitic / word
 3kgdms	theoldtestamenti00unknuoft	758	27	Hike	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	27	dads	λαὸς	λαὸς	λαὸς	class R5: Latin-letter substitution in OCR; c read from the image strip
-3kgdms	theoldtestamenti00unknuoft	758	27	σὺ	σὺ	σὺ	σὺ	TODO zoom: acute or grave before a capitalized word
+3kgdms	theoldtestamenti00unknuoft	758	27	σὺ	σὺ	σὺ	σὺ	image (3x): grave as printed before a capitalized name or title (not a quotation)
 3kgdms	theoldtestamenti00unknuoft	758	28	ἐσϑρεψας	ἔστρεψας	ἔστρεψας	ἔστρεψας	class R6 (OCR letters differ): the other OCR reading agrees with c
 3kgdms	theoldtestamenti00unknuoft	758	28	μέ	τὴν	τὴν	τὴν	class R6 (OCR letters differ): the other OCR reading agrees with c
 3kgdms	theoldtestamenti00unknuoft	758	28	aes	καρδίαν	καρδίαν	καρδίαν	class R5: Latin-letter substitution in OCR; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	28	ὀπίσω.	ὀπίσω. +35	ὀπίσω.	ὀπίσω.	class R3: OCR appended accent-row or margin junk; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	28	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
-3kgdms	theoldtestamenti00unknuoft	758	28	ἔπεσὲν	ἔπεσεν	ἔπεσεν	ἔπεσεν	TODO zoom: A DIA, B same
+3kgdms	theoldtestamenti00unknuoft	758	28	ἔπεσὲν	ἔπεσεν	ἔπεσεν	ἔπεσεν	image (3x): no accent on the second ε; the dot under it is a speck
 3kgdms	theoldtestamenti00unknuoft	758	29	mapa	παρὰ	παρὰ	παρὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	758	29	ἐκ	ἐκ.	ἐκ	ἐκ	class R6 (OCR letters differ): the other OCR reading agrees with c
 3kgdms	theoldtestamenti00unknuoft	758	23	-	-	καὶ	καὶ	ambiguous: accent over ι of καὶ before Ἰσαὰκ looks hat-shaped (a speck beside the grave); read grave

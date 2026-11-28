@@ -1,0 +1,55 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+4kgdms	theoldtestamenti00unknuoft	828	2	Ἀμμών,	Ἀμμών,	Ἀμμών,	Ἀμμών,	image (3x): smooth breathing
+4kgdms	theoldtestamenti00unknuoft	828	2	“Kai	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	3	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	3	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	4	ἀνθρώπων.	ἀνθρώπων. +5	ἀνθρώπων.	ἀνθρώπων.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	4	Kai	Καί	Καί	Καί	image (3x): acute before enclitic γε
+4kgdms	theoldtestamenti00unknuoft	828	4	ye	γε	γε	γε	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	5	Ἱεροβοὰμ	Ἱεροβοὰμ	Ἰεροβοὰμ	Ἰεροβοὰμ	image (3x): smooth breathing, not rough
+4kgdms	theoldtestamenti00unknuoft	828	5	vids	υἱὸς	υἱὸς	υἱὸς	image (3x): grave before Ναβὰτ (capitalized name, not a quotation)
+4kgdms	theoldtestamenti00unknuoft	828	5	NaBar	Ναβὰτ	Ναβὰτ	Ναβὰτ	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	5	ds	ὃς	ὃς	ὃς	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	6	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing
+4kgdms	theoldtestamenti00unknuoft	828	6	καί	καί	καί	καί	image (3x): acute before enclitic γε
+4kgdms	theoldtestamenti00unknuoft	828	6	ye	γε	γε	γε	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	6	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	8	kat	καυσεν	καυσεν	καυσεν	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	8	∅	τὸ	τὸ	τὸ	class R0: OCR lost the word in extraction; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	8	∅	ἄλσος. +18	ἄλσος.	ἄλσος.	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	8	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	8	Ἰωσείας	Ἰωσείας	Ἰωσείας	Ἰωσείας	image (3x): smooth breathing
+4kgdms	theoldtestamenti00unknuoft	828	9	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	11	Ἰεροβοὰμ	Ἰεροβοὰμ	Ἰεροβοὰμ	Ἰεροβοὰμ	image (3x): smooth breathing
+4kgdms	theoldtestamenti00unknuoft	828	12	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	12	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	14	τούτους, +"7	τούτους, +"7	τούτους,	τούτους,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	15	Ὃ	Ὃ	Ὁ	Ὁ	image (6x): bare rough breathing on capital O, no accent
+4kgdms	theoldtestamenti00unknuoft	828	16	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing
+4kgdms	theoldtestamenti00unknuoft	828	16	οὗς	οὗς	οὓς	οὓς	image (6x): rough + grave closed mark, not circumflex
+4kgdms	theoldtestamenti00unknuoft	828	17	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	17	“Adere	ΓΑφετε	Ἄφετε	Ἄφετε	image (3x): smooth + acute on capital
+4kgdms	theoldtestamenti00unknuoft	828	18	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	19	"καί	᾿ϑκαί	καί	καί	image (3x): acute before enclitic γε
+4kgdms	theoldtestamenti00unknuoft	828	20	ods	οὺς	οὓς	οὓς	image (6x): rough + grave closed mark, not circumflex
+4kgdms	theoldtestamenti00unknuoft	828	21	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+4kgdms	theoldtestamenti00unknuoft	828	21	Ἰωσείας,	Ἰωσείας,	Ἰωσείας,	Ἰωσείας,	image (3x): smooth breathing
+4kgdms	theoldtestamenti00unknuoft	828	22	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	22	Βαιθήλ. +*	Βαιθήλ.	Βαιθήλ.	Βαιθήλ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	22	καὶ	20 +“καὶ 30	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+4kgdms	theoldtestamenti00unknuoft	828	22	ἐθυσίασεν +20	ἐθυσίασεν +:0	ἐθυσίασεν	ἐθυσίασεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	25	Ἱερουσαλήμ. +Ξ:	Ἱερουσαλήμ. +Ξ:	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing, not rough
+4kgdms	theoldtestamenti00unknuoft	828	25	λαῷ +2x	λαῷ +.:	λαῷ	λαῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	27	“ὅτι	“ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	27	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	27	τοῦτο	τοῦτο +2:2	τοῦτο	τοῦτο	class R3: OCR appended accent-row or margin junk; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	28	22 +ap᾽	ἀφ᾽	ἀφ᾽	ἀφ᾽	class R6 (OCR letters differ): the other OCR reading agrees with c
+4kgdms	theoldtestamenti00unknuoft	828	28	οἵ	οἵ	οἳ	οἳ	image (6x): rough + grave closed mark, not acute
+4kgdms	theoldtestamenti00unknuoft	828	28	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+4kgdms	theoldtestamenti00unknuoft	828	29	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+4kgdms	theoldtestamenti00unknuoft	828	29	Ἰούδα:	Ἰούδα᾽	Ἰούδα·	Ἰούδα·	image (3x): smooth breathing; ano teleia
+4kgdms	theoldtestamenti00unknuoft	828	29	“35ὅτι	55ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	29	ὀκτω- +23	ὀκτω- +923	ὀκτω-	ὀκτω-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	828	30	Ἰωσεία	Ἰωσεία	Ἰωσεία	Ἰωσεία	image (3x): smooth breathing
+4kgdms	theoldtestamenti00unknuoft	828	29	-	-	ἢ	ἢ	ambiguous: mark over η is small and blotted; open two-part shape (apostrophe then falling stroke), unlike the closed rough+grave of οἳ on line 28; read smooth+grave
+4kgdms	theoldtestamenti00unknuoft	828	11	-	-	τῷ	τῷ	image: round ink blot below τῷ is a stray mark, not text

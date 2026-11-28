@@ -371,9 +371,9 @@
   (status draft)
   (literal
     ("But" 2)
-    ("it came to be" 1)
-    ("to Enoch" (3 unrendered) 4)
-    ("Irad," (5 name "Γαιδάδ"))
+    ("Irad" (5 name "Γαιδάδ"))
+    ("came to be" 1)
+    ("to Enoch," (3 unrendered) 4)
     ("and" 6)
     ("Irad" (7 name "Γαιδάδ"))
     ("begot" 8)

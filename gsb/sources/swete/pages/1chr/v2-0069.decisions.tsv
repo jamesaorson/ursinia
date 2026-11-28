@@ -1,0 +1,85 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+1chr	oldtestamenting02swet	69	1	μέτρον" +“	μέτρον" +“	μέτρον·	μέτρον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	69	1	ἐξομολογεῖσθαι +Β	ἐξομολογεῖσθαι +Β	ἐξομολογεῖσθαι	ἐξομολογεῖσθαι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	69	2	ἑσπέρας" +5	ἑσπέρας" +5	ἑσπέρας·	ἑσπέρας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	69	5	παντὸὶ	παντὸς +ς	παντὸς	παντὸς	image (3x): παντὸς; OCR junk is margin
+1chr	oldtestamenting02swet	69	5	Ξ'΄καὶ	Ξ3Ξ'᾽καὶ	καὶ	καὶ	image (3x): καὶ; OCR junk is the verse number
+1chr	oldtestamenting02swet	69	6	Ἀαρὼν	Ἀαρὼν	Ἀαρὼν	Ἀαρὼν	image (3x): smooth breathing on Α
+1chr	oldtestamenting02swet	69	7	Καὶ	Κ̓αὶ	Καὶ	Καὶ	image (3x): Καὶ, no breathing; 1 is the verse number
+1chr	oldtestamenting02swet	69	7	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave before a capitalized name (not a quotation)
+1chr	oldtestamenting02swet	69	7	Ἀαρὼν	Ἀαρὼν	Ἀαρὼν	Ἀαρὼν	image (3x): smooth breathing on Α
+1chr	oldtestamenting02swet	69	8	Ἀβιούδ,	Ἀβιούδ,	Ἀβιούδ,	Ἀβιούδ,	image (3x): smooth breathing on Α
+1chr	oldtestamenting02swet	69	8	Ἐλεαζὰρ	Ἐλεαζὰρ	Ἐλεαζὰρ	Ἐλεαζὰρ	image (3x): smooth breathing on Ε
+1chr	oldtestamenting02swet	69	8	Ἰθαμάρ᾽	Ἰθαμάρ:	Ἰθαμάρ·	Ἰθαμάρ·	image (3x): smooth breathing on Ι
+1chr	oldtestamenting02swet	69	8	Ξκαὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	69	9	Αβιοὺδ	Αβιοὺδ	Ἀβιοὺδ	Ἀβιοὺδ	image (3x): smooth breathing on Α
+1chr	oldtestamenting02swet	69	9	αὐτοῖς"	αὐτοῖς"	αὐτοῖς·	αὐτοῖς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	69	10	Ἐλεαζὰρ	Ἐλεαζὰρ	Ἐλεαζὰρ	Ἐλεαζὰρ	image (3x): smooth breathing on Ε
+1chr	oldtestamenting02swet	69	10	Ἰθαμὰρ	Ἰθαμὰρ	Ἰθαμὰρ	Ἰθαμὰρ	image (3x): smooth breathing on Ι
+1chr	oldtestamenting02swet	69	10	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before a capitalized name (not a quotation)
+1chr	oldtestamenting02swet	69	10	Ἀαρών:	Ἀαρών:	Ἀαρών·	Ἀαρών·	image (3x): smooth breathing on Α
+1chr	oldtestamenting02swet	69	10	᾿καὶ	᾿καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	69	10	αὐτοὺς	αὐτοὺς	αὐτοὺς	αὐτοὺς	image (3x): grave before a capitalized name (not a quotation)
+1chr	oldtestamenting02swet	69	11	υἱῶν +2	υἱῶν	υἱῶν	υἱῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	69	11	Ἐλεαζάρ,	᾽ +Β̓λεαζάρ,	Ἐλεαζάρ,	Ἐλεαζάρ,	image (3x): smooth breathing on Ε
+1chr	oldtestamenting02swet	69	11	καὶ +2	καὶ +2	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	69	11	Ἀχειμέλεχ	Ἀχειμέλεχ	Ἀχειμέλεχ	Ἀχειμέλεχ	image (3x): smooth breathing on Α
+1chr	oldtestamenting02swet	69	12	υἱῶν +Ε]	υἱῶν	υἱῶν	υἱῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	69	12	Ἰθαμάρ,	Ἰθαμάρ,	Ἰθαμάρ,	Ἰθαμάρ,	image (3x): smooth breathing on Ι
+1chr	oldtestamenting02swet	69	13	κατ᾽ +7	κατ᾽	κατ᾽	κατ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	69	13	4 +“καὶ	“καὶ	καὶ	καὶ	image (3x): καὶ; OCR junk is the verse number
+1chr	oldtestamenting02swet	69	13	υἱοὶ +νοχος	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before a capitalized name (not a quotation)
+1chr	oldtestamenting02swet	69	13	Ἐλεαζὰρ	Ἐλεαζὰρ	Ἐλεαζὰρ	Ἐλεαζὰρ	image (3x): smooth breathing on Ε
+1chr	oldtestamenting02swet	69	14	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave before a capitalized name (not a quotation)
+1chr	oldtestamenting02swet	69	14	Ἰθαμάρ:	Ἰθαμάρ:	Ἰθαμάρ·	Ἰθαμάρ·	image (3x): smooth breathing on Ι
+1chr	oldtestamenting02swet	69	15	υἱοῖς +ἋἍ	υἱοῖς +3	υἱοῖς	υἱοῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	69	15	Ἐλεαζὰρ	Ἐλεαζὰρ	Ἐλεαζὰρ	Ἐλεαζὰρ	image (3x): smooth breathing on Ε
+1chr	oldtestamenting02swet	69	15	ἕξ	ἕξ	ἓξ	ἓξ	image (3x): rough+grave, compact closed mark (ἓξ)
+1chr	oldtestamenting02swet	69	16	υἱοῖς +.3	υἱοῖς +,3	υἱοῖς	υἱοῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	69	16	Ἀαρὼν +»	Ἀαρὼν +᾽	Ἀαρὼν	Ἀαρὼν	image (3x): smooth breathing on Α
+1chr	oldtestamenting02swet	69	16	Ἰθαμὰρ	Ἰθαμὰρ	Ἰθαμὰρ	Ἰθαμὰρ	image (3x): smooth breathing on Ι
+1chr	oldtestamenting02swet	69	16	κατ᾽ +᾽	κατ᾽ +᾽	κατ᾽	κατ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	69	16	πατριῶν. +5	πατριῶν. +5	πατριῶν.	πατριῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	69	18	υἱοῖς +3	υἱοῖς	υἱοῖς	υἱοῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	69	18	Ἐλεαζὰρ	Ἐλεαζὰρ	Ἐλεαζὰρ	Ἐλεαζὰρ	image (3x): smooth breathing on Ε
+1chr	oldtestamenting02swet	69	18	3	Ἰθαμάρ.	Ἰθαμάρ.	Ἰθαμάρ.	image (3x): smooth breathing on Ι
+1chr	oldtestamenting02swet	69	19	Ιθαμάρ. +ὁκαὶ	“καὶ	καὶ	καὶ	image (3x): καὶ; OCR junk is the verse number
+1chr	oldtestamenting02swet	69	19	αὐτοὺς	αὐτοὺς	αὐτοὺς	αὐτοὺς	image (3x): grave before a capitalized name (not a quotation)
+1chr	oldtestamenting02swet	69	19	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave before a capitalized name (not a quotation)
+1chr	oldtestamenting02swet	69	20	Λευεὶ	ΔΛευεὶ	Λευεὶ	Λευεὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	69	21	Ἀχειμέλεχ	Ἀχειμέλεχ	Ἀχειμέλεχ	Ἀχειμέλεχ	image (3x): smooth breathing on Α
+1chr	oldtestamenting02swet	69	21	υἱὸς +ΕΣ	υἱὸς +Ε	υἱὸς	υἱὸς	image (3x): grave before a capitalized name (not a quotation)
+1chr	oldtestamenting02swet	69	21	Ἀβιαθάρ,	Ἀβιαθάρ,	Ἀβιαθάρ,	Ἀβιαθάρ,	image (3x): smooth breathing on Α
+1chr	oldtestamenting02swet	69	22	Λευειτῶν-	Λευειτῶν-	Λευειτῶν·	Λευειτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	69	22	εἰς	εἰς	εἷς	εἷς	image (8x): rough breathing (c-curl) under circumflex, εἷς
+1chr	oldtestamenting02swet	69	22	Βλεαζὰρ	Ἐλεαζὰρ	Ἐλεαζὰρ	Ἐλεαζὰρ	image (3x): smooth breathing on Ε
+1chr	oldtestamenting02swet	69	23	Ἰθαμάρ.	Ιθαμάρ.	Ἰθαμάρ.	Ἰθαμάρ.	image (3x): smooth breathing on Ι
+1chr	oldtestamenting02swet	69	23	1καὶ	Τκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	69	23	Ἰ̓αρείμ,	Ἰ̓αρείμ,	Ἰαρείμ,	Ἰαρείμ,	image (3x): smooth breathing on Ι
+1chr	oldtestamenting02swet	69	23	Ἀναιδειὰ	Ἀναιδειὰ	Ἀναιδειὰ	Ἀναιδειὰ	image (3x): smooth breathing on Α of Ἀναιδειὰ
+1chr	oldtestamenting02swet	69	24	Δ	∅	ὁ	ὁ	image (3x): ὁ, rough breathing only
+1chr	oldtestamenting02swet	69	24	τῳ	“τῷ	τῷ	τῷ	image (3x): τῷ circumflex and iota subscript
+1chr	oldtestamenting02swet	69	24	Χαρὴβ	Χαρηβ	Χαρὴβ	Χαρὴβ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	69	24	ὁ +ς	ὁ	ὁ	ὁ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	69	24	τῳ	τῷ	τῷ	τῷ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	69	24	ὃ	ὁ	ὁ	ὁ	image (3x): ὁ, rough breathing only
+1chr	oldtestamenting02swet	69	24	9 +“τῷ	τῷ	τῷ	τῷ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	69	25	ὃ	ὁ	ὁ	ὁ	image (3x): ὁ, rough breathing only
+1chr	oldtestamenting02swet	69	25	ἔκτος,	ἔκτος,	ἕκτος,	ἕκτος,	image (3x): rough+acute on ἕκτος
+1chr	oldtestamenting02swet	69	25	το,. +“τῴ	ΤΟ +“τῴ	τῷ	τῷ	image (3x): τῷ circumflex and iota subscript
+1chr	oldtestamenting02swet	69	25	Αβιὰ	ἢ +Αβιὰ	Ἀβιὰ	Ἀβιὰ	image (3x): smooth breathing on Α
+1chr	oldtestamenting02swet	69	26	᾿᾿τῷ	"τῷ	τῷ	τῷ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	69	26	Ἰησοῦ	Ἰησοῦ	Ἰησοῦ	Ἰησοῦ	image (3x): smooth breathing on Ι
+1chr	oldtestamenting02swet	69	26	᾿σχανιὰ	᾿σχανιὰ	Ἰσχανιὰ	Ἰσχανιὰ	image (3x): smooth breathing on Ι
+1chr	oldtestamenting02swet	69	26	“τῷ	“τῷ	τῷ	τῷ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	69	26	Ἐλιαβιεὶ	Ἐλιαβιεὶ	Ἐλιαβιεὶ	Ἐλιαβιεὶ	image (3x): smooth breathing on Ε
+1chr	oldtestamenting02swet	69	27	∅	∅	ὁ	ὁ	image (3x): ὁ, rough breathing only
+1chr	oldtestamenting02swet	69	27	τῴ +2	τῴ	τῷ	τῷ	image (3x): τῷ circumflex and iota subscript
+1chr	oldtestamenting02swet	69	27	Ἰακεὶμ	Ἰακεὶμ	Ἰακεὶμ	Ἰακεὶμ	image (3x): smooth breathing on Ι
+1chr	oldtestamenting02swet	69	27	"τῷ	τῷ	τῷ	τῷ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	69	27	« +Ὀχχοφφὰ	Οχχοφφὰ	Ὁχχοφφὰ	Ὁχχοφφὰ	image (3x): rough breathing (open c-curl) on Ο
+1chr	oldtestamenting02swet	69	28	Τελβὰ	Τελβὰ	Γελβὰ	Γελβὰ	image (3x): Γ, not Τ
+1chr	oldtestamenting02swet	69	28	“τῷ	“τῷ	τῷ	τῷ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	69	28	Ἐμμὴρ	Ἐμμὴρ	Ἐμμὴρ	Ἐμμὴρ	image (3x): smooth breathing on Ε
+1chr	oldtestamenting02swet	69	29	“τῷ	τῷ	τῷ	τῷ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	69	29	ἷξ +Ἀφεσὴ	ἰς +Αφεσὴ	Ἁφεσὴ	Ἁφεσὴ	image (3x): rough breathing (open c-curl) on Α

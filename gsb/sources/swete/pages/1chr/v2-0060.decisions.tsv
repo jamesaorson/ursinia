@@ -1,0 +1,56 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+1chr	oldtestamenting02swet	60	1	Κ̓αὶ	Καὶ	Καὶ	Καὶ	image (3x): Καὶ; 1 is the verse number
+1chr	oldtestamenting02swet	60	3	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	60	4	σταῖδες	σιαῖδες	παῖδες	παῖδες	image (3x): παῖδες
+1chr	oldtestamenting02swet	60	4	δῶρα. +5	δῶρα.	δῶρα.	δῶρα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	60	4	καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	60	5	«ς +Αδραάζαρ	Αδραάζαρ	Ἁδραάζαρ	Ἁδραάζαρ	image (3x): rough breathing (reversed comma, opening left) on Α: Ἁδραάζαρ
+1chr	oldtestamenting02swet	60	5	Σουβὰ	Σουβὰ	Σουβὰ	Σουβὰ	image (3x): grave before the capitalized name (not a quotation)
+1chr	oldtestamenting02swet	60	5	Ἣμάθ,	Ἣμάθ,	Ἡμάθ,	Ἡμάθ,	image (3x): rough breathing alone on Η
+1chr	oldtestamenting02swet	60	5	αὐτοῦ	αὑτοῦ	αὐτοῦ	αὐτοῦ	image (3x): smooth breathing on υ
+1chr	oldtestamenting02swet	60	6	ποταμὸν	ποταμὸν	ποταμὸν	ποταμὸν	image (3x): grave before the capitalized name (not a quotation)
+1chr	oldtestamenting02swet	60	6	Ἰὐὐφράτην.	Εὐφράτην.	Εὐφράτην.	Εὐφράτην.	image (3x): smooth breathing on υ of Εὐ
+1chr	oldtestamenting02swet	60	6	καὶ	4καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	60	6	Δανεὶδ	Δαυεὶδ	Δαυεὶδ	Δαυεὶδ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	60	8	ἀνδρῶν"	ἀνδρῶν:	ἀνδρῶν·	ἀνδρῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	60	9	ἅρματα.	ἅρματα. +5	ἅρματα.	ἅρματα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	60	9	“καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	60	10	Ἀδραάζαρ	Αδραάζαρ	Ἁδραάζαρ	Ἁδραάζαρ	image (3x): rough breathing (reversed comma, opening left) on Α: Ἁδραάζαρ
+1chr	oldtestamenting02swet	60	11	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	60	12	δῶρα:	δῶρα:	δῶρα·	δῶρα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	60	13	17καὶ	17καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	60	14	οἱ	οἱ	οἳ	οἳ	image (3x): rough + grave (closed d-shaped mark) on ι: οἳ
+1chr	oldtestamenting02swet	60	14	Ἀδραάζαρ,	ς +Ἀδραάζαρ,	Ἁδραάζαρ,	Ἁδραάζαρ,	image (3x): rough breathing (reversed comma, opening left) on Α: Ἁδραάζαρ
+1chr	oldtestamenting02swet	60	15	Ἰερουσαλῆμ.	Ἰερουσαλῆμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing (apostrophe shape) on the capital
+1chr	oldtestamenting02swet	60	15	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	60	16	Ἀδραάζαρ	Ἀδραάζαρ	Ἁδραάζαρ	Ἁδραάζαρ	image (3x): rough breathing (reversed comma, opening left) on Α: Ἁδραάζαρ
+1chr	oldtestamenting02swet	60	17	σφόδρα:	σφόδρα:	σφόδρα·	σφόδρα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	60	17	χαλκὴν	χαλκὴν	χαλκῆν	χαλκῆν	image (3x): circumflex on η
+1chr	oldtestamenting02swet	60	18	9καὶ	9 +99καὶ	καὶ	καὶ	image (3x): καὶ; 9 is the verse number
+1chr	oldtestamenting02swet	60	18	Θώα	Θώα	Θῶα	Θῶα	image (3x): circumflex on ω
+1chr	oldtestamenting02swet	60	18	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave before the capitalized name (not a quotation)
+1chr	oldtestamenting02swet	60	19	Ἡμὰθ	Ἡμὰθ	Ἡμὰθ	Ἡμὰθ	image (3x): rough breathing alone on Η
+1chr	oldtestamenting02swet	60	19	Ἀδραάζαρ	Ἀδραάζαρ	Ἁδραάζαρ	Ἁδραάζαρ	image (3x): rough breathing (reversed comma, opening left) on Α: Ἁδραάζαρ
+1chr	oldtestamenting02swet	60	20	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	60	20	Ἰδουραὰμ	Ἰδουραὰμ	Ἰδουραὰμ	Ἱδουραὰμ	image (3x): rough breathing (opening left, like Ἡμάθ, unlike the smooth on Ἰδουμαίας): Ἱδουραὰμ
+1chr	oldtestamenting02swet	60	22	Ἀδραάζαρ	Ἀδραάζαρ	Ἁδραάζαρ	Ἁδραάζαρ	image (3x): rough breathing (reversed comma, opening left) on Α: Ἁδραάζαρ
+1chr	oldtestamenting02swet	60	23	Θῶα	Θῶώα	Θῶα	Θῶα	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	60	23	ἦν	ἢν	ἦν	ἦν	image (3x): smooth breathing + circumflex: ἦν
+1chr	oldtestamenting02swet	60	23	τῴ	τῴ	τῷ	τῷ	image (3x): circumflex and iota subscript
+1chr	oldtestamenting02swet	60	23	Ἀδραάζαρ᾽	Ἀδραάζαρ᾽	Ἁδραάζαρ·	Ἁδραάζαρ·	image (3x): rough breathing (reversed comma, opening left) on Α: Ἁδραάζαρ
+1chr	oldtestamenting02swet	60	23	σκεύη +ἡ	σκεύη +ἡ	σκεύη	σκεύη	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	60	23	χρυσᾶ	χρυσᾶ	χρυσᾶ.	χρυσᾶ.	image (3x): circumflex and period
+1chr	oldtestamenting02swet	60	24	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	60	25	Ἰδουμαίας	Ἰδουμαίας	Ἰδουμαίας	Ἰδουμαίας	image (3x): smooth breathing (apostrophe shape) on the capital
+1chr	oldtestamenting02swet	60	26	Ἀμμὼν	Ἀμμὼν	Ἀμμὼν	Ἀμμὼν	image (3x): smooth breathing (apostrophe shape) on the capital
+1chr	oldtestamenting02swet	60	26	Ἀμαλήκ.	Ἀμαλήκ.	Ἀμαλήκ.	Ἀμαλήκ.	image (3x): smooth breathing (apostrophe shape) on the capital
+1chr	oldtestamenting02swet	60	26	“καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	60	27	Ἀβεσσὰ	Ἀβεσσὰ	Ἀβεσσὰ	Ἀβεσσὰ	image (3x): smooth breathing (apostrophe shape) on the capital
+1chr	oldtestamenting02swet	60	27	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave before the capitalized name (not a quotation)
+1chr	oldtestamenting02swet	60	27	Ἰδουμαίαν	Ἰδουμαίαν	Ἰδουμαίαν	Ἰδουμαίαν	image (3x): smooth breathing (apostrophe shape) on the capital
+1chr	oldtestamenting02swet	60	28	χιλιάδας, +Ξ̓	χιλιάδας,	χιλιάδας,	χιλιάδας,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	60	28	καὶ	""καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	60	28	φρουράς:	φρουράς:	φρουράς·	φρουράς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	60	29	οἱ +2	οἱ +3	οἱ	οἱ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	60	29	Ἰδουμαῖοι	Ἰδουμαῖοι	Ἰδουμαῖοι	Ἰδουμαῖοι	image (3x): smooth breathing (apostrophe shape) on the capital
+1chr	oldtestamenting02swet	60	29	Δαυείδ:	Δαυείδ:	Δαυείδ·	Δαυείδ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

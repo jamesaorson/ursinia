@@ -7,9 +7,9 @@
   (status draft)
   (literal
     ("And" 1)
+    ("Abraham" 4)
     ("moved" (2 move "κινέω"))
     ("from there" 3)
-    ("Abraham" 4)
     ("into" 5)
     ("land" (6 land))
     ("to" (7 to))
@@ -193,8 +193,9 @@
     ("will die" 23)
     ("and" 25)
     ("all" 26)
-    ("the [things]" 27)
-    ("yours." 28)))
+    ("[things]")
+    ("yours" (27 absorbed) 28)
+    ("[things].")))
 
 (verse 8
   (status draft)

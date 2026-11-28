@@ -1,0 +1,31 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+2chr	oldtestamenting02swet	85	3	"καὶ	""καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	85	5	"ἱκαὶ	"ἱκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	85	6	πορφύρας	ορφύρας	πορφύρας	πορφύρας	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	85	6	βύσσου,	βύσσου, +;	βύσσου,	βύσσου,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	85	6	χερουβείν.	χερουβεί	χερουβείν.	χερουβείν.	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	85	7	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	85	8	πέντε. +““	πέντε. +τό	πέντε.	πέντε.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	85	13	Ἰσχύς.	Ἰσχύς.	Ἰσχύς.	Ἰσχύς.	image (3x): smooth breathing on Ι
+2chr	oldtestamenting02swet	85	13	"καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	85	15	εἴκοσι:	εἴκοσι:	εἴκοσι·	εἴκοσι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	85	15	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	85	15	χυτῆν,	χυτῆν,	χυτήν,	χυτήν,	image (3x): acute on eta
+2chr	oldtestamenting02swet	85	17	τριάκοντα. +3	τριάκοντα. +3	τριάκοντα.	τριάκοντα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	85	18	αὐτῆς"	αὐτῆς"	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	85	18	αὐτην,	αὐτην,	αὐτήν,	αὐτήν,	image (3x): acute on eta
+2chr	oldtestamenting02swet	85	19	κυκλόθεν:	κυκλόθεν:	κυκλόθεν·	κυκλόθεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	85	20	“ἣὗ	ὗ	ᾗ	ᾗ	image (3x): rough breathing + circumflex, iota subscript: ᾗ; superscript 4 not text
+2chr	oldtestamenting02swet	85	20	μόσχους,	μύσχους,	μόσχους,	μόσχους,	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	85	22	3. +ἀνατολάς:	ἀνατολάς:	ἀνατολάς·	ἀνατολάς·	image (3x): ano teleia after ἀνατολάς
+2chr	oldtestamenting02swet	85	22	ἐπ᾽ +ΟἹ	ἐπ᾽	ἐπ᾽	ἐπ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	85	23	∅	}	τὰ	τὰ	image (3x): words as printed; margin numbers and verse superscripts not text
+2chr	oldtestamenting02swet	85	23	ὅκαὶ	5 +“καὶ	καὶ	καὶ	image (3x): words as printed; margin numbers and verse superscripts not text
+2chr	oldtestamenting02swet	85	25	τρισχιλίους:	τρισχιλίους:	τρισχιλίους·	τρισχιλίους·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	85	25	Και	Και	καὶ	καὶ	image (3x): words as printed; margin numbers and verse superscripts not text
+2chr	oldtestamenting02swet	85	25	εποιῆσεν	εἐποιῆσεν	ἐποίησεν	ἐποίησεν	image (3x): words as printed; margin numbers and verse superscripts not text
+2chr	oldtestamenting02swet	85	28	αὐτοῖς"	αὐτοῖς"	αὐτοῖς·	αὐτοῖς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	85	29	∅	αὑτῃ.	ἐν	ἐν	image (3x): words as printed; margin numbers and verse superscripts not text
+2chr	oldtestamenting02swet	85	29	αὐτῇ.	∅	αὐτῇ.	αὐτῇ.	class R0: OCR lost the word in extraction; c read from the image strip
+2chr	oldtestamenting02swet	85	29	Τκαὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	85	3	-	-	καὶ	καὶ	image: Swete prints no verse 12 in ch. 3 (no superscript, no margin number; apparatus has "+ (12)" for A); encoded {13!}

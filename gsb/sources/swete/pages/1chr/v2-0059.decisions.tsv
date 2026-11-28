@@ -1,0 +1,61 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+1chr	oldtestamenting02swet	59	1	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	59	1	“αὐτὸς	ἐγ, +"αὐτὸς	αὐτὸς	αὐτὸς	image (3x): αὐτὸς; 12 is the verse number
+1chr	oldtestamenting02swet	59	3	"Ξἐγὼ	"Ξἐγὼ	ἐγὼ	ἐγὼ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	59	4	ἔλεός	ἔλεός	ἔλεός	ἔλεός	image (3x): accent as printed before the enclitic
+1chr	oldtestamenting02swet	59	5	ἔμπροσθέν	ἔμπροσθέν	ἔμπροσθέν	ἔμπροσθέν	image (3x): accent as printed before the enclitic
+1chr	oldtestamenting02swet	59	5	σου.	σου. +14	σου.	σου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	59	7	"κατὰ	"κατὰ	κατὰ	κατὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	59	8	Δανείδ. +τ	Δανείδ. +6	Δαυείδ.	Δαυείδ.	image (3x): υ, not ν: Δαυείδ
+1chr	oldtestamenting02swet	59	9	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave before the capitalized word (not a quotation)
+1chr	oldtestamenting02swet	59	9	Δανεὶδ	Δανεὶδ	Δαυεὶδ	Δαυεὶδ	image (3x): υ, not ν: Δαυείδ
+1chr	oldtestamenting02swet	59	9	Τίς	Τίς	Τίς	Τίς	image (3x): accent as printed before the enclitic
+1chr	oldtestamenting02swet	59	10	ἐγώ,	ἐγώ,	ἐγώ,	ἐγώ,	image (3x): acute on ἐγώ before comma
+1chr	oldtestamenting02swet	59	10	οἶκός	οἰκός	οἶκός	οἶκός	image (3x): accent as printed before the enclitic
+1chr	oldtestamenting02swet	59	10	ἡγάπησάς	ηγάπησάς	ἠγάπησάς	ἠγάπησάς	image (3x): accent as printed before the enclitic
+1chr	oldtestamenting02swet	59	11	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	image (3x): accent as printed before the enclitic
+1chr	oldtestamenting02swet	59	12	παιδός	παιδός	παιδός	παιδός	image (3x): accent as printed before the enclitic
+1chr	oldtestamenting02swet	59	12	ἐπεῖδές	ἐπεῖδές	ἐπεῖδές	ἐπεῖδές	image (3x): accent as printed before the enclitic
+1chr	oldtestamenting02swet	59	12	ἀνθρώ-	ἀνθρώ-	ἀνθρώ-	ἀνθρώ-	image (3x): accent as printed before the enclitic
+1chr	oldtestamenting02swet	59	13	ὕψωσάς	ὕψωσάς	ὕψωσάς	ὕψωσάς	image (3x): accent as printed before the enclitic
+1chr	oldtestamenting02swet	59	13	ἰδτί	᾿δτί	τί	τί	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	59	13	Δαυεὶδ	Δανεὶδ	Δαυεὶδ	Δαυεὶδ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	59	14	τὸν +ὃ	τὸν	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	59	14	δοῦλόν	δοῦλόν	δοῦλόν	δοῦλόν	image (3x): accent as printed before the enclitic
+1chr	oldtestamenting02swet	59	14	19 +"καὶ	"καὶ	καὶ	καὶ	image (3x): καὶ; 19 is the verse number
+1chr	oldtestamenting02swet	59	15	“Κύριε,	“Κύριε,	Κύριε,	Κύριε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	59	16	ὅμοιός	ὅμοιός	ὅμοιός	ὅμοιός	image (3x): accent as printed before the enclitic
+1chr	oldtestamenting02swet	59	17	ἡμῶν. +“᾽	ἡμῶν. +ΡΥ	ἡμῶν.	ἡμῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	59	17	λαός	λαός	λαός	λαός	image (3x): accent as printed before the enclitic
+1chr	oldtestamenting02swet	59	17	σου	σου +3	σου	σου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	59	17	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape) on the capital
+1chr	oldtestamenting02swet	59	20	ὠπου	ὦπου	ώπου	ώπου	image (3x): ώπου, acute only, no breathing (second half of προσ-ώπου)
+1chr	oldtestamenting02swet	59	20	οὗς	οὗς	οὓς	οὓς	image (4x): rough + grave on υ (closed mark, same as ὃν on line 22): οὓς
+1chr	oldtestamenting02swet	59	20	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing (apostrophe shape) on the capital
+1chr	oldtestamenting02swet	59	20	““καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	59	21	λαόν	λαόν	λαόν	λαόν	image (3x): accent as printed before the enclitic
+1chr	oldtestamenting02swet	59	21	σου +᾿]	σου +᾽	σου	σου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	59	21	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape) on the capital
+1chr	oldtestamenting02swet	59	21	σὺ	σὺ	σὺ	σὺ	image (3x): grave before the capitalized word (not a quotation)
+1chr	oldtestamenting02swet	59	22	“"καὶ	“᾿καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	59	22	παῖδά	παῖδά	παῖδά	παῖδά	image (3x): accent as printed before the enclitic
+1chr	oldtestamenting02swet	59	23	αἰῶνος, +““	αἰῶνος, +“᾽	αἰῶνος,	αἰῶνος,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	59	24	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave before the capitalized word (not a quotation)
+1chr	oldtestamenting02swet	59	24	Ἰσραήλ:	Ἰσραήλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing (apostrophe shape) on the capital
+1chr	oldtestamenting02swet	59	24	παιδός	παιδός	παιδός	παιδός	image (3x): accent as printed before the enclitic
+1chr	oldtestamenting02swet	59	25	οΝ +“ὅτι	“ὅτι	ὅτι	ὅτι	image (3x): ὅτι rough + acute; 25 is the verse number
+1chr	oldtestamenting02swet	59	25	παιδύς	παιδύς	παιδός	παιδός	image (3x): accent as printed before the enclitic
+1chr	oldtestamenting02swet	59	26	οἶκον:	οἶκον:	οἶκον·	οἶκον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	59	27	πρόσωπόν	προσῶπον	πρόσωπόν	πρόσωπόν	image (3x): accent as printed before the enclitic
+1chr	oldtestamenting02swet	59	27	σον.	σου.	σου.	σου.	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	59	27	““καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	59	27	νῦν,	νυν,	νῦν,	νῦν,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	59	27	Κύριε,	Κυριε,	Κύριε,	Κύριε,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	59	27	σὺ	συ	σὺ	σὺ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	59	27	εἶ	εἰ	εἶ	εἶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	59	27	αὐτὸς	αὑτὸς	αὐτὸς	αὐτὸς	image (3x): smooth breathing on υ, αὐτὸς
+1chr	oldtestamenting02swet	59	28	δοῦλόν	δοῦλόν	δοῦλόν	δοῦλόν	image (3x): accent as printed before the enclitic
+1chr	oldtestamenting02swet	59	28	“7καὶ	“7καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	59	29	παιδός	παιδός	παιδός	παιδός	image (3x): accent as printed before the enclitic
+1chr	oldtestamenting02swet	59	30	σου"	σου"	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	59	26	-	-	εὗρεν	εὗρεν	image (8x): breathing under the circumflex opens left (rough), εὗρεν

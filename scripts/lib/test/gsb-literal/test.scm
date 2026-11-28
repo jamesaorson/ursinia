@@ -75,7 +75,8 @@
        "And God said, Let light come to be; and light came to be.")
 
 ;; Rule 16a: an unstated third singular subject stays "he/she/it"; a verb
-;; joined by καί to the verb before has none; αὐτοῦ (masculine or neuter)
+;; joined by καί to the verb before (same person and number) has none;
+;; αὐτοῦ (masculine or neuter)
 ;; is "his" when its nearest agreeing noun is a person, "its" for a thing,
 ;; "his/its" when there is none.
 (check "open subject, καί-joined verb"

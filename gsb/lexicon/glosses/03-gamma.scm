@@ -69,7 +69,7 @@
 
 (lemma "γῆρας" (sense old-age (gloss "old age") (why "Old age (Genesis 15:15 ἐν γήρει καλῷ; Luke 1:36).")))
 
-(lemma "γηράσκω" (sense grow-old (verb "grow old" "grew old" "grown old") (gloss "grow old" "grew old" "grown old" "grows old" "growing old") (why "To grow old (Genesis 18:13 ἐγὼ δὲ γεγήρακα \"but I have grown old\"; John 21:18; Hebrews 8:13).")))
+(lemma "γηράσκω" (sense grow-old (intransitive) (verb "grow old" "grew old" "grown old") (gloss "grow old" "grew old" "grown old" "grows old" "growing old") (why "To grow old (Genesis 18:13 ἐγὼ δὲ γεγήρακα \"but I have grown old\"; John 21:18; Hebrews 8:13).")))
 
 (lemma "Γηών"
   (sense name

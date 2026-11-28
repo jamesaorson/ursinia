@@ -1,0 +1,60 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+4kgdms	theoldtestamenti00unknuoft	813	1	κυριον	κυριον	κύριον	κύριον	image (3x): reading as written, OCR dropped or garbled it
+4kgdms	theoldtestamenti00unknuoft	813	1	σπέρματι	σπέρματι +Ἶ	σπέρματι	σπέρματι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	1	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing (apostrophe shape) on the capital
+4kgdms	theoldtestamenti00unknuoft	813	3	OTe	“ὅτι	ὅτι	ὅτι	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	3	πλὴν	πλὴν	πλὴν	πλὴν	image (3x): grave as printed before capitalized name
+4kgdms	theoldtestamenti00unknuoft	813	3	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape) on the capital
+4kgdms	theoldtestamenti00unknuoft	813	4	Ἰ̓εροβοὰμ	Ἰεροβοὰμ	Ἰεροβοὰμ	Ἰεροβοὰμ	image (3x): smooth breathing (apostrophe shape) on the capital
+4kgdms	theoldtestamenti00unknuoft	813	4	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): grave as printed before capitalized name
+4kgdms	theoldtestamenti00unknuoft	813	4	Naar:	Ναβάτ:	Ναβάτ·	Ναβάτ·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	4	Ἰεροβοὰμ	Ἱεροβοὰμ	Ἰεροβοὰμ	Ἰεροβοὰμ	image (3x): smooth breathing (apostrophe shape) on the capital
+4kgdms	theoldtestamenti00unknuoft	813	5	Iopand	Ισραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape) on the capital
+4kgdms	theoldtestamenti00unknuoft	813	6	Kat	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	6	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave as printed before capitalized name
+4kgdms	theoldtestamenti00unknuoft	813	6	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape) on the capital
+4kgdms	theoldtestamenti00unknuoft	813	6	Ἱεροβοὰμ	Ἱεροβοὰμ	Ἰεροβοὰμ	Ἰεροβοὰμ	image (3x): smooth breathing (apostrophe shape) on the capital
+4kgdms	theoldtestamenti00unknuoft	813	7	ἐποίησεν:	ἐποίησεν:	ἐποίησεν·	ἐποίησεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	7	am	ἀπ᾽	ἀπ᾽	ἀπ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	7	ws	“ϑέως	ἕως	ἕως	image (3x): reading as written, OCR dropped or garbled it
+4kgdms	theoldtestamenti00unknuoft	813	7	od	οὗ	οὗ	οὗ	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	8	τὸν	τὸν +5	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	8	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape) on the capital
+4kgdms	theoldtestamenti00unknuoft	813	9	προφητῶν"	προφητῶν"	προφητῶν·	προφητῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	9	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape) on the capital
+4kgdms	theoldtestamenti00unknuoft	813	10	νωθεν	νῶώθεν	νωθεν	νωθεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+4kgdms	theoldtestamenti00unknuoft	813	10	Ἀσσυρίους	Ἀσσυρίους	Ἀσσυρίους	Ἀσσυρίους	image (3x): smooth breathing (apostrophe shape) on the capital
+4kgdms	theoldtestamenti00unknuoft	813	10	Καὶ	“Καὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	11	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave as printed before capitalized name
+4kgdms	theoldtestamenti00unknuoft	813	11	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	image (3x): smooth breathing (apostrophe shape) on the capital
+4kgdms	theoldtestamenti00unknuoft	813	12	Ata	Αἰὰ	Ἀιὰ	Ἀιὰ	image (3x): smooth breathing before Α, no diaeresis or breathing on ι
+4kgdms	theoldtestamenti00unknuoft	813	12	Αἱμὰθ	Αἱμὰθ	Αἱμὰθ	Αἱμὰθ	image (3x): rough breathing on ι of Αἱμὰθ
+4kgdms	theoldtestamenti00unknuoft	813	12	Σεπῴφαρουάιν:	Σεπφαρουάιν:	Σεπφαρουάιν·	Σεπφαρουάιν·	image (3x): reading as written, OCR dropped or garbled it
+4kgdms	theoldtestamenti00unknuoft	813	13	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe shape) on the capital
+4kgdms	theoldtestamenti00unknuoft	813	14	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	14	αὐτῆς. +“5	αὐτῆς. +“5	αὐτῆς.	αὐτῆς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	15	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	17	““καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	17	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	image (3x): smooth breathing (apostrophe shape) on the capital
+4kgdms	theoldtestamenti00unknuoft	813	19	λέοντας"	λέοντας"	λέοντας·	λέοντας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	20	ἰδού	ἰδού	ἰδού	ἰδού	image (3x): acute on ἰδού before enclitic εἰσιν
+4kgdms	theoldtestamenti00unknuoft	813	20	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	21	Kai	“Ἰκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	21	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+4kgdms	theoldtestamenti00unknuoft	813	21	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave as printed before capitalized name
+4kgdms	theoldtestamenti00unknuoft	813	21	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	image (3x): smooth breathing (apostrophe shape) on the capital
+4kgdms	theoldtestamenti00unknuoft	813	21	λέγων	λέγων +ΕῚ	λέγων	λέγων	class R3: OCR appended accent-row or margin junk; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	21	Ἀπά-	Ἀπά-	Ἀπά-	Ἀπά-	image (3x): smooth breathing (apostrophe shape) on the capital
+4kgdms	theoldtestamenti00unknuoft	813	23	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	25	Kal	29 +“καὶ	καὶ	καὶ	image (3x): reading as written, OCR dropped or garbled it
+4kgdms	theoldtestamenti00unknuoft	813	27	papeira,	μαρεῖται,	μαρεῖται,	μαρεῖται,	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	27	ais	αἷς	αἷς	αἷς	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	27	αὐταῖς"	αὐταῖς"	αὐταῖς·	αὐταῖς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	28	®Kal	Ξϑ'καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	28	ἱἹΡοχχωθβαινειθεί,	ἱΡοχχωθβαινειθεί,	Ῥοχχωθβαινειθεί,	Ῥοχχωθβαινειθεί,	image (3x): rough breathing (reversed comma) on the capital
+4kgdms	theoldtestamenti00unknuoft	813	29	“Epyéd,	Ἐ̓ργέλ,	Ἐργέλ,	Ἐργέλ,	image (3x): smooth breathing (apostrophe shape) on the capital
+4kgdms	theoldtestamenti00unknuoft	813	29	“Ἐμὰθ	“Ἐμὰθ	Ἑμὰθ	Ἑμὰθ	image (3x): rough breathing (reversed comma) on the capital
+4kgdms	theoldtestamenti00unknuoft	813	30	Ἀσειμάθ, +3	Ἀσειμάθ, +53᾽	Ἀσειμάθ,	Ἀσειμάθ,	image (3x): smooth breathing (apostrophe shape) on the capital
+4kgdms	theoldtestamenti00unknuoft	813	30	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+4kgdms	theoldtestamenti00unknuoft	813	30	Εὐαῖοι	ΕἙὐαῖοι	Εὐαῖοι	Εὐαῖοι	image (3x): smooth breathing on υ, circumflex on ι
+4kgdms	theoldtestamenti00unknuoft	813	30	Ἐβλαζὲρ	Ἐβλαζὲρ	Ἐβλαζὲρ	Ἐβλαζὲρ	image (3x): smooth breathing (apostrophe shape) on the capital

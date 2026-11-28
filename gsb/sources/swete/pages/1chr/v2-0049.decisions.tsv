@@ -1,0 +1,61 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+1chr	oldtestamenting02swet	49	1	ὙΣ +“καὶ	15 +“καὶ	καὶ	καὶ	image (3x): superscript verse number or margin is not text; word as in C
+1chr	oldtestamenting02swet	49	1	τὸν	τὸν +3	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	49	1	2 +Δμασαὶ	Ἀμασαὶ	Ἀμασαὶ	Ἀμασαὶ	image (3x): smooth breathing on capital (apostrophe shape); letters as in C
+1chr	oldtestamenting02swet	49	3	λαὸς	λαός	λαός	λαός	image (3x): acute before enclitic σου/σοι as in C
+1chr	oldtestamenting02swet	49	4	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave as printed before the capitalized word
+1chr	oldtestamenting02swet	49	4	Ἰεσσαί:	Ἰεσσαί:	Ἰεσσαί·	Ἰεσσαί·	image (3x): smooth breathing on capital (apostrophe shape); letters as in C
+1chr	oldtestamenting02swet	49	6	σου"	σου"	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	49	7	ἐβοήθησέν	ἐβοήθησέν	ἐβοήθησέν	ἐβοήθησέν	image (3x): acute before enclitic σου/σοι as in C
+1chr	oldtestamenting02swet	49	7	θεός	θεός	θεός	θεός	image (3x): acute before enclitic σου/σοι as in C
+1chr	oldtestamenting02swet	49	8	αὐτοὺς	αὐτοὺς	αὐτοὺς	αὐτοὺς	image (3x): grave as printed before the capitalized word
+1chr	oldtestamenting02swet	49	9	κ	κ	τῶν	τῶν	image (3x): superscript verse number or margin is not text; word as in C
+1chr	oldtestamenting02swet	49	9	το +“καὶ Ε	το +“καὶ	καὶ	καὶ	image (3x): superscript verse number or margin is not text; word as in C
+1chr	oldtestamenting02swet	49	10	πόλεμον:	πόλεμον:	πόλεμον·	πόλεμον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	49	12	Ἔν	Ἔν	Ἐν	Ἐν	image (3x): Ἐν smooth breathing, no accent, capitalized quotation start
+1chr	oldtestamenting02swet	49	13	““ἐν	““ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	49	14	Σωγλὰμ	Σωγλὰ	Σωγλὰμ	Σωγλὰμ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	49	14	προσεχώρησαν	ι:;ν	προσεχώρησαν	προσεχώρησαν	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	49	14	Μανασσὴ	Μανασσὴ	Μανασσὴ	Μανασσὴ	image (3x): grave as printed before the capitalized word
+1chr	oldtestamenting02swet	49	14	3 +Ἐ̓δνὰ	Ἐδνὰ	Ἐδνὰ	Ἐδνὰ	image (3x): smooth breathing on capital (apostrophe shape); letters as in C
+1chr	oldtestamenting02swet	49	15	Ῥωδιὴλ	Ῥωδιὴλ	Ῥωδιὴλ	Ῥωδιὴλ	image (4x): rough breathing on Ρ
+1chr	oldtestamenting02swet	49	15	Ἰωσαβαὶθ	Ἰωσαβαὶθ	Ἰωσαβαὶθ	Ἰωσαβαὶθ	image (3x): smooth breathing on capital (apostrophe shape); letters as in C
+1chr	oldtestamenting02swet	49	15	Ἐ̓λιμοὺθ	Ἐ̓λιμοὺθ	Ἐλιμοὺθ	Ἐλιμοὺθ	image (3x): smooth breathing on capital (apostrophe shape); letters as in C
+1chr	oldtestamenting02swet	49	16	Σεμαθεί:	Σεμαθεί:	Σεμαθεί·	Σεμαθεί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	49	16	Μανασσή. +“'᾽	Μανασσή. +“"	Μανασσή.	Μανασσή.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	49	17	τῷ	τῷ +Δ	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	49	17	τὸν +Ὗ	τὸν	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	49	17	γεδδούρ, +ρ:	γεδδούρ,	γεδδούρ,	γεδδούρ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	49	17	πάντες"	πάντες	πάντες·	πάντες·	ambiguous (6x): small raised tick after πάντες, at ano-teleia height but thin like worn type; read ano teleia
+1chr	oldtestamenting02swet	49	18	“ὅτι	“ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	49	20	θεοῦ. +βϑ	θεοῦ. +ϑ	θεοῦ.	θεοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	49	22	“υἱοὶ	“υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave as printed before the capitalized word
+1chr	oldtestamenting02swet	49	22	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on capital (apostrophe shape); letters as in C
+1chr	oldtestamenting02swet	49	23	ἕξ	ἕξ	ἓξ	ἓξ	image (4x): smooth + grave on ε (apostrophe then falling stroke, open two parts), not rough
+1chr	oldtestamenting02swet	49	24	“τῶν	“τῶν	τῶν	τῶν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	49	25	και	καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	49	25	εκατον.	ἑκατόν.	ἑκατόν.	ἑκατόν.	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	49	25	Λευεὶ	λΔΛευεὶ	Λευεὶ	Λευεὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	49	25	ἑξακόσιοι:	ἑξακόσιοι:	ἑξακόσιοι·	ἑξακόσιοι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	49	26	καὶ	27	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	49	26	Τωαδὰς	Και +ἢ ὠσαοας	Τωαδὰς	Τωαδὰς	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	49	26	ἡγούμενος	ηγουμενος	ἡγούμενος	ἡγούμενος	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	49	26	τῷ	Τῳ	τῷ	τῷ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	49	26	Λ̓αρών,	ΣΎ	Ἀαρών,	Ἀαρών,	image (3x): smooth breathing on capital (apostrophe shape); letters as in C
+1chr	oldtestamenting02swet	49	26	καὶ	αρωῶν,	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	49	26	μετ᾽	Καὶ	μετ᾽	μετ᾽	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	49	26	αὐτοῦ	μετ	αὐτοῦ	αὐτοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	49	26	τρεῖς	5	τρεῖς	τρεῖς	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	49	26	χιλιάδες	αὐτου	χιλιάδες	χιλιάδες	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	49	27	καὶ	Τρεις	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	49	27	εἐπτακοσίιοι	χι +λ ιαὸες	ἑπτακόσιοι·	ἑπτακόσιοι·	image (4x): rough breathing + acute; ano teleia after
+1chr	oldtestamenting02swet	49	27	4	καὶ +ἑπτακόσιοι: “καὶ	καὶ	καὶ	image (3x): superscript verse number or margin is not text; word as in C
+1chr	oldtestamenting02swet	49	27	Καὶ	Σαδὼκ	Σαδὼκ	Σαδὼκ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	49	27	αόοὼκ	νέος	νέος	νέος	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	49	27	νεὸς	δυνατὸς	δυνατὸς	δυνατὸς	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	49	27	ὃ	ἰσχύι,	ἰσχύι,	ἰσχύι,	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	49	27	υνατος	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	49	27	ισχῦι,	τῆς	τῆς	τῆς	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	49	27	Και +Τῆς πτ ἀΤρΡΙΚΉς	πατρικῆς	πατρικῆς	πατρικῆς	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	49	28	δύο. +20	δύο.	δύο.	δύο.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	49	29	χιλιάδες:	χιλιάδες:	χιλιάδες·	χιλιάδες·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

@@ -1,0 +1,53 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+1chr	oldtestamenting02swet	80	1	ἐντολάς	ἐντολάς	ἐντολάς	ἐντολάς	image (3x): acute before enclitic σου as printed
+1chr	oldtestamenting02swet	80	1	μαρτύριά	μαρτύριά	μαρτύριά	μαρτύριά	image (3x): acute before enclitic σου as printed
+1chr	oldtestamenting02swet	80	1	προστάγματά	προστάγματά	προστάγματά	προστάγματά	image (3x): acute before enclitic σου as printed
+1chr	oldtestamenting02swet	80	2	σου. +“᾿ς	σου.	σου.	σου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	80	3	καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	80	3	Ἐὐλογήσατε	Ἐὐλογήσατε	Εὐλογήσατε	Εὐλογήσατε	image (3x): Ε unaccented capital, smooth breathing on υ (Εὐ)
+1chr	oldtestamenting02swet	80	4	ἡμῶν"	ἡμῶν" +β	ἡμῶν·	ἡμῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	80	6	“᾿καὶ	“᾿καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	80	8	χιλίους,	ιλίους,	χιλίους,	χιλίους,	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	80	9	θ +υσίας	θυσίας	θυσίας	θυσίας	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	80	9	Ἰσραὴλ. +“"	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing (apostrophe shape); accent and punctuation as in page file
+1chr	oldtestamenting02swet	80	9	καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	80	11	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): grave before a capitalized name (not a quotation), as printed
+1chr	oldtestamenting02swet	80	12	“"καὶ	“"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	80	13	πᾶς	πᾶς +.5	πᾶς	πᾶς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	80	13	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing (apostrophe shape); accent and punctuation as in page file
+1chr	oldtestamenting02swet	80	13	“'᾽οἱ	“"οἱ	οἱ	οἱ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	80	14	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before a capitalized name (not a quotation), as printed
+1chr	oldtestamenting02swet	80	15	“Ξκαὶ	“Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	80	15	ἐμεγάλυνεν	ἐμεγάλυνεν +εν	ἐμεγάλυνεν	ἐμεγάλυνεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	80	15	ἐπάνωθ +.-	ἐπάνωθ +5.5	ἐπάνωθεν,	ἐπάνωθεν,	image (3x): reading as in page file; OCR garbled or fused verse/margin number
+1chr	oldtestamenting02swet	80	16	παντὸς	παντὸς	παντὸς	παντὸς	image (3x): grave before a capitalized name (not a quotation), as printed
+1chr	oldtestamenting02swet	80	16	Ἰσραήλ᾽	Ἰσραήλ᾽	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing (apostrophe shape); accent and punctuation as in page file
+1chr	oldtestamenting02swet	80	17	ουκ	ουκ	οὐκ	οὐκ	image (3x): reading as in page file; OCR garbled or fused verse/margin number
+1chr	oldtestamenting02swet	80	17	ΕΎΕΡΨΕΤΟ	ΕΎΕΡΕΤΟ	ἐγένετο	ἐγένετο	image (3x): reading as in page file; OCR garbled or fused verse/margin number
+1chr	oldtestamenting02swet	80	17	εσπτὶι	εσπτι	ἐπὶ	ἐπὶ	image (3x): reading as in page file; OCR garbled or fused verse/margin number
+1chr	oldtestamenting02swet	80	17	πτανττος	πταντος	παντὸς	παντὸς	image (3x): reading as in page file; OCR garbled or fused verse/margin number
+1chr	oldtestamenting02swet	80	17	αὐτου. +26	αὐυτου. +20	αὐτοῦ.	αὐτοῦ.	image (3x): reading as in page file; OCR garbled or fused verse/margin number
+1chr	oldtestamenting02swet	80	18	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave before a capitalized name (not a quotation), as printed
+1chr	oldtestamenting02swet	80	18	Ἰεσσαὶ	Ἰεσσαὶ	Ἰεσσαὶ	Ἰεσσαὶ	image (3x): smooth breathing (apostrophe shape); accent and punctuation as in page file
+1chr	oldtestamenting02swet	80	18	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape); accent and punctuation as in page file
+1chr	oldtestamenting02swet	80	18	“7ἔτη	“7ἔτη	ἔτη	ἔτη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	80	19	ἐν +ΕῚ	ἐν	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	80	19	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing (apostrophe shape); accent and punctuation as in page file
+1chr	oldtestamenting02swet	80	19	-8	καὶ +28	καὶ	καὶ	image (3x): reading as in page file; OCR garbled or fused verse/margin number
+1chr	oldtestamenting02swet	80	20	Καὶ	ἐτελεύτησεν	ἐτελεύτησεν	ἐτελεύτησεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	80	20	28	ἐν	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	80	20	ἐτελεύ	γήρει	γήρει	γήρει	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	80	20	ἦν	καλῷ,	καλῷ,	καλῷ,	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	80	20	γή +αλῴ, πλή	πλήρης	πλήρης	πλήρης	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	80	20	πλούτῳ	υ	πλούτῳ	πλούτῳ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	80	20	δόξῃ"	δόξῃ" +κ	δόξῃ·	δόξῃ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	80	21	“οἱ	“οὶ	οἱ	οἱ	image (3x): reading as in page file; OCR garbled or fused verse/margin number
+1chr	oldtestamenting02swet	80	24	λύγων	λύγων	λόγων	λόγων	image (3x): reading as in page file; OCR garbled or fused verse/margin number
+1chr	oldtestamenting02swet	80	24	"περὶ	"περὶ	περὶ	περὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	80	24	αὐτοῦ +3ο	αὐτοῦ +30	αὐτοῦ	αὐτοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	80	25	οἱ	οἵ	οἳ	οἳ	image (4x): compact closed rough breathing + grave on ι (οἳ), not οἱ or οἵ
+1chr	oldtestamenting02swet	80	25	ἐπ᾽ +ιν	ἐπ᾽	ἐπ᾽	ἐπ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	80	25	τὸν +»	τὸν	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	80	25	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape); accent and punctuation as in page file
+1chr	oldtestamenting02swet	80	26	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave before a capitalized name (not a quotation), as printed
+1chr	oldtestamenting02swet	80	27	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

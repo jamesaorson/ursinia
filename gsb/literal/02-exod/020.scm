@@ -366,8 +366,7 @@
     ("to" (14 to))
     ("you," 15)
     ("in order that" 16)
-    ("ever" 17)
-    ("his" 21)
+    ("his" (17 unrendered) 21)
     ("fear" (19 absorbed) 20)
     ("may come to be" 18)
     ("in" 22)
@@ -491,7 +490,7 @@
     ("upon" 17)
     ("them" 18)
     ("and" 19)
-    ("has been defiled." 20)))
+    ("he/she/it has been defiled." 20)))
 
 (verse 26
   (status draft)
@@ -503,8 +502,7 @@
     ("my" 8)
     ("altar," (6 absorbed) 7)
     ("in order that" 9)
-    ("ever" 10)
-    ("you may not uncover" 11 (12 uncover "ἀποκαλύπτω"))
+    ("you may not uncover" (10 unrendered) 11 (12 uncover "ἀποκαλύπτω"))
     ("your" 15)
     ("shame" (13 absorbed) 14)
     ("upon" 16)

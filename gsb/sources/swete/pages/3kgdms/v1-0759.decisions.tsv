@@ -1,0 +1,113 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+3kgdms	theoldtestamenti00unknuoft	759	1	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	2	ἐδλιξεν	ἐξέλιξεν	ἐξέλιξεν	ἐξέλιξεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+3kgdms	theoldtestamenti00unknuoft	759	2	πῦρ. +4	πῦρ. +“	πῦρ.	πῦρ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	2	6	ὃ	ὁ	ὁ	image (3x): ὁ with rough breathing, no accent
+3kgdms	theoldtestamenti00unknuoft	759	2	ak +cuit	Ἡρόσωθεον	πρόσωπον	πρόσωπον	image (3x): word clearly printed as in the page file; OCR garbled; ano teleia where raised
+3kgdms	theoldtestamenti00unknuoft	759	3	εἶπόν	εἶπόν	εἶπόν	εἶπόν	image (3x): acute before capitalized quotation
+3kgdms	theoldtestamenti00unknuoft	759	3	Ἀληθῶς	Ἀληθῶς	Ἀληθῶς	Ἀληθῶς	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	3	θεός:	θεός:	θεός·	θεός·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	3	θεός:	θεός:	θεός·	θεός·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	3	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	4	∅	Ἠλειοὺ	Ἠλειοὺ	Ἠλειοὺ	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	4	∅	πρὸς	πρὸς	πρὸς	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	4	∅	᾿τὸν	τὸν	τὸν	image (3x): word clearly printed as in the page file; OCR garbled; ano teleia where raised
+3kgdms	theoldtestamenti00unknuoft	759	4	∅	λαόν	λαόν	λαόν	image (3x): acute before capitalized quotation
+3kgdms	theoldtestamenti00unknuoft	759	4	∅	Συλλάβετε	Συλλάβετε	Συλλάβετε	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	4	∅	τοὺς	τοὺς	τοὺς	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	4	∅	προφήγας	προφήτας	προφήτας	image (3x): word clearly printed as in the page file; OCR garbled; ano teleia where raised
+3kgdms	theoldtestamenti00unknuoft	759	4	∅	τοῦ	τοῦ	τοῦ	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	4	∅	Βάαλ;	Βάαλ,	Βάαλ,	image (3x): word clearly printed as in the page file; OCR garbled; ano teleia where raised
+3kgdms	theoldtestamenti00unknuoft	759	4	∅	μηθεὶς	μηθεὶς	μηθεὶς	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	5	αὐτῶν-	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	5	αὐτοὺς	αὐτοὺς	αὐτοὺς	αὐτοὺς	image (3x): accent and letters as printed
+3kgdms	theoldtestamenti00unknuoft	759	5	Ἠλειοὺ	Ἠλειοὺ	Ἠλειοὺ	Ἠλειοὺ	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	6	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	6	btn	ἔσφαξεν	ἔσφαξεν	ἔσφαξεν	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	6	ἐκεῖ. +4	ἐκεῖ. +4“:	ἐκεῖ.	ἐκεῖ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	7	Ἠ̓λειοὺ	Ἠ̓λειοὺ	Ἠλειοὺ	Ἠλειοὺ	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	7	Ἀχαάβ	Ἀχαάβ	Ἀχαὰβ	Ἀχαάβ	image (3x): smooth breathing; acute on final α (Ἀχαάβ) before capitalized word
+3kgdms	theoldtestamenti00unknuoft	759	7	Ἀνάβηθι	Ἀνάβηθι	Ἀνάβηθι	Ἀνάβηθι	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	8	“Kat	“Ξκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	8	Agape	Ἀ̓́χαλβ	Ἀχαὰβ	Ἀχαὰβ	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	8	TOU	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	8	πιεῖν"	πιεῖν"	πιεῖν·	πιεῖν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	8	Ἠλειοὺ	Ἠ̓λειοὺ	Ἠλειοὺ	Ἠλειοὺ	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	9	hires, +ΟΝ	ἐπάρμηλον)	Κάρμηλον,	Κάρμηλον,	image (3x): word clearly printed as in the page file; OCR garbled; ano teleia where raised
+3kgdms	theoldtestamenti00unknuoft	759	9	ἐκῦψον	ἔκυψέν	ἔκυψεν	ἔκυψεν	image (3x): word clearly printed as in the page file; OCR garbled; ano teleia where raised
+3kgdms	theoldtestamenti00unknuoft	759	9	ἐπὶ	ἐπὶ +ὁ	ἐπὶ	ἐπὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	9	πρὸσ-	πρόσ-	πρόσ-	πρόσ-	image (3x): word clearly printed as in the page file; OCR garbled; ano teleia where raised
+3kgdms	theoldtestamenti00unknuoft	759	10	ὥπον	ὥπον	ωπον	ωπον	image (3x): word clearly printed as in the page file; OCR garbled; ano teleia where raised
+3kgdms	theoldtestamenti00unknuoft	759	10	ἑαυτοῦ, +“3	ἑαυτοῦ, +“3	ἑαυτοῦ,	ἑαυτοῦ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	11	Ἀνάβηθι	Ἀνάβηθι	Ἀνάβηθι	Ἀνάβηθι	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	11	καὶ	καὶ +ἐ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	11	᾿ἐπέσλεψον	ἐπίβλεψον	ἐπίβλεψον	ἐπίβλεψον	class R6 (OCR letters differ): the other OCR reading agrees with c
+3kgdms	theoldtestamenti00unknuoft	759	11	ΠΟΛΎΣ:	θαλάσσης.	θαλάσσης.	θαλάσσης.	class R6 (OCR letters differ): the other OCR reading agrees with c
+3kgdms	theoldtestamenti00unknuoft	759	12	Οὐκ᾽	Οὐκ᾽	Οὐκ	Οὐκ	image (3x): Οὐκ smooth breathing; no apostrophe after κ
+3kgdms	theoldtestamenti00unknuoft	759	12	οὐθέν"	οὐθέν"	οὐθέν·	οὐθέν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	12	Ἠλειού	Ἠλειού	Ἠλειού	Ἠλειού	image (3x): smooth breathing; acute on final syllable
+3kgdms	theoldtestamenti00unknuoft	759	13	ἐπ	ἐπίστρεψεψ	ἐπίστρεψον	ἐπίστρεψον	image (3x): word clearly printed as in the page file; OCR garbled; ano teleia where raised
+3kgdms	theoldtestamenti00unknuoft	759	13	στρύψαν +erat,	ἑπτάκι,,	ἑπτάκι,	ἑπτάκι,	image (3x): word clearly printed as in the page file; OCR garbled; ano teleia where raised
+3kgdms	theoldtestamenti00unknuoft	759	13	ἀπόστῥεψον	ἀπόστρεψον	ἀπόστρεψον	ἀπόστρεψον	image (3x): word clearly printed as in the page file; OCR garbled; ano teleia where raised
+3kgdms	theoldtestamenti00unknuoft	759	13	ἑπτάκι.	ἑπτάκι. +᾿φ	ἑπτάκι.	ἑπτάκι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	13	‘Mal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	13	᾿ἀπέστρεψεν	᾿ἀπέστρεψεν	ἀπέστρεψεν	ἀπέστρεψεν	image (3x): word clearly printed as in the page file; OCR garbled; ano teleia where raised
+3kgdms	theoldtestamenti00unknuoft	759	14	ἑπτάκι:	ἑπτάμι:	ἑπτάκι·	ἑπτάκι·	image (3x): word clearly printed as in the page file; OCR garbled; ano teleia where raised
+3kgdms	theoldtestamenti00unknuoft	759	14	ἘῸΝ	γεφέλῆ	νεφέλη	νεφέλη	image (3x): word clearly printed as in the page file; OCR garbled; ano teleia where raised
+3kgdms	theoldtestamenti00unknuoft	759	15	ἀνάγουσα	ἀνάγουσα +ἃ	ἀνάγουσα	ἀνάγουσα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	15	᾿λνάβηϑι	᾿λνάβηϑι	Ἀνάβηθι	Ἀνάβηθι	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	15	εἰπὸν	εἰπὸν	εἰπὸν	εἰπὸν	image (3x): word clearly printed as in the page file; OCR garbled; ano teleia where raised
+3kgdms	theoldtestamenti00unknuoft	759	16	Ἀχαάβ	Ἀχαάβ	Ἀχαάβ	Ἀχαάβ	image (3x): smooth breathing; acute on final α (Ἀχαάβ) before capitalized word
+3kgdms	theoldtestamenti00unknuoft	759	16	cas	Ζεῦξον	Ζεῦξον	Ζεῦξον	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	16	gov	σου	σου	σου	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	16	ὑετός.	ὑετός."	ὑετός.	ὑετός.	class R6 (OCR letters differ): the other OCR reading agrees with c
+3kgdms	theoldtestamenti00unknuoft	759	17	ἐγένετο +ἐ	ἐγένετο	ἐγένετο	ἐγένετο	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	17	νεφέλαις	νεφέλαις +Ν , ΔΎ), τ κίρες ᾿ ͵ ν ὧν Ν ,	νεφέλαις	νεφέλαις	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	18	πνεύματι,	πνεῦματι,	πνεύματι,	πνεύματι,	image (3x): word clearly printed as in the page file; OCR garbled; ano teleia where raised
+3kgdms	theoldtestamenti00unknuoft	759	18	ὑετὸς	υετὸς	ὑετὸς	ὑετὸς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+3kgdms	theoldtestamenti00unknuoft	759	18	μέγας"	Μέγαν»	μέγας·	μέγας·	image (3x): word clearly printed as in the page file; OCR garbled; ano teleia where raised
+3kgdms	theoldtestamenti00unknuoft	759	18	καὶ	καὶ,	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+3kgdms	theoldtestamenti00unknuoft	759	19	Ἀχαὰβ	Ἀχαὰβ	Ἀχαὰβ	Ἀχαὰβ	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	19	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	19	“Kai	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	19	χεὶρ	χὲρ	χεὶρ	χεὶρ	image (3x): accent and letters as printed
+3kgdms	theoldtestamenti00unknuoft	759	19	“Κυρίου	Κ̓υρίου	Κυρίου	Κυρίου	image (3x): accent and letters as printed
+3kgdms	theoldtestamenti00unknuoft	759	19	Ἠλειού:	Ἠλειού:	Ἠλειού·	Ἠλειού·	image (3x): smooth breathing; acute on final syllable
+3kgdms	theoldtestamenti00unknuoft	759	20	ἔμπροσθεν	ἔμπιροσθεν	ἔμπροσθεν	ἔμπροσθεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+3kgdms	theoldtestamenti00unknuoft	759	20	Ἀχαὰβ	Ἀχαὰβ	Ἀχαὰβ	Ἀχαὰβ	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	20	Ἰσραήλ.	παραήλ. +τ:	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	21	Κ̓αὶ	Καὶ	Καὶ	Καὶ	image (3x): Καὶ, no breathing on Κ
+3kgdms	theoldtestamenti00unknuoft	759	21	Ἀχαὰβ	Ἀχαὰβ	Ἀχαὰβ	Ἀχαὰβ	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	21	Ἰεζάβελ	Ἰεζάβελ	Ἰεζάβελ	Ἰεζάβελ	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	21	ἐποίησεν	ἐποίησεν +»	ἐποίησεν	ἐποίησεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	22	Ἠλειοὺ	Ἠλειοὺ	Ἠλειοὺ	Ἠλειοὺ	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	22	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	22	ἀπέστειλεν	ἀπέστειλεν +ἰῷ	ἀπέστειλεν	ἀπέστειλεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	23	©	Ἰεζάβελ	Ἰεζάβελ	Ἰεζάβελ	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	23	Ἰεζάβέλ +impos:	πρὸς	πρὸς	πρὸς	class R6 (OCR letters differ): the other OCR reading agrees with c
+3kgdms	theoldtestamenti00unknuoft	759	23	Ἠλειοὺ	Ἠλειοὺ	Ἠλειοὺ	Ἠλειοὺ	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	23	Εἰ	Εἰ	Εἰ	Εἰ	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	23	δὺ	δὺ	σὺ	σὺ	image (3x): accent and letters as printed
+3kgdms	theoldtestamenti00unknuoft	759	23	Ἠλειοὺ	Ἠλειοὺ	Ἠλειοὺ	Ἠλειοὺ	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	23	ἘῊΕ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): accent and letters as printed
+3kgdms	theoldtestamenti00unknuoft	759	23	Ἰεζάβελ,	Ἰεζάβελ,	Ἰεζάβελ,	Ἰεζάβελ,	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	24	∅	ποιήσαι	ποιήσαι	ποιήσαι	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	24	∅	μοι	μοι	μοι	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	24	∅	ὁ	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	24	∅	θεὸς	θεὸς	θεὸς	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	24	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	24	∅	τάδε	τάδε	τάδε	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	24	∅	προσθείη,	προσθείη,	προσθείη,	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	24	∅	ὅτι	ὅτι	ὅτι	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	24	∅	ταύτην	ταύτην	ταύτην	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	24	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	24	∅	ὥραν	ὥραν	ὥραν	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	24	∅	αὔριον	αὔριον	αὔριον	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	25	ψυχήν	ψυχήν	ψυχήν	ψυχήν	image (3x): accent and letters as printed
+3kgdms	theoldtestamenti00unknuoft	759	25	Puxie	ψυχὴν	ψυχὴν	ψυχὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	25	ἑνὸς +€	ἑνὸς	ἑνὸς	ἑνὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	25	53καὶ	53καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	759	26	Ἠλειού,	3 +Ηλειού,	Ἠλειού,	Ἠλειού,	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	27	γὴν	γῆν +νυ	γῆν	γῆν	image (3x): word clearly printed as in the page file; OCR garbled; ano teleia where raised
+3kgdms	theoldtestamenti00unknuoft	759	27	‘lovda,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing (apostrophe shape); accents and punctuation as printed
+3kgdms	theoldtestamenti00unknuoft	759	27	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip

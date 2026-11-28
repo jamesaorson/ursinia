@@ -48,3 +48,4 @@ book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 3kgdms	theoldtestamenti00unknuoft	734	4	ἐκ +32 (28)	ἐκ +3: (28)	ἐκ	ἐκ	class R3: OCR appended accent-row or margin junk; c read from the image strip
 3kgdms	theoldtestamenti00unknuoft	734	10	-	-	Καὶ	Καὶ	Swete XI 1: margin prints 1 with no parenthesized number, inside the parenthesized stretch ((29) before, in-text (3) and (1) after); run on as {=10:29} per the skill
 3kgdms	theoldtestamenti00unknuoft	734	19	-	-	αἱ	αἱ	margin (3) beside Swete 4 repeats common 11:3, already printed in the text (3) at line 10: our letters {=11:3a} (line 10) and {=11:3b} (here)
+3kgdms	theoldtestamenti00unknuoft	734	10	-	-	Καὶ	Καὶ	coordinator: supersedes the row above: Swete XI 1 re-encoded {=11:1a} (new Swete chapter resets to Hebrew XI; the in-text (1) is {=11:1b}), not run on into 10:29

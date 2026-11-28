@@ -1,5 +1,6 @@
 # theoldtestamenti00unknuoft leaf 0733 (printed page 701)
 # box 272 2544 211 1947
+# done 2026-11-28 swete-2
 πάντα τὰ σκεύη δρυμοῦ οἴκου τοῦ Λιβάνου χρυσίῳ συνκεκλεισμένα·
 οὐκ ἦν ἀργύριον, ὅτι οὐκ ἦν λογιζόμενον ἐν ταῖς ἡμέραις Σαλωμών.
 {22}ὅτι ναῦς Θαρσεὶς τῷ βασιλεῖ ἐν τῇ θαλάσσῃ μετὰ τῶν νηῶν Χειράμ·
@@ -9,11 +10,11 @@
 μῆσαι τὸν οἶκον Κυρίου καὶ τὸν οἶκον τοῦ βασιλέως καὶ τὸ τεῖχος
 Ἰερουσαλὴμ καὶ τὴν ἄκραν, τοῦ περιφράξαι τὸν φραγμὸν τῆς
 πόλεως Δαυείδ, καὶ τὴν Ἀσσοὺρ καὶ τὴν Μαδιὰν καὶ τὴν Γάζερ
-# WIP: margin and text both print (17 b-19) before καὶ τὴν Βαιθωράμ; {=9:17b-19} is not expressible by the markers, and common 9:17 is already given whole at Swete 4:33 (leaf 715 per coordinator); marker left out for the coordinator
-καὶ τὴν Βαιθωρὰμ τὴν ἀνωτέρω καὶ τὴν Ἰεθερμάθ, καὶ πά-
+# margin and text both print (17 b-19) before καὶ τὴν Βαιθωράμ; the (17) at Swete 4:33 (leaf 715) is therefore our {=9:17a}
+{=9:17b-19}καὶ τὴν Βαιθωρὰμ τὴν ἀνωτέρω καὶ τὴν Ἰεθερμάθ, καὶ πά-
 σας τὰς πόλεις τῶν ἁρμάτων καὶ πάσας τὰς πόλεις τῶν ἱππέων·
-# margin prints 24 with no parenthesized number (the (17 b-19) stretch runs on; skill rule would be {24} run on with the common reference before it)
-{24}καὶ τὴν πραγματείαν Σαλωμὼν ἣν ἐπραγματεύσατο οἰκοδομῆσαι
+# margin prints 24 with no parenthesized number: runs on with (17 b-19) until the in-text (20); {=9:17b-19} here is ours
+{24}{=9:17b-19}καὶ τὴν πραγματείαν Σαλωμὼν ἣν ἐπραγματεύσατο οἰκοδομῆσαι
 ἐν Ἰερουσαλὴμ καὶ ἐν πάσῃ τῇ γῇ τοῦ μὴ κατάρξαι αὐτοῦ {=9:20}πάντα
 τὸν λαὸν τὸν ὑποδεδειγμένον ὑπὸ τοῦ Χετταίου καὶ τοῦ Ἀμορραίου
 καὶ τοῦ Φερεζαίου καὶ τοῦ Χαναναίου καὶ τοῦ Εὑαίου καὶ τοῦ

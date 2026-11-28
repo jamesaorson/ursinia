@@ -26,7 +26,7 @@ book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 4kgdms	theoldtestamenti00unknuoft	774	13	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
 4kgdms	theoldtestamenti00unknuoft	774	13	καταφάγεταΐ	καταφάγεταΐ	καταφάγεταί	καταφάγεταί	image (3x): enclitic accent as printed
 4kgdms	theoldtestamenti00unknuoft	774	14	πεντήκοντά	πεντήκοντά	πεντήκοντά	πεντήκοντά	image (3x): enclitic accent as printed
-4kgdms	theoldtestamenti00unknuoft	774	14	σου!	σου"	σου·	σου·	TODO zoom: A OPEN, B R2
+4kgdms	theoldtestamenti00unknuoft	774	14	σου!	σου"	σου·	σου·	image (3x): ano teleia after σου
 4kgdms	theoldtestamenti00unknuoft	774	15	“3xai	Ξ̓καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 4kgdms	theoldtestamenti00unknuoft	774	15	ἔτι +13	ἔτι +τ3	ἔτι	ἔτι	class R3: OCR appended accent-row or margin junk; c read from the image strip
 4kgdms	theoldtestamenti00unknuoft	774	16	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
@@ -36,7 +36,7 @@ book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 4kgdms	theoldtestamenti00unknuoft	774	19	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
 4kgdms	theoldtestamenti00unknuoft	774	20	σου"	σου"	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 4kgdms	theoldtestamenti00unknuoft	774	20	"ἰδοὺ	"ἰδοὺ	ἰδοὺ	ἰδοὺ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-4kgdms	theoldtestamenti00unknuoft	774	20	'τοῦ	'ιτοῦ	τοῦ	τοῦ	TODO zoom: A OPEN, B OPEN
+4kgdms	theoldtestamenti00unknuoft	774	20	'τοῦ	'ιτοῦ	τοῦ	τοῦ	image (3x): τοῦ; vertical scratch before it is not text
 4kgdms	theoldtestamenti00unknuoft	774	20	καὶ +14	καὶ +τ,	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
 4kgdms	theoldtestamenti00unknuoft	774	21	πρώτους"	πρώτους"	πρώτους·	πρώτους·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 4kgdms	theoldtestamenti00unknuoft	774	21	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
@@ -47,7 +47,7 @@ book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 4kgdms	theoldtestamenti00unknuoft	774	22	ἄγγελος +15	ἄγγελος +τ-	ἄγγελος	ἄγγελος	class R3: OCR appended accent-row or margin junk; c read from the image strip
 4kgdms	theoldtestamenti00unknuoft	774	23	“Hdetod	Ἠ̓λειοὺ	Ἠλειοὺ	Ἠλειοὺ	image (3x): smooth breathing (apostrophe shape), no accent on the capital
 4kgdms	theoldtestamenti00unknuoft	774	23	per	μετ᾽	μετ᾽	μετ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
-4kgdms	theoldtestamenti00unknuoft	774	23	φοβηθῆς	φοβηθῆς	φοβηθῇς	φοβηθῇς	TODO zoom: A DROP, B DROP
+4kgdms	theoldtestamenti00unknuoft	774	23	φοβηθῆς	φοβηθῆς	φοβηθῇς	φοβηθῇς	image (3x): iota subscript under η: φοβηθῇς
 4kgdms	theoldtestamenti00unknuoft	774	24	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 4kgdms	theoldtestamenti00unknuoft	774	24	Ἢλειοὺ	Ἢλειοὺ	Ἠλειοὺ	Ἠλειοὺ	image (3x): smooth breathing (apostrophe shape), no accent on the capital
 4kgdms	theoldtestamenti00unknuoft	774	24	per	μετ᾽	μετ᾽	μετ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
@@ -63,4 +63,5 @@ book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 4kgdms	theoldtestamenti00unknuoft	774	29	Ἠ̓́λειού.	Ἤλειού.	Ἠλειού.	Ἠλειού.	image (3x): smooth breathing, acute on final -ού as printed
 4kgdms	theoldtestamenti00unknuoft	774	29	“kal	"“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 4kgdms	theoldtestamenti00unknuoft	774	29	Ὀχοζείου	Ὀχοζείου	Ὀχοζείου	Ὀχοζείου	image (3x): smooth breathing (apostrophe shape), no accent on the capital
-4kgdms	theoldtestamenti00unknuoft	774	30	18 +ἁ	18 +ἁ	ἃ	ἃ	TODO zoom: A OPEN, B OPEN
+4kgdms	theoldtestamenti00unknuoft	774	30	18 +ἁ	18 +ἁ	ἃ	ἃ	image (3x): rough + grave, closed d-shaped mark: ἃ
+4kgdms	theoldtestamenti00unknuoft	774	26	-	-	Βάαλ	Βάαλ	ambiguous: a stray acute-like stroke stands in the space after Βάαλ, attached to no letter; read as a stray mark, not transcribed

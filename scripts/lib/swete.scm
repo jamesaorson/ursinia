@@ -113,7 +113,9 @@ letter (\"a\" for {=31:48a}), or the rest of a combined number as printed
    ;; an extra verse after his 42, not a half of it.
    ((string-match "^([0-9]+)([a-z])$" s)
     => (lambda (m) (list 'verse (string->number (match:substring m 1)) 'letter (match:substring m 2))))
-   ((string-match "^=([0-9]+):([0-9]+)([a-z]?|-[0-9]+|(,[0-9]+[a-z]?)+)$" s)
+   ;; The first verse of a combined number may be a half: (17 b-19) in
+   ;; 3 Kgdms 10:22 is {=9:17b-19}.
+   ((string-match "^=([0-9]+):([0-9]+)([a-z]?|[a-z]?-[0-9]+|[a-z]?(,[0-9]+[a-z]?)+)$" s)
     => (lambda (m)
          (let ((c (string->number (match:substring m 1))) (v (string->number (match:substring m 2)))
                (part (match:substring m 3)))
@@ -311,16 +313,19 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
         ;; REF. A combined reference (40:30-31, 36:34,36) claims each verse.
         (match ref
           ((c v part . _)
-           (let* ((members   ; ((verse . half-letter) ...)
+           (let* ((lead (string-take part (or (string-skip part char-alphabetic?) (string-length part)))) ; half letter of the first verse, 17b-19
+                  (rest (string-drop part (string-length lead)))
+                  (members   ; ((verse . half-letter) ...)
                    (cond ((memq 'extra ref) ; Swete's own 42a is a verse of its own, not a half of 42
                           (list (cons (string-append (number->string v) part) "")))
-                         ((string-prefix? "-" part)
-                          (map (lambda (n) (cons n "")) (iota (- (string->number (string-drop part 1)) v -1) v)))
-                         ((string-prefix? "," part)
-                          (cons (cons v "")
+                         ((string-prefix? "-" rest)
+                          (cons (cons v lead)
+                                (map (lambda (n) (cons n "")) (iota (- (string->number (string-drop rest 1)) v) (+ v 1)))))
+                         ((string-prefix? "," rest)
+                          (cons (cons v lead)
                                 (map (lambda (x) (let ((n (string-trim-right x char-alphabetic?)))
                                                    (cons (string->number n) (string-drop x (string-length n)))))
-                                     (cdr (string-split part #\,)))))
+                                     (cdr (string-split rest #\,)))))
                          (else (list (cons v part)))))
                   (clashes (filter-map
                             (match-lambda

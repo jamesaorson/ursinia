@@ -25,7 +25,7 @@
 (verse 2
   (status draft)
   (literal
-    ("Having stood up" 1)
+    ("having stood up" 1)
     ("run away" (2 run-away "ἀποδιδράσκω"))
     ("into" 3)
     ("Mesopotamia" (4 unrendered) 5)
@@ -363,7 +363,7 @@
     ("this" 21)
     ("land;" (19 absorbed) (20 land))
     ("because" (22 because))
-    ("I will not forsake at all" 23 (24 at-all) (26 forsake "ἐγκαταλείπω"))
+    ("I will not forsake at all" 23 24 (26 forsake "ἐγκαταλείπω"))
     ("you" 25)
     ("until" 27)
     ("my" (28 infinitive) 30)
@@ -490,7 +490,7 @@
     ("I" 21)
     ("go," 22)
     ("and" 23)
-    ("give" 24)
+    ("he/she/it give" 24)
     ("to me" 25)
     ("bread" 26)
     ("to eat" 27)
@@ -501,7 +501,7 @@
 (verse 21
   (status draft)
   (literal
-    ("And" 1)
+    ("and" 1)
     ("he/she/it turn" (2 turn-back "ἀποστρέφω"))
     ("me" 3)
     ("back" (cont 2))

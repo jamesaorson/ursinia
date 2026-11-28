@@ -231,9 +231,9 @@
     ("and" 4)
     ("the Casluhim," 5 (6 name "Χασμωνιείμ"))
     ("from where" 7)
+    ("Philistines" (10 name "Φυλιστιείμ"))
     ("went forth" 8)
-    ("from there" 9)
-    ("Philistines," (10 name "Φυλιστιείμ"))
+    ("from there," 9)
     ("and" 11)
     ("the Caphtorim." 12 (13 name "Χαφθοριείμ"))))
 

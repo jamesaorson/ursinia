@@ -334,7 +334,7 @@
     ("On account of" 1)
     ("this" 2)
     ("he/she/it called" 3)
-    ("the well," 4 5)
+    ("the well" 4 5)
     ("Well" 6)
     ("of which" 7)
     ("in sight" (8 in-sight))

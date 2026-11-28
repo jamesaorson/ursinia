@@ -150,6 +150,21 @@ leaf numbers here; the images and OCR layers stay out of the repo
     ἀποθανεῖν Σαούλ ...) stay in 31:13 as printed.
     His 2 Kgdms 18:33 is `(XIX)(1)` and 19:1-43 is `(2)`-`(44)` (Hebrew 19:1 =
     English 18:33, 19:2-44 = 19:1-43), so 2 Kingdoms 18 has 33 verses and 19 has 43.
+  - *3 Kingdoms*: a bare parenthesized number belongs to the Hebrew chapter of
+    the last parenthesized Roman numeral printed (`20 (7) (V)`, then `21 (8)`
+    = 5:8), until Swete's own chapter changes (`V (15) 1` = 5:15). Hebrew 5:1-14
+    (in his 4:20-30 and 10:30) are English 4:21-34 and Hebrew 5:15-32 (his
+    5:1-6:3) English 5:1-18; his own 22:1-54 are Hebrew (22:44 joins English
+    22:43, 22:45-54 = 22:44-53). His XX is `(XXI)` and XXI is `(XX)`, printed
+    once each with no parenthesized verse numbers: every verse carries our own
+    `{=21:n}` / `{=20:n}`, so the table has Hebrew/English 21 before 20. His own
+    lettered supplements (2:35a-o, 2:46a-l, 8:53a, 12:24a-z, 16:28a-h; no j,
+    v, w) are `{35a}` etc. Halves with our letters where Swete prints a number
+    twice: 7:1a/b (his 7:38, 7:50), 9:17a/b (`(17)` at 4:33, `(17 b-19)` at
+    10:23, `{=9:17b-19}`), 11:1a/b (his XI 1 has no parenthesis; the in-text
+    `(1)` follows), 11:3a/b, 11:25a/b. Common verses with no number printed
+    (lacking in B, or only in the lettered supplements): 4:20, 5:5-6, 6:11-13, 6:32, 7:22, 7:31, 8:12-13, 9:23-25,
+    11:39, 12:2, 12:17, 13:27, 14:1-20, 15:6, 15:32, 21:11-12, 22:47-50.
   - *A Swete number printed twice in a chapter*: 2 Kgdms 23 prints 29, then 31
     (no 30: apparatus "30 om B"), and after 39 prints 30 and 31 again (leaves
     697-698). Encoded `{31!}{=23:31a}` ... `{30!}` ... `{31!!}{=23:31b}`; the
@@ -181,7 +196,7 @@ per line (`#` lines below the header are comments). Markers:
 | `{7}` | Swete's verse 7 starts (where his superscript stands); the common reference becomes chapter:7 |
 | `{=2:25}` | the common reference from here until Swete's next `{n}` (his parenthesized number, in the margin or the text); may go backwards, but each common verse is given once per book |
 | `{=31:48a}` | the same for a half verse (Swete's `(48 a)`, or our letters where he prints a number twice) |
-| `{=40:30-31}` `{=36:34,36}` | one Swete verse for several common verses, as printed (`(30, 31)` with consecutive numbers is a range) |
+| `{=40:30-31}` `{=36:34,36}` | one Swete verse for several common verses, as printed (`(30, 31)` with consecutive numbers is a range); the first may be a half verse, `(17 b-19)` = `{=9:17b-19}` (3 Kgdms 10:23) |
 | `{52!}` | Swete's verse 52 as printed, out of sequence: his own numbering skips (Gen 31:52) or prints a number early or late (Num 6: 23, `{27!}`, `{24!}`, 25, 26; Num 10: 33, `{35!}`, 36, `{34!}`) or opens a chapter on a later number (1 Kgdms 18: `{C18}{6!}`); each Swete number still occurs once per chapter, except as `{n!!}`. An unmarked break in sequence fails |
 | `{31!!}` | Swete's own number printed a second time in the chapter (2 Kgdms 23: 29, 31, ... 39, `{30!}`, `{31!!}`); it must have occurred before; both places of the common verse take our letters (`{=23:31a}`, `{=23:31b}`) |
 | `{42a}` | Swete's own lettered verse as printed (superscript `42a`, margin `42 a` without parentheses: Josh 21:42a-d, 24:33a-b): an extra Greek verse after his 42, not a half of it; only after `{42}` or another letter of 42; table verse `42a` |

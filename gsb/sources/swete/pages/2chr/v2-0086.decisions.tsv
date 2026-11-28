@@ -1,0 +1,43 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+2chr	oldtestamenting02swet	86	2	“καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	86	2	δεξιῶν +8	δεξιῶν +8	δεξιῶν	δεξιῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	86	3	εὐωνύμων:	εὐωνύμων:	εὐωνύμων·	εὐωνύμων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	86	3	ἑκατόν" +9	ἑκατόν" +9	ἑκατόν·	ἑκατόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	86	3	καὶ +9	καὶ +9	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	86	5	κατακεχαλκωμένα +χ	κατακεχαλκωμένα	κατακεχαλκωμένα	κατακεχαλκωμένα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	86	5	“καὶ +τὸ	“καὶ +τὸ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	86	7	ΙΙ +"“᾿καὶ	ΤΙ +᾿᾿καὶ	καὶ	καὶ	image (3x): verse superscript fused by OCR; word as printed
+2chr	oldtestamenting02swet	86	7	τὰ +τι	τὰ +τι	τὰ	τὰ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	86	10	“στύλους	“στύλους	στύλους	στύλους	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	86	10	αὐτῶν +τ.	αὐτῶν +τ.	αὐτῶν	αὐτῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	86	12	χωθαρὲέθ	χωθαρὲέθ	χωθαρὲθ	χωθαρὲθ	image (3x): χωθαρὲθ, single grave on epsilon
+2chr	oldtestamenting02swet	86	12	ἅ	ἅ	ἅ	ἅ	image (3x): ἅ (rough + acute) before ἐστιν as printed
+2chr	oldtestamenting02swet	86	13	Ξ̓καὶ	"Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	86	14	τῷ	τῷ +ὃ	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	86	15	ἅ	ἅ	ἅ	ἅ	image (3x): ἅ (rough + acute) before ἐστιν as printed
+2chr	oldtestamenting02swet	86	15	“᾿καὶ	“'καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	86	16	ἐποίησεν	εποιῆσεν	ἐποίησεν	ἐποίησεν	image (3x): smooth breathing on epsilon, acute on iota
+2chr	oldtestamenting02swet	86	16	καὶ	Και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	86	16	τοὺς	Τους	τοὺς	τοὺς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	86	16	λουτῆρας	ουτηρας	λουτῆρας	λουτῆρας	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	86	16	ἐποίησεν	ἐεἐποιῆσεν	ἐποίησεν	ἐποίησεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	86	16	ἐπὶ	ἐπι	ἐπὶ	ἐπὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	86	16	μεχωνώθ, +"5	μέχωνωῦσ,	μεχωνώθ,	μεχωνώθ,	image (3x): μεχωνώθ with acute on omega (vs μεχωνὼθ earlier in line), as printed; margin 15 not text
+2chr	oldtestamenting02swet	86	16	καὶ	Και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	86	17	αὐτῆς, +τό	αὐτῆς, +τό	αὐτῆς,	αὐτῆς,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	86	21	έν	ἰσὲν	ἐν	ἐν	image (3x): ἐν with smooth breathing and grave; superscript 17 not text
+2chr	oldtestamenting02swet	86	21	Ιορδάνου	Ιορδάνου	Ἰορδάνου	Ἰορδάνου	image (3x): smooth breathing on capital
+2chr	oldtestamenting02swet	86	21	τῷ	τῷ +17	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	86	22	γῆς,	γῆς.	γῆς,	γῆς,	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	86	22	Ἀναμεσιρδάθαι. +18	Ἀναμεσιρδαάθαι. +18	Ἀναμεσιρδάθαι.	Ἀναμεσιρδάθαι.	image (3x): smooth breathing on capital
+2chr	oldtestamenting02swet	86	24	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	86	26	,ςοο +“καὶ	ς|Ίκ +““καὶ	καὶ	καὶ	image (3x): verse superscript fused by OCR; word as printed
+2chr	oldtestamenting02swet	86	28	καθαροῦ, +“"	καθαροῦ, +“"	καθαροῦ,	καθαροῦ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	86	29	“καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	86	31	χρυσᾶς.	χρυσᾶς. +(η)	χρυσᾶς.	χρυσᾶς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	86	32	“καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	86	32	Δανεὶδ	Δαυεὶδ	Δαυεὶδ	Δαυεὶδ	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	86	33	σκεύη:	σκεύη:	σκεύη·	σκεύη·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	86	34	θησαυρὸν	θησαυρὸν	θησαυρὸν	θησαυρὸν	image (3x): grave before capitalized name (not a quotation)
+2chr	oldtestamenting02swet	86	31	-	-	χρυσᾶς.	χρυσᾶς.	image: Swete prints a superscript (1) in the text here (margin "(1) (V)") before καὶ συνετελέσθη, and his own V 1 at καὶ εἰσήνεγκεν: encoded {=5:1} at the (1) and {C5}{1} at his 1; his 5:1 runs on as common 5:1
+2chr	oldtestamenting02swet	86	33	-	-	αὐτοῦ,	αὐτοῦ,	ambiguous: circumflex over υ prints as a damaged blot (broken type); read αὐτοῦ

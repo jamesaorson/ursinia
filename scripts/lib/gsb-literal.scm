@@ -742,10 +742,12 @@ capital for a paragraph or direct speech, not for a name."
                       ;; the article's place
                       ((and nx (string? (u nx 'tag)) (string-prefix? "S-" (u nx 'tag))) 'absorbed)
                       ;; τὰ αὐτοῦ, πάντων τῶν αὐτοῦ: "the [things] of him"
-                      ((and nx (eqv? (case-of nx) #\G) (not (eqv? (case-of x) #\G)) (is? nx "P" "T" "N")
+                      ((and nx (eqv? (case-of nx) #\G) (is? nx "P" "T" "N")
+                            ;; (a genitive article only after πᾶς: πάντων τῶν αὐτοῦ)
+                            (or (not (eqv? (case-of x) #\G)) (and p (lemma-in? p "πᾶς") (agree? p x)))
                             ;; (no noun of its own follows: τὸν τοῦ θεοῦ λόγον is not)
                             (not (any (lambda (k) (let ((nn (at k))) (and nn (is? nn "N" "A") (agree? x nn))))
-                                      (iota 4 (+ i 2)))))
+                                      (iota 5 (+ i 1)))))
                        'the-one)
                       (else 'the)))))
          ((and (is? x "P") (eqv? (case-of x) #\G) p (or (is? p "N") (and (u p 'phrase) (not (u p 'phrase-prep)))))
@@ -753,8 +755,11 @@ capital for a paragraph or direct speech, not for a name."
          ;; A genitive pronoun before article + noun is possessive too
          ;; (ὑμῶν οἱ ὀφθαλμοί, "your eyes"); its article is absorbed.
          ((and (is? x "P") (eqv? (case-of x) #\G) (is? nx "T") (at (+ i 2)) (is? (at (+ i 2)) "N") (not (is? p "PREP"))
-               ;; ἐπήκουσεν αὐτοῦ ὁ θεός: the object of a verb taking the genitive
-               (not (let ((v (at (skip-post (- i 1) -1)))) (and v (is? v "V") (field (unit-sense env v) 'genitive)))))
+               (string-null? (u x 'post))   ; ἄκουσόν μου. τὸν ἀγρόν: not across punctuation
+               ;; ἐπήκουσεν αὐτοῦ ὁ θεός: the object of a verb taking the genitive,
+               ;; before its subject (but ἄκουσόν μου τῆς φωνῆς "hear my voice")
+               (not (let ((v (at (skip-post (- i 1) -1))))
+                      (and v (is? v "V") (field (unit-sense env v) 'genitive) (eqv? (case-of nx) #\N)))))
           (vector-set! v i (u+ x 'role 'possessive 'moved #t))
           (vector-set! v (+ i 1) (u+ nx 'role 'absorbed 'absorbed-by-pre #t)))
          ((and (is? x "P") (eqv? (case-of x) #\G) (is? nx "N") (not (is? p "N" "PREP")))
@@ -919,16 +924,10 @@ capital for a paragraph or direct speech, not for a name."
   "Mark a third person verb joined by καί to an earlier verb of the same
 sentence ('kai-joined: it gets no pronoun, as the Greek has none), and a
 relative pronoun whose nearest agreeing noun is a person ('person-ante)."
-  (define (oblique-person? y)
-    (and (case-of y) (not (eqv? (case-of y) #\N))
-         (or (and (is? y "N") (person-noun? env y))
-             (and (is? y "P") (lemma-in? y "αὐτός") (not (eq? (u y 'role) 'possessive))))))
   (let loop ((us units) (prev '()) (verb-before? #f) (acc '()))
     (if (null? us)
         (reverse acc)
         (let* ((x (car us))
-               ;; the words since the last finite verb
-               (since (take-while (lambda (y) (not (finite? y))) prev))
                ;; καὶ οὐκ ἐτεκνοποίει: past a negation
                (kai (and (pair? prev)
                          (if (and (lemma-in? (car prev) "οὐ" "μή") (pair? (cdr prev))) (cadr prev) (car prev))))
@@ -938,11 +937,7 @@ relative pronoun whose nearest agreeing noun is a person ('person-ante)."
                          ;; joined only to a verb of the same person and number
                          ;; (ἠμβλύνθησαν ... καὶ ἐκάλεσεν is not)
                          (eqv? (tag-field (tp verb-before?) 'number) (tag-field (tp x) 'number))
-                         (eqv? (or (tag-field (tp verb-before?) 'person) #\3) #\3)
-                         ;; nor after a clause naming another person, who may be
-                         ;; the new subject (εἰσῆλθεν πρὸς Ἁγάρ, καὶ συνέλαβεν;
-                         ;; ἐκάκωσεν αὐτήν, καὶ ἀπέδρα): the open pronoun shows it
-                         (not (any oblique-person? since)))
+                         (eqv? (or (tag-field (tp verb-before?) 'person) #\3) #\3))
                     (u+ x 'kai-joined #t))
                    ;; The relative's antecedent is the nearest noun; "who" only
                    ;; when that noun agrees and is a person.
@@ -1041,7 +1036,7 @@ or another accusative follows (its object): μετὰ τὸ γεννῆσαι α
     (define (at i) (and (>= i 0) (< i n) (vector-ref v i)))
     (define (acc-after? k)
       ;; an accusative noun phrase (the infinitive's object) starts at K
-      (let ((y (at k))) (and y (eqv? (case-of y) #\A) (or (nominal? y) (u y 'phrase)) (not (is? y "R")))))
+      (let ((y (at k))) (and y (or (eqv? (case-of y) #\A) (caseless-name? y)) (or (nominal? y) (u y 'phrase)) (not (is? y "R")))))
     (do ((i 0 (+ i 1))) ((>= i n) (vector->list v))
       (let ((x (at i)))
         (when (and (is? x "T") (eq? (u x 'role) 'infinitive))
@@ -1769,7 +1764,15 @@ oblique noun, two nominatives), leave the Greek order and mark the verb
                      (clause-end (let fwd ((k (+ i 1))) (if (in-cl? (at k)) (fwd (+ k 1)) k)))
                      (before (take (drop span clause-start) (- i clause-start)))
                      (after (take (drop span (+ i 1)) (- clause-end i 1)))
-                     (before-noms (filter (lambda (k) (nom? (at k) #t (at (- k 1)))) (iota (- i clause-start) clause-start)))
+                     (before-noms (filter (lambda (k) (and (nom? (at k) #t (at (- k 1)))
+                                                           ;; καὶ Λὼτ τὸν ἀδελφὸν αὐτοῦ ἀπέστρεψεν: a name with
+                                                           ;; an oblique apposition is in that case
+                                                           (not (and (caseless-name? (at k))
+                                                                     (let ((noun (np-noun span (+ k 1))))
+                                                                       (and noun (is? noun "N") (memv (case-of noun) '(#\A #\D))
+                                                                            (person-noun? env noun) (not (name-like? env noun))
+                                                                            (is? (at (+ k 1)) "T" "P")))))))
+                                          (iota (- i clause-start) clause-start)))
                      (x (u+ x 'subj-done #t
                             'may (and (eqv? (mood x) #\S) (any (lambda (y) (lemma-in? y "ἵνα" "ὅπως")) (take span i))))))
                 (define (dative-possessor?)
@@ -1869,13 +1872,32 @@ oblique noun, two nominatives), leave the Greek order and mark the verb
                   ;; prepositional phrase: εὐλόγησεν αὐτοὺς ὁ θεός; λαλείτω πρὸς
                   ;; ἡμᾶς ὁ θεός; ᾠκοδόμησεν ἐκεῖ Ἀβράμ; and an adverbial καί
                   ;; goes with it (ἔτεκεν δὲ καὶ ἡ νεωτέρα "but also the younger bore").
-                  (let* ((j (let skip ((k (+ i 1)) (left 2) (pp 1) (adv 1))
+                  (let* ((j (let skip ((k (+ i 1)) (left 2) (pp 1) (adv 1) (obl 1))
                               (let ((y (at k)))
                                 (cond ((not (in-cl? y)) k)
+                                      ;; one object noun phrase whose case is plain (a
+                                      ;; masculine/feminine accusative, a dative) when a
+                                      ;; nominative follows it: ἕξει υἱὸν Σάρρα ἡ γυνή σου;
+                                      ;; ἔσται τῇ Σάρρᾳ υἱός
+                                      ((and (> obl 0) (or (is? y "T" "N" "A") (and (memq (u y 'role) '(possessive)) (u y 'moved)))
+                                            (let ((noun (np-noun span k)))
+                                              (and noun (in-cl? noun) (is? noun "N") (not (caseless-name? noun))
+                                                   (or (eqv? (case-of noun) #\D)
+                                                       (and (eqv? (case-of noun) #\A) (memv (gen-of noun) '(#\M #\F)))))))
+                                       (let obj ((m k) (c #f))
+                                         (let ((z (at m)))
+                                           (if (and (in-cl? z) (or (is? z "T" "N" "A") (eq? (u z 'role) 'possessive))
+                                                    (not (eqv? (case-of z) #\N)) (not (caseless-name? z))
+                                                    (if c (or (eqv? (case-of z) c) (eqv? (case-of z) #\G)) #t))
+                                               (obj (+ m 1) (or c (and (not (eq? (u z 'role) 'possessive)) (case-of z))))
+                                               ;; only if a nominative comes next
+                                               (if (and (in-cl? z) (nom? z #t (at (- m 1))))
+                                                   (skip m left pp adv 0)
+                                                   k)))))
                                       ((and (> left 0) (is? y "P" "F") (not (eqv? (case-of y) #\N)) (not (eq? (u y 'role) 'possessive)))
-                                       (skip (+ k 1) (- left 1) pp adv))
+                                       (skip (+ k 1) (- left 1) pp adv obl))
                                       ((and (> adv 0) (is? y "ADV") (not (interrogative? y)) (not (lemma-in? y "οὐ" "μή")))
-                                       (skip (+ k 1) left pp (- adv 1)))
+                                       (skip (+ k 1) left pp (- adv 1) obl))
                                       ((and (> pp 0) (is? y "PREP"))
                                        ;; the object: words in its first word's case and
                                        ;; their genitives (παρὰ τῷ θεῷ | ῥῆμα)
@@ -1884,7 +1906,7 @@ oblique noun, two nominatives), leave the Greek order and mark the verb
                                            (if (and (in-cl? z) (or (nominal? z) (u z 'phrase)) (not (eqv? (case-of z) #\N))
                                                     (if c (or (eqv? (case-of z) c) (eqv? (case-of z) #\G)) #t))
                                                (obj (+ m 1) (or c (and (not (eq? (u z 'role) 'possessive)) (case-of z))))
-                                               (skip m left 0 adv)))))
+                                               (skip m left 0 adv obl)))))
                                       (else k)))))
                          (kai-k (and (lemma-in? (at j) "καί") (in-cl? (at (+ j 1))) (nom? (at (+ j 1)) #t (at j)) j))
                          (j (if kai-k (+ j 1) j))
@@ -1942,6 +1964,11 @@ oblique noun, two nominatives), leave the Greek order and mark the verb
                                                                   (not (is? (phrase-before span k) "PREP")))))
                                                (iota (max 0 (- clause-end end)) end)))))
                          (ok (and (pair? np) (not unsure)
+                                  ;; ἐγένετο μετὰ τὰ ῥήματα ταῦτα ὁ θεὸς ἐπείραζεν: before
+                                  ;; another finite verb of its clause, the nominative is
+                                  ;; that verb's, not the impersonal's
+                                  (not (and (field1 (unit-sense env x) 'subject)
+                                            (any (lambda (k) (finite? (at k))) (iota (max 0 (- clause-end end)) end))))
                                   (or (second np) (eqv? (num-of head) number) (not (num-of head))
                                       (and (eqv? (gen-of head) #\N) (eqv? number #\S)))))
                          (run-start (and (not ok) (not unsure)

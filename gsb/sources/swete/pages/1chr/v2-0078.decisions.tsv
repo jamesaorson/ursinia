@@ -1,0 +1,42 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+1chr	oldtestamenting02swet	78	1	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	78	1	χρυσῶν +τΆ4	χρυσῶν +τΆ	χρυσῶν	χρυσῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	78	2	τ5Ὰ +“λυχνιῶν	“λυχνιῶν	λυχνιῶν	λυχνιῶν	image (3x): reading as in page file; OCR junk from verse/margin numbers or dropped accent
+1chr	oldtestamenting02swet	78	2	λύχνων. +τ5 τό	λύχνων +ΚἋΚ5	λύχνων.	λύχνων.	image (3x): reading as in page file; OCR junk from verse/margin numbers or dropped accent
+1chr	oldtestamenting02swet	78	3	προθέσεως, +τό	προθέσεως, +τ	προθέσεως,	προθέσεως,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	78	4	"7καὶ	"“7καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	78	4	τῶν +τ7	τῶν +τ7	τῶν	τῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	78	6	χρυσών	χρυσῶν	χρυσῶν	χρυσῶν	image (3x): reading as in page file; OCR junk from verse/margin numbers or dropped accent
+1chr	oldtestamenting02swet	78	6	σταθμοῦ. +τ	σταθμοῦ. +τϑ	σταθμοῦ.	σταθμοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	78	10	Κυρίουι͵	Κυρίουι.͵	Κυρίου.	Κυρίου.	image (3x): reading as in page file; OCR junk from verse/margin numbers or dropped accent
+1chr	oldtestamenting02swet	78	10	“πάντα	“πάντα	πάντα	πάντα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	78	10	χειρὸς	χειρὸς	χειρὸς	χειρὸς	image (3x): grave before a capitalized name (not a quotation), as printed
+1chr	oldtestamenting02swet	78	10	Δαυεὶδ +το	Δαυεὶδ +το	Δαυεὶδ	Δαυεὶδ	image (3x): grave before a capitalized name (not a quotation), as printed
+1chr	oldtestamenting02swet	78	11	τῆς +ἡ	τῆς	τῆς	τῆς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	78	12	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	78	12	εἰπεν	εἶπεν	εἶπεν	εἶπεν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	78	12	Δαυεὶδ	Δαυεὶδ	Δαυεὶδ	Δαυεὶδ	image (3x): grave before a capitalized name (not a quotation), as printed
+1chr	oldtestamenting02swet	78	12	Ἴσχυε +50	Ἴσχυε +50	Ἴσχυε	Ἴσχυε	image (3x): smooth + acute (apostrophe then rising stroke) on capital Ι
+1chr	oldtestamenting02swet	78	13	πτοηθῆς-	πτοηθῆς-	πτοηθῇς·	πτοηθῇς·	image (3x): circumflex over η with iota subscript; ano teleia
+1chr	oldtestamenting02swet	78	13	θεός	θεός	θεός	θεός	image (3x): acute before enclitic as printed
+1chr	oldtestamenting02swet	78	14	μή	μή	μή	μή	image (3x): acute before enclitic as printed
+1chr	oldtestamenting02swet	78	18	1 +“"καὶ	δι +“"καὶ	καὶ	καὶ	image (3x): reading as in page file; OCR junk from verse/margin numbers or dropped accent
+1chr	oldtestamenting02swet	78	22	σου. +᾿	σου. +᾿	σου.	σου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	78	22	εἰπεν	εἶπεν	εἶπεν	εἶπεν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	78	22	πάση	πάσῃ	πάσῃ	πάσῃ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	78	23	υἱός	υἱός	υἱός	υἱός	image (3x): acute before enclitic as printed
+1chr	oldtestamenting02swet	78	23	εἰς	εἰς	εἷς	εἷς	image (3x): rough breathing + circumflex on ει (εἷς)
+1chr	oldtestamenting02swet	78	23	ῃρέτικεν	ῃρέτικεν	ᾑρέτικεν	ᾑρέτικεν	image (3x): rough breathing with iota subscript under η
+1chr	oldtestamenting02swet	78	24	“κατὰ	“κατὰ	κατὰ	κατὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	78	25	χαλκὸν,	χαλκόν,	χαλκόν,	χαλκόν,	image (3x): accents as printed (OCR dropped/changed them)
+1chr	oldtestamenting02swet	78	27	Και	και	καὶ	καὶ	image (3x): accents as printed (OCR dropped/changed them)
+1chr	oldtestamenting02swet	78	27	και	και	καὶ	καὶ	image (3x): accents as printed (OCR dropped/changed them)
+1chr	oldtestamenting02swet	78	27	παντα	παντα	πάντα	πάντα	image (3x): accents as printed (OCR dropped/changed them)
+1chr	oldtestamenting02swet	78	27	τιμιίον,	τιμίον,	τίμιον,	τίμιον,	image (3x): accents as printed (OCR dropped/changed them)
+1chr	oldtestamenting02swet	78	27	παριον	παριον	πάριον	πάριον	image (3x): accents as printed (OCR dropped/changed them)
+1chr	oldtestamenting02swet	78	27	και	ϑκαὶ	καὶ	καὶ	image (3x): reading as in page file; OCR junk from verse/margin numbers or dropped accent
+1chr	oldtestamenting02swet	78	28	εὐδοκῆσαί	εὐδοκῆσαί	εὐδοκῆσαί	εὐδοκῆσαί	image (3x): acute before enclitic as printed
+1chr	oldtestamenting02swet	78	30	τῶν	τών	τῶν	τῶν	image (3x): reading as in page file; OCR junk from verse/margin numbers or dropped accent
+1chr	oldtestamenting02swet	78	30	“τρισχίλια	τρισχίλια	τρισχίλια	τρισχίλια	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	78	30	τάλαντα +4	τάλαντα +4	τάλαντα	τάλαντα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	78	32	5διὰ	ϑδιὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip

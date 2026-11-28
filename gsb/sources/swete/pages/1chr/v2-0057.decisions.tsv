@@ -1,0 +1,49 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+1chr	oldtestamenting02swet	57	1	“δότε	"δδότε	δότε	δότε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	57	2	ότε	δό	δότε	δότε	image (3x): δότε
+1chr	oldtestamenting02swet	57	2	τῷ	Ὁ	τῷ	τῷ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	57	2	ἰσχύν,	ἰσχύν	ἰσχύν,	ἰσχύν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	57	3	λάβετε	άβετε	λάβετε	λάβετε	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	57	4	αὐτοῦ. +3	αὐτοῦ. +30	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	57	5	ἢ	ἢ	ἡ	ἡ	image (3x): rough breathing alone, ἡ
+1chr	oldtestamenting02swet	57	5	γῆ;	γῆ,	γῆ,	γῆ,	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	57	6	σαλευθήτω. +δ᾽	σαλευθήτω.	σαλευθήτω.	σαλευθήτω.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	57	7	εὐφρανθήτω	β:εὐφρανθήτω	εὐφρανθήτω	εὐφρανθήτω	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	57	7	ἢ	ἡ	ἡ	ἡ	image (3x): rough breathing alone, ἡ
+1chr	oldtestamenting02swet	57	9	πληρώματι	πληρώματι	πληρώματι·	πληρώματι·	image (3x): raised dot after πληρώματι, ano teleia
+1chr	oldtestamenting02swet	57	11	ΞΞ.τότε	ΞΞ.τότε	τότε	τότε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	57	15	εἴπατε	εἴπατε +μι	εἴπατε	εἴπατε	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	57	15	ἣ, +ἔσωσεν	Ἔσωσεν	Ἔσωσεν	Ἔσωσεν	image (3x): smooth + acute on capital (apostrophe then rising stroke)
+1chr	oldtestamenting02swet	57	15	ἡμῶν᾽	ἡμῶν᾽	ἡμῶν·	ἡμῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	57	17	ἅγιον	ἅγιόν	ἅγιόν	ἅγιόν	image (3x): second acute before enclitic σου
+1chr	oldtestamenting02swet	57	18	αἰνέσεσίν	αἰνέσεσίν	αἰνέσεσίν	αἰνέσεσίν	image (3x): second acute before enclitic σου
+1chr	oldtestamenting02swet	57	18	σου. +35	σου. +39	σου.	σου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	57	19	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave before the capitalized name (not a quotation)
+1chr	oldtestamenting02swet	57	19	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape) on the capital
+1chr	oldtestamenting02swet	57	20	λαός	λαός	λαός	λαός	image (3x): acute on λαός before capitalized Ἀμήν
+1chr	oldtestamenting02swet	57	20	Αμῆν.	Αμην.	Ἀμήν.	Ἀμήν.	image (3x): smooth breathing on capital, acute on η
+1chr	oldtestamenting02swet	57	21	ῃνεσαν	ῃνεσαν	ᾔνεσαν	ᾔνεσαν	image (3x): η with smooth + acute and iota subscript, ᾔ
+1chr	oldtestamenting02swet	57	21	κυριῳ.	κυριῳ.	κυρίῳ.	κυρίῳ.	image (3x): acute and iota subscript
+1chr	oldtestamenting02swet	57	22	37καὶ	37]Καὶ	Καὶ	Καὶ	image (3x): Καὶ; 37 is the verse number
+1chr	oldtestamenting02swet	57	23	Ἀσὰφ	Ἀσὰφ	Ἀσὰφ	Ἀσὰφ	image (3x): smooth breathing (apostrophe shape) on the capital
+1chr	oldtestamenting02swet	57	24	ἡμέραν.	ἡμέραν. +ΞῬ	ἡμέραν.	ἡμέραν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	57	24	“καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	57	24	Ἀβδοδὸμ	Ἀβδοδὸμ	Ἀβδοδὸμ	Ἀβδοδὸμ	image (3x): smooth breathing (apostrophe shape) on the capital
+1chr	oldtestamenting02swet	57	25	ὀκτώ:	ὀκτώ:	ὀκτώ·	ὀκτώ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	57	25	Ἀβδοδὸμ	Ἀβδοδὸμ	Ἀβδοδὸμ	Ἀβδοδὸμ	image (3x): smooth breathing (apostrophe shape) on the capital
+1chr	oldtestamenting02swet	57	25	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave before the capitalized name (not a quotation)
+1chr	oldtestamenting02swet	57	25	Ἰδειθὼν	Ἰδειθὼν	Ἰδειθὼν	Ἰδειθὼν	image (3x): smooth breathing (apostrophe shape) on the capital
+1chr	oldtestamenting02swet	57	26	Οσσὰ	Οσσὰ	Ὀσσὰ	Ὁσσὰ	image (3x): rough breathing (reversed comma, opening left) on Ο
+1chr	oldtestamenting02swet	57	26	πυλωρούς:	πυλωρούς:	πυλωρούς·	πυλωρούς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	57	26	99καὶ	5-:καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	57	27	Τ'αβαών,	Τ᾽᾿αβαών,	Γαβαών,	Γαβαών,	image (3x): Γ, not Τ
+1chr	oldtestamenting02swet	57	28	“τοῦ	“τοῦ	τοῦ	τοῦ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	57	28	τῴ	τῷ	τῷ	τῷ	image (3x): circumflex and iota subscript
+1chr	oldtestamenting02swet	57	30	υἱοῖς	υἱοῖς +᾽	υἱοῖς	υἱοῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	57	31	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape) on the capital
+1chr	oldtestamenting02swet	57	31	χειρὶ	χειρὶ	χειρὶ	χειρὶ	image (3x): grave before the capitalized name (not a quotation)
+1chr	oldtestamenting02swet	57	31	θεοῦ. +“4	θεοῦ.	θεοῦ.	θεοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	57	31	καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	57	31	μετ᾽	μετ᾽ +᾽	μετ᾽	μετ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	57	31	-	-	Μωυσῆ	Μωυσῆ	image (4x): no iota subscript under η (τῇ on line 27 shows one clearly); printed Μωυσῆ, kept
+1chr	oldtestamenting02swet	57	3	-	-	καὶ	καὶ	image (3x): small raised stray mark before καὶ is a speck, not a breathing

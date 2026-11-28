@@ -208,6 +208,18 @@
        '())
 (check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C38}{1}{=36:36a}α. {2}{=36:34,36a}β.\n")) #f #f)
        '((40 1 fail)))
+;; A combined number whose first verse is a half (3 Kgdms (17 b-19) after
+;; (17) at 4:33): 9:17b-19 claims 17b, 18, 19; 9:17a stays free, 9:18 clashes.
+(call-with-values (lambda () (book-verses (list (page 40 "{C10}{1}{=9:17a}α. {2}{=9:17b-19}β. {3}{=9:20}γ."))))
+  (lambda (rows problems) (check (map second rows) '("17a" "17b-19" 20))))
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C10}{1}{=9:17a}α. {2}{=9:17b-19}β.\n")) #f #f)
+       '())
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C10}{1}{=9:17}α. {2}{=9:17b-19}β.\n")) #f #f)
+       '((40 1 fail)))                                   ; whole 17 and its half
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C10}{1}{=9:17b-19}α. {2}{=9:18}β.\n")) #f #f)
+       '((40 1 fail)))                                   ; 18 is inside 17b-19
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C10}{1}{=9:17b,19}α. {2}{=9:18}β.\n")) #f #f)
+       '())
 
 ;; A Swete verse with no {=c:v} landing in another chapter than the common
 ;; verse before it warns (run it on); the next chapter's verse 1 does not.

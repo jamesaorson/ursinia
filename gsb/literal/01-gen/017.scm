@@ -83,10 +83,10 @@
   (status draft)
   (literal
     ("And" 1)
-    ("will not be called" 2 3)
-    ("further" 4)
     ("your" 7)
     ("name" (5 absorbed) 6)
+    ("will not be called" 2 3)
+    ("further" 4)
     ("Abram," (8 name "Ἀβράμ"))
     ("rather" 9)
     ("Abraham" 11)
@@ -548,7 +548,7 @@
     ("But" 2)
     ("Abraham" 1)
     ("was" 3)
-    ("ninety" 4)
+    ("of ninety" 4)
     ("nine" 5)
     ("years," 6)
     ("when" 7)
@@ -591,7 +591,7 @@
 (verse 27
   (status draft)
   (literal
-    ("And" 1)
+    ("and" 1)
     ("all" 2)
     ("the men" 3 4)
     ("of his/its" 7)

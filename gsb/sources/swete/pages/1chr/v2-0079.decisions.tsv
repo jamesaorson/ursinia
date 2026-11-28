@@ -1,0 +1,59 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+1chr	oldtestamenting02swet	79	1	πληρώσαι	πληρώσαι	πληρῶσαι	πληρῶσαι	image (3x): circumflex / smooth breathing as in page file
+1chr	oldtestamenting02swet	79	2	Β +“καὶ	Β +“καὶ	καὶ	καὶ	image (3x): reading as in page file; OCR junk from verse/margin numbers
+1chr	oldtestamenting02swet	79	2	πατριῶν	πατριών	πατριῶν	πατριῶν	image (3x): circumflex / smooth breathing as in page file
+1chr	oldtestamenting02swet	79	2	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe shape)
+1chr	oldtestamenting02swet	79	3	τών	τών	τῶν	τῶν	image (3x): circumflex / smooth breathing as in page file
+1chr	oldtestamenting02swet	79	4	βασιλέως:	βασιλέως:	βασιλέως·	βασιλέως·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	79	4	7καὶ	7καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	79	7	ἑκατόν. +ὃ	ἑκατόν. +ὃ	ἑκατόν.	ἑκατόν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	79	8	χειρὸς	χειρὸς	χειρὸς	χειρὸς	image (3x): accent before capitalized word as printed (grave before a name; acute σύ before comma)
+1chr	oldtestamenting02swet	79	9	Τηρσομνεί.	∅	τοῦ	τοῦ	image (3x): reading as in page file; OCR junk from verse/margin numbers
+1chr	oldtestamenting02swet	79	9	∅	Γηρσομνεί.	Γηρσομνεί.	Γηρσομνεί.	class R0: OCR lost the word in extraction; c read from the image strip
+1chr	oldtestamenting02swet	79	11	μεγάλως.	μεγάλως. +““	μεγάλως.	μεγάλως.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	79	11	““καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	79	11	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): accent before capitalized word as printed (grave before a name; acute σύ before comma)
+1chr	oldtestamenting02swet	79	12	Εὐλογητὸς	Εὐλογητὸς	Εὐλογητὸς	Εὐλογητὸς	image (3x): smooth breathing (apostrophe shape)
+1chr	oldtestamenting02swet	79	12	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): accent before capitalized word as printed (grave before a name; acute σύ before comma)
+1chr	oldtestamenting02swet	79	12	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe shape)
+1chr	oldtestamenting02swet	79	13	αἰώνος. +“᾽	αἰώνος.	αἰῶνος.	αἰῶνος.	image (3x): circumflex / smooth breathing as in page file
+1chr	oldtestamenting02swet	79	13	σύ,	“᾿σύ,	σύ,	σύ,	image (3x): accent before capitalized word as printed (grave before a name; acute σύ before comma)
+1chr	oldtestamenting02swet	79	15	δεσπόζεις"	δεσπόζεις"	δεσπόζεις·	δεσπόζεις·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	79	16	““παρὰ	““παρὰ	παρὰ	παρὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	79	18	χειρί	χειρί	χειρί	χειρί	image (3x): accent before enclitic as printed
+1chr	oldtestamenting02swet	79	18	χειρί	χειρί	χειρί	χειρί	image (3x): accent before enclitic as printed
+1chr	oldtestamenting02swet	79	19	"βκαὶ	"βκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	79	20	ἐξομολογούμεθά	ἐξομολογούμεθά	ἐξομολογούμεθά	ἐξομολογούμεθά	image (3x): accent before enclitic as printed
+1chr	oldtestamenting02swet	79	20	καυχήσεώς	καυχήσεώς	καυχήσεώς	καυχήσεώς	image (3x): accent before enclitic as printed
+1chr	oldtestamenting02swet	79	21	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	79	21	τίς	τίς	τίς	τίς	image (3x): accent before enclitic as printed
+1chr	oldtestamenting02swet	79	21	λαύς	λαύς	λαός	λαός	image (3x): accent before enclitic as printed
+1chr	oldtestamenting02swet	79	22	θυμηθηναί	θυμηθηναί	θυμηθῆναί	θυμηθῆναί	image (3x): accent before enclitic as printed
+1chr	oldtestamenting02swet	79	22	σών	σών	σῶν	σῶν	image (3x): circumflex / smooth breathing as in page file
+1chr	oldtestamenting02swet	79	23	καμέν	καμέν	καμέν	καμέν	image (3x): accent before enclitic as printed
+1chr	oldtestamenting02swet	79	23	πάροικοί	πάροικοί	πάροικοί	πάροικοί	image (3x): accent before enclitic as printed
+1chr	oldtestamenting02swet	79	24	ἡμῶν:	ἡμῶν:	ἡμῶν·	ἡμῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	79	25	ὑπομονηῆ.	ὑπομονηῆ.	ὑπομονή.	ὑπομονή.	image (3x): reading as in page file; OCR junk from verse/margin numbers
+1chr	oldtestamenting02swet	79	25	1617 +"Κύριε	"Κύριε	Κύριε	Κύριε	image (3x): reading as in page file; OCR junk from verse/margin numbers
+1chr	oldtestamenting02swet	79	25	ὁ +θ	ὁ	ὁ	ὁ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	79	27	σού	σού	σού	σού	image (3x): accent before enclitic as printed
+1chr	oldtestamenting02swet	79	27	17 +“καὶ	“καὶ	καὶ	καὶ	image (3x): reading as in page file; OCR junk from verse/margin numbers
+1chr	oldtestamenting02swet	79	28	ἀγαπᾷς":	ἀγαπᾷς":	ἀγαπᾷς·	ἀγαπᾷς·	image (3x): reading as in page file; OCR junk from verse/margin numbers
+1chr	oldtestamenting02swet	79	29	λαόν	λαόν	λαόν	λαόν	image (3x): accent before enclitic as printed
+1chr	oldtestamenting02swet	79	30	“Κύριε	“Κύριε	Κύριε	Κύριε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	79	30	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): accent before capitalized word as printed (grave before a name; acute σύ before comma)
+1chr	oldtestamenting02swet	79	30	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	image (3x): smooth breathing (apostrophe shape)
+1chr	oldtestamenting02swet	79	31	καὶ	καὶ +Ε]	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	79	31	Ἰσαὰκ	Ἰσαὰκ	Ἰσαὰκ	Ἰσαὰκ	image (3x): smooth breathing (apostrophe shape)
+1chr	oldtestamenting02swet	79	31	᾽ +Ἰ̓Ισραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape)
+1chr	oldtestamenting02swet	79	31	τῶν	τών	τῶν	τῶν	image (3x): circumflex / smooth breathing as in page file
+1chr	oldtestamenting02swet	79	31	ἡμών,	ἡμών,	ἡμῶν,	ἡμῶν,	image (3x): circumflex / smooth breathing as in page file
+1chr	oldtestamenting02swet	79	33	αὑτῶν	αὑτων	αὐτῶν	αὐτῶν	image (3x): circumflex / smooth breathing as in page file
+1chr	oldtestamenting02swet	79	33	στρος	στρος	πρὸς	πρὸς	image (3x): last line above the apparatus rule, OCR garbled; read from the strip: αὐτῶν πρὸς σέ. καὶ Σαλωμὼν τῷ υἱῷ μου δὸς καρδίαν ἀγαθὴν
+1chr	oldtestamenting02swet	79	33	σε.	σε.	σέ.	σέ.	image (3x): last line above the apparatus rule, OCR garbled; read from the strip: αὐτῶν πρὸς σέ. καὶ Σαλωμὼν τῷ υἱῷ μου δὸς καρδίαν ἀγαθὴν
+1chr	oldtestamenting02swet	79	33	19	Και	καὶ	καὶ	image (3x): last line above the apparatus rule, OCR garbled; read from the strip: αὐτῶν πρὸς σέ. καὶ Σαλωμὼν τῷ υἱῷ μου δὸς καρδίαν ἀγαθὴν
+1chr	oldtestamenting02swet	79	33	Και +ΥΣ αλώμωὼν	αλώμωὼων	Σαλωμὼν	Σαλωμὼν	image (3x): last line above the apparatus rule, OCR garbled; read from the strip: αὐτῶν πρὸς σέ. καὶ Σαλωμὼν τῷ υἱῷ μου δὸς καρδίαν ἀγαθὴν
+1chr	oldtestamenting02swet	79	33	υιῷ	υιῳῷ	υἱῷ	υἱῷ	image (3x): last line above the apparatus rule, OCR garbled; read from the strip: αὐτῶν πρὸς σέ. καὶ Σαλωμὼν τῷ υἱῷ μου δὸς καρδίαν ἀγαθὴν
+1chr	oldtestamenting02swet	79	33	ος	ος	δὸς	δὸς	image (3x): last line above the apparatus rule, OCR garbled; read from the strip: αὐτῶν πρὸς σέ. καὶ Σαλωμὼν τῷ υἱῷ μου δὸς καρδίαν ἀγαθὴν
+1chr	oldtestamenting02swet	79	33	Καρ	Καρ	καρδίαν	καρδίαν	image (3x): last line above the apparatus rule, OCR garbled; read from the strip: αὐτῶν πρὸς σέ. καὶ Σαλωμὼν τῷ υἱῷ μου δὸς καρδίαν ἀγαθὴν
+1chr	oldtestamenting02swet	79	33	ια»ν» +αγα ην	ια»ν +αγα ην	ἀγαθὴν	ἀγαθὴν	image (3x): last line above the apparatus rule, OCR garbled; read from the strip: αὐτῶν πρὸς σέ. καὶ Σαλωμὼν τῷ υἱῷ μου δὸς καρδίαν ἀγαθὴν

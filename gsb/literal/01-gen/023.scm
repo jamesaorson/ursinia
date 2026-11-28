@@ -96,7 +96,7 @@
 (verse 6
   (status draft)
   (literal
-    ("lord;" 1)
+    ("Lord;" 1)
     ("but" 3)
     ("hear" (2 hear "ἀκούω"))
     ("us." 4)
@@ -143,10 +143,10 @@
   (status draft)
   (literal
     ("And" 1)
+    ("Abraham" 5)
     ("spoke" 2)
     ("to" (3 to))
     ("them" 4)
-    ("Abraham" 5)
     ("saying," 6)
     ("If" 7)
     ("you have" 8)
@@ -201,7 +201,7 @@
   (literal
     ("But" 2)
     ("Ephron" (1 name "Ἐφρών"))
-    ("was being seated" 3)
+    ("was seated" 3)
     ("in [the] midst" 4 (5 midst))
     ("of the sons" 6 7)
     ("of Heth;" (8 name "Χέτ"))
@@ -232,7 +232,7 @@
     ("and" 5)
     ("hear" (6 hear "ἀκούω"))
     ("me." 7)
-    ("The field" (8 absorbed) 9)
+    ("The field" 8 9)
     ("and" 10)
     ("the cave" 11 12)
     ("in" (13 attributive) 14)
@@ -276,7 +276,7 @@
     ("you are," 17)
     ("hear" (18 hear "ἀκούω"))
     ("me;" 19)
-    ("the silver" (20 absorbed) 21)
+    ("the silver" 20 21)
     ("of the field" 22 23)
     ("take" 24)
     ("from" (25 from))
@@ -300,7 +300,7 @@
 (verse 15
   (status draft)
   (literal
-    ("lord," 1)
+    ("Lord," 1)
     ("for" 3)
     ("I have heard;" 2)
     ("of four hundred" 4)
@@ -327,7 +327,7 @@
     ("And" 1)
     ("Abraham" 3)
     ("heard" 2)
-    ("to Ephron;" (4 unrendered) (5 name "Ἐφρών"))
+    ("Ephron;" (4 unrendered) (5 name "Ἐφρών"))
     ("and" 6)
     ("Abraham" 8)
     ("restored" (7 restore "ἀποκαθίστημι"))

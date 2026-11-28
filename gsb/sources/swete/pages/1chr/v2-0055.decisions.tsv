@@ -1,0 +1,39 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+1chr	oldtestamenting02swet	55	1	δῶν	ῳδῶν	ᾠδῶν	ᾠδῶν	image (3x): ᾠ, smooth breathing and iota subscript
+1chr	oldtestamenting02swet	55	1	ἀδόντων:	ἀδόντων:	ᾀδόντων·	ᾀδόντων·	image (3x): ᾀ, smooth breathing and iota subscript, no accent on α
+1chr	oldtestamenting02swet	55	2	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	55	2	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+1chr	oldtestamenting02swet	55	3	μάσίᾳ	μάσίᾳ	μασίᾳ	μασίᾳ	image (8x): one acute, on ι; small light dot above first α is a speck, not an accent
+1chr	oldtestamenting02swet	55	4	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	55	5	θηκης	θηκης	θήκης	θήκης	image (3x): acute on η
+1chr	oldtestamenting02swet	55	5	Δαυείδ:	Δαυείδ	Δαυείδ·	Δαυείδ·	image (3x): raised point, ano teleia
+1chr	oldtestamenting02swet	55	8	-εἰσήνεγκαν	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	55	8	∅	-εἰσήνεγκαν	εἰσήνεγκαν	εἰσήνεγκαν	image (3x): εἰσήνεγκαν; dot before it is a speck
+1chr	oldtestamenting02swet	55	9	ὅλο-	ὁλο-	ὁλο-	ὁλο-	image (3x): rough breathing, no accent
+1chr	oldtestamenting02swet	55	10	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	55	11	τὸν +λ	τὸν +λ	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	55	12	Κυρίου.	Κυρίου. +3	Κυρίου.	Κυρίου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	55	12	3 +53καὶ ὃ	καὶ +ὃ	καὶ	καὶ	image (3x): superscript verse number, not text
+1chr	oldtestamenting02swet	55	12	ἀνδρὶ +ἘΠ	ἀνδρὶ +᾽	ἀνδρὶ	ἀνδρὶ	image (3x): grave; following capital is a name, not a quotation
+1chr	oldtestamenting02swet	55	12	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing
+1chr	oldtestamenting02swet	55	13	ἠνδρὸς	ἠνδρὸς	ἀνδρὸς	ἀνδρὸς	image (3x): ἀ with smooth breathing, not η
+1chr	oldtestamenting02swet	55	16	θεὸν	θεὸν	θεὸν	θεὸν	image (3x): grave; following capital is a name, not a quotation
+1chr	oldtestamenting02swet	55	16	Ἰσραήλ:	Ἰσραήλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing; raised point, ano teleia
+1chr	oldtestamenting02swet	55	16	5᾽Ἀσὰφ	5᾽Ἀσὰφ	Ἀσὰφ	Ἀσὰφ	image (3x): smooth breathing
+1chr	oldtestamenting02swet	55	17	αὐτῷ	αὐτῳ	αὐτῷ	αὐτῷ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	55	17	Εἰειήλ,	Εἰειηλ,	Εἰειήλ,	Εἰειήλ,	image (3x): smooth breathing on ι of Εἰ (Εἰειήλ), acute/grave as printed
+1chr	oldtestamenting02swet	55	17	Σαμαρειμώθ,	Σαμαρειμώθ,	Σαμαρειμώθ,	Σαμαρειμώθ,	image (3x): acute before comma in a list of names
+1chr	oldtestamenting02swet	55	17	Ἑϊειήλ,	Εἰειηλ,	Εἰειήλ,	Εἰειήλ,	image (3x): smooth breathing on ι of Εἰ (Εἰειήλ), acute/grave as printed
+1chr	oldtestamenting02swet	55	18	Ἐλιὰβ	Ἐλιὰβ	Ἐλιὰβ	Ἐλιὰβ	image (3x): smooth breathing
+1chr	oldtestamenting02swet	55	18	Ἀβδοδόμ,	Ἀβδοδόμ,	Ἀβδοδόμ,	Ἀβδοδόμ,	image (3x): smooth breathing
+1chr	oldtestamenting02swet	55	18	Εἰειὴλ	Εἰειὴλ	Εἰειὴλ	Εἰειὴλ	image (3x): smooth breathing on ι of Εἰ (Εἰειήλ), acute/grave as printed
+1chr	oldtestamenting02swet	55	19	Ἀσὰφ	Ἀσὰφ	Ἀσὰφ	Ἀσὰφ	image (3x): smooth breathing
+1chr	oldtestamenting02swet	55	19	ἀναφωνῶν, +ὅ	ἀναφωνῶν, +“ὃ	ἀναφωνῶν,	ἀναφωνῶν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	55	20	Ε +Οζειὴλ	Οζειὴλ	Ὀζειὴλ	Ὀζειὴλ	image (3x): smooth breathing
+1chr	oldtestamenting02swet	55	21	7ἐν	7ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	55	22	χειρὶ	χειρὶ	χειρὶ	χειρὶ	image (3x): grave; following capital is a name, not a quotation
+1chr	oldtestamenting02swet	55	22	Ἀσὰφ	Ἀσὰφ	Ἀσὰφ	Ἀσὰφ	image (3x): smooth breathing
+1chr	oldtestamenting02swet	55	24	δ᾽	δ᾽	Ὠδή.	ᾨδή.	image (6x): smooth breathing (apostrophe) before Ω, iota subscript printed under Ω, acute on η, period; centered heading line, as at 2 Kgdms leaf 692
+1chr	oldtestamenting02swet	55	25	Εξομολογεῖσθε,	Εξομολογεῖσθε,	Ἐξομολογεῖσθε,	Ἐξομολογεῖσθε,	image (3x): smooth breathing
+1chr	oldtestamenting02swet	55	27	ᾷσατε	ϑᾷσατε	ᾄσατε	ᾄσατε	image (3x): ᾄ: smooth breathing + acute, iota subscript
+1chr	oldtestamenting02swet	55	1	-	-	ἄρχων	ἄρχων	image (4x): smooth breathing + acute on α
