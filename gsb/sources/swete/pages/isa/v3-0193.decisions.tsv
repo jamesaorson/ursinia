@@ -1,0 +1,43 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	193	3	δρυμοῦ,	'δρυμοῦ,	δρυμοῦ,	δρυμοῦ,	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	193	3	“Ξκαὶ	"Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	193	4	ὕδατος.	ὕδατος. +56	ὕδατος.	ὕδατος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	193	4	“οὐ	οὐ	οὐ	οὐ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	193	7	ὀχυραῖς: +“7	ὀχυραῖς: +“7	ὀχυραῖς·	ὀχυραῖς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	193	8	“viv	“νῦν	νῦν	νῦν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	193	9	παυσίν	παυσίν	παυσίν	παυσίν	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	193	9	ἔξοδόν	ἔξοδόν	ἔξοδόν	ἔξοδόν	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	193	9	σοὺ	σοὺ	σου	σου	image (3x): enclitic σου unaccented
+isa	oldtestgreek00unknuoft	193	9	εἴσοδόν	εἴσοδόν	εἴσοδόν	εἴσοδόν	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	193	10	σταμαι:	σταμαι:	σταμαι·	σταμαι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	193	10	“ὁ	“ὁ	ὁ	ὁ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	193	10	θυμός	θυμός	θυμός	θυμός	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	193	10	cov	σου	σου	σου	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	193	11	pivd	ῥῖνά	ῥῖνά	ῥῖνά	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	193	12	ἣ	ἣ	ᾗ	ᾗ	image (3x): ᾗ rough breathing + circumflex + iota subscript
+isa	oldtestgreek00unknuoft	193	12	αὐτῇ. +3»	αὐτῇ. +3»	αὐτῇ.	αὐτῇ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	193	13	δέ	δέ	δέ	δέ	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	193	13	σημεῖον-	σημεῖον:	σημεῖον·	σημεῖον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	193	14	τῷ.	τῷ.	τῷ	τῷ	image: no point after the word
+isa	oldtestgreek00unknuoft	193	15	ἀμπελῶνας.	ἀμπελῶνας.	ἀμπελῶνας	ἀμπελῶνας	image: no point after the word
+isa	oldtestgreek00unknuoft	193	15	αὐτῶν. +δ᾽	αὐτῶν.	αὐτῶν.	αὐτῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	193	16	καὶ	5᾽καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	193	16	Ἰουδαίᾳ,	Ἰουδαίᾳ,	Ἰουδαίᾳ,	Ἰουδαίᾳ,	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	193	17	ἄνω.	ἄνω. +3	ἄνω.	ἄνω.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	193	17	dru	ὅτι	ὅτι	ὅτι	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	193	17	Ἰ̓ερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	193	18	Σειών"	Σειών"	Σειών·	Σειών·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	193	19	33διὰ	33διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	193	19	γι:	--	βασι-	βασι-	image (3x): βασι- with hyphen at line end
+isa	oldtestgreek00unknuoft	193	20	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	193	20	Οὐ	Οὐ	Οὐ	Οὐ	image (3x): Οὐ smooth breathing on υ
+isa	oldtestgreek00unknuoft	193	20	εἰσέλθῃ.	εἰσέλθῃ.	εἰσέλθῃ	εἰσέλθῃ	image: no point after the word
+isa	oldtestgreek00unknuoft	193	21	αὐτὴν	αὐτὴν.	αὐτὴν	αὐτὴν	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	193	22	χάρακα:	χάρακα:	χάρακα·	χάρακα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	193	22	3:ἀλλὰ	3᾽ἀλλὰ	ἀλλὰ	ἀλλὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	193	22	9	ἣ	ᾗ	ᾗ	image (3x): ᾗ rough breathing + circumflex + iota subscript
+isa	oldtestgreek00unknuoft	193	24	Κύριος +5	Κύριος +5	Κύριος	Κύριος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	193	24	Ὑπερασπιῶ	Ὑπερασπιῶ	Ὑπερασπιῶ	Ὑπερασπιῶ	image (3x): rough breathing on Ὑ
+isa	oldtestgreek00unknuoft	193	25	Oe	δι᾽	δι᾽	δι᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	193	25	παῖδά	παῖδά	παῖδά	παῖδά	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	193	25	pov. +35	μου. +36	μου.	μου.	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip

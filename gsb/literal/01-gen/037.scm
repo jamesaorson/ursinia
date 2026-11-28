@@ -441,7 +441,7 @@
     ("what" 21)
     ("his/its" 25)
     ("dreams" (23 absorbed) 24)
-    ("is." 22)))
+    ("are." 22)))
 
 (verse 21
   (status draft)

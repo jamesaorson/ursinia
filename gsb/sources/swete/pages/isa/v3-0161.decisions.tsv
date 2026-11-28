@@ -1,0 +1,35 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	161	1	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	161	1	σαβαώθ"	σαβαώθ"	σαβαώθ·	σαβαώθ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	161	1	6 +B	ὁ +Β	ὁ	ὁ	image (3x): ὁ with rough breathing; margin siglum B not text
+isa	oldtestgreek00unknuoft	161	2	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	161	3	Ἰδουμαίας.	Ἰδουμαίας.	Ἰδουμαίας.	Ἰδουμαίας.	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	161	4	"TI +pos	Πρὸς	Πρὸς	Πρὸς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	161	4	Σηείρ	Σηείρ	Σηείρ	Σηείρ	image (3x): acute on Σηείρ before capitalized Φυλάσσετε
+isa	oldtestgreek00unknuoft	161	4	ἐπάλξεις. +*	ἐπάλξεις.	ἐπάλξεις.	ἐπάλξεις.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	161	5	νύκτα:	νύκτα:	νύκτα·	νύκτα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	161	6	Bév	"ἐν	ἐν	ἐν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	161	6	"εἰς	"εἰς	εἰς	εἰς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	161	8	dia	το +δ "διὰ	διὰ	διὰ	image (3x): reads as written; OCR junk
+isa	oldtestgreek00unknuoft	161	8	πεφονευ-	πεῴφονευ-	πεφονευ-	πεφονευ-	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	161	11	“διότι	“διότι	διότι	διότι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	161	12	εἶπέν	εἶπέν	εἶπέν	εἶπέν	image (3x): acute before enclitic μοι/σοι/σου
+isa	oldtestgreek00unknuoft	161	12	Ἔτι	Ἔτι	Ἔτι	Ἔτι	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	161	13	“Ἴκαὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	161	14	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave on θεὸς before Ἰσραὴλ (not a quotation)
+isa	oldtestgreek00unknuoft	161	14	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	161	16	*Ti	Τὸ	Τὸ	Τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	161	16	∅	ῥῆμα	ῥῆμα	ῥῆμα	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	161	16	∅	τῆς	τῆς	τῆς	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	161	16	∅	φάραγγος	φάραγγος	φάραγγος	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	161	16	∅	Σειών.	Σειών.	Σειών.	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	161	17	∅	ΣΤί	Τί	Τί	image (3x): reads as written; OCR junk
+isa	oldtestgreek00unknuoft	161	17	ἐγένετό	ἐγένετό	ἐγένετό	ἐγένετό	image (3x): acute before enclitic μοι/σοι/σου
+isa	oldtestgreek00unknuoft	161	17	viv	νῦν	νῦν	νῦν	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	161	18	"ἐνεπλήσθη	"ἐνεπλήσθη	ἐνεπλήσθη	ἐνεπλήσθη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	161	18	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	161	19	νεκροί	νεκροί	νεκροί	νεκροί	image (3x): acute before enclitic μοι/σοι/σου
+isa	oldtestgreek00unknuoft	161	19	πολέμῳ. +3	πολέμῳ. +3	πολέμῳ.	πολέμῳ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	161	20	xovrés	χοντές	χοντές	χοντές	image (3x): acute before enclitic μοι/σοι/σου
+isa	oldtestgreek00unknuoft	161	3	-	-	Τὸ	Τὸ	heading line (centered, no margin number); {11} put on the heading so it belongs to 21:11; Swete prints superscript 11 before Πρὸς on the next line
+isa	oldtestgreek00unknuoft	161	16	-	-	Τὸ	Τὸ	heading line (centered) beside margin XXII; {C22}{1} put on the heading so it belongs to 22:1; Swete prints superscript 1 before Τί on the next line

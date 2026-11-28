@@ -1,0 +1,42 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+zech	oldtestgreek00unknuoft	106	1	πεδινὴ	πεδινὴ"	πεδινὴ	πεδινὴ	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	106	3	.	αὐς	Καὶ	Καὶ	image (3x): verse superscript fused/OCR junk; indented line, words as printed
+zech	oldtestgreek00unknuoft	106	3	οὖς +δΚαὶ éyévero	ϑΚαὶ, +ἐγένετο᾽	ἐγένετο	ἐγένετο	image (3x): verse superscript fused/OCR junk; indented line, words as printed
+zech	oldtestgreek00unknuoft	106	3	πρὸς	πρὸς"	πρὸς	πρὸς	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	106	3	λέγει +ὃ	λέγεις	λέγει	λέγει	image (3x): word as printed; OCR speck/margin junk
+zech	oldtestgreek00unknuoft	106	5	“καὶ	ἴχοΣ +“καὶ	καὶ	καὶ	image (3x): verse superscript fused/OCR junk; indented line, words as printed
+zech	oldtestgreek00unknuoft	106	5	ὀρφανὸν	ὀρφανὸν +τὸ	ὀρφανὸν	ὀρφανὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	106	6	τὸ +Kat	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	106	7	τοῦ.	τοῦ.	τοῦ	τοῦ	image (3x): word as printed; OCR speck/margin junk
+zech	oldtestgreek00unknuoft	106	7	“Kal +τι	“καὶ +τι	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	106	9	ἐβάρυναν:	ἐβάρυναν:	ἐβάρυναν	ἐβάρυναν	image (3x): word as printed; OCR speck/margin junk
+zech	oldtestgreek00unknuoft	106	9	“Kat	""καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	106	9	αὐτῶν +12	αὐτῶν +τ᾽	αὐτῶν	αὐτῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	106	10	pov	μοὺ	μου	μου	image (3x): μου unaccented enclitic
+zech	oldtestgreek00unknuoft	106	10	obs	οὺς	οὓς	οὓς	image (3x): οὓς rough + grave
+zech	oldtestgreek00unknuoft	106	11	ἸΤαντοκράτωρ	ἸΤαντοκράτωρ	Παντοκράτωρ	Παντοκράτωρ	image (3x): word as printed; OCR speck/margin junk
+zech	oldtestgreek00unknuoft	106	12	ἔμπροσθεν:	ἔμπροσθεν:	ἔμπροσθεν·	ἔμπροσθεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	106	13	"Ξκαὶ	"Ῥκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	106	13	εἰσήκουσαν, +13	εἰσήκουσαν, +13	εἰσήκουσαν,	εἰσήκουσαν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	106	15	ἐκβαλῷ	ἐκβαλῶ	ἐκβαλῶ	ἐκβαλῶ	image (3x): circumflex, no iota subscript
+zech	oldtestgreek00unknuoft	106	15	αὐτοὺς +.	αὐτοὺς +.	αὐτοὺς	αὐτοὺς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	106	15	γῆ +14	γῆ +τὰ	γῆ	γῆ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	106	17	φοντος"	φοντος"	φοντος·	φοντος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	106	18	ος +"Kal,	εος +Κ̓αὶ,	Καὶ	Καὶ	image (3x): verse superscript fused/OCR junk; indented line, words as printed
+zech	oldtestgreek00unknuoft	106	18	"Τάδε	“Τάδε	Τάδε	Τάδε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	106	18	λέγει +>	λέγει	λέγει	λέγει	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	106	19	Ἑ +ζήλωκα	Ἔζήλωκα	Ἐζήλωκα	Ἐζήλωκα	image (3x): smooth breathing
+zech	oldtestgreek00unknuoft	106	19	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing
+zech	oldtestgreek00unknuoft	106	20	cai	᾿καὶ	καὶ	καὶ	image (3x): word as printed; OCR speck/margin junk
+zech	oldtestgreek00unknuoft	106	20	μεγάλῳ.	μεγάλῳ.	μεγάλῳ	μεγάλῳ	image (3x): word as printed; OCR speck/margin junk
+zech	oldtestgreek00unknuoft	106	20	τάδε	ὅτάδε	τάδε	τάδε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	106	21	3 +Ἐπιστρέψω.	3	Ἐπιστρέψω	Ἐπιστρέψω	image (3x): smooth breathing
+zech	oldtestgreek00unknuoft	106	21	ἐπὶ	τιστρ	ἐπὶ	ἐπὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	106	21	Sev,	ὶ +Σειών;	Σειών,	Σειών,	image (3x): word as printed; OCR speck/margin junk
+zech	oldtestgreek00unknuoft	106	21	Ἱερουσαλήμ,	Ἴ +Ἱερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing
+zech	oldtestgreek00unknuoft	106	22	᾿ερούσαλὴμ	Ἰερούσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing
+zech	oldtestgreek00unknuoft	106	23	ἅγιον. +΄	ἅγιον. +΄	ἅγιον.	ἅγιον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	106	23	Ἔτι +4	Ἔτι +4	Ἔτι	Ἔτι	image (3x): smooth + acute Ἔ; margin 4 not text
+zech	oldtestgreek00unknuoft	106	24	'πρεσβύτεροι	'πρεσβύτεροι	πρεσβύτεροι	πρεσβύτεροι	image (3x): faint mark before word is a speck, not text
+zech	oldtestgreek00unknuoft	106	24	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	106	24	Ἰερου-	Ἰερου-	Ἰερου-	Ἰερου-	image (3x): smooth breathing

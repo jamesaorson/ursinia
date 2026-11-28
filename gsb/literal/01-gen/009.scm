@@ -511,10 +511,10 @@
     ("knew" 8)
     ("as many as" 9)
     ("his/its" 14)
-    ("son" (12 absorbed) 13)
+    ("younger" (12 absorbed) (15 attributive) 16)
+    ("son" 13)
     ("made" 10)
-    ("to him/it" 11)
-    ("the younger." 15 16)))
+    ("to him/it." 11)))
 
 (verse 25
   (status draft)

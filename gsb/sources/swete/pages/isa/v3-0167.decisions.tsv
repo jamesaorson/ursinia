@@ -1,0 +1,30 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	167	1	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	167	1	“drd	(δ)άπὸ	ἀπὸ	ἀπὸ	image (3x): in-text (16) is a marker, word ἀπὸ
+isa	oldtestgreek00unknuoft	167	1	Ἐλπὶς	Ἐλπὶς	Ἐλπὶς	Ἐλπὶς	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	167	1	τῷ +B	τῷ	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	167	2	εὐσεβεῖ.	Β +εὐσεβέϊ.	εὐσεβεῖ.	εὐσεβεῖ.	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	167	2	Οὐαὶ	Οὐαὶ	Οὐαὶ	Οὐαὶ	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	167	2	ἀθετοῦσιν᾽	ἀθετοῦσιν᾽	ἀθετοῦσιν·	ἀθετοῦσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	167	3	ἐφ᾽	ἐφ᾽ +ΕΣ	ἐφ᾽	ἐφ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	167	4	“kai	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	167	5	θυνον-	θυνον-	θυνον·	θυνον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	167	5	παγίδος-	παγίδος"	παγίδος·	παγίδος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	167	6	τοῦ.	τοῦ.	τοῦ	τοῦ	image (3x): no period after τοῦ
+isa	oldtestgreek00unknuoft	167	7	“ταραχῇ	“ταραχῇ	ταραχῇ	ταραχῇ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	167	8	∅	ἡ	ἡ	ἡ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	167	8	“ἔκλινεν	“ἔκλινεν	ἔκλινεν	ἔκλινεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	167	10	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	167	10	ἀναστῆναι.	ἀναστῆναι. +21	ἀναστῆναι.	ἀναστῆναι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	167	10	*Kal	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	167	12	“καὶ	22 +“καὶ	καὶ	καὶ	image (3x): margin number and superscript fused; word καὶ
+isa	oldtestgreek00unknuoft	167	12	εἰς	εἰς +ὃ	εἰς	εἰς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	167	14	“Ξκαὶ	23 +“Ξκαὶ	καὶ	καὶ	image (3x): margin number and superscript fused; word καὶ
+isa	oldtestgreek00unknuoft	167	14	τεῖχος:	τεῖχος:	τεῖχος·	τεῖχος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	167	15	Ἰερρυσαλήμ,	Ἱερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	167	16	“δοξασθήσεται. +'	δοξασθήσεται. +;	δοξασθήσεται.	δοξασθήσεται.	image (3x): period only, nothing after
+isa	oldtestgreek00unknuoft	167	17	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): acute on ὄνομά before enclitic σου
+isa	oldtestgreek00unknuoft	167	18	ἀληθινήν:	ἀληθινήν:	ἀληθινήν·	ἀληθινήν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	167	18	“ὅτι	"ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	167	19	θεμέλια:	θεμέλια:	θεμέλια·	θεμέλια·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	167	9	-	-	καὶ	καὶ	ambiguous: dark dot under the ι of καὶ (before κραιπαλῶν), grave faint; read καὶ, dot is a speck/damaged type

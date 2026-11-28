@@ -1,0 +1,50 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	197	1	καταλίπωσιν"	καταλίπωσιν"	καταλίπωσιν·	καταλίπωσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	197	1	7ὅτι	ὅτε	ὅτι	ὅτι	image (3x): superscript 7 then ὅτι, rough+acute
+isa	oldtestgreek00unknuoft	197	1	Kai	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	197	3	τῶν.	τῶν	τῶν	τῶν	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	197	3	Βαβυλωνίων. +ὃ	Βαβυλωνίων. +ὃ	Βαβυλωνίων.	Βαβυλωνίων.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	197	3	“ζεκίας	“Ἑζεκίας	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing on Ε
+isa	oldtestgreek00unknuoft	197	3	Hoaia	Ἢσαίᾳ	Ἠσαίᾳ	Ἠσαίᾳ	image (3x): smooth breathing on Η, acute, iota subscript
+isa	oldtestgreek00unknuoft	197	3	Ἀγαθὸς	Ἀγαθὸς	Ἀγαθὸς	Ἀγαθὸς	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	197	4	ἐλάλησεν"	ἐλάλησεν"	ἐλάλησεν·	ἐλάλησεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	197	5	Π̓αρακαλεῖτε	Π̓αρακαλεῖτε	μου.	μου.	image (3x): short line μου. is printed; OCR skipped it, Παρακαλεῖτε opens 40:1
+isa	oldtestgreek00unknuoft	197	6	∅	∅	Παρακαλεῖτε	Παρακαλεῖτε	image (3x): short line μου. is printed; OCR skipped it, Παρακαλεῖτε opens 40:1
+isa	oldtestgreek00unknuoft	197	6	adv,	λαόν.	λαόν	λαόν	image (3x): acute before enclitic μου
+isa	oldtestgreek00unknuoft	197	6	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	197	6	“ἱερεῖς,	“ἱερεῖς,	ἱερεῖς,	ἱερεῖς,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	197	7	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	197	7	αὐτὴν,	αὐτὴν,	αὐτήν,	αὐτήν,	image (3x): acute before comma
+isa	oldtestgreek00unknuoft	197	8	αὐτῆς:	αὐτῆς":	αὐτῆς·	αὐτῆς·	image (3x): ano teleia
+isa	oldtestgreek00unknuoft	197	9	χειρὸς	χειρὸς	χειρὸς	χειρὸς	image (3x): grave before proper name Κυρίου (not a quotation)
+isa	oldtestgreek00unknuoft	197	9	αὐτῆς.	αὐτῆς. +3	αὐτῆς.	αὐτῆς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	197	10	ϑΦωνὴ	Φωνὴ	Φωνὴ	Φωνὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	197	10	“Ἑτοιμάσατε	« +“Ἑτοιμάσατε	Ἑτοιμάσατε	Ἑτοιμάσατε	image (3x): rough breathing on Ε
+isa	oldtestgreek00unknuoft	197	10	ὁδὸν	ὁδὸν	ὁδὸν	ὁδὸν	image (3x): grave before proper name Κυρίου (not a quotation)
+isa	oldtestgreek00unknuoft	197	11	“πᾶσα	“πᾶσα	πᾶσα	πᾶσα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	197	12	ταπεινωθήσεται"	ταπεινωθήσεται +Η	ταπεινωθήσεται·	ταπεινωθήσεται·	image (3x): ano teleia
+isa	oldtestgreek00unknuoft	197	12	πάντα	πάντα.	πάντα	πάντα	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	197	13	καὶ	5καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	197	15	“havi	φωνὴ	φωνὴ	φωνὴ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	197	15	Ti	Τί	Τί	Τί	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	197	16	χόρτου	χόρτου.	χόρτου·	χόρτου·	image (3x): ano teleia
+isa	oldtestgreek00unknuoft	197	16	Τέξηράνθη	Τέξηράνθη	ἐξηράνθη	ἐξηράνθη	image (3x): superscript 7, smooth breathing on ε
+isa	oldtestgreek00unknuoft	197	17	®*rd	ὅτὸ	τὸ	τὸ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	197	18	αἰῶνα.	αἰῶνα. +9	αἰῶνα.	αἰῶνα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	197	18	YE	Ἐπ᾽	Ἐπ᾽	Ἐπ᾽	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	197	18	Σειών:	Σειών:"	Σειών·	Σειών·	image (3x): ano teleia
+isa	oldtestgreek00unknuoft	197	19	φωνήν	φωνήν	φωνήν	φωνήν	image (3x): acute before enclitic σου
+isa	oldtestgreek00unknuoft	197	19	Ἰερουσαλήμ:	Ἰερουσαλήμ:	Ἰερουσαλήμ·	Ἰερουσαλήμ·	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	197	20	φοβεῖσθε:	φοβεῖσθε:	φοβεῖσθε·	φοβεῖσθε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	197	20	πόλεσιν	πόλεσιν +᾽	πόλεσιν	πόλεσιν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	197	20	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	197	20	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	197	21	‘idod	“ἰδοὺ	ἰδοὺ	ἰδοὺ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	197	21	ἔρχεται,	ἔρχεται;	ἔρχεται,	ἔρχεται,	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	197	21	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	197	21	pera	μετὰ	μετὰ	μετὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	197	22	κυρίας"	κυρίας"	κυρίας·	κυρίας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	197	23	᾿᾿ὡς	᾿᾿ὡς	ὡς	ὡς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	197	24	ἄξει	ἄξει	άξει	άξει	image (3x): continuation of συν-άξει; acute only, no breathing printed
+isa	oldtestgreek00unknuoft	197	24	∅	∅	γαστρὶ	γαστρὶ	image (3x): words printed as written; OCR lost them
+isa	oldtestgreek00unknuoft	197	24	∅	∅	ἐχούσας	ἐχούσας	image (3x): words printed as written; OCR lost them

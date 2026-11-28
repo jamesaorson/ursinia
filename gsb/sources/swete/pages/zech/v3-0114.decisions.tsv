@@ -1,0 +1,44 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+zech	oldtestgreek00unknuoft	114	1	Ἰερουσαλήμ:	Ἰερουσαλήμ:	Ἰερουσαλήμ·	Ἰερουσαλήμ·	image (3x): smooth breathing on the capital I; ano teleia / comma as written
+zech	oldtestgreek00unknuoft	114	3	αὐτῶν. +9	αὐτῶν. +9	αὐτῶν.	αὐτῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	114	3	ἔσται	ἔσται +9	ἔσται	ἔσται	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	114	4	9 +ev	ἐν	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	114	5	Ἱερουσαλήμ,	ΕΣ	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing on the capital I; ano teleia / comma as written
+zech	oldtestgreek00unknuoft	114	5	“Kat	Ἱερουσαλήμ, +τοὸο "““καὶ	καὶ	καὶ	image (3x): superscript 10 fused in OCR; καὶ
+zech	oldtestgreek00unknuoft	114	5	κατοι- +τὸ	κατοι- +τὸ	κατοι-	κατοι-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	114	6	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on the capital I; ano teleia / comma as written
+zech	oldtestgreek00unknuoft	114	6	οἰκτιρμοῦ:	οἰκτιρμοῦ:	οἰκτιρμοῦ·	οἰκτιρμοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	114	6	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	114	8	πρωτοτόκῳ. +""	πρωτοτόκῳ.	πρωτοτόκῳ.	πρωτοτόκῳ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	114	8	ἐν +xt	"ἐν +τι	ἐν	ἐν	class R3+R1: OCR appended accent-row or margin junk; OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	114	9	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	114	9	Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on the capital I; ano teleia / comma as written
+zech	oldtestgreek00unknuoft	114	10	o@vos	ῥοῶνος	ῥοῶνος	ῥοῶνος	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	114	10	kal	"“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	114	10	∅	γῆ	γῆ	γῆ	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	114	11	τ. +Ads:	τ +λάς:	λάς·	λάς·	image (3x): λάς with acute and ano teleia
+zech	oldtestgreek00unknuoft	114	11	éav-	ἑαυ-	ἑαυ-	ἑαυ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	114	12	τάς-	τάς:	τάς·	τάς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	114	12	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	114	12	ἑαυτάς"	ἑαυτάς"	ἑαυτάς·	ἑαυτάς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	114	13	καθ᾽	καθ᾽ +»	καθ᾽	καθ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	114	13	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	114	13	ἑαυτάς" +13	ἑαυτάς" +13	ἑαυτάς·	ἑαυτάς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	114	14	ἑαυτάς.	ἑαυτάς. +ὁ	ἑαυτάς.	ἑαυτάς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	114	15	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	114	15	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	114	15	γυναῖκες +14	γυναῖκες +τὰ	γυναῖκες	γυναῖκες	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	114	17	: +:᾽ ν	; +"Ἐν	Ἐν	Ἐν	image (3x): smooth breathing on Ἐν after superscript 1
+zech	oldtestgreek00unknuoft	114	17	οἴκῳ +τ	οἴκῳ +τ	οἴκῳ	οἴκῳ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	114	18	Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on the capital I; ano teleia / comma as written
+zech	oldtestgreek00unknuoft	114	18	peraxivnow	μετακίνησιν	μετακίνησιν	μετακίνησιν	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	114	19	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	114	19	σαβαώθ,	σαβαώθ, +-	σαβαώθ,	σαβαώθ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	114	21	μνεία	μνεία"	μνεία·	μνεία·	image (3x): ano teleia after μνεία
+zech	oldtestgreek00unknuoft	114	21	Ψψευδοπροφήτας	Ψψευδοπροφήτας	ψευδοπροφήτας	ψευδοπροφήτας	image (3x): single ψ, OCR doubled it
+zech	oldtestgreek00unknuoft	114	22	3xal	Ξκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	114	22	ἄνθρωπος	ἄνθρωπος +3	ἄνθρωπος	ἄνθρωπος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	114	24	αὐτόν	αὐτόν	αὐτόν	αὐτόν	image (3x): acute on αὐτόν before capitalized Οὐ
+zech	oldtestgreek00unknuoft	114	24	Οὐ	Οὐ	Οὐ	Οὐ	image (3x): smooth breathing + grave on υ of Οὐ
+zech	oldtestgreek00unknuoft	114	24	Ψψευδὴ	ψευδῆ	ψευδῆ	ψευδῆ	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	114	24	Κυρίου"	Κυρίου"	Κυρίου·	Κυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

@@ -1,0 +1,57 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	201	1	∅	ἕλη	ἕλη	ἕλη	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	201	1	∅	ὑδάτων	ὑδάτων	ὑδάτων	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	201	1	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	201	1	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	201	1	∅	διψῶσαν	διψῶσαν	διψῶσαν	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	201	1	∅	γὴν	γῆν	γῆν	image (3x): as transcribed (circumflex/grave/acute, smooth breathings on capitals, commas and ano teleia as read)
+isa	oldtestgreek00unknuoft	201	1	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	201	1	∅	ὑδραγωγοῖς,	ὑδραγωγοῖς,	ὑδραγωγοῖς,	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	201	1	∅	"θήσω	θήσω	θήσω	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	201	1	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	201	1	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	201	1	∅	ἄνυ-	ἄνυ-	ἄνυ-	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	201	2	γὴν	γὴν	γῆν	γῆν	image (3x): as transcribed (circumflex/grave/acute, smooth breathings on capitals, commas and ano teleia as read)
+isa	oldtestgreek00unknuoft	201	2	λεύκην"	λεύκην"	λεύκην·	λεύκην·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	201	2	“ἵνα	“ἵνα	ἵνα	ἵνα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	201	3	χεὶρ	χεὶρ	χεὶρ	χεὶρ	image (3x): as transcribed (circumflex/grave/acute, smooth breathings on capitals, commas and ano teleia as read)
+isa	oldtestgreek00unknuoft	201	4	ταῦτα;	ταῦτα;	ταῦτα,	ταῦτα,	image (3x): as transcribed (circumflex/grave/acute, smooth breathings on capitals, commas and ano teleia as read)
+isa	oldtestgreek00unknuoft	201	4	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): as transcribed (circumflex/grave/acute, smooth breathings on capitals, commas and ano teleia as read)
+isa	oldtestgreek00unknuoft	201	4	κατέδειξεν.	κατέδειξεν. +“τ	κατέδειξεν.	κατέδειξεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	201	4	= +Byyiter	Ἐγγίζει	Ἐγγίζει	Ἐγγίζει	image (3x): as transcribed (circumflex/grave/acute, smooth breathings on capitals, commas and ano teleia as read)
+isa	oldtestgreek00unknuoft	201	5	θεός:	θ +θεός:	θεός·	θεός·	image (3x): as transcribed (circumflex/grave/acute, smooth breathings on capitals, commas and ano teleia as read)
+isa	oldtestgreek00unknuoft	201	5	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	201	6	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): as transcribed (circumflex/grave/acute, smooth breathings on capitals, commas and ano teleia as read)
+isa	oldtestgreek00unknuoft	201	6	Ἰακώβ.	Ἰακώβ.	Ἰακώβ.	Ἰακώβ.	image (3x): as transcribed (circumflex/grave/acute, smooth breathings on capitals, commas and ano teleia as read)
+isa	oldtestgreek00unknuoft	201	6	““ἐγγισάτωσαν	“Ξἐγγισάτωσαν	ἐγγισάτωσαν	ἐγγισάτωσαν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	201	7	ἐπιστήσομὲν	ἐπιστήσομὲεν	ἐπιστήσομεν	ἐπιστήσομεν	image (3x): as transcribed (circumflex/grave/acute, smooth breathings on capitals, commas and ano teleia as read)
+isa	oldtestgreek00unknuoft	201	8	ἡμῖν.	ἡμῖν. +“3	ἡμῖν·	ἡμῖν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	201	8	*avay-	ἀναγ-	ἀναγ-	ἀναγ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	201	9	γείλατε	είλατε	γείλατε	γείλατε	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	201	9	θεοί	θεοί	θεοί	θεοί	image (3x): as transcribed (circumflex/grave/acute, smooth breathings on capitals, commas and ano teleia as read)
+isa	oldtestgreek00unknuoft	201	10	κακώσατε,;	κακώσατε,	κακώσατε,	κακώσατε,	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	201	10	θαυμασόμεθα,	θαυμασόμεθα;	θαυμασόμεθα,	θαυμασόμεθα,	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	201	10	ἅμα:	ἅμα:	ἅμα·	ἅμα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	201	11	“ὅτι	“ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	201	11	γῆς:	γῆς:	γῆς·	γῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	201	12	“5ἐγὼ	"Ξἐγὼ	ἐγὼ	ἐγὼ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	201	13	ὀνόματί	ὀνόματί	ὀνόματί	ὀνόματί	image (3x): as transcribed (circumflex/grave/acute, smooth breathings on capitals, commas and ano teleia as read)
+isa	oldtestgreek00unknuoft	201	13	μου	μου	μου·	μου·	image (3x): as transcribed (circumflex/grave/acute, smooth breathings on capitals, commas and ano teleia as read)
+isa	oldtestgreek00unknuoft	201	15	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	201	16	προλέγων;	προλέγων;	προλέγων,	προλέγων,	image (3x): as transcribed (circumflex/grave/acute, smooth breathings on capitals, commas and ano teleia as read)
+isa	oldtestgreek00unknuoft	201	17	“ἀρχὴν	“ἀρχὴν	ἀρχὴν	ἀρχὴν	image (3x): as transcribed (circumflex/grave/acute, smooth breathings on capitals, commas and ano teleia as read)
+isa	oldtestgreek00unknuoft	201	17	Ἰερου:	Ἰερου:	Ἰερου-	Ἰερου-	image (3x): as transcribed (circumflex/grave/acute, smooth breathings on capitals, commas and ano teleia as read)
+isa	oldtestgreek00unknuoft	201	18	“dard	“ἀπὸ	ἀπὸ	ἀπὸ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	201	19	ἀναγγέλλων:	ἀναγγέλλων:	ἀναγγέλλων·	ἀναγγέλλων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	201	20	ἐστέ,	ἐστε,	ἐστέ,	ἐστέ,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	201	20	ἀποκριθῶσίν	αποκριθῶσιν	ἀποκριθῶσίν	ἀποκριθῶσίν	image (3x): as transcribed (circumflex/grave/acute, smooth breathings on capitals, commas and ano teleia as read)
+isa	oldtestgreek00unknuoft	201	20	“εἰσὶν	εἰσιν	εἰσὶν	εἰσὶν	image (3x): as transcribed (circumflex/grave/acute, smooth breathings on capitals, commas and ano teleia as read)
+isa	oldtestgreek00unknuoft	201	20	ποιοῦντες	ποιουντες	ποιοῦντες	ποιοῦντες	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	201	20	ὑμᾶς,	υὑμας,	ὑμᾶς,	ὑμᾶς,	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	201	20	καὶ	και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	201	22	Ἰ̓ακὼβ	ΤἸακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): as transcribed (circumflex/grave/acute, smooth breathings on capitals, commas and ano teleia as read)
+isa	oldtestgreek00unknuoft	201	22	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	201	22	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	201	22	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): as transcribed (circumflex/grave/acute, smooth breathings on capitals, commas and ano teleia as read)
+isa	oldtestgreek00unknuoft	201	22	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	201	22	ἐκλεκτός	ἐκλεκτός	ἐκλεκτός	ἐκλεκτός	image (3x): as transcribed (circumflex/grave/acute, smooth breathings on capitals, commas and ano teleia as read)

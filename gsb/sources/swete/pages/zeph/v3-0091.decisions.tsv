@@ -1,0 +1,38 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+zeph	oldtestgreek00unknuoft	91	1	Ἀσσύριον,	Ἀσσύριον,	Ἀσσύριον,	Ἀσσύριον,	image (3x): smooth breathing (apostrophe shape); Ἐγώ keeps acute before enclitic εἰμι
+zeph	oldtestgreek00unknuoft	91	2	ἔρημον"	ἔρημον"	ἔρημον·	ἔρημον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zeph	oldtestgreek00unknuoft	91	2	“kal	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+zeph	oldtestgreek00unknuoft	91	3	χαμαϊλέοντές	χαμαϊλέοντές	χαμαιλέοντες	χαμαιλέοντες	image (3x): letters and accents as in C; OCR differences are misreads or specks
+zeph	oldtestgreek00unknuoft	91	6	Ἀὕτη	Ἀὕτη	Αὕτη	Αὕτη	image (3x): A unmarked; rough breathing + acute on υ: Αὕτη
+zeph	oldtestgreek00unknuoft	91	7	καρδίᾳ	καῤδίᾳ	καρδίᾳ	καρδίᾳ	image (3x): letters and accents as in C; OCR differences are misreads or specks
+zeph	oldtestgreek00unknuoft	91	7	Ἐγώ	Ἐγώ	Ἐγώ	Ἐγώ	image (3x): smooth breathing (apostrophe shape); Ἐγώ keeps acute before enclitic εἰμι
+zeph	oldtestgreek00unknuoft	91	8	θηρίων:	θηρίων:	θηρίων·	θηρίων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zeph	oldtestgreek00unknuoft	91	9	(x) +δύ	.(1) +δώ	δι᾽	δι᾽	image (3x): the full-size (1) at the line start is a margin-type entry (encoded as comment + {=3:1} at Swete 2); text starts δι᾽
+zeph	oldtestgreek00unknuoft	91	9	“ὦ	“ὦ	ὢ	ὢ	image (4x): smooth + grave over ω (apostrophe then stroke falling right), not circumflex: ὢ
+zeph	oldtestgreek00unknuoft	91	9	ἐπιφανὴς +(2)	ἐπιφανὴς +(0)	ἐπιφανὴς	ἐπιφανὴς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zeph	oldtestgreek00unknuoft	91	10	περιστερά:	περιστερά:	περιστερά·	περιστερά·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zeph	oldtestgreek00unknuoft	91	10	(οὐκ	()οὐκ	οὐκ	οὐκ	image (3x): superscript (2) before οὐκ is the in-text common number, encoded {=3:2}
+zeph	oldtestgreek00unknuoft	91	11	οὐκ.	οὐκ.	οὐκ	οὐκ	image (3x): letters and accents as in C; OCR differences are misreads or specks
+zeph	oldtestgreek00unknuoft	91	12	3οἱ	3οἱ	οἱ	οἱ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zeph	oldtestgreek00unknuoft	91	13	ὠρυόμενοι:	ὠρυόμενοι:	ὠρυόμενοι·	ὠρυόμενοι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zeph	oldtestgreek00unknuoft	91	13	Ἀραβίας,	Ἀραβίας,	Ἀραβίας,	Ἀραβίας,	image (3x): smooth breathing (apostrophe shape); Ἐγώ keeps acute before enclitic εἰμι
+zeph	oldtestgreek00unknuoft	91	13	ὑπελίποντο.	ὑπελίποντο.	ὑπελίποντο	ὑπελίποντο	image (3x): letters and accents as in C; OCR differences are misreads or specks
+zeph	oldtestgreek00unknuoft	91	14	εἰς.	εἰς.	εἰς	εἰς	image (3x): letters and accents as in C; OCR differences are misreads or specks
+zeph	oldtestgreek00unknuoft	91	14	πρωί:	πρωί:	πρωί·	πρωί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zeph	oldtestgreek00unknuoft	91	14	toi	“οἱ	οἱ	οἱ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+zeph	oldtestgreek00unknuoft	91	14	πνευματοφύροι,	πνευματοφύροι,	πνευματοφόροι,	πνευματοφόροι,	image (3x): letters and accents as in C; OCR differences are misreads or specks
+zeph	oldtestgreek00unknuoft	91	15	γηταί:	γηταί:	νηταί·	νηταί·	image (3x): letters and accents as in C; OCR differences are misreads or specks
+zeph	oldtestgreek00unknuoft	91	15	βεβηλοῦσιν.	βεβηλοῦσιν.	βεβηλοῦσιν	βεβηλοῦσιν	image (3x): letters and accents as in C; OCR differences are misreads or specks
+zeph	oldtestgreek00unknuoft	91	15	"ὁ	"ὁ	ὁ	ὁ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zeph	oldtestgreek00unknuoft	91	16	ἄδικον"	ἄδικον:	ἄδικον·	ἄδικον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zeph	oldtestgreek00unknuoft	91	18	“ἐν	“ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zeph	oldtestgreek00unknuoft	91	19	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zeph	oldtestgreek00unknuoft	91	20	διοδεύειν:	διοδεύειν:	διοδεύειν·	διοδεύειν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zeph	oldtestgreek00unknuoft	91	20	πόλεις +7	πόλεις +γ	πόλεις	πόλεις	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zeph	oldtestgreek00unknuoft	91	21	Τεῖπα	Τεἶῖπα	εἶπα	εἶπα	image (3x): letters and accents as in C; OCR differences are misreads or specks
+zeph	oldtestgreek00unknuoft	91	21	πλὴν	πλὴν	Πλὴν	Πλὴν	image (3x): capital Π, Πλὴν with grave as printed
+zeph	oldtestgreek00unknuoft	91	22	βεῖσθέ	βεῖσθέ	βεῖσθέ	βεῖσθέ	image (3x): extra acute on βεῖσθέ before enclitic με
+zeph	oldtestgreek00unknuoft	91	23	ἐξεδίκησα᾽	ἐξεδίκησα	ἐξεδίκησα	ἐξεδίκησα	class R6 (OCR letters differ): the other OCR reading agrees with c
+zeph	oldtestgreek00unknuoft	91	23	αὐτήν:	αὐτήν:	αὐτήν·	αὐτήν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zeph	oldtestgreek00unknuoft	91	6	-	-	Αὕτη	Αὕτη	numbering: margin III 1 (15) with no parenthesized Roman; encoded {=2:15} (Hebrew 2:15, as Micah V (14) 1); lines 7-10 are set indented to make room for the (1)/(2), not paragraphs
+zeph	oldtestgreek00unknuoft	91	9	-	-	ὢ	ὢ	numbering: full-size (1) at line start beside Swete 2; common 3:1 placed at Swete {2}

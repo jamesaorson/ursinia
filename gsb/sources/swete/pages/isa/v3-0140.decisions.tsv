@@ -1,0 +1,36 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	140	1	ava-	ἀνα-	ἀνα-	ἀνα-	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	140	2	kal	“Ξκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	140	3	22 +Wovrar:	2: +Ψονται:	ψονται·	ψονται·	TODO zoom: A OPEN, B OPEN
+isa	oldtestgreek00unknuoft	140	3	ἀπορία.	ἀπὸρία	ἀπορία	ἀπορία	TODO zoom: A OPEN, B DIA
+isa	oldtestgreek00unknuoft	140	5	ὧν	ὧν	ὢν	ὢν	TODO zoom: A DIA, B DIA
+isa	oldtestgreek00unknuoft	140	5	καιροῦ. +᾿ τ	καιροῦ.	καιροῦ.	καιροῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	140	6	Τοῦτο	;	Τοῦτο	Τοῦτο	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	140	6	πρῶτον	"Τοῦτο +πρῶτον!	πρῶτον	πρῶτον	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	140	6	rag	ταλὺ	ταχὺ	ταχὺ	TODO zoom: A R5, B OPEN
+isa	oldtestgreek00unknuoft	140	6	γῆ +x (23)	γῆ +κα (23}1Χ	γῆ	γῆ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	140	7	oi	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	140	8	Ιορδάνου,	Ιορδάνου,	Ἰορδάνου,	Ἰορδάνου,	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DROP, B DROP
+isa	oldtestgreek00unknuoft	140	8	Ταλειλαία	Ταλειλαία	Γαλειλαία	Γαλειλαία	TODO zoom: A OPEN, B OPEN
+isa	oldtestgreek00unknuoft	140	8	ἐθνῶν...	ἐθνῶν...	ἐθνῶν.	ἐθνῶν.	TODO zoom: A OPEN, B OPEN
+isa	oldtestgreek00unknuoft	140	8	“ὁ	“ὁ	ὁ	ὁ	TODO zoom: A OPEN, B OPEN
+isa	oldtestgreek00unknuoft	140	8	πορευόμενος +2 (τ)	πορευόμενος +2 (τ)	πορευόμενος	πορευόμενος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	140	9	μέγα:	μέγα᾽	μέγα·	μέγα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	140	10	37d	3τὸ	τὸ	τὸ	TODO zoom: A R5, B OPEN
+isa	oldtestgreek00unknuoft	140	10	κατή- +3 (2)	κατή- +3 (2)	κατή-	κατή-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	140	11	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	TODO zoom: accent before an enclitic
+isa	oldtestgreek00unknuoft	140	12	εὐφραινόμενοι	εὐφραινόμενοι.	εὐφραινόμενοι	εὐφραινόμενοι	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	140	13	ι	διότι	διότι	διότι	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	140	13	ἀφήρηται	ἀφήρηται	ἀφῄρηται	ἀφῄρηται	TODO zoom: A DROP, B DROP
+isa	oldtestgreek00unknuoft	140	13	ἡ +4 (3)	ἡ +ας (3)	ἡ	ἡ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	140	14	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	140	15	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	140	15	"ὅτι	"ὅτι	ὅτι	ὅτι	TODO zoom: A OPEN, B OPEN
+isa	oldtestgreek00unknuoft	140	15	στολὴν +5 (4)	στολὴν +5 (4)	στολὴν	στολὴν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	140	17	“ὅτι	“ὅτι	ὅτι	ὅτι	TODO zoom: A OPEN, B OPEN
+isa	oldtestgreek00unknuoft	140	17	ἐγεν- +6 (5)	ἐγεν- +6 (5)	ἐγεν-	ἐγεν-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	140	18	ὦμου	ὦμου	ὤμου	ὤμου	TODO zoom: A DIA, B DIA
+isa	oldtestgreek00unknuoft	140	19	καὶ.	καὶ.	καὶ	καὶ	TODO zoom: A OPEN, B OPEN
+isa	oldtestgreek00unknuoft	140	19	καλεῖται.	καλεῖται.	καλεῖται	καλεῖται	TODO zoom: A OPEN, B OPEN
+isa	oldtestgreek00unknuoft	140	19	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	140	19	ἄγγελος"	ἄγγελος"	ἄγγελος·	ἄγγελος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

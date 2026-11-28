@@ -38,7 +38,6 @@
     ("and" 1)
     ("he/she/it said," 2)
     ("Behold," (3 behold))
-    ("[the]")
     ("lords," 4)
     ("turn aside" 5)
     ("to" (6 to))
@@ -331,7 +330,7 @@
     ("to" (6 to))
     ("his" 9)
     ("sons-in-law" (7 absorbed) (8 son-in-law "γαμβρός"))
-    ("the [ones] having taken" 10 (11 take "λαμβάνω"))
+    ("having taken" (10 attributive) (11 take "λαμβάνω"))
     ("his" 14)
     ("daughters," (12 absorbed) 13)
     ("and" 15)
@@ -448,7 +447,7 @@
     ("to" (4 to))
     ("them," 5)
     ("I beg," 6)
-    ("Lord," 7)))
+    ("lord," 7)))
 
 (verse 19
   (status draft)

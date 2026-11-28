@@ -1,0 +1,33 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	165	1	"ἡ	"ἡ	ἡ	ἡ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	165	1	χείρ	χείρ	χείρ	χείρ	image (3x): acute on χείρ before enclitic σου
+isa	oldtestgreek00unknuoft	165	1	Od- +B	θά- +Β	θά-	θά-	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	165	2	βασιλεῖς:	βασιλεῖς"	βασιλεῖς·	βασιλεῖς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	165	3	Xavdav	Χανάαν	Χανάαν	Χανάαν	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	165	3	?xal	"“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	165	3	Οὐκέτι	Οὐκέτι	Οὐκέτι	Οὐκέτι	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	165	4	Σειδῶνος:	Σειδῶνος:	Σειδῶνος·	Σειδῶνος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	165	5	σοι:	σοι:	σοι·	σοι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	165	5	"Ξκαὶ	13 +"Ξκαὶ	καὶ	καὶ	image (3x): superscript 13 fused, word is καὶ
+isa	oldtestgreek00unknuoft	165	6	αλδαίων,	Χαλδαίων,	Χαλδαίων,	Χαλδαίων,	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	165	6	Ἀσσυρίων,	Ἀσσυρίων,	Ἀσσυρίων,	Ἀσσυρίων,	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	165	7	"ὀλολύξατε,	"ὀλολύξατε,	ὀλολύξατε,	ὀλολύξατε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	165	7	ὅτε	ὅτε	ὅτι	ὅτι	image (3x): ὅτι, iota clear
+isa	oldtestgreek00unknuoft	165	8	popa	ρωμα	ρωμα	ρωμα	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	165	8	“Kal	""καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	165	9	ἀνθρώπου:	ἀνθρώπου:	ἀνθρώπου·	ἀνθρώπου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	165	10	dopa	ἄσμα	ᾆσμα	ᾆσμα	image (3x): iota subscript with rough breathing and circumflex
+isa	oldtestgreek00unknuoft	165	10	“λάβε	᾿“λάβε	λάβε	λάβε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	165	12	σον,	ἄσον,	ᾆσον,	ᾆσον,	image (3x): iota subscript with rough breathing and circumflex
+isa	oldtestgreek00unknuoft	165	12	gov	σου	σου	σου	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	165	13	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave on θεὸς before Τύρου (not a quotation)
+isa	oldtestgreek00unknuoft	165	14	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	165	15	“kal	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	165	19	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing; grave on Ἰδοὺ
+isa	oldtestgreek00unknuoft	165	20	Kat	και	καὶ	καὶ	image (3x): grave accent printed
+isa	oldtestgreek00unknuoft	165	20	TO	Τὸ	τὸ	τὸ	image (3x): grave accent printed
+isa	oldtestgreek00unknuoft	165	20	προσῶπον	προσῶπον	πρόσωπον	πρόσωπον	image (3x): acute on ό, no circumflex
+isa	oldtestgreek00unknuoft	165	20	avTns	αὑτῆς	αὐτῆς	αὐτῆς	image (3x): smooth breathing and circumflex
+isa	oldtestgreek00unknuoft	165	20	Kat	Και	καὶ	καὶ	image (3x): grave accent printed
+isa	oldtestgreek00unknuoft	165	20	ενοικουντας	ενοικουντας	ἐνοικοῦντας	ἐνοικοῦντας	image (3x): smooth breathing and circumflex printed
+isa	oldtestgreek00unknuoft	165	20	-	-	ἐνοικοῦντας	ἐνοικοῦντας	image: dark blot above and right of the word end, off the baseline, ink mark not punctuation; no point read; line continues on next leaf

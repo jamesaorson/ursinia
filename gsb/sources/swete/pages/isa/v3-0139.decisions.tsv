@@ -1,0 +1,32 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	139	2	"οὕτως	"οὕτως	οὕτως	οὕτως	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	139	3	“Μή	“Μή	Μή	Μή	image (3x): acute before the enclitic as transcribed
+isa	oldtestgreek00unknuoft	139	3	πότε	πότε	ποτε	ποτε	image (3x): ποτε printed without accent after Μή
+isa	oldtestgreek00unknuoft	139	3	σκληρόν"	σκληρόν"	σκληρόν·	σκληρόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	139	4	σκληρόν	σκληρόν	σκληρόν	σκληρόν	image (3x): acute before the enclitic as transcribed
+isa	oldtestgreek00unknuoft	139	4	ἐστιν"	ἐστιν"	ἐστιν·	ἐστιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	139	5	ταραχθῆτε" +""	ταραχθῆτε᾽	ταραχθῆτε·	ταραχθῆτε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	139	5	Κύριον	""Κύριον	Κύριον	Κύριον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	139	5	ἁγιάσατε;	ἁγιάσατε;	ἁγιάσατε,	ἁγιάσατε,	image (3x): comma / no punctuation, not a question mark
+isa	oldtestgreek00unknuoft	139	6	“kav	"“κἂν	κἂν	κἂν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	139	6	αὐτῷ;	αὐτῷ;	αὐτῷ	αὐτῷ	image (3x): comma / no punctuation, not a question mark
+isa	oldtestgreek00unknuoft	139	6	ἧς,	ἧς,	ᾖς,	ᾖς,	image (3x): ᾖς, smooth breathing, circumflex and iota subscript
+isa	oldtestgreek00unknuoft	139	7	ἁγίασμα;	ἁγίασμα,	ἁγίασμα,	ἁγίασμα,	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	139	8	οἶκοι	οἶκοι +᾽	οἶκοι	οἶκοι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	139	8	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	139	9	Ἰερουσαλήμ᾽	᾿ερουσαλήμ:	Ἰερουσαλήμ·	Ἰερουσαλήμ·	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	139	9	dia	το +"διὰ	διὰ	διὰ	image (3x): word as transcribed; OCR fused the verse number
+isa	oldtestgreek00unknuoft	139	11	δότε	θΡότε	Τότε	Τότε	image (3x): word as transcribed; OCR fused the verse number
+isa	oldtestgreek00unknuoft	139	11	oi	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	139	12	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	139	12	“Kab	"Ἰκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	139	13	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	139	14	“idod	“ἰδοὺ	ἰδοὺ	ἰδοὺ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	139	14	ἅ	ἅ	ἅ	ἅ	image (3x): acute before the enclitic as transcribed
+isa	oldtestgreek00unknuoft	139	15	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	139	16	xal	"ϑκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	139	18	ot	οἵ	οἳ	οἳ	image (3x): οἳ, rough breathing with grave
+isa	oldtestgreek00unknuoft	139	20	““νόμον	““νόμον	νόμον	νόμον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	139	21	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	139	22	*kal	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	139	22	λιμύς,	λιμύς,	λιμός,	λιμός,	image (3x): λιμός with omicron

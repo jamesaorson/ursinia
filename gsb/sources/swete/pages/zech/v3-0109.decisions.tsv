@@ -1,0 +1,43 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+zech	oldtestgreek00unknuoft	109	1	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	109	1	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	109	2	ασσαν	θάλασσαν	θάλασσαν	θάλασσαν	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	109	3	καταναλωθήσεται:	καταναλωθήσεται:	καταναλωθήσεται.	καταναλωθήσεται.	image (3x): period, not a colon
+zech	oldtestgreek00unknuoft	109	3	ϑὄψεται	ϑὄψεται	ὄψεται	ὄψεται	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	109	3	Ἀσκάλων	Ἀσκάλων	Ἀσκάλων	Ἀσκάλων	image (3x): smooth breathing on capital Α, apostrophe shape
+zech	oldtestgreek00unknuoft	109	4	Ἀκκαρών,	Ἀκκαρών,	Ἀκκαρών,	Ἀκκαρών,	image (3x): smooth breathing on capital Α, apostrophe shape
+zech	oldtestgreek00unknuoft	109	4	ἠσχύνθη	ἠσχύνθη	ᾐσχύνθη	ᾐσχύνθη	image (3x): iota subscript under η: ᾐσχύνθη
+zech	oldtestgreek00unknuoft	109	5	τῷ	ῷ	τῷ	τῷ	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	109	5	αὐτῆς:	αὐτῆς:	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	109	5	βασιλεὺς	εὑς	βασιλεὺς	βασιλεὺς	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	109	5	Τάζης,	Τάζης,	Γάζης,	Γάζης,	image (3x): Γ, not Τ
+zech	oldtestgreek00unknuoft	109	6	Ἀσκάλων	Ἀσκάλων	Ἀσκάλων	Ἀσκάλων	image (3x): smooth breathing on capital Α, apostrophe shape
+zech	oldtestgreek00unknuoft	109	6	°xdi	“κἀὶ	καὶ	καὶ	image (3x): superscript 6 then καὶ, plain grave
+zech	oldtestgreek00unknuoft	109	7	Ἀζώτῳ,	Ἀζώτῳ,	Ἀζώτῳ,	Ἀζώτῳ,	image (3x): smooth breathing on capital Α, apostrophe shape
+zech	oldtestgreek00unknuoft	109	7	καθελῷ	καθελῶ	καθελῶ	καθελῶ	image (3x): circumflex, no iota subscript: καθελῶ
+zech	oldtestgreek00unknuoft	109	7	Teal	7καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	109	9	αὐτῶν"	αὐτῶν"	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	109	9	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	109	9	ἔσονται +*	ἔσονται +"	ἔσονται	ἔσονται	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	109	10	Ἰούδᾳ,	Ἰούδᾳ,	Ἰούδᾳ,	Ἰούδᾳ,	image (3x): smooth breathing on capital Ι, apostrophe shape
+zech	oldtestgreek00unknuoft	109	10	ἈΚκαρὼν	ἈΚκαρὼν	Ἀκκαρὼν	Ἀκκαρὼν	image (3x): smooth breathing on capital Α, apostrophe shape
+zech	oldtestgreek00unknuoft	109	10	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	109	10	Ἰεβουσαῖος"	Ἰεβουσαῖος"	Ἰεβουσαῖος·	Ἰεβουσαῖος·	image (3x): smooth breathing on capital Ι, apostrophe shape
+zech	oldtestgreek00unknuoft	109	10	ϑκαὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	109	11	τῷ	-τῷ	τῷ	τῷ	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	109	11	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	109	12	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	109	12	viv	νῦν	νῦν	νῦν	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	109	14	ϑΧαῖρε	ϑΧαῖρε	Χαῖρε	Χαῖρε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	109	14	Σειών-	Σειών:	Σειών·	Σειών·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	109	14	Ἰ̓ερουσαλήμ:	Ἰερουσαλήμ:᾽	Ἰερουσαλήμ·	Ἰερουσαλήμ·	image (3x): smooth breathing on capital Ι, apostrophe shape
+zech	oldtestgreek00unknuoft	109	15	βασιλεύς	βασιλεύς	βασιλεύς	βασιλεύς	image (3x): acute before enclitic as printed
+zech	oldtestgreek00unknuoft	109	15	ἔρχεταί	ἔρχεταί	ἔρχεταί	ἔρχεταί	image (3x): acute before enclitic as printed
+zech	oldtestgreek00unknuoft	109	16	"“καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	109	17	Ἔφράιμ	Ἔφράιμ	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing only, no accent on Ε: Ἐφράιμ
+zech	oldtestgreek00unknuoft	109	17	Ἰερουσαλήμ,	᾿ερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing on capital Ι, apostrophe shape
+zech	oldtestgreek00unknuoft	109	18	"τόξον	"τόξον	τόξον	τόξον	image (3x): no mark before τόξον; OCR quote is the margin number sliver
+zech	oldtestgreek00unknuoft	109	18	ἐθνῶν"	ἐθνῶν"	ἐθνῶν·	ἐθνῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	109	18	κατάρῤξει	κατάρῤξει	κατάρξει	κατάρξει	image (3x): plain ρ, no breathing: κατάρξει
+zech	oldtestgreek00unknuoft	109	19	“kal	“᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	109	21	“καθήσεσθε	“καθήσεσθε	καθήσεσθε	καθήσεσθε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip

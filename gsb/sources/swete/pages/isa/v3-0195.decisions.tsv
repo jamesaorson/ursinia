@@ -1,0 +1,35 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	195	1	ovs	οὗς	οὓς	οὓς	image (3x): οὓς, smooth breathing + grave
+isa	oldtestgreek00unknuoft	195	1	πατρός	πατρός	πατρός	πατρός	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	195	3	ots	οὺς	οὓς	οὓς	image (3x): οὓς, smooth breathing + grave
+isa	oldtestgreek00unknuoft	195	4	9	9 +ϑροσευχὴ	Προσευχὴ	Προσευχὴ	image (3x): Προσευχὴ grave before capitalized name; 9 is margin number / superscript
+isa	oldtestgreek00unknuoft	195	4	ϑΠροσευχὴ +“Efextov	Ἑζεκίου	Ἑζεκίου	Ἑζεκίου	image (3x): rough breathing on Ἑ (Ἑζεκ-)
+isa	oldtestgreek00unknuoft	195	4	Ἰουδαίας	Ἰουδαίας	Ἰουδαίας	Ἰουδαίας	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	195	5	αὐτοῦ. +τ	αὐτοῦ. +τ	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	195	6	Ἐγὼ	Ἐγὼ	Ἐγὼ	Ἐγὼ	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	195	6	Ἔν	Ἔν	Ἐν	Ἐν	image (3x): Ἐν smooth breathing, no accent
+isa	oldtestgreek00unknuoft	195	6	ἅδου	ἅδου	ᾅδου	ᾅδου	image (3x): ᾅδου rough breathing + acute + iota subscript
+isa	oldtestgreek00unknuoft	195	7	“elma	""εἶπα	εἶπα	εἶπα	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	195	7	Οὐκέτι	Οὐκέτι	Οὐκέτι	Οὐκέτι	image (3x): Οὐκέτι smooth breathing on υ
+isa	oldtestgreek00unknuoft	195	8	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	195	9	"ἐξέλιπεν	"ἐξέλιπεν	ἐξέλιπεν	ἐξέλιπεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	195	10	λοιπὸν	λοιπὸν	λοιπον	λοιπον	image (3x): λοιπον unaccented, continuation of ἐπί-
+isa	oldtestgreek00unknuoft	195	10	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	195	11	πήξας"	πήξας"	πήξας·	πήξας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	195	11	πνεῦμά	πνεῦμά	πνεῦμά	πνεῦμά	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	195	12	Sev	3Ξἐν	ἐν	ἐν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	195	13	μου᾽	μου᾽	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	195	14	“as	“ὡς	ὡς	ὡς	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	195	15	μελετῶ:	μελετῶ:	μελετῶ·	μελετῶ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	195	15	γάρ	γάρ	γάρ	γάρ	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	195	15	pov	μὸυ	μου	μου	TODO zoom: A R5, B DIA
+isa	oldtestgreek00unknuoft	195	16	ἐξείλατό	ἐξείλατό	ἐξείλατό	ἐξείλατό	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	195	16	ἀφείλατό	ἀφείλατό	ἀφείλατό	ἀφείλατό	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	195	17	Ψυχῆς.	Ψυχῆς.	ψυχῆς.	ψυχῆς.	TODO zoom: A DROP, B DROP
+isa	oldtestgreek00unknuoft	195	17	"Κύριε,	"Κύριε,	Κύριε,	Κύριε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	195	18	γειράς	γειράς	γειράς	γειράς	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	195	18	"Τεΐλου	"Τεΐλου	εἵλου	εἵλου	TODO zoom: A OPEN, B OPEN
+isa	oldtestgreek00unknuoft	195	18	γάρ	γάρ	γάρ	γάρ	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	195	20	“od	“οὐ	οὐ	οὐ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	195	20	ἅδου	ἅδου	ᾅδου	ᾅδου	image (3x): ᾅδου rough breathing + acute + iota subscript
+isa	oldtestgreek00unknuoft	195	20	αἰνέσουσίν	αἰνέσουσίν	αἰνέσουσίν	αἰνέσουσίν	image (3x): acute before enclitic as printed

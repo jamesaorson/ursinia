@@ -282,6 +282,35 @@ leaf numbers here; the images and OCR layers stay out of the repo
   that order; his 39:31-35 are `(1) (XL)`-(5), his 40:1-27 are (40:6-32), his
   41:1-25 are 41:1 and (41:2-26) with an in-text (2). Hebrew 40:25-32 and
   41:1-26 are English 41:1-8 and 41:9-34 (`versification.tsv`).
+- **The Twelve Prophets** (leaves v3 25-124, Hosea to Malachi) are set as
+  prose (`{P}` at indented paragraph starts; a chapter opening mid-line gets
+  none), except Jonah's prayer (2:3-10) and Habakkuk 3:2-19, set as verse
+  lines and marked `{S}` on every line, whatever its depth (no Psalms depth
+  markers); Habakkuk's title line 3:1 is prose, and a `διάψαλμα.` on a line of
+  its own is its own `{S}` line. Parenthesized numbers are `{=c:v}` markers
+  with a `# margin:` / `# in-text:` comment, written as printed (Hebrew) and
+  converted by `versification.tsv`; words before an in-text number run on
+  with the previous common verse. *Hosea*: his 1:10-11 = `(1)(II)`-`(2)`,
+  2:1-23 = `(3)`-`(25)`; 6:11 in-text `(11)`; his XI 1 begins with the end
+  of 10:15 (`{C11}{1}{=10:15}`), common 11:1 at the margin `(1)`; his 11:12
+  = `(1)(XII)`, 12:1-14 = `(2)`-`(15)`; his own 14:1-10 are the Hebrew
+  numbers, printed without parentheses (English 13:16, 14:1-9). *Amos*:
+  in-text `(1)` before Οὕτως, five words before his VIII 1. *Micah*: his 5:1
+  = `V (14) 1`, 5:2-15 = `(1)`-`(14)` (no parenthesized Roman numeral printed;
+  the chapters are ours, from context). *Joel*: his 2:28-32 = `(1)(III)`-`(5)`;
+  his III is `III (IV)` with no parenthesized verse numbers, so every verse
+  of it carries our own `{=4:n}` (as 3 Kgdms XX (XXI)). *Jonah*: his own
+  numbers are the Hebrew (II 1 = English 1:17), no parentheses. *Nahum*: his
+  1:15 = `(1)(II)` and his unparenthesized II 1 runs on with it (one row).
+  *Habakkuk*: in-text `(11)` at 3:11. *Zephaniah*: his III 1 = `(15)` (2:15)
+  and his 3:2 holds common 3:1 and, from an in-text `(2)`, 3:2 (Hebrew =
+  English). *Haggai*: his II 1 = `II (15)` (1:15) with common 2:1 at the
+  margin and in-text `(1)` (Hebrew = English). *Zechariah*: his 1:18-21 = `(II) (1)`-`(4)`, his II 1-13 =
+  `(5)`-`(17)`; 2:10-13 on leaf 101 are set as an indented prose block, not
+  marked. *Malachi*: in-text `(7)` at
+  3:7; his IV 1-6 = `(III 19)`-`(24)`, printed in the order 19, 20, 21, 23,
+  24, 22 (the Greek puts English 4:4 after 4:5-6), so the table runs 4:1-3,
+  4:5, 4:6, 4:4.
 - **Editorial marks** in the text, such as Swete's asterisk at Gen 37:1 tied to
   a note, are apparatus and are left out.
 - **Daniel** is printed twice: the Old Greek (Chigi MS 87, `ΔΑΝΙΗΛ ΚΑΤΑ ΤΟΥΣ Ο'`)

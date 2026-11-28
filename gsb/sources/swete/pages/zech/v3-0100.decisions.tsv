@@ -1,0 +1,49 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+zech	oldtestgreek00unknuoft	100	1	μέ	μέ	μέ	μέ	image (3x): acute before capitalized quotation as printed
+zech	oldtestgreek00unknuoft	100	1	Taira	Ταῦτα	Ταῦτα	Ταῦτα	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	100	1	δια-	δια-:	δια-	δια-	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	100	2	Ἰούδαν	Ἰούδαν	Ἰούδαν	Ἰούδαν	image (3x): smooth breathing on capital
+zech	oldtestgreek00unknuoft	100	2	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital
+zech	oldtestgreek00unknuoft	100	2	Ἱερουσαλήμ.	Ἱερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing on capital
+zech	oldtestgreek00unknuoft	100	2	““καὶ +2	““καὶ +30	καὶ	καὶ	image (3x): superscript verse number not text; word as in page
+zech	oldtestgreek00unknuoft	100	3	ἔδειξέν	ἔδειξέν	ἔδειξέν	ἔδειξέν	image (3x): accent before enclitic as printed
+zech	oldtestgreek00unknuoft	100	3	τέκτονας. +*	τέκτονας. +“"	τέκτονας.	τέκτονας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	100	3	ἔρχον- +«1	ἔρχον- +«:«	ἔρχον-	ἔρχον-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	100	5	Ἰούδαν	Ἰούδαν	Ἰούδαν	Ἰούδαν	image (3x): smooth breathing on capital
+zech	oldtestgreek00unknuoft	100	5	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital
+zech	oldtestgreek00unknuoft	100	5	κεφαλήν"	κεφαλήν"	κεφαλήν·	κεφαλήν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	100	6	τέσ-᾽	τέσ-᾽	τέσ-	τέσ-	image (3x): OCR noise, no mark after the word in print
+zech	oldtestgreek00unknuoft	100	7	᾿ἐπαιρόμενα	᾿ἐπαιρόμενα	ἐπαιρόμενα	ἐπαιρόμενα	image (3x): witness mark § printed in text before ἐπαιρόμενα (kept); no breathing mark beyond smooth
+zech	oldtestgreek00unknuoft	100	8	tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	100	9	᾿ +"Καὶ	| +Κ̓αὶ	Καὶ	Καὶ	image (3x): superscript verse number not text; word as in page
+zech	oldtestgreek00unknuoft	100	9	ὀφθαλμούς	ὀφθαλμούς	ὀφθαλμούς	ὀφθαλμούς	image (3x): accent before enclitic as printed
+zech	oldtestgreek00unknuoft	100	10	“καὶ	“καὶ	καὶ	καὶ	image (3x): superscript verse number not text; word as in page
+zech	oldtestgreek00unknuoft	100	10	αὐτόν +2	αὐτόν +«	αὐτόν	αὐτόν	image (3x): acute before capitalized quotation as printed
+zech	oldtestgreek00unknuoft	100	11	μέ	μέ	μέ	μέ	image (3x): acute before capitalized quotation as printed
+zech	oldtestgreek00unknuoft	100	11	Ἰερουσα-	Ἰερουσα-	Ἰερουσα-	Ἰερουσα-	image (3x): smooth breathing on capital
+zech	oldtestgreek00unknuoft	100	13	ἄγγελος +3	ἄγγελος	ἄγγελος	ἄγγελος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	100	14	“καὶ	“καὶ	καὶ	καὶ	image (3x): superscript verse number not text; word as in page
+zech	oldtestgreek00unknuoft	100	14	αὐτὸν +4	αὐτὸν +ς	αὐτὸν	αὐτὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	100	16	Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on capital
+zech	oldtestgreek00unknuoft	100	17	αὐτῆς"	αὐτῆς"	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	100	17	"καὶ	"καὶ	καὶ	καὶ	image (3x): superscript verse number not text; word as in page
+zech	oldtestgreek00unknuoft	100	17	Κύριος, +5	Κύριος, +ς᾽	Κύριος,	Κύριος,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	100	19	δὼ	δὼ	ὢ	ὢ	image (8x): ω with breathing+grave, read smooth + grave (apostrophe then falling stroke), not circumflex; superscript 6 before
+zech	oldtestgreek00unknuoft	100	19	ὦ	ὦ	ὢ	ὢ	image (8x): ω with breathing+grave, read smooth + grave (apostrophe then falling stroke), not circumflex; superscript 6 before
+zech	oldtestgreek00unknuoft	100	19	τεσ- +6	τεσ- +6	τεσ-	τεσ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	100	20	Κύριος"	Κύριος"	Κύριος·	Κύριος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	100	20	1εὶς +7	1εὶς +7	εἰς	εἰς	image (3x): superscript verse number not text; word as in page
+zech	oldtestgreek00unknuoft	100	21	Βαβυλῶνος. +ὃ	Βαβυλῶνος. +ὃ	Βαβυλῶνος.	Βαβυλῶνος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	100	21	διότι +8.	διότι +8.	διότι	διότι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	100	22	Ὀπίσω	Ὀπίσω	Ὀπίσω	Ὀπίσω	image (3x): smooth breathing on capital
+zech	oldtestgreek00unknuoft	100	22	ἀπέσταλκέν	ἀπέσταλκέν	ἀπέσταλκέν	ἀπέσταλκέν	image (3x): accent before enclitic as printed
+zech	oldtestgreek00unknuoft	100	22	μὲ	μὲ	με	με	image (3x): με unaccented
+zech	oldtestgreek00unknuoft	100	24	κόρης	κύρης	κόρης	κόρης	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	100	24	αὐτοῦ" +9	αὐτοῦ"	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	100	24	ἐπι- +9	ἐπι- +ο	ἐπι-	ἐπι-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	100	25	χεῖρά	χεῖρά	χεῖρά	χεῖρά	image (3x): accent before enclitic as printed
+zech	oldtestgreek00unknuoft	100	26	ἀπέσταλκέν	ἀπέσταλκέν	ἀπέσταλκέν	ἀπέσταλκέν	image (3x): accent before enclitic as printed
+zech	oldtestgreek00unknuoft	100	27	“τέρπου	“τέρπου	τέρπου	τέρπου	image (3x): superscript verse number not text; word as in page
+zech	oldtestgreek00unknuoft	100	27	διότι.	διότι.	διότι	διότι	image (3x): OCR noise, no mark after the word in print
+zech	oldtestgreek00unknuoft	100	27	ἐγὼ +τὸ	ἐγὼ +τὸ	ἐγὼ	ἐγὼ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	100	19	-	-	ὢ	ὢ	ambiguous: both ὢ ὢ have a small compact breathing joined to a falling grave; read smooth + grave, rough + grave not fully excluded

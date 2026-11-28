@@ -1,0 +1,69 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	218	1	μώσαντές	μώσαντές	μώσαντές	μώσαντές	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	218	1	“dpov	“ἄρον	ἆρον	ἆρον	image (3x): ἆ, smooth breathing with circumflex
+isa	oldtestgreek00unknuoft	218	1	ὀφθαλμούς	ὀφθαλμούς	ὀφθαλμούς	ὀφθαλμούς	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	218	2	σέ:	σέ"	σέ·	σέ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	218	4	∅	αὐτοὺς	αὐτοὺς	αὐτοὺς	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	218	4	∅	ὡς	ὡς	ὡς	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	218	4	∅	κόσμον,	κόσμον,	κόσμον,	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	218	4	∅	ὡς	ὡς	ὡς	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	218	4	∅	νύμφη.	νύμφη.	νύμφη.	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	218	4	∅	το +"ὅτι	ὅτι	ὅτι	image (3x): word as written; OCR junk from margin or verse number
+isa	oldtestgreek00unknuoft	218	4	∅	τὰ +ἀ	τὰ	τὰ	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	218	4	∅	ἔρημά	ἔρημά	ἔρημά	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	218	4	∅	σου	σου	σου	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	218	4	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	218	4	∅	τὰ	τὰ	τὰ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	218	4	∅	κατεῴθαβ"	κατεφθαρ-	κατεφθαρ-	image (3x): word as written; OCR junk from margin or verse number
+isa	oldtestgreek00unknuoft	218	6	καταπίνοντές	καταπίνοντές	καταπίνοντές	καταπίνοντές	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	218	6	““ἐροῦσιν	““ἐροῦσιν	ἐροῦσιν	ἐροῦσιν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	218	7	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	218	7	∅	τὰ +ὦ	τὰ	τὰ	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	218	7	∅	ὦτά	ὦτά	ὦτά	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	218	7	∅	σου	σου	σου	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	218	7	∅	οἱ	οἱ	οἱ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	218	7	∅	υἱοί	υἱοί	υἱοί	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	218	7	∅	σου	σου	σου	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	218	7	∅	οὺς	οὓς	οὓς	image (3x): οὓς, rough breathing with grave
+isa	oldtestgreek00unknuoft	218	7	∅	ἀπολώλεκας	ἀπολώλεκας	ἀπολώλεκας	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	218	7	∅	Στενός	Στενός	Στενός	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	218	7	∅	μοι	μοι	μοι	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	218	7	∅	ὁ	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	218	7	∅	τόπος,	τόπος,	τόπος,	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	218	8	ποίησόν	ποίησόν	ποίησόν	ποίησόν	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	218	8	“"καὶ	“"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	218	8	cov	σου	σου	σου	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	218	9	Tis	Τίς	Τίς	Τίς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	218	9	ἐγέννησέν	ἐγέννησέν	ἐγέννησέν	ἐγέννησέν	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	218	10	ἐξέθρεψέν	ἐξέθρεψέν	ἐξέθρεψέν	ἐξέθρεψέν	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	218	10	δέ	δέ	δέ	δέ	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	218	11	Ξεοὕτως	πεοὕτως	Οὕτως	Οὕτως	image (3x): Οὕτως, rough breathing and acute on υ
+isa	oldtestgreek00unknuoft	218	11	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	218	11	χεῖρά	χεῖρά	χεῖρά	χεῖρά	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	218	12	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	218	12	σύσσημόν	σύσσημόν	σύσσημόν	σύσσημόν	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	218	12	υἱδύς	υἱδύς	υἱούς	υἱούς	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	218	13	δὲ	δὲ +θ	δὲ	δὲ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	218	13	ὥμων	οὖ +ὥμων	ὤμων	ὤμων	image (3x): smooth breathing + acute (two open ticks) on ὤμων, same shape as ἤλθοσαν l2
+isa	oldtestgreek00unknuoft	218	13	ἀροῦσιν,	ἀροῦσιν, +“3	ἀροῦσιν,	ἀροῦσιν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	218	13	33 +Kat	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	218	14	τιθηνοί	τιθηνοί	τιθηνοί	τιθηνοί	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	218	14	τροφοί	τροφοί	τροφοί	τροφοί	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	218	14	σου"	σου"	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	218	15	προσκυνήσουσίν	προσκυνήσουσίν	προσκυνήσουσίν	προσκυνήσουσίν	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	218	16	λίξουσιν:	λίξουσιν:	λίξουσιν·	λίξουσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	218	16	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ before Κύριος as printed
+isa	oldtestgreek00unknuoft	218	17	ὑπομένοντές	ὑπομένοντές	ὑπομένοντές	ὑπομένοντές	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	218	17	“μὴ	“μὴ	μὴ	μὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	218	17	λήμψεταί	λήμψεταί	λήμψεταί	λήμψεταί	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	218	17	τὶς	τὶς	τις	τις	image (3x): τις unaccented
+isa	oldtestgreek00unknuoft	218	18	“"οὕτως	:5 +“οὕτως	οὕτως	οὕτως	image (3x): word as written; OCR junk from margin or verse number
+isa	oldtestgreek00unknuoft	218	19	Ἐάν	Ἐάν	Ἐάν	Ἐάν	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	218	19	σκῦλα:	σκῦλα"	σκῦλα·	σκῦλα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	218	20	σωθήσεται:	σωθήσεται:	σωθήσεται·	σωθήσεται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	218	21	υἱούς	υἱούς	υἱούς	υἱούς	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	218	21	ῥύσομαι:	ῥύσομαι:	ῥύσομαι·	ῥύσομαι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	218	21	““καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	218	21	θλίψαντές	θλίψαντές	θλίψαντές	θλίψαντές	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	218	22	καὶ	καὶ	καὶ	καὶ	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	218	23	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ before Κύριος as printed

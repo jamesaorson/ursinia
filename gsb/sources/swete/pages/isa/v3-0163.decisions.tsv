@@ -1,0 +1,42 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	163	1	STdde	Τάδε	Τάδε	Τάδε	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	163	1	σαβαώθ.	σαβαώθ.	σαβαώθ	σαβαώθ	image (3x): σαβαώθ with acute before capitalized Πορεύου; no period, show-through speck
+isa	oldtestgreek00unknuoft	163	2	Σόμναν.	Σόμναν.	Σόμναν	Σόμναν	image: speck/show-through, not a period
+isa	oldtestgreek00unknuoft	163	2	“Ti	“Τὶ	Τί	Τί	image (3x): Τί with acute; OCR junk
+isa	oldtestgreek00unknuoft	163	2	σὺ	σὺ +ὧὸ	σὺ	σὺ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	163	2	καὶ.	καὶ.	καὶ	καὶ	image: speck/show-through, not a period
+isa	oldtestgreek00unknuoft	163	2	TL	τί	τί	τί	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	163	2	σοί	σοί	σοί	σοί	image (3x): acute before enclitic
+isa	oldtestgreek00unknuoft	163	4	*7idSovd	“7ἰδοὺ	ἰδοὺ	ἰδοὺ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	163	4	δὴ	δὴ	δὴ	δὴ	image (3x): grave on δὴ before Κύριος (not a quotation)
+isa	oldtestgreek00unknuoft	163	5	Κύριος.	Κύριος.	Κύριος	Κύριος	image: speck/show-through, not a period
+isa	oldtestgreek00unknuoft	163	5	ἀφελεῖ.	ἀφελεῖ.	ἀφελεῖ	ἀφελεῖ	image: speck/show-through, not a period
+isa	oldtestgreek00unknuoft	163	6	∅	λήν	λήν	λήν	image (3x): acute before enclitic
+isa	oldtestgreek00unknuoft	163	6	στέφανόν	στέφανόν	στέφανόν	στέφανόν	image (3x): acute before enclitic
+isa	oldtestgreek00unknuoft	163	6	kal.	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	163	7	ἀποθανῇ"	ἀποθανῇ"	ἀποθανῇ·	ἀποθανῇ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	163	8	ἄρχοντός	ἄρχοντός	ἄρχοντός	ἄρχοντός	image (3x): acute before enclitic
+isa	oldtestgreek00unknuoft	163	8	Kal	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	163	9	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	163	9	THs	τῆς	τῆς	τῆς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	163	9	στάσεώς	στάσεώς	στάσεώς	στάσεώς	image (3x): acute before enclitic
+isa	oldtestgreek00unknuoft	163	9	Gov. +““	σου. +““	σου.	σου.	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	163	10	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	163	10	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	163	10	παῖδά	παῖδά	παῖδά	παῖδά	image (3x): acute before enclitic
+isa	oldtestgreek00unknuoft	163	10	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	163	10	Ἐ̓λιακεὶμ	Ἔλ, +Ἐ̓λιακεὶμ	Ἐλιακεὶμ	Ἐλιακεὶμ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	163	11	“᾿καὶ	“᾿καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	163	11	στολήν	στολήν	στολήν	στολήν	image (3x): acute before enclitic
+isa	oldtestgreek00unknuoft	163	12	νόν	νόν	νόν	νόν	image (3x): acute before enclitic
+isa	oldtestgreek00unknuoft	163	13	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	163	13	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	163	13	ws	ὡς	ὡς	ὡς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	163	13	ἐνοικοῦσὶν	ἐνοικοῦσὶν	ἐνοικοῦσιν	ἐνοικοῦσιν	image (3x): no accent on final ι of ἐνοικοῦσιν; only the circumflex
+isa	oldtestgreek00unknuoft	163	13	Ἱερουσαλὴμ	“δ +Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	163	14	Ἰούδᾳ.	Ἰούδᾳ.	Ἰούδᾳ.	Ἰούδᾳ.	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	163	14	“Kai	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	163	15	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	163	16	Kal	“βϑκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	163	16	στηλῷῶ	στηλῶ	στηλῶ	στηλῶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	163	5	σαβαὼθ.	σαβαὼθ.	σαβαὼθ	σαβαὼθ	image (3x): faint small dot lighter than the ink after σαβαὼθ, a speck, not a period; the grave confirms no stop

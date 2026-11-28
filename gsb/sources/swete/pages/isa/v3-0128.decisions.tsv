@@ -1,0 +1,37 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	128	1	ἔθνη.	ἔθνη. +3	ἔθνη.	ἔθνη.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	128	1	3Kxai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	128	3	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing (apostrophe) on the capital
+isa	oldtestgreek00unknuoft	128	5	Ἱερουσαλήμ: +“	Ἱερουσαλήμ: +“	Ἰερουσαλήμ·	Ἰερουσαλήμ·	image (3x): smooth breathing (apostrophe) on the capital
+isa	oldtestgreek00unknuoft	128	6	πολύν’:	πολύν:	πολύν·	πολύν·	image (3x): ano teleia after πολύν
+isa	oldtestgreek00unknuoft	128	8	πολεμεῖν. +5	πολεμεῖν. +5	πολεμεῖν.	πολεμεῖν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	128	8	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	128	8	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing (apostrophe) on the capital
+isa	oldtestgreek00unknuoft	128	9	φωτὶ	φωτὶ	φωτὶ	φωτὶ	image (3x): grave on φωτὶ before Κυρίου (a name, not a quotation)
+isa	oldtestgreek00unknuoft	128	9	“ἀνῆκεν	“ἀνῆκεν	ἀνῆκεν	ἀνῆκεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	128	10	Ἰσραήλ:	τῷ +Ἰσραήλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing (apostrophe) on the capital
+isa	oldtestgreek00unknuoft	128	12	eyevnOn	ἐγενήθὴ	ἐγενήθη	ἐγενήθη	image (3x): acute on ή only, final η unaccented
+isa	oldtestgreek00unknuoft	128	12	7ἐνεπλήσθη	7ἐνεπλήσθη	ἐνεπλήσθη	ἐνεπλήσθη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	128	12	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	128	13	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	128	14	αὐτῶν"	αὐτῶν"	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	128	14	ϑκαὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	128	15	Τῶν	Τῶν	τῶν	τῶν	image (3x): lowercase τῶν with circumflex
+isa	oldtestgreek00unknuoft	128	16	αὐτῶν"	αὐτῶν"	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	128	16	ϑκαὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	128	17	ἀνησῶ	ἀνήσω	ἀνήσω	ἀνήσω	image (3x): acute on η, ω unaccented: ἀνήσω
+isa	oldtestgreek00unknuoft	128	17	“Kal	το +““καὶ	καὶ	καὶ	image (3x): superscript 10 before καὶ, not text
+isa	oldtestgreek00unknuoft	128	17	viv	νῦν	νῦν	νῦν	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	128	18	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	128	18	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	128	19	τὴν.	τὴν	τὴν	τὴν	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	128	19	“oi	"οἱ	οἱ	οἱ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	128	19	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	128	19	ὀφθαλμοὶ	ὀφθαλμοὶ	ὀφθαλμοὶ	ὀφθαλμοὶ	image (3x): grave on ὀφθαλμοὶ at line end before Κυρίου; margin 11 not text
+isa	oldtestgreek00unknuoft	128	20	τάπειν +ὀς"	τάπειν +ὀς"	ταπεινός·	ταπεινός·	image (3x): ταπεινός· one word, acute on ό, ano teleia
+isa	oldtestgreek00unknuoft	128	22	ἡμέρα	τεἡμέρα	ἡμέρα	ἡμέρα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	128	23	"Ξκαὶ	"Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	128	25	“kal	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	128	25	βουνὸν +τ4	βουνὸν +τ4	βουνὸν	βουνὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	128	26	"Ξκαὶ	""καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	128	26	ὑψηλόν, +15	ὑψηλόν, +15	ὑψηλόν,	ὑψηλόν,	class R3: OCR appended accent-row or margin junk; c read from the image strip

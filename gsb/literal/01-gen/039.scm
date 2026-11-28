@@ -125,7 +125,7 @@
     ("Lord" 19)
     ("blessed" (18 bless "εὐλογέω"))
     ("the house" 20 21)
-    ("of Egyptian" (22 unrendered) (23 name "Αἰγύπτιος"))
+    ("of the Egyptian" 22 (23 name "Αἰγύπτιος"))
     ("through" 24)
     ("Joseph;" 25)
     ("and" 26)

@@ -1,0 +1,58 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	188	1	νεσὲς	νεσὲς	νεσις	νεσις	image (3x): νεσις, end of αἴ-νεσις from leaf 187
+isa	oldtestgreek00unknuoft	188	1	εὐφροσύνη.	εὐφροσύνη.	εὐφροσύνη	εὐφροσύνη	image (3x): no point after the word (or the point stands as written)
+isa	oldtestgreek00unknuoft	188	1	αὐτούς:	αὐτούς:	αὐτούς·	αὐτούς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	188	3	*Kai	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	188	3	ἙἝ +εκίου	ἙἝ +εκίου	Ἑζεκίου	Ἑζεκίου	image (3x): rough breathing on Ε
+isa	oldtestgreek00unknuoft	188	4	Σενναχηρεὶμ.	Σενναχηρεὶμ	Σενναχηρεὶμ	Σενναχηρεὶμ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	188	4	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave on βασιλεὺς before a name, not a quotation
+isa	oldtestgreek00unknuoft	188	4	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	188	4	tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	188	4	‘lovdaias	Ἰουδαίας	Ἰουδαίας	Ἰουδαίας	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	188	5	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	188	5	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave on βασιλεὺς before a name, not a quotation
+isa	oldtestgreek00unknuoft	188	5	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	188	6	Ῥαβσάκην	Ῥαβσάκην	Ῥαβσάκην	Ῥαβσάκην	image (3x): rough breathing on Ρ
+isa	oldtestgreek00unknuoft	188	6	cis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	188	6	Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	188	6	“ζεκίαν	Ἕζεκίαν	Ἑζεκίαν	Ἑζεκίαν	image (3x): rough breathing on Ε
+isa	oldtestgreek00unknuoft	188	7	Ths	τῆς	τῆς	τῆς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	188	7	κολυμβήθρας	κολυμβήθρας.	κολυμβήθρας	κολυμβήθρας	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	188	8	γναφέως,	γναφέως,	γναφέως.	γναφέως.	image (3x): no point after the word (or the point stands as written)
+isa	oldtestgreek00unknuoft	188	8	3xai	3καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	188	8	πρὸς,	πρὸς	πρὸς	πρὸς	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	188	8	αὐὖ-	αὐ-	αὐ-	αὐ-	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	188	9	Ἐλιακεὶμ	Ἐ̓λιακεὶμ	Ἐλιακεὶμ	Ἐλιακεὶμ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	188	9	οἰκονόμος.	οἰκονόμος	οἰκονόμος	οἰκονόμος	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	188	10	‘lady	Ἰωὰχ	Ἰωὰχ	Ἰωὰχ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	188	10	‘Acad	Ἀσὰφ	Ἀσὰφ	Ἀσὰφ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	188	10	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	188	11	Ῥαβσάκης	Ῥαβσάκης	Ῥαβσάκης	Ῥαβσάκης	image (3x): rough breathing on Ρ
+isa	oldtestgreek00unknuoft	188	11	Ἐἴΐἴπατε	Ἐἴπατε	Εἴπατε	Εἴπατε	image (3x): Εἴπατε, smooth+acute on ι
+isa	oldtestgreek00unknuoft	188	11	‘Efexia	Ἑζεκίᾳ	Ἑζεκίᾳ	Ἑζεκίᾳ	image (3x): rough breathing on Ε
+isa	oldtestgreek00unknuoft	188	11	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave on βασιλεὺς before a name, not a quotation
+isa	oldtestgreek00unknuoft	188	12	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	188	12	"μὴ	"μὴ	μὴ	μὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	188	13	νῦν.	νῦν.	νῦν	νῦν	image (3x): no point after the word (or the point stands as written)
+isa	oldtestgreek00unknuoft	188	13	“ἰδοὺ +6	“ἰδοὺ	ἰδοὺ	ἰδοὺ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	188	15	Αἴγυπτον:	Αἴγυπτον:	Αἴγυπτον·	Αἴγυπτον·	image (3x): Αἰ- smooth breathing on ι, not the capital
+isa	oldtestgreek00unknuoft	188	16	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	188	16	ἐστὶν	ἐστὶν	ἐστὶν	ἐστὶν	image (3x): grave on ἐστὶν before Φαραὼ, not a quotation
+isa	oldtestgreek00unknuoft	188	16	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave on βασιλεὺς before a name, not a quotation
+isa	oldtestgreek00unknuoft	188	16	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): Αἰ- smooth breathing on ι, not the capital
+isa	oldtestgreek00unknuoft	188	17	ἐπ	ἐπ᾽	ἐπ᾽	ἐπ᾽	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	188	17	71εἰ	Τ1εὶ	εἰ	εἰ	image (3x): superscript 7 then εἰ
+isa	oldtestgreek00unknuoft	188	17	Oe	δὲ	δὲ	δὲ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	188	17	Ἐπὶ	Ἐπὶ	Ἐπὶ	Ἐπὶ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	188	17	Κύριον	Κύριον.	Κύριον	Κύριον	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	188	17	ἡμῶν +7	ἡμῶν	ἡμῶν	ἡμῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	188	18	*viv	ὅνῦν	νῦν	νῦν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	188	18	κυρίῳ.	κυρίῳ.	κυρίῳ	κυρίῳ	image (3x): no point after the word (or the point stands as written)
+isa	oldtestgreek00unknuoft	188	18	pov	μου +μον	μου	μου	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	188	18	βασιλεῖ.	βασιλεῖ +᾽Α	βασιλεῖ	βασιλεῖ	image (3x): no point after the word (or the point stands as written)
+isa	oldtestgreek00unknuoft	188	18	Ἀσσυρίων, +8	Ἀσσυρίων, +8	Ἀσσυρίων,	Ἀσσυρίων,	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	188	20	αὐτούς.	αὐτούς. +9	αὐτούς.	αὐτούς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	188	20	%xat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	188	20	πρόσωπον.	πρόσωπον.	πρόσωπον	πρόσωπον	image (3x): no point after the word (or the point stands as written)
+isa	oldtestgreek00unknuoft	188	20	τῶν +9	τῶν +9	τῶν	τῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	188	21	Αἴγυπτον,	Αἴγυπτον,	Αἴγυπτον,	Αἴγυπτον,	image (3x): Αἰ- smooth breathing on ι, not the capital

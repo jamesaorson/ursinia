@@ -108,7 +108,7 @@
     ("because" (9 because))
     ("the [things] belonging" 11 12)
     ("of them" 13)
-    ("was" 10)
+    ("were" 10)
     ("many;" 14)
     ("and" 15)
     ("they were not able" 16 (17 be-able "δύναμαι"))

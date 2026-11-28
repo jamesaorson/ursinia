@@ -49,7 +49,7 @@
     ("the name" 4 5)
     ("of his" 8)
     ("son" (6 absorbed) 7)
-    ("of the [one] having come to be" 9 10)
+    ("having come to be" (9 attributive) 10)
     ("to him," 11)
     ("whom" 12)
     ("Sarah" 15)

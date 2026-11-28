@@ -210,7 +210,7 @@
     ("he/she/it built" 25)
     ("there" 26)
     ("altar" 27)
-    ("to the Lord" 28 29)
+    ("to the lord" 28 29)
     ("and" 30)
     ("called upon" (31 call-upon "ἐπικαλέω"))
     ("upon" 32)

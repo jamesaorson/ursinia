@@ -1,0 +1,31 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	198	2	Spaxi;	δρακί;	δρακί;	δρακί;	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	198	2	ris	"τίς	τίς	τίς	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	198	4	4%	ἢ	ἢ	ἢ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	198	4	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	198	5	Sei	"εἰ	εἰ	εἰ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	198	6	ws	ὡς	ὡς	ὡς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	198	7	λογισθήσονται:	λογισθήσονται:	λογισθήσονται·	λογισθήσονται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	198	7	*°6	"ὁ	ὁ	ὁ	image (3x): superscript number then ὁ with rough breathing
+isa	oldtestgreek00unknuoft	198	8	ὁλοκάρπωσιν,	ὁλοκάρπωσιν, +"7	ὁλοκάρπωσιν,	ὁλοκάρπωσιν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	198	8	"Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	198	8	οὐδέν	οὐδέν	οὐδέν	οὐδέν	image (3x): acute on οὐδέν before εἰσι, as printed
+isa	oldtestgreek00unknuoft	198	9	εἶσι	εἶσι	εἰσι	εἰσι	image (4x): smooth breathing only, same mark as on εἰς beside it; no circumflex
+isa	oldtestgreek00unknuoft	198	9	rive	“τίνι	τίνι	τίνι	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	198	10	"μὴ	"μὴ	μὴ	μὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	198	12	“ξύλον	“ξύλον	ξύλον	ξύλον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	198	12	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	198	13	σαλεύηται:	σαλεύηται:	σαλεύηται.	σαλεύηται.	image (3x): period
+isa	oldtestgreek00unknuoft	198	13	“ov	“"οὐ	οὐ	οὐ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	198	15	6	“ὁ	ὁ	ὁ	image (3x): superscript number then ὁ with rough breathing
+isa	oldtestgreek00unknuoft	198	17	36	“3ὁ	ὁ	ὁ	image (3x): superscript number then ὁ with rough breathing
+isa	oldtestgreek00unknuoft	198	18	ἐποίησεν.	ἐποίησεν. +:4	ἐποίησεν.	ἐποίησεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	198	19	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	198	20	σὰν,	θησαν,	θησαν,	θησαν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	198	20	*Sviv	“νῦν	νῦν	νῦν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	198	21	μὲ	μὲ	με	με	image (3x): μὲ has no accent, line-initial με
+isa	oldtestgreek00unknuoft	198	21	““ἀναβλέψατε	“ὁἀναβλέψατε	ἀναβλέψατε	ἀναβλέψατε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	198	22	ἴδετε"	ἴδετε"	ἴδετε·	ἴδετε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	198	23	én’:	ἐπ᾽"	ἐπ᾽	ἐπ᾽	image (3x): ἐπ᾽ with elision; the faint raised dot after it is a speck, not an ano teleia
+isa	oldtestgreek00unknuoft	198	23	ὃνό-	ὃνό-	ὀνό-	ὀνό-	image (3x): smooth breathing on ὀ, acute on ό
+isa	oldtestgreek00unknuoft	198	23	-	-	ἐπ᾽	ἐπ᾽	ambiguous: faint raised dot between ἐπ᾽ and ὀνό-; lighter than real points, read as speck

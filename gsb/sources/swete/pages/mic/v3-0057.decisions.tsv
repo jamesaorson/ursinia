@@ -1,47 +1,48 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 mic	oldtestgreek00unknuoft	57	1	πολεμεῖν:	πολεμεῖν:	πολεμεῖν·	πολεμεῖν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-mic	oldtestgreek00unknuoft	57	1	“καὶ	4 +ἐκαὶ	καὶ	καὶ	TODO zoom: A R1, B OPEN
+mic	oldtestgreek00unknuoft	57	1	“καὶ	4 +ἐκαὶ	καὶ	καὶ	image (3x): superscript 4 then καὶ
 mic	oldtestgreek00unknuoft	57	1	Kal	καὶ +Β	καὶ	καὶ	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
-mic	oldtestgreek00unknuoft	57	3	∅	∅	στόμα	στόμα	TODO zoom: no OCR reading at all
+mic	oldtestgreek00unknuoft	57	3	∅	∅	στόμα	στόμα	image (3x): στόμα, first word after margin 5
 mic	oldtestgreek00unknuoft	57	3	ταῦτα᾽	ταῦτα᾽	ταῦτα·	ταῦτα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 mic	oldtestgreek00unknuoft	57	3	"ὅτι	"ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 mic	oldtestgreek00unknuoft	57	5	“ἐν	“ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-mic	oldtestgreek00unknuoft	57	7	ods	οὺς	οὓς	οὓς	TODO zoom: A R5, B DROP
+mic	oldtestgreek00unknuoft	57	7	ods	οὺς	οὓς	οὓς	image (3x): rough + grave (closed) on οὓς
 mic	oldtestgreek00unknuoft	57	7	ἀπωσάμην"	ἀπωσάμην"	ἀπωσάμην·	ἀπωσάμην·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 mic	oldtestgreek00unknuoft	57	7	7Kal	17καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 mic	oldtestgreek00unknuoft	57	9	viv	νῦν	νῦν	νῦν	class R5: Latin-letter substitution in OCR; c read from the image strip
 mic	oldtestgreek00unknuoft	57	9	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
 mic	oldtestgreek00unknuoft	57	10	ϑκαὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-mic	oldtestgreek00unknuoft	57	11	ἡ	ἣ	ἡ	ἡ	TODO zoom: A same, B DIA
-mic	oldtestgreek00unknuoft	57	11	θυγατρὶ	θυγατρὶ	θυγατρὶ	θυγατρὶ	TODO zoom: acute or grave before a capitalized word
-mic	oldtestgreek00unknuoft	57	12	Ἱερουσαλήμ.	Ἱερουσαλήμ. +9	Ἰερουσαλήμ.	Ἰερουσαλήμ.	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B DIA
+mic	oldtestgreek00unknuoft	57	11	ἡ	ἣ	ἡ	ἡ	image (3x): ἡ, rough breathing only
+mic	oldtestgreek00unknuoft	57	11	θυγατρὶ	θυγατρὶ	θυγατρὶ	θυγατρὶ	image (3x): grave before a name, not a quotation
+mic	oldtestgreek00unknuoft	57	12	Ἱερουσαλήμ.	Ἱερουσαλήμ. +9	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing
 mic	oldtestgreek00unknuoft	57	12	9Kal	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
-mic	oldtestgreek00unknuoft	57	13	βουλή	βουλή	βουλή	βουλή	TODO zoom: accent before an enclitic
-mic	oldtestgreek00unknuoft	57	13	κατεκράτησάν	κατεκράτησάν	κατεκράτησάν	κατεκράτησάν	TODO zoom: accent before an enclitic
-mic	oldtestgreek00unknuoft	57	14	ons;	σῆς;	σης;	σης;	TODO zoom: A R5, B DIA
-mic	oldtestgreek00unknuoft	57	14	adie	᾿᾿ὦὥδινε	ὤδινε	ὤδινε	TODO zoom: A R5, B OPEN
+mic	oldtestgreek00unknuoft	57	13	βουλή	βουλή	βουλή	βουλή	image (3x): acute before the enclitic
+mic	oldtestgreek00unknuoft	57	13	κατεκράτησάν	κατεκράτησάν	κατεκράτησάν	κατεκράτησάν	image (3x): acute before the enclitic
+mic	oldtestgreek00unknuoft	57	14	ons;	σῆς;	σης;	σης;	image (3x): σης; no accent (end of hyphenated τικτού-σης)
+mic	oldtestgreek00unknuoft	57	14	adie	᾿᾿ὦὥδινε	ὤδινε	ὤδινε	image (3x): smooth + acute on ὤ (apostrophe then rising stroke)
 mic	oldtestgreek00unknuoft	57	14	τίκτουσα"	τίκτουσα"	τίκτουσα·	τίκτουσα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-mic	oldtestgreek00unknuoft	57	15	ὃ +ire	ότι	διότι	διότι	TODO zoom: A OPEN, B OPEN
-mic	oldtestgreek00unknuoft	57	15	πόλεως, +q	πόλεως;	πόλεως,	πόλεως,	TODO zoom: A R3, B OPEN
+mic	oldtestgreek00unknuoft	57	15	ὃ +ire	ότι	διότι	διότι	image (3x): διότι
+mic	oldtestgreek00unknuoft	57	15	πόλεως, +q	πόλεως;	πόλεως,	πόλεως,	ambiguous: comma followed by a faint raised tick (stray mark); read comma
 mic	oldtestgreek00unknuoft	57	16	Βαβυλῶνος"	Βαβυλῶνος"	Βαβυλῶνος·	Βαβυλῶνος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-mic	oldtestgreek00unknuoft	57	16	ῥύσεταί	ῥύσεταί	ῥύσεταί	ῥύσεταί	TODO zoom: accent before an enclitic
-mic	oldtestgreek00unknuoft	57	16	θεός	θεός	θεός	θεός	TODO zoom: accent before an enclitic
+mic	oldtestgreek00unknuoft	57	16	ῥύσεταί	ῥύσεταί	ῥύσεταί	ῥύσεταί	image (3x): acute before the enclitic
+mic	oldtestgreek00unknuoft	57	16	θεός	θεός	θεός	θεός	image (3x): acute before the enclitic
 mic	oldtestgreek00unknuoft	57	17	cov.	σου.	σου.	σου.	class R5: Latin-letter substitution in OCR; c read from the image strip
 mic	oldtestgreek00unknuoft	57	17	“kal	“᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 mic	oldtestgreek00unknuoft	57	17	viv	νῦν	νῦν	νῦν	class R5: Latin-letter substitution in OCR; c read from the image strip
-mic	oldtestgreek00unknuoft	57	18	Ἐπιχαρούμεθα,	Ἐπιχαρούμεθα,	Ἐπιχαρούμεθα,	Ἐπιχαρούμεθα,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+mic	oldtestgreek00unknuoft	57	18	Ἐπιχαρούμεθα,	Ἐπιχαρούμεθα,	Ἐπιχαρούμεθα,	Ἐπιχαρούμεθα,	image (3x): smooth breathing
 mic	oldtestgreek00unknuoft	57	18	“adroit	"“αὐτοὶ	αὐτοὶ	αὐτοὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
-mic	oldtestgreek00unknuoft	57	19	λογισμὸν	λογισμὸν	λογισμὸν	λογισμὸν	TODO zoom: acute or grave before a capitalized word
+mic	oldtestgreek00unknuoft	57	19	λογισμὸν	λογισμὸν	λογισμὸν	λογισμὸν	image (3x): grave before a name, not a quotation
 mic	oldtestgreek00unknuoft	57	20	"Ξἀνάστηθι	"Ξἀνάστηθι	ἀνάστηθι	ἀνάστηθι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-mic	oldtestgreek00unknuoft	57	21	κέρατά	κέρατά	κέρατά	κέρατά	TODO zoom: accent before an enclitic
-mic	oldtestgreek00unknuoft	57	22	ὁπλάς	ὁπλάς	ὁπλάς	ὁπλάς	TODO zoom: accent before an enclitic
+mic	oldtestgreek00unknuoft	57	21	κέρατά	κέρατά	κέρατά	κέρατά	image (3x): acute before the enclitic
+mic	oldtestgreek00unknuoft	57	22	ὁπλάς	ὁπλάς	ὁπλάς	ὁπλάς	image (3x): acute before the enclitic
 mic	oldtestgreek00unknuoft	57	22	χαλκᾶς"	χαλκᾶς"	χαλκᾶς·	χαλκᾶς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 mic	oldtestgreek00unknuoft	57	23	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 mic	oldtestgreek00unknuoft	57	23	κυρίῳ +x	κυρίῳ +τ	κυρίῳ	κυρίῳ	class R3: OCR appended accent-row or margin junk; c read from the image strip
-mic	oldtestgreek00unknuoft	57	24	‘viv	Σ +"νῦν	νῦν	νῦν	TODO zoom: A R5, B OPEN
+mic	oldtestgreek00unknuoft	57	24	‘viv	Σ +"νῦν	νῦν	νῦν	image (3x): superscript 1 then νῦν
 mic	oldtestgreek00unknuoft	57	24	ἐμφραχθήσεται	ἐμφραχθήσεται +θ	ἐμφραχθήσεται	ἐμφραχθήσεται	class R3: OCR appended accent-row or margin junk; c read from the image strip
-mic	oldtestgreek00unknuoft	57	25	ἔτᾳξεν	ἔταξεν	ἔταξεν	ἔταξεν	TODO zoom: A DIA, B same
-mic	oldtestgreek00unknuoft	57	26	Ἰσραήλ. +(1) 2	Ἰσραήλ. +(Ὁ) 2.	Ἰσραήλ.	Ἰσραήλ.	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-mic	oldtestgreek00unknuoft	57	27	σύ,	σύ,	σύ,	σύ,	TODO zoom: acute or grave before a capitalized word
-mic	oldtestgreek00unknuoft	57	27	Ἐφράθα,	᾿φράθα,	Ἐφράθα,	Ἐφράθα,	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A same, B OPEN
-mic	oldtestgreek00unknuoft	57	28	Ἰούδα:	Ἰούδα:	Ἰούδα·	Ἰούδα·	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+mic	oldtestgreek00unknuoft	57	25	ἔτᾳξεν	ἔταξεν	ἔταξεν	ἔταξεν	ambiguous: speck under α, not an iota subscript (as under ταῦτα line 3); read ἔταξεν
+mic	oldtestgreek00unknuoft	57	26	Ἰσραήλ. +(1) 2	Ἰσραήλ. +(Ὁ) 2.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing
+mic	oldtestgreek00unknuoft	57	27	σύ,	σύ,	σύ,	σύ,	image (3x): acute on σύ before Βηθλέεμ (vocative, comma follows)
+mic	oldtestgreek00unknuoft	57	27	Ἐφράθα,	᾿φράθα,	Ἐφράθα,	Ἐφράθα,	image (3x): smooth breathing
+mic	oldtestgreek00unknuoft	57	28	Ἰούδα:	Ἰούδα:	Ἰούδα·	Ἰούδα·	image (3x): smooth breathing
+mic	oldtestgreek00unknuoft	57	27	-	-	Καὶ	Καὶ	ambiguous numbering: margin prints (1) 2 with no parenthesized Roman numeral; read as Hebrew 5:1 since the (14) at Swete 5:1 is Hebrew 4:14; encoded {=5:1}

@@ -235,7 +235,7 @@
     ("said" 2)
     ("to me" 3)
     ("according to" 8)
-    ("sleep" (9 sleep "ὕπνος"))
+    ("sleep," (9 sleep "ὕπνος"))
     ("Jacob" 10)
     ("Jacob." 11)
     ("But" 13)

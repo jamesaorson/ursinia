@@ -173,6 +173,18 @@
 (expect "readable segment \"Adam was\" says \"Adam\"" '(status draft) good-literal
         '(readable ("Adam was" 1 2) ("in the beginning with God." 3 4 5 6 7)))
 (expect-ok '(status draft) good-literal '(readable "This name was in the beginning with God."))
+;; 2a. A name spelled like an ordinary gloss word (Ὤν "On", ἐπί "on") is that
+;; word when it opens the segment ("On" as a case helper), a name elsewhere.
+(let ((g (parse-glosses (append gloss-forms
+                                '((lemma "Ὤν" (sense name (gloss "On") (why "w")))
+                                  (lemma "ἐπί" (sense on (gloss "on") (why "w"))))))))
+  (call-with-values
+      (lambda () (check '((status draft) (literal ("This" 1) ("[one]") ("was" 2) ("in" 3) ("On beginning" 4) ("with" 5) ("God." (6 unrendered) 7)) (readable "x")) g))
+    (lambda (e w) (unless (null? e) (fail "FAIL a segment opening with an ordinary word spelled like a name: ~s~%" e))))
+  (call-with-values
+      (lambda () (check '((status draft) (literal ("This" 1) ("[one]") ("was" 2) ("in" 3) ("beginning On" 4) ("with" 5) ("God." (6 unrendered) 7)) (readable "x")) g))
+    (lambda (e w) (unless (any (lambda (m) (string-contains m "says \"On\"")) e)
+                    (fail "FAIL a name not at a segment's start not reported: ~s~%" e)))))
 ;; 3. A plain readable layer: more names than the literal; a lost demonstrative.
 (expect "readable layer says \"God\" 2 times, the literal layer 1" '(status draft) good-literal
         '(readable "This one was in the beginning with God, God."))

@@ -2,14 +2,14 @@ book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 mic	oldtestgreek00unknuoft	60	1	μου.	μου. +ἴδ	μου.	μου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
 mic	oldtestgreek00unknuoft	60	1	“Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 mic	oldtestgreek00unknuoft	60	1	τὰ +τό	τὰ +τό	τὰ	τὰ	class R3: OCR appended accent-row or margin junk; c read from the image strip
-mic	oldtestgreek00unknuoft	60	2	Ἀχαάβ,	Ἀχαάβ,	Ἀχαάβ,	Ἀχαάβ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-mic	oldtestgreek00unknuoft	60	5	Οἴμοι	τρἴμοι	Οἴμοι	Οἴμοι	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A same, B OPEN
+mic	oldtestgreek00unknuoft	60	2	Ἀχαάβ,	Ἀχαάβ,	Ἀχαάβ,	Ἀχαάβ,	image (3x): smooth breathing on the capital
+mic	oldtestgreek00unknuoft	60	5	Οἴμοι	τρἴμοι	Οἴμοι	Οἴμοι	image (3x): Οἴ, smooth breathing and acute on ι
 mic	oldtestgreek00unknuoft	60	5	ἐπι- +x	ἐπι- +τ	ἐπι-	ἐπι-	class R3: OCR appended accent-row or margin junk; c read from the image strip
 mic	oldtestgreek00unknuoft	60	7	réyova.	τόγονα.	τόγονα.	τόγονα.	class R5: Latin-letter substitution in OCR; c read from the image strip
 mic	oldtestgreek00unknuoft	60	7	"ὅτι	“ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 mic	oldtestgreek00unknuoft	60	7	καὶ	καὶ +2	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
-mic	oldtestgreek00unknuoft	60	8	ὑπάρχει":	ὑπάρχει:	ὑπάρχει·	ὑπάρχει·	TODO zoom: A OPEN, B R2
-mic	oldtestgreek00unknuoft	60	9	πλησίοιλ	πλησίοιλ	πλησίον	πλησίον	TODO zoom: A OPEN, B OPEN
+mic	oldtestgreek00unknuoft	60	8	ὑπάρχει":	ὑπάρχει:	ὑπάρχει·	ὑπάρχει·	image (3x): raised point, ano teleia
+mic	oldtestgreek00unknuoft	60	9	πλησίοιλ	πλησίοιλ	πλησίον	πλησίον	image (3x): πλησίον; an ink blot touches the final ν
 mic	oldtestgreek00unknuoft	60	9	3ἐπὶ	3ἐπὶ	ἐπὶ	ἐπὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 mic	oldtestgreek00unknuoft	60	9	τὰς +3	τὰς +3	τὰς	τὰς	class R3: OCR appended accent-row or margin junk; c read from the image strip
 mic	oldtestgreek00unknuoft	60	10	ἑτοιμάζουσιν:	ἑτοιμάζουσιν:	ἑτοιμάζουσιν·	ἑτοιμάζουσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
@@ -17,46 +17,47 @@ mic	oldtestgreek00unknuoft	60	12	tas	“ὡς	ὡς	ὡς	class R5+R1: Latin-let
 mic	oldtestgreek00unknuoft	60	12	ons	σὴς	σὴς	σὴς	class R5: Latin-letter substitution in OCR; c read from the image strip
 mic	oldtestgreek00unknuoft	60	12	ἡμέρᾳ	ἡμέρᾳ +4	ἡμέρᾳ	ἡμέρᾳ	class R3: OCR appended accent-row or margin junk; c read from the image strip
 mic	oldtestgreek00unknuoft	60	14	Spa)	ὅμὴ	μὴ	μὴ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
-mic	oldtestgreek00unknuoft	60	14	καταπιστεύετε.	καταπιστεύετε.	καταπιστεύετε	καταπιστεύετε	TODO zoom: A OPEN, B OPEN
+mic	oldtestgreek00unknuoft	60	14	καταπιστεύετε.	καταπιστεύετε.	καταπιστεύετε	καταπιστεύετε	image (3x): no point after the word
 mic	oldtestgreek00unknuoft	60	14	ἡγου-	ἡγου- +5	ἡγου-	ἡγου-	class R3: OCR appended accent-row or margin junk; c read from the image strip
 mic	oldtestgreek00unknuoft	60	15	cov	σου	σου	σου	class R5: Latin-letter substitution in OCR; c read from the image strip
-mic	oldtestgreek00unknuoft	60	15	ἀναθέσθαι.	ἀναθέσθαι.	ἀναθέσθαι	ἀναθέσθαι	TODO zoom: A OPEN, B OPEN
+mic	oldtestgreek00unknuoft	60	15	ἀναθέσθαι.	ἀναθέσθαι.	ἀναθέσθαι	ἀναθέσθαι	image (3x): no point after the word
 mic	oldtestgreek00unknuoft	60	15	αὐτῇ"	αὐτῇ"	αὐτῇ·	αὐτῇ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 mic	oldtestgreek00unknuoft	60	16	ὁδιότι	ὁδιότι	διότι	διότι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 mic	oldtestgreek00unknuoft	60	16	μη- +6	μη- +6	μη-	μη-	class R3: OCR appended accent-row or margin junk; c read from the image strip
 mic	oldtestgreek00unknuoft	60	18	αὐτοῦ. +7᾽	αὐτοῦ. +7᾽	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
-mic	oldtestgreek00unknuoft	60	18	Ἐγὼ	Ἐγὼ	Ἐγὼ	Ἐγὼ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+mic	oldtestgreek00unknuoft	60	18	Ἐγὼ	Ἐγὼ	Ἐγὼ	Ἐγὼ	image (3x): smooth breathing on the capital
 mic	oldtestgreek00unknuoft	60	18	ἐπιβλέψομαι, +7	ἐπιβλέψομαι, +7	ἐπιβλέψομαι,	ἐπιβλέψομαι,	class R3: OCR appended accent-row or margin junk; c read from the image strip
 mic	oldtestgreek00unknuoft	60	19	TH	τῷ	τῷ	τῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
-mic	oldtestgreek00unknuoft	60	19	σωτῆρί	σωτῆρί	σωτῆρί	σωτῆρί	TODO zoom: accent before an enclitic
+mic	oldtestgreek00unknuoft	60	19	σωτῆρί	σωτῆρί	σωτῆρί	σωτῆρί	image (3x): acute as printed before enclitic
 mic	oldtestgreek00unknuoft	60	19	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
-mic	oldtestgreek00unknuoft	60	19	εἰσακούσεταί	εἰσακούσεταί	εἰσακούσεταί	εἰσακούσεταί	TODO zoom: accent before an enclitic
-mic	oldtestgreek00unknuoft	60	19	θεός	θεός	θεός	θεός	TODO zoom: accent before an enclitic
+mic	oldtestgreek00unknuoft	60	19	εἰσακούσεταί	εἰσακούσεταί	εἰσακούσεταί	εἰσακούσεταί	image (3x): acute as printed before enclitic
+mic	oldtestgreek00unknuoft	60	19	θεός	θεός	θεός	θεός	image (3x): acute as printed before enclitic
 mic	oldtestgreek00unknuoft	60	19	pov.	μου.	μου.	μου.	class R5: Latin-letter substitution in OCR; c read from the image strip
 mic	oldtestgreek00unknuoft	60	20	μὴ	δμὴ	μὴ	μὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-mic	oldtestgreek00unknuoft	60	20	ἐπίχαιρέ	ἐπίχαιρέ	ἐπίχαιρέ	ἐπίχαιρέ	TODO zoom: accent before an enclitic
-mic	oldtestgreek00unknuoft	60	20	ἐχθρά	ἐχθρά	ἐχθρά	ἐχθρά	TODO zoom: accent before an enclitic
-mic	oldtestgreek00unknuoft	60	20	ἀναστήσομαι	ἀναστήσομαι	ἀναστήσομαι·	ἀναστήσομαι·	TODO zoom: A OPEN, B OPEN
+mic	oldtestgreek00unknuoft	60	20	ἐπίχαιρέ	ἐπίχαιρέ	ἐπίχαιρέ	ἐπίχαιρέ	image (3x): acute as printed before enclitic
+mic	oldtestgreek00unknuoft	60	20	ἐχθρά	ἐχθρά	ἐχθρά	ἐχθρά	image (3x): acute as printed before enclitic
+mic	oldtestgreek00unknuoft	60	20	ἀναστήσομαι	ἀναστήσομαι	ἀναστήσομαι·	ἀναστήσομαι·	image (3x): raised point, ano teleia
 mic	oldtestgreek00unknuoft	60	20	διότι +8	διότι +8	διότι	διότι	class R3: OCR appended accent-row or margin junk; c read from the image strip
 mic	oldtestgreek00unknuoft	60	21	σκότει, +,	σκότει,	σκότει,	σκότει,	class R3: OCR appended accent-row or margin junk; c read from the image strip
-mic	oldtestgreek00unknuoft	60	21	%dpynv	ὀργὴν	ὀργὴν	ὀργὴν	TODO zoom: acute or grave before a capitalized word
-mic	oldtestgreek00unknuoft	60	21	ὑποίσ +9	ὑποίσω +9	ὑποίσω	ὑποίσω	TODO zoom: A OPEN, B R3
+mic	oldtestgreek00unknuoft	60	21	%dpynv	ὀργὴν	ὀργὴν	ὀργὴν	image (3x): grave before capitalized Κυρίου
+mic	oldtestgreek00unknuoft	60	21	ὑποίσ +9	ὑποίσω +9	ὑποίσω	ὑποίσω	image (3x): margin/verse number junk; word as in page
 mic	oldtestgreek00unknuoft	60	22	μου"	μου"	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-mic	oldtestgreek00unknuoft	60	23	noe	ἤσει	ήσει	ήσει	TODO zoom: A R5, B DIA
-mic	oldtestgreek00unknuoft	60	24	αὐτοῦ:	αὐτοῦ":	αὐτοῦ·	αὐτοῦ·	TODO zoom: A R2, B OPEN
-mic	oldtestgreek00unknuoft	60	24	"καὶ	τ +ὰο "καὶ	καὶ	καὶ	TODO zoom: A R1, B OPEN
-mic	oldtestgreek00unknuoft	60	24	ἐχθρά	ἐχθρά	ἐχθρά	ἐχθρά	TODO zoom: accent before an enclitic
+mic	oldtestgreek00unknuoft	60	23	noe	ἤσει	ήσει	ήσει	image (3x): ήσει, acute only (hyphenated ποι-ήσει)
+mic	oldtestgreek00unknuoft	60	24	αὐτοῦ:	αὐτοῦ":	αὐτοῦ·	αὐτοῦ·	image (3x): raised point, ano teleia
+mic	oldtestgreek00unknuoft	60	24	"καὶ	τ +ὰο "καὶ	καὶ	καὶ	image (3x): margin/verse number junk; word as in page
+mic	oldtestgreek00unknuoft	60	24	ἐχθρά	ἐχθρά	ἐχθρά	ἐχθρά	image (3x): acute as printed before enclitic
 mic	oldtestgreek00unknuoft	60	24	αἰσχύνην, +10	αἰσχύνην, +τὸ	αἰσχύνην,	αἰσχύνην,	class R3: OCR appended accent-row or margin junk; c read from the image strip
-mic	oldtestgreek00unknuoft	60	25	μέ	μέ	μέ	μέ	TODO zoom: acute or grave before a capitalized word
-mic	oldtestgreek00unknuoft	60	25	Beds	θεός	θεός	θεός	TODO zoom: accent before an enclitic
-mic	oldtestgreek00unknuoft	60	25	ὀφθαλμοί	ὀφθαλμοί	ὀφθαλμοί	ὀφθαλμοί	TODO zoom: accent before an enclitic
+mic	oldtestgreek00unknuoft	60	25	μέ	μέ	μέ	μέ	image (3x): μέ acute before capitalized Ποῦ
+mic	oldtestgreek00unknuoft	60	25	Beds	θεός	θεός	θεός	image (3x): acute as printed before enclitic
+mic	oldtestgreek00unknuoft	60	25	ὀφθαλμοί	ὀφθαλμοί	ὀφθαλμοί	ὀφθαλμοί	image (3x): acute as printed before enclitic
 mic	oldtestgreek00unknuoft	60	25	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
-mic	oldtestgreek00unknuoft	60	26	Wovra	Ψψονται	ψονται	ψονται	TODO zoom: A R5, B OPEN
+mic	oldtestgreek00unknuoft	60	26	Wovra	Ψψονται	ψονται	ψονται	image (3x): margin/verse number junk; word as in page
 mic	oldtestgreek00unknuoft	60	26	ὁδοῖς. +τι	ὁδοῖς. +τι	ὁδοῖς.	ὁδοῖς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
-mic	oldtestgreek00unknuoft	60	27	πλίνθοι,,	πλίνθον,	πλίνθου,	πλίνθου,	TODO zoom: A OPEN, B OPEN
-mic	oldtestgreek00unknuoft	60	27	ἐξάλειψίς	ἐξάλειψίς	ἐξάλειψίς	ἐξάλειψίς	TODO zoom: accent before an enclitic
+mic	oldtestgreek00unknuoft	60	27	πλίνθοι,,	πλίνθον,	πλίνθου,	πλίνθου,	image (3x): πλίνθου, υ slightly broken
+mic	oldtestgreek00unknuoft	60	27	ἐξάλειψίς	ἐξάλειψίς	ἐξάλειψίς	ἐξάλειψίς	image (3x): acute as printed before enclitic
 mic	oldtestgreek00unknuoft	60	27	ἀπο- +τι	ἀπο- +τι	ἀπο-	ἀπο-	class R3: OCR appended accent-row or margin junk; c read from the image strip
-mic	oldtestgreek00unknuoft	60	28	νόμιμά	νόμιμά	νόμιμά	νόμιμά	TODO zoom: accent before an enclitic
+mic	oldtestgreek00unknuoft	60	28	νόμιμά	νόμιμά	νόμιμά	νόμιμά	image (3x): acute as printed before enclitic
 mic	oldtestgreek00unknuoft	60	28	ἐκείνη:	ἐκείνη:	ἐκείνη·	ἐκείνη·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 mic	oldtestgreek00unknuoft	60	28	“Kat	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
-mic	oldtestgreek00unknuoft	60	28	εἴξουσιν +12	εἴξουσιν +τ΄	εἵξουσιν	εἴξουσιν	TODO zoom: A DIA, B DIA
+mic	oldtestgreek00unknuoft	60	28	εἴξουσιν +12	εἴξουσιν +τ΄	εἵξουσιν	εἴξουσιν	image (3x): εἴ smooth + acute (open two-part mark)
+mic	oldtestgreek00unknuoft	60	9	-	-	πλησίον	πλησίον	ambiguous: ink blot or broken type on the final ν; read πλησίον

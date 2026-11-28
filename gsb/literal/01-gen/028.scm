@@ -176,7 +176,7 @@
     ("are" 6)
     ("in front of" 10)
     ("Isaac" 11)
-    ("of his" 14)
+    ("his" 14)
     ("father," (12 absorbed) 13)))
 
 (verse 9

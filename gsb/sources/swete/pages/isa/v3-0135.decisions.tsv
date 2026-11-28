@@ -1,0 +1,46 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	135	1	πό- +Β	πό-	πό-	πό-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	135	2	3καὶ	53καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	135	3	ἽΑγιος	ἽΑγιος	Ἅγιος	Ἅγιος	image (3x): rough+acute (open curl then rising stroke) before Α: Ἅγιος
+isa	oldtestgreek00unknuoft	135	4	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	135	5	'καπνοῦ.	'καπνοῦ.	καπνοῦ.	καπνοῦ.	image (3x): no extra mark; word as in reading C
+isa	oldtestgreek00unknuoft	135	5	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	135	5	*Q	Ὠ̓͂	Ὦ	Ὦ	image (3x): smooth breathing + circumflex before Ω: Ὦ
+isa	oldtestgreek00unknuoft	135	6	ὧν	ὧν	ὢν	ὢν	image (6x): apostrophe then stroke falling right (smooth+grave), not the closed rough mark of ἓν: ὢν
+isa	oldtestgreek00unknuoft	135	6	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	135	8	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	135	9	ἕν	ἕν	ἓν	ἓν	image (3x): closed d-shaped mark (rough+grave): ἓν
+isa	oldtestgreek00unknuoft	135	10	‘Kai	Τκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	135	10	στόματός	στόματός	στόματός	στόματός	image (3x): accent as printed before enclitic
+isa	oldtestgreek00unknuoft	135	10	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	135	10	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	135	10	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	135	12	περικαθαριεῖ. +ὃ	περικαθαριεῖ. +ὃ	περικαθαριεῖ.	περικαθαριεῖ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	135	13	Tis	τίς	τίς	τίς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	135	13	εἶπα	εἶπα +Ε	εἶπα	εἶπα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	135	14	Ἰδού	Ἰδού	Ἰδού	Ἰδού	image (3x): accent as printed before enclitic
+isa	oldtestgreek00unknuoft	135	14	ἐγώ:	ἐγώ:	ἐγώ·	ἐγώ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	135	14	ἀπόστειλόν	ἀπόστειλόν	ἀπόστειλόν	ἀπόστειλόν	image (3x): accent as printed before enclitic
+isa	oldtestgreek00unknuoft	135	14	ϑκαὶ	σ +ϑκαὶ	καὶ	καὶ	image (3x): καὶ; OCR fused superscript verse number
+isa	oldtestgreek00unknuoft	135	15	Ἀκοῇ	Ἀκοῇ	Ἀκοῇ	Ἀκοῇ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	135	16	“ἐπαχύνθη	“ἐπαχύνθη	ἐπαχύνθη	ἐπαχύνθη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	135	16	γὰρ.	γὰρ.	γὰρ	γὰρ	image (3x): no extra mark; word as in reading C
+isa	oldtestgreek00unknuoft	135	17	ἤκουσαν	ἤκουσαν.	ἤκουσαν	ἤκουσαν	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	135	18	μή	μή	μή	μή	image (3x): accent as printed before enclitic
+isa	oldtestgreek00unknuoft	135	19	Oia	δίᾳ	δίᾳ	δίᾳ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	135	19	- +“καὶ	- +Ιτ "καὶ	καὶ	καὶ	image (3x): καὶ; OCR fused superscript verse number
+isa	oldtestgreek00unknuoft	135	19	εἶπα	εἶπα +“	εἶπα	εἶπα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	135	19	Ἕως	Ἕως	Ἕως	Ἕως	image (3x): rough+acute before Ε: Ἕως
+isa	oldtestgreek00unknuoft	135	20	more,	πότε,	πότε,	πότε,	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	135	20	Ἕως	Ἕως	Ἕως	Ἕως	image (3x): rough+acute before Ε: Ἕως
+isa	oldtestgreek00unknuoft	135	20	ἐρημωθῶσιν	ἐρημωθῶσιν.	ἐρημωθῶσιν	ἐρημωθῶσιν	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	135	21	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	135	21	Kara-	κατα-	κατα-	κατα-	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	135	22	λειῤφθήσεται	λειφθήσεται	λειφθήσεται	λειφθήσεται	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	135	22	“Kai	τὸ +““καὶ	καὶ	καὶ	image (3x): καὶ; OCR fused superscript verse number
+isa	oldtestgreek00unknuoft	135	23	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	135	23	SKal	""καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	135	26	‘Kal	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	135	26	Ἀχὰζ	Ἀχὰζ	Ἀχὰζ	Ἀχὰζ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	135	26	Ἰωαθὰμ.	Ἰφαθὰμ.	Ἰωαθὰμ	Ἰωαθὰμ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	135	26	Ὀζείου	Ὀζείου	Ὀζείου	Ὀζείου	image (3x): smooth breathing on the capital

@@ -1,0 +1,46 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+zech	oldtestgreek00unknuoft	116	1	καὶ	ἑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	116	1	τῶν +4	τῶν +4	τῶν	τῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	116	2	Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on the capital I; punctuation as written
+zech	oldtestgreek00unknuoft	116	2	ἀνατολῶν:	ἀνατολῶν":	ἀνατολῶν·	ἀνατολῶν·	image (3x): ano teleia
+zech	oldtestgreek00unknuoft	116	4	σφόδρα:	σφόδρα:	σφόδρα·	σφόδρα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	116	4	τὸ.	τὸ.	τὸ	τὸ	image (3x): speck after τὸ at line end, not a period
+zech	oldtestgreek00unknuoft	116	5	νότον"	νότον"	νότον·	νότον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	116	5	ϑκαὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	116	5	καὶ +5	καὶ +5	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	116	6	Ἰασόδ,	Ἰασόδ,	Ἰασόδ,	Ἰασόδ,	image (3x): smooth breathing on the capital I; punctuation as written
+zech	oldtestgreek00unknuoft	116	7	ἡμέραις	ἡμέραις +᾽	ἡμέραις	ἡμέραις	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	116	7	Ὀζείου	Ὀζείου	Ὀζείου	Ὀζείου	image (3x): smooth breathing on Ὀζείου
+zech	oldtestgreek00unknuoft	116	8	Ἰούδα:	Ἰούδα:	Ἰούδα·	Ἰούδα·	image (3x): smooth breathing on the capital I; punctuation as written
+zech	oldtestgreek00unknuoft	116	8	θεός	θεός	θεός	θεός	image (3x): acute on θεός before enclitic μου
+zech	oldtestgreek00unknuoft	116	8	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	116	8	αὐτοῦ. +᾿	᾽ +αὐτοῦ." 6	αὐτοῦ.	αὐτοῦ.	image (3x): αὐτοῦ. period; margin mark is not text
+zech	oldtestgreek00unknuoft	116	9	πάγος"	πάγος"	πάγος·	πάγος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	116	10	Τἔσται	6 +Τέσται	ἔσται	ἔσται	image (3x): superscript verse number fused in OCR; margin number not text
+zech	oldtestgreek00unknuoft	116	10	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	116	10	καὶ	καὶ +7	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	116	11	ὅκαὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	116	11	τῇ	τῇ +ὃ	τῇ	τῇ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	116	12	᾿ἱερουσαλήμ,	᾿ἱερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing on the capital I; punctuation as written
+zech	oldtestgreek00unknuoft	116	14	οὕτως. +59	οὕτως. +9	οὕτως.	οὕτως.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	116	14	καὶ +9	καὶ +9	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	116	15	γῆν:	γῆν"	γῆν·	γῆν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	116	16	"᾿κυκλῶν	1το +"κυκλῶν.	κυκλῶν	κυκλῶν	image (3x): superscript verse number fused in OCR; margin number not text
+zech	oldtestgreek00unknuoft	116	16	γῆν +τὸ	γῆν +τὸ	γῆν	γῆν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	116	17	Τάβε	Τάβε	Γάβε	Γάβε	image (3x): Γ, not Τ: Γάβε
+zech	oldtestgreek00unknuoft	116	17	ἕως	ἕως +«	ἕως	ἕως	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	116	17	Ῥεμμὼν	Ῥεμμὼν	Ῥεμμὼν	Ῥεμμὼν	image (3x): rough breathing on capital Ρ
+zech	oldtestgreek00unknuoft	116	17	νότον	νότον +ΕΣ	νότον	νότον	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	116	17	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing on the capital I; punctuation as written
+zech	oldtestgreek00unknuoft	116	18	Papa	Ῥι +αμὰ	Ῥαμὰ	Ῥαμὰ	image (3x): rough breathing on capital Ρ
+zech	oldtestgreek00unknuoft	116	18	πύλης	πύλης +Β	πύλης	πύλης	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	116	18	Tod	τόῦ	τοῦ	τοῦ	image (3x): τοῦ circumflex only
+zech	oldtestgreek00unknuoft	116	19	TOD	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	116	20	Ἀναμεήλ,	Ἀναμεήλ,	Ἁναμεήλ,	Ἁναμεήλ,	image (3x): rough breathing (reversed comma, opening left) on Α: Ἁναμεήλ
+zech	oldtestgreek00unknuoft	116	20	βασιλέως:	βασιλέως"	βασιλέως·	βασιλέως·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	116	20	"κατοικήσουσιν, +τι	"κατοικήσουσιν. +τι	κατοικήσουσιν	κατοικήσουσιν	image (3x): superscript verse number fused in OCR; margin number not text
+zech	oldtestgreek00unknuoft	116	21	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	116	21	Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on the capital I; punctuation as written
+zech	oldtestgreek00unknuoft	116	22	πεποιθότως.	πεποιθότως. +ΕῚ	πεποιθότως.	πεποιθότως.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	116	22	Κύριος +τ᾽	Κύριος +τὸ	Κύριος	Κύριος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	116	23	Ἱερουσαλήμ"	Ἰερουσαλήμ᾽	Ἰερουσαλήμ·	Ἰερουσαλήμ·	image (3x): smooth breathing on the capital I; punctuation as written

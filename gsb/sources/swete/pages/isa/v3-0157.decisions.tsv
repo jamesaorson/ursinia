@@ -1,0 +1,48 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	157	1	∅	ἡ	ἡ	ἡ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	157	1	αὐτοῖς. +*	αὐτοῖς. +“	αὐτοῖς.	αὐτοῖς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	157	1	Αἰ-	Αἰ-	Αἰ-	Αἰ-	image (3x): smooth breathing on Αἰ/Αἴ
+isa	oldtestgreek00unknuoft	157	2	Αἰγυπτίους,	Αἰγυπτίους,	Αἰγυπτίους,	Αἰγυπτίους,	image (3x): smooth breathing on Αἰ/Αἴ
+isa	oldtestgreek00unknuoft	157	4	νομόν:	νομόν:	νομόν.	νομόν.	image (3x): punctuation as in page file; OCR misread
+isa	oldtestgreek00unknuoft	157	4	3καὶ	3καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	157	4	Αἰγυπτίων	Αἰγυπτίων	Αἰγυπτίων	Αἰγυπτίων	image (3x): smooth breathing on Αἰ/Αἴ
+isa	oldtestgreek00unknuoft	157	4	αὖ-	αὖ-	αὐ-	αὐ-	image (3x): word as in page file; OCR junk/diacritic misread
+isa	oldtestgreek00unknuoft	157	7	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	157	7	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	image (3x): smooth breathing on Αἰ/Αἴ
+isa	oldtestgreek00unknuoft	157	9	σαβαώθ.	σαβαῴθ.	σαβαώθ.	σαβαώθ.	image (3x): word as in page file; OCR junk/diacritic misread
+isa	oldtestgreek00unknuoft	157	9	"καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	157	9	Αἰγύπτιοι	Αἰγύπτιοι	Αἰγύπτιοι	Αἰγύπτιοι	image (3x): smooth breathing on Αἰ/Αἴ
+isa	oldtestgreek00unknuoft	157	10	6	ὃ	ὁ	ὁ	image (3x): word as in page file; OCR junk/diacritic misread
+isa	oldtestgreek00unknuoft	157	10	ξηρανθήσεται" +“	ξηρανθήσεται"	ξηρανθήσεται·	ξηρανθήσεται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	157	10	καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	157	12	καὶ +7	καὶ +7	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	157	13	Ἰκαὶ	Ἰκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	157	13	Gye	ἄχι	ἄχι	ἄχι	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	157	14	τὸ.	τὸ.	τὸ	τὸ	image (3x): punctuation as in page file; OCR misread
+isa	oldtestgreek00unknuoft	157	14	ἀνεμόφθορον.	ἀνεμόφθορον. +ὃ	ἀνεμόφθορον.	ἀνεμόφθορον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	157	14	*xai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	157	16	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	157	16	∅	τὸν	τὸν	τὸν	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	157	16	∅	ποταμόν,	ποταμόν,	ποταμόν,	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	157	16	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	157	16	∅	οἱ	οἱ	οἱ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	157	16	∅	βάλλοντες	βάλλοντες	βάλλοντες	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	157	16	∅	σαγήνας	σαγήνας	σαγήνας	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	157	16	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	157	16	∅	οἱ	οἱ	οἱ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	157	16	∅	ἀμφιβολεῖς	ἀμφιβολεῖς	ἀμφιβολεῖς	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	157	16	∅	πενθή-	πενθή-	πενθή-	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	157	17	9καὶ	9 +9καὶ	καὶ	καὶ	image (3x): word as in page file; OCR junk/diacritic misread
+isa	oldtestgreek00unknuoft	157	18	βύσσον, +"	βύσσον,	βύσσον,	βύσσον,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	157	18	καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	157	19	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	157	20	“Kal	"“᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	157	20	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	157	21	Τάνεως"	Τάνεως"	Τάνεως·	Τάνεως·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	157	22	θήσεται.	θήσεται:	θήσεται.	θήσεται.	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	157	22	Ὑἱοὶ	Ὑἱοὶ	Υἱοὶ	Υἱοὶ	image (3x): rough breathing stands over ι, none on Υ
+isa	oldtestgreek00unknuoft	157	23	“ποῦ	12 +“ποῦ	ποῦ	ποῦ	image (3x): word as in page file; OCR junk/diacritic misread
+isa	oldtestgreek00unknuoft	157	23	σοφοί	σοφοί	σοφοί	σοφοί	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	157	23	ἀναγγειλάτωσάν	ἀναγγειλάτωσάν	ἀναγγειλάτωσάν	ἀναγγειλάτωσάν	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	157	24	Αἴγυπτον.	Αἴγυπτον.	Αἴγυπτον.	Αἴγυπτον.	image (3x): smooth breathing on Αἰ/Αἴ
+isa	oldtestgreek00unknuoft	157	14	-	-	ξηρανθήσεται	ξηρανθήσεται	image: speck below the line between ν and θ, not text

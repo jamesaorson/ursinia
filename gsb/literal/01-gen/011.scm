@@ -550,7 +550,7 @@
     ("died" 2)
     ("in sight of" 4)
     ("Terah" 5)
-    ("of his" 8)
+    ("his" 8)
     ("father" (6 absorbed) 7)
     ("in" 9)
     ("the land" 10 (11 land))

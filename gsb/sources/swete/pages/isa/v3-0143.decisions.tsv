@@ -1,0 +1,47 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	143	2	Τ7αὐτὸς	7 +7αὐτὸς	αὐτὸς	αὐτὸς	image (3x): verse superscript / § / ano teleia read by OCR; word as read
+isa	oldtestgreek00unknuoft	143	3	λελόγισται:	λελόγισται:	λελόγισται·	λελόγισται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	143	4	ὅκαὶ	ὅἕκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	143	5	ϑκαὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	143	5	Οὐκ	Οὐκ	Οὐκ	Οὐκ	image (3x): breathing on υ of Οὐκ
+isa	oldtestgreek00unknuoft	143	6	kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	143	6	“φκοδομήθη;	“φκοδομήθη;	ᾠκοδομήθη;	ᾠκοδομήθη;	image (3x): ᾠ with smooth breathing and iota subscript; speck before word not text
+isa	oldtestgreek00unknuoft	143	6	Ἀραβίαν	Ἀραβίαν	Ἀραβίαν	Ἀραβίαν	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	143	7	Σαμάρειαν:	Σαμάρειαν:	Σαμάρειαν·	Σαμάρειαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	143	7	dv	το +"ὃν	ὃν	ὃν	image (3x): verse superscript / § / ano teleia read by OCR; word as read
+isa	oldtestgreek00unknuoft	143	8	Ἰ̓ερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	143	9	Σαμαρείᾳ:	Σαμαρείᾳ	Σαμαρείᾳ·	Σαμαρείᾳ·	image (3x): verse superscript / § / ano teleia read by OCR; word as read
+isa	oldtestgreek00unknuoft	143	9	“by	"ὃν	ὃν	ὃν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	143	10	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	143	11	Kai	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	143	12	Ἱερουσαλήμ,	Ἱερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	143	12	irov	'τὸν	τὸν	τὸν	image (3x): verse superscript / § / ano teleia read by OCR; word as read
+isa	oldtestgreek00unknuoft	143	13	Ἀσσυρίων,	Ἀσσυρίων,	Ἀσσυρίων,	Ἀσσυρίων,	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	143	13	"Ξεἶπεν	"Ξεἶπεν	εἶπεν	εἶπεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	143	14	Ἔν	Ἔν	Ἐν	Ἐν	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	143	15	∅	ἐθνῶν,	ἐθνῶν,	ἐθνῶν,	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	143	15	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	143	15	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	143	15	∅	ἰσχὺν	ἰσχὺν	ἰσχὺν	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	143	15	∅	αὐτῶν	αὐτῶν	αὐτῶν	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	143	15	∅	προνομεύσω-	προνομεύσω·	προνομεύσω·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	143	15	∅	““καὶ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	143	15	∅	σείσω	σείσω	σείσω	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	143	15	∅	πόλεις	πόλεις	πόλεις	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	143	15	∅	κατοι-	κατοι-	κατοι-	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	143	16	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	143	17	ἀρῶ᾽	ἀρῶ:	ἀρῶ·	ἀρῶ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	143	17	διαφεύξεταί	διαφεύξεταί	διαφεύξεταί	διαφεύξεταί	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	143	17	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	143	18	“pny	“μὴ	μὴ	μὴ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	143	19	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	143	19	ἄν	ἄν	ἂν	ἄν	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	143	20	"ἀλλὰ	"ἀλλὰ	ἀλλὰ	ἀλλὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	143	21	kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	143	21	καυθήσεται:	καυθήσεται:	καυθήσεται·	καυθήσεται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	143	22	"καὶ	77καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	143	22	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	143	23	ὕλην.	ὕλην. +τ	ὕλην.	ὕλην.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	143	23	“TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	143	23	ἐκείνῃ	ἐκεινῃ	ἐκείνῃ	ἐκείνῃ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	143	6	-	-	Χαλαννή,	Χαλαννή,	image: speck before καὶ at line start, not text

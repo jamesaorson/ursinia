@@ -790,12 +790,12 @@
     ("Judith," (9 name "Ἰουδίν"))
     ("daughter" 10)
     ("of Beeri" (11 name "Βεήρ"))
-    ("the Hittite," (12 unrendered) (13 name "Χετταῖος"))
+    ("the Hittite," 12 (13 name "Χετταῖος"))
     ("and" 14)
     ("Basemath," (15 unrendered) (16 name "Μασεμμάθ"))
     ("daughter" 17)
     ("of Elon" (18 name "Αἰλώμ"))
-    ("the Hivite;" (19 unrendered) (20 name "Εὑαῖος"))))
+    ("the Hivite;" 19 (20 name "Εὑαῖος"))))
 
 (verse 35
   (status draft)

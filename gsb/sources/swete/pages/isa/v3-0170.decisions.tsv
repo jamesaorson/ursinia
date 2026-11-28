@@ -1,0 +1,27 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	170	1	ἀναστήσουσιν"	ἀναστήσουσιν"	ἀναστήσουσιν·	ἀναστήσουσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	170	2	"“πρόσθες	"πρόσθες	πρόσθες	πρόσθες	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	170	2	κακά,	κακά,	κακά,	κακά,	image (3x): acute on κακά before comma and capitalized Κύριε
+isa	oldtestgreek00unknuoft	170	3	γῆς.	γῆς:	γῆς.	γῆς.	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	170	3	δ +κύριε,	κύριε,	Κύριε,	Κύριε,	image (3x): capital Κύριε after superscript 16
+isa	oldtestgreek00unknuoft	170	4	“Kal	17 +Τ̓καὶ	καὶ	καὶ	image (3x): καὶ after superscript 17
+isa	oldtestgreek00unknuoft	170	5	τὰ	τὰ	διὰ	διὰ	image (3x): διὰ after superscript 18; OCR τὰ wrong
+isa	oldtestgreek00unknuoft	170	7	κόμεν:	κομεν:	κομεν·	κομεν·	image (3x): κομεν unaccented (end of hyphenated ἐτέκομεν) with ano teleia
+isa	oldtestgreek00unknuoft	170	8	“ἀναστήσονται	“ἀναστήσονται	ἀναστήσονται	ἀναστήσονται	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	170	8	νεκροΐ,	νεκροί,	νεκροί,	νεκροί,	image (3x): acute on ι, no diaeresis
+isa	oldtestgreek00unknuoft	170	10	yn	γῇ;	γῇ·	γῇ·	image (3x): γῇ with iota subscript and ano teleia
+isa	oldtestgreek00unknuoft	170	10	γῇ	γῇ	γῆ	γῆ	image (3x): γῆ without iota subscript (nominative)
+isa	oldtestgreek00unknuoft	170	11	πεσεῖται. +°	πεσεῖται. +ξο	πεσεῖται.	πεσεῖται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	170	11	λαός	λαός	λαός	λαός	image (3x): λαός acute before enclitic μου
+isa	oldtestgreek00unknuoft	170	11	ταμεῖά	ταμεῖά	ταμεῖά	ταμεῖά	image (3x): ταμεῖά with second acute before enclitic σου
+isa	oldtestgreek00unknuoft	170	13	ὀργὴ	ὀργὴ	ὀργὴ	ὀργὴ	image (3x): grave on ὀργὴ before Κυρίου (not a quotation)
+isa	oldtestgreek00unknuoft	170	13	“"ἰδοὺ	“"ἰδοὺ	ἰδοὺ	ἰδοὺ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	170	14	γῆς"	γῆς"	γῆς·	γῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	170	16	Τῇ	1 +ἢ	Τῇ	Τῇ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	170	16	ὁ	ὁ +θ	ὁ	ὁ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	170	16	τὴν	τὴν +ἁ	τὴν	τὴν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	170	17	ἐγάλην	μεγάλην	μεγάλην	μεγάλην	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	170	18	2TH	Τῇ	Τῇ	Τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	170	19	καλός"	καλός"	καλός·	καλός·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	170	19	3ἐγὼ	3ἐγὼ	ἐγὼ	ἐγὼ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	170	20	αὐτήν:	αὐτήν:	αὐτήν·	αὐτήν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

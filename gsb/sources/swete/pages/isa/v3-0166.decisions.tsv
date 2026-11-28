@@ -1,0 +1,47 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	166	1	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	166	1	“καὶ	ΡῚ +"καὶ	καὶ	καὶ	image (3x): superscript 2 fused; word καὶ
+isa	oldtestgreek00unknuoft	166	1	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	166	1	Kal +2	καὶ +2	καὶ	καὶ	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	166	2	κυρία:	κυρία:	κυρία·	κυρία·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	166	3	φθορᾷ	ϑφθορᾷ	φθορᾷ	φθορᾷ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	166	3	φθαρήσεται +3	φθαρήσεται +3	φθαρήσεται	φθαρήσεται	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	166	4	γῆ:	γῆ"	γῆ·	γῆ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	166	5	“ἐπένθησεν	“ἐπένθησεν	ἐπένθησεν	ἐπένθησεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	166	5	ἐπέν- +α΄.	ἐπέν-: +α΄	ἐπέν-	ἐπέν-	image (3x): margin verse number appended by OCR, not text
+isa	oldtestgreek00unknuoft	166	6	"ἡ	"ἡ	ἡ	ἡ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	166	6	κατοικοῦντας +5	κατοικοῦντας +5	κατοικοῦντας	κατοικοῦντας	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	166	7	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	166	8	“διὰ	“διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	166	8	oi	οἵἱ +6	οἱ	οἱ	image (3x): margin verse number appended by OCR, not text
+isa	oldtestgreek00unknuoft	166	9	αὐτήν"	αὐτήν"	αὐτήν·	αὐτήν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	166	9	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	166	10	πενθήσει	Τπενθήσει	πενθήσει	πενθήσει	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	166	10	πεν- +7	πεν- +7	πεν-	πεν-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	166	11	ψυχήν.	ψυχήν. +ὃ	ψυχήν.	ψυχήν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	166	12	εὐφροσύνη	εὐφροσύνη.	εὐφροσύνη	εὐφροσύνη	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	166	12	avOadia	αὐθαδία	αὐθαδία	αὐθαδία	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	166	12	πλοῦτος +8	πλοῦτος +8	πλοῦτος	πλοῦτος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	166	13	“ἠσχύνθησαν,	“ἠσχύνθησαν,	ἠσχύνθησαν,	ἠσχύνθησαν,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	166	13	οἶνον, +9	οἶνον, +9	οἶνον,	οἶνον,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	166	14	"ἠρημώθη	“ἠρημώθη	ἠρημώθη	ἠρημώθη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	166	14	πόλις, +io	πόλις, +το	πόλις,	πόλις,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	166	15	"᾿ὀλολύζετε	"ὀλολύζετε	ὀλολύζετε	ὀλολύζετε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	166	16	τι +πανταχῇ"	τι +πανταχῇ"	πανταχῇ·	πανταχῇ·	image (3x): πανταχῇ· with ano teleia; nothing printed before it on the line
+isa	oldtestgreek00unknuoft	166	16	εὐφροσύνη. +““	εὐφροσύνη. +““	εὐφροσύνη.	εὐφροσύνη.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	166	16	πό-	πό- +τὸ	πό-	πό-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	166	17	τὸ +Reis	λεις	λεις	λεις	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	166	17	“Sradra	Ξ̓ταῦτα	ταῦτα	ταῦτα	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	166	17	πάντα +13	πάντα +τ3	πάντα	πάντα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	166	18	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	166	18	ἐθνῶν.	ἐθνῶν.	ἐθνῶν·	ἐθνῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	166	18	ἐάν	ἐάν	ἐάν	ἐάν	image (3x): acute on ἐάν before enclitic τις
+isa	oldtestgreek00unknuoft	166	19	αὐτούς:	αὐτούς:	αὐτούς·	αὐτούς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	166	20	ρυγητός.	τρυγητός.	τρυγητός.	τρυγητός.	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	166	20	"“οὗτοι	"“οὗτοι	οὗτοι	οὗτοι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	166	20	τῆς +τὰ	τῆς +τὰ	τῆς	τῆς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	166	22	"διὰ	"“διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	166	22	τῆς +15	τῆς +τ5	τῆς	τῆς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	166	23	*Kupue	κύριε	Κύριε	Κύριε	image (3x): capital Κύριε
+isa	oldtestgreek00unknuoft	166	23	θεὸς +16	θεὸς +τό	θεὸς	θεὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	166	23	-	-	Κύριε	Κύριε	no parenthesized number in the margin beside 16; the (16) is printed in the text on leaf 167 before ἀπὸ, so Swete 16 opens running on with common 24:15

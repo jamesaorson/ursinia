@@ -96,7 +96,7 @@
 (verse 6
   (status draft)
   (literal
-    ("Lord;" 1)
+    ("lord;" 1)
     ("but" 3)
     ("hear" (2 hear "ἀκούω"))
     ("us." 4)
@@ -300,7 +300,7 @@
 (verse 15
   (status draft)
   (literal
-    ("Lord," 1)
+    ("lord," 1)
     ("for" 3)
     ("I have heard;" 2)
     ("of four hundred" 4)
@@ -311,9 +311,8 @@
     ("and" 10)
     ("you" 11)
     ("what" 12)
-    ("may" 14)
-    ("ever" 13)
-    ("this" 15)
+    ("would" 14)
+    ("this" (13 unrendered) 15)
     ("be?" (cont 14))
     ("But" 17)
     ("you" 16)

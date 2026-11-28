@@ -1,0 +1,33 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	162	1	iaxvovtes	ἰσχύοντες	ἰσχύοντες	ἰσχύοντες	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	162	1	Gol	σοὶ	σοὶ	σοὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	162	1	“διὰ	“διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	162	1	"Αφετέ	"Αφετέ	Ἄφετέ	Ἄφετέ	image (3x): smooth + acute (two-part open mark) on the capital; acute on final ε before enclitic με
+isa	oldtestgreek00unknuoft	162	2	κλαύσομαι:	κλαύσομαι:	κλαύσομαι·	κλαύσομαι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	162	2	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	162	3	ὅὅτι	"ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	162	4	mapa	παρὰ	παρὰ	παρὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	162	4	caBawd-	σαβαώθ:	σαβαώθ·	σαβαώθ·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	162	5	"οἱ	ὁ, +"οἱ	οἱ	οἱ	image (3x): reads as written; OCR fused the superscript or misread φ
+isa	oldtestgreek00unknuoft	162	6	Ἐ̓λαμεῖται	Ἐλαμεῖται	Ἐλαμεῖται	Ἐλαμεῖται	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	162	7	και	καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	162	7	ovvay@y))	συναγωγὴ	συναγωγὴ	συναγωγὴ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	162	7	και	71καὶ	καὶ	καὶ	image (3x): reads as written; OCR fused the superscript or misread φ
+isa	oldtestgreek00unknuoft	162	7	εἐσόονται	ἔσονται	ἔσονται	ἔσονται	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	162	7	φάραγγές	φάραγγές	φάραγγές	φάραγγές	image (3x): acute before enclitic σου/ἐστιν
+isa	oldtestgreek00unknuoft	162	9	καὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	162	9	Ἰούδα:	Ἰούδα:	Ἰούδα·	Ἰούδα·	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	162	10	πόλεως, +9	πόλεως, +9	πόλεως,	πόλεως,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	162	12	THs	τῆς	τῆς	τῆς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	162	12	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	162	13	᾿ερουσαλὴμ	᾿ερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	162	14	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	162	14	“kal	"“᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	162	15	THs	τῆς	τῆς	τῆς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	162	16	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	162	18	Evpnow	ξύρησιν	ξύρησιν	ξύρησιν	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	162	18	Savrot	"αὐτοὶ	αὐτοὶ	αὐτοὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	162	18	εὐῴρο-	εὐῴφρο-	εὐφρο-	εὐφρο-	image (3x): reads as written; OCR fused the superscript or misread φ
+isa	oldtestgreek00unknuoft	162	21	καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	162	21	ταῦτά	ταῦτά	ταῦτά	ταῦτά	image (3x): acute before enclitic σου/ἐστιν
+isa	oldtestgreek00unknuoft	162	21	ὠσὶν	ὠσὶν	ὠσὶν	ὠσὶν	image (3x): grave on ὠσὶν before Κυρίου (not a quotation)

@@ -1,0 +1,39 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	137	1	“dia	χὰ +"διὰ	διὰ	διὰ	image (3x): word as transcribed; OCR fused the verse number
+isa	oldtestgreek00unknuoft	137	1	τοῦτο	τοῦτο +Β	τοῦτο	τοῦτο	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	137	2	σημεῖον:	σημεῖον:	σημεῖον·	σημεῖον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	137	3	Ἐμμανουήηλ:	᾽Ἐμμανουηλ:	Ἐμμανουήλ·	Ἐμμανουήλ·	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	137	3	"βούτυρον	"᾿βούτυρον	βούτυρον	βούτυρον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	137	5	λέξασθαι.	λέξασθαι.	λέξασθαι	λέξασθαι	image (3x): no point after the word
+isa	oldtestgreek00unknuoft	137	5	ἀγαθόν.	ἀγαθόν.	ἀγαθόν·	ἀγαθόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	137	5	"διότι	"διότι	διότι	διότι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	137	7	∅	ἡ	ἡ	ἡ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	137	7	βασιλέων. +"7	βασιλέων. +"7	βασιλέων.	βασιλέων.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	137	8	λαόν	λαόν	λαόν	λαόν	image (3x): acute before the enclitic as transcribed
+isa	oldtestgreek00unknuoft	137	8	σοὺ	σοὺ	σου	σου	image (3x): σου unaccented enclitic
+isa	oldtestgreek00unknuoft	137	8	πατρός	πατρός	πατρός	πατρός	image (3x): acute before the enclitic as transcribed
+isa	oldtestgreek00unknuoft	137	9	gov	σου	σου	σου	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	137	9	at	αἱ	αἳ	αἳ	image (3x): αἳ, rough breathing with grave
+isa	oldtestgreek00unknuoft	137	9	“Edpdip	φράιμ	Ἐφράιμ	Ἐφράιμ	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	137	10	Ἰούδα,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	137	10	Ἀσσυρίων.	Ἀσσυρίων.	Ἀσσυρίων.	Ἀσσυρίων.	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	137	10	Kal	τϑκαὶ	Καὶ	Καὶ	image (3x): word as transcribed; OCR fused the verse number
+isa	oldtestgreek00unknuoft	137	11	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	137	12	ἥ	ἥ	ἥ	ἥ	image (3x): acute before the enclitic as transcribed
+isa	oldtestgreek00unknuoft	137	12	Ἀσσυρίων-	᾽	Ἀσσυρίων·	Ἀσσυρίων·	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	137	12	"καὶ	Ἀσσυρίων- +το "καὶ	καὶ	καὶ	image (3x): word as transcribed; OCR fused the verse number
+isa	oldtestgreek00unknuoft	137	13	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	137	14	“ev	““ἐν	ἐν	ἐν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	137	16	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	137	17	“kal	“᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	137	18	πρόβατα:	πρόβατα:	πρόβατα·	πρόβατα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	137	18	““καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	137	19	ὁ	ὃ	ὁ	ὁ	image (3x): ὁ, rough breathing, no accent
+isa	oldtestgreek00unknuoft	137	20	“καὶ	“Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	137	20	ἐν	ἐν.	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	137	21	ov	ὗ	οὗ	οὗ	image (3x): οὗ, rough breathing with circumflex
+isa	oldtestgreek00unknuoft	137	21	ἐὰν	ἐὰν +ὦ	ἐὰν	ἐὰν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	137	22	ἄκανθαν:	ἄκανθαν:	ἄκανθαν·	ἄκανθαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	137	22	“Γμετὰ	““μετὰ	μετὰ	μετὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	137	23	γῆ"	γῆ"	γῆ·	γῆ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	137	23	Kai	“"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip

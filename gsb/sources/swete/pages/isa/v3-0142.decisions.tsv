@@ -1,0 +1,53 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	142	2	ἐλεήσει:	ἐλεήσει:	ἐλεήσει·	ἐλεήσει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	142	4	ὑψηλή. +δ	ὑψηλή. +δ᾽	ὑψηλή.	ὑψηλή.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	142	4	πῦρ +18 (17)	πῦρ +18 (17)	πῦρ	πῦρ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	142	5	ὡς.	ὡς	ὡς	ὡς	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	142	5	πυρός:	πυρός:	πυρός·	πυρός·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	142	7	mavta:	πάντα:	πάντα·	πάντα·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	142	7	“διὰ	“διὰ	διὰ	διὰ	image (3x): verse superscript / margin number / speck read by OCR; word as read
+isa	oldtestgreek00unknuoft	142	7	συγκέ-	συγκέ- +τὸ (18) :	συγκέ-	συγκέ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	142	8	τὸ	καυται	καυται	καυται	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	142	8	(18)	ἢ	ἡ	ἡ	image (3x): ἡ γῆ ὅλη, καὶ ἔσται ὁ λαὸς clear; OCR disturbed by margin numbers
+isa	oldtestgreek00unknuoft	142	8	∅	γὴ	γῆ	γῆ	image (3x): ἡ γῆ ὅλη, καὶ ἔσται ὁ λαὸς clear; OCR disturbed by margin numbers
+isa	oldtestgreek00unknuoft	142	8	∅	Οολῆ,	ὅλη,	ὅλη,	image (3x): ἡ γῆ ὅλη, καὶ ἔσται ὁ λαὸς clear; OCR disturbed by margin numbers
+isa	oldtestgreek00unknuoft	142	8	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	142	8	∅	εσται	ἔσται	ἔσται	image (3x): ἡ γῆ ὅλη, καὶ ἔσται ὁ λαὸς clear; OCR disturbed by margin numbers
+isa	oldtestgreek00unknuoft	142	8	∅	ὁ	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	142	8	∅	Ἀ +αος	λαὸς	λαὸς	image (3x): ἡ γῆ ὅλη, καὶ ἔσται ὁ λαὸς clear; OCR disturbed by margin numbers
+isa	oldtestgreek00unknuoft	142	8	∅	ὡς	ὡς	ὡς	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	142	8	∅	ὑπὸ	ὑπὸ	ὑπὸ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	142	8	∅	πυρὸς	πυρὸς	πυρὸς	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	142	8	∅	κατακεκαυ-	κατακεκαυ-	κατακεκαυ-	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	142	9	μένος. +Ἵ	μένος. +Ἵ	μένος.	μένος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	142	9	ἐλεήσει,	ἐλεήσει, +"	ἐλεήσει,	ἐλεήσει,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	142	9	GAA	ἀλλὰ	ἀλλὰ	ἀλλὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	142	9	ἐκκλιν +εἶ 20 (19)	ἐκκλιν +εἴ 20 (τ9)	ἐκκλινεῖ	ἐκκλινεῖ	image (3x): verse superscript / margin number / speck read by OCR; word as read
+isa	oldtestgreek00unknuoft	142	11	τὰς	τὰς.	τὰς	τὰς	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	142	12	“᾿φάγεται	“᾿φάγεται	φάγεται	φάγεται	image (3x): verse superscript / margin number / speck read by OCR; word as read
+isa	oldtestgreek00unknuoft	142	12	ἜἜφράιμ,	Ἔφράιμ,	Ἐφράιμ,	Ἐφράιμ,	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	142	12	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	142	12	τοῦ	τοῦ +«1 (:ο)	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	142	13	«1 +(20) Mavacon,	Μανασσή,	Μανασσή,	Μανασσή,	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	142	13	Ἰούδαν.	Ἰούδαν.	Ἰούδαν.	Ἰούδαν.	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	142	14	θυμύς,	θυμός,	θυμός,	θυμός,	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	142	14	"Οὐαὶ +τ	"οὐαὶ +τ	Οὐαὶ	Οὐαὶ	image (3x): Οὐαὶ, breathing on υ, grave as printed
+isa	oldtestgreek00unknuoft	142	15	πονηρίαν:	πονηρίαν:	πονηρίαν·	πονηρίαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	142	15	“ἐκ- +2	"ἐκ- +.	ἐκ-	ἐκ-	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	142	17	προνομήν.	προνομήν. +3	προνομήν.	προνομήν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	142	18	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	142	18	ὑμῖν +3	ὑμῖν +3	ὑμῖν	ὑμῖν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	142	19	ἥξει:	ἥξει:	ἥξει·	ἥξει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	142	19	καταφεύξεσθε.	καταφεύξεσθε.	καταφεύξεσθε	καταφεύξεσθε	image (3x): verse superscript / margin number / speck read by OCR; word as read
+isa	oldtestgreek00unknuoft	142	20	“τοῦ	“τοῦ	τοῦ	τοῦ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	142	20	ἀπαγωγήν; +4	ἀπαγωγήν; +4	ἀπαγωγήν;	ἀπαγωγήν;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	142	21	ἀλλ᾽.	ἀλλ΄.	ἀλλ᾽	ἀλλ᾽	image (3x): verse superscript / margin number / speck read by OCR; word as read
+isa	oldtestgreek00unknuoft	142	22	5οὐαὶ	5οὐϑαὶ	Οὐαὶ	Οὐαὶ	image (3x): Οὐαὶ, breathing on υ, grave as printed
+isa	oldtestgreek00unknuoft	142	22	Ἀσσυρίοις,	Ἀσσυρίοις,	Ἀσσυρίοις,	Ἀσσυρίοις,	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	142	22	ὀργή	ὀργή	ὀργή	ὀργή	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	142	22	ταῖς +5	ταῖς +ς	ταῖς	ταῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	142	23	“τὴν	“τὴν	τὴν	τὴν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	142	23	ὀργήν	ὀργήν	ὀργήν	ὀργήν	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	142	23	τῷ +6	τῷ +6	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	142	18	-	-	ἐπισκοπῆς;	ἐπισκοπῆς;	ambiguous: dot and small stroke over the ι look like a blot, not an accent; read ἐπισκοπῆς
+isa	oldtestgreek00unknuoft	142	11	-	-	ἔσθων	ἔσθων	image: low speck after the word, not a period

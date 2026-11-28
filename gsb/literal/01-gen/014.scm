@@ -286,7 +286,7 @@
     ("in" 13)
     ("the oak" 14 (15 oak "δρῦς"))
     ("of Mamre" (16 unrendered) (17 name "Μαμβρή"))
-    ("the Amorite" (18 unrendered) (19 name "Ἀμορραῖος"))
+    ("the Amorite" 18 (19 name "Ἀμορραῖος"))
     ("of the brother" 20 21)
     ("of Eshcol" (22 name "Ἐσχώλ"))
     ("and" 23)

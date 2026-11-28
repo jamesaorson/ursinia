@@ -33,18 +33,18 @@ wis	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
 sir-prol	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
 sir	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
 pssol	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
-hos	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
-amos	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
-mic	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
-joel	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
-obad	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
-jonah	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
-nah	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
-hab	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
-zeph	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
-hag	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
+hos	transcribed	3915	3290	84.0	3290	84.0	1366	815	59.7
+amos	transcribed	3200	2674	83.6	2674	83.6	1099	655	59.6
+mic	transcribed	1007	826	82.0	826	82.0	480	318	66.3
+joel	transcribed	1573	1310	83.3	1310	83.3	636	420	66.0
+obad	transcribed	456	384	84.2	384	84.2	243	177	72.8
+jonah	transcribed	1080	957	88.6	957	88.6	446	346	77.6
+nah	transcribed	931	717	77.0	717	77.0	484	282	58.3
+hab	transcribed	1090	872	80.0	872	80.0	568	364	64.1
+zeph	transcribed	149	125	83.9	125	83.9	80	60	75.0
+hag	transcribed	948	833	87.9	833	87.9	356	268	75.3
 zech	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
-mal	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
+mal	transcribed	1408	1227	87.1	1227	87.1	569	401	70.5
 isa	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
 jer	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
 bar	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
@@ -57,4 +57,4 @@ dan	transcribed	526	434	82.5	434	82.5	248	172	69.4
 dan-th	transcribed	495	414	83.6	414	83.6	224	160	71.4
 bel	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
 bel-th	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
-TOTAL		355577	302107	85.0	302107	85.0	30175	8356	27.7
+TOTAL		371334	315322	84.9	315322	84.9	31376	8560	27.3

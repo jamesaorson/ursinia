@@ -1,0 +1,107 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+zech	oldtestgreek00unknuoft	111	1	αὐυτους,	αὐτούς,	αὐτούς,	αὐτούς,	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	111	1	OTL	ὅτι	ὅτι	ὅτι	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	111	1	ηγαπησα	ἠγάπησα	ἠγάπησα	ἠγάπησα	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	111	1	αὐτοῦυς,	αὐτούς,	αὐτούς,	αὐτούς,	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	111	1	Και	καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	111	1	ἐσονταί	ἔσονται.	ἔσονται	ἔσονται	image (3x): smooth breathing + acute on ε, no accent on αι: ἔσονται
+zech	oldtestgreek00unknuoft	111	1	OV	ὃν	ὃν	ὃν	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	111	1	ἀπεστρεψάμην:	ἀπεστρεψάμην:	ἀπεστρεψάμην	ἀπεστρεψάμην	image (3x): speck (page heavily speckled), not punctuation; word as in page file
+zech	oldtestgreek00unknuoft	111	2	και	Β. +αὐτούς:	αὐτούς·	αὐτούς·	image (3x): raised dot, ano teleia
+zech	oldtestgreek00unknuoft	111	2	ἐσονται	διότι	διότι	διότι	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	111	2	∅	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ before Κύριος (not a quotation)
+zech	oldtestgreek00unknuoft	111	2	∅	Κύριος	Κύριος	Κύριος	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	2	∅	ὁ	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	2	∅	θεὸς	θεὸς	θεὸς	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	2	∅	αὐτῶν,	αὐτῶν,	αὐτῶν,	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	2	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	2	∅	ἐπάκούσομαι	ἐπακούσομαι	ἐπακούσομαι	image (3x): smooth breathing on ε, acute on ου only: ἐπακούσομαι
+zech	oldtestgreek00unknuoft	111	2	∅	αὐτοῖς.	αὐτοῖς.	αὐτοῖς.	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	3	∅	Ἰκαὶ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	111	3	∅	ἔσονταί	ἔσονται	ἔσονται	image (3x): smooth breathing + acute on ε, no accent on αι: ἔσονται
+zech	oldtestgreek00unknuoft	111	3	μαχῆται	μαχηταὶ	μαχηταὶ	μαχηταὶ	image (3x): grave on αι, no circumflex on η: μαχηταὶ
+zech	oldtestgreek00unknuoft	111	3	TOV	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	111	3	Εφρᾶιμ,	Ἐφρᾶιμ,	Ἐφράιμ,	Ἐφράιμ,	image (3x): smooth breathing only on Ε; acute on α: Ἐφράιμ
+zech	oldtestgreek00unknuoft	111	3	“Και	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	111	3	χαρήσεται.	χαρήσεται.	χαρήσεται	χαρήσεται	image (3x): speck (page heavily speckled), not punctuation; word as in page file
+zech	oldtestgreek00unknuoft	111	3	ἢ	ἡ	ἡ	ἡ	image (3x): rough breathing, no accent: ἡ
+zech	oldtestgreek00unknuoft	111	4	∅	ὡς	ὡς	ὡς	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	4	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	4	∅	οἴνῳ:	οἴνῳ·	οἴνῳ·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	111	4	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	4	∅	τὰ	τὰ	τὰ	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	4	∅	τέκνα	τέκνα	τέκνα	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	4	∅	αὐτῶν	αὐτῶν	αὐτῶν	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	4	∅	ὄψονται	ὄψονται	ὄψονται	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	4	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	4	∅	εὐφρανθήσονται,	εὐφρανθήσονται,	εὐφρανθήσονται,	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	4	∅	καὶ.	καὶ	καὶ	image (3x): speck (page heavily speckled), not punctuation; word as in page file
+zech	oldtestgreek00unknuoft	111	5	“᾿σημανῶ	“σημανῶ	σημανῶ	σημανῶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	111	5	εἰσδέξο-:	εἰσδέξο-.	εἰσδέξο-	εἰσδέξο-	image (3x): speck (page heavily speckled), not punctuation; word as in page file
+zech	oldtestgreek00unknuoft	111	6	μαι,	μαι,	μαι	μαι	image (3x): speck (page heavily speckled), not punctuation; word as in page file
+zech	oldtestgreek00unknuoft	111	6	λυτρώσομαί	λυτρώσομαί	λυτρώσομαι	λυτρώσομαι	image (3x): no accent on αι: λυτρώσομαι
+zech	oldtestgreek00unknuoft	111	6	‘Kadri.	-καθότι.	καθότι	καθότι	image (3x): speck (page heavily speckled), not punctuation; word as in page file
+zech	oldtestgreek00unknuoft	111	7	ἦσαν	ἦ	ἦσαν	ἦσαν	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	111	7	πολλοί:	σαν	πολλοί·	πολλοί·	image (3x): raised dot, ano teleia
+zech	oldtestgreek00unknuoft	111	7	ϑκαὶ	πολλοί: +ϑκαὶ	καὶ	καὶ	image (3x): superscript 9 then καὶ
+zech	oldtestgreek00unknuoft	111	7	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	111	7	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	111	7	μνησθή-.	μνησθή-.	μνησθή-	μνησθή-	image (3x): speck (page heavily speckled), not punctuation; word as in page file
+zech	oldtestgreek00unknuoft	111	8	TovTai	σόνταί.	σονταί	σονταί	image (3x): σονταί with acute on αι before enclitic μου
+zech	oldtestgreek00unknuoft	111	8	ἐπιστρέψουσιν.	ἐπιστρέψουσιν. +."	ἐπιστρέψουσιν.	ἐπιστρέψουσιν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	111	8	"καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	111	9	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	image (3x): no breathing on capital Α; smooth breathing on ι: Αἰγύπτου
+zech	oldtestgreek00unknuoft	111	9	καὶ.	καὶ.	καὶ	καὶ	image (3x): speck (page heavily speckled), not punctuation; word as in page file
+zech	oldtestgreek00unknuoft	111	9	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	image (3x): smooth breathing on capital Α, apostrophe shape
+zech	oldtestgreek00unknuoft	111	10	καὶ.	καὶ.	καὶ	καὶ	image (3x): speck (page heavily speckled), not punctuation; word as in page file
+zech	oldtestgreek00unknuoft	111	11	εἷς"	εἷς"	εἷς·	εἷς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	111	11	“kai	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	111	11	θαλάσσῃ.	θαλάσσῃ.	θαλάσσῃ	θαλάσσῃ	image (3x): speck (page heavily speckled), not punctuation; word as in page file
+zech	oldtestgreek00unknuoft	111	12	OTEV),	στενῇ,	στενῇ,	στενῇ,	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	111	12	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	12	∅	πατάξουσιν	πατάξουσιν	πατάξουσιν	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	12	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	12	∅	θαλάσσῃ	θαλάσσῃ	θαλάσσῃ	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	12	∅	κύματα,	κύματα,	κύματα,	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	12	παταξουσιν	ξηρανθήσεται	ξηρανθήσεται	ξηρανθήσεται	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	111	12	εν +σαλασσῇῃ κυματα, Kal ξηρανθησεται παντα	πάντα.	πάντα	πάντα	image (3x): speck (page heavily speckled), not punctuation; word as in page file
+zech	oldtestgreek00unknuoft	111	13	ἀφαιρεθήσεται.	ἀφαιρεθήσεται.	ἀφαιρεθήσεται	ἀφαιρεθήσεται	image (3x): speck (page heavily speckled), not punctuation; word as in page file
+zech	oldtestgreek00unknuoft	111	13	Ἀσσυρίων,	Ἀσσυρίων,	Ἀσσυρίων,	Ἀσσυρίων,	image (3x): smooth breathing on capital Α, apostrophe shape
+zech	oldtestgreek00unknuoft	111	14	σκῆπτρον	σκηπτρον	σκῆπτρον	σκῆπτρον	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	111	14	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): no breathing on capital Α; smooth breathing on ι: Αἰγύπτου
+zech	oldtestgreek00unknuoft	111	14	“Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	111	15	Κυρίῳ	υρίῳ +6	Κυρίῳ	Κυρίῳ	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	111	17	᾿; +I Δ̓ιάνοιξον	; +: τ ΤΔ̓ιάνοιξον	Διάνοιξον	Διάνοιξον	image (3x): superscript 1 then Διάνοιξον; margin XI 1 is not text
+zech	oldtestgreek00unknuoft	111	17	θύρας.	θύρας.	θύρας	θύρας	image (3x): speck (page heavily speckled), not punctuation; word as in page file
+zech	oldtestgreek00unknuoft	111	17	gov,	σου,	σου,	σου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	111	18	σου:	σου:	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	111	18	“ὀλολυξάτω	“ὀλολυξάτω	ὀλολυξάτω	ὀλολυξάτω	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	111	18	“πέπτωκεν	“πέπτωκεν	πέπτωκεν	πέπτωκεν	image (3x): speck (page heavily speckled), not punctuation; word as in page file
+zech	oldtestgreek00unknuoft	111	18	κέδρος;	κέδρος;	κέδρος,	κέδρος,	image (3x): speck (page heavily speckled), not punctuation; word as in page file
+zech	oldtestgreek00unknuoft	111	18	ὅτε	ὅτε	ὅτι	ὅτι	image (3x): ι, not ε: ὅτι
+zech	oldtestgreek00unknuoft	111	18	"με-	"με-	με-	με-	image (3x): speck (page heavily speckled), not punctuation; word as in page file
+zech	oldtestgreek00unknuoft	111	19	ἐταλαιπώρησαν:	ἐταλαιπώρησαν:	ἐταλαιπώρησαν·	ἐταλαιπώρησαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	111	19	Βασανείτι-.	Βασανείτι-.	Βασανείτι-	Βασανείτι-	image (3x): speck (page heavily speckled), not punctuation; word as in page file
+zech	oldtestgreek00unknuoft	111	20	σύμφυτος. +3	σύμφυτος. +3	σύμφυτος.	σύμφυτος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	111	20	θρηνούντων.	θρηνούντων.	θρηνούντων	θρηνούντων	image (3x): speck (page heavily speckled), not punctuation; word as in page file
+zech	oldtestgreek00unknuoft	111	21	ἡ.	ἡ.	ἡ	ἡ	image (3x): rough breathing, no accent: ἡ
+zech	oldtestgreek00unknuoft	111	21	αὐτῶν.	αὐτῶν.	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	111	22	Ppvaypa	φῥῤύαγμα	φρύαγμα	φρύαγμα	image (3x): plain ρ: φρύαγμα
+zech	oldtestgreek00unknuoft	111	22	Ἰορδάνου.	Ιορδάνου.	Ἰορδάνου.	Ἰορδάνου.	image (3x): smooth breathing on capital Ι, period after
+zech	oldtestgreek00unknuoft	111	22	“τάδε, +5	“τάδε. +5	τάδε	τάδε	image (3x): superscript 4 then τάδε; no punctuation after
+zech	oldtestgreek00unknuoft	111	23	54	"ἃ	ἃ	ἃ	image (3x): superscript 5 then ἃ, rough breathing + grave
+zech	oldtestgreek00unknuoft	111	23	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	111	25	6	ἔλεγον	ἔλεγον	ἔλεγον	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	111	25	∅	Εὐλογητὸς	Εὐλογητὸς	Εὐλογητὸς	image (3x): Ε unaccented, smooth breathing on υ; grave on ος inside the quotation before Κύριος
+zech	oldtestgreek00unknuoft	111	25	∅	Κύριος,	Κύριος,	Κύριος,	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	25	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	25	∅	πεπλουτήκαμὲεν"	πεπλουτήκαμεν·	πεπλουτήκαμεν·	image (3x): raised dot, ano teleia
+zech	oldtestgreek00unknuoft	111	25	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	25	∅	οἱ	οἱ	οἱ	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	25	∅	ποιμένες	ποιμένες	ποιμένες	class R0: OCR lost the word in extraction; c read from the image strip
+zech	oldtestgreek00unknuoft	111	25	∅	αὖ- +δ	αὐ-	αὐ-	image (3x): smooth breathing on υ: αὐ-
+zech	oldtestgreek00unknuoft	111	26	“διὰ	“διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	111	27	τοὺς +Ἷ	τοὺς +Ἱ	τοὺς	τοὺς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	111	27	γῆν;	γῆν;	γῆν,	γῆν,	image (3x): speck (page heavily speckled), not punctuation; word as in page file
+zech	oldtestgreek00unknuoft	111	27	Κύριος" +ὼ	Κύριος: +.	Κύριος·	Κύριος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	111	27	παρα:	παρα +4τ᾽	παρα-	παρα-	image (3x): speck (page heavily speckled), not punctuation; word as in page file

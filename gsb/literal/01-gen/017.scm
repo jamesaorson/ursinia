@@ -324,7 +324,7 @@
     ("But" 2)
     ("God" (3 unrendered) 4)
     ("said" 1)
-    ("to Abraham" (5 unrendered) 6)
+    ("to Abraham," (5 unrendered) 6)
     ("Sarai" (7 name "Σάρα"))
     ("your" 10)
     ("woman," (8 absorbed) 9)
@@ -586,7 +586,7 @@
     ("Ishmael" (10 name "Ἰσμαήλ"))
     ("his" 13)
     ("son" (11 absorbed) 12)
-    ("was circumcised;" (7 circumcise "περιτέμνω"))))
+    ("were circumcised;" (7 circumcise "περιτέμνω"))))
 
 (verse 27
   (status draft)

@@ -407,7 +407,6 @@
     ("deliberating" (3 deliberate "διαβουλεύομαι"))
     ("they were reviling," (4 revile "λοιδορέω"))
     ("and" 5)
-    ("[the]")
     ("lords" 8)
     ("of arrows" (9 arrow "τόξευμα"))
     ("were pressing hard" (6 press-hard "ἐνέχω"))
@@ -558,7 +557,7 @@
     ("in" 21)
     ("the field" 22 23)
     ("of Ephron" (24 name "Ἐφρών"))
-    ("of Hittite," (25 unrendered) (26 name "Χετταῖος"))))
+    ("the Hittite," 25 (26 name "Χετταῖος"))))
 
 (verse 30
   (status draft)
@@ -577,7 +576,7 @@
     ("the cave" 15 16)
     ("from" (17 from))
     ("Ephron" (18 name "Ἐφρών"))
-    ("of Hittite" (19 unrendered) (20 name "Χετταῖος"))
+    ("the Hittite" 19 (20 name "Χετταῖος"))
     ("in" 21)
     ("property" (22 property "κτῆσις"))
     ("of tomb." 23)))

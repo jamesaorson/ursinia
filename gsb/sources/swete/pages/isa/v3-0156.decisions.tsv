@@ -1,0 +1,41 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	156	3	᾿ +‘Oval	᾿ +τοὐαὶ	Οὐαὶ	Οὐαὶ	image (3x): smooth breathing on Οὐ
+isa	oldtestgreek00unknuoft	156	3	Αἰθιοπίας,	Αἰθιοπίας,	Αἰθιοπίας,	Αἰθιοπίας,	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	156	3	“ὁ;	“ὁ	ὁ	ὁ	image (3x): word as in page file; OCR junk
+isa	oldtestgreek00unknuoft	156	5	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	156	6	χαλεπόν"	χαλεπόν"	χαλεπόν·	χαλεπόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	156	7	"πάντες	"πάντες	πάντες	πάντες	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	156	8	κατοικηθήσεται:	κατοικηθήσεται:	κατοικηθήσεται·	κατοικηθήσεται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	156	9	““διότι	““διότι	διότι	διότι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	156	9	εἶπεν.	εἶπεν.	εἶπεν	εἶπεν	image (3x): no point after the word; OCR period is a speck/margin
+isa	oldtestgreek00unknuoft	156	10	Ἀσφάλεια	Ἀσφάλεια	Ἀσφάλεια	Ἀσφάλεια	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	156	10	καύματος	καύματος	καύματος	καύματος	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	156	11	ἔσται. +ὅ	ἔσται. +ὅ	ἔσται.	ἔσται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	156	12	ὅταν.	ὅταν.	ὅταν	ὅταν	image (3x): no point after the word; OCR period is a speck/margin
+isa	oldtestgreek00unknuoft	156	12	ὄμφαξ.	ὄμφαξ.	ὄμφαξ	ὄμφαξ	image (3x): no point after the word; OCR period is a speck/margin
+isa	oldtestgreek00unknuoft	156	13	κίζουσα:	κίζουσα:	κίζουσα·	κίζουσα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	156	14	ἀποκόψει, +δ	ἀποκόψει,	ἀποκόψει,	ἀποκόψει,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	156	14	καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	156	15	‘kal	"καὶ	καὶ	καὶ	image (3x): word as in page file; OCR junk
+isa	oldtestgreek00unknuoft	156	15	γῆς"	γῆς"	γῆς·	γῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	156	16	THs	τῆς	τῆς	τῆς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	156	16	ἥξει:	ἥξει:	ἥξει.	ἥξει.	image (3x): word as in page file; OCR junk
+isa	oldtestgreek00unknuoft	156	17	∅	7ὲἐν	ἐν	ἐν	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	156	17	∅	τῷ	τῷ	τῷ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	156	17	∅	καιρῷ	καιρῷ	καιρῷ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	156	17	∅	ἐκείνῳ.	ἐκείνῳ	ἐκείνῳ	image (3x): no point after the word; OCR period is a speck/margin
+isa	oldtestgreek00unknuoft	156	17	∅	ἀνενεχθήσεται	ἀνενεχθήσεται	ἀνενεχθήσεται	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	156	17	∅	δῶρα	δῶρα	δῶρα	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	156	17	∅	Κυρίῳ	Κυρίῳ	Κυρίῳ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	156	17	∅	σαβαὼθ	σαβαὼθ	σαβαὼθ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	156	17	∅	ἐκ	ἐκ	ἐκ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	156	17	∅	λαοῦ +7	λαοῦ	λαοῦ	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	156	18	-καὶ	-καὶ	καὶ	καὶ	image (3x): speck before καὶ, not text
+isa	oldtestgreek00unknuoft	156	19	χρόνον:	χρόνον:	χρόνον·	χρόνον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	156	19	ὅ	ὅ	ὅ	ὅ	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	156	21	Σειών.	Σειών. +|	Σειών.	Σειών.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	156	22	ς	Ὅρασις	Ὅρασις	Ὅρασις	image (3x): rough + acute (open curl then stroke) on capital
+isa	oldtestgreek00unknuoft	156	22	τἸδοὺ	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	156	23	∅	τἰς +τἸδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on Ἰδοὺ; grave as printed (word starts the verse)
+isa	oldtestgreek00unknuoft	156	23	Αἴγυπτον,	Αἴγυπτον,	Αἴγυπτον,	Αἴγυπτον,	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	156	24	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing on capital

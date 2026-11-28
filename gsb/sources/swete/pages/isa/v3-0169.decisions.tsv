@@ -1,0 +1,40 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	169	1	"TH	Τῇ	Τῇ	Τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	169	1	ᾷσονται	σονται	ᾄσονται	ᾄσονται	image (3x): smooth breathing + acute and iota subscript: ᾄσονται
+isa	oldtestgreek00unknuoft	169	1	dopa	ἄσμα	ᾆσμα	ᾆσμα	image (3x): rough breathing + circumflex, iota subscript: ᾆσμα
+isa	oldtestgreek00unknuoft	169	1	Ἰουδαίας	Ἰουδαίας +Β	Ἰουδαίας	Ἰουδαίας	image (3x): smooth breathing; margin B not text
+isa	oldtestgreek00unknuoft	169	2	B	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	169	3	∅	∅	ἀνοίξατε	ἀνοίξατε	image (3x): ἀνοίξατε, smooth breathing, acute on οί
+isa	oldtestgreek00unknuoft	169	4	∅	λάσσων	λάσσων	λάσσων	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	169	4	Ξἀντιλαμβανόμενος	Ξἀντιλαμβανόμενος	ἀντιλαμβανόμενος	ἀντιλαμβανόμενος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	169	5	∅	ρήνην..	ρήνην.	ρήνην.	image (6x): one period after ρήνην, then wide space
+isa	oldtestgreek00unknuoft	169	5	«ἤλπισαν,	“ἤλπισαν,	ἤλπισαν,	ἤλπισαν,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	169	5	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	169	6	δὃς	δὃς	ὃς	ὃς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	169	7	ὑψηλοῖς:	ὑψηλοῖς:	ἐν	ἐν	image (3x): ἐν ὑψηλοῖς· as read
+isa	oldtestgreek00unknuoft	169	7	∅	∅	ὑψηλοῖς·	ὑψηλοῖς·	image (3x): ἐν ὑψηλοῖς· as read
+isa	oldtestgreek00unknuoft	169	8	Τόδὸς	Τόδὸς	ὁδὸς	ὁδὸς	image (3x): superscript 7 fused; ὁδὸς rough breathing
+isa	oldtestgreek00unknuoft	169	9	7	ἡ	ἡ	ἡ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	169	10	°	δὴ	ἡ	ἡ	image (3x): superscript 8 then ἡ with rough breathing only, no accent
+isa	oldtestgreek00unknuoft	169	10	ὁδὸς	ὁδὸς +Κ	ὁδὸς	ὁδὸς	image (3x): grave on ὁδὸς; Κυρίου is not a quotation
+isa	oldtestgreek00unknuoft	169	10	κρίσις:	κρίσις: +.	κρίσις·	κρίσις·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	169	10	ὀνόματί	ὀνόματί	ὀνόματί	ὀνόματί	image (3x): acute on ultima before enclitic
+isa	oldtestgreek00unknuoft	169	11	pveia	'μνείᾳ	μνείᾳ	μνείᾳ	image (3x): iota subscript under α
+isa	oldtestgreek00unknuoft	169	11	2	ἡ	ᾗ	ᾗ	image (3x): ᾗ rough breathing, circumflex, iota subscript
+isa	oldtestgreek00unknuoft	169	11	πνεῦμά	πνεῦμά	πνεῦμά	πνεῦμά	image (3x): acute on ultima before enclitic
+isa	oldtestgreek00unknuoft	169	12	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	169	12	προστάγματά	προστάγματά	προστάγματά	προστάγματά	image (3x): acute on ultima before enclitic
+isa	oldtestgreek00unknuoft	169	13	“πέπαυται	“πέπαυται	πέπαυται	πέπαυται	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	169	14	ἀσεβής:	ἀσεβής:	ἀσεβής·	ἀσεβής·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	169	15	ποιήσει"	ποιήσει:	ποιήσει·	ποιήσει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	169	15	Κυρίου. +“τ	Κυρίου. +“τ	Κυρίου.	Κυρίου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	169	16	ὑψηλός	ὑψηλός	ὑψηλός	ὑψηλός	image (3x): acute on ultima before enclitic
+isa	oldtestgreek00unknuoft	169	16	ἤδεισαν,	ἤδεισαν,	ᾔδεισαν,	ᾔδεισαν,	image (3x): iota subscript under η: ᾔδεισαν
+isa	oldtestgreek00unknuoft	169	16	αἰσχυνθήσονται"	αἰσχυνθήσονται +᾿	αἰσχυνθήσονται·	αἰσχυνθήσονται·	image (3x): ano teleia
+isa	oldtestgreek00unknuoft	169	18	“Κύριε	1 +“Κύριε	Κύριε	Κύριε	image (3x): superscript 12 fused; Κύριε
+isa	oldtestgreek00unknuoft	169	19	ἡμῖν,	ἡμῖν,	ἡμῖν.	ἡμῖν.	ambiguous (6x): small round dot on baseline, faint tail; read period (see flag row)
+isa	oldtestgreek00unknuoft	169	19	"κτῆσαι	"κτῆσαι	κτῆσαι	κτῆσαι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	169	19	Κύριε:	Κύριε:	Κύριε·	Κύριε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	169	19	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): acute on ultima before enclitic
+isa	oldtestgreek00unknuoft	169	20	“oi	"Φοἱ	οἱ	οἱ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	169	19	-	-	ἡμῖν.	ἡμῖν.	ambiguous: point after ἡμῖν is a small round dot on the baseline with a faint tail, OCRs read comma; compared with clear commas on the line, read period

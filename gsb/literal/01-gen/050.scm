@@ -295,7 +295,7 @@
     ("of tomb" 25)
     ("from" (26 from))
     ("Ephron" (27 name "Ἐφρών"))
-    ("of Hittite," (28 unrendered) (29 name "Χετταῖος"))
+    ("the Hittite," 28 (29 name "Χετταῖος"))
     ("opposite" 30)
     ("Mamre." (31 name "Μαμβρή"))))
 

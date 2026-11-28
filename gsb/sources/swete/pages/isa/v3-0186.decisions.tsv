@@ -1,0 +1,25 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	186	1	∅	ϑκαὶ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	186	2	θεῖον:	θεῖον:	θεῖον·	θεῖον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	186	2	"“νυκτὸς	"“νυκτὸς	νυκτὸς	νυκτὸς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	186	5	“ὄρνεα	“ὄρνεα	ὄρνεα	ὄρνεα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	186	6	αὐτῇ"	αὐτῇ"	αὐτῇ·	αὐτῇ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	186	6	ἐρή-	ἐρή-	ἐρή-	ἐρή-	image (3x): ἐρή-μου hyphenated word, no enclitic
+isa	oldtestgreek00unknuoft	186	7	“oi	"οἱ	οἱ	οἱ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	186	8	ἔσονται:	ἔσονται:	ἔσονται·	ἔσονται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	186	9	“Skat	"᾿βΞκαὶ	καὶ	καὶ	image (3x): superscript 13 then καὶ
+isa	oldtestgreek00unknuoft	186	9	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	186	9	tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	186	9	πόλεις.	πόλεις.	πόλεις	πόλεις	image (3x): no point after the word, speck only
+isa	oldtestgreek00unknuoft	186	11	στρουθῶν:	στρουθῶν:	στρουθῶν·	στρουθῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	186	11	“Kai	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	186	11	Bon-	βοή-	βοή-	βοή-	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	186	13	ἀνάπαυσιν:	ἀνάπαυσιν:	ἀνάπαυσιν·	ἀνάπαυσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	186	13	“Seéxet	""ἐκεῖ	ἐκεῖ	ἐκεῖ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	186	14	ἀσφαλείας:	ἀσφαλείας:	ἀσφαλείας·	ἀσφαλείας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	186	15	ἀλλήλων:	ἀλλήλων:	ἀλλήλων·	ἀλλήλων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	186	15	““ἀριθμῷ	““ἀριθμῷ	ἀριθμῷ	ἀριθμῷ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	186	17	“Kai	"7καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	186	18	διεμέρισεν.	διεμέρισεν.	διεμέρισεν	διεμέρισεν	image (3x): no point after the word, speck only
+isa	oldtestgreek00unknuoft	186	18	βόσκεσθαι:	βόσκεσθαι:	βόσκεσθαι·	βόσκεσθαι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	186	18	-	-	διεμέρισεν	διεμέρισεν	ambiguous: faint light mark after the word, off the ink weight of a point; read as speck, no punctuation

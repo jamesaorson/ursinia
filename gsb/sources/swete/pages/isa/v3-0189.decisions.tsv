@@ -1,0 +1,53 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	189	1	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	189	1	*°xal	το +“καὶ	καὶ	καὶ	image (3x): superscript verse number then καὶ
+isa	oldtestgreek00unknuoft	189	1	μὴ.	μὴ.	μὴ	μὴ	image (6x): faint light speck after μὴ, not a period
+isa	oldtestgreek00unknuoft	189	1	Κυρίου.	Κυρίου.	Κυρίου	Κυρίου	image (3x): no point or mark beside the word, speck only
+isa	oldtestgreek00unknuoft	189	2	μέ	μέ	μέ	μέ	image (3x): acute on μέ before capitalized quotation
+isa	oldtestgreek00unknuoft	189	2	Ἀνάβηθι	Ἀνάβηθι	Ἀνάβηθι	Ἀνάβηθι	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	189	3	“Kai	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	189	3	αὐτὸν	αὐτὸν	αὐτὸν	αὐτὸν	image (3x): grave before a name, not a quotation
+isa	oldtestgreek00unknuoft	189	3	Ἐλιακεὶμ	Ἐλιακεὶμ	Ἐλιακεὶμ	Ἐλιακεὶμ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	189	4	Ἰώας	Ἰώας	Ἰώας	Ἰώας	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	189	4	παῖδάς	παῖδάς	παῖδάς	παῖδάς	image (3x): παῖδάς σου, extra acute before enclitic
+isa	oldtestgreek00unknuoft	189	5	Ἰουδαιστί".	Ἰουδαιστί"-	Ἰουδαιστί·	Ἰουδαιστί·	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	189	6	“τῷ	“τῷ	τῷ	τῷ	image (3x): no point or mark beside the word, speck only
+isa	oldtestgreek00unknuoft	189	6	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	189	7	ἹῬαβσάκης	«ς +Ραβσάκης	Ῥαβσάκης	Ῥαβσάκης	image (3x): rough breathing on Ρ
+isa	oldtestgreek00unknuoft	189	7	αὐτούς	αὐτούς	αὐτούς	αὐτούς	image (3x): acute before capitalized quotation Μὴ
+isa	oldtestgreek00unknuoft	189	8	ἀπέσταλκέν	ἀπέσταλκέν	ἀπέσταλκέν	ἀπέσταλκέν	image (3x): ἀπέσταλκέν με, extra acute before enclitic
+isa	oldtestgreek00unknuoft	189	8	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	189	8	κύριός.	κύριός.	κύριός	κύριός	image (3x): no point or mark beside the word, speck only
+isa	oldtestgreek00unknuoft	189	8	λαλῆσαι	λαλῆσαϊ	λαλῆσαι	λαλῆσαι	image (3x): λαλῆσαι, no diaeresis
+isa	oldtestgreek00unknuoft	189	8	τοὕτους;	τούτους;	τούτους;	τούτους;	image (3x): τούτους, acute on υ, no breathing
+isa	oldtestgreek00unknuoft	189	9	ἵνα	ἵνα.	ἵνα	ἵνα	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	189	10	Κύπρον	κόπρον	κόπρον	κόπρον	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	189	10	ἅμα; +3	ἅμα; +"3	ἅμα;	ἅμα;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	189	10	ἔστη	ἔστη +ε	ἔστη	ἔστη	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	189	10	Ῥαψάκης	Ῥαψάκης	Ῥαψάκης	Ῥαψάκης	image (3x): rough breathing on Ρ
+isa	oldtestgreek00unknuoft	189	11	Ἰ̓Ιουδαιστὶ	Ἰ̓ουδαιστὶ	Ἰουδαιστὶ	Ἰουδαιστὶ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	189	11	Ἀκούσατε	Ἀκούσατε	Ἀκούσατε	Ἀκούσατε	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	189	12	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	189	12	"Τάδε	"Τάδε	Τάδε	Τάδε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	189	13	βασιλεύς	βασιλεύς	βασιλεύς	βασιλεύς	image (3x): acute before capitalized quotation Μὴ
+isa	oldtestgreek00unknuoft	189	13	Ἕζεκίας	Ἑζεκίας	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing only on Ε, no accent
+isa	oldtestgreek00unknuoft	189	14	ὑμᾶς:	ὑμᾶς:	ὑμᾶς·	ὑμᾶς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	189	14	"καὶ	15 +"καὶ	καὶ	καὶ	image (3x): superscript verse number then καὶ
+isa	oldtestgreek00unknuoft	189	14	ἝἙ +ζεκίας	ἝἙ +ζεκίας	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing only on Ε, no accent
+isa	oldtestgreek00unknuoft	189	14	ὅτι	ὅτι +«	ὅτι	ὅτι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	189	14	Ῥύσεται	Ῥύσεται	Ῥύσεται	Ῥύσεται	image (3x): rough breathing on Ρ
+isa	oldtestgreek00unknuoft	189	15	«αὕτη	«αὕτη	αὕτη	αὕτη	image (3x): rough+acute on υ, same shape as ὅτι on leaf line 14; no quotation mark
+isa	oldtestgreek00unknuoft	189	15	Ἀσσυ-	Ἀσσυ-	Ἀσσυ-	Ἀσσυ-	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	189	16	ρίων:	ρίων:	ρίων·	ρίων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	189	16	"μὴ	"“μὴ	μὴ	μὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	189	16	‘Efexiov.	“Ἑζεκίου.	Ἑζεκίου.	Ἑζεκίου.	image (3x): rough breathing only on Ε, no accent
+isa	oldtestgreek00unknuoft	189	16	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave before a name, not a quotation
+isa	oldtestgreek00unknuoft	189	16	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	189	16	Ei	Ἐὲΐ	Εἰ	Εἰ	image (3x): Εἰ, smooth breathing on ι, capital starting quotation
+isa	oldtestgreek00unknuoft	189	17	μέ,	μέ;	μέ,	μέ,	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	189	18	ὕδωρ.	ὕδωρ.	ὕδωρ	ὕδωρ	image (3x): no point or mark beside the word, speck only
+isa	oldtestgreek00unknuoft	189	19	Tews	Τξως	ἕως	ἕως	image (3x): superscript 17 then ἕως, rough+acute
+isa	oldtestgreek00unknuoft	189	19	ἡ"	ἡ"	ἡ	ἡ	image (3x): no point or mark beside the word, speck only
+isa	oldtestgreek00unknuoft	189	20	"καὶ	Ε +᾿καὶ	καὶ	καὶ	image (3x): in-text § then καὶ
+isa	oldtestgreek00unknuoft	189	20	“μὴ	"μὴ	μὴ	μὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	189	1	-	-	μὴ	μὴ	ambiguous: faint light dot after μὴ, much lighter than the period after ἀναβάτην; read speck, no punctuation

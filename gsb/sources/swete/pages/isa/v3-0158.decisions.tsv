@@ -1,0 +1,35 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	158	1	᾿βἐξέλιπον	᾿ϑἐξέλιπον	ἐξέλιπον	ἐξέλιπον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	158	2	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	158	2	"Κύριος	"Κύριος	Κύριος	Κύριος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	158	3	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	158	4	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	158	4	“ἐμῶν	“ἐμῶν	ἐμῶν	ἐμῶν	image (3x): word as in page file; OCR junk
+isa	oldtestgreek00unknuoft	158	4	ἅμα. +75	ἅμα. +“5 χϑ	ἅμα.	ἅμα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	158	5	Αἰγυπτίοις	Αἰγυπτίοις	Αἰγυπτίοις	Αἰγυπτίοις	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	158	6	τέλος. +16	τέλος. +16	τέλος.	τέλος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	158	6	Αἰγύπτιοι	Αἰγύπτιοι	Αἰγύπτιοι	Αἰγύπτιοι	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	158	7	χειρὸς	χειρὸς	χειρὸς	χειρὸς	image (3x): grave on χειρὸς before Κυρίου (a name, not a quotation)
+isa	oldtestgreek00unknuoft	158	8	«ai	"7καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	158	9	Ἰουδαίων	Ἰουδαίων	Ἰουδαίων	Ἰουδαίων	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	158	9	Αἰγυπτίοις	Αἰγυπτίοις	Αἰγυπτίοις	Αἰγυπτίοις	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	158	9	φόβηθρον:	φόβηθρον:	φόβηθρον·	φόβηθρον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	158	11	TH	Τῇ	Τῇ	Τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	158	11	Ai=	ΑἰΞ	Αἰ-	Αἰ-	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	158	13	Κυρίου:	Κυρίου:	Κυρίου·	Κυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	158	13	πόλις.	πόλις. +ἐ9	πόλις.	πόλις.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	158	13	2TH	Τῇ	Τῇ	Τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	158	14	Αἰγυπτίων,	Αἰγυπτίων,	Αἰγυπτίων,	Αἰγυπτίων,	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	158	15	““καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	158	16	ἐν	ἐν +᾿	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	158	16	Αἰγύπτου:	Αἰγύπτου:	Αἰγύπτου·	Αἰγύπτου·	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	158	18	“"καὶ	“"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	158	19	Αἰγυπτίοις:	Αἰγυπτίοις:	Αἰγυπτίοις·	Αἰγυπτίοις·	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	158	19	.οἱ	.οἱ	οἱ	οἱ	image (3x): speck before οἱ, not text
+isa	oldtestgreek00unknuoft	158	19	Αἰγύπτιοι	Αἰγύπτιοι	Αἰγύπτιοι	Αἰγύπτιοι	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	158	20	κυρίῳ.	κυρίῳ.	κυρίῳ	κυρίῳ	image (3x): no point after κυρίῳ; OCR period is margin junk
+isa	oldtestgreek00unknuoft	158	21	“καὶ	“᾿καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	158	21	Αἰγυπτίους	Αἰγυπτίους	Αἰγυπτίους	Αἰγυπτίους	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	158	21	πληγῇ;	. +πληγῇ;	πληγῇ,	πληγῇ,	image (3x): word as in page file; OCR junk
+isa	oldtestgreek00unknuoft	158	22	εἰσα5	εἰσα3	εἰσα-	εἰσα-	image (3x): word as in page file; OCR junk
+isa	oldtestgreek00unknuoft	158	13	-	-	ἁσεδὲκ	ἁσεδὲκ	image (8x): breathing on α is a curl opening left (rough), no accent on α; OCRs agree; read ἁσεδὲκ

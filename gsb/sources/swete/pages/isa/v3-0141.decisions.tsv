@@ -1,0 +1,39 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	141	1	ἄξω	ἄξω +ἄξω	ἄξω	ἄξω	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	141	1	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	141	1	ὑγείαν	ὑγ	ὑγείαν	ὑγείαν	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	141	1	αὐτῷ.	Ὁ.	αὐτῷ.	αὐτῷ.	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	141	1	7peyady	Τμεγάλη	μεγάλη	μεγάλη	image (3x): verse superscript / OCR junk, word as read
+isa	oldtestgreek00unknuoft	141	2	“εἰρήνης	“εἰρήνης	εἰρήνης	εἰρήνης	image (3x): verse superscript / OCR junk, word as read
+isa	oldtestgreek00unknuoft	141	5	αἰῶνα"	αἰῶνα"	αἰῶνα·	αἰῶνα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	141	6	8 +θάνατον	8 +ϑθάνατον	Θάνατον	Θάνατον	image (3x): verse superscript / OCR junk, word as read
+isa	oldtestgreek00unknuoft	141	6	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	141	6	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	141	7	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	141	7	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	141	8	ὑψηλῇ	ὑψηχῇ	ὑψηλῇ	ὑψηλῇ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	141	8	" +πλίνθοι	"“ +πλίνθοι	Πλίνθοι	Πλίνθοι	image (3x): verse superscript / OCR junk, word as read
+isa	oldtestgreek00unknuoft	141	10	"καὶ	“καὶ	καὶ	καὶ	image (3x): verse superscript / OCR junk, word as read
+isa	oldtestgreek00unknuoft	141	10	pager	ῥάξει	ῥάξει	ῥάξει	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	141	12	“Συρίαν	“Συρίαν	Συρίαν	Συρίαν	image (3x): verse superscript / OCR junk, word as read
+isa	oldtestgreek00unknuoft	141	12	ἀνατοχῶν	ἀνατολῶν	ἀνατολῶν	ἀνατολῶν	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	141	12	καὶ +-	καὶ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	141	13	Ἕλληνας	Ἕλληνας	Ἕλληνας	Ἕλληνας	image (3x): rough breathing + acute
+isa	oldtestgreek00unknuoft	141	13	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	141	13	ὅλῳ	ὅλῳ᾽	ὅλῳ	ὅλῳ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	141	14	ὁ	ὁ +θ	ὁ	ὁ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	141	14	ἔτε	ἔτε	ἔτι	ἔτι	image (3x): ι, not ε
+isa	oldtestgreek00unknuoft	141	15	"βκαὶ	"βκαὶ	καὶ	καὶ	image (3x): verse superscript / OCR junk, word as read
+isa	oldtestgreek00unknuoft	141	15	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	141	16	™4Kat	᾿φκαὶ	Καὶ	Καὶ	image (3x): verse superscript / OCR junk, word as read
+isa	oldtestgreek00unknuoft	141	16	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	141	18	τὴν	τὴν	την	την	image (3x): unaccented την (end of hyphenated πρεσβύ-την)
+isa	oldtestgreek00unknuoft	141	18	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	141	18	“καὶ	"καὶ	καὶ	καὶ	image (3x): verse superscript / OCR junk, word as read
+isa	oldtestgreek00unknuoft	141	19	ovpa.	οὐρά.	οὐρά.	οὐρά.	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	141	19	“Kal	. +"καὶ	καὶ	καὶ	image (3x): verse superscript / OCR junk, word as read
+isa	oldtestgreek00unknuoft	141	19	ot	οἷ	οἱ	οἱ	ambiguous: rough breathing with an ink dot beside it (broken type/blot); read οἱ
+isa	oldtestgreek00unknuoft	141	20	“λαὸν	λαὸν	λαὸν	λαὸν	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	141	21	""διὰ	"διὰ	διὰ	διὰ	image (3x): verse superscript / OCR junk, word as read
+isa	oldtestgreek00unknuoft	141	21	αὐτῶν.	αὐτῶν.	αὐτῶν	αὐτῶν	ambiguous: faint small dot after αὐτῶν at mid x-height, lighter than real points; read as speck, no punctuation
+isa	oldtestgreek00unknuoft	141	21	-	-	αὐτῶν	αὐτῶν	ambiguous: faint dot after the word at line end, lighter than real points; read speck

@@ -1,0 +1,61 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	216	1	ἀναγγεΐλατε	ἀναγγείλατε	ἀναγγείλατε	ἀναγγείλατε	image (3x): letters and diacritics as written; OCR misread
+isa	oldtestgreek00unknuoft	216	1	THs	τῆς	τῆς	τῆς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	216	2	Ἐρρύσατοϊ	Ἐρρύσατοϊ	Ἐρρύσατο	Ἐρρύσατο	image (3x): smooth breathing on capital, as written
+isa	oldtestgreek00unknuoft	216	2	Ἰακώβ:	Ἰακώβ: +“"	Ἰακώβ·	Ἰακώβ·	image (3x): smooth breathing on capital, as written
+isa	oldtestgreek00unknuoft	216	2	“καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	216	2	διψήσωσιν,	διψήσωσιν, +:ι	διψήσωσιν,	διψήσωσιν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	216	3	2 +bv	δι᾽	δι᾽	δι᾽	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	216	4	λαός	λαός	λαός	λαός	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	216	4	μου.	μου,	μου.	μου.	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	216	4	““οὐκ	““οὐκ	οὐκ	οὐκ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	216	5	λέγει	λέγεϊ	λέγει	λέγει	image (3x): letters and diacritics as written; OCR misread
+isa	oldtestgreek00unknuoft	216	6	_ +’Axovoaré	- +Ακούσατέ	Ἀκούσατέ	Ἀκούσατέ	image (3x): smooth breathing on capital, as written
+isa	oldtestgreek00unknuoft	216	6	ἔθνη"	ἔθνη"	ἔθνη·	ἔθνη·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	216	7	μητρός	μητρός	μητρός	μητρός	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	216	7	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	216	8	"καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	216	9	ἔκρυψέν	ἔκρυψέν	ἔκρυψέν	ἔκρυψέν	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	216	9	με	με	με·	με·	image (3x): ano teleia after με
+isa	oldtestgreek00unknuoft	216	9	ἔθηκέν	ἔθηκέν	ἔθηκέν	ἔθηκέν	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	216	10	ἔκρυψέν	ἔκρυψέν	ἔκρυψέν	ἔκρυψέν	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	216	10	35καὶ	Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	216	10	εἶπέν	εἶπέν	εἶπέν	εἶπέν	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	216	10	Δοῦλός	Δοῦλός	Δοῦλός	Δοῦλός	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	216	10	pov	μοῦ	μου	μου	image (3x): letters and diacritics as written; OCR misread
+isa	oldtestgreek00unknuoft	216	11	σύ,	σύ,	σύ,	σύ,	image (3x): accent before capitalized word as written
+isa	oldtestgreek00unknuoft	216	11	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on capital, as written
+isa	oldtestgreek00unknuoft	216	11	᾿“καὶ	᾿“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	216	12	ἐκοπίασα;	ἐκοπίασα;	ἐκοπίασα,	ἐκοπίασα,	image (3x): comma, not question mark
+isa	oldtestgreek00unknuoft	216	12	ἰσχύν	ἰσχύν	ἰσχύν	ἰσχύν	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	216	12	μου"	μου"	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	216	13	ἣ	ἣ	ἡ	ἡ	image (3x): letters and diacritics as written; OCR misread
+isa	oldtestgreek00unknuoft	216	13	θεοῦ"	θεοῦ"	θεοῦ	θεοῦ	image (3x): letters and diacritics as written; OCR misread
+isa	oldtestgreek00unknuoft	216	14	Sxal	ϑΒκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	216	14	ἑαυτῷ +5	ἑαυτῷ +5	ἑαυτῷ	ἑαυτῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	216	15	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing on capital, as written
+isa	oldtestgreek00unknuoft	216	15	Ἰσραήλ.	Ἰσραήλ	Ἰσραὴλ	Ἰσραήλ	image (3x): smooth breathing on capital, as written
+isa	oldtestgreek00unknuoft	216	15	Συναχθήσομαν	Συναχθήσομαι	Συναχθήσομαι	Συναχθήσομαι	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	216	16	‘kai	᾿καὶ	καὶ	καὶ	image (3x): letters and diacritics as written; OCR misread
+isa	oldtestgreek00unknuoft	216	16	“ἐναντίον	“ἐναντίον	ἐναντίον	ἐναντίον	image (3x): letters and diacritics as written; OCR misread
+isa	oldtestgreek00unknuoft	216	16	δ᾽	δ᾽	ὁ	ὁ	image (3x): letters and diacritics as written; OCR misread
+isa	oldtestgreek00unknuoft	216	17	καὶ	ὁκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	216	17	εἶπέν	εἶπέν	εἶπέν	εἶπέν	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	216	17	Méya	Μέγα	Μέγα	Μέγα	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	216	17	σοί	σοί	σοί	σοί	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	216	17	κληθῆναί	κληθῆναί	κληθῆναί	κληθῆναί	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	216	17	παῖδά	παῖδά	παῖδά	παῖδά	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	216	17	Tod	τοῦ +6	τοῦ	τοῦ	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	216	18	φυλὰς	φυλὰς	φυλὰς	φυλὰς	image (3x): accent before capitalized word as written
+isa	oldtestgreek00unknuoft	216	18	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing on capital, as written
+isa	oldtestgreek00unknuoft	216	18	Ἰσραὴλ᾽	Ἰσραὴλ᾽	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital, as written
+isa	oldtestgreek00unknuoft	216	18	ἐπὶ-	ἐπὶ-	ἐπι-	ἐπι-	image (3x): letters and diacritics as written; OCR misread
+isa	oldtestgreek00unknuoft	216	19	στρέψαι:	στρέψαι:	στρέψαι·	στρέψαι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	216	19	δέδωκά	δέδωκά	δέδωκά	δέδωκά	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	216	20	εἶναί	εἶναί	εἶναί	εἶναί	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	216	20	Τοὕτως	Τοὕτως	οὕτως	οὕτως	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	216	20	ὁ	ὃ	ὁ	ὁ	image (3x): letters and diacritics as written; OCR misread
+isa	oldtestgreek00unknuoft	216	21	ῥυσάμενός	ῥυσάμενός	ῥυσάμενός	ῥυσάμενός	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	216	21	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): accent before capitalized word as written
+isa	oldtestgreek00unknuoft	216	21	Ἰσραήλ	Ἰσραήλ	Ἰσραήλ	Ἰσραήλ	image (3x): smooth breathing on capital, as written
+isa	oldtestgreek00unknuoft	216	21	Ἀγιάσατε	Ἀγιάσατε	Ἁγιάσατε	Ἁγιάσατε	image (3x): rough breathing on capital

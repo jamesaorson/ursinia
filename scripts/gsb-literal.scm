@@ -76,7 +76,7 @@
 (define (verse-number ref)
   (let* ((s (last (string-split ref #\.))) (n (string->number s))) (or n s)))
 
-(define (out-path book chapter) (format #f "~a/~a/~3,'0d.scm" %out (book-file-stem book) chapter))
+(define (out-path book chapter) (literal-chapter-path book chapter))
 
 (define (book-verses book)
   (let ((p (greek-table-path book)))
@@ -84,8 +84,9 @@
     (read-greek-table p)))
 
 (define (parse-chapters book args)
-  (map (lambda (a) (or (and (string->number a) (> (string->number a) 0) (string->number a))
-                       (die "chapter ~s is not a positive number" a)))
+  ;; a number, or the capital letter of a lettered addition (Esther A-F)
+  (map (lambda (a) (or (chapter-arg a)
+                       (die "chapter ~s is not a positive number or a capital letter (Esther's additions: A-F)" a)))
        args))
 
 ;;; Generating.
@@ -132,9 +133,9 @@
 (define (existing-chapters)
   "(book . chapters) for every chapter file already in gsb/literal/."
   (filter-map (lambda (b)
-                (let ((cs (filter-map (lambda (p) (chapter-file-number (basename p)))
+                (let ((cs (filter-map (lambda (p) (literal-chapter-key (basename p)))
                                       (dir-files (string-append %out "/" (book-file-stem b)) ".scm"))))
-                  (and (pair? cs) (cons b cs))))
+                  (and (pair? cs) (cons b (sort cs chapter<?)))))
               (read-books)))
 
 (define (targets args)
@@ -258,7 +259,7 @@ verse mostly overrides) are listed."
 (define (literal-text items) (segments-text (filter pair? (literal-segments items))))
 
 (define (compare env book chapter)
-  (let* ((hand-path (format #f "gsb/translation/~a/~3,'0d.scm" (book-file-stem book) chapter))
+  (let* ((hand-path (format #f "gsb/translation/~a/~a.scm" (book-file-stem book) (if (number? chapter) (format #f "~3,'0d" chapter) chapter)))
          (gen-path (out-path book chapter)))
     (unless (file-exists? hand-path) (die "no hand draft ~a to compare with" hand-path))
     (unless (file-exists? gen-path) (die "~a not generated; run ./scripts/gsb-literal.sh generate ~a ~a" gen-path (book-field book 'id) chapter))
@@ -306,7 +307,7 @@ verse mostly overrides) are listed."
     (("todo" id . cs)
      (let* ((b (find-book id)) (env (load-env)))
        (todo env b (if (null? cs)
-                       (delete-duplicates (map (lambda (v) (string->number (cadr (string-split (car v) #\.)))) (book-verses b)))
+                       (delete-duplicates (filter-map (lambda (v) (chapter-arg (cadr (string-split (car v) #\.)))) (book-verses b)))
                        (parse-chapters b cs)))))
     (("todo") (die "todo needs a book: ./scripts/gsb-literal.sh todo gen 4"))
     (("check" . rest) (check (load-env) (targets rest)))

@@ -1,0 +1,55 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	196	1	σουσίν	σουσίν	σουσίν	σουσίν	image (3x): acute before enclitic σε
+isa	oldtestgreek00unknuoft	196	1	oi	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	196	1	adov	ἅδου	ᾅδου	ᾅδου	image (3x): rough breathing, circumflex, iota subscript
+isa	oldtestgreek00unknuoft	196	1	oi	το +"οἷ	οἱ	οἱ	image (3x): rough breathing and acute
+isa	oldtestgreek00unknuoft	196	2	εὐλογήσουσίν	εὐλογήσουσίν	εὐλογήσουσίν	εὐλογήσουσίν	image (3x): acute before enclitic σε
+isa	oldtestgreek00unknuoft	196	2	κἀγώ:	κἀγώ:	κἀγώ·	κἀγώ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	196	2	τῆς	τῆς.	τῆς	τῆς	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	196	3	bee	“θεὲ	θεὲ	θεὲ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	196	4	μου:	μου᾽	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	196	4	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	196	5	pou	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	196	6	Kal	“Καὶ	Καὶ	Καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	196	6	Hoaias	Ἠσαίας	Ἠσαίας	Ἠσαίας	image (3x): smooth breathing on Η
+isa	oldtestgreek00unknuoft	196	6	Ἕ +ζεκίαν	Ἕ +εκίαν	Ἑζεκίαν	Ἑζεκίαν	image (3x): rough breathing on Ε
+isa	oldtestgreek00unknuoft	196	6	παλάθην.	παλάθην.	παλάθην	παλάθην	image (3x): no point after the word
+isa	oldtestgreek00unknuoft	196	7	kal	“᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	196	7	“Εζεκίας	“Εζεκίας	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing on Ε
+isa	oldtestgreek00unknuoft	196	8	Ἕ +ζεκίαν	Ἕ +ζεκίαν	Ἑζεκίαν	Ἑζεκίαν	image (3x): rough breathing on Ε
+isa	oldtestgreek00unknuoft	196	9	"Ἐν	"Ἐν	Ἐν	Ἐν	image (3x): smooth breathing, no accent
+isa	oldtestgreek00unknuoft	196	9	Μαρωδὰχ	Μαρωδὰχ	Μαρωδὰχ	Μαρωδὰχ	image (3x): grave before proper name (not a quotation)
+isa	oldtestgreek00unknuoft	196	9	vids	υἱὸς	υἱὸς	υἱὸς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	196	9	τοῦ:	τοῦ	τοῦ	τοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	196	10	δῶρα-	δῶρα"	δῶρα·	δῶρα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	196	11	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	196	11	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	196	11	ἐπ	ἐπ᾽	ἐπ᾽	ἐπ᾽	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	196	12	‘E¢exias,	Ἕ +ζεκίας,	Ἑζεκίας,	Ἑζεκίας,	image (3x): rough breathing on Ε
+isa	oldtestgreek00unknuoft	196	12	Tov	τὸν	τὸν	τὸν	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	196	15	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	196	15	Ἕ +ζεκίας	« +“ζεκίας	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing on Ε
+isa	oldtestgreek00unknuoft	196	16	53καὶ	53καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	196	16	Ἠσαίας	Ἠσαίας	Ἠσαίας	Ἠσαίας	image (3x): smooth breathing on Η
+isa	oldtestgreek00unknuoft	196	17	Ἐζεκίαν	ε +Ἐζεκίαν	Ἑζεκίαν	Ἑζεκίαν	image (3x): rough breathing on Ε
+isa	oldtestgreek00unknuoft	196	17	αὐτόν.	αὐτόν	αὐτόν	αὐτόν	image (3x): acute before capitalized quotation, no point
+isa	oldtestgreek00unknuoft	196	18	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	196	18	‘ECexias	“Ἑζεκίας	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing on Ε
+isa	oldtestgreek00unknuoft	196	18	Ἔκ	Ἔκ	Ἐκ	Ἐκ	image (3x): smooth breathing, no accent
+isa	oldtestgreek00unknuoft	196	19	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	196	19	“Hoaias	Ἤ +σαίας	Ἠσαίας	Ἠσαίας	image (3x): smooth breathing on Η
+isa	oldtestgreek00unknuoft	196	19	Ti	Τί	Τί	Τί	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	196	20	καὶ	και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	196	20	“Ἑζεκίας	Ἐζεκίας	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing on Ε
+isa	oldtestgreek00unknuoft	196	20	ΤἸΙάντα	Πάντα	Πάντα	Πάντα	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	196	20	οἴκῳ	οἰκῷ	οἴκῳ	οἴκῳ	image (3x): smooth+acute on ι, iota subscript under ω
+isa	oldtestgreek00unknuoft	196	21	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	196	21	τοῖς	τοῖς +θ	τοῖς	τοῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	196	21	pov. +ὅ	μου. +5	μου.	μου.	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	196	22	Ἠσαίας	Ἠσαίας	Ἠσαίας	Ἠσαίας	image (3x): smooth breathing on Η
+isa	oldtestgreek00unknuoft	196	22	“Axovcoy	ΓΑκουσον	Ἄκουσον	Ἄκουσον	image (3x): smooth breathing + acute
+isa	oldtestgreek00unknuoft	196	22	σαβαώθ	σαβαώθ	σαβαώθ	σαβαώθ	image (3x): acute before capitalized quotation
+isa	oldtestgreek00unknuoft	196	22	“Ἰ̓δοὺ	“Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing, superscript 6 before
+isa	oldtestgreek00unknuoft	196	23	TO	τῷ	τῷ	τῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	196	23	Gov,	σου,	σου,	σου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	196	23	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip

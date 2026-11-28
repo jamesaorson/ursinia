@@ -1,0 +1,43 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	131	1	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	131	1	“Kai	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	131	1	THY +B	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	131	2	Kal	ΞΞκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	131	3	κόκκινα;	κόκκινα,	κόκκινα,	κόκκινα,	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	131	3	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	131	4	kal	“Γκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	131	6	ἕξεις	ἕξεις +ὃ	ἕξεις	ἕξεις	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	131	7	υἱός	υἱός	υἱός	υἱός	image (3x): acute on υἱός before enclitic σου
+isa	oldtestgreek00unknuoft	131	8	ἀγάπᾷς	ἀγάπᾷς	ἀγαπᾷς	ἀγαπᾷς	image (3x): letters and diacritics as in reading C (ᾷ with subscript, ῥ rough, lowercase τῶν/καὶ, αἷμα, ἐκ)
+isa	oldtestgreek00unknuoft	131	8	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	131	9	ταπεινωθήσονται"	ταπεινωθήσονται"	ταπεινωθήσονται·	ταπεινωθήσονται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	131	9	*xai	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	131	9	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	131	10	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	131	11	Ψψονταὶ	Ψψονταὶ	ψονται	ψονται	image (3x): ψονται, continuation of ἐπιλήμ-; no extra letter
+isa	oldtestgreek00unknuoft	131	12	περιβαλούμεθα-:	περιβαλούμεθα:	περιβαλούμεθα·	περιβαλούμεθα·	image (3x): raised ano teleia
+isa	oldtestgreek00unknuoft	131	13	2TH	5Τῇ	Τῇ	Τῇ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	131	15	Ἰσραήλ:	Ἰσραήλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): raised ano teleia
+isa	oldtestgreek00unknuoft	131	15	3καὶ	3καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	131	16	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing on Ἰ
+isa	oldtestgreek00unknuoft	131	17	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	131	17	Ἰερουσαλήμ.	᾿ερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing on Ἰ
+isa	oldtestgreek00unknuoft	131	17	“ὅτι	“ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	131	18	ρυπον	βυπον	ῥύπον	ῥύπον	image (3x): letters and diacritics as in reading C (ᾷ with subscript, ῥ rough, lowercase τῶν/καὶ, αἷμα, ἐκ)
+isa	oldtestgreek00unknuoft	131	18	Τῶν	Τῶν	τῶν	τῶν	image (3x): letters and diacritics as in reading C (ᾷ with subscript, ῥ rough, lowercase τῶν/καὶ, αἷμα, ἐκ)
+isa	oldtestgreek00unknuoft	131	18	Και	Και	καὶ	καὶ	image (3x): letters and diacritics as in reading C (ᾷ with subscript, ῥ rough, lowercase τῶν/καὶ, αἷμα, ἐκ)
+isa	oldtestgreek00unknuoft	131	18	TOV	Τῶν	τῶν	τῶν	image (3x): letters and diacritics as in reading C (ᾷ with subscript, ῥ rough, lowercase τῶν/καὶ, αἷμα, ἐκ)
+isa	oldtestgreek00unknuoft	131	18	Σειῶν,	Σειῶν,	Σειών,	Σειών,	image (3x): acute on ώ in Σειών, not circumflex
+isa	oldtestgreek00unknuoft	131	18	Kat	και	καὶ	καὶ	image (3x): letters and diacritics as in reading C (ᾷ with subscript, ῥ rough, lowercase τῶν/καὶ, αἷμα, ἐκ)
+isa	oldtestgreek00unknuoft	131	18	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	131	18	aya	αιμα	αἷμα	αἷμα	image (3x): letters and diacritics as in reading C (ᾷ with subscript, ῥ rough, lowercase τῶν/καὶ, αἷμα, ἐκ)
+isa	oldtestgreek00unknuoft	131	18	εκ	εκ	ἐκ	ἐκ	image (3x): letters and diacritics as in reading C (ᾷ with subscript, ῥ rough, lowercase τῶν/καὶ, αἷμα, ἐκ)
+isa	oldtestgreek00unknuoft	131	19	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	131	22	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	131	22	σκεπασθήσεται" +“	σκεπασθήσεται:	σκεπασθήσεται·	σκεπασθήσεται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	131	22	καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	131	23	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	131	24	‘Aco	Ἂ,	ᾌσω	ᾌσω	image (4x): smooth + acute (apostrophe then rising stroke) before capital Α with iota subscript printed beneath: ᾌσω
+isa	oldtestgreek00unknuoft	131	24	δὴ	ἢ	δὴ	δὴ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	131	24	dopa	ἄσμα	ᾆσμα	ᾆσμα	image (4x): smooth breathing + circumflex, iota subscript: ᾆσμα
+isa	oldtestgreek00unknuoft	131	24	ἀμπελῶνί	ἀμπελῶν +ί	ἀμπελῶνι	ἀμπελῶνί	image (4x): ἀμπελῶνί with acute on final ι (enclitic follows on next page)

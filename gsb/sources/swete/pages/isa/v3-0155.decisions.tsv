@@ -1,0 +1,55 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	155	1	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	155	1	σεισθήσεται.	σεισθήσεται. +ὅ	σεισθήσεται.	σεισθήσεται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	155	1	‘Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	155	2	ἐάν	ἐάν	ἐάν	ἐάν	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	155	2	ἑστηκότα.	ἑστηκότα	ἑστηκότα	ἑστηκότα	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	155	3	ἐάν	ἐάν	ἐάν	ἐάν	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	155	4	oreped,	ὁτερεᾷ,	στερεᾷ,	στερεᾷ,	image (3x): word as in page file; OCR junk/diacritic misread
+isa	oldtestgreek00unknuoft	155	4	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	155	5	ip	ἢ	ἢ	ἢ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	155	6	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	155	6	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave on θεὸς before Ἰσραήλ (a name, not a quotation)
+isa	oldtestgreek00unknuoft	155	6	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	155	7	∅	∅	τῇ	τῇ	image (3x): word as in page file; OCR junk/diacritic misread
+isa	oldtestgreek00unknuoft	155	8	“ὀφθαλμοὶ	“ὀφθαλμοὶ	ὀφθαλμοὶ	ὀφθαλμοὶ	image (3x): word as in page file; OCR junk/diacritic misread
+isa	oldtestgreek00unknuoft	155	8	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	155	9	wovra,	ψονται,	ψονται,	ψονται,	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	155	9	®xal	ξκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	155	10	of	οἵ	οἱ	οἱ	image (3x): word as in page file; OCR junk/diacritic misread
+isa	oldtestgreek00unknuoft	155	11	τῇ	“τῇ	τῇ	τῇ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	155	12	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	155	13	λίπον	λιπον	λιπον	λιπον	image (3x): word as in page file; OCR junk/diacritic misread
+isa	oldtestgreek00unknuoft	155	13	Ἀμορραῖοι	Ἀμορραῖοι	Ἀμορραῖοι	Ἀμορραῖοι	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	155	13	Εὑαῖοι	Ἑὑαῖοι	Εὐαῖοι	Εὑαῖοι	image (8x): curl opening left over υ = rough breathing; none on E
+isa	oldtestgreek00unknuoft	155	13	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	155	14	ἔρημοι"	ἔρημοι"	ἔρημοι·	ἔρημοι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	155	14	“διότι	4 +το δ "διότι	διότι	διότι	image (3x): word as in page file; OCR junk/diacritic misread
+isa	oldtestgreek00unknuoft	155	14	κατέλιπὲς	κατέλιπες	κατέλιπες	κατέλιπες	image (3x): word as in page file; OCR junk/diacritic misread
+isa	oldtestgreek00unknuoft	155	14	τὸν	τὸν +θ	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	155	14	σωτῆρά	σωτῆρά	σωτῆρά	σωτῆρά	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	155	14	κα	κα +ὶ	καὶ	καὶ	image (3x): word as in page file; OCR junk/diacritic misread
+isa	oldtestgreek00unknuoft	155	16	ἄπιστον:	ἄπιστον:	ἄπιστον·	ἄπιστον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	155	16	“rn	“τῇ	τῇ	τῇ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	155	16	ἣ	ἧ	ᾗ	ᾗ	image (3x): word as in page file; OCR junk/diacritic misread
+isa	oldtestgreek00unknuoft	155	17	ans,	σῃβ»;	σῃς,	σῃς,	image (3x): word as in page file; OCR junk/diacritic misread
+isa	oldtestgreek00unknuoft	155	17	πλανηθήσῃ:	πλανηθήσῃ:	πλανηθήσῃ·	πλανηθήσῃ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	155	17	7	ἧ	ᾗ	ᾗ	image (3x): word as in page file; OCR junk/diacritic misread
+isa	oldtestgreek00unknuoft	155	18	᾿κληρώσῃ,	᾿κληρώσῃ,	κληρώσῃ,	κληρώσῃ,	image (3x): word as in page file; OCR junk/diacritic misread
+isa	oldtestgreek00unknuoft	155	18	τοῖς	τοῖς.	τοῖς	τοῖς	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	155	19	Gov.	σου.	σου.	σου.	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	155	19	Οὐαὶ	Οὐαὶ	Οὐαὶ	Οὐαὶ	image (3x): smooth breathing on Οὐ
+isa	oldtestgreek00unknuoft	155	19	πολλῶν:	πολλῶν:	πολλῶν·	πολλῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	155	20	"ταραχθήσεσθε,	᾿ταραχθήσεσθε,	ταραχθήσεσθε,	ταραχθήσεσθε,	image (3x): word as in page file; OCR junk/diacritic misread
+isa	oldtestgreek00unknuoft	155	20	ἠχήσει:	ἠχήσει:	ἠχήσει·	ἠχήσει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	155	21	3a@s	βῶς	ὡς	ὡς	image (3x): word as in page file; OCR junk/diacritic misread
+isa	oldtestgreek00unknuoft	155	24	yls	γὶς	γὶς	γὶς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	155	24	πρὸς	14 +“πρὸς	πρὸς	πρὸς	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	155	24	εσπέεραν,	ἑσπέραν,	ἑσπέραν,	ἑσπέραν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	155	24	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	155	24	εσται	ἔσται	ἔσται	ἔσται	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	155	24	πενῦος"	πένθος"	πένθος·	πένθος·	image (3x): word as in page file; OCR junk/diacritic misread
+isa	oldtestgreek00unknuoft	155	24	πριν	πρὶν	πρὶν	πρὶν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	155	24	πρῶι,	πρωί,	πρωί,	πρωί,	image (3x): word as in page file; OCR junk/diacritic misread
+isa	oldtestgreek00unknuoft	155	24	Και	καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	155	2	-	-	συναγάγῃ,	συναγάγῃ,	ambiguous: mark after the word is a comma with a stray dot beside it; read comma

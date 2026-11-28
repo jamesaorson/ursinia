@@ -1,0 +1,29 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	164	1	kal	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	164	3	StH	“τῇ	τῇ	τῇ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	164	4	σαβαώθ᾽	σαβαώθ:	σαβαώθ·	σαβαώθ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	164	5	2,	πιστῷ,	πιστῷ,	πιστῷ,	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	164	5	πεσεῖται, +»	πεσεῖται, +ν	πεσεῖται,	πεσεῖται,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	164	5	ἐξολεθρευθή	ἐξολεθρευθή	ἐξολεθρευθήσεται	ἐξολεθρευθήσεται	image (3x): word complete on the line, OCR truncated it
+isa	oldtestgreek00unknuoft	164	7	To	Τὸ	Τὸ	Τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	164	8	᾿λολύξατε,	Ὀ̓Ολολύξατε,	Ὀλολύξατε,	Ὀλολύξατε,	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	164	9	Κιτιαίων":	Κιτιαίων:	Κιτιαίων·	Κιτιαίων·	image (3x): ano teleia
+isa	oldtestgreek00unknuoft	164	9	ἧκται.	ἧκται.	ἧκται	ἧκται	image: speck, not a period; ἧκται rough + circumflex
+isa	oldtestgreek00unknuoft	164	9	“τίνι	“τίνι	τίνι	τίνι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	164	10	Tes	κοῦντες	κοῦντες	κοῦντες	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	164	10	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	164	11	ἐν	ϑὲν	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	164	11	οἵ	οἱ	οἱ	οἱ	image (3x): rough breathing, no accent
+isa	oldtestgreek00unknuoft	164	12	“αἰσχύνθητι,	“αἰσχύνθητι,	αἰσχύνθητι,	αἰσχύνθητι,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	164	12	Oadacca:	θάλασσα:	θάλασσα·	θάλασσα·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	164	13	Οὐκ	Οὐκ	Οὐκ	Οὐκ	image (3x): smooth breathing on υ of Οὐκ
+isa	oldtestgreek00unknuoft	164	13	ὦὥδινον	ὥδινον	ὤδινον	ὤδινον	image (3x): smooth + acute (two-part mark), not rough
+isa	oldtestgreek00unknuoft	164	14	5 +"ὅταν	"ὅταν	ὅταν	ὅταν	image (3x): reads as written; OCR fused the superscript
+isa	oldtestgreek00unknuoft	164	15	Αἰγύπτῳ,	Αἰγύπτῳ,	Αἰγύπτῳ,	Αἰγύπτῳ,	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	164	15	δἀάπέλθατε	“ἀπέλθατε	ἀπέλθατε	ἀπέλθατε	image (3x): reads as written; OCR fused the superscript
+isa	oldtestgreek00unknuoft	164	15	Kap-	Καρ-	Καρ-	Καρ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	164	16	Τοὐχ	Τοὐχ	οὐχ	οὐχ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	164	17	®ris	ὃτίς	τίς	τίς	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	164	19	γῆς.	γῆς. +9	γῆς.	γῆς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	164	21	"ἐργάζου	"ἐργάζου	ἐργάζου	ἐργάζου	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	164	7	-	-	Τὸ	Τὸ	heading line (centered) beside margin XXIII; {C23}{1} put on the heading so it belongs to 23:1; Swete prints superscript 1 before Ὀλολύξατε on the next line

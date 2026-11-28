@@ -1,0 +1,35 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	125	1	OPAXIS	ΌΡΑΣΙΣ	ΟΡΑΣΙΣ	ΟΡΑΣΙΣ	image (3x): unaccented capitals of the book opening
+isa	oldtestgreek00unknuoft	125	1	“Hoaias	Ἤσαίας	Ἠσαίας	Ἠσαίας	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	125	1	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave before capitalized name (not a quotation)
+isa	oldtestgreek00unknuoft	125	1	Ἀμώς,	Ἀμώς,	Ἀμώς,	Ἀμώς,	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	125	1	Ἰουδαίας	Ἰουδαίας	Ἰουδαίας	Ἰουδαίας	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	125	2	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	125	2	Ὀζείου	Ὀζείου	Ὀζείου	Ὀζείου	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	125	2	Ἰωαθὰμ	Ιωαθὰμ	Ἰωαθὰμ	Ἰωαθὰμ	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	125	2	Ἀχὰς	Ἀχὰς	Ἀχὰς	Ἀχὰς	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	125	3	‘E¢ekiou	Ἑζεκίου	Ἐζεκίου	Ἑζεκίου	image (3x): rough breathing
+isa	oldtestgreek00unknuoft	125	3	οἱ	οἱ	οἳ	οἳ	image (3x): rough+grave, closed mark as on ἣν
+isa	oldtestgreek00unknuoft	125	3	ἐβασίλευσὰν	ἐβασίλευσὰν	ἐβασίλευσαν	ἐβασίλευσαν	ambiguous: image (8x): faint grey mark over final α, much lighter than ink (show-through); read no accent
+isa	oldtestgreek00unknuoft	125	3	Ἰουδαίας.	Ἰουδαίας.	Ἰουδαίας.	Ἰουδαίας.	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	125	4	"ἴΑκουε,	ΞἴΑκουε,	Ἄκουε,	Ἄκουε,	image (3x): smooth+acute, superscript 2 is the verse number
+isa	oldtestgreek00unknuoft	125	5	δέ	δέ	δέ	δέ	image (3x): acute before enclitic με
+isa	oldtestgreek00unknuoft	125	5	3ἔγνω	3ἔγνω	ἔγνω	ἔγνω	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	125	6	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	125	6	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	125	6	δέ	δέ	δέ	δέ	image (3x): acute before enclitic με
+isa	oldtestgreek00unknuoft	125	7	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	125	7	λαός	λαός	λαός	λαός	image (3x): acute before enclitic με
+isa	oldtestgreek00unknuoft	125	7	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	125	7	οὐ.	οὐ	οὐ	οὐ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	125	7	“οὐαὶ	“οὐαὶ	οὐαὶ	οὐαὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	125	9	Ἰ̓Ισραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	125	9	Sti	ὅτί	τί	τί	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	125	10	κεφαλὴ.	κεφαλὴ.	κεφαλὴ	κεφαλὴ	image (3x): no point after the word, OCR speck
+isa	oldtestgreek00unknuoft	125	10	cis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	125	10	“ἀπὸ	“ἀπὸ	ἀπὸ	ἀπὸ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	125	11	ἕως.	ἕως.	ἕως	ἕως	image (3x): no point after the word, OCR speck
+isa	oldtestgreek00unknuoft	125	12	“ἐπιθεῖναι	ἐπιθεῖναι	ἐπιθεῖναι	ἐπιθεῖναι	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	125	13	77	Τὴ	ἡ	ἡ	image (3x): ἡ with rough breathing after superscript 7
+isa	oldtestgreek00unknuoft	125	13	πυρίκαυστοι"	πυρίκαυστοι"	πυρίκαυστοι·	πυρίκαυστοι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	125	15	ἀλλοτρίων. +ὃ	ἀλλοτρίων. +ὃ	ἀλλοτρίων.	ἀλλοτρίων.	class R3: OCR appended accent-row or margin junk; c read from the image strip

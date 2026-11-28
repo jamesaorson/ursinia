@@ -1,0 +1,52 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	191	1	ods	οὺς	οὓς	οὓς	image (3x): οὓς, smooth breathing + grave
+isa	oldtestgreek00unknuoft	191	1	θεύς	θεύς	θεός	θεός	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	191	1	cov‘	σου	σου·	σου·	image (3x): σου followed by ano teleia
+isa	oldtestgreek00unknuoft	191	1	κύ- +B	κύ-	κύ-	κύ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	191	2	ριόν	Β	ριόν	ριόν	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	191	2	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	191	3	Ἕ +ζεκίου	Ἕ +ζεκίου	Ἑζεκίου	Ἑζεκίου	image (3x): rough breathing on Ἑ (Ἑζεκ-)
+isa	oldtestgreek00unknuoft	191	3	Ἢσαίαν,	Ἢσαίαν,	Ἠσαίαν,	Ἠσαίαν,	image (3x): smooth breathing on Ἠ, no accent
+isa	oldtestgreek00unknuoft	191	3	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	191	3	"Hoalas	Ἢσαίας	Ἠσαίας	Ἠσαίας	image (3x): smooth breathing on Ἠ, no accent
+isa	oldtestgreek00unknuoft	191	4	Οὕτως	Οὕτως	Οὕτως	Οὕτως	image (3x): Οὕτως, smooth breathing + acute on υ
+isa	oldtestgreek00unknuoft	191	4	épeire	ἐρεῖτε	ἐρεῖτε	ἐρεῖτε	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	191	4	φοβηθῇς	φοβηθῆς.	φοβηθῇς	φοβηθῇς	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	191	5	ots	οὺς	οὓς	οὓς	image (3x): οὓς, smooth breathing + grave
+isa	oldtestgreek00unknuoft	191	5	ὠνείδισάν	ὠνείδισάν	ὠνείδισάν	ὠνείδισάν	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	191	5	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	191	6	Ἀσσυρίων.	Ἀσσυρίων.	Ἀσσυρίων.	Ἀσσυρίων.	image (3x): smooth breathing on Ἀ
+isa	oldtestgreek00unknuoft	191	6	Τἰδοὺ	Τἰδοὺ	ἰδοὺ	ἰδοὺ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	191	9	“Καὶ	“Καὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	191	9	Ρ̓̔αβσάκης,	ἹῬαβσάκης,	Ῥαβσάκης,	Ῥαβσάκης,	image (3x): rough breathing on Ῥ
+isa	oldtestgreek00unknuoft	191	9	Ἀσσυ-	Ἀσσυ-	Ἀσσυ-	Ἀσσυ-	image (3x): smooth breathing on Ἀ
+isa	oldtestgreek00unknuoft	191	11	ἐξῆλθεν.	ἐξῆλθεν.	ἐξῆλθεν	ἐξῆλθεν	image (3x): no point after ἐξῆλθεν
+isa	oldtestgreek00unknuoft	191	11	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave on βασιλεὺς before capitalized name (not a quotation)
+isa	oldtestgreek00unknuoft	191	11	Αἰθιόπων	Αἰθιόπων	Αἰθιόπων	Αἰθιόπων	image (3x): Αἰ with smooth breathing on ι
+isa	oldtestgreek00unknuoft	191	11	αὐτόν"	αὐτόν"	αὐτόν·	αὐτόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	191	12	Ἕ +εκίαν	Ἑ +εκίαν	Ἑζεκίαν	Ἑζεκίαν	image (3x): rough breathing on Ἑ (Ἑζεκ-)
+isa	oldtestgreek00unknuoft	191	13	"Οὕτως	"Οὕτως	Οὕτως	Οὕτως	image (3x): Οὕτως, smooth breathing + acute on υ
+isa	oldtestgreek00unknuoft	191	13	Ἕ +ζεκίᾳ	Ἕ +ζεκίᾳ	Ἑζεκίᾳ	Ἑζεκίᾳ	image (3x): rough breathing on Ἑ (Ἑζεκ-)
+isa	oldtestgreek00unknuoft	191	13	Ἰουδαίας	Ἰουδαίας	Ἰουδαίας	Ἰουδαίας	image (3x): smooth breathing on Ἰ
+isa	oldtestgreek00unknuoft	191	13	Μή	Μή	Μή	Μή	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	191	14	θεός	θεός	θεός	θεός	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	191	14	Οὐ	Οὐ	Οὐ	Οὐ	image (3x): Οὐ smooth breathing on υ
+isa	oldtestgreek00unknuoft	191	14	Ἶε-	Ἶε-	Ἰε-	Ἰε-	image (3x): smooth breathing only, no circumflex: Ἰε-
+isa	oldtestgreek00unknuoft	191	15	Ἀσσυρίων.	Ἀσσυρίων.	Ἀσσυρίων.	Ἀσσυρίων.	image (3x): smooth breathing on Ἀ
+isa	oldtestgreek00unknuoft	191	15	“ob	"σὺ	σὺ	σὺ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	191	16	noav	ἡσαν	ησαν	ησαν	image (3x): ησαν unaccented, word continued from ἐποί-
+isa	oldtestgreek00unknuoft	191	16	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	image (3x): smooth breathing on Ἀ
+isa	oldtestgreek00unknuoft	191	17	‘pn	“᾿μὴ	μὴ	μὴ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	191	17	ots	οὺς	οὓς	οὓς	image (3x): οὓς, smooth breathing + grave
+isa	oldtestgreek00unknuoft	191	18	τήν	τήν	τήν	τήν	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	191	18	Τωζὰν	Τωζὰν	Γωζὰν	Γωζὰν	image (3x): Γ, not Τ
+isa	oldtestgreek00unknuoft	191	18	ῬῬάφεθ,	Ῥάφεθ,	Ῥάφεθ,	Ῥάφεθ,	image (3x): rough breathing on Ῥ
+isa	oldtestgreek00unknuoft	191	18	αἵ	αἵ	αἵ	αἵ	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	191	19	"3ποῦ	"Ξ3ποῦ	ποῦ	ποῦ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	191	19	“Epa	Ἕμὰθ	Ἑμὰθ	Ἑμὰθ	image (3x): rough breathing, no accent on Ε; grave on ὰ
+isa	oldtestgreek00unknuoft	191	19	Ἀρφάθ;	Ἀρφάθ;	Ἀρφάθ;	Ἀρφάθ;	image (3x): smooth breathing on Ἀ
+isa	oldtestgreek00unknuoft	191	20	Ἐπφαρουαίμ,	Ἐπφαρουαίμ,	Ἐπφαρουαίμ,	Ἐπφαρουαίμ,	image (3x): smooth breathing on Ἐ, acute on ί
+isa	oldtestgreek00unknuoft	191	20	Ἀνάγ,	Ἀνάγ,	Ἁνάγ,	Ἁνάγ,	image (3x): rough breathing on Ἁ (open curl to the left)
+isa	oldtestgreek00unknuoft	191	20	Οὐγαυά;	Οὐγαυά; +"	Οὐγανά;	Οὐγανά;	image (3x): Οὐ smooth breathing on υ
+isa	oldtestgreek00unknuoft	191	20	"καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	191	20	Ἕ +ζεκίας	Ἕ +ζεκίας	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing on Ἑ (Ἑζεκ-)

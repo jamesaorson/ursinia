@@ -1,0 +1,12 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+zeph	oldtestgreek00unknuoft	93	1	᾿οἰδοὺ	το +"ἰδοὺ	ἰδοὺ	ἰδοὺ	image (3x): ἰδοὺ after superscript 19; OCR fused the number
+zeph	oldtestgreek00unknuoft	93	1	TH	τῷ	τῷ	τῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zeph	oldtestgreek00unknuoft	93	1	ἐκείνῳ, +B	ἐκείνῳ, +Β	ἐκείνῳ,	ἐκείνῳ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zeph	oldtestgreek00unknuoft	93	2	ἀπωσμένην"	ἀπωσμένην"	ἀπωσμένην·	ἀπωσμένην·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zeph	oldtestgreek00unknuoft	93	3	γῇ. +““	γῇ.	γῇ.	γῇ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zeph	oldtestgreek00unknuoft	93	3	καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zeph	oldtestgreek00unknuoft	93	5	ὑμᾶς"	ὑμᾶς"	ὑμᾶς·	ὑμᾶς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zeph	oldtestgreek00unknuoft	93	5	καὶ	καὶ +» μᾳ πῶ με τα Ξ;	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zeph	oldtestgreek00unknuoft	93	6	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+zeph	oldtestgreek00unknuoft	93	6	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+zeph	oldtestgreek00unknuoft	93	6	aixpa-	αἰχμα-	αἰχμα-	αἰχμα-	class R5: Latin-letter substitution in OCR; c read from the image strip

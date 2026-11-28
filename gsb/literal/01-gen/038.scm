@@ -260,7 +260,7 @@
     ("Hirah" (23 name "Εἱρᾶς"))
     ("his" 26)
     ("shepherd" (24 absorbed) 25)
-    ("Adullamite," (27 unrendered) (28 name "Ὀδολλαμίτης"))
+    ("the Adullamite," 27 (28 name "Ὀδολλαμίτης"))
     ("into" 29)
     ("Timnah." (30 timnah "Θαμνά"))))
 
@@ -457,7 +457,7 @@
     ("hand" 9)
     ("of his/its" 12)
     ("shepherd" (10 absorbed) (11 shepherd "ποιμήν"))
-    ("of Adullamite," (13 unrendered) (14 name "Ὀδολλαμίτης"))
+    ("of the Adullamite," 13 (14 name "Ὀδολλαμίτης"))
     ("to recover" (15 recover "κομίζω"))
     ("the pledge" 16 17)
     ("from" (18 from))

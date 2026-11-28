@@ -1,0 +1,39 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	223	1	ὧδέ	ὧδέ	ὧδέ	ὧδέ	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	223	1	“Ore	Ὅτι	Ὅτι	Ὅτι	image (3x): rough + acute (open curl and rising stroke), Ὅτι
+isa	oldtestgreek00unknuoft	223	1	λαός	λαός	λαός	λαός	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	223	1	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	223	1	δωρεάν, +B	δωρεάν, +Β	δωρεάν,	δωρεάν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	223	2	τάδε.	τάδε.	τάδε	τάδε	image (3x): speck after the word, not a period
+isa	oldtestgreek00unknuoft	223	3	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	223	3	“διὰ	“διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	223	4	λαός	λαός	λαός	λαός	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	223	4	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	223	4	ἐγώ	ἐγώ	ἐγώ	ἐγώ	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	223	4	εἰμι	εἶμι	εἰμι	εἰμι	image (3x): smooth breathing, no accent, εἰμι
+isa	oldtestgreek00unknuoft	223	5	λαλῶν:	λαλῶν:	λαλῶν·	λαλῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	223	5	Τὼς	Τὼς	ὡς	ὡς	image (3x): ὡς with rough breathing; 7 is the verse superscript
+isa	oldtestgreek00unknuoft	223	5	ὀρέων,	ὀρέων, +;	ὀρέων,	ὀρέων,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	223	7	Σειών	Σειών	Σειών	Σειών	image (3x): acute before capitalized Βασιλεύσει
+isa	oldtestgreek00unknuoft	223	7	θεός: +ὃ	θεός:	θεός·	θεός·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	223	7	ὅτι	ὅὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	223	8	εὐφρανθήσονται"	εὐφρανθήσονται"	εὐφρανθήσονται·	εὐφρανθήσονται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	223	10	ϑῥηξάτω	ϑῥηξάτω	ῥηξάτω	ῥηξάτω	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	223	10	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	223	11	ἤλέησεν	ἤλέησεν	ἠλέησεν	ἠλέησεν	image (3x): smooth breathing only, ἠλέησεν
+isa	oldtestgreek00unknuoft	223	11	Ἱερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	223	11	"καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	223	12	καὶ.	καὶ.	καὶ	καὶ	image (3x): speck after the word, not a period
+isa	oldtestgreek00unknuoft	223	14	᾿᾿ἀπόστητε	᾿᾿ἀπόστητε	ἀπόστητε	ἀπόστητε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	223	15	αὐτῆξ,	αὐτῆξ,	αὐτῆς,	αὐτῆς,	image (3x): σ final with comma, αὐτῆς,
+isa	oldtestgreek00unknuoft	223	15	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	223	15	Κυρίου"	Κυρίου"	Κυρίου·	Κυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	223	16	"drt	“ὅτι	ὅτι	ὅτι	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	223	17	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave on θεὸς before Ἰσραήλ (a name, not a quotation)
+isa	oldtestgreek00unknuoft	223	18	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	223	19	᾿βδἸδοὺ	ὐϑἸδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	223	19	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	223	20	“dv	"ὃν	ὃν	ὃν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	223	21	εἶδός	εἶδός	εἶδός	εἶδός	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	223	21	“Sotrw	"δοὕτω	οὕτω	οὕτω	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	223	15	-	-	αὐτῆς,	αὐτῆς,	ambiguous: a heavy stray mark stands above and right of the comma (blemish or hand mark, not a printed accent); read comma only

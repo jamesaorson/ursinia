@@ -1,0 +1,70 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+zech	oldtestgreek00unknuoft	99	1	paxa	ρακα	ρακα	ρακα	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	99	1	thy	«τὴν	τὴν	τὴν	image (3x): reading as in page; OCR noise (specks/bleed-through) not in print
+zech	oldtestgreek00unknuoft	99	1	καὶ +B	καὶ +Β	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	99	3	Ψαροὶ	Ψαροὶ	ψαροὶ	ψαροὶ	image (3x): reading as in page; OCR noise (specks/bleed-through) not in print
+zech	oldtestgreek00unknuoft	99	3	ϑθκαὶ	9 +ϑθκαὶ	καὶ	καὶ	image (3x): superscript/margin verse number not text; word as in page
+zech	oldtestgreek00unknuoft	99	3	οὗτοι,	οὗτοι, +’ ᾿ Ν 3 ᾿ ΘΙΗ͂Β! ς - ᾽ Ε πα; Ἀ ,	οὗτοι,	οὗτοι,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	99	4	“καὶ	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	99	4	ἐμοί	ἐμοί	ἐμοί	ἐμοί	image (3x): acute before capitalized quotation as printed
+zech	oldtestgreek00unknuoft	99	4	Ἐγὼ	Ἐγὼ	Ἐγὼ	Ἐγὼ	image (3x): smooth breathing on capital
+zech	oldtestgreek00unknuoft	99	5	τί	τί	τί	τί	image (3x): accent before enclitic as printed
+zech	oldtestgreek00unknuoft	99	5	ἐστιν.	ἐστιν.	ἐστιν	ἐστιν	image (3x): reading as in page; OCR noise (specks/bleed-through) not in print
+zech	oldtestgreek00unknuoft	99	5	*°Kat	"““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	99	5	ava	ἀνὰ	ἀνὰ	ἀνὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	99	6	ὀρέων	ὀρέων +᾿	ὀρέων	ὀρέων	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	99	6	Kal.	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	99	6	μέ	μέ	μέ	μέ	image (3x): acute before capitalized quotation as printed
+zech	oldtestgreek00unknuoft	99	6	Οὗτοί	Οὗτοί	Οὗτοί	Οὗτοί	image (3x): accent before enclitic as printed
+zech	oldtestgreek00unknuoft	99	6	ods	οὺς	οὓς	οὓς	image (3x): οὓς rough breathing + grave
+zech	oldtestgreek00unknuoft	99	7	" +“καὶ	.“ἶκ	καὶ	καὶ	image (3x): superscript/margin verse number not text; word as in page
+zech	oldtestgreek00unknuoft	99	7	ἀπεκρίθησαν	κρίθησαν	ἀπεκρίθησαν	ἀπεκρίθησαν	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	99	9	πᾶσα	-πᾶσα	πᾶσα	πᾶσα	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	99	9	ἡ	ἡ.	ἡ	ἡ	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	99	9	Kal	τ» +"““καὶ	καὶ	καὶ	image (3x): superscript/margin verse number not text; word as in page
+zech	oldtestgreek00unknuoft	99	10	Κυρίου.	Κυρίου.	Κυρίου	Κυρίου	image (3x): reading as in page; OCR noise (specks/bleed-through) not in print
+zech	oldtestgreek00unknuoft	99	10	ἸΤαντοκράτωρ,	Παντοκράτωρ,	Παντοκράτωρ,	Παντοκράτωρ,	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	99	11	Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on capital
+zech	oldtestgreek00unknuoft	99	11	Ἰούδα,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing on capital
+zech	oldtestgreek00unknuoft	99	12	ἔτος;	ἔτος:	ἔτος;	ἔτος;	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	99	12	"Ξκαὶ	"Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	99	13	| +“Kal	"“καὶ	καὶ	καὶ	image (3x): superscript/margin verse number not text; word as in page
+zech	oldtestgreek00unknuoft	99	14	οὖ	οὖ	ὁ	ὁ	image (3x): ὁ rough breathing, no accent; bleed-through bracket in margin
+zech	oldtestgreek00unknuoft	99	14	ἐμοί	ἐμοί	ἐμοί	ἐμοί	image (3x): acute before capitalized quotation as printed
+zech	oldtestgreek00unknuoft	99	14	Ἀνάκραγε	Ἀνάκραγε	Ἀνάκραγε	Ἀνάκραγε	image (3x): smooth breathing on capital
+zech	oldtestgreek00unknuoft	99	15	Παντοκβῥάτωρ	Παντοκβάτωρ	Παντοκράτωρ	Παντοκράτωρ	image (3x): Παντοκράτωρ as in page (comma after on line 20)
+zech	oldtestgreek00unknuoft	99	15	Ἐζήλωκα	Ἐζήλωκα	Ἐζήλωκα	Ἐζήλωκα	image (3x): smooth breathing on capital
+zech	oldtestgreek00unknuoft	99	15	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on capital
+zech	oldtestgreek00unknuoft	99	16	Skat	15 +“καὶ:	καὶ	καὶ	image (3x): superscript/margin verse number not text; word as in page
+zech	oldtestgreek00unknuoft	99	17	ἄνθ᾽	ἄνθ᾽	ἀνθ᾽	ἀνθ᾽	image (3x): ἀνθ᾽ smooth breathing only, no accent
+zech	oldtestgreek00unknuoft	99	17	μὲν.	μὲν.	μὲν	μὲν	image (3x): reading as in page; OCR noise (specks/bleed-through) not in print
+zech	oldtestgreek00unknuoft	99	17	ὀλίγα;	ὀλίγα,	ὀλίγα,	ὀλίγα,	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	99	17	συνεπέθεντο᾽	συνεπέθεντο᾽	συνεπέθεντο	συνεπέθεντο	image (3x): reading as in page; OCR noise (specks/bleed-through) not in print
+zech	oldtestgreek00unknuoft	99	18	did.	"ὁδιὰ.	διὰ	διὰ	image (3x): superscript/margin verse number not text; word as in page
+zech	oldtestgreek00unknuoft	99	18	τοῦτο.	τοῦτο.	τοῦτο	τοῦτο	image (3x): reading as in page; OCR noise (specks/bleed-through) not in print
+zech	oldtestgreek00unknuoft	99	18	Ἐ̓πιβλέψω	Ἐ̓πιβλέψω	Ἐπιβλέψω	Ἐπιβλέψω	image (3x): smooth breathing on capital
+zech	oldtestgreek00unknuoft	99	18	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on capital
+zech	oldtestgreek00unknuoft	99	18	οἷ-	οἷ-	οἰ-	οἰ-	image (3x): οἰ- smooth breathing, no accent, hyphen printed
+zech	oldtestgreek00unknuoft	99	19	κτιρμῷ,	Κτιρμῷ,	κτιρμῷ,	κτιρμῷ,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	99	19	ὃ.	ὃ.	ὁ	ὁ	image (3x): ὁ rough breathing, no accent; bleed-through bracket in margin
+zech	oldtestgreek00unknuoft	99	19	οἶκός	οἶκός	οἶκός	οἶκός	image (3x): accent before enclitic as printed
+zech	oldtestgreek00unknuoft	99	20	Παντοκράτωρ,"	Παντοκράτωρ;	Παντοκράτωρ,	Παντοκράτωρ,	image (3x): Παντοκράτωρ as in page (comma after on line 20)
+zech	oldtestgreek00unknuoft	99	20	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on capital
+zech	oldtestgreek00unknuoft	99	20	"Τκαὶ	"Τκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	99	21	mpos,	πρὸς.	πρὸς	πρὸς	image (3x): reading as in page; OCR noise (specks/bleed-through) not in print
+zech	oldtestgreek00unknuoft	99	21	ἐμοί	ἐμοί	ἐμοί	ἐμοί	image (3x): acute before capitalized quotation as printed
+zech	oldtestgreek00unknuoft	99	21	Ἀνάκραγε	Ἀνάκραγε	Ἀνάκραγε	Ἀνάκραγε	image (3x): smooth breathing on capital
+zech	oldtestgreek00unknuoft	99	22	λέγει +-	λέγει +-	λέγει	λέγει	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	99	22	Ἔτι	Ἔτι	Ἔτι	Ἔτι	image (3x): smooth breathing + acute (apostrophe then rising stroke) on Ἔτι
+zech	oldtestgreek00unknuoft	99	22	᾿διαχυθήσονται	᾿διαχυθήσονται	διαχυθήσονται	διαχυθήσονται	image (3x): reading as in page; OCR noise (specks/bleed-through) not in print
+zech	oldtestgreek00unknuoft	99	23	ἐχεήσει	ἐχεήσει	ἐλεήσει	ἐλεήσει	image (3x): reading as in page; OCR noise (specks/bleed-through) not in print
+zech	oldtestgreek00unknuoft	99	23	Ἱερουσαλήμ.	Ἱερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing on capital
+zech	oldtestgreek00unknuoft	99	24	18. +“Καὶ	“Καὶ	Καὶ	Καὶ	image (3x): superscript/margin verse number not text; word as in page
+zech	oldtestgreek00unknuoft	99	24	ὀφθαλμούς	ὀφθαλμούς	ὀφθαλμούς	ὀφθαλμούς	image (3x): accent before enclitic as printed
+zech	oldtestgreek00unknuoft	99	24	ἰδοὺ.	ἰδοὺ.	ἰδοὺ	ἰδοὺ	image (3x): reading as in page; OCR noise (specks/bleed-through) not in print
+zech	oldtestgreek00unknuoft	99	25	(2)	(0)	κέρατα.	κέρατα.	image (3x): superscript/margin verse number not text; word as in page
+zech	oldtestgreek00unknuoft	99	25	19 +κέρατα: - "ϑκαὶ	το +κέρατα: . “καὶ	καὶ	καὶ	image (3x): superscript/margin verse number not text; word as in page
+zech	oldtestgreek00unknuoft	99	25	ἄγγελον	ἄγγελόν.	ἄγγελον	ἄγγελον	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	99	25	ἐμοί	ἐμοί	ἐμοί	ἐμοί	image (3x): acute before capitalized quotation as printed
+zech	oldtestgreek00unknuoft	99	25	Ti	Τί	Τί	Τί	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	99	20	-	-	Ἰερουσαλὴμ	Ἰερουσαλὴμ	ambiguous: second σ prints malformed (broken type, looks like ϳ); read σ

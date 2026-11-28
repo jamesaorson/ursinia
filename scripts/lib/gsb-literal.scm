@@ -24,6 +24,9 @@
             literal-override-forms
             literal-phrase-forms
             literal-chapter-path
+            literal-chapter-key
+            chapter-arg
+            chapter<?
             choose-readings
             form-key
             env-pins
@@ -134,7 +137,8 @@ person, tense, voice, mood, degree (characters). #f for no tag."
   '("open" "visit" "gather" "enter" "listen" "deliver" "remember" "number" "wander" "offer" "suffer" "murmur"
     "answer" "harden" "happen" "hearken" "travel" "marvel" "quarrel" "inherit" "inhabit" "covet" "summon" "reckon"
     "hasten" "scatter" "utter" "wonder" "order" "water" "honor" "cover" "consider" "worship" "fashion" "question"
-    "strengthen" "dishonor" "fetter" "prosper" "ponder" "anger" "uncover" "sober"))
+    "strengthen" "dishonor" "fetter" "prosper" "ponder" "anger" "uncover" "sober"
+    "interpret" "hunger" "plunder" "slaughter" "overpower" "loosen"))
 
 (define (cvc-end? w)
   (let ((n (string-length w)))
@@ -354,8 +358,37 @@ gsb/greek when not given)."
                         (literal-phrase-forms) words pins)
               (append p1 p2)))))
 
+;;; Chapters are numbers, or a capital letter for Esther's Greek additions
+;;; (refs esth.A.1 ... esth.F.11): the generated file is 001.scm, or A.scm.
+
+(define (chapter-file-stem chapter)
+  (if (number? chapter) (format #f "~3,'0d" chapter) chapter))
+
 (define (literal-chapter-path book chapter)
-  (format #f "~a/~a/~3,'0d.scm" %literal-dir (book-file-stem book) chapter))
+  (format #f "~a/~a/~a.scm" %literal-dir (book-file-stem book) (chapter-file-stem chapter)))
+
+(define (literal-chapter-key name)
+  "The chapter of a generated file name: 001.scm -> 1, A.scm -> \"A\", else #f."
+  (cond ((chapter-file-number name) => identity)
+        ((and (= (string-length name) 5) (string-suffix? ".scm" name) (char-upper-case? (string-ref name 0))
+              (char<=? #\A (string-ref name 0) #\Z))
+         (substring name 0 1))
+        (else #f)))
+
+(define (chapter-arg s)
+  "A chapter as given on the command line or in a ref: a positive number, or
+one capital letter (a lettered addition, Esther A-F); #f otherwise."
+  (let ((n (string->number s)))
+    (cond ((and n (exact-integer? n) (> n 0)) n)
+          ((and (= (string-length s) 1) (char<=? #\A (string-ref s 0) #\Z)) s)
+          (else #f))))
+
+(define (chapter<? a b)
+  "Numbered chapters in order, then lettered ones alphabetically."
+  (cond ((and (number? a) (number? b)) (< a b))
+        ((number? a) #t)
+        ((number? b) #f)
+        (else (string<? a b))))
 
 (define (index-forms-rows rows)
   "ROWS: lists (form lemma tag sense note) from gsb/literal/forms/*.tsv. Hash
@@ -531,7 +564,102 @@ preposition governs and an article/next-word pair that agrees."
           (loop (cdr ws) (+ i 1)
                 (and (string-null? (word-post* (car ws)))
                      (or subj? (and (pair? cs) (member (first (car cs)) '("ἵνα" "ἐάν" "ἄν" "ὅταν" "μή" "ὅπως")) #t)))))))
+    (person-1s-3p! words cands)
     (map (lambda (cs) (if (pair? cs) (car cs) #f)) (vector->list cands))))
+
+(define (reading-person-number r)
+  (let ((t (parse-tag (second r)))) (and t (equal? (tag-field t 'pos) "V") (list (tag-field t 'person) (tag-field t 'number)))))
+
+(define (person-1s-3p! words cands)
+  "ἔλαβον, ἴδον, ἦλθον, ἔφαγον: one spelling for the first singular and the
+third plural. Inside its sentence (and its side of a speech opening), ἐγώ
+decides 1S; a nominative plural (not a preposition's), or a verb before it
+joined by καί, decides by its person and number. With no cue the first
+reading stays and the word is marked (a fourth element 'person-unsure) for
+`check` (person-unsure): never a silent guess."
+  (let* ((n (vector-length cands)) (ws (list->vector words)))
+    (define (first-reading i) (let ((cs (vector-ref cands i))) (and (pair? cs) (car cs))))
+    (define (key i) (form-key (word-text* (vector-ref ws i))))
+    (define (speech-start? i)
+      ;; a capital on a common word after the first: Swete's speech opening
+      (and (> i 0) (let ((r (first-reading i))) (and r (lower-cap? (word-text* (vector-ref ws i)) (first r))))))
+    (define (amb? k)
+      (let ((cs (vector-ref cands k)))
+        (and (any (lambda (r) (equal? (reading-person-number r) '(#\1 #\S))) cs)
+             (any (lambda (r) (equal? (reading-person-number r) '(#\3 #\P))) cs))))
+    (do ((i 0 (+ i 1))) ((>= i n))
+      (let* ((cs (vector-ref cands i))
+             (s1 (find (lambda (r) (equal? (reading-person-number r) '(#\1 #\S))) cs))
+             (p3 (find (lambda (r) (equal? (reading-person-number r) '(#\3 #\P))) cs)))
+        (when (and s1 p3 (equal? (first s1) (first p3)))
+          (let* ((start (let back ((k i))
+                          (if (and (> k 0) (not (strong-stop? (word-post* (vector-ref ws (- k 1))))) (not (speech-start? k)))
+                              (back (- k 1)) k)))
+                 (end (let fwd ((k (+ i 1)))
+                        (if (and (< k n) (not (strong-stop? (word-post* (vector-ref ws (- k 1))))) (not (speech-start? k)))
+                            (fwd (+ k 1)) k)))
+                 ;; (forward only to the next finite verb or καί: ἴδον ... καὶ ὥσπερ
+                 ;; ἑπτὰ στάχυες ἀνέβαινον is another clause)
+                 (end (let fwd ((k (+ i 1)))
+                        (if (and (< k end) (not (member (key k) '("και" "καὶ" "καί")))
+                                 (not (let ((r (first-reading k))) (and r (finite-reading? r)))))
+                            (fwd (+ k 1)) k)))
+                 (region (remove (lambda (k) (= k i)) (iota (- end start) start)))
+                 (ego? (any (lambda (k) (member (key k) '("ἐγω" "ἐγώ" "κἀγω" "κἀγώ"))) region))
+                 (plural-nom? (any (lambda (k)
+                                     (let ((r (first-reading k)) (p (and (> k 0) (first-reading (- k 1)))))
+                                       (and r (let ((t (parse-tag (second r))))
+                                                (and t (eqv? (tag-field t 'case) #\N) (eqv? (tag-field t 'number) #\P)
+                                                     (not (eqv? (tag-field t 'gender) #\N))
+                                                     (not (member (tag-field t 'pos) '("P"))))) ; (ἡμεῖς is 1P)
+                                            (not (and p (assoc (first p) %prep-case))))))
+                                   region))
+                 ;; καὶ ἔλαβον after a verb of the sentence: its person/number
+                 (joined (and (> i 0) (member (key (- i 1)) '("και" "καὶ" "καί"))
+                              (let back ((k (- i 2)))
+                                (and (>= k start)
+                                     (let ((pn (let ((r (first-reading k))) (and r (finite-reading? r) (reading-person-number r)))))
+                                       (cond ((not pn) (back (- k 1)))
+                                             ;; (not a verb inside a subordinate clause: ἡνίκα
+                                             ;; ἐνεκίσσων τὰ πρόβατα, καὶ ἴδον "I saw")
+                                             ((let sub ((m (- k 1)))
+                                                (and (>= m start) (not (member (key m) '("και" "καὶ" "καί")))
+                                                     (or (let ((r (first-reading m)))
+                                                           (and r (or (member (first r) %clause-openers) (member (first r) %subordinators)
+                                                                      (equal? (tag-field (parse-tag (second r)) 'pos) "R"))))
+                                                         (sub (- m 1)))))
+                                              #f)
+                                             (else pn)))))))
+                 (pn-in (lambda (ks pred) (any (lambda (k) (let ((r (first-reading k))) (and r (pred (parse-tag (second r)))))) ks)))
+                 ;; ἔλαβον Ἀβρὰμ καὶ Ναχώρ: two names joined by καί after it;
+                 ;; ἑαυτοῖς: a third plural reflexive
+                 (names-joined? (and (< (+ i 3) n)
+                                     (let ((a (first-reading (+ i 1))) (c (first-reading (+ i 3))))
+                                       (and a c (equal? (second a) "N-PRI") (equal? (second c) "N-PRI")
+                                            (member (key (+ i 2)) '("και" "καὶ" "καί"))))))
+                 (refl-3p? (pn-in region (lambda (t) (and t (equal? (tag-field t 'pos) "F") (eqv? (tag-field t 'person) #\3) (eqv? (tag-field t 'number) #\P)))))
+                 ;; narrative: no first or second person word anywhere in the
+                 ;; verse and no speech opening in it (inside speech "I" and
+                 ;; "they" are both common: undecided)
+                 (narrative? (and (not (any speech-start? (iota n)))
+                                  (not (pn-in (remove (lambda (k) (or (= k i) (amb? k))) (iota n))
+                                              (lambda (t) (and t (memv (tag-field t 'person) '(#\1 #\2))
+                                                               (not (equal? (tag-field t 'pos) "S"))))))))
+                 (choice (cond (ego? s1)
+                               ((or plural-nom? names-joined? refl-3p?) p3)
+                               ((equal? joined '(#\1 #\S)) s1)
+                               ((equal? joined '(#\3 #\P)) p3)
+                               (else #f))))
+            ;; With no cue: in a verse with no first or second person word
+            ;; (narrative, unless the speech began in an earlier verse) the
+            ;; third plural, else the first form row; both marked for check.
+            (vector-set! cands i
+                         (cond (choice (cons choice (delete choice cs)))
+                               (narrative? (cons (append (take p3 3) '(person-unsure)) (delete p3 cs)))
+                               (else (cons (append (take (car cs) 3) '(person-unsure)) (cdr cs)))))))))))
+
+(define (finite-reading? r)
+  (let ((t (parse-tag (second r)))) (and t (equal? (tag-field t 'pos) "V") (memv (tag-field t 'mood) '(#\I #\S #\O #\M)) #t)))
 
 (define (accusative-first readings)
   "Neuter nominative and accusative look alike: a neuter nominative reading
@@ -573,6 +701,7 @@ capital for a paragraph or direct speech, not for a name."
              ;; A capital on a common word (not a name, not Κύριος) opens
              ;; direct speech in Swete: "said, Let".
              (lower-cap . ,(lower-cap? (word-text* w) lem))
+             (person-unsure . ,(and r (> (length r) 3)))
              ;; Swete prints Κύριος with a capital for God and κύριος in lower
              ;; case for a human lord or master: "lord", no supplied "[the]"
              (human-lord . ,(and (equal? lem "κύριος")
@@ -685,6 +814,11 @@ Clauses):
     (do ((i 1 (+ i 1))) ((>= i n))
       (let* ((x (at i)) (p (at (prev-index i))))
         (cond
+         ;; καθ’ ὕπνον Ἰακὼβ Ἰακώβ: a name said twice is a call (before the
+         ;; noun before it can make it its genitive)
+         ((and (is? x "N") (not (case-of x)) (at (+ i 1)) (equal? (lemma x) (lemma (at (+ i 1)))) (string-null? (u x 'post)))
+          (vector-set! v i (u+ x 'tp (cons '(case . #\V) (tp x)) 'speech #t))
+          (vector-set! v (+ i 1) (u+ (at (+ i 1)) 'tp (cons '(case . #\V) (tp (at (+ i 1)))))))
          ((and (u x 'speech) (u x 'lower-cap) p (is? p "PREP" "T") (string-null? (u p 'post)))
           (vector-set! v i (u+ x 'speech #f 'keep-cap #t)))
          ;; (a preposition's or article's name is no speech: πρὸς Κάιν, τῷ Ἀβραάμ)
@@ -2777,6 +2911,12 @@ speech, and a verse more than half of whose words are overridden."
                                    "subject not certain: Greek order kept; check the verse states the right actor, else add an override")))
                       (append-map (lambda (span) (order-span env span)) (split-spans units)))))
     (append borrowed kai-after-person unsure
+            ;; ἔλαβον with no cue for "I" or "they" (person-1s-3p!)
+            (filter-map (lambda (x)
+                          (and (u x 'person-unsure)
+                               (list 'person-unsure (format #f "~a#~a" ref (u x 'n)) (u x 'greek)
+                                     "first singular or third plural, nothing in the sentence decides: the first form row is used; check it, else (tag ...) override")))
+                        units)
             ;; Κύριε opening speech, Κύριος opening a sentence: Swete's capital
             ;; may be the position's, not the divine name's (gsb/literal/README.md)
             (let loop ((us units) (prev #f) (acc '()))

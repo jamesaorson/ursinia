@@ -1,0 +1,31 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	134	1	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	134	1	““καὶ	“δκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	134	2	τὸν.	τὸν	τὸν	τὸν	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	134	2	ἐπ᾽	ἐπ᾽ +δι	ἐπ᾽	ἐπ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	134	3	tagev	ταξεν	ταξεν	ταξεν	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	134	3	αὐτούς:	αὐτούς:	αὐτούς·	αὐτούς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	134	5	ὑψηλή.	ὑψηλή. +“ὁ	ὑψηλή.	ὑψηλή.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	134	5	““τοιγαροῦν	τοιγαροῦν	τοιγαροῦν	τοιγαροῦν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	134	7	od	“οὐ	οὐ	οὐ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	134	10	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	134	10	“ὧν	“ὧν	ὧν	ὧν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	134	10	ὀξεῖά	ὀξεῖά	ὀξεῖά	ὀξεῖά	image (3x): ὀξεῖά with circumflex and acute before enclitic ἐστιν
+isa	oldtestgreek00unknuoft	134	10	ad-	αὖ-	αὐ-	αὐ-	image (3x): αὐ- with smooth breathing, then hyphen
+isa	oldtestgreek00unknuoft	134	11	ἵπήων	ἵπήων	ἵππων	ἵππων	image (3x): ἵππων; a stray mark (broken type or speck) stands over the second π, not a letter
+isa	oldtestgreek00unknuoft	134	11	πέτρα᾽	πέτρα᾽	πέτρα·	πέτρα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	134	12	“οὀργιῶσιν	“θὀργιῶσιν	ὀργιῶσιν	ὀργιῶσιν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	134	13	λέοντος:	λέοντος"	λέοντος·	λέοντος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	134	14	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	134	15	83καὶ	39καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	134	15	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	134	15	ws	ὡς	ὡς	ὡς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	134	16	νούσης"	νούσης"	νούσης·	νούσης·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	134	17	αὐτῶν..	αὐτῶν..	αὐτῶν.	αὐτῶν.	image (3x): one period; the faint dots after it are show-through/specks
+isa	oldtestgreek00unknuoft	134	18	‘Kal	:Καὶ	Καὶ	Καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	134	18	Ὀζείας	Ὀζείας	Ὀζείας	Ὀζείας	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	134	20	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	134	21	ἐξ	ἐξ	ἓξ	ἓξ	image (6x): rough+grave closed mark: ἓξ
+isa	oldtestgreek00unknuoft	134	21	ἐξ	ἐξ	ἓξ	ἓξ	image (6x): rough+grave closed mark: ἓξ
+isa	oldtestgreek00unknuoft	134	21	ἑνί᾽	ἑνί᾽	ἑνί·	ἑνί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	134	11	-	-	ἵππων	ἵππων	ambiguous: a small mark stands above the second π (broken type or speck); read ἵππων

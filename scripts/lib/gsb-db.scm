@@ -310,7 +310,8 @@ for one (verse N ...) FORM of BOOK-ID's CHAPTER. USES is a hash word n ->
 
 (define (generated-chapters book)
   "Chapter numbers with a generated literal layer in gsb/literal/NN-<id>/."
-  (filter-map (lambda (p) (chapter-file-number (basename p)))
+  ;; (numbers, or the letter of a lettered addition: 17-esth/A.scm)
+  (filter-map (lambda (p) (literal-chapter-key (basename p)))
               (literal-files (book-file-stem book) ".scm")))
 
 (define (merge-verse generated hand)
@@ -338,9 +339,9 @@ layer from there and its readable layer and notes from gsb/translation/."
          (verses '()) (notes '()))
     (for-each
      (lambda (chapter)
-       (let* ((hand-path (format #f "~a/~3,'0d.scm" dir chapter))
+       (let* ((hand-path (if (number? chapter) (format #f "~a/~3,'0d.scm" dir chapter) (format #f "~a/~a.scm" dir chapter)))
               (hand (if (file-exists? hand-path) (read-forms hand-path) '()))
-              (gen (if (memv chapter gen-chapters) (read-forms (literal-chapter-path book chapter)) #f))
+              (gen (if (member chapter gen-chapters) (read-forms (literal-chapter-path book chapter)) #f))
               (hand-verse (lambda (n) (find (lambda (f) (and (pair? f) (eq? (car f) 'verse) (equal? (cadr f) n))) hand))))
          (for-each (match-lambda (('note s) (set! notes (cons (list id chapter #f #f s) notes))) (_ #f)) hand)
          (for-each (match-lambda
@@ -352,7 +353,7 @@ layer from there and its readable layer and notes from gsb/translation/."
                                            verses))))
                      (_ #f))
                    (or gen hand))))
-     (sort (lset-union = hand-chapters gen-chapters) <))
+     (sort (lset-union equal? hand-chapters gen-chapters) chapter<?))
     (cons (reverse verses) (append book-notes (reverse notes)))))
 
 ;;; ---------------------------------------------------------------------------

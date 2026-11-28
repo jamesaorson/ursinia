@@ -246,35 +246,35 @@
     ("Sidon" (4 unrendered) 5)
     ("firstborn," 6)
     ("and" 7)
-    ("Hittite" (8 unrendered) (9 name "Χετταῖος"))))
+    ("the Hittite" 8 (9 name "Χετταῖος"))))
 
 (verse 16
   (status draft)
   (literal
     ("and" 1)
-    ("Jebusite" (2 unrendered) (3 name "Ἰεβουσαῖος"))
+    ("the Jebusite" 2 (3 name "Ἰεβουσαῖος"))
     ("and" 4)
-    ("Amorite" (5 unrendered) (6 name "Ἀμορραῖος"))
+    ("the Amorite" 5 (6 name "Ἀμορραῖος"))
     ("and" 7)
-    ("Girgashite" (8 unrendered) (9 name "Γεργεσαῖος"))))
+    ("the Girgashite" 8 (9 name "Γεργεσαῖος"))))
 
 (verse 17
   (status draft)
   (literal
     ("and" 1)
-    ("Hivite" (2 unrendered) (3 name "Εὑαῖος"))
+    ("the Hivite" 2 (3 name "Εὑαῖος"))
     ("and" 4)
-    ("Arkite" (5 unrendered) (6 name "Ἀρουκαῖος"))
+    ("the Arkite" 5 (6 name "Ἀρουκαῖος"))
     ("and" 7)
-    ("Sinite" (8 unrendered) (9 name "Ἁσενναῖος"))))
+    ("the Sinite" 8 (9 name "Ἁσενναῖος"))))
 
 (verse 18
   (status draft)
   (literal
     ("and" 1)
-    ("Arvadite" (2 unrendered) (3 name "Ἀράδιος"))
+    ("the Arvadite" 2 (3 name "Ἀράδιος"))
     ("and" 4)
-    ("Zemarite" (5 unrendered) (6 name "Σαμαραῖος"))
+    ("the Zemarite" 5 (6 name "Σαμαραῖος"))
     ("and" 7)
     ("Hamathite." (8 unrendered) (9 name "Ἁμαθί"))
     ("And" 10)

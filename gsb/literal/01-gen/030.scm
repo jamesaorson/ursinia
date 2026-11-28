@@ -595,7 +595,7 @@
     ("as many as" 11)
     ("your" 14)
     ("livestock" 13)
-    ("was" 12)
+    ("were" 12)
     ("with" 15)
     ("me." 16)))
 

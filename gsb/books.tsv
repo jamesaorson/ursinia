@@ -23,7 +23,7 @@ nn	id	english	greek	testament	deuterocanonical	role	source	notes	chapters
 22	2macc	2 Maccabees	Μακκαβαίων Βʹ	OT	yes	main	swete
 23	3macc	3 Maccabees	Μακκαβαίων Γʹ	OT	yes	main	swete
 24	4macc	4 Maccabees	Μακκαβαίων Δʹ	OT	yes	main	swete
-25	ps	Psalms	Ψαλμοί	OT	no	main	swete	Septuagint numbering (Ps 9 = Heb 9-10, and so on); includes Psalm 151, which is deuterocanonical.
+25	ps	Psalms	Ψαλμοί	OT	no	main	swete	Septuagint numbering (Ps 9 = Heb 9-10, and so on); includes Psalm 151, which is deuterocanonical.	151
 26	odes	Odes	Ὠιδαί	OT	yes	main	swete
 27	prov	Proverbs	Παροιμίαι	OT	no	main	swete		31
 28	eccl	Ecclesiastes	Ἐκκλησιαστής	OT	no	main	swete		12

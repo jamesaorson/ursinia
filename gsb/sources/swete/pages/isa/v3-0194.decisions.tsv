@@ -1,0 +1,60 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	194	1	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	194	2	χιλιάδας"	χιλιάδας"	χιλιάδας·	χιλιάδας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	194	3	νεκρά. +31	νεκρά. +31	νεκρά.	νεκρά.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	194	3	ἀποστραφεὶς	ἀποστραφεὶς	ἀποστραφεὶς	ἀποστραφεὶς	image (3x): grave before capitalized word (not a quotation)
+isa	oldtestgreek00unknuoft	194	3	βασιλεὺς +37	βασιλεὺς +37	βασιλεὺς	βασιλεὺς	image (3x): grave before capitalized word (not a quotation)
+isa	oldtestgreek00unknuoft	194	4	Ἀσσυρίων,	Ἀσσυρίων,	Ἀσσυρίων,	Ἀσσυρίων,	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	194	4	ᾧκησεν	ᾧκησεν	ᾤκησεν	ᾤκησεν	image (3x): ᾤ smooth breathing + acute + iota subscript
+isa	oldtestgreek00unknuoft	194	4	Νινευή. +9δ	Νινευή. +3᾽	Νινευή.	Νινευή.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	194	5	38 +2	38 +5.	τῷ	τῷ	image (strip): τῷ at line start; OCR token is margin 38
+isa	oldtestgreek00unknuoft	194	5	N +ay	Ν +ὰχ	Νασαρὰχ	Νασαρὰχ	image (3x): Νασαρὰχ, grave on second α
+isa	oldtestgreek00unknuoft	194	5	αὐτοῦ, +,	αὐτοῦ, +,	αὐτοῦ,	αὐτοῦ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	194	5	Ἀδραμέλεχ	Ἀδραμέλεχ	Ἀδραμέλεχ	Ἀδραμέλεχ	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	194	5	Σαράσα	Σαράσα	Σαράσαρ	Σαράσαρ	image (3x): final ρ printed, Σαράσαρ
+isa	oldtestgreek00unknuoft	194	6	μαχαίραις:	μαχαίραις"	μαχαίραις·	μαχαίραις·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	194	7	Ἀρμενίαν:	Ἀρμενίαν"	Ἀρμενίαν·	Ἀρμενίαν·	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	194	7	Ἀσορδὰν	Ἀσορδὰν	Ἀσορδὰν	Ἀσορδὰν	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	194	7	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	194	8	Ἐγένετο	Ἐγένετο	Ἐγένετο	Ἐγένετο	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	194	8	Ἕζεκίας	Ἕ +ζεκίας	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing on Ἑ (Ἑζεκ-)
+isa	oldtestgreek00unknuoft	194	8	θανάτου" +1	θανάτου“ +τ	θανάτου·	θανάτου·	image (3x): ano teleia then in-text ¶ after θανάτου
+isa	oldtestgreek00unknuoft	194	9	αὐτὸν	αὐτὸν	αὐτὸν	αὐτὸν	image (3x): grave before capitalized word (not a quotation)
+isa	oldtestgreek00unknuoft	194	9	Ἢ +αίας	Ἢσαίας	Ἠσαίας	Ἠσαίας	image (3x): smooth breathing on Ἠ, no accent
+isa	oldtestgreek00unknuoft	194	9	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave before capitalized word (not a quotation)
+isa	oldtestgreek00unknuoft	194	9	Ἀμὼς	Ἀμὼς	Ἀμὼς	Ἀμὼς	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	194	9	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	194	10	βαὐύτόν	βαὐύτόν	αὐτόν	αὐτόν	image (3x): in-text § before αὐτόν; acute before capitalized quotation
+isa	oldtestgreek00unknuoft	194	11	(non.	ζήσῃ.	ζήσῃ.	ζήσῃ.	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	194	11	"καὶ	2, +"καὶ	καὶ	καὶ	image (3x): καὶ after superscript 2
+isa	oldtestgreek00unknuoft	194	11	“Ἑζεκίας	ε +“Ἐζεκίας	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing on Ἑ (Ἑζεκ-)
+isa	oldtestgreek00unknuoft	194	11	αὐτοῦ +2	αὐτοῦ +:	αὐτοῦ	αὐτοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	194	12	Ξλέγων	Ξλέγων	λέγων	λέγων	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	194	12	Μνήσθητι, +3	Μνήσθητι, +3	Μνήσθητι,	Μνήσθητι,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	194	13	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	194	14	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	194	14	ἐποίησα"	ἐποίησα"	ἐποίησα·	ἐποίησα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	194	14	“Ἑζεκίας	Ἕζεκίας	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing on Ἑ (Ἑζεκ-)
+isa	oldtestgreek00unknuoft	194	15	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	194	15	Ἠ̓̀σαίαν	Ἢσαίαν	Ἠσαίαν	Ἠσαίαν	image (3x): smooth breathing on Ἠ, no accent
+isa	oldtestgreek00unknuoft	194	15	"Πορεύθητι	"Πορεύθητι	Πορεύθητι	Πορεύθητι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	194	16	εἰπὸν	εἰπὸν	εἰπὸν	εἰπὸν	image (3x): grave before capitalized word (not a quotation)
+isa	oldtestgreek00unknuoft	194	16	“Ἑζεκίᾳ	Ἑζεκίᾳ	Ἑζεκίᾳ	Ἑζεκίᾳ	image (3x): rough breathing on Ἑ (Ἑζεκ-)
+isa	oldtestgreek00unknuoft	194	16	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave before capitalized word (not a quotation)
+isa	oldtestgreek00unknuoft	194	16	Aaveld	Δαυεὶδ	Δαυεὶδ	Δαυεὶδ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	194	16	πατρός	πατρός	πατρός	πατρός	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	194	17	Ἡκοῦσα	Ἡκοῦσα	Ἤκουσα	Ἤκουσα	image (3x): smooth breathing + acute, no circumflex on ου
+isa	oldtestgreek00unknuoft	194	17	cov	σου	σου	σου	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	194	17	δάκρυά	δάκρυά	δάκρυά	δάκρυά	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	194	17	σου"	σου"	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	194	18	πέντε" +“	πέντε" +“	πέντε·	πέντε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	194	18	βασιλέως	βασιλέως +Ε	βασιλέως	βασιλέως	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	194	18	Ἀσσυ- +6	Ἀσσυ- +6	Ἀσσυ-	Ἀσσυ-	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	194	19	ῥύσομαίΐ	ῥύσομαίΐ	ῥύσομαί	ῥύσομαί	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	194	20	ταύτης.	ταὔτης.	ταύτης.	ταύτης.	image (3x): ταύτης, plain acute
+isa	oldtestgreek00unknuoft	194	20	δέ	δέ	δέ	δέ	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	194	20	σοὶ	σοὶ	σοι	σοι	image (3x): enclitic σοι unaccented
+isa	oldtestgreek00unknuoft	194	20	ποιήσει +7	ποιήσει +7	ποιήσει	ποιήσει	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	194	21	τοῦτο:	τοῦτο:	τοῦτο·	τοῦτο·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	194	21	δἰδοὺ	δἰδοὺ	ἰδοὺ	ἰδοὺ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	194	21	ἀναβαθμῶν +8	ἀναβαθμῶν +8	ἀναβαθμῶν	ἀναβαθμῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip

@@ -1,0 +1,70 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	136	1	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	1	Ῥασεὶν	Ῥασεὶν	Ῥασεὶν	Ῥασεὶν	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	1	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): accent before the capitalized word as transcribed
+isa	oldtestgreek00unknuoft	136	1	"Apap	Ἀρὰμ	Ἀρὰμ	Ἀρὰμ	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	1	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): accent before the capitalized word as transcribed
+isa	oldtestgreek00unknuoft	136	1	Ῥομελιὰ	Ῥομελιὰ	Ῥομελιὰ	Ῥομελιὰ	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	2	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): accent before the capitalized word as transcribed
+isa	oldtestgreek00unknuoft	136	2	Ἰσραὴλ.	Ἰσραὴλ.	Ἰσραὴλ	Ἰσραὴλ	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	2	Ἰερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	3	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	136	3	λέγων +2	λέγων +-	λέγων	λέγων	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	136	4	Ἀρὰμ	Ἀρὰμ	Ἀρὰμ	Ἀρὰμ	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	4	Ἐφράιμ:	Ἐφράιμ':	Ἐφράιμ·	Ἐφράιμ·	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	6	3Καὶ	3Καὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	136	6	Ἢσαίαν	Ἢσαίαν	Ἠσαίαν	Ἠσαίαν	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	6	Ἐξελθε	Ἔξελθε	Ἔξελθε	Ἔξελθε	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	6	εἰς +3	εἰς +5	εἰς	εἰς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	136	7	Ἀχὰζ	Ἀχὰζ	Ἀχὰζ	Ἀχὰζ	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	7	καταλειφθεὶς	καταλειφθεὶς	καταλειφθεὶς	καταλειφθεὶς	image (3x): accent before the capitalized word as transcribed
+isa	oldtestgreek00unknuoft	136	7	Ἰασοὺβ	Ἰασοὺβ	Ἰασοὺβ	Ἰασοὺβ	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	7	υἱός	υἱός	υἱός	υἱός	image (3x): acute before enclitic σου
+isa	oldtestgreek00unknuoft	136	8	τῆς:	τῆς.	τῆς	τῆς	image (3x): no punctuation after the word; OCR noise
+isa	oldtestgreek00unknuoft	136	8	‘kal!	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	136	8	ἐρεῖς"	ἐρεῖς"	ἐρεῖς	ἐρεῖς	image (3x): no punctuation after the word; OCR noise
+isa	oldtestgreek00unknuoft	136	9	ψυχή	ψυχή	ψυχή	ψυχή	image (3x): acute before enclitic σου
+isa	oldtestgreek00unknuoft	136	9	cov	σου	σου	σου	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	136	10	τούτων;	τούτων:	τούτων·	τούτων·	image (3x): raised point, ano teleia
+isa	oldtestgreek00unknuoft	136	11	5καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	136	11	τοῦ	τοῦ +5	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	136	12	5 +"Apap	Ἀρὰμ	Ἀρὰμ	Ἀρὰμ	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	12	ὁ	ὁ.	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	136	12	“Popediov,	“Ρομελίου,	Ῥομελίου,	Ῥομελίου,	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	12	πονηράν	πονηράν	πονηράν	πονηράν	image (3x): accent before the capitalized word as transcribed
+isa	oldtestgreek00unknuoft	136	13	δ᾽ +Αναβησόμεθα	δ᾽Αναβησόμεθα	Ἀναβησόμεθα	Ἀναβησόμεθα	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	13	Ἰουδαίαν,	Ἰουδαίαν,	Ἰουδαίαν,	Ἰουδαίαν,	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	13	ἀπο- +6	ἀπο- +6	ἀπο-	ἀπο-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	136	14	Kat	κἀὶ	καὶ	καὶ	image (3x): καὶ with grave; dot above is a speck
+isa	oldtestgreek00unknuoft	136	14	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): accent before the capitalized word as transcribed
+isa	oldtestgreek00unknuoft	136	15	TaBendr-	Ταβεήλ:	Ταβεήλ·	Ταβεήλ·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	136	15	Ἰτάδε	Ἰτάδε	τάδε	τάδε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	136	15	σαβαώθ	σαβαώθ	σαβαὼθ	σαβαώθ	image (3x): accent before the capitalized word as transcribed
+isa	oldtestgreek00unknuoft	136	15	Od	Οὐ	Οὐ	Οὐ	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	16	δάλλ᾽	ἀλλ᾽	ἀλλ᾽	ἀλλ᾽	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	136	16	κεφαλὴ	κεφαλὴ	κεφαλὴ	κεφαλὴ	image (3x): accent before the capitalized word as transcribed
+isa	oldtestgreek00unknuoft	136	16	Ἀρὰμ	Ἀρὰμ	Ἀρὰμ	Ἀρὰμ	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	16	κεφαλὴ	κεφαλὴ	κεφαλὴ	κεφαλὴ	image (3x): accent before the capitalized word as transcribed
+isa	oldtestgreek00unknuoft	136	17	Ῥασείμ᾽	Ῥασείμ᾽	Ῥασείμ·	Ῥασείμ·	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	18	ἘἜφράιμ	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	18	ϑκαὶ	θκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	136	18	κεφαλὴ	κεφαλὴ	κεφαλὴ	κεφαλὴ	image (3x): accent before the capitalized word as transcribed
+isa	oldtestgreek00unknuoft	136	18	᾿φράιμ	Ἐ̓Φράιμ	Ἐφράιμ	Ἐφράιμ	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	18	7	ἣ	ἡ	ἡ	image (3x): ἡ, rough breathing, no accent
+isa	oldtestgreek00unknuoft	136	19	κεφαλὴ	κεφαλὴ	κεφαλὴ	κεφαλὴ	image (3x): accent before the capitalized word as transcribed
+isa	oldtestgreek00unknuoft	136	19	vids	υἱὸς	υἱὸς	υἱὸς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	136	19	Ρομελίου:	Ῥομελίου:	Ῥομελίου·	Ῥομελίου·	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	20	συνῆτε.	συνῆτε. +"Ὁ	συνῆτε.	συνῆτε.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	136	20	Ἀχὰζ	Ἀχὰξζ	Ἀχὰζ	Ἀχὰζ	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	21	10 +“Airnga	το +πΑἴτησαι	Αἴτησαι	Αἴτησαι	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	21	σημεῖον.	σημεῖον.	σημεῖον	σημεῖον	image (3x): no punctuation after the word; OCR noise
+isa	oldtestgreek00unknuoft	136	21	εἰς +τι	εἰς +τι	εἰς	εἰς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	136	22	"καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	136	22	Ἀχάζ	Ἀχάζ	Ἀχάζ	Ἀχάζ	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	22	Οὐ	Οὐ	Οὐ	Οὐ	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	22	Κύριον.	Κύριον. +τ 13	Κύριον.	Κύριον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	136	23	12 +"καὶ	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	136	23	εἶπεν	εἶπεν +᾽	εἶπεν	εἶπεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	136	23	Ἀκούσατε	Ἀκούσατε	Ἀκούσατε	Ἀκούσατε	image (3x): breathing (and accent) on the capital as transcribed
+isa	oldtestgreek00unknuoft	136	23	Adveid	Δαυείδ᾽	Δαυείδ·	Δαυείδ·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	136	23	ἀγῶνα +13	ἀγῶνα +13	ἀγῶνα	ἀγῶνα	class R3: OCR appended accent-row or margin junk; c read from the image strip

@@ -231,7 +231,7 @@
     ("he/she/it arrived" 10)
     ("out of" 11)
     ("Mesopotamia" (12 name "Μεσοποταμία"))
-    ("of the Syria," 13 14)
+    ("of Syria," (13 unrendered) 14)
     ("and" 15)
     ("God" (18 unrendered) 19)
     ("blessed" (16 bless "εὐλογέω"))
