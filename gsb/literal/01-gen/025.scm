@@ -232,7 +232,7 @@
     ("of Ishmael" (5 name "Ἰσμαήλ"))
     ("the son" 6 7)
     ("of Abraham," 8)
-    ("which" 9)
+    ("whom" 9)
     ("Hagar" 11)
     ("the maidservant" 12 13)
     ("of Sarah" 14)

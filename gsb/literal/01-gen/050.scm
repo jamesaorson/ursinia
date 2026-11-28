@@ -154,7 +154,7 @@
 (verse 8
   (status draft)
   (literal
-    ("And" 1)
+    ("and" 1)
     ("all" 2)
     ("the whole household" 3 (4 whole-household "πανοικία"))
     ("of Joseph" 5)

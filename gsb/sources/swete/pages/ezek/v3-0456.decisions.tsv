@@ -1,0 +1,60 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	456	1	αὐτῆς"	αὐτῆς"	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	1	“emi	"ἐπὶ	ἐπὶ	ἐπὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	1	Ἀσσυ-	Ἀσσυ- +τὰ	Ἀσσυ-	Ἀσσυ-	image (3x): smooth breathing (apostrophe shape) on the capital
+ezek	oldtestgreek00unknuoft	456	2	τὰ +piov	ρίων	ρίων	ρίων	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	456	2	évdedv-	ἐνδεδυ-	ἐνδεδυ-	ἐνδεδυ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	3	εὐπάῤυφα,	εὐπάῤρυφα,	εὐπάρυφα,	εὐπάρυφα,	image (3x): accents and breathings as in the page file
+ezek	oldtestgreek00unknuoft	456	3	ἵππων":	ἵππων:	ἵππων·	ἵππων·	image (3x): letters and punctuation as in the page file; OCR garbled
+ezek	oldtestgreek00unknuoft	456	4	"Ξκαὶ	"Ξ3καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	4	dre	ὅτι	ὅτι	ὅτι	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	4	pia	μία	μία	μία	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	4	“Kai +13.	"καὶ +13.	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	6	ypa-	γρα-	γρα-	γρα-	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	7	Se{wopévovs	᾿"ἐζωσμένους	ἐζωσμένους	ἐζωσμένους	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	7	παραβαπτὰ +15	παραβαπτὰ	παραβαπτὰ	παραβαπτὰ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	9	“Kai	"“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	11	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	11	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before a name (not a quotation)
+ezek	oldtestgreek00unknuoft	456	11	κοίτην +17	κοίτην +17	κοίτην	κοίτην	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	13	“kai	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	13	ἀπεκάλυψεν +38	ἀπεκάλυψεν +τ8	ἀπεκάλυψεν	ἀπεκάλυψεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	14	αὐτῆς"	αὐτῆς"	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	14	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	15	Ψυχή	Ψυχή	ψυχή	ψυχή	image (3x): acute before enclitic μου/σου
+ezek	oldtestgreek00unknuoft	456	15	pou	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	15	am᾽	ἀπ᾽ +»	ἀπ᾽	ἀπ᾽	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	15	ἡ	ἢ	ἡ	ἡ	image (3x): accents and breathings as in the page file
+ezek	oldtestgreek00unknuoft	456	15	Ψυχή	Ψυχή	ψυχή	ψυχή	image (3x): acute before enclitic μου/σου
+ezek	oldtestgreek00unknuoft	456	16	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	16	ἀναμνῆσαι +τὸ	ἀναμνῆσαι	ἀναμνῆσαι	ἀναμνῆσαι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	17	νεύτητός	νεύτητός	νεότητός	νεότητός	image (3x): acute before enclitic μου/σου
+ezek	oldtestgreek00unknuoft	456	17	Αἰγύπτῳ,	Αἰγύπτῳ, +““	Αἰγύπτῳ,	Αἰγύπτῳ,	image (3x): smooth breathing (apostrophe shape) on the capital
+ezek	oldtestgreek00unknuoft	456	17	“καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	17	ἐπέθου +20	ἐπέθου +20	ἐπέθου	ἐπέθου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	18	Χαλδαίους,	Χαλδαίους;	Χαλδαίους,	Χαλδαίους,	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	456	18	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	18	inr-	ἵπ'-	ἵπ-	ἵπ-	image (3x): letters and punctuation as in the page file; OCR garbled
+ezek	oldtestgreek00unknuoft	456	19	πὼν	πὼν	πων	πων	image (3x): accents and breathings as in the page file
+ezek	oldtestgreek00unknuoft	456	19	“᾿καὶ	21 +“᾽καὶ	καὶ	καὶ	image (3x): letters and punctuation as in the page file; OCR garbled
+ezek	oldtestgreek00unknuoft	456	19	νεότητός	νεότητός	νεότητός	νεότητός	image (3x): acute before enclitic μου/σου
+ezek	oldtestgreek00unknuoft	456	19	ἃ +2x	ἃ +“τ	ἃ	ἃ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	20	Αἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	image (3x): smooth breathing (apostrophe shape) on the capital
+ezek	oldtestgreek00unknuoft	456	20	καταλύματί	καταλύματί	καταλύματί	καταλύματί	image (3x): acute before enclitic μου/σου
+ezek	oldtestgreek00unknuoft	456	20	νεότητός	νεότητός	νεότητός	νεότητός	image (3x): acute before enclitic μου/σου
+ezek	oldtestgreek00unknuoft	456	21	Ava	“Διὰ	Διὰ	Διὰ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	21	Ὀόλιβα,	Θ̓όλιβα,	Ὀόλιβα,	Ὀόλιβα,	image (3x): smooth breathing (apostrophe shape) on the capital
+ezek	oldtestgreek00unknuoft	456	21	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing (apostrophe shape) on the capital
+ezek	oldtestgreek00unknuoft	456	21	ἐξε- +22	ἐξε- +22	ἐξε-	ἐξε-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	22	ἐραστάς	ἐραστάς	ἐραστάς	ἐραστάς	image (3x): acute before enclitic μου/σου
+ezek	oldtestgreek00unknuoft	456	22	Ψυχή	Ψυχή	ψυχή	ψυχή	image (3x): acute before enclitic μου/σου
+ezek	oldtestgreek00unknuoft	456	22	av-	αὖ-	αὐ-	αὐ-	image (3x): accents and breathings as in the page file
+ezek	oldtestgreek00unknuoft	456	23	“Ξυἱοὺς	“Ξυἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave before a name (not a quotation)
+ezek	oldtestgreek00unknuoft	456	23	καὶ +23	καὶ +23	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	24	Ὑχοῦε,	Ὑχοῦε,	Ὑχοῦε,	Ὑχοῦε,	image (3x): rough breathing (reversed comma) on Ὑ
+ezek	oldtestgreek00unknuoft	456	25	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave before a name (not a quotation)
+ezek	oldtestgreek00unknuoft	456	25	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	image (3x): smooth breathing (apostrophe shape) on the capital
+ezek	oldtestgreek00unknuoft	456	25	per	μετ᾽	μετ᾽	μετ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	27	*xai	“"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	27	τροχοὶ +24	τροχοὶ +24	τροχοὶ	τροχοὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	456	18	-	-	αἱ	αἱ	ambiguous: mark over ι is a short curved stroke heavier at the top, read as rough breathing (not acute); compare acute on σάρκες

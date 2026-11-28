@@ -1,0 +1,39 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	478	1	““ἐκεῖ	“ἐκεῖ	ἐκεῖ	ἐκεῖ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	1	Ἀσσοὺρ	Ἀσσοὺρ	Ἀσσοὺρ	Ἀσσοὺρ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+ezek	oldtestgreek00unknuoft	478	1	αὑτοῦ,	αὐτοῦ,	αὐτοῦ,	αὐτοῦ,	TODO zoom: A DIA, B same
+ezek	oldtestgreek00unknuoft	478	1	πᾶντες	πάντες	πάντες	πάντες	TODO zoom: A DIA, B same
+ezek	oldtestgreek00unknuoft	478	1	τραυ-	τραυ- +52	τραυ-	τραυ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	2	22 +pariat	ματίαι	ματίαι	ματίαι	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	478	2	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	4	oi	“3οἱ	οἱ	οἱ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	4	γῆς +23	γῆς +523	γῆς	γῆς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	5	“ἐκεῖ	“"ἐκεῖ	ἐκεῖ	ἐκεῖ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	5	Αἰλὰμ	Αἰλὰμ	Αἰλὰμ	Αἰλὰμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+ezek	oldtestgreek00unknuoft	478	6	24 +Tos	54 +τὸς	τος	τος	TODO zoom: A OPEN, B OPEN
+ezek	oldtestgreek00unknuoft	478	6	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	8	ζωῆς:	ζωῆς:	ζωῆς·	ζωῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	9	év	“Ξἐν	ἐν	ἐν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	9	““ἐκεῖ	““ἐκεῖ	ἐκεῖ	ἐκεῖ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	9	Θοβὲλ +35	Θοβὲλ +58	Θοβὲλ	Θοβὲλ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	12	τῆς	τῆς.	τῆς	τῆς	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	478	12	ζωῆς"	ζωῆς"	ζωῆς·	ζωῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	12	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	12	μετὰ +27.	μετὰ +27.	μετὰ	μετὰ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	13	οἱ	οἱ	οἳ	οἳ	TODO zoom: A DROP, B DROP
+ezek	oldtestgreek00unknuoft	478	13	ἅδου	ἅδου	ᾅδου	ᾅδου	TODO zoom: A DROP, B DROP
+ezek	oldtestgreek00unknuoft	478	15	αὐτῶν:	αὐτῶν.	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	16	*xai	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	17	28 +τῶν	8 +τῶν	των	των	TODO zoom: A OPEN, B OPEN
+ezek	oldtestgreek00unknuoft	478	17	“9ἐκεῖ	“ἐκεῖ	ἐκεῖ	ἐκεῖ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	17	ἐδόθησαν +29	ἐδόθησαν +59	ἐδόθησαν	ἐδόθησαν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	18	Ἀσσοὺρ	Ἀσσοὺρ	Ἀσσοὺρ	Ἀσσοὺρ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+ezek	oldtestgreek00unknuoft	478	18	μαχαίρας"	μαχαίρας"	μαχαίρας·	μαχαίρας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	19	βόθρον.	βόθρον. +30	βόθρον.	βόθρον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	20	3οἐκεῖ	ἐκεῖ	ἐκεῖ	ἐκεῖ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	20	στρατηγοὶ	στρατηγοὶ	στρατηγοὶ	στρατηγοὶ	TODO zoom: acute or grave before a capitalized word
+ezek	oldtestgreek00unknuoft	478	20	Ἀσσούρ,	Ἀσσούρ,	Ἀσσούρ,	Ἀσσούρ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+ezek	oldtestgreek00unknuoft	478	20	κατα- +30	κατα- +30	κατα-	κατα-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	21	αὐτών	αὐτῶν	αὐτῶν	αὐτῶν	TODO zoom: A DIA, B same
+ezek	oldtestgreek00unknuoft	478	23	βόθρον. +5"	βόθρον. +3"	βόθρον.	βόθρον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	478	23	ἐκείνους +31	ἐκείνους +3:	ἐκείνους	ἐκείνους	class R3: OCR appended accent-row or margin junk; c read from the image strip

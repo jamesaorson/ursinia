@@ -1,0 +1,47 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	421	1	ἀνδρός:	ἀνδρός:	ἀνδρός·	ἀνδρός·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	421	1	πῦρ, +B	πῦρ, +Β	πῦρ,	πῦρ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	421	2	ἠλέκτρου. +5	ἠλέκτρου.	ἠλέκτρου.	ἠλέκτρου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	421	2	καὶ	53καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	421	3	ἀνέλαβέν	ἀνέλαβέν	ἀνέλαβέν	ἀνέλαβέν	image (3x): acute before enclitic με
+ezek	oldtestgreek00unknuoft	421	4	λαβέν	λαβέν	λαβέν	λαβέν	image (3x): acute before enclitic με
+ezek	oldtestgreek00unknuoft	421	4	ἤγαγέν	ἤγαγέν	ἤγαγέν	ἤγαγέν	image (3x): acute before enclitic με
+ezek	oldtestgreek00unknuoft	421	5	Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing (apostrophe shape) on Ι
+ezek	oldtestgreek00unknuoft	421	6	KT@pévov.	κτωμένου.	κτωμένου.	κτωμένου.	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	421	6	“καὶ	4 +“καὶ	καὶ	καὶ	image (3x): as transcribed; OCR junk/specks, no point after the word
+ezek	oldtestgreek00unknuoft	421	7	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape) on Ι
+ezek	oldtestgreek00unknuoft	421	8	∅	∅	τῷ	τῷ	image (3x): as transcribed; OCR junk/specks, no point after the word
+ezek	oldtestgreek00unknuoft	421	8	πεδίῳ.	πεδίῳ. +5	πεδίῳ.	πεδίῳ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	421	8	Skat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	421	8	μέ	μέ	μέ	μέ	image (3x): acute on μέ before capitalized quotation
+ezek	oldtestgreek00unknuoft	421	8	Υἱὲ	Υἱὲ	Υἱὲ	Υἱὲ	image (3x): Υ unmarked, rough breathing + grave on ι: Υἱὲ
+ezek	oldtestgreek00unknuoft	421	10	ava-	ἀνα-	ἀνα-	ἀνα-	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	421	11	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	421	11	μέ	μέ	μέ	μέ	image (3x): acute on μέ before capitalized quotation
+ezek	oldtestgreek00unknuoft	421	11	Ὑἱὲ	Ὑἱὲ	Υἱὲ	Υἱὲ	image (3x): Υ unmarked, rough breathing + grave on ι: Υἱὲ
+ezek	oldtestgreek00unknuoft	421	12	ovow;	οὔσιν;	οῦσιν;	οῦσιν;	image (3x): as transcribed; OCR junk/specks, no point after the word
+ezek	oldtestgreek00unknuoft	421	13	μου:	μου:	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	421	13	71καὶ	71καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	421	13	εἰσήγαγέν	εἰσήγαγέν	εἰσήγαγέν	εἰσήγαγέν	image (3x): acute before enclitic με
+ezek	oldtestgreek00unknuoft	421	14	θυρα.	θυρα.	θυρα	θυρα	image (3x): no point after θυρα (line continues)
+ezek	oldtestgreek00unknuoft	421	14	®xai	ἑκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	421	14	μέ	μέ	μέ	μέ	image (3x): acute on μέ before capitalized quotation
+ezek	oldtestgreek00unknuoft	421	14	Ὑἱὲ	Ὑἱὲ	Υἱὲ	Υἱὲ	image (3x): Υ unmarked, rough breathing + grave on ι: Υἱὲ
+ezek	oldtestgreek00unknuoft	421	14	dpvéov.	ὄρυξον.	ὄρυξον.	ὄρυξον.	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	421	14	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	421	15	∅	ὥρυξα,	ὤρυξα,	ὤρυξα,	image (3x): smooth + acute (apostrophe then rising stroke)
+ezek	oldtestgreek00unknuoft	421	15	καὶ +@puga, καὶ.	καὶ.	καὶ	καὶ	image (3x): as transcribed; OCR junk/specks, no point after the word
+ezek	oldtestgreek00unknuoft	421	15	Yai	9ϑκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	421	15	μέ	μέ	μέ	μέ	image (3x): acute on μέ before capitalized quotation
+ezek	oldtestgreek00unknuoft	421	15	Ἐἴσελθε	Ἐἴσελθε	Εἴσελθε	Εἴσελθε	image (3x): Ε unmarked, smooth + acute on ι: Εἴσελθε
+ezek	oldtestgreek00unknuoft	421	16	"καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	421	17	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape) on Ι
+ezek	oldtestgreek00unknuoft	421	18	“Kab	“᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	421	19	ρὼν	ρὼν	ρων	ρων	image (3x): no accent on ρων
+ezek	oldtestgreek00unknuoft	421	19	Ἰσραήλ:	Ἰσραήλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing (apostrophe shape) on Ι
+ezek	oldtestgreek00unknuoft	421	19	Ἰεχονίας	Ἰεχονίας	Ἰεχονίας	Ἰεχονίας	image (3x): smooth breathing (apostrophe shape) on Ι
+ezek	oldtestgreek00unknuoft	421	19	6	ὃ.	ὁ	ὁ	image (3x): as transcribed; OCR junk/specks, no point after the word
+ezek	oldtestgreek00unknuoft	421	19	τοῦ.	τοῦ.	τοῦ	τοῦ	image (3x): as transcribed; OCR junk/specks, no point after the word
+ezek	oldtestgreek00unknuoft	421	19	μέσῳ.	μέσῳ.	μέσῳ	μέσῳ	image (3x): as transcribed; OCR junk/specks, no point after the word
+ezek	oldtestgreek00unknuoft	421	21	τοῦ	τοῦ +θ	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	421	21	“Kal	12 +"“καὶ	καὶ	καὶ	image (3x): as transcribed; OCR junk/specks, no point after the word

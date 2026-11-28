@@ -1,0 +1,34 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	281	1	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	281	1	ἐξαιρεῖσθαί	ἐξαιρεῖσθαί	ἐξαιρεῖσθαί	ἐξαιρεῖσθαί	image (3x): acute before enclitic, as printed; B in OCR is the margin siglum
+jer	oldtestgreek00unknuoft	281	2	λυτρώσομαί	Β	λυτρώσομαί	λυτρώσομαί	image (3x): acute before enclitic, as printed; B in OCR is the margin siglum
+jer	oldtestgreek00unknuoft	281	2	σε	χ	σε	σε	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	281	2	ἐκ	∅	ἐκ	ἐκ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	281	2	χειρὸς	∅	χειρὸς	χειρὸς	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	281	2	λοιμῶν.	∅	λοιμῶν.	λοιμῶν.	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	281	3	σὺ.	σὺ.	σὺ	σὺ	image (3x): OCR junk (speck/verse superscript/worn ο); page reading confirmed
+jer	oldtestgreek00unknuoft	281	3	θεὸς	θεὸς +ϑ	θεὸς	θεὸς	image (3x): grave on θεὸς before capitalized name, as printed
+jer	oldtestgreek00unknuoft	281	3	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing; acute on Ἰσραήλ as printed
+jer	oldtestgreek00unknuoft	281	3	"καὶ	2 +"καὶ	καὶ	καὶ	image (3x): OCR junk (speck/verse superscript/worn ο); page reading confirmed
+jer	oldtestgreek00unknuoft	281	4	γεννηθήσεταί.	γεννηθήσεταί.	γεννηθήσεταί	γεννηθήσεταί	image (3x): acute before enclitic, as printed; B in OCR is the margin siglum
+jer	oldtestgreek00unknuoft	281	5	πὲρὶ	πὲρὶ	περὶ	περὶ	image (3x): περὶ, no accent on ε
+jer	oldtestgreek00unknuoft	281	6	“τούτῳ,	“τούτῳ,	τούτῳ,	τούτῳ,	image (3x): OCR junk (speck/verse superscript/worn ο); page reading confirmed
+jer	oldtestgreek00unknuoft	281	8	“Ἔν:	“Ἔν.	Ἐν	Ἐν	image (3x): smooth breathing; acute on Ἰσραήλ as printed
+jer	oldtestgreek00unknuoft	281	9	ταφήσονται:	ταφήσονται:	ταφήσονται·	ταφήσονται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	281	10	οὐρανοῦ:	οὐρανοῦ:	οὐρανοῦ·	οὐρανοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	281	11	τάδε	"τάδε	τάδε	τάδε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	281	14	“οὐ	“οὐ	οὐ	οὐ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	281	14	od	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	281	14	ποιή-	ποιή:	ποιή-	ποιή-	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	281	15	ξυρηθήσονται, +7	ξυρηθήσονται, +1	ξυρηθήσονται,	ξυρηθήσονται,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	281	16	τεθνηκότι"	τεθνηκότι:	τεθνηκότι·	τεθνηκότι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	281	17	αὐτοῦ. +ὃ	αὐτοῦ. +ὃ	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	281	17	πύτου	πύτου	πότου	πότου	image (3x): OCR junk (speck/verse superscript/worn ο); page reading confirmed
+jer	oldtestgreek00unknuoft	281	18	pet	μετ᾽	μετ᾽	μετ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	281	18	wre	διότι	διότι	διότι	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	281	19	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave on θεὸς before capitalized name, as printed
+jer	oldtestgreek00unknuoft	281	19	Ἰσραήλ	Ἰσραήλ	Ἰσραήλ	Ἰσραήλ	image (3x): smooth breathing; acute on Ἰσραήλ as printed
+jer	oldtestgreek00unknuoft	281	19	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing; acute on Ἰσραήλ as printed
+jer	oldtestgreek00unknuoft	281	21	"καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	281	23	σέ	σέ	σέ	σέ	image (3x): acute before capitalized Διὰ
+jer	oldtestgreek00unknuoft	281	1	-	-	σώζειν	σώζειν	image (4x): no iota subscript under ω, as printed

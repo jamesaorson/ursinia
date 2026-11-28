@@ -35,11 +35,10 @@
 (verse 3
   (status draft)
   (literal
-    ("[There]")
+    ("Other" 5)
+    ("gods" 4)
     ("will not be" 1 2)
     ("to you" 3)
-    ("other" 5)
-    ("gods" 4)
     ("except" 6)
     ("me." 7)))
 

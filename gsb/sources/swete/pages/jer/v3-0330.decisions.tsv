@@ -1,0 +1,53 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	330	2	∅	χῶνος..	λῶνος.	λῶνος.	image (3x): λῶνος. with period
+jer	oldtestgreek00unknuoft	330	2	καὶ	"καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	330	2	∅	εἶπεν	εἶπεν	εἶπεν	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	330	2	∅	Ἱερεμίας	Ἰερεμίας	Ἰερεμίας	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	330	2	∅	τῷ	τῷ	τῷ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	330	2	∅	Ἀ̓νανίᾳ	Ἁνανίᾳ	Ἁνανίᾳ	image (3x): rough breathing (reversed comma) on Ἁνανίᾳ, iota subscript
+jer	oldtestgreek00unknuoft	330	2	∅	Οὐκ	Οὐκ	Οὐκ	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	330	2	∅	ἀπέσταλκέν	ἀπέσταλκέν	ἀπέσταλκέν	image (3x): acute before the enclitic σε
+jer	oldtestgreek00unknuoft	330	2	∅	σε	σε	σε	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	330	2	∅	Κύριος, +15	Κύριος,	Κύριος,	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	330	3	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	330	3	"διὰ	“διὰ	διὰ	διὰ	image (3x): OCR read the superscript verse number as a quote mark/junk; word as transcribed
+jer	oldtestgreek00unknuoft	330	3	τοῦτο +τό	τοῦτο +τό	τοῦτο	τοῦτο	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	330	4	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	330	4	σε	σὲ	σε	σε	image (3x): σε unaccented
+jer	oldtestgreek00unknuoft	330	5	γῆς"	γῆς᾽	γῆς·	γῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	330	5	“kat	"Ἰκαὶ	καὶ	καὶ	image (3x): OCR read the superscript verse number as a quote mark/junk; word as transcribed
+jer	oldtestgreek00unknuoft	330	5	τῷ	τῷ +17	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	330	6	17	ἑβδόμῳ. +τ	ἑβδόμῳ.	ἑβδόμῳ.	image (3x): ἑβδόμῳ. rough breathing, iota subscript; margin 17 is not text
+jer	oldtestgreek00unknuoft	330	7	αἱ	Καὶ	Καὶ	Καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	330	7	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	330	7	obs	οὺς	οὓς	οὓς	image (3x): οὓς rough + grave (compact closed mark)
+jer	oldtestgreek00unknuoft	330	7	ἀπέστεϊλεν	ἀπέστεϊίλεν	ἀπέστειλεν	ἀπέστειλεν	image (3x): ει without diaeresis
+jer	oldtestgreek00unknuoft	330	7	Ἱερεμίας	Ἱερεμίας	Ἰερεμίας	Ἰερεμίας	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	330	7	Ἴε- +τ	Ἴε- +τ	Ἰε-	Ἰε-	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	330	9	Ψψευδοπροφήτας,	ψευδοπτροφήτας,	ψευδοπροφήτας,	ψευδοπροφήτας,	image (3x): ψευδοπροφήτας as transcribed
+jer	oldtestgreek00unknuoft	330	10	“ὕστερον	“ὕστερον	ὕστερον	ὕστερον	image (3x): OCR read the superscript verse number as a quote mark/junk; word as transcribed
+jer	oldtestgreek00unknuoft	330	10	Ἰεχονίου	Ἰεχονίου	Ἰεχονίου	Ἰεχονίου	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	330	10	βασι- +2	βασι- +«	βασι-	βασι-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	330	12	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	330	12	3ἐν	3ἐν	ἐν	ἐν	image (3x): OCR read the superscript verse number as a quote mark/junk; word as transcribed
+jer	oldtestgreek00unknuoft	330	12	χειρὶ	χειρὶ	χειρὶ	χειρὶ	image (3x): accent as printed before the capitalized word
+jer	oldtestgreek00unknuoft	330	12	Ἐ̓λεασὰν	Ἐ̓λεασὰν	Ἐλεασὰν	Ἐλεασὰν	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	330	12	υἱοῦ +3	υἱοῦ +3	υἱοῦ	υἱοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	330	13	Ταμαρίου	Ταμαρίου	Γαμαρίου	Γαμαρίου	image (3x): Γ, not Τ
+jer	oldtestgreek00unknuoft	330	13	ἀπέστεϊλεν	ἀπέστειλεν	ἀπέστειλεν	ἀπέστειλεν	image (3x): ει without diaeresis
+jer	oldtestgreek00unknuoft	330	13	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): accent as printed before the capitalized word
+jer	oldtestgreek00unknuoft	330	14	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	330	14	“Οὕτως	“Οὕτως	Οὕτως	Οὕτως	image (3x): Οὕτως rough + acute
+jer	oldtestgreek00unknuoft	330	14	εἶπεν	εἶπεν +4	εἶπεν	εἶπεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	330	15	4 +ύριος	Κύριος	Κύριος	Κύριος	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	330	15	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): accent as printed before the capitalized word
+jer	oldtestgreek00unknuoft	330	15	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	330	15	Ἴερου-	Ἴερου-	Ἰερου-	Ἰερου-	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	330	16	σαλήμ	σαλήμ +5	σαλήμ	σαλήμ	image (3x): accent as printed before the capitalized word
+jer	oldtestgreek00unknuoft	330	16	"Οἰκοδομήσατε	Οἰκοδομήσατε	Οἰκοδομήσατε	Οἰκοδομήσατε	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	330	17	“καὶ	“καὶ	καὶ	καὶ	image (3x): OCR read the superscript verse number as a quote mark/junk; word as transcribed
+jer	oldtestgreek00unknuoft	330	17	καὶ	καὶ +6	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	330	19	vaikas,	ναῖκας,	ναῖκας,	ναῖκας,	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	330	19	τὰς	τὰς +θυ	τὰς	τὰς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	330	20	σμικρυνθῆτε, +Τ	σμικρυνθῆτε, +Τ	σμικρυνθῆτε,	σμικρυνθῆτε,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	330	20	ἀπῴκισα +7	ἀπῴκισα	ἀπῴκισα	ἀπῴκισα	class R3: OCR appended accent-row or margin junk; c read from the image strip

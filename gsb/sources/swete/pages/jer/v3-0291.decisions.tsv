@@ -1,0 +1,37 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	291	1	Ἐτέχθη	Ἐτέχθη	Ἐτέχθη	Ἐτέχθη	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	291	1	"δἔστω.	"δἔστω.	ἔστω	ἔστω	image (3x): ἔστω after superscript 16; no point
+jer	oldtestgreek00unknuoft	291	1	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	291	1	ὡς	ὡς +Β	ὡς	ὡς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	291	2	B +ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	291	2	as	ἃς	ἃς	ἃς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	291	2	od	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	291	3	μεσημβρίας"	μεσημβρίας"	μεσημβρίας·	μεσημβρίας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	291	3	"ὅτι	"ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	291	4	κτεινέν	κτεινέν	κτεινέν	κτεινέν	image (3x): extra acute before enclitic as printed
+jer	oldtestgreek00unknuoft	291	4	ἐγένετό	ἐγένετό	ἐγένετό	ἐγένετό	image (3x): extra acute before enclitic as printed
+jer	oldtestgreek00unknuoft	291	4	ἣ	ἣ	ἡ	ἡ	image (3x): ἡ rough, no accent
+jer	oldtestgreek00unknuoft	291	5	“iva	ἵνα	ἵνα	ἵνα	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	291	6	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	291	7	ὯὋ	Ὁ	Ὁ	Ὁ	image (3x): Ὁ rough breathing, no accent; XXI in margin outside
+jer	oldtestgreek00unknuoft	291	7	Ἱερεμίαν,	Ἱερεμίαν,	Ἰερεμίαν,	Ἰερεμίαν,	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	291	8	ὅ	ὅ	ὁ	ὁ	image (3x): ὁ rough, no accent
+jer	oldtestgreek00unknuoft	291	8	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave; next word a name, not a quotation
+jer	oldtestgreek00unknuoft	291	8	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): grave; next word a name, not a quotation
+jer	oldtestgreek00unknuoft	291	9	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): grave; next word a name, not a quotation
+jer	oldtestgreek00unknuoft	291	10	“Ἐπερώτησον	“Ἐπερώτησον	Ἐπερώτησον	Ἐπερώτησον	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	291	10	κύριον,	κύριον,.	κύριον,	κύριον,	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	291	10	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave; next word a name, not a quotation
+jer	oldtestgreek00unknuoft	291	12	αὐτοὺς	αὐτοὺς	αὐτοὺς	αὐτοὺς	image (3x): grave; next word a name, not a quotation
+jer	oldtestgreek00unknuoft	291	13	Ἱερεμίας	Ἱερεμίας	Ἰερεμίας	Ἰερεμίας	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	291	13	Οὕτως	Οὕτως	Οὕτως	Οὕτως	image (3x): rough breathing+acute, open curl
+jer	oldtestgreek00unknuoft	291	13	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	291	13	“Τάδε	“Τάδε	Τάδε	Τάδε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	291	14	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	291	16	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	291	17	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	291	18	μεγάλης" +©	μεγάλης" +ὅ	μεγάλης·	μεγάλης·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	291	19	ὑτῇ,	ταύτῃ,	ταύτῃ,	ταύτῃ,	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	291	20	Τκαὶ	Τκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	291	21	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	291	21	τὸν.	τὸν.	τὸν	τὸν	image (3x): no point after τὸν

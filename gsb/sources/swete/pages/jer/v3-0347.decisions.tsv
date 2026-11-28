@@ -1,0 +1,33 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	347	1	Ὑμεῖς	Ὑμεῖς	Ὑμεῖς	Ὑμεῖς	image (3x): rough breathing on Υ (reversed comma)
+jer	oldtestgreek00unknuoft	347	1	ἠκούσατέ	ἠκούσατέ	ἠκούσατέ	ἠκούσατέ	image (3x): acute on ultima before enclitic, as Swete prints
+jer	oldtestgreek00unknuoft	347	1	πρὸς +Β	πρὸς +Β	πρὸς	πρὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	347	2	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	347	3	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	347	4	“kal	“καὶ	καὶ	καὶ	image (3x): verse superscript not text; word as read
+jer	oldtestgreek00unknuoft	347	5	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	347	6	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): acute on ultima before enclitic, as Swete prints
+jer	oldtestgreek00unknuoft	347	6	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	347	6	by	ὃν	ὃν	ὃν	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	347	7	"τοὺς	"τοὺς	τοὺς	τοὺς	image (3x): verse superscript not text; word as read
+jer	oldtestgreek00unknuoft	347	7	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on Ι
+jer	oldtestgreek00unknuoft	347	8	“καὶ	“καὶ	καὶ	καὶ	image (3x): verse superscript not text; word as read
+jer	oldtestgreek00unknuoft	347	10	plows	ρίοις	ρίοις	ρίοις	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	347	10	“Kat	“᾿καὶ	καὶ	καὶ	image (3x): verse superscript not text; word as read
+jer	oldtestgreek00unknuoft	347	10	Ἰουδαίας	Ἰουδαίας	Ἰουδαίας	Ἰουδαίας	image (3x): smooth breathing on Ι
+jer	oldtestgreek00unknuoft	347	12	“ἰδοὺ	“ἰδοὺ	ἰδοὺ	ἰδοὺ	image (3x): verse superscript not text; word as read
+jer	oldtestgreek00unknuoft	347	13	φησὶν	φησὶν	φησὶν	φησὶν	image (3x): grave before capitalized word that is not a quotation (Κύριος / Ἰερεμὶν)
+jer	oldtestgreek00unknuoft	347	13	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	347	13	ταύτην,	Ταύτην,	ταύτην,	ταύτην,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	347	15	ras	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	347	15	Ἰούδα,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing on Ι
+jer	oldtestgreek00unknuoft	347	17	ἶ +=, t'O	τῷῸὉ	Ὁ	Ὁ	image (3x): rough breathing on Ὁ; verse superscript and margin 1 not text
+jer	oldtestgreek00unknuoft	347	17	Ἰερεμίαν	᾿ερεμίαν	Ἰερεμίαν	Ἰερεμίαν	image (3x): smooth breathing on Ι
+jer	oldtestgreek00unknuoft	347	17	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	image (3x): smooth breathing on Ι
+jer	oldtestgreek00unknuoft	347	18	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on Ι
+jer	oldtestgreek00unknuoft	347	19	ΞΒάδισον	ΞΒάδισον	Βάδισον	Βάδισον	image (3x): verse superscript not text; word as read
+jer	oldtestgreek00unknuoft	347	19	“ApxaBely	Ἀρχαβεὶν	Ἁρχαβεὶν	Ἁρχαβεὶν	image (3x): rough breathing on Α (reversed comma): Ἁρχαβεὶν
+jer	oldtestgreek00unknuoft	347	20	3καὶ	3ϑκαὶ	καὶ	καὶ	image (3x): verse superscript not text; word as read
+jer	oldtestgreek00unknuoft	347	21	Ἰεχονίαν	Ἰεχονίαν	Ἰεχονίαν	Ἰεχονίαν	image (3x): smooth breathing on Ι
+jer	oldtestgreek00unknuoft	347	21	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): grave before capitalized word that is not a quotation (Κύριος / Ἰερεμὶν)
+jer	oldtestgreek00unknuoft	347	21	Ἰερεμὶν	Ἰερεμὶν	Ἰερεμὶν	Ἰερεμὶν	image (3x): smooth breathing on Ι

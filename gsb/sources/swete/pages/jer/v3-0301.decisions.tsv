@@ -1,0 +1,49 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	301	1	αὐτοὺς	αὐτοὺς +Β	αὐτοὺς	αὐτοὺς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	301	2	3xai	Ξ̓καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	301	3	"λόγους	"λόγους	λόγους	λόγους	image (3x): § printed in the text before λόγους (kept)
+jer	oldtestgreek00unknuoft	301	3	ods	οὺς	οὓς	οὓς	image (3x): οὓς rough + grave
+jer	oldtestgreek00unknuoft	301	3	τῷ	τῷ +ξΤ᾽	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	301	5	τά +14°A	τά +14	Ἃ	Ἃ	image (8x): rough + grave on capital, one compact closed mark (Ἃ); after superscript 14
+jer	oldtestgreek00unknuoft	301	5	Ἱερεμίας	Ἱερεμίας	Ἰερεμίας	Ἰερεμίας	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	301	5	Αἰλάμ.	Αἰλάμ.	Αἰλάμ.	Αἰλάμ.	image (3x): smooth breathing on ι of Αἰ
+jer	oldtestgreek00unknuoft	301	6	I +15 "Τάδε	Ἵ +4{τ᾽ .50 "Τάδε	Τάδε	Τάδε	image (3x): word after superscript verse number / OCR junk
+jer	oldtestgreek00unknuoft	301	6	Αἰλάμ,	Αἰλάμ,	Αἰλάμ,	Αἰλάμ,	image (3x): smooth breathing on ι of Αἰ
+jer	oldtestgreek00unknuoft	301	6	δυνα- +16	δυνα- +τό	δυνα-	δυνα-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	301	7	καὶ	"“᾿καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	301	7	Αἰλὰμ	Αἰλὰμ	Αἰλὰμ	Αἰλὰμ	image (3x): smooth breathing on ι of Αἰ
+jer	oldtestgreek00unknuoft	301	9	ἐξωσμένοι +17	ἐξωσμένοι +.γ	ἐξωσμένοι	ἐξωσμένοι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	301	10	Αἰλάμ.	Αἰλάμ.	Αἰλάμ.	Αἰλάμ.	image (3x): smooth breathing on ι of Αἰ
+jer	oldtestgreek00unknuoft	301	10	καὶ	"καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	301	11	Ψυχὴν	ψυχὴν	ψυχὴν	ψυχὴν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	301	12	μά- +«8	μά- +.Β8	μά-	μά-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	301	13	χαιράν	χαιράν	χαιράν	χαιράν	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	301	13	pou	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	301	13	“xal	“καὶ	καὶ	καὶ	image (3x): word after superscript verse number / OCR junk
+jer	oldtestgreek00unknuoft	301	14	Αἰλάμ,	Αἰλάμ,	Αἰλάμ,	Αἰλάμ,	image (3x): smooth breathing on ι of Αἰ
+jer	oldtestgreek00unknuoft	301	14	μεγιστᾶνας,	μεγιστᾶνας, +το	μεγιστᾶνας,	μεγιστᾶνας,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	301	15	19 +"καὶ	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	301	15	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	301	15	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	301	15	aixpa- +τ	αἰχμα- +τ:	αἰχμα-	αἰχμα-	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	301	16	Αἰλάμ,	Αἰλάμ,	Αἰλάμ,	Αἰλάμ,	image (3x): smooth breathing on ι of Αἰ
+jer	oldtestgreek00unknuoft	301	16	Κύριος..	Κύριος...	Κύριος.	Κύριος.	image (3x): single period
+jer	oldtestgreek00unknuoft	301	16	"ἐν	"ἐν	ἐν	ἐν	image (3x): word after superscript verse number / OCR junk
+jer	oldtestgreek00unknuoft	301	17	Αἰλάμ.	Αἰλάμ.	Αἰλάμ.	Αἰλάμ.	image (3x): smooth breathing on ι of Αἰ
+jer	oldtestgreek00unknuoft	301	18	Αἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	image (3x): smooth breathing on ι of Αἰ
+jer	oldtestgreek00unknuoft	301	18	Φαραὼ	Φαραὼ	Φαραὼ	Φαραὼ	image (3x): grave before a capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	301	18	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	image (3x): smooth breathing on ι of Αἰ
+jer	oldtestgreek00unknuoft	301	18	ἦν	ἣν	ἦν	ἦν	image (3x): circumflex, ἦν
+jer	oldtestgreek00unknuoft	301	19	Εὐφράτῃ	Εὐφράτῃ	Εὐφράτῃ	Εὐφράτῃ	image (3x): smooth breathing on υ of Εὐ
+jer	oldtestgreek00unknuoft	301	19	Χαρμείς,	Χαρμείς,	Χαρμεῖς,	Χαρμεις,	image (5x): Χαρμεις printed without accent (no mark above ει); kept as printed
+jer	oldtestgreek00unknuoft	301	20	λεὺς	λεὺς	λεὺς	λεὺς	image (3x): grave before a capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	301	20	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	301	20	Ἰούδα.	Ἰούδα.	Ἰούδα.	Ἰούδα.	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	301	21	3 +3*AvaddBete	3 +3Ἀναλάβετε	Ἀναλάβετε	Ἀναλάβετε	image (3x): smooth breathing on capital; after superscript 3
+jer	oldtestgreek00unknuoft	301	21	«καὶ	«καὶ	καὶ	καὶ	image (3x): word after superscript verse number / OCR junk
+jer	oldtestgreek00unknuoft	301	22	4 +ἑκαὶ	4 +ἑκαὶ	καὶ	καὶ	image (3x): word after superscript verse number / OCR junk
+jer	oldtestgreek00unknuoft	301	22	ἵππους"	ἵππους"	ἵππους·	ἵππους·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	301	23	τοὺς +5	τοὺς +5	τοὺς	τοὺς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	301	24	Sri	5τί	τί	τί	image (3x): word after superscript verse number / OCR junk
+jer	oldtestgreek00unknuoft	301	19	-	-	Χαρμεις,	Χαρμεις,	image (5x): foreign place name printed unaccented; kept as printed
+jer	oldtestgreek00unknuoft	301	16	-	-	Σεδεκίον	Σεδεκίον	ambiguous: final letter looks like ν (pointed) with a speck, not υ; expected genitive Σεδεκίου; apparent misprint kept as printed

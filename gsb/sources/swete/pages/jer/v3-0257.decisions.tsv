@@ -1,0 +1,58 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	257	1	ἀπώσαντό	ἀπώσαντό	ἀπώσαντό	ἀπώσαντό	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	257	1	ἐρασταί	ἐρασταί	ἐρασταί	ἐρασταί	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	257	1	ψυχήν	ψυχήν	ψυχήν	ψυχήν	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	257	1	* +dri	5:ὅτι	ὅτι	ὅτι	image (3x): ὅτι after superscript 31
+jer	oldtestgreek00unknuoft	257	1	φωνὴν +B	φωνὴν +Β	φωνὴν	φωνὴν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	257	2	ἤκουσα.	ἤκουσα.	ἤκουσα	ἤκουσα	image (3x): no punctuation after the word
+jer	oldtestgreek00unknuoft	257	2	σου,	σου;	σου,	σου,	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	257	2	πρωτοτοκούσης:	πρωτοτοκούσης:	πρωτοτοκούσης·	πρωτοτοκούσης·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	257	3	θυγατρὸς	θυγατρὸς	θυγατρὸς	θυγατρὸς	image (3x): grave on θυγατρὸς before Σειών (name)
+jer	oldtestgreek00unknuoft	257	3	Σειών:	Σειών"	Σειών·	Σειών·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	257	3	Οἴμοι	Οἴμοι	Οἴμοι	Οἴμοι	image (3x): smooth breathing + acute on ι of Οἴμοι
+jer	oldtestgreek00unknuoft	257	4	ψυχή	ψυχή	ψυχή	ψυχή	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	257	4	μοὺ	μου	μου	μου	image (3x): μου unaccented
+jer	oldtestgreek00unknuoft	257	5	ὑπεριδράμετε	ὑπΠεριδράμετε	Περιδράμετε	Περιδράμετε	image (3x): superscript 1 then Π; no letters before
+jer	oldtestgreek00unknuoft	257	5	Ἱερουσαλήμ;	Ἱερουσαλήμ;	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing on Ι; comma after
+jer	oldtestgreek00unknuoft	257	7	“Ζῇ	“Ζῇ	Ζῇ	Ζῇ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	257	8	λέγουσιν"	λέγουσιν"	λέγουσιν·	λέγουσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	257	8	ὀμνύουσιν; +3	ὀμνύουσιν; +3	ὀμνύουσιν;	ὀμνύουσιν;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	257	8	ὀφθαλμοί	ὀφθαλμοί	ὀφθαλμοί	ὀφθαλμοί	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	257	9	πίστιν:	πίστιν"	πίστιν·	πίστιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	257	10	παιδείαν,	παιδείαν;	παιδείαν,	παιδείαν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	257	11	αὐτῶν	» +«	αὐτῶν	αὐτῶν	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	257	11	“καὶ	4 +“καὶ	καὶ	καὶ	image (3x): καὶ after superscript 4
+jer	oldtestgreek00unknuoft	257	12	Ἰσως	Ἴσως	Ἴσως	Ἴσως	image (3x): smooth breathing + acute on Ι
+jer	oldtestgreek00unknuoft	257	12	πτωχοί	πτωχοί	πτωχοί	πτωχοί	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	257	12	εἶσιν,	εἰσιν,	εἰσιν,	εἰσιν,	image (3x): εἰσιν smooth breathing, unaccented enclitic
+jer	oldtestgreek00unknuoft	257	12	ὁδὸν	ὁδὸν	ὁδὸν	ὁδὸν	image (3x): grave on ὁδὸν before Κυρίου (name)
+jer	oldtestgreek00unknuoft	257	13	θεοῦ:	θεοῦ"	θεοῦ·	θεοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	257	13	"πορεύσομαι	"πορεύσομαι	πορεύσομαι	πορεύσομαι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	257	13	now	λαλήσω	λαλήσω	λαλήσω	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	257	14	ὁδὸν	ὁδὸν	ὁδὸν	ὁδὸν	image (3x): grave on ὁδὸν before Κυρίου (name)
+jer	oldtestgreek00unknuoft	257	14	θεοῦ"	θεοῦ"	θεοῦ·	θεοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	257	15	“διὰ	“διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	257	17	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	257	17	oi	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	257	18	dre	ὅτε	ὅτι	ὅτι	image (3x): ὅτι
+jer	oldtestgreek00unknuoft	257	18	av-	αὐ-	αὐ-	αὐ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	257	19	Ἰποίᾳ	ἸΤποίᾳ	ποίᾳ	ποίᾳ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	257	20	νωμαί	νωμαί	νωμαί	νωμαί	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	257	20	υἱοί	υἱοί	υἱοί	υἱοί	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	257	20	ἐνκατέλιπόν	ἐνκατέλιπόν	ἐνκατέλιπόν	ἐνκατέλιπόν	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	257	20	@pvvov	ὥμνυον	ὤμνυον	ὤμνυον	image (3x): smooth breathing + acute on ω (open two-part mark)
+jer	oldtestgreek00unknuoft	257	20	τοῖς	τόϊς	τοῖς	τοῖς	image (3x): τοῖς circumflex
+jer	oldtestgreek00unknuoft	257	21	θεοῖς:	θεοῖς:	θεοῖς·	θεοῖς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	257	21	καὶ	Καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	257	21	ἐμοιχῶντο,	ἐμοιχῶντο,	ἐμοιχῶντο	ἐμοιχῶντο	image (3x): no punctuation after the word
+jer	oldtestgreek00unknuoft	257	22	“immo:	∅	λυον.	λυον.	class R5+R0: Latin-letter substitution in OCR; OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	257	22	∅	ἵπποι	ἵπποι	ἵπποι	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	257	23	ἐχρεμέτιζεν.	ἐχρεμέτιζεν,	ἐχρεμέτιζεν.	ἐχρεμέτιζεν.	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	257	23	9ϑμὴ	9ϑμὴ	μὴ	μὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	257	24	Κύριος:	Κύριος:	Κύριος·	Κύριος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	257	24	Ψυχή	ψυχή	ψυχή	ψυχή	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	257	24	pov;	μου;	μου;	μου;	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	257	24	Ava-	ἈΑνά-	Ἀνά-	Ἀνά-	image (3x): smooth breathing on Α
+jer	oldtestgreek00unknuoft	257	26	ποιήσητε:	ποιήσητε:	ποιήσητε·	ποιήσητε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	257	24	-	-	ἢ	ἢ	ambiguous: breathing+grave over η read at 8x as open two-part mark (smooth + grave); read ἢ
+jer	oldtestgreek00unknuoft	257	13	-	-	ἁδροὺς	ἁδροὺς	ambiguous: small mark over initial α read as rough breathing (accent is the grave on ού)

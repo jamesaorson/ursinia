@@ -91,7 +91,7 @@
 (verse 5
   (status draft)
   (literal
-    ("And" 1)
+    ("and" 1)
     ("oxen" (4 ox "βοῦς"))
     ("and" 5)
     ("donkeys" (6 donkey "ὄνος"))

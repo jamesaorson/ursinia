@@ -1,0 +1,58 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	447	1	γῆν-	γῆν-	γῆν·	γῆν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	1	av	“ἀνθ᾽	ἀνθ᾽	ἀνθ᾽	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	1	δικαιώματά	δικαιώματά	δικαιώματά	δικαιώματά	image (3x): extra acute before enclitic as printed; no point after σάββατά
+ezek	oldtestgreek00unknuoft	447	1	pov +B	μου +Β	μου	μου	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	2	προστάγμασίν	προστάγμασίν	προστάγμασίν	προστάγμασίν	image (3x): extra acute before enclitic as printed; no point after σάββατά
+ezek	oldtestgreek00unknuoft	447	3	σάββατά	σάββατά	σάββατά	σάββατά	image (3x): extra acute before enclitic as printed; no point after σάββατά
+ezek	oldtestgreek00unknuoft	447	4	“7καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	4	ὀφθαλμός	ὀφθαλμός	ὀφθαλμός	ὀφθαλμός	image (3x): extra acute before enclitic as printed; no point after σάββατά
+ezek	oldtestgreek00unknuoft	447	4	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	5	εἰς	εἰς +εἰς	εἰς	εἰς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	5	ἐρήμῳ	ἐρήμῳ	ἐρήμῳ.	ἐρήμῳ.	image (3x): period after ἐρήμῳ printed
+ezek	oldtestgreek00unknuoft	447	6	“kal	"“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	6	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	6	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	6	Ἔν	Ἔν	Ἐν	Ἐν	ambiguous: mark before Εν (6x) prints as one straight stroke falling to the right, like a grave, with no breathing shape; read as a worn smooth breathing, Ἐν, as at the same phrase on leaf 446 line 19
+ezek	oldtestgreek00unknuoft	447	9	Meyda	"ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ before Κύριος
+ezek	oldtestgreek00unknuoft	447	9	προστάγμασίν	προστάγμασίν	προστάγμασίν	προστάγμασίν	image (3x): extra acute before enclitic as printed; no point after σάββατά
+ezek	oldtestgreek00unknuoft	447	10	δικαιώματά	δικαιώματά	δικαιώματά	δικαιώματά	image (3x): extra acute before enclitic as printed; no point after σάββατά
+ezek	oldtestgreek00unknuoft	447	11	“καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	11	σάββατά.	σάββατά.	σάββατά	σάββατά	image (3x): extra acute before enclitic as printed; no point after σάββατά
+ezek	oldtestgreek00unknuoft	447	12	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ before Κύριος
+ezek	oldtestgreek00unknuoft	447	12	“"καὶ	“"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	13	παρεπίκρανάν	παρεπίκρανάν	παρεπίκρανάν	παρεπίκρανάν	image (3x): extra acute before enclitic as printed; no point after σάββατά
+ezek	oldtestgreek00unknuoft	447	13	αὐτῶν"	αὐτῶν"	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	13	προστάγμασίν	προστάγμασίν	προστάγμασίν	προστάγμασίν	image (3x): extra acute before enclitic as printed; no point after σάββατά
+ezek	oldtestgreek00unknuoft	447	14	δικαιώματά	δικαιώματά	δικαιώματά	δικαιώματά	image (3x): extra acute before enclitic as printed; no point after σάββατά
+ezek	oldtestgreek00unknuoft	447	15	σάββατά	σάββατά	σάββατά	σάββατά	image (3x): extra acute before enclitic as printed; no point after σάββατά
+ezek	oldtestgreek00unknuoft	447	16	ἐβεβήλουν:	ἐβεβήλουν:	ἐβεβήλουν·	ἐβεβήλουν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	16	θυμόν	θυμόν	θυμόν	θυμόν	image (3x): extra acute before enclitic as printed; no point after σάββατά
+ezek	oldtestgreek00unknuoft	447	16	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	16	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	17	ὀργήν	ὀργήν	ὀργήν	ὀργήν	image (3x): extra acute before enclitic as printed; no point after σάββατά
+ezek	oldtestgreek00unknuoft	447	17	pov	μοὺ	μου	μου	image (3x): μου unaccented
+ezek	oldtestgreek00unknuoft	447	17	““καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	18	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): extra acute before enclitic as printed; no point after σάββατά
+ezek	oldtestgreek00unknuoft	447	18	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	19	“Ξκαὶ	“Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	19	χεῖρά	χεῖρά	χεῖρά	χεῖρά	image (3x): extra acute before enclitic as printed; no point after σάββατά
+ezek	oldtestgreek00unknuoft	447	20	pou	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	21	“ἀνθ᾽	“ἀνθ᾽	ἀνθ᾽	ἀνθ᾽	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	21	δικαιώματά	δικαιώματά	δικαιώματά	δικαιώματά	image (3x): extra acute before enclitic as printed; no point after σάββατά
+ezek	oldtestgreek00unknuoft	447	22	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	22	προστάγματά	προστάγματά	προστάγματά	προστάγματά	image (3x): extra acute before enclitic as printed; no point after σάββατά
+ezek	oldtestgreek00unknuoft	447	22	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	22	σάββατά	σάββατά	σάββατά	σάββατά	image (3x): extra acute before enclitic as printed; no point after σάββατά
+ezek	oldtestgreek00unknuoft	447	23	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	24	“Ξκαὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	24	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	25	ois	οἷς	οἷς	οἷς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	25	Kal	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	25	pave	μιανῶ	μιανῶ	μιανῶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	26	διαπορεύεσθαί	διαπορεύεσθαί	διαπορεύεσθαί	διαπορεύεσθαί	image (3x): extra acute before enclitic as printed; no point after σάββατά
+ezek	oldtestgreek00unknuoft	447	27	Tpav	τραν	τραν	τραν	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	27	αὐτούς.	αὐτούς. +. 57	αὐτούς.	αὐτούς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	27	ὅ“7Διὰ	Διὰ	Διὰ	Διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	447	28	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on Ἰ
+ezek	oldtestgreek00unknuoft	447	28	αὐτούς	αὐτούς	αὐτούς	αὐτούς	image (3x): acute before capitalized Τάδε

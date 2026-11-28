@@ -1,0 +1,57 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+lam	oldtestgreek00unknuoft	392	1	∅	7	Φή.	Φή.	image (6x): centered letter heading on its own line, read from rectangle zoom
+lam	oldtestgreek00unknuoft	392	2	∅	Ἐποίησεν	Ἐποίησεν	Ἐποίησεν	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	392	2	∅	Κύριος	Κύριος	Κύριος	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	392	2	∅	ἃ	ἃ	ἃ	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	392	2	∅	ἐνεθυμήθη, +“	ἐνεθυμήθη,	ἐνεθυμήθη,	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+lam	oldtestgreek00unknuoft	392	3	ἀρχαίων"	ἀρχαίων"	ἀρχαίων·	ἀρχαίων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	392	5	ὕψωσεν.	ὕψωσεν.	ὕψωσεν	ὕψωσεν	image (3x): speck, not a period
+lam	oldtestgreek00unknuoft	392	5	θλίβοντός	θλίβοντός	θλίβοντός	θλίβοντός	image (3x): acute before enclitic
+lam	oldtestgreek00unknuoft	392	6	∅	βόησεν	Τιαδή.	Τιαδή.	image (6x): centered letter heading on its own line, read from rectangle zoom
+lam	oldtestgreek00unknuoft	392	7	∅	∅	Ἐβόησεν	Ἐβόησεν	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	392	8	ὡς.	ὡς.	ὡς	ὡς	image (3x): speck, not a period
+lam	oldtestgreek00unknuoft	392	9	νυκτός" +Ι	νυκτός" +ΜΝ	νυκτός·	νυκτός·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	392	10	ἔκνηψὶν	ἔκνηψὶν	ἔκνηψιν	ἔκνηψιν	image (3x): no accent on final ιν
+lam	oldtestgreek00unknuoft	392	11	ἄρον	μός	μός	μός	image (3x): acute before enclitic
+lam	oldtestgreek00unknuoft	392	11	∅	σου.	σου.	σου.	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	392	12	∅	᾽Ανάστα	Κώφ.	Κώφ.	image (6x): centered letter heading on its own line, read from rectangle zoom
+lam	oldtestgreek00unknuoft	392	13	∅	ἀγολλίέα	Ἀνάστα	Ἀνάστα	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	392	13	∅	σαι	ἀγαλλίασαι	ἀγαλλίασαι	image (3x): word clearly printed as in page file
+lam	oldtestgreek00unknuoft	392	13	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	392	13	∅	νυκτὶ	νυκτὶ	νυκτὶ	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	392	13	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	392	13	∅	ἀρχὰς	ἀρχὰς	ἀρχὰς	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	392	13	∅	φυλακῆς	φυλακῆς	φυλακῆς	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	392	13	∅	σου,	σου,	σου,	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	392	14	∅	ἔκχεον	ἔκχεον	ἔκχεον	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	392	14	∅	ὡς	ὡς	ὡς	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	392	14	∅	ὕδωρ	ὕδωρ	ὕδωρ	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	392	14	∅	κορδίαν	καρδίαν	καρδίαν	image (3x): word clearly printed as in page file
+lam	oldtestgreek00unknuoft	392	14	∅	σου	σου	σου	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	392	14	∅	ἀπέναντι	ἀπέναντι	ἀπέναντι	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	392	14	∅	προσώπον	προσώπου	προσώπου	image (3x): word clearly printed as in page file
+lam	oldtestgreek00unknuoft	392	14	∅	Κυρίου,	Κυρίου,	Κυρίου,	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	392	15	∅	ἄρον	ἆρον	ἆρον	image (3x): smooth breathing + circumflex on α
+lam	oldtestgreek00unknuoft	392	15	Xeipas	χεῖράς	χεῖράς	χεῖράς	image (3x): acute before enclitic
+lam	oldtestgreek00unknuoft	392	15	éxdvo-	ἐκλυο-	ἐκλυο-	ἐκλυο-	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	392	17	ἹῬῬήχς-.	“Ἴδε,	Ῥήχς.	Ῥήχς.	image (12x): centered heading; breathing before Ρ has its blob upper left and tail falling right (reversed comma, rough), as on leaf 388
+lam	oldtestgreek00unknuoft	392	18	"Ide,	∅	Ἴδε,	Ἴδε,	image (3x): smooth breathing + acute before Ι (apostrophe then rising stroke)
+lam	oldtestgreek00unknuoft	392	18	ἐπεφύλλισας	ἐεφύλλιφὰς	ἐπεφύλλισας	ἐπεφύλλισας	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	392	18	οὕτως"	οὕτως"	οὕτως·	οὕτως·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	392	19	γυναῖκες	γυνεἶξέξ	γυναῖκες	γυναῖκες	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	392	19	καρπὸν	καρτὸν	καρπὸν	καρπὸν	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	392	20	μάγειρος:	μάγειρος:	μάγειρος·	μάγειρος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	392	22	προφήτην; +᾿	προφήτην; +Ἱ ᾿	προφήτην;	προφήτην;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lam	oldtestgreek00unknuoft	392	23	Χσέν.	Χσέν. +"	Χσέν.	Χσέν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lam	oldtestgreek00unknuoft	392	24	∅	Ἐκοιμήθησαν	Ἐκοιμήθησαν	Ἐκοιμήθησαν	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	392	24	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	392	24	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	392	24	∅	ἔξοδον	ἔξοδον	ἔξοδον	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	392	24	∅	παιδάριον	παιδάριον	παιδάριον	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	392	24	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	392	24	∅	πρεσβύτης:	πρεσβύτης·	πρεσβύτης·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	392	25	μον	μον	μου	μου	image (3x): μου (υ, not ν)
+lam	oldtestgreek00unknuoft	392	26	λωσίᾳ᾽	λωσίᾳ᾽	λωσίᾳ·	λωσίᾳ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	392	27	bey	λιμῷ	λιμῷ	λιμῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	392	27	τ; +ἀπέκτεινάς,	ἀπέκτεινάς,	ἀπέκτεινας,	ἀπέκτεινας,	image (3x): no accent on final ας
+lam	oldtestgreek00unknuoft	392	28	ἐϑείαρ, +᾿	ἐφείσω,	ἐφείσω.	ἐφείσω.	ambiguous (8x): mark after ἐφείσω is a round dot on the baseline with a faint short tail, lighter than the commas on the line; read period (verse end)

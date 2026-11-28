@@ -1,0 +1,51 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	256	1	ταῦτά	ταῦτά	ταῦτά	ταῦτά	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	256	1	σοι".	σοι".	σοι·	σοι·	image (3x): ano teleia
+jer	oldtestgreek00unknuoft	256	1	gov,	σου,	σου,	σου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	256	2	Thy	Τὴν	Τὴν	Τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	256	2	αἰσθητήρια +i9	αἰσθητήρια +το	αἰσθητήρια	αἰσθητήρια	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	256	3	μου:	μου"	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	256	3	ψυχή	ψυχή	ψυχή	ψυχή	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	256	3	pov:	μου"	μου·	μου·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	256	4	Ψυχή	ψυχή	ψυχή	ψυχή	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	256	4	μου,	μου;	μου,	μου,	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	256	5	“᾿καὶ	᾿᾽ +“᾿καὶ	καὶ	καὶ	image (3x): καὶ after superscript 20
+jer	oldtestgreek00unknuoft	256	5	τεταλαιπώ-	τεταλαιττώ-	τεταλαιπώ-	τεταλαιπώ-	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	256	6	20 +pnxev	20 +βηκεν	ρηκεν	ρηκεν	image (3x): ρηκεν, continuation of τεταλαιπώ-
+jer	oldtestgreek00unknuoft	256	7	μου.	μου. +“᾽	μου.	μου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	256	7	Eas	ἕως	ἕως	ἕως	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	256	7	σαλ- +2	σαλ- +«ἱ	σαλ-	σαλ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	256	8	“διότι	“διότι	διότι	διότι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	256	8	ἡγούμενοι.	ἡγούμενοι.	ἡγούμενοι	ἡγούμενοι	image (3x): no period after the word
+jer	oldtestgreek00unknuoft	256	8	ἤδεισαν"	ἤδεισαν"	ᾔδεισαν·	ᾔδεισαν·	image (3x): ᾔδεισαν with iota subscript; ano teleia
+jer	oldtestgreek00unknuoft	256	8	υἱοὶ +22	υἱοὶ +95	υἱοὶ	υἱοὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	256	9	ἄφρονές	ἄφρονές	ἄφρονές	ἄφρονές	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	256	9	σοφοί	σοφοί	σοφοί	σοφοί	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	256	10	ἐπέγνωσαν. +9	ἐπέγνωσαν. +9	ἐπέγνωσαν.	ἐπέγνωσαν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	256	10	Ἐπέβλεψα	Ἐπέβλεψα	Ἐπέβλεψα	Ἐπέβλεψα	image (3x): smooth breathing on Ε
+jer	oldtestgreek00unknuoft	256	10	καὶ +23	καὶ +2}	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	256	11	“εἶδον +24	““εἶδον +24	εἶδον	εἶδον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	256	12	ὄρη.	ὄρη.	ὄρη	ὄρη	image (3x): no period after the word
+jer	oldtestgreek00unknuoft	256	13	ἄνθρωπος,	ἄνθρωπος;	ἄνθρωπος,	ἄνθρωπος,	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	256	13	τοῦ +25	τοῦ +.5	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	256	14	ἐπτοεῖτο. +“δ	ἐπτοεῖτο.	ἐπτοεῖτο.	ἐπτοεῖτο.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	256	14	εἶδον,	““εἶδον,	εἶδον,	εἶδον,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	256	14	πᾶσαι +26	πᾶσαι +56	πᾶσαι	πᾶσαι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	256	16	“7τάδε	“7τάδε	τάδε	τάδε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	256	16	ΓἜρημος	"Ἔρημος	Ἔρημος	Ἔρημος	image (3x): smooth breathing + acute on Ε
+jer	oldtestgreek00unknuoft	256	16	ἔσται +27	ἔσται +57	ἔσται	ἔσται	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	256	17	γῆ;	γῆ;	γῆ,	γῆ,	image (3x): comma, not ano teleia
+jer	oldtestgreek00unknuoft	256	17	*éri	“Ξἐπὶ	ἐπὶ	ἐπὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	256	18	28 +γῆ;	γῆ;	γῆ,	γῆ,	image (3x): comma, not ano teleia
+jer	oldtestgreek00unknuoft	256	18	ἄνωθεν"	ἄνωθεν"	ἄνωθεν·	ἄνωθεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	256	19	“ἀπὸ	“ἀπὸ	ἀπὸ	ἀπὸ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	256	19	ἱπ- +29	ἱπ- +29	ἱπ-	ἱπ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	256	20	χώρα᾽	χώρα᾽	χώρα·	χώρα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	256	21	τὰ	τὰ +'	τὰ	τὰ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	256	21	ἀνέβησαν"	ἀνέβησαν"	ἀνέβησαν·	ἀνέβησαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	256	22	“καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	256	22	σὺ +30	σὺ +30	σὺ	σὺ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	256	24	évxpion	ἐνχρίσῃ	ἐνχρίσῃ	ἐνχρίσῃ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	256	24	ὀφθαλμούς	ὀφθαλμούς	ὀφθαλμούς	ὀφθαλμούς	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	256	24	ὡραισμός	ὡραισμός	ὡραισμός	ὡραισμός	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	256	24	σοῦ"	σου"	σου·	σου·	image (3x): ano teleia

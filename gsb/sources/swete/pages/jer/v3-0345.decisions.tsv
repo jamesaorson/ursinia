@@ -1,0 +1,35 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	345	1	ς.	τὉ	Ὁ	Ὁ	image (3x): rough breathing on Ὁ (reversed comma); verse superscript not text
+jer	oldtestgreek00unknuoft	345	1	∅	Χχόγος	λόγος	λόγος	image (3x): λόγος, lowercase λ
+jer	oldtestgreek00unknuoft	345	1	∅	ὁ	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	345	1	∅	γενόμενος	γενόμενος	γενόμενος	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	345	1	∅	πρὸς	πρὸς	πρὸς	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	345	1	∅	Ἱερεμίαν	Ἰερεμίαν	Ἰερεμίαν	image (3x): smooth breathing on Ι
+jer	oldtestgreek00unknuoft	345	1	∅	παρὰ	παρὰ	παρὰ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	345	1	∅	Κυρίου"	Κυρίου·	Κυρίου·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	345	1	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	345	1	∅	Ναβουχοδονοσὸρ +Β ς	Ναβουχοδονοσὸρ	Ναβουχοδονοσὸρ	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	345	2	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave on βασιλεὺς before proper name (not a quotation)
+jer	oldtestgreek00unknuoft	345	2	:Βαβυλῶνος	:-Βαβυλῶνος	Βαβυλῶνος	Βαβυλῶνος	image (3x): specks before Βαβυλῶνος, not punctuation
+jer	oldtestgreek00unknuoft	345	3	ἐπὲ	ἐπὶ	ἐπὶ	ἐπὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	345	3	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on Ι
+jer	oldtestgreek00unknuoft	345	4	Ἰούδα,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing on Ι
+jer	oldtestgreek00unknuoft	345	5	οὕτως	οὕτως	Οὕτως	Οὕτως	image (3x): capital Ο with rough breathing + acute on υ
+jer	oldtestgreek00unknuoft	345	5	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on Ι
+jer	oldtestgreek00unknuoft	345	6	Οὕτως	Οὕτως	Οὕτως	Οὕτως	image (3x): capital Ο with rough breathing + acute on υ
+jer	oldtestgreek00unknuoft	345	8	Ξκαὶ	Ξκαὶ	καὶ	καὶ	image (3x): verse superscript not text; word as read
+jer	oldtestgreek00unknuoft	345	8	σωθῆς	σωθῆς	σωθῇς	σωθῇς	image (3x): iota subscript under ῇ
+jer	oldtestgreek00unknuoft	345	9	ὀφθαλμοί	ὀφθαλμοί	ὀφθαλμοί	ὀφθαλμοί	image (3x): acute on ultima before enclitic, as Swete prints
+jer	oldtestgreek00unknuoft	345	10	“ἀλλὰ	“ἀλλὰ	ἀλλὰ	ἀλλὰ	image (3x): verse superscript not text; word as read
+jer	oldtestgreek00unknuoft	345	10	«ἄκουσον	«ἄκουσον	ἄκουσον	ἄκουσον	image (3x): verse superscript not text; word as read
+jer	oldtestgreek00unknuoft	345	11	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on Ι
+jer	oldtestgreek00unknuoft	345	11	Οὕτως	Οὕτως	Οὕτως	Οὕτως	image (3x): capital Ο with rough breathing + acute on υ
+jer	oldtestgreek00unknuoft	345	11	5 +Ἔν	5 +Ἔν	Ἐν	Ἐν	image (3x): smooth breathing, no accent on Ἐν
+jer	oldtestgreek00unknuoft	345	12	ἀποθανῇ:	ἀποθανῇ:	ἀποθανῇ·	ἀποθανῇ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	345	13	πρότερόν	πρότερόν	πρότερόν	πρότερόν	image (3x): acute on ultima before enclitic, as Swete prints
+jer	oldtestgreek00unknuoft	345	13	ἅδου	ἅδου	ᾅδου	ᾅδου	image (3x): iota subscript under ᾅ
+jer	oldtestgreek00unknuoft	345	13	κόψονταί	κόψονταί	κόψονταί	κόψονταί	image (3x): acute on ultima before enclitic, as Swete prints
+jer	oldtestgreek00unknuoft	345	13	σε-	σε-	σε·	σε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	345	14	“καὶ	“καὶ	καὶ	καὶ	image (3x): verse superscript not text; word as read
+jer	oldtestgreek00unknuoft	345	14	Ἱερεμίας	Ἰερεμίας	Ἰερεμίας	Ἰερεμίας	image (3x): smooth breathing on Ι
+jer	oldtestgreek00unknuoft	345	15	Ἱερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing on Ι

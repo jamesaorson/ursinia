@@ -1,0 +1,23 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	312	1	γῇ	γῆ	γῆ	γῆ	image (3x): γῆ, no iota subscript
+jer	oldtestgreek00unknuoft	312	2	“kal	““καὶ	καὶ	καὶ	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	312	2	Βαβυλῶνα, +44	Βαβυλῶνα, +44	Βαβυλῶνα,	Βαβυλῶνα,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	312	4	“καὶ	“καὶ	καὶ	καὶ	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	312	4	τραυματίαι +49	τραυματίαι +49	τραυματίαι	τραυματίαι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	312	5	"ἀνασωζόμενοι	"““ἀνασωζόμενοι	ἀνασῳζόμενοι	ἀνασωζόμενοι	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	312	5	ἵστασθε"	ἵστασθε" +50	ἵστασθε·	ἵστασθε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	312	6	50 +of	οἱ	οἱ	οἱ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	312	6	Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	312	7	5᾽ +ἡἠσχύνθημεν,	5᾽ +ἡἠσχύνθημεν,	ᾐσχύνθημεν,	ᾐσχύνθημεν,	image (3x): ᾐσχύνθημεν, smooth breathing and iota subscript; superscript 51 not text
+jer	oldtestgreek00unknuoft	312	7	ἡμῶν, +sx	ἡμῶν; +51	ἡμῶν,	ἡμῶν,	image (3x): comma; margin number 51 not text
+jer	oldtestgreek00unknuoft	312	9	Κυρίου. +5᾽	Κυρίου. +5᾽	Κυρίου.	Κυρίου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	312	9	λέγει +52	λέγει +52	λέγει	λέγει	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	312	11	53ὅτι	53ὅτι	ὅτι	ὅτι	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	312	11	οὐρανός, +53	οὐρανός, +ς3	οὐρανός,	οὐρανός,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	312	13	Κύριος. +5'᾽	Κύριος. +5᾽	Κύριος.	Κύριος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	312	13	καὶ +54	καὶ +54	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	312	14	55ὅτι	55ὅτι	ὅτι	ὅτι	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	312	14	τὴν +55	τὴν +55	τὴν	τὴν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	312	16	αὐτῆς.	αὐτῆς. +δ	αὐτῆς.	αὐτῆς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	312	16	“dre	ὅτι	ὅτι	ὅτι	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	312	16	ἐπὶ +56	ἐπὶ +56	ἐπὶ	ἐπὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip

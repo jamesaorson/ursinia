@@ -1,0 +1,41 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	329	1	∅	∅	τόπον	τόπον	image (3x): τόπον, first word after margin number 4
+jer	oldtestgreek00unknuoft	329	1	σκευὴ	σκεύη	σκεύη	σκεύη	image (3x): acute on ύ, final η unaccented
+jer	oldtestgreek00unknuoft	329	1	οἰκου	οἴκου	οἴκου	οἴκου	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	329	1	*xai	“καὶ	καὶ	καὶ	image (3x): OCR read the superscript verse number as a quote mark/junk; word as transcribed
+jer	oldtestgreek00unknuoft	329	1	lexoviay	Ἰεχονίαν	Ἰεχονίαν	Ἰεχονίαν	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	329	1	ἀποι- +Β	ἀποι-	ἀποι-	ἀποι-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	329	2	Ἰούδα,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	329	3	εἶπεν	εἶπεν +ΕΣ	εἶπεν	εἶπεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	329	3	Ἰερεμίας	Ἰερεμίας	Ἰερεμίας	Ἰερεμίας	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	329	3	Ἀνανίαν	Ἀνανίαν	Ἁνανίαν	Ἁνανίαν	image (3x): rough breathing (reversed comma) on Ἁνανίας/Ἁνανίαν
+jer	oldtestgreek00unknuoft	329	4	Κυρίου, +“	Κυρίου,	Κυρίου,	Κυρίου,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	329	4	καὶ	“καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	329	5	Ἱερεμίας	Ἰερεμίας	Ἰερεμίας	Ἰερεμίας	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	329	5	Ἀληθῶς	Ἀληθῶς	Ἀληθῶς	Ἀληθῶς	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	329	5	Κύριος:	Κύριος:	Κύριος·	Κύριος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	329	9	*Oi	δΟἱ	Οἱ	Οἱ	image (4x): Οἱ rough breathing, same mark as the following οἱ; no punctuation after λαοῦ
+jer	oldtestgreek00unknuoft	329	9	πρότεροί	πρότεροί	πρότεροί	πρότεροί	image (3x): acute before the enclitic
+jer	oldtestgreek00unknuoft	329	11	πόλεμον:	πόλεμον:	πόλεμον·	πόλεμον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	329	11	96	9	ὁ	ὁ	image (3x): ὁ rough breathing after superscript 9
+jer	oldtestgreek00unknuoft	329	13	"καὶ	“καὶ	καὶ	καὶ	image (3x): OCR read the superscript verse number as a quote mark/junk; word as transcribed
+jer	oldtestgreek00unknuoft	329	13	Ἀνανίας	Ἀνανίας	Ἁνανίας	Ἁνανίας	image (3x): rough breathing (reversed comma) on Ἁνανίας/Ἁνανίαν
+jer	oldtestgreek00unknuoft	329	13	6-	ὁ-	ὀ-	ὀ-	image (3x): ὀ- smooth breathing, hyphen printed
+jer	oldtestgreek00unknuoft	329	14	Ἱερεμίου	Ἰ̔ερεμίου	Ἰερεμίου	Ἰερεμίου	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	329	15	“Kal	“καὶ	καὶ	καὶ	image (3x): OCR read the superscript verse number as a quote mark/junk; word as transcribed
+jer	oldtestgreek00unknuoft	329	15	εἶπεν.	εἶπεν.	εἶπεν	εἶπεν	image (3x): no point after the word; OCR speck
+jer	oldtestgreek00unknuoft	329	15	“Ἀνανίας	“Ἀνανίας	Ἁνανίας	Ἁνανίας	image (3x): rough breathing (reversed comma) on Ἁνανίας/Ἁνανίαν
+jer	oldtestgreek00unknuoft	329	16	Οὕτως	Οὕτως	Οὕτως	Οὕτως	image (3x): Οὕτως rough breathing + acute
+jer	oldtestgreek00unknuoft	329	16	Οὕτως	Οὕτως	Οὕτως	Οὕτως	image (3x): Οὕτως rough breathing + acute
+jer	oldtestgreek00unknuoft	329	17	ᾧχετο	ᾧχετο	ᾤχετο	ᾤχετο	image (4x): ᾤ smooth + acute (apostrophe then rising stroke), iota subscript
+jer	oldtestgreek00unknuoft	329	18	Ἱερεμίας	ΕΣ +Ἱερεμίας	Ἰερεμίας	Ἰερεμίας	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	329	18	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	329	18	Kupiov.	Κυῤίου.	Κυρίου	Κυρίου	image (3x): no point after the word; OCR speck
+jer	oldtestgreek00unknuoft	329	19	Ἱερεμίαν	Ἱερεμίαν	Ἰερεμίαν	Ἰερεμίαν	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	329	19	Ἀνανίαν	Ἀνανίαν	Ἁνανίαν	Ἁνανίαν	image (3x): rough breathing (reversed comma) on Ἁνανίας/Ἁνανίαν
+jer	oldtestgreek00unknuoft	329	20	"ΞΒάδιζε	"ΞΒάδιζε	Βάδιζε	Βάδιζε	image (3x): OCR read the superscript verse number as a quote mark/junk; word as transcribed
+jer	oldtestgreek00unknuoft	329	20	Ἀνανίαν	“Ἀνανίαν	Ἁνανίαν	Ἁνανίαν	image (3x): rough breathing (reversed comma) on Ἁνανίας/Ἁνανίαν
+jer	oldtestgreek00unknuoft	329	20	Οὕτως	Οὕτως	Οὕτως	Οὕτως	image (3x): Οὕτως rough breathing + acute
+jer	oldtestgreek00unknuoft	329	22	κλοιοὺς.	κλοιοὺς.	κλοιοὺς	κλοιοὺς	image (3x): no point after the word; OCR speck
+jer	oldtestgreek00unknuoft	329	22	“46re	"'ὅτι	ὅτι	ὅτι	image (3x): OCR read the superscript verse number as a quote mark/junk; word as transcribed
+jer	oldtestgreek00unknuoft	329	22	Ζυγὸν.	Ζυγὸν.	Ζυγὸν	Ζυγὸν	image (3x): no point after the word; OCR speck

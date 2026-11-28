@@ -1,22 +1,22 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
-jer	oldtestgreek00unknuoft	284	2	"ἴασαί	"ἴασαί	Ἴασαί	Ἴασαί	TODO zoom: breathing on a capital (OCR misreads rough/smooth); accent before an enclitic; A OPEN, B OPEN
+jer	oldtestgreek00unknuoft	284	2	"ἴασαί	"ἴασαί	Ἴασαί	ἴασαί	image (3x): lowercase iota (x-height), smooth breathing + acute; acute before enclitic
 jer	oldtestgreek00unknuoft	284	2	ἰαθήσομαι:	ἰαθήσομαι:	ἰαθήσομαι·	ἰαθήσομαι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-jer	oldtestgreek00unknuoft	284	2	σῶσόν	σῶσόν	σῶσόν	σῶσόν	TODO zoom: accent before an enclitic
+jer	oldtestgreek00unknuoft	284	2	σῶσόν	σῶσόν	σῶσόν	σῶσόν	image (3x): acute before enclitic as printed
 jer	oldtestgreek00unknuoft	284	2	σω- +14	σω- +τῇ	σω-	σω-	class R3: OCR appended accent-row or margin junk; c read from the image strip
-jer	oldtestgreek00unknuoft	284	3	καύχημά	καύχημά	καύχημά	καύχημά	TODO zoom: accent before an enclitic
+jer	oldtestgreek00unknuoft	284	3	καύχημά	καύχημά	καύχημά	καύχημά	image (3x): acute before enclitic as printed
 jer	oldtestgreek00unknuoft	284	3	%idod	"σἰδοὺ	ἰδοὺ	ἰδοὺ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
-jer	oldtestgreek00unknuoft	284	3	μέ	μέ	μέ	μέ	TODO zoom: acute or grave before a capitalized word
-jer	oldtestgreek00unknuoft	284	3	Ποῦ +15	ἸΠοῦ +τς	Ποῦ	Ποῦ	TODO zoom: A R3, B OPEN
+jer	oldtestgreek00unknuoft	284	3	μέ	μέ	μέ	μέ	image (3x): acute before capitalized quotation
+jer	oldtestgreek00unknuoft	284	3	Ποῦ +15	ἸΠοῦ +τς	Ποῦ	Ποῦ	image (3x): Ποῦ; OCR junk is margin number
 jer	oldtestgreek00unknuoft	284	4	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
 jer	oldtestgreek00unknuoft	284	4	"“ἐγὼ	"“ἐγὼ	ἐγὼ	ἐγὼ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 jer	oldtestgreek00unknuoft	284	4	κατα- +16	κατα- +τό	κατα-	κατα-	class R3: OCR appended accent-row or margin junk; c read from the image strip
 jer	oldtestgreek00unknuoft	284	6	ἐπίστῃ:	ἐπίστῃ:	ἐπίστῃ·	ἐπίστῃ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-jer	oldtestgreek00unknuoft	284	7	σού	σού	σού	σού	TODO zoom: accent before an enclitic
+jer	oldtestgreek00unknuoft	284	7	σού	σού	σού	σού	image (3x): acute before enclitic as printed
 jer	oldtestgreek00unknuoft	284	7	"μὴ	“μὴ	μὴ	μὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-jer	oldtestgreek00unknuoft	284	7	φειδόμενός	φειδόμενός	φειδόμενός	φειδόμενός	TODO zoom: accent before an enclitic
+jer	oldtestgreek00unknuoft	284	7	φειδόμενός	φειδόμενός	φειδόμενός	φειδόμενός	image (3x): acute before enclitic as printed
 jer	oldtestgreek00unknuoft	284	7	pov +17	μου +17	μου	μου	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
 jer	oldtestgreek00unknuoft	284	8	πονηρᾷ. +*	πονηρᾷ. +"ὃ	πονηρᾷ.	πονηρᾷ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
-jer	oldtestgreek00unknuoft	284	8	διώκοντές	διώκοντές	διώκοντές	διώκοντές	TODO zoom: accent before an enclitic
+jer	oldtestgreek00unknuoft	284	8	διώκοντές	διώκοντές	διώκοντές	διώκοντές	image (3x): acute before enclitic as printed
 jer	oldtestgreek00unknuoft	284	8	pe,	με,	με,	με,	class R5: Latin-letter substitution in OCR; c read from the image strip
 jer	oldtestgreek00unknuoft	284	8	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 jer	oldtestgreek00unknuoft	284	8	μὴ +18	μὴ +τ8	μὴ	μὴ	class R3: OCR appended accent-row or margin junk; c read from the image strip
@@ -24,21 +24,21 @@ jer	oldtestgreek00unknuoft	284	9	ἐγώ:	ἐγώ:	ἐγώ·	ἐγώ·	class R2:
 jer	oldtestgreek00unknuoft	284	9	ἐγώ"	ἐγώ"	ἐγώ·	ἐγώ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 jer	oldtestgreek00unknuoft	284	11	97Τάδε	Τάδε	Τάδε	Τάδε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 jer	oldtestgreek00unknuoft	284	11	πύλαις +x9	πύλαις +τὸ	πύλαις	πύλαις	class R3: OCR appended accent-row or margin junk; c read from the image strip
-jer	oldtestgreek00unknuoft	284	12	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-jer	oldtestgreek00unknuoft	284	13	Ἱερουσαλήμ,	Ἱερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B DIA
+jer	oldtestgreek00unknuoft	284	12	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	284	13	Ἱερουσαλήμ,	Ἱερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing
 jer	oldtestgreek00unknuoft	284	14	Ξοκαὶ	Ξοκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-jer	oldtestgreek00unknuoft	284	14	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+jer	oldtestgreek00unknuoft	284	14	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing
 jer	oldtestgreek00unknuoft	284	14	πᾶσα +20	πᾶσα +:0	πᾶσα	πᾶσα	class R3: OCR appended accent-row or margin junk; c read from the image strip
-jer	oldtestgreek00unknuoft	284	15	Ἰουδαία	Ἰουδαία	Ἰουδαία	Ἰουδαία	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-jer	oldtestgreek00unknuoft	284	15	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+jer	oldtestgreek00unknuoft	284	15	Ἰουδαία	Ἰουδαία	Ἰουδαία	Ἰουδαία	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	284	15	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing
 jer	oldtestgreek00unknuoft	284	16	*rdde	“'τάδε	τάδε	τάδε	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 jer	oldtestgreek00unknuoft	284	16	μὴ +2x	μὴ +:1	μὴ	μὴ	class R3: OCR appended accent-row or margin junk; c read from the image strip
-jer	oldtestgreek00unknuoft	284	18	Ἰερουσαλήμ,	᾿ερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A same, B OPEN
+jer	oldtestgreek00unknuoft	284	18	Ἰερουσαλήμ,	᾿ερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing
 jer	oldtestgreek00unknuoft	284	18	““καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 jer	oldtestgreek00unknuoft	284	18	οἰκιῶν +22	οἰκιῶν +..	οἰκιῶν	οἰκιῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
 jer	oldtestgreek00unknuoft	284	19	ποιήσετε"	ποιήσετε"	ποιήσετε·	ποιήσετε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 jer	oldtestgreek00unknuoft	284	20	πατρά-	πατρά-.	πατρά-	πατρά-	class R6 (OCR letters differ): the other OCR reading agrees with c
-jer	oldtestgreek00unknuoft	284	21	* +Kal 23	"3καὶ +23	καὶ	καὶ	TODO zoom: A OPEN, B R1
-jer	oldtestgreek00unknuoft	284	23	ἀκοῦσαί	ἀκοῦσαί	ἀκοῦσαί	ἀκοῦσαί	TODO zoom: accent before an enclitic
+jer	oldtestgreek00unknuoft	284	21	* +Kal 23	"3καὶ +23	καὶ	καὶ	image (3x): superscript 23 then καὶ; margin 23 not text
+jer	oldtestgreek00unknuoft	284	23	ἀκοῦσαί	ἀκοῦσαί	ἀκοῦσαί	ἀκοῦσαί	image (3x): acute before enclitic as printed
 jer	oldtestgreek00unknuoft	284	23	*Kal	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
-jer	oldtestgreek00unknuoft	284	23	eioa- +24	εἶσα- +24	εἰσα-	εἰσα-	TODO zoom: A R5, B DIA
+jer	oldtestgreek00unknuoft	284	23	eioa- +24	εἶσα- +24	εἰσα-	εἰσα-	image (3x): smooth breathing, no circumflex

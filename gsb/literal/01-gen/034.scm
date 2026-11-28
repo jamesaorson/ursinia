@@ -306,9 +306,9 @@
     ("has" 23)
     ("foreskin;" 24)
     ("for" 26)
+    ("reproach" 27)
     ("[it]")
     ("is" 25)
-    ("reproach" 27)
     ("to us." 28)))
 
 (verse 15

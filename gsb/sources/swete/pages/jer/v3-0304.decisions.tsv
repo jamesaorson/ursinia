@@ -1,0 +1,51 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	304	1	∅	∅	φοβοῦ,	φοβοῦ,	image (3x): line read whole; OCR lost it with the siglum B at its left
+jer	oldtestgreek00unknuoft	304	1	pou	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	304	1	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	304	1	ἐγώ	ἐγώ	ἐγώ	ἐγώ	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	304	1	εἰμι:	εἰμι:	εἰμι·	εἰμι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	304	2	παρεδόθη:	παρεδόθη-	παρεδόθη·	παρεδόθη·	image (3x): ano teleia
+jer	oldtestgreek00unknuoft	304	2	ποιήσω.	ποιήσω.	ποιήσω	ποιήσω	image (3x): speck after the word, not a period
+jer	oldtestgreek00unknuoft	304	3	ods	οὺς	οὓς	οὓς	image (3x): οὓς, rough breathing + grave
+jer	oldtestgreek00unknuoft	304	3	ἐξῶσά	ἐξῶσά	ἐξῶσά	ἐξῶσά	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	304	3	ἐκλιπεῖν:	ἐκλιπεῖν:	ἐκλιπεῖν·	ἐκλιπεῖν·	image (3x): ano teleia
+jer	oldtestgreek00unknuoft	304	3	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	304	4	σε. +τ	σε.	σε.	σε.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	304	5	Λόγος	τ +όγος	Λόγος	Λόγος	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	304	5	Βαβυλῶνα.	Βαβυλῶνα. +ι	Βαβυλῶνα.	Βαβυλῶνα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	304	6	I +Αναγγείλατε	Ἀναγγείλατε	Ἀναγγείλατε	Ἀναγγείλατε	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	304	7	2 +ψητε:	. +ψητε:	ψητε·	ψητε·	image (3x): margin verse number or junk read by OCR; word as read
+jer	oldtestgreek00unknuoft	304	7	“Ἑάλωκεν	ἙῬάλωκεν	Ἑάλωκεν	Ἑάλωκεν	image (3x): rough breathing on the capital, acute on α
+jer	oldtestgreek00unknuoft	304	8	3ὅτι	3ὅτι	ὅτι	ὅτι	image (3x): verse superscript fused into the word by OCR; word as read
+jer	oldtestgreek00unknuoft	304	8	βορρᾶ" +3	βορρᾶ" +3	βορρᾶ·	βορρᾶ·	image (3x): margin verse number or junk read by OCR; word as read
+jer	oldtestgreek00unknuoft	304	10	“ἐν	“ἐν	ἐν	ἐν	image (3x): verse superscript fused into the word by OCR; word as read
+jer	oldtestgreek00unknuoft	304	10	ἐκείναις +4	ἐκείναις +4	ἐκείναις	ἐκείναις	image (3x): margin verse number or junk read by OCR; word as read
+jer	oldtestgreek00unknuoft	304	11	καὶ +i	καὶ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	304	11	ᾧ	ᾧ	καιρῷ	καιρῷ	image (3x): καιρῷ, circumflex and iota subscript
+jer	oldtestgreek00unknuoft	304	11	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before a capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	304	11	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	304	11	αὐτοὶ.	αὐτοὶ.	αὐτοὶ	αὐτοὶ	image (3x): speck after the word, not a period
+jer	oldtestgreek00unknuoft	304	11	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before a capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	304	12	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	304	13	cov	εὸν	θεὸν	θεὸν	image (3x): θεὸν; a reddish handwritten tick before αὐτῶν is not text
+jer	oldtestgreek00unknuoft	304	13	"ἕως	"ἕως	ἕως	ἕως	image (3x): verse superscript fused into the word by OCR; word as read
+jer	oldtestgreek00unknuoft	304	13	yap +5	γὰρ +5	γὰρ	γὰρ	image (3x): margin verse number or junk read by OCR; word as read
+jer	oldtestgreek00unknuoft	304	15	θεόν"	θεόν"	θεόν·	θεόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	304	15	“Πρό-	ὁΠρό- +6	Πρό-	Πρό-	image (3x): verse superscript fused into the word by OCR; word as read
+jer	oldtestgreek00unknuoft	304	16	6 +Bara	βατα	βατα	βατα	image (3x): margin verse number or junk read by OCR; word as read
+jer	oldtestgreek00unknuoft	304	16	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	304	16	λαός	λαός	λαός	λαός	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	304	16	pov,	μου,	μου,	μου,	image (3x): μου, OCR Latin letters
+jer	oldtestgreek00unknuoft	304	16	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	304	17	ᾧχοντο,	ᾧχοντο,	ᾤχοντο,	ᾤχοντο,	image (3x): smooth breathing + acute, iota subscript: ᾤχοντο
+jer	oldtestgreek00unknuoft	304	18	κατανά- +7	κατανά- +7	κατανά-	κατανά-	image (3x): margin verse number or junk read by OCR; word as read
+jer	oldtestgreek00unknuoft	304	19	αὐτούς"	αὐτούς"	αὐτούς·	αὐτούς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	304	19	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	304	20	κυρίῳ:	κυρίῳ:	κυρίῳ·	κυρίῳ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	304	21	“ἀπαλλοτριώθητε	“ἀπαλλοτριώθητε	ἀπαλλοτριώθητε	ἀπαλλοτριώθητε	image (3x): verse superscript fused into the word by OCR; word as read
+jer	oldtestgreek00unknuoft	304	21	μέσου.	μέσου.	μέσου	μέσου	image (3x): speck after the word, not a period
+jer	oldtestgreek00unknuoft	304	21	Χαλ- +8	Χαλ- +8	Χαλ-	Χαλ-	image (3x): margin verse number or junk read by OCR; word as read
+jer	oldtestgreek00unknuoft	304	23	“ὅτι	ὅτι	ὅτι	ὅτι	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	304	23	ἐθνῶν +9	ἐθνῶν +9	ἐθνῶν	ἐθνῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	304	24	αὐτῇ"	αὐτῇ᾽	αὐτῇ·	αὐτῇ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	304	13	-	-	αὐτῶν	αὐτῶν	image: handwritten reddish tick before αὐτῶν, not printed text

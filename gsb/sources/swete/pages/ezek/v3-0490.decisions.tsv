@@ -1,0 +1,71 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	490	1	συναγωγὴ +\	συναγωγὴ +"	συναγωγὴ	συναγωγὴ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	2	“Kai	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	2	Ὑἱὲ	Ὑἱὲ	Υἱὲ	Υἱὲ	image (3x): rough breathing and acute stand over the iota (Υἱὲ), none on the capital Υ
+ezek	oldtestgreek00unknuoft	490	2	ἀνθρώ- +τι	ἀνθρώ- +τι	ἀνθρώ-	ἀνθρώ-	image (3x): accents as transcribed before the enclitic / at line end
+ezek	oldtestgreek00unknuoft	490	3	Ἰσραήλ	Ἰσραήλ	Ἰσραήλ	Ἰσραήλ	image (3x): smooth breathing on the capital
+ezek	oldtestgreek00unknuoft	490	4	Enpa	Ξηρὰ	Ξηρὰ	Ξηρὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	5	“dia	"“διὰ	διὰ	διὰ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	5	τοῦτο.	τοῦτο.	τοῦτο	τοῦτο	image (3x): speck after τοῦτο, lighter and smaller than a point; no punctuation
+ezek	oldtestgreek00unknuoft	490	5	εἰπόν	εἰπόν	εἰπόν	εἰπόν	image (3x): accent as transcribed before the capitalized word
+ezek	oldtestgreek00unknuoft	490	5	Ἰδοὺ +12	Ἰδοὺ +το	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on the capital
+ezek	oldtestgreek00unknuoft	490	7	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	7	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on the capital
+ezek	oldtestgreek00unknuoft	490	7	kal	"Ξκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	7	ἐγώ +13	ἐγώ +13	ἐγώ	ἐγώ	image (3x): accents as transcribed before the enclitic / at line end
+ezek	oldtestgreek00unknuoft	490	8	ἀνοῖξαί	ἀνοῖξαί	ἀνοῖξαί	ἀνοῖξαί	image (3x): accents as transcribed before the enclitic / at line end
+ezek	oldtestgreek00unknuoft	490	9	λαόν	λαόν	λαόν	λαόν	image (3x): accents as transcribed before the enclitic / at line end
+ezek	oldtestgreek00unknuoft	490	9	pov.	μου.	μου.	μου.	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	9	“kai	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	9	πνεῦμά	πνεῦμά	πνεῦμά	πνεῦμά	image (3x): accents as transcribed before the enclitic / at line end
+ezek	oldtestgreek00unknuoft	490	9	ὑμᾶς +14	ὑμᾶς +τὸ	ὑμᾶς	ὑμᾶς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	11	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): accent as transcribed before the capitalized word
+ezek	oldtestgreek00unknuoft	490	11	Κύριος.	Κύριος. +5	Κύριος.	Κύριος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	12	"Υἱὲ	᾿όγἱὰ	Υἱὲ	Υἱὲ	image (3x): rough breathing and acute stand over the iota (Υἱὲ), none on the capital Υ
+ezek	oldtestgreek00unknuoft	490	12	λάβε +{2	λάβε +ε:	λάβε	λάβε	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	13	Ἰούδαν	Ἰούδαν	Ἰούδαν	Ἰούδαν	image (3x): smooth breathing on the capital
+ezek	oldtestgreek00unknuoft	490	13	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): accent as transcribed before the capitalized word
+ezek	oldtestgreek00unknuoft	490	14	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+ezek	oldtestgreek00unknuoft	490	14	αὐτόν:	αὐτόν:	αὐτόν·	αὐτόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	15	αὐτήν	αὐτήν	αὐτήν	αὐτήν	image (3x): accent as transcribed before the capitalized word
+ezek	oldtestgreek00unknuoft	490	15	TO	Τῷ	Τῷ	Τῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	15	Ἰώσήφ,	Ἰωσήφ,	Ἰωσήφ,	Ἰωσήφ,	image (3x): smooth breathing on the capital
+ezek	oldtestgreek00unknuoft	490	15	ἘἘφράιμ	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing on the capital
+ezek	oldtestgreek00unknuoft	490	16	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): accent as transcribed before the capitalized word
+ezek	oldtestgreek00unknuoft	490	16	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+ezek	oldtestgreek00unknuoft	490	16	"καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	16	συνάψεις +17	συνάψεις +17	συνάψεις	συνάψεις	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	17	ἀλλήλας.	ἀλλήλας.	ἀλλήλας	ἀλλήλας	ambiguous: small light dot on the baseline after ἀλλήλας, much lighter than the periods on the page; read as speck, no punctuation
+ezek	oldtestgreek00unknuoft	490	18	χειρί	χειρί	χειρί	χειρί	image (3x): accents as transcribed before the enclitic / at line end
+ezek	oldtestgreek00unknuoft	490	18	gov.	σου.	σου.	σου.	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	18	"“δκαὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	18	υἱοὶ +18	υἱοὶ +τ8	υἱοὶ	υἱοὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	19	Οὐκ	Οὐκ	Οὐκ	Οὐκ	image (3x): smooth breathing on the capital
+ezek	oldtestgreek00unknuoft	490	19	τί	τί	τί	τί	image (3x): accents as transcribed before the enclitic / at line end
+ezek	oldtestgreek00unknuoft	490	19	ταῦτά	ταῦτά	ταῦτά	ταῦτά	image (3x): accents as transcribed before the enclitic / at line end
+ezek	oldtestgreek00unknuoft	490	19	"Kal	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	19	ἐρεῖς +τὸ	ἐρεῖς +τὸ	ἐρεῖς	ἐρεῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	20	αὐτούς	αὐτούς	αὐτούς	αὐτούς	image (3x): accent as transcribed before the capitalized word
+ezek	oldtestgreek00unknuoft	490	20	Ἰδοὸ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on the capital
+ezek	oldtestgreek00unknuoft	490	20	φυλὴν	φυλὴν	φυλὴν	φυλὴν	image (3x): accent as transcribed before the capitalized word
+ezek	oldtestgreek00unknuoft	490	21	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	image (3x): smooth breathing on the capital
+ezek	oldtestgreek00unknuoft	490	21	χειρὸς	χειρὸς	χειρὸς	χειρὸς	image (3x): accent as transcribed before the capitalized word
+ezek	oldtestgreek00unknuoft	490	21	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing on the capital
+ezek	oldtestgreek00unknuoft	490	21	φυλὰς	φυλὰς	φυλὰς	φυλὰς	image (3x): accent as transcribed before the capitalized word
+ezek	oldtestgreek00unknuoft	490	21	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+ezek	oldtestgreek00unknuoft	490	21	“προσ-	“προσ-	προσ-	προσ-	image (3x): no mark before προσ-; OCR quote is noise
+ezek	oldtestgreek00unknuoft	490	22	φυλὴν	φυλὴν	φυλὴν	φυλὴν	image (3x): accent as transcribed before the capitalized word
+ezek	oldtestgreek00unknuoft	490	22	Ἰούδα,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing on the capital
+ezek	oldtestgreek00unknuoft	490	23	χειρὶ	χειρὶ	χειρὶ	χειρὶ	image (3x): accent as transcribed before the capitalized word
+ezek	oldtestgreek00unknuoft	490	23	Ιούδα.	Ἰούδα.	Ἰούδα.	Ἰούδα.	image (3x): smooth breathing on the capital
+ezek	oldtestgreek00unknuoft	490	23	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	23	ῥάβδοι +20	ῥάβδοι +9:0	ῥάβδοι	ῥάβδοι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	24	χειρί	χειρί	χειρί	χειρί	image (3x): accents as transcribed before the enclitic / at line end
+ezek	oldtestgreek00unknuoft	490	24	σου	σου:	σου	σου	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	490	24	αὐτῶν, +“"	αὐτῶν, +“"	αὐτῶν,	αὐτῶν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	24	καὶ +“1	καὶ +οἵ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	490	25	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on the capital
+ezek	oldtestgreek00unknuoft	490	26	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+ezek	oldtestgreek00unknuoft	490	17	-	-	ἀλλήλας	ἀλλήλας	ambiguous: small light dot after ἀλλήλας on the baseline; read as speck
+ezek	oldtestgreek00unknuoft	490	17	-	-	σαυτῷ	σαυτῷ	image (3x): σαυτῷ (not σεαυτῷ) printed; kept as printed (apparatus: σαυτω] σεαυτω A)
+ezek	oldtestgreek00unknuoft	490	11	-	-	λελάληκα	λελάληκα	ambiguous: brown stain over the accent of λελά-; acute still visible beside it, read λελάληκα

@@ -1,0 +1,34 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	331	1	ὅὅτι	ὅὅτι	ὅτι	ὅτι	image (3x): OCR read the superscript verse number as junk; word as transcribed
+jer	oldtestgreek00unknuoft	331	1	ἀναπειθέτωσαν	ἀναπειθέτωσαν +8	ἀναπειθέτωσαν	ἀναπειθέτωσαν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	331	2	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	331	3	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	331	3	evurrvid-	ἐνυπνιά-	ἐνυπνιά-	ἐνυπνιά-	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	331	4	ζεσθε"	ζεσθε"	ζεσθε·	ζεσθε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	331	4	%6rt	9ὅτι	ὅτι	ὅτι	image (3x): OCR read the superscript verse number as junk; word as transcribed
+jer	oldtestgreek00unknuoft	331	4	ὀνόματί	ὀνόματί	ὀνόματί	ὀνόματί	image (3x): acute before the enclitic με/μου, as printed
+jer	oldtestgreek00unknuoft	331	4	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	331	5	‘dru	"“ὅτι	ὅτι	ὅτι	image (3x): OCR read the superscript verse number as junk; word as transcribed
+jer	oldtestgreek00unknuoft	331	5	Ὅταν	Ὅταν	Ὅταν	Ὅταν	image (3x): rough breathing + acute on capital Ο
+jer	oldtestgreek00unknuoft	331	8	“Kal	"καὶ	καὶ	καὶ	image (3x): OCR read the superscript verse number as junk; word as transcribed
+jer	oldtestgreek00unknuoft	331	8	᾿λογιοῦμαι	᾿λογιοῦμαι	λογιοῦμαι	λογιοῦμαι	image (3x): no mark before λογιοῦμαι
+jer	oldtestgreek00unknuoft	331	9	ὑμῖν.	ὑμῖν.	ὑμῖν	ὑμῖν	image (3x): no point after ὑμῖν
+jer	oldtestgreek00unknuoft	331	9	“kal	““καὶ	καὶ	καὶ	image (3x): OCR read the superscript verse number as junk; word as transcribed
+jer	oldtestgreek00unknuoft	331	10	ἀκούσομαι	ἀκούσομαι	ακούσομαι	ακούσομαι	image (3x): second half of εἰσ-ακούσομαι, printed without breathing
+jer	oldtestgreek00unknuoft	331	10	ὑμῶν"	ὑμῶν"	ὑμῶν·	ὑμῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	331	10	"Ξκαὶ	"Ξκαὶ	καὶ	καὶ	image (3x): OCR read the superscript verse number as junk; word as transcribed
+jer	oldtestgreek00unknuoft	331	10	ἐκζητήσατέ	ἐκζητήσατέ	ἐκζητήσατέ	ἐκζητήσατέ	image (3x): acute before the enclitic με/μου, as printed
+jer	oldtestgreek00unknuoft	331	10	εὑρήσετέ᾽	εὑρήσετέ᾽	εὑρήσετέ	εὑρήσετέ	image (3x): acute before the enclitic με/μου, as printed
+jer	oldtestgreek00unknuoft	331	10	per	με᾽	με·	με·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	331	11	were	σετέ	σετέ	σετέ	image (3x): acute before the enclitic με/μου, as printed
+jer	oldtestgreek00unknuoft	331	11	ὅχῃ	ὅλῃ	ὅλῃ	ὅλῃ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	331	11	“Kal	ὑ	καὶ	καὶ	image (3x): OCR read the superscript verse number as junk; word as transcribed
+jer	oldtestgreek00unknuoft	331	11	ἐπιφανοῦμαι	"καὶ +ἐπίφανοῦμαι	ἐπιφανοῦμαι	ἐπιφανοῦμαι	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	331	11	ὑμῖν.	ὑμῖν. +15	ὑμῖν.	ὑμῖν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	331	11	Ore	Ὅτι	Ὅτι	Ὅτι	image (3x): rough breathing + acute on capital Ο
+jer	oldtestgreek00unknuoft	331	11	εἴ	εἴ-	εἴ-	εἴ-	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	331	12	ware	πατε	πατε	πατε	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	331	12	Βαβυλῶνι"	Βαβυλῶνι"	Βαβυλῶνι·	Βαβυλῶνι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	331	12	“οὕτως	“"οὕτως	οὕτως	οὕτως	image (3x): OCR read the superscript verse number as junk; word as transcribed
+jer	oldtestgreek00unknuoft	331	13	Ἀχιὰβ	Ἀχιὰβ	Ἀχιὰβ	Ἀχιὰβ	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	331	13	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing (apostrophe shape)

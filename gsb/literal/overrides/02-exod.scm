@@ -1,7 +1,6 @@
 ;; Per-word overrides and pinned verses for Exodus (gsb/literal/README.md).
 
 ;; Exodus 20
-(word "exod.20.3#2" (before "[There]") (why "Οὐκ ἔσονταί σοι θεοὶ ἕτεροι: existential εἰμί with its subject after it; \"Will not be to you other gods\" is not a statement."))
 (word "exod.20.10#6" (before "[are]") (why "τῇ δὲ ἡμέρᾳ τῇ ἑβδόμῃ σάββατα Κυρίῳ: nominal clause."))
 (word "exod.20.5#18" (tag "N-APF") (why "ἀποδιδοὺς ἁμαρτίας: accusative plural, \"repaying sins\", not the genitive singular."))
 (word "exod.20.7#10" (after "[thing]") (why "ἐπὶ ματαίῳ: substantival adjective; \"upon vain\" does not read."))

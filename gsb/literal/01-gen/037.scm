@@ -102,7 +102,7 @@
     ("were not able" 20 (21 be-able "δύναμαι"))
     ("to speak" 22)
     ("to him/it" 23)
-    ("nothing" (24 nothing))
+    ("anything" (24 anything))
     ("peaceable." 25)))
 
 (verse 5

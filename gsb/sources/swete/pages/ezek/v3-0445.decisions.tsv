@@ -1,0 +1,47 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	445	1	*xai	ϑκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	445	2	διαφθορᾷ	διαφθορᾷ +9	διαφθορᾷ	διαφθορᾷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	445	3	9	αὐτῶν	αὐτῶν	αὐτῶν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	445	3	αὐτῶν.	συνελήμφθη" +ἰἴ9	συνελήμφθη·	συνελήμφθη·	image (3x): letters and accents as in C; OCR junk (verse superscript, punctuation, margin numeral)
+ezek	oldtestgreek00unknuoft	445	3	συνελήμφθη" +%xai	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	445	3	ἔθεντο +.	ἔθεντο. +Ὁ	ἔθεντο	ἔθεντο	image (3x): letters and accents as in C; OCR junk (verse superscript, punctuation, margin numeral)
+ezek	oldtestgreek00unknuoft	445	3	"καὶ	"καὶ	καὶ	καὶ	image (3x): letters and accents as in C; OCR junk (verse superscript, punctuation, margin numeral)
+ezek	oldtestgreek00unknuoft	445	4	φυλακήν, +το	φυλακήν, +το	φυλακήν,	φυλακήν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	445	5	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on Ἰ (apostrophe shape)
+ezek	oldtestgreek00unknuoft	445	5	Η	τοῦ +Η	Ἡ	Ἡ	image (3x): rough breathing on Ἡ (reversed comma), no accent
+ezek	oldtestgreek00unknuoft	445	7	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	445	7	πολλοῦ.	πολλοῦ. +τι	πολλοῦ.	πολλοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	445	8	τι +“kal	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	445	9	στελεχῶν;	στελεχῶν;	στελεχῶν,	στελεχῶν,	image (3x): letters and accents as in C; OCR junk (verse superscript, punctuation, margin numeral)
+ezek	oldtestgreek00unknuoft	445	9	ἐν +12	ἐν +15	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	445	10	"““καὶ	"““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	445	11	αὐτῆς᾽	αὐτῆς᾽	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	445	11	καὶ +13	καὶ +13	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	445	12	αὐτὴν.	αὐτήν.	αὐτήν.	αὐτήν.	image (3x): letters and accents as in C; OCR junk (verse superscript, punctuation, margin numeral)
+ezek	oldtestgreek00unknuoft	445	12	"Ξκαὶ	"Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	445	12	νῦν +14	νῦν +14	νῦν	νῦν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	445	13	"“καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	445	15	ἰσχύος:	ἰσχύος"	ἰσχύος·	ἰσχύος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	445	15	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	445	17	I +*Kal	1 +τκ, αἱ	Καὶ	Καὶ	image (3x): Καὶ after superscript 1 at chapter XX; margin XX 1 not text
+ezek	oldtestgreek00unknuoft	445	18	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on Ἰ (apostrophe shape)
+ezek	oldtestgreek00unknuoft	445	18	τὸν +2	τὸν +2	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	445	19	μὸυ.	μόυ.	μου.	μου.	image (3x): letters and accents as in C; OCR junk (verse superscript, punctuation, margin numeral)
+ezek	oldtestgreek00unknuoft	445	19	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	445	19	λόγος +3	λύγος +3	λόγος	λόγος	image (3x): letters and accents as in C; OCR junk (verse superscript, punctuation, margin numeral)
+ezek	oldtestgreek00unknuoft	445	20	ΞΥἱὲ	ΞΥἱὲ	Υἱὲ	Υἱὲ	image (3x): rough breathing and acute on ι of Υἱὲ; grave on ε
+ezek	oldtestgreek00unknuoft	445	21	Tod	τοῦ.	τοῦ	τοῦ	image (3x): letters and accents as in C; OCR junk (verse superscript, punctuation, margin numeral)
+ezek	oldtestgreek00unknuoft	445	21	Ἰσραὴλ	Ἰσραὴλ.	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on Ἰ (apostrophe shape)
+ezek	oldtestgreek00unknuoft	445	21	αὐτούς	αὐτούς	αὐτούς	αὐτούς	image (3x): acute before capitalized Τάδε
+ezek	oldtestgreek00unknuoft	445	21	Ei	Εἰ	Εἰ	Εἰ	image (3x): smooth breathing and grave on ι of Εἰ
+ezek	oldtestgreek00unknuoft	445	22	ἐπερωτῆσαί	ἐπερωτῆσαί	ἐπερωτῆσαί	ἐπερωτῆσαί	image (3x): ἐπερωτῆσαί με, extra acute before enclitic
+ezek	oldtestgreek00unknuoft	445	22	λέγει +4	λέγει +4	λέγει	λέγει	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	445	23	“εἰ	“εἰ	εἰ	εἰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	445	23	“ἐκδικήσει.	ἐκδικήσει.	ἐκδικήσει.	ἐκδικήσει.	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	445	24	στῶν	στῶν	τῶν	τῶν	image (3x): letters and accents as in C; OCR junk (verse superscript, punctuation, margin numeral)
+ezek	oldtestgreek00unknuoft	445	24	SKxai	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	445	24	αὐτούς	αὐτούς	αὐτούς	αὐτούς	image (3x): acute before capitalized Τάδε
+ezek	oldtestgreek00unknuoft	445	25	Ἀφ᾽	Ἀφ᾽	Ἀφ᾽	Ἀφ᾽	image (3x): smooth breathing on Ἀ, elision mark after φ
+ezek	oldtestgreek00unknuoft	445	25	ἡρέτισα	ἡρέτισα	ᾑρέτισα	ᾑρέτισα	image (3x): rough breathing, circumflex-less; iota subscript printed under η
+ezek	oldtestgreek00unknuoft	445	25	ἸΙσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on Ἰ (apostrophe shape)
+ezek	oldtestgreek00unknuoft	445	26	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing on Ἰ (apostrophe shape)

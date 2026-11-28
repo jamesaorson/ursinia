@@ -1,0 +1,26 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	344	1	∅	ἀπ᾽	ἀπ᾽	ἀπ᾽	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	344	1	μεγαλειό- +9	μεγαλειό- +9	μεγαλειό-	μεγαλειό-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	344	5	Ἔτι	Ἔτι	Ἔτι	Ἔτι	image (3x): smooth breathing + acute (open two-part mark)
+jer	oldtestgreek00unknuoft	344	5	ὑμεῖς +10	ὑμεῖς +το	ὑμεῖς	ὑμεῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	344	6	"Ἐρημός	"Ἐρημός	Ἔρημός	Ἔρημός	image (3x): smooth + acute on Ε; acute on ultima before enclitic ἐστιν
+jer	oldtestgreek00unknuoft	344	6	ἀνθρώπων	ἀνθῥώπων	ἀνθρώπων	ἀνθρώπων	image (3x): plain ρ
+jer	oldtestgreek00unknuoft	344	6	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on the capital; no point after Ἰερουσαλὴμ
+jer	oldtestgreek00unknuoft	344	7	Ἰερουσαλὴμ.	Ἰερουσαλὴμ.	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on the capital; no point after Ἰερουσαλὴμ
+jer	oldtestgreek00unknuoft	344	7	ἡρημωμέναις	ἡρημωμέναις	ἠρημωμέναις	ἠρημωμέναις	image (3x): smooth breathing on ἠ (apostrophe shape)
+jer	oldtestgreek00unknuoft	344	8	mov	πὸν	πον	πον	image (3x): word as read, no accent on πον; no point after παρὰ
+jer	oldtestgreek00unknuoft	344	8	“φωνὴ	“φωνὴ	φωνὴ	φωνὴ	image (3x): verse superscript / margin number not text
+jer	oldtestgreek00unknuoft	344	8	φωνὴ +τι	φωνὴ +τι	φωνὴ	φωνὴ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	344	9	Ἐ̓ξομολογεῖσθε	Ἐξομολογεῖσθε	Ἐξομολογεῖσθε	Ἐξομολογεῖσθε	image (3x): smooth breathing on the capital; no point after Ἰερουσαλὴμ
+jer	oldtestgreek00unknuoft	344	10	Tlavroxpdropt,	Παντοκράτορι,	Παντοκράτορι,	Παντοκράτορι,	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	344	10	χρηστὸς	χρηστὸς	χρηστὸς	χρηστὸς	image (3x): grave on χρηστὸς before Κύριος (not a quotation)
+jer	oldtestgreek00unknuoft	344	10	αὐτοῦ"	αὐτοῦ"	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	344	12	"“οὕτως +x12	"“οὕτως +12	οὕτως	οὕτως	image (3x): verse superscript / margin number not text
+jer	oldtestgreek00unknuoft	344	13	Ἔσται	Ἔσται	Ἔσται	Ἔσται	image (3x): smooth breathing + acute (open two-part mark)
+jer	oldtestgreek00unknuoft	344	14	mapa	παρὰ.	παρὰ	παρὰ	image (3x): word as read, no accent on πον; no point after παρὰ
+jer	oldtestgreek00unknuoft	344	15	πρόβατα;	πρόβατα;	πρόβατα,	πρόβατα,	image (3x): comma, not ano teleia
+jer	oldtestgreek00unknuoft	344	15	3é€v	"Ξἐν	ἐν	ἐν	image (3x): verse superscript / margin number not text
+jer	oldtestgreek00unknuoft	344	15	τῆς +13	τῆς +13	τῆς	τῆς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	344	16	THs	τῆς	τῆς	τῆς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	344	17	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on the capital; no point after Ἰερουσαλὴμ
+jer	oldtestgreek00unknuoft	344	17	Ἰούδα,	Ἰ̓Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing on the capital; no point after Ἰερουσαλὴμ

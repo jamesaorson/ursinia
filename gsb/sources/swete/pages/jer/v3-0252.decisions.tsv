@@ -1,0 +1,52 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	252	1	ὀφθαλμούς	ὀφθαλμούς	ὀφθαλμούς	ὀφθαλμούς	image (3x): accent before enclitic as printed
+jer	oldtestgreek00unknuoft	252	1	“ἴδε:	“ἴδε	ἴδε·	ἴδε·	image (3x): ano teleia after ἴδε
+jer	oldtestgreek00unknuoft	252	1	ποῦ	ποῦ.	ποῦ	ποῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	252	2	κορώνη.	κορώνη.	κορώνη	κορώνη	image (3x): no point after κορώνη
+jer	oldtestgreek00unknuoft	252	3	σοὺ	σοὺ	σου	σου	image (3x): σου unaccented
+jer	oldtestgreek00unknuoft	252	3	Kal	Ξκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	252	3	πολλοὺς +3	πολλοὺς +3	πολλοὺς	πολλοὺς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	252	4	σεαυτῇ:	σεαυτῇ:	σεαυτῇ·	σεαυτῇ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	252	4	ὄψες	ὄψες	ὄψις	ὄψις	image (3x): ὄψις; ink blot (not print) over ψι, ι visible
+jer	oldtestgreek00unknuoft	252	4	ἐγένετό	ἐγένετό	ἐγένετό	ἐγένετό	image (3x): accent before enclitic as printed
+jer	oldtestgreek00unknuoft	252	5	“οὐχ	“οὐχ	οὐχ	οὐχ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	252	5	οἶκόν	οἶκόν	οἶκόν	οἶκόν	image (3x): accent before enclitic as printed
+jer	oldtestgreek00unknuoft	252	6	cov;	σοῦ;	σου;	σου;	image (3x): σου unaccented
+jer	oldtestgreek00unknuoft	252	6	Sur	5μὴ	μὴ	μὴ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	252	6	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	252	7	νῖκος;	- +νίκος;	νῖκος;	νῖκος;	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	252	7	ἡδυνάσθης. +ὁ	ἡδυνάσθης. +ὁ	ἠδυνάσθης.	ἠδυνάσθης.	image (3x): smooth breathing ἠ
+jer	oldtestgreek00unknuoft	252	8	Ἰωσείου	Ἰωσείου	Ἰωσείου	Ἰωσείου	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	252	9	Eides	6 +Ἐΐἦδες	Εἶδες	Εἶδες	image (3x): Εἶδες, smooth + circumflex on ι
+jer	oldtestgreek00unknuoft	252	9	ἐποίησέν	ἐποίησέν	ἐποίησέν	ἐποίησέν	image (3x): accent before enclitic as printed
+jer	oldtestgreek00unknuoft	252	9	Ἰσραήλ;	Ἰσραήλ;	Ἰσραήλ;	Ἰσραήλ;	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	252	10	ἀλσῴδους	ἀλσώδους	ἀλσώδους	ἀλσώδους	image (3x): plain acute, no iota subscript
+jer	oldtestgreek00unknuoft	252	11	καὶ	7καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	252	11	ἀνάστρεψον"	ἀνάστρεψον" +7	ἀνάστρεψον·	ἀνάστρεψον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	252	12	ἀσύνθετος	ἀσύνθετος +»	ἀσύνθετος	ἀσύνθετος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	252	12	Ἰουδά.	Ἰουδά.	Ἰουδά.	Ἰουδά.	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	252	13	ϑκαὶ	δκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	252	13	εἶδον;	εἶδον,	εἶδον,	εἶδον,	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	252	13	κατελήμφθη	κατελήμφθη +8	κατελήμφθη	κατελήμφθη	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	252	14	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	252	15	αὐτῆς"	αὐτῆς"	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	252	16	Ἰ̓ουδά,	Ἰουδά,	Ἰουδά,	Ἰουδά,	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	252	16	αὐτή,	αὐτή, +9	αὐτή,	αὐτή,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	252	16	ϑκαὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	252	16	ἐγένετο	ἐγένετο +ο	ἐγένετο	ἐγένετο	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	252	18	Ἰουδὰ +10	Ἰουδὰ +τὸ	Ἰουδὰ	Ἰουδὰ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	252	19	GAN	ἀλλ᾽	ἀλλ᾽	ἀλλ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	252	19	ψεύδει.	ψεύδει. +“᾽	ψεύδει.	ψεύδει.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	252	19	“kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	252	20	μέ	μέ	μέ	μέ	image (3x): acute before capitalized quotation
+jer	oldtestgreek00unknuoft	252	20	Ἐ̓δικαίωσεν	Ἐδικαίωσεν	Ἐδικαίωσεν	Ἐδικαίωσεν	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	252	20	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	252	20	Ἰ̓Ἰουδά. +15	Ἰ̓ουδά. +15	Ἰουδά.	Ἰουδά.	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	252	21	ἐρεῖς +12	ἐρεῖς +τ.	ἐρεῖς	ἐρεῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	252	22	Ἐπιστράφητι	Ἐπιστράφητι	Ἐπιστράφητι	Ἐπιστράφητι	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	252	22	Tov	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	252	22	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	252	23	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): accent before enclitic as printed
+jer	oldtestgreek00unknuoft	252	23	ὑμᾶς:	ὑμᾶς:	ὑμᾶς·	ὑμᾶς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	252	23	ἐγώ	ἐγώ	ἐγώ	ἐγώ	image (3x): accent before enclitic as printed
+jer	oldtestgreek00unknuoft	252	4	-	-	ὄψις	ὄψις	ambiguous: dark ink blot (not print) over ψι; read ὄψις

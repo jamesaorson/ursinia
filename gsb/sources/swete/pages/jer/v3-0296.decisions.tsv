@@ -1,0 +1,44 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	296	1	Spereron	προσώπου	προσώπου	προσώπου	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	296	1	ει	προσώπου	προσώπου	προσώπου	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	296	1	ὐραμμθνηθαΝ +τ pee	εὐπρεπείας	εὐπρεπείας	εὐπρεπείας	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	296	2	“ὅτι	"ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	296	2	πρῤσάμχον	προσώπου	προσώπου	προσώπου	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	296	2	ἐξηράνθηδεν +τὸ	ἐξηράνθησαν +τὸ	ἐξηράνθησαν	ἐξηράνθησαν	image (3x): σ, ἐξηράνθησαν; margin 10 outside
+jer	oldtestgreek00unknuoft	296	3	ἐρήμου:	ἐρήμου:	ἐρήμου·	ἐρήμου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	296	3	gare	ἐγένετο	ἐγένετο	ἐγένετο	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	296	3	Bangs	ἰσχὺς	ἰσχὺς	ἰσχὺς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	296	4	“Sri	"ὅτι	ὅτι	ὅτι	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	296	4	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	296	4	τῷ +τι	τῷ +τι	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	296	5	τα +wa	"“διὰ	διὰ	διὰ	image (3x): διὰ after superscript 12
+jer	oldtestgreek00unknuoft	296	5	αὐτῶν +12	αὐτῶν +12	αὐτῶν	αὐτῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	296	7	αὐτῇ:	αὐτῇ"	αὐτῇ·	αὐτῇ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	296	7	ἐπ᾽	ἐπ᾽ +Ε	ἐπ᾽	ἐπ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	296	8	ἀνομήματα:	ἀνομήματα:	ἀνομήματα·	ἀνομήματα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	296	8	ἐπροφήτευσαν +13	ἐπροφήτευσαν +13	ἐπροφήτευσαν	ἐπροφήτευσαν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	296	9	λαόν	λαόν	λαόν	λαόν	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	296	9	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	296	9	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	296	9	“Kat	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	296	9	τοῖς +14	τοῖς +τῇ	τοῖς	τοῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	296	10	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	296	12	πονηρᾶς"	πονηρᾶς"	πονηρᾶς·	πονηρᾶς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	296	13	θησάν	θησάν	θησάν	θησάν	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	296	14	Γόμορρα.	Γόμορρα. +5	Γόμορρα.	Γόμορρα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	296	14	SAw	Διὰ	Διὰ	Διὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	296	14	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	296	14	ψωμιῶ +rs	ψωμιῶ +15	ψωμιῶ	ψωμιῶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	296	16	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	296	16	“ovrws	““οὕτως	οὕτως	οὕτως	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	296	19	“λέγουσιν.	“λέγουσιν.	λέγουσιν	λέγουσιν	image (3x): small light dot after λέγουσιν is a speck, not a period (verse runs on)
+jer	oldtestgreek00unknuoft	296	19	λύγον	λύγον	λόγον	λόγον	image (3x): ο, λόγον
+jer	oldtestgreek00unknuoft	296	19	Ἑἰρήνη +17	Ἑἰρήνη +17	Εἰρήνη	Εἰρήνη	image (3x): smooth breathing + grave on ι, Εἰρήνη
+jer	oldtestgreek00unknuoft	296	21	εἶπ	εἶπ	εἶπαν	εἶπαν	image (3x): εἶπαν whole word printed
+jer	oldtestgreek00unknuoft	296	21	vx	ὑχ	Οὐχ	Οὐχ	image (3x): Οὐχ, smooth breathing
+jer	oldtestgreek00unknuoft	296	22	τϑὅτι	τϑὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	296	22	τίς +18	τίς +τ8	τίς	τίς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	296	23	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	296	23	“idod	το +"ἰδοὺ	ἰδοὺ	ἰδοὺ	image (3x): ἰδοὺ after superscript 19
+jer	oldtestgreek00unknuoft	296	23	ἐκ- +19	ἐκ- +τὸ	ἐκ-	ἐκ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	296	19	-	-	λέγουσιν	λέγουσιν	ambiguous: small light dot after the word read as a speck, not a period

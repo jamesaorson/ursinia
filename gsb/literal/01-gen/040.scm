@@ -324,7 +324,7 @@
     ("and" 7)
     ("here" 8)
     ("I did not do" 9 (10 do))
-    ("nothing," (11 nothing))
+    ("anything," (11 anything))
     ("rather" 12)
     ("they threw" (13 throw-in "ἐμβάλλω"))
     ("me" 14)

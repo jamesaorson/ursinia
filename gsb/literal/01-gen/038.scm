@@ -390,8 +390,8 @@
     ("you give" 16)
     ("pledge" 17)
     ("until" 18)
-    ("your" 21)
-    ("sending." (19 infinitive) 20)))
+    ("your" (19 infinitive) 21)
+    ("sending." 20)))
 
 (verse 18
   (status draft)
@@ -638,8 +638,8 @@
     ("But" 2)
     ("it came to be" 1)
     ("in" 3)
-    ("her" 6)
-    ("bearing" (4 infinitive) (5 bear "τίκτω"))
+    ("her" (4 infinitive) 6)
+    ("bearing" (5 bear "τίκτω"))
     ("the one" 7 8)
     ("brought forth first" (9 bring-forth-first "προεκφέρω"))
     ("the hand;" 10 11)

@@ -1,0 +1,64 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	444	1	Ἰσραήλ᾽	Ἰσραήλ᾽	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing; ano teleia, not apostrophe
+ezek	oldtestgreek00unknuoft	444	1	ὁδός	ὁδός	ὁδός	ὁδός	image (3x): ὁδός acute before enclitic μου; μου unaccented
+ezek	oldtestgreek00unknuoft	444	1	pov	μοὺ	μου	μου	image (3x): ὁδός acute before enclitic μου; μου unaccented
+ezek	oldtestgreek00unknuoft	444	2	ev	“ἐν	ἐν	ἐν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	2	δικαιοσύνης +26	δικαιοσύνης +26	δικαιοσύνης	δικαιοσύνης	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	3	παράπτωμα,	παράπτωμα;	παράπτωμα,	παράπτωμα,	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	444	4	ἀποθανεῖται.	ἴται.	ἀποθανεῖται.	ἀποθανεῖται.	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	444	4	“7καὶ	"Ἰκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	4	ἐν	ἐν +ἐν	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	4	ἄνομον +27	ἄνομον +97	ἄνομον	ἄνομον	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	6	ἐφύλαξεν. +“ὃ	ἐφύλαξεν.	ἐφύλαξεν.	ἐφύλαξεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	6	καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	6	ἀπέστρεψεν	ἀπέστρεψεν.	ἀπέστρεψεν	ἀπέστρεψεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	444	6	πασῶν +28	πασῶν +.8	πασῶν	πασῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	7	αὐτοῦ.	αὐτοῦ.	αὐτοῦ	αὐτοῦ	image (3x): no period after the word
+ezek	oldtestgreek00unknuoft	444	7	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	7	ἀποθάνῃ. +“9	ἀποθάνῃ. +“9	ἀποθάνῃ.	ἀποθάνῃ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	7	καὶ +29	καὶ +0	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	8	Ἰσραήλ	Ἰσραήλ	Ἰσραὴλ	Ἰσραήλ	image (3x): smooth breathing; acute before capitalized quotation Οὐ
+ezek	oldtestgreek00unknuoft	444	8	Οὐ	Οὐ	Οὐ	Οὐ	image (3x): Οὐ smooth on υ
+ezek	oldtestgreek00unknuoft	444	8	ὁδὸς	ὁδὸς	ὁδὸς	ὁδὸς	image (3x): grave; next word is a name, not a quotation
+ezek	oldtestgreek00unknuoft	444	8	ὁδός	ὁδός	ὁδός	ὁδός	image (3x): ὁδός acute before enclitic μου; μου unaccented
+ezek	oldtestgreek00unknuoft	444	9	οἶκος	οἶκος +᾽	οἶκος	οἶκος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	9	Ἰσραήλ;	Ἰσραήλ;	Ἰσραήλ;	Ἰσραήλ;	image (3x): smooth breathing, apostrophe shape; punctuation as in page file
+ezek	oldtestgreek00unknuoft	444	9	οὐχὶ.	οὐχὶ	οὐχὶ	οὐχὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	444	9	ἡ	ἡ +ν	ἡ	ἡ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	10	ἕκαστον	ϑοξκαστον	ἕκαστον	ἕκαστον	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	444	10	᾿σραήλ;	Ἰσραήλ;	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing, apostrophe shape; punctuation as in page file
+ezek	oldtestgreek00unknuoft	444	11	30 +Κύριος:	30 +Κύριος:	Κύριος·	Κύριος·	image (3x): ano teleia after Κύριος; 30 is the margin number
+ezek	oldtestgreek00unknuoft	444	12	ἀδικίας. +3᾽	ἀδικίας. +3"	ἀδικίας.	ἀδικίας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	12	ἀπὸ +31	ἀπὸ +3:	ἀπὸ	ἀπὸ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	13	τὰς.	τὰς.	τὰς	τὰς	image (3x): no period after the word
+ezek	oldtestgreek00unknuoft	444	13	ds	ἃς	ἃς	ἃς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	14	καινόν:	καινόν:	καινόν·	καινόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	15	Ἰσραήλ; +3)	Ἰσραήλ; +3)	Ἰσραήλ;	Ἰσραήλ;	image (3x): smooth breathing, apostrophe shape; punctuation as in page file
+ezek	oldtestgreek00unknuoft	444	15	λέγει +32	λέγει +3:	λέγει	λέγει	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	16	Κύριος.	Κύριος. +Σ	Κύριος.	Κύριος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	17	*Kal	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	17	λάβε	λάβει	λάβε	λάβε	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	444	17	τοῦ	ποθ	τοῦ	τοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	444	17	Ἰσραήλ, +"	σραήλι +2	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing, apostrophe shape; punctuation as in page file
+ezek	oldtestgreek00unknuoft	444	17	Ti	Τί;	Τί	Τί	image (3x): Τί, no punctuation; 1 and 2 are margin numbers
+ezek	oldtestgreek00unknuoft	444	18	σκύμνος"	σκύμνος"	σκύμνος·	σκύμνος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	19	ἐπλήθυνεν.	ἐπλήθυνεν.	ἐπλήθυνεν	ἐπλήθυνεν	image (3x): no period after the word
+ezek	oldtestgreek00unknuoft	444	19	ϑκαὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	19	σκύμνων +3	σκύμνων +3	σκύμνων	σκύμνων	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	21	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	22	4 +ἐλήμφθη,	4 +ἐλήμφθη,	ελήμφθη,	ελήμφθη,	image (3x): ελήμφθη continues συν- from the line above, no breathing printed
+ezek	oldtestgreek00unknuoft	444	22	ἐν.	ἐν	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	444	22	Αἰγύπτου:	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	image (3x): Αἰ smooth on iota; period
+ezek	oldtestgreek00unknuoft	444	22	"καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	22	ἴδεν +ς	ἴδεν +ς	ἴδεν	ἴδεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	23	αὐτῆς"	αὐτῆς"	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	24	σκύμνων.	σκύμνων	σκύμνων	σκύμνων	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	444	24	“καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	24	ἀνεστρέ- +6	ἄἀνεστρέ- +6	ἀνεστρέ-	ἀνεστρέ-	image (3x): ἀνεστρέ- smooth + no accent on α; margin 6 not text
+ezek	oldtestgreek00unknuoft	444	26	γματα,	τα,	γματα,	γματα,	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	444	26	ἔφαγεν":	ἔφαγεν:	ἔφαγεν·	ἔφαγεν·	image (3x): ano teleia
+ezek	oldtestgreek00unknuoft	444	26	Τκαὶ	Τκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	444	26	θράσει	θρά	θράσει	θράσει	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	444	26	αὐτοῦ	ὑτοῦ	αὐτοῦ	αὐτοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	444	26	τὰς +7	τὰ +7	τὰς	τὰς	image (3x): τὰς; margin 7 not text
+ezek	oldtestgreek00unknuoft	444	27	γῆν.	γῆν	γῆν	γῆν	class R6 (OCR letters differ): the other OCR reading agrees with c

@@ -1,0 +1,30 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	321	1	αὐτοῦ.	αὐτοῦ. +5.	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	321	1	* +Sia	διὰ	διὰ	διὰ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	321	1	βομβή- +B	βομβή-	βομβή-	βομβή-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	321	2	ὥσπερ:	ὥσπερ:	ὥσπερ	ὥσπερ	image (3x): no point after the word
+jer	oldtestgreek00unknuoft	321	2	βομβήσει:	βομβήσει:	βομβήσει·	βομβήσει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	321	3	*macav	πᾶσαν	πᾶσαν	πᾶσαν	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	321	4	Any	λὴν	λὴν	λὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	321	4	τόπῳ	τόπῳ.	τόπῳ	τόπῳ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	321	5	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	321	5	*Kai	““καὶ	καὶ	καὶ	image (3x): superscript verse number fused by OCR; word as transcribed
+jer	oldtestgreek00unknuoft	321	6	Μωὰβ.	Μωὰβ.	Μωὰβ	Μωὰβ	image (3x): no point after the word
+jer	oldtestgreek00unknuoft	321	7	φησὶν	φησὶν	φησὶν	φησὶν	image (3x): grave before capitalized word, as printed
+jer	oldtestgreek00unknuoft	321	7	2s	39πῶς	πῶς	πῶς	image (3x): superscript verse number fused by OCR; word as transcribed
+jer	oldtestgreek00unknuoft	321	8	ἠσχύνθη,	ἠσχύνθη,	ᾐσχύνθη,	ᾐσχύνθη,	image (3x): smooth breathing, iota subscript under η
+jer	oldtestgreek00unknuoft	321	9	“drt	““ὅτι	ὅτι	ὅτι	image (3x): superscript verse number fused by OCR; word as transcribed
+jer	oldtestgreek00unknuoft	321	10	*EAnupéy	Ἐλήμῴθη.	Ἐλήμφθη	Ἐλήμφθη	image (3x): smooth breathing on the capital; Ἰσραήλ has acute before capitalized Λάβε
+jer	oldtestgreek00unknuoft	321	10	ἈἈκκαρών,	Ἀκκαρών,	Ἀκκαρών,	Ἀκκαρών,	image (3x): smooth breathing on the capital; Ἰσραήλ has acute before capitalized Λάβε
+jer	oldtestgreek00unknuoft	321	10	“Kai	“καὶ	καὶ	καὶ	image (3x): superscript verse number fused by OCR; word as transcribed
+jer	oldtestgreek00unknuoft	321	11	“3παγὶς	“3παγὶς	παγὶς	παγὶς	image (3x): superscript verse number fused by OCR; word as transcribed
+jer	oldtestgreek00unknuoft	321	12	“ὁ	““ὁ	ὁ	ὁ	image (3x): superscript verse number fused by OCR; word as transcribed
+jer	oldtestgreek00unknuoft	321	13	ἀρηδδατου	πρυσώπου	προσώπου	προσώπου	image (3x): clear print, OCR garbled (π, ο, λ); word as transcribed
+jer	oldtestgreek00unknuoft	321	13	πάν:	βύθυνοιν	βόθυνον·	βόθυνον·	image (3x): clear print, OCR garbled (π, ο, λ); word as transcribed
+jer	oldtestgreek00unknuoft	321	14	mon +pip igor	συλχημιφθήσεταιέ	συλλημφθήσεται	συλλημφθήσεται	image (3x): clear print, OCR garbled (π, ο, λ); word as transcribed
+jer	oldtestgreek00unknuoft	321	14	παγίδι:	παγίδι:	παγίδι·	παγίδι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	321	15	αὐτῶν.	αὐτῶν. +-	αὐτῶν.	αὐτῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	321	16	x +‘OUrws	Οὕτως	Οὕτως	Οὕτως	image (3x): rough+acute on Ο of Οὕτως (the margin (15) 1 lies inside the box: OCR junk)
+jer	oldtestgreek00unknuoft	321	16	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	321	16	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave before capitalized word, as printed
+jer	oldtestgreek00unknuoft	321	16	Ἰσραήλ	Ἰσραήλ	Ἰσραὴλ	Ἰσραήλ	image (3x): smooth breathing on the capital; Ἰσραήλ has acute before capitalized Λάβε

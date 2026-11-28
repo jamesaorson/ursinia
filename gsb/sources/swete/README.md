@@ -311,6 +311,28 @@ leaf numbers here; the images and OCR layers stay out of the repo
   3:7; his IV 1-6 = `(III 19)`-`(24)`, printed in the order 19, 20, 21, 23,
   24, 22 (the Greek puts English 4:4 after 4:5-6), so the table runs 4:1-3,
   4:5, 4:6, 4:4.
+- **Isaiah** (leaves v3 125-246) is set as prose throughout, the songs and
+  Hezekiah's prayer (38:10-20) included: `{P}` at indented lines (a chapter
+  opening mid-line or flush gets none; the centered second line of a heading
+  gets none), no `{S}`. The oracle headings on a centered line of their own
+  (`Τὸ ῥῆμα τὸ κατὰ τῆς Μωαβείτιδος.` 15:1, `Ὅρασις Αἰγύπτου.` 19:1,
+  `Τὸ ὅραμα τῆς ἐρήμου` 21:1, `Τὸ ὅραμα τῆς Ἰδουμαίας` 21:11, 17:1, 22:1,
+  23:1, 30:6) have the Roman numeral beside them but Swete's superscript on
+  the next line: the markers are put at the start of the heading line, so the
+  heading belongs to the verse it introduces as in the common numbering
+  (`{P}{C19}{1}Ὅρασις Αἰγύπτου.`), with a `#` comment saying where the
+  superscript stands and a flag row;
+  13:1 and 38:9 have the superscript on the heading line itself. Swete lacks
+  2:22, 38:15 (`{16!}`) and 56:12. Parenthesized numbers (`{=c:v}`, with a
+  `# margin:` / `# in-text:` comment): in-text `(27)` before Σειών at 1:27;
+  his IX 1 = `1 (23) IX`, IX 2-21 = `(1)`-`(20)` (Hebrew; his own numbers are
+  the English); in-text `(29)` at 10:29, so the words after his superscript
+  29 run on with 10:28; in-text `(16)` at 24:16 (his 16 begins with the end
+  of 24:15); his LXIV 2-12 = `(1)`-`(11)` (Hebrew). His LXIV 1, printed with
+  no parenthesis, is the second half of Hebrew 63:19 (English 64:1): it
+  carries our own `{=63:20}` (Hebrew has no 63:20), which `versification.tsv`
+  maps to English 64:1, so the table has English 63 with 19 verses and 64
+  with 12.
 - **Jeremiah** (leaves v3 247-373; leaf 374, p. 350, is Swete's table
   *Collatio capitum Ieremiae*, not transcribed) is set as prose (`{P}` at
   indented paragraph starts; `{S}` only where lines are set as verse). The

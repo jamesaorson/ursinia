@@ -1,0 +1,27 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+lam	oldtestgreek00unknuoft	390	4	Τ᾽	Τ᾽	Ζάιν.	Ζάιν.	image (6x): centered letter heading on its own line, read from rectangle zoom
+lam	oldtestgreek00unknuoft	390	5	Απώσατο	Απώσατο	Ἀπώσατο	Ἀπώσατο	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	390	6	αὐτοῦ, +᾿	αὐτοῦ, +᾿	αὐτοῦ,	αὐτοῦ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lam	oldtestgreek00unknuoft	390	7	αὐτῆς"	αὐτῆς"	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	390	8	ἐν.	ἐν.	ἐν	ἐν	image (3x): speck off the baseline weight, not a period
+lam	oldtestgreek00unknuoft	390	9	δ	8	Ἦθ.	Ἤθ.	image (6x): centered heading; mark before H is apostrophe then rising stroke (smooth + acute), Ἤθ
+lam	oldtestgreek00unknuoft	390	10	ἐπέστρεψεν.	ἐπέστρεψεν.	ἐπέστρεψεν	ἐπέστρεψεν	image (3x): speck off the baseline weight, not a period
+lam	oldtestgreek00unknuoft	390	10	θυγατρὸς	θυγατρὸς	θυγατρὸς	θυγατρὸς	image (3x): grave on θυγατρὸς before the name Σειών (not a quotation)
+lam	oldtestgreek00unknuoft	390	10	Σειών"	Σειών"	Σειών·	Σειών·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	390	13	ἦσθέ-	ἢσθέ-	ἠσθέ-	ἠσθέ-	image (3x): smooth breathing only, no accent on η
+lam	oldtestgreek00unknuoft	390	15	*Everdynoay	θ᾽	Τήθ.	Τήθ.	image (6x): centered letter heading on its own line, read from rectangle zoom
+lam	oldtestgreek00unknuoft	390	16	∅	Ἐνεπάγησαν	Ἐνεπάγησαν	Ἐνεπάγησαν	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	390	16	αὐτῆς"	αὐτῆς"	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	390	18	ἔθνεσιν"	ἔθνεσιν"	ἔθνεσιν·	ἔθνεσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	390	19	καί	καί	καί	καί	image (3x): acute before enclitic
+lam	oldtestgreek00unknuoft	390	21	ἘΠ	᾿ξ	Ἰώδ.	Ἰώδ.	image (6x): centered heading; smooth breathing (apostrophe) on Ι, acute on ω, final δ
+lam	oldtestgreek00unknuoft	390	22	κάθισαν	κάθισαν	Ἐκάθισαν	Ἐκάθισαν	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	390	22	θυγατρὸς	θυγατρὸς	θυγατρὸς	θυγατρὸς	image (3x): grave on θυγατρὸς before the name Σειών (not a quotation)
+lam	oldtestgreek00unknuoft	390	24	σάκκους,	σάκκους, +᾿	σάκκους,	σάκκους,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lam	oldtestgreek00unknuoft	390	25	παρθένους	“παρθένους	παρθένους	παρθένους	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	390	25	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	390	26	τ	τ	Χάφ.	Χάφ.	image (6x): centered letter heading on its own line, read from rectangle zoom
+lam	oldtestgreek00unknuoft	390	27	ξέλειπον	ξέλειπον	Ἐξέλειπον	Ἐξέλειπον	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	390	27	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	390	27	ὀφθαλμοί	ὀφθαλμοί	ὀφθαλμοί	ὀφθαλμοί	image (3x): acute before enclitic
+lam	oldtestgreek00unknuoft	390	28	∅	∅	μου,	μου,	image (strip 5): μου, printed as the turned-over end of the line

@@ -1,0 +1,44 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	300	1	ΤῸ	ΤῸ	Ὁ	Ὁ	image (3x): rough breathing on Ο, no accent (article)
+jer	oldtestgreek00unknuoft	300	1	Ἱερεμίαν	Ἱερεμίαν	Ἰερεμίαν	Ἰερεμίαν	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	300	1	λαὸν	λαὸν	λαὸν	λαὸν	image (3x): grave before a capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	300	1	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	300	1	τῷ	τῷ +τ	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	300	2	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	300	2	Ἰωσεία	Ἰωσεία	Ἰωσεία	Ἰωσεία	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	300	2	Ἰούδα,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	300	2	“ὃν +2	“ὃν +2	ὃν	ὃν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	300	3	λαὸν	λαὸν	λαὸν	λαὸν	image (3x): grave before a capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	300	3	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	300	4	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	300	5	Ey	3Ἐν	Ἐν	Ἐν	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	300	5	Ἰωσία	Ἰωσία	Ἰωσία	Ἰωσία	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	300	5	Ἀμὼς	Ἀμὼς	Ἀμὼς	Ἀμὼς	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	300	5	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	300	5	καὶ +3	καὶ +3	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	300	6	ταὕτης	ταύτης	ταύτης	ταύτης	image (3x): acute on υ, ταύτης
+jer	oldtestgreek00unknuoft	300	6	“ἔτη,	“ἔτη,	ἔτη,	ἔτη,	image (3x): § printed in the text before ἔτη (kept); ἔτη smooth + acute
+jer	oldtestgreek00unknuoft	300	7	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	300	7	μου +4	μου +4	μου	μου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	300	9	"λέγων	"λέγων	λέγων	λέγων	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	300	9	Ἀποστράφητε	Ἀποστράφητε	Ἀποστράφητε	Ἀποστράφητε	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	300	9	τῆς +5	τῆς +5	τῆς	τῆς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	300	12	“μὴ	“μὴ	μὴ	μὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	300	12	ἀλλοτρίων +6	ἀλλοτρίων +6	ἀλλοτρίων	ἀλλοτρίων	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	300	14	ζητέ	ζητέ	ζητέ	ζητέ	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	300	14	1καὶ +7	1καὶ +7	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	300	15	ἠκούσατέ	ἠκούσατέ	ἠκούσατέ	ἠκούσατέ	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	300	15	pov.	μου.	μου.	μου.	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	300	15	“dia	διὰ	διὰ	διὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	300	15	Ἐπειδὴ	Ἐπειδὴ	Ἐπειδὴ	Ἐπειδὴ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	300	15	ἐπι- +8	ἐπι- +8	ἐπι-	ἐπι-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	300	16	“ἰδοὺ	“ἰδοὺ	ἰδοὺ	ἰδοὺ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	300	16	πα- +9	πα- +9	πα-	πα-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	300	19	αὐτοὺς.	αὐτοὺς.	αὐτοὺς	αὐτοὺς	image (3x): small speck after αὐτοὺς, lighter and smaller than a period; the grave on αὐτοὺς confirms no point follows
+jer	oldtestgreek00unknuoft	300	20	“xai	᾿“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	300	20	ἀπ᾽	ἀπ᾽ +20	ἀπ᾽	ἀπ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	300	20	χαρᾶς +10	χαρᾶς +το	χαρᾶς	χαρᾶς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	300	22	“kal	"“᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	300	22	καὶ +τι	καὶ +τι	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	300	23	Ἷ +"καὶ	Ἷ +"καὶ	καὶ	καὶ	image (3x): ¶ printed in the text after ἔτη, (kept on that word); καὶ after superscript 12
+jer	oldtestgreek00unknuoft	300	23	πληρω- +τ2	πληρω- +τ.	πληρω-	πληρω-	class R3: OCR appended accent-row or margin junk; c read from the image strip

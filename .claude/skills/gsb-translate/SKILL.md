@@ -147,7 +147,12 @@ entry: `(lemma "λέξις" (sense <name> [fields] (gloss "base" "other forms"..
   `(verb "bear" "bore" "borne")` for irregular verbs not in the built-in
   list, `(plural "oxen")`, `(voice active)` (a passive used as intransitive),
   `(genitive "")`/`(dative "")` for a verb's object, `(person)` for nouns
-  naming persons (son, servant, king...), `(with-preposition "εἰς" for)`.
+  naming persons (son, servant, king...), `(with-preposition "εἰς" for)`,
+  `(intransitive)` for verbs that take no object (motion verbs: a neuter
+  plural after them is their subject), `(voice middle)` for a middle whose
+  aorist/future passive is a true passive, `(apposition)` for a singular
+  title noun followed by a name in apposition (ἡγεμὼν Θαιμάν "chief Teman"),
+  `(dative "to")` for a verb that takes a recipient (ὁράω appear).
   Never add `(subject ...)` except for a true impersonal, with a comment.
 - The `why`: what the word means, why this English, where else it occurs
   (New Testament links are welcome), and "(LXX, supplied.)" for a lemma the
@@ -207,7 +212,19 @@ first place that applies, then regenerate:
    ...)` word override), else pin the verse; say in the `why` which rule
    fault it works around. Never leave a false verse for a later pass.
    `check` warns `subject-unsure` where the rules kept the Greek order
-   because they could not tell the subject: read each such verse.
+   because they could not tell the subject: read each such verse. Also
+   read every verse with one of these warnings (README "Checks"):
+   - `person-unsure`: ἔλαβον, ἴδον, ἦλθον ... (first singular or third plural)
+     with no cue in its sentence. Speech that began in an earlier verse is
+     invisible to the rule: if the speaker says "I", fix it with
+     `(tag "V-2AAI-1S")` (or the form's own tag), else `(tag "...-3P")`.
+   - `inf-subject-by-rule`: the one pronoun after a transitive articular
+     infinitive taken as its subject ("in her bearing"); if it is the object,
+     pin or override.
+   - `kyrios-capital-at-start`: Κύριε/Κύριος with a capital at a speech or
+     sentence start stays "Lord"; if the context shows a man is meant, add
+     `(english "lord")`. Lower-case κύριος is "lord" by rule (Swete's capitals,
+     README "κύριος"): never add an override for that.
 
 Never edit `gsb/literal/NN-<id>/*.scm` (generated), the hand files in
 `gsb/translation/`, or the library.
@@ -241,6 +258,12 @@ where it writes "his/its"; "and said" with no pronoun after καί is right.
 - Your book's `forms/NN-<id>.tsv` and `overrides/NN-<id>.scm`: append at the
   end; other agents on other chapters of the same book append too, so keep
   each addition a block of whole lines and do not reorder existing lines.
+  One form per line; two overrides of one word, or two pins of one verse,
+  are a load error: merge their items into one form. Word overrides on a
+  pinned verse do nothing (the pin is copied as written).
+- Lettered chapters (Esther's additions A-F): give the letter as the
+  chapter, `./scripts/gsb-literal.sh generate esth A`; the file is
+  `gsb/literal/17-esth/A.scm`.
 - Concordance letter files: insert new entries at their alphabetical place;
   never reformat, move or rewrite other entries; change an existing entry
   only by adding a sense after its senses or a gloss form/field, never by

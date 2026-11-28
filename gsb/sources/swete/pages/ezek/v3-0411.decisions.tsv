@@ -1,0 +1,49 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	411	2	Kal	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	411	2	αὐτῶν	αὐτών	αὐτῶν	αὐτῶν	image (3x): circumflex on ω; ano teleia
+ezek	oldtestgreek00unknuoft	411	3	πολλοῦ:	πολλοῦ:	πολλοῦ·	πολλοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	411	3	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	411	4	ai	αἷ	αἱ	αἱ	image (3x): rough breathing + grave
+ezek	oldtestgreek00unknuoft	411	4	kal	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	411	5	αὐτών:	αὐτών":	αὐτῶν·	αὐτῶν·	image (3x): circumflex on ω; ano teleia
+ezek	oldtestgreek00unknuoft	411	5	“ὡς	“ὡς	ὡς	ὡς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	411	7	“7καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	411	9	δρώκιν.	ὅρασιν	ὅρασιν	ὅρασιν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	411	9	πήρϑ	πυρός,	πυρός,	πυρός,	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	411	9	μα	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	411	9	ἰκαδιοὺ	τὸ	τὸ	τὸ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	411	9	ΦΕΥ͂	φέγγος	φέγγος	φέγγος	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	411	10	* +os	“δὡὼς	ὡς	ὡς	image (3x): word as written; OCR junk from superscript/parenthesis/speck
+ezek	oldtestgreek00unknuoft	411	10	ἦ	ἦ	ᾖ	ᾖ	image (3x): rough breathing + circumflex, iota subscript
+ezek	oldtestgreek00unknuoft	411	12	Ἀὕτη	Ἀὕτη	Αὔτη	Αὕτη	image (3x): no breathing on capital A; rough breathing + acute (open curl) on υ, same as ὅρασις
+ezek	oldtestgreek00unknuoft	411	12	Κυρίου:	Κυρίου:	Κυρίου·	Κυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	411	13	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): second acute before enclitic με/μου
+ezek	oldtestgreek00unknuoft	411	13	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	411	13	()καὶ	()καὶ	καὶ	καὶ	image (3x): word as written; OCR junk from superscript/parenthesis/speck
+ezek	oldtestgreek00unknuoft	411	14	μέ	μέ	μέ	μέ	image (3x): acute before capitalized word
+ezek	oldtestgreek00unknuoft	411	14	Υἱὲ	Υἱὲ	Υἱὲ	Υἱὲ	image (3x): rough breathing + grave on ι of Υἱὲ, no mark on Υ
+ezek	oldtestgreek00unknuoft	411	14	σέ:	σέ:	σέ·	σέ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	411	15	Ξκαὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	411	15	ἀνέλαβέν	ἀνέλαβέν	ἀνέλαβέν	ἀνέλαβέν	image (3x): second acute before enclitic με/μου
+ezek	oldtestgreek00unknuoft	411	15	ἐξῆρέν	ἐξῆρέν	ἐξῆρέν	ἐξῆρέν	image (3x): second acute before enclitic με/μου
+ezek	oldtestgreek00unknuoft	411	16	ἔστησέν	ἔστησέν	ἔστησέν	ἔστησέν	image (3x): second acute before enclitic με/μου
+ezek	oldtestgreek00unknuoft	411	17	Ξκαὶ	3 +Ξκαὶ	καὶ	καὶ	image (3x): word as written; OCR junk from superscript/parenthesis/speck
+ezek	oldtestgreek00unknuoft	411	17	μέ	μέ	μέ	μέ	image (3x): acute before capitalized word
+ezek	oldtestgreek00unknuoft	411	17	Yie	Ὑἱὲ	Υἱὲ	Υἱὲ	image (3x): rough breathing + grave on ι of Υἱὲ, no mark on Υ
+ezek	oldtestgreek00unknuoft	411	18	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe) before Ι
+ezek	oldtestgreek00unknuoft	411	18	παραπικραίνοντάς	παραπικραίνοντάς	παραπικραίνοντάς	παραπικραίνοντάς	image (3x): second acute before enclitic με/μου
+ezek	oldtestgreek00unknuoft	411	18	παρεπίκρανάν	παρεπίκρανάν	παρεπίκρανάν	παρεπίκρανάν	image (3x): second acute before enclitic με/μου
+ezek	oldtestgreek00unknuoft	411	19	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	411	20	αὐτούς	αὐτούς	αὐτούς	αὐτούς	image (3x): acute before capitalized word
+ezek	oldtestgreek00unknuoft	411	20	Ξἐὰν	ἐὰν	ἐὰν	ἐὰν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	411	20	πτοηθῶσιν,	πτοηθώῶσιν,	πτοηθῶσιν,	πτοηθῶσιν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	411	21	διότι.	διότι.	διότι	διότι	image (3x): word as written; OCR junk from superscript/parenthesis/speck
+ezek	oldtestgreek00unknuoft	411	22	μέσᾳ	μέσῳ	μέσῳ	μέσῳ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	411	22	v.	αὐτῶν.	αὐτῶν.	αὐτῶν.	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	411	22	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	411	23	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	411	24	κατοικεῖς:	κατοικεῖς:	κατοικεῖς·	κατοικεῖς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	411	25	dyous	όγους	λόγους	λόγους	image (3x): word as written; OCR junk from superscript/parenthesis/speck
+ezek	oldtestgreek00unknuoft	411	25	ἐκστῆῇς, +7	ἐκστῆῇς,	ἐκστῇς,	ἐκστῇς,	image (3x): circumflex and iota subscript on η
+ezek	oldtestgreek00unknuoft	411	26	διότι	7 +διότε	διότι	διότι	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	411	26	Τκαὶ	Τκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip

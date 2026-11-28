@@ -409,8 +409,8 @@
     ("concerning" 12)
     ("Rachel" 13)
     ("your" 16)
-    ("daughter" (14 absorbed) 15)
-    ("the younger." 17 18)))
+    ("younger" (14 absorbed) (17 attributive) 18)
+    ("daughter." 15)))
 
 (verse 19
   (status draft)

@@ -50,4 +50,4 @@ isa	oldtestgreek00unknuoft	240	22	“ἀπὸ	“ἀπὸ	ἀπὸ	ἀπὸ	imag
 isa	oldtestgreek00unknuoft	240	22	ὀφθαλ- +4 (3)	ὀφθαλ- +4, (5)	ὀφθαλ-	ὀφθαλ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
 isa	oldtestgreek00unknuoft	240	24	ὅσυναντήσεται	ὅσυναντήσεται	συναντήσεται	συναντήσεται	image (3x): superscript verse number before the word, not text
 isa	oldtestgreek00unknuoft	240	25	5 +(4) 'καιον,	5 +(,) 'καιον,	καιον,	καιον,	image (3x): καιον, — margin 5 (4) not text
-isa	oldtestgreek00unknuoft	240	17	-	-	ἐὰν	ἐὰν	numbering: margin prints 1 LXIV with no parenthesized number (next entries 2 (1), 3 (2), 4 (3), 5 (4)); Swete 64:1 run on with common 63:19 as {=63:19}
+isa	oldtestgreek00unknuoft	240	17	-	-	ἐὰν	ἐὰν	numbering: margin prints 1 LXIV with no parenthesized number (next entries 2 (1), 3 (2), 4 (3), 5 (4)); Swete 64:1 = second half of Hebrew 63:19 = English 64:1, encoded with our own {=63:20}, which versification.tsv maps to 64:1

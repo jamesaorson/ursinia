@@ -1,0 +1,38 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	298	1	λαόν	λαόν	λαόν	λαόν	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	298	1	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	298	1	ἐν	ἐν.	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	298	4	33καὶ	33καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	298	4	ἐρωτήσωσί	ἐρωτήσωσί	ἐρωτήσωσί	ἐρωτήσωσί	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	298	4	6	ὃ	ὁ	ὁ	image (3x): ὁ rough breathing, no accent
+jer	oldtestgreek00unknuoft	298	4	ἢ +33.	ἢ +33.	ἢ	ἢ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	298	5	Ὑμεῖς	Ὑμεῖς	Ὑμεῖς	Ὑμεῖς	image (3x): rough breathing on Υ
+jer	oldtestgreek00unknuoft	298	6	3:ὃ	3:ὁ	ὁ	ὁ	image (3x): ὁ rough breathing, no accent
+jer	oldtestgreek00unknuoft	298	7	34 +ot	34 +οἱ	οἳ	οἳ	image (3x): οἳ rough + grave
+jer	oldtestgreek00unknuoft	298	8	ϑϑοὕτως	ϑϑοὕτως	οὕτως	οὕτως	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	298	8	καὶ +35	καὶ +3-	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	298	10	*xat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	298	10	λῆμμα +36	λῆμμα +36	λῆμμα	λῆμμα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	298	11	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	298	11	αὐτοῦ.	αὐτοῦ. +57	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	298	11	57καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	298	11	6 +37	ὁ +37	ὁ	ὁ	image (3x): ὁ rough breathing, no accent
+jer	oldtestgreek00unknuoft	298	12	ἡμῶν; +35	ἡμῶν; +35)	ἡμῶν;	ἡμῶν;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	298	12	Ἀνθ᾽	Ἀνθ᾽	Ἀνθ᾽	Ἀνθ᾽	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	298	12	εἴπατε +38	εἴπατε +38	εἴπατε	εἴπατε	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	298	13	λέγων +|	λέγων +᾿	λέγων	λέγων	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	298	14	Οὐκ	Οὐκ	Οὐκ	Οὐκ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	298	14	ἐρεῖτε.	ἐρεῖτε.	ἐρεῖτε	ἐρεῖτε	image (3x): speck low between ἐρεῖτε and Λῆμμα, lighter than a period; no point
+jer	oldtestgreek00unknuoft	298	14	Κυρίου: +9	Κυρίου: +9	Κυρίου·	Κυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	298	14	ῥάσσω +39	ῥάσσω +30	ῥάσσω	ῥάσσω	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	298	15	ὑμῶν, +“	ὑμῶν,	ὑμῶν,	ὑμῶν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	298	15	καὶ +40	“καὶ +40	καὶ	καὶ	class R3+R1: OCR appended accent-row or margin junk; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	298	17	7514	Ἰδιὰ	διὰ	διὰ	image (3x): διὰ after superscript 7
+jer	oldtestgreek00unknuoft	298	17	καὶ +7	καὶ +7	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	298	18	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	298	19	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	image (3x): smooth breathing on ι of Αἰ
+jer	oldtestgreek00unknuoft	298	19	ἀλλά	"ἀλλά	ἀλλά	ἀλλά	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	298	19	Ἰσραὴλ +8	Ἰσραὴλ +8	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	298	22	τἘδειξέν	τ +Ἐδειξέν	Ἔδειξέν	Ἔδειξέν	image (3x): smooth + acute on capital (apostrophe then rising stroke); acute on ultima before enclitic μοι
+jer	oldtestgreek00unknuoft	298	22	σύκων;	σύκων;	σύκων,	σύκων,	image (3x): comma with faint speck above; read comma
+jer	oldtestgreek00unknuoft	298	22	-	-	σύκων,	σύκων,	ambiguous: comma with a faint speck above it, could look like ;; read comma

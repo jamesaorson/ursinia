@@ -1,0 +1,50 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	419	1	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	1	γῆς"	γῆς"	γῆς·	γῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	1	Ξἥκει	ϑἥκει	ἥκει	ἥκει	image (3x): word as in page file; OCR fused the superscript verse number or margin into it
+ezek	oldtestgreek00unknuoft	419	2	4 +“ἐπὶ	4 +“ἐπὶ	ἐπὶ	ἐπὶ	image (3x): word as in page file; OCR fused the superscript verse number or margin into it
+ezek	oldtestgreek00unknuoft	419	2	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	419	2	ἡμέρα, +5	ἡμέρα, +5	ἡμέρα,	ἡμέρα,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	3	Sviv	ϑνῦν	νῦν	νῦν	image (3x): word as in page file; OCR fused the superscript verse number or margin into it
+ezek	oldtestgreek00unknuoft	419	3	ὀργήν	ὀργήν	ὀργήν	ὀργήν	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	419	4	θυμόν	θυμόν	θυμόν	θυμόν	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	419	4	ἐν +6	ἐν +6	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	5	βδελύγματά	βδελύγματά	βδελύγματά	βδελύγματά	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	419	5	σου"	σου"	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	5	“οὐ	“οὐ	οὐ	οὐ	image (3x): word as in page file; OCR fused the superscript verse number or margin into it
+ezek	oldtestgreek00unknuoft	419	6	ὀφθαλμός	ὀφθαλμός	ὀφθαλμός	ὀφθαλμός	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	419	6	ἐλεήσω:	ἐλεήσω-	ἐλεήσω·	ἐλεήσω·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	6	ὁδούς	ὁδούς	ὁδούς	ὁδούς	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	419	7	βδελύγματά	βδελύγματά	βδελύγματά	βδελύγματά	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	419	7	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	7	ἐπι- +7	ἐπι- +γ	ἐπι-	ἐπι-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	8	ἐγώ	ἐγώ	ἐγώ	ἐγώ	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	419	9	cov,	“σου,	σου,	σου,	image (3x): word as in page file; OCR fused the superscript verse number or margin into it
+ezek	oldtestgreek00unknuoft	419	9	καὶ +8	καὶ +8	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	10	βδελύγματά	βδελύγματά	βδελύγματά	βδελύγματά	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	419	10	cov:	σου:	σου·	σου·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	11	μός	μός	μός	μός	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	419	11	ἐλεήσω"	ἐλεήσω"	ἐλεήσω·	ἐλεήσω·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	11	ὁδόν	ὁδόν	ὁδόν	ὁδόν	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	419	12	βδελύγματά	βδελύγματά	βδελύγματά	βδελύγματά	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	419	12	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	12	ἐγὼ +12	ἐγὼ +«2	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ at line end before Κύριος; OCR junk is the margin number
+ezek	oldtestgreek00unknuoft	419	13	Κύριος. +9	Κύριος. +9	Κύριος.	Κύριος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	13	Κύριος	Κύριος +""	Κύριος	Κύριος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	13	“Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on capital Ι
+ezek	oldtestgreek00unknuoft	419	14	Κυρίου:	Κυρίου:	Κυρίου·	Κυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	14	ἡ.	ἡ.	ἡ	ἡ	ambiguous: small light dot after ἡ, smaller than a period, read speck
+ezek	oldtestgreek00unknuoft	419	15	‘kal	᾿᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	15	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	16	"Ker	"ἥκει	ἥκει	ἥκει	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	16	ἡμέρα:	ἡμέρα:	ἡμέρα·	ἡμέρα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	16	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	419	17	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	17	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	419	17	θρηνείτω"	θρηνείτω"	θρηνείτω·	θρηνείτω·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	17	""διότι	"Ξδιότι	διότι	διότι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	17	Tov	τὸν.	τὸν	τὸν	image (3x): speck after τὸν, not a period
+ezek	oldtestgreek00unknuoft	419	20	56	“ὁ	ὁ	ὁ	image (3x): word as in page file; OCR fused the superscript verse number or margin into it
+ezek	oldtestgreek00unknuoft	419	20	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	419	20	ἔσωθεν-	ἔσωθεν"	ἔσωθεν·	ἔσωθεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	419	23	ὀρέων:	ὀρέων.	ὀρέων·	ὀρέων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

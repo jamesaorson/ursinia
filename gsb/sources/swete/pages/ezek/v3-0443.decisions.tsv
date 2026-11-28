@@ -1,0 +1,37 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	443	1	“xal	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	443	3	ιἄρτον	ιἄρτον	ἄρτον	ἄρτον	image (3x): ἄρτον; no letter before it
+ezek	oldtestgreek00unknuoft	443	5	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	443	5	προστάγμασίν	προστάγμασίν	προστάγμασίν	προστάγμασίν	image (3x): acute before enclitic μου; μου unaccented
+ezek	oldtestgreek00unknuoft	443	5	pov	μοὺ	μου	μου	image (3x): acute before enclitic μου; μου unaccented
+ezek	oldtestgreek00unknuoft	443	6	“ὁ	τ +"ὁ	ὁ	ὁ	image (3x): superscript 18 then ὁ
+ezek	oldtestgreek00unknuoft	443	9	Kal	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	443	9	rod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	443	10	νόμιμά	νόμιμά	νόμιμά	νόμιμά	image (3x): acute before enclitic μου; μου unaccented
+ezek	oldtestgreek00unknuoft	443	11	ρῆησεν	ρησεν	ρησεν	ρησεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	443	11	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	443	11	“ἡ	“ἡ	ἡ	ἡ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	443	12	ἀποθανεῖται:	ἀποθανεῖται:	ἀποθανεῖται·	ἀποθανεῖται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	443	12	vids	υἱὸς	υἱὸς	υἱὸς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	443	13	πατὴρ.	πατὴρ.	πατὴρ	πατὴρ	image (3x): no period after the word
+ezek	oldtestgreek00unknuoft	443	13	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	443	13	υἱοῦ"	υἱοῦ" +ὃ	υἱοῦ·	υἱοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	443	14	ἔσται;	ἔσται;	ἔσται,	ἔσται,	image (3x): comma, not question mark
+ezek	oldtestgreek00unknuoft	443	14	**Kal	“"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	443	15	ἐκ.	ἐκ.	ἐκ	ἐκ	image (3x): no period after the word
+ezek	oldtestgreek00unknuoft	443	16	ἐντολάς	ἐντολάς	ἐντολάς	ἐντολάς	image (3x): acute before enclitic μου; μου unaccented
+ezek	oldtestgreek00unknuoft	443	17	““πάντα	“πάντα	πάντα	πάντα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	443	18	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	443	18	μνησθήσεται:	μνησθήσεται:	μνησθήσεται·	μνησθήσεται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	443	18	7p	ἣ	ᾗ	ᾗ	image (3x): rough + circumflex with iota subscript: ᾗ
+ezek	oldtestgreek00unknuoft	443	19	3	ϑ3μὴ	μὴ	μὴ	image (3x): superscript verse number then the word
+ezek	oldtestgreek00unknuoft	443	20	ζἣν	ζῆν	ζῆν	ζῆν	image (3x): circumflex + iota subscript: ζῆν
+ezek	oldtestgreek00unknuoft	443	20	“ἐν	24 +““ἐν	ἐν	ἐν	image (3x): superscript verse number then the word
+ezek	oldtestgreek00unknuoft	443	22	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	443	22	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	443	22	ai	αἵ	αἱ	αἱ	image (3x): αἱ rough, no accent
+ezek	oldtestgreek00unknuoft	443	23	μνησθῶσιν"	μνησθῶσιν"	μνησθῶσιν·	μνησθῶσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	443	25	kat	“"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	443	25	Οὐ	Οὐ	Οὐ	Οὐ	image (3x): Οὐ smooth on υ
+ezek	oldtestgreek00unknuoft	443	25	ὁδὸς	ὁδὸς	ὁδὸς	ὁδὸς	image (3x): grave; next word is a name, not a quotation
+ezek	oldtestgreek00unknuoft	443	25	Κυρίου:	Κυρίου:	Κυρίου.	Κυρίου.	image (3x): period, not colon

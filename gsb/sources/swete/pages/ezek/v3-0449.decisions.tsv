@@ -1,0 +1,49 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	449	1	Κύριος. +39	Κύριος. +39	Κύριος.	Κύριος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	449	1	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on Ἰ
+ezek	oldtestgreek00unknuoft	449	2	Κύριος	Κύριος +σ	Κύριος	Κύριος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	449	2	Ἕκαστος	Ἕκαστος	Ἕκαστος	Ἕκαστος	image (3x): rough breathing + acute on Ἕ
+ezek	oldtestgreek00unknuoft	449	3	εἰσακούετέ	εἰσακούετέ	εἰσακούετέ	εἰσακούετέ	image (3x): extra acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	449	3	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): extra acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	449	5	“διότι	“διότι	διότι	διότι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	449	6	δουλεύσουσίν	δουλεύσουσίν	δουλεύσουσίν	δουλεύσουσίν	image (3x): extra acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	449	6	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on Ἰ
+ezek	oldtestgreek00unknuoft	449	9	“ἐν	“ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	449	11	λαῶν.	λαῶν. +““	λαῶν.	λαῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	449	11	“Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	449	12	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ before Κύριος
+ezek	oldtestgreek00unknuoft	449	12	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	449	12	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	449	13	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on Ἰ
+ezek	oldtestgreek00unknuoft	449	13	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	449	13	χεῖρά	χεῖρά	χεῖρά	χεῖρά	image (3x): extra acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	449	13	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	449	14	xa	“3Ξκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	449	15	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	449	16	“Kal	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	449	17	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ before Κύριος
+ezek	oldtestgreek00unknuoft	449	17	ποιῆσαί	ποιῆσαί	ποιῆσαί	ποιῆσαί	image (3x): extra acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	449	17	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	449	17	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): extra acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	449	17	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	449	18	ras	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	449	19	διφθαρμάκας	διεφθαρμένα;	διεφθαρμένα,	διεφθαρμένα,	image (3x): letters as in C; OCR junk from margin numbers (1) 45, (4) 48 and quote-like breathing
+ezek	oldtestgreek00unknuoft	449	20	ῳ +2 “Καὶ	()	Καὶ	Καὶ	image (3x): letters as in C; OCR junk from margin numbers (1) 45, (4) 48 and quote-like breathing
+ezek	oldtestgreek00unknuoft	449	20	ἐγένετο	ἩΣ	ἐγένετο	ἐγένετο	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	449	20	λόγος	“Καὶ	λόγος	λόγος	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	449	20	Κυρίου	ἐγέμεζο +Χόγον Κυῤίου	Κυρίου	Κυρίου	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	449	20	“Υἱὲ	“ὁγὶὲ	Υἱὲ	Υἱὲ	image (3x): Υἱὲ, rough breathing and acute on ι, grave on ε
+ezek	oldtestgreek00unknuoft	449	20	ἀνθρώπου,	ἀνθρώπϑα,	ἀνθρώπου,	ἀνθρώπου,	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	449	21	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	449	21	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): extra acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	449	21	ἐπίβλεψον	ἐπίβλεψον,	ἐπίβλεψον	ἐπίβλεψον	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	449	21	ἐπὶ	ἐπὶ +ἐ	ἐπὶ	ἐπὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	449	21	Δαγὼν +(3) 47	Δαγὼν +(3) 47	Δαγὼν	Δαγὼν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	449	22	Νάγεβ, +“	Νάγεβ, +“	Νάγεβ,	Νάγεβ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	449	23	NayeB”	Νάγεβ"	Νάγεβ	Νάγεβ	image (3x): letters as in C; OCR junk from margin numbers (1) 45, (4) 48 and quote-like breathing
+ezek	oldtestgreek00unknuoft	449	23	Axove	Ακουε	Ἄκουε	Ἄκουε	image (3x): smooth breathing + acute on Ἄ (apostrophe then rising stroke)
+ezek	oldtestgreek00unknuoft	449	23	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on Ἰ
+ezek	oldtestgreek00unknuoft	449	24	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	449	27	(4) +48 “καὶ	(0) +48 “καὶ	καὶ	καὶ	image (3x): letters as in C; OCR junk from margin numbers (1) 45, (4) 48 and quote-like breathing
+ezek	oldtestgreek00unknuoft	449	27	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ before Κύριος
+ezek	oldtestgreek00unknuoft	449	27	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip

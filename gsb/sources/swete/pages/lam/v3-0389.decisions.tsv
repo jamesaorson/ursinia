@@ -1,0 +1,41 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+lam	oldtestgreek00unknuoft	389	1	κατέρριψρεν	κατέρριψρεν	κατέρριψεν	κατέρριψεν	image (3x): word as written; OCR misread letters or accents
+lam	oldtestgreek00unknuoft	389	1	“ἐξ	“ἐξ	ἐξ	ἐξ	image (3x): speck or quote mark not printed; word as written
+lam	oldtestgreek00unknuoft	389	1	ovpavod	οὐράνοῦ	οὐρανοῦ	οὐρανοῦ	image (3x): word as written; OCR misread letters or accents
+lam	oldtestgreek00unknuoft	389	1	«is	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	389	1	Ἰσραήλ,	Ἰσραήλ, +Β	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe) as written
+lam	oldtestgreek00unknuoft	389	3	ΞἘν	2Ἐ	Βήθ.	Βήθ.	image (6x): centered letter heading / verse start as written; OCR merged them
+lam	oldtestgreek00unknuoft	389	4	∅	ν	Ἐν	Ἐν	image (3x): smooth breathing (apostrophe) as written
+lam	oldtestgreek00unknuoft	389	4	(κατεπόντισεν	Ὁ +(κατεπόντισεν	κατεπόντισεν	κατεπόντισεν	image (3x): in-text parenthesized (2) before κατεπόντισεν, encoded {=2:2} (proposed), not text
+lam	oldtestgreek00unknuoft	389	4	φεισάμενος"	φεισάμενος +:	φεισάμενος·	φεισάμενος·	image (3x): ano teleia
+lam	oldtestgreek00unknuoft	389	5	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing (apostrophe) as written
+lam	oldtestgreek00unknuoft	389	6	θυγατρὸς	θυγατρὸς	θυγατρὸς	θυγατρὸς	image (3x): grave before a name, not a quotation
+lam	oldtestgreek00unknuoft	389	6	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing (apostrophe) as written
+lam	oldtestgreek00unknuoft	389	9	ΞΣυνεκάλεσεν	ϑΞΣυνεκάλεσεν	Συνεκάλεσεν	Συνεκάλεσεν	image (6x): centered letter heading / verse start as written; OCR merged them
+lam	oldtestgreek00unknuoft	389	9	Ἰσραήλ,	Ἰσραήλ +ἢ	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe) as written
+lam	oldtestgreek00unknuoft	389	10	προσώπου.	προσώπου.	προσώπου	προσώπου	image (3x): speck or quote mark not printed; word as written
+lam	oldtestgreek00unknuoft	389	11	ἐν.	ἐν.	ἐν	ἐν	image (3x): speck or quote mark not printed; word as written
+lam	oldtestgreek00unknuoft	389	11	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing (apostrophe) as written
+lam	oldtestgreek00unknuoft	389	13	ἶ	Δάλεθ.	Δάλεθ.	Δάλεθ.	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	389	14	Δάλεθϑ,	Ἐνέτεινεν	Ἐνέτεινεν	Ἐνέτεινεν	image (3x): smooth breathing (apostrophe) as written
+lam	oldtestgreek00unknuoft	389	14	∅	τόξον	τόξον	τόξον	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	389	14	∅	αὐτου	αὐτοῦ	αὐτοῦ	image (3x): word as written; OCR misread letters or accents
+lam	oldtestgreek00unknuoft	389	14	∅	ὡς	ὡς	ὡς	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	389	14	∅	ἐχθρὸς	ἐχθρὸς	ἐχθρὸς	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	389	14	∅	πυπεναντίιος,	ὑπεναντίος,	ὑπεναντίος,	image (3x): word as written; OCR misread letters or accents
+lam	oldtestgreek00unknuoft	389	15	ἐστερέωσεν	εστερεῶσεν	ἐστερέωσεν	ἐστερέωσεν	image (3x): word as written; OCR misread letters or accents
+lam	oldtestgreek00unknuoft	389	15	ὑπεναντίος,	υπέεναντίιος,	ὑπεναντίος,	ὑπεναντίος,	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	389	16	ὀφθαλμῶν.	ὀφθαλμῶν.	ὀφθαλμῶν	ὀφθαλμῶν	image (3x): speck or quote mark not printed; word as written
+lam	oldtestgreek00unknuoft	389	16	pov.	μου.	μου	μου	image (3x): word as written; OCR misread letters or accents
+lam	oldtestgreek00unknuoft	389	17	θυγατρὸς	θυγατρὸς	θυγατρὸς	θυγατρὸς	image (3x): grave before a name, not a quotation
+lam	oldtestgreek00unknuoft	389	18	θυμὸν	θυμὸν.	θυμὸν	θυμὸν	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	389	19	5᾽	5᾽	Ἤ.	Ἥ.	image (10x): open c-curl then rising stroke = rough+acute, Ἥ (leaf 385 prints the same heading Ἤ, smooth)
+lam	oldtestgreek00unknuoft	389	20	Ἐγενήθη	Ἐγενήθη	Ἐγενήθη	Ἐγενήθη	image (3x): smooth breathing (apostrophe) as written
+lam	oldtestgreek00unknuoft	389	20	Ἰσραήλ"	Ἰσραήλ"	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing (apostrophe) as written
+lam	oldtestgreek00unknuoft	389	22	αὐτοῦ +:	αὐτοῦ	αὐτοῦ	αὐτοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lam	oldtestgreek00unknuoft	389	23	θυγατρὶ	θυγατρὶ	θυγατρὶ	θυγατρὶ	image (3x): grave before a name, not a quotation
+lam	oldtestgreek00unknuoft	389	23	"Ἰούδα	"Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing (apostrophe) as written
+lam	oldtestgreek00unknuoft	389	25	δ	ὁ	Οὐαύ.	Οὐαύ.	image (6x): centered heading Οὐαύ as written
+lam	oldtestgreek00unknuoft	389	27	αὐτοῦ"	αὐτοῦ"	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	389	8	-	-	Τίμελ.	Τίμελ.	image (16x): misprint Τίμελ for Γίμελ (crossbar runs both sides of the stem, unlike Γίμελ on leaf 384); kept as printed
+lam	oldtestgreek00unknuoft	389	19	-	-	Ἥ.	Ἥ.	image (10x): heading Ἥ prints rough+acute here; the same heading on leaf 385 prints smooth+acute Ἤ; each kept as printed

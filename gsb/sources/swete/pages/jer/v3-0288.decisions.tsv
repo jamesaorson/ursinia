@@ -1,26 +1,26 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 jer	oldtestgreek00unknuoft	288	1	“ἀνθ᾽	“ἀνθ᾽	ἀνθ᾽	ἀνθ᾽	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-jer	oldtestgreek00unknuoft	288	1	ἐγκατέλιπόν	ἐγκατέλιπόν	ἐγκατέλιπόν	ἐγκατέλιπόν	TODO zoom: accent before an enclitic
+jer	oldtestgreek00unknuoft	288	1	ἐγκατέλιπόν	ἐγκατέλιπόν	ἐγκατέλιπόν	ἐγκατέλιπόν	image (3x): acute on ό, μ unaccented enclitic
 jer	oldtestgreek00unknuoft	288	1	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
 jer	oldtestgreek00unknuoft	288	1	τόπον +4	τόπον +4	τόπον	τόπον	class R3: OCR appended accent-row or margin junk; c read from the image strip
 jer	oldtestgreek00unknuoft	288	2	ois	οἷς	οἷς	οἷς	class R5: Latin-letter substitution in OCR; c read from the image strip
-jer	oldtestgreek00unknuoft	288	2	ἤδεισαν	ἤδεισαν	ᾔδεισαν	ᾔδεισαν	TODO zoom: A DROP, B DROP
+jer	oldtestgreek00unknuoft	288	2	ἤδεισαν	ἤδεισαν	ᾔδεισαν	ᾔδεισαν	image (3x): iota subscript under ῄ, rough+acute
 jer	oldtestgreek00unknuoft	288	3	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
 jer	oldtestgreek00unknuoft	288	3	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-jer	oldtestgreek00unknuoft	288	3	βασιλεῖς.	βασιλεῖς.	βασιλεῖς	βασιλεῖς	TODO zoom: A OPEN, B OPEN
-jer	oldtestgreek00unknuoft	288	3	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+jer	oldtestgreek00unknuoft	288	3	βασιλεῖς.	βασιλεῖς.	βασιλεῖς	βασιλεῖς	image (3x): no point after βασιλεῖς, speck at most
+jer	oldtestgreek00unknuoft	288	3	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing
 jer	oldtestgreek00unknuoft	288	4	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-jer	oldtestgreek00unknuoft	288	4	ὠκοδόμησαν	ὠκοδόμησαν	ᾠκοδόμησαν	ᾠκοδόμησαν	TODO zoom: A DROP, B DROP
+jer	oldtestgreek00unknuoft	288	4	ὠκοδόμησαν	ὠκοδόμησαν	ᾠκοδόμησαν	ᾠκοδόμησαν	image (3x): iota subscript under ᾠ
 jer	oldtestgreek00unknuoft	288	4	κατα- +5	κατα- +5	κατα-	κατα-	class R3: OCR appended accent-row or margin junk; c read from the image strip
-jer	oldtestgreek00unknuoft	288	5	πυρί᾽	πυρί	πυρί·	πυρί·	TODO zoom: A R2, B OPEN
+jer	oldtestgreek00unknuoft	288	5	πυρί᾽	πυρί	πυρί·	πυρί·	image (3x): raised dot, ano teleia
 jer	oldtestgreek00unknuoft	288	6	“διὰ	“διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 jer	oldtestgreek00unknuoft	288	6	καὶ	καὶ +6	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
-jer	oldtestgreek00unknuoft	288	8	Evvop,	Ἐννόμ,	Ἑννόμ,	Ἑννόμ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A R5, B DIA
+jer	oldtestgreek00unknuoft	288	8	Evvop,	Ἐννόμ,	Ἑννόμ,	Ἑννόμ,	image (3x): rough breathing
 jer	oldtestgreek00unknuoft	288	8	Τκαὶ	ἸΤκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-jer	oldtestgreek00unknuoft	288	8	βουλὴν	βουλὴν +7	βουλὴν	βουλὴν	TODO zoom: acute or grave before a capitalized word
-jer	oldtestgreek00unknuoft	288	9	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-jer	oldtestgreek00unknuoft	288	9	βουλὴν	βουλὴν	βουλὴν	βουλὴν	TODO zoom: acute or grave before a capitalized word
-jer	oldtestgreek00unknuoft	288	9	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+jer	oldtestgreek00unknuoft	288	8	βουλὴν	βουλὴν +7	βουλὴν	βουλὴν	image (3x): grave; next word not a quotation
+jer	oldtestgreek00unknuoft	288	9	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	288	9	βουλὴν	βουλὴν	βουλὴν	βουλὴν	image (3x): grave; next word not a quotation
+jer	oldtestgreek00unknuoft	288	9	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing
 jer	oldtestgreek00unknuoft	288	11	Ψυχὰς	ψυχὰς	ψυχὰς	ψυχὰς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
 jer	oldtestgreek00unknuoft	288	12	τῆς	τῆς.	τῆς	τῆς	class R6 (OCR letters differ): the other OCR reading agrees with c
 jer	oldtestgreek00unknuoft	288	12	γῆς, +ὃ	γῆς,	γῆς,	γῆς,	class R3: OCR appended accent-row or margin junk; c read from the image strip
@@ -29,18 +29,19 @@ jer	oldtestgreek00unknuoft	288	13	πόλιν	πόλιν.	πόλιν	πόλιν	c
 jer	oldtestgreek00unknuoft	288	13	συριγμόν:	συριγμόν:	συριγμόν·	συριγμόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 jer	oldtestgreek00unknuoft	288	15	τὰς +9	τὰς +ο	τὰς	τὰς	class R3: OCR appended accent-row or margin junk; c read from the image strip
 jer	oldtestgreek00unknuoft	288	17	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
-jer	oldtestgreek00unknuoft	288	17	7	ἧ	ᾗ	ᾗ	TODO zoom: A OPEN, B DROP
+jer	oldtestgreek00unknuoft	288	17	7	ἧ	ᾗ	ᾗ	image (3x): ᾗ rough+circumflex with iota subscript
 jer	oldtestgreek00unknuoft	288	18	«al	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 jer	oldtestgreek00unknuoft	288	18	τῶν +10	τῶν +τὸ	τῶν	τῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
-jer	oldtestgreek00unknuoft	288	19	ἐκπορέυομένων	ἐκπορευομένων	ἐκπορευομένων	ἐκπορευομένων	TODO zoom: A DIA, B same
+jer	oldtestgreek00unknuoft	288	19	ἐκπορέυομένων	ἐκπορευομένων	ἐκπορευομένων	ἐκπορευομένων	ambiguous: faint mark over ε of πορε, lighter than the real acute on μέ; read speck
 jer	oldtestgreek00unknuoft	288	19	σοῦ,	σοῦ, +""	σοῦ,	σοῦ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
 jer	oldtestgreek00unknuoft	288	19	“Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 jer	oldtestgreek00unknuoft	288	19	Τάδε	Ταδε	Τάδε	Τάδε	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
 jer	oldtestgreek00unknuoft	288	19	Κύριος +τι	Κύριος +τι	Κύριος	Κύριος	class R3: OCR appended accent-row or margin junk; c read from the image strip
-jer	oldtestgreek00unknuoft	288	20	Οὕτως	Οὕτως	Οὕτως	Οὕτως	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+jer	oldtestgreek00unknuoft	288	20	Οὕτως	Οὕτως	Οὕτως	Οὕτως	image (3x): smooth+acute? no: rough breathing+acute on υ of Οὕτως, open curl
 jer	oldtestgreek00unknuoft	288	21	"ὅτι	"ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 jer	oldtestgreek00unknuoft	288	21	οὕτως +τ2	οὕτως +τὸ	οὕτως	οὕτως	class R3: OCR appended accent-row or margin junk; c read from the image strip
 jer	oldtestgreek00unknuoft	288	22	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 jer	oldtestgreek00unknuoft	288	23	τὴν	τὴν +ὃ	τὴν	τὴν	class R3: OCR appended accent-row or margin junk; c read from the image strip
 jer	oldtestgreek00unknuoft	288	23	διαπίπτουσαν. +"3	διαπίπτουσαν. +“3	διαπίπτουσαν.	διαπίπτουσαν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
 jer	oldtestgreek00unknuoft	288	23	οἶκοι +13	οἶκοι +13	οἶκοι	οἶκοι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	288	19	-	-	ἐκπορευομένων	ἐκπορευομένων	ambiguous: faint acute-like mark over ε of -πορε-, lighter than the accent on -μέ-; read as speck

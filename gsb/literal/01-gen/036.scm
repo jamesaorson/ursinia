@@ -76,7 +76,7 @@
     ("[are]")
     ("sons" 13)
     ("of Esau," 14)
-    ("which" 15)
+    ("who" 15)
     ("came to be" 16)
     ("to him" 17)
     ("in" 18)

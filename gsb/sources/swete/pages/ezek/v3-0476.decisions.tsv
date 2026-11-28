@@ -1,0 +1,45 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	476	1	μετ᾽	μετ	μετ᾽	μετ᾽	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	476	1	αὐτοῦ	αὐτου	αὐτοῦ	αὐτοῦ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	476	1	ἅδου	ἅδου	ᾅδου	ᾅδου	image (3x): rough + acute with iota subscript
+ezek	oldtestgreek00unknuoft	476	1	ἐν	εν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	476	1	τοῖς	τοις	τοῖς	τοῖς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	476	1	ἀπὸ	απο	ἀπὸ	ἀπὸ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	476	1	μαχαίρας,	μάχαιρας,	μαχαίρας,	μαχαίρας,	image (3x): acute on αί
+ezek	oldtestgreek00unknuoft	476	1	καὶ	και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	476	3	δίνει	᾿δηρίνε	Τίνι	Τίνι	image (3x): Τίνι after superscript 18
+ezek	oldtestgreek00unknuoft	476	3	καὶ +τ8	καὶ +τ8	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	476	4	βάθος:	βάθος:	βάθος·	βάθος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	476	7	*Kat	Κ̓αὶ	Καὶ	Καὶ	image (3x): Καὶ after superscript 1, no breathing
+ezek	oldtestgreek00unknuoft	476	7	τοῦτ	τοῦτ	τοῦ	τοῦ	image (3x): τοῦ; the 1 is the margin verse number
+ezek	oldtestgreek00unknuoft	476	8	ἐγένετο	ἐγένετο.	ἐγένετο	ἐγένετο	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	476	8	“Υἱὲ	“Υἱὲ	Υἱὲ	Υἱὲ	image (3x): rough breathing on ι of Υἱὲ, Υ bare
+ezek	oldtestgreek00unknuoft	476	8	λάβε +2	λάβε +:	λάβε	λάβε	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	476	9	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing on ι of Αἰ
+ezek	oldtestgreek00unknuoft	476	11	ποσίν	ποσίν	ποσίν	ποσίν	image (3x): acute before enclitic
+ezek	oldtestgreek00unknuoft	476	12	ποταμούς	ποταμούς	ποταμούς	ποταμούς	image (3x): acute before enclitic
+ezek	oldtestgreek00unknuoft	476	12	ὅτάδε	ὅτάδε	τάδε	τάδε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	476	12	δίκτυα +3	δίκτυα +3	δίκτυα	δίκτυα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	476	13	TO	τῷ	τῷ	τῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	476	13	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	476	13	ἐπὶ +4	ἐπὶ +4	ἐπὶ	ἐπὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	476	14	γῆν:	γῆν:	γῆν·	γῆν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	476	14	πλησθήσεταί	πλησθήσεταί	πλησθήσεταί	πλησθήσεταί	image (3x): acute before enclitic
+ezek	oldtestgreek00unknuoft	476	15	γῆς" +"	γῆς" +"	γῆς·	γῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	476	15	τὰς +5	τὰς +5	τὰς	τὰς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	476	16	αἵματός	αἵματός	αἵματός	αἵματός	image (3x): acute before enclitic
+ezek	oldtestgreek00unknuoft	476	16	σου" +“ὃ	σου" +“	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	476	16	καὶ +6	καὶ +6	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	476	17	γῇ	γῆ	γῆ	γῆ	image (3x): circumflex, no iota subscript
+ezek	oldtestgreek00unknuoft	476	18	ὀρέων:	ὀρέων"	ὀρέων·	ὀρέων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	476	18	7καὶ	7καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	476	18	κατακαλύψω +7	κατακαλύψω +7	κατακαλύψω	κατακαλύψω	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	476	19	σβεσθῆναί	σβεσθῆναί	σβεσθῆναί	σβεσθῆναί	image (3x): acute before enclitic
+ezek	oldtestgreek00unknuoft	476	20	°wavra	ὃ	πάντα	πάντα	image (3x): πάντα τὰ; the 8 is the margin verse number
+ezek	oldtestgreek00unknuoft	476	20	τὰ +8	παντα +τα 8	τὰ	τὰ	image (3x): πάντα τὰ; the 8 is the margin verse number
+ezek	oldtestgreek00unknuoft	476	22	Κύριος.	Κύριος. +9	Κύριος.	Κύριος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	476	22	καρδίαν	καρδίαν +λ	καρδίαν	καρδίαν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	476	22	λαῶν +9	λαῶν +9	λαῶν	λαῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	476	23	γὴν	γῆν	γῆν	γῆν	image (3x): circumflex
+ezek	oldtestgreek00unknuoft	476	24	καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	476	24	βασιλεῖς +10	βασιλεῖς +το	βασιλεῖς	βασιλεῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip

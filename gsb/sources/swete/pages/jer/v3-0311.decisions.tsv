@@ -1,0 +1,49 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	311	1	αὐτῆς.	αὐτῆς. +5"	αὐτῆς.	αὐτῆς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	311	2	B +5" διώκων.	διώκων	διώκων	διώκων	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	311	4	αὐτοῦ, +3.	αὐτοῦ,	αὐτοῦ,	αὐτοῦ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	311	4	ἀπ᾽	3.ἀπ᾽	ἀπ᾽	ἀπ᾽	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	311	5	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	311	6	33διότε	33διότε	διότι	διότι	image (3x): διότι, ι not ε
+jer	oldtestgreek00unknuoft	311	7	Οἶκοι	Οἶκοι	Οἶκοι	Οἶκοι	image (3x): smooth breathing + circumflex, Οἶκοι
+jer	oldtestgreek00unknuoft	311	7	Gov	ἅλων	ἅλων	ἅλων	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	311	7	ἀλοηθήσονται-	ἀλοηθήσονται:	ἀλοηθήσονται·	ἀλοηθήσονται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	311	8	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	311	8	αὐτῆς. +3:	αὐτῆς. +3:	αὐτῆς.	αὐτῆς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	311	8	κατέφαγέν	κατέφαγέν	κατέφαγέν	κατέφαγέν	image (3x): acute before enclitic με/μου/σου as printed
+jer	oldtestgreek00unknuoft	311	8	ἐμερίσατό	ἐμερίσατό	ἐμερίσατό	ἐμερίσατό	image (3x): acute before enclitic με/μου/σου as printed
+jer	oldtestgreek00unknuoft	311	8	κατέλαβέν	κατέλαβέν	κατέλαβέν	κατέλαβέν	image (3x): acute before enclitic με/μου/σου as printed
+jer	oldtestgreek00unknuoft	311	9	λεπτόν,	λεπτόν,	λεπτόν,	λεπτόν,	image (3x): acute before comma, not an H3 case
+jer	oldtestgreek00unknuoft	311	9	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave before a capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	311	9	κατέπιέν	κατέπιέν	κατέπιέν	κατέπιέν	image (3x): acute before enclitic με/μου/σου as printed
+jer	oldtestgreek00unknuoft	311	10	pe,	με,	με,	με,	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	311	10	pov:	μου"	μου·	μου·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	311	11	᾿ἐξῶσάν	ἐξῶσάν	ἐξῶσάν	ἐξῶσάν	image (3x): acute before enclitic με/μου/σου as printed
+jer	oldtestgreek00unknuoft	311	12	αἷμά	αἷμά	αἷμά	αἷμά	image (3x): acute before enclitic με/μου/σου as printed
+jer	oldtestgreek00unknuoft	311	13	Ἱερουσαλήμ:	Ἱερουσαλήμ:	Ἰερουσαλήμ·	Ἰερουσαλήμ·	image (3x): smooth breathing (apostrophe shape), not rough
+jer	oldtestgreek00unknuoft	311	13	dia	3'.διὰ	διὰ	διὰ	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	311	13	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing (apostrophe shape), not rough
+jer	oldtestgreek00unknuoft	311	14	ἀντίδικόν	ἀντίδικόν	ἀντίδικόν	ἀντίδικόν	image (3x): acute before enclitic με/μου/σου as printed
+jer	oldtestgreek00unknuoft	311	14	ἐκδίκησίν	ἐκδίκησίν	ἐκδίκησίν	ἐκδίκησίν	image (3x): acute before enclitic με/μου/σου as printed
+jer	oldtestgreek00unknuoft	311	15	αὐτῆς" +37	αὐτῆς" +37	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	311	16	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	311	16	dru	35ὅτι	ὅτι	ὅτι	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	311	16	dua	ἅμα	ἅμα	ἅμα	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	311	17	39ἐν	39ἐν	ἐν	ἐν	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	311	19	∅	ὕπνον	ὕπνον	ὕπνον	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	311	19	∅	αἰώνιον	αἰώνιον	αἰώνιον	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	311	19	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	311	19	∅	οὐ	οὐ	οὐ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	311	19	∅	μὴ	μὴ	μὴ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	311	19	∅	ἐγερθῶσι,	ἐγερθῶσι,	ἐγερθῶσι,	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	311	19	∅	λέγει	λέγει	λέγει	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	311	19	∅	Κύριος.	Κύριος.	Κύριος.	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	311	19	∅	“καὶ	καὶ	καὶ	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	311	19	∅	καταβίβασον᾽	καταβίβασον	καταβίβασον	image (3x): καταβίβασον, no mark after it
+jer	oldtestgreek00unknuoft	311	20	αὐτοὺς	» +Α	αὐτοὺς	αὐτοὺς	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	311	20	per	μετ᾽	μετ᾽	μετ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	311	20	“πῶς	41τ +“πῶς	πῶς	πῶς	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	311	21	€OnpevOn	ἐθηρεύθη	ἐθηρεύθη	ἐθηρεύθη	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	311	22	“ἀνέβη	“ἀνέβη	ἀνέβη	ἀνέβη	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	311	23	∅	∅	ἐν	ἐν	image (3x): ἐν, first word of the line, beside margin 43
+jer	oldtestgreek00unknuoft	311	23	“3ἐγενήθησαν	“3ἐγενήθησαν	ἐγενήθησαν	ἐγενήθησαν	image (3x): verse superscript fused into the word, not text

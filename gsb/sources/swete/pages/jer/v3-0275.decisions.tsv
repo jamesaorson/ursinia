@@ -1,0 +1,61 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	275	1	περίξωμα	περίξωμα	περίζωμα	περίζωμα	image (3x): ζ, not ξ
+jer	oldtestgreek00unknuoft	275	1	ὀσφύν	ὀσφύν	ὀσφύν	ὀσφύν	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	275	1	τὸν +Β	τὸν +Β	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	275	2	Εὐφράτην,	Εὐφράτην,	Εὐφράτην,	Εὐφράτην,	image (3x): smooth breathing on υ of Εὐ
+jer	oldtestgreek00unknuoft	275	2	ἐκέϊ	ἐκέϊ	ἐκεῖ	ἐκεῖ	image (3x): circumflex on ει
+jer	oldtestgreek00unknuoft	275	2	τρυμαλιᾷ	'τρυμαλιᾷ	τρυμαλιᾷ	τρυμαλιᾷ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	275	3	Skal	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	275	3	Ἑὐφράτῃ,	Ἑὐφράτῃ,	Εὐφράτῃ,	Εὐφράτῃ,	image (3x): smooth breathing, iota subscript under η
+jer	oldtestgreek00unknuoft	275	3	ἐνετείλατό	ἐνετείλατό	ἐνετείλατό	ἐνετείλατό	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	275	4	Κύριος. +δ	Κύριος.	Κύριος.	Κύριος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	275	4	καὶ	6 +“καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	275	4	μεθ᾽	μεθ᾽ +»	μεθ᾽	μεθ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	275	4	μεθ᾽ +Huépas	ἡμέρας	ἡμέρας	ἡμέρας	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	275	5	μέ	μέ	μέ	μέ	image (3x): acute before capitalized word
+jer	oldtestgreek00unknuoft	275	5	Ἀνάστηθι	Ἀνάστηθι	Ἀνάστηθι	Ἀνάστηθι	image (3x): smooth breathing on Ἀ
+jer	oldtestgreek00unknuoft	275	5	Εὐφράτην,	Εὐφράτην,	Εὐφράτην,	Εὐφράτην,	image (3x): smooth breathing on υ of Εὐ
+jer	oldtestgreek00unknuoft	275	6	(apa	∅	ζωμα	ζωμα	class R5+R0: Latin-letter substitution in OCR; OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	275	6	Oo	ὃ	ὃ	ὃ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	275	6	ἐνετειλάμην.	ἐνετειλάμην.	ἐνετειλάμην	ἐνετειλάμην	image (3x): no point after the word (speck)
+jer	oldtestgreek00unknuoft	275	6	71καὶ.	7 +71καὶ	καὶ	καὶ	image (3x): superscript verse number then καὶ
+jer	oldtestgreek00unknuoft	275	7	Εὐφράτην	Εὐφράτην	Εὐφράτην	Εὐφράτην	image (3x): smooth breathing on υ of Εὐ
+jer	oldtestgreek00unknuoft	275	7	ὥρυξα,	ὥρυξα,	ὤρυξα,	ὤρυξα,	image (4x): smooth + acute (same mark as on ἔλαβον), ὤ
+jer	oldtestgreek00unknuoft	275	9	χρησθὴ	χρησθὴ	χρησθῇ	χρησθῇ	image (3x): circumflex with iota subscript
+jer	oldtestgreek00unknuoft	275	9	ὅκαὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	275	10	ϑούτω	ϑούτω	Οὕτω	Οὕτω	image (3x): rough breathing + acute, Οὕτω
+jer	oldtestgreek00unknuoft	275	10	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on Ἰ
+jer	oldtestgreek00unknuoft	275	10	Ἰερου-	Ἰερου-	Ἰερου-	Ἰερου-	image (3x): smooth breathing on Ἰ
+jer	oldtestgreek00unknuoft	275	11	“τὴν	“τὴν	τὴν	τὴν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	275	13	αὐτοῖς:	αὐτοῖς:	αὐτοῖς·	αὐτοῖς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	275	14	∅	τοῦτο,	τοῦτο,	τοῦτο,	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	275	14	∅	ὃ	ὃ	ὃ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	275	14	∅	οὐ	οὐ	οὐ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	275	14	∅	χρησθήσεται.	χρησθήσεται	χρησθήσεται	image (3x): χρησθήσεται, no point
+jer	oldtestgreek00unknuoft	275	14	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	275	14	∅	οὐθέν.	οὐθέν.	οὐθέν.	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	275	14	∅	χιι +"ὅτι	ὅτι	ὅτι	image (3x): ὅτι after superscript 11
+jer	oldtestgreek00unknuoft	275	14	∅	καθάπερ	καθάπερ	καθάπερ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	275	14	∅	κολλᾶται	κολλᾶται	κολλᾶται	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	275	14	∅	τὸ	τὸ	τὸ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	275	15	ἀνθρῴπου,	ἀνθρῴπου,	ἀνθρώπου,	ἀνθρώπου,	image (3x): acute on ω, no iota subscript
+jer	oldtestgreek00unknuoft	275	16	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	275	16	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on Ἰ
+jer	oldtestgreek00unknuoft	275	16	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	275	16	Ἰούδα,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing on Ἰ
+jer	oldtestgreek00unknuoft	275	16	por	μοι	μοι	μοι	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	275	17	εἰς.	εἰς.	εἰς	εἰς	image (3x): no point after the word (speck)
+jer	oldtestgreek00unknuoft	275	17	δόξαν-	δόξαν:	δόξαν·	δόξαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	275	17	εἰσήκουσάν	εἰσήκουσάν	εἰσήκουσάν	εἰσήκουσάν	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	275	18	“καὶ	τον +᾿“Ζκαὶ	καὶ	καὶ	image (3x): superscript verse number then καὶ
+jer	oldtestgreek00unknuoft	275	19	οἴνου:	οἴνου-	οἴνου·	οἴνου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	275	19	σέ	σέ	σέ	σέ	image (3x): acute before capitalized word
+jer	oldtestgreek00unknuoft	275	20	olvov,; +“3	οἴνου; +“3	οἴνου;	οἴνου;	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	275	20	αὐτούς	αὐτούς	αὐτούς	αὐτούς	image (3x): acute before capitalized word
+jer	oldtestgreek00unknuoft	275	21	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on Ἰ
+jer	oldtestgreek00unknuoft	275	22	καθημένους.	καθημένους.	καθημένους	καθημένους	image (3x): no point after the word (speck)
+jer	oldtestgreek00unknuoft	275	23	Ἰούδαν	Ἰούδαν	Ἰούδαν	Ἰούδαν	image (3x): smooth breathing on Ἰ
+jer	oldtestgreek00unknuoft	275	24	Ἰερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on Ἰ
+jer	oldtestgreek00unknuoft	275	24	μεθύσματι, +"	μεθύσματι, +"	μεθύσματι,	μεθύσματι,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	275	24	καὶ	καὶ +ὃ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	275	17	-	-	εἰς	εἰς	ambiguous: in "καὶ εἰς δόξαν" the ε is malformed (worn type); read εἰς

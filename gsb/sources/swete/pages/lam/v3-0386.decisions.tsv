@@ -1,0 +1,34 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+lam	oldtestgreek00unknuoft	386	1	"οἱ	"οἱ	οἱ	οἱ	image (3x): § printed in the text before οἱ (kept); OCR read it as a quote
+lam	oldtestgreek00unknuoft	386	1	αὐτήν:	αὐτήν:	αὐτήν·	αὐτήν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	386	1	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	386	2	αὐτῆς, +᾿ οἴ	αὐτῆς, +,	αὐτῆς,	αὐτῆς,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lam	oldtestgreek00unknuoft	386	3	καί	καί	καί	καί	image (3x): accent before enclitic as written
+lam	oldtestgreek00unknuoft	386	3	ye	γε	γε	γε	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	386	4	®Axabapoia	ΘἈκάθαρσία	Τήθ.	Τήθ.	image (6x): centered letter heading as written; OCR merged it with the next line
+lam	oldtestgreek00unknuoft	386	5	∅	∅	Ἀκαθαρσία	Ἀκαθαρσία	image (8x): breathing as written (smooth apostrophe / rough c-curl)
+lam	oldtestgreek00unknuoft	386	5	ἔσχατα +9	ἔσχατα +9	ἔσχατα	ἔσχατα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lam	oldtestgreek00unknuoft	386	6	αὐτῆς +,	αὐτῆς +,	αὐτῆς	αὐτῆς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lam	oldtestgreek00unknuoft	386	7	ὑπέρογκα"	ὑπέρογκα᾽	ὑπέρογκα·	ὑπέρογκα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	386	8	ταπείνωσίν	ταπείνωσίν	ταπείνωσίν	ταπείνωσίν	image (3x): accent before enclitic as written
+lam	oldtestgreek00unknuoft	386	9	ῬΧεῖρα	ῬΧεῖρα	Ἰώθ.	Ἰώθ.	image (8x): smooth breathing (apostrophe) on Ἰώθ, centered letter heading
+lam	oldtestgreek00unknuoft	386	10	∅	∅	Χεῖρα	Χεῖρα	image (3x): word as written; OCR fused the verse number
+lam	oldtestgreek00unknuoft	386	10	αὐτῆς, +τὸ	αὐτῆς, +τὸ	αὐτῆς,	αὐτῆς,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lam	oldtestgreek00unknuoft	386	11	ἁγίασμὰ	ἁγίασμὰ	ἁγίασμα	ἁγίασμα	ambiguous: image (8x): a small light dot over final α, smaller and lighter than a grave; read no accent
+lam	oldtestgreek00unknuoft	386	12	cov.	σου.	σου.	σου.	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	386	13	6	∅	Χάφ.	Χάφ.	image (6x): centered letter heading as written; OCR merged it with the next line
+lam	oldtestgreek00unknuoft	386	14	∅	Πᾶς	Πᾶς	Πᾶς	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	386	14	∅	ὁ	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	386	14	ἄρτον, +11	ἄρτον, +τι	ἄρτον,	ἄρτον,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lam	oldtestgreek00unknuoft	386	17	7 +We,	ἴδε,	ἴδε,	ἴδε,	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	386	18	∅	Λάμεδ.	Λάμεδ.	Λάμεδ.	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	386	19	Οἱ	Οἱ	Οἱ	Οἱ	image (8x): breathing as written (smooth apostrophe / rough c-curl)
+lam	oldtestgreek00unknuoft	386	19	ὁδόν, +12	ὁδόν, +τῷ	ὁδόν,	ὁδόν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lam	oldtestgreek00unknuoft	386	20	ἄλγος	ἄλγος.	ἄλγος	ἄλγος	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	386	21	ἐγενήθη:	ἐγενήθη"	ἐγενήθη·	ἐγενήθη·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	386	22	ἐταπείνωσέν	ἐταπείνωσέν	ἐταπείνωσέν	ἐταπείνωσέν	image (3x): accent before enclitic as written
+lam	oldtestgreek00unknuoft	386	24	∅	ῈΕΞ	Μήμ.	Μήμ.	image (6x): centered letter heading as written; OCR merged it with the next line
+lam	oldtestgreek00unknuoft	386	25	∅	∅	Ἐξ	Ἐξ	image (8x): breathing as written (smooth apostrophe / rough c-curl)
+lam	oldtestgreek00unknuoft	386	25	κατήγα- +13	κατήγα- +13	κατήγα-	κατήγα-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lam	oldtestgreek00unknuoft	386	26	αὐτό:	αὐτό:	αὐτό·	αὐτό·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	386	11	-	-	ἁγίασμα	ἁγίασμα	ambiguous: small light dot over final α (8x), not the weight of a grave; read as speck, no accent

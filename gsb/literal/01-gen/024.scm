@@ -545,12 +545,11 @@
     ("Declare" 9)
     ("to me;" 10)
     ("if" 11)
-    ("[there]")
+    ("place" 17)
     ("is" 12)
     ("beside" 13)
     ("your" 16)
     ("father" (14 absorbed) 15)
-    ("place" 17)
     ("to us" 18)
     ("to lodge?" 19)))
 

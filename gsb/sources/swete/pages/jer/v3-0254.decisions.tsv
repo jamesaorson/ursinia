@@ -1,0 +1,35 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	254	1	Καὶ	Καὶ	καὶ	καὶ	image (3x): lowercase καὶ after comma
+jer	oldtestgreek00unknuoft	254	1	ὑμῶν.	ὑμῶν:	ὑμῶν.	ὑμῶν.	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	254	2	ἐσόμεθά	ἐσόμεθά	ἐσόμεθά	ἐσόμεθά	image (3x): acute before enclitic σοι
+jer	oldtestgreek00unknuoft	254	2	σὺ	σὺ	σὺ	σὺ	image (3x): grave on σὺ before Κύριος (name, not quotation)
+jer	oldtestgreek00unknuoft	254	2	εἶ,	εἶ,	εἶ.	εἶ.	image (3x): period after εἶ
+jer	oldtestgreek00unknuoft	254	2	Bbvras	“Ξὄντως	ὄντως	ὄντως	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	254	2	ψεῦδος +23	ψεῦδος +93	ψεῦδος	ψεῦδος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	254	4	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on capital Ι
+jer	oldtestgreek00unknuoft	254	4	47	“ἡ	ἡ	ἡ	image (3x): article ἡ, rough breathing, no accent
+jer	oldtestgreek00unknuoft	254	4	τοὺς +24	τοὺς +94	τοὺς	τοὺς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	254	5	τῶν	τῶν.	τῶν	τῶν	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	254	7	“ϑέκοιμήθημεν	“ϑέκοιμήθημεν	ἐκοιμήθημεν	ἐκοιμήθημεν	image (3x): ἐκοιμήθημεν, smooth breathing
+jer	oldtestgreek00unknuoft	254	7	ἡ +25	ἡ +5	ἡ	ἡ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	254	11	“Edy	"Ἐὰν	Ἐὰν	Ἐὰν	image (3x): smooth breathing + grave on Ἐὰν
+jer	oldtestgreek00unknuoft	254	11	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on capital Ι
+jer	oldtestgreek00unknuoft	254	11	ἐπιστραφήσεται" +τ	ἐπιστραφήσεται" +τ	ἐπιστραφήσεται·	ἐπιστραφήσεται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	254	13	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	254	13	κρίσει +2	κρίσει +2	κρίσει	κρίσει	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	254	14	αἱ-	αἰ-	αἰ-	αἰ-	image (3x): smooth breathing on αἰ-
+jer	oldtestgreek00unknuoft	254	15	Ἰερουσαλήμ.	Ἱερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing on capital Ι
+jer	oldtestgreek00unknuoft	254	15	53ὅτι	53ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	254	15	τοῖς +3	τοῖς +3	τοῖς	τοῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	254	16	Ἰ̓ούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on capital Ι
+jer	oldtestgreek00unknuoft	254	16	Ἰερουσαλήμ	Ἱερουσαλήμ	Ἰερουσαλήμ	Ἰερουσαλήμ	image (3x): smooth breathing on capital Ι
+jer	oldtestgreek00unknuoft	254	16	ἑαυτοῖς,	ἑαυτοῖς.	ἑαυτοῖς	ἑαυτοῖς	image (3x): no punctuation after ἑαυτοῖς; speck at margin
+jer	oldtestgreek00unknuoft	254	17	“περιτμήθητε	“περιτμήθητε	περιτμήθητε	περιτμήθητε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	254	17	ὑμῶν, +4	ὑμῶν, +4	ὑμῶν,	ὑμῶν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	254	18	ἄνδρες	ἄνδρες +ΕΣ	ἄνδρες	ἄνδρες	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	254	18	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on capital Ι
+jer	oldtestgreek00unknuoft	254	19	Ἱερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing on capital Ι
+jer	oldtestgreek00unknuoft	254	21	ϑἀναγγείλατε	ϑἀναγγείλατε	ἀναγγείλατε	ἀναγγείλατε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	254	21	Ἰούδᾳ,	Ἰούδᾳ,	Ἰούδᾳ,	Ἰούδᾳ,	image (3x): smooth breathing on capital Ι
+jer	oldtestgreek00unknuoft	254	21	Ἰερουσαλήμ: +5	᾿ερουσαλήμ: +5	Ἰερουσαλήμ·	Ἰερουσαλήμ·	image (3x): smooth breathing on capital Ι
+jer	oldtestgreek00unknuoft	254	22	μέγα:	μέγα᾽	μέγα·	μέγα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

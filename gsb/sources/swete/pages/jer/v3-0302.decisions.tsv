@@ -1,0 +1,56 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	302	1	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	302	1	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	302	1	ovk᾽	οὐκ᾽	οὐκ	οὐκ	image (3x): οὐκ, no elision mark
+jer	oldtestgreek00unknuoft	302	2	“μὴ	“μὴ	μὴ	μὴ	image (3x): word after superscript verse number
+jer	oldtestgreek00unknuoft	302	2	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	302	2	κοῦ-	κοῦ- +ὁ	κοῦ-	κοῦ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	302	3	6 +gos,	φος,	φος,	φος,	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	302	3	βορρᾶν:	βορρᾶν:	βορρᾶν·	βορρᾶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	302	4	Εὐφράτην	Εὐφράτην	Εὐφράτην	Εὐφράτην	image (3x): smooth breathing on υ of Εὐ
+jer	oldtestgreek00unknuoft	302	4	ἄνα- +7	ἄνα- +7	ἀνα-	ἀνα-	image (3x): ἀνα- smooth breathing, no accent (hyphenated ἀνα-βήσεται)
+jer	oldtestgreek00unknuoft	302	5	ξὕδατα	“ὕδατα	ὕδατα	ὕδατα	image (3x): word after superscript verse number
+jer	oldtestgreek00unknuoft	302	5	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing on ι of Αἰ
+jer	oldtestgreek00unknuoft	302	5	ὡσεὶ +8	ὡσεὶ +8	ὡσεὶ	ὡσεὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	302	6	Ἀναβήσομαι	Ἀναβήσομαι	Ἀναβήσομαι	Ἀναβήσομαι	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	302	7	ἣν	γῆν	γῆν	γῆν	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	302	7	9ἐπίβητε	“ἐπίβητε	ἐπίβητε	ἐπίβητε	image (3x): word after superscript verse number
+jer	oldtestgreek00unknuoft	302	7	ἵπ-	ἵπ-9	ἵπ-	ἵπ-	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	302	8	ποῦς,	ποῦς,	πους,	πους,	image (3x): πους, second half of ἵπ-πους, no accent
+jer	oldtestgreek00unknuoft	302	8	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	302	8	Gppara᾽	ἅρματα᾽	ἅρματα·	ἅρματα·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	302	8	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	302	8	μαχηταὶ	μαχηταὶ	μαχηταὶ	μαχηταὶ	image (3x): grave before a capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	302	8	Αἰθιόπων	Αἰθιόπων	Αἰθιόπων	Αἰθιόπων	image (3x): smooth breathing on ι of Αἰ
+jer	oldtestgreek00unknuoft	302	10	ἐκ- +τὸ	ἐκ- +τὸ	ἐκ-	ἐκ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	302	11	αὐτοῦ:	αὐτοῦ"	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	302	12	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	302	13	Ἑὐφράτῃ.	Ἑῤφράτῃ.	Εὐφράτῃ.	Εὐφράτῃ.	image (3x): smooth breathing on υ of Εὐ
+jer	oldtestgreek00unknuoft	302	13	“dvdBn,	""ἀνάβηθι,	ἀνάβηθι,	ἀνάβηθι,	image (3x): word after superscript verse number
+jer	oldtestgreek00unknuoft	302	13	Ταλαάδ, +τι	Ταλαάδ, +τι	Γαλαάδ,	Γαλαάδ,	image (3x): Γ, not Τ
+jer	oldtestgreek00unknuoft	302	14	θυγατρὶ	θυγατρὶ	θυγατρὶ	θυγατρὶ	image (3x): grave before a capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	302	14	Αἰγύπτου:	Αἰγύπτου:	Αἰγύπτου·	Αἰγύπτου·	image (3x): smooth breathing on ι of Αἰ
+jer	oldtestgreek00unknuoft	302	15	ἰάματά	ἰάματά	ἰάματά	ἰάματά	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	302	15	“ἤκουσαν	““ἤκουσαν	ἤκουσαν	ἤκουσαν	image (3x): word after superscript verse number
+jer	oldtestgreek00unknuoft	302	15	φωνήν +12	φωνήν +τ	φωνήν	φωνήν	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	302	17	τὸ	τὸ +ὁ	τὸ	τὸ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	302	18	13"	13"	Ἃ	Ἃ	image (6x): rough + grave on capital, compact closed mark (Ἃ); after superscript 13
+jer	oldtestgreek00unknuoft	302	18	χειρὶ	χειρὶ	χειρὶ	χειρὶ	image (3x): grave before a capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	302	18	"Ἱερεμίου,	"Ἱερεμίου,	Ἰερεμίου,	Ἰερεμίου,	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	302	18	Βαβυλῶνος +13	Βαβυλῶνος +13	Βαβυλῶνος	Βαβυλῶνος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	302	19	Αἰγύπτου.	Αἰγύπτου. +τΆ᾽	Αἰγύπτου.	Αἰγύπτου.	image (3x): smooth breathing on ι of Αἰ
+jer	oldtestgreek00unknuoft	302	20	* +Avayyeidare	Ἀναγγείλατε	Ἀναγγείλατε	Ἀναγγείλατε	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	302	20	Μέμφιν.	Μέμφιν"	Μέμφιν·	Μέμφιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	302	20	εἴ-	εἴ- +τὰ	εἴ-	εἴ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	302	21	14	πατε	πατε	πατε	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	302	21	rate +Ἐ̓πίστηθι	᾽Ἐ̓πίστηθι	Ἐπίστηθι	Ἐπίστηθι	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	302	21	ἑτοίμασον,	ἑτοίμασον;	ἑτοίμασον,	ἑτοίμασον,	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	302	21	σμίλακά	σμίλακά	σμίλακά	σμίλακά	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	302	22	“du	᾿5διὰ	διὰ	διὰ	image (3x): word after superscript verse number
+jer	oldtestgreek00unknuoft	302	22	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	302	22	"Amis;	Ἄπις;	Ἆπις;	Ἆπις;	image (10x): smooth breathing with a small circumflex cap fused above it, same shape as on εἶπεν (line 6); read Ἆπις
+jer	oldtestgreek00unknuoft	302	22	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	302	22	ὃ	ὁ	ὁ	ὁ	image (3x): ὁ rough breathing, no accent
+jer	oldtestgreek00unknuoft	302	22	ἐκλεκτός	ἐκλεκτός	ἐκλεκτός	ἐκλεκτός	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	302	22	σοὺ +15	σοὺ +τ5	σου	σου	image (3x): σου unaccented enclitic; OCR took margin 15 as accent
+jer	oldtestgreek00unknuoft	302	22	-	-	Ἆπις;	Ἆπις;	ambiguous: breathing mark on capital is small; read smooth + circumflex (cap fused above the apostrophe), could be smooth only

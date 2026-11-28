@@ -1,0 +1,60 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	437	2	*y	“ἡ	ἡ	ἡ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	3	3'πᾶσι	3Ξπᾶσι	πᾶσι	πᾶσι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	4	μισθώματα:	μισθώματα:	μισθώματα·	μισθώματα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	5	epdprifes	ἐφόρτιζες	ἐφόρτιζες	ἐφόρτιζες	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	6	σου.	σου. +3᾽	σου.	σου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	6	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	9	σοὶ	σοὶ +ὃ	σοὶ	σοὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	9	διεστραμμένα. +3	διεστραμμένα. +35	διεστραμμένα.	διεστραμμένα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	9	πόρνη,	πόρνη;	πόρνη,	πόρνη,	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	437	10	®Tade	Ξ'"Τάδε	Τάδε	Τάδε	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	10	Ἀνθ᾽	Ἀνθ᾽	Ἀνθ᾽	Ἀνθ᾽	image (3x): smooth breathing (apostrophe shape) before Α
+ezek	oldtestgreek00unknuoft	437	10	χαλκόν	χαλκόν	χαλκόν	χαλκόν	image (3x): acute on the last syllable before the enclitic, as printed
+ezek	oldtestgreek00unknuoft	437	10	gov,	σου,	σου,	σου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	11	ἐραστάς	ἐραστάς	ἐραστάς	ἐραστάς	image (3x): acute on the last syllable before the enclitic, as printed
+ezek	oldtestgreek00unknuoft	437	13	gov	σου +ὧ	σου	σου	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	13	αὐτοῖς.	αὐτοῖς. +37	αὐτοῖς.	αὐτοῖς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	13	wa	διὰ	διὰ	διὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	14	ἐραστάς	ἐραστάς	ἐραστάς	ἐραστάς	image (3x): acute on the last syllable before the enclitic, as printed
+ezek	oldtestgreek00unknuoft	437	14	ois	οἷς	οἷς	οἷς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	15	ovs	οὃὺς	οὓς	οὓς	image (3x): rough + grave (compact closed mark), οὓς
+ezek	oldtestgreek00unknuoft	437	15	ἐμίσεις"	ἐμίσεις"	ἐμίσεις·	ἐμίσεις·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	16	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	17	σου"	σου"	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	17	*kali	ϑδκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	17	pot-	μοι-	μοι-	μοι-	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	18	ζήλου.	ζήλου. +3»	ζήλου.	ζήλου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	18	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	19	πορνεῖόν	πορνεῖόν	πορνεῖόν	πορνεῖόν	image (3x): acute on the last syllable before the enclitic, as printed
+ezek	oldtestgreek00unknuoft	437	20	ἐκδύσουσίν	ἐκδύσουσίν	ἐκδύσουσίν	ἐκδύσουσίν	image (3x): acute on the last syllable before the enclitic, as printed
+ezek	oldtestgreek00unknuoft	437	20	ἱμάτιά	ἱμάτιά	ἱμάτιά	ἱμάτιά	image (3x): acute on the last syllable before the enclitic, as printed
+ezek	oldtestgreek00unknuoft	437	21	Ψονται	Ψψονται	ψονται	ψονται	image (3x): word as in page file; OCR junk or merged margin
+ezek	oldtestgreek00unknuoft	437	21	καυχήσεώς	καυχήσεώς	καυχήσεώς	καυχήσεώς	image (3x): acute on the last syllable before the enclitic, as printed
+ezek	oldtestgreek00unknuoft	437	21	ἀφήσουσίν	ἀφήσουσίν	ἀφήσουσίν	ἀφήσουσίν	image (3x): acute on the last syllable before the enclitic, as printed
+ezek	oldtestgreek00unknuoft	437	22	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	22	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	23	σουσίν	σουσίν	σουσίν	σουσίν	image (3x): acute on the last syllable before the enclitic, as printed
+ezek	oldtestgreek00unknuoft	437	23	«λίθοις,	«λίθοις,	λίθοις,	λίθοις,	image (3x): word as in page file; OCR junk or merged margin
+ezek	oldtestgreek00unknuoft	437	23	κατασφάξουσίν	κατασφάξουσίν	κατασφάξουσίν	κατασφάξουσίν	image (3x): acute on the last syllable before the enclitic, as printed
+ezek	oldtestgreek00unknuoft	437	24	TOV,	“καὶ	τῶν,	τῶν,	image (3x): word as in page file; OCR junk or merged margin
+ezek	oldtestgreek00unknuoft	437	24	“καὶ	∅	καὶ	καὶ	class R1+R0: OCR fused/misread the superscript verse number into the word; OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	24	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	25	πολλῶν:	πολλῶν"	πολλῶν·	πολλῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	26	πορνείας,	πορνείας, +"	πορνείας,	πορνείας,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	26	καὶ	καὶ +μ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	26	“Kal	πο +“καὶ	καὶ	καὶ	image (3x): word as in page file; OCR junk or merged margin
+ezek	oldtestgreek00unknuoft	437	27	∅	θυμόν	θυμόν	θυμόν	image (3x): acute on the last syllable before the enclitic, as printed
+ezek	oldtestgreek00unknuoft	437	27	∅	μου	μου	μου	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	27	∅	ἐπὶ	ἐπὶ	ἐπὶ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	27	∅	σέ,	σέ,	σέ,	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	27	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	27	∅	ἐξαρθήσεται	ἐξαρθήσεται	ἐξαρθήσεται	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	27	∅	ὁ	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	27	∅	ζῆλός	ζῆλός	ζῆλός	image (3x): acute on the last syllable before the enclitic, as printed
+ezek	oldtestgreek00unknuoft	437	27	∅	μου	μου	μου	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	27	∅	ἐκ	ἐκ	ἐκ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	27	∅	σοῦ:	σοῦ·	σοῦ·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	27	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	27	∅	ἀνα-	ἀνα-	ἀνα-	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	437	3	-	-	λαμβάνουσα	λαμβάνουσα	image (3x): β partly blotted in print; reading clear

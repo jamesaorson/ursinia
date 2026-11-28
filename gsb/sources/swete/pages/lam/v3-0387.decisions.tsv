@@ -1,0 +1,53 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+lam	oldtestgreek00unknuoft	387	1	ποσίν	ποσίν	ποσίν	ποσίν	image (3x): acute before enclitic as written
+lam	oldtestgreek00unknuoft	387	1	ἀπέστρεψέν	ἀπέδερεψέν	ἀπέστρεψέν	ἀπέστρεψέν	image (3x): acute before enclitic as written
+lam	oldtestgreek00unknuoft	387	1	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	387	1	TAB	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	387	2	ὀπίσω, +;	∅	ὀπίσω,	ὀπίσω,	class R3+R0: OCR appended accent-row or margin junk; OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	387	3	ἔδωκέν	ἔδωκέν	ἔδωκέν	ἔδωκέν	image (3x): acute before enclitic as written
+lam	oldtestgreek00unknuoft	387	3	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	387	4	∅	τά	Νούν.	Νούν.	image (6x): centered letter heading as written; OCR merged or lost it
+lam	oldtestgreek00unknuoft	387	5	∅	Ἐγρηγορήθη	Ἐγρηγορήθη	Ἐγρηγορήθη	image (3x): breathing as written (smooth apostrophe / rough c-curl)
+lam	oldtestgreek00unknuoft	387	5	∅	ἐπὶ	ἐπὶ	ἐπὶ	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	387	5	∅	τὰ	τὰ	τὰ	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	387	5	∅	ἀσεβήματά	ἀσεβήματά	ἀσεβήματά	image (3x): acute before enclitic as written
+lam	oldtestgreek00unknuoft	387	5	∅	μου,	μου,	μου,	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	387	6	χερσίν	χερσίν	χερσίν	χερσίν	image (3x): acute before enclitic as written
+lam	oldtestgreek00unknuoft	387	6	τὸν	τὸν +»	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lam	oldtestgreek00unknuoft	387	6	τράχηλόν	τράχηλόν	τράχηλόν	τράχηλόν	image (3x): acute before enclitic as written
+lam	oldtestgreek00unknuoft	387	7	∅	∅	μου·	μου·	image (3x): word as written on its own S2 line; OCR lost it
+lam	oldtestgreek00unknuoft	387	8	ἰσχύς	ἰσχύς	ἰσχύς	ἰσχύς	image (3x): acute before enclitic as written
+lam	oldtestgreek00unknuoft	387	8	Κύριος	κύρια;	Κύριος	Κύριος	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	387	8	χερσίν	χερσίν	χερσίν	χερσίν	image (3x): acute before enclitic as written
+lam	oldtestgreek00unknuoft	387	10	ξῆρεν	∅	Σάμχ.	Σάμχ.	image (6x): centered letter heading as written; OCR merged or lost it
+lam	oldtestgreek00unknuoft	387	11	∅	Ἐξῆρεν	Ἐξῆρεν	Ἐξῆρεν	image (3x): breathing as written (smooth apostrophe / rough c-curl)
+lam	oldtestgreek00unknuoft	387	11	ἰσχυρούς	ἰσχυρούς	ἰσχυρούς	ἰσχυρούς	image (3x): acute before enclitic as written
+lam	oldtestgreek00unknuoft	387	12	ἐκλεκτούς	ἐκλεκτούς	ἐκλεκτούς	ἐκλεκτούς	image (3x): acute before enclitic as written
+lam	oldtestgreek00unknuoft	387	12	μου"	μου"	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	387	13	nvov	ληνὸν	ληνὸν	ληνὸν	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	387	13	θυγατρὶ	θυγατρὶ	θυγατρὶ	θυγατρὶ	image (3x): grave before Ἰούδα, a name not a quotation
+lam	oldtestgreek00unknuoft	387	13	‘lovda,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): breathing as written (smooth apostrophe / rough c-curl)
+lam	oldtestgreek00unknuoft	387	15	;	ἴ5Ὁ	Ἄιν.	Ἄιν.	image (10x): apostrophe then rising stroke = smooth+acute on centered heading Ἄιν
+lam	oldtestgreek00unknuoft	387	16	Ὁ.	∅	Ὁ	Ὁ	image (3x): breathing as written (smooth apostrophe / rough c-curl)
+lam	oldtestgreek00unknuoft	387	16	ὀφθαλμός	ὀφθαλμός	ὀφθαλμός	ὀφθαλμός	image (3x): acute before enclitic as written
+lam	oldtestgreek00unknuoft	387	16	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	387	17	dm᾽	ἀπ᾽	ἀπ᾽	ἀπ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	387	17	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	387	17	pe,	με,	με,	με,	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	387	18	ψυχήν	ψυχήν	ψυχήν	ψυχήν	image (3x): acute before enclitic as written
+lam	oldtestgreek00unknuoft	387	18	μου"	μου"	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	387	19	υἱοί	υἱοί	υἱοί	υἱοί	image (3x): acute before enclitic as written
+lam	oldtestgreek00unknuoft	387	19	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	387	20	∅	∅	Φή.	Φή.	image (6x): centered letter heading as written; OCR merged or lost it
+lam	oldtestgreek00unknuoft	387	21	αὐτήν.	αὐτην.	αὐτήν.	αὐτήν.	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	387	22	ἐνετείλατο.	ἐνετείλατο.	ἐνετείλατο	ἐνετείλατο	image (3x): speck, not a period
+lam	oldtestgreek00unknuoft	387	22	Ἰακώβ:	Ἰακώβ:	Ἰακώβ·	Ἰακώβ·	image (3x): breathing as written (smooth apostrophe / rough c-curl)
+lam	oldtestgreek00unknuoft	387	24	᾿ερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): breathing as written (smooth apostrophe / rough c-curl)
+lam	oldtestgreek00unknuoft	387	24	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	387	25	Δικαιὸς	.	Τιαδή.	Τιαδή.	image (6x): centered heading prints Τιαδή (the apparatus lemma τιαδη confirms); kept as printed
+lam	oldtestgreek00unknuoft	387	26	∅	Ὑιαδή.	Δίκαιός	Δίκαιός	image (3x): acute before enclitic as written
+lam	oldtestgreek00unknuoft	387	26	OTL	ὅτι	ὅτι	ὅτι	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	387	26	στομα	στόμα	στόμα	στόμα	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	387	26	αὐτου	αὐτοῦ	αὐτοῦ	αὐτοῦ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	387	26	παρεπικρανα.	'παρεπίκρανα.	παρεπίκρανα.	παρεπίκρανα.	image (3x): acute on ί as written
+lam	oldtestgreek00unknuoft	387	25	-	-	Τιαδή.	Τιαδή.	heading prints Τιαδή (not Τσαδή); apparatus 18 τιαδη] σαδη BaNAQ confirms the text reading; kept as printed

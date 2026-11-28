@@ -1,0 +1,35 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	316	1	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): acute before enclitic μου
+jer	oldtestgreek00unknuoft	316	1	pov;	μου;	μου;	μου;	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	316	1	*dia	“᾿διὰ	διὰ	διὰ	image (3x): word as C; OCR junk from verse superscript
+jer	oldtestgreek00unknuoft	316	1	βουλὴν +21 (20)	βουλὴν +1: (20)	βουλὴν	βουλὴν	image (3x): grave as printed before the capitalized word
+jer	oldtestgreek00unknuoft	316	2	Ἰδουμαΐαν,	Ἰδουμαΐαν,	Ἰδουμαίαν,	Ἰδουμαίαν,	image (3x): smooth breathing on Ἰ; no diaeresis on ι, acute ί
+jer	oldtestgreek00unknuoft	316	3	Θαιμάν	Θαιμάν	Θαιμάν	Θαιμάν	image (3x): acute on Θαιμάν before capitalized Ἐὰν
+jer	oldtestgreek00unknuoft	316	3	“Edy	Ἐ̓ὰν	Ἐὰν	Ἐὰν	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	316	5	αὐτῶν-	αὐτῶν.	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	316	5	“ὅτι	“ὅτι	ὅτι	ὅτι	image (3x): word as C; OCR junk from verse superscript
+jer	oldtestgreek00unknuoft	316	5	καὶ +22 (21)	καὶ +25 (.1)	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	316	6	Bod	“ἰδοὺ	ἰδοὺ	ἰδοὺ	image (3x): word as C; OCR junk from verse superscript
+jer	oldtestgreek00unknuoft	316	6	καὶ +23 (22)	καὶ +23 (::)	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	316	7	αὐτῆς"	αὐτῆς"	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	316	8	Ἰδουμαΐας	Ἰδουμαΐας	Ἰδουμαίας	Ἰδουμαίας	image (3x): smooth breathing on Ἰ; no diaeresis on ι, acute ί
+jer	oldtestgreek00unknuoft	316	10	∅	τηϊοῖς	Τοῖς	Τοῖς	image (3x): centered title Τοῖς υἱοῖς Ἀμμών.
+jer	oldtestgreek00unknuoft	316	10	∅	υἱοῖς	υἱοῖς	υἱοῖς	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	316	10	∅	Ἀμμών.	Ἀμμών.	Ἀμμών.	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	316	11	Οὕτως	Οὕτως	Οὕτως	Οὕτως	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	316	11	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	316	11	ἢ	ἣ	ἢ	ἢ	ambiguous (8x): breathing+grave on η prints as one small blurred mark; read smooth + grave ἢ (rough not clearly closed)
+jer	oldtestgreek00unknuoft	316	11	παραλημψύόύ-	παραλημψό-	παραλημψό-	παραλημψό-	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	316	13	“διὰ	ἈΝ +“διὰ	διὰ	διὰ	image (3x): word as C; OCR junk from verse superscript
+jer	oldtestgreek00unknuoft	316	14	φησὶν	φησὶν	φησὶν	φησὶν	image (3x): grave as printed before the capitalized word
+jer	oldtestgreek00unknuoft	316	14	Ῥαββὰθ	Ραββὰθ	Ῥαββὰθ	Ῥαββὰθ	image (3x): rough breathing (open-left curl) on the capital
+jer	oldtestgreek00unknuoft	316	16	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	316	16	ϑἀλά-	λἀλά-	ἀλά-	ἀλά-	image (3x): word as C; OCR junk from verse superscript
+jer	oldtestgreek00unknuoft	316	17	Ἑ +σεβών,	Ἑ +σεβών,	Ἑσεβών,	Ἑσεβών,	image (3x): rough breathing (open-left curl) on the capital
+jer	oldtestgreek00unknuoft	316	17	ὥλετο:	ὥλετο:	ὤλετο·	ὤλετο·	image (3x): smooth + acute ὤλετο, then ano teleia
+jer	oldtestgreek00unknuoft	316	17	Ῥαββάθ,	Ῥαββάθ,	Ῥαββάθ,	Ῥαββάθ,	image (3x): rough breathing (open-left curl) on the capital
+jer	oldtestgreek00unknuoft	316	19	“τί	“τί	τί	τί	image (3x): word as C; OCR junk from verse superscript
+jer	oldtestgreek00unknuoft	316	20	Ἔνακείμ;	Ἐνακείμ;	Ἐνακείμ;	Ἐνακείμ;	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	316	20	irapias,	ἱταμίας,	ἰταμίας,	ἰταμίας,	image (3x): smooth breathing on ἰταμίας
+jer	oldtestgreek00unknuoft	316	21	5ἰδοὺ	"ἰδοὺ	ἰδοὺ	ἰδοὺ	image (3x): word as C; OCR junk from verse superscript
+jer	oldtestgreek00unknuoft	316	19	καὶ	καὶ	καί	καί	ambiguous (8x): mark over ι of καί rises from lower left to upper right with a hooked top (acute shape, possibly a damaged grave); kept as printed, καί

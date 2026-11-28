@@ -1,0 +1,31 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+lam	oldtestgreek00unknuoft	391	1	δόξα.	δόξα.	δόξα	δόξα	image (3x): speck, not a period
+lam	oldtestgreek00unknuoft	391	1	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	391	3	πλατείαις.	πλατείαις.	πλατείαις	πλατείαις	image (3x): speck, not a period
+lam	oldtestgreek00unknuoft	391	4	∅	∅	Λάβδ.	Λάβδ.	image (6x): centered letter heading on its own line, read from rectangle zoom
+lam	oldtestgreek00unknuoft	391	5	αὐτῶν	αὑτῶν	αὐτῶν	αὐτῶν	image (3x): smooth breathing on υ
+lam	oldtestgreek00unknuoft	391	5	εἶπαν	εἰπαν	εἶπαν	εἶπαν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	391	5	Tov	Ποῦ	Ποῦ	Ποῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	391	7	ἐν	ν	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	391	7	αὐτῶν	αὐτῶν	αὐτῶν.	αὐτῶν.	image (3x): period printed at line end
+lam	oldtestgreek00unknuoft	391	8	3Ti	.	Μήμ.	Μήμ.	image (6x): centered letter heading on its own line, read from rectangle zoom
+lam	oldtestgreek00unknuoft	391	9	∅	“37ί	Τί	Τί	image (3x): Τί with acute; superscript 13 is the verse number
+lam	oldtestgreek00unknuoft	391	9	Ἱερουσαλήμ; +τς	Ἰερουσαλήμ; +Ἢ	Ἰερουσαλήμ;	Ἰερουσαλήμ;	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	391	11	σου:	σου"	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	391	11	ἰάσεταί	ἰάσεταί	ἰάσεταί	ἰάσεταί	image (3x): acute before enclitic
+lam	oldtestgreek00unknuoft	391	12	ἩπΠροφῆταί	ἩΠροφῆταί	Νούν.	Νούν.	image (6x): centered letter heading on its own line, read from rectangle zoom
+lam	oldtestgreek00unknuoft	391	13	∅	∅	Προφῆταί	Προφῆταί	image (3x): acute before enclitic
+lam	oldtestgreek00unknuoft	391	13	εἴδοσάν	εἴδοσάν	εἴδοσάν	εἴδοσάν	image (3x): acute before enclitic
+lam	oldtestgreek00unknuoft	391	13	ἀφροσύνην, +.	ἀφροσύνην, +.	ἀφροσύνην,	ἀφροσύνην,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lam	oldtestgreek00unknuoft	391	16	εἴδοσάν	εἴδοσάν	εἴδοσάν	εἴδοσάν	image (3x): acute before enclitic
+lam	oldtestgreek00unknuoft	391	17	Expornoav	᾿Ἐ̓κρότησαν	Σάμχ.	Σάμχ.	image (6x): centered letter heading on its own line, read from rectangle zoom
+lam	oldtestgreek00unknuoft	391	18	∅	∅	Ἐκρότησαν	Ἐκρότησαν	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	391	18	πᾶντες	πάντες	πάντες	πάντες	image (3x): acute on πάντες
+lam	oldtestgreek00unknuoft	391	18	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	391	18	παραπορευόμενοι	παραπορευόμενοὶ	παραπορευόμενοι	παραπορευόμενοι	image (3x): no accent on final οι
+lam	oldtestgreek00unknuoft	391	20	Ἱερουσαλήμ:	Ἱερουσαλήμ:	Ἰερουσαλήμ·	Ἰερουσαλήμ·	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	391	22	“SAmvoéav	"ὁΔιήνοιξαν	Ἄιν.	Ἄιν.	image (6x): centered heading; mark before A is apostrophe then rising stroke (smooth + acute), as Ἄιν on leaf 387
+lam	oldtestgreek00unknuoft	391	23	∅	∅	Διήνοιξαν	Διήνοιξαν	image (3x): Διήνοιξαν after superscript 16
+lam	oldtestgreek00unknuoft	391	23	ἐχθροί.	ἐχθροί.	ἐχθροί	ἐχθροί	image (3x): acute before enclitic σου; dot after the word is a speck
+lam	oldtestgreek00unknuoft	391	24	αὐτήν"	αὐτήν"	αὐτήν·	αὐτήν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	391	25	ἐὕρομεν	ἐὕρομεν	εὕρομεν	εὕρομεν	image (8x): rough breathing + acute on υ (curl then rising stroke), no breathing on ε

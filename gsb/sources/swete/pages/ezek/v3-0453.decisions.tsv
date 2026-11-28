@@ -1,0 +1,56 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	453	1	ἀκάθαρτος +Β	ἀκάθαρτος +Β	ἀκάθαρτος	ἀκάθαρτος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	2	“ἰδοὺ	“ἰδοὺ	ἰδοὺ	ἰδοὺ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	3	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): breathing as read (Ἰ smooth; Υἱ rough)
+ezek	oldtestgreek00unknuoft	453	3	αὐτοῦ;	αὐτοῦ,	αὐτοῦ,	αὐτοῦ,	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	453	4	αἷμα" +᾿	αἷμα:	αἷμα·	αἷμα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	4	ἐν	"ἐν	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	453	5	ev	ἐν.	ἐν	ἐν	image (3x): as read; OCR junk (superscript, margin, speck) or misread diacritic
+ezek	oldtestgreek00unknuoft	453	6	κατεδυνάστευον,	κατεθυνάστευον,	κατεδυνάστευον,	κατεδυνάστευον,	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	453	6	®xai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	6	ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	6	ἅγιά	ἅγιά	ἅγιά	ἅγιά	image (3x): acute before enclitic
+ezek	oldtestgreek00unknuoft	453	6	pov	μουν	μου	μου	image (3x): as read; OCR junk (superscript, margin, speck) or misread diacritic
+ezek	oldtestgreek00unknuoft	453	6	ἐξουδένουν.	ἐξουδένουν	ἐξουδένουν	ἐξουδένουν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	453	6	σάββατά	σάββατά	σάββατά	σάββατά	image (3x): acute before enclitic
+ezek	oldtestgreek00unknuoft	453	7	σοί.	σοί. +9	σοί.	σοί.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	7	“σοί,	“σοί,	σοί,	σοί,	image (3x): as read; OCR junk (superscript, margin, speck) or misread diacritic
+ezek	oldtestgreek00unknuoft	453	8	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	9	"αἰσχύνην	“αἰσχύνην	αἰσχύνην	αἰσχύνην	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	10	ἀποκαθημένην	ἀπὸκαθημένην	ἀποκαθημένην	ἀποκαθημένην	image (3x): as read; OCR junk (superscript, margin, speck) or misread diacritic
+ezek	oldtestgreek00unknuoft	453	10	σοί:	σοί:	σοί·	σοί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	10	"ἕκαστος	“᾿ἕκαστος	ἕκαστος	ἕκαστος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	11	πλησίον	πλὴησίον	πλησίον	πλησίον	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	453	12	aivev	αἱνεν	αινεν	αινεν	image (3x): as read; OCR junk (superscript, margin, speck) or misread diacritic
+ezek	oldtestgreek00unknuoft	453	13	“dapa	"““δῶρα	δῶρα	δῶρα	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	13	ἐλαμβάνοσαν	ἔλαμβάνοσαν	ἐλαμβάνοσαν	ἐλαμβάνοσαν	image (3x): as read; OCR junk (superscript, margin, speck) or misread diacritic
+ezek	oldtestgreek00unknuoft	453	14	ἐκχέωσιν.	ἐκχέωσιν.	ἐκχέωσιν	ἐκχέωσιν	image (3x): as read; OCR junk (superscript, margin, speck) or misread diacritic
+ezek	oldtestgreek00unknuoft	453	14	σοί:	σοί:	σοί·	σοί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	16	Béav	Ξ̓ἐὰν	ἐὰν	ἐὰν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	16	χεῖρά	χεῖρά	χεῖρά	χεῖρά	image (3x): acute before enclitic
+ezek	oldtestgreek00unknuoft	453	16	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	17	αἵμασίν	αἵμασίν.	αἵμασίν	αἵμασίν	image (3x): acute before enclitic
+ezek	oldtestgreek00unknuoft	453	18	“ei	"““εἰ	εἰ	εἰ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	19	χεῖρές	χεῖρές	χεῖρές	χεῖρές	image (3x): acute before enclitic
+ezek	oldtestgreek00unknuoft	453	19	ἡμέραις.	ἡμέραις.	ἡμέραις	ἡμέραις	image (3x): as read; OCR junk (superscript, margin, speck) or misread diacritic
+ezek	oldtestgreek00unknuoft	453	19	ais	αἷς	αἷς	αἷς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	19	ἐγὼ	ἐγὼ.	ἐγὼ	ἐγὼ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	453	19	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave before Κύριος (not a quotation)
+ezek	oldtestgreek00unknuoft	453	20	Anka	ληκα	ληκα	ληκα	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	20	᾿β"καὶ	"βκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	21	OTEP@	σπερῶ	σπερῶ	σπερῶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	21	TE	σε	σε	σε	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	21	εν	ἐν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	453	21	ταις	ταῖς	ταῖς	ταῖς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	453	21	Και	καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	453	21	ῃ	ἡ	ἡ	ἡ	image (3x): as read; OCR junk (superscript, margin, speck) or misread diacritic
+ezek	oldtestgreek00unknuoft	453	21	€K	ἐκ	ἐκ	ἐκ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	21	σου,	σοῦ,	σοῦ,	σοῦ,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	453	22	καὶ:	καὶ:	καὶ	καὶ	image (3x): as read; OCR junk (superscript, margin, speck) or misread diacritic
+ezek	oldtestgreek00unknuoft	453	23	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave before Κύριος (not a quotation)
+ezek	oldtestgreek00unknuoft	453	23	Κύριος. +17	Κύριος. +"7	Κύριος.	Κύριος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	24	“Yie	"“ἼὝἐ	Υἱὲ	Υἱὲ	image (3x): breathing as read (Ἰ smooth; Υἱ rough)
+ezek	oldtestgreek00unknuoft	453	24	γεγόνασί	γεγόνασί	γεγόνασί	γεγόνασί	image (3x): acute before enclitic
+ezek	oldtestgreek00unknuoft	453	24	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): breathing as read (Ἰ smooth; Υἱ rough)
+ezek	oldtestgreek00unknuoft	453	26	“διὰ	“διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	453	26	εἰπόν	εἰπόν	εἰπόν	εἰπόν	image (3x): acute before capitalized quotation

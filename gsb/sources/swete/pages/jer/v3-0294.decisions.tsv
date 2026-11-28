@@ -1,0 +1,67 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	294	1	μίλτῳ	μίλτῳ	μίλτῳ.	μίλτῳ.	image (3x): period after μίλτῳ is printed
+jer	oldtestgreek00unknuoft	294	1	"Sp	΄ +"““μὴ	μὴ	μὴ	image (3x): μὴ after superscript 15
+jer	oldtestgreek00unknuoft	294	2	Ἀχὰζ	Ἀχὰζ	Ἀχὰζ	Ἀχὰζ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	294	2	πατρί	πατρί	πατρί	πατρί	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	294	3	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	294	3	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	294	3	πίονται"	πίονται:	πίονται·	πίονται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	294	3	βέλτιόν	βέλτιόν	βέλτιόν	βέλτιόν	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	294	3	ποίειν	ποιεῖν	ποιεῖν	ποιεῖν	image (3x): circumflex on ει, ποιεῖν
+jer	oldtestgreek00unknuoft	294	3	Κριμα	κρίμα	κρίμα	κρίμα	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	294	3	και	καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	294	3	νῶσαν,	"δ	οὐκ	οὐκ	image (3x): οὐκ after superscript 16
+jer	oldtestgreek00unknuoft	294	3	∅	οὺκ	ἔ-	ἔ-	image (3x): ἔ- with hyphen at line end
+jer	oldtestgreek00unknuoft	294	4	∅	ἘΞ +γνῶώσαν,;	γνωσαν,	γνωσαν,	image (3x): γνωσαν, unaccented continuation of ἔ-γνωσαν
+jer	oldtestgreek00unknuoft	294	4	πένητος"	πένητος"	πένητος·	πένητος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	294	4	τοῦτό	τοῦτό	τοῦτό	τοῦτό	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	294	5	γνῶναί	γνῶναί	γνῶναί	γνῶναί	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	294	5	Κύριος; +"7	Κύριος; +"7	Κύριος;	Κύριος;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	294	5	ὀφθαλμοί	ὀφθαλμοί	ὀφθαλμοί	ὀφθαλμοί	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	294	6	gov	σοὺ	σου	σου	image (3x): σου, no accent
+jer	oldtestgreek00unknuoft	294	6	σου	σοὺ	σου	σου	image (3x): σου, no accent
+jer	oldtestgreek00unknuoft	294	8	dca	“διὰ	διὰ	διὰ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	294	8	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	294	8	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): grave/acute as typed; acute before capitalized quotation, grave before a name
+jer	oldtestgreek00unknuoft	294	8	Ἰωσεία	Ἰωσεία	Ἰωσεία	Ἰωσεία	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	294	9	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	294	9	Kai	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	294	9	od	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	294	9	αὐτόν	αὐτόν	αὐτόν	αὐτόν	image (3x): grave/acute as typed; acute before capitalized quotation, grave before a name
+jer	oldtestgreek00unknuoft	294	9	Ὦ	Ὦ	Ὦ	Ὦ	image (8x): breathing + circumflex on capital, worn; read smooth, Ὦ
+jer	oldtestgreek00unknuoft	294	10	αὐτόν	αὐτόν	αὐτόν	αὐτόν	image (3x): grave/acute as typed; acute before capitalized quotation, grave before a name
+jer	oldtestgreek00unknuoft	294	10	Οἴμοι	Οἴμοι	Οἴμοι	Οἴμοι	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	294	10	κύριε.	κύριε. +ἷ	κύριε.	κύριε.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	294	11	-συμψησθεὶς	-συμψησθεὶς	συμψησθεὶς	συμψησθεὶς	image (3x): no hyphen; speck before word
+jer	oldtestgreek00unknuoft	294	11	“πύλης	“πύλης	πύλης	πύλης	image (3x): no mark before πύλης
+jer	oldtestgreek00unknuoft	294	11	Ἰερου-	Ἰερου-	Ἰερου-	Ἰερου-	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	294	12	σαλήμ. +Ξο᾽	σαλήμ.	σαλήμ.	σαλήμ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	294	12	Ἀνάβηθι	ΞοἈνάβηθι	Ἀνάβηθι	Ἀνάβηθι	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	294	13	φωνήν	φωνήν	φωνήν	φωνήν	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	294	14	ἐρασταί	ἐρασταί	ἐρασταί	ἐρασταί	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	294	14	“᾿ἐλάλησα	“ἐλάλησα	ἐλάλησα	ἐλάλησα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	294	15	gov,	σου,	σου,	σου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	294	15	Οὐκ	Οὐκ	Οὐκ	Οὐκ	image (3x): smooth breathing, Οὐκ
+jer	oldtestgreek00unknuoft	294	15	ἀκούσομαι:	ἀκούσομαι:	ἀκούσομαι·	ἀκούσομαι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	294	15	ὁδός	ὁδός	ὁδός	ὁδός	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	294	16	νεότητός	νεότητός	νεότητός	νεότητός	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	294	16	pov.	μοῦ.	μου.	μου.	image (3x): μου. unaccented
+jer	oldtestgreek00unknuoft	294	16	““΄πάντας	“΄“πάντας	πάντας	πάντας	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	294	17	gov	ὅσου	σου	σου	image (3x): σου, no accent
+jer	oldtestgreek00unknuoft	294	17	ἐρασταί	ἐρασταί	ἐρασταί	ἐρασταί	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	294	18	δε.	δε.	σε.	σε.	image (3x): σ, not δ
+jer	oldtestgreek00unknuoft	294	19	SxaroKxovoa	“ϑκατοικοῦσα	κατοικοῦσα	κατοικοῦσα	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	294	20	“ζῶ	“ζῶ	ζῶ	ζῶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	294	21	γένηται	γένηται +ΕΣ	γένηται	γένηται	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	294	21	Ἰεχονίας	Ἰεχονίας	Ἰεχονίας	Ἰεχονίας	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	294	21	vids	υἱὸς +ΕΣ	υἱὸς	υἱὸς	image (3x): grave/acute as typed; acute before capitalized quotation, grave before a name
+jer	oldtestgreek00unknuoft	294	21	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	294	21	βασιλεὺς	βασιλεὺς +»	βασιλεὺς	βασιλεὺς	image (3x): grave/acute as typed; acute before capitalized quotation, grave before a name
+jer	oldtestgreek00unknuoft	294	21	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	294	21	ἀπο-	ἀπὸο-	ἀπο-	ἀπο-	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	294	22	σε,	σε, +""	σε,	σε,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	294	22	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	294	23	cis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	294	23	ψυχήν	ψυχήν	ψυχήν	ψυχήν	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	294	24	Χαλδαίων. +“ὁ	Χαλδαίων. +“ὁ	Χαλδαίων.	Χαλδαίων.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	294	9	-	-	Ὦ	Ὦ	ambiguous: breathing under the circumflex on Ω is worn at 8x; read smooth (Ὦ)

@@ -1,0 +1,63 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	431	1	Οὐαὶ	Οὐαὶ	Οὐαὶ	Οὐαὶ	image (3x): smooth breathing on υ, grave on αὶ; mark at lower left of Ο is a speck
+ezek	oldtestgreek00unknuoft	431	1	ὑπὸ +B	ὑπὸ	ὑπὸ	ὑπὸ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	431	3	διεστράφησαν	διεστράφησαν.	διεστράφησαν	διεστράφησαν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	431	4	∅	λαοῦ	λαοῦ	λαοῦ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	431	4	∅	μου,	μου,	μου,	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	431	4	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	431	4	∅	Ψυχὰς	ψυχὰς	ψυχὰς	image (3x): lowercase ψυχὰς with grave
+ezek	oldtestgreek00unknuoft	431	4	∅	περιεποιοῦντο,	περιεποιοῦντο,	περιεποιοῦντο,	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	431	4	∅	“καὶ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	431	4	∅	ἐβεβήλουν	ἐβεβήλουν	ἐβεβήλουν	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	431	4	∅	με	με	με	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	431	4	∅	πρὸς	πρὸς	πρὸς	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	431	4	∅	τὸν	τὸν	τὸν	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	431	5	λαόν	λαόν	λαόν	λαόν	image (3x): λαόν μου, acute before enclitic
+ezek	oldtestgreek00unknuoft	431	5	pate	δρακὸς	δρακὸς	δρακὸς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	431	5	κλάδβότων	κλασμάτων	κλασμάτων	κλασμάτων	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	431	6	πξριποιήσασιθφι	περιποιήσασθαι	περιποιήσασθαι	περιποιήσασθαι	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	431	7	Ψυχὰς	Ψυχὰς	ψυχὰς	ψυχὰς	image (3x): lowercase ψυχὰς with grave
+ezek	oldtestgreek00unknuoft	431	8	““διὰ	““διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	431	9	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on the capital
+ezek	oldtestgreek00unknuoft	431	10	Ψψυχάς,	ψυχάς,	ψυχάς,	ψυχάς,	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	431	10	καὶ	καὶ +καὶ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	431	10	ἐξαπο-	ἐξαπο +-	ἐξαπο-	ἐξαπο-	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	431	12	πισμόν, +“᾽	πισμόν, +“᾽	πισμόν,	πισμόν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	431	12	διαρρήξω.	διαρρήξω.	διαρρήξω	διαρρήξω	image (3x): no point after the word, speck
+ezek	oldtestgreek00unknuoft	431	12	τὸν	τὸν.	τὸν	τὸν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	431	12	aby	λαῦν +ΕΣ ᾿ ς ΄“ ᾿ ΕΒ} 2 ᾿, » Ν ς ΄“ 2. ε	λαόν	λαόν	image (3x): λαόν μου, acute before enclitic
+ezek	oldtestgreek00unknuoft	431	14	pny:	φήν:	φήν·	φήν·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	431	14	ἐπιγνώσεσθε	ἐπιγνώσεσθε.	ἐπιγνώσεσθε	ἐπιγνώσεσθε	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	431	14	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ before Κύριος
+ezek	oldtestgreek00unknuoft	431	14	“av	“ἀνθ᾽	ἀνθ᾽	ἀνθ᾽	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	431	14	ὧν.	ὧν.	ὧν	ὧν	image (3x): no point after the word, speck
+ezek	oldtestgreek00unknuoft	431	17	“Ξδιὰ	“Ξδιὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	431	17	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	431	17	ἴδητε;	ἴδητε;	ἴδητε,	ἴδητε,	image (3x): comma after ἴδητε, not a question mark
+ezek	oldtestgreek00unknuoft	431	17	μᾶν-	μᾶν-	μαν-	μαν-	image (3x): μαν- without accent
+ezek	oldtestgreek00unknuoft	431	18	μεντεήσησθα	μαντεύσησθε	μαντεύσησθε	μαντεύσησθε	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	431	18	λαόν	λαόν	λαόν	λαόν	image (3x): λαόν μου, acute before enclitic
+ezek	oldtestgreek00unknuoft	431	18	pov	'μου	μου	μου	image (3x): μου
+ezek	oldtestgreek00unknuoft	431	19	τ	τ:	ὑμῶν·	ὑμῶν·	image (strip): line read ὑμῶν· καὶ γνώσεσθε ὅτι ἐγὼ Κύριος.; OCR lost the line
+ezek	oldtestgreek00unknuoft	431	19	Κ̓αὶ	∅	καὶ	καὶ	image (strip): line read ὑμῶν· καὶ γνώσεσθε ὅτι ἐγὼ Κύριος.; OCR lost the line
+ezek	oldtestgreek00unknuoft	431	19	∅	∅	γνώσεσθε	γνώσεσθε	image (strip): line read ὑμῶν· καὶ γνώσεσθε ὅτι ἐγὼ Κύριος.; OCR lost the line
+ezek	oldtestgreek00unknuoft	431	19	∅	∅	ὅτι	ὅτι	image (strip): line read ὑμῶν· καὶ γνώσεσθε ὅτι ἐγὼ Κύριος.; OCR lost the line
+ezek	oldtestgreek00unknuoft	431	19	∅	∅	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ before Κύριος
+ezek	oldtestgreek00unknuoft	431	19	∅	∅	Κύριος.	Κύριος.	image (strip): line read ὑμῶν· καὶ γνώσεσθε ὅτι ἐγὼ Κύριος.; OCR lost the line
+ezek	oldtestgreek00unknuoft	431	20	∅	Καὶ	Καὶ	Καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	431	20	weir	πρὸϑ	πρὸς	πρὸς	image (3x): word as read
+ezek	oldtestgreek00unknuoft	431	20	κρεαβυτέρων	πρεαβιυτέρων	πρεσβυτέρων	πρεσβυτέρων	image (3x): word as read
+ezek	oldtestgreek00unknuoft	431	20	Ἰσραίλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on the capital
+ezek	oldtestgreek00unknuoft	431	21	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	431	21	πρὸς +3	πρὸς +38	πρὸς	πρὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	431	22	"Υἱὲ	ὑὙἱὲ	Υἱὲ	Υἱὲ	image (3x): Υἱὲ, rough breathing on ι
+ezek	oldtestgreek00unknuoft	431	24	πρὸ.	πρὸ.	πρὸ	πρὸ	image (3x): no point after the word, speck
+ezek	oldtestgreek00unknuoft	431	24	προσώπου.	προσώπου	προσώπου	προσώπου	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	431	24	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	431	24	ἀποκριθῶ	ἀποκριθῷ	ἀποκριθῶ	ἀποκριθῶ	image (3x): circumflex, no iota subscript
+ezek	oldtestgreek00unknuoft	431	25	4 +“διὰ	4 +ὁδιὰ	διὰ	διὰ	image (3x): διὰ; OCR fused margin 4 and superscript
+ezek	oldtestgreek00unknuoft	431	25	αὐτούς	αὐτούς	αὐτούς	αὐτούς	image (3x): acute before capitalized quotation
+ezek	oldtestgreek00unknuoft	431	26	AvOperos	Ανθρωπος	Ἄνθρωπος	Ἄνθρωπος	image (8x): smooth + acute (” shape) on capital
+ezek	oldtestgreek00unknuoft	431	26	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+ezek	oldtestgreek00unknuoft	431	27	avrod,	αὐτοῦ,.	αὐτοῦ,	αὐτοῦ,	image (3x): comma after αὐτοῦ is real ink
+ezek	oldtestgreek00unknuoft	431	27	THs,	τῆς.	τῆς	τῆς	image (3x): τῆς, no point

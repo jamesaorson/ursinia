@@ -1,0 +1,36 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	310	1	““διασκορπίζεις	““διασκορπίζεις	διασκορπίζεις	διασκορπίζεις	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	310	1	σύ	σύ	σύ	σύ	image (3x): acute before enclitic μοι/μου
+jer	oldtestgreek00unknuoft	310	1	μοι +20	μοι +0	μοι	μοι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	310	2	ἐν᾽	ἐν	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	310	2	god.	σοῦ.	σοῦ	σοῦ	image (3x): speck, not a period
+jer	oldtestgreek00unknuoft	310	3	καὶ	Φι +“᾿καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	310	3	αὐτοῦ, +ax	αὐτοῦ, +«1	αὐτοῦ,	αὐτοῦ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	310	4	αὐτῶν:	αὐτῶν"	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	310	4	διασκορπιῶ +22	διασκορπιῶ +5:	διασκορπιῶ	διασκορπιῶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	310	6	"Ξκαὶ	“Ξκαὶ	καὶ	καὶ	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	310	6	αὐτοῦ, +23	αὐτοῦ, +23	αὐτοῦ,	αὐτοῦ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	310	8	καὶ	καὶ.	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	310	8	στρατηγούς	στρατηγούς.	στρατηγούς	στρατηγούς	image (3x): acute before enclitic σου; the dot after στρατηγούς is a speck
+jer	oldtestgreek00unknuoft	310	8	Kal	“"καὶ	καὶ	καὶ	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	310	8	ἀνταποδώ-	ἀνταποδώ- +524	ἀνταποδώ-	ἀνταποδώ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	310	9	24 +gw	σω	σω	σω	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	310	11	Κύριος. +5	Κύριος. +5	Κύριος.	Κύριος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	310	11	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	310	11	τὸ +25	τὸ +“5	τὸ	τὸ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	310	12	χεῖρά	χεῖρά	χεῖρά	χεῖρά	image (3x): acute before enclitic μοι/μου
+jer	oldtestgreek00unknuoft	310	13	ἐμπεπυρισμένον, +"6	ἐμπεπυρισμένον, +"6	ἐμπεπυρισμένον,	ἐμπεπυρισμένον,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	310	14	θεμέλιον, +26	θεμέλιον, +26	θεμέλιον,	θεμέλιον,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	310	15	ρατε	ρατε	ἄρατε	ἄρατε	image (3x): ἄρατε, smooth breathing + acute; superscript 27 before it
+jer	oldtestgreek00unknuoft	310	15	σημεῖον +27	σημεῖον +27	σημεῖον	σημεῖον	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	310	18	Ἀσχαναζέοις:	Ε] +Ἀσχαναζέοις:	Ἀσχαναζέοις·	Ἀσχαναζέοις·	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	310	18	ἐπ᾽	ἐπ᾽ +ΕΣ	ἐπ᾽	ἐπ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	310	19	“dvaBiBacare	“ὁἀναβιβάσατε	ἀναβιβάσατε	ἀναβιβάσατε	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	310	19	αὐτὴν +28	αὐτὴν +:8	αὐτὴν	αὐτὴν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	310	21	“ἐσείσθη	“ἐσείσθη	ἐσείσθη	ἐσείσθη	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	310	21	καὶ +29	καὶ +20	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	310	22	λογισμὸς	λογισμὸς	λογισμὸς	λογισμὸς	image (3x): grave before a capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	310	23	αὐτήν. +3.	αὐτήν. +30	αὐτήν.	αὐτήν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	310	24	μαχητὴς	μαχητὴς	μαχητὴς	μαχητὴς	image (3x): grave before a capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	310	24	ἐν +30	ἐν +30	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	310	25	γυναῖκες"	γυναῖκες"	γυναῖκες·	γυναῖκες·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

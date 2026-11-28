@@ -1,0 +1,55 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	270	2	"“Κύριος	"Κύριος	Κύριος	Κύριος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	270	2	γὴν	γῆν	γῆν	γῆν	image (3x): OCR junk (superscripts, margin numbers, stray marks) or diacritic misread; word as in C
+jer	oldtestgreek00unknuoft	270	4	∅	ἐξέτεινεν	ἐξέτεινεν	ἐξέτεινεν	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	270	4	∅	τὸν	τὸν	τὸν	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	270	4	∅	οὐρανὸν	οὐρανὸν	οὐρανὸν	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	270	4	∅	"Ξκαὶ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	270	4	∅	πλῆθος	πλῆθος	πλῆθος	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	270	4	∅	ὕδατος	ὕδατος	ὕδατος	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	270	4	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	270	4	∅	οὐρανῷ,	οὐρανῷ,	οὐρανῷ,	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	270	4	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	270	4	∅	ἀνήγαγεν	ἀνήγαγεν	ἀνήγαγεν	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	270	5	γῆς:	γῆς"	γῆς·	γῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	270	6	"“ἐμωράνθη	"“ἐμωράνθη	ἐμωράνθη	ἐμωράνθη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	270	8	“μάταιά	"μάταιά	μάταιά	μάταιά	image (3x): second acute before enclitic as in C
+jer	oldtestgreek00unknuoft	270	9	᾿δοὺκ	ἰδοὺκ	οὐκ	οὐκ	image (3x): OCR junk (superscripts, margin numbers, stray marks) or diacritic misread; word as in C
+jer	oldtestgreek00unknuoft	270	10	TH	τῷ	τῷ	τῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	270	10	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing on the capital (Ὄντως smooth + acute, apostrophe then rising stroke)
+jer	oldtestgreek00unknuoft	270	10	αὐτὸς,	αὐτὸς,	αὐτὸς	αὐτὸς	image (3x): OCR junk (superscripts, margin numbers, stray marks) or diacritic misread; word as in C
+jer	oldtestgreek00unknuoft	270	11	ὑπόστασίν	ὑπόστασίν	ὑπόστασίν	ὑπόστασίν	image (3x): second acute before enclitic as in C
+jer	oldtestgreek00unknuoft	270	12	“dre	"ὅτι	ὅτι	ὅτι	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	270	12	Κύριος	Κύριος +᾿	Κύριος	Κύριος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	270	12	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on the capital (Ὄντως smooth + acute, apostrophe then rising stroke)
+jer	oldtestgreek00unknuoft	270	14	πληγή	πληγή	πληγή	πληγή	image (3x): second acute before enclitic as in C
+jer	oldtestgreek00unknuoft	270	14	"οὐαὶ	"οὐαὶ	οὐαὶ	οὐαὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	270	14	συντρίμματί	συντρίμματί	συντρίμματί	συντρίμματί	image (3x): second acute before enclitic as in C
+jer	oldtestgreek00unknuoft	270	14	σοὺ,	σοὺ,	σου,	σου,	image (3x): OCR junk (superscripts, margin numbers, stray marks) or diacritic misread; word as in C
+jer	oldtestgreek00unknuoft	270	14	πληγή	πληγή	πληγή	πληγή	image (3x): second acute before enclitic as in C
+jer	oldtestgreek00unknuoft	270	15	Ὄντως	Ὄντως	Ὄντως	Ὄντως	image (3x): smooth breathing on the capital (Ὄντως smooth + acute, apostrophe then rising stroke)
+jer	oldtestgreek00unknuoft	270	15	τραῦμά	τραῦμά	τραῦμά	τραῦμά	image (3x): second acute before enclitic as in C
+jer	oldtestgreek00unknuoft	270	15	κατέλαβέν	κατέλαβέν	κατέλαβέν	κατέλαβέν	image (3x): second acute before enclitic as in C
+jer	oldtestgreek00unknuoft	270	15	““ἡ	““ἡ	ἡ	ἡ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	270	15	σκηνή	σκηνή	σκηνή	σκηνή	image (3x): second acute before enclitic as in C
+jer	oldtestgreek00unknuoft	270	16	ὥλετο,	ὥλετο,	ὤλετο,	ὤλετο,	image (3x): smooth + acute on ω (apostrophe then rising stroke): ὤλετο
+jer	oldtestgreek00unknuoft	270	16	διεσπάσθησαν"	διεσπάσθησαν"	διεσπάσθησαν·	διεσπάσθησαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	270	17	οἵ	οὗ	οἱ	οἱ	image (3x): rough breathing only, no accent: οἱ
+jer	oldtestgreek00unknuoft	270	17	υἱοί	υἱοί	υἱοί	υἱοί	image (3x): second acute before enclitic as in C
+jer	oldtestgreek00unknuoft	270	17	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	270	17	πρόβατά	πρόβατά	πρόβατά	πρόβατά	image (3x): second acute before enclitic as in C
+jer	oldtestgreek00unknuoft	270	18	δέρρεών	δέρρεών	δέρρεών	δέρρεών	image (3x): second acute before enclitic as in C
+jer	oldtestgreek00unknuoft	270	18	* +dre	“ὅτι	ὅτι	ὅτι	image (3x): OCR junk (superscripts, margin numbers, stray marks) or diacritic misread; word as in C
+jer	oldtestgreek00unknuoft	270	19	οὐκ	οὐκ᾽	οὐκ	οὐκ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	270	19	ἐζήτησαν":	ἐζήτησαν"	ἐξήτησαν·	ἐζήτησαν·	image (3x): OCR junk (superscripts, margin numbers, stray marks) or diacritic misread; word as in C
+jer	oldtestgreek00unknuoft	270	20	“φωνὴ	22 +“ἐφωνὴ	φωνὴ	φωνὴ	image (3x): OCR junk (superscripts, margin numbers, stray marks) or diacritic misread; word as in C
+jer	oldtestgreek00unknuoft	270	20	ἔρχεται	ἔρχεται +μι	ἔρχεται	ἔρχεται	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	270	21	rod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	270	21	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on the capital (Ὄντως smooth + acute, apostrophe then rising stroke)
+jer	oldtestgreek00unknuoft	270	22	“3οἶδα,	“3οἶδα,	οἶδα,	οἶδα,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	270	23	αὐτοῦ. +4	αὐτοῦ. +“᾽	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	270	24	24 +ριε,	54	Κύριε,	Κύριε,	image (3x): OCR junk (superscripts, margin numbers, stray marks) or diacritic misread; word as in C
+jer	oldtestgreek00unknuoft	270	24	πλὴν	ριε,	πλὴν	πλὴν	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	270	24	ἐν	πλὴ	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	270	24	κρίσει	ρίσει	κρίσει	κρίσει	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	270	18	-	-	μου.	μου.	ambiguous: faint mark over ου of μου before the period looks like a speck, not a circumflex; read μου

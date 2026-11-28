@@ -646,7 +646,7 @@
     ("to him," 10)
     ("You will not give" 12 13)
     ("to me" 14)
-    ("nothing;" (15 nothing))
+    ("anything;" (15 anything))
     ("if" (16 if))
     ("you will make" 17)
     ("to me" 18)

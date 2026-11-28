@@ -418,7 +418,7 @@
     ("and" 1)
     ("their" 7)
     ("bows" (5 absorbed) (6 bow "τόξον"))
-    ("was crushed" (2 crush "συντρίβω"))
+    ("were crushed" (2 crush "συντρίβω"))
     ("with" 3)
     ("might," 4)
     ("and" 8)
@@ -426,7 +426,7 @@
     ("of arms" (12 arm "βραχίων"))
     ("of their" 14)
     ("hand" 13)
-    ("was loosened," (9 loosen "ἐκλύω"))
+    ("were loosened," (9 loosen "ἐκλύω"))
     ("because of" (15 because-of))
     ("hand" 16)
     ("of potentate" (17 potentate "δυνάστης"))
@@ -438,7 +438,7 @@
 (verse 25
   (status draft)
   (literal
-    ("From" (1 from))
+    ("from" (1 from))
     ("God" 2)
     ("of your" 5)
     ("father." (3 absorbed) 4)

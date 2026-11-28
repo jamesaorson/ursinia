@@ -1,0 +1,41 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	272	1	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	272	3	*xal	"“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	272	3	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	272	3	of	οἵ	οἱ	οἱ	image (3x): article οἱ, rough breathing only
+jer	oldtestgreek00unknuoft	272	4	Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	272	6	36re	᾿ϑὅτι	ὅτι	ὅτι	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	272	6	πόλεών	πόλεών	πόλεών	πόλεών	image (3x): acute before enclitic as in C
+jer	oldtestgreek00unknuoft	272	6	θεοί	θεοί	θεοί	θεοί	image (3x): acute before enclitic as in C
+jer	oldtestgreek00unknuoft	272	6	Ἰούδα,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	272	7	Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	272	8	4xal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	272	8	προσεύχου	προσεύχου.	προσεύχου	προσεύχου	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	272	8	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	272	10	@	ᾧ	ᾧ	ᾧ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	272	10	ἐπικαλοῦνταί	ἐπικαλοῦνταί	ἐπικαλοῦνταί	ἐπικαλοῦνταί	image (3x): acute before enclitic as in C
+jer	oldtestgreek00unknuoft	272	10	‘Sri	"ὅτί	τί	τί	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	272	11	ἀφε-	ἀφε	ἀφε-	ἀφε-	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	272	12	“ἐλαίαν	“ἐλαίαν	ἐλαίαν	ἐλαίαν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	272	13	τὸ	τὸ +ὅὄ	τὸ	τὸ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	272	13	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): acute before enclitic as in C
+jer	oldtestgreek00unknuoft	272	13	gov	σονυ᾽	σου·	σου·	image (3x): OCR misread; σου· with ano teleia, παρὰ with grave on last syllable only
+jer	oldtestgreek00unknuoft	272	13	cis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	272	15	αὐτῆς,	αὐτῆς, +7	αὐτῆς,	αὐτῆς,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	272	16	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	272	16	Ἰούδα,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	272	17	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	272	17	Baad.	Βάαλ.	Βάαλ.	Βάαλ.	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	272	17	Κύριε,	κύριε,	Κύριε,	Κύριε,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	272	18	ρισόν	ρισόν	ρισόν	ρισόν	image (3x): acute before enclitic as in C
+jer	oldtestgreek00unknuoft	272	18	γνώσομαι"	γνώσομαι"	γνώσομαι·	γνώσομαι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	272	18	αὐτῶν, +"	αὐτῶν, +"	αὐτῶν,	αὐτῶν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	272	22	αὐτοῦ.	αὐτοῦ.	αὐτοῦ	αὐτοῦ	image (4x): no point after αὐτοῦ (οὐ μὴ follows)
+jer	oldtestgreek00unknuoft	272	22	οὐκέτι.	οὐκέτι...	οὐκέτι.	οὐκέτι.	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	272	22	“Κύριε	“Κύριε	Κύριε	Κύριε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	272	23	mapa	πὰρὰ	παρὰ	παρὰ	image (3x): OCR misread; σου· with ano teleia, παρὰ with grave on last syllable only
+jer	oldtestgreek00unknuoft	272	23	cod	σοῦ	σοῦ	σοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	272	24	δικαίωμά	δικαίωμά	δικαίωμά	δικαίωμά	image (3x): acute before enclitic as in C
+jer	oldtestgreek00unknuoft	272	24	“"διὰ	“"διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	272	7	-	-	θυμιᾷν	θυμιᾷν	image (5x): iota subscript clearly printed under α (also line 17); kept as printed
+jer	oldtestgreek00unknuoft	272	12	-	-	ἢ	ἢ	image (5x): open two-part mark over η, smooth + grave as on ἂν; read ἢ

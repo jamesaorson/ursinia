@@ -1,0 +1,52 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	417	1	τέταρτόν	τέταρτόν	τέταρτόν	τέταρτόν	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	417	1	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	1	τέταρτόν	τέταρτόν	τέταρτόν	τέταρτόν	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	417	1	σου	σου +Β	σου	σου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	3	αὐτῶν.	αὐτῶν. +13	αὐτῶν.	αὐτῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	3	ὁ	ὁ +θυ	ὁ	ὁ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	3	pos	θυμός	θυμός	θυμός	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	417	3	ἣ	ἡ	ἡ	ἡ	image (6x): rough breathing only, same shape as on ὁ in the same line; no accent
+ezek	oldtestgreek00unknuoft	417	3	ὀργή	ὀργή	ὀργή	ὀργή	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	417	4	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ before Κύριος as printed
+ezek	oldtestgreek00unknuoft	417	4	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	5	ὀργήν	ὀργήν	ὀργήν	ὀργήν	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	417	5	“kal	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	5	θήσομαί	θήσομαί	θήσομαί	θήσομαί	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	417	7	Skal	᾿ +"καὶ	καὶ	καὶ	image (3x): word as in page file; OCR garbled it or fused verse number
+ezek	oldtestgreek00unknuoft	417	8	ποιῆσαί	ποιῆσαί	ποιῆσαί	ποιῆσαί	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	417	8	μου:	μου:	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	8	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ before Κύριος as printed
+ezek	oldtestgreek00unknuoft	417	9	λελάληκα-	λελάληκα:	λελάληκα·	λελάληκα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	9	"“καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	9	ἐξαποστεῖλαί	ἐξαποστεῖλαί	ἐξαποστεῖλαί	ἐξαποστεῖλαί	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	417	9	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	10	ἐμου	λιμοῦ	λιμοῦ	λιμοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	417	10	ἐπ	ἐπ᾽	ἐπ᾽	ἐπ᾽	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	10	GUTOUS,	αὐτούς,	αὐτούς,	αὐτούς,	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	10	και	καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	417	10	ἐεἐσόονται	ἔσονται	ἔσονται	ἔσονται	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	417	10	και	καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	417	10	συντρίψω	συντρίψω.	συντρίψω	συντρίψω	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	417	10	στηρίγμα	στήριγμα	στήριγμα	στήριγμα	image (3x): acute on η: στήριγμα
+ezek	oldtestgreek00unknuoft	417	11	gov.	σου.	σου.	σου.	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	11	“ai	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	12	τιμωρήσομαί	τιμωρήσομαί	τιμωρήσομαί	τιμωρήσομαί	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	417	13	κυκλόθεν:	κυκλόθεν:	κυκλόθεν·	κυκλόθεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	13	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ before Κύριος as printed
+ezek	oldtestgreek00unknuoft	417	14	“Υἱὲ	“Υἱὲ	Υἱὲ	Υἱὲ	image (3x): Υἱὲ, rough breathing on ι; OCR quote mark is the superscript 2
+ezek	oldtestgreek00unknuoft	417	15	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	417	15	σον	σον	σου	σου	image (3x): word as in page file; OCR garbled it or fused verse number
+ezek	oldtestgreek00unknuoft	417	15	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital
+ezek	oldtestgreek00unknuoft	417	16	3καὶ	3καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	16	"ἐρεῖς	"ἐρεῖς	ἐρεῖς	ἐρεῖς	image (3x): witness mark § printed in text before ἐρεῖς, kept
+ezek	oldtestgreek00unknuoft	417	16	Ta	Τὰ	Τὰ	Τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	16	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on capital
+ezek	oldtestgreek00unknuoft	417	16	Τάδε	Τάδε +ὃτ᾽	Τάδε	Τάδε	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	18	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on capital
+ezek	oldtestgreek00unknuoft	417	19	∅	τὰ	τὰ	τὰ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	19	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	20	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	21	ὑμῶν,	ὑμῶν, +5	ὑμῶν,	ὑμῶν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	21	Skat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	417	22	“ἐν	δὲν	ἐν	ἐν	image (3x): word as in page file; OCR garbled it or fused verse number

@@ -1,0 +1,46 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	255	1	“πόλεις	“πόλεις	πόλεις	πόλεις	image (3x): no mark before/after the word
+jer	oldtestgreek00unknuoft	255	1	“ἀναλαβόντες +B	“ἀναλαβόντες +Β	ἀναλαβόντες	ἀναλαβόντες	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	255	2	Σειών:	Σειών:	Σειών·	Σειών·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	255	3	μεγάλην.".	μεγάλην.".	μεγάλην.	μεγάλην.	image (3x): single period after μεγάλην
+jer	oldtestgreek00unknuoft	255	3	Τἀνέβη	Τἀνέβη	ἀνέβη	ἀνέβη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	255	4	ἐξῆλθεν	“ἐξῆλθεν	ἐξῆλθεν	ἐξῆλθεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	255	5	ἐρήμωσιν;	ἐρήμωσιν;	ἐρήμωσιν,	ἐρήμωσιν,	image (3x): comma, not ano teleia/question mark
+jer	oldtestgreek00unknuoft	255	5	πόλεις.	πόλεις.	πόλεις	πόλεις	image (3x): no mark before/after the word
+jer	oldtestgreek00unknuoft	255	5	κατοι- +-	κατοι- +.	κατοι-	κατοι-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	255	6	αὐτάς. +ὃ	αὐτάς.	αὐτάς.	αὐτάς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	255	6	ἐπὶ	“ἐπὶ	ἐπὶ	ἐπὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	255	7	διότι	διότε	διότι	διότι	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	255	7	θυμὸς	θυμὸς	θυμὸς	θυμὸς	image (3x): grave on θυμὸς before Κυρίου (name, not quotation)
+jer	oldtestgreek00unknuoft	255	7	καὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	255	8	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	255	10	θαυμάσονται. +"““	θαυμάσονται.	θαυμάσονται.	θαυμάσονται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	255	10	καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	255	10	Ὦ	Ὦ	Ὦ	Ὦ	image (3x): smooth breathing + circumflex on Ω
+jer	oldtestgreek00unknuoft	255	10	dpa	ἄρά	ἆρά	ἆρά	image (3x): ἆρά: smooth+circumflex on α, acute before enclitic γε
+jer	oldtestgreek00unknuoft	255	11	ἡπάτησας	ἠπάτησας	ἠπάτησας	ἠπάτησας	image (3x): smooth breathing on η
+jer	oldtestgreek00unknuoft	255	11	Ἱερουσαλήμ,	Ἱερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing on capital Ι; acute before capitalized quotation where applicable
+jer	oldtestgreek00unknuoft	255	11	Ἐϊρήνη	Ἐϊρήνη	Εἰρήνη	Εἰρήνη	image (3x): Εἰ smooth breathing on ι
+jer	oldtestgreek00unknuoft	255	12	ἔσται;	ἔσται;	ἔσται,	ἔσται,	image (3x): comma, not ano teleia/question mark
+jer	oldtestgreek00unknuoft	255	12	“ἐν	“ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	255	13	Ἱερουσαλήμ	Ἱερουσαλήμ	Ἰερουσαλήμ	Ἰερουσαλήμ	image (3x): smooth breathing on capital Ι; acute before capitalized quotation where applicable
+jer	oldtestgreek00unknuoft	255	14	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	255	15	"πνεῦμα	"“πνεῦμα	πνεῦμα	πνεῦμα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	255	15	μοι:	μοι:	μοι·	μοι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	255	16	"ἰδοὺ	"Ξἰδοὺ	ἰδοὺ	ἰδοὺ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	255	17	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	255	17	ὅτε	ὅτε	ὅτι	ὅτι	image (3x): ὅτι, ι not ε
+jer	oldtestgreek00unknuoft	255	18	Γἀπόπλυνε	᾿ἀπόπλυνε	ἀπόπλυνε	ἀπόπλυνε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	255	18	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing on capital Ι; acute before capitalized quotation where applicable
+jer	oldtestgreek00unknuoft	255	18	σωθῇς	σωθῇς"	σωθῇς·	σωθῇς·	image (3x): ano teleia after σωθῇς
+jer	oldtestgreek00unknuoft	255	19	“dir.	"“διότι	διότι	διότι	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	255	20	Ἐφράιμ.	Ἐ̓φράιμ.	Ἐφράιμ.	Ἐφράιμ.	image (3x): smooth breathing on Ε
+jer	oldtestgreek00unknuoft	255	21	᾿᾿ἀναμνήσατε	᾿᾿ἀναμνήσατε	ἀναμνήσατε	ἀναμνήσατε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	255	21	ἥκασιν:	ἥκασιν:	ἥκασιν·	ἥκασιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	255	21	ἐν.	ἐν	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	255	21	Ἱερουσαλήμ	Ἱερουσαλήμ	Ἰερουσαλήμ	Ἰερουσαλήμ	image (3x): smooth breathing on capital Ι; acute before capitalized quotation where applicable
+jer	oldtestgreek00unknuoft	255	22	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on capital Ι; acute before capitalized quotation where applicable
+jer	oldtestgreek00unknuoft	255	23	"ὼς	"ὼς	ὡς	ὡς	image (3x): ὡς rough breathing + acute
+jer	oldtestgreek00unknuoft	255	23	φυλάσσοντές	φυλάσσοντές	φυλάσσοντες	φυλάσσοντες	image (3x): no accent on final syllable
+jer	oldtestgreek00unknuoft	255	24	“ai	"δαἱ	αἱ	αἱ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	255	24	ὁδοί	ὁδοί	ὁδοί	ὁδοί	image (3x): acute before enclitic σου

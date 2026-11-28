@@ -1,0 +1,32 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	440	1	5καὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	440	1	ἔδωκεν +5	ἔδωκεν +-	ἔδωκεν	ἔδωκεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	440	3	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	440	3	καὶ +6	καὶ +6	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	440	5	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	440	6	71καὶ +7	7 +71καὶ 7	καὶ	καὶ	image (3x): superscript 7 then καὶ; margin 7 not text
+ezek	oldtestgreek00unknuoft	440	10	“eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	440	10	ὕδατι +8	ὕδατι +8	ὕδατι	ὕδατι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	440	11	αὕτη +αὕτη	αὕτη	αὕτη	αὕτη	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	440	11	πιαίνεται, +,	πιαίνεται,	πιαίνεται,	πιαίνεται,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	440	11	ty	ποιεῖν	ποιεῖν	ποιεῖν	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	440	12	ϑδιὰ	ϑδιὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	440	12	εἰπόν	εἰπόν	εἰπόν	εἰπόν	image (3x): acute before capitalized quotation
+ezek	oldtestgreek00unknuoft	440	12	Ei +g	Ἐΐο	Εἰ	Εἰ	image (3x): Εἰ, smooth breathing on iota, no accent
+ezek	oldtestgreek00unknuoft	440	16	“καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	440	16	πιαίνεται:	πιαίνεται:	πιαίνεται·	πιαίνεται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	440	16	ἅψασθαι +το	ἅψασθαι +το	ἅψασθαι	ἅψασθαι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	440	18	ξηρανθήσεται. +τ:	ξηρανθήσεται. +τ	ξηρανθήσεται.	ξηρανθήσεται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	440	18	λέγων +ττ	λέγων	λέγων	λέγων	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	440	19	Υἱὲ	ττ +᾿γϊὲ	Υἱὲ	Υἱὲ	image (3x): Υἱὲ, rough breathing on iota
+ezek	oldtestgreek00unknuoft	440	19	παραπικραίνοντα +x2	παραπικραίνοντα +τῷ	παραπικραίνοντα	παραπικραίνοντα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	440	20	Οὐκ	Οὐκ	Οὐκ	Οὐκ	image (3x): Οὐκ smooth on υ
+ezek	oldtestgreek00unknuoft	440	20	εἰπόν	εἰπόν	εἰπόν	εἰπόν	image (3x): acute before capitalized quotation
+ezek	oldtestgreek00unknuoft	440	20	Ὅταν	Ὅταν	Ὅταν	Ὅταν	image (3x): rough + acute, open curl then rising stroke
+ezek	oldtestgreek00unknuoft	440	20	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave; next word is a name, not a quotation
+ezek	oldtestgreek00unknuoft	440	21	Ἱερουσαλήμ,	Ἱερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing, apostrophe shape
+ezek	oldtestgreek00unknuoft	440	22	“kal	"Ξκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	440	22	ἐκ +13	ἐκ +13	ἐκ	ἐκ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	440	24	“rod +14	"“τοῦ +τὰ	τοῦ	τοῦ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	440	26	“Kai	"Ξκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	440	26	ἀποστή- +15	ἀποστή- +15	ἀποστή-	ἀποστή-	class R3: OCR appended accent-row or margin junk; c read from the image strip

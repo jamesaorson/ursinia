@@ -27,7 +27,9 @@ Code: `scripts/gsb-literal.{sh,scm}`, `scripts/lib/gsb-literal.scm`, test
 
 ## Output
 
-`gsb/literal/NN-<id>/CCC.scm`, generated, one per chapter, in the segment
+`gsb/literal/NN-<id>/CCC.scm` (a lettered section, Esther's Greek
+additions `esth.A.1` ... `esth.F.11`, is `gsb/literal/17-esth/A.scm`; give
+the letter as the chapter: `generate esth A 1 2`), generated, one per chapter, in the segment
 format of `gsb/translation/README.md`: `(verse N (status draft) (literal seg
 ...))`. Each segment lists the Greek words it renders with their concordance
 sense (`(N sense)`, plus `"lemma"` when it differs from the table's), so the
@@ -114,8 +116,10 @@ consecutive lemmas rendered as one segment (ἀνὰ μέσον, ἐν μέσῳ
 | `(plural "oxen")` | noun plural beyond the built-in rules |
 | `(comparative "greater")` | adjective comparative |
 | `(voice active)` | render passive forms as active (ὁράω appear, κρύπτω hide) |
+| `(voice middle)` | render as active only the passive forms that are also middle forms (present, imperfect, perfect, pluperfect: ἐπικαλεῖσθαι "to call upon"); an aorist or future passive stays passive (ἐπικληθήσεται "will be called upon") |
+| `(apposition)` | on a singular title noun: an indeclinable name right after it is in apposition, in its case, not its genitive (ἡγεμὼν Θαιμάν "chief Teman"; a plural title still takes the genitive, οἱ ἡγεμόνες Ἐλιφάς "the chiefs of Eliphaz"). Only where the title never takes a genitive name (not κύριος: ὁ κύριος Ἰωσήφ is "Joseph's lord") |
 | `(intransitive)` | a neuter noun after the active verb may be its subject; an accusative right after its articular infinitive is the infinitive's subject (ἐν τῷ κινῆσαι αὐτούς "in their moving") |
-| `(genitive "over")`, `(dative "on")` | the English a genitive/dative takes: on a verb or adjective, for its object (ἄρχω `over`, ἀκούω `""`); on a noun, for itself (ἡμέρα `on`) |
+| `(genitive "over")`, `(dative "on")` | the English a genitive/dative takes: on a verb or adjective, for its object (ἄρχω `over`, ἀκούω `""`); on a noun, for itself (ἡμέρα `on`). A verb's `(dative "to")` also says it takes a recipient: a name right after a nominative in its stretch, with no dative there yet, is that dative (Ὤφθη ὁ θεὸς Ἰακώβ "God appeared to Jacob", ὁράω appear) |
 | `(with-preposition "εἰς" for)` | after this preposition the noun takes that sense of it (εἰς σημεῖα "for signs") |
 | `(object-case "A")` | on a preposition sense: use it for an object in this case (μετά + acc. `after`, πρός + acc. `to`, κατά + gen. `against`) |
 | `(subject "it")` | a true impersonal: "it" for a third singular verb with no subject (γίνομαι: "it came to be"); keep the list short and say why in a comment |
@@ -148,7 +152,36 @@ English; passive is passive unless the sense says `(voice active)`.
 **Negation.** οὐ/μή before a finite verb joins it: "did not rain", "will not
 eat", "was not", "do not"; οὐ μή "will not eat at all" (also with a pronoun
 between: οὐ μή σε ἐγκαταλείπω "I will not forsake at all you"); οὐδὲ μή "nor
-at all will you serve"; μή + third imperative "let not God speak".
+at all will you serve"; μή + third imperative "let not God speak". A δέ, γάρ
+after a negated verb moves before the negation, which stays with its verb:
+οὐκ ἐμνήσθη δὲ ὁ ἀρχιοινοχόος "But the chief cupbearer did not remember";
+εἰ μὴ γάρ "For if not". οὐδείς, οὐθείς, μηδείς after a negation in its
+stretch is "anyone"/"anything" (senses `anyone`, `anything`): the Greek
+doubles the negation, English "not ... nothing" would cancel it (οὐκ ἐξαρεῖ
+οὐθείς "anyone will not uplift"); before its verb it can be the subject (καὶ
+οὐθεὶς ἦν "and no one was").
+
+**ἄν** with a past indicative (aorist, imperfect, pluperfect) in a main
+clause is unreal: "would have sent", "would be sending" (ἐξαπέστειλα ἄν σε "I
+would have sent you out"); with an optative it is potential, "would" (πῶς ἂν
+κλέψαιμεν "how would we steal"); ἄν itself is unrendered (sense
+`unrendered`). After a subordinator or relative it is iterative and stays
+"ever" (ὡς ἂν εἰσεπορεύοντο "as ever ... were entering"); with a subjunctive
+it stays "ever" (ὃς ἄν).
+
+**κύριος and Swete's capitals.** The generator follows the capital of the
+word as transcribed (the `word` column): Swete capitalizes Κύριος where he
+reads the divine name (mostly anarthrous: "[the] Lord", "Lord"), and prints
+κύριος in lower case for the appellative "lord": a human lord or master (ὁ
+κύριός μου, κύριε to Joseph), and also some articular or vocative uses of
+God (πρὸς τὸν κύριον Gen 4:13, 18:27; κύριε 18:30, 32; διὰ τὸ τὸν κύριον
+μετ’ αὐτοῦ εἶναι 39:23; and anarthrous Παρὰ κυρίου 24:50, to be checked on the
+scan). So lower case is "lord", with no supplied "[the]"; the capital is
+"Lord". This rests on Swete's editorial capitals, not on the Greek, which
+has none: the English keeps open what his lower case leaves open. A capital
+that may be only the position's (Κύριε opening speech, Κύριος opening a
+sentence) stays "Lord" and `check` warns `kyrios-capital-at-start`; if the
+context shows a man is addressed, override `(english "lord")`, do not guess.
 
 **μή, decided in Greek order** (`mark-mh`):
 - *A question expecting "no".* μή opening a sentence that ends in a
@@ -231,10 +264,19 @@ auxiliaries ("will", "was", "has", "let", "did").
   true passive, a sense with `(intransitive)`), takes a genitive object
   (φείδομαι), is followed by another accusative (its object: ἐν τῷ ἐκτρῖψαι
   Κύριον πάσας τὰς πόλεις), or is an indeclinable name (μετὰ τὸ γηρᾶσαι
-  Ἰσαάκ); otherwise it is the object (ἐν τῷ εὐλογεῖν αὐτόν "in blessing
-  him"). A genitive τοῦ + infinitive with such a subject is a gerund too,
+  Ἰσαάκ). The one pronoun of a transitive infinitive, with no other
+  accusative, is its subject after a preposition of time (ἐν, ἕως, πρό,
+  μετά, ἅμα, μέχρι: ἕως τοῦ ἀποστεῖλαί σε "until your sending", ἐν τῷ τίκτειν
+  αὐτήν "in her bearing") or after a noun that is not a person (αἱ ἡμέραι τοῦ
+  τεκεῖν αὐτήν "the days of her bearing"), unless a third person pronoun
+  repeats a finite verb of the same lemma earlier in the verse (εὐλόγησεν
+  Ἰσαὰκ τὸν Ἰακὼβ ... ἐν τῷ εὐλογεῖν αὐτόν "in blessing him"); `check` warns
+  `inf-subject-by-rule` there. Otherwise, and after ἕνεκεν or a bare τοῦ
+  after a verb (a purpose: ταχυνεῖ ὁ θεὸς τοῦ ποιῆσαι αὐτό "to make it"), it
+  is the object. A genitive τοῦ + infinitive with such a subject is a gerund too,
   with "of": τοῦ ζῆσαι τὴν ψυχήν μου "of my soul's living", τοῦ μὴ ἁμαρτεῖν σε
-  "of your not sinning".
+  "of your not sinning"; when its noun moves as a subject it takes the
+  gerund along.
 - **Genitive absolute.** An anarthrous genitive participle with an agreeing
   genitive subject after it, not governed by a preposition, an article, a
   noun before it or a verb taking the genitive, is rendered subject first,
@@ -242,8 +284,28 @@ auxiliaries ("will", "was", "has", "let", "did").
   ἑστηκότος αὐτοῦ "he having stood", ἔτι ζῶντος αὐτοῦ "he further living",
   ἀκουόντων τῶν υἱῶν Χέτ "the sons of Heth ... hearing". The pronoun keeps the
   open forms ("he/it" when masculine/neuter with no person before it).
-- The relative ὅς is "who"/"whom" when its nearest noun agrees with it and
-  is a person (a sense with `(person)`, a name, θεός), else "which".
+- The relative ὅς is "who"/"whom" when its nearest noun of its number and
+  gender is a person (a sense with `(person)`, a name, θεός), else "which"
+  (τῷ θεῷ ... ἐν ἡμέρᾳ θλίψεως, ὃς ἦν μετ’ ἐμοῦ "who"); a form of two genders
+  (οὗ, ᾧ) looks only at the nearest noun.
+- **First singular or third plural** (ἔλαβον, ἴδον, ἦλθον, ἔφαγον, ἔτεκον:
+  one spelling, both readings in the form rows): inside its sentence, and its
+  side of a speech opening, ἐγώ decides "I"; a nominative plural (not a
+  preposition's object) up to the next finite verb or καί, two names joined by
+  καί after it (ἔλαβον Ἀβρὰμ καὶ Ναχώρ) or a third plural reflexive decides
+  "they"; a verb joined to it by καί, not inside a subordinate clause, decides
+  by its own person and number. With no cue: in a verse with no first or
+  second person word and no speech opening, "they" (narrative), else the first
+  form row; both are marked and `check` warns `person-unsure`: read the verse
+  (speech that began in an earlier verse is invisible to the verse) and fix
+  a wrong one with a `(tag ...)` override. Never a silent default.
+- **A neuter plural subject** takes the plural English verb, though the Greek
+  verb is singular: συνεστρέφετο τὰ ἔντερα αὐτοῦ "his bowels were being
+  twisted"; so does a subject of members joined by καί (not καὶ αὐτή
+  "also she"). A neuter plural before a third person active verb whose object
+  is a pronoun after it is the subject: τὰ πετεινὰ ... κατήσθιεν αὐτά "the
+  birds ... were devouring them". The impersonal "it" of a sense's `(subject
+  "it")` is for a singular verb only.
 
 **Clauses.** Every word belongs to a clause (`mark-clauses`); a new one
 opens at direct speech (a capital common word or vocative), a relative
@@ -251,8 +313,23 @@ pronoun (also ὅσος, οἷος), a subordinator (ὅτι, ἵνα, ὅπως
 ὅτε, ἡνίκα, ὡς, καθώς, καθάπερ, ἀλλά, ἕως before a verb, μή "lest" ...) and
 καί before a finite verb. **No move takes a word into another clause.** A
 capital after ὄνομα or a verb of naming is the name given, not speech
-(ἐκλήθη τὸ ὄνομα αὐτῆς Σύγχυσις "was called Confusion"); a name said twice
-(Ἀβραὰμ Ἀβραάμ) is a vocative call; a vocative is never a subject.
+(ἐκλήθη τὸ ὄνομα αὐτῆς Σύγχυσις "was called Confusion"), and so is a capital
+common noun after a preposition or article (εἰς Σκηνάς "into Tents", τὸ
+Εἶδος τοῦ θεοῦ); a name said twice (Ἀβραὰμ Ἀβραάμ, also after a noun: καθ’
+ὕπνον Ἰακὼβ Ἰακώβ) is a vocative call; a vocative is never a subject.
+Speech also opens at a capital name or nominative (`mark-name-speech!`):
+right after a participle of saying (λέγων Συχὲμ ὁ υἱός μου "saying, Shechem
+my son"); after a verb of saying whose subject (a nominative) and addressee
+(a dative or πρός) both stand between, unless it follows a nominative common
+noun, whose genitive it then is (εἶπεν αὐτῇ ὁ ἄγγελος Κυρίου Ἁγάρ "said to
+her, Hagar"; Εἶπεν δὲ ὁ θεὸς τῷ Ἀβραάμ Σάρα "said to Abraham, Sarai"); and a
+hanging nominative right after the verb and its addressee that αὐτός takes
+up before a finite verb after a comma and a relative (εἶπέν μοι Κύριος ὁ
+θεός, ᾧ ..., αὐτὸς ἐξαποστελεῖ "he/she/it said to me, The Lord God, ..., he
+will send out"). Speech nested in a frame of the same sentence that opens
+with μή + a second person subjunctive is a prohibition even before the
+frame's question mark (Οὐκ ἐλάλησα ὑμῖν λέγων Μὴ ἀδικήσητε τὸ παιδάριον;
+"saying, Do not wrong the lad?").
 
 **Word order** is the Greek's except for these named moves, all inside one
 punctuation-delimited stretch:
@@ -279,10 +356,24 @@ punctuation-delimited stretch:
    person pronoun subject after its verb moves too ("I know that", "that
    you fear God"; not after an imperative, "Drink you", nor after an
    interrogative, "who are you?").
-   **Indeclinable names** take their case from an article, a preposition, a
-   noun before them (genitive), or an apposition naming a person after
-   them: with an apposition in another case (ἐκάλεσεν Ἠσαὺ τὸν υἱὸν αὐτοῦ;
-   καὶ Λὼτ τὸν ἀδελφὸν αὐτοῦ ἀπέστρεψεν) the name is not the subject.
+   **Indeclinable names** take their case, in this order, from an article;
+   after a preposition of several cases, another name or a declined name,
+   from an article + person noun in apposition after them (περὶ Ῥαχὴλ τῆς
+   θυγατρός σου "concerning Rachel your daughter", ἔδωκεν Λαβὰν Ῥαχὴλ τῇ
+   θυγατρὶ αὐτοῦ "gave to Rachel his daughter", ὑπὸ Φαραὼ τοῦ βασιλέως, ἀπὸ
+   Ἐφρὼν τοῦ Χετταίου); from a preposition of one case; and after a declined
+   common noun (not a name: εἶπεν δὲ Ἰούδας Θαμάρ) the genitive (τῷ οἴκῳ
+   Ἰακώβ), except after a singular title with `(apposition)` (ἡγεμὼν Θαιμάν
+   "chief Teman") and after a nominative where the verb takes a recipient
+   (`(dative "to")`) and there is none (Ὤφθη ὁ θεὸς Ἰακώβ "God appeared to
+   Jacob"). A name after a subject noun and its possessive is in apposition
+   and moves with it (λέγει ὁ παῖς σου Ἰακώβ "your servant Jacob says"). The
+   article before the name of a people is "the" (ὁ Χαναναῖος "the
+   Canaanite", Ἐφρὼν ὁ Χετταῖος "Ephron the Hittite"; a people's name is a
+   declined name whose gloss ends -ite, -ian, -ean), before other names
+   unrendered (Ἐφρὼν τοῦ Σάαρ "Ephron of Zohar"). With an apposition in
+   another case (ἐκάλεσεν Ἠσαὺ τὸν υἱὸν αὐτοῦ; καὶ Λὼτ τὸν ἀδελφὸν αὐτοῦ
+   ἀπέστρεψεν) the name is not the subject.
    **Where the subject cannot be told** (a name with such an apposition,
    or a name followed by another declined nominative after a non-copula
    verb), the Greek order is kept with no pronoun ("and called Esau his son
@@ -295,7 +386,17 @@ punctuation-delimited stretch:
 2a. A nominative predicate before εἰμί goes after it: ὅτι προφήτης ἐστίν
    "that he is prophet", Ἀδελφή μού ἐστιν "She is my sister", ἀδελφὴ αὐτοῦ
    εἰμι "I am his sister" (a singular person noun right before the verb,
-   with no subject after it, no negation and no dative possessor).
+   with no subject after it, no negation and no dative possessor). An
+   anarthrous predicate adjective right before εἰμί/γίνομαι (not an
+   imperative, not one of two joined by καί) goes after it once the subject
+   has moved before it: ἕως μέγας γένηται Σηλὼμ ὁ υἱός μου "until Shelah my
+   son come to be great". After εἰμί, a noun with a dative possessor is the
+   subject of an existential verb (τῷ δὲ Λαβὰν ἦσαν δύο θυγατέρες "But to
+   Laban two daughters were"), and so is the divine name Κύριος (ἦν Κύριος
+   μετὰ Ἰωσήφ "[the] Lord was with Joseph"); with a copula an articular
+   apposition after a name moves with it (Σηλὼμ ὁ υἱός μου), an anarthrous
+   one is the predicate (ἔσται Χανάαν παῖς αὐτοῦ "Canaan will be his
+   servant").
 3. A third person imperative splits around its subject: "Let light come to be".
 4. A genitive pronoun after its noun becomes a possessive before it, the
    article absorbed ("his works", "of your face"); also one before article +

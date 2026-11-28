@@ -1,0 +1,46 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	286	1	ἀπολλύειν,	ἀπολλύειν, +ὃ	ἀπολλύειν,	ἀπολλύειν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	286	1	*xai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	286	1	ἀπὸ +8	ἀπὸ +8	ἀπὸ	ἀπὸ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	286	3	ϑκαὶ	9καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	286	3	λαλήσω	λαλήσω.	λαλήσω	λαλήσω	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	286	3	καὶ +9	καὶ +9	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	286	4	* +Kat	"καὶ	καὶ	καὶ	image (3x): superscript 10 then καὶ; not text
+jer	oldtestgreek00unknuoft	286	4	ποιή- +10	ποιή- +τὸ	ποιή-	ποιή-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	286	5	φωνῆς.	φωνῆς	φωνῆς	φωνῆς	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	286	6	ποιῆσαι	ποιῆσαι.	ποιῆσαι	ποιῆσαι	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	286	6	αὐτοῖς.	αὐτοῖς. +“"	αὐτοῖς.	αὐτοῖς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	286	6	Kal +11	καὶ +ττ	καὶ	καὶ	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	286	7	“Jovda	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	286	7	Ἰερου-	Ἰερου-	Ἰερου-	Ἰερου-	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	286	8	σαλήμ	σαλήμ	σαλήμ	σαλήμ	image (3x): acute before capitalized quotation
+jer	oldtestgreek00unknuoft	286	8	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	286	9	λογισμόν:	λογισμόν:	λογισμόν·	λογισμόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	286	9	ἀποστραφήτω.	ἀποστραφήτω.	ἀποστραφήτω	ἀποστραφήτω	image (3x): speck, not a period
+jer	oldtestgreek00unknuoft	286	10	"“καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	286	10	Ἀνδριού- +τὸ	Ἀνδριού- +τὸ	Ἀνδριού-	Ἀνδριού-	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	286	11	πορευσύμεθα,	πορευσύμεθα,	πορευσόμεθα,	πορευσόμεθα,	image (3x): omicron, πορευσόμεθα
+jer	oldtestgreek00unknuoft	286	12	ποιήσομεν. +13	ποιήσομεν. +13	ποιήσομεν.	ποιήσομεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	286	12	Διὰ +13	Διὰ +13	Διὰ	Διὰ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	286	13	Ἐ̓ρωτήσατε	᾽Ἐ̓ρωτήσατε	Ἐρωτήσατε	Ἐρωτήσατε	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	286	13	Tis	Τίς	Τίς	Τίς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	286	14	Ἰσραήλ;	Ἰσραήλ;	Ἰσραήλ;	Ἰσραήλ;	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	286	14	“pa	"“᾿μὴ	μὴ	μὴ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	286	14	ἐκλείψουσιν +14	ἐκλείψουσιν +τᾷ	ἐκλείψουσιν	ἐκλείψουσιν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	286	16	βιαίως +ς	βιαίως	βιαίως	βιαίως	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	286	16	dri	᾿5ὅτι	ὅτι	ὅτι	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	286	16	ἐπελάθοντό	ἐπελάθοντό	ἐπελάθοντό	ἐπελάθοντό	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	286	16	μου	μου +λαό	μου	μου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	286	16	λαό	λαός	λαός	λαός	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	286	16	κενὸν +15	κενὸν +15	κενὸν	κενὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	286	18	rod	"“τοῦ	τοῦ	τοῦ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	286	18	τὴν +τό ,	τὴν +τό ,	τὴν	τὴν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	286	19	αἰώνιον:	αἰώνιον᾽	αἰώνιον·	αἰώνιον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	286	21	Tas	"ῶὼς	ὡς	ὡς	image (3x): superscript 17 then ὡς, rough + grave
+jer	oldtestgreek00unknuoft	286	21	αὐ- +17	αὐ- +17	αὐ-	αὐ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	286	22	*8Kal	᾿δκαὶ	Καὶ	Καὶ	image (3x): superscript 18 then capital Καὶ
+jer	oldtestgreek00unknuoft	286	22	Δεῦτε +18	Δεῦτε	Δεῦτε	Δεῦτε	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	286	23	λογισώμεθα	18 +ογισώμεθα	λογισώμεθα	λογισώμεθα	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	286	23	Ἰερεμίαν	Ἰ̔ερεμίαν	Ἰερεμίαν	Ἰερεμίαν	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	286	24	συνετοῦ.	συνετοῦ.	συνετοῦ	συνετοῦ	image (3x): speck, not a period
+jer	oldtestgreek00unknuoft	286	24	προφήτου:	προφήτου:	προφήτου·	προφήτου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

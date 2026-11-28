@@ -1,0 +1,52 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+lam	oldtestgreek00unknuoft	393	1	“Ἐκάλεσεν	“Ξ	Θαύ.	Θαύ.	image (6x): centered letter heading on its own line, read from rectangle zoom
+lam	oldtestgreek00unknuoft	393	2	∅	Ἐκάλεσεν	Ἐκάλεσεν	Ἐκάλεσεν	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	393	4	“καταλελειμμένος,	καταλελειμμένος,	καταλελειμμένος,	καταλελειμμένος,	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	393	5	ἐχθρούς	ἐχθρούς	ἐχθρούς	ἐχθρούς	image (3x): acute before enclitic
+lam	oldtestgreek00unknuoft	393	5	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	393	6	∅	"Ἐγὼ	Ἄλεφ.	Ἄλεφ.	image (6x): centered heading before verses 1-4 (chapter III starts here, margin III 1); apostrophe then rising stroke (smooth + acute)
+lam	oldtestgreek00unknuoft	393	7	Ἐγὼ	∅	Ἐγὼ	Ἐγὼ	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	393	7	6	ὃ	ὁ	ὁ	image (3x): rough breathing only, no accent: ὁ
+lam	oldtestgreek00unknuoft	393	8	∅	Ξπαρέλαβέν	παρέλαβέν	παρέλαβέν	image (3x): acute before enclitic
+lam	oldtestgreek00unknuoft	393	8	∅	με	με	με	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	393	8	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	393	8	∅	ἀπήγαγεν	ἀπήγαγεν	ἀπήγαγεν	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	393	8	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	393	8	∅	σκότος	σκότος	σκότος	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	393	8	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	393	8	∅	οὐ	οὐ	οὐ	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	393	8	∅	φῶς.	φῶς.	φῶς.	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	393	10	ἐἐπαλαίωσεν	ἐἐπαλαίωσεν	ἐπαλαίωσεν	ἐπαλαίωσεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+lam	oldtestgreek00unknuoft	393	10	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	393	10	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	393	10	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	393	12	∅	5᾽Ανῳκοδόμησεν	Βή.	Βή.	image (6x): centered letter heading on its own line, read from rectangle zoom
+lam	oldtestgreek00unknuoft	393	13	∅	∅	Ἀνῳκοδόμησεν	Ἀνῳκοδόμησεν	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	393	13	∅	κατ᾽	κατ᾽	κατ᾽	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	393	13	∅	ἐμοῦ, +᾿	ἐμοῦ,	ἐμοῦ,	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+lam	oldtestgreek00unknuoft	393	13	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	393	13	∅	ἐκύκλωσεν	ἐκύκλωσεν	ἐκύκλωσεν	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	393	13	∅	κεφαλήν	κεφαλήν	κεφαλήν	image (3x): acute before enclitic
+lam	oldtestgreek00unknuoft	393	13	∅	μου	μου	μου	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	393	13	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	393	15	ἐν	δὲν	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	393	15	ἐκάθισέν	ἐκάθισέν	ἐκάθισέν	ἐκάθισέν	image (3x): acute before enclitic
+lam	oldtestgreek00unknuoft	393	15	αἰῶνος,	αἰῶνος,"	αἰῶνος,	αἰῶνος,	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	393	16	Τἀνῳκοδόμησεν	ἀνῳκοδόμη	ἀνῳκοδόμησεν	ἀνῳκοδόμησεν	image (3x): superscript 7 then ἀνῳκοδόμησεν
+lam	oldtestgreek00unknuoft	393	16	ἐμοῦ	μοῦ	ἐμοῦ	ἐμοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	393	17	χαλκόν	χαλκόν	χαλκόν	χαλκόν	image (3x): acute before enclitic
+lam	oldtestgreek00unknuoft	393	18	ΤΕ	Τίμελ.	Γίμελ.	Γίμελ.	image (6x): centered letter heading on its own line, read from rectangle zoom
+lam	oldtestgreek00unknuoft	393	19	μελ. +: *Kai	: +“Καί	Καί	Καί	image (3x): acute before enclitic
+lam	oldtestgreek00unknuoft	393	19	προσευχήν	προσευχήν	προσευχήν	προσευχήν	image (3x): acute before enclitic
+lam	oldtestgreek00unknuoft	393	21	ϑ᾽Ἀνῳκοδόμησεν	ϑ᾽Ἀνῳκοδόμησεν	Ἀνῳκοδόμησεν	Ἀνῳκοδόμησεν	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	393	21	ὁδούς	ὅδούς	ὁδούς	ὁδούς	image (3x): rough breathing + acute on ο of ὁδούς? no: rough breathing on first ο, acute on ού before enclitic μου
+lam	oldtestgreek00unknuoft	393	21	μου, +9)	μου,	μου,	μου,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lam	oldtestgreek00unknuoft	393	22	"ἄρκος	"ἄρκος	ἄρκος	ἄρκος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+lam	oldtestgreek00unknuoft	393	22	αὐτός.	αὐτός.	αὐτός	αὐτός	image (3x): acute before enclitic
+lam	oldtestgreek00unknuoft	393	22	pow	μοι	μοι	μοι	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	393	22	κρυφαίοις-	κρυφαίοις"	κρυφαίοις·	κρυφαίοις·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	393	23	κατέπαυσέν	κατέπαυσέν	κατέπαυσέν	κατέπαυσέν	image (3x): acute before enclitic
+lam	oldtestgreek00unknuoft	393	23	ἔθετό	ἔθετό	ἔθετό	ἔθετό	image (3x): acute before enclitic
+lam	oldtestgreek00unknuoft	393	23	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	393	23	ἦφα-	ἦφα-	ἠφα-	ἠφα-	image (3x): smooth breathing only, no accent on η
+lam	oldtestgreek00unknuoft	393	24	νισμένην. +͵ “a	νισμένην. +᾿; Ἂς ΒΓ	νισμένην.	νισμένην.	class R3: OCR appended accent-row or margin junk; c read from the image strip

@@ -1,0 +1,52 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	422	1	‘Edpaxas,	Ἑ +όρακας,	Ἑόρακας,	Ἑόρακας,	image (3x): rough breathing (reversed comma) on Ε: Ἑόρακας
+ezek	oldtestgreek00unknuoft	422	1	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on Ι
+ezek	oldtestgreek00unknuoft	422	2	οὖσιν,	οὖσιν,	οῦσιν,	οῦσιν,	image (3x): circumflex, not smooth+acute
+ezek	oldtestgreek00unknuoft	422	3	Οὐχ	Οὐχ	Οὐχ	Οὐχ	image (3x): smooth breathing on υ of Οὐχ
+ezek	oldtestgreek00unknuoft	422	3	"Ξκαὶ	"Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	3	εἶπεν +13	εἶπεν +τ3	εἶπεν	εἶπεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	4	μέ	μέ	μέ	μέ	image (3x): acute on μέ before capitalized quotation
+ezek	oldtestgreek00unknuoft	422	4	Ἔτι	Ἔτι	Ἔτι	Ἔτι	image (3x): smooth + acute on Ε
+ezek	oldtestgreek00unknuoft	422	4	“Kal	"“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	5	14 +nyayév	τῷ. +ἡγαγέν	ήγαγέν	ήγαγέν	image (3x): acute before enclitic με
+ezek	oldtestgreek00unknuoft	422	7	""καὶ	""καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	7	μέ	μέ	μέ	μέ	image (3x): acute on μέ before capitalized quotation
+ezek	oldtestgreek00unknuoft	422	7	Ὑἱὲ	Υἱὲ	Υἱὲ	Υἱὲ	image (3x): Υ unmarked; rough + grave on ι
+ezek	oldtestgreek00unknuoft	422	7	ὄψει +x15	ὄψει +τ5	ὄψει	ὄψει	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	8	∅	"“καὶ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	8	∅	εἰσήγαγέν	εἰσήγαγέν	εἰσήγαγέν	image (3x): acute before enclitic με
+ezek	oldtestgreek00unknuoft	422	8	∅	με	με	με	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	8	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	8	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	8	∅	αὐλὴν +τό	αὐλὴν	αὐλὴν	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	12	oma	πα	ωπα	ωπα	image (3x): as transcribed; OCR garbled or fused verse number
+ezek	oldtestgreek00unknuoft	422	12	ἡλίῳ. +“7	ἡλίῳ. +“7	ἡλίῳ.	ἡλίῳ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	12	εἶπεν +17	εἶπεν +17	εἶπεν	εἶπεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	13	μέ	μέ	μέ	μέ	image (3x): acute on μέ before capitalized quotation
+ezek	oldtestgreek00unknuoft	422	13	‘Edpaxas,	Ἑ +όρακας,	Ἑόρακας,	Ἑόρακας,	image (3x): rough breathing (reversed comma) on Ε: Ἑόρακας
+ezek	oldtestgreek00unknuoft	422	13	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on Ι
+ezek	oldtestgreek00unknuoft	422	14	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	15	“xa	τὸ +“καὶ	καὶ	καὶ	image (3x): as transcribed; OCR garbled or fused verse number
+ezek	oldtestgreek00unknuoft	422	16	18	τ8 +θυμοῦ:	θυμοῦ·	θυμοῦ·	image (3x): as transcribed; OCR garbled or fused verse number
+ezek	oldtestgreek00unknuoft	422	16	θυμοῦ: +od	οὐ	οὐ	οὐ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	422	16	ὀφθαλμός	ὀφθαλμός	ὀφθαλμός	ὀφθαλμός	image (3x): acute before enclitic μου
+ezek	oldtestgreek00unknuoft	422	16	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	16	ἐλεήσω. +*	ἐλεήσω. +᾿	ἐλεήσω.	ἐλεήσω.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	16	Καὶ +x	Καὶ +τ	Καὶ	Καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	17	cis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	17	ὦτά	ὦτά	ὦτά	ὦτά	image (3x): acute before enclitic μου
+ezek	oldtestgreek00unknuoft	422	17	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	17	Ἤνγγικεν	ἜἬνγγικεν	Ἤγγικεν	Ἤγγικεν	image (3x): smooth + acute on Η: Ἤγγικεν
+ezek	oldtestgreek00unknuoft	422	18	Knows	κησις	κησις	κησις	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	18	πόλεως"	πόλεως:	πόλεως·	πόλεως·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	18	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	18	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	19	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	19	ἐξ	ἐξ	ἓξ	ἓξ	image (6x): compact closed mark, rough + grave: ἓξ
+ezek	oldtestgreek00unknuoft	422	19	τῆς +2	τῆς +2	τῆς	τῆς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	21	αὐτοῦ:	αὐτοῦ"	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	22	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	23	τοῦ	τοῦ +θυ	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	23	Ξ3καὶ	3 +“καὶ	καὶ	καὶ	image (3x): as transcribed; OCR garbled or fused verse number
+ezek	oldtestgreek00unknuoft	422	23	δόξα	δόξα +θ	δόξα	δόξα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	422	23	τοῦ +3	τοῦ +3	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip

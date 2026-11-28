@@ -1,0 +1,55 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	292	1	τῶν	τῶν.	τῶν	τῶν	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	292	2	μαχαίρας"	μαχαίρας"	μαχαίρας·	μαχαίρας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	292	2	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	292	3	καὶ	ὅκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	292	3	τὸν	τὸν +8	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	292	4	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	292	4	mpd	πρὸ	πρὸ	πρὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	292	5	θανάτου"	θ +θανάτου": ο	θανάτου·	θανάτου·	image (3x): raised dot, ano teleia
+jer	oldtestgreek00unknuoft	292	5	96	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	292	5	ἐν	ἐν +9	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	292	7	ὄμενος	ὄμενος	όμενος	όμενος	image (3x): όμενος, second half of ἐκπορευ-όμενος, acute only, no breathing
+jer	oldtestgreek00unknuoft	292	8	Ψυχὴ	ψυχὴ	ψυχὴ	ψυχὴ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	292	8	ζήσεται. +“ὁ	ζήσεται.	ζήσεται.	ζήσεται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	292	8	διότι +10	"διότι +το.	διότι	διότι	class R3+R1: OCR appended accent-row or margin junk; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	292	9	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): extra acute before enclitic as printed
+jer	oldtestgreek00unknuoft	292	10	ἀγαθά:	ἀγαθά:	ἀγαθά·	ἀγαθά·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	292	11	το	Ο	Ὁ	Ὁ	image (3x): Ὁ rough breathing, no accent, after superscript 11
+jer	oldtestgreek00unknuoft	292	11	Ἰούδα,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	292	11	ἀκούσατε +τι	ἀκούσατε +τ:	ἀκούσατε	ἀκούσατε	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	292	12	Κυρίου"	Κυρίου	Κυρίου·	Κυρίου·	image (3x): raised dot, ano teleia
+jer	oldtestgreek00unknuoft	292	12	*	-ὐβοἶκος	οἶκος	οἶκος	image (3x): οἶκος after superscript 12
+jer	oldtestgreek00unknuoft	292	12	∅	Δαυείδ,	Δαυείδ,	Δαυείδ,	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	292	12	∅	τάδε	τάδε	τάδε	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	292	12	∅	λέγει	λέγει	λέγει	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	292	12	∅	Κύριος	Κύριος	Κύριος	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	292	12	∅	Κρίνατε	Κρίνατε	Κρίνατε	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	292	12	∅	πρωὶ	πρωὶ	πρωὶ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	292	12	∅	κρίμα	κρίμα	κρίμα	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	292	12	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	292	14	ὀργή	ὀργή	ὀργή	ὀργή	image (3x): extra acute before enclitic as printed
+jer	oldtestgreek00unknuoft	292	15	“3idod	"᾿ἰδοὺ	ἰδοὺ	ἰδοὺ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	292	15	τὴν +13	τὴν	τὴν	τὴν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	292	16	Tis	Τίς	Τίς	Τίς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	292	16	Tis	τίς	τίς	τίς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	292	17	τὸ	τὸ +ὸ	τὸ	τὸ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	292	17	“Kal	ΠῚ +“καὶ	καὶ	καὶ	image (3x): καὶ after superscript 14
+jer	oldtestgreek00unknuoft	292	17	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	292	17	τῷ	τῷ +ὃ	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	292	17	αὑτῆς,	αὑτῆς,	αὐτῆς,	αὐτῆς,	image (3x): smooth breathing αὐτῆς
+jer	oldtestgreek00unknuoft	292	17	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	292	17	ἔδεται +x4	ἔδεται +τΆ	ἔδεται	ἔδεται	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	292	19	*Tdde	τάδε	Τάδε	Τάδε	image (3x): capital Τάδε after superscript 1
+jer	oldtestgreek00unknuoft	292	19	κατάβηθι	κατάβηθι.	κατάβηθι	κατάβηθι	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	292	19	οἶκον.	οἶκον	οἶκον	οἶκον	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	292	19	τοῦ +x	τοῦ +τ	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	292	20	Ἰούδα,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	292	20	"καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	292	21	2 +“Axove	. +Λκουε	Ἄκουε	Ἄκουε	image (3x): smooth breathing+acute, apostrophe then rising stroke
+jer	oldtestgreek00unknuoft	292	21	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	292	21	θρόνου.	θρόνου.	θρόνου	θρόνου	image (3x): no point after θρόνου
+jer	oldtestgreek00unknuoft	292	22	οἶκός	οἶκός	οἶκός	οἶκός	image (3x): extra acute before enclitic as printed
+jer	oldtestgreek00unknuoft	292	22	λαός	λαός	λαός	λαός	image (3x): extra acute before enclitic as printed
+jer	oldtestgreek00unknuoft	292	22	σου	σον	σου	σου	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	292	23	καὶ +3	καὶ +3	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip

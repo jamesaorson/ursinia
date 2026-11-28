@@ -1,0 +1,50 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	343	1	∅	κύκλῳ	κύκλῳ	κύκλῳ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	343	1	∅	τῆς	τῆς	τῆς	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	343	1	∅	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on Ι
+jer	oldtestgreek00unknuoft	343	1	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	343	1	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	343	1	∅	πόλεσιν	πόλεσιν	πόλεσιν	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	343	1	∅	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on Ι
+jer	oldtestgreek00unknuoft	343	1	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	343	1	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	343	1	∅	πόλεσιν	πόλεσιν	πόλεσιν	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	343	1	∅	τοῦ	τοῦ	τοῦ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	343	2	ὄρους	Β +ὄρους.	ὄρους	ὄρους	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	343	2	vayeB,	νάγεβ,	νάγεβ,	νάγεβ,	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	343	4	ἶ +ταὶ	( +ι ταὶ	Καὶ	Καὶ	image (3x): verse superscript and margin number are not text; word as read
+jer	oldtestgreek00unknuoft	343	4	Ἰερεμίαν	Ἰερεμίαν	Ἰερεμίαν	Ἰερεμίαν	image (3x): smooth breathing on Ι
+jer	oldtestgreek00unknuoft	343	6	2. +οὕτως	2 +Ξοὕτως	Οὕτως	Οὕτως	image (3x): breathing as read (rough+acute on Οὕτως, smooth on Ἰδοὺ); verse superscript not text
+jer	oldtestgreek00unknuoft	343	6	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	343	6	dvop-	ἀνορ- +3.	ἀνορ-	ἀνορ-	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	343	7	αὐτήν,	αὐτήν,	αὐτήν,	αὐτήν,	image (3x): acute before comma
+jer	oldtestgreek00unknuoft	343	7	αὐτῷ	αὐτῷ +3	αὐτῷ	αὐτῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	343	7	3Kéxpakov	Κέκραξον	Κέκραξον	Κέκραξον	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	343	7	πρὸς	πρὸς +μ	πρὸς	πρὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	343	8	σομαί	σομαί	σομαί	σομαί	image (3x): acute on ultima before enclitic, as Swete prints
+jer	oldtestgreek00unknuoft	343	8	σοι.	σοι.	σοι	σοι	image (3x): no point after σοι
+jer	oldtestgreek00unknuoft	343	9	4 +46r¢	,““ὅτι	ὅτι	ὅτι	image (3x): verse superscript and margin number are not text; word as read
+jer	oldtestgreek00unknuoft	343	9	TavTNsS	ταύτης	ταύτης	ταύτης	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	343	9	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	343	10	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on Ι
+jer	oldtestgreek00unknuoft	343	10	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	343	10	mpopa-	προμα- +5	προμα-	προμα-	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	343	11	5	χῶνας,	χῶνας,	χῶνας,	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	343	11	xavas, +"τοῦ	"τοῦ	τοῦ	τοῦ	image (3x): verse superscript and margin number are not text; word as read
+jer	oldtestgreek00unknuoft	343	12	ods	οὺς	οὓς	οὓς	image (3x): rough breathing + grave on οὓς
+jer	oldtestgreek00unknuoft	343	13	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): acute on ultima before enclitic, as Swete prints
+jer	oldtestgreek00unknuoft	343	13	pov	μοὺ	μου	μου	image (3x): μου, circumflex absent; plain
+jer	oldtestgreek00unknuoft	343	13	τῶν +6	τῶν +ὁ	τῶν	τῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	343	14	“dob	ΡΥ +“Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): breathing as read (rough+acute on Οὕτως, smooth on Ἰδοὺ); verse superscript not text
+jer	oldtestgreek00unknuoft	343	15	ἰατρεύσω	ἰατῥεύσω	ἰατρεύσω	ἰατρεύσω	image (3x): ἰατρεύσω, plain ρ
+jer	oldtestgreek00unknuoft	343	15	πίστιν"	πίστιν"	πίστιν·	πίστιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	343	16	γη7καὶ	η7καὶ	καὶ	καὶ	image (3x): verse superscript and margin number are not text; word as read
+jer	oldtestgreek00unknuoft	343	16	ἀποικίὰν	ἀποικίὰν +ΕΣ	ἀποικίαν	ἀποικίαν	image (3x): acute on ι of ἀποικίαν, no grave
+jer	oldtestgreek00unknuoft	343	16	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on Ι
+jer	oldtestgreek00unknuoft	343	16	ἀποικίαν	ἀποικίαν +»	ἀποικίαν	ἀποικίαν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	343	16	Ἰσραήλ, +8	Ἰσραήλ, +8	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on Ι
+jer	oldtestgreek00unknuoft	343	17	“καὶ	“καὶ	καὶ	καὶ	image (3x): verse superscript and margin number are not text; word as read
+jer	oldtestgreek00unknuoft	343	17	αὐὖ-	αὐ-	αὐ-	αὐ-	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	343	18	ἡμάρτοσάν	ἡμάρτοσάν	ἡμάρτοσάν	ἡμάρτοσάν	image (3x): acute on ultima before enclitic, as Swete prints
+jer	oldtestgreek00unknuoft	343	19	αὐτῶν,	αὐτῶν,	αὐτῶν	αὐτῶν	image (3x): light speck below the line, not a comma
+jer	oldtestgreek00unknuoft	343	19	ἥμαρτόν	ἥμαρτόν	ἥμαρτόν	ἥμαρτόν	image (3x): acute on ultima before enclitic, as Swete prints

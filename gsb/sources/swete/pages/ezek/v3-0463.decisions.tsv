@@ -1,0 +1,51 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	463	1	Υἱὲ	“Υἱὲ	Υἱὲ	Υἱὲ	image (3x): breathing as printed (Υἱὲ rough on ι; Ἰδοὺ smooth)
+ezek	oldtestgreek00unknuoft	463	1	od	ὁὗὺ	οὗ	οὗ	image (3x): reads as in page file (οὗ, ὅτι, λόγχας, period after αὐτοῦ; OCR noise)
+ezek	oldtestgreek00unknuoft	463	1	εἶπεν +B	εἶπεν	εἶπεν	εἶπεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	2	Ἱερουσαλήμ	Ἱερουσαλήμ	Ἰερουσαλὴμ	Ἰερουσαλήμ	image (8x): smooth breathing (apostrophe shape, not reversed comma); acute on η before capitalized quotation Εὖγε
+ezek	oldtestgreek00unknuoft	463	2	Ἐῤγε	Ἐγε	Εὖγε	Εὖγε	image (3x): Εὖγε, smooth + circumflex on υ
+ezek	oldtestgreek00unknuoft	463	3	ἠρήμωται:	ἠρήμωται:	ἠρήμωται·	ἠρήμωται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	3	Ξδιὰ	ϑ3διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	4	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): breathing as printed (Υἱὲ rough on ι; Ἰδοὺ smooth)
+ezek	oldtestgreek00unknuoft	463	4	σέ,	σέ,	σέ,	σέ,	image (3x): σέ with acute before comma, as printed
+ezek	oldtestgreek00unknuoft	463	5	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	7	λεωπετρίαν:	λεωπετρίαν:	λεωπετρίαν·	λεωπετρίαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	7	"ψυγμὸς	ψυγμὸς	ψυγμὸς	ψυγμὸς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	8	λέγει	λέγει.	λέγει	λέγει	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	463	9	∅	ἔσται	ἔσται	ἔσται	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	9	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	9	∅	προνομὴν	προνομὴν	προνομὴν	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	9	∅	τοῖς	τοῖς	τοῖς	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	9	∅	ἔθνεσιν,	ἔθνεσιν,	ἔθνεσιν,	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	9	∅	6 +“καὶ	καὶ	καὶ	image (3x): reads as in page file (οὗ, ὅτι, λόγχας, period after αὐτοῦ; OCR noise)
+ezek	oldtestgreek00unknuoft	463	9	∅	αἱ +ἱ θ	αἱ	αἱ	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	9	∅	θυγατέρες	θυγατέρες	θυγατέρες	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	9	∅	αὐτῆς	αὐτῆς	αὐτῆς	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	9	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	9	∅	πεδίῳ	πεδίῳ	πεδίῳ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	10	ἀναιρεθήσονται:	ἀναιρεθήσονται:	ἀναιρεθήσονται·	ἀναιρεθήσονται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	10	ὅτε	ὅτε	ὅτι	ὅτι	image (3x): reads as in page file (οὗ, ὅτι, λόγχας, period after αὐτοῦ; OCR noise)
+ezek	oldtestgreek00unknuoft	463	10	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave before Κύριος as printed
+ezek	oldtestgreek00unknuoft	463	10	7ὅτι	7ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	11	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): breathing as printed (Υἱὲ rough on ι; Ἰδοὺ smooth)
+ezek	oldtestgreek00unknuoft	463	11	σέ,	σέ,	σέ,	σέ,	image (3x): σέ with acute before comma, as printed
+ezek	oldtestgreek00unknuoft	463	12	βορρᾶ᾽	βορρᾶ᾽	βορρᾶ·	βορρᾶ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	13	μεθ᾽	μεθ᾽ +»	μεθ᾽	μεθ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	13	ἁρμάτων	ἁρμάτων +ὶ	ἁρμάτων	ἁρμάτων	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	14	ϑοῦὗῦτος	ϑοὗῦτος	οὗτος	οὗτος	image (3x): reads as in page file (οὗ, ὅτι, λόγχας, period after αὐτοῦ; OCR noise)
+ezek	oldtestgreek00unknuoft	463	16	χόγχας	χόγχας	λόγχας	λόγχας	image (3x): reads as in page file (οὗ, ὅτι, λόγχας, period after αὐτοῦ; OCR noise)
+ezek	oldtestgreek00unknuoft	463	17	ἀπέναντί	ἀπέναντί	ἀπέναντί	ἀπέναντί	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	463	17	δώσει:	δώσει:	δώσει·	δώσει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	17	ϑτὰ	ϑτὰ	τὰ	τὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	18	αὐτοῦ:	αὐτοῦ	αὐτοῦ.	αὐτοῦ.	image (3x): reads as in page file (οὗ, ὅτι, λόγχας, period after αὐτοῦ; OCR noise)
+ezek	oldtestgreek00unknuoft	463	18	“dmb	“ἀπὸ	ἀπὸ	ἀπὸ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	22	“ev	"“ἐν	ἐν	ἐν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	22	ὁπλᾶϊῖς	ὁπλαῖς	ὁπλαῖς	ὁπλαῖς	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	463	22	καταπατήσουσίν	καταπατήσουσίν	καταπατήσουσίν	καταπατήσουσίν	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	463	22	σοὺ	σοὺ	σου	σου	image (3x): reads as in page file (οὗ, ὅτι, λόγχας, period after αὐτοῦ; OCR noise)
+ezek	oldtestgreek00unknuoft	463	23	πλατείας"	πλατείας"	πλατείας·	πλατείας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	23	λαόν	λαόν	λαόν	λαόν	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	463	24	σίν	σίν	σίν	σίν	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	463	24	“Kal	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	463	25	δύναμίν	δύναμίν	δύναμίν	δύναμίν	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	463	25	ὑπάρχοντά	ὑπάρχοντά	ὑπάρχοντά	ὑπάρχοντά	image (3x): acute before enclitic as printed

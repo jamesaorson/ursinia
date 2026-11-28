@@ -1,0 +1,60 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	334	1	gov	σου	σου	σου	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	334	1	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	334	1	dia	““διὰ	διὰ	διὰ	image (3x): verse superscript fused by OCR; word as printed
+jer	oldtestgreek00unknuoft	334	1	ἔσθοντές	ἔσθοντές	ἔσθοντές	ἔσθοντές	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	334	1	σε +τό	σε +τό	σε	σε	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	334	2	ἐχθροί	ἐχθροί	ἐχθροί	ἐχθροί	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	334	2	ἔδονται"	ἔδονται:	ἔδονται·	ἔδονται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	334	4	ταῦτά	ταῦτά	ταῦτά	ταῦτά	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	334	4	σοι:	σοι:	σοι·	σοι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	334	4	ἔσονται.	ἔσονται.	ἔσονται	ἔσονται	ambiguous: small light dot at mid-height between ἔσονται and οἱ, lower than the ano teleia after σοι on the same line; read as speck, no punctuation
+jer	oldtestgreek00unknuoft	334	4	διαφοροῦντές	διαφοροῦντές	διαφοροῦντές	διαφοροῦντές	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	334	5	Tous	τοὺς	τοὺς	τοὺς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	334	5	προνομεύοντάς	προνομεύοντάς	προνομεύοντάς	προνομεύοντάς	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	334	5	"ὅτι	"ὅτι	ὅτι	ὅτι	image (3x): verse superscript fused by OCR; word as printed
+jer	oldtestgreek00unknuoft	334	5	ἴαμά	ἴαμά +17	ἴαμά	ἴαμά	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	334	6	17 +gov,	σου,	σου,	σου,	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	334	6	iarpevow	ἰατρεύσω	ἰατρεύσω	ἰατρεύσω	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	334	6	φησὶν	φησὶν	φησὶν	φησὶν	image (3x): grave before capitalized word, as printed
+jer	oldtestgreek00unknuoft	334	6	Κύριος:	Κύριος:	Κύριος·	Κύριος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	334	7	ἐκλήθης:	ἐκλήθης:	ἐκλήθης·	ἐκλήθης·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	334	7	θήρευμα.	θήρευμα.	θήρευμα	θήρευμα	image (3x): light speck after θήρευμα, not a period
+jer	oldtestgreek00unknuoft	334	8	τϑοὕτως	τϑοὕτως	οὕτως	οὕτως	image (3x): verse superscript fused by OCR; word as printed
+jer	oldtestgreek00unknuoft	334	8	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on capital
+jer	oldtestgreek00unknuoft	334	8	Ἰακώβ, +38	Ἰακώβ, +τ8	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing on capital
+jer	oldtestgreek00unknuoft	334	9	ἐλεήσω"	ἐλεήσω"	ἐλεήσω·	ἐλεήσω·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	334	10	"καὶ	"καὶ	καὶ	καὶ	image (3x): verse superscript fused by OCR; word as printed
+jer	oldtestgreek00unknuoft	334	10	ἐξε-	ἐξε- +τὸ	ἐξε-	ἐξε-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	334	11	τὸ +Aevoovta	λεύσονται	λεύσονται	λεύσονται	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	334	11	ἄδοντες,	ἄδοντες,	ᾄδοντες,	ᾄδοντες,	image (3x): iota subscript under α with smooth breathing + acute: ᾄδοντες
+jer	oldtestgreek00unknuoft	334	11	παιζόντων:	παιζόντων:	παιζόντων·	παιζόντων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	334	11	ad-	αὐ-	αὐ-	αὐ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	334	12	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	334	12	ἐλαττωθῶσιν.	ἐλαττωθῶσιν. +““	ἐλαττωθῶσιν.	ἐλαττωθῶσιν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	334	12	*xal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	334	12	viol	υἱοὶ	υἱοὶ	υἱοὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	334	12	αὐτῶν +20	αὐτῶν +20	αὐτῶν	αὐτῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	334	13	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	334	13	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	334	13	ὀρ-	ὀὁρ-	ὀρ-	ὀρ-	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	334	14	θωθήσεται:	θωθήσεται:	θωθήσεται·	θωθήσεται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	334	14	αὐτούς,	αὐτούς, +““	αὐτούς,	αὐτούς,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	334	14	“Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	334	14	ἔσονται +2x	ἔσονται +::	ἔσονται	ἔσονται	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	334	15	ἐπ᾽	ἐπ᾽ +ΣΡ.	ἐπ᾽	ἐπ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	334	16	λεύσεται-	λεύσεται-	λεύσεται·	λεύσεται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	334	16	τίς	τίς	τίς	τίς	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	334	18	φησὶν	φησὶν	φησὶν	φησὶν	image (3x): grave before capitalized word, as printed
+jer	oldtestgreek00unknuoft	334	18	Κύριος; +“5	Κύριος; +53	Κύριος;	Κύριος;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	334	18	ὀργὴ	ὀργὴ	ὀργὴ	ὀργὴ	image (3x): grave before capitalized word, as printed
+jer	oldtestgreek00unknuoft	334	18	ὀργὴ +23	ὀργὴ +3	ὀργὴ	ὀργὴ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	334	19	““οὐ	“οὐ	οὐ	οὐ	image (3x): verse superscript fused by OCR; word as printed
+jer	oldtestgreek00unknuoft	334	19	θυμοῦ +24	θυμοῦ +-.	θυμοῦ	θυμοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	334	20	αὐτοῦ-	αὐτοῦ"	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	334	21	αὐτά.	αὐτά. +. 6)	αὐτά.	αὐτά.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	334	22	: +(4Ev	Ἐν	Ἐν	Ἐν	image (3x): smooth breathing on capital
+jer	oldtestgreek00unknuoft	334	22	ἔσομαι	ἐσομαι	ἔσομαι	ἔσομαι	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	334	22	εἰς.	εἰς	εἰς	εἰς	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	334	22	γένει +x	γένει	γένει	γένει	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	334	22	-	-	Ἐν	Ἐν	misprint: in-text parenthesized number printed (24) (zoom 8x, clear), but XXXVII 24 = (XXX) 24 precedes and XXXVIII 2 is (XXXI) (1); encoded {=30:25}

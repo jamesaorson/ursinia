@@ -1,0 +1,43 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	309	1	αὐτῇ. +B	αὐτῇ. +Β	αὐτῇ.	αὐτῇ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	309	2	χειρὶ	χειρὶ	χειρὶ	χειρὶ	image (3x): grave before a capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	309	3	γῆν:	γῆν:	γῆν·	γῆν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	309	3	ἐσαλεύθησαν" +ὃ	ἐσαλεύθησαν" +ὃ	ἐσαλεύθησαν·	ἐσαλεύθησαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	309	5	εἴ	εἴ	εἴ	εἴ	image (3x): εἴ πως, acute on εἴ, πως unaccented
+jer	oldtestgreek00unknuoft	309	5	πὼς	πὼς	πως	πως	image (3x): εἴ πως, acute on εἴ, πως unaccented
+jer	oldtestgreek00unknuoft	309	5	ϑἰατρεύσαμεν	9ἰατρεύσαμεν	ἰατρεύσαμεν	ἰατρεύσαμεν	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	309	6	ἰάθη:	ἰάθη:	ἰάθη·	ἰάθη·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	309	7	ἤγγικεν.	ἤγγικεν.	ἤγγικεν	ἤγγικεν	image (3x): speck, not a period
+jer	oldtestgreek00unknuoft	309	8	"ἐξήνεγκεν	"ἐξήνεγκεν	ἐξήνεγκεν	ἐξήνεγκεν	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	309	8	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	309	9	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	309	9	** +mapa-	τι +“'παρα-	παρα-	παρα-	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	309	10	φαρέτρας"	φαρέτρας"	φαρέτρας·	φαρέτρας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	309	13	“ἐπὶ	“ἐπὶ	ἐπὶ	ἐπὶ	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	309	13	onpéiov,	σημέϊον,	σημεῖον,	σημεῖον,	image (3x): σημεῖον, circumflex
+jer	oldtestgreek00unknuoft	309	14	ἐνεχείρησεν"	ἐνεχείρησεν"	ἐνεχείρησεν·	ἐνεχείρησεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	309	15	Ξ̓κατασκηνοῦν-	Ξ̓κατασκηνοῦν-	κατασκηνοῦν-	κατασκηνοῦν-	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	309	16	ras	τας	τας	τας	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	309	16	αὐτῆς:	αὐτῆς:	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	309	17	ἀληθῷς	ἀληθῷς	ἀληθῶς	ἀληθῶς	image (3x): ἀληθῶς, no iota subscript
+jer	oldtestgreek00unknuoft	309	17	cis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	309	17	“ὅτι	τὰ	ὅτι	ὅτι	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	309	17	ὥμοσεν	“ὅτι +ὥμοσεν	ὤμοσεν	ὤμοσεν	image (3x): smooth breathing + acute (apostrophe then rising stroke), ὤμοσεν
+jer	oldtestgreek00unknuoft	309	17	Kara	κατὰ	κατὰ	κατὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	309	18	διότε	διότι	διότι	διότι	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	309	18	Τληρώσω	ἸΤληρώσω	Πληρώσω	Πληρώσω	image (3x): Π, not Τ
+jer	oldtestgreek00unknuoft	309	19	ἡ5οιῶν	ἡ5ημοιῶν	Ποιῶν	Ποιῶν	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	309	19	γῆν	γῇν	γῆν	γῆν	image (3x): γῆν, no iota subscript
+jer	oldtestgreek00unknuoft	309	20	αὐτοῦ;	αὐτοῦ;	αὐτοῦ,	αὐτοῦ,	image (3x): comma, not ano teleia/question mark
+jer	oldtestgreek00unknuoft	309	21	Peis	"“εἰς	εἰς	εἰς	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	309	22	γῆς;	γῆς,	γῆς,	γῆς,	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	309	22	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	309	23	αὐτοῦ. +"7	αὐτοῦ. +"7	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	309	24	χρυσοχύος	χρυσοχύος	χρυσοχόος	χρυσοχόος	image (3x): χρυσοχόος, ο not υ
+jer	oldtestgreek00unknuoft	309	25	ὅτι.	ὅτι.	ὅτι	ὅτι	image (3x): speck, not a period
+jer	oldtestgreek00unknuoft	309	26	“μάταιά	“μάταιά	μάταιά	μάταιά	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	309	27	"οὐ	οὐ	οὐ	οὐ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	309	27	pepis	'μερὶς	μερὶς	μερὶς	image (3x): verse superscript fused into the word, not text
+jer	oldtestgreek00unknuoft	309	27	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	309	27	αὐτός	αὐτὸς	αὐτός	αὐτός	image (3x): acute on αὐτός at line end (next page)
+jer	oldtestgreek00unknuoft	309	17	-	-	σπλάγχα	σπλάγχα	image (3x): misprint σπλάγχα for σπλάγχνα (no ν), kept as printed

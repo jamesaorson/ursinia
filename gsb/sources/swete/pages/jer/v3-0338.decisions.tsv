@@ -1,0 +1,42 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	338	1	λέγων	λέγων.	λέγων	λέγων	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	338	1	Τινῶθι	Τνῶθι	Γνῶθι	Γνῶθι	image (3x): Γ, not Τ
+jer	oldtestgreek00unknuoft	338	1	κύριον:	κύριον:	κύριον·	κύριον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	338	1	εἰδήσουσίν	εἰδήσουσίν	εἰδήσουσίν	εἰδήσουσίν	image (3x): accent as printed before the enclitic
+jer	oldtestgreek00unknuoft	338	1	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	338	2	μικροῦ.	μικροῦ.	μικροῦ	μικροῦ	image (3x): no period after the word (speck at most)
+jer	oldtestgreek00unknuoft	338	2	μεγάλου.	μεγάλου.	μεγάλου	μεγάλου	image (3x): no period after the word (speck at most)
+jer	oldtestgreek00unknuoft	338	2	ταῖς.	ταῖς.	ταῖς	ταῖς	image (3x): no period after the word (speck at most)
+jer	oldtestgreek00unknuoft	338	3	Seay	35ἐὰν	ἐὰν	ἐὰν	image (3x): superscript verse number, not text
+jer	oldtestgreek00unknuoft	338	3	ὑψωθῇ +35 (36)	ὑψωθῇ +35 (36)	ὑψωθῇ	ὑψωθῇ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	338	4	φησὶν	φησὶν	φησὶν	φησὶν	image (3x): grave before capitalized Κύριος
+jer	oldtestgreek00unknuoft	338	5	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	338	6	φησὶν	φησὶν	φησὶν	φησὶν	image (3x): grave before capitalized Κύριος
+jer	oldtestgreek00unknuoft	338	6	οὕτως	ϑοὕτως	οὕτως	οὕτως	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	338	6	Κύριος, +36 (34)	Κύριος, +36 (34)	Κύριος,	Κύριος,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	338	8	ἐν	ἐν +6θ	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	338	9	αὐτῷ +57	αὐτῷ +57	αὐτῷ	αὐτῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	338	9	Ἐὰν	Ἐὰν	Ἐὰν	Ἐὰν	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	338	9	οἵ +37 (35)	οἵ +37 (35)	οἱ	οἱ	image (4x): rough breathing only, no acute; οἱ
+jer	oldtestgreek00unknuoft	338	10	φησὶν	φησὶν	φησὶν	φησὶν	image (3x): grave before capitalized Κύριος
+jer	oldtestgreek00unknuoft	338	11	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	338	11	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): accent as printed before the enclitic
+jer	oldtestgreek00unknuoft	338	12	*idod	35ἰδοὺ	ἰδοὺ	ἰδοὺ	image (3x): superscript verse number, not text
+jer	oldtestgreek00unknuoft	338	12	φησὶν.	φησὶν.	φησὶν	φησὶν	image (3x): grave before capitalized Κύριος
+jer	oldtestgreek00unknuoft	338	12	οἰκοδομη- +38 (37)	οἰκοδομη- +38 (57)	οἰκοδομη-	οἰκοδομη-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	338	13	Ἀναμεὴλ	Ἀναμεὴλ	Ἁναμεὴλ	Ἁναμεὴλ	image (3x): rough breathing (opening left)
+jer	oldtestgreek00unknuoft	338	14	39καὶ	39καὶ	καὶ	καὶ	image (3x): superscript verse number, not text
+jer	oldtestgreek00unknuoft	338	14	αὐτῶν +30 (38)	αὐτῶν +30 (38)	αὐτῶν	αὐτῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	338	15	Ταρήβ,	Ταρήβ,	Γαρήβ,	Γαρήβ,	image (3x): Γ, not Τ
+jer	oldtestgreek00unknuoft	338	16	“καὶ	“καὶ	καὶ	καὶ	image (3x): superscript verse number, not text
+jer	oldtestgreek00unknuoft	338	16	γωνίας +4o (39)	γωνίας +40 (39)	γωνίας	γωνίας	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	338	19	τὉ	τὉ	Ὁ	Ὁ	image (3x): rough breathing; superscript 1 before it is not text
+jer	oldtestgreek00unknuoft	338	19	"Tepeulay	Ἰερεμίαν	Ἰερεμίαν	Ἰερεμίαν	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	338	20	NaBovxo-	Ναβουχο-	Ναβουχο-	Ναβουχο-	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	338	22	. +ΞΚαὶ	. +ΞΚαὶ	Καὶ	Καὶ	image (3x): superscript verse number, not text
+jer	oldtestgreek00unknuoft	338	22	᾿ερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	338	23	Ἱερεμίας	Ἱερεμίας	Ἰερεμίας	Ἰερεμίας	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	338	23	ἥ	ἥ	ἥ	ἥ	image (3x): accent as printed before the enclitic
+jer	oldtestgreek00unknuoft	338	23	οἴκῳ.	οἴκῳ.	οἴκῳ	οἴκῳ	image (3x): no period after the word (speck at most)
+jer	oldtestgreek00unknuoft	338	16	-	-	ἁσαρημὼθ	ἁσαρημὼθ	image (4x): rough breathing on initial alpha (curl opening left), no acute
+jer	oldtestgreek00unknuoft	338	19	-	-	Κυρίου	Κυρίου	image (6x): dark blot above the line between Κυρίου and πρὸς is an ink spot, not text

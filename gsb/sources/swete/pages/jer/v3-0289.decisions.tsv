@@ -1,0 +1,39 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	289	1	Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	289	1	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	289	1	ὁ +B	ὁ +Β	ὁ	ὁ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	289	3	ais	αἷς	αἷς	αἷς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	289	3	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	289	4	4Kal	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	289	4	Ἰ̔ερεμίας	Ἰ̔ερεμίας	Ἰερεμίας	Ἰερεμίας	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	289	5	αὐτὸν	αὐτὸν	αὐτὸν	αὐτὸν	image (3x): grave; next word a name, not a quotation
+jer	oldtestgreek00unknuoft	289	6	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	289	7	λαόν	λαόν	λαόν	λαόν	image (3x): acute before capitalized quotation
+jer	oldtestgreek00unknuoft	289	7	STdde	᾿5":Τάδε	Τάδε	Τάδε	image (3x): Τάδε after verse number 15
+jer	oldtestgreek00unknuoft	289	7	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	289	9	∅	∅	ἃ	ἃ	image (3x): ἃ rough+grave, OCR lost the word
+jer	oldtestgreek00unknuoft	289	11	*Kat	Κ̓αὶ	Καὶ	Καὶ	image (3x): Καὶ after superscript 1
+jer	oldtestgreek00unknuoft	289	11	vids	υἱὸς	υἱὸς	υἱὸς	image (3x): grave; next word a name, not a quotation
+jer	oldtestgreek00unknuoft	289	11	Ἐμμὴρ	Ἐμμὴρ	Ἐμμὴρ	Ἐμμὴρ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	289	11	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	289	12	Ἰερεμίου	Ἰερεμίου	Ἰερεμίου	Ἰερεμίου	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	289	13	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	289	14	κατωράκτην	κατωράκτην	καταράκτην	καταράκτην	ambiguous: ink blot on the second α of καταράκτην; letter shape α, read α
+jer	oldtestgreek00unknuoft	289	14	ἦν	ἢν	ἦν	ἦν	image (3x): circumflex+smooth ἦν
+jer	oldtestgreek00unknuoft	289	15	Ἱερεμίαν	Ἱερεμίαν	Ἰερεμίαν	Ἰερεμίαν	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	289	16	ράκτου,	ἄκτου,	ράκτου,	ράκτου,	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	289	16	Ἱερεμίας	Ἰερεμίας	Ἰερεμίας	Ἰερεμίας	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	289	16	Οὐχὶ	Οὐχὶ	Οὐχὶ	Οὐχὶ	image (3x): smooth breathing on υ; grave on ὶ before name in the quotation clause as printed
+jer	oldtestgreek00unknuoft	289	17	∅	∅	ὄνομά	ὄνομά	image (3x): extra acute before enclitic as printed
+jer	oldtestgreek00unknuoft	289	17	“διότι	“διότι	διότι	διότι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	289	17	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	289	18	δίδωμί	δίδωμί	δίδωμί	δίδωμί	image (3x): extra acute before enclitic as printed
+jer	oldtestgreek00unknuoft	289	18	σου:	σου	σου·	σου·	image (3x): raised dot, ano teleia
+jer	oldtestgreek00unknuoft	289	19	ὀφθαλμοί	ὀφθαλμοί	ὀφθαλμοί	ὀφθαλμοί	image (3x): extra acute before enclitic as printed
+jer	oldtestgreek00unknuoft	289	19	ὄψονται:	ὄψονται:	ὄψονται·	ὄψονται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	289	20	Ἰουδὰ	Ἰουδὰ	Ἰουδὰ	Ἰουδὰ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	289	21	κατακύψουσιν	κατακύψουσιν	κατακόψουσιν	κατακόψουσιν	image (3x): ο, not υ
+jer	oldtestgreek00unknuoft	289	21	ϑκαὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	289	22	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	289	22	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	289	14	-	-	καταράκτην	καταράκτην	ambiguous: ink blot over the second α; read α

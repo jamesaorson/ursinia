@@ -1,0 +1,65 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	462	1	ἀπωλείᾳ	ἀπωλείᾳ	ἀπωλείᾳ·	ἀπωλείᾳ·	image (3x): reads as in page file (ano teleia after ἀπωλείᾳ and ται; comma after παραθαλασσίας; μνεία acute; OCR noise)
+ezek	oldtestgreek00unknuoft	462	1	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	462	2	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave as printed before a name (not a quotation)
+ezek	oldtestgreek00unknuoft	462	2	ὅΤάδε	ὅΤάδε	Τάδε	Τάδε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	462	2	λέγει.	λέγει	λέγει	λέγει	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	462	2	Ἀνγνθ᾽	Ἀγθ᾽	Ἀνθ᾽	Ἀνθ᾽	image (3x): smooth breathing on capital as printed
+ezek	oldtestgreek00unknuoft	462	2	εἶπεν.	εἶπεν.	εἶπεν	εἶπεν	image (3x): reads as in page file (ano teleia after ἀπωλείᾳ and ται; comma after παραθαλασσίας; μνεία acute; OCR noise)
+ezek	oldtestgreek00unknuoft	462	2	Μωάβ	Μωάβ	Μωάβ	Μωάβ	image (3x): acute on Μωάβ before capitalized quotation Ἰδοὺ
+ezek	oldtestgreek00unknuoft	462	2	Ἰ̓δοὺ +ἵ 8	Ἰδοὺ +ἵ 5	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on capital as printed
+ezek	oldtestgreek00unknuoft	462	3	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital as printed
+ezek	oldtestgreek00unknuoft	462	3	Ἰούδα;	Ἰούδα;	Ἰούδα;	Ἰούδα;	image (3x): smooth breathing on capital as printed
+ezek	oldtestgreek00unknuoft	462	3	9διὰ	9διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	462	3	τοῦτο +9	τοῦτο +9	τοῦτο	τοῦτο	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	462	5	émavaywyns	ἐπαναγωγῆς	ἐπαναγωγῆς	ἐπαναγωγῆς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	462	5	παῤαθαλασσίας;	παῤαθαλασσίας;	παραθαλασσίας,	παραθαλασσίας,	image (3x): reads as in page file (ano teleia after ἀπωλείᾳ and ται; comma after παραθαλασσίας; μνεία acute; OCR noise)
+ezek	oldtestgreek00unknuoft	462	6	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave as printed before a name (not a quotation)
+ezek	oldtestgreek00unknuoft	462	6	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave as printed before a name (not a quotation)
+ezek	oldtestgreek00unknuoft	462	6	Ἀμμών:	Ἀμμών"	Ἀμμών·	Ἀμμών·	image (3x): smooth breathing on capital as printed
+ezek	oldtestgreek00unknuoft	462	6	κληρο- +τὸ	κληρο- +τὸ	κληρο-	κληρο-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	462	7	μνεία	μνειὰ	μνεία	μνεία	image (3x): reads as in page file (ano teleia after ἀπωλείᾳ and ται; comma after παραθαλασσίας; μνεία acute; OCR noise)
+ezek	oldtestgreek00unknuoft	462	7	Ἀμμών.	Ἀμμών.	Ἀμμών.	Ἀμμών.	image (3x): smooth breathing on capital as printed
+ezek	oldtestgreek00unknuoft	462	7	Μωὰβ +τι	Μωὰβ +τι	Μωὰβ	Μωὰβ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	462	8	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave as printed before a name (not a quotation)
+ezek	oldtestgreek00unknuoft	462	8	Τάδε +12	Τάδε +τ.	Τάδε	Τάδε	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	462	9	Ἀνθ᾽	Ἀνθ᾽	Ἀνθ᾽	Ἀνθ᾽	image (3x): smooth breathing on capital as printed
+ezek	oldtestgreek00unknuoft	462	9	Ἰδουμαία	Ἰδουμαία	Ἰδουμαία	Ἰδουμαία	image (3x): smooth breathing on capital as printed
+ezek	oldtestgreek00unknuoft	462	10	εἰς	εἰς.	εἰς	εἰς	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	462	10	‘lovda,	Ἰούδα,.	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing on capital as printed
+ezek	oldtestgreek00unknuoft	462	11	Ξ̓διὰ	Ξ̓διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	462	11	χεῖρά	χεῖρά	χεῖρά	χεῖρά	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	462	11	ἐπὶ +13	ἐπὶ +13	ἐπὶ	ἐπὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	462	12	τὴν	τὴν +᾽	τὴν	τὴν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	462	12	Ἰδουμαίαν,	Ἰδουμαίαν,	Ἰδουμαίαν,	Ἰδουμαίαν,	image (3x): smooth breathing on capital as printed
+ezek	oldtestgreek00unknuoft	462	14	ra	ται	ται·	ται·	image (3x): reads as in page file (ano teleia after ἀπωλείᾳ and ται; comma after παραθαλασσίας; μνεία acute; OCR noise)
+ezek	oldtestgreek00unknuoft	462	14	“4xat	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	462	14	ἐκδίκησίν	ἐκδίκησίν	ἐκδίκησίν	ἐκδίκησίν	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	462	14	Ἰδουμαίαν	Ἰδουμαίαν	Ἰδουμαίαν	Ἰδουμαίαν	image (3x): smooth breathing on capital as printed
+ezek	oldtestgreek00unknuoft	462	14	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	462	15	14 +σραήλ,	τῷ +Ἰ σραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on capital as printed
+ezek	oldtestgreek00unknuoft	462	15	τῇ	τῇ +τ	τῇ	τῇ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	462	15	Ἰδουμαίᾳ	Ἰδουμαίᾳ	Ἰδουμαίᾳ	Ἰδουμαίᾳ	image (3x): smooth breathing on capital as printed
+ezek	oldtestgreek00unknuoft	462	15	ὀργήν	ὀργήν	ὀργήν	ὀργήν	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	462	15	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	462	16	θυμόν	θυμόν	θυμόν	θυμόν	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	462	16	μου"	μου"	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	462	16	ἐκδίκησίν	ἐκδίκησίν	ἐκδίκησίν	ἐκδίκησίν	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	462	17	*SAva	᾿5ϑΔιὰ	Διὰ	Διὰ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	462	17	Ἀνθ᾽	Ἀνθ᾽	Ἀνθ᾽	Ἀνθ᾽	image (3x): smooth breathing on capital as printed
+ezek	oldtestgreek00unknuoft	462	17	of +15	οἵ +τ5	οἱ	οἱ	image (3x): reads as in page file (ano teleia after ἀπωλείᾳ and ται; comma after παραθαλασσίας; μνεία acute; OCR noise)
+ezek	oldtestgreek00unknuoft	462	19	ἐξαλεῖψραι	ἐξαλεῖψραι	ἐξαλεῖψαι	ἐξαλεῖψαι	image (3x): reads as in page file (ano teleia after ἀπωλείᾳ and ται; comma after παραθαλασσίας; μνεία acute; OCR noise)
+ezek	oldtestgreek00unknuoft	462	19	ἑνός,	ἑνός, +"	ἑνός,	ἑνός,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	462	19	dia	διὰ	διὰ	διὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	462	19	Ἰδοὺ +τό	Ἰδοὺ +τό	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on capital as printed
+ezek	oldtestgreek00unknuoft	462	20	χεῖρά.	χεῖρά.	χεῖρά	χεῖρά	image (3x): reads as in page file (ano teleia after ἀπωλείᾳ and ται; comma after παραθαλασσίας; μνεία acute; OCR noise)
+ezek	oldtestgreek00unknuoft	462	21	παραλίαν"	παραλίαν"	παραλίαν·	παραλίαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	462	22	Teal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	462	22	ποιήσω	ιφτφιήσω	ποιήσω	ποιήσω	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	462	22	μεγάλας,	μεγάλα»	μεγάλας,	μεγάλας,	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	462	22	"διότι +17	διότι +17	διότι	διότι	image (3x): reads as in page file (ano teleia after ἀπωλείᾳ and ται; comma after παραθαλασσίας; μνεία acute; OCR noise)
+ezek	oldtestgreek00unknuoft	462	23	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave as printed before a name (not a quotation)
+ezek	oldtestgreek00unknuoft	462	23	ἐκδίκησίν	ἐκδίκησίν	ἐκδίκησίν	ἐκδίκησίν	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	462	23	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	462	24	"Καὶ.	Καὶ	Καὶ	Καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	462	24	ἐγένετοιι	ἐγένετο +τ	ἐγένετο	ἐγένετο	image (3x): reads as in page file (ano teleia after ἀπωλείᾳ and ται; comma after παραθαλασσίας; μνεία acute; OCR noise)

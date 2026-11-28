@@ -350,13 +350,20 @@ gsb/greek when not given)."
                                                 (file-exists? (greek-table-path b))
                                                 (read-greek-table (greek-table-path b))))
                                (read-books))))))
+      ;; Two overrides of one word (or two pins of one verse) would silently
+      ;; replace each other: a problem.
+      (define dups '())
       (for-each (match-lambda
-                  ((_ 'word at items ...) (hash-set! words at items))
-                  ((_ 'verse ref items ...) (hash-set! pins ref (cdr (assq 'literal items)))))
+                  ((path 'word at items ...)
+                   (when (hash-ref words at) (set! dups (cons (format #f "~a: two (word ~s ...) overrides; merge their items into one" path at) dups)))
+                   (hash-set! words at items))
+                  ((path 'verse ref items ...)
+                   (when (hash-ref pins ref) (set! dups (cons (format #f "~a: verse ~a is pinned twice; keep one" path ref) dups)))
+                   (hash-set! pins ref (cdr (assq 'literal items)))))
                 ovs)
       (values (make-env (index-forms-rows (map cdr rows)) nt (gloss-senses (read-gloss-forms))
                         (literal-phrase-forms) words pins)
-              (append p1 p2)))))
+              (append p1 p2 (reverse dups))))))
 
 ;;; Chapters are numbers, or a capital letter for Esther's Greek additions
 ;;; (refs esth.A.1 ... esth.F.11): the generated file is 001.scm, or A.scm.
@@ -1006,6 +1013,11 @@ Clauses):
                       (else 'the)))))
          ((and (is? x "P") (eqv? (case-of x) #\G) p (or (is? p "N") (and (u p 'phrase) (not (u p 'phrase-prep)))))
           (vector-set! v i (u+ x 'role 'possessive)))
+         ;; κατὰ τὸ αὐτοῦ ἐνύπνιον: a genitive pronoun between article and noun
+         ;; is the possessive, the article absorbed ("according to his/its dream")
+         ((and (is? x "P") (eqv? (case-of x) #\G) p (is? p "T") nx (is? nx "N") (agree? p nx) (string-null? (u x 'post)))
+          (vector-set! v i (u+ x 'role 'possessive 'moved #t))
+          (vector-set! v (- i 1) (u+ p 'role 'absorbed)))
          ;; A genitive pronoun before article + noun is possessive too
          ;; (ὑμῶν οἱ ὀφθαλμοί, "your eyes"); its article is absorbed.
          ((and (is? x "P") (eqv? (case-of x) #\G) (is? nx "T") (at (+ i 2)) (is? (at (+ i 2)) "N") (not (is? p "PREP"))
@@ -1943,7 +1955,8 @@ indeclinable name followed by a person noun in another case (ἐκάλεσεν �
                ;; (with a copula only after a name, article first: γένηται Σηλὼμ
                ;; ὁ υἱός μου "Shelah my son")
                ((and (or (not copula?) (and (name-like? env head) (not (lemma-in? head "θεός"))
-                                            (or (is? x "T") (and (eq? (u x 'role) 'possessive) (u x 'moved)))))
+                                            ;; (its article: ἔσται Χανάαν παῖς αὐτοῦ is the predicate)
+                                            (or (is? x "T") (and (eq? (u x 'role) 'possessive) (u x 'moved) (is? nx "T")))))
                      (is? head "N" "P")
                      ;; an apposition names a person (Κύριον | τὰς πόλεις is the object)
                      env (let ((noun (np-noun span k))) (and noun (person-noun? env noun)))

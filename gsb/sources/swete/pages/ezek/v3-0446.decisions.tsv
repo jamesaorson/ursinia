@@ -1,0 +1,59 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	446	1	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	image (3x): smooth breathing and grave on ι of Αἰγύπτου
+ezek	oldtestgreek00unknuoft	446	1	χειρί	χειρί	χειρί	χειρί	image (3x): accent as in C before enclitic/following word (extra acute where printed)
+ezek	oldtestgreek00unknuoft	446	1	Ἐγὼ	Ἐγὼ	Ἐγὼ	Ἐγὼ	image (3x): smooth breathing on Ἐ; grave on ω before Κύριος (not a quotation-initial word)
+ezek	oldtestgreek00unknuoft	446	2	“ἐν	“ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	446	2	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	446	2	χειρί	χειρί	χειρί	χειρί	image (3x): accent as in C before enclitic/following word (extra acute where printed)
+ezek	oldtestgreek00unknuoft	446	2	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	446	3	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing and grave on ι of Αἰγύπτου
+ezek	oldtestgreek00unknuoft	446	4	Τ7καὶ	Τκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	446	5	αὐτούς	αὐτούς	αὐτούς	αὐτούς	image (3x): acute before capitalized Ἕκαστος
+ezek	oldtestgreek00unknuoft	446	5	Ἕκαστος	Ἕκαστος	Ἕκαστος	Ἕκαστος	image (3x): rough breathing + acute on Ἕ (open curl then rising stroke)
+ezek	oldtestgreek00unknuoft	446	5	τῶν.	τῶν.	τῶν	τῶν	image (3x): no point after the word; OCR saw a speck
+ezek	oldtestgreek00unknuoft	446	6	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing and grave on ι of Αἰγύπτου
+ezek	oldtestgreek00unknuoft	446	6	μὴ.	μὴ.	μὴ	μὴ	image (3x): no point after the word; OCR saw a speck
+ezek	oldtestgreek00unknuoft	446	6	μιαίνεσθε:	μιαίνεσθε:	μιαίνεσθε·	μιαίνεσθε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	446	6	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ before Κύριος
+ezek	oldtestgreek00unknuoft	446	6	Κύριος.	Κύριος.	Κύριος	Κύριος	ambiguous: small dot at mid letter height between Κύριος and ὁ, lower and lighter than the ano teleia after μιαίνεσθε on the same line; read as a speck, no punctuation
+ezek	oldtestgreek00unknuoft	446	7	ὑμῶν.	ὑμῶν. +ὃ	ὑμῶν.	ὑμῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	446	7	ὅκαὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	446	7	κἀὶ	καὶ	καὶ	καὶ	image (3x): letters and accents as in C; OCR junk or diacritic misread
+ezek	oldtestgreek00unknuoft	446	7	εἰσακοῦσαί	εἰσακοῦσαί	εἰσακοῦσαί	εἰσακοῦσαί	image (3x): accent as in C before enclitic/following word (extra acute where printed)
+ezek	oldtestgreek00unknuoft	446	9	Sevpara	δεύματα	δεύματα	δεύματα	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	446	9	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing and grave on ι of Αἰγύπτου
+ezek	oldtestgreek00unknuoft	446	9	θυμόν	θυμόν	θυμόν	θυμόν	image (3x): accent as in C before enclitic/following word (extra acute where printed)
+ezek	oldtestgreek00unknuoft	446	10	συντελέσαι	συντέλέσαι	συντελέσαι	συντελέσαι	image (3x): letters and accents as in C; OCR junk or diacritic misread
+ezek	oldtestgreek00unknuoft	446	10	ὀργήν	ὀργήν	ὀργήν	ὀργήν	image (3x): accent as in C before enclitic/following word (extra acute where printed)
+ezek	oldtestgreek00unknuoft	446	11	ἰγύπτου.	Αἰγύπτου. +9	Αἰγύπτου.	Αἰγύπτου.	image (3x): smooth breathing and grave on ι of Αἰγύπτου
+ezek	oldtestgreek00unknuoft	446	11	ϑκαὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	446	11	τὸ	τὸ +ὄ	τὸ	τὸ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	446	11	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): accent as in C before enclitic/following word (extra acute where printed)
+ezek	oldtestgreek00unknuoft	446	12	αὐτοί	αὐτοί	αὐτοί	αὐτοί	image (3x): accent as in C before enclitic/following word (extra acute where printed)
+ezek	oldtestgreek00unknuoft	446	14	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	image (3x): smooth breathing and grave on ι of Αἰγύπτου
+ezek	oldtestgreek00unknuoft	446	14	"καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	446	14	ἤγαγον	ἢ	ἤγαγον	ἤγαγον	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	446	14	εἰς	εἰς +εἰς	εἰς	εἰς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	446	14	ἔρημον,	ἔ +Ἐπ "καὶ	ἔρημον,	ἔρημον,	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	446	14	"καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	446	14	αὐτοῖς	αὐτοῖς +ἊΣ	αὐτοῖς	αὐτοῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	446	15	προστάγματά	προστάγματά	προστάγματά	προστάγματά	image (3x): accent as in C before enclitic/following word (extra acute where printed)
+ezek	oldtestgreek00unknuoft	446	15	δικαιώματά	δικαιώματά	δικαιώματά	δικαιώματά	image (3x): accent as in C before enclitic/following word (extra acute where printed)
+ezek	oldtestgreek00unknuoft	446	16	"“καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	446	16	σάββατά	σάββατά	σάββατά	σάββατά	image (3x): accent as in C before enclitic/following word (extra acute where printed)
+ezek	oldtestgreek00unknuoft	446	18	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ before Κύριος
+ezek	oldtestgreek00unknuoft	446	18	"Ξκαὶ	χα +Καὶ	καὶ	καὶ	image (3x): letters and accents as in C; OCR junk or diacritic misread
+ezek	oldtestgreek00unknuoft	446	19	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on Ἰ
+ezek	oldtestgreek00unknuoft	446	19	Ἔν	᾽ +Ἔν	Ἐν	Ἐν	image (3x): smooth breathing only on Ἐν, no accent
+ezek	oldtestgreek00unknuoft	446	19	προστάγμασίν	προστάγμασίν	προστάγμασίν	προστάγμασίν	image (3x): accent as in C before enclitic/following word (extra acute where printed)
+ezek	oldtestgreek00unknuoft	446	20	pov	μὸυ	μου	μου	image (3x): letters and accents as in C; OCR junk or diacritic misread
+ezek	oldtestgreek00unknuoft	446	20	δικαιώματά	δικαιώματά	δικαιώματά	δικαιώματά	image (3x): accent as in C before enclitic/following word (extra acute where printed)
+ezek	oldtestgreek00unknuoft	446	21	ἐν.	“ἐν.	ἐν	ἐν	image (3x): no point after the word; OCR saw a speck
+ezek	oldtestgreek00unknuoft	446	22	σάββατά	σάββατά	σάββατά	σάββατά	image (3x): accent as in C before enclitic/following word (extra acute where printed)
+ezek	oldtestgreek00unknuoft	446	22	θυμόν	θυμόν	θυμόν	θυμόν	image (3x): accent as in C before enclitic/following word (extra acute where printed)
+ezek	oldtestgreek00unknuoft	446	23	“καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	446	24	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): accent as in C before enclitic/following word (extra acute where printed)
+ezek	oldtestgreek00unknuoft	446	24	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	446	25	“αὐτοὺς	«αὐτοὺς	αὐτοὺς	αὐτοὺς	image (3x): letters and accents as in C; OCR junk or diacritic misread
+ezek	oldtestgreek00unknuoft	446	25	“kai	""καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	446	26	χεῖρά	χεῖρά	χεῖρά	χεῖρά	image (3x): accent as in C before enclitic/following word (extra acute where printed)

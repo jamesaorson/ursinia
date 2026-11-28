@@ -81,10 +81,10 @@
     ("years," 5)
     ("when" 6)
     ("Isaac" 9)
-    ("came to be" 7)
-    ("to him" 8)
     ("his" 12)
-    ("son." (10 absorbed) 11)))
+    ("son" (10 absorbed) 11)
+    ("came to be" 7)
+    ("to him." 8)))
 
 (verse 6
   (status draft)

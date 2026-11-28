@@ -1,0 +1,59 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	342	1	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	342	1	Ἰερουσαλήμ,	Ἱερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	342	1	33καὶ	33 +35καὶ	καὶ	καὶ	image (3x): superscript verse number, not text
+jer	oldtestgreek00unknuoft	342	1	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	342	1	πρόσωπον, +33	πρόσωπον, +533	πρόσωπον,	πρόσωπον,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	342	3	παιδείαν.	παιδείαν. +3Γ	παιδείαν.	παιδείαν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	342	3	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	342	3	ἐπεκλήθη	ἐπεκλήθη +3.	ἐπεκλήθη	ἐπεκλήθη	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	342	4	34	τὸ	τὸ	τὸ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	342	4	∅	ὄνομά	ὄνομά	ὄνομά	image (3x): acute as printed before the enclitic
+jer	oldtestgreek00unknuoft	342	4	∅	μου	μου	μου	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	342	4	∅	ἐπ᾽	ἐπ᾽	ἐπ᾽	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	342	4	∅	αὐτῷ	αὐτῷ	αὐτῷ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	342	4	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	342	4	∅	ἀκαθαρσίαις	ἀκαθαρσίαις	ἀκαθαρσίαις	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	342	4	∅	αὐτῶν.	αὐτῶν.	αὐτῶν.	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	342	4	∅	35καὶ	καὶ	καὶ	image (3x): superscript verse number, not text
+jer	oldtestgreek00unknuoft	342	4	∅	ὠκοδόμησαν +35	ᾠκοδόμησαν	ᾠκοδόμησαν	image (3x): ᾠ smooth breathing with iota subscript; margin 35 not text
+jer	oldtestgreek00unknuoft	342	5	“Ἑννὸμ	“Ἑννὸμ	Ἑννὸμ	Ἑννὸμ	image (3x): rough breathing (opening left)
+jer	oldtestgreek00unknuoft	342	8	Ἰ̓ουδά. +36	Ἰουδά. +36	Ἰουδά.	Ἰουδά.	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	342	8	viv	νῦν	νῦν	νῦν	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	342	8	οὕτως +36	οὕτως +36	οὕτως	οὕτως	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	342	9	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave before the capitalized word
+jer	oldtestgreek00unknuoft	342	9	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	342	11	ἀποστολῇ +57	ἀποστολῇ +57	ἀποστολῇ	ἀποστολῇ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	342	11	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	342	11	διέ- +57	διέ- +37	διέ-	διέ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	342	12	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	342	12	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	342	14	πεποιθότας, +55	πεποιθότας, +5“	πεποιθότας,	πεποιθότας,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	342	14	ἔσονταί	ἔσονταί	ἔσονταί	ἔσονταί	image (3x): acute as printed before the enclitic
+jer	oldtestgreek00unknuoft	342	14	αὐτοῖς +38	αὐτοῖς +38	αὐτοῖς	αὐτοῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	342	15	kai	ϑ9ϑκαὶ	καὶ	καὶ	image (3x): superscript verse number, not text
+jer	oldtestgreek00unknuoft	342	15	“ἑτέραν	“ἑτέραν	ἑτέραν	ἑτέραν	image (3x): superscript verse number, not text
+jer	oldtestgreek00unknuoft	342	15	φοβη- +39	φοβη- +30	φοβη-	φοβη-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	342	16	θῆναί	θῆναί	θῆναί	θῆναί	image (3x): acute as printed before the enclitic
+jer	oldtestgreek00unknuoft	342	17	per	μετ᾽	μετ᾽	μετ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	342	17	““καὶ	““καὶ	καὶ	καὶ	image (3x): superscript verse number, not text
+jer	oldtestgreek00unknuoft	342	17	διαθήσομαι.	διαθήσομαι	διαθήσομαι	διαθήσομαι	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	342	17	οὐ +40	οὐ +40	οὐ	οὐ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	342	18	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	342	18	μου.	μου.	μου	μου	image (3x): no period after the word (speck at most)
+jer	oldtestgreek00unknuoft	342	19	πρὸς.	πρὸς.	πρὸς	πρὸς	image (3x): no period after the word (speck at most)
+jer	oldtestgreek00unknuoft	342	19	“Kal	“καὶ	καὶ	καὶ	image (3x): superscript verse number, not text
+jer	oldtestgreek00unknuoft	342	19	ἐπι- +41	ἐπι- +41	ἐπι-	ἐπι-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	342	21	ψυχῇ-	ψυχῇ-	ψυχῇ.	ψυχῇ·	image (3x): raised point, ano teleia
+jer	oldtestgreek00unknuoft	342	21	“ὅτι	“ὅτι	ὅτι	ὅτι	image (3x): superscript verse number, not text
+jer	oldtestgreek00unknuoft	342	21	εἶπεν +42	εἶπεν +45	εἶπεν	εἶπεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	342	23	ἃ	ἁ	ἃ	ἃ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	342	24	ἐπ᾽	ἐπ᾽ +»	ἐπ᾽	ἐπ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	342	24	“Ξκαὶ	“Ξκαὶ	καὶ	καὶ	image (3x): superscript verse number, not text
+jer	oldtestgreek00unknuoft	342	24	ov	ἡ	ᾗ	ᾗ	image (3x): rough breathing + circumflex, iota subscript: ᾗ
+jer	oldtestgreek00unknuoft	342	24	43	σὺ +43	σὺ	σὺ	image (3x): σὺ; 43 is the margin number
+jer	oldtestgreek00unknuoft	342	25	"ABaros	ΓΑβατος	Ἄβατος	Ἄβατος	image (3x): smooth breathing + acute: Ἄβατος
+jer	oldtestgreek00unknuoft	342	26	Χαλδαίων" +“	Χαλδαίων" +“	Χαλδαίων.	Χαλδαίων·	image (3x): raised point, ano teleia
+jer	oldtestgreek00unknuoft	342	26	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	342	26	γράψεις +44	γράψεις +4“	γράψεις	γράψεις	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	342	27	γῇ.	γῇ.	γῇ	γῇ	image (3x): no period after the word (speck at most)

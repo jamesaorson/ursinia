@@ -1,0 +1,46 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	337	1	“38ὅτι	“38ὅτι	ὅτι	ὅτι	TODO zoom: A OPEN, B OPEN
+jer	oldtestgreek00unknuoft	337	1	Ἔτι	Ἔτι	Ἔτι	Ἔτι	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+jer	oldtestgreek00unknuoft	337	1	τοῦτον +B	τοῦτον +Β	τοῦτον	τοῦτον	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	337	2	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+jer	oldtestgreek00unknuoft	337	3	Ἑὐλογημένος	Ἑὐλογημένος	Εὐλογημένος	Εὐλογημένος	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B DIA
+jer	oldtestgreek00unknuoft	337	4	αὐτοῦ"	αὐτοῦ" +“᾽	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	337	4	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	337	4	méheciv	πόλεσιν	πόλεσιν	πόλεσιν	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	337	4	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+jer	oldtestgreek00unknuoft	337	5	€v	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	337	5	ποιμμίῳ.	ποιμμίῳ.	ποιμνίῳ.	ποιμνίῳ.	TODO zoom: A OPEN, B OPEN
+jer	oldtestgreek00unknuoft	337	5	dri	“Ξὅτι	ὅτι	ὅτι	TODO zoom: A R5, B OPEN
+jer	oldtestgreek00unknuoft	337	7	"διὰ	"διὰ	διὰ	διὰ	TODO zoom: A OPEN, B OPEN
+jer	oldtestgreek00unknuoft	337	7	ἡδύς	ἡδύς	ἡδύς	ἡδύς	TODO zoom: accent before an enclitic
+jer	oldtestgreek00unknuoft	337	7	μοὶ	μοὶ	μοι	μοι	TODO zoom: A DIA, B DIA
+jer	oldtestgreek00unknuoft	337	8	"διὰ	"διὰ	διὰ	διὰ	TODO zoom: A OPEN, B OPEN
+jer	oldtestgreek00unknuoft	337	8	φησὶν	φησὶν	φησὶν	φησὶν	TODO zoom: acute or grave before a capitalized word
+jer	oldtestgreek00unknuoft	337	9	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+jer	oldtestgreek00unknuoft	337	9	Ἰουδά,	Ἰουδά,	Ἰουδά,	Ἰουδά,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+jer	oldtestgreek00unknuoft	337	10	καὶ	“καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	337	10	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	337	12	φησὶν	φησὶν	φησὶν	φησὶν	TODO zoom: acute or grave before a capitalized word
+jer	oldtestgreek00unknuoft	337	12	ev	“ἐν	ἐν	ἐν	TODO zoom: A R5, B OPEN
+jer	oldtestgreek00unknuoft	337	12	Οἱ	Οἱ	Οἱ	Οἱ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+jer	oldtestgreek00unknuoft	337	13	ἡμωδίασαν"	ἡμωδίασαν"	ἠμωδίασαν·	ἡμωδίασαν·	TODO zoom: A OPEN, B OPEN
+jer	oldtestgreek00unknuoft	337	14	3°GXN”	5 +'άἀχλ᾽	ἀλλ᾽	ἀλλ᾽	TODO zoom: A R5, B OPEN
+jer	oldtestgreek00unknuoft	337	15	αἱμωδιάδουσιν	αἱμωδιάδουσιν	αἱμωδιάσουσιν	αἱμωδιάσουσιν	TODO zoom: A OPEN, B OPEN
+jer	oldtestgreek00unknuoft	337	15	αὐτοῦ. +3:	αὐτοῦ. +3:	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	337	15	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+jer	oldtestgreek00unknuoft	337	16	φησὶν	φησὶν	φησὶν	φησὶν	TODO zoom: acute or grave before a capitalized word
+jer	oldtestgreek00unknuoft	337	16	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+jer	oldtestgreek00unknuoft	337	17	ὶ	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	337	17	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+jer	oldtestgreek00unknuoft	337	17	3:οὺ	5᾽οὐ	οὐ	οὐ	TODO zoom: A OPEN, B OPEN
+jer	oldtestgreek00unknuoft	337	17	διαθήκην	διαθηκὴν	διαθήκην	διαθήκην	TODO zoom: A same, B DIA
+jer	oldtestgreek00unknuoft	337	19	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+jer	oldtestgreek00unknuoft	337	20	τῇ	τῇ +ὃ	τῇ	τῇ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	337	20	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	337	20	φησὶν	φησὶν	φησὶν	φησὶν	TODO zoom: acute or grave before a capitalized word
+jer	oldtestgreek00unknuoft	337	21	33ὅτι	33ὅτι	ὅτι	ὅτι	TODO zoom: A OPEN, B OPEN
+jer	oldtestgreek00unknuoft	337	21	Ἰσραήλ	Ἰσραήλ	Ἰσραὴλ	Ἰσραήλ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); acute or grave before a capitalized word; A DIA, B DIA
+jer	oldtestgreek00unknuoft	337	22	φησὶν	φησὶν	φησὶν	φησὶν	TODO zoom: acute or grave before a capitalized word
+jer	oldtestgreek00unknuoft	337	24	ἔσονταί	ἔσονταί	ἔσονταί	ἔσονταί	TODO zoom: accent before an enclitic
+jer	oldtestgreek00unknuoft	337	24	λαόν. +53:	λαόν. +53:	λαόν.	λαόν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	337	24	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
