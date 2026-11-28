@@ -1,0 +1,33 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+prov	oldtestamenting02swet	443	1	ϑίνα	ϑίνα	ἵνα	ἵνα	image (3x): ἵνα, rough breathing + acute
+prov	oldtestamenting02swet	443	2	στεφάνῳ	ἄνῳ	στεφάνῳ	στεφάνῳ	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	443	3	ὍὔΑ +κουε,	ὌΠΑ +κουε,	Ἄκουε,	Ἄκουε,	image (3x): Ἄ, smooth breathing + acute (apostrophe then rising stroke)
+prov	oldtestamenting02swet	443	5	βίου. +τ	βίου. +τ	βίου.	βίου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	443	7	δέ	δέ	δέ	δέ	image (3x): acute before enclitic as printed
+prov	oldtestamenting02swet	443	8	ἐὰν	“ἐὰν	ἐὰν	ἐὰν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	443	8	συνκλεισθήσεταί	συνκλεισθήσεταί	συνκλεισθήσεταί	συνκλεισθήσεταί	image (3x): acute before enclitic as printed
+prov	oldtestamenting02swet	443	8	διαβήματα:	διαβήματα᾽	διαβήματα·	διαβήματα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	443	9	τρέχῃς;	τρέχῃς;	τρέχῃς,	τρέχῃς,	image (3x): comma, not question mark
+prov	oldtestamenting02swet	443	10	"Ξἐπιλαβοῦ	| +Ξ̓ϑἐπιλαβοῦ	ἐπιλαβοῦ	ἐπιλαβοῦ	image (3x): OCR junk/split; print as transcribed
+prov	oldtestamenting02swet	443	10	ἀφῆς,	ἀφῆς,	ἀφῇς,	ἀφῇς,	image (3x): iota subscript under η visible
+prov	oldtestamenting02swet	443	11	ζωήν	ζωήν	ζωήν	ζωήν	image (3x): acute before enclitic as printed
+prov	oldtestamenting02swet	443	12	ἐπέλθης,	ἐπέλθης,	ἐπέλθῃς,	ἐπέλθῃς,	image (3x): iota subscript under η visible
+prov	oldtestamenting02swet	443	13	παραν	παραν +ὑμων᾽	παρανόμων·	παρανόμων·	image (3x): OCR junk/split; print as transcribed
+prov	oldtestamenting02swet	443	14	ὑμων᾽ +Γὴ δὲν	ἐν	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	443	14	ἐπέλθῃς	ἐπέλθης	ἐπέλθῃς	ἐπέλθῃς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	443	14	ἐκεῖ.	ἐκεῖ.	ἐκεῖ,	ἐκεῖ,	image (3x): comma, not period
+prov	oldtestamenting02swet	443	16	κακοποιήσωσιν᾽	κακοποιήσωσιν᾽	κακοποιήσωσιν·	κακοποιήσωσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	443	17	ἀφῇρηται	ἀφῇρηται	ἀφῄρηται	ἀφῄρηται	image (3x): acute (not circumflex) and iota subscript: ἀφῄρηται
+prov	oldtestamenting02swet	443	17	κοιμῶνται:	κοιμῶνται:	κοιμῶνται·	κοιμῶνται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	443	20	τιϑαὶ	"δαὶ	αἱ	αἱ	image (3x): OCR junk/split; print as transcribed
+prov	oldtestamenting02swet	443	22	αἱ	"αἱ	αἱ	αἱ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	443	24	Υἱέ,	Υἱέ,	Υἱέ,	Υἱέ,	image (3x): Υἱέ, breathing on ι, capital Υ bare
+prov	oldtestamenting02swet	443	24	ἐμῇ	ἐμῃ	ἐμῇ	ἐμῇ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	443	24	ρήσει	ρήσει	ῥήσει	ῥήσει	image (3x): rough breathing on ρ
+prov	oldtestamenting02swet	443	26	ἐκλίπωσίν	ἐκλίπωσίν	ἐκλίπωσίν	ἐκλίπωσίν	image (3x): acute before enclitic as printed
+prov	oldtestamenting02swet	443	26	πηγαί	πηγαί	πηγαί	πηγαί	image (3x): acute before enclitic as printed
+prov	oldtestamenting02swet	443	27	καρδίᾳ:	καρδίᾳ:	καρδίᾳ·	καρδίᾳ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	443	28	γάρ	γάρ	γάρ	γάρ	image (3x): acute before enclitic as printed
+prov	oldtestamenting02swet	443	29	ἴασις:	ἴασις:	ἴασις.	ἴασις.	ambiguous: mark after ἴασις prints as a colon (two points of equal weight, baseline and mid-height); Greek has no colon; read period
+prov	oldtestamenting02swet	443	30	Ὃ᾿πάσῃ	Ὃ᾿πάσῃ	πάσῃ	πάσῃ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	443	30	καρδίαν᾽	καρδίαν᾽	καρδίαν·	καρδίαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

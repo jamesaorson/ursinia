@@ -6,6 +6,8 @@
 
 (lemma "δάκνω" (sense bite (verb "bite" "bit" "bitten") (gloss "bite" "bit" "bitten" "bites" "biting") (why "(LXX form supplied.) To bite (Genesis 49:17, the snake biting the horse's heel; Galatians 5:15).")))
 
+(lemma "δακτύλιος" (sense ring (gloss "ring" "rings") (why "A finger ring, a signet ring (Genesis 41:42, Pharaoh's ring put on Joseph's hand; Luke 15:22).")))
+
 (lemma "Δαμασκός" (sense name (gloss "Damascus") (why "Damascus (Genesis 14:15; Acts 9:2).")))
 
 (lemma "Δάν" (sense name (gloss "Dan") (why "(LXX, supplied.) Dan, the place in the far north (Genesis 14:14), named after Jacob's son Dan (Genesis 30:6); traditional English.")))
@@ -63,6 +65,8 @@
 
 (lemma "δεσμεύω" (sense bind (verb "bind" "bound" "bound") (gloss "bind" "bound" "binds" "binding") (why "(LXX form supplied.) To tie up, bind, fetter (Genesis 49:11, binding his colt to the vine; Matthew 23:4; Acts 22:4). \"Bind\" is free here; if δέω later needs it, one of the two takes \"tie\".")))
 
+(lemma "δεσμός" (sense bundle (gloss "bundle" "bundles") (why "Anything that binds: a bond, fetter (Luke 8:29; Acts 16:26), and a bundle tied up (Genesis 42:27, 35 ὁ δεσμὸς τοῦ ἀργυρίου, each brother's bundle of silver). \"Bundle\" for the tied purse; \"bond\" becomes its own sense when first needed.")))
+
 (lemma "δεσμωτήριον" (sense prison (gloss "prison" "prisons") (why "A place of bonds, a prison (Genesis 39:22-23; 40:3, 5; Matthew 11:2; Acts 5:21, 23; 16:26).")))
 
 (lemma "δεσμώτης" (sense prisoner (person) (gloss "prisoner" "prisoners") (why "One in bonds, a prisoner (Genesis 39:20, the king's prisoners; Acts 27:1, 42).")))
@@ -76,7 +80,11 @@
     (gloss "second")
     (why "The ordinal \"second\".")))
 
+(lemma "δευτερόω" (sense repeat (gloss "repeat" "repeated" "repeats" "repeating") (why "(LXX, supplied.) To do a second time, repeat (Genesis 41:32 περὶ δὲ τοῦ δευτερῶσαι τὸ ἐνύπνιον, the dream given twice). From δεύτερος.")))
+
 (lemma "δέχομαι" (sense receive (gloss "receive" "received" "receives" "receiving") (why "To receive, welcome.")))
+
+(lemma "δέω" (sense tie (verb "tie" "tied" "tied") (gloss "tie" "tied" "ties" "tying") (why "To tie, bind (Genesis 42:24 ἔδησεν αὐτὸν ἐναντίον αὐτῶν, Joseph binding Simeon; Matthew 14:3; Mark 5:3). \"Tie\" because δεσμεύω has \"bind\" (its entry foresaw this split).")))
 
 (lemma "δή" (sense indeed (gloss "indeed") (why "The particle of emphasis or urgency, \"indeed, now\", often in requests (Genesis 18:4 λημφθήτω δὴ ὕδωρ \"let water indeed be taken\"; Luke 2:15; Acts 13:2). \"Indeed\" because \"now\" is νῦν's.")))
 
@@ -91,13 +99,23 @@
     (gloss "because of")
     (why "With the accusative: the reason, \"because of\" (Genesis 11:9, διὰ τοῦτο \"because of this\"; 12:13, 16, διὰ σέ, δι’ αὐτήν; Matthew 24:9). The generator takes it for an accusative object, as the entry for \"through\" foresaw.")))
 
+(lemma "διαβαίνω" (sense go-across (verb "go across" "went across" "gone across") (gloss "go across" "went across" "goes across" "going across" "gone across") (why "To step across, cross over (Genesis 31:21 διέβη τὸν ποταμόν; 32:10 the Jordan; Acts 16:9 διαβὰς εἰς Μακεδονίαν; Hebrews 11:29). \"Go across\" keeps it apart from the noun σταυρός \"cross\".")))
+
+(lemma "διάβασις" (sense crossing (gloss "crossing" "crossings") (why "(LXX, supplied.) A crossing place, ford (Genesis 32:22 διέβη τὴν διάβασιν τοῦ Ἰαβόκ). The noun of διαβαίνω.")))
+
+(lemma "διαβιβάζω" (sense bring-across (verb "bring across" "brought across" "brought across") (gloss "bring across" "brought across" "brings across" "bringing across") (why "(LXX, supplied.) To carry or bring across (Genesis 32:23 διεβίβασεν πάντα τὰ αὐτοῦ). The causative of διαβαίνω.")))
+
 (lemma "διαβοάω" (sense noise-abroad (verb "noise abroad" "noised abroad" "noised abroad") (gloss "noise abroad" "noised abroad" "noises abroad" "noising abroad") (why "(LXX, supplied.) To cry through, spread a report abroad; passive, to be noised abroad (Genesis 45:16, the voice was noised abroad into Pharaoh's house).")))
 
 (lemma "διαβουλεύομαι" (sense deliberate (gloss "deliberate" "deliberated" "deliberates" "deliberating") (why "(LXX, supplied.) To take counsel together, deliberate, plot (Genesis 49:23, the archers deliberating against Joseph). Kept apart from βουλεύω \"plan\".")))
 
+(lemma "διάδηλος" (sense evident (gloss "evident") (why "(LXX, supplied.) Clearly seen, plain to see (Genesis 41:21 οὐ διάδηλοι ἐγένοντο, the lean cows showing no sign of what they had eaten).")))
+
 (lemma "διαθήκη" (sense covenant (gloss "covenant" "covenants") (why "Covenant, the arrangement God sets up (Genesis 6:18; 9:9-17; Luke 1:72; Hebrews 8). \"Covenant\" in both testaments; Hebrews 9:16-17 (a will) will be discussed there.")))
 
 (lemma "διαιρέω" (sense divide (gloss "divide" "divided" "divides" "dividing") (why "To divide, distribute (1 Corinthians 12:11). Genesis 4:7 μὴ διέλῃς, \"[if] you do not divide\" (the offering rightly).")))
+
+(lemma "διακόπτω" (sense break-through (verb "break through" "broke through" "broken through") (gloss "break through" "broke through" "broken through" "breaks through" "breaking through") (why "(LXX, supplied.) To cut through, break through (Genesis 38:29, the midwife at Perez's birth: Τί διεκόπη διὰ σὲ φραγμός; \"Why was fence broken through on account of you?\").")))
 
 (lemma "διακόσιοι" (sense two-hundred (gloss "two hundred") (why "The numeral two hundred (Genesis 5; John 6:7).")))
 
@@ -138,6 +156,8 @@
 (lemma "διατηρέω" (sense maintain (gloss "maintain" "maintained" "maintains" "maintaining") (why "To keep carefully, keep up (Genesis 17:9-10, the covenant; Luke 2:51; Acts 15:29). \"Maintain\" keeps it apart from τηρέω \"keep\" and φυλάσσω \"guard\".")))
 
 (lemma "διασπείρω" (sense scatter (gloss "scatter" "scattered" "scatters" "scattering") (why "To sow throughout, scatter, disperse (Genesis 11:4, 8, 9, the dispersal from Babel; Acts 8:1, 4, the church scattered).")))
+
+(lemma "διάστημα" (sense interval (gloss "interval" "intervals") (why "A space between, an interval (Genesis 32:16 διάστημα ποιεῖτε ἀνὰ μέσον ποίμνης καὶ ποίμνης; Acts 5:7, of time).")))
 
 (lemma "διατίθημι" (sense arrange (gloss "arrange" "arranged" "arranges" "arranging") (why "Middle: to arrange, dispose; with διαθήκη, to make a covenant (Genesis 21:27, 32 διέθεντο διαθήκην; Hebrews 8:10 ἡ διαθήκη ἣν διαθήσομαι, Luke 22:29). \"Arrange\" keeps the root visible: \"arranged a covenant\" (διαθήκη is itself the arrangement); not \"make\", which is ποιέω.")))
 
@@ -215,6 +235,8 @@
 
 (lemma "δοχή" (sense reception (gloss "reception" "receptions") (why "A receiving of guests, a reception, a banquet (Genesis 21:8 δοχὴν μεγάλην, as Luke 5:29 and 14:13). \"Reception\" keeps the root δέχομαι visible and leaves \"feast\" for ἑορτή.")))
 
+(lemma "δράγμα" (sense sheaf (plural "sheaves") (gloss "sheaf" "sheaves") (why "(LXX, supplied.) A handful, a sheaf of cut grain (Genesis 37:7, Joseph's sheaf; 41:47, the land made sheaves in the years of plenty).")))
+
 (lemma "δραχμή" (sense drachma (gloss "drachma" "drachmas") (why "(LXX form supplied.) A drachma, a silver coin and a weight (Genesis 24:22, a ring ἀνὰ δραχμὴν ὁλκῆς, \"a drachma of weight\"; Luke 15:8-9). Kept as the coin's name, like δίδραχμον \"didrachm\".")))
 
 (lemma "δρόσος" (sense dew (gloss "dew") (why "(LXX, supplied.) Dew (Genesis 27:28, 39, ἀπὸ τῆς δρόσου τοῦ οὐρανοῦ, Isaac's blessings).")))
@@ -240,6 +262,8 @@
 (lemma "δυστοκέω" (sense have-hard-labor (verb "have hard labor" "had hard labor" "had hard labor") (gloss "have hard labor" "had hard labor" "has hard labor" "having hard labor") (why "(LXX, supplied.) To be in hard labor, to give birth with difficulty (Genesis 35:16-17, Rachel bearing Benjamin; δυσ- \"ill\" + τόκος \"birth\").")))
 
 (lemma "δώδεκα"(sense twelve (gloss "twelve") (why "The numeral twelve (Genesis 5:8; Matthew 10:1).")))
+
+(lemma "Δωθάειμ" (sense name (gloss "Dothan") (why "(LXX, supplied.) The place where Joseph found his brothers (Genesis 37:17), Greek Δωθάειμ for the Hebrew Dothan (also Dothain); the same place, traditional English Dothan.")))
 
 (lemma "δωρεάν" (sense freely (gloss "freely") (why "As a gift, for nothing, freely (Genesis 29:15, Laban: you will not slave for me δωρεάν; Matthew 10:8; John 15:25 \"without cause\"). The accusative of δωρεά \"gift\" used as an adverb.")))
 

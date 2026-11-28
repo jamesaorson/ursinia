@@ -19,11 +19,17 @@
 
 (lemma "Φάλεκ" (sense name (gloss "Peleg") (why "Eber's son (Genesis 10:25; 11:16-19; Luke 3:35, Φάλεκ, KJV \"Phalec\"), traditional Old Testament English Peleg.")))
 
+(lemma "Φαλλούδ" (sense name (gloss "Pallu") (why "(LXX, supplied.) A son of Reuben (Genesis 46:9), Greek Φαλλούδ; traditional English Pallu.")))
+
+(lemma "φανερός" (sense apparent (gloss "apparent") (why "Visible, plain, known (Genesis 42:16 ἕως τοῦ φανερὰ γενέσθαι τὰ ῥήματα ὑμῶν; Mark 4:22; Romans 1:19). \"Apparent\" keeps it apart from διάδηλος \"evident\" and the verb ἐμφανίζω.")))
+
 (lemma "φάραγξ" (sense ravine (gloss "ravine" "ravines") (why "A ravine, gorge, valley (Genesis 14:3, the salty ravine; Luke 3:5 quoting Isaiah 40:4). Kept apart from κοιλάς \"valley\".")))
 
 (lemma "Φαράν" (sense name (gloss "Paran") (why "(LXX, supplied.) The wilderness of Paran (Genesis 21:21); traditional English Paran. Indeclinable.")))
 
 (lemma "Φαραώ" (sense name (person) (gloss "Pharaoh") (why "The title of Egypt's king, used as a name (Genesis 12:15-20; Acts 7:10; Romans 9:17), traditional English Pharaoh.")))
+
+(lemma "Φάρες" (sense name (gloss "Perez") (why "(LXX, supplied.) Judah's son by Tamar, named at the breach (Genesis 38:29; 46:12); Matthew 1:3 and Luke 3:33 Φαρές. Traditional English Perez (KJV Pharez), indeclinable in Greek.")))
 
 (lemma "φαρέτρα" (sense quiver (gloss "quiver") (why "(LXX, supplied.) A quiver for arrows (Genesis 27:3, Esau's hunting gear).")))
 
@@ -66,6 +72,8 @@
     (gloss "kiss" "kissed" "kisses" "kissing")
     (why "To kiss (Genesis 27:26-27, Isaac kissing Jacob; Matthew 26:48; Luke 22:47). The aorist forms of Genesis 27 carry this sense in the form rows.")))
 
+(lemma "Φινές" (sense name (gloss "Pinon") (why "(LXX, supplied.) A chief of Esau (Genesis 36:41); Swete's Φινές for the Hebrew Pinon, a variant of the same name, so the traditional English Pinon (rule 8). It is not the Φινεές (Phinehas) of Exodus 6:25.")))
+
 (lemma "φλόγινος"
   (sense flaming
     (gloss "flaming")
@@ -82,9 +90,15 @@
 
 (lemma "φόβος" (sense fear (gloss "fear" "fears") (why "Fear; the noun of φοβέω.")))
 
-(lemma "φονεύω" (sense murder (gloss "murder" "murdered" "murders" "murdering") (why "To murder (Exodus 20:13; Matthew 19:18).")))
+(lemma "Φόγωρ" (sense name (gloss "Peor") (why "(LXX, supplied.) The city of Hadar, king of Edom (Genesis 36:39), where the Hebrew has Pau. The Greek gives a different name, the Φογώρ (Peor) of Numbers 23:28, so the English follows the Greek name (as Αἰθιοπία for Cush).")))
+
+(lemma "φονεύω"(sense murder (gloss "murder" "murdered" "murders" "murdering") (why "To murder (Exodus 20:13; Matthew 19:18).")))
+
+(lemma "φραγμός" (sense fence (gloss "fence" "fences") (why "A fence, hedge, partition (Genesis 38:29, Τί διεκόπη διὰ σὲ φραγμός; at Perez's birth; Matthew 21:33; Ephesians 2:14).")))
 
 (lemma "φρέαρ" (sense well (gloss "well" "wells") (why "A well, a dug water-pit (Genesis 16:14; 21:19; John 4:11-12). It shares the spelling \"well\" with the adverb εὖ; the alignment shows which.")))
+
+(lemma "Φουά" (sense name (gloss "Puvah") (why "(LXX, supplied.) A son of Issachar (Genesis 46:13), Greek Φουά; traditional English of Genesis, Puvah.")))
 
 (lemma "Φούδ" (sense name (gloss "Put") (why "(LXX, supplied.) Ham's son (Genesis 10:6), Greek Φούδ; traditional English Put.")))
 

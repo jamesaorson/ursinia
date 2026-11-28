@@ -6,6 +6,8 @@
 
 (lemma "Τάβεκ" (sense name (gloss "Tebah") (why "(LXX, supplied.) Son of Nahor and Reumah (Genesis 22:24); the Greek form of the Hebrew Tebah. Traditional English Tebah.")))
 
+(lemma "ταμεῖον" (sense inner-room (gloss "inner room" "inner rooms") (why "(LXX form supplied; Swete spells ταμιεῖον.) A storeroom, an inner private room (Genesis 43:30, Joseph going into it to weep; Matthew 6:6; 24:26; Luke 12:3).")))
+
 (lemma "ταπεινόω" (sense humble (gloss "humble" "humbled" "humbles" "humbling") (why "To make low, humble, afflict (Genesis 15:13 ταπεινώσουσιν αὐτούς; 16:9 ταπεινώθητι, \"be humbled\"; Luke 14:11; Philippians 2:8).")))
 
 (lemma "ταπείνωσις" (sense humiliation (gloss "humiliation") (why "Lowness, humiliation, affliction (Genesis 16:11, the Lord listened to your humiliation; Luke 1:48; Acts 8:33). The noun of ταπεινόω \"humble\".")))
@@ -16,6 +18,10 @@
   (sense appoint
     (gloss "appoint" "appointed" "appoints" "appointing")
     (why "(Supplied in Genesis 3:24.) To station, appoint, put in order (Acts 13:48; Romans 13:1). \"Appoint\" serves both the cherubim posted at Eden and the authorities appointed by God.")))
+
+(lemma "ταῦρος" (sense bull (gloss "bull" "bulls") (why "(LXX form supplied.) A bull (Genesis 49:6, they hamstrung a bull; Matthew 22:4; Acts 14:13). Kept apart from μόσχος \"calf\".")))
+
+(lemma "ταφή" (sense burial (gloss "burial" "burials") (why "(LXX form supplied.) Burial, the rites of burial (Genesis 50:3, the days of the burial; Matthew 27:7). Kept apart from τάφος \"tomb\".")))
 
 (lemma "τάφος" (sense grave (gloss "grave" "graves") (why "A burial, a grave (Genesis 23:4, 20, κτῆσιν τάφου; Matthew 23:27; 27:61). \"Grave\" keeps it apart from μνημεῖον \"tomb\".")))
 
@@ -45,6 +51,8 @@
 (lemma "τερέμινθος" (sense terebinth (gloss "terebinth" "terebinths") (why "(LXX, supplied.) The terebinth tree (Genesis 14:6, as far as the terebinth of Paran). Kept apart from δρῦς \"oak\".")))
 
 (lemma "τελευτή" (sense end (gloss "end") (why "The end of life, death (Genesis 27:2 τὴν ἡμέραν τῆς τελευτῆς μου; Matthew 2:15, the end of Herod). \"End\" keeps it apart from θάνατος \"death\" and beside τελευτάω \"expire\". (LXX form supplied.)")))
+
+(lemma "τέλος" (sense end (gloss "end" "ends") (why "End, goal, completion (Genesis 46:4 εἰς τέλος, \"into end\"; Matthew 10:22; 24:6; Romans 10:4). It shares \"end\" with τελευτή, the end of life: English has no second plain word; the alignment shows which Greek word stands behind it.")))
 
 (lemma "τέσσαρες"
   (sense four
@@ -108,9 +116,15 @@
 
 (lemma "τοιοῦτος" (sense such (gloss "such") (why "Of this kind, such (Genesis 39:11 τοιαύτη τις ἡμέρα; Matthew 9:8; John 4:23).")))
 
-(lemma "τόξον" (sense bow (gloss "bow" "bows") (why "A bow; in Genesis 9:13-16 the bow set in the cloud (the rainbow; Revelation 4:3 has ἶρις). \"Bow\" keeps the Greek's one word for the weapon and the sign; \"rainbow\" is a reading for the readable layer.")))
+(lemma "τόξευμα" (sense arrow (gloss "arrow" "arrows") (why "(LXX, supplied.) An arrow, a shot (Genesis 49:23, κύριοι τοξευμάτων, \"lords of arrows\"). The noun of τοξεύω; beside τόξον \"bow\" and τοξότης \"archer\".")))
+
+(lemma "τοκετός" (sense childbirth (gloss "childbirth" "childbirths") (why "(LXX, supplied.) Childbirth, delivery (Genesis 35:16 ἐδυστόκησεν ἐν τῷ τοκετῷ; 38:27). The noun of τίκτω \"bear\".")))
+
+(lemma "τόξον"(sense bow (gloss "bow" "bows") (why "A bow; in Genesis 9:13-16 the bow set in the cloud (the rainbow; Revelation 4:3 has ἶρις). \"Bow\" keeps the Greek's one word for the weapon and the sign; \"rainbow\" is a reading for the readable layer.")))
 
 (lemma "τοξότης" (sense archer (person) (gloss "archer" "archers") (why "(LXX, supplied.) A bowman, archer (Genesis 21:20), from τόξον \"bow\".")))
+
+(lemma "τοπάρχης" (sense local-ruler (person) (gloss "local ruler" "local rulers") (why "(LXX, supplied.) The governor of a district (τόπος + ἄρχω), a local ruler (Genesis 41:34 καταστησάτω τοπάρχας ἐπὶ τῆς γῆς). \"Local ruler\" keeps it apart from ἄρχων \"ruler\".")))
 
 (lemma "τόπος" (sense place (gloss "place" "places") (why "Place.")))
 
@@ -143,7 +157,11 @@
     (gloss "thistle" "thistles")
     (why "A thistle, caltrop (Genesis 3:18; Matthew 7:16; Hebrews 6:8, \"thorns and thistles\", echoing Genesis).")))
 
+(lemma "τρίβος" (sense path (gloss "path" "paths") (why "(LXX form supplied.) A beaten track, path (Genesis 49:17, a snake lurking upon a path; Matthew 3:3 quoting Isaiah 40:3). Kept apart from ὁδός \"way\".")))
+
 (lemma "τριετίζω" (sense be-three-years-old (gloss "be three years old" "three years old") (why "(LXX, supplied.) To be three years old (Genesis 15:9, the heifer, goat and ram τριετίζουσαν, τριετίζοντα, \"being three years old\").")))
+
+(lemma "τρίμηνος" (sense three-months (gloss "three months") (why "Of three months; as a noun, a space of three months (Genesis 38:24, μετὰ τρίμηνον, \"after three months\"; Hebrews 11:23, Moses hidden τρίμηνον).")))
 
 (lemma "τρισκαιδέκατος" (sense thirteenth (gloss "thirteenth") (why "(LXX, supplied.) Thirteenth (Genesis 14:4, in the thirteenth year).")))
 
@@ -156,7 +174,11 @@
 
 (lemma "τρόπος" (sense manner (gloss "manner" "manners") (why "A way, manner (Genesis 26:29 ὃν τρόπον, \"which manner\", the accusative of manner; Matthew 23:37; Acts 1:11).")))
 
-(lemma "τρυγών" (sense turtledove (gloss "turtledove" "turtledoves") (why "A turtledove (Genesis 15:9; Luke 2:24).")))
+(lemma "τροφή" (sense nourishment (gloss "nourishment") (why "(LXX form supplied.) Food, nourishment (Genesis 49:27, in the evening he gives nourishment; Matthew 3:4; 6:25). The noun of τρέφω \"nourish\"; βρῶμα has \"food\".")))
+
+(lemma "τροφός" (sense nurse (person) (gloss "nurse" "nurses") (why "(LXX, supplied form.) A nurse, one who feeds a child (Genesis 35:8 Δεββωρὰ ἡ τροφὸς Ῥεβέκκας; 1 Thessalonians 2:7). From τρέφω \"feed\".")))
+
+(lemma "τρυγών"(sense turtledove (gloss "turtledove" "turtledoves") (why "A turtledove (Genesis 15:9; Luke 2:24).")))
 
 (lemma "τρόμος" (sense trembling (gloss "trembling") (why "Trembling, quaking from fear (Genesis 9:2, ὁ τρόμος ὑμῶν καὶ ὁ φόβος; Mark 16:8; 1 Corinthians 2:3, \"in fear and in much trembling\"). It shares \"trembling\" with the participle of its own verb τρέμω; φόβος is \"fear\".")))
 
@@ -164,3 +186,7 @@
   (sense delight
     (gloss "delight")
     (why "(Supplied in Genesis 3:23-24.) Luxury, delight, soft living (Luke 7:25; 2 Peter 2:13). In Genesis 3:23-24 the Septuagint translates the name Eden by its meaning: \"the paradise of the delight\". \"Delight\" (not \"luxury\") because it is a translation of the place name; the New Testament uses may want \"luxury\" as a second sense.")))
+
+(lemma "τύμπανον" (sense drum (gloss "drum" "drums") (why "(LXX, supplied.) A hand drum, tambourine (Genesis 31:27 μετὰ μουσικῶν, τυμπάνων καὶ κιθάρας). The verb τυμπανίζω is in Hebrews 11:35.")))
+
+(lemma "τύχη" (sense fortune (gloss "fortune") (why "(LXX, supplied.) What befalls one, fortune, luck (Genesis 30:11, Leah at Gad's birth: Ἐν τύχῃ, \"In fortune\"). From τυγχάνω \"happen upon\".")))

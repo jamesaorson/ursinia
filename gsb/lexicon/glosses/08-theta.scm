@@ -17,7 +17,8 @@
 
 (lemma "Θαμάρ" (sense name (gloss "Tamar") (why "Tamar (Matthew 1:3; Genesis 38). In Genesis 14:7 Ἁσασὰν Θαμάρ, Hazazon-tamar, the place name's second word.")))
 
-(lemma "Θαμνά" (sense name (gloss "Timna") (why "(LXX, supplied.) Timna, the concubine of Eliphaz and sister of Lotan, and a chief of Esau (Genesis 36:12, 22, 40), traditional English Timna. The town Timnah (Genesis 38:12) is spelled the same in Greek; give it its own sense when met.")))
+(lemma "Θαμνά" (sense name (gloss "Timna") (why "(LXX, supplied.) Timna, the concubine of Eliphaz and sister of Lotan, and a chief of Esau (Genesis 36:12, 22, 40), traditional English Timna. The town Timnah (Genesis 38:12) is spelled the same in Greek; give it its own sense when met."))
+  (sense timnah (gloss "Timnah") (why "(LXX, supplied.) The town in the hill country of Judah where Judah went up to shear his sheep (Genesis 38:12-14), Hebrew Timnah; the same Greek spelling as the woman Timna, a different name in Hebrew, so its own sense with the traditional English Timnah.")))
 
 (lemma "θάνατος"
   (sense death
@@ -25,11 +26,15 @@
     (gloss "death")
     (why "Death. The dative in θανάτῳ ἀποθανεῖσθε is \"by death\".")))
 
+(lemma "θανατόω" (sense put-to-death (verb "put to death" "put to death" "put to death") (gloss "put to death" "puts to death" "putting to death") (why "To put to death (Genesis 38:10, God ἐθανάτωσεν also Onan; Matthew 10:21; Romans 8:13). Kept apart from ἀποκτείνω \"kill\".")))
+
 (lemma "θάπτω" (sense bury (gloss "bury" "buried" "buries" "burying") (why "To bury (Genesis 23; 25:9-10, Isaac and Ishmael buried Abraham; Matthew 8:21; 1 Corinthians 15:4).")))
 
 (lemma "Θάρα" (sense name (gloss "Terah") (why "Abram's father (Genesis 11:24-32; Luke 3:34, Θάρα), traditional English Terah.")))
 
 (lemma "θαρσέω" (sense take-courage (gloss "take courage" "took courage" "takes courage" "taking courage") (why "To be of good courage (Exodus 20:20; Matthew 9:2).")))
+
+(lemma "Θασοβάν" (sense name (gloss "Ezbon") (why "(LXX, supplied.) A son of Gad (Genesis 46:16), Greek Θασοβάν for the Hebrew Ezbon (the same consonants, with a θ before them): traditional English Ezbon. The owner may prefer Thasoban.")))
 
 (lemma "θαυμάζω" (sense marvel-at (verb "marvel at" "marveled at" "marveled at") (gloss "marvel at" "marveled at" "marvels at" "marveling at") (why "To wonder, marvel at (Matthew 8:10; Luke 7:9). Genesis 19:21 ἐθαύμασά σου τὸ πρόσωπον, \"I marveled at your face\", is the Hebrew idiom of lifting up the face, showing favor; the literal layer keeps the Greek verb.")))
 
@@ -47,6 +52,8 @@
     (why "Capitalized for the God of Israel, lowercase for others. Whether the Greek has the article is shown by the alignment, not by the English (see ὁ, sense unrendered). The plural ὡς θεοί (Genesis 3:5) is \"as gods\".")))
 
 (lemma "θεοσέβεια" (sense piety (gloss "piety") (why "Reverence toward God, piety (Genesis 20:11 οὐκ ἔστιν θεοσέβεια ἐν τῷ τόπῳ τούτῳ; 1 Timothy 2:10). \"Piety\": an English gloss may not name God where the Greek has no θεός (the compound's θεο- is not a separate word), and \"godliness\" is left for εὐσέβεια.")))
+
+(lemma "θεραπεία" (sense retinue (gloss "retinue") (why "Service, and so the body of servants in attendance, a household (Genesis 45:16, Pharaoh and his retinue; Luke 12:42 τῆς θεραπείας αὐτοῦ). \"Healing\" (Luke 9:11; Revelation 22:2) will be its own sense. \"Retinue\" keeps it apart from οἶκος \"house\".")))
 
 (lemma "θεράπων" (sense attendant (person) (gloss "attendant" "attendants") (why "An attendant, one who serves willingly (Genesis 24:44, Isaac τῷ ἑαυτοῦ θεράποντι; Hebrews 3:5, Moses faithful as a θεράπων). \"Attendant\" keeps it apart from παῖς \"servant\" and δοῦλος.")))
 
@@ -69,6 +76,8 @@
 
 (lemma "θηρεύω" (sense hunt (gloss "hunt" "hunted" "hunts" "hunting") (why "To hunt (Genesis 27:3, 5, 33, Esau hunting game; Luke 11:54, of catching a word). (LXX form supplied.)")))
 
+(lemma "θηριάλωτος" (sense beast-caught (gloss "beast-caught") (why "(LXX, supplied.) Caught by a wild beast, torn by beasts (Genesis 31:39 θηριάλωτον οὐκ ἀνενήνοχά σοι). From θήρ \"beast\" and ἁλωτός \"caught\"; the compound English keeps it one word, apart from θηριόβρωτος.")))
+
 (lemma "θηριόβρωτος" (sense beast-devoured (gloss "beast-devoured") (why "(LXX, supplied.) Eaten by wild beasts (θηρίον + βιβρώσκω): Genesis 44:28 Θηριόβρωτος γέγονεν, \"he has become beast-devoured\", Jacob of Joseph. The hyphen keeps the one Greek word one English word.")))
 
 (lemma "θηρίον"
@@ -85,6 +94,8 @@
 (lemma "θνῄσκω" (sense die (intransitive) (gloss "die" "died" "dies" "dying") (why "To die; in the perfect, to be dead (Genesis 50:15 τέθνηκεν ὁ πατὴρ αὐτῶν, \"their father has died\"; Matthew 2:20; Luke 8:49; John 11:44). The simple verb of ἀποθνῄσκω, which also has \"die\": the English cannot tell the two apart, and the Greek difference is slight. (LXX form supplied.)")))
 
 (lemma "Θόβελ"(sense name (gloss "Tubal") (why "(LXX, supplied.) Genesis 4:22: Greek Θόβελ where the Hebrew has Tubal-cain; the Greek name is Tubal alone.")))
+
+(lemma "θρόνος" (sense throne (gloss "throne" "thrones") (why "A seat of state, a throne (Genesis 41:40 πλὴν τὸν θρόνον ὑπερέξω σου ἐγώ, Pharaoh above Joseph only in the throne; Matthew 5:34; Revelation 4:2).")))
 
 (lemma "θυγάτηρ" (sense daughter (person) (gloss "daughter" "daughters") (why "Daughter.")))
 
@@ -105,3 +116,5 @@
 (lemma "θυσιαστήριον" (sense altar (gloss "altar" "altars") (why "Altar, the place of sacrifice (θυσία).")))
 
 (lemma "θύω" (sense sacrifice (gloss "sacrifice" "sacrificed" "sacrifices" "sacrificing") (why "To sacrifice, the verb of θυσία.")))
+
+(lemma "Θωλά" (sense name (gloss "Tola") (why "(LXX, supplied.) Issachar's firstborn (Genesis 46:13), Greek Θωλά; traditional English Tola.")))

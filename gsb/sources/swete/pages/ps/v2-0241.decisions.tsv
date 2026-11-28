@@ -1,0 +1,27 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	241	1	χειρών	χειρών	χειρῶν	χειρῶν	image (3x): circumflex on ω
+ps	oldtestamenting02swet	241	2	ᾧδὴ	ᾧδὴ	ᾠδὴ	ᾠδὴ	image (3x): smooth breathing + iota subscript on ω, grave on η
+ps	oldtestamenting02swet	241	3	ἄδην,	ἅδην,	ᾅδην,	ᾅδην,	image (3x): rough breathing + acute + iota subscript: ᾅ
+ps	oldtestamenting02swet	241	7	Ῥάνάστηθι,	Ξοἀνάστηθι,	ἀνάστηθι,	ἀνάστηθι,	image (3x): ἀνάστηθι; leading junk is the superscript 20
+ps	oldtestamenting02swet	241	8	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	image (3x): acute before enclitic σου as printed
+ps	oldtestamenting02swet	241	8	σου. +21	σου.	σου.	σου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	241	10	ἀνθρωποί	ἀνθρωποί	ἄνθρωποί	ἄνθρωποί	image (3x): smooth breathing + acute on α, acute before εἰσιν
+ps	oldtestamenting02swet	241	11	ἔὄΐνα	ξεἵνᾳ	ἵνα	ἵνα	image (3x): rough breathing + acute (open curl then rising stroke) on ι: ἵνα
+ps	oldtestamenting02swet	241	11	τί,	τί,	τί,	τί,	image (3x): acute on τί before Κύριε as printed
+ps	oldtestamenting02swet	241	13	35ἐν	38ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	241	13	πτωχός"	ς"	πτωχός·	πτωχός·	image (3x): raised point = ano teleia
+ps	oldtestamenting02swet	241	17	ἐνευλογεῖται.	ἐνευλογεῖται. +δ	ἐνευλογεῖται.	ἐνευλογεῖται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	241	18	Κύριον +(")	Κύριον	Κύριον	Κύριον	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	241	18	ὁ	() +ὃ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	241	19	ἐκζητήσει:	ἐκζητήσει:	ἐκζητήσει·	ἐκζητήσει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	241	20	αὐτοῦ. +“6	αὐτοῦ. +"ὁ	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	241	21	καιρῷ	καιρῷ"	καιρῷ·	καιρῷ·	image (3x): raised point = ano teleia
+ps	oldtestamenting02swet	241	22	κρίματά	κρίματά	κρίματά	κρίματά	image (3x): acute before enclitic σου as printed
+ps	oldtestamenting02swet	241	24	Οὐ	Οὐ	Οὐ	Οὐ	image (3x): smooth breathing on Οὐ (apostrophe shape)
+ps	oldtestamenting02swet	241	27	πόνος. +29	πόνος.	πόνος.	πόνος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	241	29	ἀθῷον"	ἀθῷον	ἀθῷον·	ἀθῷον·	image (3x): raised point = ano teleia
+ps	oldtestamenting02swet	241	30	ἀποβλέπουσιν.	ἀποβλέπουσιν. +30	ἀποβλέπουσιν.	ἀποβλέπουσιν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	241	31	“ἐνεδρεύει	ἐνεδρεύει	ἐνεδρεύει	ἐνεδρεύει	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	241	31	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	241	19	-	-	ἐκζητήσει·	ἐκζητήσει·	ambiguous: after the word a small faint raised point, lighter than the ano teleiai on the page; read ano teleia
+ps	oldtestamenting02swet	241	2	-	-	ᾠδὴ	ᾠδὴ	layout: ᾠδὴ διαψάλματος. set about 20-40 px deeper than the {S1} line above (not at turned-over depth; the line above ends with a period); marked {S1}

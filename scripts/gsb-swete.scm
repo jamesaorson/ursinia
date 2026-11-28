@@ -193,7 +193,9 @@ leading comment lines."
     (string-join
      (if (any key? ls)
          (map (lambda (l) (if (key? l) line l)) ls)
-         (let-values (((head tail) (span (lambda (l) (string-prefix? "#" l)) ls)))
+         ;; after the tool-written header (scan and box lines), not after a
+         ;; comment that belongs to the first text line (Psalms '# margin: ...')
+         (let-values (((head tail) (span (lambda (l) (or (string-match "^# *[a-z0-9]+ leaf [0-9]" l) (string-prefix? "# box " l))) ls)))
            (append head (list line) tail)))
      "\n")))
 

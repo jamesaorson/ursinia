@@ -4,6 +4,8 @@
 
 (lemma "Ζαβουλών" (sense name (gloss "Zebulun") (why "Jacob's sixth son by Leah (Genesis 30:20); Matthew 4:13, 15 and Revelation 7:8 Ζαβουλών. Traditional English Zebulun.")))
 
+(lemma "Ζαμβράμ" (sense name (gloss "Shimron") (why "(LXX, supplied.) A son of Issachar (Genesis 46:13), Greek Ζαμβράμ for the Hebrew Shimron, the same name in Greek letters: traditional English Shimron.")))
+
 (lemma "Ζάρα" (sense name (gloss "Zerah") (why "Father of Jobab, king of Edom (Genesis 36:33), traditional English Zerah; the New Testament's Ζάρα (Matthew 1:3) is Judah's son Zerah.")))
 
 (lemma "Ζάρε" (sense name (gloss "Zerah") (why "(LXX, supplied.) A son of Reuel, Esau's grandson, and a chief (Genesis 36:13, 17), Greek Ζάρε; traditional English Zerah. Shares \"Zerah\" with Ζάρα, the same Hebrew name.")))
@@ -20,11 +22,13 @@
 
 (lemma "Ζέλφα" (sense name (gloss "Zilpah") (why "(LXX, supplied.) Leah's slave girl, given to Jacob (Genesis 29:24; 30:9-12), Greek Ζέλφα (accusative Ζέλφαν) for the Hebrew Zilpah; traditional English Zilpah.")))
 
+(lemma "ζεύγνυμι" (sense yoke (verb "yoke" "yoked" "yoked") (gloss "yoke" "yoked" "yokes" "yoking") (why "(LXX, supplied.) To yoke, harness (Genesis 46:29, Joseph yoked his chariots). Shares \"yoke\" with the noun ζυγός; the verb is its action.")))
+
 (lemma "ζηλόω" (sense envy (gloss "envy" "envied" "envies" "envying") (why "To be jealous of, envy (Genesis 26:14, the Philistines envied Isaac; 37:11; Acts 7:9, the patriarchs envied Joseph). The good sense, \"be zealous\" (1 Corinthians 12:31), will be its own sense beside ζηλωτής \"zealous\".")))
 
 (lemma "ζηλωτής" (sense zealous (gloss "zealous") (why "One who is zealous, jealous for (Exodus 20:5 θεὸς ζηλωτής; Acts 21:20). \"Zealous\" keeps the link with ζῆλος; the readable layer may say \"jealous\".")))
 
-(lemma "ζηλωτός" (sense enviable (gloss "enviable") (why "(LXX, supplied.) To be envied, enviable (Genesis 49:22, Joseph υἱὸς ηὐξημένος μου ζηλωτός). Not ζηλωτής \"zealot\".")))
+(lemma "ζηλωτός" (sense enviable (gloss "enviable") (why "(LXX, supplied.) To be envied, enviable (Genesis 49:22, Joseph υἱὸς ηὐξημένος μου ζηλωτός). Not ζηλωτής \"zealous\"; ζηλόω has \"envy\".")))
 
 (lemma "ζητέω" (sense seek (gloss "seek" "sought" "seeks" "seeking") (verb "seek" "sought" "sought") (why "To seek, look for (Genesis 19:11 ζητοῦντες τὴν θύραν; 37:15-16; Matthew 2:13; 7:7).")))
 

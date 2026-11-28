@@ -41,6 +41,8 @@
 
 (lemma "Βαβυλών" (sense name (gloss "Babylon") (why "Babylon (Matthew 1:11; Revelation 14:8). In Genesis 10:10, the first city of Nimrod's kingdom, the Hebrew has Babel; the Greek gives Babylon, and we translate the Greek.")))
 
+(lemma "βαρέως" (sense heavily (gloss "heavily") (why "Heavily, with difficulty (Matthew 13:15 τοῖς ὠσὶν βαρέως ἤκουσαν, quoting Isaiah 6:10). Genesis 31:35 Μὴ βαρέως φέρε, Rachel to Laban, \"do not bear heavily\", take it ill.")))
+
 (lemma "βασιλεύς" (sense king (person) (gloss "king" "kings") (why "King (Genesis 17:6, 16, kings will come out of Abraham; Matthew 1:6; 2:1).")))
 
 (lemma "βασιλεύω" (sense reign (gloss "reign" "reigned" "reigns" "reigning") (why "(LXX form supplied.) To be king, reign (Genesis 36:31-39, the kings who reigned in Edom; Matthew 2:22; Luke 1:33). The verb of βασιλεύς \"king\".")))
@@ -52,6 +54,8 @@
 (lemma "Βαύξ" (sense name (gloss "Buz") (why "(LXX, supplied.) Nahor's second son (Genesis 22:21); the Greek form of the Hebrew Buz. Traditional English Buz.")))
 
 (lemma "Βεήρ" (sense name (gloss "Beeri") (why "(LXX, supplied.) Father of Esau's wife Judith (Genesis 26:34), Greek Βεήρ for the Hebrew Beeri; traditional English Beeri.")))
+
+(lemma "Βεθλέεμ" (sense name (gloss "Bethlehem") (why "(LXX, supplied.) Ephrath, where Rachel was buried (Genesis 35:19; 48:7 αὕτη ἐστὶν Βεθλέεμ); Swete spells Βεθλέεμ where the New Testament has Βηθλέεμ (Matthew 2:1-8). Traditional English Bethlehem.")))
 
 (lemma "βέλτιστος" (sense best (gloss "best") (why "(LXX, supplied.) Best, the superlative used with ἀγαθός (Genesis 47:6, 11 ἐν τῇ βελτίστῃ γῇ, \"in the best land\"). Its comparative βελτίων is \"better\" (2 Timothy 1:18 has the adverb).")))
 
@@ -110,6 +114,8 @@
 
 (lemma "βούλομαι" (sense wish (gloss "wish" "wished" "wishes" "wishing") (why "To wish, be willing, intend (Genesis 24:5, μή ποτε οὐ βούλεται ἡ γυνή; Matthew 1:19; 1 Timothy 2:8). \"Wish\" keeps it apart from θέλω.")))
 
+(lemma "βουνός" (sense heap (gloss "heap" "heaps") (why "(LXX sense supplied.) A mound, here the heap of stones Jacob's kin piled as a witness (Genesis 31:46-52, Βουνὸς μαρτυρεῖ, Galeed). \"Heap\" because \"mound\" is θίς's; the New Testament's \"hill\" (Luke 3:5; 23:30) will be its own sense.")))
+
 (lemma "βοῦς" (sense ox (gloss "ox" "oxen") (plural "oxen") (why "Ox (Exodus 20:17; 1 Corinthians 9:9).")))
 
 (lemma "βούτυρον" (sense butter (gloss "butter") (why "(LXX, supplied.) Butter or curdled milk (Genesis 18:8, set before the three men with milk). \"Butter\" is the word's own sense in Greek; the readable layer may say \"curds\".")))
@@ -131,3 +137,5 @@
     (dative "with")
     (gloss "eating")
     (why "The act of eating, or what is eaten. \"Eating\" (1 Corinthians 8:4) keeps it apart from βρῶμα, which will take \"food\". In Genesis 2:16 βρώσει φάγῃ is \"with eating you will eat\", a Hebrew-style intensive kept in the literal layer.")))
+
+(lemma "βύσσινος" (sense fine-linen (gloss "fine linen") (why "Made of byssus, fine linen (Genesis 41:42 στολὴν βυσσίνην, the robe Pharaoh put on Joseph; Revelation 18:12, 16; 19:8, 14).")))

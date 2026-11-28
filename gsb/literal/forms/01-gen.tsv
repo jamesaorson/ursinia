@@ -1254,6 +1254,7 @@ form	lemma	tag	sense	note
 ἀκροβυστίας	ἀκροβυστία	N-GSF
 ἀκροβυστίας	ἀκροβυστία	N-APF
 βόας	βοῦς	N-APF		feminine, the cattle (Gen 18:7 τὰς βόας)
+βόας	βοῦς	N-APM		masculine, Genesis 50:8 τοὺς βόας
 τέκνον	τέκνον	N-ASN
 τέκνον	τέκνον	N-NSN
 Αἰγύπτιοι	Αἰγύπτιος	N-NPM		the people, a noun (the New Testament table has it as an adjective)
@@ -1365,6 +1366,10 @@ form	lemma	tag	sense	note
 κατήσθιεν	κατεσθίω	V-IAI-3S
 κρεμάσει	κρεμάννυμι	V-FAI-3S
 ἐκρέμασεν	κρεμάννυμι	V-AAI-3S
+οὐδέν	οὐδείς	A-ASN	nothing	the neuter, "nothing"; accusative first, the nominative where it is a subject
+οὐδέν	οὐδείς	A-NSN	nothing
+οὐθέν	οὐδείς	A-ASN	nothing	Swete's θ spelling of οὐδέν
+οὐθέν	οὐδείς	A-NSN	nothing
 ἀναγγείλω	ἀναγγέλλω	V-AAS-1S		aorist subjunctive after ἵνα (Genesis 49:1); the future is ἀναγγελῶ
 ἡμέρων	ἡμέρα	N-GPF		Swete prints ἡμέρων, a misprint for ἡμερῶν (Genesis 49:1; the page decisions record it)
 αὐθάδης	αὐθάδης	A-NSM		Genesis 49:3, 7
@@ -1415,7 +1420,8 @@ form	lemma	tag	sense	note
 πειρατήριον	πειρατήριον	N-NSN		the subject of πειρατεύσει (Genesis 49:19)
 πειρατεύσει	πειρατεύω	V-FAI-3S
 στέλεχος	στέλεχος	N-NSN
-ἀνειμένον	ἀνίημι	V-RPP-NSN
+ἀνειμένον	ἀνίημι	V-RPP-NSN	let-loose	Genesis 49:21, a stem let loose (spreading)
+ἐσχάτων	ἔσχατος	A-GPF		positive tag: ἔσχατος is already "last" (the New Testament's superlative tag gave "most last")
 ἐπιδιδοὺς	ἐπιδίδωμι	V-PAP-NSM
 γενήματι	γένημα	N-DSN
 κάλλος	κάλλος	N-ASN
@@ -1598,7 +1604,7 @@ form	lemma	tag	sense	note
 Καταλείψω	καταλείπω	V-FAI-1S
 ἀπαίρει	ἀπαίρω	V-PAI-3S
 Σκηναί	σκηνή	N-NPF
-Σικίμων	Σίκιμα	N-GPN		Shechem the city, declined as a neuter plural (Genesis 33:18)
+Σικίμων	Σίκιμα	N-PRI		Shechem the city; Greek declines it as a neuter plural (genitive, Genesis 33:18), tagged as a name so the English is not pluralized
 παρενέβαλεν	παρεμβάλλω	V-2AAI-3S
 Ἐμμὼρ	Ἐμμώρ	N-PRI		Hamor; Swete's smooth breathing (the New Testament, Acts 7:16, has Ἑμμώρ)
 ἀμνῶν	ἀμνός	N-GPM
@@ -1656,6 +1662,10 @@ form	lemma	tag	sense	note
 συγκόψουσίν	συγκόπτω	V-FAI-3P
 ἐκτρίβομαι	ἐκτρίβω	V-PPI-1S
 χρήσωνται	χράομαι	V-ADS-3P
+ᾐχμαλώτευσαν	αἰχμαλωτεύω	V-AAI-3P
+εὐθεῖαν	εὐθύς	A-ASF	straight	ἐπ’ εὐθεῖαν, upon [a] straight [way] (Genesis 33:12)
+πρώτοις	πρῶτος	A-DPM		the positive; the New Testament tag's superlative gave "most first"
+ἐσχάτους	ἔσχατος	A-APM		the positive; the New Testament tag's superlative gave "most last"
 συνετέλεσαν	συντελέω	V-AAI-3P
 καταφαγεῖν	κατεσθίω	V-2AAN
 πρίασθε	ὠνέομαι	V-2ADM-2P		ἐπριάμην, the aorist that serves ὠνέομαι
@@ -1782,6 +1792,7 @@ form	lemma	tag	sense	note
 ἐκδέδεκται	ἐκδέχομαι	V-RDI-3S
 ἀναβήτω	ἀναβαίνω	V-2AAM-3S
 ἀναβήσομαι	ἀναβαίνω	V-FDI-1S
+λαλησάτω	λαλέω	V-AAM-3S
 οἴκει	οἰκέω	V-PAM-2S
 ἀποδιδράσκειν	ἀποδιδράσκω	V-PAN
 ἀλλοτρίους	ἀλλότριος	A-APM
@@ -1807,7 +1818,6 @@ form	lemma	tag	sense	note
 σπονδήν	σπονδή	N-ASF
 πύργου	πύργος	N-GSM
 Γάδερ	Γάδερ	N-PRI
-χαβραθὰ	χαβραθά	N-OI		a transliteration of a Hebrew word (Genesis 35:16), kept as a word
 Ἐφράθα	Ἐφράθα	N-PRI
 ἐδυστόκησεν	δυστοκέω	V-AAI-3S
 τοκετῷ	τοκετός	N-DSM
@@ -1977,7 +1987,6 @@ form	lemma	tag	sense	note
 γυναικίων	γυναικεῖος	A-GPN		Swete prints γυναικίων (ι for ει), taken as the neuter plural of γυναικεῖος, "the womanly [things]" (Genesis 31:35); unsure
 ἐμαχέσατο	μάχομαι	V-ADI-3S
 κατεδίωξας	καταδιώκω	V-AAI-2S
-σκευῶν	σκεῦος	N-GPN
 ἐλεγξάτωσαν	ἐλέγχω	V-AAM-3P
 ἠτεκνώθησαν	ἀτεκνόω	V-API-3P
 θηριάλωτον	θηριάλωτος	A-ASN
@@ -2184,7 +2193,7 @@ form	lemma	tag	sense	note
 ἐξαρεῖ	ἐξαίρω	V-FAI-3S
 Ψονθομφανήχ	Ψονθομφανήχ	N-PRI
 Ἀσεννὲθ	Ἀσεννέθ	N-PRI
-Πετρεφῆ	Πετρεφῆς	N-GSM		genitive of Πετρεφῆς, the priest (Genesis 41:45, 50; 46:20), father of Asenath
+Πετρεφῆ	Πετεφρῆς	N-GSM	potiphera	Swete's genitive Πετρεφῆ of the name Πετεφρῆς; the priest, father of Asenath (Genesis 41:45, 50; 46:20)
 δράγματα	δράγμα	N-APN
 δράγματα	δράγμα	N-NPN
 πεδίων	πεδίον	N-GPN
@@ -2241,3 +2250,293 @@ form	lemma	tag	sense	note
 καταλέλειπται	καταλείπω	V-RPI-3S
 συμβήσεται	συμβαίνω	V-FDI-3S
 μαλακισθῆναι	μαλακίζομαι	V-APN
+ποιμαίνων	ποιμαίνω	V-PAP-NSM
+κατήνεγκαν	καταφέρω	V-AAI-3P
+ψόγον	ψόγος	N-ASM
+ποικίλον	ποικίλος	A-ASM
+ἐνυπνιασθεὶς	ἐνυπνιάζομαι	V-AOP-NSM
+ἐνυπνιάσθην	ἐνυπνιάζομαι	V-AOI-1S
+ἐνυπνιάσθης	ἐνυπνιάζομαι	V-AOI-2S
+δεσμεύειν	δεσμεύω	V-PAN
+δράγμα	δράγμα	N-NSN		Swete prints δράγμα (the long alpha would give δρᾶγμα)
+δράγμα	δράγμα	N-ASN
+ὠρθώθη	ὀρθόω	V-API-3S
+περιστραφέντα	περιστρέφω	V-2APP-NPN
+βασιλεύων	βασιλεύω	V-PAP-NSM
+βασιλεύσεις	βασιλεύω	V-FAI-2S
+κυριεύων	κυριεύω	V-PAP-NSM
+κυριεύσεις	κυριεύω	V-FAI-2S
+προσέθεντο	προστίθημι	V-2AMI-3P
+διετήρησεν	διατηρέω	V-AAI-3S
+ποιμαίνουσιν	ποιμαίνω	V-PAI-3P
+βόσκουσιν	βόσκω	V-PAI-3P
+Ἀπήρκασιν	ἀπαίρω	V-RAI-3P		perfect of ἀπαίρω
+Πορευθῶμεν	πορεύομαι	V-AOS-1P
+Δωθάειμ	Δωθάειμ	N-PRI
+κατόπισθεν	κατόπισθεν	PREP		improper preposition with the genitive
+πρόιδον	προοράω	V-2AAI-3P		second aorist (προεῖδον) as Swete prints it; third plural in Genesis 37:18 (the brothers saw Joseph)
+πρόιδον	προοράω	V-2AAI-1S
+ἐνυπνιαστὴς	ἐνυπνιαστής	N-NSM
+ῥίψομεν	ῥίπτω	V-FAI-1P		future (the subjunctive would be ῥίψωμεν)
+λάκκων	λάκκος	N-GPM
+λάκκος	λάκκος	N-NSM
+λάκκου	λάκκος	N-GSM
+λάκκῳ	λάκκος	N-DSM
+ἐροῦμεν	λέγω	V-FAI-1P		future of λέγω (the table's εἶπον)
+ἐκχέητε	ἐκχέω	V-AAS-2P
+ἐμβάλετε	ἐμβάλλω	V-2AAM-2P
+ἐπενέγκητε	ἐπιφέρω	V-2AAS-2P	bring-upon
+ἔρριψαν	ῥίπτω	V-AAI-3P
+ἀναβλέψαντες	ἀναβλέπω	V-AAP-NPM
+ὁδοιπόροι	ὁδοιπόρος	N-NPM
+Ἰσμαηλεῖται	Ἰσμαηλίτης	N-NPM		Swete's spelling with ει
+Ἰσμαηλίταις	Ἰσμαηλίτης	N-DPM
+ἔγεμον	γέμω	V-IAI-3P
+στακτῆς	στακτή	N-GSF
+κρύψωμεν	κρύπτω	V-AAS-1P
+ἀποδώμεθα	ἀποδίδωμι	V-2AMS-1P	sell	the middle of ἀποδίδωμι is "sell"
+Μαδιηναῖοι	Μαδιηναῖος	N-NPM
+ἐξείλκυσαν	ἐξελκύω	V-AAI-3P
+ἀνεβίβασαν	ἀναβιβάζω	V-AAI-3P
+ἔσφαξαν	σφάζω	V-AAI-3P
+αἰγῶν	αἴξ	N-GPF
+εἰσήνεγκαν	εἰσφέρω	V-AAI-3P
+ἐπέθετο	ἐπιτίθημι	V-2AMI-3S
+ἐπένθει	πενθέω	V-IAI-3S
+πενθῶν	πενθέω	V-PAP-NSM
+παρακαλεῖσθαι	παρακαλέω	V-PPN
+Καταβήσομαι	καταβαίνω	V-FDI-1S
+Πετρεφῇ	Πετεφρῆς	N-DSM		Swete's dative Πετρεφῇ of the name Πετεφρῆς (Genesis 39:1); Potiphar, Pharaoh's officer (Genesis 37:36)
+σπάδοντι	σπάδων	N-DSM
+ἀρχιμαγείρῳ	ἀρχιμάγειρος	N-DSM
+Ὀδολλαμίτην	Ὀδολλαμίτης	N-ASM
+Ὀδολλαμείτης	Ὀδολλαμίτης	N-NSM		Swete's spelling with ει (Genesis 38:12)
+Ὀδολλαμείτου	Ὀδολλαμίτης	N-GSM		Swete's spelling with ει (Genesis 38:20)
+Εἱρᾶς	Εἱρᾶς	N-NSM
+Χαναναίου	Χαναναῖος	N-GSM
+Σαύα	Σαύα	N-PRI
+προσθεῖσα	προστίθημι	V-2AAP-NSF
+Σηλώμ	Σηλώμ	N-PRI
+Χασβὶ	Χασβί	N-PRI
+πρωτοτόκῳ	πρωτότοκος	A-DSM
+γάμβρευσαι	γαμβρεύω	V-AMM-2S		aorist middle imperative
+ἀνάστησον	ἀνίστημι	V-AAM-2S	set-up	transitive first aorist "set up"
+εἰσήρχετο	εἰσέρχομαι	V-INI-3S
+ἐθανάτωσεν	θανατόω	V-AAI-3S
+νύμφῃ	νύμφη	N-DSF
+χήρα	χῆρος	N-NSF		the New Testament table's lemma for χήρα
+παρακληθεὶς	παρακαλέω	V-APP-NSM
+κείροντας	κείρω	V-PAP-APM
+Θαμνά	Θαμνά	N-PRI
+περιελομένη	περιαιρέω	V-2AMP-NSF
+περιείλατο	περιαιρέω	V-2AMI-3S
+χηρεύσεως	χήρευσις	N-GSF
+θερίστρῳ	θέριστρον	N-DSN
+ἐκαλλωπίσατο	καλλωπίζω	V-AMI-3S
+πύλαις	πύλη	N-DPF
+Αἰνάν	Αἰνάν	N-PRI
+κατεκαλύψατο	κατακαλύπτω	V-AMI-3S
+ἐξέκλινεν	ἐκκλίνω	V-AAI-3S
+Ἔασόν	ἐάω	V-AAM-2S
+δακτύλιος	δακτύλιος	N-NSM
+ὁρμίσκον	ὁρμίσκος	N-ASM
+ὁρμίσκος	ὁρμίσκος	N-NSM
+ποιμένος	ποιμήν	N-GSM
+κομίσασθαι	κομίζω	V-AMN
+γενομένη	γίνομαι	V-2ADP-NSF
+καταγελασθῶμεν	καταγελάω	V-APS-1P
+εὕρηκας	εὑρίσκω	V-RAI-2S
+Ἐκπεπόρνευκεν	ἐκπορνεύω	V-RAI-3S
+Ἐξαγάγετε	ἐξάγω	V-2AAM-2P
+κατακαυθήτω	κατακαίω	V-APM-3S
+ἀγομένη	ἄγω	V-PPP-NSF
+πενθερὸν	πενθερός	N-ASM
+προεξήνεγκεν	προεκφέρω	V-AAI-3S
+πρότερος	πρότερος	A-NSM-C
+ἐπισυνήγαγεν	ἐπισυνάγω	V-2AAI-3S
+διεκόπη	διακόπτω	V-2API-3S
+φραγμός	φραγμός	N-NSM
+Φάρες	Φάρες	N-PRI
+ἐξάρας	ἐξαίρω	V-AAP-NSM
+ἀναπαυόμενα	ἀναπαύω	V-PMP-NPN
+ἐπότιζον	ποτίζω	V-IAI-3P		third plural (Genesis 29:2-3, the shepherds); first singular is the same form
+ἐπότιζον	ποτίζω	V-IAI-1S
+συνήγοντο	συνάγω	V-IPI-3P
+ἀπεκύλιον	ἀποκυλίω	V-IAI-3P		third plural (Genesis 29:3); first singular is the same form
+ἀπεκύλιον	ἀποκυλίω	V-IAI-1S
+ἀπεκαθίστων	ἀποκαθίστημι	V-IAI-3P		imperfect of the by-form ἀποκαθιστάω
+Ὑγιαίνει	ὑγιαίνω	V-PAI-3S
+ἔβοσκεν	βόσκω	V-IAI-3S
+ποτίσαντες	ποτίζω	V-AAP-NPM
+βόσκετε	βόσκω	V-PAM-2P		imperative first (Genesis 29:7); the indicative second
+βόσκετε	βόσκω	V-PAI-2P
+ἀποκυλίσωσι	ἀποκυλίω	V-AAS-3P
+ποτιοῦμεν	ποτίζω	V-FAI-1P
+βοήσας	βοάω	V-AAP-NSM
+ὀστῶν	ὀστέον	N-GPN
+μῆνα	μήν	N-ASM		the month; the table's lemma is μήν (II)
+μείζονι	μέγας	A-DSF-C
+Λείᾳ	Λεία	N-DSF
+νεωτέρᾳ	νέος	A-DSF-C
+Δουλεύσω	δουλεύω	V-FAI-1S		future first; the aorist subjunctive after ἵνα, ἐάν, μή
+Δουλεύσω	δουλεύω	V-AAS-1S
+πεπλήρωνται	πληρόω	V-RPI-3P
+εἰσέλθω	εἰσέρχομαι	V-2AAS-1S
+Ζέλφαν	Ζέλφα	N-ASF
+Ζέλφα	Ζέλφα	N-NSF
+ἐδούλευσα	δουλεύω	V-AAI-1S
+πρεσβυτέραν	πρεσβύτερος	A-ASF-C
+συντέλεσον	συντελέω	V-AAM-2S
+ἕβδομα	ἕβδομος	A-APN		τὰ ἕβδομα, the seven days of the wedding feast (Genesis 29:27-28)
+ἕβδομα	ἕβδομος	A-NPN
+Βάλλαν	Βάλλα	N-ASF	bilhah	Rachel's slave girl Bilhah (Genesis 29:29; 30:4), not the king Bera
+μισεῖται	μισέω	V-PPI-3S
+μισοῦμαι	μισέω	V-PPI-1S
+προσέδωκέν	προσδίδωμι	V-AAI-3S
+τέτοκα	τίκτω	V-RAI-1S
+Λευί	Λευί	N-PRI
+Ἰουδά	Ἰούδας	N-PRI		Swete's indeclinable form of the name (Genesis 29:35)
+ἐζήλωσεν	ζηλόω	V-AAI-3S
+τελευτήσω	τελευτάω	V-FAI-1S		future first (Genesis 30:1); the aorist subjunctive after ἵνα, ἐάν, μή
+τελευτήσω	τελευτάω	V-AAS-1S
+ἐστέρησέν	στερέω	V-AAI-3S
+τεκνοποιήσωμαι	τεκνοποιέω	V-AMS-1S
+συνανεστράφην	συναναστρέφω	V-2API-1S
+ἠδυνάσθην	δύναμαι	V-AOI-1S
+Νεφθαλεί	Νεφθαλεί	N-PRI
+τύχῃ	τύχη	N-DSF		the noun (Genesis 30:11 Ἐν τύχῃ); also the aorist subjunctive of τυγχάνω elsewhere
+μακαρίζουσίν	μακαρίζω	V-PAI-3P
+πυρῶν	πυρός	N-GPM
+μῆλα	μῆλον	N-APN
+μῆλα	μῆλον	N-NPN
+μανδραγόρου	μανδραγόρας	N-GSM
+μανδραγορῶν	μανδραγόρας	N-GPM
+μανδραγόρας	μανδραγόρας	N-APM		accusative plural (Genesis 30:15); the nominative singular is the same form
+μανδραγόρας	μανδραγόρας	N-NSM
+κοιμηθήτω	κοιμάομαι	V-APM-3S
+μεμίσθωμαι	μισθόω	V-RMI-1S
+Προσθέτω	προστίθημι	V-2AAM-3S
+δεδούλευκά	δουλεύω	V-RAI-1S
+δουλίαν	δουλεία	N-ASF		Swete spells δουλία
+οἰωνισάμην	οἰωνίζομαι	V-ADI-1S
+εἰσόδῳ	εἴσοδος	N-DSF
+διάστειλον	διαστέλλω	V-AAM-2S	specify	Genesis 30:28, name the wage
+ποδί	πούς	N-DSM
+ποιμανῶ	ποιμαίνω	V-FAI-1S
+φυλάξω	φυλάσσω	V-FAI-1S		future first; the aorist subjunctive after ἵνα, ἐάν, μή
+φυλάξω	φυλάσσω	V-AAS-1S
+διαχώρισον	διαχωρίζω	V-AAM-2S
+φαιὸν	φαιός	A-ASN
+φαιὸν	φαιός	A-NSN
+ἄρνασιν	ἀρήν	N-DPM
+διάραντον	διάραντος	A-ASN
+διάραντον	διάραντος	A-NSN
+αἰξίν	αἴξ	N-DPF
+ἐπακούσεταί	ἐπακούω	V-FDI-3S
+ῥαντὸν	ῥαντός	A-NSN
+ῥαντὸν	ῥαντός	A-ASN
+διάλευκον	διάλευκος	A-NSN
+διάλευκον	διάλευκος	A-ASN
+διάλευκον	διάλευκος	A-ASM		Genesis 30:40 κριὸν διάλευκον
+κεκλεμμένον	κλέπτω	V-RPP-NSN
+διέστειλεν	διαστέλλω	V-AAI-3S
+ῥαντοὺς	ῥαντός	A-APM
+ῥαντὰς	ῥαντός	A-APF
+ἐποίμαινεν	ποιμαίνω	V-IAI-3S
+ὑπολειφθέντα	ὑπολείπω	V-APP-APN
+ὑπολειφθέντα	ὑπολείπω	V-APP-NPN
+στυρακίνην	στυράκινος	A-ASF
+χλωρὰν	χλωρός	A-ASF
+καρυίνην	καρύϊνος	A-ASF
+πλατάνου	πλάτανος	N-GSF
+ἐλέπισεν	λεπίζω	V-AAI-3S
+λεπίσματα	λέπισμα	N-APN
+λεπίσματα	λέπισμα	N-NPN
+περισύρων	περισύρω	V-PAP-NSM
+ἐφαίνετο	φαίνω	V-IPI-3S	appear
+ῥάβδοις	ῥάβδος	N-DPF
+ῥάβδους	ῥάβδος	N-APF
+ῥάβδων	ῥάβδος	N-GPF
+ληνοῖς	ληνός	N-DPF
+ποτιστηρίων	ποτιστήριον	N-GPN
+ἐνκισσήσωσιν	ἐγκισσάω	V-AAS-3P		Swete's unassimilated ἐν-
+ἐνκισσῆσαι	ἐγκισσάω	V-AAN		Swete's unassimilated ἐν-
+ἔτικτον	τίκτω	V-IAI-3P		third plural (Genesis 30:39, the flocks); first singular is the same form
+ἔτικτον	τίκτω	V-IAI-1S
+διάλευκα	διάλευκος	A-APN
+διάλευκα	διάλευκος	A-NPN
+σποδοειδῆ	σποδοειδής	A-APN
+σποδοειδῆ	σποδοειδής	A-NPN
+ῥαντά	ῥαντός	A-APN
+ῥαντά	ῥαντός	A-NPN
+ἀμνοὺς	ἀμνός	N-APM
+ἀμνοῖς	ἀμνός	N-DPM
+ἄσημα	ἄσημος	A-NPN
+ἄσημα	ἄσημος	A-APN
+ἐπίσημα	ἐπίσημος	A-NPN
+ἐπίσημα	ἐπίσημος	A-APN
+ἐπλούτησεν	πλουτέω	V-AAI-3S
+διαλεύκους	διάλευκος	A-APF		feminine, Genesis 30:35 τὰς διαλεύκους
+ποικίλον	ποικίλος	A-ASN		Genesis 30:40 πᾶν ποικίλον
+ποικίλον	ποικίλος	A-NSN		Genesis 30:37, of τὸ λευκόν
+παρεμβολὴ	παρεμβολή	N-NSF
+Μαχεὶρ	Μαχείρ	N-PRI
+κατοίκισον	κατοικίζω	V-AAM-2S
+Νεφθαλείμ	Νεφθαλεί	N-PRI		Naphtali (Genesis 35:25), Swete's Νεφθαλείμ beside Νεφθαλεί (30:8); the table took the New Testament's Νεφθαλίμ
+Νεφθαλί	Νεφθαλεί	N-PRI		Naphtali (Genesis 46:24), Swete's Νεφθαλί beside Νεφθαλεί
+Φαλλούδ	Φαλλούδ	N-PRI
+Ἁσρὼν	Ἁσρών	N-PRI
+Χαρμί	Χαρμί	N-PRI
+Ἰεμουὴλ	Ἰεμουήλ	N-PRI
+Ἰαχεὶμ	Ἰαχείμ	N-PRI
+Γηρσών	Γηρσών	N-PRI
+Καὰθ	Καάθ	N-PRI
+Μεραρεί	Μεραρεί	N-PRI
+Ἁσρὼμ	Ἁσρώμ	N-PRI
+Θωλὰ	Θωλά	N-PRI
+Φουὰ	Φουά	N-PRI
+Ἰασοὺφ	Ἰασούφ	N-PRI
+Ζαμβράμ	Ζαμβράμ	N-PRI
+Σέρεδ	Σέρεδ	N-PRI
+Ἁλοήλ	Ἁλοήλ	N-PRI
+Σαφὼν	Σαφών	N-PRI
+Ἁγγεὶς	Ἁγγείς	N-PRI
+Σαυνὶς	Σαυνίς	N-PRI
+Θασοβὰν	Θασοβάν	N-PRI
+Ἀηδὶς	Ἀηδίς	N-PRI
+Ἀροηδὶς	Ἀροηδίς	N-PRI
+Ἀροηλείς	Ἀροηλείς	N-PRI
+Ἰεμνὰ	Ἰεμνά	N-PRI
+Ἰεσσαὶ	Ἰεσσαί	N-PRI
+Βαριὰ	Βαριά	N-PRI
+Χόβωρ	Χόβωρ	N-PRI
+Μελχιήλ	Μελχιήλ	N-PRI
+Σουτάλααμ	Σουτάλααμ	N-PRI
+Ἐδέμ	Ἐδέμ	N-PRI
+Βάλα	Βάλα	N-PRI		Bela, Benjamin's son (Genesis 46:21)
+Βαλὰ	Βάλα	N-PRI		Swete's second spelling of Βάλα in Genesis 46:21
+Ἀσβήλ	Ἀσβήλ	N-PRI
+Γηρὰ	Γηρά	N-PRI		the name Gera (Genesis 46:21); the table guessed γῆρας
+Νοεμὰν	Νοεμάν	N-PRI
+Ἀγχεὶς	Ἀγχείς	N-PRI
+Ῥὼς	Ῥώς	N-PRI
+Μαμφεὶν	Μαμφείν	N-PRI
+Ὁφιμίν	Ὀφιμίν	N-PRI		Swete prints a rough breathing, Ὁφιμίν
+Ἄραδ	Ἄραδ	N-PRI
+Ἁσιὴλ	Ἁσιήλ	N-PRI
+Γωυνὶ	Γωυνί	N-PRI
+Ἴσσααρ	Ἴσσααρ	N-PRI
+Συλλήμ	Συλλήμ	N-PRI
+Ἡρώων	Ἡρώων	N-PRI		first part of the name Ἡρώων πόλις (Genesis 46:28-29), not declined in English
+ἕκτον	ἕκτος	A-ASM
+ἕκτον	ἕκτος	A-ASN
+αἱρετιεῖ	αἱρετίζω	V-FAI-3S		Attic future (Genesis 30:20)
+νεωτέρας	νέος	A-GSF-C		genitive after its article (Genesis 29:18 τῆς θυγατρός σου τῆς νεωτέρας); the New Testament has the accusative plural
+νεωτέρας	νέος	A-APF-C
+Ἄωδ	Ἄωδ	N-PRI
+Αἰγυπτίων	Αἰγύπτιος	N-GPM		the people, a noun (Genesis 47:20 τὴν γῆν τῶν Αἰγυπτίων)
+ἀπέδοντο	ἀποδίδωμι	V-2AMI-3P	sell	the middle of ἀποδίδωμι is "sell" (Genesis 47:20, 22)
+κοιλάδος	κοιλάς	N-GSF
+βόες	βοῦς	N-NPF		feminine, cows (Genesis 41:2-27 αἱ ἑπτὰ βόες); the masculine reading above stays first
+ἀπέδοσθε	ἀποδίδωμι	V-2AMI-2P	sell	the middle of ἀποδίδωμι is "sell" (Genesis 45:4-5, you sold me)
+ἐπέκεινα	ἐπέκεινα	PREP		with the genitive, "beyond" (Genesis 35:21 ἐπέκεινα τοῦ πύργου)

@@ -1,49 +1,52 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 esth	oldtestamenting02swet	784	1	λίσσης	ίσσης	λίσσης	λίσσης	class R6 (OCR letters differ): the other OCR reading agrees with c
 esth	oldtestamenting02swet	784	1	αὐτῇ"	αὐτῇ"	αὐτῇ·	αὐτῇ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-esth	oldtestamenting02swet	784	1	ἐταράχθη,	ἐταράχθη,	ἐταράχθη	ἐταράχθη	TODO zoom: A OPEN, B OPEN
+esth	oldtestamenting02swet	784	1	ἐταράχθη,	ἐταράχθη,	ἐταράχθη	ἐταράχθη	image (3x): no printed punctuation after ἐταράχθη; the mark is a handwritten caret
 esth	oldtestamenting02swet	784	1	τὸ	τὼ	τὸ	τὸ	class R6 (OCR letters differ): the other OCR reading agrees with c
-esth	oldtestamenting02swet	784	1	γεγονύς,	γεγονύς,	γεγονός,	γεγονός,	TODO zoom: A OPEN, B OPEN
+esth	oldtestamenting02swet	784	1	γεγονύς,	γεγονύς,	γεγονός,	γεγονός,	image (3x): γεγονός with ο and acute; a handwritten strike-through runs over τὸ γεγ but the letters show
 esth	oldtestamenting02swet	784	3	σάκκον"	σάκκον"	σάκκον·	σάκκον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 esth	oldtestamenting02swet	784	3	"ἡ	"ἡ	ἡ	ἡ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-esth	oldtestamenting02swet	784	3	Ἐσθὴρ	Ἐσθὴρ	Ἐσθὴρ	Ἐσθὴρ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-esth	oldtestamenting02swet	784	3	Ἀχραθαῖον +“-	᾿ +Αχραθαῖον	Ἀχραθαῖον	Ἀχραθαῖον	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A R3, B OPEN
-esth	oldtestamenting02swet	784	5	Τὸ	7ὸ	ὁ	ὁ	TODO zoom: A OPEN, B OPEN
-esth	oldtestamenting02swet	784	6	Ἀμὰν	ς +Ἀμὰν	Ἁμὰν	Ἁμὰν	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B OPEN
-esth	oldtestamenting02swet	784	7	Ἰουδαίους.	Ιουδαίους.	Ἰουδαίους.	Ἰουδαίους.	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A same, B DROP
+esth	oldtestamenting02swet	784	3	Ἐσθὴρ	Ἐσθὴρ	Ἐσθὴρ	Ἐσθὴρ	image (3x): smooth breathing (apostrophe) on the capital
+esth	oldtestamenting02swet	784	3	Ἀχραθαῖον +“-	᾿ +Αχραθαῖον	Ἀχραθαῖον	Ἁχραθαῖον	image (3x): rough breathing (reversed comma) on Ἁχραθαῖος/-ον, every occurrence on the page
+esth	oldtestamenting02swet	784	5	Τὸ	7ὸ	ὁ	ὁ	image (3x): superscript 7 then ὁ with rough breathing and acute (before δὲ)
+esth	oldtestamenting02swet	784	6	Ἀμὰν	ς +Ἀμὰν	Ἁμὰν	Ἁμὰν	image (3x): rough breathing on Ἁμὰν
+esth	oldtestamenting02swet	784	7	Ἰουδαίους.	Ιουδαίους.	Ἰουδαίους.	Ἰουδαίους.	image (3x): smooth breathing (apostrophe) on the capital
 esth	oldtestamenting02swet	784	7	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-esth	oldtestamenting02swet	784	9	Ἐσθηρ-	Ἔσθηρ:	Ἐσθήρ·	Ἐσθήρ·	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B OPEN
-esth	oldtestamenting02swet	784	11	ταπειν +ὠσεώς	ταπεινώσεώς	ταπεινώσεώς	ταπεινώσεώς	TODO zoom: accent before an enclitic; A OPEN, B same
-esth	oldtestamenting02swet	784	11	χειρί	χειρί	χειρί	χειρί	TODO zoom: accent before an enclitic
-esth	oldtestamenting02swet	784	11	Ἀμὰν	Ἀμὰν	Ἁμὰν	Ἁμὰν	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B DIA
+esth	oldtestamenting02swet	784	9	Ἐσθηρ-	Ἔσθηρ:	Ἐσθήρ·	Ἐσθήρ·	image (3x): smooth breathing (apostrophe) on the capital
+esth	oldtestamenting02swet	784	11	ταπειν +ὠσεώς	ταπεινώσεώς	ταπεινώσεώς	ταπεινώσεώς	image (3x): acute before the enclitic
+esth	oldtestamenting02swet	784	11	χειρί	χειρί	χειρί	χειρί	image (3x): acute before the enclitic
+esth	oldtestamenting02swet	784	11	Ἀμὰν	Ἀμὰν	Ἁμὰν	Ἁμὰν	image (3x): rough breathing on Ἁμὰν
 esth	oldtestamenting02swet	784	12	καθ᾽ +5.4,	καθ᾽	καθ᾽	καθ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
 esth	oldtestamenting02swet	784	12	θάνατον-	θάνατον.	θάνατον·	θάνατον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-esth	oldtestamenting02swet	784	13	τῴ	τῷ	τῷ	τῷ	TODO zoom: A DIA, B same
+esth	oldtestamenting02swet	784	13	τῴ	τῷ	τῷ	τῷ	image (3x): circumflex and iota subscript as in page file
 esth	oldtestamenting02swet	784	14	“εἰσελθὼν	“εἰσελθὼν	εἰσελθὼν	εἰσελθὼν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 esth	oldtestamenting02swet	784	14	ὁ +ξ,	ὁ	ὁ	ὁ	class R3: OCR appended accent-row or margin junk; c read from the image strip
-esth	oldtestamenting02swet	784	14	Ἀχραθαῖος	Ἀχραθαῖος	Ἀχραθαῖος	Ἀχραθαῖος	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
 esth	oldtestamenting02swet	784	15	"εἶπεν	“εἶπεν	εἶπεν	εἶπεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-esth	oldtestamenting02swet	784	15	᾿σθὴρ	Ἐσθὴρ	Ἐσθὴρ	Ἐσθὴρ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B same
-esth	oldtestamenting02swet	784	15	Ἀχραθαῖον	Ἀχραθαῖον	Ἀχραθαῖον	Ἀχραθαῖον	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+esth	oldtestamenting02swet	784	15	᾿σθὴρ	Ἐσθὴρ	Ἐσθὴρ	Ἐσθὴρ	image (3x): smooth breathing (apostrophe) on the capital
+esth	oldtestamenting02swet	784	15	Ἀχραθαῖον	Ἀχραθαῖον	Ἀχραθαῖον	Ἁχραθαῖον	image (3x): rough breathing (reversed comma) on Ἁχραθαῖος/-ον, every occurrence on the page
 esth	oldtestamenting02swet	784	15	πρὸς +τὸ	πρὸς	πρὸς	πρὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
 esth	oldtestamenting02swet	784	16	“ὅτι	"ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 esth	oldtestamenting02swet	784	18	σωτηρία:	σωτηρία:	σωτηρία·	σωτηρία·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-esth	oldtestamenting02swet	784	19	χρυσὴν	χρυσὴν	χρυσῆν	χρυσῆν	TODO zoom: A DIA, B DIA
+esth	oldtestamenting02swet	784	19	χρυσὴν	χρυσὴν	χρυσῆν	χρυσῆν	image (3x): circumflex on χρυσῆν, as printed
 esth	oldtestamenting02swet	784	19	σωθήσεται:	σωθήσεται:	σωθήσεται·	σωθήσεται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 esth	oldtestamenting02swet	784	21	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-esth	oldtestamenting02swet	784	21	Ἀχραθαῖος	Ἀχραθαῖος	Ἀχραθαῖος	Ἀχραθαῖος	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-esth	oldtestamenting02swet	784	21	Ἐσθήρ.	Ἐσθήρ.	Ἐσθήρ.	Ἐσθήρ.	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+esth	oldtestamenting02swet	784	21	Ἀχραθαῖος	Ἀχραθαῖος	Ἀχραθαῖος	Ἁχραθαῖος	image (3x): rough breathing (reversed comma) on Ἁχραθαῖος/-ον, every occurrence on the page
+esth	oldtestamenting02swet	784	21	Ἐσθήρ.	Ἐσθήρ.	Ἐσθήρ.	Ἐσθήρ.	image (3x): smooth breathing (apostrophe) on the capital
 esth	oldtestamenting02swet	784	22	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-esth	oldtestamenting02swet	784	22	Ἀχραθαῖον	Ἀχραθαῖον	Ἀχραθαῖον	Ἀχραθαῖον	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+esth	oldtestamenting02swet	784	22	Ἀχραθαῖον	Ἀχραθαῖον	Ἀχραθαῖον	Ἁχραθαῖον	image (3x): rough breathing (reversed comma) on Ἁχραθαῖος/-ον, every occurrence on the page
 esth	oldtestamenting02swet	784	22	Πορεύθητι	ἸΠορεύθητι	Πορεύθητι	Πορεύθητι	class R6 (OCR letters differ): the other OCR reading agrees with c
-esth	oldtestamenting02swet	784	23	σθῆρ,	Ἐσθήρ,	Ἐσθήρ,	Ἐσθήρ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B same
-esth	oldtestamenting02swet	784	24	σΤΓγαντΤαςφς	σγαντΤαςφς	πάντας	πάντας	TODO zoom: A OPEN, B OPEN
-esth	oldtestamenting02swet	784	24	τους	τους	τοὺς	τοὺς	TODO zoom: A DROP, B DROP
-esth	oldtestamenting02swet	784	24	Του	Του	Ἰουδαίους·	Ἰουδαίους·	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B OPEN
-esth	oldtestamenting02swet	784	24	αἰιους"	αἰιους"	ὡς	ὡς	TODO zoom: A OPEN, B OPEN
-esth	oldtestamenting02swet	784	24	ως	ως	ὅτι	ὅτι	TODO zoom: A OPEN, B OPEN
-esth	oldtestamenting02swet	784	24	οτι	οτι	ἐὰν	ἐὰν	TODO zoom: A OPEN, B OPEN
-esth	oldtestamenting02swet	784	24	εἰ(ἰν	ε(ἰν	παρακούσῃς	παρακούσῃς	TODO zoom: A OPEN, B OPEN
-esth	oldtestamenting02swet	784	24	παρακουσῆ»ς +εν»	παρακουσή»ς +εν	ἐν	ἐν	TODO zoom: A OPEN, B OPEN
-esth	oldtestamenting02swet	784	24	Τῷ	Τῷ	τῷ	τῷ	TODO zoom: A DROP, B DROP
-esth	oldtestamenting02swet	784	24	καίρῷ,	καιρῷ,	καιρῷ,	καιρῷ,	TODO zoom: A DIA, B same
+esth	oldtestamenting02swet	784	23	σθῆρ,	Ἐσθήρ,	Ἐσθήρ,	Ἐσθήρ,	image (3x): smooth breathing (apostrophe) on the capital
+esth	oldtestamenting02swet	784	24	σΤΓγαντΤαςφς	σγαντΤαςφς	πάντας	πάντας	image (3x): last line read from strip; OCR garbled by the handwritten underline above it
+esth	oldtestamenting02swet	784	24	τους	τους	τοὺς	τοὺς	image (3x): last line read from strip; OCR garbled by the handwritten underline above it
+esth	oldtestamenting02swet	784	24	Του	Του	Ἰουδαίους·	Ἰουδαίους·	image (3x): smooth breathing (apostrophe) on the capital
+esth	oldtestamenting02swet	784	24	αἰιους"	αἰιους"	ὡς	ὡς	image (3x): last line read from strip; OCR garbled by the handwritten underline above it
+esth	oldtestamenting02swet	784	24	ως	ως	ὅτι	ὅτι	image (3x): last line read from strip; OCR garbled by the handwritten underline above it
+esth	oldtestamenting02swet	784	24	οτι	οτι	ἐὰν	ἐὰν	image (3x): last line read from strip; OCR garbled by the handwritten underline above it
+esth	oldtestamenting02swet	784	24	εἰ(ἰν	ε(ἰν	παρακούσῃς	παρακούσῃς	image (3x): last line read from strip; OCR garbled by the handwritten underline above it
+esth	oldtestamenting02swet	784	24	παρακουσῆ»ς +εν»	παρακουσή»ς +εν	ἐν	ἐν	image (3x): last line read from strip; OCR garbled by the handwritten underline above it
+esth	oldtestamenting02swet	784	24	Τῷ	Τῷ	τῷ	τῷ	image (3x): circumflex and iota subscript as in page file
+esth	oldtestamenting02swet	784	24	καίρῷ,	καιρῷ,	καιρῷ,	καιρῷ,	image (3x): circumflex and iota subscript as in page file
+esth	oldtestamenting02swet	784	14	ξ, +Ἀχραθαῖος	Ἀχραθαῖος	Ἁχραθαῖος	Ἁχραθαῖος	image (3x): rough breathing (reversed comma) on Ἁχραθαῖος/-ον, every occurrence on the page
+esth	oldtestamenting02swet	784	1	-	-	ἀκούσασα	ἀκούσασα	handwritten underline/strike runs through σασα τὸ γεγ- and a cross above; printed letters read through it
+esth	oldtestamenting02swet	784	23	-	-	βασιλείᾳ	βασιλείᾳ	handwritten underline beneath the line from Ἐσθήρ to παρὰ; letters and iota subscripts clear
+esth	oldtestamenting02swet	784	5	-	-	ὁ	ὁ	numbering: Swete prints no verse 6 in chapter 4 (margin 5 then 7, superscript 7 here); encoded {7!} as printed

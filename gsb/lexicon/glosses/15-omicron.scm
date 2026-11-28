@@ -28,6 +28,10 @@
 
 (lemma "ὅδε" (sense this (gloss "this" "these") (why "This (here), pointing forward: τάδε \"these [things]\" (Exodus 20:22).")))
 
+(lemma "ὁδοιπόρος" (sense traveler (person) (gloss "traveler" "travelers") (why "(LXX, supplied.) A wayfarer, one going on the road (ὁδός + πορεύομαι): Genesis 37:25, ὁδοιπόροι Ἰσμαηλεῖται, \"Ishmaelite travelers\".")))
+
+(lemma "Ὀδολλαμίτης" (sense name (person) (gloss "Adullamite" "Adullamites") (why "(LXX, supplied.) A man of Adullam, said of Judah's friend Hirah (Genesis 38:1, 12, 20); Swete prints Ὀδολλαμίτην and Ὀδολλαμείτης. Traditional English Adullamite.")))
+
 (lemma "Ὁδορρά" (sense name (gloss "Hadoram") (why "(LXX, supplied.) A son of Joktan (Genesis 10:27), Greek Ὁδορρά; traditional English Hadoram.")))
 
 (lemma "ὁδός"
@@ -36,6 +40,8 @@
     (why "A road, path, way, and so a way of life (Genesis 3:24, \"the way of the tree of the life\"; John 14:6, \"I am the way\"). \"Way\" everywhere; \"road\" or \"journey\" only in the readable layer.")))
 
 (lemma "ὀδύνη" (sense anguish (gloss "anguish" "anguishes") (why "(LXX, supplied.) Pain of body or mind, anguish (Genesis 44:31 μετ’ ὀδύνης εἰς ᾅδου, beside 44:29 μετὰ λύπης; Romans 9:2; 1 Timothy 6:10). \"Anguish\" keeps it apart from λύπη.")))
+
+(lemma "ὀδούς" (sense tooth (plural "teeth") (gloss "tooth" "teeth") (why "(LXX form supplied.) A tooth (Genesis 49:12, his teeth white rather than milk; Matthew 5:38; 8:12, the gnashing of teeth).")))
 
 (lemma "ὅθεν" (sense from-where (gloss "from where") (why "From where, whence (Genesis 10:14, ὅθεν ἐξῆλθεν ἐκεῖθεν, \"from where came forth from there\"; Matthew 12:44; Hebrews 11:19). \"From where\" rather than archaic \"whence\".")))
 
@@ -77,7 +83,9 @@
 
 (lemma "ὀκτώ" (sense eight (gloss "eight") (why "The numeral eight (Genesis 5:28; 1 Peter 3:20, the eight souls saved in the ark).")))
 
-(lemma "ὀλίγος" (sense few (gloss "few") (why "Few, little (Matthew 7:14; 9:37). Genesis 34:30 ὀλιγοστός, its superlative, \"most few\" (fewest) in number.")))
+(lemma "Ὀλιβεμά" (sense name (gloss "Oholibamah") (why "(LXX, supplied.) Esau's wife, daughter of Anah (Genesis 36:2, 5, 14, 18, 25), and a chief of Esau (36:41); Swete prints Ὀλιβεμά, Ἐλιβέμας and Ἐλιβεμᾶς. Traditional English Oholibamah.")))
+
+(lemma "ὀλίγος"(sense few (gloss "few") (why "Few, little (Matthew 7:14; 9:37). Genesis 34:30 ὀλιγοστός, its superlative, \"most few\" (fewest) in number.")))
 
 (lemma "ὁλκή" (sense weight (gloss "weight" "weights") (why "(LXX, supplied.) A drawing down of the scale, weight (Genesis 24:22, a ring of a drachma's weight and bracelets of ten gold [pieces] their weight).")))
 
@@ -159,6 +167,8 @@
 
 (lemma "ὀρεινός" (sense hill-country (gloss "hill country") (why "Mountainous; ἡ ὀρεινή (γῆ), the hill country (Genesis 14:10, the ones left fled into the hill country; Luke 1:39, 65). Swete spells it ὀρινή.")))
 
+(lemma "ὀρθόω" (sense set-upright (verb "set upright" "set upright" "set upright") (gloss "set upright" "sets upright" "setting upright") (why "(LXX, supplied.) To set upright, make straight; passive, to be set upright, stand straight (Genesis 37:7, Joseph's sheaf ἀνέστη ... καὶ ὠρθώθη, \"stood up and was set upright\"). The compound ἀνορθόω is Luke 13:13.")))
+
 (lemma "ὀρθρίζω" (sense rise-early (verb "rise early" "rose early" "risen early") (gloss "rise early" "rose early" "risen early" "rises early" "rising early") (why "To rise at dawn, get up early (Genesis 19:2, 27; 20:8; Luke 21:38, the people came early in the morning). The verb of ὄρθρος \"dawn\".")))
 
 (lemma "ὄρθρος" (sense dawn (gloss "dawn") (why "Daybreak, dawn (Genesis 19:15 ἡνίκα δὲ ὄρθρος ἐγίνετο; Luke 24:1; John 8:2).")))
@@ -176,6 +186,12 @@
 (lemma "ὅρκος" (sense oath (gloss "oath" "oaths") (why "An oath (Genesis 21:14, 31-33 τὸ φρέαρ τοῦ ὅρκου, the Greek for Beersheba; 26:3; Luke 1:73; Hebrews 6:16-17).")))
 
 (lemma "ὅριον" (sense border (gloss "border" "borders") (why "A boundary; in the plural the borders, the territory they enclose (Genesis 10:19, τὰ ὅρια Χαναναίων; Matthew 2:16; 4:13). \"Borders\" keeps the plural visible; \"region\" is a reading.")))
+
+(lemma "ὁρμάω" (sense rush (gloss "rush" "rushed" "rushes" "rushing") (why "To set off, rush (Genesis 31:21 ὥρμησεν εἰς τὸ ὄρος Γαλαάδ; Mark 5:13; Acts 7:57).")))
+
+(lemma "ὁρμίσκος" (sense necklace (gloss "necklace" "necklaces") (why "(LXX, supplied.) A small chain or cord worn round the neck (diminutive of ὅρμος), one of the three pledges Judah gave Tamar (Genesis 38:18, 25).")))
+
+(lemma "ὅρμος" (sense anchorage (gloss "anchorage" "anchorages") (why "(LXX, supplied.) A roadstead, anchorage, harbor (Genesis 49:13, Zebulun παρ’ ὅρμον πλοίων). Kept apart from λιμήν, which will take \"harbor\".")))
 
 (lemma "ὄρνεον" (sense fowl (gloss "fowl" "fowls") (why "A bird (Genesis 6:20; Revelation 18:2; 19:17, 21). \"Fowl\" to keep it apart from πετεινός \"bird\", which follows it in Genesis 6:20 (τῶν ὀρνέων τῶν πετεινῶν).")))
 
@@ -204,7 +220,9 @@
 
 (lemma "ὀσφραίνομαι" (sense smell (gloss "smell" "smelled" "smells" "smelling") (why "(LXX, supplied.) To smell, catch the scent of (Genesis 8:21, the Lord God smelled an odor of fragrance). The aorist is passive in form, deponent in sense. The noun ὄσφρησις (1 Corinthians 12:17) will need its own English.")))
 
-(lemma "ὅταν" (sense whenever (gloss "whenever") (why "When, whenever, ὅτε with ἄν, with the subjunctive (Genesis 40:14 ὅταν εὖ σοι γένηται; Matthew 5:11; 6:2). \"Whenever\" keeps it apart from ὅτε and ἡνίκα \"when\".")))
+(lemma "ὀσφῦς" (sense loin (gloss "loin" "loins") (why "(LXX form supplied.) The loins, the hips, as the seat of procreation (Genesis 35:11 βασιλεῖς ἐκ τῆς ὀσφύος σου ἐξελεύσονται; Hebrews 7:5, 10; Acts 2:30).")))
+
+(lemma "ὅταν"(sense whenever (gloss "whenever") (why "When, whenever, ὅτε with ἄν, with the subjunctive (Genesis 40:14 ὅταν εὖ σοι γένηται; Matthew 5:11; 6:2). \"Whenever\" keeps it apart from ὅτε and ἡνίκα \"when\".")))
 
 (lemma "ὅτε"
   (sense when
@@ -240,9 +258,12 @@
     (gloss "nor")
     (why "Joining a further negative clause: \"nor\" (Genesis 3:3; Matthew 6:26).")))
 
-(lemma "οὐδείς" (sense no-one (person) (gloss "no one") (why "No one, nobody (Genesis 19:31 οὐδείς ἐστιν ἐπὶ τῆς γῆς; 20:9 ἔργον ὃ οὐδεὶς ποιήσει; John 1:18). The neuter οὐδέν, \"nothing\", will be its own sense.")))
+(lemma "οὐδείς" (sense no-one (person) (gloss "no one") (why "No one, nobody (Genesis 19:31 οὐδείς ἐστιν ἐπὶ τῆς γῆς; 20:9 ἔργον ὃ οὐδεὶς ποιήσει; John 1:18). The neuter οὐδέν, \"nothing\", will be its own sense."))
+  (sense nothing (gloss "nothing") (why "The neuter οὐδέν (Swete also οὐθέν), nothing (Genesis 39:6, 8, 9, 23; 40:15 οὐκ ἐποίησα οὐδέν; John 5:19). Shares \"nothing\" with μηδέν, the same word with μή: one English for the pair, as for οὐ and μή \"not\".")))
 
-(lemma "Οὖλ" (sense name (gloss "Hul") (why "(LXX, supplied.) A son of Aram (Genesis 10:23), Greek Οὖλ; traditional English Hul.")))
+(lemma "Οὐκάν" (sense name (gloss "Akan") (why "(LXX, supplied.) A son of Ezer, the Horite Σάαρ (Genesis 36:27), Greek Οὐκάν; traditional English Akan. See Ἰωυκάμ.")))
+
+(lemma "Οὖλ"(sense name (gloss "Hul") (why "(LXX, supplied.) A son of Aram (Genesis 10:23), Greek Οὖλ; traditional English Hul.")))
 
 (lemma "Οὐλαμμαύς" (sense name (gloss "Ulammaus") (why "(LXX, supplied.) Genesis 28:19, the former name of the city at Bethel. The Hebrew reads \"Luz\" (ulam Luz, \"but Luz\"); the Greek took the words as one name, Οὐλαμμαύς. The Greek gives a different name, so the English follows the Greek, as Θόβελ is \"Tubal\". For the owner: \"Luz\" if the traditional name is preferred.")))
 
@@ -271,12 +292,15 @@
 
 (lemma "Οὐφείρ" (sense name (gloss "Ophir") (why "(LXX, supplied.) A son of Joktan (Genesis 10:29), Greek Οὐφείρ; traditional English Ophir.")))
 
-(lemma "οὐχί" (sense no (gloss "no") (why "The emphatic form of οὐ. Standing alone as an answer it is \"No\" (Genesis 18:15 Οὐχί, ἀλλὰ ἐγέλασας; Luke 1:60; John 9:9). In a question expecting \"yes\" (Matthew 5:46) it will be its own sense, \"not\".")))
+(lemma "οὐχί" (sense no (gloss "no") (why "The emphatic form of οὐ. Standing alone as an answer it is \"No\" (Genesis 18:15 Οὐχί, ἀλλὰ ἐγέλασας; Luke 1:60; John 9:9). In a question expecting \"yes\" (Matthew 5:46) it will be its own sense, \"not\"."))
+  (sense not (gloss "not") (why "In a question expecting \"yes\", \"not\" (Genesis 40:8 Οὐχὶ διὰ τοῦ θεοῦ ἡ διασάφησις αὐτῶν ἐστίν; Matthew 5:46-47; Luke 4:22). Shares \"not\" with οὐ, of which it is the emphatic form. Chosen by word override.")))
 
 (lemma "ὀφθαλμός"
   (sense eye
     (gloss "eye" "eyes")
     (why "Eye.")))
+
+(lemma "Ὀφιμίν" (sense name (gloss "Huppim") (why "(LXX, supplied.) A son of Benjamin's line (Genesis 46:21), Greek Ὀφιμίν, standing where the Hebrew has Huppim; traditional English Huppim.")))
 
 (lemma "ὄφις"
   (sense serpent
@@ -289,4 +313,4 @@
 
 (lemma "ὀψέ" (sense late (gloss "late") (why "Late, late in the day (Genesis 24:11, τὸ πρὸς ὀψέ, \"toward late\", toward evening; Mark 11:19; 13:35).")))
 
-(lemma "ὄψις" (sense aspect (dative "in") (gloss "aspect") (why "The look of a thing, appearance, aspect (Genesis 24:16, καλὴ τῇ ὄψει, \"beautiful in aspect\"; John 7:24; 11:44, the face). \"Aspect\" keeps it apart from εἰδέα \"appearance\" and ὅρασις \"sight\".")))
+(lemma "ὄψις" (sense aspect (dative "in") (gloss "aspect" "aspects")(why "The look of a thing, appearance, aspect (Genesis 24:16, καλὴ τῇ ὄψει, \"beautiful in aspect\"; John 7:24; 11:44, the face). \"Aspect\" keeps it apart from εἰδέα \"appearance\" and ὅρασις \"sight\".")))

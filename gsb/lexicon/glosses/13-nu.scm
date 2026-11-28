@@ -10,9 +10,13 @@
 
 (lemma "Ναΐδ" (sense name (gloss "Nod") (why "(LXX, supplied.) The land of Genesis 4:16: Greek Ναΐδ, traditional English \"Nod\".")))
 
+(lemma "ναρκάω" (sense grow-numb (verb "grow numb" "grew numb" "grown numb") (gloss "grow numb" "grew numb" "grows numb" "growing numb" "grown numb") (why "(LXX, supplied.) To grow numb, stiff (Genesis 32:25, 32 ἐνάρκησεν τὸ πλάτος τοῦ μηροῦ Ἰακώβ, after the wrestling).")))
+
 (lemma "Ναφές" (sense name (gloss "Naphish") (why "(LXX, supplied.) A son of Ishmael (Genesis 25:15), traditional English Naphish.")))
 
-(lemma "Ναχώρ" (sense name (gloss "Nahor") (why "Serug's son and Terah's son of the same name (Genesis 11:22-29; Luke 3:34), traditional English Nahor.")))
+(lemma "Νάχομ" (sense name (gloss "Nahath") (why "(LXX, supplied.) A son of Reuel, Esau's grandson, and a chief (Genesis 36:13; Swete prints Νάχοθ at 36:17), Greek Νάχομ for the Hebrew Nahath; traditional English Nahath.")))
+
+(lemma "Ναχώρ"(sense name (gloss "Nahor") (why "Serug's son and Terah's son of the same name (Genesis 11:22-29; Luke 3:34), traditional English Nahor.")))
 
 (lemma "νεανίσκος" (sense youth (person) (gloss "youth" "youths") (why "A young man; \"youth\" to keep it apart from ἀνήρ \"man\".")))
 
@@ -20,15 +24,23 @@
 
 (lemma "νεκρός" (sense dead (gloss "dead") (why "Dead; ὁ νεκρός, the dead [one], a corpse (Genesis 23:3-15, \"bury my dead\"; Matthew 8:22; Luke 7:12).")))
 
-(lemma "νέος" (sense young (comparative "younger") (gloss "young" "younger") (why "Young, new; the comparative νεώτερος \"younger\" (Genesis 9:24, Noah's younger son; Luke 15:12-13). \"New\" (Matthew 9:17, new wine) may become its own sense, against καινός.")))
+(lemma "νέμω" (sense graze (gloss "graze" "grazed" "grazes" "grazing") (why "(LXX, supplied.) To pasture, graze (a flock), transitive (Genesis 36:24 ὅτε ἔνεμεν τὰ ὑποζύγια, \"when he was grazing the beasts of burden\"). Kept apart from βόσκω \"pasture\" and ποιμαίνω.")))
+
+(lemma "νέος"(sense young (comparative "younger") (gloss "young" "younger") (why "Young, new; the comparative νεώτερος \"younger\" (Genesis 9:24, Noah's younger son; Luke 15:12-13). \"New\" (Matthew 9:17, new wine) may become its own sense, against καινός.")))
 
 (lemma "νεότης" (sense youth (gloss "youth") (why "Youth, the time of being young (Genesis 8:21, ἐκ νεότητος, from youth; Mark 10:20, from my youth). It shares \"youth\" with νεανίσκος (a young man, a person, plural \"youths\"); English has no other plain noun for the age, and the article and context keep them apart.")))
+
+(lemma "νευροκοπέω" (sense hamstring (verb "hamstring" "hamstrung" "hamstrung") (gloss "hamstring" "hamstrung" "hamstrings" "hamstringing") (why "(LXX, supplied.) To cut the sinews of the legs, hamstring (Genesis 49:6, ἐνευροκόπησαν ταῦρον).")))
+
+(lemma "νεῦρον" (sense sinew (gloss "sinew" "sinews") (why "(LXX, supplied.) A sinew, tendon; of a bow, its string (Genesis 49:24 τὰ νεῦρα βραχιόνων χειρὸς αὐτῶν, \"the sinews of arms of their hand\").")))
 
 (lemma "νεφέλη" (sense cloud (gloss "cloud" "clouds") (why "A cloud (Genesis 9:13-16, the bow in the cloud; Matthew 17:5; Acts 1:9).")))
 
 (lemma "Νεφθαλεί" (sense name (gloss "Naphtali") (why "(LXX, supplied form.) Jacob's son by Bilhah (Genesis 30:8), Swete's Νεφθαλεί; Matthew 4:13, 15 and Revelation 7:6 spell it Νεφθαλίμ. Traditional English Naphtali. Not the people Νεφθαλιείμ (Genesis 10:13, Naphtuhim).")))
 
 (lemma "Νεφθαλιείμ" (sense name (person) (plural "Naphtuhim") (gloss "Naphtuhim") (why "(LXX, supplied.) A people descended from Mizraim (Genesis 10:13), Greek Νεφθαλιείμ; traditional English Naphtuhim. The Greek spelling recalls Naphtali, but it is not that name.")))
+
+(lemma "νή" (sense by (gloss "by") (why "The particle of an oath, \"by\", with the accusative of what is sworn by (Genesis 42:15-16 νὴ τὴν ὑγίαν Φαραώ, \"by the health of Pharaoh\"; 1 Corinthians 15:31). It shares \"by\" with ὑπό (agent) and κατά (oath): English has no other word for it.")))
 
 (lemma "νῆσος" (sense island (gloss "island" "islands") (why "An island; in the Septuagint also a coastland (Genesis 10:5, 32, νῆσοι τῶν ἐθνῶν; Acts 13:6; Revelation 1:9).")))
 
@@ -37,6 +49,8 @@
 (lemma "νίπτω" (sense wash (gloss "wash" "washed" "washes" "washing") (why "To wash part of the body, hands or feet (Genesis 18:4 νιψάτω τοὺς πόδας ὑμῶν; John 13:5-14). Kept apart from λούω (the whole body) and πλύνω (clothes).")))
 
 (lemma "Νοεμά" (sense name (gloss "Naamah") (why "(LXX, supplied.) Genesis 4:22, traditional English Naamah.")))
+
+(lemma "Νοεμάν" (sense name (gloss "Naaman") (why "(LXX, supplied.) A son of Benjamin's line (Genesis 46:21), Greek Νοεμάν (Luke 4:27 Ναιμάν for the Syrian); traditional English Naaman.")))
 
 (lemma "νόμιμος" (sense lawful (gloss "lawful") (why "Lawful, according to law; the neuter plural τὰ νόμιμα, \"the lawful [things]\", statutes, customs (Genesis 26:5, Abraham kept God's νόμιμα; Leviticus passim). (LXX, supplied.) The adjective of νόμος \"law\"; kept apart from δικαίωμα \"statute\" and πρόσταγμα \"ordinance\".")))
 

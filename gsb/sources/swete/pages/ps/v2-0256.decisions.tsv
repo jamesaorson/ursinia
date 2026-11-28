@@ -1,0 +1,52 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	256	3	᾿φὐὑψώθητι,	βὐψώθητι,	ὑψώθητι,	ὑψώθητι,	image (3x): word as written; OCR junk, margin number or lost word
+ps	oldtestamenting02swet	256	4	ᾷσομεν	ᾷσομεν	ᾄσομεν	ᾄσομεν	image (3x): smooth breathing + acute and iota subscript, not circumflex: ᾄσομεν
+ps	oldtestamenting02swet	256	4	ξ +ἱτὰς	ἱτὰς	τὰς	τὰς	image (3x): word as written; OCR junk, margin number or lost word
+ps	oldtestamenting02swet	256	5	Ἐς	Ἐς	Εἰς	Εἰς	image (3x): smooth breathing on Ε, Εἰς
+ps	oldtestamenting02swet	256	5	ἑωθινῆς"	ἑωθινῆς"	ἑωθινῆς·	ἑωθινῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	256	7	Ο	εὸς	Ὁ	Ὁ	image (3x): rough breathing on Ο
+ps	oldtestamenting02swet	256	7	θεὸς	∅	θεὸς	θεὸς	class R0: OCR lost the word in extraction; c read from the image strip
+ps	oldtestamenting02swet	256	7	θεός	θεός	θεός	θεός	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	256	7	μοι:	μοι"	μοι·	μοι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	256	7	ἐγκατέλιπές	ἐγκατέλιπές	ἐγκατέλιπές	ἐγκατέλιπές	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	256	9	∅	∅	μου.	μου.	image (3x): word as written; OCR junk, margin number or lost word
+ps	oldtestamenting02swet	256	10	θεός	θεός	θεός	θεός	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	256	11	καὶ	Και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	256	11	νυκτός,	νυκτος,	νυκτός,	νυκτός,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	256	11	καὶ	Και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	256	11	οὐκ	Οὐκ	οὐκ	οὐκ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	256	11	ἄνοιαν	ανοιαν	ἄνοιαν	ἄνοιαν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	256	11	ἐμοί.	εμοι.	ἐμοί.	ἐμοί.	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	256	12	σὺ	συ	σὺ	σὺ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	256	12	ἐν	εν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	256	12	ἁγίοις	αγιοις	ἁγίοις	ἁγίοις	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	256	12	κατοικεῖς,	Κατοικεις,	κατοικεῖς,	κατοικεῖς,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	256	12	ἔπαινος +»	ἐπαινος	ἔπαινος	ἔπαινος	image (3x): word as written; OCR junk, margin number or lost word
+ps	oldtestamenting02swet	256	12	Ἰσραήλ. +5	Ἰσραὴλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on Ι, acute on ή
+ps	oldtestamenting02swet	256	13	ἐπὶ	τὶ	ἐπὶ	ἐπὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	256	13	σοὶ	ἐπι	σοὶ	σοὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	256	13	ἤλπισαν	σοι	ἤλπισαν	ἤλπισαν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	256	13	οἱ	ἡλπισαν	οἱ	οἱ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	256	13	πατέρες	οι	πατέρες	πατέρες	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	256	13	ἡμῶν,	πατερες +μων...	ἡμῶν,	ἡμῶν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	256	14	αὐτούς" +6	αὐτούς"	αὐτούς·	αὐτούς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	256	17	7ἐγὼ	7ἐγὼ	ἐγὼ	ἐγὼ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	256	17	δέ	δέ	δέ	δέ	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	256	19	πάντες	ὅπάντες	πάντες	πάντες	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	256	19	θεωροῦντές	θεωροῦντές	θεωροῦντές	θεωροῦντές	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	256	19	ἐξεμυκτήρισάν	ἐξεμυκτήρισάν	ἐξεμυκτήρισάν	ἐξεμυκτήρισάν	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	256	20	κεφαλήν	κεφαλήν	κεφαλήν	κεφαλήν	image (3x): acute at line end before capitalized Ἤλπισεν, no punctuation printed
+ps	oldtestamenting02swet	256	21	9ΦἬλπισεν	9ΦἬλπισεν	Ἤλπισεν	Ἤλπισεν	image (3x): smooth + acute on Η (apostrophe then rising stroke)
+ps	oldtestamenting02swet	256	21	αὐτόν:	αὐτόν:	αὐτόν·	αὐτόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	256	22	αὐτόν, +1:ο “᾽ ᾿ Ἄν ἰςς Ἢ ΄ » ,	αὐτόν, +το “᾽ ᾿ ΦΕῸΣ ὦ » ,	αὐτόν,	αὐτόν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	256	23	εἰ	εἰ	εἶ	εἶ	image (3x): circumflex on εἶ
+ps	oldtestamenting02swet	256	24	ἐλπίς	ἐλπίς	ἐλπίς	ἐλπίς	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	256	24	μητρός	μητρός	μητρός	μητρός	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	256	24	μου:	μου:	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	256	25	ἐπὶ	πἐπὶ	ἐπὶ	ἐπὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	256	26	εΚ	εκ	ἐκ	ἐκ	image (3x): word as written; OCR junk, margin number or lost word
+ps	oldtestamenting02swet	256	26	μῆτρος	μῆτρος	μητρός	μητρός	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	256	26	θεὸς	θεὸς	θεός	θεός	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	256	26	εἰ	εἰ	εἶ	εἶ	image (3x): circumflex on εἶ
+ps	oldtestamenting02swet	256	26	συ:	συ:	σύ·	σύ·	image (3x): word as written; OCR junk, margin number or lost word
+ps	oldtestamenting02swet	256	20	-	-	κεφαλήν	κεφαλήν	image (3x): line ends with no punctuation before 9 Ἤλπισεν; kept as printed

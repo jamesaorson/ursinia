@@ -16,6 +16,10 @@
 
 (lemma "γάλα" (sense milk (gloss "milk") (why "Milk (Genesis 18:8; 1 Corinthians 3:2; 1 Peter 2:2).")))
 
+(lemma "Γαλαάδ" (sense name (gloss "Gilead") (why "(LXX, supplied.) Gilead, the hill country east of the Jordan (Genesis 31:21, 23, 25); Greek Γαλαάδ, indeclinable, traditional English Gilead.")))
+
+(lemma "γαμβρεύω" (sense wed (gloss "wed" "wedded" "weds" "wedding") (why "(LXX, supplied.) To make a marriage tie, from γαμβρός \"son-in-law\"; in Genesis 38:8 the levirate duty, Judah to Onan: γάμβρευσαι αὐτήν, \"wed her\" (the wife of the dead brother). Matthew 22:24 has the compound ἐπιγαμβρεύω for the same duty. \"Wed\" keeps it apart from γαμέω, which should have \"marry\" when it comes.")))
+
 (lemma "γαμβρός" (sense son-in-law (person) (plural "sons-in-law") (gloss "son-in-law" "sons-in-law") (why "(LXX, supplied.) A daughter's husband, son-in-law (Genesis 19:12, 14, Lot's sons-in-law).")))
 
 (lemma "Γάμερ" (sense name (gloss "Gomer") (why "(LXX, supplied.) Japheth's son (Genesis 10:2-3), Greek Γάμερ; traditional English Gomer.")))
@@ -38,6 +42,8 @@
 (lemma "γελοιάζω" (sense jest (gloss "jest" "jested" "jests" "jesting") (why "(LXX, supplied.) To joke, jest (Genesis 19:14, Lot seemed to his sons-in-law to be jesting). Kept apart from γελάω \"laugh\".")))
 
 (lemma "γέλως" (sense laughter (gloss "laughter") (why "Laughter (Genesis 21:6, Γέλωτά μοι ἐποίησεν Κύριος; James 4:9).")))
+
+(lemma "γέμω" (sense be-full (verb "be full" "was full" "been full") (genitive "of") (gloss "be full" "is full" "are full" "was full" "were full" "been full" "being full") (why "To be full of, laden with, with the genitive (Genesis 37:25, the camels ἔγεμον θυμιαμάτων, \"were full of incenses\"; Matthew 23:27; Revelation 4:6, 8). \"Be full\" so every tense can be formed.")))
 
 (lemma "γενεά" (sense generation (gloss "generation" "generations") (why "Generation.")))
 
@@ -64,6 +70,8 @@
 (lemma "Γεργεσαῖος" (sense name (person) (gloss "Girgashite" "Girgashites") (why "(LXX, supplied.) The Girgashites, a people of Canaan (Genesis 10:16; 15:21), by the traditional English name.")))
 
 (lemma "γεύω" (sense feed (gloss "feed" "fed" "feeds" "feeding") (why "(LXX, supplied.) The active of γεύομαι \"taste\": to make someone taste, give a taste of (Genesis 25:30 Γεῦσόν με ἀπὸ τοῦ ἑψέματος, Esau to Jacob). \"Feed\" because English \"taste\" cannot take the person as its object.")))
+
+(lemma "Γέσεμ" (sense name (gloss "Goshen") (why "(LXX, supplied.) The district of Egypt where Jacob's family settled (Genesis 45:10; 46:28-34; 47:1-6, 27), Greek Γέσεμ; traditional English Goshen.")))
 
 (lemma "Γεφάρ" (sense name (gloss "Ephah") (why "(LXX, supplied.) A son of Midian (Genesis 25:4); the Greek Γεφάρ renders the Hebrew Ephah with a different ending, traditional English Ephah.")))
 

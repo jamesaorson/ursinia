@@ -1,0 +1,30 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	245	1	ἔως	ἔως	ἕως	ἕως	image (3x): rough breathing + acute
+ps	oldtestamenting02swet	245	2	ανθρώ-	ανθρώ-	ἀνθρώ-	ἀνθρώ-	image (3x): smooth breathing printed
+ps	oldtestamenting02swet	245	3	∅	∅	πων,	πων,	image (strip): turned-over line tail, short line OCR missed
+ps	oldtestamenting02swet	245	5	Ξπάντες	Ξπάντες	πάντες	πάντες	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	245	5	ηχρεώθησαν,	ηχρεώθησαν,	ἠχρεώθησαν,	ἠχρεώθησαν,	image (3x): smooth breathing printed
+ps	oldtestamenting02swet	245	6	ἕνός.	ἑνός.	ἑνός.	ἑνός.	image (3x): rough breathing, no acute on epsilon
+ps	oldtestamenting02swet	245	7	τάφος +ς	ίφος	τάφος	τάφος	image (3x): word as written; OCR junk
+ps	oldtestamenting02swet	245	7	αὐτῶν	αὐτῶν +ς	αὐτῶν,	αὐτῶν,	image (3x): word as written; OCR junk
+ps	oldtestamenting02swet	245	8	ἐδολιοῦσαν"	ἐδολιοῦσαν᾽	ἐδολιοῦσαν·	ἐδολιοῦσαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	245	10	γέμει:	γέμει:	γέμει·	γέμει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	245	11	οἵ	οἵ	οἱ	οἱ	image (3x): rough breathing only, no accent
+ps	oldtestamenting02swet	245	11	αἱμα:	αἱμα᾽	αἷμα·	αἷμα·	image (3x): rough+circumflex, ano teleia
+ps	oldtestamenting02swet	245	13	ἔγνωσαν"	ἔγνωσαν"	ἔγνωσαν·	ἔγνωσαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	245	15	Ἰοὐχὶ	οὐχὶ	οὐχὶ	οὐχὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	245	16	λαόν	λαόν	λαόν	λαόν	image (3x): acute before enclitic μου
+ps	oldtestamenting02swet	245	18	5ἐέἐκεῖ	5έἐκεῖ	ἐκεῖ	ἐκεῖ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	245	18	ἢν	ἢν	ἦν	ἦν	image (3x): smooth breathing + circumflex
+ps	oldtestamenting02swet	245	18	φόβος"	φόβος:	φόβος·	φόβος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	245	20	βουλὴν	ὁβουλὴν	βουλὴν	βουλὴν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	245	21	ὅτι	οτι	ὅτι	ὅτι	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	245	21	Κύριος	Κυριος	Κύριος	Κύριος	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	245	21	αὐτοῦ	αὐυτου	αὐτοῦ	αὐτοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	245	22	7τίς	τίς	τίς	τίς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	245	22	δώσει	ώσει	δώσει	δώσει	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	245	22	Ἰσραήλ;	Ισραηλ;	Ἰσραήλ;	Ἰσραήλ;	image (3x): smooth breathing on capital
+ps	oldtestamenting02swet	245	23	αὐ-	αὐὖὐ-	αὐ-	αὐ-	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	245	24	∅	∅	τοῦ	τοῦ	image (strip): turned-over line tail, short line OCR missed
+ps	oldtestamenting02swet	245	25	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing on capital
+ps	oldtestamenting02swet	245	25	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on capital

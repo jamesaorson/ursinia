@@ -15,7 +15,7 @@ ruth	transcribed	2056	1775	86.3	1775	86.3	671	479	71.4
 2chr	transcribed	21061	18376	87.3	18376	87.3	3404	1837	54.0
 1esd	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
 2esd	transcribed	12667	10422	82.3	10422	82.3	2924	1401	47.9
-esth	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
+esth	transcribed	5830	4716	80.9	4716	80.9	1746	1010	57.8
 jdt	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
 tob	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
 tob-s	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
@@ -23,9 +23,9 @@ tob-s	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
 2macc	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
 3macc	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
 4macc	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
-ps	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
+ps	transcribed	512	448	87.5	448	87.5	284	225	79.2
 odes	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
-prov	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
+prov	transcribed	106	78	73.6	78	73.6	83	55	66.3
 eccl	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
 song	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
 job	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
@@ -57,4 +57,4 @@ dan	transcribed	526	434	82.5	434	82.5	248	172	69.4
 dan-th	transcribed	495	414	83.6	414	83.6	224	160	71.4
 bel	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
 bel-th	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
-TOTAL		284020	242929	85.5	242929	85.5	22754	6678	29.3
+TOTAL		290468	248171	85.4	248171	85.4	23552	6897	29.3

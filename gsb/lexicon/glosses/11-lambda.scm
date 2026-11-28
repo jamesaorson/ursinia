@@ -40,9 +40,13 @@
 
 (lemma "λέπισμα" (sense peeling (gloss "peeling" "peelings") (why "(LXX, supplied.) A strip peeled off, peeling (Genesis 30:37 ἐλέπισεν αὐτὰς λεπίσματα λευκά), the noun of λεπίζω \"peel\".")))
 
+(lemma "λεπτός" (sense thin (gloss "thin") (why "Fine, small, thin (Genesis 41:3-27, the thin cows and thin ears of Pharaoh's dreams; Mark 12:42 λεπτά, the small coins, a sense of its own).")))
+
 (lemma "Λευί" (sense name (gloss "Levi") (why "Jacob's third son by Leah (Genesis 29:34; 34:25; 49:5); Hebrews 7:5, 9 and Revelation 7:7 Λευί (Nestle spells Λευεί), the same name as the tax collector Levi (Mark 2:14). Traditional English Levi.")))
 
 (lemma "λευκός" (sense white (gloss "white") (why "White (Genesis 30:35, 37; 31:8; 49:12; Matthew 5:36; 17:2; Revelation 1:14).")))
+
+(lemma "λέων" (sense lion (gloss "lion" "lions") (why "(LXX form supplied.) A lion (Genesis 49:9, Judah a lion's whelp; Revelation 5:5 ὁ λέων ὁ ἐκ τῆς φυλῆς Ἰούδα; 1 Peter 5:8).")))
 
 (lemma "ληνός" (sense vat (gloss "vat" "vats") (why "A trough or tub; the winepress vat (Revelation 14:19-20; Matthew 21:33). Genesis 30:38, 41 ἐν ταῖς ληνοῖς τῶν ποτιστηρίων, the vats of the watering troughs. \"Vat\" keeps it apart from ποτιστήριον \"trough\".")))
 
@@ -50,6 +54,8 @@
   (sense very
     (gloss "very")
     (why "Very, exceedingly (Genesis 1:31; Matthew 2:16).")))
+
+(lemma "λίθινος" (sense stony (gloss "stony") (why "Of stone, made of stone (Genesis 35:14 στήλην λιθίνην; John 2:6 λίθιναι ὑδρίαι; 2 Corinthians 3:3). \"Stony\" in its old sense \"made of stone\" (KJV Ezekiel 36:26 \"the stony heart\") keeps it apart from λίθος \"stone\".")))
 
 (lemma "λίθος"
   (sense stone
@@ -67,13 +73,21 @@
     (gloss "word" "words")
     (why "The traditional rendering. It keeps the link to God's creating word in Genesis 1 and to every other λόγος in Scripture. Capitalized when it is the Son's title (John 1:1, 14).")))
 
+(lemma "λοιδορέω" (sense revile (gloss "revile" "reviled" "reviles" "reviling") (why "(LXX form supplied.) To abuse with words, revile (Genesis 49:23, the archers ἐλοιδόρουν Joseph; John 9:28; 1 Corinthians 4:12; 1 Peter 2:23).")))
+
+(lemma "λοιπός" (sense remaining (gloss "remaining") (why "Left, remaining, the rest (Genesis 45:6, further remaining five years; Matthew 22:6; Acts 2:37). It shares \"remaining\" with καταμένω's participle; the alignment shows which Greek word stands behind it.")))
+
 (lemma "Λούδ" (sense name (gloss "Lud") (why "(LXX, supplied.) Shem's son (Genesis 10:22), traditional English Lud.")))
 
 (lemma "Λουδιείμ" (sense name (person) (plural "Ludim") (gloss "Ludim") (why "(LXX, supplied.) A people descended from Mizraim (Genesis 10:13), Greek Λουδιείμ; traditional English Ludim.")))
 
+(lemma "Λοῦζα" (sense name (gloss "Luz") (why "(LXX, supplied.) The old name of Bethel (Genesis 35:6; 48:3, where God appeared to Jacob), Greek Λοῦζα; traditional English Luz. Genesis 28:19 has Οὐλαμλούς for the same place.")))
+
 (lemma "λοχεύω" (sense bear-young (voice active) (verb "bear young" "bore young" "borne young") (gloss "bear young" "bore young" "borne young" "bears young" "bearing young") (why "(LXX, supplied.) To bring to birth; middle and passive, to be giving birth, have young (Genesis 33:13, the sheep and the cows are bearing young upon me). Kept apart from τίκτω \"bear\".")))
 
 (lemma "Λοωμείμ" (sense name (gloss "Leummim") (why "(LXX, supplied.) A son of Dedan (Genesis 25:3), traditional English Leummim.")))
+
+(lemma "λύκος" (sense wolf (plural "wolves") (gloss "wolf" "wolves") (why "(LXX form supplied.) A wolf (Genesis 49:27 Βενιαμεὶν λύκος ἅρπαξ; Matthew 7:15; 10:16; John 10:12).")))
 
 (lemma "λυπέω" (sense grieve (gloss "grieve" "grieved" "grieves" "grieving") (why "To grieve, cause sorrow; passive, be grieved. The verb of λύπη \"sorrow\".")))
 
@@ -84,4 +98,8 @@
 
 (lemma "λυπηρός" (sense grievous (gloss "grievous") (why "(LXX, supplied.) Painful, grievous (Genesis 34:7, λυπηρὸν ἦν αὐτοῖς σφόδρα, it was grievous to them exceedingly). The adjective of λύπη \"grief\".")))
 
+(lemma "λύω" (sense untie (gloss "untie" "untied" "unties" "untying") (why "To loose, untie (Genesis 42:27 λύσας δὲ εἷς τὸν μάρσιππον αὐτοῦ, opening his sack; Mark 1:7; John 1:27). \"Destroy\" (John 2:19) and \"release\" become their own senses when needed.")))
+
 (lemma "Λώτ" (sense name (gloss "Lot") (why "Haran's son, Abram's nephew (Genesis 11:27-31; 12:4-5; Luke 17:28-32; 2 Peter 2:7), traditional English Lot.")))
+
+(lemma "Λωτάν" (sense name (gloss "Lotan") (why "(LXX, supplied.) A son of Seir the Horite, and a chief (Genesis 36:20, 22, 29), Greek Λωτάν; traditional English Lotan.")))

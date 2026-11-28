@@ -207,7 +207,9 @@ leaf numbers here; the images and OCR layers stay out of the repo
   superscription (small type, unnumbered) is text: every line of it starts
   `{T}`, and the first `{T}` after `{Cn}` is verse 1 of the psalm. Swete's
   first number after a title is 2 (Ps 3: the title is verse 1) or a margin
-  1 (Ps 14, 113, 151: the title runs on into his verse 1, one row). Order
+  1 (Ps 14, 113, 151: the title runs on into his verse 1, one row); a
+  number printed inside a title stays where it stands (Ps 17:
+  `{T}{2}καὶ εἶπεν·`, then verse 2's full-size lines). Order
   on a line: `{Cn}`, then `{S}`/`{S1}`/`{S2}`/`{T}`, then `{n}`. διάψαλμα
   is text, a word at the end of its line (`... αὐτοῦ. διάψαλμα.`); ᾠδὴ
   διαψάλματος (Ps 9:17) likewise. Psalm 118 has no letter headings in the

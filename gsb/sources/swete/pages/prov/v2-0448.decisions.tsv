@@ -1,0 +1,26 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+prov	oldtestamenting02swet	448	1	“τοῦ	“τοῦ	τοῦ	τοῦ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	448	3	μή	μή	μή	μή	image (3x): acute on μή before enclitic σε
+prov	oldtestamenting02swet	448	4	ἀγρευθῆς	ἀγρευθῆς	ἀγρευθῇς	ἀγρευθῇς	image (3x): iota subscript under eta
+prov	oldtestamenting02swet	448	5	συναρπασθῆς	συναρπασθῇς	συναρπασθῇς	συναρπασθῇς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	448	6	“τιμὴ	“τιμὴ	τιμὴ	τιμὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	448	7	ἀγρεύει.	ἀγρεύει. +27	ἀγρεύει.	ἀγρεύει.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	448	9	ἢ	δῇ	ἢ	ἢ	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	448	11	ὑὕπανδρον᾽"	ὕπανδρον +-	ὕπανδρον·	ὕπανδρον·	image (3x): rough + acute on upsilon; ano teleia
+prov	oldtestamenting02swet	448	13	ϑοοὺ	ϑοοὺ	οὐ	οὐ	image (3x): word as read; superscript verse number not text
+prov	oldtestamenting02swet	448	14	Ψυχὴν	Ψυχὴν	ψυχὴν	ψυχὴν	image (3x): lowercase ψ
+prov	oldtestamenting02swet	448	14	πεινῶν" +31	πεινῶν"	πεινῶν·	πεινῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	448	16	ἑαυτόν"	ἑαυτόν"	ἑαυτόν·	ἑαυτόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	448	17	35	35	ὁ	ὁ	image (3x): word as read; superscript verse number not text
+prov	oldtestamenting02swet	448	17	Ψυχῇ	Ψυχῇ	ψυχῇ	ψυχῇ	image (3x): lowercase ψ
+prov	oldtestamenting02swet	448	19	βϑὀδύνας	βϑϑόδύνας	ὀδύνας	ὀδύνας	image (3x): word as read; superscript verse number not text
+prov	oldtestamenting02swet	448	19	ὑποφέρει:	ὑποφέρει"	ὑποφέρει·	ὑποφέρει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	448	21	ϑέμεστὸς	βέμεστὸς	μεστὸς	μεστὸς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	448	22	κρίσεως"	κρίσεως":	κρίσεως·	κρίσεως·	image (3x): raised dot, ano teleia
+prov	oldtestamenting02swet	448	23	δοὺκ	δοὺκ	οὐκ	οὐκ	image (3x): word as read; superscript verse number not text
+prov	oldtestamenting02swet	448	25	Υ̓ὶέ,	᾿γίέ,	Υἱέ,	Υἱέ,	image (3x): rough breathing + acute on iota of Υἱέ
+prov	oldtestamenting02swet	448	26	σεαυτῷ"	σεαυτῷ"	σεαυτῷ·	σεαυτῷ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	448	27	᾿αυΐέ,	᾿ϑυΐέ,	υἱέ,	υἱέ,	image (3x): υἱέ, superscript 1a not text
+prov	oldtestamenting02swet	448	30	ὀμμάτων"	ὀμμάτων"	ὀμμάτων·	ὀμμάτων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	448	31	βπερίθου	βπερίθου	περίθου	περίθου	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	448	9	-	-	ἢ	ἢ	ambiguous: breathing+accent over eta prints as a blotted star-like mark; read smooth + grave ἢ

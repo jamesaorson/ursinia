@@ -16,3 +16,5 @@
   (sense timber
     (gloss "timber" "timbers")
     (why "Cut wood, timber for building (Genesis 6:14, ξύλων τετραγώνων, \"squared timbers\" for the ark). \"Tree\" would mislead there.")))
+
+(lemma "ξυρέω" (sense shave (gloss "shave" "shaved" "shaves" "shaving") (why "To shave (Genesis 41:14 ἐξύρησαν αὐτόν, Joseph shaved before he came to Pharaoh; Acts 21:24; 1 Corinthians 11:5-6).")))

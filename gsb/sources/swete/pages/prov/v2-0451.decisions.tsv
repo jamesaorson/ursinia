@@ -1,0 +1,21 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+prov	oldtestamenting02swet	451	1	ϑπάντα	ϑπάντα	πάντα	πάντα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	451	4	δεδοκιμασμένον" +τ	δεδοκιμασμένον" +τ	δεδοκιμασμένον·	δεδοκιμασμένον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	451	7	"ἐγὼ	"ἐγὼ	ἐγὼ	ἐγὼ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	451	8	ἐπεκαλεσάμην	ἐπεκαλεσάμην	ἐπεκαλεσάμην·	ἐπεκαλεσάμην·	image (3x): raised dot, ano teleia
+prov	oldtestamenting02swet	451	10	φόβος	"φόβος	φόβος	φόβος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	451	11	πονηρῶν"	πονηρῶν᾽"	πονηρῶν·	πονηρῶν·	image (3x): raised dot, ano teleia
+prov	oldtestamenting02swet	451	13	“ἐμὴ	“ἐμὴ	ἐμὴ	ἐμὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	451	14	ἰσχύς	ἰσχύς" +15	ἰσχύς·	ἰσχύς·	image (3x): raised dot, ano teleia
+prov	oldtestamenting02swet	451	15	ἰδ᾽	δι᾽	δι᾽	δι᾽	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	451	16	δικαιοσύνην"	δικαιοσύνην"	δικαιοσύνην·	δικαιοσύνην·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	451	17	"δι	"δι	δι᾽	δι᾽	image (3x): δι᾽ with elision mark; superscript 16 not text
+prov	oldtestamenting02swet	451	18	γῆς. +τ	γῆς.	γῆς.	γῆς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	451	20	εὑρησουσιν.	εὑρησουσιν.	εὑρήσουσιν.	εὑρήσουσιν.	image (3x): acute on eta
+prov	oldtestamenting02swet	451	21	ξπλοῦτος	πλοῦτος	πλοῦτος	πλοῦτος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	451	22	δικαιοσύνη. +19	δικαιοσύνη. +19	δικαιοσύνη.	δικαιοσύνη.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	451	25	“ἐν	“ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	451	27	ἵνα	εἰἵνα	ἵνα	ἵνα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	451	29	καθ᾽ +8.	καθ᾽ +»"	καθ᾽	καθ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	451	30	μνημονευσῶ	μνημονεύσω	μνημονεύσω	μνημονεύσω	image (3x): acute on upsilon, no accent on omega
+prov	oldtestamenting02swet	451	2	-	-	γνῶσιν.	γνῶσιν.	turned-over end of 8:9 printed at the ordinary second-stich depth, not deeper; recorded {S1} as printed

@@ -15,7 +15,7 @@ nn	id	english	greek	testament	deuterocanonical	role	source	notes	chapters
 14	2chr	2 Chronicles	Παραλειπομένων Βʹ	OT	no	main	swete		36
 15	1esd	1 Esdras	Ἔσδρας Αʹ	OT	yes	main	swete
 16	2esd	2 Esdras (Ezra-Nehemiah)	Ἔσδρας Βʹ	OT	no	main	swete	Swete prints Ezra and Nehemiah as one book, 2 Esdras, chapters 1-23 (Nehemiah 1-13 = 2 Esdras 11-23); kept as he prints it.	23
-17	esth	Esther	Ἐσθήρ	OT	no	main	swete	The Greek additions stay in place, as Swete prints them, as lettered sub-verses.
+17	esth	Esther	Ἐσθήρ	OT	no	main	swete	The six Greek additions stay in place, as Swete prints them, as lettered sections A-F between the chapters; the chapter count is 10 numbered + 6 lettered.	16
 18	jdt	Judith	Ἰουδίθ	OT	yes	main	swete
 19	tob	Tobit	Τωβίτ	OT	yes	main	swete	The shorter text of Codices Vaticanus and Alexandrinus (BA).
 20	tob-s	Tobit (Sinaiticus)	Τωβίτ (ℵ)	OT	yes	comparison	swete	The longer text of Codex Sinaiticus, which Swete prints in full beside it; included for comparison only.

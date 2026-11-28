@@ -4,6 +4,8 @@
 
 (lemma "χαβραθά" (sense chabratha (gloss "chabratha") (why "(LXX, supplied.) A Hebrew word for a stretch of land, kept untranslated by the Greek and printed lowercase by Swete (Genesis 35:16 ἤγγισεν χαβραθὰ εἰς γῆν; 48:7 κατὰ τὸν ἱππόδρομον χαβραθὰ τῆς γῆς). The English transliterates it as the Greek does, lowercase, since it is not a name.")))
 
+(lemma "χαίρω" (sense rejoice (gloss "rejoice" "rejoiced" "rejoices" "rejoicing") (why "To rejoice, be glad (Genesis 45:16, Pharaoh rejoiced; Luke 1:14; John 3:29). The greeting χαῖρε will be its own sense. It shares \"rejoice\" with συγχαίρω \"rejoice with\", which adds \"with\".")))
+
 (lemma "Χαλαννή" (sense name (gloss "Calneh") (why "(LXX, supplied.) A city of Nimrod's kingdom (Genesis 10:10), Greek Χαλαννή; traditional English Calneh.")))
 
 (lemma "Χάλαχ" (sense name (gloss "Calah") (why "(LXX, supplied.) A city built by Asshur (Genesis 10:11-12), Greek Χάλαχ; traditional English Calah.")))
@@ -20,9 +22,17 @@
 
 (lemma "Χαναναῖος" (sense name (person) (gloss "Canaanite" "Canaanites") (why "A Canaanite (Genesis 12:6; Matthew 15:22, the feminine), traditional English.")))
 
+(lemma "Χανανῖτις" (sense name (person) (gloss "Canaanitess") (why "(LXX, supplied.) A Canaanite woman, the feminine of Χαναναῖος (Genesis 46:10, the son of the Canaanitess). One word for one Greek word; Matthew 15:22 has the adjective γυνὴ Χαναναία.")))
+
 (lemma "χάρις" (sense grace (gloss "grace") (why "Favor, grace (Genesis 6:8, Noah found grace; Luke 1:30; John 1:14-17). \"Grace\" in both testaments so \"found grace\" (Genesis 6:8; Luke 1:30) stays recognizable.")))
 
+(lemma "χαροποιός" (sense gladdening (gloss "gladdening") (why "(LXX, supplied.) Making glad, gladdening, bright (Genesis 49:12 χαροποιοὶ οἱ ὀφθαλμοὶ αὐτοῦ ὑπὲρ οἶνον).")))
+
+(lemma "Χαρμί" (sense name (gloss "Carmi") (why "(LXX, supplied.) A son of Reuben (Genesis 46:9), Greek Χαρμί; traditional English Carmi.")))
+
 (lemma "Χαρράν" (sense name (gloss "Haran") (why "The city in Mesopotamia (Genesis 11:31-32; 12:4-5; Acts 7:2, 4, KJV \"Charran\"), traditional English Haran. It shares \"Haran\" with Ἁρράν, Terah's son, as English Bibles do (Hebrew Ḥaran / Haran); the Greek on hover tells them apart.")))
+
+(lemma "Χασβί" (sense name (gloss "Chezib") (why "(LXX, supplied.) The place where Shua's daughter bore Shelah (Genesis 38:5), Greek Χασβί for the Hebrew Chezib; traditional English Chezib.")))
 
 (lemma "Χάσζαδ" (sense name (gloss "Chesed") (why "(LXX, supplied.) Nahor's son (Genesis 22:22); the Greek form of the Hebrew Chesed. Traditional English Chesed.")))
 
@@ -35,6 +45,8 @@
 (lemma "Χεβρών" (sense name (gloss "Hebron") (why "(LXX, supplied.) Hebron (Genesis 13:18, the oak of Mamre which was in Hebron); traditional English.")))
 
 (lemma "χεῖλος" (sense lip (gloss "lip" "lips") (why "Lip, and so speech, language (Genesis 11:1, 6, 9, \"one lip\"; Matthew 15:8; Romans 3:13). \"Lip\" kept word for word; γλῶσσα is \"tongue\".")))
+
+(lemma "χείμαρρος" (sense torrent (gloss "torrent" "torrents") (why "A winter-flowing stream, torrent, wadi (Genesis 32:23 διέβη τὸν χειμάρρουν, the Jabbok; John 18:1 πέραν τοῦ χειμάρρου τῶν Κέδρων). Swete's accusative χειμάρρουν is the contracted form.")))
 
 (lemma "χείρ"
   (sense hand
@@ -52,6 +64,10 @@
 
 (lemma "Χεττούρα" (sense name (gloss "Keturah") (why "(LXX, supplied.) Abraham's wife after Sarah (Genesis 25:1, 4), declined in the Greek (Χεττούρας); traditional English Keturah.")))
 
+(lemma "χήρευσις" (sense widowhood (gloss "widowhood") (why "(LXX, supplied.) Widowhood, the state of a widow (Genesis 38:14, 19, τὰ ἱμάτια τῆς χηρεύσεως, Tamar's widow's clothes). Kept with χῆρος \"widow\".")))
+
+(lemma "χῆρος" (sense widow (person) (gloss "widow" "widows") (why "Bereaved; as a noun χήρα, a widow (Genesis 38:11, Κάθου χήρα, Judah to Tamar; Mark 12:42; Acts 6:1). The New Testament table lemmatizes χήρα under χῆρος.")))
+
 (lemma "χιλιάς" (sense thousand (gloss "thousand" "thousands") (why "A thousand.")))
 
 (lemma "χίλιοι" (sense thousand (gloss "thousand") (why "The numeral adjective, a thousand (Genesis 20:16 χίλια δίδραχμα; Revelation 20:2-7). It shares \"thousand\" with the noun χιλιάς: English has one word for both.")))
@@ -66,6 +82,8 @@
     (gloss "green")
     (why "Green, pale green (Genesis 1:30; 2:5; Mark 6:39); \"pale\" of the horse in Revelation 6:8 may be its own sense.")))
 
+(lemma "Χόβωρ" (sense name (gloss "Heber") (why "(LXX, supplied.) A son of Beriah, Asher's grandson (Genesis 46:17), Greek Χόβωρ; traditional English Heber. Swete prints the same name for Benjamin's second son (46:21), where the Hebrew has Becher: the Greek gives the name Heber, so the English follows it (rule 8, as Μαθουσαλά).")))
+
 (lemma "Χοδδάν" (sense name (gloss "Hadad") (why "(LXX, supplied.) A son of Ishmael (Genesis 25:15); Swete's Χοδδάν for the Hebrew Hadad, traditional English Hadad.")))
 
 (lemma "Χοδολλογόμορ" (sense name (gloss "Chedorlaomer") (why "(LXX, supplied.) King of Elam (Genesis 14:1-17; Swete spells Χοδαλλογόμορ at 14:17); traditional English Chedorlaomer.")))
@@ -74,7 +92,9 @@
 
 (lemma "Χορραῖος" (sense name (person) (gloss "Horite" "Horites") (why "(LXX, supplied.) The Horites of Mount Seir (Genesis 14:6); traditional English Horite.")))
 
-(lemma "χόρτασμα" (sense fodder (gloss "fodder" "fodders") (why "Food for animals, fodder (Genesis 24:25, 32; Acts 7:11, the food the fathers could not find). Kept apart from χόρτος \"grass\".")))
+(lemma "Χορρεί" (sense name (gloss "Hori") (why "(LXX, supplied.) Hori, a son of Lotan (Genesis 36:22); at 36:29-30 ἡγεμόνες Χορρεί, where the Hebrew has \"the Horite\", the Greek gives the same name, so \"chiefs of Hori\". Traditional English Hori; the people are Χορραῖος \"Horite\".")))
+
+(lemma "χόρτασμα"(sense fodder (gloss "fodder" "fodders") (why "Food for animals, fodder (Genesis 24:25, 32; Acts 7:11, the food the fathers could not find). Kept apart from χόρτος \"grass\".")))
 
 (lemma "χόρτος"
   (sense grass
@@ -89,6 +109,8 @@
 (lemma "Χούς" (sense name (gloss "Cush") (why "(LXX, supplied.) Ham's son, Nimrod's father (Genesis 10:6-8), Greek Χούς; traditional English Cush. Where the Greek says Αἰθιοπία (2:13) the English follows the Greek; here it gives the name itself.")))
 
 (lemma "χράομαι" (sense use (dative "") (gloss "use" "used" "uses" "using") (why "To use, deal with, with the dative (Genesis 12:16, τῷ Ἀβρὰμ εὖ ἐχρήσαντο, \"they used Abram well\", treated him well; Acts 27:3, 17; 1 Corinthians 7:31).")))
+
+(lemma "χρήσιμος" (sense useful (gloss "useful") (why "Useful, profitable (Genesis 37:26, Judah: Τί χρήσιμον ἐὰν ἀποκτείνωμεν τὸν ἀδελφὸν ἡμῶν; 2 Timothy 2:14).")))
 
 (lemma "χρονίζω" (sense delay (gloss "delay" "delayed" "delays" "delaying") (why "To spend time, delay, linger (Genesis 34:19, the young man did not delay to do the thing; Matthew 24:48; 25:5; Hebrews 10:37). The verb of χρόνος \"time\".")))
 

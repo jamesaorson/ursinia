@@ -4,6 +4,8 @@
 
 (lemma "ὑγιαίνω" (sense be-healthy (verb "be healthy" "was healthy" "been healthy") (gloss "be healthy" "healthy") (why "To be in good health, be well (Genesis 29:6, Jacob asking after Laban: Ὑγιαίνει; 37:14; 3 John 2; Luke 15:27). \"Be healthy\" so every tense can be formed.")))
 
+(lemma "ὑγίεια" (sense health (gloss "health") (why "(LXX, supplied.) Health, soundness (Genesis 42:15-16 νὴ τὴν ὑγίαν Φαραώ, Joseph swearing by Pharaoh's health; Swete spells ὑγίαν). The noun of ὑγιαίνω.")))
+
 (lemma "ὑδρεύω" (sense fetch-water (dative "for") (gloss "fetch water" "fetched water" "fetches water" "fetching water" "fetch") (why "(LXX, supplied.) Middle: to draw water for oneself, fetch water (Genesis 24:11, 13, 19-20, 43-45, the women fetching water). The verb holds its object, so \"fetch water\"; where ὕδωρ follows (24:43) an override gives \"fetch\" alone. Kept apart from ἀντλέω \"draw\". The dative is \"for\": \"for your camels I will fetch water\".")))
 
 (lemma "ὑδρία" (sense jar (gloss "jar" "jars") (why "A water jar (Genesis 24:14-20, 43-46, Rebekah's jar; John 2:6-7; 4:28).")))
@@ -33,6 +35,10 @@
 
 (lemma "ὑπερέχω" (sense surpass (genitive "") (gloss "surpass" "surpassed" "surpasses" "surpassing") (why "To hold above, rise above, surpass, with the genitive (Genesis 25:23 λαὸς λαοῦ ὑπερέξει, \"people will surpass people\"; Philippians 2:3; 4:7; Romans 13:1).")))
 
+(lemma "ὑπερισχύω" (sense overpower (gloss "overpower" "overpowered" "overpowers" "overpowering") (why "(LXX, supplied.) To be stronger, prevail over (Genesis 49:26, the blessings of your father ὑπερίσχυσεν above the blessings of lasting mountains). \"Overpower\" because ὑπερέχω has \"surpass\" and ἐπικρατέω \"prevail\".")))
+
+(lemma "ὑπεροράω" (sense overlook (gloss "overlook" "overlooked" "overlooks" "overlooking") (why "To look past, disregard, overlook (Genesis 42:21 ὑπερίδομεν τὴν θλίψιν τῆς ψυχῆς αὐτοῦ; Acts 17:30).")))
+
 (lemma "ὑπνόω"
   (sense sleep
     (gloss "sleep" "slept" "sleeps" "sleeping")
@@ -45,14 +51,15 @@
 
 (lemma "ὑπόδημα" (sense sandal (gloss "sandal" "sandals") (why "A sandal, shoe (Genesis 14:23, a sandal's thong; Mark 1:7, the strap of whose sandals).")))
 
-(lemma "ὑποζύγιον" (sense beast-of-burden (gloss "beast of burden" "beasts of burden") (why "A beast under the yoke, a pack animal (2 Peter 2:16).")))
+(lemma "ὑποζύγιον" (sense beast-of-burden (plural "beasts of burden") (gloss "beast of burden" "beasts of burden") (why "A beast under the yoke, a pack animal (2 Peter 2:16).")))
 
 (lemma "ὑποκάτω"
   (sense under
     (gloss "under")
     (why "Under, below (Genesis 1:7, 9; Mark 6:11).")))
 
-(lemma "ὑπολείπω" (sense reserve (gloss "reserve" "reserved" "reserves" "reserving") (why "To leave remaining; middle, to keep back for oneself, reserve (Genesis 27:36 Οὐχ ὑπελείπου μοι εὐλογίαν, \"Were you not reserving for me [a] blessing?\"; Romans 11:3 quoting 1 Kings 19:10, \"I was left\"). \"Reserve\" keeps it apart from καταλείπω \"leave\". The middle is rendered active. (LXX form supplied.)")))
+(lemma "ὑπολείπω" (sense reserve (gloss "reserve" "reserved" "reserves" "reserving") (why "To leave remaining; middle, to keep back for oneself, reserve (Genesis 27:36 Οὐχ ὑπελείπου μοι εὐλογίαν, \"Were you not reserving for me [a] blessing?\"; Romans 11:3 quoting 1 Kings 19:10, \"I was left\"). \"Reserve\" keeps it apart from καταλείπω \"leave\". The middle is rendered active. (LXX form supplied.)"))
+  (sense leave-behind (verb "leave behind" "left behind" "left behind") (gloss "leave behind" "left behind" "leaves behind" "leaving behind") (why "Passive: to be left behind, remain (Genesis 32:24 ὑπελείφθη δὲ Ἰακὼβ μόνος; Romans 11:3 ὑπελείφθην μόνος, quoting 1 Kings 19:10). \"Was reserved\" would misread the passive; καταλείπω keeps \"leave\" alone.")))
 
 (lemma "ὑποστρέφω" (sense return (intransitive) (gloss "return" "returned" "returns" "returning") (why "To turn back, return (Genesis 8:7, the raven did not return; Luke 2:20; 24:52). \"Return\" keeps it apart from ἀποστρέφω \"turn back\", ἀναστρέφω \"come back\" and ἐπιστρέφω \"turn again\".")))
 

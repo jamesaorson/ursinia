@@ -1,0 +1,37 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+prov	oldtestamenting02swet	449	2	ἐεἰπὸν	ἐεἰπὸν	εἰπὸν	εἰπὸν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	449	4	ϑἵνα	ϑἵνα	ἵνα	ἵνα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	449	5	ἐάν	ἐάν	ἐάν	ἐάν	image (3x): acute before enclitic, as read
+prov	oldtestamenting02swet	449	7	κύπτουσα,	κυπτουσα,	κύπτουσα,	κύπτουσα,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	449	8	Τὸν	ὃν	ὃν	ὃν	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	449	8	ἴδη	ἴδη	ἴδῃ	ἴδῃ	image (3x): iota subscript under eta
+prov	oldtestamenting02swet	449	9	παραπορευόμενον	ταραπορευομεέενον	παραπορευόμενον	παραπορευόμενον	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	449	9	παρὰ	παρα	παρὰ	παρὰ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	449	9	γωνίαν	γώνιαν	γωνίαν	γωνίαν	image (3x): accents as read (γωνίαν, οἴκων, αὐτῆς)
+prov	oldtestamenting02swet	449	9	οἴκων	οἰκῶν	οἴκων	οἴκων	image (3x): accents as read (γωνίαν, οἴκων, αὐτῆς)
+prov	oldtestamenting02swet	449	9	αὐτῆς	αὐτὴς	αὐτῆς	αὐτῆς	image (3x): accents as read (γωνίαν, οἴκων, αὐτῆς)
+prov	oldtestamenting02swet	449	10	καὶ	καὶ +λ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	449	10	95ἐν	9 +95ἐν	ἐν	ἐν	image (3x): word as read; superscript verse number not text
+prov	oldtestamenting02swet	449	11	γνοφώδης, +το	γνοφώδης,	γνοφώδης,	γνοφώδης,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	449	12	εἶδος	εἰδος	εἶδος	εἶδος	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	449	13	καρδίας. +ἈΠ	καρδίας. +τι	καρδίας.	καρδίας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	449	14	δέ	δέ	δέ	δέ	image (3x): acute before enclitic, as read
+prov	oldtestamenting02swet	449	15	αὐτῆς	αὐτῆς +:	αὐτῆς·	αὐτῆς·	image (3x): raised dot, ano teleia
+prov	oldtestamenting02swet	449	16	γάρ	γάρ	γάρ	γάρ	image (3x): acute before enclitic, as read
+prov	oldtestamenting02swet	449	18	[3εἶτα	"βεἶτα	εἶτα	εἶτα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	449	20	εἰρηνική	εἰρηνικὴ	εἰρηνική	εἰρηνική	image (3x): acute before enclitic, as read
+prov	oldtestamenting02swet	449	20	μοί	μοι	μοί	μοί	image (3x): acute before enclitic, as read
+prov	oldtestamenting02swet	449	20	ἐστιν"	ἐστιν"	ἐστιν·	ἐστιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	449	21	εὐχάς	εὐχάς	εὐχάς	εὐχάς	image (3x): acute before enclitic, as read
+prov	oldtestamenting02swet	449	21	μου." +τΞ	μου:	μου·	μου·	image (3x): raised dot, ano teleia
+prov	oldtestamenting02swet	449	22	ἕνεκα	ϑένεκα	ἕνεκα	ἕνεκα	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	449	22	ὑπάντησίν	ὑπάντησίν	ὑπάντησίν	ὑπάντησίν	image (3x): acute before enclitic, as read
+prov	oldtestamenting02swet	449	23	εὕρηκά	εὕρηκά	εὕρηκά	εὕρηκά	image (3x): acute before enclitic, as read
+prov	oldtestamenting02swet	449	25	2	Αἰγύπτου"	Αἰγύπτου·	Αἰγύπτου·	image (3x): smooth breathing on Αἰ; ano teleia
+prov	oldtestamenting02swet	449	26	Αἰγύπτου" +᾿διέρραγκα	"διέρραγκα	διέρραγκα	διέρραγκα	image (3x): word as read; superscript verse number not text
+prov	oldtestamenting02swet	449	27	οἶκόν	οἶκόν	οἶκόν	οἶκόν	image (3x): acute before enclitic, as read
+prov	oldtestamenting02swet	449	27	κινναμώμῳ	κινναμώμῳ: +15	κινναμώμῳ·	κινναμώμῳ·	image (3x): raised dot, ano teleia
+prov	oldtestamenting02swet	449	28	"ἐλθὲ	ἐλθὲ	ἐλθὲ	ἐλθὲ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	449	29	ἔρωτι. +Το ι , δ 5.2 ᾽ ᾿	ἔρωτι. +το, ὃ ν , ΕἾ ΑΡ ᾽ "	ἔρωτι.	ἔρωτι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	449	30	ἀνήρ	ἀνήρ	ἀνήρ	ἀνήρ	image (3x): acute before enclitic, as read
+prov	oldtestamenting02swet	449	8	-	-	ὃν	ὃν	ambiguous depth: numbered line indented less than the usual second stich but clearly past the left edge; recorded {S1}

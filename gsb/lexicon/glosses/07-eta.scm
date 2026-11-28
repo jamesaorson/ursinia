@@ -20,6 +20,8 @@
 
 (lemma "ἥλιος"(sense sun (gloss "sun" "suns") (why "The sun (Genesis 15:12, 17; Matthew 5:45). Genesis 1:16 calls it the \"great luminary\" (φωστήρ) without naming it.")))
 
+(lemma "Ἡλίου" (sense name (gloss "Sun") (why "(LXX, supplied.) The first part of the city name Ἡλίου πόλις, \"city of [the] Sun\" (Heliopolis, the Hebrew On; Genesis 46:20), which Swete capitalizes as a name. Chosen by a word override, because the lowercase form ἡλίου is the sun itself (ἥλιος).")))
+
 (lemma "ἡμέρα"
   (sense day
     (with-preposition "εἰς" for)
@@ -37,6 +39,10 @@
 (lemma "ἡνίκα" (sense when (gloss "when") (why "At the time when, when (Genesis 6:1; 2 Corinthians 3:15-16, quoting Exodus 34:34). It shares \"when\" with ὅτε: both are plain temporal \"when\", and the fuller \"at the time when\" would put an unbracketed \"the\" in the text; the alignment shows which Greek word stands behind it.")))
 
 (lemma "ἧπαρ" (sense liver (gloss "liver" "livers") (why "(LXX, supplied.) The liver, seat of the passions (Genesis 49:6 μὴ ἐρίσαι τὰ ἥπατά μου, \"may my livers not strive\").")))
+
+(lemma "Ἤρ" (sense name (gloss "Er") (why "(LXX, supplied.) Judah's firstborn by Shua's daughter, put to death by God (Genesis 38:3-7; 46:12); Luke 3:28 has another Ἤρ. Traditional English Er, indeclinable in Greek.")))
+
+(lemma "Ἡρώων" (sense name (gloss "Heroes") (why "(LXX, supplied.) The first part of the city name Ἡρώων πόλις, \"city of heroes\" (Heroonpolis), where the Septuagint has Joseph meet Jacob (Genesis 46:28-29; the Hebrew has Goshen). Swete capitalizes it as a name; the genitive plural of ἥρως, kept undeclined in English: \"Heroes city\".")))
 
 (lemma "Ἠσαῦ" (sense name (gloss "Esau") (why "Isaac's elder son, Jacob's twin (Genesis 25:25-36:43; Romans 9:13; Hebrews 11:20; 12:16). Greek Ἠσαῦ (Swete prints the grave Ἠσαὺ before another word), traditional English Esau, the same in both testaments.")))
 
