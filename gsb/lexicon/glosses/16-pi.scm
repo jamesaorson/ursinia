@@ -16,7 +16,7 @@
   (sense girl (person) (gloss "girl" "girls") (why "Feminine ἡ παῖς: a girl, a young woman (Genesis 24:28, 57, Rebekah; Luke 8:51, 54, Jairus's daughter). Chosen by override where the article or context is feminine."))
   (sense boy (person) (gloss "boy" "boys") (why "A boy, a child, and so ἐκ παιδός \"out of boy\", from boyhood (Genesis 46:34; Mark 9:21 has ἐκ παιδιόθεν). \"Boy\" keeps it apart from τέκνον \"child\" and παιδίον \"little child\". Chosen by override.")))
 
-(lemma "παλαίω" (sense wrestle (gloss "wrestle" "wrestled" "wrestles" "wrestling") (why "(LXX, supplied.) To wrestle (Genesis 32:24-25, ἐπάλαιεν μετ’ αὐτοῦ ἄνθρωπος). Compare πάλη \"wrestling\" (Ephesians 6:12).")))
+(lemma "παλαίω" (sense wrestle (intransitive) (gloss "wrestle" "wrestled" "wrestles" "wrestling") (why "(LXX, supplied.) To wrestle (Genesis 32:24-25, ἐπάλαιεν μετ’ αὐτοῦ ἄνθρωπος). Compare πάλη \"wrestling\" (Ephesians 6:12).")))
 
 (lemma "πάλιν" (sense again (gloss "again") (why "Again, once more (Genesis 8:10, 12, again he sent out the dove; John 4:13).")))
 

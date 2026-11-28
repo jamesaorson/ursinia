@@ -408,7 +408,22 @@ readable-avoid list. WARN is called with each warning (same form, does not
 fail the check)."
   (let ((table (make-hash-table))
         (seen (make-hash-table))
-        (names (name-table glosses)))
+        (names (name-table glosses))
+        ;; Every word of a gloss that is not a name: a name spelled like one
+        ;; (Ὤν "On") at the start of a segment is that word capitalized.
+        (common-words (let ((h (make-hash-table)))
+                        (hash-for-each
+                         (lambda (lemma senses)
+                           (for-each (match-lambda
+                                       ((name gs . _)
+                                        (unless (eq? name 'name)
+                                          (for-each (lambda (g)
+                                                      (for-each (lambda (w) (hash-set! h w #t))
+                                                                (string-tokenize g char-set:letter)))
+                                                    gs))))
+                                     senses))
+                         glosses)
+                        h)))
     (for-each (lambda (v) (hash-set! table (car v) (cdr v))) verses)
     (define (err where fmt . args)
       (string-append file ": " where ": " (apply format #f fmt args)))
@@ -537,10 +552,18 @@ fail the check)."
                          (lemmas (filter-map ref-lemma* refs))
                          (demos (filter (lambda (r) (and (not (cont-ref? r)) (member (ref-lemma* r) %demonstratives))) refs))
                          ;; (a capitalized ordinary word is not a name: Θὲς ... "Put"
-                         ;; at the start of speech is the gloss of τίθημι, not Φούδ)
+                         ;; at the start of speech is the gloss of τίθημι, not Φούδ;
+                         ;; nor an ordinary word opening the segment: "On which" is
+                         ;; ᾗ with its case helper, not Ὤν)
                          (own-glosses (append-map (lambda (l) (append-map cadr (or (hash-ref glosses l) '()))) lemmas))
-                         (seg-names (filter (lambda (p) (and (positive? (count-name text (car p)))
-                                                             (not (member (string-downcase (car p)) own-glosses))))
+                         (first-word (let ((ws (string-tokenize text char-set:letter))) (and (pair? ws) (car ws))))
+                         (seg-names (filter (lambda (p)
+                                              (let ((low (string-downcase (car p))))
+                                                (and (positive? (count-name text (car p)))
+                                                     (not (member low own-glosses))
+                                                     (not (and (equal? first-word (car p))
+                                                               (= 1 (count-name text (car p)))
+                                                               (hash-ref common-words low #f))))))
                                             names)))
                     (append
                      ;; A demonstrative's English is its segment plus, in the

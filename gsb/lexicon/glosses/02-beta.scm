@@ -19,7 +19,7 @@
 (lemma "βάλανος" (sense oak (gloss "oak" "oaks") (why "(LXX, supplied.) Properly an acorn, in the Septuagint the oak that bears it (Genesis 35:8, Deborah buried under the oak; the place named Βάλανος πένθους, \"Oak of mourning\"). Shares \"oak\" with δρῦς (Genesis 18:1): English has one common word for the tree; the alignment shows which Greek word stands behind it.")))
 
 (lemma "Βάλλα"(sense name (gloss "Bera") (why "(LXX, supplied.) King of Sodom (Genesis 14:2), Greek Βάλλα for the Hebrew Bera; traditional English Bera, the same man in the Greek spelling."))
-  (sense bilhah (gloss "Bilhah") (why "(LXX, supplied.) Rachel's slave girl, given to Jacob (Genesis 29:29; 30:3-7; 35:22, 25), Greek Βάλλα (accusative Βάλλαν) for the Hebrew Bilhah. The same Greek spelling as the king of Sodom, a different person and Hebrew name: her own sense, traditional English Bilhah.")))
+  (sense bilhah (person) (gloss "Bilhah") (why "(LXX, supplied.) Rachel's slave girl, given to Jacob (Genesis 29:29; 30:3-7; 35:22, 25), Greek Βάλλα (accusative Βάλλαν) for the Hebrew Bilhah. The same Greek spelling as the king of Sodom, a different person and Hebrew name: her own sense, traditional English Bilhah.")))
 
 (lemma "Βάραδ" (sense name (gloss "Bered") (why "(LXX, supplied.) A place in the wilderness of Shur (Genesis 16:14), Hebrew Bered; the traditional English form, the Greek being the same name.")))
 
@@ -45,7 +45,7 @@
 
 (lemma "βασιλεύς" (sense king (person) (gloss "king" "kings") (why "King (Genesis 17:6, 16, kings will come out of Abraham; Matthew 1:6; 2:1).")))
 
-(lemma "βασιλεύω" (sense reign (gloss "reign" "reigned" "reigns" "reigning") (why "(LXX form supplied.) To be king, reign (Genesis 36:31-39, the kings who reigned in Edom; Matthew 2:22; Luke 1:33). The verb of βασιλεύς \"king\".")))
+(lemma "βασιλεύω" (sense reign (intransitive) (gloss "reign" "reigned" "reigns" "reigning") (why "(LXX form supplied.) To be king, reign (Genesis 36:31-39, the kings who reigned in Edom; Matthew 2:22; Luke 1:33). The verb of βασιλεύς \"king\".")))
 
 (lemma "βδέλυγμα"(sense abomination (gloss "abomination" "abominations") (why "(LXX form supplied.) A thing abhorred, an abomination (Genesis 43:32 βδέλυγμα γάρ ἐστιν τοῖς Αἰγυπτίοις, of eating with Hebrews; Matthew 24:15; Luke 16:15). The noun of βδελύσσομαι \"abhor\".")))
 

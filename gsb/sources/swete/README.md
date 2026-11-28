@@ -201,9 +201,9 @@ leaf numbers here; the images and OCR layers stay out of the repo
   a psalm (`Γʹ`, `ΡΙΓʹ`) and the Roman numeral in the margin are not text.
   Every text line is a verse line with its printed depth: `{S}` starts at
   the poetry's left edge (most numbered verses), `{S1}` is indented one step
-  (most second stichs; some numbered verses), `{S2}` is the turned-over end
-  of the line above (that line runs to the right edge of the block and ends
-  with no punctuation; the tail is set deeper than `{S1}`). The
+  (most second stichs; some numbered verses), `{S2}` is set a further step
+  in (mostly the turned-over end of a long line above; decided by depth
+  alone, as is a `διάψαλμα.` standing deep on a line of its own). The
   superscription (small type, unnumbered) is text: every line of it starts
   `{T}`, and the first `{T}` after `{Cn}` is verse 1 of the psalm. Swete's
   first number after a title is 2 (Ps 3: the title is verse 1) or a margin

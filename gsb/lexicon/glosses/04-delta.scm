@@ -211,7 +211,8 @@
 
 (lemma "διώροφος" (sense two-storied (gloss "two-storied") (why "(LXX, supplied.) Having two stories or decks (Genesis 6:16).")))
 
-(lemma "δοκέω" (sense seem (gloss "seem" "seemed" "seems" "seeming") (why "To seem, appear; to think (Genesis 19:14 ἔδοξεν δὲ γελοιάζειν, he seemed to be jesting; Luke 10:36; Acts 25:27). \"Think\" (Matthew 3:9) may become its own sense.")))
+(lemma "δοκέω" (sense seem (gloss "seem" "seemed" "seems" "seeming") (why "To seem, appear; to think (Genesis 19:14 ἔδοξεν δὲ γελοιάζειν, he seemed to be jesting; Luke 10:36; Acts 25:27). \"Think\" (Matthew 3:9) may become its own sense."))
+  (sense deem (gloss "deem" "deemed" "deems" "deeming") (why "To think, suppose, with an accusative and infinitive (Genesis 38:15, Judah ἔδοξεν αὐτὴν πόρνην εἶναι, \"deemed her to be harlot\"; Matthew 3:9; Luke 24:37). \"Deem\" because διανοέομαι has \"think through\" and οἴομαι \"suppose\".")))
 
 (lemma "δοκός" (sense beam (gloss "beam" "beams") (why "(LXX form supplied.) A beam of timber (Genesis 19:8 ὑπὸ τὴν στέγην τῶν δοκῶν μου, under the roof of my beams; Matthew 7:3-5).")))
 

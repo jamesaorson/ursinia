@@ -1,0 +1,19 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+prov	oldtestamenting02swet	461	1	δλύτρον	ὅλύτρον	λύτρον	λύτρον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	461	2	ἀπειλὴν.	ἀπειλὴν.	ἀπειλήν.	ἀπειλήν.	image (3x): acute on η before the period, not grave
+prov	oldtestamenting02swet	461	3	ϑφῶς	ϑφῶς	φῶς	φῶς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	461	4	σβέννυται.	σβέννυται. +ϑι	σβέννυται.	σβέννυται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	461	5	ϑαψψυχαὶ	ψυχαὶ	ψυχαὶ	ψυχαὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	461	6	ἐλεῶσιν.	ἐλεῶσιν. +1ο	ἐλεῶσιν.	ἐλεῶσιν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	461	7	μεθ᾽	μεθ᾽ +γ	μεθ᾽	μεθ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	461	10	μετ᾽	μετ᾽ +3	μετ᾽	μετ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	461	10	πληθυνθήσεται:	πληθυνθήσεται:	πληθυνθήσεται·	πληθυνθήσεται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	461	13	ἄγοντος"	ἄγοντος"	ἄγοντος·	ἄγοντος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	461	15	ὑπ΄	ὑπ᾽	ὑπ᾽	ὑπ᾽	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	461	15	Ρ] +αὐτοῦ	᾽ +αὐτοῦ	αὐτοῦ·	αὐτοῦ·	image (3x): αὐτοῦ followed by ano teleia; OCR noise
+prov	oldtestamenting02swet	461	17	᾿πδυΐῷ	᾿᾿υἱῷῴ	υἱῷ	υἱῷ	image (3x): word as in C; OCR fused the superscript number
+prov	oldtestamenting02swet	461	17	ἀγαθόν"	ἀγαθόν-	ἀγαθόν·	ἀγαθόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	461	22	᾿ϑσύνεσις	᾿ϑσύνεσις	σύνεσις	σύνεσις	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	461	25	ἱόπᾶς	τό +πῶς	πᾶς	πᾶς	image (3x): word as in C; OCR fused the superscript number
+prov	oldtestamenting02swet	461	30	δοξασθήσεται. +19	δοξασθήσεται.	δοξασθήσεται.	δοξασθήσεται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	461	33	“συμπορευόμενος	“συμπορευόμενος	συμπορευόμενος	συμπορευόμενος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip

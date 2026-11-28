@@ -88,7 +88,7 @@
 
 (lemma "μάχη" (sense quarrel (gloss "quarrel" "quarrels") (why "A fight, quarrel, strife (Genesis 13:7-8, between the herdsmen of Abram and of Lot; 2 Corinthians 7:5; James 4:1). \"Quarrel\" keeps it apart from πόλεμος \"war\".")))
 
-(lemma "μάχομαι" (sense fight (gloss "fight" "fought" "fights" "fighting") (why "To fight, quarrel (Genesis 26:20, 22, the herdsmen fought over the wells; John 6:52; James 4:2). Kept apart from μάχη \"quarrel\", the noun.")))
+(lemma "μάχομαι" (sense fight (dative "with") (gloss "fight" "fought" "fights" "fighting") (why "To fight, quarrel (Genesis 26:20, 22, the herdsmen fought over the wells; John 6:52; James 4:2). Kept apart from μάχη \"quarrel\", the noun.")))
 
 (lemma "μεγαλύνω" (sense magnify (gloss "magnify" "magnified" "magnifies" "magnifying") (why "To make great, magnify (Genesis 12:2, \"I will magnify your name\"; Luke 1:46, My soul magnifies the Lord). The verb of μέγας \"great\".")))
 
@@ -203,7 +203,7 @@
 
 (lemma "μίγνυμι" (sense mix (gloss "mix" "mixed" "mixes" "mixing") (why "To mix, mingle (Genesis 30:40, Jacob οὐκ ἔμιξεν αὐτὰ εἰς τὰ πρόβατα Λαβάν; Matthew 27:34; Revelation 8:7).")))
 
-(lemma "μικρός" (sense small (gloss "small") (why "Small, little (Genesis 19:11 ἀπὸ μικροῦ ἕως μεγάλου, from small to great; 19:20; Matthew 10:42; Acts 8:10). The opposite of μέγας \"great\"."))
+(lemma "μικρός" (sense small (comparative "smaller") (gloss "small" "smaller") (why "Small, little (Genesis 19:11 ἀπὸ μικροῦ ἕως μεγάλου, from small to great; 19:20; Matthew 10:42; Acts 8:10). The opposite of μέγας \"great\"."))
   (sense almost (gloss "almost") (why "The genitive μικροῦ used as an adverb, \"by a little\", almost (Genesis 26:10 μικροῦ ἐκοιμήθη τις, \"almost someone lay\"). Chosen by a word override, since μικροῦ is also the plain genitive \"of small\".")))
 
 (lemma "μιμνῄσκω" (sense remember (voice active) (genitive "") (gloss "remember" "remembered" "remembers" "remembering") (why "Middle/passive: to remember (Exodus 20:8 Μνήσθητι).")))

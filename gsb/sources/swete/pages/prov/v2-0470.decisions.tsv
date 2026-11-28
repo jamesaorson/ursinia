@@ -1,0 +1,26 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+prov	oldtestamenting02swet	470	3	πον	σοφίαν	σοφίαν	σοφίαν	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	470	4	(ἀολὸς	πολὺς	ὃς	ὃς	image (3x): ὃς rough + grave (compact closed mark); the in-text (19) / superscript 27 is not text
+prov	oldtestamenting02swet	470	4	πε, +(59)	συντριβήν,	συντριβήν,	συντριβήν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	470	6	τ)7εἰὶς	εἰς	εἰς	εἰς	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	470	11	ϑφιλαμαρτήμων	᾿ϑφιλαμαρτήμων	φιλαμαρτήμων	φιλαμαρτήμων	image (3x): word as in page file; superscript number fused or line split by OCR
+prov	oldtestamenting02swet	470	12	οὗ	οὐ	ὁ	ὁ	image (3x): word as in page file; superscript number fused or line split by OCR
+prov	oldtestamenting02swet	470	12	ἀγαθοῖς. +!	ἀγαθοῖς. +᾿	ἀγαθοῖς.	ἀγαθοῖς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	470	13	κακά, +“Ἰ	κακά, +“ιἰ	κακά,	κακά,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	470	14	ὀδύνη	ὀδύνη +ἡ	ὀδύνη	ὀδύνη	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	470	14	κεκτημέ	κεκτημένῳ	κεκτημένῳ	κεκτημένῳ	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	470	14	ὑτή	αὐτή	αὐτήν.	αὐτήν.	image (3x): word as in page file; superscript number fused or line split by OCR
+prov	oldtestamenting02swet	470	17	"καρδία	"καρδία	καρδία	καρδία	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	470	19	Ξξξλαμβάνοντος	Ξβλαμβάνοντος	λαμβάνοντος	λαμβάνοντος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	470	23	5ὀργὴ	ὀργὴ	ὀργὴ	ὀργὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	470	23	πατρί	πατρί	πατρί	πατρί	image (3x): acute on πατρί before the enclitic ἐστιν
+prov	oldtestamenting02swet	470	23	ἀῴρων,	ἄφρων, +:	ἄφρων,	ἄφρων,	image (3x): ἄφρων, smooth + acute; comma
+prov	oldtestamenting02swet	470	25	36 +ξημιοῦν	56 +ξημιοῦν	ζημιοῦν	ζημιοῦν	image (3x): word as in page file; superscript number fused or line split by OCR
+prov	oldtestamenting02swet	470	27	7ὸς	7ὸς	ὃς	ὃς	image (3x): ὃς rough + grave (compact closed mark); the in-text (19) / superscript 27 is not text
+prov	oldtestamenting02swet	470	27	ἐπιγνώμων.	ἐπιγνώμων.	ἐπιγνώμων,	ἐπιγνώμων,	image (3x): comma after ἐπιγνώμων (descender), not a period
+prov	oldtestamenting02swet	470	30	δέ	δέ	δέ	δέ	image (3x): acute on δέ before the enclitic τις
+prov	oldtestamenting02swet	470	31	᾿προφάσεις	ἱπροφάσεις	προφάσεις	προφάσεις	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	470	33	Ξοὐ	"οὐ	οὐ	οὐ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	470	18	-	-	λυπηροῦ	λυπηροῦ	image (3x): a dot above π is an ink speck, not a printed mark
+prov	oldtestamenting02swet	470	4	-	-	ὃς	ὃς	numbering: in-text (19) inside Swete 17:16 encoded {=17:19a}; Swete own 19 below encoded {=17:19b}; letters ours
+prov	oldtestamenting02swet	470	5	-	-	ὁ	ὁ	numbering: in-text (20) inside Swete 17:16 encoded {=17:20a}; Swete own 20 below encoded {=17:20b}; letters ours

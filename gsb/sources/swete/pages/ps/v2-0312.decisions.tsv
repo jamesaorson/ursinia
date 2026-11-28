@@ -1,0 +1,27 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	312	1	"αὐτοὶ	"αὐτοὶ	αὐτοὶ	αὐτοὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	312	1	Ψυχὴν	ψυχήν	ψυχήν	ψυχήν	image (3x): acute before enclitic
+ps	oldtestamenting02swet	312	5	"ὁ	"ὁ	ὁ	ὁ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	312	8	Εἰς	Εἰς	Εἰς	Εἰς	image (3x): smooth breathing
+ps	oldtestamenting02swet	312	8	τέλος"	τέλος:	τέλος·	τέλος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	312	8	Ψαλμὸς	Ψαλμὸ	ψαλμὸς	ψαλμὸς	image (3x): lowercase ψαλμὸς with grave
+ps	oldtestamenting02swet	312	8	τῷ	5	τῷ	τῷ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	312	9	β +ΖΕἰσάκουσον, ᾿	“Εἰσάκουσον, +:	Εἰσάκουσον,	Εἰσάκουσον,	image (3x): smooth breathing
+ps	oldtestamenting02swet	312	9	θεός, +,	θεός, +,	θεός,	θεός,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	312	9	προσευχῆ	προσευχῆς +μ	προσευχῆς	προσευχῆς	image (3x): προσευχῆς, final ς printed
+ps	oldtestamenting02swet	312	9	ου	μου	μου	μου	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	312	9	τῷῴ	τῷ	τῷ	τῷ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	312	9	δέεσθαί	δέεσθαϊί	δέεσθαί	δέεσθαί	image (3x): acute before enclitic
+ps	oldtestamenting02swet	312	11	ψυχήν	ψυχήν	ψυχήν	ψυχήν	image (3x): acute before enclitic
+ps	oldtestamenting02swet	312	12	ἐοἵτινες	Ἰοἵτινες	οἵτινες	οἵτινες	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	312	14	ἄμωμον:	ἄμωμον:	ἄμωμον·	ἄμωμον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	312	16	ὁἐκραταίωσαν	ὁἐκραταίωσαν	ἐκραταίωσαν	ἐκραταίωσαν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	312	17	παγίδας:	παγίδας"	παγίδας·	παγίδας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	312	19	εξηραυνήῆσαν	7ἐξηραύνησαν	ἐξηραύνησαν	ἐξηραύνησαν	image (3x): reading as typed; number 7 not text
+ps	oldtestamenting02swet	312	19	ανομιαᾶν,	ἀνομίαν	ἀνομίαν,	ἀνομίαν,	image (3x): reading as typed; number 7 not text
+ps	oldtestamenting02swet	312	20	ἐξεραυνήσει:	ἐξεραυνήσει:	ἐξεραυνήσει·	ἐξεραυνήσει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	312	22	καὶ	δκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	312	24	ϑκαὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	312	25	αὐτούς, +ἴο	αὐτούς, +το	αὐτούς,	αὐτούς,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	312	26	ἄνθρωπος"	ἄνθρωπος:	ἄνθρωπος·	ἄνθρωπος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	312	12	-	-	οἵτινες	οἵτινες	image: Swete prints no verse 3 in Ps 63 (text or margin): his numbers run 2, 4; apparatus adds (3) only as a variant

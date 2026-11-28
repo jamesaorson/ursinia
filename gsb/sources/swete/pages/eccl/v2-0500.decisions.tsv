@@ -1,0 +1,28 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+eccl	oldtestamenting02swet	500	1	ΡΗΜΑΤΑᾺ	ΡΗΜΑΤΑᾺ	ΡΗΜΑΤΑ	ΡΗΜΑΤΑ	image (3x): ΡΗΜΑΤΑ, unaccented capitals of the book opening
+eccl	oldtestamenting02swet	500	1	Ἐ̓κκλησιαστοῦ	Ἐ̓κκλησιαστοῦ	Ἐκκλησιαστοῦ	Ἐκκλησιαστοῦ	image (3x): smooth breathing (apostrophe shape)
+eccl	oldtestamenting02swet	500	1	Δαυεὶδ +-	Δαυεὶδ +ε-	Δαυεὶδ	Δαυεὶδ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+eccl	oldtestamenting02swet	500	2	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape)
+eccl	oldtestamenting02swet	500	2	Ἰερουσαλήμ.	Ἰερουσαλήμ. +ΟῚ	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing (apostrophe shape)
+eccl	oldtestamenting02swet	500	5	τις	τις	τίς	τίς	image (3x): accents and iota subscript as written
+eccl	oldtestamenting02swet	500	5	περισσεια	περισσειᾶα	περισσεία	περισσεία	image (3x): accents and iota subscript as written
+eccl	oldtestamenting02swet	500	5	Τῶ	Τῶ	τῷ	τῷ	image (3x): accents and iota subscript as written
+eccl	oldtestamenting02swet	500	5	ἀνθρώπ +[Ω]	ἀνθρώπ +[Ω]	ἀνθρώπῳ	ἀνθρώπῳ	image (3x): accents and iota subscript as written
+eccl	oldtestamenting02swet	500	7	Ἱγενεὰ	Ἱγενεὰ	γενεὰ	γενεὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+eccl	oldtestamenting02swet	500	8	ἕστηκεν.	ἔστηκεν.	ἕστηκεν.	ἕστηκεν.	image (3x): rough breathing + acute
+eccl	oldtestamenting02swet	500	9	5καὶ	5καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+eccl	oldtestamenting02swet	500	10	ἕλκει:	ἕλκει:	ἕλκει·	ἕλκει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+eccl	oldtestamenting02swet	500	11	ἐκεῖ +᾿	ἐκεῖ	ἐκεῖ	ἐκεῖ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+eccl	oldtestamenting02swet	500	11	πορεύεται	“ +πορεΐεται	πορεύεται	πορεύεται	class R6 (OCR letters differ): the other OCR reading agrees with c
+eccl	oldtestamenting02swet	500	12	βορρᾶν"	βορρᾶν"	βορρᾶν·	βορρᾶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+eccl	oldtestamenting02swet	500	14	κύκλους	κυκλους	κύκλους	κύκλους	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+eccl	oldtestamenting02swet	500	14	πνεῦμα. +7	πνεῦμα.	πνεῦμα.	πνεῦμα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+eccl	oldtestamenting02swet	500	15	πάντες	ἡπάντες	πάντες	πάντες	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+eccl	oldtestamenting02swet	500	16	ἐμπιμπλαμένη:"	ἐμπιμπλαμένη:"	ἐμπιμπλαμένη·	ἐμπιμπλαμένη·	image (3x): ano teleia
+eccl	oldtestamenting02swet	500	19	ἔγκοποι"	ἔγκοποι᾽	ἔγκοποι·	ἔγκοποι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+eccl	oldtestamenting02swet	500	22	καὶ	᾿	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+eccl	oldtestamenting02swet	500	22	οὐ	και +ου	οὐ	οὐ	class R6 (OCR letters differ): the other OCR reading agrees with c
+eccl	oldtestamenting02swet	500	22	οὖς	ους	οὖς	οὖς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+eccl	oldtestamenting02swet	500	22	ἀπὸ	ατὸ	ἀπὸ	ἀπὸ	class R6 (OCR letters differ): the other OCR reading agrees with c
+eccl	oldtestamenting02swet	500	22	ἀκροάσεως.	ακροασεῶως.	ἀκροάσεως.	ἀκροάσεως.	class R6 (OCR letters differ): the other OCR reading agrees with c
+eccl	oldtestamenting02swet	500	8	-	-	ἡ	ἡ	ambiguous: rough breathing with a short stray stroke beside it (speck or displaced type, not an accent position); read ἡ

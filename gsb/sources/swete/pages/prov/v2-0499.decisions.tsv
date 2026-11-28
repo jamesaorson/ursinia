@@ -1,0 +1,15 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+prov	oldtestamenting02swet	499	2	“ἀνέστησεν	“ἀνέστησεν	ἀνέστησεν	ἀνέστησεν	image (3x): superscript 46 not text; smooth + acute
+prov	oldtestamenting02swet	499	3	ἐπλούτησαν, +Ν ξ ᾽ Α » “ Μ » ΄	ἐπλούτησαν, +νὰ « ᾽ Α » “ Μ » ͵	ἐπλούτησαν,	ἐπλούτησαν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	499	4	ἥνεσεν	ἥνεσεν	ἤνεσεν	ᾔνεσεν	image (3x): smooth + acute with iota subscript under η
+prov	oldtestamenting02swet	499	4	αὐτὴν	αὐτὴν	αὐτήν	αὐτήν	image (3x): acute at line end before capitalized Πολλαὶ
+prov	oldtestamenting02swet	499	5	ἩΠολλαὶ	Πολλαὶ	Πολλαὶ	Πολλαὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	499	6	δυνατά᾽	δυνατά᾽	δυνατά·	δυνατά·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	499	7	πάσας. +ἡ	πάσας. +94	πάσας.	πάσας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	499	8	γυναικός"	γυναικός"	γυναικός·	γυναικός·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	499	11	49 +ὁτε	49 +ὁτε	δότε	δότε	image (3x): δ with acute on ο, superscript 49 not text
+prov	oldtestamenting02swet	499	12	και	και	καὶ	καὶ	image (3x): diacritics as printed (OCR split the accent row of the last line)
+prov	oldtestamenting02swet	499	12	εν	εν	ἐν	ἐν	image (3x): diacritics as printed (OCR split the accent row of the last line)
+prov	oldtestamenting02swet	499	12	Ο	Ο	ὁ	ὁ	image (3x): diacritics as printed (OCR split the accent row of the last line)
+prov	oldtestamenting02swet	499	12	ανὴρ	ανὴρ	ἀνὴρ	ἀνὴρ	image (3x): diacritics as printed (OCR split the accent row of the last line)
+prov	oldtestamenting02swet	499	12	αὕυτῆς.	αὕυτῆης.	αὐτῆς.	αὐτῆς.	image (3x): diacritics as printed (OCR split the accent row of the last line)

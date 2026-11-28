@@ -1,0 +1,23 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+prov	oldtestamenting02swet	467	2	δὸ	δὸ	ὁ	ὁ	image (3x): ὁ with rough breathing and no accent; margin 8 and superscript 8 fused by OCR
+prov	oldtestamenting02swet	467	4	ϑπάντα	ϑπάντα	πάντα	πάντα	image (3x): superscript verse number fused by OCR; word as in page file
+prov	oldtestamenting02swet	467	6	“μαντεῖον	᾿ομαντεῖον	μαντεῖον	μαντεῖον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	467	7	στόμα	στύμα	στόμα	στόμα	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	467	7	αὐτοῦ. +τ	αὐτοῦ. +τ	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	467	8	ζυγοῦ +ὃ	ζυγοῦ	ζυγοῦ	ζυγοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	467	8	δικαιοσύνη	δικαιοσύνη +ἡ	δικαιοσύνη	δικαιοσύνη	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	467	8	Κυρίῳ,	Κυρίῳ	Κυρίῳ,	Κυρίῳ,	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	467	10	"βδέλυγμα	Ξ̓βδέλυγμα	βδέλυγμα	βδέλυγμα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	467	12	"᾿ῤδεκτὰ	τδεκτὰ	δεκτὰ	δεκτὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	467	13	ἀγαπᾷ.	ἀγαπᾷ. +τ	ἀγαπᾷ.	ἀγαπᾷ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	467	14	"θυμὸς	θυμὸς	θυμὸς	θυμὸς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	467	16	ἰδὲέν	δέν	ἐν	ἐν	image (3x): superscript verse number fused by OCR; word as in page file
+prov	oldtestamenting02swet	467	18	““νοσσιαὶ	᾿όνοσσιαὶ	νοσσιαὶ	νοσσιαὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	467	21	δικαιοσύνης. +-	δικαιοσύνης. +-	δικαιοσύνης.	δικαιοσύνης.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	467	25	αὐτοῦ.	αὐτοῦ. +τᾶ	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	467	29	ὃς	ὃς +ὃ	ὃς	ὃς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	467	30	“συνετὸς	“οσυνετὸς	συνετὸς	συνετὸς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	467	32	“'τοὺς	“ι'τρὺς	τοὺς	τοὺς	image (3x): superscript verse number fused by OCR; word as in page file
+prov	oldtestamenting02swet	467	19	-	-	ἀργύριον.	ἀργύριον.	ambiguous: faint small mark on the baseline after the word (worn type); read period at the end of the verse
+prov	oldtestamenting02swet	467	22	-	-	δεχόμενος	δεχόμενος	image (4x): a small speck before δ is not a printed mark; ignored
+prov	oldtestamenting02swet	467	2	-	-	ὁ	ὁ	numbering: margin prints 8 with no parenthesized number; Swete 16:8 run on with common 16:5 (common 16:8 given by the in-text (8) on leaf 466)

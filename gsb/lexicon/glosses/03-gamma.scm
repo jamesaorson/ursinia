@@ -43,6 +43,8 @@
 
 (lemma "γέλως" (sense laughter (gloss "laughter") (why "Laughter (Genesis 21:6, Γέλωτά μοι ἐποίησεν Κύριος; James 4:9).")))
 
+(lemma "γεμίζω" (sense load (genitive "with") (gloss "load" "loaded" "loads" "loading") (why "To fill, load, the causative of γέμω, with the genitive of what fills (Genesis 45:17, load your pack animals; Mark 15:36; John 2:7, fill the jars). \"Load\" keeps it apart from πίμπλημι and πληρόω \"fill\".")))
+
 (lemma "γέμω" (sense be-full (verb "be full" "was full" "been full") (genitive "of") (gloss "be full" "is full" "are full" "was full" "were full" "been full" "being full") (why "To be full of, laden with, with the genitive (Genesis 37:25, the camels ἔγεμον θυμιαμάτων, \"were full of incenses\"; Matthew 23:27; Revelation 4:6, 8). \"Be full\" so every tense can be formed.")))
 
 (lemma "γενεά" (sense generation (gloss "generation" "generations") (why "Generation.")))

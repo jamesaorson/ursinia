@@ -33,7 +33,7 @@
     ("hear" 3)
     ("me," 4)
     ("sons" 5)
-    ("Jacob;" 6)
+    ("of Jacob;" 6)
     ("hear" 7)
     ("Israel," 8)
     ("hear" 9)
@@ -360,8 +360,7 @@
 (verse 20
   (status draft)
   (literal
-    ("Asher" 1)
-    (",,")
+    ("Asher," 1)
     ("fat" (2 fat "πίων"))
     ("[is]")
     ("his" 3)
@@ -418,11 +417,11 @@
   (status draft)
   (literal
     ("and" 1)
+    ("their" 7)
     ("bows" (5 absorbed) (6 bow "τόξον"))
     ("was crushed" (2 crush "συντρίβω"))
     ("with" 3)
-    ("might" 4)
-    ("their," 7)
+    ("might," 4)
     ("and" 8)
     ("the sinews" 10 (11 sinew "νεῦρον"))
     ("of arms" (12 arm "βραχίων"))
@@ -440,13 +439,12 @@
 (verse 25
   (status draft)
   (literal
-    ("from" (1 from))
+    ("From" (1 from))
     ("God" 2)
     ("of your" 5)
     ("father." (3 absorbed) 4)
     ("And" 6)
     ("my" (9 unrendered) (11 attributive) 12)
-    ("[one]")
     ("God" 10)
     ("helped" 7)
     ("you," 8)

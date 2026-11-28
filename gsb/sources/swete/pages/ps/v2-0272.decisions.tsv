@@ -1,0 +1,25 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	272	2	ἑαυτῷ	ἑαυτῷ	ἑαυτῷ.	ἑαυτῷ.	image (3x): period after ἑαυτῷ
+ps	oldtestamenting02swet	272	3	"5ὲξ	᾿ϑὲξ	ἐξ	ἐξ	image (3x): smooth breathing + grave, ἐξ; superscript 13 is not text
+ps	oldtestamenting02swet	272	4	εἰδεν	εἰδεν	εἶδεν	εἶδεν	image (3x): smooth breathing + circumflex, εἶδεν
+ps	oldtestamenting02swet	272	4	ἀνθρώπων:	ἀνθρώπων.	ἀνθρώπων·	ἀνθρώπων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	272	5	"ἐξ	"ἐξ	ἐξ	ἐξ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	272	7	ὁ	"ὁ	ὁ	ὁ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	272	9	"οὐ	οὐ	οὐ	οὐ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	272	10	αὐτοῦ: +17	αὐτοῦ"	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	272	11	σωτηρίαν, +Υ	σωτηρίαν,	σωτηρίαν,	σωτηρίαν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	272	13	᾿δἰδοὺ	᾿δἰδοὺ	ἰδοὺ	ἰδοὺ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	272	13	ὀφθαλμοὶ	ὀφθαλμοὶ	ὀφθαλμοὶ	ὀφθαλμοὶ	image (3x): grave before Κυρίου as printed (not a quotation)
+ps	oldtestamenting02swet	272	16	λιμῴ.	λιμῷ.	λιμῷ.	λιμῷ.	image (3x): circumflex and iota subscript on ω
+ps	oldtestamenting02swet	272	17	Ψυχὴ	Ψυχὴ	ψυχὴ	ψυχὴ	image (3x): lowercase ψ
+ps	oldtestamenting02swet	272	18	ἐστιν"	ἐστιν" +ἡ	ἐστιν·	ἐστιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	272	19	εὐφρανθήσεται +ι	εὐφρανθήσεται	εὐφρανθήσεται	εὐφρανθήσεται	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	272	20	ἠλπίσαμεν. +ἐξ	ἠλπίσαμεν.	ἠλπίσαμεν.	ἠλπίσαμεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	272	21	ἔλεός	ἔλεός	ἔλεός	ἔλεός	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	272	21	ἐφ᾽	ἐφ	ἐφ᾽	ἐφ᾽	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	272	21	ἡμᾶς,	μας,	ἡμᾶς,	ἡμᾶς,	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	272	21	ἠλπίσαμεν	ἡηἠλπίσαμεν	ἠλπίσαμεν	ἠλπίσαμεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	272	23	Δανείδ,	Δανείδ,	Δαυείδ,	Δαυείδ,	image (3x): υ, not ν; Δαυείδ
+ps	oldtestamenting02swet	272	24	Ἀβειμέλεχ,	Ἀβειμέλεχ,	Ἀβειμέλεχ,	Ἀβειμέλεχ,	image (3x): smooth breathing on capital Α
+ps	oldtestamenting02swet	272	26	2 +Ἑὐλογήσω	Ἑὐλογήσω	Εὐλογήσω	Εὐλογήσω	image (3x): smooth breathing on υ of capital diphthong Εὐ
+ps	oldtestamenting02swet	272	27	στύματί	στόματί	στόματί	στόματί	image (3x): acute before enclitic as printed

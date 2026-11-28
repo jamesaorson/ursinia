@@ -215,8 +215,10 @@ dropped. Returns (values rows problems), problems as for book-problems."
                     #f where rows problems)))))
          (('chapter n) (loop rest n ref text join? where rows problems))
          ;; A title line continuing the title already under way.
+         ;; (A verse already under way in this chapter: the title's first
+         ;; line holds Swete's {2}, Ps 51, and its later lines continue it.)
          (('verse 1 'title) (=> next)
-          (if (and ch (equal? ref (list ch 1 ""))) (loop rest ch ref text join? where rows problems) (next)))
+          (if (and ch ref (equal? (first ref) ch)) (loop rest ch ref text join? where rows problems) (next)))
          (('verse n . opts)
           (if ch
               (loop rest ch (list ch n (match opts (('letter l) l) (_ ""))) "" #f where (flush) problems)
@@ -323,7 +325,9 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
            ;; Lettered sections: the last letter met, and (chapter . last
            ;; verse) of the numbered chapter a section interrupted.
            (last-letter #f)
-           (numbered #f))
+           (numbered #f)
+           ;; inside a psalm title: {T} lines with no verse line ({S..}) since
+           (in-title #f))
       (define (ref-text ref) (apply format #f "~a:~a" (ref-key ref)))
       (define (duplicate ref where)
         ;; A message if REF starts a second row for a common verse already
@@ -371,6 +375,7 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
           ((ev . rest)
            (match ev
              (('line leaf n) (loop rest (list leaf n) ch v ref last-ref pending-text? depth #f acc))
+             (('stich) (set! in-title #f) (loop rest where ch v ref last-ref pending-text? depth hyphen? acc))
              (('hyphen) (loop rest where ch v ref last-ref pending-text? depth #t acc))
              (('chapter (? string? l))
               ;; A lettered section {CA}..{CF}: letters run A, B, C ...; the
@@ -406,8 +411,12 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
               ;; or 2; later lines of the title (or a leaf that starts in
               ;; one) continue it.
               (cond ((eq? v 'after-chapter)
+                     (set! in-title #t)
                      (loop rest where ch 'after-title (list ch 1 "") last-ref pending-text? depth hyphen? acc))
-                    ((memq v '(after-title #f)) (loop rest where ch v ref last-ref pending-text? depth hyphen? acc))
+                    ;; a later title line, also after Swete's {2} printed
+                    ;; inside the title (Ps 50, 51: no verse line between)
+                    ((or (memq v '(after-title #f)) in-title)
+                     (loop rest where ch v ref last-ref pending-text? depth hyphen? acc))
                     (else (loop rest where ch v ref last-ref pending-text? depth hyphen?
                                 (seq "{T} (a psalm title) after verse {~a}: a title stands right after its {C~a}" v ch)))))
              (('verse n 'letter l)

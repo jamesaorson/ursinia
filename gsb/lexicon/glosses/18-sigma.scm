@@ -294,9 +294,10 @@
 
 (lemma "συλλέγω" (sense collect (gloss "collect" "collected" "collects" "collecting") (why "To gather up, collect (Genesis 31:46 Συλλέγετε λίθους; Matthew 13:28-30, 40-41). \"Collect\" keeps it apart from συνάγω \"gather\".")))
 
-(lemma "συμβαίνω" (sense befall (dative "") (gloss "befall" "befell" "befallen" "befalls" "befalling") (verb "befall" "befell" "befallen") (why "To come together, happen, befall (Genesis 42:4, 38; 44:29 συμβῇ αὐτῷ μαλακία, \"sickness may befall him\"; Mark 10:32; Acts 3:10). The dative is the one befallen.")))
+(lemma "συμβαίνω" (sense befall (dative "") (subject "it") (gloss "befall" "befell" "befallen" "befalls" "befalling") (verb "befall" "befell" "befallen") (why "To come together, happen, befall (Genesis 42:4, 38; 44:29 συμβῇ αὐτῷ μαλακία, \"sickness may befall him\"; Mark 10:32; Acts 3:10). The dative is the one befallen.")))
+;; (subject "it"): συμβαίνω is a true impersonal where no subject is expressed (Genesis 41:13 οὕτως καὶ συνέβη; 42:38 συμβήσεται αὐτὸν μαλακισθῆναι, \"it will befall\").
 
-(lemma "συμβάλλω" (sense assist (gloss "assist" "assisted" "assists" "assisting") (why "To throw together; middle, to contribute, help, assist (Genesis 30:8, Rachel: Συνεβάλετό μοι ὁ θεός; Acts 18:27 συνεβάλετο πολύ). \"Assist\" keeps it apart from βοηθός \"helper\"; the active \"meet, confer, ponder\" (Luke 2:19; 14:31) will be its own sense.")))
+(lemma "συμβάλλω" (sense assist (dative "") (gloss "assist" "assisted" "assists" "assisting") (why "To throw together; middle, to contribute, help, assist (Genesis 30:8, Rachel: Συνεβάλετό μοι ὁ θεός; Acts 18:27 συνεβάλετο πολύ). \"Assist\" keeps it apart from βοηθός \"helper\"; the active \"meet, confer, ponder\" (Luke 2:19; 14:31) will be its own sense.")))
 
 (lemma "Συλλήμ" (sense name (gloss "Shillem") (why "(LXX, supplied.) A son of Naphtali (Genesis 46:24), Greek Συλλήμ; traditional English Shillem.")))
 

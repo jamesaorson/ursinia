@@ -1,0 +1,43 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+eccl	oldtestamenting02swet	516	1	θάνατον"	θάνατον"	θάνατον·	θάνατον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+eccl	oldtestamenting02swet	516	4	αὐτῆς"	αὐτῆς"	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+eccl	oldtestamenting02swet	516	5	τοῦ +θ	τοῦ	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+eccl	oldtestamenting02swet	516	5	ἀπ᾽ +᾽	ἀπ᾽	ἀπ᾽	ἀπ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+eccl	oldtestamenting02swet	516	7	ἰδε	“οἶδε	ἴδε	ἴδε	image (3x): superscript 28 then smooth + acute on ἴ
+eccl	oldtestamenting02swet	516	7	ἐκκλησιαστής.	ἐκκλησιαστής.	ἐκκλησιαστής,	ἐκκλησιαστής,	image (3x): comma, not period
+eccl	oldtestamenting02swet	516	8	λογισμὸν	λογισμὸν +5ο	λογισμὸν	λογισμὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+eccl	oldtestamenting02swet	516	9	Ψυχή	Ψυχή	ψυχή	ψυχή	image (3x): acute on ψυχή before enclitic μου; lowercase ψ
+eccl	oldtestamenting02swet	516	9	εὗρον"	εὗρον:	εὗρον·	εὗρον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+eccl	oldtestamenting02swet	516	11	εὗρον. +3	εὗρον. +3	εὗρον.	εὗρον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+eccl	oldtestamenting02swet	516	12	θεὸς +:	θεὸς +,	θεὸς	θεὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+eccl	oldtestamenting02swet	516	13	εὐθῆ:	εὐθῆ:	εὐθῆ·	εὐθῆ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+eccl	oldtestamenting02swet	516	15	αὐ +ίς	αὐθίς	Τίς	Τίς	image (3x): in-text (1) then Τίς; οἶδεν smooth + circumflex
+eccl	oldtestamenting02swet	516	15	οἶδεν	οἷδεν	οἶδεν	οἶδεν	image (3x): in-text (1) then Τίς; οἶδεν smooth + circumflex
+eccl	oldtestamenting02swet	516	16	᾿σοφία	᾿σοφία	σοφία	σοφία	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+eccl	oldtestamenting02swet	516	18	στόμα	Ὡστόμα	στόμα	στόμα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+eccl	oldtestamenting02swet	516	19	(ϑμὴ	(μὴ	μὴ	μὴ	image (3x): in-text parenthesized (3) before μὴ, encoded as marker
+eccl	oldtestamenting02swet	516	19	σπουδάσῃς"	σπουδάσης"	σπουδάσῃς·	σπουδάσῃς·	image (3x): iota subscript under η; raised point (small ring) = ano teleia
+eccl	oldtestamenting02swet	516	20	βάπὸ	βάπὸ	ἀπὸ	ἀπὸ	image (3x): superscript 3 then ἀπὸ
+eccl	oldtestamenting02swet	516	21	πονηρῷ"	πονηρῷ"	πονηρῷ·	πονηρῷ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+eccl	oldtestamenting02swet	516	23	Ἱκαθὼς	Ἱκαθὼς	καθὼς	καθὼς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+eccl	oldtestamenting02swet	516	24	Και	Και	καὶ	καὶ	image (3x): καὶ grave, τίς acute, ἐρεῖ circumflex, Τί acute, ποιεῖς circumflex then ;
+eccl	oldtestamenting02swet	516	24	τις	τις	τίς	τίς	image (3x): καὶ grave, τίς acute, ἐρεῖ circumflex, Τί acute, ποιεῖς circumflex then ;
+eccl	oldtestamenting02swet	516	24	ἐβρει	ἐρει	ἐρεῖ	ἐρεῖ	image (3x): καὶ grave, τίς acute, ἐρεῖ circumflex, Τί acute, ποιεῖς circumflex then ;
+eccl	oldtestamenting02swet	516	24	Τι	Τὶ	Τί	Τί	image (3x): καὶ grave, τίς acute, ἐρεῖ circumflex, Τί acute, ποιεῖς circumflex then ;
+eccl	oldtestamenting02swet	516	24	ποιεις	ποιεις	ποιεῖς;	ποιεῖς;	image (3x): καὶ grave, τίς acute, ἐρεῖ circumflex, Τί acute, ποιεῖς circumflex then ;
+eccl	oldtestamenting02swet	516	25	:; +5ὺ	;: +5ὺ	ὁ	ὁ	image (3x): superscript 5 then ὁ rough, unaccented
+eccl	oldtestamenting02swet	516	26	σοφοῦ"	σοφοῦ":	σοφοῦ·	σοφοῦ·	image (3x): raised point = ano teleia
+eccl	oldtestamenting02swet	516	27	οὗτι	ὅτι	ὅτι	ὅτι	class R6 (OCR letters differ): the other OCR reading agrees with c
+eccl	oldtestamenting02swet	516	27	πράγματί	πράγματί	πράγματί	πράγματί	image (3x): acute on final syllable of πράγματί before enclitic ἐστιν
+eccl	oldtestamenting02swet	516	28	αὐτόν"	αὐτόν"	αὐτόν·	αὐτόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+eccl	oldtestamenting02swet	516	29	ΟΤι	ὅτι	ὅτι	ὅτι	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+eccl	oldtestamenting02swet	516	29	Ουὐυκ	οὐκ	οὐκ	οὐκ	class R6 (OCR letters differ): the other OCR reading agrees with c
+eccl	oldtestamenting02swet	516	29	εἐστιν	ἔστιν	ἔστιν	ἔστιν	class R6 (OCR letters differ): the other OCR reading agrees with c
+eccl	oldtestamenting02swet	516	29	γινωσκῶν	γινώσκων	γινώσκων	γινώσκων	image (3x): acute on ώ, γινώσκων
+eccl	oldtestamenting02swet	516	29	Τι	τί	τί	τί	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+eccl	oldtestamenting02swet	516	29	Τὸ	τὸ	τὸ	τὸ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+eccl	oldtestamenting02swet	516	30	οτι	ὅτι	ὅτι	ὅτι	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+eccl	oldtestamenting02swet	516	30	εσται	ἔσται	ἔσται	ἔσται	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+eccl	oldtestamenting02swet	516	30	τις	τίς	τίς	τίς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+eccl	oldtestamenting02swet	516	17	-	-	μισηθήσεται.	μισηθήσεται.	ambiguous: a pencil caret (gray, hand-drawn) crosses the foot of the second η; no printed iota subscript visible under it; read η
+eccl	oldtestamenting02swet	516	3	-	-	σαγῆναι	σαγῆναι	pencil underline beneath the word; printed letters clear above it

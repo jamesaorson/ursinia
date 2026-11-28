@@ -1,0 +1,25 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+prov	oldtestamenting02swet	460	2	βουλύμενοι	βουλύμενοι	βουλόμενοι	βουλόμενοι	image (3x): ο with acute, not υ
+prov	oldtestamenting02swet	460	2	εὐφρανθήσονται. +ωι	εὐφρανθήσονται.	εὐφρανθήσονται.	εὐφρανθήσονται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	460	4	κακῶν. +ΞΞ	κακῶν. +Ξ:	κακῶν.	κακῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	460	6	αὐτῷ. +23	αὐτῷ.	αὐτῷ.	αὐτῷ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	460	7	ἀνὴρ	βάνὴρ	ἀνὴρ	ἀνὴρ	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	460	7	συνετὸς +0	συνετὸς +θ	συνετὸς	συνετὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	460	8	ἀραῖς. +Ξ	ἀραῖς. +Ξ	ἀραῖς.	ἀραῖς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	460	10	δόλιοι	δύλιοι	δόλιοι	δόλιοι	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	460	10	προνομῇ. +“5	προνομῇ. +“5	προνομῇ.	προνομῇ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	460	11	λύγος	λόγος	λόγος	λόγος	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	460	12	αὐτόν.	αὐτόν. +Φ	αὐτόν.	αὐτόν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	460	13	“ἐπιγνώμων	ἐπιγνώμων	ἐπιγνώμων	ἐπιγνώμων	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	460	15	ἢ	ἢ	ἡ	ἡ	image (3x): rough breathing alone on η, no accent (article)
+prov	oldtestamenting02swet	460	16	“οὺκ	“7οὺκ	οὐκ	οὐκ	image (3x): οὐκ, smooth breathing + grave on υ; OCR fused superscript 27
+prov	oldtestamenting02swet	460	17	καθαρός. +ἐδ	καθαρός. +ὃ	καθαρός.	καθαρός.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	460	20	Υἱὸς	Υἱὸς	Υἱὸς	Υἱὸς	image (3x): rough breathing + acute on ι of Υἱὸς
+prov	oldtestamenting02swet	460	23	ἄωροι. +3	ἄωροι.	ἄωροι.	ἄωροι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	460	24	ἑαυτοῦ,	ἑαυτοῦ,	ἑαυτοῦ	ἑαυτοῦ	ambiguous: small low dot after ἑαυτοῦ, lighter than a real point and no stop here; read speck, not comma/period
+prov	oldtestamenting02swet	460	28	λόγον	ϑλόγον	λόγον	λόγον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	460	29	ἕξει	ἔξει	ἕξει	ἕξει	image (3x): rough + acute (open curl then rising stroke)
+prov	oldtestamenting02swet	460	30	εισιν	εἰσὶν	εἰσὶν	εἰσὶν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	460	30	οι	οἱ	οἳ	οἱ	image (3x): rough breathing alone on ι, no grave
+prov	oldtestamenting02swet	460	30	εαυτους	ἑαυτοὺς	ἑαυτοὺς	ἑαυτοὺς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	460	30	εχόντες,	ἔχοντες,	ἔχοντες,	ἔχοντες,	image (3x): smooth + acute on ε, no accent on ο

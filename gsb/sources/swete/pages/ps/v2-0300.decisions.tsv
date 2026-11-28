@@ -1,0 +1,47 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	300	1	Ἐΐς	Ἐΐς	Εἰς	Εἰς	image (3x): Εἰς, smooth breathing and acute on ι
+ps	oldtestamenting02swet	300	1	τέλος:	τέλος:	τέλος·	τέλος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	300	1	Δαυείδ,	δΔανείδ, +2	Δαυείδ,	Δαυείδ,	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	300	1	2Ζἐν	ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	300	1	τῷ +Ἶ ΕΘΝ Ἀν ᾧ πον ἑ 9	∅	τῷ	τῷ	class R3+R0: OCR appended accent-row or margin junk; OCR lost the word in extraction; c read from the image strip
+ps	oldtestamenting02swet	300	2	Ἰδουμαῖον	Ἰδουμαῖον	Ἰδουμαῖον	Ἰδουμαῖον	image (3x): smooth breathing on capital Ι
+ps	oldtestamenting02swet	300	2	τῷ	∅	τῷ	τῷ	class R0: OCR lost the word in extraction; c read from the image strip
+ps	oldtestamenting02swet	300	3	αὐτῷῴ	αὐτῴ	αὐτῷ	αὐτῷ	image (3x): αὐτῷ, circumflex and iota subscript
+ps	oldtestamenting02swet	300	3	Ἦλθεν	Ἦλθεν	Ἦλθεν	Ἦλθεν	image (3x): smooth breathing + circumflex on Η (apostrophe under the arc)
+ps	oldtestamenting02swet	300	3	Δανεὶδ	Δανεὶδ	Δαυεὶδ	Δαυεὶδ	image (3x): υ, not ν
+ps	oldtestamenting02swet	300	4	Ἀβιμέλεχ.	Ἀβιμέλεχ.	Ἀβιμέλεχ.	Ἀβιμέλεχ.	image (3x): smooth breathing on Α
+ps	oldtestamenting02swet	300	5	Τὶ	Τὶ	Τί	Τί	image (3x): acute on ι
+ps	oldtestamenting02swet	300	5	ἐνκαυχᾷ	ἐνκαυχᾳ	ἐνκαυχᾷ	ἐνκαυχᾷ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	300	5	ὄυνατος,	δυνατός,	δυνατός,	δυνατός,	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	300	6	ἡμέραν; +4	ἡμέραν;	ἡμέραν;	ἡμέραν;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	300	7	γλῶσσά	γλῶσσά	γλῶσσά	γλῶσσά	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	300	7	σου +Ἶ	σου.	σου·	σου·	image (3x): raised point, ano teleia
+ps	oldtestamenting02swet	300	9	δηγάπησας	ϑηγάπησας	ἠγάπησας	ἠγάπησας	image (3x): smooth breathing on η; superscript verse number not text
+ps	oldtestamenting02swet	300	10	διάψαλμα. +Ὅ	διάψαλμα.	διάψαλμα.	διάψαλμα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	300	11	ρήματα	ῥήματα	ῥήματα	ῥήματα	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	300	11	γλῶσσαν +κ᾽	γλῶσσαν᾽	γλῶσσαν	γλῶσσαν	image (6x): faint small tick after γλῶσσαν, lighter than ink, not a printed point; read no punctuation (ambiguous)
+ps	oldtestamenting02swet	300	12	7ἡδιὰ	7διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	300	12	ὃ	ὁ	ὁ	ὁ	image (3x): rough breathing, no accent
+ps	oldtestamenting02swet	300	12	τέλος:	τέλος:	τέλος·	τέλος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	300	14	ῥίζωμά	ῥίζωμά	ῥίζωμά	ῥίζωμά	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	300	14	διάψαλμα. +δ	διάψαλμα.	διάψαλμα.	διάψαλμα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	300	16	καὶ	Και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	300	16	ἐπ᾽	ΕἾΤ	ἐπ᾽	ἐπ᾽	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	300	16	αὐτὸν	αὐτήτον	αὐτὸν	αὐτὸν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	300	16	καὶ	Και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	300	16	ἐροῦσιν	ερουσιν +9	ἐροῦσιν	ἐροῦσιν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	300	17	9 +Ιδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on capital Ι
+ps	oldtestamenting02swet	300	19	αὐτοῦ.	αὐτοῦ. +χο	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	300	20	ὡσεὶ	ὡσεὶ +Ο	ὡσεὶ	ὡσεὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	300	20	θεοῦ:	θεοῦ:	θεοῦ·	θεοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	300	22	αἰῶνος"	αἰῶνος" +τι	αἰῶνος·	αἰῶνος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	300	23	ἐξομολογήσομαί	ἐξομολογήσομαί	ἐξομολογήσομαί	ἐξομολογήσομαί	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	300	23	ἐποίησας"	ἐποίησας"	ἐποίησας·	ἐποίησας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	300	24	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	300	26	Εϊς	Εϊς	Εἰς	Εἰς	image (3x): Εἰς, smooth breathing and acute on ι
+ps	oldtestamenting02swet	300	26	μαελέθ᾽	μαελέθ᾽	μαελέθ·	μαελέθ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	300	26	Δαυείδ.	Δανείδ.	Δαυείδ.	Δαυείδ.	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	300	27	ΞΕἶπεν	Εἶπεν	Εἶπεν	Εἶπεν	image (3x): smooth breathing + circumflex on ι; A junk
+ps	oldtestamenting02swet	300	27	αὐτοῦ +:	αὐτοῦ +.	αὐτοῦ	αὐτοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	300	28	Οὐκ	Οὐκ	Οὐκ	Οὐκ	image (3x): smooth breathing on υ
+ps	oldtestamenting02swet	300	11	-	-	γλῶσσαν	γλῶσσαν	ambiguous: a faint small tick stands high after the word; read as speck, no punctuation

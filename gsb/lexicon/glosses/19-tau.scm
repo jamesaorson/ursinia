@@ -46,7 +46,7 @@
 
 (lemma "τέλειος" (sense perfect (gloss "perfect") (why "Complete, whole, perfect (Genesis 6:9, Noah; Matthew 5:48). τελειόω, when it comes, will share \"perfect\" as the verb of this adjective; συντελέω keeps \"complete\".")))
 
-(lemma "τελευτάω" (sense expire (gloss "expire" "expired" "expires" "expiring") (why "To come to the end (τελευτή) of life, die (Genesis 6:17; Matthew 2:19). \"Expire\" to keep it apart from ἀποθνῄσκω \"die\".")))
+(lemma "τελευτάω" (sense expire (intransitive) (gloss "expire" "expired" "expires" "expiring") (why "To come to the end (τελευτή) of life, die (Genesis 6:17; Matthew 2:19). \"Expire\" to keep it apart from ἀποθνῄσκω \"die\".")))
 
 (lemma "τερέμινθος" (sense terebinth (gloss "terebinth" "terebinths") (why "(LXX, supplied.) The terebinth tree (Genesis 14:6, as far as the terebinth of Paran). Kept apart from δρῦς \"oak\".")))
 
@@ -99,7 +99,8 @@
 
 (lemma "τιμάω" (sense honor (gloss "honor" "honored" "honors" "honoring") (why "To honor.")))
 
-(lemma "τιμή" (sense honor (gloss "honor" "honors") (why "Honor, value, price (Genesis 20:16 εἰς τιμὴν τοῦ προσώπου σου; Romans 2:7; 1 Peter 2:7). The noun of τιμάω and sharing its English \"honor\", as English uses one word for both; \"price\" (Matthew 27:6) will be its own sense.")))
+(lemma "τιμή" (sense honor (gloss "honor" "honors") (why "Honor, value, price (Genesis 20:16 εἰς τιμὴν τοῦ προσώπου σου; Romans 2:7; 1 Peter 2:7). The noun of τιμάω and sharing its English \"honor\", as English uses one word for both; \"price\" (Matthew 27:6) will be its own sense."))
+  (sense price (gloss "price" "prices") (why "(LXX sense, supplied.) The price paid for a thing (Genesis 44:2 τὴν τιμὴν τοῦ σίτου αὐτοῦ, the silver paid for the youngest's grain; Matthew 27:6, 9 τιμὴ αἵματος; Acts 4:34). Chosen by word override.")))
 
 (lemma "τίς"
   (sense who

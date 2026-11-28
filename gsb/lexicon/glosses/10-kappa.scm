@@ -5,7 +5,8 @@
 (lemma "Καάθ" (sense name (gloss "Kohath") (why "(LXX, supplied.) A son of Levi (Genesis 46:11), Greek Καάθ; traditional English Kohath.")))
 
 (lemma "κἀγώ" (sense and-i (gloss "And I" "and I") (why "Crasis of καί + ἐγώ, \"and I\", \"I also\" (Genesis 20:6 Κἀγὼ ἔγνων; John 1:31; Matthew 2:8). Rendered \"and I\" so both words stay visible."))
-  (sense me-also (gloss "me also") (why "The accusative κἀμέ, καί + ἐμέ, \"me also\" (Genesis 27:34, 38 Εὐλόγησον δὴ κἀμέ; Matthew 2:8 has the nominative). Chosen in the form row for κἀμέ.")))
+  (sense me-also (gloss "me also") (why "The accusative κἀμέ, καί + ἐμέ, \"me also\" (Genesis 27:34, 38 Εὐλόγησον δὴ κἀμέ; Matthew 2:8 has the nominative). Chosen in the form row for κἀμέ."))
+  (sense i-also (gloss "I also") (why "κἀγώ after its verb, adding the speaker to someone already named, \"I also\" (Genesis 30:3 ἵνα τεκνοποιήσωμαι κἀγὼ ἐξ αὐτῆς; 30:30 πότε ποιήσω κἀγὼ ἐμαυτῷ οἶκον; John 1:31). Chosen by word override where \"and I\" would join two clauses that the Greek does not join.")))
 
 (lemma "Καδής" (sense name (gloss "Kadesh") (why "(LXX, supplied.) Kadesh in the southern wilderness (Genesis 14:7; 16:14; 20:1); traditional English Kadesh.")))
 
@@ -359,7 +360,7 @@
 
 (lemma "κοιλία"
   (sense belly
-    (gloss "belly")
+    (gloss "belly" "bellies")
     (why "Belly, stomach; also womb (Luke 1:41), which may become its own sense.")))
 
 (lemma "κοίλωμα" (sense hollow (gloss "hollow" "hollows") (why "(LXX, supplied.) A hollow, a valley (Genesis 23:2, Arba ἐν τῷ κοιλώματι, \"in the hollow\"). Kept apart from κοιλάς and κοιλία.")))
@@ -461,7 +462,8 @@
 
 (lemma "κυριεύω"
   (sense be-lord
-    (gloss "be lord")
+    (verb "be lord" "was lord" "been lord")
+    (gloss "be lord" "being lord" "is lord" "was lord" "been lord")
     (why "To be lord, have dominion over (Genesis 3:16; Romans 6:9, 14). \"Be lord\" keeps its kinship with κύριος visible; the genitive of what is ruled takes \"of\".")))
 
 (lemma "κύριος"

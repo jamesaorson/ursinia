@@ -175,7 +175,7 @@
 
 (lemma "ὀργή" (sense wrath (gloss "wrath") (why "Anger, wrath (Genesis 27:45 τὸν θυμὸν καὶ τὴν ὀργὴν τοῦ ἀδελφοῦ σου; Romans 1:18; 2:8 ὀργὴ καὶ θυμός). \"Wrath\" keeps it apart from θυμός \"fury\" and θυμόω \"anger\". (LXX form supplied.)")))
 
-(lemma "ὀργίζω" (sense become-angry (voice active) (verb "become angry" "became angry" "become angry") (gloss "become angry" "became angry" "becomes angry" "becoming angry") (why "Passive: to be made angry, become angry (Genesis 40:2 ὠργίσθη Φαραώ; 41:10; Matthew 5:22; 18:34). The verb of ὀργή \"wrath\"; \"become angry\" keeps it apart from θυμόω \"anger\".")))
+(lemma "ὀργίζω" (sense become-angry (voice active) (dative "with")(verb "become angry" "became angry" "become angry") (gloss "become angry" "became angry" "becomes angry" "becoming angry") (why "Passive: to be made angry, become angry (Genesis 40:2 ὠργίσθη Φαραώ; 41:10; Matthew 5:22; 18:34). The verb of ὀργή \"wrath\"; \"become angry\" keeps it apart from θυμόω \"anger\".")))
 
 (lemma "ὀρθῶς" (sense rightly (gloss "rightly") (why "Rightly, correctly (Luke 7:43).")))
 
@@ -259,7 +259,8 @@
     (why "Joining a further negative clause: \"nor\" (Genesis 3:3; Matthew 6:26).")))
 
 (lemma "οὐδείς" (sense no-one (person) (gloss "no one") (why "No one, nobody (Genesis 19:31 οὐδείς ἐστιν ἐπὶ τῆς γῆς; 20:9 ἔργον ὃ οὐδεὶς ποιήσει; John 1:18). The neuter οὐδέν, \"nothing\", will be its own sense."))
-  (sense nothing (gloss "nothing") (why "The neuter οὐδέν (Swete also οὐθέν), nothing (Genesis 39:6, 8, 9, 23; 40:15 οὐκ ἐποίησα οὐδέν; John 5:19). Shares \"nothing\" with μηδέν, the same word with μή: one English for the pair, as for οὐ and μή \"not\".")))
+  (sense nothing (gloss "nothing") (why "The neuter οὐδέν (Swete also οὐθέν), nothing (Genesis 39:6, 8, 9, 23; 40:15 οὐκ ἐποίησα οὐδέν; John 5:19). Shares \"nothing\" with μηδέν, the same word with μή: one English for the pair, as for οὐ and μή \"not\"."))
+  (sense anyone (person) (gloss "anyone") (why "After another negative in its clause (καὶ οὐ παριστήκει οὐδείς, Genesis 45:1), the Greek doubles the negation for strength; English takes one, so the verb keeps \"not\" and οὐδείς is \"anyone\" (\"had not stood by anyone\"). \"No one\" there would cancel the \"not\" and reverse the sense. Chosen by override.")))
 
 (lemma "Οὐκάν" (sense name (gloss "Akan") (why "(LXX, supplied.) A son of Ezer, the Horite Σάαρ (Genesis 36:27), Greek Οὐκάν; traditional English Akan. See Ἰωυκάμ.")))
 

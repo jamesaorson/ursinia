@@ -23,7 +23,8 @@
 
 (lemma "ὑπακούω" (sense obey (genitive "") (dative "") (gloss "obey" "obeyed" "obeys" "obeying") (why "To listen under, obey (Genesis 16:2 ὑπήκουσεν δὲ Ἀβρὰμ τῆς φωνῆς αὐτῆς; Matthew 8:27; Romans 6:16). \"Obey\" keeps it apart from ἀκούω \"hear\" and ἐπακούω.")))
 
-(lemma "ὑπάρχω" (sense belong (gloss "belong" "belonged" "belongs" "belonging") (why "To be at hand, exist; τὰ ὑπάρχοντα with a genitive, what belongs to someone, possessions (Genesis 12:5; Luke 8:3; 12:15). \"Belong\" so the participle reads \"the [things] belonging\"; \"be\" is εἰμί's.")))
+(lemma "ὑπάρχω" (sense belong (gloss "belong" "belonged" "belongs" "belonging") (why "To be at hand, exist; τὰ ὑπάρχοντα with a genitive, what belongs to someone, possessions (Genesis 12:5; Luke 8:3; 12:15). \"Belong\" so the participle reads \"the [things] belonging\"; \"be\" is εἰμί's."))
+  (sense exist (gloss "exist" "existed" "exists" "existing") (why "To be in existence, be there (Genesis 42:13, 32 ὁ δὲ ἕτερος οὐχ ὑπάρχει, the brothers' word for Joseph, \"the other does not exist\"; Luke 16:23; Acts 2:30). Chosen by word override.")))
 
 (lemma "ὑπεναντίος" (sense adversary (gloss "adversary" "adversaries") (why "Set against, opposed; as a noun, the adversary (Genesis 22:17 τὰς πόλεις τῶν ὑπεναντίων; Hebrews 10:27 τοὺς ὑπεναντίους; Colossians 2:14 \"against us\").")))
 

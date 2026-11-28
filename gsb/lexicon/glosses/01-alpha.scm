@@ -732,7 +732,8 @@
     (why "The third-person pronoun. The English form follows the Greek gender, number and case; a neuter referring to a thing is \"it\". The intensive (\"himself\") and identifying (\"the same\") uses become their own senses when they occur. A nominative αὐτός (Genesis 3:15-16) is emphatic; the literal layer still says \"he\" and the emphasis is noted, not added."))
   (sense intensive
     (gloss "himself" "herself" "itself" "themselves" "yourself" "yourselves" "myself" "ourselves")
-    (why "Intensive with another pronoun, \"-self\": ὑμῖν αὐτοῖς \"to you yourselves\" (Exodus 20:23). Chosen by word override, with the English of the person it intensifies.")))
+    (why "Intensive with another pronoun, \"-self\": ὑμῖν αὐτοῖς \"to you yourselves\" (Exodus 20:23). Chosen by word override, with the English of the person it intensifies."))
+  (sense same (gloss "same") (why "Identifying, with the article: ὁ αὐτός \"the same\" (Hebrews 13:8); ἐπὶ τὸ αὐτό \"upon the same [place]\", together (Genesis 29:2, the flocks at the well; Acts 2:1). Chosen by word override.")))
 
 (lemma "αὐτοῦ" (sense right-here (gloss "right here") (why "The adverb αὐτοῦ, \"in the very place\", here or there (Genesis 22:5 Καθίσατε αὐτοῦ, as Matthew 26:36 Καθίσατε αὐτοῦ; Acts 18:19). The same spelling as the genitive of αὐτός; a word override picks it. \"Right here\" keeps it apart from ὧδε \"here\".")))
 
@@ -742,7 +743,8 @@
 
 (lemma "ἀφίημι" (sense forgive (gloss "forgive" "forgave" "forgiven" "forgives" "forgiving") (why "To let go, release, forgive. Genesis 4:13 τοῦ ἀφεθῆναί με, \"to be forgiven\"; other senses (leave, allow) become their own senses when met."))
   (sense allow (gloss "allow" "allowed" "allows" "allowing") (why "With an infinitive: to let, allow (Genesis 20:6 οὐκ ἀφῆκά σε ἅψασθαι αὐτῆς; Matthew 19:14 ἄφετε τὰ παιδία; Mark 1:34). Chosen by word override."))
-  (sense let-go (verb "let go" "let go" "let go") (gloss "let go" "lets go" "letting go") (why "To let go, give up (Genesis 35:18 ἐν τῷ ἀφιέναι αὐτὴν τὴν ψυχήν, \"in her letting go the soul\", of Rachel dying; Matthew 27:50 ἀφῆκεν τὸ πνεῦμα). Chosen by word override.")))
+  (sense let-go (verb "let go" "let go" "let go") (gloss "let go" "lets go" "letting go") (why "To let go, give up (Genesis 35:18 ἐν τῷ ἀφιέναι αὐτὴν τὴν ψυχήν, \"in her letting go the soul\", of Rachel dying; Matthew 27:50 ἀφῆκεν τὸ πνεῦμα). Chosen by word override."))
+  (sense let-stay (verb "let stay" "let stay" "let stay") (gloss "let stay" "lets stay" "letting stay") (why "To leave someone where he is, let stay (Genesis 42:33 ἀδελφὸν ἕνα ἄφετε ὧδε μετ’ ἐμοῦ, the hostage brother; Matthew 5:24 ἄφες ἐκεῖ τὸ δῶρόν σου). \"Let stay\" because καταλείπω has \"leave\" and ὑπολείπω \"leave behind\". Chosen by word override.")))
 
 (lemma "ἀφικνέομαι" (sense reach (gloss "reach" "reached" "reaches" "reaching") (why "To arrive at, reach (Genesis 28:12, the ladder whose head was reaching into heaven; Romans 16:19). (LXX form supplied.)")))
 

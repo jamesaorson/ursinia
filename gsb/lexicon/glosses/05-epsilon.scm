@@ -33,7 +33,7 @@
 
 (lemma "Ἑβραῖος" (sense name (person) (gloss "Hebrew" "Hebrews") (why "A Hebrew (Genesis 39:14, 17, παῖδα Ἐβραῖον, Joseph; 40:15 γῆς Ἐβραίων; 2 Corinthians 11:22; Philippians 3:5). Swete prints a smooth breathing, Ἐβραῖος; the concordance keeps the usual Ἑβραῖος.")))
 
-(lemma "ἐγγίζω" (sense draw-near (gloss "draw near" "drew near" "drawn near" "draws near" "drawing near") (why "To come near, draw near (Genesis 12:11, when Abram drew near to enter Egypt; Mark 1:15, the kingdom has drawn near).")))
+(lemma "ἐγγίζω" (sense draw-near (intransitive) (gloss "draw near" "drew near" "drawn near" "draws near" "drawing near") (why "To come near, draw near (Genesis 12:11, when Abram drew near to enter Egypt; Mark 1:15, the kingdom has drawn near).")))
 
 (lemma "ἐγγύς" (sense near (gloss "near") (why "Near, close by, with the genitive (Genesis 19:20 ἡ πόλις αὕτη ἐγγὺς τοῦ καταφυγεῖν με ἐκεῖ; John 3:23; Romans 10:8). The adverb of ἐγγίζω \"draw near\".")))
 
@@ -47,7 +47,7 @@
 
 (lemma "ἔγκειμαι" (sense lie-in (gloss "lie in" "lay in" "lain in" "lies in" "lying in") (why "(LXX, supplied.) To lie in or on, be set on, be intent on (Genesis 8:21, ἔγκειται ἡ διάνοια ... ἐπὶ τὰ πονηρά, the mind lies intent on evil things). \"Lie in\" renders the ἐν- of the compound; the readable layer will say \"is set on\".")))
 
-(lemma "ἐγκισσάω" (sense crave (gloss "crave" "craved" "craves" "craving") (why "(LXX, supplied.) Of animals in heat, to crave, desire to conceive (Genesis 30:38-41, the flocks ἐνκισσήσωσιν at the peeled rods; 31:10). From κίσσα, the craving of pregnancy. Swete prints the unassimilated ἐνκισσ- (and the augmented ἐνεκίσσων); the lemma has the usual ἐγ-.")))
+(lemma "ἐγκισσάω" (sense crave (intransitive) (gloss "crave" "craved" "craves" "craving") (why "(LXX, supplied.) Of animals in heat, to crave, desire to conceive (Genesis 30:38-41, the flocks ἐνκισσήσωσιν at the peeled rods; 31:10). From κίσσα, the craving of pregnancy. Swete prints the unassimilated ἐνκισσ- (and the augmented ἐνεκίσσων); the lemma has the usual ἐγ-.")))
 
 (lemma "ἐγκρατεύομαι" (sense hold-back (verb "hold back" "held back" "held back") (gloss "hold back" "held back" "holds back" "holding back") (why "(LXX, supplied.) To exercise self-control, restrain oneself (Genesis 43:31, Joseph, having washed his face and come out, ἐνεκρατεύσατο, \"held back\" his weeping; 1 Corinthians 7:9; 9:25). \"Hold back\" keeps it apart from κρατέω \"hold\" and κατέχω \"hold fast\".")))
 
@@ -130,7 +130,7 @@
 
 (lemma "εἰσέρχομαι" (sense go-in (gloss "go in" "went in" "goes in" "going in" "gone in") (why "To go in, enter. \"Go in\" to match ἐξέρχομαι \"go forth\" and keep the compound visible.")))
 
-(lemma "εἴσοδος" (sense entrance (gloss "entrance" "entrances") (why "A going in, coming, entrance (Genesis 30:27, God blessed Laban τῇ σῇ εἰσόδῳ, at Jacob's coming; Acts 13:24; 1 Thessalonians 1:9). From εἰσέρχομαι \"go in\".")))
+(lemma "εἴσοδος" (sense entrance (dative "at") (gloss "entrance" "entrances") (why "A going in, coming, entrance (Genesis 30:27, God blessed Laban τῇ σῇ εἰσόδῳ, at Jacob's coming; Acts 13:24; 1 Thessalonians 1:9). From εἰσέρχομαι \"go in\".")))
 
 (lemma "εἰσπορεύομαι" (sense enter (gloss "enter" "entered" "enters" "entering") (why "To go in, enter (Genesis 6:4; Mark 1:21). \"Enter\" to keep it apart from εἰσέρχομαι \"go in\", as ἐκπορεύομαι \"go out\" is kept apart from ἐξέρχομαι \"go forth\". In Genesis 6:4 εἰσπορεύεσθαι πρός is to go in to a woman; the literal layer keeps \"were entering to\".")))
 
@@ -493,7 +493,7 @@
 
 (lemma "ἐπέκεινα" (sense beyond (genitive "") (gloss "beyond") (why "Beyond, on the far side of, with the genitive (Genesis 35:21 ἐπέκεινα τοῦ πύργου Γάδερ; Acts 7:43 ἐπέκεινα Βαβυλῶνος).")))
 
-(lemma "ἐπέρχομαι" (sense come-upon (verb "come upon" "came upon" "come upon") (gloss "come upon" "came upon" "comes upon" "coming upon") (why "To come upon, come against, befall (Genesis 42:21 ἐπῆλθεν ἐφ’ ἡμᾶς ἡ θλίψις αὕτη; Luke 1:35; 21:26).")))
+(lemma "ἐπέρχομαι" (sense come-over (verb "come over" "came over" "come over") (gloss "come over" "came over" "comes over" "coming over") (why "To come upon, come against, befall (Genesis 42:21 ἐπῆλθεν ἐφ’ ἡμᾶς ἡ θλίψις αὕτη; Luke 1:35; 21:26). \"Come over\", not \"come upon\", because the verb usually takes ἐπί, which is \"upon\" (\"came over upon us\"), and συμβαίνω has \"befall\".")))
 
 (lemma "ἐπερωτάω"(sense question (gloss "question" "questioned" "questions" "questioning") (why "To ask, put a question to, inquire of (Genesis 26:7; Mark 9:32; Luke 2:46). \"Question\" keeps it apart from αἰτέω \"ask\", δέομαι \"beg\" and πυνθάνομαι \"inquire\".")))
 

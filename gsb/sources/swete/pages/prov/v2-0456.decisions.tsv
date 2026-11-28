@@ -1,0 +1,30 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+prov	oldtestamenting02swet	456	1	“εὐλογία	“εὐλογία	εὐλογία	εὐλογία	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	456	1	δικαίου:	δικαίου:	δικαίου·	δικαίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	456	3	έν	δέν	ἐν	ἐν	image (3x): reading as in the page file (OCR misaligned on the last lines; every word read from the crop)
+prov	oldtestamenting02swet	456	5	“ἐέν	“έν	ἐν	ἐν	image (3x): reading as in the page file (OCR misaligned on the last lines; every word read from the crop)
+prov	oldtestamenting02swet	456	6	δεκτή. +δ	δεκτή. +δ	δεκτή.	δεκτή.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	456	9	ὥσπερ	ἐώσπερ	ὥσπερ	ὥσπερ	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	456	9	ὄμφαξ	ὀμφαξ	ὄμφαξ	ὄμφαξ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	456	11	“φόβος	“φόβος	φόβος	φόβος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	456	13	3 +"δένχρονίζει	: +δένχρονίζει	ἐνχρονίζει	ἐνχρονίζει	image (3x): reading as in the page file (OCR misaligned on the last lines; every word read from the crop)
+prov	oldtestamenting02swet	456	15	“"χύρωμα	“"χύρωμα	ὀχύρωμα	ὀχύρωμα	image (3x): reading as in the page file (OCR misaligned on the last lines; every word read from the crop)
+prov	oldtestamenting02swet	456	16	κακά.	κακά. +Ὁ	κακά.	κακά.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	456	17	Ὀδίκαιος	δίκαιος	δίκαιος	δίκαιος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	456	22	ἀποστρέφεται. +π	ἀποστρέφεται.	ἀποστρέφεται.	ἀποστρέφεται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	456	23	ζυγοὶ	᾿ζυγοὶ	ζυγοὶ	ζυγοὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	456	25	Ξοὗ	“οὗ	οὗ	οὗ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	456	25	εἰσέλθῃ	εἰσέλθη	εἰσέλθῃ	εἰσέλθῃ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	456	25	ἀτιμία:	ἀτιμία:	ἀτιμία·	ἀτιμία·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	456	27	βάποθανὼν	βϑάποθανὼν	ἀποθανὼν	ἀποθανὼν	image (3x): reading as in the page file (OCR misaligned on the last lines; every word read from the crop)
+prov	oldtestamenting02swet	456	28	Εἰ	ε᾽	δὲ	δὲ	image (3x): reading as in the page file (OCR misaligned on the last lines; every word read from the crop)
+prov	oldtestamenting02swet	456	28	γίνεται	γινεται	γίνεται	γίνεται	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	456	28	Και	Και	καὶ	καὶ	image (3x): reading as in the page file (OCR misaligned on the last lines; every word read from the crop)
+prov	oldtestamenting02swet	456	28	επιχάρτος	επιχάαρτος	ἐπίχαρτος	ἐπίχαρτος	image (3x): reading as in the page file (OCR misaligned on the last lines; every word read from the crop)
+prov	oldtestamenting02swet	456	28	ασεί	ασεί	ἀσεβῶν	ἀσεβῶν	image (3x): reading as in the page file (OCR misaligned on the last lines; every word read from the crop)
+prov	oldtestamenting02swet	456	28	ω»	ων»	ἀπώλεια.	ἀπώλεια.	image (3x): reading as in the page file (OCR misaligned on the last lines; every word read from the crop)
+prov	oldtestamenting02swet	456	29	αἰττ	αἰτ	δικαιοσύνη	δικαιοσύνη	image (3x): reading as in the page file (OCR misaligned on the last lines; every word read from the crop)
+prov	oldtestamenting02swet	456	29	λεία.	λεία.	ἀμώμους	ἀμώμους	image (3x): reading as in the page file (OCR misaligned on the last lines; every word read from the crop)
+prov	oldtestamenting02swet	456	29	καιοσυνῇ	ικαιοσυνῇ	ὀρθοτομεῖ	ὀρθοτομεῖ	image (3x): reading as in the page file (OCR misaligned on the last lines; every word read from the crop)
+prov	oldtestamenting02swet	456	29	αμώμους +ορσοόοτόομει οὐοῦυς,	αμώμους +ορσοτόομει οὐοῦυς,	ὁδούς,	ὁδούς,	image (3x): reading as in the page file (OCR misaligned on the last lines; every word read from the crop)
+prov	oldtestamenting02swet	456	2	-	-	αὕτη	αὕτη	ambiguous: breathing on υ is small at 8x; same shape as οὕτως on line 10 (rough + acute), unlike the plainer smooth + acute of ὄμφαξ; read rough

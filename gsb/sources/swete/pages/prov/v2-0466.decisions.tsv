@@ -1,0 +1,38 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+prov	oldtestamenting02swet	466	1	ΕἰΤ	εἰπὴ	εἴπῃ	εἴπῃ	image (3x): smooth breathing + acute on iota, circumflex and iota subscript on eta
+prov	oldtestamenting02swet	466	1	ἢ +καιριον	Καιριὸν	καίριόν	καίριόν	image (3x): two acutes, second before enclitic τι
+prov	oldtestamenting02swet	466	1	τι	Τί	τι	τι	image (3x): enclitic τι, unaccented
+prov	oldtestamenting02swet	466	1	Και	Και	καὶ	καὶ	image (3x): lowercase, accents as transcribed
+prov	oldtestamenting02swet	466	1	Τῷ	Τω	τῷ	τῷ	image (3x): lowercase, accents as transcribed
+prov	oldtestamenting02swet	466	2	“ὁδοὶ	“ὁδοὶ	ὁδοὶ	ὁδοὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	466	3	ἅδου	ἅδου	ᾅδου	ᾅδου	image (3x): rough breathing + acute, iota subscript under alpha
+prov	oldtestamenting02swet	466	4	“βοΐκους	“βϑοΐκους	οἴκους	οἴκους	image (3x): word as transcribed; superscript verse number is not text
+prov	oldtestamenting02swet	466	5	χήρας.	χήρας. +Ὁ	χήρας.	χήρας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	466	8	“Ἰέξόλλυσιν	“έξόλλυσιν	ἐξόλλυσιν	ἐξόλλυσιν	image (3x): word as transcribed; superscript verse number is not text
+prov	oldtestamenting02swet	466	9	σώζεται. +()	σώζεται.	σώζεται.	σώζεται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	466	10	ἐλεημοσύναις	ἐλεημοσυναις	ἐλεημοσύναις	ἐλεημοσύναις	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	466	11	κακοῦ. +τὸ	κακοῦ. +τὸ	κακοῦ.	κακοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	466	12	πίστεις	πίστεις,	πίστεις,	πίστεις,	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	466	13	κακά. +(7)	κακά. +(7)	κακά.	κακά.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	466	17	ἐπακούει. +"Θ᾽	ἐπακούει. +Θ᾽	ἐπακούει.	ἐπακούει.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	466	19	ἀδικίας. +τ᾽	ἀδικίας.	ἀδικίας.	ἀδικίας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	466	20	καρδία	᾿καρδία	καρδία	καρδία	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	466	22	"θεωρῶν	"θεωρῶν	θεωρῶν	θεωρῶν	image (3x): word as transcribed; superscript verse number is not text
+prov	oldtestamenting02swet	466	24	βϑὸς	ϑὸς	ὃς	ὃς	image (3x): closed compact mark = rough + grave; superscript 3 not text
+prov	oldtestamenting02swet	466	24	ἑαυτόν,	ἑαυτόν	ἑαυτόν,	ἑαυτόν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	466	25	ψυχὴν	Ψυχὴν	ψυχὴν	ψυχὴν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	466	26	ἐφόβος	φόβος	φόβος	φόβος	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	466	27	αὐτῆ.	αὐτῇ.	αὐτῇ.	αὐτῇ.	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	466	28	ὅπάντα	πτΤαντΤα	πάντα	πάντα	image (3x): word as transcribed; superscript verse number is not text
+prov	oldtestamenting02swet	466	28	τὰ	Τα	τὰ	τὰ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	466	28	ἔργα	εργα	ἔργα	ἔργα	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	466	28	τοῦ	Του	τοῦ	τοῦ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	466	28	ταπεινοῦ	Τατπέεινου	ταπεινοῦ	ταπεινοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	466	28	παρὰ	παρα	παρὰ	παρὰ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	466	28	τῷ	Τῷ	τῷ	τῷ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	466	28	θεῷ,	εῳ,	θεῷ,	θεῷ,	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	466	30	δἀκάθαρτος	ἀκάθαρτος	ἀκάθαρτος	ἀκάθαρτος	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	466	32	ἀρχὴ	7Δἀργὴ	ἀρχὴ	ἀρχὴ	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	466	32	δίκαια,	δίκαια +᾿	δίκαια,	δίκαια,	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	466	32	-	-	ἀρχὴ	ἀρχὴ	Swete 16:7 has no parenthesized number and common 16:7 is the in-text (7) between Swete 15:28 and 15:29; run on with common 16:5 (next leaf 467 prints 8, then (4) 9)
+prov	oldtestamenting02swet	466	28	-	-	πάντα	πάντα	Swete 16:5 has no parenthesized number between 4 (33) and 6 (5) (XVI); run on with common 15:33

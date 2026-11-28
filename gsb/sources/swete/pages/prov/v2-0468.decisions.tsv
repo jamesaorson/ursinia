@@ -1,0 +1,36 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+prov	oldtestamenting02swet	468	1	κεκτημένοις, +22	κεκτημένοις, +22	κεκτημένοις,	κεκτημένοις,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	468	3	δκαρδία	δκαρδία	καρδία	καρδία	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	468	3	στόματος, +23	στόματος, +23	στόματος,	στόματος,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	468	5	“κηρία	“κηρία	κηρία	κηρία	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	468	5	καλοί, +54	καλοί, +54	καλοί,	καλοί,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	468	7	Ξδεισὶν	“εἰσὶν	εἰσὶν	εἰσὶν	image (3x): superscript verse number fused by OCR; smooth breathing as in page file
+prov	oldtestamenting02swet	468	7	ἀνδρί	ἀνδρί,	ἀνδρί,	ἀνδρί,	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	468	8	ἅδου.	ἅδου.	ᾅδου.	ᾅδου.	image (3x): iota subscript under α, rough breathing + acute: ᾅδου
+prov	oldtestamenting02swet	468	9	“ἀνὴρ	“ἀνὴρ	ἀνὴρ	ἀνὴρ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	468	9	ἑαυτῷ +56	ἑαυτῷ +26	ἑαυτῷ	ἑαυτῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	468	10	ἀπώλειαν"	ἀπώλειαν"	ἀπώλειαν·	ἀπώλειαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	468	11	ο	ὁ	ὁ	ὁ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	468	11	μεντοι	μέντοι	μέντοι	μέντοι	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	468	11	εἐπίτῷ	ἐπὶ	ἐπὶ	ἐπὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	468	11	εαὐὕτου	τῷ	τῷ	τῷ	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	468	11	στοματι	ἑαυτοῦ	ἑαυτοῦ	ἑαυτοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	468	11	∅	στόματι	στόματι	στόματι	class R0: OCR lost the word in extraction; c read from the image strip
+prov	oldtestamenting02swet	468	12	"ανὴρ	"ανὴρ	ἀνὴρ	ἀνὴρ	image (3x): superscript verse number fused by OCR; smooth breathing as in page file
+prov	oldtestamenting02swet	468	12	κακά, +27	κακά, +΄ 27	κακά,	κακά,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	468	14	κακά, +58	κακά, +38	κακά,	κακά,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	468	16	∅	∅	λους.	λους.	image (strip, 2x): turned-over end λους. printed on its own line, set deeper than the second stich
+prov	oldtestamenting02swet	468	17	φίλων, +30	φίλων, +50	φίλων,	φίλων,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	468	19	διεστραμμένα, +30	διεστραμμένα, +30	διεστραμμένα,	διεστραμμένα,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	468	21	οὗτσς	οὗτσς	οὗτος	οὗτος	ambiguous (3x): second ο of οὗτος has an ink blot at its top right that makes it look like σ; no σ tail stroke as in ἐστιν on the same line; read ο
+prov	oldtestamenting02swet	468	21	κάμινός	κάμινός	κάμινός	κάμινός	image (3x): acute on κάμινός before the enclitic ἐστιν
+prov	oldtestamenting02swet	468	21	κακίας. +τ	κακίας.	κακίας.	κακίας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	468	22	στέφανος	τστέφανος	στέφανος	στέφανος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	468	22	γῆρας, +: 31	γῆρας,	γῆρας,	γῆρας,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	468	23	εὑρίσκεται. +ἘΞ	εὑρίσκεται.	εὑρίσκεται.	εὑρίσκεται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	468	24	κρείσσων	"κρείσσων	κρείσσων	κρείσσων	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	468	26	εἰς	ϑεἰς	εἰς	εἰς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	468	28	τκρείσσων	τκρείσσων	κρείσσων	κρείσσων	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	468	28	Ψωμὸς	Ψωμὸς	ψωμὸς	ψωμὸς	image (3x): lowercase ψ, as the line begins with κρείσσων
+prov	oldtestamenting02swet	468	28	εἰρήνῃ +᾿	εἰρήνῃ +ϊ	εἰρήνῃ	εἰρήνῃ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	468	29	-	-	μάχης.	μάχης.	image (2x): ¶ printed in the text after μάχης. (witness mark), kept; ¶C in the left margin is not text

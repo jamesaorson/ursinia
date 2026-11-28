@@ -1481,7 +1481,8 @@ form	lemma	tag	sense	note
 Οἵδε	ὅδε	D-NPM
 ἐβουλεύσασθε	βουλεύω	V-AMI-2P
 ἐβουλεύσατο	βουλεύω	V-AMI-3S
-γενηθῇ	γίνομαι	V-APS-3S
+γενηθῇ	γίνομαι	V-AOS-3S		passive-deponent aorist, rendered active (as ἐγενήθη)
+πέραν	πέραν	PREP		with the genitive, "across the Jordan" (Genesis 50:10-11); the New Testament tables tag it ADV, which gave "across of"
 τραφῇ	τρέφω	V-2APS-3S
 διαθρέψω	διατρέφω	V-FAI-1S
 ἐτέχθησαν	τίκτω	V-API-3P
@@ -1793,6 +1794,9 @@ form	lemma	tag	sense	note
 ἀναβήτω	ἀναβαίνω	V-2AAM-3S
 ἀναβήσομαι	ἀναβαίνω	V-FDI-1S
 λαλησάτω	λαλέω	V-AAM-3S
+μακράν	μακράν	ADV		the adverb "far off"; not the adjective μακρός
+καλῶν	καλός	A-GPN		ἀντὶ καλῶν "in place of good [things]" (Genesis 44:4)
+καλῶν	καλέω	V-PAP-NSM
 οἴκει	οἰκέω	V-PAM-2S
 ἀποδιδράσκειν	ἀποδιδράσκω	V-PAN
 ἀλλοτρίους	ἀλλότριος	A-APM
@@ -2540,3 +2544,12 @@ form	lemma	tag	sense	note
 βόες	βοῦς	N-NPF		feminine, cows (Genesis 41:2-27 αἱ ἑπτὰ βόες); the masculine reading above stays first
 ἀπέδοσθε	ἀποδίδωμι	V-2AMI-2P	sell	the middle of ἀποδίδωμι is "sell" (Genesis 45:4-5, you sold me)
 ἐπέκεινα	ἐπέκεινα	PREP		with the genitive, "beyond" (Genesis 35:21 ἐπέκεινα τοῦ πύργου)
+πρώτῳ	πρῶτος	A-DSM		the plain ordinal, not the New Testament's superlative tag (Genesis 32:17, 19)
+κατέφαγον	κατεσθίω	V-2AAI-3P		third plural where a plural subject follows (Genesis 41:4, 20 αἱ ἑπτὰ βόες); first singular is the same form
+κατέφαγον	κατεσθίω	V-2AAI-1S
+Παρῆλθον	παρέρχομαι	V-2AAI-3P		third plural (Genesis 41:53 τὰ ἑπτὰ ἔτη); first singular is the same form
+Παρῆλθον	παρέρχομαι	V-2AAI-1S
+κοιλίας	κοιλία	N-GSF
+κοιλίας	κοιλία	N-APF		after its article (Genesis 41:21 εἰς τὰς κοιλίας αὐτῶν)
+ὑγιαίνουσιν	ὑγιαίνω	V-PAI-3P		the finite verb (Genesis 37:14 εἰ ὑγιαίνουσιν οἱ ἀδελφοί σου); after an article the participle
+ὑγιαίνουσιν	ὑγιαίνω	V-PAP-DPM

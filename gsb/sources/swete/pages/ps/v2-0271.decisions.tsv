@@ -1,0 +1,31 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	271	1	τεὐφράνθητε	εὐφράνθητε	εὐφράνθητε	εὐφράνθητε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	271	1	δίκαιοι:	δίκαιοι:	δίκαιοι·	δίκαιοι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	271	2	Και	καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	271	2	παντες	πάντες	πάντες	πάντες	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	271	2	Τῇ	τῇ	τῇ	τῇ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	271	3	Τῳ	Τῴ	Τῷ	Τῷ	image (3x): circumflex and iota subscript on ω
+ps	oldtestamenting02swet	271	4	Αγαλλιᾶσθε,	Ἀγαλλιᾶσθε,	Ἀγαλλιᾶσθε,	Ἀγαλλιᾶσθε,	image (3x): smooth breathing on capital Α
+ps	oldtestamenting02swet	271	4	κυρίῳ.	κυρίῳ:	κυρίῳ·	κυρίῳ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	271	6	“ἐξομολογεῖσθε	“ἐξομολογεῖσθε	ἐξομολογεῖσθε	ἐξομολογεῖσθε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	271	7	∅	αὐτῷ:	αὐτῷ·	αὐτῷ·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	271	8	∅	βᾷσατε	ᾄσατε	ᾄσατε	image (3x): smooth breathing + acute, iota subscript; ᾄσατε
+ps	oldtestamenting02swet	271	8	βᾷσατε +αὐτῷ ἄσμα	ἄσμα	ᾆσμα	ᾆσμα	image (3x): smooth breathing + circumflex, iota subscript; ᾆσμα
+ps	oldtestamenting02swet	271	9	ἀλαλαγμῷ.	ἀλαλαγμῷ. +4	ἀλαλαγμῷ.	ἀλαλαγμῷ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	271	10	ὁ	ὁ +λ	ὁ	ὁ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	271	10	λύγος	λόγος	λόγος	λόγος	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	271	11	πίστει:	πίστει:	πίστει·	πίστει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	271	13	γῆ. +6.	γῆ.	γῆ.	γῆ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	271	14	τῷ +Χ	τῷ	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	271	15	ἡ	ἢ	ἡ	ἡ	image (3x): rough breathing only on η
+ps	oldtestamenting02swet	271	15	αὐτῶν-	αὐτῶν: +7	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	271	16	θαλάσσης.	θ +θαλάσσης.	θαλάσσης,	θαλάσσης,	image (3x): comma after θαλάσσης
+ps	oldtestamenting02swet	271	18	δφοβηθήτω	φοβηθήτω	φοβηθήτω	φοβηθήτω	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	271	19	ἀπ᾽ +᾿	ἀπ᾽	ἀπ᾽	ἀπ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	271	19	οἰ-	οἱ-	οἰ-	οἰ-	image (3x): smooth breathing, οἰ-
+ps	oldtestamenting02swet	271	20	κουμένην. +ο	κουμένην. +ο	κουμένην.	κουμένην.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	271	21	εἶπεν,	εἰπεν,	εἶπεν,	εἶπεν,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	271	21	ἐγενήθησαν +Α	ἐγενήθησαν"	ἐγενήθησαν·	ἐγενήθησαν·	image (3x): raised point, ano teleia
+ps	oldtestamenting02swet	271	23	“Κύριος	“Κύριος	Κύριος	Κύριος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	271	25	ἀρχόντων"	ἀρχόντων"	ἀρχόντων·	ἀρχόντων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	271	26	Τὴ	τὴ	ἡ	ἡ	image (3x): rough breathing only on η

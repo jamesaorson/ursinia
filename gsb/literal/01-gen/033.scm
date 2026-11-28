@@ -373,7 +373,7 @@
     ("And" 1)
     ("Jacob" 2)
     ("departs" (3 depart "ἀπαίρω"))
-    ("into," 4)
+    ("into" 4)
     ("Tents;" (5 name))
     ("and" 6)
     ("he/she/it made" 7)
@@ -390,7 +390,7 @@
     ("he/she/it called" 19)
     ("the name" 20 21)
     ("of that" 24)
-    ("place," (22 absorbed) 23)
+    ("place" (22 absorbed) 23)
     ("Tents." (25 name "σκηνή"))))
 
 (verse 18

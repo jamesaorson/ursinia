@@ -188,7 +188,7 @@
     ("sons;" (14 absorbed) 15)
     ("firstborn" 17)
     ("of Jacob" 18)
-    ("of Reuben;" 19)))
+    ("Reuben;" 19)))
 
 (verse 9
   (status draft)
@@ -513,7 +513,7 @@
     ("These" 1)
     ("sons" 2)
     ("of Bilhah," (3 bilhah "Βάλλα"))
-    ("which" 4)
+    ("whom" 4)
     ("Laban" (6 name "Λαβάν"))
     ("gave" 5)
     ("to Rachel" 7)

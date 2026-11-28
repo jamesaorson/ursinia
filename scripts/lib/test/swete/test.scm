@@ -189,6 +189,13 @@
   (lambda (rows problems) (check rows '((2 1 "γδ.") (2 2 "ε")))))   ; a hyphen across title lines
 (check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C2}{1}α. {T}β.\n")) #f #f)
        '((40 1 fail)))                                   ; a title after a verse
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C2}{T}α {2}β\n{S}γ.\n{T}δ.\n")) #f #f)
+       '((40 3 fail)))                                   ; ... after a verse line
+;; Swete's {2} inside a title's first line, more title lines after it (Ps 51).
+(define pt2 (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C51}{T}α, {2}β\n{T}γ.\n{S}δ\n{S1}ε. {3}ζ.\n"))
+(check (book-problems (list pt2) #f #f 1) '())
+(call-with-values (lambda () (book-verses (list pt2)))
+  (lambda (rows problems) (check rows '((51 1 "α,") (51 2 "β γ. δ ε.") (51 3 "ζ.")))))
 (check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C2}{T}α. {3}β.\n")) #f #f)
        '((40 1 fail)))                                   ; 3 after a title, unmarked
 
