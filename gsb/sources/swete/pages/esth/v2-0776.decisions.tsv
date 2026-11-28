@@ -1,0 +1,114 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+esth	oldtestamenting02swet	776	1	ἕῳ	καρδίαν	καρδίᾳ,	καρδίᾳ,	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	1	ἐπ +πα	ἐπιγνῶναι	ἐπιγνῶναι	ἐπιγνῶναι	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	776	1	ἕως	εως	ἕως	ἕως	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+esth	oldtestamenting02swet	776	1	τῆς	ὃς +Τῆς	τῆς	τῆς	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	776	2	"καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+esth	oldtestamenting02swet	776	2	Ταβάθα +τ ἰ,	Ταβάθα +τ. ἴα)	Γαβάθα	Γαβάθα	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	3	προ +μου	εὐνούχων	εὐνούχων	εὐνούχων	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	776	3	φυλασσόντων +τς	φυλασσόντων	φυλασσόντων	φυλασσόντων	class R3: OCR appended accent-row or margin junk; c read from the image strip
+esth	oldtestamenting02swet	776	4	αὐλην, +"3	αὐλην,	αὐλήν,	αὐλήν,	coordinator second reading, image (8x): a thin acute stroke is visible over η just under the ink blot of the underline above; read αὐλήν
+esth	oldtestamenting02swet	776	4	ἤκουσέν	᾿δἤκουσέν	ἤκουσέν	ἤκουσέν	image (3x): ἤκουσέν with acute before enclitic τε, as printed
+esth	oldtestamenting02swet	776	4	Τε	τε	τε	τε	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+esth	oldtestamenting02swet	776	4	λογισμοὺς	λογισμοὺς	λογισμους	λογισμους	image (4x): no accent printed on λογισμους or μεριμνας (τοὺς and τὰς on the same line carry graves); kept as printed
+esth	oldtestamenting02swet	776	4	μεριμνας +13 (2)	μερίμνας +15 (9)	μεριμνας	μεριμνας	image (4x): no accent printed on λογισμους or μεριμνας (τοὺς and τὰς on the same line carry graves); kept as printed
+esth	oldtestamenting02swet	776	5	ΣΤῊ	ἶἰὲ	τὰς	τὰς	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	5	χεῖρ +τς	χεῖρας	χεῖρας	χεῖρας	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	776	6	Ἀρταξέρξῃ	Ἀρταξέρξῃ	Ἀρταξέρξῃ	Ἀρταξέρξῃ	image (3x): smooth breathing (apostrophe shape) on the capital Α
+esth	oldtestamenting02swet	776	6	᾿ὑπέδειξον	ὑπέδειξεν	ὑπέδειξεν	ὑπέδειξεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	776	6	βασιλεῖ	βασιλει	βασιλεῖ	βασιλεῖ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+esth	oldtestamenting02swet	776	7	πρὶ	περὶ	περὶ	περὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	776	7	αὐτῶν: +"!	αὐτῶν: +"!	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+esth	oldtestamenting02swet	776	7	ὀευτάς	πεεάσει	ἐξήτασεν	ἐξήτασεν	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	7	εὐνρυν +ον τὰν ὦ 153)	εὐνούχους, +τὰ Ὁ 13)	εὐνούχους,	εὐνούχους,	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	8	ΟΠ +λΟΥ Ἰσαν πες	ὁμολογήσαντες	ὁμολογήσαντες	ὁμολογήσαντες	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	776	8	ἀπήχθησαν, +"5	ἰπήχθήσων, +15	ἀπήχθησαν,	ἀπήχθησαν,	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	8	καὶ +ὶ	καὶ +ὶ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+esth	oldtestamenting02swet	776	8	τοὺς +τς (4)	τοὺς +τς (4)	τοὺς	τοὺς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+esth	oldtestamenting02swet	776	9	δἰϑημόσυνον,	ἐπ +ὐημάτυρονς κα	μνημόσυνον,	μνημόσυνον,	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	9	γιαρδοχαῖος	Μαρδοχαῖος	Μαρδοχαῖος	Μαρδοχαῖος	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	776	9	τ--	περὶ-	περὶ	περὶ	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	10	τῶν	ὧν	τῶν	τῶν	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	776	10	λύγων	λύγων	λόγων	λόγων	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	10	τούτων:	τούτων: +"“	τούτων·	τούτων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+esth	oldtestamenting02swet	776	10	“καὶ	καὶ +᾿	καὶ	καὶ	class R1+R3: OCR fused/misread the superscript verse number into the word; OCR appended accent-row or margin junk; c read from the image strip
+esth	oldtestamenting02swet	776	10	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave printed before the capitalized name (not a quotation)
+esth	oldtestamenting02swet	776	10	ἀτ-	,εἈιφρθοχαίῳ +τ6 (9)	Μαρδοχαίῳ	Μαρδοχαίῳ	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	11	αίῳ +τό (5) θεραπεύξα	θεραπεύειν	θεραπεύειν	θεραπεύειν	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	776	11	τῇ,	τῇη	τῇ	τῇ	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	11	δύμηται	δό +τα	δόματα	δόματα	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	11	τούτων. +17	τούτων. +17	τούτων.	τούτων.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+esth	oldtestamenting02swet	776	12	ἢν	ἦν	ἦν	ἦν	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	12	“μὰν	“Ἀμὰν	Ἁμὰν	Ἁμὰν	image (3x): rough breathing (reversed comma, opening left) on both capitals; grave on Ἁμὰν as printed
+esth	oldtestamenting02swet	776	12	ἐλπίϑα	«λίίδαι	Ἁμαδάθου	Ἁμαδάθου	image (3x): rough breathing (reversed comma, opening left) on both capitals; grave on Ἁμὰν as printed
+esth	oldtestamenting02swet	776	12	ου	Φ	Βουγαῖος	Βουγαῖος	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	12	οι +γδίος τ΄.	Βουγιίς +ἔνδρξος	ἔνδοξος	ἔνδοξος	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	12	τοῦ	«οὐ	τοῦ	τοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	776	12	βασι +17 (0)	Βασι: +170. (6)	βασι-	βασι-	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	13	ἘΠΚΟΙΟΥ +ΠΟΙ	κακοκοιῆσαι	κακοποιῆσαι	κακοποιῆσαι	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	14	εὐπου	εὐνούχων:	εὐνούχων	εὐνούχων	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	14	ΧΕ:	τοῦ.	τοῦ	τοῦ	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	14	τοῦ. +ΒΕΘΊΣΕΘΝ, φευταάιῖς 38. τ:	βασιλέως. +ςευάπαιεῖς 33. τ᾽	βασιλέως.	βασιλέως.	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	15	ἐγένετο +εν	ἐγένετο +μεια	ἐγένετο	ἐγένετο	class R3: OCR appended accent-row or margin junk; c read from the image strip
+esth	oldtestamenting02swet	776	15	τὸ	τὸ	τοὺς	τοὺς	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	15	που +ς	ἡ +λον» ς	λόγους	λόγους	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	15	Ἀρταξέρξου	Αρταξέρέξου,	Ἀρταξέρξου,	Ἀρταξέρξου,	image (3x): smooth breathing (apostrophe shape) on the capital Α
+esth	oldtestamenting02swet	776	16	ΠΣ	οὐτοιρό	οὗτος	οὗτος	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	16	ποτ +5	∅	ὁ	ὁ	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	16	Ἀρταξέρξης	Ἀρταξέρξης	Ἀρταξέρξης	Ἀρταξέρξης	image (3x): smooth breathing (apostrophe shape) on the capital Α
+esth	oldtestamenting02swet	776	16	Ἰνδικῆς,	Ἰνδικῆς,	Ἰνδικῆς	Ἰνδικῆς	image (3x): smooth breathing on Ι; no printed comma after Ἰνδικῆς visible, the dark mark there is a handwritten caret
+esth	oldtestamenting02swet	776	17	“ἐν	"ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+esth	oldtestamenting02swet	776	17	αὐταῖς	αὐταῖς +τ	αὐταῖς	αὐταῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+esth	oldtestamenting02swet	776	17	εθλν» +νίσθη	ἐθρον +νίσθη	ἐθρονίσθη	ἐθρονίσθη	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	17	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave printed before the capitalized name (not a quotation)
+esth	oldtestamenting02swet	776	17	τ	ἰἌρται	Ἀρτα-	Ἀρτα-	image (3x): smooth breathing (apostrophe shape) on the capital Α
+esth	oldtestamenting02swet	776	18	ξέρξης;	ξέρξης,	ξέρξης	ξέρξης	image (3x): no printed punctuation after ξέρξης; the mark below is a handwritten caret and the mark above a Hebrew vowel sign
+esth	oldtestamenting02swet	776	18	Τῇ	τῇ	τῇ	τῇ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+esth	oldtestamenting02swet	776	18	ΤΕΣ	λει	πόλει,	πόλει,	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	18	δὲν	δέν	ἐν	ἐν	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	19	ἐποί +σεῦ	ἐποί +σεῦ	ἐποίησεν	ἐποίησεν	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	19	ίλοις	ίλοις	φίλοις	φίλοις	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	19	Ἐς	λθιμέθεε	λοιποῖς	λοιποῖς	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	20	Δ1ὴ0	ν	Μήδων	Μήδων	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	20	ων +ἐνϑὸο, Ἶπ	ἠδ +ων ἐνϑδοι ΣῊ	ἐνδόξοις	ἐνδόξοις	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	20	τοῖς +Ἰρχ	τοῖς +ἴρχ	τοῖς	τοῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+esth	oldtestamenting02swet	776	20	σατραήϊῆῶν,	σατραήϊῶν,	σατραπῶν.	σατραπῶν.	image (7x): punctuation after σατραπῶν hidden by the dark apex of a handwritten caret; read period
+esth	oldtestamenting02swet	776	20	“καὶ +μ	“καὶ +μ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+esth	oldtestamenting02swet	776	21	μετὴς	μετὴς	μετὰ	μετὰ	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	21	Ἰτὴ	ἐτῇς	τῆς	τῆς	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	21	βασιλέι	βασιλείας	βασιλείας	βασιλείας	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	776	22	τῆς	ΤῊ"	τῆς	τῆς	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	776	22	εὐφροσυνής᾽	εὐφρο	εὐφροσύνης	εὐφροσύνης	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	22	τοῦ	οσυνὴής΄ +Του	τοῦ	τοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	776	22	ἐν	κεν	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	776	22	ὀγδοήκοντα"	ὀγδοήκοντα᾽	ὀγδοήκοντα·	ὀγδοήκοντα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+esth	oldtestamenting02swet	776	23	5ὅτε	ϑὅτε	ὅτε	ὅτε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+esth	oldtestamenting02swet	776	23	ἀνεῃ +ληρώθησαν	ἀνεῃ +πληρήθησων	ἀνεπληρώθησαν	ἀνεπληρώθησαν	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	23	(οῦ	(φοῦ	τοῦ	τοῦ	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	23	γάμου)	γάμου)	γάμου,	γάμου,	image (7x): printed comma after γάμου under a grey handwritten bracket
+esth	oldtestamenting02swet	776	23	ἀρυρα	ἐποίησέν	ἐποίησεν	ἐποίησεν	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	24	ΤΌΠΟΣ	∅	πότον	πότον	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	24	τοῖς	∅	τοῖς	τοῖς	class R0: OCR lost the word in extraction; c read from the image strip
+esth	oldtestamenting02swet	776	24	ἔθνεσὶν	∅	ἔθνεσιν	ἔθνεσιν	image (8x): mark over ι is the foot of a handwritten Hebrew letter, no printed accent; ἔθνεσιν
+esth	oldtestamenting02swet	776	24	τοῖς	∅	τοῖς	τοῖς	class R0: OCR lost the word in extraction; c read from the image strip
+esth	oldtestamenting02swet	776	24	εὑρεθεῖσμν	∅	εὑρεθεῖσιν	εὑρεθεῖσιν	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	24	εἰς	∅	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+esth	oldtestamenting02swet	776	24	τὴν	∅	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+esth	oldtestamenting02swet	776	24	πόλιν͵	∅	πόλιν	πόλιν	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	24	ἐπὶ	∅	ἐπὶ	ἐπὶ	class R0: OCR lost the word in extraction; c read from the image strip
+esth	oldtestamenting02swet	776	24	ἡμέρας	∅	ἡμέρας	ἡμέρας	class R0: OCR lost the word in extraction; c read from the image strip
+esth	oldtestamenting02swet	776	24	ΕἾ	∅	ἓξ	ἓξ	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	24	ἐν	∅	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+esth	oldtestamenting02swet	776	25	τος	αὐλῇ	αὐλῇ	αὐλῇ	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	776	25	ϑίκου	ϑίκου	οἴκου	οἴκου	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	25	τοῦ +τοῦ	τοῦ +τοῦ	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+esth	oldtestamenting02swet	776	25	ἐπ +μιχα ενξες	ΡΕΔΥΒΕΝ	βυσσίνοις	βυσσίνοις	image (3x): word read letter by letter from the strip and zooms; OCR confused by handwritten notes, underlines and carets over the print, which are not text
+esth	oldtestamenting02swet	776	4	-	-	αὐλην,	αὐλήν,	ambiguous: the acute over η is partly hidden by a handwritten ink underline of the line above; the visible lower end of the stroke reads as an acute (coordinator, 8x)
+esth	oldtestamenting02swet	776	20	-	-	σατραπῶν.	σατραπῶν.	ambiguous: the printed point after σατραπῶν is hidden by a handwritten caret; read period
+esth	oldtestamenting02swet	776	16	-	-	Ἰνδικῆς	Ἰνδικῆς	ambiguous: a handwritten caret stands right after the word at the baseline and could hide a comma; none visible
+esth	oldtestamenting02swet	776	13	-	-	ἐζήτησεν	ἐζήτησεν	image (7x): a handwritten curve runs through ζ; the printed letters are legible
+esth	oldtestamenting02swet	776	15	-	-	λόγους	λόγους	image (3x): a handwritten cross over τοὺς and a stroke through ου of λόγους; printed letters legible
+esth	oldtestamenting02swet	776	23	-	-	τοῦ	τοῦ	image (3x): a handwritten bracket ( before τοῦ is not text
+esth	oldtestamenting02swet	776	22	-	-	εὐφροσύνης	εὐφροσύνης	image (3x): handwritten underline and Hebrew over the word; printed letters legible
+esth	oldtestamenting02swet	776	4	-	-	λογισμους	λογισμους	ambiguous: no accent visible, but the descender of the handwritten gloss above stands where an acute over ου would be (coordinator, 6x); kept unaccented as read
+esth	oldtestamenting02swet	776	4	-	-	μεριμνας	μεριμνας	ambiguous: no accent visible, but the descender of the handwritten gloss purposes ends just over ι where an acute would stand (coordinator, 6x); kept unaccented as read

@@ -37,6 +37,10 @@
 
 (lemma "Ἰετούρ" (sense name (gloss "Jetur") (why "(LXX, supplied.) A son of Ishmael (Genesis 25:15), traditional English Jetur.")))
 
+(lemma "ἱκανός" (sense sufficient (gloss "sufficient") (why "Enough, sufficient; of persons, fit, worthy (Genesis 30:15, Leah: Οὐχ ἱκανόν σοι ὅτι ἔλαβες τὸν ἄνδρα μου; Matthew 3:11; 2 Corinthians 2:16). \"Sufficient\" serves the things and the persons; \"many\" (Luke 7:11) may become its own sense.")))
+
+(lemma "ἵλεως" (sense gracious (gloss "gracious") (why "Propitious, gracious, merciful (Genesis 43:23 Ἵλεως ὑμῖν, \"Gracious [be God] to you\", the steward's greeting; Matthew 16:22 Ἵλεώς σοι; Hebrews 8:12). Akin to ἱλάσκομαι.")))
+
 (lemma "ἱμάτιον" (sense garment (gloss "garment" "garments") (why "A garment, the outer cloak (Genesis 9:23, Shem and Japheth took τὸ ἱμάτιον; Matthew 5:40; John 19:23-24). \"Garment\" against χιτών \"tunic\".")))
 
 (lemma "ἱματισμός" (sense clothing (gloss "clothing") (why "Clothing, apparel (Genesis 24:53, gold and silver articles and clothing for Rebekah; Luke 9:29; John 19:24). Kept apart from ἱμάτιον \"garment\".")))
@@ -53,7 +57,13 @@
 
 (lemma "Ἰουβάλ" (sense name (gloss "Jubal") (why "(LXX, supplied.) Genesis 4:21, traditional English Jubal.")))
 
+(lemma "Ἰούδας" (sense name (gloss "Judah") (why "Jacob's fourth son by Leah (Genesis 29:35, Swete's indeclinable Ἰουδά, named from ἐξομολογήσομαι; 38; 49:8-10); Matthew 1:2-3 and Hebrews 7:14 Ἰούδας, declined. Traditional English Judah. The New Testament's other men of the name (Judas Iscariot, Jude) will need their own sense.")))
+
 (lemma "Ἰουδίν" (sense name (gloss "Judith") (why "(LXX, supplied.) Esau's Hittite wife (Genesis 26:34), Greek Ἰουδίν for the Hebrew Judith; traditional English Judith.")))
+
+(lemma "ἱππόδρομος" (sense racecourse (gloss "racecourse" "racecourses") (why "(LXX, supplied.) A course for horse races (ἵππος + δρόμος), and so a measure of distance (Genesis 48:7, Rachel died κατὰ τὸν ἱππόδρομον χαβραθὰ τῆς γῆς, and was buried in the way of the racecourse). \"Racecourse\" keeps the Greek picture; the Hebrew has a stretch of land.")))
+
+(lemma "ἱππεύς" (sense horseman (person) (plural "horsemen") (gloss "horseman" "horsemen") (why "(LXX form supplied.) A horseman, rider (Genesis 49:17, the rider falls backward; 50:9, chariots and horsemen; Acts 23:23, 32).")))
 
 (lemma "ἵππος"
   (sense horse (gloss "horse" "horses") (why "A horse (James 3:3; Revelation 6:2)."))
@@ -63,7 +73,11 @@
 
 (lemma "Ἰσμαήλ" (sense name (gloss "Ishmael") (why "(LXX, supplied.) Abraham's son by Hagar (Genesis 16:11-17:26); traditional English Ishmael.")))
 
+(lemma "Ἰσμαηλίτης" (sense name (person) (gloss "Ishmaelite" "Ishmaelites") (why "(LXX, supplied.) A descendant of Ishmael (Ἰσμαήλ), the traders who bought Joseph (Genesis 37:25-28; 39:1). Swete spells it both Ἰσμαηλίτης (37:27) and Ἰσμαηλείτης (37:25; 39:1).")))
+
 (lemma "Ἰσραήλ" (sense name (gloss "Israel") (why "Traditional English form.")))
+
+(lemma "Ἰσσαχάρ" (sense name (gloss "Issachar") (why "Jacob's fifth son by Leah (Genesis 30:18, ὅ ἐστιν Μισθός \"which is Wage\"); Revelation 7:7 Ἰσσαχάρ. Traditional English Issachar.")))
 
 (lemma "ἵστημι" (sense stand (gloss "stand" "stood" "stands" "standing") (why "Intransitive: to stand. The transitive \"set, make stand\" becomes its own sense."))
   (sense establish
@@ -85,5 +99,7 @@
 (lemma "Ἰωβάβ" (sense name (gloss "Jobab") (why "(LXX, supplied.) A son of Joktan (Genesis 10:29), traditional English Jobab.")))
 
 (lemma "Ἰωβέλ" (sense name (gloss "Jabal") (why "(LXX, supplied.) Genesis 4:20, traditional English Jabal.")))
+
+(lemma "Ἰωσήφ" (sense name (gloss "Joseph") (why "Jacob's son by Rachel (Genesis 30:24 onward; John 4:5; Acts 7:9-18; Hebrews 11:22); the same name as Joseph the husband of Mary (Matthew 1:16). Traditional English Joseph, indeclinable in Greek.")))
 
 (lemma "Ἰωυάν" (sense name (gloss "Javan") (why "(LXX, supplied.) Japheth's son (Genesis 10:2, 4), Greek Ἰωυάν; traditional English Javan.")))

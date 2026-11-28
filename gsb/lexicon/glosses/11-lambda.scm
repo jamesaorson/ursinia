@@ -6,6 +6,8 @@
 
 (lemma "Λαβιείμ" (sense name (person) (plural "Lehabim") (gloss "Lehabim") (why "(LXX, supplied.) A people descended from Mizraim (Genesis 10:13), Greek Λαβιείμ; traditional English Lehabim.")))
 
+(lemma "λάκκος" (sense pit (gloss "pit" "pits") (why "(LXX, supplied.) A pit, cistern; a dungeon (Genesis 37:20-29, the pit Joseph was thrown into; 40:15, the prison called \"this pit\").")))
+
 (lemma "λαλέω" (sense speak (gloss "speak" "spoke" "spoken" "speaks" "speaking") (why "To speak; kept apart from λέγω \"say\".")))
 
 (lemma "λαμβάνω"
@@ -30,7 +32,19 @@
     (gloss "say" "said" "says" "saying")
     (why "To say. The table lemmatizes εἶπον under λέγω; both are \"say\".")))
 
+(lemma "Λεία" (sense name (gloss "Leah") (why "(LXX, supplied.) Laban's older daughter, Jacob's wife (Genesis 29:16-35; 30-31; 49:31), Greek Λεία, declined (Λείας, Λείᾳ, Λείαν); traditional English Leah.")))
+
 (lemma "λεῖος" (sense smooth (gloss "smooth") (why "Smooth (Genesis 27:11, Jacob ἀνὴρ λεῖος against Esau ἀνὴρ δασύς; Luke 3:5 quoting Isaiah 40:4). (LXX form supplied.)")))
+
+(lemma "λεπίζω" (sense peel (gloss "peel" "peeled" "peels" "peeling") (why "(LXX, supplied.) To strip off the bark or rind, peel (Genesis 30:37-38, Jacob peeled the rods in white peelings, λεπίσματα).")))
+
+(lemma "λέπισμα" (sense peeling (gloss "peeling" "peelings") (why "(LXX, supplied.) A strip peeled off, peeling (Genesis 30:37 ἐλέπισεν αὐτὰς λεπίσματα λευκά), the noun of λεπίζω \"peel\".")))
+
+(lemma "Λευί" (sense name (gloss "Levi") (why "Jacob's third son by Leah (Genesis 29:34; 34:25; 49:5); Hebrews 7:5, 9 and Revelation 7:7 Λευί (Nestle spells Λευεί), the same name as the tax collector Levi (Mark 2:14). Traditional English Levi.")))
+
+(lemma "λευκός" (sense white (gloss "white") (why "White (Genesis 30:35, 37; 31:8; 49:12; Matthew 5:36; 17:2; Revelation 1:14).")))
+
+(lemma "ληνός" (sense vat (gloss "vat" "vats") (why "A trough or tub; the winepress vat (Revelation 14:19-20; Matthew 21:33). Genesis 30:38, 41 ἐν ταῖς ληνοῖς τῶν ποτιστηρίων, the vats of the watering troughs. \"Vat\" keeps it apart from ποτιστήριον \"trough\".")))
 
 (lemma "λίαν"
   (sense very
@@ -57,6 +71,8 @@
 
 (lemma "Λουδιείμ" (sense name (person) (plural "Ludim") (gloss "Ludim") (why "(LXX, supplied.) A people descended from Mizraim (Genesis 10:13), Greek Λουδιείμ; traditional English Ludim.")))
 
+(lemma "λοχεύω" (sense bear-young (voice active) (verb "bear young" "bore young" "borne young") (gloss "bear young" "bore young" "borne young" "bears young" "bearing young") (why "(LXX, supplied.) To bring to birth; middle and passive, to be giving birth, have young (Genesis 33:13, the sheep and the cows are bearing young upon me). Kept apart from τίκτω \"bear\".")))
+
 (lemma "Λοωμείμ" (sense name (gloss "Leummim") (why "(LXX, supplied.) A son of Dedan (Genesis 25:3), traditional English Leummim.")))
 
 (lemma "λυπέω" (sense grieve (gloss "grieve" "grieved" "grieves" "grieving") (why "To grieve, cause sorrow; passive, be grieved. The verb of λύπη \"sorrow\".")))
@@ -65,5 +81,7 @@
   (sense sorrow
     (gloss "sorrow" "sorrows")
     (why "Grief, sorrow, pain (Genesis 3:16-17; John 16:6, 20-22). John 16:21 (\"the woman, when she gives birth, has sorrow\") echoes Genesis 3:16; one gloss keeps it visible.")))
+
+(lemma "λυπηρός" (sense grievous (gloss "grievous") (why "(LXX, supplied.) Painful, grievous (Genesis 34:7, λυπηρὸν ἦν αὐτοῖς σφόδρα, it was grievous to them exceedingly). The adjective of λύπη \"grief\".")))
 
 (lemma "Λώτ" (sense name (gloss "Lot") (why "Haran's son, Abram's nephew (Genesis 11:27-31; 12:4-5; Luke 17:28-32; 2 Peter 2:7), traditional English Lot.")))

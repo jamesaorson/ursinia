@@ -37,6 +37,8 @@
 
 (lemma "παραλαμβάνω" (sense take-along (gloss "take along" "took along" "takes along" "taking along" "taken along") (why "To take to oneself, take along (Genesis 22:3 παρέλαβεν δὲ μεθ' ἑαυτοῦ δύο παῖδας; Matthew 2:13-14, 17:1). \"Take along\" keeps it apart from λαμβάνω \"take\"; receiving a teaching (1 Corinthians 11:23) will need its own sense.")))
 
+(lemma "παραλογίζομαι" (sense cheat (gloss "cheat" "cheated" "cheats" "cheating") (why "To reckon falsely, cheat, deceive by a false account (Genesis 29:25, Jacob to Laban: ἵνα τί παρελογίσω με; 31:7, 41 the wage; Colossians 2:4; James 1:22). \"Cheat\" keeps it apart from ἀπατάω \"deceive\".")))
+
 (lemma "παραλύω" (sense undo (gloss "undo" "undid" "undone" "undoes" "undoing") (why "(LXX sense, supplied.) To loose, undo, disable; in the New Testament the passive is \"paralyzed\". Genesis 4:15 ἑπτὰ ἐκδικούμενα παραλύσει, \"he will undo seven avenged [things]\"; the sense is disputed and noted.")))
 
 (lemma "παρασιωπάω" (sense keep-silent(gloss "keep silent" "kept silent" "keeps silent" "keeping silent") (why "(LXX, supplied.) To pass over in silence, keep silent (Genesis 24:21, the man was keeping silent to learn whether the Lord had prospered his way). Kept apart from σιωπάω, which may take \"be silent\".")))
@@ -44,6 +46,8 @@
 (lemma "παρατάσσω" (sense line-up (verb "line up" "lined up" "lined up") (dative "against") (gloss "line up" "lined up" "lines up" "lining up") (why "(LXX, supplied.) To draw up side by side; middle, to draw up for battle against someone, with the dative (Genesis 14:8, they lined up against them for war).")))
 
 (lemma "παρατίθημι" (sense set-before (verb "set before" "set before" "set before") (dative "")(gloss "set before" "sets before" "setting before") (why "To set before, place beside, of food served (Genesis 18:8 παρέθηκεν αὐτοῖς; Mark 6:41; Luke 10:8); the middle \"entrust\" (Luke 23:46) will be its own sense.")))
+
+(lemma "παρεμβάλλω" (sense pitch-camp (verb "pitch camp" "pitched camp" "pitched camp") (gloss "pitch camp" "pitched camp" "pitches camp" "pitching camp") (why "(LXX, supplied.) To set up a camp, encamp (Genesis 33:18, Jacob pitched camp in front of the city; Luke 19:43 παρεμβαλοῦσιν χάρακα, they will set up a rampart). Kept apart from στρατοπεδεύω \"encamp\" and σκηνόω \"camp\".")))
 
 (lemma "παρεπίδημος" (sense temporary-resident (person) (gloss "temporary resident" "temporary residents") (why "One staying for a time among a foreign people, a temporary resident (Genesis 23:4, Πάροικος καὶ παρεπίδημος, taken up in Hebrews 11:13 and 1 Peter 2:11, \"strangers and pilgrims\"). Kept apart from πάροικος \"sojourner\" and ξένος, which will take \"stranger\".")))
 
@@ -103,6 +107,8 @@
 
 (lemma "πεντήκοντα" (sense fifty (gloss "fifty") (why "The numeral fifty (Genesis 5:31; 6:15; Luke 7:41).")))
 
+(lemma "πέπειρος" (sense ripe (gloss "ripe") (why "(LXX, supplied.) Ripe, of fruit (Genesis 40:10, the clusters of grape ripe).")))
+
 (lemma "περάτης" (sense migrant (person) (gloss "migrant" "migrants") (why "(LXX, supplied.) One who crosses over, from πέραν \"across\" (Genesis 14:13, Abram the migrant), where the Hebrew has \"the Hebrew\" (ʿibri, read as \"one from beyond\"). \"Migrant\" says the crossing without a name; the owner may prefer \"crosser\" or \"wanderer\".")))
 
 (lemma "περί" (sense concerning (gloss "concerning") (why "With the genitive: about, concerning (Genesis 17:20 περὶ δὲ Ἰσμαήλ; John 1:7). With the accusative (\"around\") it will take its own sense."))
@@ -120,6 +126,8 @@
     (gloss "apron" "aprons")
     (why "(LXX, supplied.) Something girded around the waist, an apron or loincloth (Genesis 3:7). Not in the New Testament; ζώνη will take \"belt\".")))
 
+(lemma "περιλαμβάνω" (sense embrace (gloss "embrace" "embraced" "embraces" "embracing") (why "(LXX, supplied.) To take in one's arms, embrace (Genesis 48:10, Israel kissed and embraced Joseph's sons). Kept apart from λαμβάνω \"take\" and its other compounds.")))
+
 (lemma "περίλυπος" (sense deeply-grieved (gloss "deeply grieved") (why "Very sorrowful, deeply grieved (Matthew 26:38); from λύπη \"sorrow\".")))
 
 (lemma "περικυκλόω" (sense surround (gloss "surround" "surrounded" "surrounds" "surrounding") (why "To encircle completely, surround (Genesis 19:4, the men of Sodom surrounded the house; Luke 19:43). \"Surround\" keeps it apart from κυκλόω \"encircle\".")))
@@ -135,6 +143,8 @@
 
 (lemma "περιστερά" (sense dove (gloss "dove" "doves") (why "A dove, pigeon (Genesis 8:8-12, the dove Noah sent out; Matthew 3:16, the Spirit descending as a dove).")))
 
+(lemma "περισύρω" (sense strip-off (verb "strip off" "stripped off" "stripped off") (gloss "strip off" "stripped off" "strips off" "stripping off") (why "(LXX, supplied.) To draw off all round, strip off (Genesis 30:37, Jacob peeling the rods, περισύρων τὸ χλωρόν, the green bark).")))
+
 (lemma "περιτέμνω" (sense circumcise (gloss "circumcise" "circumcised" "circumcises" "circumcising") (why "To cut around, circumcise (Genesis 17:10-27; Luke 1:59; Galatians 5:2). The passive with an accusative of the part, περιτμηθήσεσθε τὴν σάρκα (Genesis 17:11), keeps that accusative in the literal layer.")))
 
 (lemma "περιτίθημι" (sense put-around (gloss "put around" "puts around" "putting around") (why "To put around, put on (Genesis 27:16, the kids' skins put around Jacob's arms; Matthew 27:28, 48; Mark 15:17). \"Put around\" follows τίθημι \"put\". (LXX form supplied.)")))
@@ -149,6 +159,8 @@
   (sense bird
     (gloss "bird" "birds")
     (why "Winged; as a noun, a bird (Genesis 1-2; Matthew 6:26, \"the birds of the heaven\"). Some forms supplied by hand.")))
+
+(lemma "Πετεφρῆς" (sense name (gloss "Potiphar") (why "(LXX, supplied.) Pharaoh's officer who bought Joseph (Genesis 39:1 Πετεφρῆς; 37:36 the dative Πετρεφῇ). The Greek form of the Hebrew Potiphar, so traditional English Potiphar. Whether Πετεφρῆ the priest of On (Genesis 41:45, Hebrew Potiphera) takes this lemma is for that chapter.")))
 
 (lemma "πέτομαι"
   (sense fly
@@ -187,11 +199,15 @@
     (gloss "form" "formed" "forms" "forming")
     (why "(Supplied in Genesis 2, where the forms are LXX-only.) To form, mold, as a potter (Romans 9:20; 1 Timothy 2:13, \"Adam was formed first\"). \"Form\" keeps it apart from ποιέω \"make\" and κτίζω \"create\".")))
 
+(lemma "πλάτανος" (sense plane-tree (plural "plane trees") (gloss "plane tree" "plane trees") (why "(LXX, supplied.) The plane tree (Genesis 30:37, a rod καὶ πλατάνου, of plane tree, among Jacob's rods).")))
+
 (lemma "πλατεῖα" (sense street (gloss "street" "streets") (why "(LXX form supplied.) A broad way, street, square (Genesis 19:2 ἐν τῇ πλατείᾳ καταλύσομεν; Matthew 6:5; Luke 14:21): the feminine of πλατύς \"broad\" used as a noun.")))
 
 (lemma "πλάτος" (sense breadth (gloss "breadth") (why "Breadth, width (Genesis 6:15; Ephesians 3:18; Revelation 21:16).")))
 
 (lemma "πλατύνω" (sense enlarge (dative "for") (gloss "enlarge" "enlarged" "enlarges" "enlarging") (why "To make broad, enlarge (Genesis 9:27, πλατύναι ὁ θεὸς τῷ Ἰάφεθ, \"may God enlarge for Japheth\", the dative of advantage; Matthew 23:5; 2 Corinthians 6:11, 13). Against πλάτος \"breadth\".")))
+
+(lemma "πλατύς" (sense broad (gloss "broad") (why "Broad, wide (Genesis 34:10, 21, the land broad in front of you; Matthew 7:13, the broad gate). Its feminine used as a noun is πλατεῖα \"street\".")))
 
 (lemma "πλευρά"
   (sense side
@@ -222,6 +238,8 @@
 
 (lemma "πλούσιος" (sense rich (dative "in") (gloss "rich") (why "Rich, wealthy (Genesis 13:2, Abram was very rich; Matthew 19:23).")))
 
+(lemma "πλουτέω" (sense grow-rich (verb "grow rich" "grew rich" "grown rich") (gloss "grow rich" "grew rich" "grown rich" "grows rich" "growing rich") (why "To be rich; in the aorist, to become rich (Genesis 30:43 ἐπλούτησεν ὁ ἄνθρωπος σφόδρα σφόδρα; Luke 1:53; 1 Corinthians 4:8). \"Grow rich\" gives every tense one verb; πλούσιος is \"rich\", πλουτίζω \"enrich\".")))
+
 (lemma "πλουτίζω" (sense enrich (gloss "enrich" "enriched" "enriches" "enriching") (why "To make rich, enrich (Genesis 14:23, I enriched Abram; 1 Corinthians 1:5). Beside πλούσιος \"rich\".")))
 
 (lemma "πνεῦμα"
@@ -244,7 +262,13 @@
     (gloss "do" "did" "done" "does" "doing")
     (why "To do, perform an act (Genesis 3:13-14, \"you did this\"). English cannot say \"make this\" of a deed.")))
 
+(lemma "ποικίλος" (sense many-colored (gloss "many-colored") (why "Of many colors, variegated, spotted (Genesis 30:32-39 and 31:8-12, Jacob's wage among the flocks); in the New Testament \"of many kinds, various\" (Matthew 4:24; 1 Peter 4:10), which may become its own sense. \"Many-colored\" keeps it apart from ῥαντός \"speckled\" and διάλευκος \"white-flecked\".")))
+
+(lemma "ποιμαίνω" (sense tend (gloss "tend" "tended" "tends" "tending") (why "To be shepherd of, tend a flock (Genesis 30:31, 36, Jacob tending Laban's sheep; Luke 17:7; John 21:16; 1 Peter 5:2). \"Tend\" keeps it apart from the noun ποιμήν \"shepherd\" and βόσκω \"pasture\".")))
+
 (lemma "ποιμήν" (sense shepherd (person) (gloss "shepherd" "shepherds") (why "Shepherd (Genesis 4:2; John 10:11).")))
+
+(lemma "ποίμνιον" (sense flock (gloss "flock" "flocks") (why "A flock (Genesis 29:2-3, the flocks at the well; 30:40; Luke 12:32; Acts 20:28-29; 1 Peter 5:2-3).")))
 
 (lemma "πόλεμος" (sense war (with-preposition "εἰς" for) (gloss "war" "wars") (why "War, battle (Genesis 14:2, 8, they made war; Matthew 24:6). \"War\" keeps it apart from μάχη \"quarrel\".")))
 
@@ -263,10 +287,18 @@
     (gloss "evil")
     (why "Evil, bad (Genesis 2:9, 17; 3:5, 22). κακός will need its own gloss (\"bad\") so the two do not merge.")))
 
+(lemma "πόνος" (sense pain (gloss "pain" "pains") (why "Toil, pain (Genesis 34:25, on the third day, when they were in the pain of circumcision; Revelation 16:10-11; 21:4).")))
+
 (lemma "πορεύομαι"
   (sense go
     (gloss "go" "goes" "went" "going" "gone")
     (why "To go, travel; figuratively to live (Luke 1:6). Genesis 3:14 πορεύσῃ, \"you will go\".")))
+
+(lemma "πόσος" (sense how-many (gloss "how many") (why "How great, how many; with a plural, how many (Genesis 47:8 Πόσα ἔτη ἡμερῶν τῆς ζωῆς σου; Matthew 15:34; Luke 15:17). (LXX form supplied.)")))
+
+(lemma "πόρευσις" (sense journey (gloss "journey") (why "(LXX, supplied.) A going, journeying (Genesis 33:14, κατὰ σχολὴν τῆς πορεύσεως, at the leisure of the journey). The noun of πορεύομαι \"go\".")))
+
+(lemma "πόρνη" (sense harlot (gloss "harlot" "harlots") (why "A prostitute, harlot (Genesis 34:31, ὡσεὶ πόρνῃ, as with a harlot; 38:15; Matthew 21:31; Hebrews 11:31, Rahab). The literal layer keeps the traditional \"harlot\".")))
 
 (lemma "ποταμός"
   (sense river
@@ -278,6 +310,8 @@
     (gloss "ever")
     (why "Enclitic \"at some time, ever\". After μή (Genesis 3:22, printed as two words in Swete) it is \"lest ... ever\". The past \"once, formerly\" (Ephesians 2:2) becomes its own sense.")))
 
+(lemma "ποτήριον" (sense cup (gloss "cup" "cups") (why "A drinking cup (Genesis 40:11-21, Pharaoh's cup; 44:2; Matthew 26:27; 1 Corinthians 11:25).")))
+
 (lemma "ποτίζω"
   (sense water
     (gloss "water" "waters" "watered" "watering")
@@ -287,6 +321,8 @@
 (lemma "ποτιστήριον" (sense trough (gloss "trough" "troughs") (why "(LXX, supplied.) A watering trough (Genesis 24:20; 30:38). From ποτίζω \"water\".")))
 
 (lemma "πότος" (sense drinking-party (gloss "drinking party" "drinking parties") (why "A drinking, a drinking party, feast (Genesis 19:3 ἐποίησεν αὐτοῖς πότον; 1 Peter 4:3). The noun of πίνω \"drink\".")))
+
+(lemma "πότε" (sense when (gloss "when") (why "Interrogative, when? at what time? (Genesis 30:30, Jacob: πότε ποιήσω κἀγὼ ἐμαυτῷ οἶκον; Matthew 24:3; Luke 21:7). The English \"when\" is shared with the relative ὅτε; the question mark and the Greek show which stands.")))
 
 (lemma "ποῦ"
   (sense where
@@ -306,14 +342,20 @@
 
 (lemma "πρεσβύτης" (sense old-man (person) (gloss "old man" "old men") (why "An old man (Genesis 25:8, Abraham died πρεσβύτης καὶ πλήρης ἡμερῶν; Luke 1:18; Philemon 9). Kept apart from πρεσβύτερος \"elder\".")))
 
+(lemma "πρίν" (sense before (gloss "before") (why "Before, sooner than, with an infinitive, often πρὶν ἤ (Genesis 29:26 δοῦναι τὴν νεωτέραν πρὶν ἢ τὴν πρεσβυτέραν; Matthew 26:34; John 8:58). The English \"before\" is shared with the preposition πρό: no other plain English word fits, and the Greek shows which stands.")))
+
 (lemma "πρό"
   (sense before
     (gloss "before")
     (why "Before, of time or place. πρὸ τοῦ + infinitive is \"before [it] ...\".")))
 
+(lemma "προαιρέω" (sense prefer (gloss "prefer" "preferred" "prefers" "preferring") (why "(LXX, supplied.) Middle, to choose for oneself before others, prefer (Genesis 34:8, Shechem preferred your daughter in [his] soul; 2 Corinthians 9:7, προῄρηται, has purposed).")))
+
 (lemma "προβαίνω" (sense advance (gloss "advance" "advanced" "advances" "advancing") (why "To go forward, advance; of age, προβεβηκότες ἡμερῶν \"having advanced of days\" (Genesis 18:11; Luke 1:7, 18, of Zechariah and Elizabeth, the same phrase with ἐν).")))
 
 (lemma "πρόβατον" (sense sheep (gloss "sheep") (why "Sheep (Genesis 4:2; John 10). The English plural is the same word.")))
+
+(lemma "προέρχομαι" (sense go-forward (verb "go forward" "went forward" "gone forward") (gloss "go forward" "went forward" "gone forward" "goes forward" "going forward") (why "To go forward, go on ahead (Genesis 33:14, let my lord go forward ahead of the servant; Mark 14:35, προελθὼν μικρόν; Luke 1:17). \"Go forward\" avoids \"go ahead ahead of\" with ἔμπροσθεν.")))
 
 (lemma "πρός"
   (sense with
@@ -332,6 +374,12 @@
     (why "Of time, with a genitive or an adverb: toward, near (Genesis 24:11 τὸ πρὸς ὀψέ, \"toward late\"; 24:63 τὸ πρὸς δείλης, \"toward afternoon\"; Luke 24:29 πρὸς ἑσπέραν, \"toward evening\"). Chosen by override.")))
 
 (lemma "προσάγω" (sense bring-near (gloss "bring near" "brought near" "brings near" "bringing near") (why "To lead or bring toward, bring near (Genesis 27:25 Προσάγαγέ μοι; Luke 9:41; 1 Peter 3:18). \"Bring near\" keeps it apart from προσφέρω \"offer\" and ἄγω. (LXX form supplied.)")))
+
+(lemma "προσεγγίζω" (sense approach (gloss "approach" "approached" "approaches" "approaching") (why "(LXX, supplied.) To come near to, approach (Genesis 33:6-7, the maidservants, Leah and Rachel approached and bowed down; Mark 2:4 in some texts). Kept apart from ἐγγίζω \"draw near\".")))
+
+(lemma "προσδίδωμι" (sense give-besides (verb "give besides" "gave besides" "given besides") (gloss "give besides" "gave besides" "given besides" "gives besides" "giving besides") (why "(LXX, supplied.) To give in addition, give besides (Genesis 29:33, Leah at Simeon's birth: προσέδωκέν μοι καὶ τοῦτον). A compound of δίδωμι \"give\".")))
+
+(lemma "προσέρχομαι" (sense approach (gloss "approach" "approached" "approaches" "approaching") (why "To come or go toward, approach (Genesis 29:10, Jacob προσελθὼν rolled the stone away; Matthew 4:3, 11; Hebrews 4:16). \"Approach\" keeps it apart from ἔρχομαι \"come\", προσάγω \"bring near\" and ἐγγίζω.")))
 
 (lemma "προσεύχομαι" (sense pray (gloss "pray" "prayed" "prays" "praying") (why "To pray (Genesis 20:7, 17, Abraham prays for Abimelech; Matthew 6:5-9). The deponent is rendered active.")))
 
@@ -352,7 +400,11 @@
 
 (lemma "προσοίγω" (sense close (gloss "close" "closed" "closes" "closing") (why "(LXX, supplied.) To shut to, close (Genesis 19:6 τὴν θύραν προσέῳξεν ὀπίσω αὐτοῦ). Kept apart from κλείω \"shut\" and ἀποκλείω \"shut off\".")))
 
+(lemma "προσπίπτω" (sense fall-forward (verb "fall forward" "fell forward" "fallen forward") (gloss "fall forward" "fell forward" "fallen forward" "falls forward" "falling forward") (why "To fall toward, fall down before, beat against (Genesis 33:4, Esau fell forward upon his neck; Mark 3:11; Matthew 7:25). \"Fall forward\" keeps it apart from πίπτω \"fall\" and ἐπιπίπτω \"fall upon\", and leaves ἐπί its own \"upon\".")))
+
 (lemma "πρόσταγμα" (sense ordinance (gloss "ordinance" "ordinances") (why "(LXX.) An ordinance, command.")))
+
+(lemma "προστάσσω" (sense order (dative "") (gloss "order" "ordered" "orders" "ordering") (why "To give an order, prescribe (Genesis 47:11 καθὰ προσέταξεν Φαραώ, \"according as Pharaoh ordered\"; Matthew 1:24; 8:4; Acts 10:33). \"Order\" keeps it apart from ἐντέλλομαι \"command\"; its noun is πρόσταγμα \"ordinance\". (LXX form supplied.)")))
 
 (lemma "προστίθημι" (sense add (gloss "add" "added" "adds" "adding") (why "To add; with an infinitive, to do again (Genesis 4:2, \"added to bear\"; 4:12). The literal layer keeps \"add\".")))
 
@@ -393,6 +445,8 @@
     (gloss "winged")
     (why "(LXX, supplied.) Winged (Genesis 1:21). Not in the New Testament.")))
 
+(lemma "πυθμήν" (sense stem (gloss "stem" "stems") (why "(LXX, supplied.) The bottom, base, stock of a plant; the vine's stems in the cupbearer's dream (Genesis 40:10, 12, three stems, three days).")))
+
 (lemma "πύλη" (sense gate (gloss "gate" "gates") (why "A gate (Genesis 28:17 αὕτη ἡ πύλη τοῦ οὐρανοῦ; 22:17; Matthew 7:13-14; 16:18). (LXX form supplied.)")))
 
 (lemma "πυνθάνομαι" (sense inquire (gloss "inquire" "inquired" "inquires" "inquiring") (why "To learn by asking, inquire (Genesis 25:22, Rebekah went πυθέσθαι παρὰ Κυρίου, \"to inquire from [the] Lord\"; Matthew 2:4; John 4:52). Kept apart from ἐπερωτάω \"question\" and αἰτέω \"ask\".")))
@@ -401,6 +455,10 @@
 
 (lemma "πύργος" (sense tower (gloss "tower" "towers") (why "A tower (Genesis 11:4-8; Luke 14:28).")))
 
+(lemma "πυρός" (sense wheat (gloss "wheat") (why "(LXX, supplied.) Wheat (Genesis 30:14, ἐν ἡμέραις θερισμοῦ πυρῶν, at the wheat harvest). Kept apart from σῖτος \"grain\".")))
+
 (lemma "πυρράκης" (sense ruddy (gloss "ruddy") (why "(LXX, supplied.) Red-haired, ruddy of skin (Genesis 25:25, Esau at birth; 1 Kingdoms 16:12, David). Kept apart from πυρρός \"red\".")))
+
+(lemma "πῶς" (sense how (gloss "how") (why "The interrogative \"how?\" (Genesis 39:9 πῶς ποιήσω τὸ ῥῆμα τὸ πονηρὸν τοῦτο; Matthew 7:4; Luke 1:34).")))
 
 (lemma "πυρρός" (sense red (gloss "red") (why "Fire-colored, red (Genesis 25:30, the red stew that gives Esau the name Edom; Revelation 6:4; 12:3). When ἐρυθρός (the Red Sea) comes, it will need its own English or a decision by the owner to share \"red\".")))

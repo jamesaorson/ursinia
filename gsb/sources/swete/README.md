@@ -178,6 +178,51 @@ leaf numbers here; the images and OCR layers stay out of the repo
     (no 30: apparatus "30 om B"), and after 39 prints 30 and 31 again (leaves
     697-698). Encoded `{31!}{=23:31a}` ... `{30!}` ... `{31!!}{=23:31b}`; the
     letters are ours, and the table runs 23:29, 31a, 32, ... 39, 30, 31b.
+- **Esther's Greek additions** (leaves v2 775-800). Swete prints the six
+  additions where they stand in the Greek, each numbered in the margin by a
+  letter and its own verses (`A 1` ... `A 17`, `B 1` ..., to `F 11`), with the
+  Vulgate chapter and verse in parentheses beside them (`(XI) (2) A 1`,
+  `(XIII) (8) C 1`). The page files mark a section `{CA}{1}` and Swete's
+  own verse numbers inside it; the tables have chapter `A`-`F` (`A 1` is
+  `A\t1`, the build's reference `esth.A.1`, the page anchor `#esther-a-1`),
+  standing in printed order between the numbered chapters: A before 1:1, B
+  after 3:13, C and D after 4:17, E after 8:12, F after 10:3. Where an
+  addition ends inside a chapter Swete reprints that chapter's numeral
+  (`III 14` after B 7): `{C3}{14}` resumes chapter 3. D takes the place of
+  5:1-2, so chapter 5 opens at `{C5}{3!}`. The numbered chapters use
+  Swete's own (= English) numbers; verses the Greek lacks stay absent. The
+  Vulgate numbers are not references: a `#` comment line above the printed
+  line records each margin entry with a Roman numeral and any parenthesized
+  number that does not run on by one with Swete's own (the others go
+  verse for verse with his). `books.tsv` counts Esther's chapters as 16
+  (10 numbered + 6 lettered), so the book is complete when all are present.
+- **Psalms** (leaves v2 233-435). Each psalm is a chapter with Swete's own,
+  Septuagint, number (`{C9}` ... `{C151}`); the Greek-numeral heading above
+  a psalm (`Γʹ`, `ΡΙΓʹ`) and the Roman numeral in the margin are not text.
+  Every text line is a verse line with its printed depth: `{S}` starts at
+  the poetry's left edge (most numbered verses), `{S1}` is indented one step
+  (most second stichs; some numbered verses), `{S2}` is the turned-over end
+  of the line above (that line runs to the right edge of the block and ends
+  with no punctuation; the tail is set deeper than `{S1}`). The
+  superscription (small type, unnumbered) is text: every line of it starts
+  `{T}`, and the first `{T}` after `{Cn}` is verse 1 of the psalm. Swete's
+  first number after a title is 2 (Ps 3: the title is verse 1) or a margin
+  1 (Ps 14, 113, 151: the title runs on into his verse 1, one row). Order
+  on a line: `{Cn}`, then `{S}`/`{S1}`/`{S2}`/`{T}`, then `{n}`. διάψαλμα
+  is text, a word at the end of its line (`... αὐτοῦ. διάψαλμα.`); ᾠδὴ
+  διαψάλματος (Ps 9:17) likewise. Psalm 118 has no letter headings in the
+  text (the Hebrew letters are in the apparatus only); its sections are
+  separated by space, which is not marked. **Hebrew numbers**: from Psalm
+  10 Swete prints the Hebrew psalm number in parentheses beside the Roman
+  (`XIV (XV)`), and where the verse division differs the Hebrew verse
+  numbers in parentheses in the margin (`(X) (1) 22` in Ps 9, `9 (1) (CXV)`
+  in Ps 113) or in the text (`δικαία (11)ἡ βοήθεια`, Ps 7:11; `(9)Ἀλληλουιά`,
+  Ps 113:1). In Psalms these are **not** `{=c:v}` markers: the tables keep
+  Swete's own (Septuagint) psalm and verse numbers, and each parenthesized
+  number is recorded as printed in a `#` comment line directly above its
+  printed line (`# margin: XIV (XV)`, `# margin: (X) (1) 22`,
+  `# in-text: (11) before ἡ βοήθειά`) for a later conversion to English
+  anchors (`ursinia-vff.10`).
 - **Editorial marks** in the text, such as Swete's asterisk at Gen 37:1 tied to
   a note, are apparatus and are left out.
 - **Daniel** is printed twice: the Old Greek (Chigi MS 87, `ΔΑΝΙΗΛ ΚΑΤΑ ΤΟΥΣ Ο'`)
@@ -201,7 +246,8 @@ per line (`#` lines below the header are comments). Markers:
 
 | Mark | Meaning |
 |---|---|
-| `{C3}` | Swete's chapter 3 starts |
+| `{C3}` | Swete's chapter 3 starts; after a lettered section, `{C3}` again where Swete reprints the numeral of the chapter it interrupted (Esth `III 14`) resumes chapter 3 at its next verse |
+| `{CA}` | Swete's lettered section A starts (Esther's Greek additions A-F, the letter printed in the margin beside verse 1); its verses are `{1}`, `{2}`, ... as printed, table chapter `A`. Sections run A, B, C ... and do not advance or reset the numbered chapters |
 | `{7}` | Swete's verse 7 starts (where his superscript stands); the common reference becomes chapter:7 |
 | `{=2:25}` | the common reference from here until Swete's next `{n}` (his parenthesized number, in the margin or the text); may go backwards, but each common verse is given once per book |
 | `{=31:48a}` | the same for a half verse (Swete's `(48 a)`, or our letters where he prints a number twice) |
@@ -210,7 +256,8 @@ per line (`#` lines below the header are comments). Markers:
 | `{31!!}` | Swete's own number printed a second time in the chapter (2 Kgdms 23: 29, 31, ... 39, `{30!}`, `{31!!}`); it must have occurred before; both places of the common verse take our letters (`{=23:31a}`, `{=23:31b}`) |
 | `{42a}` | Swete's own lettered verse as printed (superscript `42a`, margin `42 a` without parentheses: Josh 21:42a-d, 24:33a-b): an extra Greek verse after his 42, not a half of it; only after `{42}` or another letter of 42; table verse `42a` |
 | `{P}` | the line starts an indented paragraph |
-| `{S}` | the line is a line of poetry |
+| `{S}` | the line is a line of poetry; in Psalms `{S}` at the left edge, `{S1}` indented, `{S2}` a turned-over line end |
+| `{T}` | a line of a psalm's unnumbered superscription; the first `{T}` after `{Cn}` starts verse 1 |
 | `¶` `§` | witness marks printed in the text |
 
 Lines starting with `#` are comments. A line ending in `-` continues on the next

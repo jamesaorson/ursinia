@@ -177,6 +177,21 @@
 (check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C31}{1}α. {=31:1}β.\n")) #f #f)
        '())                                              ; the same reference running on is one row
 
+;; Psalm titles {T}: the unnumbered superscription is verse 1; Swete's first
+;; number after it is 2, or 1 when the title runs on into his verse 1. Stich
+;; depths {S} {S1} {S2} are poetry lines.
+(define pt (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C1}{S}{1}α,\n{S1}β. {C2}{T}γ\n{T}δ.\n{S}{2}ε\n{S2}ζ. {C3}{T}η. {S}{1}θ. {2}ι.\n"))
+(check (book-problems (list pt) 40 #f 1) '())
+(call-with-values (lambda () (book-verses (list pt)))
+  (lambda (rows problems)
+    (check rows '((1 1 "α, β.") (2 1 "γ δ.") (2 2 "ε ζ.") (3 1 "η. θ.") (3 2 "ι.")))))
+(call-with-values (lambda () (book-verses (list (page 40 "{C2}{T}γ-\n{T}δ. {2}ε"))))
+  (lambda (rows problems) (check rows '((2 1 "γδ.") (2 2 "ε")))))   ; a hyphen across title lines
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C2}{1}α. {T}β.\n")) #f #f)
+       '((40 1 fail)))                                   ; a title after a verse
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C2}{T}α. {3}β.\n")) #f #f)
+       '((40 1 fail)))                                   ; 3 after a title, unmarked
+
 ;; Swete's own lettered verses (Josh 21:42a-d; 24: 28, 31, 29, 30, 30a, 32):
 ;; verses of their own after his number, not halves of it.
 (define pj (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C24}{1}α. {4!}β. {2!}γ. {3}δ. {3a}ε. {5!}ζ. {6}η. {6a}θ. {6b}ι.\n"))
@@ -208,6 +223,10 @@
        '((40 1 fail)))                                   ; Swete's numbers inside a section run on
 (check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{2}α. {3}β. {CD}{1}γ. {C5}{3!}δ.\n")) #f #f)
        '())                                              ; a run starting mid-book: letter and chapter unknown
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\nα. {C8}{13}β. {14}γ.\n")) #f #f)
+       '())                                              ; ... and may be resuming a chapter after a section
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C8}{13}β.\n")) #f #f)
+       '((40 1 fail)))                                   ; but a chapter with no text before it opens at 1
 
 ;; Combined common numbers (Exod 37:4-5, 36:34,36): one row, each verse claimed.
 (call-with-values (lambda () (book-verses (list (page 40 "{C38}{1}{=37:4-5}α. {2}{=36:34,36}β. {3}{=37:6}γ."))))

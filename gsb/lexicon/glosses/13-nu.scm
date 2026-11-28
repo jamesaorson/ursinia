@@ -26,6 +26,8 @@
 
 (lemma "νεφέλη" (sense cloud (gloss "cloud" "clouds") (why "A cloud (Genesis 9:13-16, the bow in the cloud; Matthew 17:5; Acts 1:9).")))
 
+(lemma "Νεφθαλεί" (sense name (gloss "Naphtali") (why "(LXX, supplied form.) Jacob's son by Bilhah (Genesis 30:8), Swete's Νεφθαλεί; Matthew 4:13, 15 and Revelation 7:6 spell it Νεφθαλίμ. Traditional English Naphtali. Not the people Νεφθαλιείμ (Genesis 10:13, Naphtuhim).")))
+
 (lemma "Νεφθαλιείμ" (sense name (person) (plural "Naphtuhim") (gloss "Naphtuhim") (why "(LXX, supplied.) A people descended from Mizraim (Genesis 10:13), Greek Νεφθαλιείμ; traditional English Naphtuhim. The Greek spelling recalls Naphtali, but it is not that name.")))
 
 (lemma "νῆσος" (sense island (gloss "island" "islands") (why "An island; in the Septuagint also a coastland (Genesis 10:5, 32, νῆσοι τῶν ἐθνῶν; Acts 13:6; Revelation 1:9).")))
@@ -37,6 +39,8 @@
 (lemma "Νοεμά" (sense name (gloss "Naamah") (why "(LXX, supplied.) Genesis 4:22, traditional English Naamah.")))
 
 (lemma "νόμιμος" (sense lawful (gloss "lawful") (why "Lawful, according to law; the neuter plural τὰ νόμιμα, \"the lawful [things]\", statutes, customs (Genesis 26:5, Abraham kept God's νόμιμα; Leviticus passim). (LXX, supplied.) The adjective of νόμος \"law\"; kept apart from δικαίωμα \"statute\" and πρόσταγμα \"ordinance\".")))
+
+(lemma "νομή" (sense pasture (gloss "pasture" "pastures") (why "Pasture, grazing ground (Genesis 47:4 οὐ γάρ ἐστιν νομὴ τοῖς κτήνεσιν, \"for there is not pasture for the livestock\"; John 10:9). The spreading of a sore (2 Timothy 2:17) will be its own sense. (LXX form supplied.)")))
 
 (lemma "νοσσιά" (sense nest (gloss "nest" "nests") (why "(LXX, supplied.) A nest, a brood (Genesis 6:14, the ark made in \"nests\", compartments). The literal layer keeps \"nests\".")))
 

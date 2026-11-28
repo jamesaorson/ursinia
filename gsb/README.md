@@ -92,7 +92,8 @@ those books), `role` (`main`; `comparison` for Theodotion's Susanna, Daniel and
 Bel and Sinaiticus Tobit, which follow their main text), `source`, `notes`,
 `chapters` (the book's chapter total, filled once verified; the site labels an
 Old Testament book "partially transcribed" while it has fewer chapters than
-this, or always when it is blank).
+this, or always when it is blank; Esther counts its six lettered additions
+A-F as chapters, 10 + 6 = 16).
 
 ## `greek/NN-<id>.tsv`
 
@@ -100,7 +101,7 @@ UTF-8, NFC, tab-separated, header row, one row per Greek word in text order.
 
 | column   | meaning                                                                                        |
 | -------- | ---------------------------------------------------------------------------------------------- |
-| `ref`    | `<id>.<chapter>.<verse>`; LXX verses use the common numbering Swete prints in parentheses (rule 7), converted to the English chapter division where Hebrew and English differ (`gsb/sources/swete/versification.tsv`), including lettered verses and half verses (`3kgdms.2.35a`, `gen.31.48a`) and one Greek verse for several common ones as Swete prints it (`exod.37.4-5`, `exod.36.34,36b`); rows keep Swete's printed order, so a transposed verse comes out of numerical order (`gen.35.21` before `gen.35.16`) |
+| `ref`    | `<id>.<chapter>.<verse>`; LXX verses use the common numbering Swete prints in parentheses (rule 7), converted to the English chapter division where Hebrew and English differ (`gsb/sources/swete/versification.tsv`), including lettered verses and half verses (`3kgdms.2.35a`, `gen.31.48a`) and one Greek verse for several common ones as Swete prints it (`exod.37.4-5`, `exod.36.34,36b`); rows keep Swete's printed order, so a transposed verse comes out of numerical order (`gen.35.21` before `gen.35.16`); Esther's Greek additions have the letter Swete prints as their chapter (`esth.A.1` ... `esth.F.11`), standing in printed order between the numbered chapters (anchor `#esther-a-1`) |
 | `n`      | 1-based word number within the verse                                                           |
 | `pre`    | punctuation before the word (`(`, `[[`, `“`)                                                    |
 | `word`   | the word, NFC; elision marks are written U+2019 (`κατ’`)                                       |

@@ -4,6 +4,8 @@
 
 (lemma "Θαιμάν" (sense name (gloss "Teman") (why "(LXX, supplied.) Genesis 25:3, a son of Jokshan the Greek adds, and 25:15, a son of Ishmael, where the Hebrew has Tema; elsewhere Θαιμάν is Teman (Genesis 36:11, 15). One Greek name, one English: Teman. Whether 25:15 should read Tema is a question for the owner.")))
 
+(lemma "Θαιμανός" (sense name (person) (gloss "Temanite" "Temanites") (why "(LXX, supplied.) One of the people of Teman (Θαιμάν): Genesis 36:34 γῆ Θεμανῶν, Swete's spelling, \"land of [the] Temanites\"; Job 2:11 Eliphaz the Temanite. Traditional English Temanite.")))
+
 (lemma "θάλασσα"
   (sense sea
     (gloss "sea" "seas")
@@ -11,7 +13,11 @@
 
 (lemma "Θαλγά" (sense name (gloss "Tidal") (why "(LXX, supplied.) \"King of nations\" (Genesis 14:1; spelled Θαλγάλ at 14:9), Greek Θαλγά for the Hebrew Tidal; traditional English Tidal, the same man in a Greek spelling.")))
 
+(lemma "θάλλω" (sense flourish (gloss "flourish" "flourished" "flourishes" "flourishing") (why "(LXX, supplied.) To bloom, thrive, flourish (Genesis 40:10, the vine flourishing).")))
+
 (lemma "Θαμάρ" (sense name (gloss "Tamar") (why "Tamar (Matthew 1:3; Genesis 38). In Genesis 14:7 Ἁσασὰν Θαμάρ, Hazazon-tamar, the place name's second word.")))
+
+(lemma "Θαμνά" (sense name (gloss "Timna") (why "(LXX, supplied.) Timna, the concubine of Eliphaz and sister of Lotan, and a chief of Esau (Genesis 36:12, 22, 40), traditional English Timna. The town Timnah (Genesis 38:12) is spelled the same in Greek; give it its own sense when met.")))
 
 (lemma "θάνατος"
   (sense death
@@ -63,14 +69,28 @@
 
 (lemma "θηρεύω" (sense hunt (gloss "hunt" "hunted" "hunts" "hunting") (why "To hunt (Genesis 27:3, 5, 33, Esau hunting game; Luke 11:54, of catching a word). (LXX form supplied.)")))
 
+(lemma "θηριόβρωτος" (sense beast-devoured (gloss "beast-devoured") (why "(LXX, supplied.) Eaten by wild beasts (θηρίον + βιβρώσκω): Genesis 44:28 Θηριόβρωτος γέγονεν, \"he has become beast-devoured\", Jacob of Joseph. The hyphen keeps the one Greek word one English word.")))
+
 (lemma "θηρίον"
   (sense beast
     (gloss "beast" "beasts")
     (why "A wild animal, beast (Genesis 1:24-25; 2:19-20; 3:1, 14; Mark 1:13). \"Beast\" so the same word stays recognizable in Revelation 13 (the beast). κτῆνος takes \"livestock\" and ζῷον \"animal\".")))
 
-(lemma "Θόβελ" (sense name (gloss "Tubal") (why "(LXX, supplied.) Genesis 4:22: Greek Θόβελ where the Hebrew has Tubal-cain; the Greek name is Tubal alone.")))
+(lemma "θησαυρός" (sense treasure (gloss "treasure" "treasures") (why "A store, treasure (Genesis 43:23 ἔδωκεν ὑμῖν θησαυροὺς ἐν τοῖς μαρσίπποις ὑμῶν; Matthew 6:19-21; 13:44). (LXX form supplied.)")))
+
+(lemma "θλῖψις" (sense affliction (gloss "affliction" "afflictions") (why "(LXX form supplied.) Pressure, distress, affliction (Genesis 35:3 ἐν ἡμέρᾳ θλίψεως, \"in day of affliction\"; John 16:33; Romans 5:3). Kept apart from ταπείνωσις and λύπη \"sorrow\".")))
+
+(lemma "θίς" (sense mound (gloss "mound" "mounds") (why "(LXX, supplied.) A heap, a sand-bank or dune, a hill (Genesis 49:26 θινῶν ἀενάων, Swete's θεινῶν, \"of everflowing mounds\"). \"Mound\" keeps it apart from βουνός and ὄρος.")))
+
+(lemma "θνῄσκω" (sense die (intransitive) (gloss "die" "died" "dies" "dying") (why "To die; in the perfect, to be dead (Genesis 50:15 τέθνηκεν ὁ πατὴρ αὐτῶν, \"their father has died\"; Matthew 2:20; Luke 8:49; John 11:44). The simple verb of ἀποθνῄσκω, which also has \"die\": the English cannot tell the two apart, and the Greek difference is slight. (LXX form supplied.)")))
+
+(lemma "Θόβελ"(sense name (gloss "Tubal") (why "(LXX, supplied.) Genesis 4:22: Greek Θόβελ where the Hebrew has Tubal-cain; the Greek name is Tubal alone.")))
 
 (lemma "θυγάτηρ" (sense daughter (person) (gloss "daughter" "daughters") (why "Daughter.")))
+
+(lemma "θῦμα" (sense slain-beast (gloss "slain beast" "slain beasts") (why "(LXX, supplied.) An animal slaughtered, for sacrifice or for the table (Genesis 43:16 σφάξον θύματα, Joseph's steward preparing the midday meal). From θύω; \"slain beast\" keeps it apart from θυσία \"sacrifice\" and σφάζω \"slaughter\".")))
+
+(lemma "θυμίαμα" (sense incense (gloss "incense" "incenses") (why "(LXX, supplied.) Incense, sweet spice for burning (Genesis 43:11, among the gifts for Joseph; Luke 1:10-11; Revelation 5:8).")))
 
 (lemma "θυμός" (sense fury (gloss "fury") (why "Passion, hot anger, fury (Genesis 27:45 τὸν θυμὸν καὶ τὴν ὀργὴν τοῦ ἀδελφοῦ σου; Romans 2:8 θυμὸς καὶ ὀργή; Revelation 14:10). \"Fury\" keeps it apart from ὀργή \"wrath\" where the two stand together.")))
 

@@ -12,9 +12,9 @@ ruth	transcribed	2056	1775	86.3	1775	86.3	671	479	71.4
 3kgdms	transcribed	20449	17526	85.7	17526	85.7	3378	1794	53.1
 4kgdms	transcribed	18620	16079	86.4	16079	86.4	2973	1580	53.1
 1chr	transcribed	15968	12608	79.0	12608	79.0	3514	1375	39.1
-2chr	transcribed	6038	5231	86.6	5231	86.6	1433	919	64.1
+2chr	transcribed	21061	18376	87.3	18376	87.3	3404	1837	54.0
 1esd	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
-2esd	transcribed	202	173	85.6	173	85.6	110	90	81.8
+2esd	transcribed	12667	10422	82.3	10422	82.3	2924	1401	47.9
 esth	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
 jdt	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
 tob	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
@@ -57,4 +57,4 @@ dan	transcribed	526	434	82.5	434	82.5	248	172	69.4
 dan-th	transcribed	495	414	83.6	414	83.6	224	160	71.4
 bel	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
 bel-th	not yet transcribed	0	0	0.0	0	0.0	0	0	0.0
-TOTAL		256532	219535	85.6	219535	85.6	20986	6374	30.4
+TOTAL		284020	242929	85.5	242929	85.5	22754	6678	29.3

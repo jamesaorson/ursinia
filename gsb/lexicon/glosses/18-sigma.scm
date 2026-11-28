@@ -72,12 +72,18 @@
 
 (lemma "Σιδών" (sense name (gloss "Sidon") (why "Canaan's firstborn and the city named for him (Genesis 10:15, 19; Matthew 11:21), traditional English Sidon.")))
 
+(lemma "Σίκιμα" (sense name (gloss "Shechem") (why "(LXX, supplied.) Genesis 48:22 δίδωμί σοι σίκιμα ἐξαίρετον, Jacob's gift to Joseph, the neuter plural name of the town elsewhere called Συχέμ (Genesis 12:6; 33:18; John 4:5 has Συχάρ near Joseph's field). The same place, so the same traditional English Shechem (rule 8), shared with Συχέμ. Swete prints it lowercase; the Hebrew word also means \"shoulder\", a share of land.")))
+
+(lemma "σιτομετρέω" (sense ration (gloss "ration" "rationed" "rations" "rationing") (why "(LXX, supplied.) To measure out grain (σῖτος + μέτρον), give rations (Genesis 47:12, 14, Joseph was rationing grain to his father's house; Luke 12:42 has the noun σιτομέτριον). \"Ration\" keeps it a single verb and leaves \"grain\" to σῖτος, which follows it.")))
+
 (lemma "σῖτος" (sense grain (gloss "grain") (why "Grain, wheat (Genesis 27:28, 37 σίτῳ καὶ οἴνῳ, Isaac's blessing; Matthew 3:12; John 12:24). (LXX form supplied.)")))
+
+(lemma "σιτοποιός" (sense baker (person) (gloss "baker" "bakers") (why "(LXX, supplied.) A maker of bread from grain (σῖτος), a baker (Genesis 40:17 ἔργον σιτοποιοῦ). The base of ἀρχισιτοποιός \"chief baker\".")))
 
 (lemma "σκεῦος" (sense gear (gloss "gear") (why "An implement, piece of equipment; here a hunter's gear (Genesis 27:3 λάβε τὸ σκεῦος, τήν τε φαρέτραν καὶ τὸ τόξον). The common New Testament sense \"vessel\" (Romans 9:21-23; 2 Timothy 2:20-21) will be its own sense."))
   (sense article (gloss "article" "articles") (why "A made object, an article (Genesis 24:53, σκεύη ἀργυρᾶ καὶ χρυσᾶ, articles of silver and gold given to Rebekah; Revelation 18:12, every article of ivory). Chosen by override where the things are goods or jewelry rather than equipment or vessels.")))
 
-(lemma "σκηνή" (sense tent (gloss "tent" "tents") (why "Tent, tabernacle; \"tent\" in the literal layer (Hebrews 11:9). Whether the tabernacle of Exodus keeps \"tent\" is a decision for the owner.")))
+(lemma "σκηνή" (sense tent (gloss "tent" "tents") (why "Tent, tabernacle; \"tent\" in the literal layer (Hebrews 11:9). Whether the tabernacle of Exodus keeps \"tent\" is a decision for the owner.")) (sense name (gloss "Tents") (why "(LXX, supplied.) The place name the Greek gives at Genesis 33:17, εἰς Σκηνάς ... Σκηναί, \"Tents\", where the Hebrew has Succoth; we translate the Greek name (rule 8, as Σύγχυσις \"Confusion\"), capitalized as a name.")))
 
 (lemma "σκιρτάω" (sense leap (gloss "leap" "leaped" "leaps" "leaping") (why "To spring, leap, of a child in the womb (Genesis 25:22 ἐσκίρτων δὲ τὰ παιδία ἐν αὐτῇ; Luke 1:41, 44) or for joy (Luke 6:23).")))
 
@@ -96,6 +102,8 @@
   (sense darkness
     (gloss "darkness")
     (why "Darkness (Genesis 1:2-18; 2 Corinthians 4:6, \"out of darkness light will shine\", Paul's echo of Genesis 1:3). Shares \"darkness\" with σκοτία; see that entry.")))
+
+(lemma "σκυθρωπός" (sense gloomy (gloss "gloomy") (why "Of a sad, sullen look, gloomy (Genesis 40:7, the prisoners' faces; Matthew 6:16; Luke 24:17).")))
 
 (lemma "Σόδομα" (sense name (gloss "Sodom") (plural "Sodom") (why "The city, a neuter plural in Greek (Genesis 13:10-19:28; Matthew 10:15; Romans 9:29); traditional English Sodom, singular.")))
 
@@ -125,12 +133,16 @@
 
 (lemma "σπήλαιον" (sense cave (gloss "cave" "caves") (why "A cave (Genesis 19:30, Lot and his daughters in the cave; 23:9; John 11:38; Hebrews 11:38).")))
 
+(lemma "σποδοειδής" (sense ash-colored (gloss "ash-colored") (why "(LXX, supplied.) Like ashes (σποδός) in color, ash-colored, gray (Genesis 30:39; 31:10-12, the flocks Jacob's rods produced). Kept apart from φαιός \"gray\".")))
+
 (lemma "σποδός" (sense ashes (gloss "ashes") (why "Ashes (Genesis 18:27 γῆ καὶ σποδός \"earth and ashes\"; Matthew 11:21; Hebrews 9:13). A singular noun in Greek; English says \"ashes\".")))
 
 (lemma "σπόριμος"
   (sense sowable
     (gloss "sowable")
     (why "Fit for sowing, sown (Genesis 1:29; Matthew 12:1, \"the sown [fields]\"). \"Sowable\" keeps it apart from σπείρω \"sow\" while showing the root.")))
+
+(lemma "σταφυλή" (sense grape (gloss "grape" "grapes") (why "A grape, bunch of grapes (Genesis 40:10-11; Matthew 7:16; Revelation 14:18). Collective singular in Genesis 40:11 ἔλαβον τὴν σταφυλήν.")))
 
 (lemma "στέαρ" (sense fat (gloss "fat" "fats") (why "(LXX, supplied.) Fat, the fat portions of an animal (Genesis 4:4).")))
 
@@ -144,6 +156,8 @@
     (why "A groan, groaning (Genesis 3:16; Acts 7:34; Romans 8:26). Genesis 3:16 has \"your groaning\" where translations from the Hebrew have \"your conception\" or \"childbearing\".")))
 
 (lemma "στένω" (sense groan (gloss "groan" "groaned" "groans" "groaning") (why "(LXX, supplied.) To groan: the verb of στεναγμός \"groaning\" (3:16).")))
+
+(lemma "στερέω" (sense deprive (genitive "of") (gloss "deprive" "deprived" "deprives" "depriving") (why "(LXX, supplied.) To deprive, rob; passive with the genitive, to be deprived of (Genesis 48:11 τοῦ προσώπου σου οὐκ ἐστερήθην, \"of your face I was not deprived\").")))
 
 (lemma "στερέωμα"
   (sense firmament
@@ -170,6 +184,8 @@
     (gloss "turn" "turns" "turned" "turning")
     (why "(Supplied in Genesis 3:24.) To turn; middle, to turn oneself (Genesis 3:24, the turning sword; Matthew 5:39).")))
 
+(lemma "στυράκινος" (sense storax (gloss "storax") (why "(LXX, supplied.) Of the storax tree (Genesis 30:37, ῥάβδον στυρακίνην χλωράν, one of Jacob's rods).")))
+
 (lemma "σύ"
   (sense pronoun
     (gloss "you" "your" "yours" "yourself")
@@ -184,6 +200,12 @@
 (lemma "συγκλείω" (sense shut-up (gloss "shut up" "shut up" "shuts up" "shutting up") (why "To shut in, shut up, confine (Genesis 16:2, the Lord has shut Sarai up from bearing; Romans 11:32; Galatians 3:22).")))
 
 (lemma "συγκαλύπτω" (sense cover-up (gloss "cover up" "covered up" "covers up" "covering up") (why "To cover over completely (Genesis 9:23, they συνεκάλυψαν their father's nakedness; Luke 12:2). \"Cover up\" renders the συν- and leaves bare \"cover\" for καλύπτω.")))
+
+(lemma "συγκρίνω" (sense interpret (gloss "interpret" "interpreted" "interprets" "interpreting") (why "To judge together, compare, and so interpret (Genesis 40:8, 16, 22; 41:12-15, interpreting dreams; 1 Corinthians 2:13; 2 Corinthians 10:12 \"compare\", which may become its own sense). Kept apart from κρίνω \"judge\".")))
+
+(lemma "σύγκρισις" (sense interpretation (gloss "interpretation" "interpretations") (why "(LXX, supplied.) The interpretation of a dream (Genesis 40:12, 18; 41:11); the noun of συγκρίνω \"interpret\".")))
+
+(lemma "συγκόπτω" (sense cut-up (verb "cut up" "cut up" "cut up") (gloss "cut up" "cuts up" "cutting up") (why "(LXX, supplied.) To cut to pieces, beat down (Genesis 34:30, having been gathered against me they will cut me up). Kept apart from κατακόπτω \"cut down\".")))
 
 (lemma "συγχαίρω" (sense rejoice-with (dative "with") (gloss "rejoice" "rejoiced" "rejoices" "rejoicing") (why "To rejoice with someone (dative): Genesis 21:6, Luke 1:58, 1 Corinthians 12:26. The gloss is \"rejoice\" and the dative takes \"with\". χαίρω, when it is added, should take another English (\"be glad\") or say why it shares.")))
 
@@ -203,6 +225,12 @@
     (why "The fig tree (Genesis 3:7; Matthew 21:19). φύλλα συκῆς is \"leaves of [a] fig tree\".")))
 
 (lemma "συλλαμβάνω" (sense conceive (gloss "conceive" "conceived" "conceives" "conceiving") (why "To conceive (a child), Genesis 4:1; Luke 1:24. Its other sense, seize, becomes its own sense when met.")))
+
+(lemma "Συμεών" (sense name (gloss "Simeon") (why "Jacob's second son by Leah (Genesis 29:33; 34:25; 49:5); the same name as Simeon of Luke 2:25 and Revelation 7:7. Traditional English Simeon, indeclinable in Greek.")))
+
+(lemma "συμβάλλω" (sense assist (gloss "assist" "assisted" "assists" "assisting") (why "To throw together; middle, to contribute, help, assist (Genesis 30:8, Rachel: Συνεβάλετό μοι ὁ θεός; Acts 18:27 συνεβάλετο πολύ). \"Assist\" keeps it apart from βοηθός \"helper\"; the active \"meet, confer, ponder\" (Luke 2:19; 14:31) will be its own sense.")))
+
+(lemma "Συμεών" (sense name (gloss "Simeon") (why "Jacob's second son by Leah (Genesis 29:33; 34:25; 42:24); Luke 2:25 and Revelation 7:7 Συμεών. Traditional English Simeon.")))
 
 (lemma "Συμόβορ" (sense name (gloss "Shemeber") (why "(LXX, supplied.) King of Zeboiim (Genesis 14:2); traditional English Shemeber, the same man in a Greek spelling.")))
 
@@ -227,6 +255,8 @@
     (gloss "gathering" "gatherings")
     (why "A gathering, a collected body (Genesis 1:9, the waters). The Jewish assembly and its building, \"synagogue\", will be a separate sense in the New Testament; the owner may instead want \"gathering\" there too.")))
 
+(lemma "συναναστρέφω" (sense turn-about-with (voice active) (dative "") (verb "turn about with" "turned about with" "turned about with") (gloss "turn about with" "turned about with" "turns about with" "turning about with") (why "(LXX, supplied.) Passive, to be turned about together with, have to do with, live among (Genesis 30:8, Rachel: συνανεστράφην τῇ ἀδελφῇ μου, at Naphtali's birth; Acts 10:41 v.l.). \"Turn about with\" keeps the verb's picture and leaves the kind of dealing open, as the Greek does.")))
+
 (lemma "συνάντησις" (sense meeting (with-preposition "εἰς" for) (gloss "meeting") (why "A meeting; εἰς συνάντησιν + dative, \"for meeting\" someone, to meet them (Genesis 18:2; Matthew 8:34; John 12:13).")))
 
 (lemma "συναπόλλυμι" (sense destroy-together (gloss "destroy together" "destroyed together" "destroys together" "destroying together") (why "To destroy together with (Genesis 18:23-25 μὴ συναπολέσῃς δίκαιον μετὰ ἀσεβοῦς; Hebrews 11:31, Rahab did not perish together with the disobedient). Built on ἀπόλλυμι \"destroy\"; the συν- is \"together\"."))
@@ -235,6 +265,8 @@
 (lemma "συνέχω" (sense restrain (gloss "restrain" "restrained" "restrains" "restraining") (why "To hold together, hold back, restrain (Genesis 8:2, the rain was restrained from heaven; Luke 12:50; 2 Corinthians 5:14, the love of Christ constrains us). \"Restrain\" for holding back; \"hold together\" or \"press\" (Luke 8:45) may become their own senses.")))
 
 (lemma "συννεφέω" (sense mass (gloss "mass" "massed" "masses" "massing") (why "(LXX, supplied.) To gather clouds, cloud over (σύν + νέφος); Genesis 9:14, ἐν τῷ συννεφεῖν με νεφέλας, with the cognate object, \"in my massing clouds\". \"Mass\" renders the σύν- and lets the object νεφέλας say \"clouds\"; \"gather\" is συνάγω's.")))
+
+(lemma "συνίστημι" (sense commend (gloss "commend" "commended" "commends" "commending") (why "Transitive: to set together, introduce, commend, put in someone's charge (Genesis 40:4, the prisoners commended to Joseph; Romans 16:1; 2 Corinthians 3:1). Other senses (stand with, hold together) will be their own.")))
 
 (lemma "συνοικέω" (sense dwell-with (dative "") (verb "dwell with" "dwelt with" "dwelt with") (gloss "dwell with" "dwelt with" "dwells with" "dwelling with") (why "To live together with, dwell with, of marriage (Genesis 20:3 συνῳκηκυῖα ἀνδρί; 1 Peter 3:7). Built on οἰκέω \"dwell\".")))
 
@@ -275,6 +307,8 @@
 (lemma "σῶμα" (sense body (gloss "body" "bodies") (why "Body; a dead body, carcass (Genesis 15:11, the birds came down on the bodies; Matthew 6:22; Luke 17:37).")))
 
 (lemma "σχίζω" (sense split (verb "split" "split" "split") (gloss "split" "splits" "splitting") (why "To split, cleave, tear (Genesis 22:3 σχίσας ξύλα; Matthew 27:51 τὸ καταπέτασμα ἐσχίσθη, Luke 5:36).")))
+
+(lemma "σχολή" (sense leisure (gloss "leisure") (why "Leisure, ease (Genesis 33:14, κατὰ σχολήν, at leisure, at an easy pace); in Acts 19:9 a lecture hall, which would be its own sense.")))
 
 (lemma "σωτηρία" (sense safety (gloss "safety") (why "Deliverance, preservation, safety (Genesis 28:21 ἀποστρέψῃ με μετὰ σωτηρίας, \"bring me back with safety\"; Acts 27:34; Hebrews 11:7). \"Salvation\" is σωτήριον's gloss; whether the New Testament's σωτηρία \"salvation\" (Luke 1:69; Romans 1:16) becomes a second sense sharing it is for the owner. (LXX form supplied.)")))
 

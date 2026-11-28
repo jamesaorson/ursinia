@@ -2,17 +2,25 @@
 ;; in Greek alphabetical order. Format: gsb/translation/README.md; generator
 ;; fields: gsb/literal/README.md. Checked by `make gsb/lint`.
 
+(lemma "Γάδ" (sense name (gloss "Gad") (why "Jacob's son by Zilpah (Genesis 30:11, named Ἐν τύχῃ \"In fortune\"); Revelation 7:5 Γάδ. Traditional English Gad.")))
+
 (lemma "Γάζα" (sense name (gloss "Gaza") (why "Gaza (Genesis 10:19; Acts 8:26).")))
 
 (lemma "Γάθερ" (sense name (gloss "Gether") (why "(LXX, supplied.) A son of Aram (Genesis 10:23), Greek Γάθερ; traditional English Gether.")))
 
-(lemma "Γαιδάδ" (sense name (gloss "Irad") (why "(LXX, supplied.) Genesis 4:18: Greek Γαιδάδ for the Hebrew Irad; the traditional English name.")))
+(lemma "Γάδερ" (sense name (gloss "Eder") (why "(LXX, supplied.) ὁ πύργος Γάδερ, the tower of Eder (Genesis 35:21; Hebrew Migdal-eder); Γάδερ renders the Hebrew Eder with its guttural as γ, the same name: traditional English Eder.")))
+
+(lemma "Γαιβήλ" (sense name (gloss "Ebal") (why "(LXX, supplied.) A son of Shobal the Horite (Genesis 36:23), Greek Γαιβήλ for the Hebrew Ebal (ayin heard as γ), the same name: traditional English Ebal.")))
+
+(lemma "Γαιδάδ"(sense name (gloss "Irad") (why "(LXX, supplied.) Genesis 4:18: Greek Γαιδάδ for the Hebrew Irad; the traditional English name.")))
 
 (lemma "γάλα" (sense milk (gloss "milk") (why "Milk (Genesis 18:8; 1 Corinthians 3:2; 1 Peter 2:2).")))
 
 (lemma "γαμβρός" (sense son-in-law (person) (plural "sons-in-law") (gloss "son-in-law" "sons-in-law") (why "(LXX, supplied.) A daughter's husband, son-in-law (Genesis 19:12, 14, Lot's sons-in-law).")))
 
 (lemma "Γάμερ" (sense name (gloss "Gomer") (why "(LXX, supplied.) Japheth's son (Genesis 10:2-3), Greek Γάμερ; traditional English Gomer.")))
+
+(lemma "γάμος" (sense wedding (gloss "wedding" "weddings") (why "A wedding, marriage feast (Genesis 29:22, Laban ἐποίησεν γάμον; Matthew 22:2-10; John 2:1-2).")))
 
 (lemma "γάρ"
   (sense for
@@ -23,7 +31,9 @@
 
 (lemma "γέ" (sense even (gloss "even") (why "The intensive enclitic particle, stressing the word before it (Genesis 18:13 Ἆρά γε \"is it even\"; Luke 11:8; Romans 8:32). \"Even\" is used because δή takes \"indeed\"; καί's adverbial \"even\" (still unused) would share it, and its entry should take another word or a note.")))
 
-(lemma "γελάω" (sense laugh (gloss "laugh" "laughed" "laughs" "laughing") (why "To laugh (Genesis 17:17; 18:12-15, Abraham's and Sarah's laughter, behind the name Isaac; Luke 6:21, 25).")))
+(lemma "Γεθθάιμ" (sense name (gloss "Gittaim") (why "(LXX, supplied.) The city of the Edomite king Hadad (Genesis 36:35), where the Hebrew has Avith. The Greek gives a different name, the Gittaim of 2 Kingdoms 4:3, so the English follows the Greek (as Αἰθιοπία for Cush).")))
+
+(lemma "γελάω"(sense laugh (gloss "laugh" "laughed" "laughs" "laughing") (why "To laugh (Genesis 17:17; 18:12-15, Abraham's and Sarah's laughter, behind the name Isaac; Luke 6:21, 25).")))
 
 (lemma "γελοιάζω" (sense jest (gloss "jest" "jested" "jests" "jesting") (why "(LXX, supplied.) To joke, jest (Genesis 19:14, Lot seemed to his sons-in-law to be jesting). Kept apart from γελάω \"laugh\".")))
 
@@ -36,6 +46,8 @@
     (gloss "genesis" "geneses")
     (plural "geneses")
     (why "Origin, coming into being, birth; the noun of γίνομαι. Genesis 2:4 αὕτη ἡ βίβλος γενέσεως and Matthew 1:1 βίβλος γενέσεως open with the same two words; one gloss keeps that visible. \"Genesis\" (the English loanword) is used rather than \"origin\" or \"generation\" because it is the only English word that carries the link to the book's name; the owner may prefer \"origin\" (see the Genesis book notes).")))
+
+(lemma "γένημα" (sense product (gloss "product" "products") (why "What is produced, the yield of the land (Genesis 40:17, the baked products Pharaoh eats; Matthew 26:29 τοῦ γενήματος τῆς ἀμπέλου; 2 Corinthians 9:10). Kept apart from γέννημα \"offspring\" and καρπός \"fruit\".")))
 
 (lemma "γεννάω" (sense beget (gloss "beget" "begot" "begotten" "begets" "begetting") (why "To beget (of the father), as in the genealogies of Genesis and Matthew 1. \"Beget\" keeps the genealogy formula recognizable.")))
 
@@ -67,9 +79,13 @@
     (gloss "land" "lands")
     (why "A particular land or region: \"the land of Havilah\", \"the land of Ethiopia\" (Genesis 2:11-13), \"the land of Judah\" (Matthew 2:6).")))
 
+(lemma "Γηρά" (sense name (gloss "Gera") (why "(LXX, supplied.) A son of Bela in Benjamin's line (Genesis 46:21), Greek Γηρά; traditional English Gera. The table guessed γῆρας \"old age\".")))
+
 (lemma "γῆρας" (sense old-age (gloss "old age") (why "Old age (Genesis 15:15 ἐν γήρει καλῷ; Luke 1:36).")))
 
 (lemma "γηράσκω" (sense grow-old (intransitive) (verb "grow old" "grew old" "grown old") (gloss "grow old" "grew old" "grown old" "grows old" "growing old") (why "To grow old (Genesis 18:13 ἐγὼ δὲ γεγήρακα \"but I have grown old\"; John 21:18; Hebrews 8:13).")))
+
+(lemma "Γηρσών" (sense name (gloss "Gershon") (why "(LXX, supplied.) Levi's firstborn (Genesis 46:11), Greek Γηρσών; traditional English Gershon.")))
 
 (lemma "Γηών"
   (sense name
@@ -100,6 +116,10 @@
     (gloss "known")
     (why "Known, knowable (Acts 1:19; Romans 1:19, τὸ γνωστὸν τοῦ θεοῦ). Genesis 2:9 has the tree τοῦ εἰδέναι γνωστὸν καλοῦ καὶ πονηροῦ, \"of knowing [what is] known of good and evil\".")))
 
+(lemma "Γοθόμ" (sense name (gloss "Gatam") (why "(LXX, supplied.) A son of Eliphaz (Genesis 36:11; Swete prints Γοθά at 36:16), Greek Γοθόμ; traditional English Gatam.")))
+
+(lemma "γόνυ"(sense knee (gloss "knee" "knees") (why "The knee (Genesis 48:12, Joseph brought the boys out from Israel's knees, where they had been set as his own; Mark 15:19; Romans 11:4; Philippians 2:10). (LXX form supplied.)")))
+
 (lemma "Γόμορρα" (sense name (gloss "Gomorrah") (why "The city (Genesis 10:19; 18:20; 19:24; Matthew 10:15; Romans 9:29); traditional English Gomorrah. Swete has the genitive Γομόρρας.")))
 
 (lemma "γυμνός"
@@ -118,3 +138,9 @@
     (person)
     (gloss "woman" "women")
     (why "A woman, and so also a wife. One gloss, \"woman\", in the literal layer (\"his woman\", Genesis 2:24) because the Greek has one word; the readable layer says \"wife\" where English needs it. This also keeps Genesis 2:22-23 (\"built ... into [a] woman\", \"this [one] will be called Woman\") continuous with \"his woman\" in 2:24-25.")))
+
+(lemma "Γωλά" (sense name (gloss "Alvah") (why "(LXX, supplied.) A chief of Esau (Genesis 36:40), Greek Γωλά for the Hebrew Alvah (the Hebrew ayin heard as γ), the same name: traditional English Alvah.")))
+
+(lemma "Γωλών" (sense name (gloss "Alvan") (why "(LXX, supplied.) A son of Shobal the Horite (Genesis 36:23), Greek Γωλών for the Hebrew Alvan, the same name: traditional English Alvan.")))
+
+(lemma "Γωυνί" (sense name (gloss "Guni") (why "(LXX, supplied.) A son of Naphtali (Genesis 46:24), Greek Γωυνί; traditional English Guni.")))

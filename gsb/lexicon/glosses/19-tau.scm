@@ -106,6 +106,8 @@
 
 (lemma "τμητός" (sense hewn (gloss "hewn") (why "(LXX, supplied.) Cut, hewn (of stone).")))
 
+(lemma "τοιοῦτος" (sense such (gloss "such") (why "Of this kind, such (Genesis 39:11 τοιαύτη τις ἡμέρα; Matthew 9:8; John 4:23).")))
+
 (lemma "τόξον" (sense bow (gloss "bow" "bows") (why "A bow; in Genesis 9:13-16 the bow set in the cloud (the rainbow; Revelation 4:3 has ἶρις). \"Bow\" keeps the Greek's one word for the weapon and the sign; \"rainbow\" is a reading for the readable layer.")))
 
 (lemma "τοξότης" (sense archer (person) (gloss "archer" "archers") (why "(LXX, supplied.) A bowman, archer (Genesis 21:20), from τόξον \"bow\".")))
@@ -116,7 +118,11 @@
 
 (lemma "Τόχος" (sense name (gloss "Tahash") (why "(LXX, supplied.) Son of Nahor and Reumah (Genesis 22:24); the Greek form of the Hebrew Tahash. Traditional English Tahash.")))
 
+(lemma "τράγος" (sense male-goat (gloss "male goat" "male goats") (why "A he-goat, male goat (Genesis 30:35; 31:10-12, Jacob's flocks; Hebrews 9:12-13, 19). Kept apart from αἴξ \"goat\" and ἔριφος \"kid\".")))
+
 (lemma "τραῦμα" (sense wound (gloss "wound" "wounds") (why "Wound (Luke 10:34).")))
+
+(lemma "τραυματίας" (sense wounded (person) (plural "wounded") (gloss "wounded") (why "(LXX, supplied.) One wounded, wounded or slain in battle (Genesis 34:27, the sons of Jacob went in upon the wounded). The noun of τραῦμα \"wound\".")))
 
 (lemma "τράχηλος" (sense neck (gloss "neck" "necks") (why "The neck (Genesis 27:16, 40, the skins on Jacob's neck, the yoke on Esau's; Luke 15:20; Acts 15:10). (LXX form supplied.)")))
 

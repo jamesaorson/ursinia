@@ -35,6 +35,8 @@
     (gloss "way" "ways")
     (why "A road, path, way, and so a way of life (Genesis 3:24, \"the way of the tree of the life\"; John 14:6, \"I am the way\"). \"Way\" everywhere; \"road\" or \"journey\" only in the readable layer.")))
 
+(lemma "ὀδύνη" (sense anguish (gloss "anguish" "anguishes") (why "(LXX, supplied.) Pain of body or mind, anguish (Genesis 44:31 μετ’ ὀδύνης εἰς ᾅδου, beside 44:29 μετὰ λύπης; Romans 9:2; 1 Timothy 6:10). \"Anguish\" keeps it apart from λύπη.")))
+
 (lemma "ὅθεν" (sense from-where (gloss "from where") (why "From where, whence (Genesis 10:14, ὅθεν ἐξῆλθεν ἐκεῖθεν, \"from where came forth from there\"; Matthew 12:44; Hebrews 11:19). \"From where\" rather than archaic \"whence\".")))
 
 (lemma "οἶδα"
@@ -59,11 +61,23 @@
 
 (lemma "οἶνος" (sense wine (gloss "wine" "wines") (why "Wine (Genesis 9:21, 24, Noah's wine; John 2:3-10).")))
 
+(lemma "οἰνοχοέω" (sense pour-wine (gloss "pour wine" "poured wine" "pours wine" "pouring wine") (why "(LXX, supplied.) To pour wine, serve as cupbearer (Genesis 40:13 ὡς ἦσθα οἰνοχοῶν); the verb of ἀρχιοινοχόος \"chief cupbearer\".")))
+
+(lemma "οἴομαι" (sense suppose (gloss "suppose" "supposed" "supposes" "supposing") (why "To think, suppose, imagine (Genesis 40:16 ᾤμην, the baker in his dream; John 21:25 οἶμαι; Philippians 1:17). Kept apart from δοκέω.")))
+
+(lemma "οἷος" (sense such-as (gloss "such as") (why "Of what kind, such as (Genesis 44:15 ἄνθρωπος οἷος ἐγώ, \"human such as I\"; Matthew 24:21; 2 Corinthians 10:11). \"Such as\" keeps it apart from τοιοῦτος \"such\" and ὅσος.")))
+
 (lemma "οἴχομαι" (sense go-along (gloss "go along" "went along" "gone along" "goes along" "going along") (why "(LXX, supplied.) To go, be on one's way (Genesis 12:4, \"and Lot was going along with him\"). \"Go along\" keeps it apart from πορεύομαι \"go\" and ἀποίχομαι \"go off\".")))
+
+(lemma "οἰωνίζομαι" (sense take-omens (verb "take omens" "took omens" "taken omens") (gloss "take omens" "took omens" "taken omens" "takes omens" "taking omens") (why "(LXX, supplied.) To read omens from birds (οἰωνός), to divine (Genesis 30:27, Laban: οἰωνισάμην ἄν; 44:5, 15, Joseph's cup). \"Take omens\" keeps the root's picture.")))
+
+(lemma "οἰωνισμός" (sense augury (dative "with") (gloss "augury" "auguries") (why "(LXX, supplied.) The taking of omens, augury (Genesis 44:5, 15 οἰωνισμῷ οἰωνίζεται, \"he takes omens with augury\", the Greek echoing the Hebrew doubled verb). The noun of οἰωνίζομαι \"take omens\".")))
 
 (lemma "ὀκτακόσιοι" (sense eight-hundred (gloss "eight hundred") (why "(LXX, supplied.) The numeral eight hundred (Genesis 5:17, 19).")))
 
 (lemma "ὀκτώ" (sense eight (gloss "eight") (why "The numeral eight (Genesis 5:28; 1 Peter 3:20, the eight souls saved in the ark).")))
+
+(lemma "ὀλίγος" (sense few (gloss "few") (why "Few, little (Matthew 7:14; 9:37). Genesis 34:30 ὀλιγοστός, its superlative, \"most few\" (fewest) in number.")))
 
 (lemma "ὁλκή" (sense weight (gloss "weight" "weights") (why "(LXX, supplied.) A drawing down of the scale, weight (Genesis 24:22, a ring of a drachma's weight and bracelets of ten gold [pieces] their weight).")))
 
@@ -87,12 +101,18 @@
     (gloss "similarity")
     (why "Similarity, resemblance (Genesis 1:11-12; Hebrews 4:15; 7:15). Kept apart from ὁμοίωσις (\"likeness\", Genesis 1:26; James 3:9) and ὁμοίωμα (Romans 8:3; Philippians 2:7), which will need its own gloss.")))
 
+(lemma "ὁμοιόω" (sense make-like (dative "") (verb "make like" "made like" "made like") (gloss "make like" "made like" "makes like" "making like") (why "To make like; passive, to be made like, become like, with the dative (Genesis 34:15, 22-23, ὁμοιωθησόμεθα ὑμῖν \"we will be made like you\"; Matthew 6:8; Hebrews 2:17). The verb of ὅμοιος.")))
+
 (lemma "ὁμοίωμα" (sense resemblance (gloss "resemblance" "resemblances") (why "A likeness, form (Exodus 20:4; Romans 1:23; Philippians 2:7). \"Resemblance\" so as not to share \"likeness\" with ὁμοίωσις.")))
 
 (lemma "ὁμοίωσις"
   (sense likeness
     (gloss "likeness")
     (why "Likeness (Genesis 1:26; James 3:9, people \"who have come to be according to [the] likeness of God\"). One gloss keeps James's echo of Genesis visible.")))
+
+(lemma "ὁμομήτριος" (sense same-mother (gloss "same-mother") (why "(LXX, supplied.) Born of the same mother (Genesis 43:16, 29, Benjamin τὸν ἀδελφὸν αὐτοῦ τὸν ὁμομήτριον, Joseph's brother by Rachel). The hyphen keeps the one Greek word one English word.")))
+
+(lemma "ὄνειδος" (sense reproach (gloss "reproach" "reproaches") (why "Reproach, disgrace (Genesis 30:23, Rachel: Ἀφεῖλεν ὁ θεός μου τὸ ὄνειδος; 34:14; Luke 1:25, Elizabeth's same words).")))
 
 (lemma "ὄνομα"
   (sense name
@@ -145,6 +165,8 @@
 
 (lemma "ὀργή" (sense wrath (gloss "wrath") (why "Anger, wrath (Genesis 27:45 τὸν θυμὸν καὶ τὴν ὀργὴν τοῦ ἀδελφοῦ σου; Romans 1:18; 2:8 ὀργὴ καὶ θυμός). \"Wrath\" keeps it apart from θυμός \"fury\" and θυμόω \"anger\". (LXX form supplied.)")))
 
+(lemma "ὀργίζω" (sense become-angry (voice active) (verb "become angry" "became angry" "become angry") (gloss "become angry" "became angry" "becomes angry" "becoming angry") (why "Passive: to be made angry, become angry (Genesis 40:2 ὠργίσθη Φαραώ; 41:10; Matthew 5:22; 18:34). The verb of ὀργή \"wrath\"; \"become angry\" keeps it apart from θυμόω \"anger\".")))
+
 (lemma "ὀρθῶς" (sense rightly (gloss "rightly") (why "Rightly, correctly (Luke 7:43).")))
 
 (lemma "ὁρκίζω" (sense swear-in(gloss "swear in" "swore in" "sworn in" "swears in" "swearing in") (why "To make someone swear, put under oath (Genesis 24:37, ὥρκισέν με ὁ κύριός μου; Mark 5:7; 1 Thessalonians 5:27, where it is \"adjure\"). \"Swear in\" keeps it apart from ἐξορκίζω \"adjure\" and ὀμνύω \"swear\"; the object stands before the particle (\"swore me in\").")))
@@ -181,6 +203,8 @@
 (lemma "ὅστις" (sense who (gloss "who") (why "The indefinite or qualitative relative, here simply \"who\" (Exodus 20:2).")))
 
 (lemma "ὀσφραίνομαι" (sense smell (gloss "smell" "smelled" "smells" "smelling") (why "(LXX, supplied.) To smell, catch the scent of (Genesis 8:21, the Lord God smelled an odor of fragrance). The aorist is passive in form, deponent in sense. The noun ὄσφρησις (1 Corinthians 12:17) will need its own English.")))
+
+(lemma "ὅταν" (sense whenever (gloss "whenever") (why "When, whenever, ὅτε with ἄν, with the subjunctive (Genesis 40:14 ὅταν εὖ σοι γένηται; Matthew 5:11; 6:2). \"Whenever\" keeps it apart from ὅτε and ἡνίκα \"when\".")))
 
 (lemma "ὅτε"
   (sense when
@@ -260,6 +284,8 @@
     (why "A snake, serpent (Genesis 3; Matthew 10:16; 2 Corinthians 11:3; Revelation 12:9). \"Serpent\" rather than \"snake\" for the link with Revelation's \"the ancient serpent\".")))
 
 (lemma "Ὀχοζάθ" (sense name (gloss "Ahuzzath") (why "(LXX, supplied.) Abimelech's νυμφαγωγός (Genesis 21:22, 32; 26:26). The Hebrew text names Ahuzzath only at 26:26; the Greek has him here as well. Ὀχοζάθ is the same name, so the traditional English Ahuzzath.")))
+
+(lemma "ὀχύρωμα" (sense stronghold (gloss "stronghold" "strongholds") (why "A fortified place, stronghold; in Genesis 39:20-40:14 the prison where the king's prisoners are held (2 Corinthians 10:4, figurative). The literal \"stronghold\" is kept.")))
 
 (lemma "ὀψέ" (sense late (gloss "late") (why "Late, late in the day (Genesis 24:11, τὸ πρὸς ὀψέ, \"toward late\", toward evening; Mark 11:19; 13:35).")))
 

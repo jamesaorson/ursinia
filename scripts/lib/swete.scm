@@ -128,7 +128,13 @@ letter (\"a\" for {=31:48a}), or the rest of a combined number as printed
                                     (cdr (string-split (string-map (lambda (ch) (if (char=? ch #\-) #\, ch)) part) #\,)))))
                 (list 'common c v part)))))
    ((string=? s "P") '(para))
-   ((string=? s "S") '(stich))
+   ;; {S} a stich at the poetry's left edge, {S1} one indented, {S2} the
+   ;; turned-over end of the stich above (indented deeper; Psalms).
+   ((member s '("S" "S1" "S2")) '(stich))
+   ;; {T}: a line of a psalm title (Swete's unnumbered superscription in small
+   ;; type). The first {T} after {Cn} starts verse 1 of the psalm; later {T}
+   ;; lines of the same title continue it.
+   ((string=? s "T") '(verse 1 title))
    (else #f)))
 
 (define (line-items line)
@@ -208,6 +214,9 @@ dropped. Returns (values rows problems), problems as for book-problems."
                           (else (string-append text " " s)))
                     #f where rows problems)))))
          (('chapter n) (loop rest n ref text join? where rows problems))
+         ;; A title line continuing the title already under way.
+         (('verse 1 'title) (=> next)
+          (if (and ch (equal? ref (list ch 1 ""))) (loop rest ch ref text join? where rows problems) (next)))
          (('verse n . opts)
           (if ch
               (loop rest ch (list ch n (match opts (('letter l) l) (_ ""))) "" #f where (flush) problems)
@@ -290,7 +299,7 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
                              (format #f "non-Greek character~a ~a: read the image again (Latin look-alikes, stray digits?; a numeral's keraia is ʹ U+02B9, right after its letters)"
                                      (if (> (length cs) 1) "s" "")
                                      (string-join (map (lambda (c) (format #f "~a (U+~a)" c (string-upcase (number->string (char->integer c) 16)))) cs) ", "))))))
-           (filter-map (match-lambda (('bad s) (list leaf n 'fail (format #f "unknown marker ~a (use {C3} {CA} {7} {7!} {7!!} {7a} {=2:25} {=31:48a} {=40:30-31} {=36:34,36} {P} {S}; combined numbers ascend)" s)))
+           (filter-map (match-lambda (('bad s) (list leaf n 'fail (format #f "unknown marker ~a (use {C3} {CA} {7} {7!} {7!!} {7a} {=2:25} {=31:48a} {=40:30-31} {=36:34,36} {P} {S} {S1} {S2} {T}; combined numbers ascend)" s)))
                                      (_ #f))
                        (line-items line))))))
      (page-lines page)))
@@ -379,14 +388,28 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
               ;; chapter it interrupted (Esth 'III 14' after B 7): {C3}{14}
               ;; resumes chapter 3 at its last verse.
               (let ((base (if (string? ch) (and numbered (car numbered)) ch)))
-                (if (and (string? ch) numbered (eqv? n (car numbered)))
-                    (loop rest where n (cdr numbered) ref last-ref pending-text? depth hyphen? acc)
+                (if (or (and (string? ch) numbered (eqv? n (car numbered)))
+                        ;; A run starting mid-book that may be inside a lettered
+                        ;; section: {C8}{13} may resume; judged once the leaf
+                        ;; before is done.
+                        (and (not ch) (not opens?) pending-text?))
+                    (loop rest where n (if ch (cdr numbered) #f) ref last-ref pending-text? depth hyphen? acc)
                     (loop rest where n 'after-chapter ref last-ref pending-text? depth hyphen?
                           (cond ((and base (not (= n (+ base 1))))
                                  (seq "Swete chapter {C~a} after chapter ~a~a" n base
                                       (if (string? ch) (format #f " (a chapter resumed after section ~a is {C~a})" ch base) "")))
                                 ((and (not base) (not ch) opens? (not (= n 1))) (add 'fail "book opens with {C~a}, expected {C1}" n))
                                 (else acc))))))
+             (('verse 1 'title)
+              ;; {T}, a psalm title: right after {Cn} it starts verse 1 and
+              ;; Swete's first number may be 1 (the title runs on into it)
+              ;; or 2; later lines of the title (or a leaf that starts in
+              ;; one) continue it.
+              (cond ((eq? v 'after-chapter)
+                     (loop rest where ch 'after-title (list ch 1 "") last-ref pending-text? depth hyphen? acc))
+                    ((memq v '(after-title #f)) (loop rest where ch v ref last-ref pending-text? depth hyphen? acc))
+                    (else (loop rest where ch v ref last-ref pending-text? depth hyphen?
+                                (seq "{T} (a psalm title) after verse {~a}: a title stands right after its {C~a}" v ch)))))
              (('verse n 'letter l)
               ;; Swete's own lettered verse {42a}: only after his {42} (or
               ;; another letter of it); V stays 42, so {43} runs on.
@@ -413,7 +436,9 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
               ;; printed early or late, Num 6:27, 10:34). Either way each
               ;; Swete number occurs once per chapter. A {n!} reference is
               ;; explicit: the common-order warnings do not judge it.
-              (let ((again (and ch (hash-ref swete-seen (list ch n)))))
+              (let ((again (and ch (hash-ref swete-seen (list ch n))))
+                    ;; after a title, {1} opens the chapter and {2} follows it
+                    (v (if (eq? v 'after-title) (if (= n 1) 'after-chapter 1) v)))
                 (when ch (hash-set! swete-seen (list ch n) where))
                 (loop rest where ch n (and ch (if (pair? skip) (list ch n "" 'explicit) (list ch n ""))) last-ref pending-text? depth hyphen?
                       (cond (again
@@ -654,6 +679,10 @@ which follows the typical line. Always check it by eye."
 ;;; Indentation hints
 ;;; ---------------------------------------------------------------------------
 
+(define (verse-line? line)
+  "A poetry line ({S} {S1} {S2}) or a psalm title line ({T}): set indented."
+  (string-match "\\{(S[12]?|T)\\}" line))
+
 (define (indent-hints lines page)
   "Notes on lines the scan indents (a paragraph) without {P}, or {P} lines it
 does not indent, from OCR main-text LINES, when their count matches PAGE's.
@@ -686,12 +715,12 @@ page of poetry has no flush lines to compare with."
              (let* ((indented? (and (> (- x left) em)
                                     (not (any (lambda (n) (and n (< (abs (- x n)) (/ em 2)))) (list x-above x-below)))))
                     (para? (string-contains (cdr pl) "{P}"))
-                    (stich? (string-contains (cdr pl) "{S}"))
+                    (stich? (verse-line? (cdr pl)))
                     ;; A {P} line is judged against its prose neighbors only, not
                     ;; the page's edge: a wider margin-number column shifts the
                     ;; block locally (Deut leaf 437), and poetry lines ({S},
                     ;; leaves 448-450) are indented themselves.
-                    (prose-nbrs (filter-map (lambda (n p) (and n p (not (string-contains (cdr p) "{S}")) n))
+                    (prose-nbrs (filter-map (lambda (n p) (and n p (not (verse-line? (cdr p))) n))
                                             (list x-above x-below) (list pl-above pl-below)))
                     (flush-p? (and (pair? prose-nbrs) (<= (- x (apply min prose-nbrs)) (/ em 2)))))
                (cond ((and indented? (not (or para? stich?)) (> (car pl) 1) (same-start? l (car pl))

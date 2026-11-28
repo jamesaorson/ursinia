@@ -2,6 +2,8 @@
 ;; in Greek alphabetical order. Format: gsb/translation/README.md; generator
 ;; fields: gsb/literal/README.md. Checked by `make gsb/lint`.
 
+(lemma "χαβραθά" (sense chabratha (gloss "chabratha") (why "(LXX, supplied.) A Hebrew word for a stretch of land, kept untranslated by the Greek and printed lowercase by Swete (Genesis 35:16 ἤγγισεν χαβραθὰ εἰς γῆν; 48:7 κατὰ τὸν ἱππόδρομον χαβραθὰ τῆς γῆς). The English transliterates it as the Greek does, lowercase, since it is not a name.")))
+
 (lemma "Χαλαννή" (sense name (gloss "Calneh") (why "(LXX, supplied.) A city of Nimrod's kingdom (Genesis 10:10), Greek Χαλαννή; traditional English Calneh.")))
 
 (lemma "Χάλαχ" (sense name (gloss "Calah") (why "(LXX, supplied.) A city built by Asshur (Genesis 10:11-12), Greek Χάλαχ; traditional English Calah.")))
@@ -68,6 +70,8 @@
 
 (lemma "Χοδολλογόμορ" (sense name (gloss "Chedorlaomer") (why "(LXX, supplied.) King of Elam (Genesis 14:1-17; Swete spells Χοδαλλογόμορ at 14:17); traditional English Chedorlaomer.")))
 
+(lemma "χονδρίτης" (sense groat-cake (gloss "groat cake" "groat cakes") (why "(LXX, supplied.) Bread or cake of groats, coarse-ground grain (χόνδρος), Genesis 40:16, the baker's three baskets of them.")))
+
 (lemma "Χορραῖος" (sense name (person) (gloss "Horite" "Horites") (why "(LXX, supplied.) The Horites of Mount Seir (Genesis 14:6); traditional English Horite.")))
 
 (lemma "χόρτασμα" (sense fodder (gloss "fodder" "fodders") (why "Food for animals, fodder (Genesis 24:25, 32; Acts 7:11, the food the fathers could not find). Kept apart from χόρτος \"grass\".")))
@@ -85,6 +89,8 @@
 (lemma "Χούς" (sense name (gloss "Cush") (why "(LXX, supplied.) Ham's son, Nimrod's father (Genesis 10:6-8), Greek Χούς; traditional English Cush. Where the Greek says Αἰθιοπία (2:13) the English follows the Greek; here it gives the name itself.")))
 
 (lemma "χράομαι" (sense use (dative "") (gloss "use" "used" "uses" "using") (why "To use, deal with, with the dative (Genesis 12:16, τῷ Ἀβρὰμ εὖ ἐχρήσαντο, \"they used Abram well\", treated him well; Acts 27:3, 17; 1 Corinthians 7:31).")))
+
+(lemma "χρονίζω" (sense delay (gloss "delay" "delayed" "delays" "delaying") (why "To spend time, delay, linger (Genesis 34:19, the young man did not delay to do the thing; Matthew 24:48; 25:5; Hebrews 10:37). The verb of χρόνος \"time\".")))
 
 (lemma "χρόνος" (sense time (gloss "time" "times") (why "Time, a stretch of time (Genesis 26:1, 15 ἐν τῷ χρόνῳ τοῦ Ἀβραάμ, \"in the time of Abraham\"; Luke 1:57; Galatians 4:4). Kept apart from καιρός \"season\".")))
 

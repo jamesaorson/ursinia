@@ -248,6 +248,7 @@ third. Text lines:
 | Mark | Meaning |
 |---|---|
 | `{C4}` | Swete's chapter 4 starts here (the Roman numeral in the margin). Put it right before the chapter's `{1}`. |
+| `{CA}` | Swete's **lettered section** A starts (Esther's Greek additions A-F: the letter stands in the margin beside the section's verse 1, e.g. `(XI) (2) A 1`). Then his own verse numbers as usual: `{CA}{1}`, `{2}` ... The table gets chapter `A`. Sections run A, B, C ... and do not advance or reset the numbered chapters. Where Swete reprints the numeral of the interrupted chapter after it (`III 14` after B 7), write `{C3}{14}`: it resumes chapter 3, and 14 runs on from 13. A chapter that resumes on a later number (D replaces Esth 5:1-2: `3 V`) is `{C5}{3!}`. The Vulgate numbers in parentheses beside the letters (`(XI) (2)`, `(3)`, ...) are not markers: put a `#` comment line above the printed line for every margin entry with a Roman numeral and for any parenthesized number that does not run on by one with Swete's own verse (`# margin: (XIII) (8) C 1`). Beware the manuscript siglum **B** (Codex Vaticanus) in the margin at the top of a page: the section letter B stands next to a verse number (`1 B (XIII`). |
 | `{7}` | Swete's verse 7 starts here: where the superscript number stands in the text. |
 | `{=2:25}` | The **common** reference from here on, from a number Swete prints *in parentheses*, in the margin or inside the text, e.g. `(25)(II)` = 2:25, `(1)(III)` = 3:1. Put it where that verse starts in the text (after Swete's own `{n}` if both start there). It holds until Swete's next `{n}`, which resets the common reference to Swete's number; so every verse that differs needs its own `{=c:v}`. It may go backwards (the Septuagint transposes verses), but each common verse may be given only once per book. |
 | `{=31:48a}` | A half verse: Swete's margin prints `(48 a)`, `(48 b)`, or an unparenthesized `52 b` beside his own number. Keep the letter; the table gets verse `48a`. A whole verse and its halves cannot both appear. **Also** where Swete prints the same parenthesized number twice in a book (Exod 25:34 on leaf 186, 39:40 on leaf 217): the first place gets `a`, the second `b`, and a `#` comment says the letters are ours, not printed. |
@@ -256,7 +257,8 @@ third. Text lines:
 | `{31!!}` | Swete prints his own number **a second time** in the chapter (2 Kgdms 23 prints 29, 31, ... 39, then 30 and 31 again: `{30!}`, `{31!!}`). Fails if that number has not occurred in the chapter. The common verse is then given twice, so both places need our letters (`{31!}{=23:31a}` ... `{31!!}{=23:31b}`) and a `#` comment. Use it only when the image shows the same number twice. |
 | `{42a}` | Swete's **own lettered verse** as printed: a superscript `42a` in the text and an unparenthesized `42 a` in the margin (Josh 15:59a, 21:42a-d, 24:30a, 24:33a-b). It is an extra verse of the Greek, not a half of 42: it may follow only his `{42}` (or another letter of 42), and his next `{43}` runs on from 42. The table gets verse `42a` beside the whole verse 42. A parenthesized `(42 a)` is a common half verse, `{=c:42a}`, as before. |
 | `{P}` | New paragraph: the line is indented in print. First thing on the line. (A blank-line gap before a paragraph, as before Gen 6:9, is not marked separately.) |
-| `{S}` | A line of poetry: Swete sets a song or oracle as indented verse lines (Gen 4:23–24). Put `{S}` first on every such line, whatever its indent depth; the introducing prose line (`εἶπεν δὲ Λάμεχ ...`) gets none. |
+| `{S}` | A line of poetry: Swete sets a song or oracle as indented verse lines (Gen 4:23–24). Put `{S}` first on every such line, whatever its indent depth; the introducing prose line (`εἶπεν δὲ Λάμεχ ...`) gets none. **Psalms** record the depth: `{S}` at the poetry's left edge, `{S1}` indented one step, `{S2}` the turned-over end of the line above (see the Psalms paragraph in `gsb/sources/swete/README.md`). |
+| `{T}` | **Psalms**: a line of the psalm's unnumbered superscription (small type). Every title line starts `{T}` (after `{Cn}`); the first one is verse 1 of the psalm, and Swete's next number is 2, or 1 (a margin 1: the title runs on into his verse 1). Parenthesized Hebrew numbers in Psalms are `#` comments, not `{=c:v}`. |
 | `¶` `§` | Witness marks printed *in the text* (a fragmentary manuscript stops / resumes). Keep them where they stand. The `¶D` / `§D` in the margin are not text. |
 | `[` `]` | Swete's brackets (letters lost in Codex A in Genesis). Keep as printed, even inside a word or across lines/pages. |
 | line ends in `-` | Hyphenated word continued on the next line (or the next page's first line). Keep the hyphen. |
@@ -391,6 +393,11 @@ common 28:24-25) leave it unmarked.
   hyphen is printed (not a speck).
 - **Daniel**: Old Greek on even leaves (book `dan`), Theodotion on the facing
   odd leaves (`dan-th`), chapter by chapter. Never mix them.
+- **Handwritten notes** (ink or pencil: Hebrew, English, Greek glosses,
+  underlines, carets, brackets; Esther in volume 2) are not text. Read the
+  printed letters under and around them from a zoomed crop (6-8x), and `flag`
+  as ambiguous any printed letter or mark a note hides. A hand-drawn caret
+  or slash is not punctuation.
 - **Indented paragraph lines** are easy to miss: collate NOTEs flag them.
 - **Swete's versification** differs from the common one in places: look at every
   margin for parenthesized numbers (Gen 2:25, 5:32 so far).

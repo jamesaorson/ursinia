@@ -16,17 +16,29 @@
 
 (lemma "Μαιήλ" (sense name (gloss "Mehujael") (why "(LXX, supplied.) Genesis 4:18, traditional English Mehujael.")))
 
+(lemma "μακαρίζω" (sense call-happy (verb "call happy" "called happy" "called happy") (gloss "call happy" "called happy" "calls happy" "calling happy") (why "To count or call someone happy (μακάριος) (Genesis 30:13, Leah: μακαρίζουσίν με πᾶσαι αἱ γυναῖκες; Luke 1:48; James 5:11). \"Call happy\" keeps the link with μακάριος \"happy\".")))
+
+(lemma "μακάριος" (sense happy (gloss "happy") (why "Happy, fortunate, blessed in the sense of well off (Genesis 30:13 Μακαρία ἐγώ; Matthew 5:3-11; Psalm 1:1). \"Happy\" keeps it apart from εὐλογητός \"blessed\" and the verb εὐλογέω \"bless\", which name a blessing spoken; the readable layer may choose \"blessed\".")))
+
+(lemma "μακράν" (sense far-off (gloss "far off") (why "Far, far off, at a distance (Genesis 44:4 οὐκ ἀπέσχον μακράν, \"they were not distant far off\"; Luke 15:20; Acts 2:39). The adverb of μακρός; \"far off\" keeps it apart from μακρόθεν \"from afar\".")))
+
 (lemma "μακρόθεν" (sense from-afar (gloss "from afar") (why "From afar, at a distance.")))
 
 (lemma "μακρός" (sense farther (gloss "farther") (why "Long, far. The comparative neuter μακρότερον as an adverb, \"farther\" (Genesis 21:16). The adjective \"long\", \"distant\" (Luke 15:13 εἰς χώραν μακράν) will need its own sense.")))
 
 (lemma "μακροχρόνιος" (sense long-lived (gloss "long-lived") (why "(LXX.) Long-lived (Exodus 20:12; Ephesians 6:3 quotes it).")))
 
+(lemma "μαλακία" (sense sickness (gloss "sickness" "sicknesses") (why "(LXX form supplied.) Softness, weakness, sickness (Genesis 44:29 συμβῇ αὐτῷ μαλακία ἐν τῇ ὁδῷ; Matthew 4:23 πᾶσαν νόσον καὶ πᾶσαν μαλακίαν). \"Sickness\" keeps it apart from νόσος \"disease\" and ἀσθένεια \"weakness\".")))
+
 (lemma "Μαλελεήλ" (sense name (gloss "Mahalalel") (why "Kenan's son (Genesis 5:12-17; Luke 3:37), Greek Μαλελεήλ (Maleleel, as KJV Luke). The English follows the traditional Old Testament form Mahalalel, as Ἐνώς is \"Enosh\"; whether to follow the Greek (\"Maleleel\") in both testaments is for the owner.")))
 
 (lemma "μᾶλλον" (sense more (gloss "more") (why "More, rather; μᾶλλον ἤ, \"more than\" (Genesis 19:9 σὲ κακώσομεν μᾶλλον ἢ ἐκείνους; John 3:19; Acts 5:29). \"More\" because ἀλλά has \"rather\".")))
 
 (lemma "Μαμβρή" (sense name (gloss "Mamre") (why "(LXX, supplied.) The place (or owner) of the oak by which Abraham lived (Genesis 13:18; 18:1); traditional English Mamre. Indeclinable.")))
+
+(lemma "μανδραγόρας" (sense mandrake (gloss "mandrake" "mandrakes") (why "(LXX, supplied.) The mandrake, a plant whose fruit was thought to help conception (Genesis 30:14-16, μῆλα μανδραγόρου, Reuben's find).")))
+
+(lemma "μάρσιππος" (sense sack (gloss "sack" "sacks") (why "(LXX, supplied.) A bag, sack (Genesis 43:12-44:12, the brothers' grain sacks with the silver and the goblet in them). Kept apart from σάκκος \"sackcloth\" and βαλλάντιον \"purse\" (Luke 10:4).")))
 
 (lemma "μαρτυρία" (sense testimony (gloss "testimony") (why "Testimony, witness borne.")))
 
@@ -63,6 +75,8 @@
 
 (lemma "μεθύσκω" (sense get-drunk (voice active) (gloss "get drunk" "got drunk" "gotten drunk" "gets drunk" "getting drunk") (why "To make drunk; the passive, to get drunk (Genesis 9:21, Noah ἐμεθύσθη; Luke 12:45; Ephesians 5:18). The passive is rendered as the intransitive \"get drunk\".")))
 
+(lemma "μέλι" (sense honey (gloss "honey") (why "Honey (Genesis 43:11, among the gifts; Matthew 3:4; Revelation 10:9). (LXX form supplied.)")))
+
 (lemma "μέλλω" (sense be-about (verb "be about" "was about" "been about") (gloss "be about" "is about" "was about" "were about" "been about" "being about") (why "To be about to, be going to, with an infinitive (Genesis 25:22 Εἰ οὕτως μοι μέλλει γίνεσθαι, \"If thus to me it is about to come to be\"; Matthew 2:13; Romans 8:18).")))
 
 (lemma "Μελχά" (sense name (gloss "Milcah") (why "(LXX, supplied.) Haran's daughter, Nahor's wife (Genesis 11:29), traditional English Milcah.")))
@@ -75,7 +89,9 @@
 
 (lemma "μερίς" (sense portion (gloss "portion" "portions") (why "A part, portion, share (Genesis 14:24, they will take a portion; Luke 10:42; Colossians 1:12).")))
 
-(lemma "μεσημβρία" (sense midday (genitive "at") (gloss "midday") (why "Midday, noon; also the south (Acts 8:26). The genitive of Genesis 18:1 is the time when, \"at midday\" (Acts 22:6 περὶ μεσημβρίαν).")))
+(lemma "μέρος" (sense part (gloss "part" "parts") (why "A part, share (Genesis 47:24 τὸ πέμπτον μέρος, the fifth part to Pharaoh, τὰ τέσσερα μέρη the four parts; Luke 15:12; John 13:8; 1 Corinthians 13:9-12). \"Part\" keeps it apart from μερίς \"portion\"; the verb διαστέλλω's \"part\" is the same English spelling as another part of speech. (LXX form supplied.)")))
+
+(lemma "μεσημβρία" (sense midday (genitive "at") (dative "at") (gloss "midday") (why "Midday, noon; also the south (Acts 8:26). The genitive of Genesis 18:1 is the time when, \"at midday\" (Acts 22:6 περὶ μεσημβρίαν).")))
 
 (lemma "Μεσοποταμία" (sense name (gloss "Mesopotamia") (why "\"Between the rivers\", the Greek name for the land of Haran, where the Hebrew has Aram-naharaim (Genesis 24:10) and Paddan-aram (Genesis 28:2, 5-7, Μεσοποταμία Συρίας). The Greek gives a different name from the Hebrew, so the English follows the Greek, as in Acts 2:9 and 7:2.")))
 
@@ -130,6 +146,8 @@
 
 (lemma "μῆκος" (sense length (gloss "length") (why "Length (Genesis 6:15; Revelation 21:16).")))
 
+(lemma "μῆλον" (sense apple (gloss "apple" "apples") (why "(LXX, supplied.) An apple, or any tree fruit of its kind (Genesis 30:14 μῆλα μανδραγόρου, the mandrake's fruit).")))
+
 (lemma "μήν" (sense month (gloss "month" "months") (why "(LXX, supplied.) A month (Genesis 7:11; 8:4-5, 13-14; Luke 1:24, 26). The table's lemma is \"μήν (II)\", to keep it apart from the particle μήν (Hebrews 6:14), which will be its own entry or sense.")))
 
 (lemma "μήν (I)" (sense surely (gloss "surely") (why "The particle of strong affirmation; in the oath formula εἰ μήν, \"surely\" (Genesis 22:17, quoted in Hebrews 6:14). Not μήν (II), \"month\".")))
@@ -146,12 +164,18 @@
 
 (lemma "μιαίνω" (sense defile (gloss "defile" "defiled" "defiles" "defiling") (why "To defile, stain.")))
 
+(lemma "μίγνυμι" (sense mix (gloss "mix" "mixed" "mixes" "mixing") (why "To mix, mingle (Genesis 30:40, Jacob οὐκ ἔμιξεν αὐτὰ εἰς τὰ πρόβατα Λαβάν; Matthew 27:34; Revelation 8:7).")))
+
 (lemma "μικρός" (sense small (gloss "small") (why "Small, little (Genesis 19:11 ἀπὸ μικροῦ ἕως μεγάλου, from small to great; 19:20; Matthew 10:42; Acts 8:10). The opposite of μέγας \"great\"."))
   (sense almost (gloss "almost") (why "The genitive μικροῦ used as an adverb, \"by a little\", almost (Genesis 26:10 μικροῦ ἐκοιμήθη τις, \"almost someone lay\"). Chosen by a word override, since μικροῦ is also the plain genitive \"of small\".")))
 
 (lemma "μιμνῄσκω" (sense remember (voice active) (genitive "") (gloss "remember" "remembered" "remembers" "remembering") (why "Middle/passive: to remember (Exodus 20:8 Μνήσθητι).")))
 
 (lemma "μισέω" (sense hate (gloss "hate" "hated" "hates" "hating") (why "To hate.")))
+
+(lemma "μισθόω" (sense hire (gloss "hire" "hired" "hires" "hiring") (why "To let for hire; middle, to hire (Genesis 30:16, Leah: μεμίσθωμαί σε ἀντὶ τῶν μανδραγορῶν; Matthew 20:1, 7). The verb of μισθός \"wage\".")))
+
+(lemma "μισητός" (sense hateful (gloss "hateful") (why "(LXX, supplied.) Hated, hateful (Genesis 34:30, Μισητόν με πεποιήκατε, you have made me hateful). The adjective of μισέω.")))
 
 (lemma "μισθός" (sense wage (gloss "wage" "wages") (why "Pay, wage, reward (Genesis 15:1 ὁ μισθός σου πολύς; Matthew 5:12; Luke 10:7). \"Wage\" for the literal layer, which keeps the idea of pay; the readable layer may say \"reward\".")))
 

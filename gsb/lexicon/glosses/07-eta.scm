@@ -6,11 +6,19 @@
   (sense than (gloss "than") (why "After a comparative or μᾶλλον: than (Genesis 19:9 σὲ κακώσομεν μᾶλλον ἢ ἐκείνους; John 3:19; Acts 5:29). Chosen by word override."))
   (sense alla-phrase (gloss "") (why "In ἀλλ’ ἤ, \"but rather, except\" (Genesis 19:2 Οὐχί, ἀλλ’ ἢ ἐν τῇ πλατείᾳ καταλύσομεν; 2 Corinthians 1:13): the phrase (gsb/literal/phrases.scm) gives its English to ἀλλά, and ἤ is aligned with it and left unrendered.")))
 
-(lemma "ἤδη" (sense already (gloss "already") (why "Already, now by this time (Genesis 27:36 ἤδη δεύτερον τοῦτο; John 4:35). (LXX form supplied.)")))
+(lemma "ἡγεμονία" (sense chiefdom (gloss "chiefdom" "chiefdoms") (why "(LXX form supplied.) The office or domain of a ἡγεμών, here of the Horite chiefs (Genesis 36:30 ἐν ταῖς ἡγεμονίαις αὐτῶν); Luke 3:1, of a governorship. \"Chiefdom\" keeps it with ἡγεμών \"chief\".")))
+
+(lemma "ἡγεμών" (sense chief (person) (gloss "chief" "chiefs") (why "(LXX sense.) A leader, chief: the chiefs (Hebrew alluph) of Edom and of the Horites (Genesis 36:15-43). The New Testament uses it of a Roman governor (Matthew 27:2); a \"governor\" sense may be added when met. Kept apart from ἄρχων \"ruler\".")))
+
+(lemma "ἡγέομαι" (sense govern (genitive "") (gloss "govern" "governed" "governs" "governing") (why "(LXX form supplied.) To lead, be chief over, govern, with the genitive (Genesis 49:10 ἡγούμενος ἐκ τῶν μηρῶν αὐτοῦ, quoted in Matthew 2:6; 49:26 ὧν ἡγήσατο ἀδελφῶν; Hebrews 13:7, 17). \"Govern\" because ἄγω and its compounds have \"lead\". The New Testament's \"consider, regard\" (Philippians 2:3, 6) will be its own sense.")))
+
+(lemma "ἤδη"(sense already (gloss "already") (why "Already, now by this time (Genesis 27:36 ἤδη δεύτερον τοῦτο; John 4:35). (LXX form supplied.)")))
 
 (lemma "ἥκω" (sense come (gloss "come" "came" "comes" "coming") (why "To have come, come (Exodus 20:24; John 8:42). Shares \"come\" with ἔρχομαι until the two are separated.")))
 
-(lemma "ἥλιος" (sense sun (gloss "sun" "suns") (why "The sun (Genesis 15:12, 17; Matthew 5:45). Genesis 1:16 calls it the \"great luminary\" (φωστήρ) without naming it.")))
+(lemma "Ἠλᾶς" (sense name (gloss "Elah") (why "(LXX, supplied.) A chief of Esau (Genesis 36:41), Greek Ἠλᾶς; traditional English Elah.")))
+
+(lemma "ἥλιος"(sense sun (gloss "sun" "suns") (why "The sun (Genesis 15:12, 17; Matthew 5:45). Genesis 1:16 calls it the \"great luminary\" (φωστήρ) without naming it.")))
 
 (lemma "ἡμέρα"
   (sense day
@@ -27,6 +35,8 @@
 (lemma "ἡμίονος" (sense mule (gloss "mule" "mules") (why "(LXX, supplied.) A mule, half-donkey (Genesis 12:16).")))
 
 (lemma "ἡνίκα" (sense when (gloss "when") (why "At the time when, when (Genesis 6:1; 2 Corinthians 3:15-16, quoting Exodus 34:34). It shares \"when\" with ὅτε: both are plain temporal \"when\", and the fuller \"at the time when\" would put an unbracketed \"the\" in the text; the alignment shows which Greek word stands behind it.")))
+
+(lemma "ἧπαρ" (sense liver (gloss "liver" "livers") (why "(LXX, supplied.) The liver, seat of the passions (Genesis 49:6 μὴ ἐρίσαι τὰ ἥπατά μου, \"may my livers not strive\").")))
 
 (lemma "Ἠσαῦ" (sense name (gloss "Esau") (why "Isaac's elder son, Jacob's twin (Genesis 25:25-36:43; Romans 9:13; Hebrews 11:20; 12:16). Greek Ἠσαῦ (Swete prints the grave Ἠσαὺ before another word), traditional English Esau, the same in both testaments.")))
 

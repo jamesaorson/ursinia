@@ -11,6 +11,8 @@
     (gloss "appear" "appeared" "appears" "appearing")
     (why "Passive: to appear, to seem (Genesis 21:11 σκληρὸν δὲ ἐφάνη τὸ ῥῆμα, \"hard the utterance appeared\"; Matthew 1:20, 2:13 ἐφάνη κατ' ὄναρ). It shares \"appear\" with ὁράω's passive (ὤφθη); English has no second plain word (δοκέω has \"seem\"), and the alignment shows which Greek word stands behind it. Chosen by a form row or word override.")))
 
+(lemma "φαιός" (sense gray (gloss "gray") (why "(LXX, supplied.) Dusky, gray (Genesis 30:32-35, every φαιὸν among the lambs, Jacob's wage). Kept apart from σποδοειδής \"ash-colored\".")))
+
 (lemma "φακός" (sense lentil (gloss "lentil" "lentils") (why "(LXX, supplied.) The lentil (Genesis 25:34 ἕψεμα φακοῦ, \"stew of lentil\"; 2 Kingdoms 17:28).")))
 
 (lemma "Φαλδάς" (sense name (gloss "Pildash") (why "(LXX, supplied.) Nahor's son (Genesis 22:22); the Greek form of the Hebrew Pildash. Traditional English Pildash.")))
@@ -43,6 +45,8 @@
     (why "(LXX, supplied.) The first river of Genesis 2:11, given its traditional English name; the Greek spells it Φεισών (Pheison).")))
 
 (lemma "Φερεζαῖος" (sense name (person) (gloss "Perizzite" "Perizzites") (why "(LXX, supplied.) The Perizzites, a people of Canaan (Genesis 13:7; 15:20), by the traditional English name.")))
+
+(lemma "φερνή" (sense dowry (gloss "dowry") (why "(LXX, supplied.) The bride-price, dowry (Genesis 34:12, πληθύνατε τὴν φερνήν, multiply the dowry).")))
 
 (lemma "φέρω" (sense carry (gloss "carry" "carried" "carries" "carrying") (why "To carry, bear. \"Carry\" because \"bring\" is ἄγω's and \"bear\" τίκτω's; Genesis 4:3-4, Cain and Abel carried [offerings].")))
 
@@ -88,6 +92,8 @@
   (sense prudent
     (gloss "prudent")
     (why "(Supplied in Genesis 3:1, a superlative.) Prudent, sensible, shrewd. Genesis 3:1 calls the serpent φρονιμώτατος, \"most prudent\", where translations from the Hebrew have \"crafty\"; Matthew 10:16 (\"be prudent as the serpents\") uses the same word. One gloss keeps the echo.")))
+
+(lemma "φυλακή" (sense custody (gloss "custody") (why "Guarding, custody, and the place of it (Genesis 40:3-7; 41:10 ἐν φυλακῇ; Matthew 14:3; Acts 12:4). \"Custody\" keeps it apart from δεσμωτήριον \"prison\" and φύλαξ \"guard\"; a watch of the night (Matthew 14:25) will be its own sense.")))
 
 (lemma "φύλαξ" (sense guard (person) (gloss "guard" "guards") (why "A guard, keeper (Acts 5:23): the noun of φυλάσσω \"guard\". Genesis 4:9 \"Am I the guard of my brother?\".")))
 

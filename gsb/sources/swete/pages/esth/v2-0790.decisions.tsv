@@ -1,0 +1,51 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+esth	oldtestamenting02swet	790	1	Ἀρταξέρξῃ.	Ἀρταξέρξῃ.	Ἀρταξέρξῃ.	Ἀρταξέρξῃ.	image (3x): smooth breathing on Alpha
+esth	oldtestamenting02swet	790	1	βασιλεύς	βασιλεύς	βασιλεύς	βασιλεύς	image (3x): acute before capitalized quotation
+esth	oldtestamenting02swet	790	1	δόξαν +3	δόξαν +3	δόξαν	δόξαν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+esth	oldtestamenting02swet	790	3	Οὐκ	Οὐκ	Οὐκ	Οὐκ	image (3x): smooth breathing on Ου
+esth	oldtestamenting02swet	790	3	ἐν	“ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+esth	oldtestamenting02swet	790	3	βασιλέα +.	βασιλέα +.	βασιλέα	βασιλέα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+esth	oldtestamenting02swet	790	4	ἰδοὺ	ἰδοὺ	ἰδοὺ	ἰδοὺ	image (3x): grave on ἰδοὺ before proper name (not a quotation)
+esth	oldtestamenting02swet	790	4	Ἀμὰν	Ἀμὰν	Ἁμὰν	Ἁμὰν	image (3x): rough breathing (open-left reversed comma), grave
+esth	oldtestamenting02swet	790	4	αὐλῇ:	αὐλῇ:	αὐλῇ·	αὐλῇ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+esth	oldtestamenting02swet	790	5	βασιλεὺς	βασιλεύς	βασιλεύς	βασιλεύς	image (3x): acute before capitalized quotation
+esth	oldtestamenting02swet	790	5	Ἀμὰν	Ἀμὰν	Ἁμὰν	Ἁμὰν	image (3x): rough breathing (open-left reversed comma), grave
+esth	oldtestamenting02swet	790	6	κρεμάσαι	ρ	κρεμάσαι	κρεμάσαι	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	790	6	τὸν	μασαι	τὸν	τὸν	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	790	6	Μαρδοχαῖον	τον	Μαρδοχαῖον	Μαρδοχαῖον	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	790	6	ἐπὶ	αρ	ἐπὶ	ἐπὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	790	6	τῷ	οχαιον	τῷ	τῷ	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	790	6	ξύλῳ	ετσῖι	ξύλῳ	ξύλῳ	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	790	6	ᾧ	Τῷ	ᾧ	ᾧ	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	790	6	ἡτοίμασεν.	ξύ	ἡτοίμασεν.	ἡτοίμασεν.	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	790	6	"καὶ	ῳ	καὶ	καὶ	image (3x): superscript 5 then καὶ
+esth	oldtestamenting02swet	790	6	εἶπαν	ῳ +τοιμασεν. και εἰπαν	εἶπαν	εἶπαν	class R6 (OCR letters differ): the other OCR reading agrees with c
+esth	oldtestamenting02swet	790	7	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing; grave before Ἁμὰν (name, not a quotation)
+esth	oldtestamenting02swet	790	7	Ἀμὰν	Ἀμὰν	Ἁμὰν	Ἁμὰν	image (3x): rough breathing (open-left reversed comma), grave
+esth	oldtestamenting02swet	790	7	αὐλῇ"	αὐλῇ"	αὐλῇ·	αὐλῇ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+esth	oldtestamenting02swet	790	8	βασιλεὺς	βασιλεὺς	βασιλεύς	βασιλεύς	image (3x): acute before capitalized quotation
+esth	oldtestamenting02swet	790	8	δεῖπεν	“εἶπεν	εἶπεν	εἶπεν	image (3x): superscript 6 then εἶπεν
+esth	oldtestamenting02swet	790	9	ὁ +“μάν	6 +“μάν	Ἁμάν	Ἁμάν	image (3x): rough breathing, acute before capitalized quotation
+esth	oldtestamenting02swet	790	10	Ἀμάν	Ἀμάν	Ἁμάν	Ἁμάν	image (3x): rough breathing, acute before capitalized quotation
+esth	oldtestamenting02swet	790	10	Τ7εἶπεν	Τ7εἶπεν	εἶπεν	εἶπεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+esth	oldtestamenting02swet	790	10	δὲ +γ	δὲ +7	δὲ	δὲ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+esth	oldtestamenting02swet	790	11	Ἀνθρωπον	ΓΑνθρωπον	Ἄνθρωπον	Ἄνθρωπον	image (3x): smooth + acute (apostrophe then rising stroke)
+esth	oldtestamenting02swet	790	11	ϑένεγκά- +8	ϑένεγκά- +8	ἐνεγκά-	ἐνεγκά-	image (3x): superscript 8 then ἐνεγκά-; the trailing 8 is the margin number
+esth	oldtestamenting02swet	790	13	ἐπιβαίνει,	ἐπιβαίνει, +9	ἐπιβαίνει,	ἐπιβαίνει,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+esth	oldtestamenting02swet	790	13	ϑκαὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+esth	oldtestamenting02swet	790	13	δότω +9	δότω +9	δότω	δότω	class R3: OCR appended accent-row or margin junk; c read from the image strip
+esth	oldtestamenting02swet	790	16	Οὕτως	Οὕτως	Οὕτως	Οὕτως	image (3x): rough + acute on υ (curl then rising stroke)
+esth	oldtestamenting02swet	790	17	"εἶπεν	"εἶπεν	εἶπεν	εἶπεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+esth	oldtestamenting02swet	790	17	βασι- +το	βασι- +το	βασι-	βασι-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+esth	oldtestamenting02swet	790	18	Δ̓μάν	᾿λμάν	Ἁμάν	Ἁμάν	image (3x): rough breathing, acute before capitalized quotation
+esth	oldtestamenting02swet	790	18	ἐλάλησας:	ἐλάλησας:	ἐλάλησας·	ἐλάλησας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+esth	oldtestamenting02swet	790	19	Ιουδαίῳ	4 +Ιουδαίῳ	Ἰουδαίῳ	Ἰουδαίῳ	image (3x): smooth breathing on Iota
+esth	oldtestamenting02swet	790	20	"᾿᾿έλαβεν	“᾿έλαβεν	ἔλαβεν	ἔλαβεν	image (3x): superscript 11 then ἔλαβεν, smooth + acute
+esth	oldtestamenting02swet	790	20	Ἀμὰν	Ἀμὰν	Ἁμὰν	Ἁμὰν	image (3x): rough breathing (open-left reversed comma), grave
+esth	oldtestamenting02swet	790	22	Οὕτως	Οὕτως	Οὕτως	Οὕτως	image (3x): rough + acute on υ (curl then rising stroke)
+esth	oldtestamenting02swet	790	23	“ἐπέστρεψεν	“ἐπέστρεψεν	ἐπέστρεψεν	ἐπέστρεψεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+esth	oldtestamenting02swet	790	24	αὐλήν"	αὐλήν"	αὐλήν·	αὐλήν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+esth	oldtestamenting02swet	790	24	Ἀμὰν	Ἀμὰν	Ἁμὰν	Ἁμὰν	image (3x): rough breathing (open-left reversed comma), grave
+esth	oldtestamenting02swet	790	25	""καὶ	"᾿καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+esth	oldtestamenting02swet	790	25	Ἀμὰν	Ἀμὰν	Ἁμὰν	Ἁμὰν	image (3x): rough breathing (open-left reversed comma), grave
+esth	oldtestamenting02swet	790	24	-	-	Μαρδοχαῖος	Μαρδοχαῖος	image (3x): speck under Μ, not a mark; read Μαρδοχαῖος

@@ -60,7 +60,7 @@ CREATE TABLE verses (
   id         INTEGER PRIMARY KEY,  -- printed order across the whole Bible
   ref        TEXT NOT NULL UNIQUE, -- 'gen.1.1'
   book       TEXT NOT NULL REFERENCES books(id),
-  chapter    INTEGER NOT NULL,
+  chapter    INTEGER NOT NULL,     -- a number; Esther's Greek additions are the letters 'A'-'F' (stored as text, ref 'esth.A.1')
   verse      TEXT NOT NULL,        -- '1', '48a', '4-5', '34,36b'
   swete_ref  TEXT,                 -- LXX: Swete's own chapter:verse ('3:1' for common 2:25)
   leaf_first INTEGER,              -- LXX: scan leaf and printed line where the verse starts ...
