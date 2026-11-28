@@ -1,0 +1,39 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	419	1	κληρονομίαν, +ΝΣ	κληρονομίαν, +ΠῚ	κληρονομίαν,	κληρονομίαν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	419	2	αὑτοῦ, +ΞΞ	αὐτοῦ,	αὐτοῦ,	αὐτοῦ,	image (3x): smooth breathing on υ, circumflex
+ps	oldtestamenting02swet	419	3	κληρονομίαν	“κληρονομίαν	κληρονομίαν	κληρονομίαν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	419	3	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital (apostrophe shape)
+ps	oldtestamenting02swet	419	4	αὐτοῦ. +24	αὐτοῦ.	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	419	6	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	419	7	Ξὃ	[36	ὁ	ὁ	image (3x): superscript 25; ὁ rough breathing, no accent
+ps	oldtestamenting02swet	419	10	οΟΤι	οΤτι	ὅτι	ὅτι	image (3x): rough breathing + acute
+ps	oldtestamenting02swet	419	10	εἰς	εις	εἰς	εἰς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	419	10	ΤΟν	τὸν	τὸν	τὸν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	419	10	αἰῶνα	αἰὠνα	αἰῶνα	αἰῶνα	image (3x): circumflex on ω
+ps	oldtestamenting02swet	419	10	ΤΟ	ΤΟ	τὸ	τὸ	image (3x): lowercase τ, grave
+ps	oldtestamenting02swet	419	10	αὐτου.	αὐτου.	αὐτοῦ.	αὐτοῦ.	image (3x): smooth breathing on υ, circumflex
+ps	oldtestamenting02swet	419	12	Ἐπὶ	Ἐπὶ	Ἐπὶ	Ἐπὶ	image (3x): smooth breathing on capital (apostrophe shape)
+ps	oldtestamenting02swet	419	13	Σιών"	Σιών"	Σιών·	Σιών·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	419	14	“ἐπὶ	“ἐπὶ	ἐπὶ	ἐπὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	419	15	3ὅτι	3ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	419	16	∅	∅	ᾠδῶν,	ᾠδῶν,	image (3x): turned-over ᾠδῶν, smooth breathing, iota subscript, circumflex; OCR missed the line
+ps	oldtestamenting02swet	419	17	Ὑμνήσατε	Ὑμνήσατε	Ὑμνήσατε	Ὑμνήσατε	image (3x): rough breathing on capital Υ (reversed comma) before a quotation
+ps	oldtestamenting02swet	419	17	δῶν	ῳδῶν	ᾠδῶν	ᾠδῶν	image (3x): smooth breathing and iota subscript under ω
+ps	oldtestamenting02swet	419	18	ᾷἄσωμεν	ἄσωμεν	ᾄσωμεν	ᾄσωμεν	image (3x): smooth breathing + acute with iota subscript under α
+ps	oldtestamenting02swet	419	18	ῳδὴν	ῳδὴν	ᾠδὴν	ᾠδὴν	image (3x): smooth breathing and iota subscript under ω
+ps	oldtestamenting02swet	419	19	5ἐὰν	5ἐὰν	ἐὰν	ἐὰν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	419	19	ἐπιλάθωμαί	ἐπιλάθωμαί	ἐπιλάθωμαί	ἐπιλάθωμαί	image (3x): second acute before enclitic σου/μου
+ps	oldtestamenting02swet	419	19	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing on capital (apostrophe shape)
+ps	oldtestamenting02swet	419	19	δεξιά	δεξιά	δεξιά	δεξιά	image (3x): second acute before enclitic σου/μου
+ps	oldtestamenting02swet	419	19	μου:	μου:	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	419	20	ὁκολληθείη	ὁκολληθείη	κολληθείη	κολληθείη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	419	20	γλῶσσά	γλῶσσά	γλῶσσά	γλῶσσά	image (3x): second acute before enclitic σου/μου
+ps	oldtestamenting02swet	419	20	λάρυγγί	λάρυγγί	λάρυγγί	λάρυγγί	image (3x): second acute before enclitic σου/μου
+ps	oldtestamenting02swet	419	20	μή	μή	μή	μή	image (3x): second acute before enclitic σου/μου
+ps	oldtestamenting02swet	419	22	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on capital (apostrophe shape)
+ps	oldtestamenting02swet	419	24	; +ἡμνήσθητι,	Τμνήσθητι,	μνήσθητι,	μνήσθητι,	image (3x): superscript 7 is verse number
+ps	oldtestamenting02swet	419	24	Ἐδὼμ	Ἐδὼμ	Ἐδὼμ	Ἐδὼμ	image (3x): smooth breathing on capital (apostrophe shape)
+ps	oldtestamenting02swet	419	24	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing on capital (apostrophe shape)
+ps	oldtestamenting02swet	419	25	ἘΚκενοῦτε,	Ἐκκενοῦτε,	Ἐκκενοῦτε,	Ἐκκενοῦτε,	image (3x): smooth breathing on capital (apostrophe shape)
+ps	oldtestamenting02swet	419	25	ὃ	ὁ	ὁ	ὁ	image (3x): rough breathing only, no accent
+ps	oldtestamenting02swet	419	25	αὐτῇ.	αὐτῆ.	αὐτῇ.	αὐτῇ.	class R7 (OCR dropped diacritics): the other OCR reading agrees with c

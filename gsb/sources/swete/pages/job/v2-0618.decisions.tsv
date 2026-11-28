@@ -1,0 +1,34 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	618	1	“λαλήσει	“λαλήσει	λαλήσει	λαλήσει	image (3x): word as in page; OCR prefix is the superscript verse number
+job	oldtestamenting02swet	618	1	δέ	δέ	δέ	δέ	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	618	2	ξβϑθήσεται	ϑθήσεται	θήσεται	θήσεται	image (3x): word as in page; OCR prefix is the superscript verse number
+job	oldtestamenting02swet	618	3	αἰώνιον; +Ξ	αἰώνιον; +Ξ	αἰώνιον;	αἰώνιον;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	618	4	δήσε	δήσεις	δήσεις	δήσεις	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	618	4	ὑτὸν	αὐτὸν	αὐτὸν	αὐτὸν	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	618	4	ὥ	ὥσ +ΤῈ ρ34139	ὥσπερ	ὥσπερ	image (3x): ὥσπερ complete at line end; OCR tail is the margin number
+job	oldtestamenting02swet	618	6	“"Ξἐνσιτοῦνται	“"ἐνσιτοῦνται	ἐνσιτοῦνται	ἐνσιτοῦνται	image (3x): word as in page; OCR prefix is the superscript verse number
+job	oldtestamenting02swet	618	7	αὐτὸν	αὐτὸν	αὐτὸν	αὐτὸν	image (3x): grave on αὐτὸν before Φοινίκων (not a quotation)
+job	oldtestamenting02swet	618	8	παν	όταν	πᾶν	πᾶν	image (3x): πᾶν with circumflex
+job	oldtestamenting02swet	618	10	αὐτοῦ.	αὐτοῦ. +27	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	618	11	“7ἐπιθήσει	ἐπιθήσει	ἐπιθήσει	ἐπιθήσει	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	618	11	τὸ	τὸν	τὸν	τὸν	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	618	11	"ὁ	γινόμενον	γινόμενον	γινόμενον	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	618	12	αὐτοῦ.	αὐτοῦ. +τ.	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	618	14	ἡτοίμασταί	ἡτοίμασταί	ἡτοίμασταί	ἡτοίμασταί	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	618	14	μοι; +5, ᾿ 5 ἘΣ λα παι Χ 15 ,	μοι; +5. Ψ ᾿ » ΡΥ μὸ ,	μοι;	μοι;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	618	15	γάρ	γάρ	γάρ	γάρ	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	618	16	ἀντιστήσεταί	ἀντιστήσεταί	ἀντιστήσεταί	ἀντιστήσεταί	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	618	17	ἐμή	ἐμὴ	ἐμή	ἐμή	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	618	18	οὐ	βοὺ	οὐ	οὐ	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	618	20	“τίς	“τίς	τίς	τίς	image (3x): word as in page; OCR prefix is the superscript verse number
+job	oldtestamenting02swet	618	21	εἰσέλθοι:	εἰσέλθοι:	εἰσέλθοι;	εἰσέλθοι;	ambiguous: lower half of the mark after εἰσέλθοι faint, looks like a colon; read question mark (raised dot over a faint tail)
+job	oldtestamenting02swet	618	24	Τα	Τα	τὰ	τὰ	image (3x): τὰ ἔγκατα αὐτοῦ ἀσπίδες χάλκειαι, as printed
+job	oldtestamenting02swet	618	24	εἐγκατα	εγκατα	ἔγκατα	ἔγκατα	image (3x): τὰ ἔγκατα αὐτοῦ ἀσπίδες χάλκειαι, as printed
+job	oldtestamenting02swet	618	24	αὐτου	αὐτου	αὐτοῦ	αὐτοῦ	image (3x): τὰ ἔγκατα αὐτοῦ ἀσπίδες χάλκειαι, as printed
+job	oldtestamenting02swet	618	24	ασπῖίιὸες	ασπίιθὲες	ἀσπίδες	ἀσπίδες	image (3x): τὰ ἔγκατα αὐτοῦ ἀσπίδες χάλκειαι, as printed
+job	oldtestamenting02swet	618	24	χα +Κείιαι,	χα +Κειαι.,	χάλκειαι,	χάλκειαι,	image (3x): τὰ ἔγκατα αὐτοῦ ἀσπίδες χάλκειαι, as printed
+job	oldtestamenting02swet	618	25	αὐτου	αὐτοῦ	αὐτοῦ	αὐτοῦ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	618	25	ὠσπερ	ὥσπερ	ὥσπερ	ὥσπερ	image (3x): ὥσπερ rough + acute; σμιρίτης acute on ι
+job	oldtestamenting02swet	618	25	σμιριτὴς	σμιρίτης	σμιρίτης	σμιρίτης	image (3x): ὥσπερ rough + acute; σμιρίτης acute on ι
+job	oldtestamenting02swet	618	25	λίθος: +7	λίθος: +7	λίθος·	λίθος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	618	21	-	-	εἰσέλθοι;	εἰσέλθοι;	ambiguous: question mark with faint lower tail, OCRs read colon

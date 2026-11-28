@@ -1,0 +1,27 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	410	1	ἄρα	“ἄρα	ἄρα	ἄρα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	410	2	ἡμῶν:	ἡμῶν:	ἡμῶν·	ἡμῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	410	3	δἄρα	δἄρα	ἄρα	ἄρα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	410	4	εὐλογητὸς	εὐλογητὸς	εὐλογητὸς	εὐλογητὸς	image (3x): grave on εὐλογητὸς before Κύριος (not a quotation)
+ps	oldtestamenting02swet	410	6	Τὴ	Τὴ	ἡ	ἡ	image (3x): ἡ, rough breathing only, no accent
+ps	oldtestamenting02swet	410	7	θηρευόντων"	θηρευόντων"	θηρευόντων·	θηρευόντων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	410	8	ἢ	ἢ	ἡ	ἡ	image (3x): ἡ, rough breathing only, no accent
+ps	oldtestamenting02swet	410	8	ἐρύσθημεν. +ὃ	ἐρύσθημεν.	ἐρύσθημεν.	ἐρύσθημεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	410	9	Κυρίου	Ἱυρίου	Κυρίου	Κυρίου	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	410	10	ΤῊ	τὴν	τὴν	τὴν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	410	11	ὡδη	δὴ	ᾨδὴ	ᾨδὴ	image (6x): smooth breathing before Ω, iota subscript printed under Ω, grave on η: ᾨδὴ
+ps	oldtestamenting02swet	410	12	Οἱ	Οἱ	Οἱ	Οἱ	image (8x): rough breathing on ι, no accent: Οἱ
+ps	oldtestamenting02swet	410	12	Σιών᾽	Σιών᾽	Σιών·	Σιών·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	410	13	()	()	Ἰερουσαλήμ.	Ἰερσυσαλήμ.	image (6x): smooth breathing on Ι; letters read ε ρ σ υ σ: the third letter has the σ top stroke like the σ after υ, unlike the ο of κατοικῶν; apparent misprint for Ἰερουσαλήμ, kept as printed (both OCRs also read ερσυσ); in-text (2) before it is a # comment
+ps	oldtestamenting02swet	410	14	Ἰερσυσαλὴημ. +“ὄρη	ἸἹερσυσαλὴημ. +“ὄρη	ὄρη	ὄρη	image (3x): ὄρη, smooth breathing + acute; OCR merged the line above
+ps	oldtestamenting02swet	410	16	ϑὅτι	ϑὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	410	19	καρδίᾳ: +5	καρδίᾳ: +5	καρδίᾳ·	καρδίᾳ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	410	21	μετὰ	μέτα	μετὰ	μετὰ	image (3x): grave on α: μετὰ
+ps	oldtestamenting02swet	410	21	τὴν	Τὴν	τὴν	τὴν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	410	21	ἀνομίαν.	αἀνομιαν.	ἀνομίαν.	ἀνομίαν.	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	410	22	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on Ι
+ps	oldtestamenting02swet	410	23	Ὠδὴ	Ὠδὴ	ᾨδὴ	ᾨδὴ	image (6x): smooth breathing before Ω, iota subscript printed under Ω, grave on η: ᾨδὴ
+ps	oldtestamenting02swet	410	24	Ἂν	Ἐν	Ἐν	Ἐν	image (3x): smooth breathing on Ε, no accent: Ἐν
+ps	oldtestamenting02swet	410	26	ἤτότε	ἤτότε	τότε	τότε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	410	27	ἀγαλλιάσεως"	ἀγαλλιάσεως"	ἀγαλλιάσεως·	ἀγαλλιάσεως·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	410	13	-	-	Ἰερσυσαλήμ.	Ἰερσυσαλήμ.	ambiguous: third letter after ρ prints with a σ-like top stroke (Ἰερσυσαλήμ), possibly ο joined to υ by ink; read as printed σ, apparent misprint for Ἰερουσαλήμ

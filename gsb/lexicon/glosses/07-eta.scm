@@ -8,7 +8,7 @@
 
 (lemma "ἡγεμονία" (sense chiefdom (gloss "chiefdom" "chiefdoms") (why "(LXX form supplied.) The office or domain of a ἡγεμών, here of the Horite chiefs (Genesis 36:30 ἐν ταῖς ἡγεμονίαις αὐτῶν); Luke 3:1, of a governorship. \"Chiefdom\" keeps it with ἡγεμών \"chief\".")))
 
-(lemma "ἡγεμών" (sense chief (person) (gloss "chief" "chiefs") (why "(LXX sense.) A leader, chief: the chiefs (Hebrew alluph) of Edom and of the Horites (Genesis 36:15-43). The New Testament uses it of a Roman governor (Matthew 27:2); a \"governor\" sense may be added when met. Kept apart from ἄρχων \"ruler\".")))
+(lemma "ἡγεμών" (sense chief (person) (apposition) (gloss "chief" "chiefs") (why "(LXX sense.) A leader, chief: the chiefs (Hebrew alluph) of Edom and of the Horites (Genesis 36:15-43). The New Testament uses it of a Roman governor (Matthew 27:2); a \"governor\" sense may be added when met. Kept apart from ἄρχων \"ruler\".")))
 
 (lemma "ἡγέομαι" (sense govern (genitive "") (gloss "govern" "governed" "governs" "governing") (why "(LXX form supplied.) To lead, be chief over, govern, with the genitive (Genesis 49:10 ἡγούμενος ἐκ τῶν μηρῶν αὐτοῦ, quoted in Matthew 2:6; 49:26 ὧν ἡγήσατο ἀδελφῶν; Hebrews 13:7, 17). \"Govern\" because ἄγω and its compounds have \"lead\". The New Testament's \"consider, regard\" (Philippians 2:3, 6) will be its own sense.")))
 

@@ -1,35 +1,36 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 job	oldtestamenting02swet	616	1	ἐκεῖσε	Ῥέκεῖσε	ἐκεῖσε	ἐκεῖσε	class R6 (OCR letters differ): the other OCR reading agrees with c
-job	oldtestamenting02swet	616	1	ὧν	ὧν	ὢν	ὢν	TODO zoom: A DIA, B DIA
-job	oldtestamenting02swet	616	2	σκοπεύουσιν'"	σκοπεύουσιν"	σκοπεύουσιν·	σκοπεύουσιν·	TODO zoom: A OPEN, B R2
-job	oldtestamenting02swet	616	3	ϑυγεοσσοὶ	ϑυγεοσσοὶ	νεοσσοὶ	νεοσσοὶ	TODO zoom: A OPEN, B OPEN
+job	oldtestamenting02swet	616	1	ὧν	ὧν	ὢν	ὢν	image (8x): smooth + grave (open apostrophe then falling stroke, same shape as ἂν on l4 and ἢ on l19), not rough + circumflex
+job	oldtestamenting02swet	616	2	σκοπεύουσιν'"	σκοπεύουσιν"	σκοπεύουσιν·	σκοπεύουσιν·	image (3x): ano teleia after σκοπεύουσιν
+job	oldtestamenting02swet	616	3	ϑυγεοσσοὶ	ϑυγεοσσοὶ	νεοσσοὶ	νεοσσοὶ	image (3x): νεοσσοὶ; OCR prefix is margin noise
 job	oldtestamenting02swet	616	4	δ᾽ +ἊΣ	δ᾽	δ᾽	δ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
 job	oldtestamenting02swet	616	4	εὑρίσκονται.	εὑρίσκονται. +᾽	εὑρίσκονται.	εὑρίσκονται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
 job	oldtestamenting02swet	616	5	τῷ	τῷ +ΡῈ	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
-job	oldtestamenting02swet	616	5	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+job	oldtestamenting02swet	616	5	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing on Ἰ
 job	oldtestamenting02swet	616	5	εἶπεν +δέ	εἶπεν +δ	εἶπεν	εἶπεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
-job	oldtestamenting02swet	616	6	κανοῦ	« +κανοῦ	Ἱκανοῦ	Ἱκανοῦ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B OPEN
-job	oldtestamenting02swet	616	7	αὐτὴν: +Ξ	αὐτὴν: +Ξ'᾽	αὐτήν;	αὐτήν;	TODO zoom: A OPEN, B OPEN
-job	oldtestamenting02swet	616	8	Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-job	oldtestamenting02swet	616	8	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-job	oldtestamenting02swet	616	9	34 +Ὁ{	34 +|	Τί	Τί	TODO zoom: A OPEN, B OPEN
-job	oldtestamenting02swet	616	9	νουθετούμενος.	νουθετούμενος.	νουθετούμενος	νουθετούμενος	TODO zoom: A OPEN, B OPEN
-job	oldtestamenting02swet	616	10	ὧν; +ῖ	ὦν; +ἷ	ὤν;	ὤν;	TODO zoom: A DIA, B DIA
-job	oldtestamenting02swet	616	12	στόματί	στόματί	στόματί	στόματί	TODO zoom: accent before an enclitic
-job	oldtestamenting02swet	616	13	ϑᾷἅπαξ	ϑᾷἅπαξ	ἅπαξ	ἅπαξ	TODO zoom: A OPEN, B OPEN
-job	oldtestamenting02swet	616	14	τἜτι	τετι	Ἔτι	Ἔτι	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B OPEN
-job	oldtestamenting02swet	616	14	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-job	oldtestamenting02swet	616	15	Μη,	"Μή,	Μή,	Μή,	TODO zoom: A DROP, B OPEN
-job	oldtestamenting02swet	616	15	ὀσφύν	ὀσφύν	ὀσφύν	ὀσφύν	TODO zoom: accent before an enclitic
-job	oldtestamenting02swet	616	16	δέ	δέ	δέ	δέ	TODO zoom: accent before an enclitic
-job	oldtestamenting02swet	616	16	δέ	δέ	δέ	δέ	TODO zoom: accent before an enclitic
+job	oldtestamenting02swet	616	6	κανοῦ	« +κανοῦ	Ἱκανοῦ	Ἱκανοῦ	image (3x): rough breathing on Ἱ
+job	oldtestamenting02swet	616	7	αὐτὴν: +Ξ	αὐτὴν: +Ξ'᾽	αὐτήν;	αὐτήν;	image (3x): acute on η, question mark
+job	oldtestamenting02swet	616	8	Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	image (3x): rough breathing on Ὑ
+job	oldtestamenting02swet	616	8	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing on Ἰ
+job	oldtestamenting02swet	616	9	34 +Ὁ{	34 +|	Τί	Τί	image (3x): Τί with acute; superscript 34 is the verse number
+job	oldtestamenting02swet	616	9	νουθετούμενος.	νουθετούμενος.	νουθετούμενος	νουθετούμενος	image (3x): speck after νουθετούμενος, not a period
+job	oldtestamenting02swet	616	10	ὧν; +ῖ	ὦν; +ἷ	ὤν;	ὤν;	image (6x): smooth + acute (”-shape) on ω: ὤν
+job	oldtestamenting02swet	616	12	στόματί	στόματί	στόματί	στόματί	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	616	13	ϑᾷἅπαξ	ϑᾷἅπαξ	ἅπαξ	ἅπαξ	image (6x): rough + acute on α (open curl then rising stroke)
+job	oldtestamenting02swet	616	14	τἜτι	τετι	Ἔτι	Ἔτι	image (3x): smooth + acute on Ἔ
+job	oldtestamenting02swet	616	14	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing on Ἰ
+job	oldtestamenting02swet	616	15	Μη,	"Μή,	Μή,	Μή,	image (3x): Μή with acute, comma
+job	oldtestamenting02swet	616	15	ὀσφύν	ὀσφύν	ὀσφύν	ὀσφύν	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	616	16	δέ	δέ	δέ	δέ	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	616	16	δέ	δέ	δέ	δέ	image (3x): acute before enclitic as printed
 job	oldtestamenting02swet	616	16	ἀπόκριναι"	ἀπόκριναι:	ἀπόκριναι·	ἀπόκριναι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 job	oldtestamenting02swet	616	17	ϑμὴ	μὴ	μὴ	μὴ	class R6 (OCR letters differ): the other OCR reading agrees with c
-job	oldtestamenting02swet	616	18	δέ	δέ	δέ	δέ	TODO zoom: accent before an enclitic
-job	oldtestamenting02swet	616	19	“ἢ	1ἢ	ἢ	ἢ	TODO zoom: A OPEN, B OPEN
-job	oldtestamenting02swet	616	19	σοί	σοί	σοί	σοί	TODO zoom: accent before an enclitic
-job	oldtestamenting02swet	616	21	δάνάλαβε	δάνάλαβε	ἀνάλαβε	ἀνάλαβε	TODO zoom: A OPEN, B OPEN
-job	oldtestamenting02swet	616	23	δἀπόστειλον	δάἀπόστειλον	ἀπόστειλον	ἀπόστειλον	TODO zoom: A OPEN, B OPEN
-job	oldtestamenting02swet	616	24	σαν	σαν	πᾶν	πᾶν	TODO zoom: A OPEN, B OPEN
-job	oldtestamenting02swet	616	24	Ττατεινῶσον,ς	Τατεινῶσονς	ταπείνωσον,	ταπείνωσον,	TODO zoom: A OPEN, B OPEN
+job	oldtestamenting02swet	616	18	δέ	δέ	δέ	δέ	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	616	19	“ἢ	1ἢ	ἢ	ἢ	image (3x): ἢ smooth + grave; prefix is the verse number
+job	oldtestamenting02swet	616	19	σοί	σοί	σοί	σοί	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	616	21	δάνάλαβε	δάνάλαβε	ἀνάλαβε	ἀνάλαβε	image (3x): smooth breathing on ἀ; OCR prefix is verse number
+job	oldtestamenting02swet	616	23	δἀπόστειλον	δάἀπόστειλον	ἀπόστειλον	ἀπόστειλον	image (3x): smooth breathing on ἀ; OCR prefix is verse number
+job	oldtestamenting02swet	616	24	σαν	σαν	πᾶν	πᾶν	image (3x): πᾶν with circumflex
+job	oldtestamenting02swet	616	24	Ττατεινῶσον,ς	Τατεινῶσονς	ταπείνωσον,	ταπείνωσον,	image (3x): ταπείνωσον, acute on ει
 job	oldtestamenting02swet	616	25	σβέσον"	σβέσον"	σβέσον·	σβέσον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	616	1	-	-	ὢν	ὢν	ambiguous: breathing+accent on ω small; read smooth + grave from its likeness to ἂν (l4), both OCRs read ὧν

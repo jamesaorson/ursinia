@@ -1,0 +1,55 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	622	1	ἢν	ἦν	ἦν	ἦν	image (3x): smooth breathing + circumflex: ἦν
+job	oldtestamenting02swet	622	1	κτήηνὴ	κτήνη	κτήνη	κτήνη	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	622	4	χίλιαι. +13	χίλιαι.	χίλιαι.	χίλιαι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	622	5	δὲ	ε	δὲ	δὲ	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	622	5	υἱοὶ	υιοι	υἱοὶ	υἱοὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	622	5	ἑπτὰ	ἐπτα	ἑπτὰ	ἑπτὰ	image (3x): rough breathing and grave: ἑπτὰ
+job	oldtestamenting02swet	622	5	καὶ +0	Και	καὶ	καὶ	image (3x): καὶ; OCR junk
+job	oldtestamenting02swet	622	5	θυγατέρες	0	θυγατέρες	θυγατέρες	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	622	5	τρεῖς"	υγατερες	τρεῖς·	τρεῖς·	image (3x): ano teleia after τρεῖς
+job	oldtestamenting02swet	622	6	καὶ	τρεις"	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	622	6	ἐκάλεσεν	Και +εκαάλεσεν	ἐκάλεσεν	ἐκάλεσεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	622	6	μὲν	μεν	μὲν	μὲν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	622	6	Ἡμέραν,	ΗἩμέραν,	Ἡμέραν,	Ἡμέραν,	image (3x): rough breathing on Η (open curl)
+job	oldtestamenting02swet	622	8	Ἀμαλθείας	Ἀμαλθείας	Ἀμαλθείας	Ἀμαλθείας	image (3x): smooth breathing (apostrophe shape)
+job	oldtestamenting02swet	622	8	κέρας"	κέρας"	κέρας·	κέρας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	622	9	ἰβκαὶ	βκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	622	9	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing (apostrophe shape)
+job	oldtestamenting02swet	622	10	οὐρανόν"	οὐρανόν"	οὐρανόν·	οὐρανόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	622	12	Ἰδέζῃησεν	ἰδέζησεν	ἔζησεν	ἔζησεν	image (3x): superscript 16 fused; smooth breathing + acute: ἔζησεν
+job	oldtestamenting02swet	622	12	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing (apostrophe shape)
+job	oldtestamenting02swet	622	13	πάντὰ	πάντὰ	πάντα	πάντα	image (3x): acute on α, final α unaccented: πάντα
+job	oldtestamenting02swet	622	13	τεσσεράκοντα:	τεσσεράκοντα:	τεσσεράκοντα·	τεσσεράκοντα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	622	14	Ιὼβ	ὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing (apostrophe shape)
+job	oldtestamenting02swet	622	14	υἱοὺς +δον	υἱοὺς	υἱοὺς	υἱοὺς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	622	15	γενεάν"	γενεάν"	γενεάν·	γενεάν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	622	16	17καὶ	17καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	622	16	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing (apostrophe shape)
+job	oldtestamenting02swet	622	16	ἡμερῶν. +Ὡὶ	ἡμερῶν. +178	ἡμερῶν.	ἡμερῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	622	17	μεθ᾽ +θ᾽	μεθ᾽	μεθ᾽	μεθ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	622	18	ἀνίστησιν. +10	ἀνίστησιν. +Σὺ	ἀνίστησιν.	ἀνίστησιν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	622	19	Οὗτος	Οὗτος	Οὗτος	Οὗτος	image (3x): rough breathing + circumflex on υ: Οὗτος
+job	oldtestamenting02swet	622	20	ἐν	ἐν +μ	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	622	20	γῇ	Η)	γῇ	γῇ	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	622	20	τῇ	τῇ +ῆ	τῇ	τῇ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	622	20	Αὐσίτιδι	Αὐσίτιδι	Αὐσίτιδι	Αὐσίτιδι	image (3x): smooth breathing on υ: Αὐσίτιδι
+job	oldtestamenting02swet	622	20	Ἰ̓δου-	Ἰδου-	Ἰδου-	Ἰδου-	image (3x): smooth breathing (apostrophe shape)
+job	oldtestamenting02swet	622	21	Ἀραβίας"	Ἀραβίας"	Ἀραβίας·	Ἀραβίας·	image (3x): smooth breathing (apostrophe shape)
+job	oldtestamenting02swet	622	22	Ἰωβάβ.	Ἰωβάβ.	Ἰωβάβ.	Ἰωβάβ.	image (3x): smooth breathing (apostrophe shape)
+job	oldtestamenting02swet	622	23	ολαβὼν	ολαβὼν	λαβὼν	λαβὼν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	622	23	γυναῖκα	γυναῖκα +ΕῚ	γυναῖκα	γυναῖκα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	622	23	Ἀράβισσαν	Ἀράβισσαν	Ἀράβισσαν	Ἀράβισσαν	image (3x): smooth breathing (apostrophe shape)
+job	oldtestamenting02swet	622	23	Ἔννών-"	Ἐ̓ννών-"	Ἐννών·	Ἐννών·	image (3x): smooth breathing (apostrophe shape)
+job	oldtestamenting02swet	622	24	ἦν	ἢν	ἦν	ἦν	image (3x): smooth breathing + circumflex: ἦν
+job	oldtestamenting02swet	622	24	μὲν	μεν	μὲν	μὲν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	622	24	Ζάρε,	ἄαρε,	Ζάρε,	Ζάρε,	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	622	24	᾿] +Ησαὺ	Σ +Ησαῦ	Ἠσαῦ	Ἠσαὺ	image (3x): smooth breathing on Η, grave on υ: Ἠσαὺ
+job	oldtestamenting02swet	622	24	υἱός,	υἱὸς,	υἱός,	υἱός,	image (3x): acute on ο: υἱός
+job	oldtestamenting02swet	622	25	Βοσύόρρας,	Βοσόρρας,	Βοσόρρας,	Βοσόρρας,	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	622	26	εἰναι	εἰναι	εἶναι	εἶναι	image (3x): smooth breathing + circumflex on ι: εἶναι
+job	oldtestamenting02swet	622	26	ἀπὸ +τψνν.	ἀπὸ	ἀπὸ	ἀπὸ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	622	26	Ἀβραάμ.	Ἀβραάμ.	Ἀβραάμ.	Ἀβραάμ.	image (3x): smooth breathing (apostrophe shape)
+job	oldtestamenting02swet	622	27	ἐν +ΕῚ	ἐν	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	622	27	Ἐδώμ,	Ἐδώμ,	Ἐδώμ,	Ἐδώμ,	image (3x): smooth breathing (apostrophe shape)
+job	oldtestamenting02swet	622	28	χώρας"	χώρας"	χώρας·	χώρας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

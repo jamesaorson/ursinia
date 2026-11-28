@@ -1,0 +1,52 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	425	1	εἷναι	εἷναι	εἶναι	εἶναι	image (3x): smooth breathing + circumflex
+ps	oldtestamenting02swet	425	2	σπηλαίῳ"	σπηλαίῳ"	σπηλαίῳ·	σπηλαίῳ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	425	3	ΞΦωνῇ	ΞΦωνῇ	Φωνῇ	Φωνῇ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	425	5	ϑἐκχεῶ	Σ	ἐκχεῶ	ἐκχεῶ	image (3x): verse superscript fused by OCR; word as read
+ps	oldtestamenting02swet	425	5	ἐναντίον	εκχέεω	ἐναντίον	ἐναντίον	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	425	5	αὐτοῦ	εναντιον +αὐτου	αὐτοῦ	αὐτοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	425	5	δέησίν	εησιν	δέησίν	δέησίν	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	425	7	ἐν	εν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	425	7	τῷ	Τῷ	τῷ	τῷ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	425	7	ἐμοῦ	εμου	ἐμοῦ	ἐμοῦ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	425	7	τὸ	Το	τὸ	τὸ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	425	7	πνεῦμά	πνευμα	πνεῦμά	πνεῦμά	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	425	7	καὶ	Καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	425	7	σὺ	συ	σὺ	σὺ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	425	7	ἔγνως	εγνωῶς	ἔγνως	ἔγνως	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	425	7	τὰς	τας	τὰς	τὰς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	425	8	μου"	μου᾽	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	425	9	ἐν	εν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	425	9	ὁδῷ	Ὸ	ὁδῷ	ὁδῷ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	425	9	ταύτῃ	ῳ	ταύτῃ	ταύτῃ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	425	9	ἧ	ταῦτΊη	ᾗ	ᾗ	image (3x): ᾗ rough + circumflex with iota subscript
+ps	oldtestamenting02swet	425	9	ἐπορευόμην	7) +επορευομὴν	ἐπορευόμην	ἐπορευόμην	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	425	9	ἔκρυψάν	ἔκρυψάν	ἔκρυψάν	ἔκρυψάν	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	425	9	παγίδα.	τ	παγίδα.	παγίδα.	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	425	10	βκατενόουν	αγι +α. Βκατενόουν	κατενόουν	κατενόουν	image (3x): verse superscript fused by OCR; word as read
+ps	oldtestamenting02swet	425	11	ἢν	ἢν	ἦν	ἦν	image (3x): smooth breathing + circumflex on ἦν
+ps	oldtestamenting02swet	425	11	με:	με:	με·	με·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	425	13	ψυχήν	ψυχήν	ψυχήν	ψυχήν	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	425	13	μου.	μου. +ὁ	μου.	μου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	425	14	ὁπρὸς	πρὸς	πρὸς	πρὸς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	425	14	σέ,	σέ,	σέ,	σέ,	image (3x): acute on σέ before capitalized Κύριε, comma between
+ps	oldtestamenting02swet	425	14	εἰ	εἰ	εἶ	εἶ	image (3x): smooth breathing + circumflex
+ps	oldtestamenting02swet	425	14	ἐλπίς	ἐλπίς	ἐλπίς	ἐλπίς	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	425	15	μερίς	μερίς	μερίς	μερίς	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	425	16	δέησίν	δέησίν	δέησίν	δέησίν	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	425	17	σφόδρα:	σφόδρα:	σφόδρα·	σφόδρα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	425	18	ῥῦσαί	ῥῦσαί	ῥῦσαί	ῥῦσαί	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	425	20	δέξάγαγε	δέξάγαγε	ἐξάγαγε	ἐξάγαγε	image (3x): verse superscript fused by OCR; word as read
+ps	oldtestamenting02swet	425	20	ψυχήν	ψυχήν	ψυχήν	ψυχήν	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	425	21	τοῦ +οὔ	τοῦ +οὔ	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	425	21	ὀνόματί	ὀνόματί	ὀνόματί	ὀνόματί	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	425	21	,	,	Κύριε·	Κύριε·	image (3x): OCR line misalignment/garble; word as printed
+ps	oldtestamenting02swet	425	22	Κύριε:	ΙΚύριε-	ἐμὲ	ἐμὲ	image (3x): OCR line misalignment/garble; word as printed
+ps	oldtestamenting02swet	425	22	εμε +υπομενοῦυσιν	εμε +υπομενοῦυσιν	ὑπομενοῦσιν	ὑπομενοῦσιν	image (3x): OCR line misalignment/garble; word as printed
+ps	oldtestamenting02swet	425	22	εῶς	εῶς	ἕως	ἕως	image (3x): rough + acute on ἕως (open curl then rising stroke)
+ps	oldtestamenting02swet	425	22	ουὅ	ουὅ	οὗ	οὗ	image (3x): rough breathing + circumflex on οὗ
+ps	oldtestamenting02swet	425	22	ἀντατπτοδῷς	ἀνταττοδῷς	ἀνταποδῷς	ἀνταποδῷς	image (3x): OCR line misalignment/garble; word as printed
+ps	oldtestamenting02swet	425	25	δέησίν	δέησίν	δέησίν	δέησίν	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	425	26	ἐπάκουσόν	ἐπάκουσόν	ἐπάκουσόν	ἐπάκουσόν	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	425	26	Τῇ	τῇ	τῇ	τῇ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	425	26	σου"	σου"	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

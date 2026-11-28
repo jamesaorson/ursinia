@@ -218,13 +218,17 @@ leaf numbers here; the images and OCR layers stay out of the repo
   10 Swete prints the Hebrew psalm number in parentheses beside the Roman
   (`XIV (XV)`), and where the verse division differs the Hebrew verse
   numbers in parentheses in the margin (`(X) (1) 22` in Ps 9, `9 (1) (CXV)`
-  in Ps 113) or in the text (`δικαία (11)ἡ βοήθεια`, Ps 7:11; `(9)Ἀλληλουιά`,
+  in Ps 113) or in the text (`δικαία (11)ἡ βοήθεια`, Ps 7:11; `(9)Ἁλληλουιά`,
   Ps 113:1). In Psalms these are **not** `{=c:v}` markers: the tables keep
   Swete's own (Septuagint) psalm and verse numbers, and each parenthesized
   number is recorded as printed in a `#` comment line directly above its
   printed line (`# margin: XIV (XV)`, `# margin: (X) (1) 22`,
   `# in-text: (11) before ἡ βοήθειά`) for a later conversion to English
-  anchors (`ursinia-vff.10`).
+  anchors (`ursinia-vff.10`). Swete prints no 43:8, 54:6, 63:3, 115:5,
+  117:4, 118:51, 135:23 (lacking in B; `{n!}` after the gap). The
+  colophon of Book II, Ps 71:20 (Ἐξέλιπον οἱ ὕμνοι Δαυείδ ...), is set
+  centered: `{S2}{20}`. Book headings (`II` above Ps 41, `III` above
+  Ps 72) are not text. Swete prints Ἁλληλουιά with a rough breathing.
 - **Proverbs** (leaves v2 436-499) is set wholly as verse lines with the
   Psalms depth markers (`{S}`, `{S1}`, `{S2}`; no `{T}`, no `{P}`); some
   numbered verses stand at the `{S1}` depth. Its extra couplets are Swete's
@@ -261,6 +265,23 @@ leaf numbers here; the images and OCR layers stay out of the repo
   (Hebrew 7:2-14 = English 7:1-13). So the tables have Ecclesiastes 4 with 16
   and 5 with 20 verses and Song 6 with 13 and 7 with 13, all chapters equal to
   the English count.
+- **Job** (leaves v2 539-623) is set wholly as verse lines, the narrative of
+  chapters 1-2 and 42 included, with the Psalms depth markers (`{S}`, `{S1}`,
+  `{S2}`; no `{T}`, no `{P}`). Parenthesized numbers are ordinary `{=c:v}`
+  markers with a `# margin:` / `# in-text:` comment. Swete numbers every
+  common verse even where Codex B lacks lines; his only gap is 35:3 (`{4!}`).
+  His own lettered verses: 2:9a-d, 19:4a, 36:28a-b, 42:17a-e. At 2:9 he prints
+  9, his 9a-9d, then 9 again: as at 1 Kgdms 2:10, his first 9 is common 2:9a,
+  his 9a-9d run on with it, and the second 9 (`{9!!}`) is 2:9b (letters ours).
+  Differences from the common numbering, all printed in parentheses: 10:22
+  in the text with no own 22; in-text numbers a few words from his own at
+  12:6, 15:32, 24:13, 32:1 (his 32:1 begins with the end of 31:40), 34:18,
+  36:4-5, 37:23, 39:28 (words before an in-text number run on with the
+  previous common verse); his 16:6-23 are (16:5-22), and his unparenthesized
+  16:5 runs on with 16:4; his 23:14 and 23:15 are (15) and (14), printed in
+  that order; his 39:31-35 are `(1) (XL)`-(5), his 40:1-27 are (40:6-32), his
+  41:1-25 are 41:1 and (41:2-26) with an in-text (2). Hebrew 40:25-32 and
+  41:1-26 are English 41:1-8 and 41:9-34 (`versification.tsv`).
 - **Editorial marks** in the text, such as Swete's asterisk at Gen 37:1 tied to
   a note, are apparatus and are left out.
 - **Daniel** is printed twice: the Old Greek (Chigi MS 87, `ΔΑΝΙΗΛ ΚΑΤΑ ΤΟΥΣ Ο'`)

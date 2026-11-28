@@ -157,6 +157,7 @@
     (why "To see. The table lemmatizes εἶδον (Swete's ἴδεν) and ἰδεῖν under ὁράω; in Genesis 1 the unlemmatized ἴδεν is supplied as ὁράω."))
   (sense appear
     (voice active)
+    (dative "to")
     (gloss "appear" "appeared" "appears" "appearing")
     (why "The aorist passive (ὤφθη, ὀφθήτω): to appear, be seen (Genesis 1:9; 1 Corinthians 15:5-8). \"Appear\" because English \"was seen\" loses the sense of showing itself."))
   (sense behold

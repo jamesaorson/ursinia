@@ -18,11 +18,11 @@ job	oldtestamenting02swet	601	10	""ἐνύπνιον,	""ἐνύπνιον,	ἐν
 job	oldtestamenting02swet	601	11	ὡς	ῶς	ὡς	ὡς	image (3x): rough breathing, no accent
 job	oldtestamenting02swet	601	11	ὅταν	ΟΤαν	ὅταν	ὅταν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
 job	oldtestamenting02swet	601	11	ἐπιπίπτῃ	ΕἼ +ΤιΤΤΊ)	ἐπιπίπτῃ	ἐπιπίπτῃ	class R6 (OCR letters differ): the other OCR reading agrees with c
-job	oldtestamenting02swet	601	11	ἐπ᾽ +ΕἾ	5.	ἐπ᾽	ἐπ᾽	TODO zoom: A R3, B OPEN
+job	oldtestamenting02swet	601	11	ἐπ᾽ +ΕἾ	5.	ἐπ᾽	ἐπ᾽	image (3x): ἐπ with elision mark
 job	oldtestamenting02swet	601	11	ἐπὶ	ετι	ἐπὶ	ἐπὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
 job	oldtestamenting02swet	601	12	κοίτης"	κοίτης"	κοίτης·	κοίτης·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 job	oldtestamenting02swet	601	13	ὅτότε	τότε	τότε	τότε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-job	oldtestamenting02swet	601	14	ἐξεφύβησεν,	ἐξεφύβησεν,	ἐξεφόβησεν,	ἐξεφόβησεν,	TODO zoom: A OPEN, B OPEN
+job	oldtestamenting02swet	601	14	ἐξεφύβησεν,	ἐξεφύβησεν,	ἐξεφόβησεν,	ἐξεφόβησεν,	image (3x): omicron with acute, not upsilon
 job	oldtestamenting02swet	601	15	"αποστρέψαι	ἀποστρέψαι	ἀποστρέψαι	ἀποστρέψαι	class R6 (OCR letters differ): the other OCR reading agrees with c
 job	oldtestamenting02swet	601	15	ἀδικίας"	ἀδικίας"	ἀδικίας·	ἀδικίας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 job	oldtestamenting02swet	601	17	"ἐφείσατο	"ἐφείσατο	ἐφείσατο	ἐφείσατο	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
@@ -32,6 +32,7 @@ job	oldtestamenting02swet	601	21	“πᾶν	“πᾶν	πᾶν	πᾶν	class R1:
 job	oldtestamenting02swet	601	22	Ψυχὴ	ψυχὴ	ψυχὴ	ψυχὴ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
 job	oldtestamenting02swet	601	22	ἐπιθυμήσει:	ἐπιθυμήσει:	ἐπιθυμήσει·	ἐπιθυμήσει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 job	oldtestamenting02swet	601	23	“έξἔως	“ἕως	ἕως	ἕως	image (3x): superscript verse number is not text; word as written
-job	oldtestamenting02swet	601	24	∅	22	κενά.	κενά.	TODO zoom: A R0, B OPEN
-job	oldtestamenting02swet	601	26	δε	δε	ἤδε	ἥδε	TODO zoom: A OPEN, B OPEN
-job	oldtestamenting02swet	601	26	ἅδη:	ἅδη:	ᾅδῃ·	ᾅδῃ·	TODO zoom: A OPEN, B OPEN
+job	oldtestamenting02swet	601	24	∅	22	κενά.	κενά.	image (3x): turned-over end of line 21 printed on its own line
+job	oldtestamenting02swet	601	26	δε	δε	ἤδε	ἥδε	ambiguous (10x): breathing on eta is an open curl then acute, like ἥγηται l3, unlike smooth ἄμεμπτος l1; read rough+acute ἥδε
+job	oldtestamenting02swet	601	26	ἅδη:	ἅδη:	ᾅδῃ·	ᾅδῃ·	image (3x): rough+acute on alpha, iota subscript under alpha and eta
+job	oldtestamenting02swet	601	26	-	-	ἥδε	ἥδε	ambiguous: breathing+acute on eta; open curl like ἥγηται (rough), read rough

@@ -1,0 +1,32 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	608	1	"οὐχ	οὐχ	οὐχ	οὐχ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	608	1	ὑστερήσει	υστερῆήσει	ὑστερήσει	ὑστερήσει	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	608	1	κρίμα,	Κκριμα,	κρίμα,	κρίμα,	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	608	2	᾿δϑυμὸς	᾿δϑθυμὸς	θυμὸς	θυμὸς	image (3x): verse superscript is not text; word as in page file
+job	oldtestamenting02swet	608	4	μή	μὴ	μή	μή	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	608	5	δεησεὼως	δεήσεως	δεήσεως	δεήσεως	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	608	5	ἀδυνάτων	ἀδυνάτων,	ἀδυνάτων,	ἀδυνάτων,	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	608	6	και	και	καὶ	καὶ	image (3x): accents printed as in page file
+job	oldtestamenting02swet	608	6	παντας	παντας	πάντας	πάντας	image (3x): accents printed as in page file
+job	oldtestamenting02swet	608	6	Τους	Τους	τοὺς	τοὺς	image (3x): accents printed as in page file
+job	oldtestamenting02swet	608	6	κραταιουντας	κραταιουντας	κραταιοῦντας	κραταιοῦντας	image (3x): accents printed as in page file
+job	oldtestamenting02swet	608	6	ἰσχύν. +"9	ἰσχύν. +"0	ἰσχύν.	ἰσχύν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	608	8	αὐτῶν" +“᾽	αὐτῶν" +“᾽	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	608	9	πράξης	πράξης	πράξῃς	πράξῃς	image (3x): iota subscript under η in πράξῃς
+job	oldtestamenting02swet	608	9	ἄδικα:	ἄδικα:	ἄδικα·	ἄδικα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	608	11	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	608	12	γάρ	γάρ	γάρ	γάρ	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	608	13	Ξτίς	Ξτίς	τίς	τίς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	608	13	δέ	δέ	δέ	δέ	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	608	14	"Ἔπραξεν	"Ἔπραξεν	Ἔπραξεν	Ἔπραξεν	image (3x): smooth breathing + acute on Ἔ (apostrophe then rising stroke)
+job	oldtestamenting02swet	608	15	μνησθητι	μνησθητι	μνήσθητι	μνήσθητι	image (3x): accents printed as in page file
+job	oldtestamenting02swet	608	16	ἄνδρες:	ἄνδρες"	ἄνδρες·	ἄνδρες·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	608	18	τιτρωσκύμενοί	τιτρωσκύμενοί	τιτρωσκόμενοί	τιτρωσκόμενοί	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	608	19	γνωσόμεθα:	γνωσόμεθα:	γνωσόμεθα·	γνωσόμεθα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	608	22	αἱ +ἐ θήσονται αι	ἐπιχυθήσονται	ἐπιχυθήσονται	ἐπιχυθήσονται	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	608	22	νεφέλην:	νεφέλην +δ	νεφέλην·	νεφέλην·	image (3x): ano teleia after νεφέλην
+job	oldtestamenting02swet	608	24	βροτῷ. +Ξξδα	βροτῷ. +Ξδα	βροτῷ.	βροτῷ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	608	26	τάξιν. +580	τάξιν. +580	τάξιν.	τάξιν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	608	27	ἐξίσταταί	ἐξίσταταί	ἐξίσταταί	ἐξίσταταί	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	608	28	διαλλάσσεταί	διαλλάσσεταί	διαλλάσσεταί	διαλλάσσεταί	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	608	28	σώματος:	σώματος:	σώματος;	σώματος;	image (3x): question mark after σώματος

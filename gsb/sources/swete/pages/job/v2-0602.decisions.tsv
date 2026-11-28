@@ -1,0 +1,33 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	602	1	"Ῥέὰν	"βέὰν	ἐὰν	ἐὰν	image (3x): superscript verse number is not text; word as written
+job	oldtestamenting02swet	602	1	θανατηφύροι,	θανατηφύροι,	θανατηφόροι,	θανατηφόροι,	image (3x): omicron with acute, not upsilon
+job	oldtestamenting02swet	602	4	ἑαυτοῦ	ἑ	ἑαυτοῦ	ἑαυτοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	602	4	μέμψιν,	ῦ +μέμψ	μέμψιν,	μέμψιν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	602	6	“ἀνθέξεται	“ἀνθέξεται	ἀνθέξεται	ἀνθέξεται	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	602	6	θάνατον"	θάνατον"	θάνατον·	θάνατον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	602	8	μυελοῦ:	μυελοῦ:	μυελοῦ·	μυελοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	602	11	“εὐξάμενος	“εὐξάμενος	εὐξάμενος	εὐξάμενος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	602	12	εἰσελεύσεται	ὕσεται	εἰσελεύσεται	εἰσελεύσεται	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	602	12	ἐξ +ίᾳ᾽	ἐξηγορίᾳ	ἐξηγορίᾳ·	ἐξηγορίᾳ·	image (3x): ano teleia; iota subscript where written
+job	oldtestamenting02swet	602	14	Ἴεῖίτα	ἤειτα	εἶτα	εἶτα	image (3x): superscript verse number is not text; word as written
+job	oldtestamenting02swet	602	14	Οἷα	Οἷα	Οἷα	Οἷα	ambiguous (4x): breathing under the circumflex on Οἷα too small to resolve; tail turns like the rough mark, read Οἷα
+job	oldtestamenting02swet	602	16	καὶ	και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	602	16	οὐκ	ουκ	οὐκ	οὐκ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	602	16	ἤτασέν	τασεν	ἤτασέν	ἤτασέν	image (3x): accents before the enclitic as written
+job	oldtestamenting02swet	602	16	ὧν	ῶὼν	ὧν	ὧν	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	602	16	ἥμαρτον.	ἡμαρτον.	ἥμαρτον.	ἥμαρτον.	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	602	17	ἐδσῶσον	ἐδσῶσον	σῶσον	σῶσον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	602	17	Ψυχήν	ψυχήν	ψυχήν	ψυχήν	image (3x): accents before the enclitic as written
+job	oldtestamenting02swet	602	18	ζωή	ζωή	ζωή	ζωή	image (3x): accents before the enclitic as written
+job	oldtestamenting02swet	602	20	ανδρός"	ἀνδρός"	ἀνδρός·	ἀνδρός·	image (3x): ano teleia; iota subscript where written
+job	oldtestamenting02swet	602	21	βϑολλ᾽	80 +λλ᾽	ἀλλ᾽	ἀλλ᾽	image (3x): superscript verse number is not text; word as written
+job	oldtestamenting02swet	602	21	ψυχήν	ψυχήν	ψυχήν	ψυχήν	image (3x): accents before the enclitic as written
+job	oldtestamenting02swet	602	22	ἢ	ἢ	ἡ	ἡ	image (3x): rough breathing only on eta, no grave
+job	oldtestamenting02swet	602	22	ζωή	ζωή	ζωή	ζωή	image (3x): accents before the enclitic as written
+job	oldtestamenting02swet	602	22	αὐτόν. +8:	αὐτόν. +8:	αὐτόν.	αὐτόν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	602	23	Ἰώβ,	Ἰώβ,	Ἰώβ,	Ἰώβ,	image (3x): smooth breathing on capital Iota
+job	oldtestamenting02swet	602	23	ἄκουέ	ἄκουέ	ἄκουέ	ἄκουέ	image (3x): accents before the enclitic as written
+job	oldtestamenting02swet	602	23	μου:	μου"	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	602	24	ἐγώ	ἐγὼ	ἐγώ	ἐγώ	image (3x): accents before the enclitic as written
+job	oldtestamenting02swet	602	1	-	-	εἷς	εἷς	ambiguous: breathing under the circumflex too small to resolve at 4x; read rough (εἷς)
+job	oldtestamenting02swet	602	1	-	-	ἄγγελοι	ἄγγελοι	image: speck under the second gamma, not a mark

@@ -1,26 +1,26 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 ps	oldtestamenting02swet	383	1	αὐτοῦ. +31	αὐτοῦ.	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
-ps	oldtestamenting02swet	383	4	ὀὑψωσάατωσαν	δὑψωσάατωσαν	ὑψωσάτωσαν	ὑψωσάτωσαν	TODO zoom: A OPEN, B OPEN
-ps	oldtestamenting02swet	383	5	αὐτὸν.	αὐτὸν.	αὐτόν.	αὐτόν.	TODO zoom: A DIA, B DIA
+ps	oldtestamenting02swet	383	4	ὀὑψωσάατωσαν	δὑψωσάατωσαν	ὑψωσάτωσαν	ὑψωσάτωσαν	image (3x): rough breathing on υ; OCR fused superscript 32
+ps	oldtestamenting02swet	383	5	αὐτὸν.	αὐτὸν.	αὐτόν.	αὐτόν.	image (3x): acute on final syllable before period
 ps	oldtestamenting02swet	383	7	δίψαν, +ϑ.	δίψαν,	δίψαν,	δίψαν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
 ps	oldtestamenting02swet	383	9	αὐτη.	αὐτῇ.	αὐτῇ.	αὐτῇ.	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
-ps	oldtestamenting02swet	383	10	Ξέθετο	Ξέθετο	ἔθετο	ἔθετο	TODO zoom: A OPEN, B OPEN
+ps	oldtestamenting02swet	383	10	Ξέθετο	Ξέθετο	ἔθετο	ἔθετο	image (3x): smooth + acute; OCR fused superscript 35
 ps	oldtestamenting02swet	383	10	ὑδάτων, +30	ὑδάτων, +30	ὑδάτων,	ὑδάτων,	class R3: OCR appended accent-row or margin junk; c read from the image strip
-ps	oldtestamenting02swet	383	13	"καὶ	Και	καὶ	καὶ	TODO zoom: A R1, B DROP
+ps	oldtestamenting02swet	383	13	"καὶ	Και	καὶ	καὶ	image (3x): καὶ with grave; OCR fused superscript 37
 ps	oldtestamenting02swet	383	13	ἔσπειραν	εσπειραν	ἔσπειραν	ἔσπειραν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
 ps	oldtestamenting02swet	383	13	ἀγροὺς	αγρους	ἀγροὺς	ἀγροὺς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
 ps	oldtestamenting02swet	383	13	καὶ	Και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
 ps	oldtestamenting02swet	383	13	ἀμπελῶνας,	αμπέελωνας,	ἀμπελῶνας,	ἀμπελῶνας,	class R6 (OCR letters differ): the other OCR reading agrees with c
 ps	oldtestamenting02swet	383	14	γενήματος.	γενήματος. +δ	γενήματος.	γενήματος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
 ps	oldtestamenting02swet	383	15	Ῥκαὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-ps	oldtestamenting02swet	383	15	σφύδρα,	σφύδρα,	σφόδρα,	σφόδρα,	TODO zoom: A OPEN, B OPEN
+ps	oldtestamenting02swet	383	15	σφύδρα,	σφύδρα,	σφόδρα,	σφόδρα,	image (3x): ο, not υ
 ps	oldtestamenting02swet	383	17	καὶ	Ῥκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-ps	oldtestamenting02swet	383	18	κακῶν	κακών	κακῶν	κακῶν	TODO zoom: A same, B DIA
+ps	oldtestamenting02swet	383	18	κακῶν	κακών	κακῶν	κακῶν	image (3x): circumflex
 ps	oldtestamenting02swet	383	19	“ἐξεχύθη	“ἐξεχύθη	ἐξεχύθη	ἐξεχύθη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 ps	oldtestamenting02swet	383	20	ὁδῷ.	ὁδῷ. +δ	ὁδῷ.	ὁδῷ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
 ps	oldtestamenting02swet	383	23	Ξόὄψονται	ὄψονται	ὄψονται	ὄψονται	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 ps	oldtestamenting02swet	383	25	3τίς	τίς	τίς	τίς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-ps	oldtestamenting02swet	383	27	Ὠδὴ	Ὠδὴ	ᾨδὴ	ᾨδὴ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DROP, B DROP
-ps	oldtestamenting02swet	383	28	““Ἑτοίμη	““Ἑτοίμη	Ἑτοίμη	Ἑτοίμη	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-ps	oldtestamenting02swet	383	29	ἄσομαι	ἄσομαι	ᾄσομαι	ᾄσομαι	TODO zoom: A DROP, B DROP
+ps	oldtestamenting02swet	383	27	Ὠδὴ	Ὠδὴ	ᾨδὴ	ᾨδὴ	image (3x): smooth breathing, iota subscript under Ω
+ps	oldtestamenting02swet	383	28	““Ἑτοίμη	““Ἑτοίμη	Ἑτοίμη	Ἑτοίμη	image (3x): rough breathing; OCR fused superscript 2
+ps	oldtestamenting02swet	383	29	ἄσομαι	ἄσομαι	ᾄσομαι	ᾄσομαι	image (3x): smooth + acute, iota subscript under α
 ps	oldtestamenting02swet	383	29	μου᾽	μου᾽	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

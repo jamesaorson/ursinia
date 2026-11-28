@@ -1,0 +1,35 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	598	1	ἤει	ἤει	εἰ	εἰ	image (3x): εἰ, smooth breathing; OCR junk is the verse number
+job	oldtestamenting02swet	598	1	δε	δὲ	δὲ	δὲ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	598	2	γὰρ +ὃ	γὰρ	γὰρ	γὰρ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	598	3	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	598	4	κενῷ"	κενῷ"	κενῷ·	κενῷ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	598	5	τις	τις	τίς	τίς	image (3x): acute on τίς
+job	oldtestamenting02swet	598	5	ῳὴ	ῳὴη	δῴη	δῴη	image (3x): δῴη, acute and iota subscript on ω
+job	oldtestamenting02swet	598	5	ακΚουοντα	ακουοντα	ἀκούοντά	ἀκούοντά	image (3x): accent before the enclitic as printed
+job	oldtestamenting02swet	598	7	κατά	κατά	κατά	κατά	image (3x): accent before the enclitic as printed
+job	oldtestamenting02swet	598	7	ΞΞἐπ᾽	“ἐπ᾽	ἐπ᾽	ἐπ᾽	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	598	7	ὦμοις	ὦμοις	ὤμοις	ὤμοις	image (3x): smooth + acute (apostrophe then rising stroke) on ὤμοις, no circumflex
+job	oldtestamenting02swet	598	8	ἀνεγίνωσκον,	ἀνεγίνωσκον, +37	ἀνεγίνωσκον,	ἀνεγίνωσκον,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	598	9	ἀπέδωκα,	ἀπέδωκα, +Σ	ἀπέδωκα,	ἀπέδωκα,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	598	10	χρεοφιλέτου"	χρεοφιλέτου"	χρεοφιλέτου·	χρεοφιλέτου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	598	11	ἐμοί	ἐμοί	ἐμοί	ἐμοί	image (3x): accent before the enclitic as printed
+job	oldtestamenting02swet	598	12	ὁμοθυμαδόν-	ὁμοθυμαδόν"	ὁμοθυμαδόν·	ὁμοθυμαδόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	598	14	ἐλύπησα"	ἐλύπησα"	ἐλύπησα·	ἐλύπησα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	598	15	Ἰοαντὶ	Ἰοἀντὶ	ἀντὶ	ἀντὶ	image (3x): ἀντὶ; OCR junk is the verse number
+job	oldtestamenting02swet	598	17	Κ̓αὶ	Κ̓αὶ	Καὶ	Καὶ	image (3x): Καὶ, no breathing; grave on αι
+job	oldtestamenting02swet	598	17	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing on Ἰώβ
+job	oldtestamenting02swet	598	17	ῥήμασιν"	ῥήμασιν"	ῥήμασιν·	ῥήμασιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	598	18	)ησύχασαν	αὐησύχασαν	ἡσύχασαν	ἡσύχασαν	image (3x): ἡσύχασαν, rough on η, acute on υ; the in-text (1) is the {=32:1} marker
+job	oldtestamenting02swet	598	18	3 +Ἰ̓Ιώβ,	Ἰώβ,	Ἰώβ,	Ἰώβ,	image (3x): smooth breathing on Ἰώβ
+job	oldtestamenting02swet	598	19	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing on Ἰώβ
+job	oldtestamenting02swet	598	20	Τὠργίσθη	ὠργίσθη	ὠργίσθη	ὠργίσθη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	598	20	Ἐλιοῦς	Ἐ̓λιοῦς	Ἐλιοῦς	Ἐλιοῦς	image (3x): smooth breathing on Ἐλιοῦς
+job	oldtestamenting02swet	598	21	Ράμ,	Ράμ,	Ῥάμ,	Ῥάμ,	image (3x): rough breathing on Ῥάμ
+job	oldtestamenting02swet	598	21	Αὐσείτιδος	Αὐσείτιδος	Αὐσείτιδος	Αὐσείτιδος	image (3x): smooth breathing on υ of Αὐσείτιδος
+job	oldtestamenting02swet	598	21	χώρας"	χώρας"	χώρας·	χώρας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	598	22	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing on Ἰώβ
+job	oldtestamenting02swet	598	23	Κυρίου. +͵	Κυρίου.	Κυρίου.	Κυρίου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	598	24	καὶ	βκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	598	25	Ἰώβ,	Ἰώβ,	Ἰώβ,	Ἰώβ,	image (3x): smooth breathing on Ἰώβ
+job	oldtestamenting02swet	598	17	-	-	Καὶ	Καὶ	numbering: margin prints 1 XXXII with no parenthesized number beside Καὶ ἐπαύσατο; the parenthesized (1) stands in the text before ἡσύχασαν on the next line. Encoded {C32}{1}{=31:40} for the words before it, as at Song 5:1 (leaf 532)

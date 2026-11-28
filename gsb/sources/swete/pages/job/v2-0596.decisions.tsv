@@ -1,46 +1,46 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
-job	oldtestamenting02swet	596	1	δεὶ	ει	εἰ	εἰ	TODO zoom: A OPEN, B DROP
+job	oldtestamenting02swet	596	1	δεὶ	ει	εἰ	εἰ	image (3x): εἰ, smooth breathing only; OCR junk is the verse number
 job	oldtestamenting02swet	596	1	δὲ	ὁε	δὲ	δὲ	class R6 (OCR letters differ): the other OCR reading agrees with c
-job	oldtestamenting02swet	596	1	ἤμην	ἡμὴν	ἤμην	ἤμην	TODO zoom: A same, B DIA
+job	oldtestamenting02swet	596	1	ἤμην	ἡμὴν	ἤμην	ἤμην	image (3x): ἤμην, smooth + acute
 job	oldtestamenting02swet	596	1	μετὰ	μετα	μετὰ	μετὰ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
-job	oldtestamenting02swet	596	2	ὁ	ὃ	ὁ	ὁ	TODO zoom: A same, B DIA
-job	oldtestamenting02swet	596	2	πούς	πούς	πούς	πούς	TODO zoom: accent before an enclitic
+job	oldtestamenting02swet	596	2	ὁ	ὃ	ὁ	ὁ	image (3x): ὁ, rough breathing, no accent
+job	oldtestamenting02swet	596	2	πούς	πούς	πούς	πούς	image (3x): accent before the enclitic as printed
 job	oldtestamenting02swet	596	2	δόλον:	δόλον:	δόλον·	δόλον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-job	oldtestamenting02swet	596	3	ἔσταμαι	δέξσταμαι	ἕσταμαι	ἕσταμαι	TODO zoom: A DIA, B OPEN
+job	oldtestamenting02swet	596	3	ἔσταμαι	δέξσταμαι	ἕσταμαι	ἕσταμαι	image (10x): rough + acute (open curl like the one on ἥν line 24, unlike the smooth on ἔτασίν line 19): ἕσταμαι
 job	oldtestamenting02swet	596	4	οίἰδὲεν	οἶδεν	οἶδεν	οἶδεν	class R6 (OCR letters differ): the other OCR reading agrees with c
 job	oldtestamenting02swet	596	4	μου"	μου᾽	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-job	oldtestamenting02swet	596	5	Τεὶ	7εἰ	εἰ	εἰ	TODO zoom: A OPEN, B R1
-job	oldtestamenting02swet	596	5	πούς	πούς	πούς	πούς	TODO zoom: accent before an enclitic
-job	oldtestamenting02swet	596	6	ὀφθαλμῷ	ὀφθαλμῴ	ὀφθαλμῷ	ὀφθαλμῷ	TODO zoom: A same, B DIA
-job	oldtestamenting02swet	596	6	μου.	μου.	μου,	μου,	TODO zoom: A OPEN, B OPEN
-job	oldtestamenting02swet	596	7	χερσίν	χερσίν	χερσίν	χερσίν	TODO zoom: accent before an enclitic
+job	oldtestamenting02swet	596	5	Τεὶ	7εἰ	εἰ	εἰ	image (3x): εἰ, smooth breathing only; OCR junk is the verse number
+job	oldtestamenting02swet	596	5	πούς	πούς	πούς	πούς	image (3x): accent before the enclitic as printed
+job	oldtestamenting02swet	596	6	ὀφθαλμῷ	ὀφθαλμῴ	ὀφθαλμῷ	ὀφθαλμῷ	image (3x): circumflex on ὀφθαλμῷ
+job	oldtestamenting02swet	596	6	μου.	μου.	μου,	μου,	image (3x): comma after μου
+job	oldtestamenting02swet	596	7	χερσίν	χερσίν	χερσίν	χερσίν	image (3x): accent before the enclitic as printed
 job	oldtestamenting02swet	596	7	δώρων"	δώρων:	δώρων·	δώρων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 job	oldtestamenting02swet	596	8	ὃσπείραιμι	ὃσπείραιμι	σπείραιμι	σπείραιμι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 job	oldtestamenting02swet	596	8	φάγοισαν.	φάγοισαν,	φάγοισαν,	φάγοισαν,	class R6 (OCR letters differ): the other OCR reading agrees with c
 job	oldtestamenting02swet	596	9	γῆς. +9	γῆς. +9	γῆς.	γῆς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
 job	oldtestamenting02swet	596	11	αὐτῆς" +το 5. Ε ΓΟ Ὁ , Ἐπ Ὁ	αὐτῆς" +το). 2 Ε Ν᾽ “ξ , ςιΝΑ 3	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-job	oldtestamenting02swet	596	12	γυνή	γυνή	γυνή	γυνή	TODO zoom: accent before an enclitic
-job	oldtestamenting02swet	596	13	νήπιά	νηπιά	νήπιά	νήπιά	TODO zoom: accent before an enclitic; A same, B DROP
+job	oldtestamenting02swet	596	12	γυνή	γυνή	γυνή	γυνή	image (3x): accent before the enclitic as printed
+job	oldtestamenting02swet	596	13	νήπιά	νηπιά	νήπιά	νήπιά	image (3x): accent before the enclitic as printed
 job	oldtestamenting02swet	596	13	ταπεινωθείη. +τι	ταπεινωθείη.	ταπεινωθείη.	ταπεινωθείη.	class R3: OCR appended accent-row or margin junk; c read from the image strip
 job	oldtestamenting02swet	596	14	γυναῖκα: +Ἰ	γυναῖκα" +τ	γυναῖκα·	γυναῖκα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-job	oldtestamenting02swet	596	15	γάρ	γάρ	γάρ	γάρ	TODO zoom: accent before an enclitic
+job	oldtestamenting02swet	596	15	γάρ	γάρ	γάρ	γάρ	image (3x): accent before the enclitic as printed
 job	oldtestamenting02swet	596	15	μερῶν"	μερῶν"	μερῶν·	μερῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-job	oldtestamenting02swet	596	16	ἐπέλθη,	ἐπέλθη,	ἐπέλθῃ,	ἐπέλθῃ,	TODO zoom: A DROP, B DROP
+job	oldtestamenting02swet	596	16	ἐπέλθη,	ἐπέλθη,	ἐπέλθῃ,	ἐπέλθῃ,	image (3x): iota subscript printed under η
 job	oldtestamenting02swet	596	17	13εἰ	13εἰ	εἰ	εἰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-job	oldtestamenting02swet	596	17	θεράποντός	θεράποντός	θεράποντός	θεράποντός	TODO zoom: accent before an enclitic
+job	oldtestamenting02swet	596	17	θεράποντός	θεράποντός	θεράποντός	θεράποντός	image (3x): accent before the enclitic as printed
 job	oldtestamenting02swet	596	18	μέ:	μέ᾽ +11π΄ ν , ΠῚ » , ἿΝ ε ΄,	μέ·	μέ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-job	oldtestamenting02swet	596	19	ἔτασίν	ἔτασίν	ἔτασίν	ἔτασίν	TODO zoom: accent before an enclitic
+job	oldtestamenting02swet	596	19	ἔτασίν	ἔτασίν	ἔτασίν	ἔτασίν	image (3x): accent before the enclitic as printed
 job	oldtestamenting02swet	596	21	᾿ϑπότερον	᾿ϑπότερον	πότερον	πότερον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 job	oldtestamenting02swet	596	24	᾿δἀδύνατοι	ἀδύνατοι	ἀδύνατοι	ἀδύνατοι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-job	oldtestamenting02swet	596	24	ἣν	ἣν	ἥν	ἥν	TODO zoom: A DIA, B DIA
-job	oldtestamenting02swet	596	25	ἐξέτηξα	ἐξέτηξα	ἐξέτηξα·	ἐξέτηξα·	TODO zoom: A OPEN, B OPEN
-job	oldtestamenting02swet	596	26	7εὶ	7εὶ	εἰ	εἰ	TODO zoom: A OPEN, B OPEN
-job	oldtestamenting02swet	596	26	ψωμόν	ψωμόν	ψωμόν	ψωμόν	TODO zoom: accent before an enclitic
+job	oldtestamenting02swet	596	24	ἣν	ἣν	ἥν	ἥν	image (10x): rough breathing + acute (rising stroke) on ἥν
+job	oldtestamenting02swet	596	25	ἐξέτηξα	ἐξέτηξα	ἐξέτηξα·	ἐξέτηξα·	image (3x): ano teleia printed after ἐξέτηξα
+job	oldtestamenting02swet	596	26	7εὶ	7εὶ	εἰ	εἰ	image (3x): εἰ, smooth breathing only; OCR junk is the verse number
+job	oldtestamenting02swet	596	26	ψωμόν	ψωμόν	ψωμόν	ψωμόν	image (3x): accent before the enclitic as printed
 job	oldtestamenting02swet	596	27	μετέδωκα:	μετέδωκα:	μετέδωκα·	μετέδωκα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 job	oldtestamenting02swet	596	28	᾿δὅτι	ἰδὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-job	oldtestamenting02swet	596	28	νεότητός	νεότητός	νεότητός	νεότητός	TODO zoom: accent before an enclitic
-job	oldtestamenting02swet	596	28	πατὴρ,	πατήρ,	πατήρ,	πατήρ,	TODO zoom: A DIA, B same
-job	oldtestamenting02swet	596	29	μητρός	μητρός	μητρός	μητρός	TODO zoom: accent before an enclitic
-job	oldtestamenting02swet	596	29	ὡδήηγησα:	ὡδήηγησα"	ὡδήγησα·	ὡδήγησα·	TODO zoom: A OPEN, B OPEN
-job	oldtestamenting02swet	596	30	ημφίασα	ημφίασα	ἠμφίασα	ἠμφίασα	TODO zoom: A DROP, B DROP
+job	oldtestamenting02swet	596	28	νεότητός	νεότητός	νεότητός	νεότητός	image (3x): accent before the enclitic as printed
+job	oldtestamenting02swet	596	28	πατὴρ,	πατήρ,	πατήρ,	πατήρ,	image (3x): acute on πατήρ
+job	oldtestamenting02swet	596	29	μητρός	μητρός	μητρός	μητρός	image (3x): accent before the enclitic as printed
+job	oldtestamenting02swet	596	29	ὡδήηγησα:	ὡδήηγησα"	ὡδήγησα·	ὡδήγησα·	image (3x): ὡδήγησα· single η, ano teleia
+job	oldtestamenting02swet	596	30	ημφίασα	ημφίασα	ἠμφίασα	ἠμφίασα	image (3x): smooth breathing on ἠμφίασα
 job	oldtestamenting02swet	596	30	αὐτόν"	αὐτόν"	αὐτόν·	αὐτόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

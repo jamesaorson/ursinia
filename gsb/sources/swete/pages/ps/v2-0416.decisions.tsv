@@ -1,0 +1,48 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	416	1	βεὐλογήσει	βεὐλογήσει	εὐλογήσει	εὐλογήσει	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	416	3	Ἀλληλουιά.	ῬΡῬΛΔ᾽ +Ἀλληλουιά.	Ἁλληλουιά.	Ἁλληλουιά.	image (10x): rough breathing (blob top-left, tail down-right) on the title capital
+ps	oldtestamenting02swet	416	4	Αἰνεῖτε	Αἰνεῖτε	Αἰνεῖτε	Αἰνεῖτε	image (3x): breathing on the ι of the diphthong, not on the capital; as written
+ps	oldtestamenting02swet	416	4	Ἰζυρίου,	Ἰζυρίου,	Κυρίου,	Κυρίου,	image (3x): Κύριος/Κυρίου as written, ano teleia where present
+ps	oldtestamenting02swet	416	5	τοι	Ξοὶ	οἱ	οἱ	image (3x): superscript 2 is verse number; οἱ rough breathing, acute
+ps	oldtestamenting02swet	416	5	εστωτες	ἑστῶτες	ἑστῶτες	ἑστῶτες	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	416	5	εν	ἐν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	416	5	οικῷ	οἴκῳ	οἴκῳ	οἴκῳ	image (3x): smooth + acute on ι, iota subscript under ω
+ps	oldtestamenting02swet	416	5	Κυριου,	Κυρίου,	Κυρίου,	Κυρίου,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	416	5	εν	ἐν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	416	5	οικου	οἴκου	οἴκου	οἴκου	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	416	5	μων.	ἡμῶν.	ἡμῶν.	ἡμῶν.	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	416	6	αἰνεῖτε	αἰνειτε	αἰνεῖτε	αἰνεῖτε	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	416	6	ὁτι	ὁτι	ὅτι	ὅτι	image (3x): rough breathing + acute
+ps	oldtestamenting02swet	416	6	ἀγαθὸς	ἄγαθος	ἀγαθὸς	ἀγαθὸς	image (3x): grave on final syllable before Κύριος (not a quotation)
+ps	oldtestamenting02swet	416	6	Κυριος"	Κυριος"	Κύριος·	Κύριος·	image (3x): Κύριος/Κυρίου as written, ano teleia where present
+ps	oldtestamenting02swet	416	7	τῷ	τῷ +Ὁ	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	416	7	καλόν"	καλόν"	καλόν·	καλόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	416	8	τὸν	τὸν +3	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	416	8	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing on capital (apostrophe shape)
+ps	oldtestamenting02swet	416	9	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital (apostrophe shape)
+ps	oldtestamenting02swet	416	10	ϑοτι	ϑοτι	ὅτι	ὅτι	image (3x): rough breathing + acute
+ps	oldtestamenting02swet	416	10	ἔγνων	ἐγνὼων	ἔγνων	ἔγνων	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	416	10	οτι	οτι	ὅτι	ὅτι	image (3x): rough breathing + acute
+ps	oldtestamenting02swet	416	11	θεούς"	θεούς"	θεούς·	θεούς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	416	12	σαντα	πάντα	πάντα	πάντα	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	416	12	οσὰ	ὅσα	ὅσα	ὅσα	image (3x): rough breathing + acute
+ps	oldtestamenting02swet	416	12	ἡσελῆσεν	ἠθέλησεν	ἠθέλησεν	ἠθέλησεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	416	12	εἐποιῆσεν	ἐποίησεν	ἐποίησεν	ἐποίησεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	416	12	0	ὃ	ὁ	ὁ	image (3x): rough breathing only, no accent
+ps	oldtestamenting02swet	416	12	κυρίος	κύριος	κύριος	κύριος	image (3x): Κύριος/Κυρίου as written, ano teleia where present
+ps	oldtestamenting02swet	416	13	γῇ:	γῇ:	γῇ,	γῇ,	image (3x): comma, iota subscript
+ps	oldtestamenting02swet	416	14	ἀβύσσοις"	ἀβύσσοις"	ἀβύσσοις·	ἀβύσσοις·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	416	15	Τἀνάγων	7ἀνάγων	ἀνάγων	ἀνάγων	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	416	16	ἐποίησεν"	ἐποίησεν"	ἐποίησεν·	ἐποίησεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	416	18	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): breathing on the ι of the diphthong, not on the capital; as written
+ps	oldtestamenting02swet	416	19	κτήνους"	κτήνους"	κτήνους·	κτήνους·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	416	20	Αἴγυπτε,	Αἴγυπτε,	Αἴγυπτε,	Αἴγυπτε,	image (3x): breathing on the ι of the diphthong, not on the capital; as written
+ps	oldtestamenting02swet	416	22	τοέπάταξεν	᾿οέπάταξεν	ἐπάταξεν	ἐπάταξεν	image (3x): superscript 10 is verse number
+ps	oldtestamenting02swet	416	23	Αμορραίων,	Αμορραίων,	Ἀμορραίων,	Ἀμορραίων,	image (3x): smooth breathing on capital (apostrophe shape)
+ps	oldtestamenting02swet	416	24	Ὧγ	"Ὧγ	Ὦγ	Ὢγ	image (8x): smooth + grave (apostrophe then a stroke falling right), as on Ὢγ elsewhere
+ps	oldtestamenting02swet	416	25	Χανάαν᾽	Χανάαν᾽ +ΤΏ	Χανάαν·	Χανάαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	416	27	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital (apostrophe shape)
+ps	oldtestamenting02swet	416	28	βΚύριε,	βΚύριε,	Κύριε,	Κύριε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	416	28	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): second acute before enclitic σου
+ps	oldtestamenting02swet	416	29	μνημόσυνόν	μνημόσυνόν	μνημόσυνόν	μνημόσυνόν	image (3x): second acute before enclitic σου
+ps	oldtestamenting02swet	416	3	-	-	Ἁλληλουιά.	Ἁλληλουιά.	ambiguous: small breathing on the title; reads rough at 10x

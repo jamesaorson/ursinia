@@ -1,0 +1,31 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	609	1	και	και	καὶ	καὶ	image (3x): accents and breathings as in page file
+job	oldtestamenting02swet	609	1	εαν	εαν	ἐὰν	ἐὰν	image (3x): accents and breathings as in page file
+job	oldtestamenting02swet	609	1	αἀπέεκτασεις	αἀπεκτασεις	ἀπεκτάσεις	ἀπεκτάσεις	image (3x): accents and breathings as in page file
+job	oldtestamenting02swet	609	1	νεφέ +ὮΦ.	νεφέ +ἮΦ.	νεφέλης,	νεφέλης,	image (3x): accents and breathings as in page file
+job	oldtestamenting02swet	609	1	σκήνηνς	σκηνης	σκηνῆς	σκηνῆς	image (3x): accents and breathings as in page file
+job	oldtestamenting02swet	609	1	αὐτου,	αὐτου,	αὐτοῦ,	αὐτοῦ,	image (3x): accents and breathings as in page file
+job	oldtestamenting02swet	609	2	ἰόου	ἰόου	ἰδοὺ	ἰδοὺ	image (3x): verse superscript is not text; word as in page file
+job	oldtestamenting02swet	609	2	εκΚκτεέενέει	εκτένει	ἐκτενεῖ	ἐκτενεῖ	image (3x): accents and breathings as in page file
+job	oldtestamenting02swet	609	2	ετῖ	ἐπ᾽	ἐπ᾽	ἐπ᾽	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	609	2	αὐτὸν	αὐὑτον	αὐτὸν	αὐτὸν	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	609	2	)	μ	ἡ	ἡ	image (3x): ἡ with rough breathing, no accent
+job	oldtestamenting02swet	609	2	ᾧδη,	ὠδη,	ᾠδή,	ᾠδή,	image (3x): ᾠ smooth breathing + iota subscript, acute on final η
+job	oldtestamenting02swet	609	4	δὲν	δὲν	ἐν	ἐν	image (3x): verse superscript is not text; word as in page file
+job	oldtestamenting02swet	609	5	ἀκούοντι. +3:	ἀκούοντι.	ἀκούοντι.	ἀκούοντι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	609	6	ἐπὶ	Ξξἐπὶ	ἐπὶ	ἐπὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	609	7	ἀπαντῶντι:	ἀπαντῶντι:	ἀπαντῶντι·	ἀπαντῶντι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	609	8	ϑ3αναγγελεῖ	ϑϑαναγγελεῖ	ἀναγγελεῖ	ἀναγγελεῖ	image (3x): verse superscript is not text; word as in page file
+job	oldtestamenting02swet	609	8	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	609	9	ἀδικίας. +τ	ἀδικίας. +1	ἀδικίας.	ἀδικίας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	609	14	Ἰὐὑποκάτω	ὑποκάτω	ὑποκάτω	ὑποκάτω	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	609	16	“ὀπίσω	“ὀπίσω	ὀπίσω	ὀπίσω	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	609	17	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	609	19	ἐ5βροντήσει	βροντήσει	βροντήσει	βροντήσει	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	609	20	ἤδειμεν"	ἤδειμεν"	ᾔδειμεν·	ᾔδειμεν·	image (3x): ᾔ smooth + acute with iota subscript; ano teleia
+job	oldtestamenting02swet	609	21	“συντάσσων	“συντάσσων	συντάσσων	συντάσσων	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	609	21	Τίνου	Τίνου	Γίνου	Γίνου	image (3x): Γ, not Τ
+job	oldtestamenting02swet	609	23	7ἐν	εν	ἐν	ἐν	image (3x): verse superscript is not text; word as in page file
+job	oldtestamenting02swet	609	23	χειρὶ	χειρι	χειρὶ	χειρὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	609	25	ϑεἰίσῆλθεν	δεἰίσῆλθεν	εἰσῆλθεν	εἰσῆλθεν	image (3x): verse superscript is not text; word as in page file
+job	oldtestamenting02swet	609	26	« +σύχασαν	σύχασαν	ἡσύχασαν	ἡσύχασαν	image (3x): rough breathing + acute on ἡ, acute on ύ

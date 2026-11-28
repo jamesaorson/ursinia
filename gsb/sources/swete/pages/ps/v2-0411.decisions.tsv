@@ -1,0 +1,21 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	411	1	ἔθνεσιν +ΝΣ	ἔθνεσιν +Ν	ἔθνεσιν	ἔθνεσιν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	411	2	Ἐμεγάλυνεν	Ἐμεγάλυνεν	Ἐμεγάλυνεν	Ἐμεγάλυνεν	image (3x): smooth breathing on Ε
+ps	oldtestamenting02swet	411	3	ἐμεγάλυνεν	Ξέμεγάλυνεν	ἐμεγάλυνεν	ἐμεγάλυνεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	411	5	ἡμῶν +ς ε ΄, ΕῚ “ ΄	ἡμῶν	ἡμῶν	ἡμῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	411	7	δοΐ	"οἱ	οἱ	οἱ	image (3x): οἱ, rough breathing, no accent; superscript 5 is the verse number
+ps	oldtestamenting02swet	411	9	ὁπορευόμενοι	“πορευόμενοι	πορευόμενοι	πορευόμενοι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	411	10	αὐτῶν:	αὐτῶν"	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	411	13	ΒΊΚΕΝ +Ὠδὴ	; +Ὠδὴ	ᾨδὴ	ᾨδὴ	image (3x): smooth breathing before Ω, iota subscript under Ω printed short (a dot-like stroke, as on leaf 410), grave on η: ᾨδὴ; OCR merged the Greek-numeral heading
+ps	oldtestamenting02swet	411	14	Ἐὰν	Ἐὰν	Ἐὰν	Ἐὰν	image (3x): smooth breathing + grave: Ἐὰν
+ps	oldtestamenting02swet	411	14	οἶκο-	οἰκο-	οἰκο-	οἰκο-	image (3x): smooth breathing, no circumflex: οἰκο- (hyphen printed)
+ps	oldtestamenting02swet	411	15	αὐτόν"	αὐτόν"	αὐτόν·	αὐτόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	411	22	δἰδοὺ	δἰδοὺ	ἰδοὺ	ἰδοὺ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	411	24	ὡσεὶ	᾿ὡσεὶ	ὡσεὶ	ὡσεὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	411	26	μακάριος	μακαριος	μακάριος	μακάριος	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	411	26	ὃς	ος	ὃς	ὃς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	411	26	τὴν	Τὴν	τὴν	τὴν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	411	26	αὐτοῦ	αὐτου	αὐτοῦ	αὐτοῦ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	411	26	αὐτῶν"	αὐτῶν"	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	411	28	∅	∅	πύλῃ.	πύλῃ.	image (2x): πύλῃ. with iota subscript under η, turned-over line end; OCR found no line
+ps	oldtestamenting02swet	411	13	-	-	ᾨδὴ	ᾨδὴ	ambiguous: iota subscript under Ω prints as a short dot-like stroke (worn type); read ᾨ as in the other titles

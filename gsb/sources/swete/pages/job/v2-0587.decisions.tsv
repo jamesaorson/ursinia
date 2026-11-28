@@ -1,7 +1,7 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
-job	oldtestamenting02swet	587	2	νῶν	νων	νων	νων	TODO zoom: A DIA, B same
-job	oldtestamenting02swet	587	3	ἄἅδης	ἄδης	ᾅδης	ᾅδης	TODO zoom: A OPEN, B DIA
-job	oldtestamenting02swet	587	6	γὴν	γὴν	γῆν	γῆν	TODO zoom: A DIA, B DIA
+job	oldtestamenting02swet	587	2	νῶν	νων	νων	νων	image (3x): reads as in page file (νων unaccented; ᾅδης rough+acute with iota subscript; γῆν circumflex; Ἔτι smooth+acute; grave on προσθεὶς before Ἰὼβ (a name, not a quotation); smooth Ἰ; Ζῇ; περιόν acute before enclitic)
+job	oldtestamenting02swet	587	3	ἄἅδης	ἄδης	ᾅδης	ᾅδης	image (3x): reads as in page file (νων unaccented; ᾅδης rough+acute with iota subscript; γῆν circumflex; Ἔτι smooth+acute; grave on προσθεὶς before Ἰὼβ (a name, not a quotation); smooth Ἰ; Ζῇ; περιόν acute before enclitic)
+job	oldtestamenting02swet	587	6	γὴν	γὴν	γῆν	γῆν	image (3x): reads as in page file (νων unaccented; ᾅδης rough+acute with iota subscript; γῆν circumflex; Ἔτι smooth+acute; grave on προσθεὶς before Ἰὼβ (a name, not a quotation); smooth Ἰ; Ζῇ; περιόν acute before enclitic)
 job	oldtestamenting02swet	587	7	δδεσμεύων	δδεσμεύων	δεσμεύων	δεσμεύων	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 job	oldtestamenting02swet	587	8	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 job	oldtestamenting02swet	587	9	θὁ	ὁ	ὁ	ὁ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
@@ -12,11 +12,11 @@ job	oldtestamenting02swet	587	17	[Ξκλεῖθρα	[Ξκλεῖθρα	κλεῖ
 job	oldtestamenting02swet	587	17	αὐτόν᾽	αὐτόν᾽	αὐτόν·	αὐτόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 job	oldtestamenting02swet	587	18	ἀποστάτην.	ἀποστάτην. +τὰ	ἀποστάτην.	ἀποστάτην.	class R3: OCR appended accent-row or margin junk; c read from the image strip
 job	oldtestamenting02swet	587	20	αὐτῷ"	αὐτῷ"	αὐτῷ·	αὐτῷ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-job	oldtestamenting02swet	587	22	Ἔτι	Ἔτι	Ἔτι	Ἔτι	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-job	oldtestamenting02swet	587	22	προσθεὶς	προσθεὶς	προσθεὶς	προσθεὶς	TODO zoom: acute or grave before a capitalized word
-job	oldtestamenting02swet	587	22	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+job	oldtestamenting02swet	587	22	Ἔτι	Ἔτι	Ἔτι	Ἔτι	image (3x): reads as in page file (νων unaccented; ᾅδης rough+acute with iota subscript; γῆν circumflex; Ἔτι smooth+acute; grave on προσθεὶς before Ἰὼβ (a name, not a quotation); smooth Ἰ; Ζῇ; περιόν acute before enclitic)
+job	oldtestamenting02swet	587	22	προσθεὶς	προσθεὶς	προσθεὶς	προσθεὶς	image (3x): reads as in page file (νων unaccented; ᾅδης rough+acute with iota subscript; γῆν circumflex; Ἔτι smooth+acute; grave on προσθεὶς before Ἰὼβ (a name, not a quotation); smooth Ἰ; Ζῇ; περιόν acute before enclitic)
+job	oldtestamenting02swet	587	22	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): reads as in page file (νων unaccented; ᾅδης rough+acute with iota subscript; γῆν circumflex; Ἔτι smooth+acute; grave on προσθεὶς before Ἰὼβ (a name, not a quotation); smooth Ἰ; Ζῇ; περιόν acute before enclitic)
 job	oldtestamenting02swet	587	22	εἶπεν	εἰπεν	εἶπεν	εἶπεν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
-job	oldtestamenting02swet	587	23	ἢ	ἢ	Ζῇ	Ζῇ	TODO zoom: A OPEN, B OPEN
+job	oldtestamenting02swet	587	23	ἢ	ἢ	Ζῇ	Ζῇ	image (3x): reads as in page file (νων unaccented; ᾅδης rough+acute with iota subscript; γῆν circumflex; Ἔτι smooth+acute; grave on προσθεὶς before Ἰὼβ (a name, not a quotation); smooth Ἰ; Ζῇ; περιόν acute before enclitic)
 job	oldtestamenting02swet	587	24	Ψυχήν,	ψυχήν,	ψυχήν,	ψυχήν,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
 job	oldtestamenting02swet	587	25	βεἰ	3εἰ	εἰ	εἰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-job	oldtestamenting02swet	587	26	περιόν	περιόν	περιόν	περιόν	TODO zoom: accent before an enclitic
+job	oldtestamenting02swet	587	26	περιόν	περιόν	περιόν	περιόν	image (3x): reads as in page file (νων unaccented; ᾅδης rough+acute with iota subscript; γῆν circumflex; Ἔτι smooth+acute; grave on προσθεὶς before Ἰὼβ (a name, not a quotation); smooth Ἰ; Ζῇ; περιόν acute before enclitic)

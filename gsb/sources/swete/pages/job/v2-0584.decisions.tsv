@@ -1,8 +1,8 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
-job	oldtestamenting02swet	584	1	ἐσπούδασέν	ἐσπούδασέν	ἐσπούδασέν	ἐσπούδασέν	TODO zoom: accent before an enclitic
-job	oldtestamenting02swet	584	2	ἥδειν	ἥδειν	ᾔδειν	ᾔδειν	TODO zoom: A DIA, B DIA
-job	oldtestamenting02swet	584	2	ἐπελεύσεταί	ἐπελεύσεταί	ἐπελεύσεταί	ἐπελεύσεταί	TODO zoom: accent before an enclitic
-job	oldtestamenting02swet	584	3	δέ	δέ	δέ	δέ	TODO zoom: accent before an enclitic
+job	oldtestamenting02swet	584	1	ἐσπούδασέν	ἐσπούδασέν	ἐσπούδασέν	ἐσπούδασέν	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	584	2	ἥδειν	ἥδειν	ᾔδειν	ᾔδειν	image (3x): smooth + acute (” shape) with iota subscript under η
+job	oldtestamenting02swet	584	2	ἐπελεύσεταί	ἐπελεύσεταί	ἐπελεύσεταί	ἐπελεύσεταί	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	584	3	δέ	δέ	δέ	δέ	image (3x): accent before enclitic as printed
 job	oldtestamenting02swet	584	4	"διὰ	"διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 job	oldtestamenting02swet	584	5	ε	δὲ	δὲ	δὲ	class R6 (OCR letters differ): the other OCR reading agrees with c
 job	oldtestamenting02swet	584	5	οριον	ὅριον	ὅριον	ὅριον	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
@@ -11,11 +11,11 @@ job	oldtestamenting02swet	584	5	συν	σὺν	σὺν	σὺν	class R7 (OCR dro
 job	oldtestamenting02swet	584	5	αρπα-	ἁρπά-	ἁρπά-	ἁρπά-	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
 job	oldtestamenting02swet	584	9	Δἐξέκλιναν	Δἐξέκλιναν	ἐξέκλιναν	ἐξέκλιναν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 job	oldtestamenting02swet	584	11	δϑάἀπέβησαν	ϑάἀπέβησαν	ἀπέβησαν	ἀπέβησαν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-job	oldtestamenting02swet	584	11	ἀγρῷ	ἀγρῷ +Ξ	ἀγρῷ,	ἀγρῷ,	TODO zoom: A OPEN, B OPEN
+job	oldtestamenting02swet	584	11	ἀγρῷ	ἀγρῷ +Ξ	ἀγρῷ,	ἀγρῷ,	image (3x): ἀγρῷ with comma
 job	oldtestamenting02swet	584	12	τάξιν"	τάξιν"	τάξιν·	τάξιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 job	oldtestamenting02swet	584	14	ἐθέρισαν᾽	ἐθέρισαν᾽	ἐθέρισαν·	ἐθέρισαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 job	oldtestamenting02swet	584	17	ἀφείλαντο:	ἀφείλαντο:	ἀφείλαντο·	ἀφείλαντο·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-job	oldtestamenting02swet	584	20	ϑήρπασαν	ϑήρπασαν	ἥρπασαν	ἥρπασαν	TODO zoom: A OPEN, B OPEN
+job	oldtestamenting02swet	584	20	ϑήρπασαν	ϑήρπασαν	ἥρπασαν	ἥρπασαν	image (3x): rough + acute (open curl then stroke, as on ὅτι); OCR read verse number as ϑ
 job	oldtestamenting02swet	584	21	ἐταπείνωσαν.	ἐταπείνωσαν. +το	ἐταπείνωσαν.	ἐταπείνωσαν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
 job	oldtestamenting02swet	584	22	ἀδίκως,	ἀδίκως, +;	ἀδίκως,	ἀδίκως,	class R3: OCR appended accent-row or margin junk; c read from the image strip
 job	oldtestamenting02swet	584	23	ἀφείλαντο. +τον	ἀφείλαντο.	ἀφείλαντο.	ἀφείλαντο.	class R3: OCR appended accent-row or margin junk; c read from the image strip

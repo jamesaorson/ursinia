@@ -1,0 +1,17 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	623	2	Δεννάβα:	Δεννάβα:	Δεννάβα·	Δεννάβα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	623	3	Βαλὰκ	Βαλὰκ	Βαλὰκ	Βαλὰκ	image (3x): grave as printed before the capitalized name (not a quotation)
+job	oldtestamenting02swet	623	3	Ἰωβὰβ	Ἰωβὰβ	Ἰωβὰβ	Ἰωβὰβ	image (3x): smooth breathing (apostrophe shape)
+job	oldtestamenting02swet	623	3	Ἰώβ᾽	Ἰώβ᾽	Ἰώβ·	Ἰώβ·	image (3x): smooth breathing (apostrophe shape)
+job	oldtestamenting02swet	623	4	ς +Ασὸμ	ς +Ασὸμ	Ἁσὸμ	Ἁσὸμ	image (3x): rough breathing on Α (open curl)
+job	oldtestamenting02swet	623	4	υὙυπάρχων	υπάρχων	ὑπάρχων	ὑπάρχων	image (3x): rough breathing + acute: ὑπάρχων
+job	oldtestamenting02swet	623	4	εκ	εκ	ἐκ	ἐκ	image (3x): smooth breathing on ε: ἐκ
+job	oldtestamenting02swet	623	5	χώρας"	χώρας"	χώρας·	χώρας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	623	6	Ἀδὰδ	Ἀδὰδ	Ἁδὰδ	Ἁδὰδ	image (3x): rough breathing on Α (open curl)
+job	oldtestamenting02swet	623	6	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave as printed before the capitalized name (not a quotation)
+job	oldtestamenting02swet	623	7	Τεθθάιμ.	Τεθθάιμ.	Γεθθάιμ.	Γεθθάιμ.	image (6x): Γ, not Τ; acute on α, no diaeresis: Γεθθάιμ
+job	oldtestamenting02swet	623	8	∅	∅	οἱ	οἱ	image (6x): οἱ with rough breathing, beside the superscript 17e in the left margin
+job	oldtestamenting02swet	623	9	Ἐλειφὰς	Ἐλειφὰς	Ἐλειφὰς	Ἐλειφὰς	image (3x): smooth breathing (apostrophe shape)
+job	oldtestamenting02swet	623	9	Ἢσαὺ	Ἢσαὺ	Ἠσαὺ	Ἠσαὺ	image (3x): smooth breathing, no accent on Η; grave on υ: Ἠσαὺ
+job	oldtestamenting02swet	623	9	βασιλεύς,	βασιλεύς,	βασιλεύς,	βασιλεύς,	image (3x): acute at line end, as printed
+job	oldtestamenting02swet	623	8	-	-	οἱ	οἱ	layout: superscript 17e and οἱ hang left of the verse-line edge (δὲ stands at it); depth marked {S}

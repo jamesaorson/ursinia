@@ -1,0 +1,52 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	620	1	ὑπ᾽ +3)	ὑπ᾽	ὑπ᾽	ὑπ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	620	2	θητος,	θητος,	θητος.	θητος.	image (3x): period after θητος, not comma
+job	oldtestamenting02swet	620	3	“ἀναζεῖ	“ἀναζεῖ	ἀναζεῖ	ἀναζεῖ	image (3x): superscript verse number fused into the word; word as read
+job	oldtestamenting02swet	620	3	χαλκεῖον" +22 (23)	χαλκεῖον" +22 (23)	χαλκεῖον·	χαλκεῖον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	620	5	ϑτὸν	ϑτὸν	τὸν	τὸν	image (3x): superscript verse number fused into the word; word as read
+job	oldtestamenting02swet	620	5	δὲ	ἐ	δὲ	δὲ	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	620	5	αἰχμάλωτον" +23 (4	αἰχμάλωτον +23 (24)	αἰχμάλωτον·	αἰχμάλωτον·	image (3x): ano teleia; margin number 23 (24) is not text
+job	oldtestamenting02swet	620	7	“οὺκ	οὐκ	οὐκ	οὐκ	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	620	8	9ς +(25) ἐν καταπαίζεσθαι	4 +(25) ἐν καταπαίζεσθαι	ἐγκαταπαίζεσθαι	ἐνκαταπαίζεσθαι	image (3x): one word ἐνκαταπαίζεσθαι (ν before κ, as printed); margin (25) not text
+job	oldtestamenting02swet	620	8	μου"	μου"	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	620	9	∅	∅	πᾶν	πᾶν	image (3x zoom 372 860): πᾶν ὑψηλὸν ὁρᾷ, read from the image; OCR lost the line
+job	oldtestamenting02swet	620	9	∅	∅	ὑψηλὸν	ὑψηλὸν	image (3x zoom 372 860): πᾶν ὑψηλὸν ὁρᾷ, read from the image; OCR lost the line
+job	oldtestamenting02swet	620	9	∅	∅	ὁρᾷ,	ὁρᾷ,	image (3x zoom 372 860): πᾶν ὑψηλὸν ὁρᾷ, read from the image; OCR lost the line
+job	oldtestamenting02swet	620	11	Ὑπολαβὼν	"Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	image (3x): rough breathing on Υ
+job	oldtestamenting02swet	620	11	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing
+job	oldtestamenting02swet	620	12	“Οἶδα	“Οἶδα	Οἶδα	Οἶδα	image (3x): smooth breathing + circumflex on ι; verse number not text
+job	oldtestamenting02swet	620	12	δέ	δέ	δέ	δέ	image (3x): acute before enclitic, as Swete
+job	oldtestamenting02swet	620	13	τίς	ἦτίς	τίς	τίς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	620	13	γάρ	γάρ	γάρ	γάρ	image (3x): acute before enclitic, as Swete
+job	oldtestamenting02swet	620	13	βουλὴν;	βουλὴν;	βουλήν;	βουλήν;	image (3x): acute on η before the question mark
+job	oldtestamenting02swet	620	15	ἥδειν,	ἥδειν,	ᾔδειν,	ᾔδειν,	image (3x): smooth breathing + acute and iota subscript under η: ᾔδειν
+job	oldtestamenting02swet	620	16	ηπιστάμην;	ηπιστάμην;	ἠπιστάμην;	ἠπιστάμην;	image (3x): smooth breathing on η
+job	oldtestamenting02swet	620	17	δέ	δέ	δέ	δέ	image (3x): acute before enclitic, as Swete
+job	oldtestamenting02swet	620	17	λαλήσω:	λαλήσω:	λαλήσω·	λαλήσω·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	620	18	δέ	δέ	δέ	δέ	image (3x): acute before enclitic, as Swete
+job	oldtestamenting02swet	620	19	ἀκοὴν	βάἀκοὴν	ἀκοὴν	ἀκοὴν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	620	19	ἤκουόν	ἤκουόν	ἤκουόν	ἤκουόν	image (3x): acute before enclitic, as Swete
+job	oldtestamenting02swet	620	20	γυνὶ	γυνὶ	νυνὶ	νυνὶ	image (3x): ν, not γ: νυνὶ
+job	oldtestamenting02swet	620	20	ὀφθαλμός	ὀφθαλμός	ὀφθαλμός	ὀφθαλμός	image (3x): acute before enclitic, as Swete
+job	oldtestamenting02swet	620	20	ἑόρακέν	ἑόρακέν	ἑόρακέν	ἑόρακέν	image (3x): acute before enclitic, as Swete
+job	oldtestamenting02swet	620	20	σε. +ὁ	σε.	σε.	σε.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	620	21	διὸ	“διὰ	διὸ	διὸ	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	620	21	ἐτάκην"	ἐτάκην"	ἐτάκην·	ἐτάκην·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	620	22	γήημαι	γημαι	ἥγημαι	ἥγημαι	image (3x): rough breathing + acute (open curl then stroke) on η: ἥγημαι
+job	oldtestamenting02swet	620	22	ε	(3	δὲ	δὲ	image (3x): as read; OCR garbled this line
+job	oldtestamenting02swet	620	22	έγω	έγω	ἐγὼ	ἐγὼ	image (3x): as read; OCR garbled this line
+job	oldtestamenting02swet	620	22	εμαυτον	εμαῦυτοὶ	ἐμαυτὸν	ἐμαυτὸν	image (3x): as read; OCR garbled this line
+job	oldtestamenting02swet	620	22	γὴν	γην	γῆν	γῆν	image (3x): as read; OCR garbled this line
+job	oldtestamenting02swet	620	22	και	και	καὶ	καὶ	image (3x): as read; OCR garbled this line
+job	oldtestamenting02swet	620	22	σποῦον. +79	σποῦον. +Τ᾽ ᾽	σποδόν.	σποδόν.	image (3x): as read; OCR garbled this line
+job	oldtestamenting02swet	620	23	Ἐγένετο	Ἐγένετο	Ἐγένετο	Ἐγένετο	image (3x): smooth breathing
+job	oldtestamenting02swet	620	24	τῴ	τῷ	τῷ	τῷ	image (3x): circumflex and iota subscript: τῷ
+job	oldtestamenting02swet	620	24	Ἰώβ,	Ἰώβ,	Ἰώβ,	Ἰώβ,	image (3x): smooth breathing
+job	oldtestamenting02swet	620	24	εἶπεν	εἰπεν	εἶπεν	εἶπεν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	620	24	Ἐλειφὰς	Ἐλειφὰς	Ἐλειφὰς	Ἐλειφὰς	image (3x): smooth breathing
+job	oldtestamenting02swet	620	25	ἭΜμαρτες	ἭΜμαρτες	Ἥμαρτες	Ἥμαρτες	image (3x): rough breathing + acute (open curl then rising stroke) on Η
+job	oldtestamenting02swet	620	25	σου"	σου"	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	620	26	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	image (3x): acute before enclitic, as Swete
+job	oldtestamenting02swet	620	26	ὃ	ὁ	ὁ	ὁ	image (3x): rough breathing, no accent: ὁ
+job	oldtestamenting02swet	620	27	Ἰώβ.	Ἰώβ.	Ἰώβ.	Ἰώβ.	image (3x): smooth breathing
+job	oldtestamenting02swet	620	5	-	-	τὸν	τὸν	ambiguous depth: first letter stands about 10 px left of the S1 lines (number hangs), far right of the S edge; read {S1}

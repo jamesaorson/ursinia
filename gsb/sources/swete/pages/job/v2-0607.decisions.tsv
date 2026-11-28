@@ -1,0 +1,25 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	607	1	δέ	δέ	δέ	δέ	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	607	1	ἐρῶ +(")	ἐρῶ	ἐρῶ	ἐρῶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	607	1	ἐπ᾽	("ἐπ᾽	ἐπ᾽	ἐπ᾽	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	607	1	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	607	2	ῥήματα:	ῥήματα.	ῥήματα·	ῥήματα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	607	3	συνίεις.	συνίεις. +ΠΙΒΗΕ	συνίεις.	συνίεις.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	607	4	(δ)ῦτι	(5 +(δ)δτι	ὅτι	ὅτι	image (3x): in-text (5) is a marker; ὅτι rough + acute
+job	oldtestamenting02swet	607	5	“ἀσεβὴ	ὁἀσεβὴ	ἀσεβῆ	ἀσεβῆ	image (3x): verse superscript is not text; word as in page file
+job	oldtestamenting02swet	607	7	Τοὺκ	Τοὐκ	οὐκ	οὐκ	image (3x): verse superscript is not text; word as in page file
+job	oldtestamenting02swet	607	9	ὑψωθήσονται.	ὑψωθήσονται. +δ	ὑψωθήσονται.	ὑψωθήσονται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	607	10	δκαὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	607	11	πενίας" +ὃ	πενίας"	πενίας·	πενίας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	607	14	“ἀλλὰ	᾿“ἀλλὰ	ἀλλὰ	ἀλλὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	607	14	εἰσακούσεται"	εἰσακούσεται"	εἰσακούσεται·	εἰσακούσεται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	607	19	"ἀσεβεῖς	"ἀσεβεῖς	ἀσεβεῖς	ἀσεβεῖς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	607	22	θυμόν"	θυμόν-	θυμόν·	θυμόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	607	23	αὐτούς. +τ	αὐτούς.	αὐτούς.	αὐτούς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	607	24	Ψυχὴ	Ψυχὴ	ψυχὴ	ψυχὴ	image (3x): lowercase ψ, not capital
+job	oldtestamenting02swet	607	26	᾿βάνθ᾽	"ὋῬάνθ᾽	ἀνθ᾽	ἀνθ᾽	image (3x): verse superscript is not text; word as in page file
+job	oldtestamenting02swet	607	26	ἀδύνατον"	ἀδύνατον"	ἀδύνατον·	ἀδύνατον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	607	28	"καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	607	28	προσεπιηπάτησέν	προσεπιηπάτησέν	προσεπιηπάτησέν	προσεπιηπάτησέν	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	607	30	τράπεζά	τράπεζά	τράπεζά	τράπεζά	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	607	30	πιύτητος.	πιύτητος.	πιότητος.	πιότητος.	image (3x): ο with acute, not υ

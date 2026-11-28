@@ -1,0 +1,37 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	393	1	“ποτήριον	“ποτήριον	ποτήριον	ποτήριον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	393	2	και	και	καὶ	καὶ	image (3x): accents, breathings and letters as in reading C
+ps	oldtestamenting02swet	393	2	Τὸ	Τὸ	τὸ	τὸ	image (3x): accents, breathings and letters as in reading C
+ps	oldtestamenting02swet	393	3	τιμιος	τίμιος	τίμιος	τίμιος	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	393	3	ἐναντιον	ἐναντιον	ἐναντίον	ἐναντίον	image (3x): accents, breathings and letters as in reading C
+ps	oldtestamenting02swet	393	5	τὦ	τὦ	ὦ	ὦ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	393	6	σου"	σου"	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	393	7	δεσμούς	δεσμούς	δεσμούς	δεσμούς	image (3x): acute before enclitic μου, as printed
+ps	oldtestamenting02swet	393	7	μου.	μου. +ΕῚ	μου.	μου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	393	8	θύσω	θύσω +θ	θύσω	θύσω	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	393	8	αἰνέσεως"	αἰνέσεως	αἰνέσεως·	αἰνέσεως·	image (3x): ano teleia after αἰνέσεως
+ps	oldtestamenting02swet	393	9	τας	: +ϑτὰς	τὰς	τὰς	image (3x): accents, breathings and letters as in reading C
+ps	oldtestamenting02swet	393	9	εὐχᾶς	εὐχάς	εὐχάς	εὐχάς	image (3x): acute before enclitic μου, as printed
+ps	oldtestamenting02swet	393	9	ατἰτοθώσω	ἀποδώσω	ἀποδώσω	ἀποδώσω	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	393	9	Τῷ	τῷ	τῷ	τῷ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	393	9	κυριῳῷ	κυρίῳ	κυρίῳ	κυρίῳ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	393	11	“ἐν	“ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	393	11	οἰκου	οἴκου	οἴκου	οἴκου	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	393	12	Ἰερουσαλήμ.	Ιερουσαλημ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing as in reading C (Αἰ: on the iota)
+ps	oldtestamenting02swet	393	13	(9) +Ἀλληλουιά.	(9) +Ἀλληλουιά.	Ἁλληλουιά.	Ἁλληλουιά.	image (3x): rough breathing (reversed comma) on the capital; the parenthesized number before it, (19) / (2), is a Hebrew verse number, # comment only
+ps	oldtestamenting02swet	393	14	Αἰνεῖτε	Αἰνεῖτε	Αἰνεῖτε	Αἰνεῖτε	image (3x): smooth breathing as in reading C (Αἰ: on the iota)
+ps	oldtestamenting02swet	393	15	λαοί: +φ	λαοί:	λαοί·	λαοί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	393	16	ὅτι	"ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	393	18	( +Ἀλληλουιά.	(Ὁ +Ἀλληλουιά.	Ἁλληλουιά.	Ἁλληλουιά.	image (3x): rough breathing (reversed comma) on the capital; the parenthesized number before it, (19) / (2), is a Hebrew verse number, # comment only
+ps	oldtestamenting02swet	393	19	Ἐξομολογεῖσθε	Ἐξομολογεῖσθε	Ἐξομολογεῖσθε	Ἐξομολογεῖσθε	image (3x): smooth breathing as in reading C (Αἰ: on the iota)
+ps	oldtestamenting02swet	393	21	Ξεϊπάτω	Ξεϊπάτω	εἰπάτω	εἰπάτω	image (3x): accents, breathings and letters as in reading C
+ps	oldtestamenting02swet	393	21	οἶκος +Ε	οἶκος	οἶκος	οἶκος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	393	21	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing as in reading C (Αἰ: on the iota)
+ps	oldtestamenting02swet	393	22	ἐλεος	ἔλεος	ἔλεος	ἔλεος	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	393	22	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	393	23	3Ξεἰπάτω	3εἰπάτω	εἰπάτω	εἰπάτω	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	393	23	Δ̓αρὼν	3 +Δ̓αρὼν	Ἀαρὼν	Ἀαρὼν	image (3x): smooth breathing on capital Α of Ἀαρὼν, not Δ
+ps	oldtestamenting02swet	393	23	ἀγαθύς,	ἀγαθύς,	ἀγαθός,	ἀγαθός,	image (3x): accents, breathings and letters as in reading C
+ps	oldtestamenting02swet	393	17	-	-	αἰῶνα.	αἰῶνα.	ambiguous: period prints as a small hollow ring (worn type) on the baseline; read period
+ps	oldtestamenting02swet	393	20	-	-	αὐτοῦ.	αὐτοῦ.	ambiguous: period prints as a small hollow ring (worn type) on the baseline; read period
+ps	oldtestamenting02swet	393	3	-	-	τίμιος	τίμιος	image: margin prints (13) 4 then (15) 6: Swete has no verse 5 (Hebrew 116:14 is not in his text), encoded {6!}
