@@ -1,0 +1,63 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	204	3	*Kal	Κ̓αὶ	Καὶ	Καὶ	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	3	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	204	3	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	3	61	ὃ +τ	ὁ	ὁ	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	4	Ἰσραήλ	Ἰσραήλ	Ἰσραήλ	Ἰσραήλ	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	4	oe"	σε᾽	σε·	σε·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	204	4	ἐκάλεσά	ἐκάλεσά	ἐκάλεσά	ἐκάλεσά	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	5	νομά	νομά	ὄνομά	ὄνομά	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	5	ov.	σύ.	σύ.	σύ.	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	204	5	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	204	5	εἶμι, +2	εἶμι, +.	εἰμι,	εἲμι,	image (6x): breathing plus a grave on ι, εἲμι, not a circumflex; kept as printed (cf. εἰμι· line 12)
+isa	oldtestgreek00unknuoft	204	6	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	204	6	συνκλύσουσίν	συνκλύσουσίν	συνκλύσουσίν	συνκλύσουσίν	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	6	ae”	σε	σε·	σε·	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	7	dre	5ὅτι	ὅτι	ὅτι	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	204	7	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	7	θεός	θεός	θεός	θεός	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	7	ὃ	ὃ	ὁ	ὁ	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	7	ἅγιος +3	ἅγιος +3	ἅγιος	ἅγιος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	204	8	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	8	oe	σε᾽	σε·	σε·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	204	8	ἐποίησά	ἐποίησά	ἐποίησά	ἐποίησά	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	8	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	8	Αἰθιοπίαν,	Αἰθιοπίαν,	Αἰθιοπίαν,	Αἰθιοπίαν,	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	9	“ἀφ᾽	“ἀφ᾽	ἀφ᾽	ἀφ᾽	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	204	9	ἐδοξά- +4	ἐδοξά- +4	ἐδοξά-	ἐδοξά-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	204	10	ἐγώ	ἐγώ	ἐγώ	ἐγώ	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	11	σου. +5	σου. +5	σου.	σου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	204	11	εἰμι"	εἰμι"	εἰμι·	εἰμι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	204	11	ἀπὸ +5	ἀπὸ	ἀπὸ	ἀπὸ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	204	12	ἀνατολῶν	5 +᾿ἀνατολῶν	ἀνατολῶν	ἀνατολῶν	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	204	12	σου,	σοὺ,	σου,	σου,	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	12	“ἐρῶ	“ἐρῶ	ἐρῶ	ἐρῶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	204	13	6	βορρᾷ	βορρᾷ	βορρᾷ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	204	13	Boppa +“Aye,	ἴἤΛλγε,	Ἄγε,	Ἄγε,	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	13	λιβί	λιβί	λιβί	λιβί	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	13	κώλυε:	κώλυε:	κώλυε·	κώλυε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	204	13	υἱούς	υἱούς	υἱούς	υἱούς	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	14	ὅσοι +7	ὅσοι +7	ὅσοι	ὅσοι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	204	15	ὀνόματί	ὀνόματί	ὀνόματί	ὀνόματί	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	15	pov.	μου.	μου.	μου.	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	204	15	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	204	15	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	204	16	*Kai	ϑκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	204	16	λαὸν +8	λαὸν	λαὸν	λαὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	204	17	ὀφθαλμοί	ὀφθαλμοί	ὀφθαλμοί	ὀφθαλμοί	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	18	ϑπάντα	ϑπάντα	πάντα	πάντα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	204	18	τὰ.	τὰ. +ἔθ	τὰ	τὰ	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	18	συναχθήσονται +9	συναχθήσονται +9	συναχθήσονται	συναχθήσονται	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	204	19	αὐτῶν +-	αὐτῶν:	αὐτῶν·	αὐτῶν·	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	19	i	ἣ	ἢ	ἢ	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	21	"“γένεσθέ	"“γένεσθέ	γένεσθέ	γένεσθέ	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	21	καὶ +τὸ	καὶ +τὸ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	204	22	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	204	23	πιστεύσητε.	πιστεύσητε.	πιστεύσητε	πιστεύσητε	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	23	ἐγώ	ἐγώ	ἐγώ	ἐγώ	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	23	εἰμι:	εἰμι"	εἰμι·	εἰμι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	204	23	ἔμπροσθέν	ἔμπροσθέν	ἔμπροσθέν	ἔμπροσθέν	image (3x): as transcribed (rough ὁ, smooth Ἰ/Ἀ/Αἰ, smooth+acute Ἄγε, ἢ smooth+grave, accents before enclitics, no point after τὰ/πιστεύσητε, ano teleia after αὐτῶν)
+isa	oldtestgreek00unknuoft	204	24	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	204	24	per	μετ᾽	μετ᾽	μετ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	204	24	“eyo	"᾿ἐγὼ	ἐγὼ	ἐγὼ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	204	5	-	-	εἲμι,	εἲμι,	ambiguous: mark over ι reads as smooth breathing + grave (εἲμι), an odd accent for the enclitic; kept as printed

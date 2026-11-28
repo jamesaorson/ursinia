@@ -51,3 +51,4 @@ isa	oldtestgreek00unknuoft	130	20	μηνίσκους, +"	μηνίσκους, +"�
 isa	oldtestgreek00unknuoft	130	21	*Kal	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 isa	oldtestgreek00unknuoft	130	21	σύνθεσιν +20	σύνθεσιν +20	σύνθεσιν	σύνθεσιν	class R3: OCR appended accent-row or margin junk; c read from the image strip
 isa	oldtestgreek00unknuoft	130	23	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	130	12	-	-	πτωχοῦ	πτωχοῦ	image (3x): ¶ printed in the text after πτωχοῦ (Z stops; margin ¶ Z), kept as printed

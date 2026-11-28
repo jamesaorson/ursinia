@@ -1,60 +1,60 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
-isa	oldtestgreek00unknuoft	171	1	∅	∅	νυκτός,	νυκτός,	TODO zoom: no OCR reading at all
+isa	oldtestgreek00unknuoft	171	1	∅	∅	νυκτός,	νυκτός,	image (3x): line-initial word as written; OCR lost it (margin number beside it)
 isa	oldtestgreek00unknuoft	171	1	“οὐκ	“οὐκ	οὐκ	οὐκ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-isa	oldtestgreek00unknuoft	171	2	Β +Uris:	Β +ὑτῆς"	αὐτῆς·	αὐτῆς·	TODO zoom: A OPEN, B OPEN
-isa	oldtestgreek00unknuoft	171	2	τίς	τίς	τίς	τίς	TODO zoom: accent before an enclitic
+isa	oldtestgreek00unknuoft	171	2	Β +Uris:	Β +ὑτῆς"	αὐτῆς·	αὐτῆς·	image (3x): word as written; OCR misread or fused margin number/siglum
+isa	oldtestgreek00unknuoft	171	2	τίς	τίς	τίς	τίς	image (3x): τίς acute before enclitic με
 isa	oldtestgreek00unknuoft	171	2	με +με	με +με	με	με	class R3: OCR appended accent-row or margin junk; c read from the image strip
 isa	oldtestgreek00unknuoft	171	2	τὴν +π	τὴν +π	τὴν	τὴν	class R3: OCR appended accent-row or margin junk; c read from the image strip
-isa	oldtestgreek00unknuoft	171	3	∅	∅	μίαν	μίαν	TODO zoom: no OCR reading at all
-isa	oldtestgreek00unknuoft	171	4	∅	∅	πάντα	πάντα	TODO zoom: no OCR reading at all
+isa	oldtestgreek00unknuoft	171	3	∅	∅	μίαν	μίαν	image (3x): line-initial word as written; OCR lost it (margin number beside it)
+isa	oldtestgreek00unknuoft	171	4	∅	∅	πάντα	πάντα	image (3x): line-initial word as written; OCR lost it (margin number beside it)
 isa	oldtestgreek00unknuoft	171	4	"βοήσονται	"βοήσονται	βοήσονται	βοήσονται	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-isa	oldtestgreek00unknuoft	171	5	∅	∅	αὐτῇ,	αὐτῇ,	TODO zoom: no OCR reading at all
+isa	oldtestgreek00unknuoft	171	5	∅	∅	αὐτῇ,	αὐτῇ,	image (3x): line-initial word as written; OCR lost it (margin number beside it)
 isa	oldtestgreek00unknuoft	171	5	“οἱ	“οἱ	οἱ	οἱ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-isa	oldtestgreek00unknuoft	171	5	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-isa	oldtestgreek00unknuoft	171	6	∅	∅	καὶ	καὶ	TODO zoom: no OCR reading at all
-isa	oldtestgreek00unknuoft	171	6	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-isa	oldtestgreek00unknuoft	171	7	∅	» +μι 7	αὐτοῦ.	αὐτοῦ.	TODO zoom: A R0, B OPEN
+isa	oldtestgreek00unknuoft	171	5	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing on Ἰ
+isa	oldtestgreek00unknuoft	171	6	∅	∅	καὶ	καὶ	image (3x): line-initial word as written; OCR lost it (margin number beside it)
+isa	oldtestgreek00unknuoft	171	6	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on Ἰ
+isa	oldtestgreek00unknuoft	171	7	∅	» +μι 7	αὐτοῦ.	αὐτοῦ.	image (3x): word as written; OCR misread or fused margin number/siglum
 isa	oldtestgreek00unknuoft	171	7	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
-isa	oldtestgreek00unknuoft	171	8	∅	∅	ὡς	ὡς	TODO zoom: no OCR reading at all
-isa	oldtestgreek00unknuoft	171	8	*paydpevos	8 +᾿μαχόμενος	μαχόμενος	μαχόμενος	TODO zoom: A R5, B OPEN
-isa	oldtestgreek00unknuoft	171	9	αὐτούς:	αὐτούς:	ἐξαποστελεῖ	ἐξαποστελεῖ	TODO zoom: A OPEN, B OPEN
-isa	oldtestgreek00unknuoft	171	9	∅	∅	αὐτούς·	αὐτούς·	TODO zoom: no OCR reading at all
-isa	oldtestgreek00unknuoft	171	10	∅	∅	ἀνελεῖν	ἀνελεῖν	TODO zoom: no OCR reading at all
+isa	oldtestgreek00unknuoft	171	8	∅	∅	ὡς	ὡς	image (3x): line-initial word as written; OCR lost it (margin number beside it)
+isa	oldtestgreek00unknuoft	171	8	*paydpevos	8 +᾿μαχόμενος	μαχόμενος	μαχόμενος	image (3x): μαχόμενος after superscript 8
+isa	oldtestgreek00unknuoft	171	9	αὐτούς:	αὐτούς:	ἐξαποστελεῖ	ἐξαποστελεῖ	image (3x): word as written; OCR misread or fused margin number/siglum
+isa	oldtestgreek00unknuoft	171	9	∅	∅	αὐτούς·	αὐτούς·	image (3x): word as written; OCR misread or fused margin number/siglum
+isa	oldtestgreek00unknuoft	171	10	∅	∅	ἀνελεῖν	ἀνελεῖν	image (3x): line-initial word as written; OCR lost it (margin number beside it)
 isa	oldtestgreek00unknuoft	171	10	9διὰ	9διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-isa	oldtestgreek00unknuoft	171	11	∅	∅	Ἰακώβ,	Ἰακώβ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth); no OCR reading at all
-isa	oldtestgreek00unknuoft	171	11	τοῦτό	τοῦτό	τοῦτό	τοῦτό	TODO zoom: accent before an enclitic
-isa	oldtestgreek00unknuoft	171	12	∅	∅	ἁμαρτίαν,	ἁμαρτίαν,	TODO zoom: no OCR reading at all
-isa	oldtestgreek00unknuoft	171	13	∅	∅	μένους	μένους	TODO zoom: no OCR reading at all
+isa	oldtestgreek00unknuoft	171	11	∅	∅	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing on Ἰ
+isa	oldtestgreek00unknuoft	171	11	τοῦτό	τοῦτό	τοῦτό	τοῦτό	image (3x): τοῦτό with second acute before enclitic ἐστιν
+isa	oldtestgreek00unknuoft	171	12	∅	∅	ἁμαρτίαν,	ἁμαρτίαν,	image (3x): line-initial word as written; OCR lost it (margin number beside it)
+isa	oldtestgreek00unknuoft	171	13	∅	∅	μένους	μένους	image (3x): line-initial word as written; OCR lost it (margin number beside it)
 isa	oldtestgreek00unknuoft	171	13	λεπτήν"	λεπτήν"	λεπτήν·	λεπτήν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 isa	oldtestgreek00unknuoft	171	13	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
-isa	oldtestgreek00unknuoft	171	14	∅	∅	τὰ	τὰ	TODO zoom: no OCR reading at all
-isa	oldtestgreek00unknuoft	171	14	ἐκκεκομμένα:	ἐκκεκομμένα.	ἐκκεκομμένα	ἐκκεκομμένα	TODO zoom: A OPEN, B OPEN
+isa	oldtestgreek00unknuoft	171	14	∅	∅	τὰ	τὰ	image (3x): line-initial word as written; OCR lost it (margin number beside it)
+isa	oldtestgreek00unknuoft	171	14	ἐκκεκομμένα:	ἐκκεκομμένα.	ἐκκεκομμένα	ἐκκεκομμένα	image (3x): word as written; OCR misread or fused margin number/siglum
 isa	oldtestgreek00unknuoft	171	14	"“τὸ	"“τὸ	τὸ	τὸ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-isa	oldtestgreek00unknuoft	171	15	∅	∅	κούμενον	κούμενον	TODO zoom: no OCR reading at all
+isa	oldtestgreek00unknuoft	171	15	∅	∅	κούμενον	κούμενον	image (3x): line-initial word as written; OCR lost it (margin number beside it)
 isa	oldtestgreek00unknuoft	171	15	καταλελιμμένον"	καταλελιμμένον"	καταλελιμμένον·	καταλελιμμένον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-isa	oldtestgreek00unknuoft	171	16	∅	ν	καὶ	καὶ	TODO zoom: A R0, B OPEN
-isa	oldtestgreek00unknuoft	171	16	**	τι	καὶ	καὶ	TODO zoom: A OPEN, B OPEN
-isa	oldtestgreek00unknuoft	171	17	Kal	“καὶ	μετὰ	μετὰ	TODO zoom: A R5, B OPEN
-isa	oldtestgreek00unknuoft	171	18	∅	∅	γυναῖκες	γυναῖκες	TODO zoom: no OCR reading at all
+isa	oldtestgreek00unknuoft	171	16	∅	ν	καὶ	καὶ	image (3x): word as written; OCR misread or fused margin number/siglum
+isa	oldtestgreek00unknuoft	171	16	**	τι	καὶ	καὶ	image (3x): word as written; OCR misread or fused margin number/siglum
+isa	oldtestgreek00unknuoft	171	17	Kal	“καὶ	μετὰ	μετὰ	image (3x): word as written; OCR misread or fused margin number/siglum
+isa	oldtestgreek00unknuoft	171	18	∅	∅	γυναῖκες	γυναῖκες	image (3x): line-initial word as written; OCR lost it (margin number beside it)
 isa	oldtestgreek00unknuoft	171	18	δεῦτε:	δεῦτε:	δεῦτε·	δεῦτε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-isa	oldtestgreek00unknuoft	171	18	λαός	λαός	λαός	λαός	TODO zoom: accent before an enclitic
-isa	oldtestgreek00unknuoft	171	19	∅	∅	νεσιν,	νεσιν,	TODO zoom: no OCR reading at all
-isa	oldtestgreek00unknuoft	171	19	6	ὃ	ὁ	ὁ	TODO zoom: A OPEN, B DIA
-isa	oldtestgreek00unknuoft	171	20	∅	∅	σας	σας	TODO zoom: no OCR reading at all
+isa	oldtestgreek00unknuoft	171	18	λαός	λαός	λαός	λαός	image (3x): λαός acute before enclitic ἐστιν
+isa	oldtestgreek00unknuoft	171	19	∅	∅	νεσιν,	νεσιν,	image (3x): line-initial word as written; OCR lost it (margin number beside it)
+isa	oldtestgreek00unknuoft	171	19	6	ὃ	ὁ	ὁ	image (3x): ὁ with rough breathing only, no accent
+isa	oldtestgreek00unknuoft	171	20	∅	∅	σας	σας	image (3x): line-initial word as written; OCR lost it (margin number beside it)
 isa	oldtestgreek00unknuoft	171	20	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
 isa	oldtestgreek00unknuoft	171	20	Καὶ	αἱ	Καὶ	Καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
-isa	oldtestgreek00unknuoft	171	21	6	∅	συμφράξει	συμφράξει	TODO zoom: A OPEN, B R0
+isa	oldtestgreek00unknuoft	171	21	6	∅	συμφράξει	συμφράξει	image (3x): word as written; OCR misread or fused margin number/siglum
 isa	oldtestgreek00unknuoft	171	21	∅	ὁ	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
-isa	oldtestgreek00unknuoft	171	21	ιινοκορούρων"	Ῥινοκορούρων"	Ῥινοκορούρων·	Ῥινοκορούρων·	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B R2
-isa	oldtestgreek00unknuoft	171	22	∅	΄-	ὑμεῖς	ὑμεῖς	TODO zoom: A R0, B OPEN
-isa	oldtestgreek00unknuoft	171	22	υἱοὺς	υἱοὺς +᾽	υἱοὺς	υἱοὺς	TODO zoom: acute or grave before a capitalized word
-isa	oldtestgreek00unknuoft	171	22	Ἰσραήλ.	Ἰσραήλ. +13	Ἰσραήλ.	Ἰσραήλ.	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-isa	oldtestgreek00unknuoft	171	23	∅	∅	ἐν	ἐν	TODO zoom: no OCR reading at all
+isa	oldtestgreek00unknuoft	171	21	ιινοκορούρων"	Ῥινοκορούρων"	Ῥινοκορούρων·	Ῥινοκορούρων·	image (3x): rough breathing on Ῥ, ano teleia after
+isa	oldtestgreek00unknuoft	171	22	∅	΄-	ὑμεῖς	ὑμεῖς	image (3x): word as written; OCR misread or fused margin number/siglum
+isa	oldtestgreek00unknuoft	171	22	υἱοὺς	υἱοὺς +᾽	υἱοὺς	υἱοὺς	image (3x): grave on υἱοὺς before Ἰσραήλ (not a quotation)
+isa	oldtestgreek00unknuoft	171	22	Ἰσραήλ.	Ἰσραήλ. +13	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on Ἰ
+isa	oldtestgreek00unknuoft	171	23	∅	∅	ἐν	ἐν	image (3x): line-initial word as written; OCR lost it (margin number beside it)
 isa	oldtestgreek00unknuoft	171	23	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
-isa	oldtestgreek00unknuoft	171	24	ὁλόμενοι	∅	οἱ	οἱ	TODO zoom: A OPEN, B R0
+isa	oldtestgreek00unknuoft	171	24	ὁλόμενοι	∅	οἱ	οἱ	image (3x): word as written; OCR misread or fused margin number/siglum
 isa	oldtestgreek00unknuoft	171	24	∅	ἀπολόμενοι	ἀπολόμενοι	ἀπολόμενοι	class R0: OCR lost the word in extraction; c read from the image strip
-isa	oldtestgreek00unknuoft	171	24	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-isa	oldtestgreek00unknuoft	171	24	Αἰγύ-	Αἰγύ-	Αἰγύ-	Αἰγύ-	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-isa	oldtestgreek00unknuoft	171	25	Kal	ᾧ,	πτῳ,	πτῳ,	TODO zoom: A R5, B OPEN
+isa	oldtestgreek00unknuoft	171	24	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	171	24	Αἰγύ-	Αἰγύ-	Αἰγύ-	Αἰγύ-	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	171	25	Kal	ᾧ,	πτῳ,	πτῳ,	image (3x): word as written; OCR misread or fused margin number/siglum
 isa	oldtestgreek00unknuoft	171	25	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
-isa	oldtestgreek00unknuoft	171	25	᾿ερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B same
+isa	oldtestgreek00unknuoft	171	25	᾿ερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing on Ἰ

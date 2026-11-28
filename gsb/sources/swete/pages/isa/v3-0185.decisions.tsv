@@ -1,0 +1,52 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	185	1	∅	θεός	θεός	θεός	image (3x): θεός acute before enclitic μου
+isa	oldtestgreek00unknuoft	185	1	∅	μου	μου	μου	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	185	1	∅	μέγας	μέγας	μέγας	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	185	1	∅	ἐστίν:	ἐστίν·	ἐστίν·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	185	1	∅	οὐ	οὐ	οὐ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	185	1	∅	παρελεύσεταί	παρελεύσεταί	παρελεύσεταί	image (3x): παρελεύσεταί with enclitic acute before με
+isa	oldtestgreek00unknuoft	185	1	∅	με᾽	με·	με·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	185	1	Κύριος	Κύρως	Κύριος	Κύριος	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	185	1	∅	κριτὴς	κριτὴς	κριτὴς	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	185	1	∅	ἡμῶν,	ἡμῶν,	ἡμῶν,	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	185	2	∅	Κύριος	Κύριος	Κύριος	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	185	3	“ϑέρράγησαν	“ϑέρράγησαν	ἐρράγησαν	ἐρράγησαν	image (3x): superscript 23 fused; ἐρράγησαν smooth + acute
+isa	oldtestgreek00unknuoft	185	3	σου;	σου;	σου,	σου,	image (3x): comma, not semicolon
+isa	oldtestgreek00unknuoft	185	3	ἐνίσχυσαν"	ἐνίσχυσαν"	ἐνίσχυσαν·	ἐνίσχυσαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	185	3	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	185	3	fords	ἱστός	ἱστός	ἱστός	image (3x): ἱστός acute before enclitic σου
+isa	oldtestgreek00unknuoft	185	3	σοὺ	σοὺ	σου	σου	image (3x): enclitic σου unaccented
+isa	oldtestgreek00unknuoft	185	5	προνομήν:	προνομήν:	προνομήν·	προνομήν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	185	5	ἥῥονομὴν	ἥρονομὴν	προνομὴν	προνομὴν	image (3x): προνομὴν, letters as written
+isa	oldtestgreek00unknuoft	185	5	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	185	6	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	185	6	Komi@	Κοπιῶ	Κοπιῶ	Κοπιῶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	185	6	αὐτοῖς"	αὐτοῖς:	αὐτοῖς·	αὐτοῖς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	185	6	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	185	7	ἁμαρτία.	ἁμαρτία. +Ι	ἁμαρτία.	ἁμαρτία.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	185	8	ἄρχοντες"	ἄρχοντες"	ἄρχοντες·	ἄρχοντες·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	185	9	οἵ	οἵ	οἱ	οἱ	image (3x): rough breathing only, no accent
+isa	oldtestgreek00unknuoft	185	9	6	ὃ	ὁ	ὁ	image (3x): rough breathing only, no accent
+isa	oldtestgreek00unknuoft	185	9	“διότι	Ζ +“διότι θ	διότι	διότι	image (3x): superscript 2 fused, not text
+isa	oldtestgreek00unknuoft	185	9	θυμὸς	θυμὸς	θυμὸς	θυμὸς	image (3x): grave; Κυρίου is a name, not a quotation
+isa	oldtestgreek00unknuoft	185	11	3οἱ	3 +3οἱ	οἱ	οἱ	image (3x): rough breathing only, no accent
+isa	oldtestgreek00unknuoft	185	13	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	185	14	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	185	16	συκῆς:	συκῆς.	συκῆς.	συκῆς.	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	185	16	"ἐμεθύσθη	"ἐμεθύσθη	ἐμεθύσθη	ἐμεθύσθη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	185	16	μά	μά-	μά-	μά-	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	185	17	xatpa	χαιρά	χαιρά	χαιρά	image (3x): χαιρά with enclitic acute before μου
+isa	oldtestgreek00unknuoft	185	17	μου:	μου"	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	185	17	τὴν	τὴν +}3	τὴν	τὴν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	185	17	Ἰδουμαίαν	Ἰδουμαίαν	Ἰδουμαίαν	Ἰδουμαίαν	image (3x): smooth breathing on Ἰ
+isa	oldtestgreek00unknuoft	185	18	“ἡ	“ἡ	ἡ	ἡ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	185	18	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	185	19	∅	∅	αἵματος,	αἵματος,	image (3x): αἵματος, rough + acute; OCR lost the word
+isa	oldtestgreek00unknuoft	185	21	Ἰδουμαίᾳ,	Ἰδουμαίᾳ,	Ἰδουμαίᾳ,	Ἰδουμαίᾳ,	image (3x): smooth breathing on Ἰ
+isa	oldtestgreek00unknuoft	185	21	7xal	Τκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	185	22	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	185	23	“ἡμέρα	“ἡμέρα	ἡμέρα	ἡμέρα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	185	24	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	185	24	ἀνταποδόσεως	ἀνταποδύσεως	ἀνταποδόσεως	ἀνταποδόσεως	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	185	1	-	-	Κύριος	Κύριος	ambiguous: ι smudged/broken in print (reads like Κύρτος); read Κύριος
+isa	oldtestgreek00unknuoft	185	1	-	-	κριτὴς	κριτὴς	ambiguous: ρ smudged in print; read κριτὴς

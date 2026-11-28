@@ -1,0 +1,38 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	205	1	"ἀνήγγειλα	"ἀνήγγειλα	ἀνήγγειλα	ἀνήγγειλα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	205	2	ἀλλότριος"	ἀλλότριος"	ἀλλότριος·	ἀλλότριος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	205	2	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): as transcribed (grave ἐγὼ before Κύριος, rough+acute Οὕ, smooth Ἰ, Ἰσραήλ acute + ano teleia, accents before enclitics)
+isa	oldtestgreek00unknuoft	205	3	3ére	᾿ϑἔτι	ἔτι	ἔτι	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	205	3	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	205	3	ἐξαιρούμενος"	ἐξαιρούμενος"	ἐξαιρούμενος·	ἐξαιρούμενος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	205	5	οὕτως	"Οὕτως	Οὕτως	Οὕτως	image (3x): as transcribed (grave ἐγὼ before Κύριος, rough+acute Οὕ, smooth Ἰ, Ἰσραήλ acute + ano teleia, accents before enclitics)
+isa	oldtestgreek00unknuoft	205	5	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	205	5	Ἰσραήλ	Ἰσραήλ	Ἰσραήλ	Ἰσραήλ	image (3x): as transcribed (grave ἐγὼ before Κύριος, rough+acute Οὕ, smooth Ἰ, Ἰσραήλ acute + ano teleia, accents before enclitics)
+isa	oldtestgreek00unknuoft	205	6	"Evexev	Ἕνεκεν	Ἕνεκεν	Ἕνεκεν	image (8x): open curl then rising stroke, rough + acute: Ἕνεκεν
+isa	oldtestgreek00unknuoft	205	7	"ἐγὼ	"ἐγὼ	ἐγὼ	ἐγὼ	image (3x): as transcribed (grave ἐγὼ before Κύριος, rough+acute Οὕ, smooth Ἰ, Ἰσραήλ acute + ano teleia, accents before enclitics)
+isa	oldtestgreek00unknuoft	205	8	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): as transcribed (grave ἐγὼ before Κύριος, rough+acute Οὕ, smooth Ἰ, Ἰσραήλ acute + ano teleia, accents before enclitics)
+isa	oldtestgreek00unknuoft	205	8	“obras	“οὕτως	οὕτως	οὕτως	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	205	9	76	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	205	10	ἰσχυρόν:	ἰσχυρόν:	ἰσχυρόν·	ἰσχυρόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	205	11	"Μὴ	"Μὴ	Μὴ	Μὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	205	12	veveTe	νεύετε	νεύετε	νεύετε	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	205	12	συλλογίζεσθε-	συλλογίζεσθε-	συλλογίζεσθε·	συλλογίζεσθε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	205	12	"ἰδοὺ	"ἰδοὺ	ἰδοὺ	ἰδοὺ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	205	14	ποταμούς:	ποταμούς."	ποταμούς·	ποταμούς·	image (3x): as transcribed (grave ἐγὼ before Κύριος, rough+acute Οὕ, smooth Ἰ, Ἰσραήλ acute + ano teleia, accents before enclitics)
+isa	oldtestgreek00unknuoft	205	14	“εὐλογήσουσί	“εὐλογήσουσί	εὐλογήσουσί	εὐλογήσουσί	image (3x): as transcribed (grave ἐγὼ before Κύριος, rough+acute Οὕ, smooth Ἰ, Ἰσραήλ acute + ano teleia, accents before enclitics)
+isa	oldtestgreek00unknuoft	205	14	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	205	15	ὅτι	ὅτε	ὅτι	ὅτι	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	205	16	** +hady	“'λαόν	λαόν	λαόν	image (3x): as transcribed (grave ἐγὼ before Κύριος, rough+acute Οὕ, smooth Ἰ, Ἰσραήλ acute + ano teleia, accents before enclitics)
+isa	oldtestgreek00unknuoft	205	17	ἀρετάς	ἀρετάς	ἀρετάς	ἀρετάς	image (3x): as transcribed (grave ἐγὼ before Κύριος, rough+acute Οὕ, smooth Ἰ, Ἰσραήλ acute + ano teleia, accents before enclitics)
+isa	oldtestgreek00unknuoft	205	17	“od	“οὐ	οὐ	οὐ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	205	17	ἐκάλεσά	ἐκάλεσά	ἐκάλεσά	ἐκάλεσά	image (3x): as transcribed (grave ἐγὼ before Κύριος, rough+acute Οὕ, smooth Ἰ, Ἰσραήλ acute + ano teleia, accents before enclitics)
+isa	oldtestgreek00unknuoft	205	18	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): as transcribed (grave ἐγὼ before Κύριος, rough+acute Οὕ, smooth Ἰ, Ἰσραήλ acute + ano teleia, accents before enclitics)
+isa	oldtestgreek00unknuoft	205	18	κοπιᾶσαί	κοπιᾶσαί	κοπιᾶσαί	κοπιᾶσαί	image (3x): as transcribed (grave ἐγὼ before Κύριος, rough+acute Οὕ, smooth Ἰ, Ἰσραήλ acute + ano teleia, accents before enclitics)
+isa	oldtestgreek00unknuoft	205	18	Ἰσραῆλ᾽	Ἰσραῆλ᾽	Ἰσραήλ·	Ἰσραήλ·	image (3x): as transcribed (grave ἐγὼ before Κύριος, rough+acute Οὕ, smooth Ἰ, Ἰσραήλ acute + ano teleia, accents before enclitics)
+isa	oldtestgreek00unknuoft	205	18	%o0vK«	“Ξοὺκ	οὐκ	οὐκ	image (3x): as transcribed (grave ἐγὼ before Κύριος, rough+acute Οὕ, smooth Ἰ, Ἰσραήλ acute + ano teleia, accents before enclitics)
+isa	oldtestgreek00unknuoft	205	18	πρόβατά	πρόβατά	πρόβατά	πρόβατά	image (3x): as transcribed (grave ἐγὼ before Κύριος, rough+acute Οὕ, smooth Ἰ, Ἰσραήλ acute + ano teleia, accents before enclitics)
+isa	oldtestgreek00unknuoft	205	19	ὁλοκαρπώσεώς	ὁλοκαρπώσεώς	ὁλοκαρπώσεώς	ὁλοκαρπώσεώς	image (3x): as transcribed (grave ἐγὼ before Κύριος, rough+acute Οὕ, smooth Ἰ, Ἰσραήλ acute + ano teleia, accents before enclitics)
+isa	oldtestgreek00unknuoft	205	19	ἐδόξασάς	ἐδόξασάς	ἐδόξασάς	ἐδόξασάς	image (3x): as transcribed (grave ἐγὼ before Κύριος, rough+acute Οὕ, smooth Ἰ, Ἰσραήλ acute + ano teleia, accents before enclitics)
+isa	oldtestgreek00unknuoft	205	20	ἐποίησά	ἐποίησά	ἐποίησά	ἐποίησά	image (3x): as transcribed (grave ἐγὼ before Κύριος, rough+acute Οὕ, smooth Ἰ, Ἰσραήλ acute + ano teleia, accents before enclitics)
+isa	oldtestgreek00unknuoft	205	20	“"οὐδὲ	“οὐδὲ	οὐδὲ	οὐδὲ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	205	22	"5ἐγώ	"Ξἐγώ	ἐγώ	ἐγώ	image (3x): as transcribed (grave ἐγὼ before Κύριος, rough+acute Οὕ, smooth Ἰ, Ἰσραήλ acute + ano teleia, accents before enclitics)

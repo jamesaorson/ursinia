@@ -1,66 +1,66 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 isa	oldtestgreek00unknuoft	227	1	“tidov	᾿“ἰδοὺ	ἰδοὺ	ἰδοὺ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 isa	oldtestgreek00unknuoft	227	1	ἐν	ἐν +Β	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
-isa	oldtestgreek00unknuoft	227	2	καὶ.	καὶ.	καὶ	καὶ	TODO zoom: A OPEN, B OPEN
+isa	oldtestgreek00unknuoft	227	2	καὶ.	καὶ.	καὶ	καὶ	image (3x): no point after the word
 isa	oldtestgreek00unknuoft	227	2	ϑἔθνη	ϑ5ἔθνη	ἔθνη	ἔθνη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-isa	oldtestgreek00unknuoft	227	3	οἴδασίν	οἴδασίν	οἴδασίν	οἴδασίν	TODO zoom: accent before an enclitic
-isa	oldtestgreek00unknuoft	227	3	ἐπικαλέσονταί	ἐπικαλέσονταί	ἐπικαλέσονταί	ἐπικαλέσονταί	TODO zoom: accent before an enclitic
-isa	oldtestgreek00unknuoft	227	3	of	οἱ	οἳ	οἳ	TODO zoom: A R5, B DROP
-isa	oldtestgreek00unknuoft	227	3	ἐπίστανταί	ἐπίστανταί	ἐπίστανταί	ἐπίστανταί	TODO zoom: accent before an enclitic
+isa	oldtestgreek00unknuoft	227	3	οἴδασίν	οἴδασίν	οἴδασίν	οἴδασίν	image (3x): acute on last syllable before enclitic, as printed
+isa	oldtestgreek00unknuoft	227	3	ἐπικαλέσονταί	ἐπικαλέσονταί	ἐπικαλέσονταί	ἐπικαλέσονταί	image (3x): acute on last syllable before enclitic, as printed
+isa	oldtestgreek00unknuoft	227	3	of	οἱ	οἳ	οἳ	image (3x): rough + grave (compact closed mark) on ι: οἳ
+isa	oldtestgreek00unknuoft	227	3	ἐπίστανταί	ἐπίστανταί	ἐπίστανταί	ἐπίστανταί	image (3x): acute on last syllable before enclitic, as printed
 isa	oldtestgreek00unknuoft	227	3	ἐπὶ +,.	ἐπὶ +.	ἐπὶ	ἐπὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
-isa	oldtestgreek00unknuoft	227	4	σοὺ	σοὺ	σου	σου	TODO zoom: A DIA, B DIA
-isa	oldtestgreek00unknuoft	227	4	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-isa	oldtestgreek00unknuoft	227	5	ἐδόξασέν	ἐδόξασέν	ἐδόξασέν	ἐδόξασέν	TODO zoom: accent before an enclitic
+isa	oldtestgreek00unknuoft	227	4	σοὺ	σοὺ	σου	σου	image (3x): σου unaccented
+isa	oldtestgreek00unknuoft	227	4	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe) on capital Ι
+isa	oldtestgreek00unknuoft	227	5	ἐδόξασέν	ἐδόξασέν	ἐδόξασέν	ἐδόξασέν	image (3x): acute on last syllable before enclitic, as printed
 isa	oldtestgreek00unknuoft	227	5	σε. +εὐ	σε. +εὐ 6	σε.	σε.	class R3: OCR appended accent-row or margin junk; c read from the image strip
 isa	oldtestgreek00unknuoft	227	5	κύριον,	κύριον;	κύριον,	κύριον,	class R6 (OCR letters differ): the other OCR reading agrees with c
 isa	oldtestgreek00unknuoft	227	6	ἐπικαλέσασθε:	ἐπικαλέσασθε:	ἐπικαλέσασθε·	ἐπικαλέσασθε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-isa	oldtestgreek00unknuoft	227	6	δ᾽.	δ᾽.	δ᾽	δ᾽	TODO zoom: A OPEN, B OPEN
+isa	oldtestgreek00unknuoft	227	6	δ᾽.	δ᾽.	δ᾽	δ᾽	image (3x): no point after the word
 isa	oldtestgreek00unknuoft	227	6	7drodiméra	7ἀπολιπέτω	ἀπολιπέτω	ἀπολιπέτω	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
-isa	oldtestgreek00unknuoft	227	9	ov	ϑοὺ	οὐ	οὐ	TODO zoom: A R5, B OPEN
-isa	oldtestgreek00unknuoft	227	9	γάρ	γάρ	γάρ	γάρ	TODO zoom: accent before an enclitic
+isa	oldtestgreek00unknuoft	227	9	ov	ϑοὺ	οὐ	οὐ	image (3x): οὐ, smooth + grave; verse superscript 8 not text
+isa	oldtestgreek00unknuoft	227	9	γάρ	γάρ	γάρ	γάρ	image (3x): acute on last syllable before enclitic, as printed
 isa	oldtestgreek00unknuoft	227	9	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
-isa	oldtestgreek00unknuoft	227	9	βουλαί	βουλαί	βουλαί	βουλαί	TODO zoom: accent before an enclitic
-isa	oldtestgreek00unknuoft	227	9	pov	μου.	μου	μου	TODO zoom: A R5, B OPEN
+isa	oldtestgreek00unknuoft	227	9	βουλαί	βουλαί	βουλαί	βουλαί	image (3x): acute on last syllable before enclitic, as printed
+isa	oldtestgreek00unknuoft	227	9	pov	μου.	μου	μου	image (3x): μου, no point
 isa	oldtestgreek00unknuoft	227	9	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
 isa	oldtestgreek00unknuoft	227	9	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
-isa	oldtestgreek00unknuoft	227	10	ὁδοί	ὁδοί	ὁδοί	ὁδοί	TODO zoom: accent before an enclitic
-isa	oldtestgreek00unknuoft	227	10	Κύριος	Κύριος	Κύριος·	Κύριος·	TODO zoom: A OPEN, B OPEN
-isa	oldtestgreek00unknuoft	227	10	- +ϑάλλ᾽	ϑάλλ᾽	ἀλλ᾽	ἀλλ᾽	TODO zoom: A OPEN, B OPEN
-isa	oldtestgreek00unknuoft	227	11	ὁδός	ὁδός	ὁδός	ὁδός	TODO zoom: accent before an enclitic
+isa	oldtestgreek00unknuoft	227	10	ὁδοί	ὁδοί	ὁδοί	ὁδοί	image (3x): acute on last syllable before enclitic, as printed
+isa	oldtestgreek00unknuoft	227	10	Κύριος	Κύριος	Κύριος·	Κύριος·	image (3x): ano teleia after Κύριος
+isa	oldtestgreek00unknuoft	227	10	- +ϑάλλ᾽	ϑάλλ᾽	ἀλλ᾽	ἀλλ᾽	image (3x): ἀλλ᾽ with elision mark; superscript 9 not text
+isa	oldtestgreek00unknuoft	227	11	ὁδός	ὁδός	ὁδός	ὁδός	image (3x): acute on last syllable before enclitic, as printed
 isa	oldtestgreek00unknuoft	227	11	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
 isa	oldtestgreek00unknuoft	227	12	τῆς	τῆς +ὃ	τῆς	τῆς	class R3: OCR appended accent-row or margin junk; c read from the image strip
-isa	oldtestgreek00unknuoft	227	12	μου:	μου:	μου.	μου.	TODO zoom: A OPEN, B OPEN
-isa	oldtestgreek00unknuoft	227	12	as	το +"“ὡς	ὡς	ὡς	TODO zoom: A R5, B OPEN
+isa	oldtestgreek00unknuoft	227	12	μου:	μου:	μου.	μου.	image (3x): period after μου
+isa	oldtestgreek00unknuoft	227	12	as	το +"“ὡς	ὡς	ὡς	image (3x): ὡς with rough breathing only; superscript 10 not text
 isa	oldtestgreek00unknuoft	227	12	yap	γὰρ +ὰ	γὰρ	γὰρ	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
 isa	oldtestgreek00unknuoft	227	13	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
 isa	oldtestgreek00unknuoft	227	13	Kai.	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
-isa	oldtestgreek00unknuoft	227	14	ἐκτέκῃ.	ἐκτέκῃ.	ἐκτέκῃ	ἐκτέκῃ	TODO zoom: A OPEN, B OPEN
+isa	oldtestgreek00unknuoft	227	14	ἐκτέκῃ.	ἐκτέκῃ.	ἐκτέκῃ	ἐκτέκῃ	image (3x): no point after the word
 isa	oldtestgreek00unknuoft	227	14	σπέ	σπέρμα	σπέρμα	σπέρμα	class R6 (OCR letters differ): the other OCR reading agrees with c
 isa	oldtestgreek00unknuoft	227	15	βρῶσιν"	βρῶσιν:	βρῶσιν·	βρῶσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 isa	oldtestgreek00unknuoft	227	15	“ovtas	"οὕτως	οὕτως	οὕτως	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 isa	oldtestgreek00unknuoft	227	15	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
-isa	oldtestgreek00unknuoft	227	15	ῥῆμά	ῥῆμά	ῥῆμά	ῥῆμά	TODO zoom: accent before an enclitic
-isa	oldtestgreek00unknuoft	227	15	στόματός	στόματός	στόματός	στόματός	TODO zoom: accent before an enclitic
-isa	oldtestgreek00unknuoft	227	16	ἀποστραφῇ.	ἀποστραφῇ.	ἀποστραφῇ	ἀποστραφῇ	TODO zoom: A OPEN, B OPEN
-isa	oldtestgreek00unknuoft	227	16	ἠθέλησα;	ἠθέλησα;	ἠθέλησα,	ἠθέλησα,	TODO zoom: A OPEN, B OPEN
+isa	oldtestgreek00unknuoft	227	15	ῥῆμά	ῥῆμά	ῥῆμά	ῥῆμά	image (3x): acute on last syllable before enclitic, as printed
+isa	oldtestgreek00unknuoft	227	15	στόματός	στόματός	στόματός	στόματός	image (3x): acute on last syllable before enclitic, as printed
+isa	oldtestgreek00unknuoft	227	16	ἀποστραφῇ.	ἀποστραφῇ.	ἀποστραφῇ	ἀποστραφῇ	image (3x): no point after the word
+isa	oldtestgreek00unknuoft	227	16	ἠθέλησα;	ἠθέλησα;	ἠθέλησα,	ἠθέλησα,	image (3x): comma after ἠθέλησα
 isa	oldtestgreek00unknuoft	227	16	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
-isa	oldtestgreek00unknuoft	227	17	ὁδούς	ὁδούς	ὁδούς	ὁδούς	TODO zoom: accent before an enclitic
-isa	oldtestgreek00unknuoft	227	17	ἐντάλματά	ἐντάλματά	ἐντάλματά	ἐντάλματά	TODO zoom: accent before an enclitic
+isa	oldtestgreek00unknuoft	227	17	ὁδούς	ὁδούς	ὁδούς	ὁδούς	image (3x): acute on last syllable before enclitic, as printed
+isa	oldtestgreek00unknuoft	227	17	ἐντάλματά	ἐντάλματά	ἐντάλματά	ἐντάλματά	image (3x): acute on last syllable before enclitic, as printed
 isa	oldtestgreek00unknuoft	227	17	“ev	"ἐν	ἐν	ἐν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 isa	oldtestgreek00unknuoft	227	17	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
 isa	oldtestgreek00unknuoft	227	18	διδαχθήσεσθε:	διδαχθήσεσθε:	διδαχθήσεσθε·	διδαχθήσεσθε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-isa	oldtestgreek00unknuoft	227	18	γὰρ.	γὰρ.	γὰρ	γὰρ	TODO zoom: A OPEN, B OPEN
-isa	oldtestgreek00unknuoft	227	20	Ξ̓καὶ	13 +"Ξκαὶ	καὶ	καὶ	TODO zoom: A R1, B OPEN
-isa	oldtestgreek00unknuoft	227	20	στὸιβῆς	στοιβῆς	στοιβῆς	στοιβῆς	TODO zoom: A DIA, B same
-isa	oldtestgreek00unknuoft	227	21	μυρσίνη	μυρσίνη	μυρσίνη·	μυρσίνη·	TODO zoom: A OPEN, B OPEN
-isa	oldtestgreek00unknuoft	227	21	€orat	ἔσταί	ἔσται	ἔσται	TODO zoom: A R5, B DIA
-isa	oldtestgreek00unknuoft	227	23	r	τ +"Τάδε	Τάδε	Τάδε	TODO zoom: A R5, B OPEN
+isa	oldtestgreek00unknuoft	227	18	γὰρ.	γὰρ.	γὰρ	γὰρ	image (3x): no point after the word
+isa	oldtestgreek00unknuoft	227	20	Ξ̓καὶ	13 +"Ξκαὶ	καὶ	καὶ	image (3x): καὶ; superscript 13 not text
+isa	oldtestgreek00unknuoft	227	20	στὸιβῆς	στοιβῆς	στοιβῆς	στοιβῆς	image (3x): no accent on ο, circumflex on η
+isa	oldtestgreek00unknuoft	227	21	μυρσίνη	μυρσίνη	μυρσίνη·	μυρσίνη·	image (3x): ano teleia after the word
+isa	oldtestgreek00unknuoft	227	21	€orat	ἔσταί	ἔσται	ἔσται	image (3x): ἔσται, no accent on final syllable
+isa	oldtestgreek00unknuoft	227	23	r	τ +"Τάδε	Τάδε	Τάδε	image (3x): Τάδε; superscript 1 not text
 isa	oldtestgreek00unknuoft	227	23	‘Tdde +bal.	λέγει	λέγει	λέγει	class R5: Latin-letter substitution in OCR; c read from the image strip
-isa	oldtestgreek00unknuoft	227	23	ποιήσάτε	ποιήσάτε	ποιήσατε	ποιήσατε	TODO zoom: A DIA, B DIA
-isa	oldtestgreek00unknuoft	227	23	δακιιοσύνηνν	δικαιοσύνην"	δικαιοσύνην·	δικαιοσύνην·	TODO zoom: A OPEN, B R2
-isa	oldtestgreek00unknuoft	227	24	γὰρ.	γὰρ.	γὰρ	γὰρ	TODO zoom: A OPEN, B OPEN
-isa	oldtestgreek00unknuoft	227	24	σωτήριόν	σωτήριόν.	σωτήριόν	σωτήριόν	TODO zoom: accent before an enclitic; A same, B OPEN
-isa	oldtestgreek00unknuoft	227	24	μον	μου.	μου	μου	TODO zoom: A OPEN, B OPEN
-isa	oldtestgreek00unknuoft	227	24	ἔλεός	ἔλεός	ἔλεός	ἔλεός	TODO zoom: accent before an enclitic
+isa	oldtestgreek00unknuoft	227	23	ποιήσάτε	ποιήσάτε	ποιήσατε	ποιήσατε	image (3x): acute on η only
+isa	oldtestgreek00unknuoft	227	23	δακιιοσύνηνν	δικαιοσύνην"	δικαιοσύνην·	δικαιοσύνην·	image (3x): ano teleia after the word
+isa	oldtestgreek00unknuoft	227	24	γὰρ.	γὰρ.	γὰρ	γὰρ	image (3x): no point after the word
+isa	oldtestgreek00unknuoft	227	24	σωτήριόν	σωτήριόν.	σωτήριόν	σωτήριόν	image (3x): acute on last syllable before enclitic, as printed
+isa	oldtestgreek00unknuoft	227	24	μον	μου.	μου	μου	image (3x): μου, no point
+isa	oldtestgreek00unknuoft	227	24	ἔλεός	ἔλεός	ἔλεός	ἔλεός	image (3x): acute on last syllable before enclitic, as printed
 isa	oldtestgreek00unknuoft	227	25	“μακάριος	“μακάριος	μακάριος	μακάριος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 isa	oldtestgreek00unknuoft	227	25	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c

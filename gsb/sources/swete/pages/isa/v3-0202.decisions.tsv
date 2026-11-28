@@ -1,7 +1,7 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
-isa	oldtestgreek00unknuoft	202	1	ψυχή	ψυχή	ψυχή	ψυχή	TODO zoom: accent before an enclitic
-isa	oldtestgreek00unknuoft	202	1	pov:	μὸυ"	μου·	μου·	TODO zoom: A R5, B OPEN
-isa	oldtestgreek00unknuoft	202	1	πνεῦμά	πνεῦμά	πνεῦμά	πνεῦμά	TODO zoom: accent before an enclitic
+isa	oldtestgreek00unknuoft	202	1	ψυχή	ψυχή	ψυχή	ψυχή	image (3x): as transcribed (accents before enclitics, rough breathing on Ὑ, σε unaccented, grave on ἐγὼ)
+isa	oldtestgreek00unknuoft	202	1	pov:	μὸυ"	μου·	μου·	image (4x): μου unaccented; the faint stroke over ο is show-through (same faint mark over the second μου on the line), ano teleia after
+isa	oldtestgreek00unknuoft	202	1	πνεῦμά	πνεῦμά	πνεῦμά	πνεῦμά	image (3x): as transcribed (accents before enclitics, rough breathing on Ὑ, σε unaccented, grave on ἐγὼ)
 isa	oldtestgreek00unknuoft	202	2	ἐξοίσει"	ἐξοίσει"	ἐξοίσει·	ἐξοίσει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 isa	oldtestgreek00unknuoft	202	2	“οὐ	“οὐ	οὐ	οὐ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 isa	oldtestgreek00unknuoft	202	2	ἀκου- +2	ἀκου- +“	ἀκου-	ἀκου-	class R3: OCR appended accent-row or margin junk; c read from the image strip
@@ -11,26 +11,26 @@ isa	oldtestgreek00unknuoft	202	4	κρίσιν"	κρίσιν"	κρίσιν·	κρ
 isa	oldtestgreek00unknuoft	202	5	ἀναλάμψει	᾿ἀναλάμψει	ἀναλάμψει	ἀναλάμψει	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 isa	oldtestgreek00unknuoft	202	5	κρίσιν:	κρίσιν:	κρίσιν·	κρίσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 isa	oldtestgreek00unknuoft	202	5	καὶ	καὶ +4	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
-isa	oldtestgreek00unknuoft	202	6	SovTws	5 +ϑοὕτως	οὕτως	οὕτως	TODO zoom: A R5, B OPEN
-isa	oldtestgreek00unknuoft	202	6	6	ὁ +5	ὁ	ὁ	TODO zoom: A OPEN, B R3
-isa	oldtestgreek00unknuoft	202	7	γῆν	γὴν	γῆν	γῆν	TODO zoom: A same, B DIA
-isa	oldtestgreek00unknuoft	202	9	“ἐγὼ	“ἐγὼ	ἐγὼ	ἐγὼ	TODO zoom: acute or grave before a capitalized word
-isa	oldtestgreek00unknuoft	202	9	ἐκάλεσά	ἐκάλεσά	ἐκάλεσά	ἐκάλεσά	TODO zoom: accent before an enclitic
+isa	oldtestgreek00unknuoft	202	6	SovTws	5 +ϑοὕτως	οὕτως	οὕτως	image (3x): as transcribed (accents before enclitics, rough breathing on Ὑ, σε unaccented, grave on ἐγὼ)
+isa	oldtestgreek00unknuoft	202	6	6	ὁ +5	ὁ	ὁ	image (3x): as transcribed (accents before enclitics, rough breathing on Ὑ, σε unaccented, grave on ἐγὼ)
+isa	oldtestgreek00unknuoft	202	7	γῆν	γὴν	γῆν	γῆν	image (3x): as transcribed (accents before enclitics, rough breathing on Ὑ, σε unaccented, grave on ἐγὼ)
+isa	oldtestgreek00unknuoft	202	9	“ἐγὼ	“ἐγὼ	ἐγὼ	ἐγὼ	image (3x): as transcribed (accents before enclitics, rough breathing on Ὑ, σε unaccented, grave on ἐγὼ)
+isa	oldtestgreek00unknuoft	202	9	ἐκάλεσά	ἐκάλεσά	ἐκάλεσά	ἐκάλεσά	image (3x): as transcribed (accents before enclitics, rough breathing on Ὑ, σε unaccented, grave on ἐγὼ)
 isa	oldtestgreek00unknuoft	202	9	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 isa	oldtestgreek00unknuoft	202	9	κρατήσω +6	κρατήσω +6	κρατήσω	κρατήσω	class R3: OCR appended accent-row or margin junk; c read from the image strip
-isa	oldtestgreek00unknuoft	202	10	χειρός	χειρός	χειρός	χειρός	TODO zoom: accent before an enclitic
-isa	oldtestgreek00unknuoft	202	10	σέ,	σέ,	σε,	σε,	TODO zoom: A DIA, B DIA
-isa	oldtestgreek00unknuoft	202	10	ἔδωκά	ἔδωκά	ἔδωκά	ἔδωκά	TODO zoom: accent before an enclitic
+isa	oldtestgreek00unknuoft	202	10	χειρός	χειρός	χειρός	χειρός	image (3x): as transcribed (accents before enclitics, rough breathing on Ὑ, σε unaccented, grave on ἐγὼ)
+isa	oldtestgreek00unknuoft	202	10	σέ,	σέ,	σε,	σε,	image (3x): as transcribed (accents before enclitics, rough breathing on Ὑ, σε unaccented, grave on ἐγὼ)
+isa	oldtestgreek00unknuoft	202	10	ἔδωκά	ἔδωκά	ἔδωκά	ἔδωκά	image (3x): as transcribed (accents before enclitics, rough breathing on Ὑ, σε unaccented, grave on ἐγὼ)
 isa	oldtestgreek00unknuoft	202	10	ce	σε	σε	σε	class R5: Latin-letter substitution in OCR; c read from the image strip
 isa	oldtestgreek00unknuoft	202	11	7avoita	7Δἀνοῖξαι	ἀνοῖξαι	ἀνοῖξαι	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 isa	oldtestgreek00unknuoft	202	11	καὶ	καὶ +7	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
-isa	oldtestgreek00unknuoft	202	12	“eyo	“ἐγὼ	ἐγὼ	ἐγὼ	TODO zoom: acute or grave before a capitalized word
+isa	oldtestgreek00unknuoft	202	12	“eyo	“ἐγὼ	ἐγὼ	ἐγὼ	image (3x): as transcribed (accents before enclitics, rough breathing on Ὑ, σε unaccented, grave on ἐγὼ)
 isa	oldtestgreek00unknuoft	202	12	τοῦτό	τοῦτό +8	τοῦτό	τοῦτό	class R3: OCR appended accent-row or margin junk; c read from the image strip
-isa	oldtestgreek00unknuoft	202	13	μού	μού	μού	μού	TODO zoom: accent before an enclitic
-isa	oldtestgreek00unknuoft	202	13	ἀρετάς	ἀρετάς	ἀρετάς	ἀρετάς	TODO zoom: accent before an enclitic
+isa	oldtestgreek00unknuoft	202	13	μού	μού	μού	μού	image (3x): as transcribed (accents before enclitics, rough breathing on Ὑ, σε unaccented, grave on ἐγὼ)
+isa	oldtestgreek00unknuoft	202	13	ἀρετάς	ἀρετάς	ἀρετάς	ἀρετάς	image (3x): as transcribed (accents before enclitics, rough breathing on Ὑ, σε unaccented, grave on ἐγὼ)
 isa	oldtestgreek00unknuoft	202	14	ϑτὰ	ϑτὰ	τὰ	τὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 isa	oldtestgreek00unknuoft	202	14	ἀναγ- +9	ἀναγ- +9	ἀναγ-	ἀναγ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
-isa	oldtestgreek00unknuoft	202	15	᾿ογμνήσατε	᾿ο'γμνήσατε	Ὑμνήσατε	Ὑμνήσατε	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B OPEN
+isa	oldtestgreek00unknuoft	202	15	᾿ογμνήσατε	᾿ο'γμνήσατε	Ὑμνήσατε	Ὑμνήσατε	image (3x): as transcribed (accents before enclitics, rough breathing on Ὑ, σε unaccented, grave on ἐγὼ)
 isa	oldtestgreek00unknuoft	202	15	τῷ +το	τῷ +τὸ	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
 isa	oldtestgreek00unknuoft	202	16	καινόν"	καινόν"	καινόν·	καινόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 isa	oldtestgreek00unknuoft	202	16	am᾽	ἀπ᾽	ἀπ᾽	ἀπ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
@@ -41,5 +41,6 @@ isa	oldtestgreek00unknuoft	202	20	"δώσουσιν	"δώσουσιν	δώσου
 isa	oldtestgreek00unknuoft	202	20	τῷ +το	τῷ +τὸ	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
 isa	oldtestgreek00unknuoft	202	21	δόξαν, +»	δόξαν,	δόξαν,	δόξαν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
 isa	oldtestgreek00unknuoft	202	21	ἀναγγελοῦσιν.	ἀναγγελοῦσιν. +Ξ̓	ἀναγγελοῦσιν.	ἀναγγελοῦσιν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
-isa	oldtestgreek00unknuoft	202	21	+)	Κύριος +13	Κύριος	Κύριος	TODO zoom: A OPEN, B R3
+isa	oldtestgreek00unknuoft	202	21	+)	Κύριος +13	Κύριος	Κύριος	image (3x): as transcribed (accents before enclitics, rough breathing on Ὑ, σε unaccented, grave on ἐγὼ)
 isa	oldtestgreek00unknuoft	202	22	Ξ̓3Κύριος +τ 6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	202	1	-	-	ψυχή	ψυχή	ambiguous: faint dot between ψυχή and μου at mid-height is lighter than real ink (show-through/speck); not punctuation

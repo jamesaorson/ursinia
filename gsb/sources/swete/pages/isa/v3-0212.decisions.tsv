@@ -1,0 +1,34 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	212	1	ὅτίνε	ὅτίνε	τίνι	τίνι	image (3x): superscript verse number fused in OCR; word as transcribed
+isa	oldtestgreek00unknuoft	212	1	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	212	1	“οἱ	“οἱ	οἱ	οἱ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	212	1	συμβαλ-	συμβαλ- +ὃ	συμβαλ-	συμβαλ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	212	2	ζυγῷ:	ζυγῷ:	ζυγῷ·	ζυγῷ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	212	4	7aipovew	Ταΐἴρουσιν	αἴρουσιν	αἴρουσιν	image (3x): smooth + acute on αἴ; superscript 7 not text
+isa	oldtestgreek00unknuoft	212	4	ὥμου	ὥμου.	ὤμου	ὤμου	image (3x): smooth + acute (two strokes like on αἴρουσιν): ὤμου
+isa	oldtestgreek00unknuoft	212	5	πορεύονται:	πορεύονται:	πορεύονται·	πορεύονται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	212	6	κινηθῇ:	κινηθῇ"	κινηθῇ·	κινηθῇ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	212	7	peravo-	μετανό-	μετανο-	μετανο-	image (3x): hyphenated line end; accents as transcribed
+isa	oldtestgreek00unknuoft	212	8	ἥσατε,	ἤσατε,	ήσατε,	ήσατε,	image (3x): continuation of μετανο-ήσατε, acute only, no breathing
+isa	oldtestgreek00unknuoft	212	8	oi	δὲ	οἱ	οἱ	image (3x): οἱ rough breathing
+isa	oldtestgreek00unknuoft	212	8	ϑκαὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	212	9	“ἐγώ	ἐγώ	ἐγώ	ἐγώ	image (3x): acute before enclitic
+isa	oldtestgreek00unknuoft	212	10	“ἀναγγέλλων	Σο +“ἀναγγέλλων	ἀναγγέλλων	ἀναγγέλλων	image (3x): superscript verse number fused in OCR; word as transcribed
+isa	oldtestgreek00unknuoft	212	11	συνετελέσθη:	συνετελέσθη:	συνετελέσθη·	συνετελέσθη·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	212	11	Πᾶσά	πᾶσά	Πᾶσά	Πᾶσά	image (3x): acute before enclitic
+isa	oldtestgreek00unknuoft	212	11	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	212	12	ποιήσω":	ποιήσω:	ποιήσω·	ποιήσω·	image (3x): ano teleia
+isa	oldtestgreek00unknuoft	212	12	“καλῶν	“᾿καλῶν	καλῶν	καλῶν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	212	14	ἀκοῦ-	"“ἀκού-	ἀκού-	ἀκού-	image (3x): hyphenated line end; accents as transcribed
+isa	oldtestgreek00unknuoft	212	15	σατέ	σατέ	σατέ	σατέ	image (3x): acute before enclitic
+isa	oldtestgreek00unknuoft	212	15	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	212	16	᾿3ὔἤγγισα	᾿3ἤγγισα	ἤγγισα	ἤγγισα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	212	16	τὴν,	τὴν,	τὴν	τὴν	image (3x): no comma after τὴν
+isa	oldtestgreek00unknuoft	212	17	παρ᾽	παρ᾽ +Ἄ	παρ᾽	παρ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	212	17	βραδυνῶ:	βραδυνῶ:	βραδυνῶ·	βραδυνῶ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	212	17	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	212	19	Κ̓ατάβηθι,	Κ̓ατάβηθι,	Κατάβηθι,	Κατάβηθι,	image (3x): no diacritic on Κ / ρ; OCR noise
+isa	oldtestgreek00unknuoft	212	19	παῤθένος	παῤθένος	παρθένος	παρθένος	image (3x): no diacritic on Κ / ρ; OCR noise
+isa	oldtestgreek00unknuoft	212	19	Βαβυλῶνος"	Βαβυλῶνος"	Βαβυλῶνος·	Βαβυλῶνος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	212	20	ὅτι	ὅτε	ὅτι	ὅτι	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	212	21	"λάβε	“λάβε	λάβε	λάβε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip

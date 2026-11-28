@@ -1,0 +1,40 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	245	1	*ris	ὃὅτίς	τίς	τίς	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	245	2	ὦὥδινεν.	ὦὥδινεν	ὤδινεν	ὤδινεν	TODO zoom: A OPEN, B OPEN
+isa	oldtestgreek00unknuoft	245	2	ὥδινεν	ὥδιψεν	ὤδινεν	ὤδινεν	TODO zoom: A DIA, B OPEN
+isa	oldtestgreek00unknuoft	245	4	TavTnv,	ταύτην,	ταύτην,	ταύτην,	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	245	5	νῶσαν.	νῶσαν.	νῶσαν	νῶσαν	TODO zoom: A OPEN, B OPEN
+isa	oldtestgreek00unknuoft	245	5	δ᾽	δ᾽	ὁ	ὁ	TODO zoom: A OPEN, B OPEN
+isa	oldtestgreek00unknuoft	245	5	θεός	θεός	θεός	θεός	TODO zoom: accent before an enclitic
+isa	oldtestgreek00unknuoft	245	5	᾿οευὐφράν-	᾿οεὐφράν-	Εὐφράν-	Εὐφράν-	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B OPEN
+isa	oldtestgreek00unknuoft	245	6	Onre,	θητι,	θητι,	θητι,	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	245	6	᾿ερουσαλήμ,	Ἱερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B DIA
+isa	oldtestgreek00unknuoft	245	6	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	245	7	“iva	"ἵνα	ἵνα	ἵνα	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	245	9	θήλάσαντες	θήλάσαντες	θηλάσαντες	θηλάσαντες	TODO zoom: A DIA, B DIA
+isa	oldtestgreek00unknuoft	245	9	“dre	"ὅτι	ὅτι	ὅτι	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	245	10	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+isa	oldtestgreek00unknuoft	245	10	ἐκκλίνω.	ἐκκλίνω.	ἐκκλίνω	ἐκκλίνω	TODO zoom: A OPEN, B OPEN
+isa	oldtestgreek00unknuoft	245	11	ἐθνῶν:	ἐθνῶν:	ἐθνῶν·	ἐθνῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	245	11	dpov	ὥμων	ὤμων	ὤμων	TODO zoom: A R5, B DIA
+isa	oldtestgreek00unknuoft	245	12	“Bas	᾿ϑὡὼς	ὡς	ὡς	TODO zoom: A R5, B OPEN
+isa	oldtestgreek00unknuoft	245	12	εἴ	εἴ	εἴ	εἴ	TODO zoom: accent before an enclitic
+isa	oldtestgreek00unknuoft	245	12	μητὴρ	μήτηρ	μήτηρ	μήτηρ	TODO zoom: A DIA, B same
+isa	oldtestgreek00unknuoft	245	13	mapaxahécet,	παρἀκαλέσει,	παρακαλέσει,	παρακαλέσει,	TODO zoom: A R5, B DIA
+isa	oldtestgreek00unknuoft	245	13	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+isa	oldtestgreek00unknuoft	245	14	“nal	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	245	15	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	245	15	ἀνατελεῖ:	ἀνατελεῖ:	ἀνατελεῖ·	ἀνατελεῖ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	245	15	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	245	15	χεὶρ	χεὶρ	χεὶρ	χεὶρ	TODO zoom: acute or grave before a capitalized word
+isa	oldtestgreek00unknuoft	245	16	idod	"“ἰδοὺ	ἰδοὺ	ἰδοὺ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	245	16	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	245	19	δὲν	"ἐν	ἐν	ἐν	TODO zoom: A OPEN, B R1
+isa	oldtestgreek00unknuoft	245	19	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	245	19	πυρὶ	πυρὶ	πυρὶ	πυρὶ	TODO zoom: acute or grave before a capitalized word
+isa	oldtestgreek00unknuoft	245	20	σάρξ᾽	σάρξ:	σάρξ·	σάρξ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	245	20	“oi	"οἱ	οἱ	οἱ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	245	21	᾿ἁγνιζόμενοι	᾿ἁγνιζόμενοι	ἁγνιζόμενοι	ἁγνιζόμενοι	TODO zoom: A OPEN, B OPEN
+isa	oldtestgreek00unknuoft	245	21	καθαριζόμένοι	καθαριζόμένοι	καθαριζόμενοι	καθαριζόμενοι	TODO zoom: A DIA, B DIA
+isa	oldtestgreek00unknuoft	245	23	*Kayo	τϑκ +ἀγὼ	Κἀγὼ	Κἀγὼ	TODO zoom: A R5, B OPEN
+isa	oldtestgreek00unknuoft	245	24	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

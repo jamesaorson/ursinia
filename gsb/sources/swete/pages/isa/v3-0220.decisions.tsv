@@ -1,0 +1,45 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	220	1	"Tis	ογίς	Τίς	Τίς	image (3x): Τίς, acute; OCR junk from verse number
+isa	oldtestgreek00unknuoft	220	1	κύριον;	'κύριον;	κύριον;	κύριον;	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	220	2	αὐτοῦ"	αὐτοῦ"	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	220	2	of	οἵ	οἱ	οἱ	image (3x): rough breathing, no accent
+isa	oldtestgreek00unknuoft	220	3	Κυρίου.	Κυρίου:	Κυρίου	Κυρίου	image (3x): no punctuation after word; speck
+isa	oldtestgreek00unknuoft	220	4	“idod	"ἰδοὺ	ἰδοὺ	ἰδοὺ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	220	5	φλόγα:	φλόγα:	φλόγα·	φλόγα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	220	6	7	ἧ	ᾗ	ᾗ	image (3x): ᾗ, rough breathing, circumflex, iota subscript
+isa	oldtestgreek00unknuoft	220	6	ἐξεκαύσατε:	ἐξεκαύσατε:	ἐξεκαύσατε·	ἐξεκαύσατε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	220	8	᾿Ἀκούσατέμου,	᾿Ἀκούσατέμου,	Ἀκούσατέ	Ἀκούσατέ	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	220	8	∅	∅	μου,	μου,	image (3x): μου, printed tight after Ἀκούσατέ; separate word
+isa	oldtestgreek00unknuoft	220	9	τὴν.	τὴν	τὴν	τὴν	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	220	9	cis.	᾿ +εἰς.	εἰς	εἰς	image (3x): no punctuation after word; speck
+isa	oldtestgreek00unknuoft	220	10	"ἐμβλέψατε	“ἐμβλέψατε	ἐμβλέψατε	ἐμβλέψατε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	220	10	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	220	11	ὑμᾶς"	ὑμᾶς"	ὑμᾶς·	ὑμᾶς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	220	11	ἦν	ἢν	ἦν	ἦν	image (3x): ἦν, smooth breathing with circumflex
+isa	oldtestgreek00unknuoft	220	12	3καὶ	3καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	220	12	viv	νῦν	νῦν	νῦν	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	220	15	Κυρίου:	Κυρίου:	Κυρίου·	Κυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	220	16	“᾽Ακούσατέ	4᾽Ακούσατέ	Ἀκούσατέ	Ἀκούσατέ	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	220	16	ἀκούσατέ	ἀκούσατέ	ἀκούσατέ	ἀκούσατέ	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	220	16	λαός	λαός	λαός	λαός	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	220	16	pou,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	220	17	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	220	17	pe	μὲ	μὲ	μὲ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	220	17	map	παρ᾽	παρ᾽	παρ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	220	17	ἐξελεύσεται,	ἐξελεύσέται,.	ἐξελεύσεται,	ἐξελεύσεται,	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	220	18	ἐθνῶν.	ἐθνῶν. +5	ἐθνῶν.	ἐθνῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	220	18	μου;	μου;	μου,	μου,	ambiguous (4x): mark after μου is a comma with a light dot above, set tight to the word (Swete sets ; after a thin space); read comma
+isa	oldtestgreek00unknuoft	220	19	σωτήριόν	σωτήριόν	σωτήριόν	σωτήριόν	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	220	19	βραχίονά	βραχίονά	βραχίονά	βραχίονά	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	220	20	ἔθνη.	ἔθνη	ἔθνη	ἔθνη	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	220	20	ἐλπιοῦσιν:	ἐλπιοῦσιν:	ἐλπιοῦσιν·	ἐλπιοῦσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	220	20	Tov.	τὸν,	τὸν	τὸν	image (3x): no punctuation after word; speck
+isa	oldtestgreek00unknuoft	220	20	βραχίονά.	βραχίονά.	βραχίονά	βραχίονά	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	220	20	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	220	21	“ἄρατε	δἄρατε	ἄρατε	ἄρατε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	220	22	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	220	24	σωτήριόν	σωτήριόν	σωτήριόν	σωτήριόν	image (3x): accent before enclitic as printed
+isa	oldtestgreek00unknuoft	220	24	ἣ	ἣ	ἡ	ἡ	image (3x): rough breathing, no accent
+isa	oldtestgreek00unknuoft	220	24	δὲ	δὲ +ὃ	δὲ	δὲ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	220	25	ἐκλίπῃ. +7᾽	ἐκλίπῃ. +7᾽	ἐκλίπῃ.	ἐκλίπῃ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	220	25	Ἀκούσατέ	Ἀκούσατέ	Ἀκούσατέ	Ἀκούσατέ	image (3x): smooth breathing on capital

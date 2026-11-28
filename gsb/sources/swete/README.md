@@ -311,6 +311,39 @@ leaf numbers here; the images and OCR layers stay out of the repo
   3:7; his IV 1-6 = `(III 19)`-`(24)`, printed in the order 19, 20, 21, 23,
   24, 22 (the Greek puts English 4:4 after 4:5-6), so the table runs 4:1-3,
   4:5, 4:6, 4:4.
+- **Jeremiah** (leaves v3 247-373; leaf 374, p. 350, is Swete's table
+  *Collatio capitum Ieremiae*, not transcribed) is set as prose (`{P}` at
+  indented paragraph starts; `{S}` only where lines are set as verse). The
+  short centered oracle titles (`Τῇ Ἰδουμαίᾳ.`, `Τῇ Κηδὰρ βασιλίσσῃ ...`) are
+  text: an ordinary line (or two) with the verse marker where its superscript
+  stands, the indented line after it `{P}`. Swete numbers by the Greek order
+  and chapters (his own `{Cn}` 1-52, verse numbers as printed, `{n!}` where
+  he skips the verses the Greek lacks, e.g. LII 27 then 31). His table: Greek
+  1:1-25:13 = Hebrew 1:1-25:13; XXV 14-XXVI 1 = (XLIX 34-39); XXVI 2-28 =
+  (XLVI 2-28); XXVII = (L); XXVIII = (LI); XXIX 1-7 = (XLVII 1-7); XXIX 8-23
+  = (XLIX 7-22); XXX 1-5 = (XLIX 1-5); XXX 6-11 = (XLIX 28-33); XXX 12-16 =
+  (XLIX 23-27); XXXI = (XLVIII); XXXII 1-24 = (XXV 15-38); XXXIII-L = (XXVI-
+  XLIII); LI 1-30 = (XLIV); LI 31-35 = (XLV 1-5); LII = LII. The margin prints
+  the Hebrew chapter as a parenthesized Roman numeral beside his own
+  (`XLIII (XXXVI) 1`, also in the running head `(XXXVI 2) XLIII 2`) and a
+  parenthesized Hebrew verse number only where the verse numbers differ
+  (`8 (7) (XLIX)`, `(28) 6`); in-text numbers occur (`κόψεις, ⁽⁶⁾ἡ μάχαιρα`,
+  XXIX 6 = 47:5 + 47:6). Encoding (as 3 Kingdoms XX (XXI)): every Swete verse
+  in a chapter with a parenthesized Roman numeral carries a `{=c:v}`: `v` is
+  the parenthesized verse number printed beside or in it, else Swete's own
+  number (ours, not printed); `c` is the last parenthesized Roman numeral
+  printed. A `# margin: ...` comment line above the printed line records each
+  margin entry with a Roman numeral or a parenthesized number, and the first
+  line of such a chapter gets a comment saying the `{=c:n}` without printed
+  parentheses are ours. Words before an in-text number run on with the
+  previous common verse. Swete prints `(34)` twice: beside XXV 14 and beside
+  XXVI 1 (leaf 301): `{=49:34a}` and `{=49:34b}`, letters ours. In chapters
+  1-25 the parenthesized numbers are Hebrew: his IX 1 = `(VIII) (23)`, IX 2-26
+  = `(IX) (1)`-`(25)` (leaf 267), so his own numbers there are the English;
+  `versification.tsv` converts. The table keeps the Greek order (so the
+  English chapters stand where the Greek has them), each verse labeled with
+  its Hebrew/English reference; Swete's own reference stays in
+  `verses.swete_ref` of the database.
 - **Editorial marks** in the text, such as Swete's asterisk at Gen 37:1 tied to
   a note, are apparatus and are left out.
 - **Daniel** is printed twice: the Old Greek (Chigi MS 87, `ΔΑΝΙΗΛ ΚΑΤΑ ΤΟΥΣ Ο'`)

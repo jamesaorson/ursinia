@@ -1,0 +1,54 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	249	1	Aéyer	λέ	λέγει	λέγει	TODO zoom: A R5, B OPEN
+jer	oldtestgreek00unknuoft	249	1	ϑἅγιος	3 +ἅ ϑἅγιος	ἅγιος	ἅγιος	TODO zoom: A R1, B OPEN
+jer	oldtestgreek00unknuoft	249	1	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+jer	oldtestgreek00unknuoft	249	1	αὐτοῦ" +B	αὐτοῦ	αὐτοῦ·	αὐτοῦ·	TODO zoom: A R2, B OPEN
+jer	oldtestgreek00unknuoft	249	3	φησὶν	φησὶν	φησὶν	φησὶν	TODO zoom: acute or grave before a capitalized word
+jer	oldtestgreek00unknuoft	249	4	Ακούσατε.	Ακούσατε.	Ἀκούσατε	Ἀκούσατε	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B OPEN
+jer	oldtestgreek00unknuoft	249	4	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+jer	oldtestgreek00unknuoft	249	5	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+jer	oldtestgreek00unknuoft	249	5	-ὅτάδε	-ὅτάδε	τάδε	τάδε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	249	5	πατέρες:	πατέρες:	πατέρες	πατέρες	TODO zoom: A OPEN, B OPEN
+jer	oldtestgreek00unknuoft	249	6	ὅτε	ὅτε	ὅτι	ὅτι	TODO zoom: A OPEN, B OPEN
+jer	oldtestgreek00unknuoft	249	7	ἐματαιώθησαν;	ἐματαιώθησαν; +ὁ	ἐματαιώθησαν;	ἐματαιώθησαν;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	249	7	Skal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	249	8	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+jer	oldtestgreek00unknuoft	249	10	7	ἧἣ	ᾗ	ᾗ	TODO zoom: A OPEN, B OPEN
+jer	oldtestgreek00unknuoft	249	11	7Kal	Τκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	249	11	φαγεῖν	φαγεῖν.	φαγεῖν	φαγεῖν	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	249	12	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	249	12	ἐμεάνατε	ἐμεάνατε	ἐμιάνατε	ἐμιάνατε	TODO zoom: A OPEN, B OPEN
+jer	oldtestgreek00unknuoft	249	13	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	249	13	*oi	οὶ	οἱ	οἱ	TODO zoom: A R5, B DIA
+jer	oldtestgreek00unknuoft	249	14	ἢπί-	ἢπί-	ἠπί-	ἠπί-	TODO zoom: A DIA, B DIA
+jer	oldtestgreek00unknuoft	249	15	σταντό	σταντό	σταντό	σταντό	TODO zoom: accent before an enclitic
+jer	oldtestgreek00unknuoft	249	15	pe,	με,	με,	με,	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	249	15	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	249	15	of	οἵ	οἱ	οἱ	TODO zoom: A R5, B DIA
+jer	oldtestgreek00unknuoft	249	15	émpo-	ἐπρο-	ἐπρο-	ἐπρο-	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	249	16	ϑδιὰ	ϑθδιὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	249	18	θήσομαι.	θήσομαι. +““	θήσομαι.	θήσομαι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	249	18	"διότι	διότι	διότι	διότι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	249	19	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	249	19	σφύδρα;.	σφόδρα;	σφόδρα,	σφόδρα,	TODO zoom: A OPEN, B OPEN
+jer	oldtestgreek00unknuoft	249	19	τοιαῦτα,	τοιαῦτα, +""	τοιαῦτα,	τοιαῦτα,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	249	19	“ei	εἰ	εἰ	εἰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	249	20	θεοί:	θεοί:	θεοί·	θεοί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	249	20	λαός	λαός	λαός	λαός	TODO zoom: accent before an enclitic
+jer	oldtestgreek00unknuoft	249	21	““ἐξέστη	“ἐξέστη	ἐξέστη	ἐξέστη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	249	23	36rt	᾿3ὅτε	ὅτι	ὅτι	TODO zoom: A R5, B OPEN
+jer	oldtestgreek00unknuoft	249	23	λαός	λαός	λαός	λαός	TODO zoom: accent before an enclitic
+jer	oldtestgreek00unknuoft	249	23	pou	μου"	μου·	μου·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	249	24	ὥρυξαν	ὥρυξαν	ὤρυξαν	ὤρυξαν	TODO zoom: A DIA, B DIA
+jer	oldtestgreek00unknuoft	249	24	οἱ	οἱ	οἳ	οἳ	TODO zoom: A DROP, B DROP
+jer	oldtestgreek00unknuoft	249	25	“pun	14 +"“᾿μὴ ὃ	μὴ	μὴ	TODO zoom: A R5, B OPEN
+jer	oldtestgreek00unknuoft	249	25	δοῦλός	δοῦλός	δοῦλός	δοῦλός	TODO zoom: accent before an enclitic
+jer	oldtestgreek00unknuoft	249	25	ἐστιν	ἐστιν +ΕΣ	ἐστιν	ἐστιν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	249	25	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+jer	oldtestgreek00unknuoft	249	25	οἰκογενής	οἰκογενής	οἰκογενής	οἰκογενής	TODO zoom: accent before an enclitic
+jer	oldtestgreek00unknuoft	249	26	διὰ	ὃ	διὰ	διὰ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	249	26	τί	Οἐά +Τί	τί	τί	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	249	26	"ἐπ᾽	επσπ	ἐπ᾽	ἐπ᾽	TODO zoom: A R1, B OPEN
+jer	oldtestgreek00unknuoft	249	26	αὐτὸν	»	αὐτὸν	αὐτὸν	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	249	26	ὠρύοντο	αὑτὸν +ὠρυοντο	ὠρύοντο	ὠρύοντο	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	249	26	καὶ	και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c

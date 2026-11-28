@@ -51,9 +51,10 @@ isa	oldtestgreek00unknuoft	231	24	τότε	ΤΟΤΕ	τότε	τότε	class R7 (
 isa	oldtestgreek00unknuoft	231	24	ἐν	εν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
 isa	oldtestgreek00unknuoft	231	24	TH	τῷ	τῷ	τῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
 isa	oldtestgreek00unknuoft	231	24	σκότει	σκοτει	σκότει	σκότει	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
-isa	oldtestgreek00unknuoft	231	24	Kal	Και	καὶ	καὶ	TODO zoom: A R5, B DROP
+isa	oldtestgreek00unknuoft	231	24	Kal	Και	καὶ	καὶ	image (3x): καὶ
 isa	oldtestgreek00unknuoft	231	25	ws	ὡς	ὡς	ὡς	class R5: Latin-letter substitution in OCR; c read from the image strip
 isa	oldtestgreek00unknuoft	231	25	μεσημβρία,	μεσημβρία, +“'᾽	μεσημβρία,	μεσημβρία,	class R3: OCR appended accent-row or margin junk; c read from the image strip
 isa	oldtestgreek00unknuoft	231	25	“Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 isa	oldtestgreek00unknuoft	231	25	θεός	θεός	θεός	θεός	image (3x): accent before enclitic as printed
 isa	oldtestgreek00unknuoft	231	25	pera	μετὰ	μετὰ	μετὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	231	15	-	-	συνγραφὴν	συνγραφὴν	image (3x): νγ printed (not γγ), kept as printed

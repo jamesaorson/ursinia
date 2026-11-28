@@ -22,14 +22,16 @@ isa	oldtestgreek00unknuoft	195	13	μου᾽	μου᾽	μου·	μου·	class R2
 isa	oldtestgreek00unknuoft	195	14	“as	“ὡς	ὡς	ὡς	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 isa	oldtestgreek00unknuoft	195	15	μελετῶ:	μελετῶ:	μελετῶ·	μελετῶ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 isa	oldtestgreek00unknuoft	195	15	γάρ	γάρ	γάρ	γάρ	image (3x): acute before enclitic as printed
-isa	oldtestgreek00unknuoft	195	15	pov	μὸυ	μου	μου	TODO zoom: A R5, B DIA
+isa	oldtestgreek00unknuoft	195	15	pov	μὸυ	μου	μου	image (3x): enclitic μου unaccented
 isa	oldtestgreek00unknuoft	195	16	ἐξείλατό	ἐξείλατό	ἐξείλατό	ἐξείλατό	image (3x): acute before enclitic as printed
 isa	oldtestgreek00unknuoft	195	16	ἀφείλατό	ἀφείλατό	ἀφείλατό	ἀφείλατό	image (3x): acute before enclitic as printed
-isa	oldtestgreek00unknuoft	195	17	Ψυχῆς.	Ψυχῆς.	ψυχῆς.	ψυχῆς.	TODO zoom: A DROP, B DROP
+isa	oldtestgreek00unknuoft	195	17	Ψυχῆς.	Ψυχῆς.	ψυχῆς.	ψυχῆς.	image (3x): lowercase ψ
 isa	oldtestgreek00unknuoft	195	17	"Κύριε,	"Κύριε,	Κύριε,	Κύριε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 isa	oldtestgreek00unknuoft	195	18	γειράς	γειράς	γειράς	γειράς	image (3x): acute before enclitic as printed
-isa	oldtestgreek00unknuoft	195	18	"Τεΐλου	"Τεΐλου	εἵλου	εἵλου	TODO zoom: A OPEN, B OPEN
+isa	oldtestgreek00unknuoft	195	18	"Τεΐλου	"Τεΐλου	εἵλου	εἵλου	image (3x): εἵλου, rough breathing + acute on ι; 17 is the superscript
 isa	oldtestgreek00unknuoft	195	18	γάρ	γάρ	γάρ	γάρ	image (3x): acute before enclitic as printed
 isa	oldtestgreek00unknuoft	195	20	“od	“οὐ	οὐ	οὐ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 isa	oldtestgreek00unknuoft	195	20	ἅδου	ἅδου	ᾅδου	ᾅδου	image (3x): ᾅδου rough breathing + acute + iota subscript
 isa	oldtestgreek00unknuoft	195	20	αἰνέσουσίν	αἰνέσουσίν	αἰνέσουσίν	αἰνέσουσίν	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	195	5	-	-	τῆς	τῆς	heading 38:9 second line is centered (set in from the left), not a paragraph start; left without {P}
+isa	oldtestgreek00unknuoft	195	17	-	-	Κύριε,	Κύριε,	Swete prints no verse 15: margin and superscript both go 14 -> 16 (checked zoomed)

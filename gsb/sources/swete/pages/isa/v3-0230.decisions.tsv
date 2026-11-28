@@ -1,0 +1,49 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	230	1	gov	ὅου	σου	σου	image (3x): σου unaccented; dark speck above σ is not a mark
+isa	oldtestgreek00unknuoft	230	1	κακά	κακά	κακά	κακά	image (3x): acute on last syllable before enclitic, as printed
+isa	oldtestgreek00unknuoft	230	1	σε:	σε"	σε·	σε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	230	1	Ξ̓ὅταν	Ξ̓ὅταν	ὅταν	ὅταν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	230	1	ava- +τ᾽	ἀνα-	ἀνα-	ἀνα-	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	230	2	βοήσῃς,	τ᾽ +᾿βοήσῃς;,	βοήσῃς,	βοήσῃς,	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	230	2	ἐξελέσθωσάν	ἐξελέσθωσάν	ἐξελέσθωσάν	ἐξελέσθωσάν	image (3x): acute on last syllable before enclitic, as printed
+isa	oldtestgreek00unknuoft	230	2	σου"	σου"	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	230	3	καταιγίς:	καταιγίς:	καταιγίς.	καταιγίς.	image (3x): period after καταιγίς
+isa	oldtestgreek00unknuoft	230	3	ἀντεχόμενοί	ἀντεχόμενοί	ἀντεχόμενοί	ἀντεχόμενοί	image (3x): acute on last syllable before enclitic, as printed
+isa	oldtestgreek00unknuoft	230	4	ἅγιόν	ἅγιόν	ἅγιόν	ἅγιόν	image (3x): acute on last syllable before enclitic, as printed
+isa	oldtestgreek00unknuoft	230	4	μου,	μόυ,	μου,	μου,	image (3x): μου unaccented
+isa	oldtestgreek00unknuoft	230	4	“Kal	τ. +"καὶ	καὶ	καὶ	image (3x): word as written; superscript verse number is not text
+isa	oldtestgreek00unknuoft	230	4	ἐροῦ-	ἐροῦ- +τ4	ἐροῦ-	ἐροῦ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	230	5	14 +ow	σιν	σιν	σιν	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	230	6	μου. +5	μου.	μου.	μου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	230	6	Τάδε	᾿57Τάδε	Τάδε	Τάδε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	230	7	“κατοικῶν	κατοικῶν	κατοικῶν	κατοικῶν	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	230	7	Ἅγιος	Ἅγιος	Ἅγιος	Ἅγιος	image (3x): rough + acute (open curl then rising stroke) on capital Α
+isa	oldtestgreek00unknuoft	230	7	ἐν.	ἐν.	ἐν	ἐν	image (3x): no point after ἐν
+isa	oldtestgreek00unknuoft	230	7	Ὕψιστος	Ὕψιστος	Ὕψιστος	Ὕψιστος	image (3x): rough + acute (open curl then rising stroke) on capital Υ
+isa	oldtestgreek00unknuoft	230	9	“Θὺκ	“Οὐκ	Οὐκ	Οὐκ	image (3x): capital Ο, smooth + grave on υ; superscript 16 not text
+isa	oldtestgreek00unknuoft	230	9	αἰῶνα +τό	αἰῶνα +τό	αἰῶνα	αἰῶνα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	230	10	ὑμῖν:	ὑμῖν:	ὑμῖν·	ὑμῖν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	230	11	"7δι᾽	ι	δι᾽	δι᾽	image (3x): word as written; superscript verse number is not text
+isa	oldtestgreek00unknuoft	230	11	dpap-	ἅμαρ-	ἁμαρ-	ἁμαρ-	image (6x): rough breathing on α, same shape as on ἁγίοις on this page; no accent
+isa	oldtestgreek00unknuoft	230	12	βραχύ	βραχύ	βραχύ	βραχύ	image (3x): acute on last syllable before enclitic, as printed
+isa	oldtestgreek00unknuoft	230	13	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): acute on last syllable before enclitic, as printed
+isa	oldtestgreek00unknuoft	230	13	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	230	13	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	230	13	ἐλυπήθη,	ἐλυπήθη;	ἐλυπήθη,	ἐλυπήθη,	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	230	14	τὰς	“τὰς	τὰς	τὰς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	230	15	ἀληθινήν, +9	ἀληθινήν, +᾿ϑ	ἀληθινήν,	ἀληθινήν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	230	16	οὖσιν.	οὖσιν. +᾿	οὖσιν.	οὖσιν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	230	16	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	230	17	“lacopa	Ἰάσομαι	Ἰάσομαι	Ἰάσομαι	image (3x): smooth breathing (apostrophe) on capital Ι
+isa	oldtestgreek00unknuoft	230	17	αὐτούς:	αὐτούς:	αὐτούς·	αὐτούς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	230	17	oi	““οἱ	οἱ	οἱ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	230	17	ἀνα- +20	ἀνα- +20	ἀνα-	ἀνα-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	230	18	“᾿οὐκ	“οὐκ	οὐκ	οὐκ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	230	18	τοῖς +2x	τοῖς +“1	τοῖς	τοῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	230	20	: +ἷ VAvaBdnoov	ἷ +᾿᾽Ἀναβόησον	Ἀναβόησον	Ἀναβόησον	image (3x): smooth breathing (apostrophe) on capital Α; superscript 1 not text
+isa	oldtestgreek00unknuoft	230	21	φωνήν	φωνήν	φωνήν	φωνήν	image (3x): acute on last syllable before enclitic, as printed
+isa	oldtestgreek00unknuoft	230	22	τῷ:	τῷ	τῷ	τῷ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	230	22	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing (apostrophe) on capital Ι
+isa	oldtestgreek00unknuoft	230	22	“ἐμὲ	“ἐμὲ	ἐμὲ	ἐμὲ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	230	22	ζη- +2	ζη- +ὁ	ζη-	ζη-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	230	11	-	-	ἁμαρ-	ἁμαρ-	ambiguous: breathing has a short rising tail; read rough breathing, no acute (same glyph as ἁγίοις line 7)

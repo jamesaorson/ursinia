@@ -522,7 +522,11 @@ preposition governs and an article/next-word pair that agrees."
     (do ((i 0 (+ i 1))) ((>= i (- n 1)))
       (let* ((j (let skip ((j (+ i 1)))
                   ;; past δέ, γάρ: τῷ δὲ τρισκαιδεκάτῳ ἔτει
-                  (if (and (< (+ j 1) n) (member (form-key (word-text* (list-ref words j))) '("δε" "δὲ" "δέ" "γαρ" "γάρ" "μεν" "μέν" "οὖν" "ουν")))
+                  (if (and (< (+ j 1) n)
+                           (or (member (form-key (word-text* (list-ref words j))) '("δε" "δὲ" "δέ" "γαρ" "γάρ" "μεν" "μέν" "οὖν" "ουν"))
+                               ;; past an indeclinable numeral to its noun: αἱ ἑπτὰ βόες
+                               (let ((cs (vector-ref cands j)))
+                                 (and (pair? cs) (every (lambda (r) (and (string? (second r)) (string-suffix? "-NUI" (second r)))) cs)))))
                       (skip (+ j 1))
                       j)))
              (a (vector-ref cands i)) (b (vector-ref cands j)))
@@ -884,7 +888,7 @@ Clauses):
                 ;; Ῥαχὴλ τῇ θυγατρὶ αὐτοῦ: after a preposition of several cases or
                 ;; another name, a name takes the case of the person noun in
                 ;; apposition after it (article + noun)
-                ((and (is? x "N") (or (is? p "PREP") (caseless-name? p)) (string-null? (u x 'post))
+                ((and (is? x "N") (or (is? p "PREP") (caseless-name? p) (name-like? env p)) (string-null? (u x 'post))
                       (apposition-case env (at (+ i 1)) (at (+ i 2))))
                  => (lambda (c) (vector-set! v i (u+ x 'tp (cons (cons 'case c) (tp x))))))
                 ((and (is? p "PREP") (assoc (lemma p) %prep-case))
@@ -897,7 +901,9 @@ Clauses):
                 ;; Teman": the name is the title's case), and after a nominative
                 ;; in a span whose verb takes a dative object and has none (Ὤφθη δὲ
                 ;; ὁ θεὸς Ἰακώβ "God appeared to Jacob")
+                ;; (not after another name: εἶπεν δὲ Ἰούδας Θαμάρ)
                 ((and (is? x "N") (is? p "N") (not (tag-field (tp p) 'indeclinable)) (not (u p 'phrase))
+                      (not (and (name-like? env p) (not (lemma-in? p "θεός"))))
                       (string-null? (u p 'post)))
                  (vector-set! v i (u+ x 'tp (cons (cons 'case (cond ((and (field (unit-sense env p) 'apposition) (case-of p) (eqv? (num-of p) #\S)) (case-of p))
                                                                      ((and (eqv? (case-of p) #\N) (open-dative? env v i)) #\D)
@@ -1063,6 +1069,19 @@ Clauses):
         (when (and (string? (u x 'tag)) (string-prefix? "S-" (u x 'tag)) (is? (at (- i 1)) "T") (not (u x 'after))
                    (not (and nx (is? nx "N") (agree? x nx))))
           (vector-set! v i (u+ x 'after (string-append "[" (if (eqv? (gen-of x) #\N) "thing" "one") (if (eqv? (num-of x) #\P) "s" "") "]"))))))
+    ;; οὐκ ἐξαρεῖ οὐθείς, οὐκ ἐπέγνω ... οὐθέν: after a negation in its stretch
+    ;; οὐδείς is "anyone"/"anything" (the Greek doubles the negation for
+    ;; emphasis; English "not ... no one" would cancel it)
+    (do ((i 1 (+ i 1))) ((>= i n))
+      (let ((x (at i)))
+        (when (and (lemma-in? x "οὐδείς" "οὐθείς" "μηδείς") (memq (u x 'sense) '(#f nothing no-one))
+                   (let back ((k (- i 1)))
+                     (let ((y (at k)))
+                       (cond ((or (not y) (not (string-null? (u y 'post)))) #f)
+                             ((lemma-in? y "οὐ" "μή" "οὐδέ" "μηδέ") #t)
+                             (else (back (- k 1)))))))
+          (let ((s (if (eqv? (gen-of x) #\N) 'anything 'anyone)))
+            (when (sense-of env (lemma x) s) (vector-set! v i (set-sense x s)))))))
     ;; ἄν with a past indicative is unreal, "would have" (ἐξαπέστειλα ἄν σε
     ;; "I would have sent you out"), with an optative potential, "would" (πῶς
     ;; ἂν κλέψαιμεν "how would we steal"); ἄν itself is unrendered. With a
@@ -1218,7 +1237,14 @@ relative pronoun whose nearest agreeing noun is a person ('person-ante)."
                    ;; article; a relative followed by its own noun (ᾗ ἡμέρᾳ) is
                    ;; adjectival and looks at no antecedent.
                    ((is? x "R")
-                    (let ((a (find (lambda (y) (and (or (is? y "N") (u y 'phrase)) (case-of y))) prev))
+                    ;; (the nearest noun of its number and gender: τῷ θεῷ ... ἐν
+                    ;; ἡμέρᾳ θλίψεως, ὃς ἦν μετ’ ἐμοῦ "who")
+                    ;; (not for a form of two genders, οὗ, ᾧ: then the nearest noun)
+                    (let ((a (find (lambda (y) (and (or (is? y "N") (u y 'phrase)) (case-of y)
+                                                    (or (mn-ambiguous? x)
+                                                        (and (eqv? (num-of y) (num-of x))
+                                                             (memv (gen-of y) (list (gen-of x) #f))))))
+                                   prev))
                           (own-noun? (and (pair? (cdr us)) (is? (cadr us) "N") (agree? x (cadr us)))))
                       (if (and a (not own-noun?) (person-noun? env a)
                                (eqv? (num-of a) (num-of x))
@@ -1322,7 +1348,7 @@ or another accusative follows (its object): μετὰ τὸ γεννῆσαι α
                  (sense (unit-sense env inf))
                  (intrans (or (lemma-in? inf "εἰμί") (and sense (assq 'intransitive (cdr sense)))
                               ;; a true passive (not a passive deponent, V-AON: μνησθῆναι)
-                              (and inf (eqv? (tag-field (tp inf) 'voice) #\P) (not (equal? (field1 sense 'voice) 'active))))))
+                              (and inf (eqv? (tag-field (tp inf) 'voice) #\P) (not (active-voice? sense (tag-field (tp inf) 'tense)))))))
             ;; πρὸ τοῦ σε εἰσελθεῖν: the subject before the infinitive
             (when pre-subj (vector-set! v (+ i 1) (u+ (at (+ i 1)) 'role 'inf-subject)))
             (when (infinitive? inf)
@@ -1690,8 +1716,15 @@ article), attributive adjectives before their noun."
            ((and (eq? (u x 'role) 'attributive) (is? nx "A") p)
             (let* ((art? (and pp (is? pp "T") (agree? pp p)))
                    (to (- i 1))
-                   (span (move-range (list-set-copy span (+ i 1) (u+ nx 'moved #t)) i (+ i 2) to)))
-              (loop (if art? span (transfer-helper span to (+ to 2))) (+ i 2))))
+                   ;; οἱ λεπτοὶ καὶ ἀνεμόφθοροι: adjectives joined by καί move together
+                   (end (let more ((e (+ i 2)))
+                          (if (and (at (+ e 1)) (lemma-in? (at e) "καί") (is? (at (+ e 1)) "A") (agree? nx (at (+ e 1)))
+                                   (string-null? (u (at (- e 1)) 'post)) (string-null? (u (at e) 'post)))
+                              (more (+ e 2))
+                              e)))
+                   (span (fold (lambda (k span) (list-set-copy span k (u+ (list-ref span k) 'moved #t))) span (iota (- end i 1) (+ i 1))))
+                   (span (move-range span i end to)))
+              (loop (if art? span (transfer-helper span to (+ to (- end i)))) end)))
            ;; anarthrous noun + adjective (or one-word participle): before it.
            ((and (is? x "N") (not (u x 'phrase)) (not (and p (is? p "T") (agree? p x)))
                  nx (agree? x nx) (not (u nx 'moved))
@@ -1765,6 +1798,7 @@ direct speech."
        (or (not (or (participle? x) (and (is? x "A") (not (u x 'phrase)))))
            (and prev (is? prev "T") (agree? prev x))
            (lemma-in? x "πᾶς")   ; πᾶς ὁ λαός
+           (lemma-in? x "οὐδείς" "οὐθείς" "μηδείς")   ; καὶ οὐθεὶς ἦν "and no one was"
            (u x 'moved))   ; an adjective moved before its noun (θεοὶ ἕτεροι)
        (or (eqv? (case-of x) #\N)
            (and (is? x "N") (not (case-of x)))
@@ -1841,7 +1875,9 @@ indeclinable name followed by a person noun in another case (ἐκάλεσεν �
                          (and (is? x "D") (word? nx x))
                          (and (is? x "A") nx (or (and (is? nx "T") (agree? x nx)) (word? nx x)
                                                  ;; πᾶς αὐτῶν ὁ κόσμος, the possessive moved forward
-                                                 (and (eq? (u nx 'role) 'possessive) (u nx 'moved))))))
+                                                 (and (eq? (u nx 'role) 'possessive) (u nx 'moved)
+                                                      ;; (its own noun: not οὐθεὶς | αὐτοῦ τὴν χεῖρα)
+                                                      (let ((noun (np-noun span (+ k 1)))) (and noun (agree? x noun))))))))
                 (loop (+ k 1) 'pre coord head starts (or arth (is? x "T"))))
                (else (loop (+ k 1) 'post coord (or head x) starts (or arth (and p (is? p "T") (agree? p x)))))))
         ((post)
@@ -1904,7 +1940,11 @@ indeclinable name followed by a person noun in another case (ἐκάλεσεν �
                ((and (lemma-in? x "καί") p (eqv? (case-of p) #\G) (not (eqv? want #\G)) (in-cl? nx)
                      (eqv? (case-of nx) #\G) (is? nx "T" "N" "A"))
                 (loop (+ k 1) 'post coord head starts arth))
-               ((and (not copula?) (is? head "N" "P")
+               ;; (with a copula only after a name, article first: γένηται Σηλὼμ
+               ;; ὁ υἱός μου "Shelah my son")
+               ((and (or (not copula?) (and (name-like? env head) (not (lemma-in? head "θεός"))
+                                            (or (is? x "T") (and (eq? (u x 'role) 'possessive) (u x 'moved)))))
+                     (is? head "N" "P")
                      ;; an apposition names a person (Κύριον | τὰς πόλεις is the object)
                      env (let ((noun (np-noun span k))) (and noun (person-noun? env noun)))
                      (or (and (or (is? x "T") (and (is? x "N") (not (caseless-name? x))))
@@ -2312,7 +2352,12 @@ oblique noun, two nominatives), leave the Greek order and mark the verb
                           (and (pair? np)
                                (or (and (lemma-in? x "εἰμί")
                                         (not (or (is? s "T" "D" "P") (and (eq? (u s 'role) 'possessive) (u s 'moved))
-                                                 (name-like? env s))))
+                                                 (name-like? env s)
+                                                 ;; ἦν Κύριος μετὰ Ἰωσήφ: the divine name
+                                                 (and (lemma-in? s "κύριος") (not (u s 'human-lord)))
+                                                 ;; τῷ δὲ Λαβὰν ἦσαν δύο θυγατέρες: with a dative
+                                                 ;; possessor it is existential, the noun the subject
+                                                 (dative-possessor?))))
                                    (and (lemma-in? x "γίνομαι") (predicate-person? env span j) (not (dative-possessor?))))))
                          (np (if nominative-after #f np))
                          (end (and (pair? np) (first np)))
@@ -2388,7 +2433,23 @@ oblique noun, two nominatives), leave the Greek order and mark the verb
                                     (u+ x 'agree-number #\P)
                                     x))
                              (span (move-range (list-set-copy span i (u+ x 'subj-moved #t)) start end i))
-                             (vi (+ i (- end start))))
+                             (vi (+ i (- end start)))
+                             ;; ἕως μέγας γένηται Σηλὼμ ὁ υἱός μου: a predicate adjective
+                             ;; right before εἰμί/γίνομαι goes after it once the subject
+                             ;; has moved: "until Shelah my son come to be great"
+                             ;; (not an imperative: Μὴ σκληρὸν ἔστω τὸ ῥῆμα keeps "let";
+                             ;; nor one of two joined: μικραὶ καὶ πονηραί)
+                             (adj (and copula (not imper) (> i clause-start) (at (- i 1))
+                                       (not (lemma-in? (at (- i 2)) "καί"))
+                                       (at (- i 1))))
+                             (pred? (and adj (is? adj "A") (eqv? (case-of adj) #\N) (not (u adj 'moved)) (not (numeral? adj))
+                                         (not (apply lemma-in? adj "πᾶς" "οὐδείς" "οὐθείς" "μηδείς" '()))
+                                         (not (and (at (- i 2)) (is? (at (- i 2)) "T")))
+                                         (not (u adj 'speech))))
+                             (span (if pred?
+                                       (let ((rest (append (take span (- i 1)) (drop span i))))
+                                         (append (take rest vi) (list adj) (drop rest vi)))
+                                       span)))
                         (if imper
                             (loop (insert-let span vi i x) (+ vi 2))
                             (loop span (+ vi 1)))))
@@ -2400,8 +2461,9 @@ oblique noun, two nominatives), leave the Greek order and mark the verb
                       (loop (list-set-copy span i (u+ x 'subj (or (and nominative-after (lemma-in? x "γίνομαι") (gender-pronoun s))
                                                                   ;; ποῦ ἐστιν Ἅβελ: the nominative after εἰμί is enough
                                                                   (and (or nominative-after neuter-before) "")
-                                                                  ;; true impersonals (ἐγένετο "it came to be")
-                                                                  (field1 (unit-sense env x) 'subject)
+                                                                  ;; true impersonals (ἐγένετο "it came to be"), singular
+                                                                  ;; only (οὐ διάδηλοι ἐγένοντο: "they")
+                                                                  (and (eqv? number #\S) (field1 (unit-sense env x) 'subject))
                                                                   ;; καὶ συνέλαβεν: joined to the verb before, no pronoun
                                                                   (and (u x 'kai-joined) (not imper) "")
                                                                   subj
@@ -2433,6 +2495,17 @@ there is none): nominatives with their genitives (πνεῦμα θεοῦ)."
                      (else "are")))
     (else (if (and (memv person '(#\1 #\3)) (eqv? number #\S)) "was" "were"))))
 
+(define (active-voice? sense tense)
+  "A passive form of SENSE rendered active: (voice active) always (ὁράω
+appear: ὤφθη); (voice middle) only where the middle and passive share their
+forms, the present, imperfect, perfect and pluperfect (ἐπικαλεῖσθαι \"to call
+upon\"), not the aorist or future passive (ἐπικληθήσεται \"will be called
+upon\")."
+  (case (field1 sense 'voice)
+    ((active) #t)
+    ((middle) (and (memv tense '(#\P #\I #\R #\L)) #t))
+    (else #f)))
+
 (define (verb-base sense)
   "(head tail past pp) of a verb sense: its (verb ...) field or first gloss."
   (let* ((v (field sense 'verb))
@@ -2461,7 +2534,7 @@ for a third person imperative whose subject stands between, else #f."
                ;; (or a coordinated) subject is plural in English (find-subjects)
                (number (or (u x 'agree-number) (tag-field t 'number) #\S))
                (be? (string=? head "be"))
-               (passive (and (eqv? voice #\P) (not (equal? (field1 sense 'voice) 'active)) (not be?)))
+               (passive (and (eqv? voice #\P) (not (active-voice? sense tense)) (not be?)))
                (neg (u x 'neg))
                (oida (lemma-in? x "οἶδα"))
                (tense (cond ((and oida (eqv? tense #\R)) #\P) ((and oida (eqv? tense #\L)) #\A) (else tense))))

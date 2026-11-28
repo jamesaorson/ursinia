@@ -1,0 +1,38 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	150	1	"πάντες	το, +"πάντες	πάντες	πάντες	image (3x): word as written; superscript verse number not text; σου and σε unaccented enclitics; ὁ/οἱ rough only; ἀπολῶ has no iota subscript
+isa	oldtestgreek00unknuoft	150	2	ἐροῦσίν	ἐροῦσίν	ἐροῦσίν	ἐροῦσίν	image (3x): acute on final syllable before enclitic
+isa	oldtestgreek00unknuoft	150	3	κατελογίσθης.	κατέλογίσθης:	κατελογίσθης.	κατελογίσθης.	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	150	3	“KxaréBn	"“᾿κατέβη	κατέβη	κατέβη	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	150	3	ἅδου	ἅδου	ᾅδου	ᾅδου	image (3x): rough + acute and iota subscript under α
+isa	oldtestgreek00unknuoft	150	4	σοὺ"	σοὺ"	σου·	σου·	image (3x): word as written; superscript verse number not text; σου and σε unaccented enclitics; ὁ/οἱ rough only; ἀπολῶ has no iota subscript
+isa	oldtestgreek00unknuoft	150	4	cov	σοῦ	σου	σου	image (3x): word as written; superscript verse number not text; σου and σε unaccented enclitics; ὁ/οἱ rough only; ἀπολῶ has no iota subscript
+isa	oldtestgreek00unknuoft	150	4	κατακάλυμμά	κατακάλυμμά	κατακάλυμμά	κατακάλυμμά	image (3x): acute on final syllable before enclitic
+isa	oldtestgreek00unknuoft	150	5	“rads	"““πῶς	πῶς	πῶς	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	150	5	6	ὃ	ὁ	ὁ	image (3x): word as written; superscript verse number not text; σου and σε unaccented enclitics; ὁ/οἱ rough only; ἀπολῶ has no iota subscript
+isa	oldtestgreek00unknuoft	150	6	τέλλων;	τέλλχων;	τέλλων;	τέλλων;	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	150	7	Bod	βϑσὺ	σὺ	σὺ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	150	7	Eis	Ἐΐϊς	Εἰς	Εἰς	image (3x): smooth breathing + circumflex on ι of Εἰς (capitalized quotation)
+isa	oldtestgreek00unknuoft	150	9	“dvaBnoopa	"᾿ἀναβήσομαι	ἀναβήσομαι	ἀναβήσομαι	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	150	10	νεφῶν,	νεφῶν, +.	νεφῶν,	νεφῶν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	150	10	"νῦν	᾿"γῦν	νῦν	νῦν	image (3x): word as written; superscript verse number not text; σου and σε unaccented enclitics; ὁ/οἱ rough only; ἀπολῶ has no iota subscript
+isa	oldtestgreek00unknuoft	150	10	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	150	10	ἅδην	ἅδην	ᾅδην	ᾅδην	image (3x): rough + acute and iota subscript under α
+isa	oldtestgreek00unknuoft	150	11	“ot	"οὶ	οἱ	οἱ	image (3x): word as written; superscript verse number not text; σου and σε unaccented enclitics; ὁ/οἱ rough only; ἀπολῶ has no iota subscript
+isa	oldtestgreek00unknuoft	150	11	ce	σὲ	σε	σε	image (3x): word as written; superscript verse number not text; σου and σε unaccented enclitics; ὁ/οἱ rough only; ἀπολῶ has no iota subscript
+isa	oldtestgreek00unknuoft	150	12	Οὗτος	Οὗτος	Οὗτος	Οὗτος	image (3x): rough breathing + circumflex on υ of Οὗτος
+isa	oldtestgreek00unknuoft	150	13	76	λ7ὁ	ὁ	ὁ	image (3x): word as written; superscript verse number not text; σου and σε unaccented enclitics; ὁ/οἱ rough only; ἀπολῶ has no iota subscript
+isa	oldtestgreek00unknuoft	150	13	"θεὶς	"θεὶς	θεὶς	θεὶς	image (3x): word as written; superscript verse number not text; σου and σε unaccented enclitics; ὁ/οἱ rough only; ἀπολῶ has no iota subscript
+isa	oldtestgreek00unknuoft	150	14	ἔλυσεν. +8	ελῦύσεν.	ἔλυσεν.	ἔλυσεν.	image (3x): word as written; superscript verse number not text; σου and σε unaccented enclitics; ὁ/οἱ rough only; ἀπολῶ has no iota subscript
+isa	oldtestgreek00unknuoft	150	15	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	150	15	Mad	σὺ	σὺ	σὺ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	150	16	as	ὡς	ὡς	ὡς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	150	17	ἅδου.	ἅδου.	ᾅδου.	ᾅδου.	image (3x): rough + acute and iota subscript under α
+isa	oldtestgreek00unknuoft	150	18	"“"οὕτως	“᾿οὕτως	οὕτως	οὕτως	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	150	18	ἔ	ἔσῃ	ἔσῃ	ἔσῃ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	150	18	θα-	καθα-	καθα-	καθα-	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	150	19	λαόν	λαόν	λαόν	λαόν	image (3x): acute on final syllable before enclitic
+isa	oldtestgreek00unknuoft	150	19	ἀπέκτεινας"	ἀπέκτεινας"	ἀπέκτεινας·	ἀπέκτεινας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	150	20	“ἑτοίμασον	“ἑτοίμασον	ἑτοίμασον	ἑτοίμασον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	150	23	*xal	"““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	150	23	ἀπολῶ	ἀπολῷ	ἀπολῶ	ἀπολῶ	image (3x): word as written; superscript verse number not text; σου and σε unaccented enclitics; ὁ/οἱ rough only; ἀπολῶ has no iota subscript
+isa	oldtestgreek00unknuoft	150	13	-	-	ὅλην	ὅλην	ambiguous: show-through from the verso blurs the first letter and its breathing; read ὅλην (rough + acute)

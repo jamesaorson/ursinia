@@ -1,0 +1,76 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	159	1	ἔσται +B	ἔσται	ἔσται	ἔσται	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	159	2	ὁδὸς	ὁδὸς	ὁδὸς	ὁδὸς	image (3x): grave before a capitalized name (not a quotation)
+isa	oldtestgreek00unknuoft	159	2	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	2	πρὸς	πρὸς +ΕΣ	πρὸς	πρὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	159	2	Ἀσσυρίους,	Ἀσσυρίους,	Ἀσσυρίους,	Ἀσσυρίους,	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	2	εἰσελεύσονται	εἰσελεύσονται +»	εἰσελεύσονται	εἰσελεύσονται	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	159	2	Ἀσσύριοι	Ἀσσύριοι	Ἀσσύριοι	Ἀσσύριοι	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	3	Αἴγυπτον:	Αἴγυπτον:	Αἴγυπτον·	Αἴγυπτον·	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	3	Αἰγύπτιοι	Αἰγύπτιοι	Αἰγύπτιοι	Αἰγύπτιοι	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	3	Ἀσσυρίους,	Ἀσσυρίους,	Ἀσσυρίους,	Ἀσσυρίους,	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	4	Αἰγύπτιοι"	Αἰγύπτιοι"	Αἰγύπτιοι	Αἰγύπτιοι	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	4	Ἀσσυρίοις.	Ἀσσυρίοις. +Ξ	Ἀσσυρίοις.	Ἀσσυρίοις.	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	4	ἐσται	ἔσται	ἔσται	ἔσται	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	159	5	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	5	Αἰγυπτίοις	Αἰγυπτίοις	Αἰγυπτίοις	Αἰγυπτίοις	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	5	Ἀσσυρίοις,	Ἀσσυρίοις,	Ἀσσυρίοις,	Ἀσσυρίοις,	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	6	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	159	6	“ἣν	“ἣν	ἣν	ἣν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	159	6	Ἐὐλογημένος	Ἐὐλογημένος	Εὐλογημένος	Εὐλογημένος	image (3x): smooth breathing over υ, none on E
+isa	oldtestgreek00unknuoft	159	6	ads	λαός	λαός	λαός	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	159	7	6	ὃ	ὁ	ὁ	image (3x): rough breathing only, no accent
+isa	oldtestgreek00unknuoft	159	7	Αἰγύπτῳ	Δἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	7	Ἀσσυρίοις,	Ἀσσυρίοις,	Ἀσσυρίοις,	Ἀσσυρίοις,	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	7	ἣ	ἣ	ἡ	ἡ	image (3x): rough breathing only, no accent
+isa	oldtestgreek00unknuoft	159	8	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	9	"Τοῦ	Τοῦ	Τοῦ	Τοῦ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	159	9	ἔτους	ἐτοὺς	ἔτους	ἔτους	image (3x): word as in page file; OCR lost or misread it
+isa	oldtestgreek00unknuoft	159	9	"Αζωτον,	"λζωτον,	Ἄζωτον,	Ἄζωτον,	image (3x): smooth breathing + acute on Ἄ (apostrophe then rising stroke)
+isa	oldtestgreek00unknuoft	159	10	Ἀρνὰ	Ἀρνὰ	Ἀρνὰ	Ἀρνὰ	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	10	βασιλέως +>	βασιλέως	βασιλέως	βασιλέως	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	159	10	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	10	᾿ +"Δζωτον	"Δζωτον	Ἄζωτον	Ἄζωτον	image (3x): smooth breathing + acute on Ἄ (apostrophe then rising stroke)
+isa	oldtestgreek00unknuoft	159	11	"τότε +’	"τότε +'	τότε	τότε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	159	11	"Hoaiav	Ἤσαίαν	Ἠσαίαν	Ἠσαίαν	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	11	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): grave before a capitalized name (not a quotation)
+isa	oldtestgreek00unknuoft	159	11	Ἀμὼς	Ἀμὼς	Ἀμὼς	Ἀμὼς	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	12	cov,	σοὺ,	σου,	σου,	image (3x): word as in page file; OCR lost or misread it
+isa	oldtestgreek00unknuoft	159	13	σανδάλιά	σανδάλιά	σανδάλιά	σανδάλιά	image (3x): acute before enclitic as printed
+isa	oldtestgreek00unknuoft	159	13	cov	σου	σου	σου	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	159	14	53καὶ	53καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	159	14	“Ov	Ὃν	Ὃν	Ὃν	image (3x): compact closed mark = rough + grave, Ὃν
+isa	oldtestgreek00unknuoft	159	15	mov	πὸν	πον	πον	image (3x): word as in page file; OCR lost or misread it
+isa	oldtestgreek00unknuoft	159	15	ὃ	ὃ	ὁ	ὁ	image (3x): rough breathing only, no accent
+isa	oldtestgreek00unknuoft	159	15	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	159	15	“Hoaias	Ἢσαΐας	Ἠσαίας	Ἠσαίας	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	16	Αἰγυπτίοις	Αἰγυπτίοις	Αἰγυπτίοις	Αἰγυπτίοις	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	17	Αἰθίοψιν:	Αἰθίοψιν:	Αἰθίοψιν·	Αἰθίοψιν·	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	17	“ὅτι	“ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	159	17	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave before a capitalized name (not a quotation)
+isa	oldtestgreek00unknuoft	159	17	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	18	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	18	Αἰθιόπων,	Αἰθιόπων,	Αἰθιόπων,	Αἰθιόπων,	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	18	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	159	19	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	19	ai-	αἷ-	αἰ-	αἰ-	image (3x): word as in page file; OCR lost or misread it
+isa	oldtestgreek00unknuoft	159	20	Αἰθίοψιν,	Αἰθίοψιν,	Αἰθίοψιν,	Αἰθίοψιν,	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	20	πεποι-	πέεποι-	πεποι-	πεποι-	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	159	21	Odres	θότες	θότες	θότες	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	159	21	Αἰγύπτιοι,	Αἰγύπτιοι,	Αἰγύπτιοι,	Αἰγύπτιοι,	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	21	ot	οἱ	οἳ	οἳ	image (3x): compact closed mark over ι = rough + grave, οἳ
+isa	oldtestgreek00unknuoft	159	21	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	159	22	∅	κουντες	κοῦντες	κοῦντες	image (3x): word as in page file; OCR lost or misread it
+isa	oldtestgreek00unknuoft	159	22	∅	εν	ἐν	ἐν	image (3x): word as in page file; OCR lost or misread it
+isa	oldtestgreek00unknuoft	159	22	∅	Τῇ	τῇ	τῇ	image (3x): word as in page file; OCR lost or misread it
+isa	oldtestgreek00unknuoft	159	22	∅	νησῷ	νήσῳ	νήσῳ	image (3x): word as in page file; OCR lost or misread it
+isa	oldtestgreek00unknuoft	159	22	∅	Ταυτῇ	ταύτῃ	ταύτῃ	image (3x): word as in page file; OCR lost or misread it
+isa	oldtestgreek00unknuoft	159	22	∅	εν	ἐν	ἐν	image (3x): word as in page file; OCR lost or misread it
+isa	oldtestgreek00unknuoft	159	22	∅	τῇῃ	τῇ	τῇ	image (3x): word as in page file; OCR lost or misread it
+isa	oldtestgreek00unknuoft	159	22	∅	ἡμερᾳ	ἡμέρᾳ	ἡμέρᾳ	image (3x): word as in page file; OCR lost or misread it
+isa	oldtestgreek00unknuoft	159	22	∅	εΚεινῇ +᾽	ἐκείνῃ	ἐκείνῃ	image (3x): word as in page file; OCR lost or misread it
+isa	oldtestgreek00unknuoft	159	22	∅	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on capital
+isa	oldtestgreek00unknuoft	159	22	∅	ἡμεις	ἡμεῖς	ἡμεῖς	image (3x): word as in page file; OCR lost or misread it
+isa	oldtestgreek00unknuoft	159	22	∅	μεν	ἦμεν	ἦμεν	image (3x): word as in page file; OCR lost or misread it
+isa	oldtestgreek00unknuoft	159	19	-	-	αἰ-	αἰ-	ambiguous (8x): mark over ι is a single stroke with heavier top, read smooth breathing (no accent)
+isa	oldtestgreek00unknuoft	159	11	-	-	ἐλάλησεν	ἐλάλησεν	image: raised speck between τότε and ἐλάλησεν, not a point

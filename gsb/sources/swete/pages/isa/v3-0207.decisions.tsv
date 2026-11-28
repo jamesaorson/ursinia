@@ -1,0 +1,32 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	207	2	αὐτούς +-	αὐτούς +-	αὐτούς·	αὐτούς·	image (3x): as transcribed; OCR noise (superscripts, ano teleia, specks)
+isa	oldtestgreek00unknuoft	207	2	"οἱ	"οἱ	οἱ	οἱ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	207	3	“Kal	"“᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	207	3	ὅθεν.	ὅθεν.	ὅθεν	ὅθεν	image (3x): as transcribed; OCR noise (superscripts, ano teleia, specks)
+isa	oldtestgreek00unknuoft	207	4	ἀνθρώπων:	ἀνθρώπων:	ἀνθρώπων·	ἀνθρώπων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	207	5	dua,	ἅμα,	ἅμα,	ἅμα,	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	207	5	“dre	"ὅτι	ὅτι	ὅτι	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	207	6	ὥξυνεν	ὥξυνεν	ὤξυνεν	ὤξυνεν	image (3x): smooth + acute (apostrophe then rising stroke), ὤ
+isa	oldtestgreek00unknuoft	207	7	αὐτοῦ“	αὐτοῦ“	αὐτοῦ·	αὐτοῦ·	image (3x): as transcribed; OCR noise (superscripts, ano teleia, specks)
+isa	oldtestgreek00unknuoft	207	8	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	207	8	∅	πεινάσει	πεινάσει	πεινάσει	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	207	8	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	207	8	∅	ἀσθενήσει	ἀσθενήσει	ἀσθενήσει	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	207	8	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	207	8	∅	οὐ	οὐ	οὐ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	207	8	∅	μὴ	μὴ	μὴ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	207	8	∅	πίῃ	πίῃ	πίῃ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	207	8	∅	ὕδωρ:	ὕδωρ.	ὕδωρ.	image (3x): as transcribed; OCR noise (superscripts, ano teleia, specks)
+isa	oldtestgreek00unknuoft	207	8	∅	3 +"5ἐκλεξάμενος	ἐκλεξάμενος	ἐκλεξάμενος	image (3x): as transcribed; OCR noise (superscripts, ano teleia, specks)
+isa	oldtestgreek00unknuoft	207	11	““ἔκοψεν	τ4 +“ἔκοψεν	ἔκοψεν	ἔκοψεν	image (3x): as transcribed; OCR noise (superscripts, ano teleia, specks)
+isa	oldtestgreek00unknuoft	207	12	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	207	12	Siva	ἵνα	ἵνα	ἵνα	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	207	12	7	ἢ	ᾖ	ᾖ	image (3x): η with smooth + circumflex and iota subscript, ᾖ
+isa	oldtestgreek00unknuoft	207	12	καῦσιν	καῦσιν +-	καῦσιν·	καῦσιν·	image (3x): as transcribed; OCR noise (superscripts, ano teleia, specks)
+isa	oldtestgreek00unknuoft	207	12	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	207	13	αὐτῶν +"	αὐτῶν +"	αὐτῶν·	αὐτῶν·	image (3x): as transcribed; OCR noise (superscripts, ano teleia, specks)
+isa	oldtestgreek00unknuoft	207	13	de	δὲ	δὲ	δὲ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	207	14	αὐτούς: +"5	αὐτούς: +"ὃ	αὐτούς.	αὐτούς.	image (3x): as transcribed; OCR noise (superscripts, ano teleia, specks)
+isa	oldtestgreek00unknuoft	207	17	“HOU	δύ	Ἡδύ	Ἡδύ	image (3x): rough breathing on Η (open reversed-comma), acute on Ἡδύ before enclitic μοι
+isa	oldtestgreek00unknuoft	207	17	πῦρ-	πῦρ-	πῦρ·	πῦρ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	207	17	“rd	“Ἰτὸ	τὸ	τὸ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip

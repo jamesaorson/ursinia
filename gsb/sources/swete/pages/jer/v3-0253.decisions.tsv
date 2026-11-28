@@ -1,0 +1,50 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	253	1	Sadiy	"Ξπλὴν	πλὴν	πλὴν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	253	2	τὸν.	τὸν.	τὸν	τὸν	image (3x): no period after the word; speck/next mark
+jer	oldtestgreek00unknuoft	253	2	θεόν	θεόν	θεόν	θεόν	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	253	2	ὁδούς	ὁδούς	ὁδούς	ὁδούς	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	253	4	"“ἐπιστράφητε,	ἐπιστράφητε,	ἐπιστράφητε,	ἐπιστράφητε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	253	5	λέγει	έγει	λέγει	λέγει	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	253	5	διότε	διότε	διότι	διότι	image (3x): ι, not ε
+jer	oldtestgreek00unknuoft	253	5	ὑμᾶς	ὑμ	ὑμᾶς	ὑμᾶς	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	253	6	Σειών,	Σειών, +"5	Σειών,	Σειών,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	253	6	“Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	253	7	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	253	7	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	253	8	μετ᾽	μετ΄	μετ᾽	μετ᾽	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	253	8	“Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	253	10	Ἀγίου	Ἀγίου	Ἁγίου	Ἁγίου	image (3x): rough breathing on Α
+jer	oldtestgreek00unknuoft	253	10	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on capital Ι
+jer	oldtestgreek00unknuoft	253	13	Ἱερουσαλήμ	Ἱερουσαλήμ	Ἰερουσαλὴμ	Ἰερουσαλήμ	image (3x): smooth breathing; acute before capitalized Θρόνος
+jer	oldtestgreek00unknuoft	253	14	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	253	15	“ev	εν	ἐν	ἐν	image (3x): ἐν with smooth breathing
+jer	oldtestgreek00unknuoft	253	15	ἐκείναις	εκειναις	ἐκείναις	ἐκείναις	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	253	15	συνέλεύσονται	συνελεύσονται	συνελεύσονται	συνελεύσονται	image (3x): only acute on υ
+jer	oldtestgreek00unknuoft	253	15	οἶκος	οἰκὸς	οἶκος	οἶκος	image (3x): circumflex on οἶ
+jer	oldtestgreek00unknuoft	253	16	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on capital Ι
+jer	oldtestgreek00unknuoft	253	16	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on capital Ι
+jer	oldtestgreek00unknuoft	253	16	γῆς	γῆς +.	γῆς	γῆς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	253	18	∅	τοὺς	τοὺς	τοὺς	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	253	18	∅	πατέρας	πατέρας	πατέρας	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	253	18	∅	αὐτῶν.	αὐτῶν.	αὐτῶν.	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	253	18	∅	"καὶ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	253	18	∅	ἐγὼ	ἐγὼ	ἐγὼ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	253	18	∅	εἶπα	εἶπα	εἶπα	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	253	18	∅	Τένοιτο,	Γένοιτο,	Γένοιτο,	image (3x): Γ, not Τ
+jer	oldtestgreek00unknuoft	253	18	∅	Κύριε:	Κύριε·	Κύριε·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	253	18	∅	ὅτι	ὅτι	ὅτι	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	253	18	∅	τάξω	τάξω	τάξω	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	253	18	∅	σε	σε	σε	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	253	18	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	253	20	ἐθνῶν"	ἐθνῶν"	ἐθνῶν·	ἐθνῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	253	20	καλέσετέ	καλέσετέ	καλέσετέ	καλέσετέ	image (3x): acute before enclitic as printed
+jer	oldtestgreek00unknuoft	253	21	““πλὴν	“πλὴν	πλὴν	πλὴν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	253	21	ws	ὡς	ὡς	ὡς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	253	21	nOE-	ἠθέ-	ἠθέ-	ἠθέ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	253	22	τῆσεν	τῆσεν	τησεν	τησεν	image (3x): no accent on second half of ἠθέτησεν
+jer	oldtestgreek00unknuoft	253	22	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on capital Ι
+jer	oldtestgreek00unknuoft	253	22	Κύριος. +*	Κύριος. +“᾽	Κύριος.	Κύριος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	253	22	ἐκ.	ἐκ.	ἐκ	ἐκ	image (3x): no period after the word; speck/next mark
+jer	oldtestgreek00unknuoft	253	23	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on capital Ι
+jer	oldtestgreek00unknuoft	253	24	Ἀγίου	Αγίθυ	Ἁγίου	Ἁγίου	image (3x): rough breathing on Α
+jer	oldtestgreek00unknuoft	253	24	““ἐπιστράφητε,	““Ζἐπιστράφητε,	ἐπιστράφητε,	ἐπιστράφητε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip

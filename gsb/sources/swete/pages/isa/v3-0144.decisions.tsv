@@ -7,47 +7,47 @@ isa	oldtestgreek00unknuoft	144	2	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): th
 isa	oldtestgreek00unknuoft	144	3	καιομένης"	καιομένης"	καιομένης·	καιομένης·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 isa	oldtestgreek00unknuoft	144	3	“kai	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 isa	oldtestgreek00unknuoft	144	4	αὐτούς.	αὐτούς. +20	αὐτούς.	αὐτούς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
-isa	oldtestgreek00unknuoft	144	5	καταλειφθὲν	καταλειφθὲν	καταλειφθὲν	καταλειφθὲν	TODO zoom: acute or grave before a capitalized word
-isa	oldtestgreek00unknuoft	144	5	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-isa	oldtestgreek00unknuoft	144	6	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-isa	oldtestgreek00unknuoft	144	7	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+isa	oldtestgreek00unknuoft	144	5	καταλειφθὲν	καταλειφθὲν	καταλειφθὲν	καταλειφθὲν	image (3x): grave before a capitalized name (not a quotation)
+isa	oldtestgreek00unknuoft	144	5	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	144	6	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	144	7	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
 isa	oldtestgreek00unknuoft	144	8	Kat	“"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
-isa	oldtestgreek00unknuoft	144	8	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+isa	oldtestgreek00unknuoft	144	8	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing
 isa	oldtestgreek00unknuoft	144	8	ἰσχύοντα.	ἰσχύοντα. +ΡΤῚ	ἰσχύοντα.	ἰσχύοντα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
-isa	oldtestgreek00unknuoft	144	9	λαὸς	λαὸς +3	λαὸς	λαὸς	TODO zoom: acute or grave before a capitalized word
-isa	oldtestgreek00unknuoft	144	9	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+isa	oldtestgreek00unknuoft	144	9	λαὸς	λαὸς +3	λαὸς	λαὸς	image (3x): grave before a capitalized name (not a quotation)
+isa	oldtestgreek00unknuoft	144	9	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
 isa	oldtestgreek00unknuoft	144	10	σωθήσεται:	σωθήσεται:	σωθήσεται·	σωθήσεται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 isa	oldtestgreek00unknuoft	144	10	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 isa	oldtestgreek00unknuoft	144	11	“3ὅτι	"3ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-isa	oldtestgreek00unknuoft	144	12	4	"ἐΔιὰ	Διὰ	Διὰ	TODO zoom: A OPEN, B R1
+isa	oldtestgreek00unknuoft	144	12	4	"ἐΔιὰ	Διὰ	Διὰ	image (3x): verse superscript / OCR junk; word as read
 isa	oldtestgreek00unknuoft	144	12	Ava +rovro	τοῦτο	τοῦτο	τοῦτο	class R5: Latin-letter substitution in OCR; c read from the image strip
-isa	oldtestgreek00unknuoft	144	12	σαβαώθ	σαβαώθ	σαβαὼθ	σαβαώθ	TODO zoom: acute or grave before a capitalized word; A DIA, B DIA
-isa	oldtestgreek00unknuoft	144	12	λαός +ου,	λαός	λαός	λαός	TODO zoom: accent before an enclitic
+isa	oldtestgreek00unknuoft	144	12	σαβαώθ	σαβαώθ	σαβαὼθ	σαβαώθ	image (3x): acute before capitalized quotation Μὴ
+isa	oldtestgreek00unknuoft	144	12	λαός +ου,	λαός	λαός	λαός	image (3x): accent as printed before enclitic
 isa	oldtestgreek00unknuoft	144	13	κατοικοῦντες	κατοικοῦντες +Ἷ	κατοικοῦντες	κατοικοῦντες	class R3: OCR appended accent-row or margin junk; c read from the image strip
 isa	oldtestgreek00unknuoft	144	13	Σειών, +ἡ	Σειών,	Σειών,	Σειών,	class R3: OCR appended accent-row or margin junk; c read from the image strip
-isa	oldtestgreek00unknuoft	144	13	Ἀσσυῤίων,	Ἀσσυῤίων,	Ἀσσυρίων,	Ἀσσυρίων,	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B DIA
+isa	oldtestgreek00unknuoft	144	13	Ἀσσυῤίων,	Ἀσσυῤίων,	Ἀσσυρίων,	Ἀσσυρίων,	image (3x): smooth breathing
 isa	oldtestgreek00unknuoft	144	13	ἐν +ν	ἐν	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
 isa	oldtestgreek00unknuoft	144	13	if	πατάξει	πατάξει	πατάξει	class R5: Latin-letter substitution in OCR; c read from the image strip
 isa	oldtestgreek00unknuoft	144	14	ge	σε"	σε·	σε·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 isa	oldtestgreek00unknuoft	144	14	ἐπάγω.	ἐπάγω	ἐπάγω	ἐπάγω	class R6 (OCR letters differ): the other OCR reading agrees with c
 isa	oldtestgreek00unknuoft	144	14	δέ,	σέ,	σέ,	σέ,	class R6 (OCR letters differ): the other OCR reading agrees with c
-isa	oldtestgreek00unknuoft	144	14	ὁδὸν	ὁδὸν	ὁδὸν	ὁδὸν	TODO zoom: acute or grave before a capitalized word
-isa	oldtestgreek00unknuoft	144	14	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+isa	oldtestgreek00unknuoft	144	14	ὁδὸν	ὁδὸν	ὁδὸν	ὁδὸν	image (3x): grave before a capitalized name (not a quotation)
+isa	oldtestgreek00unknuoft	144	14	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	image (3x): smooth breathing
 isa	oldtestgreek00unknuoft	144	14	eri	“5Ξἔτι	ἔτι	ἔτι	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
-isa	oldtestgreek00unknuoft	144	15	θυμός	θυμός	θυμός	θυμός	TODO zoom: accent before an enclitic
-isa	oldtestgreek00unknuoft	144	15	pov	μοῦ	μου	μου	TODO zoom: A R5, B DIA
+isa	oldtestgreek00unknuoft	144	15	θυμός	θυμός	θυμός	θυμός	image (3x): accent as printed before enclitic
+isa	oldtestgreek00unknuoft	144	15	pov	μοῦ	μου	μου	image (3x): verse superscript / OCR junk; word as read
 isa	oldtestgreek00unknuoft	144	15	αὐτῶν" +"ὁ	αὐτῶν"	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-isa	oldtestgreek00unknuoft	144	16	πληγὴν	πληγὴν	πληγὴν	πληγὴν	TODO zoom: acute or grave before a capitalized word
+isa	oldtestgreek00unknuoft	144	16	πληγὴν	πληγὴν	πληγὴν	πληγὴν	image (3x): grave before a capitalized name (not a quotation)
 isa	oldtestgreek00unknuoft	144	18	Kat	κατ᾽ +᾽	κατ᾽	κατ᾽	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
-isa	oldtestgreek00unknuoft	144	18	Αἴγυπτον.	Αἴγυπτον.	Αἴγυπτον.	Αἴγυπτον.	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-isa	oldtestgreek00unknuoft	144	18	Kat	27 +“7καὶ	καὶ	καὶ	TODO zoom: A R5, B OPEN
-isa	oldtestgreek00unknuoft	144	19	ὥμου	ὥμου	ὤμου	ὤμου	TODO zoom: A DIA, B DIA
+isa	oldtestgreek00unknuoft	144	18	Αἴγυπτον.	Αἴγυπτον.	Αἴγυπτον.	Αἴγυπτον.	image (3x): smooth + acute on ι of Αἴ
+isa	oldtestgreek00unknuoft	144	18	Kat	27 +“7καὶ	καὶ	καὶ	image (3x): verse superscript / OCR junk; word as read
+isa	oldtestgreek00unknuoft	144	19	ὥμου	ὥμου	ὤμου	ὤμου	image (4x): smooth + acute (apostrophe then rising stroke, same as ἔσται), not rough
 isa	oldtestgreek00unknuoft	144	20	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
-isa	oldtestgreek00unknuoft	144	20	ὥμων	ὥμων	ὤμων	ὤμων	TODO zoom: A DIA, B DIA
+isa	oldtestgreek00unknuoft	144	20	ὥμων	ὥμων	ὤμων	ὤμων	image (4x): smooth + acute (apostrophe then rising stroke, same as ἔσται), not rough
 isa	oldtestgreek00unknuoft	144	20	“HEE	“ἥξει	ἥξει	ἥξει	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 isa	oldtestgreek00unknuoft	144	21	∅	πόλιν	πόλιν	πόλιν	class R0: OCR lost the word in extraction; c read from the image strip
-isa	oldtestgreek00unknuoft	144	21	∅	Ἀγγαί,	Ἀγγαί,	Ἀγγαί,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-isa	oldtestgreek00unknuoft	144	21	∅	“καὶ	καὶ	καὶ	TODO zoom: A R0, B OPEN
+isa	oldtestgreek00unknuoft	144	21	∅	Ἀγγαί,	Ἀγγαί,	Ἀγγαί,	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	144	21	∅	“καὶ	καὶ	καὶ	image (3x): verse superscript / OCR junk; word as read
 isa	oldtestgreek00unknuoft	144	21	∅	παρελεύσεται	παρελεύσεται	παρελεύσεται	class R0: OCR lost the word in extraction; c read from the image strip
 isa	oldtestgreek00unknuoft	144	21	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
 isa	oldtestgreek00unknuoft	144	21	∅	Μαγεδώ,	Μαγεδώ,	Μαγεδώ,	class R0: OCR lost the word in extraction; c read from the image strip
@@ -56,3 +56,4 @@ isa	oldtestgreek00unknuoft	144	21	∅	ἐν	ἐν	ἐν	class R0: OCR lost the w
 isa	oldtestgreek00unknuoft	144	21	∅	Μαχμὰς	Μαχμὰς	Μαχμὰς	class R0: OCR lost the word in extraction; c read from the image strip
 isa	oldtestgreek00unknuoft	144	22	αὐτοῦ: +(9)	αὐτοῦ: +(9)	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 isa	oldtestgreek00unknuoft	144	22	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	144	21	-	-	καὶ	καὶ	numbering: Swete superscript 29 stands before καὶ παρελεύσεται εἰς Μαγεδώ, but the in-text (29) stands a line later before καὶ παρελεύσεται φάραγγα; the words between run on with common 10:28 ({29}{=10:28})

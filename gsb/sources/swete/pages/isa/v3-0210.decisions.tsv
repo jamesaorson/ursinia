@@ -1,0 +1,44 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	210	1	pov	μοὺ	μου	μου	image (3x): as transcribed; OCR noise (superscripts, ano teleia, false accents)
+isa	oldtestgreek00unknuoft	210	1	ἐντείλασθέ	ἐντείλασθέ	ἐντείλασθέ	ἐντείλασθέ	image (3x): acute before the enclitic as printed
+isa	oldtestgreek00unknuoft	210	2	μοι:	μοι:	μοι.	μοι.	image (3x): as transcribed; OCR noise (superscripts, ano teleia, false accents)
+isa	oldtestgreek00unknuoft	210	2	eyo	᾿ +᾿᾿'έἐγὼ	ἐγὼ	ἐγὼ	image (3x): as transcribed; OCR noise (superscripts, ano teleia, false accents)
+isa	oldtestgreek00unknuoft	210	2	γὴν	γῆν	γῆν	γῆν	image (3x): as transcribed; OCR noise (superscripts, ano teleia, false accents)
+isa	oldtestgreek00unknuoft	210	2	χειρί	χειρί	χειρί	χειρί	image (3x): acute before the enclitic as printed
+isa	oldtestgreek00unknuoft	210	3	"3ἐγὼ	"3ἐγὼ	ἐγὼ	ἐγὼ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	210	5	εὐθεῖαι"	εὐθεῖαι"	εὐθεῖαι·	εὐθεῖαι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	210	6	Κύρϊος	Κύριος	Κύριος	Κύριος	image (3x): as transcribed; OCR noise (superscripts, ano teleia, false accents)
+isa	oldtestgreek00unknuoft	210	8	Οὕτως	Οὕτως	Οὕτως	Οὕτως	image (3x): rough + acute on Ο, Οὕτως
+isa	oldtestgreek00unknuoft	210	8	σαβαώθ	σαβαώθ	σαβαώθ	σαβαώθ	image (3x): σαβαώθ acute before capitalized quotation Ἐκοπίασεν
+isa	oldtestgreek00unknuoft	210	8	Ἑκοπίασεν	Ἑκοπίασεν	Ἐκοπίασεν	Ἐκοπίασεν	image (3x): smooth breathing on the capital (apostrophe shape)
+isa	oldtestgreek00unknuoft	210	8	Αἴγυπτος,	Αἴγυπτος,	Αἴγυπτος,	Αἴγυπτος,	image (3x): smooth breathing on the capital (apostrophe shape)
+isa	oldtestgreek00unknuoft	210	9	Αἰθιόπων,	Αἰθιόπων,	Αἰθιόπων,	Αἰθιόπων,	image (3x): smooth breathing on the capital (apostrophe shape)
+isa	oldtestgreek00unknuoft	210	10	σοὺ	σοὺ	σου	σου	image (3x): as transcribed; OCR noise (superscripts, ano teleia, false accents)
+isa	oldtestgreek00unknuoft	210	11	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	210	11	προσκυνήσουσὶν	προσκυνήσουσὶν᾽	προσκυνήσουσίν	προσκυνήσουσίν	image (3x): acute before the enclitic as printed
+isa	oldtestgreek00unknuoft	210	12	ξονται"	ξονται"	ξονται·	ξονται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	210	12	θεός	θ +θεύς	θεός	θεός	image (3x): acute before the enclitic as printed
+isa	oldtestgreek00unknuoft	210	12	ἔστιν	ἔστιν +θ	ἔστιν	ἔστιν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	210	12	Sav	ΠῚ +"σὺ	σὺ	σὺ	image (3x): as transcribed; OCR noise (superscripts, ano teleia, false accents)
+isa	oldtestgreek00unknuoft	210	13	ἤδειμεν,	ἥδειμεν,	ᾔδειμεν,	ᾔδειμεν,	image (3x): η with smooth + acute and iota subscript, ᾔδειμεν
+isa	oldtestgreek00unknuoft	210	13	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on the capital (apostrophe shape)
+isa	oldtestgreek00unknuoft	210	13	δαἰσχυν +θήσονταὶ	ὁαἰσχυν +θήσονταἱ	αἰσχυνθήσονται	αἰσχυνθήσονται	image (3x): as transcribed; OCR noise (superscripts, ano teleia, false accents)
+isa	oldtestgreek00unknuoft	210	15	σραὴλ	σραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital (apostrophe shape)
+isa	oldtestgreek00unknuoft	210	16	αἰώνιον"	αἰώνιον"	αἰώνιον·	αἰώνιον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	210	17	*% +οὕτως	τϑ +οὕτως	Οὕτως	Οὕτως	image (3x): rough + acute on Ο, Οὕτως
+isa	oldtestgreek00unknuoft	210	17	οὐρανόν;	οὐρανόν;	οὐρανόν,	οὐρανόν,	image (3x): as transcribed; OCR noise (superscripts, ano teleia, false accents)
+isa	oldtestgreek00unknuoft	210	18	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	210	19	ἐποίῆσεν,	ἐποίῆσεν,	ἐποίησεν,	ἐποίησεν,	image (3x): as transcribed; OCR noise (superscripts, ano teleia, false accents)
+isa	oldtestgreek00unknuoft	210	19	αὐτήν,	αὐτήν,	αὐτήν,	αὐτήν,	image (3x): αὐτήν, acute before comma
+isa	oldtestgreek00unknuoft	210	20	Ἐγώ	Ἐγώ	Ἐγώ	Ἐγώ	image (3x): smooth breathing on the capital (apostrophe shape)
+isa	oldtestgreek00unknuoft	210	20	"οὐκ	"οὐκ	οὐκ	οὐκ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	210	21	ς	γῆς	γῆς	γῆς	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	210	21	σκοτεινῷ"	σκοτεινῷ"	σκοτεινῷ·	σκοτεινῷ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	210	21	Ἰακώβ	Ἰακώβ	Ἰακώβ	Ἰακώβ	image (3x): smooth breathing on the capital (apostrophe shape)
+isa	oldtestgreek00unknuoft	210	21	ἡσατε:	ζητήσατε"	ζητήσατε·	ζητήσατε·	image (3x): as transcribed; OCR noise (superscripts, ano teleia, false accents)
+isa	oldtestgreek00unknuoft	210	21	ἐγώ	ἐγώ	ἐγώ	ἐγώ	image (3x): acute before the enclitic as printed
+isa	oldtestgreek00unknuoft	210	22	εἶμι	εἰμι	εἰμι	εἰμι	image (3x): as transcribed; OCR noise (superscripts, ano teleia, false accents)
+isa	oldtestgreek00unknuoft	210	22	ἐγώ	ἐγώ	ἐγώ	ἐγώ	image (3x): acute before the enclitic as printed
+isa	oldtestgreek00unknuoft	210	22	εἶμι	εἶμι	εἰμι	εἰμι	image (3x): as transcribed; OCR noise (superscripts, ano teleia, false accents)
+isa	oldtestgreek00unknuoft	210	23	Ξοσυνάχθητε	Ῥοσυνάχθητε	συνάχθητε	συνάχθητε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	210	23	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip

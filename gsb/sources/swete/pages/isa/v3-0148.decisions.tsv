@@ -1,0 +1,29 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	148	3	“oi	"“οἱ	οἱ	οἱ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	148	4	‘Qpeiwv	᾿ῶρείων	Ὠρείων	Ὠρείων	image (3x): smooth breathing (apostrophe) on Ω
+isa	oldtestgreek00unknuoft	148	4	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	148	6	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	148	7	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	148	8	"“καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	148	10	36	"ὃ	ὁ	ὁ	image (3x): rough + grave as written (closed compact mark); superscript verse number / § not part of the word
+isa	oldtestgreek00unknuoft	148	12	ἡ	ἡ	ᾗ	ᾗ	image (3x): iota subscript under η, rough + circumflex
+isa	oldtestgreek00unknuoft	148	12	καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	148	12	οἵ	οἵ	οἱ	οἱ	image (3x): rough breathing only, no acute
+isa	oldtestgreek00unknuoft	148	13	πλανώμενον;	πλανώμενον;	πλανώμενον,	πλανώμενον,	image (3x): comma, not semicolon
+isa	oldtestgreek00unknuoft	148	15	φῆναι"	φῆναι" +᾿	φῆναι·	φῆναι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	148	15	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	148	15	ς	"δὃς	ὃς	ὃς	image (3x): rough + grave as written (closed compact mark); superscript verse number / § not part of the word
+isa	oldtestgreek00unknuoft	148	16	∅	∅	καὶ	καὶ	image (3x): word as written (καὶ at line end before margin 16; προνο- unaccented)
+isa	oldtestgreek00unknuoft	148	17	mpovo-	πρὸνο-	προνο-	προνο-	image (3x): word as written (καὶ at line end before margin 16; προνο- unaccented)
+isa	oldtestgreek00unknuoft	148	18	Τ̓ἰδοὺ	᾿7ἰδοὺ	ἰδοὺ	ἰδοὺ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	148	19	ot	οἱ	οἳ	οἳ	image (3x): rough + grave as written (closed compact mark); superscript verse number / § not part of the word
+isa	oldtestgreek00unknuoft	148	19	od	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	148	20	τοξεύματα	᾿δοξεύματα	τοξεύματα	τοξεύματα	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	148	20	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	148	21	αὐτῶν. +"ὁ	αὐτῶν. +"ὁ	αὐτῶν.	αὐτῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	148	22	ἣ	ἢ	ἣ	ἣ	image (3x): rough + grave as written (closed compact mark); superscript verse number / § not part of the word
+isa	oldtestgreek00unknuoft	148	22	"ὃν	"ὃν	ὃν	ὃν	image (3x): rough + grave as written (closed compact mark); superscript verse number / § not part of the word
+isa	oldtestgreek00unknuoft	148	23	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave on θεὸς before Σόδομα (not a quotation)
+isa	oldtestgreek00unknuoft	148	23	Tépoppa:	Γόμορρα:	Γόμορρα·	Γόμορρα·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	148	23	*ov	“οὐ	οὐ	οὐ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	148	24	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip

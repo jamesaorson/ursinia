@@ -1,0 +1,55 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	247	1	TO	ΤῸ	ΤΟ	ΤΟ	image (3x): unaccented capitals ΤΟ at the book opening
+jer	oldtestgreek00unknuoft	247	1	Ἰερεμίαν	Ἰερεμίαν	Ἰερεμίαν	Ἰερεμίαν	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	247	1	Χελκίου +B	Χελκίου	Χελκίου	Χελκίου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	247	2	Ἀναθὼθ	Ἀναθὼθ	Ἀναθὼθ	Ἀναθὼθ	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	247	2	Beviapeiv:	Βενιαμείν:	Βενιαμείν·	Βενιαμείν·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	247	2	“ὃς	“ὃς	ὃς	ὃς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	247	3	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	247	3	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	247	3	ἡμέραις	ἡμέραις +ἦ᾽	ἡμέραις	ἡμέραις	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	247	3	Ἰωσεία	Ἰωσεία	Ἰωσεία	Ἰωσεία	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	247	3	Ἀμὼς	Ἀμὼς	Ἀμὼς	Ἀμὼς	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	247	4	Ἰούδα,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	247	4	38καὶ	38καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	247	5	vero	νετο.	νετο	νετο	image (3x): as transcribed; OCR noise
+jer	oldtestgreek00unknuoft	247	5	ἡμέραις	ἡμέραις +Ε	ἡμέραις	ἡμέραις	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	247	5	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	247	5	Ἰωσεία	Ἰωσεία	Ἰωσεία	Ἰωσεία	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	247	5	βασιλέως	βασιλέως +᾽	βασιλέως	βασιλέως	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	247	5	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	247	6	ωσεία	Ἰωσεία	Ἰωσεία	Ἰωσεία	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	247	6	Ἰούδα,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	247	7	Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing, not rough
+jer	oldtestgreek00unknuoft	247	8	“Καὶ	“Καὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	247	8	αὐτόν	αὐτόν	αὐτόν	αὐτόν	image (3x): acute before capitalized word
+jer	oldtestgreek00unknuoft	247	8	*IIpo	5Πρὸ	Πρὸ	Πρὸ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	247	9	ἐπίσταμαί	ἐπίσταμαί	ἐπίσταμαί	ἐπίσταμαί	image (3x): accent before enclitic as transcribed
+jer	oldtestgreek00unknuoft	247	9	ἡγίακά	ἡγίακά	ἡγίακά	ἡγίακά	image (3x): accent before enclitic as transcribed
+jer	oldtestgreek00unknuoft	247	10	τέθεικά	τέθεικά	τέθεικά	τέθεικά	image (3x): accent before enclitic as transcribed
+jer	oldtestgreek00unknuoft	247	10	oe.	σέ.	σε.	σε.	image (3x): as transcribed; OCR noise
+jer	oldtestgreek00unknuoft	247	10	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	247	10	Ὃ	Ὃ	Ὁ	Ὁ	image (4x): rough breathing, no accent
+jer	oldtestgreek00unknuoft	247	10	ὧν	ὧν	ὢν	ὢν	image (4x): smooth breathing + grave, open two-part mark as on ἂν; not circumflex
+jer	oldtestgreek00unknuoft	247	11	∅	Ε}	οὐκ	οὐκ	image (3x): as transcribed; OCR noise
+jer	oldtestgreek00unknuoft	247	11	ἐγώ	ἐγώ	ἐγώ	ἐγώ	image (3x): accent before enclitic as transcribed
+jer	oldtestgreek00unknuoft	247	11	εἶμι.	εἶμι.	εἰμι.	εἰμι.	image (3x): smooth breathing only, no circumflex (enclitic εἰμι)
+jer	oldtestgreek00unknuoft	247	11	1Τκαὶ	7 +Τκαὶ	καὶ	καὶ	image (3x): as transcribed; OCR noise
+jer	oldtestgreek00unknuoft	247	12	μέ	μέ	μέ	μέ	image (3x): acute before capitalized word
+jer	oldtestgreek00unknuoft	247	12	ἐγώ	ἐγώ	ἐγώ	ἐγώ	image (3x): accent before enclitic as transcribed
+jer	oldtestgreek00unknuoft	247	12	εἶμι,	εἶμι,	εἰμι,	εἰμι,	image (3x): smooth breathing only, no circumflex (enclitic εἰμι)
+jer	oldtestgreek00unknuoft	247	12	ovs	οὗς	οὓς	οὓς	image (3x): compact closed rough+grave mark
+jer	oldtestgreek00unknuoft	247	13	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	247	13	ἐντείλωμαί	ἐντείλωμαί	ἐντείλωμαί	ἐντείλωμαί	image (3x): accent before enclitic as transcribed
+jer	oldtestgreek00unknuoft	247	14	ὅμὴ	ὅμὴ	μὴ	μὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	247	14	ἐγώ.	ἐγώ.	ἐγώ	ἐγώ	image (4x): speck after ἐγώ, lighter and smaller than a point; not punctuation
+jer	oldtestgreek00unknuoft	247	15	εἶμι	εἰμι	εἰμι	εἰμι	image (3x): smooth breathing only, no circumflex (enclitic εἰμι)
+jer	oldtestgreek00unknuoft	247	15	Tov	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	247	15	ἐξαιρεῖσθαί	ἐξαιρεῖσθαί	ἐξαιρεῖσθαί	ἐξαιρεῖσθαί	image (3x): accent before enclitic as transcribed
+jer	oldtestgreek00unknuoft	247	15	9καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	247	16	στόματός	στόματός	στόματός	στόματός	image (3x): accent before enclitic as transcribed
+jer	oldtestgreek00unknuoft	247	17	μέ	μέ	μέ	μέ	image (3x): acute before capitalized word
+jer	oldtestgreek00unknuoft	247	17	᾿δοὺ	᾿δοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing (apostrophe shape)
+jer	oldtestgreek00unknuoft	247	17	gov.	σου.	σου.	σου.	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	247	17	"“ἰδοὺ	"ἰδοὺ	ἰδοὺ	ἰδοὺ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	247	18	καθέστακά	καθέστακά	καθέστακά	καθέστακά	image (3x): accent before enclitic as transcribed

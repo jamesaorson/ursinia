@@ -1,0 +1,34 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	237	1	ἐξαναστήσουσιν:	ἐξαναστήσουσιν:	ἐξαναστήσουσιν·	ἐξαναστήσουσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	237	2	ϑκαὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	237	2	πρόβατά	πρόβατά	πρόβατά	πρόβατά	image (3x): acute before enclitic
+isa	oldtestgreek00unknuoft	237	3	ἀμπελουργοί:	ἀμπελουργοί:	ἀμπελουργοί·	ἀμπελουργοί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	237	3	“ὑμεῖς	“ὑμεῖς	ὑμεῖς	ὑμεῖς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	237	4	θεοῦ:	θεοῦ:	θεοῦ·	θεοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	237	5	Τοὕτως	Τοὕτως	οὕτως	οὕτως	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	237	6	εὐφῥοσύνη	εὐφῥοσύνη	εὐφροσύνη	εὐφροσύνη	image (3x): plain rho, no subscript
+isa	oldtestgreek00unknuoft	237	6	“ἐγὼ	“ἐγὼ	ἐγὼ	ἐγὼ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	237	6	γάρ	γάρ	γάρ	γάρ	image (3x): acute before enclitic
+isa	oldtestgreek00unknuoft	237	7	ἀδικίας"	ἀδικίας"	ἀδικίας·	ἀδικίας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	237	8	διαθήσομαι.	διαθήσομαι.	διαθήσομαι	διαθήσομαι	image (3x): no mark after word (speck)
+isa	oldtestgreek00unknuoft	237	8	αὐτοῖς. +9	αὐτοῖς. +9	αὐτοῖς.	αὐτοῖς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	237	10	ev	'ἐν	ἐν	ἐν	image (3x): ἐν with smooth breathing; dot at left is a speck
+isa	oldtestgreek00unknuoft	237	10	λαῶν:	λαῶν:	λαῶν·	λαῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	237	10	οὗτοί	οὗτοί	οὗτοί	οὗτοί	image (3x): acute before enclitic
+isa	oldtestgreek00unknuoft	237	11	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	237	12	Ἀγαλλιάσθω	Ἀγαλλιάσθω	Ἀγαλλιάσθω	Ἀγαλλιάσθω	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	237	12	ψυχή	ψυχή	ψυχή	ψυχή	image (3x): acute before enclitic
+isa	oldtestgreek00unknuoft	237	12	κυρίῳ"	κυρίῳ"	κυρίῳ·	κυρίῳ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	237	13	γάρ	γάρ	γάρ	γάρ	image (3x): acute before enclitic
+isa	oldtestgreek00unknuoft	237	13	περιέθηκέν	περιέθηκέν	περιέθηκέν	περιέθηκέν	image (3x): acute before enclitic
+isa	oldtestgreek00unknuoft	237	14	κατεκόσμησέν	κατεκόσμησέν	κατεκόσμησέν	κατεκόσμησέν	image (3x): acute before enclitic
+isa	oldtestgreek00unknuoft	237	14	“Kal	“"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	237	14	γῆν.	γῆν.	γῆν	γῆν	image (3x): no mark after word (speck)
+isa	oldtestgreek00unknuoft	237	18	"Διὰ	"Διὰ	Διὰ	Διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	237	18	Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	237	19	σωτήριόν	σωτήριόν	σωτήριόν	σωτήριόν	image (3x): acute before enclitic
+isa	oldtestgreek00unknuoft	237	20	καυθήσεται.	“καὶ	καυθήσεται.	καυθήσεται.	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	237	20	“καὶ	∅	καὶ	καὶ	class R1+R0: OCR fused/misread the superscript verse number into the word; OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	237	22	3xal	ϑκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	237	22	χειρὶ	χειρὶ	χειρὶ	χειρὶ	image (3x): grave before capitalized word (not a quotation)
+isa	oldtestgreek00unknuoft	237	23	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip

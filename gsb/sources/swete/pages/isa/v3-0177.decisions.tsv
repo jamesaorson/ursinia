@@ -1,0 +1,49 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	177	1	al	αἵ	αἱ	αἱ	image (3x): rough breathing only on ι, αἱ
+isa	oldtestgreek00unknuoft	177	1	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	177	1	ψελλίζουσαι +B	ψελλίζουσαι +Β	ψελλίζουσαι	ψελλίζουσαι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	177	2	εἰρήνην.	εἰρήνην. +͵ Ἂ	εἰρήνην.	εἰρήνην.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	177	3	‘Oval	Οὐαὶ	Οὐαὶ	Οὐαὶ	image (3x): smooth breathing + grave on υ
+isa	oldtestgreek00unknuoft	177	3	Κύριος:	Κύριος:	Κύριος·	Κύριος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	177	3	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	177	4	δι	δι᾽	δι᾽	δι᾽	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	177	4	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	177	4	πνεύματος.	πνεύματος.	πνεύματός	πνεύματός	image (3x): πνεύματός with second acute before enclitic μου; no period (comma after μου)
+isa	oldtestgreek00unknuoft	177	4	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	177	5	∅	τίας	τίας	τίας	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	177	5	ἁμαρτίας"	ἁμαρτίας"	ἁμαρτίας·	ἁμαρτίας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	177	5	“οἱ	“οἱ	οἱ	οἱ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	177	5	καταβηναιΐ	καταβηναιΐ	καταβῆναι	καταβῆναι	image (3x): καταβῆναι followed by ¶ printed in the text (kept as καταβῆναι¶)
+isa	oldtestgreek00unknuoft	177	5	Αἴγυπτον,	Αἴγυπτον,	Αἴγυπτον,	Αἴγυπτον,	image (3x): smooth breathing (with accent where shown) on ι of Αἰ
+isa	oldtestgreek00unknuoft	177	5	"ἐμὲ	"ἐμὲ	ἐμὲ	ἐμὲ	image (3x): § printed in the text before ἐμὲ (kept)
+isa	oldtestgreek00unknuoft	177	5	δὲ +:	δὲ +ε	δὲ	δὲ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	177	6	BonOnOnva	βοηθηθῆναι	βοηθηθῆναι	βοηθηθῆναι	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	177	7	Αἰγυπτίων.	Αἰγυπτίων.	Αἰγυπτίων.	Αἰγυπτίων.	image (3x): smooth breathing (with accent where shown) on ι of Αἰ
+isa	oldtestgreek00unknuoft	177	7	ϑἔσται	ϑἔσται	ἔσται	ἔσται	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	177	8	ἐπ᾽	ἐπ᾽ +᾽	ἐπ᾽	ἐπ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	177	8	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	image (3x): smooth breathing (with accent where shown) on ι of Αἰ
+isa	oldtestgreek00unknuoft	177	8	ὅτε	ὁτε	ὅτι	ὅτι	image (3x): ὅτι, rough + acute, ι not ε
+isa	oldtestgreek00unknuoft	177	9	πονηροί:	πονηροί:	πονηροί·	πονηροί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	177	9	μάτην	ϑμάτην	μάτην	μάτην	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	177	11	‘H	ἩἯ	Ἡ	Ἡ	image (3x): rough breathing on Η (reversed-comma shape)
+isa	oldtestgreek00unknuoft	177	12	“Ἐν	Ἐν	Ἐν	Ἐν	image (3x): smooth breathing; superscript 6 not text
+isa	oldtestgreek00unknuoft	177	13	οἱ	οἱ	οἳ	οἳ	image (3x): compact closed d-shaped mark: rough + grave, relative οἳ
+isa	oldtestgreek00unknuoft	177	15	ΤΑἰγύπτιοι	Αἰγύπτιοι	Αἰγύπτιοι	Αἰγύπτιοι	image (3x): smooth breathing (with accent where shown) on ι of Αἰ
+isa	oldtestgreek00unknuoft	177	15	ὑμᾶς:	ὑμᾶς:	ὑμᾶς·	ὑμᾶς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	177	16	OTL	ὅτι	ὅτι	ὅτι	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	177	16	ματαια	ματαία	ματαία	ματαία	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	177	16	ἢ	ἣ	ἡ	ἡ	image (3x): rough breathing only, article ἡ
+isa	oldtestgreek00unknuoft	177	16	υμῶν	ὑμῶν	ὑμῶν	ὑμῶν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	177	16	AUT).	αὕτη.	αὕτη.	αὕτη.	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	177	16	νυν	ἕνῦν	νῦν	νῦν	image (3x): νῦν with circumflex; superscript 8 not text
+isa	oldtestgreek00unknuoft	177	16	OUV	οὖν	οὖν	οὖν	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	177	16	επι	ἐπὶ	ἐπὶ	ἐπὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	177	18	ὅτι	“ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	177	18	ἀπειθής	ἀπειθής	ἀπειθής	ἀπειθής	image (3x): acute on ἀπειθής before enclitic ἐστιν
+isa	oldtestgreek00unknuoft	177	18	οἱ	οἱ	οἳ	οἳ	image (3x): compact closed d-shaped mark: rough + grave, relative οἳ
+isa	oldtestgreek00unknuoft	177	18	ἠβούλοντο	ἡβούλοντο	ἠβούλοντο	ἠβούλοντο	image (3x): smooth breathing on η, ἠβούλοντο
+isa	oldtestgreek00unknuoft	177	19	τοῦ	τοῦ +θ	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	177	19	oi	"“οἱ	οἱ	οἱ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	177	21	πλάνησιν,	πλάνησιν, +“	πλάνησιν,	πλάνησιν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	177	21	“Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	177	11	-	-	Ἡ	Ἡ	heading line (centered, no margin number); {6} put on the heading so it belongs to 30:6; Swete prints superscript 6 before Ἐν on the next line

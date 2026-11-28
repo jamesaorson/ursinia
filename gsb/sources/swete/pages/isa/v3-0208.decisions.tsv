@@ -1,0 +1,62 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	208	2	Ἐξελοῦ	Ἐξελοῦ	Ἐξελοῦ	Ἐξελοῦ	image (3x): smooth breathing on the capital (apostrophe shape)
+isa	oldtestgreek00unknuoft	208	2	θεός	θεός	θεός	θεός	image (3x): acute before the enclitic as printed
+isa	oldtestgreek00unknuoft	208	2	σύ. +"ὃ	σύ.	σύ.	σύ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	208	2	οὐκ	"δοὐκ	οὐκ	οὐκ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	208	2	εἐγνωσαν	ἔγνωσαν	ἔγνωσαν	ἔγνωσαν	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	208	4	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	208	8	wo	ξογνῶθι	γνῶθι	γνῶθι	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	208	8	dri	ὅτι	ὅτι	ὅτι	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	208	9	αὐτοῦ"	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	208	10	μου. +Ξι	μου. +Ξι	μου.	μου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	208	10	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing on the capital (apostrophe shape)
+isa	oldtestgreek00unknuoft	208	10	Ἰσραήλ,	Ἰσραήλ;	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on the capital (apostrophe shape)
+isa	oldtestgreek00unknuoft	208	11	σύ:	σύ:	σύ·	σύ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	208	11	ἔπλασά	ἔπλασά	ἔπλασά	ἔπλασά	image (3x): acute before the enclitic as printed
+isa	oldtestgreek00unknuoft	208	11	παῖδά	παῖδά	παῖδά	παῖδά	image (3x): acute before the enclitic as printed
+isa	oldtestgreek00unknuoft	208	11	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	208	11	ov,	σύ,	σύ,	σύ,	image (3x): σύ, acute before comma; Ἰσραήλ is an address, not a quotation
+isa	oldtestgreek00unknuoft	208	11	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on the capital (apostrophe shape)
+isa	oldtestgreek00unknuoft	208	11	pov.	μου.	μου.	μου.	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	208	12	Ξἰδοὺ	“ἰδοὺ	ἰδοὺ	ἰδοὺ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	208	13	σου:	σου:	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	208	13	λυτρώσομαί	λυτρώσομαΐ	λυτρώσομαί	λυτρώσομαί	image (3x): acute before the enclitic as printed
+isa	oldtestgreek00unknuoft	208	13	ce.	σε.	σε.	σε.	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	208	13	“Ξεὐφράν-	“Ξεὐφράν-	εὐφράν-	εὐφράν-	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	208	14	Onre,	θητε,	θητε,	θητε,	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	208	14	Ἰσραήλ᾽	Ἰσραήλ"	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing on the capital (apostrophe shape)
+isa	oldtestgreek00unknuoft	208	16	ὅτε	ὅτε	ὅτι	ὅτι	image (3x): ὅτι, iota not epsilon
+isa	oldtestgreek00unknuoft	208	16	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing on the capital (apostrophe shape)
+isa	oldtestgreek00unknuoft	208	16	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital (apostrophe shape)
+isa	oldtestgreek00unknuoft	208	17	*4 +Oras	Ξερὕτως	Οὕτως	Οὕτως	image (3x): rough + acute on Ο, Οὕτως
+isa	oldtestgreek00unknuoft	208	17	λυτρούμενός	λυτρούμενός	λυτρούμενός	λυτρούμενός	image (3x): acute before the enclitic as printed
+isa	oldtestgreek00unknuoft	208	18	Ἐγὼ	Ἐγὼ	Ἐγὼ	Ἐγὼ	image (3x): smooth breathing on the capital (apostrophe shape)
+isa	oldtestgreek00unknuoft	208	18	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	208	19	ris	““τίς	τίς	τίς	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	208	21	μωρεύων, +“ὁ	μωρεύων,	μωρεύων,	μωρεύων,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	208	21	καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	208	22	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	208	23	Ἰερουσαλήμ	Ἰερουσαλήμ	Ἰερουσαλήμ	Ἰερουσαλήμ	image (3x): smooth breathing on the capital (apostrophe shape)
+isa	oldtestgreek00unknuoft	208	23	Ἰδουμαίας	Ἰδουμαίας	Ἰδουμαίας	Ἰδουμαίας	image (3x): smooth breathing on the capital (apostrophe shape)
+isa	oldtestgreek00unknuoft	208	23	Οἰκοδομη-	Οἰκοδομη-	Οἰκοδομη-	Οἰκοδομη-	image (3x): smooth breathing on the capital (apostrophe shape)
+isa	oldtestgreek00unknuoft	208	24	θήσεσθε, +"	θήσεσθε, +"	θήσεσθε,	θήσεσθε,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	208	24	ἀνατελεῖ"	ἀνατελεῖ" +“7	ἀνατελεῖ·	ἀνατελεῖ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	208	24	76	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	208	24	᾽Ἐ̓ρημω-	᾽Ἐ̓ρημω-	Ἐρημω-	Ἐρημω-	image (3x): smooth breathing on the capital (apostrophe shape)
+isa	oldtestgreek00unknuoft	208	25	ποταμούς	ποταμούς	ποταμούς	ποταμούς	image (3x): acute before the enclitic as printed
+isa	oldtestgreek00unknuoft	208	25	ξηρανῶ"	ξηρανῶ"	ξηρανῶ·	ξηρανῶ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	208	25	*6	“ὁ	ὁ	ὁ	image (3x): as transcribed; OCR noise (superscript, υ read ν)
+isa	oldtestgreek00unknuoft	208	26	ἊΣ	τὰ	τὰ	τὰ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	208	26	ϑελημμνά	ἐθελήματά	θελήματά	θελήματά	image (3x): acute before the enclitic as printed
+isa	oldtestgreek00unknuoft	208	26	μον	μὸν	μου	μου	image (3x): as transcribed; OCR noise (superscript, υ read ν)
+isa	oldtestgreek00unknuoft	208	26	ποιήσει:	ποιήσει:	ποιήσει·	ποιήσει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	208	26	Ἰερουσαλήμ	Ἰερουσαλήμ	Ἰερουσαλήμ	Ἰερουσαλήμ	image (3x): smooth breathing on the capital (apostrophe shape)
+isa	oldtestgreek00unknuoft	208	26	Οἰποδομηθήσῃ,	οἰκοδομηθήσῃ,	Οἰκοδομηθήσῃ,	Οἰκοδομηθήσῃ,	image (3x): smooth breathing on the capital (apostrophe shape)
+isa	oldtestgreek00unknuoft	208	27	∅	∅	καὶ	καὶ	image (3x, zoom 190 1740 1000 1800): last line read from image, OCR missed it; ¶ printed in text after θεμελιώσω
+isa	oldtestgreek00unknuoft	208	27	∅	∅	τὸν	τὸν	image (3x, zoom 190 1740 1000 1800): last line read from image, OCR missed it; ¶ printed in text after θεμελιώσω
+isa	oldtestgreek00unknuoft	208	27	∅	∅	οἶκον	οἶκον	image (3x, zoom 190 1740 1000 1800): last line read from image, OCR missed it; ¶ printed in text after θεμελιώσω
+isa	oldtestgreek00unknuoft	208	27	∅	∅	τὸν	τὸν	image (3x, zoom 190 1740 1000 1800): last line read from image, OCR missed it; ¶ printed in text after θεμελιώσω
+isa	oldtestgreek00unknuoft	208	27	∅	∅	ἅγιόν	ἅγιόν	image (3x): acute before the enclitic as printed
+isa	oldtestgreek00unknuoft	208	27	∅	∅	μου	μου	image (3x, zoom 190 1740 1000 1800): last line read from image, OCR missed it; ¶ printed in text after θεμελιώσω
+isa	oldtestgreek00unknuoft	208	27	∅	∅	θεμελιώσω.	θεμελιώσω.	image (3x, zoom 190 1740 1000 1800): last line read from image, OCR missed it; ¶ printed in text after θεμελιώσω
+isa	oldtestgreek00unknuoft	208	25	-	-	Κύρῳ	Κύρῳ	image (3x): Κύρῳ as printed (capital K, iota subscript)

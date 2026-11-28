@@ -1,0 +1,37 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	313	1	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	313	1	αὐτοῖς. +57	αὐτοῖς. +57	αὐτοῖς.	αὐτοῖς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	313	3	βασιλεύς,	βασιλεύς,	βασιλεύς,	βασιλεύς,	image (3x): acute on βασιλεύς before comma
+jer	oldtestgreek00unknuoft	313	4	Brade	ξ'τάδε	τάδε	τάδε	image (3x): verse superscript then word as in C; OCR junk
+jer	oldtestgreek00unknuoft	313	5	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	313	6	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	313	6	κοπιασουσιν	κοπιάσουσιν	κοπιάσουσιν	κοπιάσουσιν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	313	6	KEVOV,	κενόν,	κενόν,	κενόν,	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	313	6	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	313	6	ἔθνη	ἔθνη.	ἔθνη	ἔθνη	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	313	6	εν	ἐν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	313	7	59.909	59.Ἠ0	Ὁ	Ὁ	image (3x): rough breathing on Ὁ (open-left curl)
+jer	oldtestgreek00unknuoft	313	7	Ἰερεμίᾳ	Ἰ̓ερεμίᾳ	Ἰερεμίᾳ	Ἰερεμίᾳ	image (3x): smooth breathing on Ἰ
+jer	oldtestgreek00unknuoft	313	9	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on Ἰ
+jer	oldtestgreek00unknuoft	313	9	τετάρτῳ.	τετάρτῳ.	τετάρτῳ	τετάρτῳ	image (3x): no point after τετάρτῳ
+jer	oldtestgreek00unknuoft	313	9	αὐτοῦ"	αὐτοῦ"	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	313	10	Kal	δοκαὶ	καὶ	καὶ	image (3x): verse superscript then word as in C; OCR junk
+jer	oldtestgreek00unknuoft	313	10	Ἰ̔ερεμίας	Ἰ̔ερεμίας	Ἰερεμίας	Ἰερεμίας	image (3x): smooth breathing on Ἰ
+jer	oldtestgreek00unknuoft	313	12	Βαβυλῶνα.	Βαβυλῶνα. +;	Βαβυλῶνα.	Βαβυλῶνα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	313	13	;	Καὶ	Καὶ	Καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	313	13	∅	εἶπεν	εἶπεν	εἶπεν	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	313	13	∅	Ἰερεμίας	Ἰερεμίας	Ἰερεμίας	image (3x): smooth breathing on Ἰ
+jer	oldtestgreek00unknuoft	313	13	∅	πρὸς	πρὸς	πρὸς	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	313	13	∅	Σαραίαν	Σαραίαν	Σαραίαν	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	313	13	∅	Ὅταν	Ὅταν	Ὅταν	image (3x): rough + acute on Ὅταν
+jer	oldtestgreek00unknuoft	313	13	∅	ἔλθῃς	ἔλθῃς	ἔλθῃς	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	313	13	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	313	13	∅	Βαβυλῶνα,	Βαβυλῶνα,	Βαβυλῶνα,	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	313	14	“Kal	“καὶ	καὶ	καὶ	image (3x): verse superscript then word as in C; OCR junk
+jer	oldtestgreek00unknuoft	313	15	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	313	17	“Kal	“Ξκαὶ	καὶ	καὶ	image (3x): verse superscript then word as in C; OCR junk
+jer	oldtestgreek00unknuoft	313	17	παύση	παύσῃ	παύσῃ	παύσῃ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	313	18	λίθον.	λίθον.	λίθον	λίθον	image (6x): small light mark mid-height after λίθον, speck, not a period
+jer	oldtestgreek00unknuoft	313	19	Εὐφράτου,	Εὐφράτου, +“᾽	Εὐφράτου,	Εὐφράτου,	image (3x): smooth breathing on Εὐ / Οὕ as C
+jer	oldtestgreek00unknuoft	313	19	“Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	313	19	Οὕτως	Οὕτως	Οὕτως	Οὕτως	image (3x): smooth breathing on Εὐ / Οὕ as C

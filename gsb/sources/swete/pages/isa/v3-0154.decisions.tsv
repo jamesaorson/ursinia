@@ -1,0 +1,47 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	154	1	Wyre,	Ψητε,	ψητε,	ψητε,	image (3x): ψητε, continuing συνά- from leaf 153; B is margin siglum
+isa	oldtestgreek00unknuoft	154	1	ἔρημον"	ἔρημον᾽	ἔρημον·	ἔρημον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	154	1	ἐν +κατέλείφθησαν,	ἐν	ἐνκατελείφθησαν,	ἐνκατελείφθησαν,	image (3x): ἐνκατελείφθησαν printed as one word, no space
+isa	oldtestgreek00unknuoft	154	1	διέ-	κατελείφθησαν, +διέ-:	διέ-	διέ-	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	154	2	“διὰ	“διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	154	2	κλαυθμὸν +9	κλαυθμὸν +9	κλαυθμὸν	κλαυθμὸν	image (3x): grave; next word Ἰαζὴρ is a name, not a quotation; 9 is margin
+isa	oldtestgreek00unknuoft	154	3	Ἰαζὴρ	Ἰαζὴρ	Ἰαζὴρ	Ἰαζὴρ	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	154	3	Σεβαμά:	Σεβαμά:	Σεβαμά·	Σεβαμά·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	154	3	“Ἐσεβὼν	“Ἐσεβὼν	Ἑσεβὼν	Ἑσεβὼν	image (3x): rough breathing (reversed comma)
+isa	oldtestgreek00unknuoft	154	3	καὶ	καὶ +»	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	154	4	Ἐλεαλή,	Ἐλεαλή,	Ἐλεαλή,	Ἐλεαλή,	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	154	4	τῷ	τῷ +θ	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	154	4	καταπᾶ-	καταπᾶ-	καταπα-	καταπα-	image (3x): no accent on α; a small speck below π, not a mark of the word
+isa	oldtestgreek00unknuoft	154	5	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	154	5	“Kal	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	154	5	ἀγαλ- +τὸ	ἀγαλ- +τὸ	ἀγαλ-	ἀγαλ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	154	6	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	154	6	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	154	6	ἀμπελῶσίν	ἀμπελῶσίν	ἀμπελῶσίν	ἀμπελῶσίν	image (3x): acute before enclitic
+isa	oldtestgreek00unknuoft	154	8	yap.	γάρ.	γάρ.	γάρ.	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	154	8	“dia	τι +"διὰ	διὰ	διὰ	image (3x): διὰ after superscript 11
+isa	oldtestgreek00unknuoft	154	8	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	154	8	καὶ +τι	καὶ +τι	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	154	9	ἐντός	ἐντός	ἐντός	ἐντός	image (3x): acute before enclitic
+isa	oldtestgreek00unknuoft	154	9	“Kat	"“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	154	9	ἐντραπῆναί +12	ἐντραπῆναί +το	ἐντραπῆναί	ἐντραπῆναί	image (3x): acute before enclitic
+isa	oldtestgreek00unknuoft	154	12	“τοῦτο	“τοῦτο	τοῦτο	τοῦτο	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	154	12	ἐλάλησεν. +13	ἐλάλησεν. +τ3 ἀν	ἐλάλησεν.	ἐλάλησεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	154	13	Ἔν	3 +Ἔν	Ἐν	Ἐν	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	154	13	ἡ +14	ἡ +τῷ	ἡ	ἡ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	154	16	Δαμασκοῦ. +᾿	Δαμασκοῦ. +᾿	Δαμασκοῦ.	Δαμασκοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	154	17	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	154	18	τ +"καταλελιμμένη	τ +"καταλελιμμένη	καταλελιμμένη	καταλελιμμένη	image (3x): καταλελιμμένη after superscript 2
+isa	oldtestgreek00unknuoft	154	18	ἀνάπαυσιν, +2	ἀνάπαυσιν, +«	ἀνάπαυσιν,	ἀνάπαυσιν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	154	19	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	154	19	διώκων:	διώκων:	διώκων·	διώκων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	154	19	3Kal	ϑκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	154	19	Ted	τὸῦ	τοῦ	τοῦ	image (3x): τοῦ with circumflex
+isa	oldtestgreek00unknuoft	154	20	3 +Ἔφράιμ᾽	3 +Ἔφράιμ᾽	Ἐφράιμ·	Ἐφράιμ·	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	154	20	Σύρων"	Σύρων"	Σύρων·	Σύρων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	154	21	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+isa	oldtestgreek00unknuoft	154	21	“Τά-	“Τά- +ἃ	Τά-	Τά-	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	154	22	4 +de	δε	δε	δε	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	154	22	σαβαώθ	σαβαώθ	σαβαώθ	σαβαώθ	image (3x): acute before capitalized quotation
+isa	oldtestgreek00unknuoft	154	22	Ἔσται	Ἔσται	Ἔσται	Ἔσται	image (3x): smooth + acute, like ”
+isa	oldtestgreek00unknuoft	154	16	-	-	Τὸ	Τὸ	printed: superscript 1 stands before Ἰδοὺ on the next line; heading carried into verse 1 (XVII in margin beside the heading)

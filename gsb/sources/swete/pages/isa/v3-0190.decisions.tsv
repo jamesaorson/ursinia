@@ -1,0 +1,46 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	190	1	‘Efexias	ἙἝ +ζεκίας	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing on Ε
+isa	oldtestgreek00unknuoft	190	1	“O	Ὃ	Ὁ	Ὁ	image (3x): rough breathing only on Ο, no accent
+isa	oldtestgreek00unknuoft	190	1	θεὺς.	θεὸς.	θεὸς	θεὸς	image (3x): no point after the word, speck only
+isa	oldtestgreek00unknuoft	190	2	Ἀσσυρίων;	Ἀσσυρίων; +ϑ	Ἀσσυρίων;	Ἀσσυρίων;	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	190	3	mov	ποῦ	ποῦ	ποῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	190	3	6	ὃ.	ὁ	ὁ	image (3x): ὁ rough breathing only, no point
+isa	oldtestgreek00unknuoft	190	3	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave before a name, not a quotation
+isa	oldtestgreek00unknuoft	190	3	Ἑμὰθ	Ἑμὰθ	Ἑμὰθ	Ἑμὰθ	image (3x): rough breathing on Ε
+isa	oldtestgreek00unknuoft	190	3	Ἀρφάθ;	Ἀρφάθ;	Ἀρφάθ;	Ἀρφάθ;	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	190	4	Ἐ̓πφαρουαίμ;	Ἐ̓πφαρουαίμ;	Ἐπφαρουαίμ;	Ἐπφαρουαίμ;	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	190	4	Σαμάρειαν	Σαμάρειαν.	Σαμάρειαν	Σαμάρειαν	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	190	4	χειρός	χειρός	χειρός	χειρός	image (3x): extra acute before enclitic μου/σου
+isa	oldtestgreek00unknuoft	190	4	““τίς	““τίς	τίς	τίς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	190	5	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	190	6	χειρός	χειρός	χειρός	χειρός	image (3x): extra acute before enclitic μου/σου
+isa	oldtestgreek00unknuoft	190	6	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	190	6	χειρός	χειρός	χειρός	χειρός	image (3x): extra acute before enclitic μου/σου
+isa	oldtestgreek00unknuoft	190	8	ἀποκριθῆναι.	ἀποκριθῆναι. +“	ἀποκριθῆναι.	ἀποκριθῆναι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	190	8	“καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	190	8	Ἐ̓λιακεὶμ	Ἐ̓λιακεὶμ	Ἐλιακεὶμ	Ἐλιακεὶμ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	190	9	Ἰωὰχ	Ἰωὰχ	Ἰωὰχ	Ἰωὰχ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	190	10	“Acad	Ἀσὰφ	Ἀσὰφ	Ἀσὰφ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	190	10	“Efexiay	ἝἙζεκίαν	Ἑζεκίαν	Ἑζεκίαν	image (3x): rough breathing on Ε
+isa	oldtestgreek00unknuoft	190	11	ἀνηγγειλάν	ἀνήγγειλαν	ἀνήγγειλαν	ἀνήγγειλαν	image (3x): acute on η, none on α
+isa	oldtestgreek00unknuoft	190	11	Ῥαβσάκου.	Ῥαβσάκου.	Ῥαβσάκου.	Ῥαβσάκου.	image (3x): rough breathing on Ρ
+isa	oldtestgreek00unknuoft	190	12	“Ἑζεκίαν, +,	Ἑζεκίαν,	Ἑζεκίαν,	Ἑζεκίαν,	image (3x): rough breathing on Ε
+isa	oldtestgreek00unknuoft	190	13	“καὶ	ΕῚ +“καὶ	καὶ	καὶ	image (3x): superscript 2 then καὶ
+isa	oldtestgreek00unknuoft	190	14	“Ἑλιακεὶμ	Ε +“Ἑλιακεὶμ	Ἐλιακεὶμ	Ἐλιακεὶμ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	190	16	Ἡσαίαν	Ἡσαίαν	Ἠσαίαν	Ἠσαίαν	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	190	16	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): grave before a name, not a quotation
+isa	oldtestgreek00unknuoft	190	16	Ἀμὼς	Ἀμὼς	Ἀμὼς	Ἀμὼς	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	190	16	προφήτην"	προφήτην:	προφήτην·	προφήτην·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	190	16	ϑκαὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	190	17	E¢exias	ζεκίας	Ἑζεκίας	Ἑζεκίας	image (3x): rough breathing on Ε
+isa	oldtestgreek00unknuoft	190	17	Ἡμέρα	Ἡμέρα	Ἡμέρα	Ἡμέρα	image (3x): rough breathing on Η, quotation start
+isa	oldtestgreek00unknuoft	190	18	od	ἡ	ἡ	ἡ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	190	18	∅	ὠδὶν	ὠδὶν	ὠδὶν	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	190	19	“εἰσακούσαι	“εἰσακούσαι	εἰσακούσαι	εἰσακούσαι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	190	19	θεός	θεός	θεός	θεός	image (3x): extra acute before enclitic μου/σου
+isa	oldtestgreek00unknuoft	190	19	Ρ̓̔αβσάκου,	Ρ̓̔αβσάκου,	Ῥαβσάκου,	Ῥαβσάκου,	image (3x): rough breathing on Ρ
+isa	oldtestgreek00unknuoft	190	19	οὗς	οὗς	οὓς	οὓς	image (3x): rough+grave closed mark on υ (like ὃς), not circumflex
+isa	oldtestgreek00unknuoft	190	20	ἀπέστειλεν.	ἀπέστειλεν.	ἀπέστειλεν	ἀπέστειλεν	image (3x): no point after the word, speck only
+isa	oldtestgreek00unknuoft	190	20	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave before a name, not a quotation
+isa	oldtestgreek00unknuoft	190	20	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	Ἀσσυρίων	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	190	15	-	-	πρεσβυτέρους	πρεσβυτέρους	ambiguous: a small grave-like stroke stands over the σ (not over a vowel), stray type or show-through; not transcribed

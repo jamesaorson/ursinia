@@ -534,7 +534,7 @@
 
 (lemma "ἐπικαθίζω" (sense sit-upon (verb "sit upon" "sat upon" "sat upon") (dative "") (gloss "sit upon" "sat upon" "sits upon" "sitting upon") (why "To sit on (Genesis 31:34 ἐπεκάθισεν αὐτοῖς, Rachel on the idols; Matthew 21:7 ἐπεκάθισεν ἐπάνω αὐτῶν). The dative is its object: \"sat upon them\".")))
 
-(lemma "ἐπικαλέω" (sense call-upon (voice active) (gloss "call upon" "called upon" "calls upon" "calling upon") (why "Middle: to call upon (a name), Genesis 4:26; Romans 10:13.")))
+(lemma "ἐπικαλέω" (sense call-upon (voice middle) (gloss "call upon" "called upon" "calls upon" "calling upon") (why "Middle: to call upon (a name), Genesis 4:26; Romans 10:13. (voice middle): the middle/passive forms of the present and perfect (ἐπικαλεῖσθαι, Genesis 4:26) are the active \"call upon\"; the aorist and future passive are passive (Genesis 48:16 ἐπικληθήσεται \"will be called upon\").")))
 
 (lemma "ἐπικαλύπτω" (sense cover-over (gloss "cover over" "covered over" "covers over" "covering over") (why "To cover over (Genesis 7:19-20, the water covered over all the high mountains; Romans 4:7, whose sins were covered over, from Psalm 31:1). \"Cover over\" for the ἐπι- of the compound.")))
 

@@ -1,0 +1,46 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	203	1	ζῆλον.	ζῆλον.	ζῆλον	ζῆλον	image (3x): no point after the word (OCR speck/noise); punctuation as transcribed
+isa	oldtestgreek00unknuoft	203	1	"“ἐσιώπησα, +B	""ἐσιώπησα, +Β	ἐσιώπησα,	ἐσιώπησα,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	203	3	ἐκστήσω;	ἐκστήσω,	ἐκστήσω	ἐκστήσω	image (3x): no point after the word (OCR speck/noise); punctuation as transcribed
+isa	oldtestgreek00unknuoft	203	3	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	203	3	ξηρανῶ	ξηρανῷ	ξηρανῶ	ξηρανῶ	image (3x): as transcribed (ξηρανῶ no subscript; ᾗ and ᾔδεισαν with iota subscript; unaccented λέγοντες/χωνευτοῖς ending; rough Ὑ, Οἱ; smooth Ἀ, Ἰ; grave before capital; προνομήν single acute at 4x)
+isa	oldtestgreek00unknuoft	203	3	“éepnuwow	᾿“ἐρημώσω	ἐρημώσω	ἐρημώσω	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	203	5	“καὶ	"Ῥκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	203	5	7}	ἧ	ᾗ	ᾗ	image (3x): as transcribed (ξηρανῶ no subscript; ᾗ and ᾔδεισαν with iota subscript; unaccented λέγοντες/χωνευτοῖς ending; rough Ὑ, Οἱ; smooth Ἀ, Ἰ; grave before capital; προνομήν single acute at 4x)
+isa	oldtestgreek00unknuoft	203	5	ἤδεισαν	ἤδεισαν	ᾔδεισαν	ᾔδεισαν	image (3x): as transcribed (ξηρανῶ no subscript; ᾗ and ᾔδεισαν with iota subscript; unaccented λέγοντες/χωνευτοῖς ending; rough Ὑ, Οἱ; smooth Ἀ, Ἰ; grave before capital; προνομήν single acute at 4x)
+isa	oldtestgreek00unknuoft	203	6	ποιήσω,	ποιήσω;	ποιήσω	ποιήσω	image (3x): no point after the word (OCR speck/noise); punctuation as transcribed
+isa	oldtestgreek00unknuoft	203	6	αὐτούς"	αὐτούς"	αὐτούς·	αὐτούς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	203	6	ποιήσω.	ποιήσω.	ποιήσω	ποιήσω	image (3x): no point after the word (OCR speck/noise); punctuation as transcribed
+isa	oldtestgreek00unknuoft	203	6	σκότος.	σκότος	σκότος	σκότος	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	203	8	αὐτούς" +"	αὐτούς" +"	αὐτούς·	αὐτούς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	203	9	πεποιθότες.	πεποιθότες.	πεποιθότες	πεποιθότες	image (3x): no point after the word (OCR speck/noise); punctuation as transcribed
+isa	oldtestgreek00unknuoft	203	9	τοῖς	τοῖς.	τοῖς	τοῖς	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	203	9	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	203	9	λέγοντές	λέγοντές	λέγοντες	λέγοντες	image (3x): as transcribed (ξηρανῶ no subscript; ᾗ and ᾔδεισαν with iota subscript; unaccented λέγοντες/χωνευτοῖς ending; rough Ὑ, Οἱ; smooth Ἀ, Ἰ; grave before capital; προνομήν single acute at 4x)
+isa	oldtestgreek00unknuoft	203	9	χωνέυτοῖς	χωνέυτοῖς	χωνευτοῖς	χωνευτοῖς	image (3x): as transcribed (ξηρανῶ no subscript; ᾗ and ᾔδεισαν with iota subscript; unaccented λέγοντες/χωνευτοῖς ending; rough Ὑ, Οἱ; smooth Ἀ, Ἰ; grave before capital; προνομήν single acute at 4x)
+isa	oldtestgreek00unknuoft	203	9	Ὑμεῖς	Ὑμεῖς	Ὑμεῖς	Ὑμεῖς	image (3x): as transcribed (ξηρανῶ no subscript; ᾗ and ᾔδεισαν with iota subscript; unaccented λέγοντες/χωνευτοῖς ending; rough Ὑ, Οἱ; smooth Ἀ, Ἰ; grave before capital; προνομήν single acute at 4x)
+isa	oldtestgreek00unknuoft	203	11	*Oi	τϑ +0 ὲἑ	Οἱ	Οἱ	image (3x): as transcribed (ξηρανῶ no subscript; ᾗ and ᾔδεισαν with iota subscript; unaccented λέγοντες/χωνευτοῖς ending; rough Ὑ, Οἱ; smooth Ἀ, Ἰ; grave before capital; προνομήν single acute at 4x)
+isa	oldtestgreek00unknuoft	203	11	ἰδεῖν.	ἰδεῖν. +"9	ἰδεῖν.	ἰδεῖν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	203	11	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	203	12	παῖδές	παῖδές	παῖδές	παῖδές	image (3x): as transcribed (ξηρανῶ no subscript; ᾗ and ᾔδεισαν with iota subscript; unaccented λέγοντες/χωνευτοῖς ending; rough Ὑ, Οἱ; smooth Ἀ, Ἰ; grave before capital; προνομήν single acute at 4x)
+isa	oldtestgreek00unknuoft	203	12	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	203	13	“εἴδετε	“εἴδετε	εἴδετε	εἴδετε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	203	14	ἐφυλάξασθε:	ἐφυλάξασθε:	ἐφυλάξασθε·	ἐφυλάξασθε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	203	14	““Κύριος	"Κύριος	Κύριος	Κύριος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	203	15	iva	ἵνα	ἵνα	ἵνα	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	203	15	δικαιωθῇ.	δικαιωθῇ	δικαιωθῇ	δικαιωθῇ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	203	15	αἴνεσιν:	αἴνεσιν:	αἴνεσιν.	αἴνεσιν.	image (3x): no point after the word (OCR speck/noise); punctuation as transcribed
+isa	oldtestgreek00unknuoft	203	15	™xal	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	203	16	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	203	16	διηρπασμένος"	διηρπασμένος"	διηρπασμένος·	διηρπασμένος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	203	17	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	203	18	πρόνομήν"	πρόνομήν"	προνομήν·	προνομήν·	image (3x): as transcribed (ξηρανῶ no subscript; ᾗ and ᾔδεισαν with iota subscript; unaccented λέγοντες/χωνευτοῖς ending; rough Ὑ, Οἱ; smooth Ἀ, Ἰ; grave before capital; προνομήν single acute at 4x)
+isa	oldtestgreek00unknuoft	203	19	Ἀπόδος.	Ἀπόδος.	Ἀπόδος.	Ἀπόδος.	image (3x): as transcribed (ξηρανῶ no subscript; ᾗ and ᾔδεισαν with iota subscript; unaccented λέγοντες/χωνευτοῖς ending; rough Ὑ, Οἱ; smooth Ἀ, Ἰ; grave before capital; προνομήν single acute at 4x)
+isa	oldtestgreek00unknuoft	203	20	εἰς.	εἰς.	εἰς	εἰς	image (3x): no point after the word (OCR speck/noise); punctuation as transcribed
+isa	oldtestgreek00unknuoft	203	20	*ois	“οἷς	οἷς	οἷς	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	203	20	διαρπαγὴν	διαρπαγὴν	διαρπαγὴν	διαρπαγὴν	image (3x): as transcribed (ξηρανῶ no subscript; ᾗ and ᾔδεισαν with iota subscript; unaccented λέγοντες/χωνευτοῖς ending; rough Ὑ, Οἱ; smooth Ἀ, Ἰ; grave before capital; προνομήν single acute at 4x)
+isa	oldtestgreek00unknuoft	203	20	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): as transcribed (ξηρανῶ no subscript; ᾗ and ᾔδεισαν with iota subscript; unaccented λέγοντες/χωνευτοῖς ending; rough Ὑ, Οἱ; smooth Ἀ, Ἰ; grave before capital; προνομήν single acute at 4x)
+isa	oldtestgreek00unknuoft	203	20	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): as transcribed (ξηρανῶ no subscript; ᾗ and ᾔδεισαν with iota subscript; unaccented λέγοντες/χωνευτοῖς ending; rough Ὑ, Οἱ; smooth Ἀ, Ἰ; grave before capital; προνομήν single acute at 4x)
+isa	oldtestgreek00unknuoft	203	21	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	203	23	kal	“Ξκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	203	16	-	-	πεπρονὸμευμένος	πεπρονὸμευμένος	misprint: stray grave on the second ο (full-weight ink at 5x), kept as printed

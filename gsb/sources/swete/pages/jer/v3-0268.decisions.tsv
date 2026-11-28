@@ -1,0 +1,40 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	268	1	avayyeAdra	ἀναγγειλάτω	ἀναγγειλάτω	ἀναγγειλάτω	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	268	1	yn	γῆ:	γῆ·	γῆ·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	268	2	αὐτήν. +3	αὐτήν. +3	αὐτήν.	αὐτήν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	268	2	ape +13	Κύριος +13	Κύριος	Κύριος	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	268	3	μέ	μέ	μέ	μέ	image (3x): acute on μέ before capitalized Διὰ (H3)
+jer	oldtestgreek00unknuoft	268	3	αὐτοὺς	αὐτοὺς.	αὐτοὺς	αὐτοὺς	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	268	4	"“ἀλλ᾽	"“ἀλλ᾽	ἀλλ᾽	ἀλλ᾽	image (3x): OCR junk from superscript verse numbers / margin; letters as in C; no period after ἐγὼ; ἐκτρίψαι with ψ
+jer	oldtestgreek00unknuoft	268	4	ἐπορεύ- +14	ἐπορεύ- +τ4	ἐπορεύ-	ἐπορεύ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	268	6	"διὰ	"διὰ	διὰ	διὰ	image (3x): OCR junk from superscript verse numbers / margin; letters as in C; no period after ἐγὼ; ἐκτρίψαι with ψ
+jer	oldtestgreek00unknuoft	268	6	τάδε +15	τάδε +15	τάδε	τάδε	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	268	7	Kupies	Κύριος	Κύριος	Κύριος	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	268	7	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave on θεὸς (Swete keeps grave before the proper name here)
+jer	oldtestgreek00unknuoft	268	7	Ἡκροήλ,	Ἰσραήλ	Ἰσραὴλ	Ἰσραήλ	image (3x): smooth breathing on Ι; acute on final syllable before capitalized Ἰδοὺ
+jer	oldtestgreek00unknuoft	268	7	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on Ἰδοὺ
+jer	oldtestgreek00unknuoft	268	7	ἐγὼ.	ἐγὼ.	ἐγὼ	ἐγὼ	image (3x): OCR junk from superscript verse numbers / margin; letters as in C; no period after ἐγὼ; ἐκτρίψαι with ψ
+jer	oldtestgreek00unknuoft	268	7	Ψωμιῶ.	ψωμιῶ	ψωμιῶ	ψωμιῶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	268	7	αὐτοὺς	αὐτοὺς.	αὐτοὺς	αὐτοὺς	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	268	8	χολῆς, +*	χολῆς,	χολῆς,	χολῆς,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	268	8	καὶ	“καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	268	8	διισιφρναι	διασκορπιῶ	διασκορπιῶ	διασκορπιῶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	268	8	ἔθνεσιν +τό	ἔθνεσιν +τό	ἔθνεσιν	ἔθνεσιν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	268	9	ots	οὖς	οὓς	οὓς	image (3x): rough breathing plus grave: οὓς
+jer	oldtestgreek00unknuoft	268	10	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	268	11	7Tdde	ιγάδε	Τάδε	Τάδε	image (3x): superscript verse number fused; Τάδε, ἀκούσατε
+jer	oldtestgreek00unknuoft	268	11	καὶ +x7	καὶ +17	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	268	12	φθεγξάσθωσαν +18	φθεγξάσθωσαν +18	φθεγξάσθωσαν	φθεγξάσθωσαν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	268	13	ὀφθαλμοὶ +18	ὀφθαλμοὶ +18	ὀφθαλμοὶ	ὀφθαλμοὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	268	14	ὅτι	"ὅτι	ὅτι	ὅτι	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	268	14	οἰκτροῦ +x9	οἰκτροῦ +το	οἰκτροῦ	οἰκτροῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	268	15	Σειών	Σειών	Σειὼν	Σειών	image (3x): acute on Σειών before capitalized Πῶς
+jer	oldtestgreek00unknuoft	268	17	dxovoate	ξοἀκούσατε	ἀκούσατε	ἀκούσατε	image (3x): superscript verse number fused; Τάδε, ἀκούσατε
+jer	oldtestgreek00unknuoft	268	17	ὑμῶν +20	ὑμῶν +0	ὑμῶν	ὑμῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	268	19	“ὅτι	“ὅτι	ὅτι	ὅτι	image (3x): OCR junk from superscript verse numbers / margin; letters as in C; no period after ἐγὼ; ἐκτρίψαι with ψ
+jer	oldtestgreek00unknuoft	268	19	τῶν +2x	τῶν +“1	τῶν	τῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	268	20	ὑμῶν,	ὑμῶν, +:	ὑμῶν,	ὑμῶν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	268	20	ἐκτρίψραι	ἐκτρίψραι	ἐκτρίψαι	ἐκτρίψαι	image (3x): OCR junk from superscript verse numbers / margin; letters as in C; no period after ἐγὼ; ἐκτρίψαι with ψ
+jer	oldtestgreek00unknuoft	268	21	“Kal	““καὶ	καὶ	καὶ	image (3x): OCR junk from superscript verse numbers / margin; letters as in C; no period after ἐγὼ; ἐκτρίψαι with ψ
+jer	oldtestgreek00unknuoft	268	21	T&v +22	τῶν᾽ +22	τῶν	τῶν	image (3x): OCR junk from superscript verse numbers / margin; letters as in C; no period after ἐγὼ; ἐκτρίψαι with ψ
+jer	oldtestgreek00unknuoft	268	24	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip

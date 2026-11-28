@@ -1,0 +1,57 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+isa	oldtestgreek00unknuoft	209	1	Οὕτως	Οὕτως	Οὕτως	Οὕτως	image (3x): rough + acute on Ο, Οὕτως
+isa	oldtestgreek00unknuoft	209	1	*ypictg	᾿χριστῷ	χριστῷ	χριστῷ	image (3x): as transcribed; OCR noise (superscripts, § and ¶ marks, ano teleia, specks)
+isa	oldtestgreek00unknuoft	209	1	ob	οὗ	οὗ	οὗ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	209	3	ἔμπεροσθεν	ἔμπροσθεν	ἔμπροσθεν	ἔμπροσθεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+isa	oldtestgreek00unknuoft	209	4	σονται	σονται +“	σονται	σονται	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	209	4	“ +Ey	Ἐγὼ	Ἐγὼ	Ἐγὼ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	209	4	ἔμπροσθέν	ἔμπροσθέν	ἔμπροσθέν	ἔμπροσθέν	image (3x): acute before the enclitic as printed
+isa	oldtestgreek00unknuoft	209	4	“ὁμαλιῶ,	“ὁμαλιῶ,	ὁμαλιῶ,	ὁμαλιῶ,	image (3x): as transcribed; OCR noise (superscripts, § and ¶ marks, ano teleia, specks)
+isa	oldtestgreek00unknuoft	209	5	ϑκαὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	209	7	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave before Κύριος/Ἰσραήλ (not a quotation)
+isa	oldtestgreek00unknuoft	209	7	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): acute before the enclitic as printed
+isa	oldtestgreek00unknuoft	209	7	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave before Κύριος/Ἰσραήλ (not a quotation)
+isa	oldtestgreek00unknuoft	209	7	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	209	7	“ἕνεκεν	“ἕνεκεν	ἕνεκεν	ἕνεκεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	209	8	παιδός	παιδός +μ	παιδός	παιδός	image (3x): acute before the enclitic as printed
+isa	oldtestgreek00unknuoft	209	8	Ἰακὼβ	Ἰακὼβ.	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	209	8	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	209	8	μου	μου +μου	μου	μου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	209	9	ὀνόματί	ὀνόματί	ὀνόματί	ὀνόματί	image (3x): acute before the enclitic as printed
+isa	oldtestgreek00unknuoft	209	9	προσδέξομαί	προσδέξομαί	προσδέξομαί	προσδέξομαί	image (3x): acute before the enclitic as printed
+isa	oldtestgreek00unknuoft	209	9	σε:	σε:	σε·	σε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	209	9	ἔγνως.	ἔγνως.	ἔγνως	ἔγνως	image (3x): as transcribed; OCR noise (superscripts, § and ¶ marks, ano teleia, specks)
+isa	oldtestgreek00unknuoft	209	9	ὅδτι	ὅὅτι	ὅτι	ὅτι	image (3x): as transcribed; OCR noise (superscripts, § and ¶ marks, ano teleia, specks)
+isa	oldtestgreek00unknuoft	209	9	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave before Κύριος/Ἰσραήλ (not a quotation)
+isa	oldtestgreek00unknuoft	209	10	ἐμοῦ:	ἐμοῦ:	ἐμοῦ·	ἐμοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	209	10	ἐνίσχυσά	ἐνίσχυσά	ἐνίσχυσά	ἐνίσχυσά	image (3x): acute before the enclitic as printed
+isa	oldtestgreek00unknuoft	209	11	ἥδεις	ἤἥδεις	ᾔδεις	ᾔδεις	image (3x): η with smooth + acute and iota subscript, ᾔδεις
+isa	oldtestgreek00unknuoft	209	11	ἀπὸ.	ἀπὸ.	ἀπὸ	ἀπὸ	image (3x): as transcribed; OCR noise (superscripts, § and ¶ marks, ano teleia, specks)
+isa	oldtestgreek00unknuoft	209	12	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave before Κύριος/Ἰσραήλ (not a quotation)
+isa	oldtestgreek00unknuoft	209	12	Τέἐγὼ	Τέἐγὼ	ἐγὼ	ἐγὼ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+isa	oldtestgreek00unknuoft	209	14	∅	κακά-	κακά·	κακά·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	209	14	∅	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave before Κύριος/Ἰσραήλ (not a quotation)
+isa	oldtestgreek00unknuoft	209	14	∅	Κύριος	Κύριος	Κύριος	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	209	14	∅	ὁ	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	209	14	∅	θεὸς	θεὸς	θεὸς	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	209	14	∅	ὁ	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	209	14	∅	ποιῶν	ποιῶν	ποιῶν	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	209	14	∅	πάντα	πάντα	πάντα	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	209	14	∅	ταῦτα.	ταῦτα.	ταῦτα.	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	209	14	∅	εὐφρανθήτω.	εὐφρανθήτω	εὐφρανθήτω	image (3x): as transcribed; OCR noise (superscripts, § and ¶ marks, ano teleia, specks)
+isa	oldtestgreek00unknuoft	209	14	∅	ὁ	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
+isa	oldtestgreek00unknuoft	209	15	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+isa	oldtestgreek00unknuoft	209	15	δικαιοσύνην +-	δικαιοσύνην +-	δικαιοσύνην·	δικαιοσύνην·	image (3x): as transcribed; OCR noise (superscripts, § and ¶ marks, ano teleia, specks)
+isa	oldtestgreek00unknuoft	209	16	ἅμα"	ἅμα" +ἐπ	ἅμα·	ἅμα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+isa	oldtestgreek00unknuoft	209	16	ἐγώ	ἐγώ	ἐγώ	ἐγώ	image (3x): acute before the enclitic as printed
+isa	oldtestgreek00unknuoft	209	17	Ποῖον.	Ποῖον.	Ποῖον	Ποῖον	image (3x): as transcribed; OCR noise (superscripts, § and ¶ marks, ano teleia, specks)
+isa	oldtestgreek00unknuoft	209	19	6	ὃ	ὁ	ὁ	image (3x): as transcribed; OCR noise (superscripts, § and ¶ marks, ano teleia, specks)
+isa	oldtestgreek00unknuoft	209	20	“μὴ	το +“μὴ	μὴ	μὴ	image (3x): as transcribed; OCR noise (superscripts, § and ¶ marks, ano teleia, specks)
+isa	oldtestgreek00unknuoft	209	21	πατρί	πατρί	πατρί	πατρί	image (3x): acute before capitalized quotation Τί
+isa	oldtestgreek00unknuoft	209	21	μητρί	μητρί	μητρί	μητρί	image (3x): acute before capitalized quotation Τί
+isa	oldtestgreek00unknuoft	209	21	ὠδίνεις +ἵ; τ᾽	ὠδίνεις +ἵ; τ᾽	ὠδίνεις;	ὠδίνεις;	image (3x): as transcribed; OCR noise (superscripts, § and ¶ marks, ano teleia, specks)
+isa	oldtestgreek00unknuoft	209	22	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	209	22	Ἐ̓ρωτήσατέ	Ἐρωτήσατέ	Ἐρωτήσατέ	Ἐρωτήσατέ	image (3x): smooth breathing on the capital
+isa	oldtestgreek00unknuoft	209	3	οὐ +Ἵ	οὐ +Ἵ	οὐ	οὐ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+isa	oldtestgreek00unknuoft	209	4	-	-	σονται	σονται	image (3x): no punctuation printed after σονται before {2}Ἐγὼ; kept as printed
+isa	oldtestgreek00unknuoft	209	3	-	-	συνκλεισθή-	συνκλεισθή-	image (3x): συν- with ν as printed

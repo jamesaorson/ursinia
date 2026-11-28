@@ -134,7 +134,8 @@
   (call-with-values load-literal-env
     (lambda (e problems)
       (make-env (env-forms e) (env-nt e) (env-senses e) (env-phrases e) (make-hash-table) (make-hash-table)))))
-(define gen-verses (read-greek-table "gsb/greek/01-gen.tsv"))
+(define gen-verses (append (read-greek-table "gsb/greek/01-gen.tsv")
+                           (filter (lambda (v) (string-prefix? "exod.20." (car v))) (read-greek-table "gsb/greek/02-exod.tsv"))))
 (define (gen ref)
   (call-with-values (lambda () (render-verse real-env ref (assoc-ref gen-verses ref) #t))
     (lambda (segs stop?) (string-join (map car segs) " "))))
@@ -215,6 +216,68 @@
 (has "gen.25.6" "he further living")
 ;; B. Mechanics.
 (lacks "gen.13.8" "Let  not")
+
+;;; Second fix round (2026-11-28, ursinia-vff.47). Expected English decided
+;;; from the Greek of each verse.
+;; 1. A neuter plural subject takes a plural English verb, before or after it.
+(has "gen.43.30" "for his bowels were being twisted together")    ; συνεστρέφετο τὰ ἔντερα αὐτοῦ
+(has "gen.40.17" "the birds of the heaven were devouring them")    ; τὰ πετεινὰ ... κατήσθιεν αὐτά
+(has "gen.49.24" "And their bows were crushed with might")         ; possessive not left behind
+(has "gen.22.20" "Milcah and she has borne")                       ; καὶ αὐτή is not a second subject
+;; 2. A name's case: apposition after a title or a preposition, an open dative.
+(has "gen.35.9" "But God appeared to Jacob")                       ; Ὤφθη ... ὁ θεὸς Ἰακώβ
+(has "gen.29.29" "But Laban gave to Rachel his daughter Bilhah")    ; Ῥαχὴλ τῇ θυγατρὶ αὐτοῦ
+(has "gen.36.15" "chief Teman, chief Omar")                         ; ἡγεμών (apposition)
+(has "gen.36.16" "these chiefs of Eliphaz")                         ; a plural title: genitive
+(has "gen.29.18" "concerning Rachel your younger daughter")
+(has "gen.45.21" "by Pharaoh the king")
+(has "gen.49.29" "in the field of Ephron the Hittite")
+(has "gen.25.9" "the field of Ephron of Zohar the Hittite")        ; τοῦ Σάαρ: his father
+(has "gen.10.16" "And the Jebusite and the Amorite")               ; the article before a people
+;; 3. The one pronoun of a transitive articular infinitive after a
+;; preposition of time or a noun is its subject; bare τοῦ is a purpose.
+(has "gen.38.17" "until your sending")                             ; ἕως τοῦ ἀποστεῖλαί σε
+(has "gen.38.28" "in her bearing")                                 ; ἐν τῷ τίκτειν αὐτήν
+(has "gen.25.24" "And the days of her bearing were filled")        ; with its noun when moved
+(has "gen.39.15" "But in his hearing that")                        ; past δέ
+(has "gen.41.32" "God will hurry to make it")                      ; purpose after the verb
+(has "gen.4.15" "of not taking him away all the [one] finding him") ; a second accusative is the subject
+(has "exod.20.20" "on account of testing you")                     ; ἕνεκεν: a purpose
+;; 4. The subject phrase moves whole.
+(has "gen.32.4" "So your servant Jacob says")                      ; ὁ παῖς σου Ἰακώβ
+(has "gen.43.8" "and both we and you and our baggage may not die")
+(has "gen.47.19" "and we and our earth will be servants of Pharaoh") ; the predicate stays
+(has "gen.38.25" "these are")                                       ; ἐγώ is not ἐστιν's subject
+(has "gen.43.27" "If your older father is healthy")                ; ὁ πατὴρ ὑμῶν ὁ πρεσβύτερος
+;; 5. A negation stays with its verb when δέ/γάρ moves; ἄν with a past
+;; indicative is "would have", with an optative "would".
+(has "gen.40.23" "But the chief cupbearer did not remember Joseph")
+(has "gen.8.21" "therefore I will not add further to strike")
+(has "gen.43.10" "For if we did not delay already we would have returned twice")
+(has "gen.31.27" "I would have sent you out")
+(has "gen.44.8" "how would we steal")
+(has "gen.6.4" "as ever the sons of God were entering")             ; ὡς ἄν: iterative
+;; 6. κύριος: Swete's capital is the divine name; lower case is "lord".
+(has "gen.39.3" "lord knew that [the] Lord with him")
+(has "gen.32.4" "to my lord Esau")
+;; 7. Speech opening at a name, a hanging nominative, a capital after a
+;; preposition or article (a name, not speech).
+(has "gen.16.8" "said to her, Hagar maidservant of Sarai, from where do you come?")
+(has "gen.17.15" "But God said to Abraham, Sarai your woman,")
+(has "gen.24.40" "And he/she/it said to me, The Lord God,")
+(has "gen.34.8" "And Hamor spoke to them saying, Shechem my son preferred")
+(has "gen.30.13" "And Leah said, Happy I")
+(has "gen.31.11" "according to sleep, Jacob Jacob.")
+(has "gen.33.17" "And Jacob departs into Tents;")
+(has "gen.42.22" "saying, Do not wrong the lad")                   ; nested: a prohibition
+;; 8. First singular or third plural (ἔλαβον, ἴδον): by a cue in the sentence.
+(has "gen.48.22" "which I took out of hand")                       ; ἐγώ
+(has "gen.50.11" "And the inhabitants of the earth of Canaan saw")  ; a plural nominative
+(has "gen.12.15" "And the rulers of Pharaoh saw her")
+;; Lettered chapters (Esther's additions).
+(check "chapter-arg" (map chapter-arg '("12" "A" "0" "a" "AB")) '(12 "A" #f #f #f))
+(check "literal-chapter-key" (map literal-chapter-key '("001.scm" "A.scm" "book.scm")) '(1 "A" #f))
+(check "chapter<?" (sort (list "B" 3 "A" 1) chapter<?) '(1 3 "A" "B"))
 
 (if (zero? failures)
     (format #t "gsb-literal: all checks pass~%")
