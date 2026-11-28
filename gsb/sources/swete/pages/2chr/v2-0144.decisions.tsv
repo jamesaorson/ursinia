@@ -35,7 +35,7 @@ book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 2chr	oldtestamenting02swet	144	17	ἐντολὰς	ἐντολὰς	ἐντολὰς	ἐντολὰς	image (3x): grave on ἐντολὰς before Δαυείδ
 2chr	oldtestamenting02swet	144	17	καὶ +ὦ	καὶ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
 2chr	oldtestamenting02swet	144	17	Ἀσὰφ	Ἀσὰφ	Ἀσὰφ	Ἀσὰφ	image (3x): smooth breathing on capital
-2chr	oldtestamenting02swet	144	18	Αἱμὰν	Αἱμὰν	Αἱμὰν	Αἱμὰν	image (3x): unaccented capital Α, rough breathing + grave? no: rough breathing on ι, grave on ὰ: Αἱμὰν
+2chr	oldtestamenting02swet	144	18	Αἱμὰν	Αἱμὰν	Αἱμὰν	Αἱμὰν	image (3x): capital Α without breathing; rough breathing on ι, grave on ὰ: Αἱμὰν
 2chr	oldtestamenting02swet	144	18	Ἰδειθὼμ	Ἰδειθὼμ	Ἰδειθὼμ	Ἰδειθὼμ	image (3x): smooth breathing on capital
 2chr	oldtestamenting02swet	144	18	βασιλέως"	βασιλέως"	βασιλέως·	βασιλέως·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 2chr	oldtestamenting02swet	144	19	π	π	πυλωροὶ	πυλωροὶ	image (3x): πυλωροὶ πύλης as printed; the line under them is a handwritten pencil underline
@@ -66,3 +66,4 @@ book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 2chr	oldtestamenting02swet	144	29	ὀκτω-	ὀκτω- +τὸ	ὀκτω-	ὀκτω-	class R3: OCR appended accent-row or margin junk; c read from the image strip
 2chr	oldtestamenting02swet	144	30	Ἰωσεία. +“5	Ἰωσεία.	Ἰωσεία.	Ἰωσεία.	image (3x): smooth breathing on capital
 2chr	oldtestamenting02swet	144	30	καὶ	καὶ +τὸ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	144	15	-	-	αὑτοῖς	αὑτοῖς	ambiguous-looking but read at 6x: the breathing on υ is a c-shaped rough mark, not smooth; Swete prints αὑτοῖς here (OCRs agree)

@@ -1,61 +1,61 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
-2chr	oldtestamenting02swet	126	1	"Εἴκοσι	"Εἴκοσι	Εἴκοσι	Εἴκοσι	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2chr	oldtestamenting02swet	126	1	"Εἴκοσι	"Εἴκοσι	Εἴκοσι	Εἴκοσι	image (3x): smooth breathing on the capital (word and punctuation as in the page file)
 2chr	oldtestamenting02swet	126	1	ἐτῶν	ἐτῶν +»	ἐτῶν	ἐτῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
-2chr	oldtestamenting02swet	126	1	Αχὰς	Ἀχὰς	Ἀχὰς	Ἀχὰς	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DROP, B same
-2chr	oldtestamenting02swet	126	1	ἕξ	ἕξ	ἓξ	ἓξ	TODO zoom: A DIA, B DIA
+2chr	oldtestamenting02swet	126	1	Αχὰς	Ἀχὰς	Ἀχὰς	Ἀχὰς	image (3x): smooth breathing on the capital (word and punctuation as in the page file)
+2chr	oldtestamenting02swet	126	1	ἕξ	ἕξ	ἓξ	ἓξ	image (3x): compact closed rough+grave mark (as ὃς)
 2chr	oldtestamenting02swet	126	1	ἔτη +τ	ἔτη	ἔτη	ἔτη	class R3: OCR appended accent-row or margin junk; c read from the image strip
-2chr	oldtestamenting02swet	126	2	Ἰερουσαλήμ:	Ἰερουσαλήμ:	Ἰερουσαλήμ·	Ἰερουσαλήμ·	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2chr	oldtestamenting02swet	126	2	Ἰερουσαλήμ:	Ἰερουσαλήμ:	Ἰερουσαλήμ·	Ἰερουσαλήμ·	image (3x): smooth breathing on the capital (word and punctuation as in the page file)
 2chr	oldtestamenting02swet	126	3	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-2chr	oldtestamenting02swet	126	4	Ἰσραηλ:	Ἰσραηλ:	Ἰσραήλ·	Ἰσραήλ·	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B OPEN
+2chr	oldtestamenting02swet	126	4	Ἰσραηλ:	Ἰσραηλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing on the capital (word and punctuation as in the page file)
 2chr	oldtestamenting02swet	126	4	αὐτῶν"	αὐτῶν"	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-2chr	oldtestamenting02swet	126	5	ϑέθυεν	ϑέθυεν	ἔθυεν	ἔθυεν	TODO zoom: A OPEN, B OPEN
-2chr	oldtestamenting02swet	126	5	Ταιβενθὸμ	Ταιβενθὸμ.	Γαιβενθὸμ	Γαιβενθὸμ	TODO zoom: A OPEN, B OPEN
+2chr	oldtestamenting02swet	126	5	ϑέθυεν	ϑέθυεν	ἔθυεν	ἔθυεν	image (3x): ἔθυεν after superscript 3, smooth+acute
+2chr	oldtestamenting02swet	126	5	Ταιβενθὸμ	Ταιβενθὸμ.	Γαιβενθὸμ	Γαιβενθὸμ	image (3x): Γ, not Τ: Γαιβενθὸμ
 2chr	oldtestamenting02swet	126	5	βδε- +3	βδε- +3	βδε-	βδε-	class R3: OCR appended accent-row or margin junk; c read from the image strip
-2chr	oldtestamenting02swet	126	7	»	Ισραήλ.	Ἰσραήλ.	Ἰσραήλ.	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B DROP
-2chr	oldtestamenting02swet	126	7	Ισραήλ. +4 “καὶ	“καὶ	καὶ	καὶ	TODO zoom: A OPEN, B R1
+2chr	oldtestamenting02swet	126	7	»	Ισραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on the capital (word and punctuation as in the page file)
+2chr	oldtestamenting02swet	126	7	Ισραήλ. +4 “καὶ	“καὶ	καὶ	καὶ	image (3x): καὶ after superscript 4
 2chr	oldtestamenting02swet	126	7	τῶν +ὃ	τῶν	τῶν	τῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
 2chr	oldtestamenting02swet	126	7	καὶ +4	καὶ +4	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
 2chr	oldtestamenting02swet	126	8	καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-2chr	oldtestamenting02swet	126	8	αὐτὸν	αὐτὸν	αὐτὸν	αὐτὸν	TODO zoom: acute or grave before a capitalized word
+2chr	oldtestamenting02swet	126	8	αὐτὸν	αὐτὸν	αὐτὸν	αὐτὸν	image (3x): grave; following capital is a name, not a quotation
 2chr	oldtestamenting02swet	126	8	Κύριος +-	Κύριος +-	Κύριος	Κύριος	class R3: OCR appended accent-row or margin junk; c read from the image strip
-2chr	oldtestamenting02swet	126	10	ἠχμαλώτευσαν	ἠχμαλώτευσαν	ᾐχμαλώτευσαν	ᾐχμαλώτευσαν	TODO zoom: A DROP, B DROP
-2chr	oldtestamenting02swet	126	10	πολλήν"	πολλήν":	πολλήν·	πολλήν·	TODO zoom: A R2, B OPEN
+2chr	oldtestamenting02swet	126	10	ἠχμαλώτευσαν	ἠχμαλώτευσαν	ᾐχμαλώτευσαν	ᾐχμαλώτευσαν	image (3x): smooth breathing and iota subscript under η
+2chr	oldtestamenting02swet	126	10	πολλήν"	πολλήν":	πολλήν·	πολλήν·	image (3x): raised dot, ano teleia
 2chr	oldtestamenting02swet	126	11	βασιλέων	βασιλέων +5	βασιλέων	βασιλέων	class R3: OCR appended accent-row or margin junk; c read from the image strip
-2chr	oldtestamenting02swet	126	11	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2chr	oldtestamenting02swet	126	11	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital (word and punctuation as in the page file)
 2chr	oldtestamenting02swet	126	12	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-2chr	oldtestamenting02swet	126	12	Ῥομελιὰ	Ῥομελιὰ	Ῥομελιὰ	Ῥομελιὰ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-2chr	oldtestamenting02swet	126	12	βασιλεὺς +ὁ	βασιλεὺς	βασιλεὺς	βασιλεὺς	TODO zoom: acute or grave before a capitalized word
-2chr	oldtestamenting02swet	126	13	Ἰσραὴλ +σραὴλ	ὁ +ὉΠ} σραὴλ	Ἰσραὴλ	Ἰσραὴλ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A R3, B OPEN
+2chr	oldtestamenting02swet	126	12	Ῥομελιὰ	Ῥομελιὰ	Ῥομελιὰ	Ῥομελιὰ	image (3x): smooth breathing on the capital (word and punctuation as in the page file)
+2chr	oldtestamenting02swet	126	12	βασιλεὺς +ὁ	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave; following capital is a name, not a quotation
+2chr	oldtestamenting02swet	126	13	Ἰσραὴλ +σραὴλ	ὁ +ὉΠ} σραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital (word and punctuation as in the page file)
 2chr	oldtestamenting02swet	126	13	ἐν	ἐν +Ἶ	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
-2chr	oldtestamenting02swet	126	13	Ἰούδᾳ	Ἰούδᾳ	Ἰούδᾳ	Ἰούδᾳ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2chr	oldtestamenting02swet	126	13	Ἰούδᾳ	Ἰούδᾳ	Ἰούδᾳ	Ἰούδᾳ	image (3x): smooth breathing on the capital (word and punctuation as in the page file)
 2chr	oldtestamenting02swet	126	13	ἀνδρῶν	ἀνδρῶν +ὃ	ἀνδρῶν	ἀνδρῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
 2chr	oldtestamenting02swet	126	15	7καὶ	7καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-2chr	oldtestamenting02swet	126	15	Ἐζεκρεὶ	Ἐζεκρεὶ	Ἐζεκρεὶ	Ἐζεκρεὶ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-2chr	oldtestamenting02swet	126	15	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2chr	oldtestamenting02swet	126	15	Ἐζεκρεὶ	Ἐζεκρεὶ	Ἐζεκρεὶ	Ἐζεκρεὶ	image (3x): smooth breathing on the capital (word and punctuation as in the page file)
+2chr	oldtestamenting02swet	126	15	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing on the capital (word and punctuation as in the page file)
 2chr	oldtestamenting02swet	126	15	τὸν +7	τὸν +7	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
-2chr	oldtestamenting02swet	126	16	Ἐγδρεικὰν	Ἐγδρεικὰν	Ἐγδρεικὰν	Ἐγδρεικὰν	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-2chr	oldtestamenting02swet	126	17	Εἰλκανὰ	Εἰλκανὰ	Εἰλκανὰ	Εἰλκανὰ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2chr	oldtestamenting02swet	126	16	Ἐγδρεικὰν	Ἐγδρεικὰν	Ἐγδρεικὰν	Ἐγδρεικὰν	image (3x): smooth breathing on the capital (word and punctuation as in the page file)
+2chr	oldtestamenting02swet	126	17	Εἰλκανὰ	Εἰλκανὰ	Εἰλκανὰ	Εἰλκανὰ	image (3x): smooth breathing on the capital (word and punctuation as in the page file)
 2chr	oldtestamenting02swet	126	17	“καὶ	ὅ“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-2chr	oldtestamenting02swet	126	17	ἠχμαλώτισαν +8	ἠχμαλώτισαν +8	ᾐχμαλώτισαν	ᾐχμαλώτισαν	TODO zoom: A DROP, B DROP
-2chr	oldtestamenting02swet	126	18	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	TODO zoom: acute or grave before a capitalized word
-2chr	oldtestamenting02swet	126	18	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2chr	oldtestamenting02swet	126	17	ἠχμαλώτισαν +8	ἠχμαλώτισαν +8	ᾐχμαλώτισαν	ᾐχμαλώτισαν	image (3x): smooth breathing and iota subscript under η
+2chr	oldtestamenting02swet	126	18	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave; following capital is a name, not a quotation
+2chr	oldtestamenting02swet	126	18	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital (word and punctuation as in the page file)
 2chr	oldtestamenting02swet	126	20	9καὶ	9ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 2chr	oldtestamenting02swet	126	20	κυρίου, +᾽	κυρίου,	κυρίου,	κυρίου,	class R3: OCR appended accent-row or margin junk; c read from the image strip
-2chr	oldtestamenting02swet	126	20	Ὠδὴδ	᾽	Ὠδὴδ	Ὠδὴδ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A same, B OPEN
-2chr	oldtestamenting02swet	126	21	9 +ὄνομα:	᾿᾽Ωδὴδ +ο ὄνομα:	ὄνομα·	ὄνομα·	TODO zoom: A OPEN, B OPEN
+2chr	oldtestamenting02swet	126	20	Ὠδὴδ	᾽	Ὠδὴδ	Ὠδὴδ	image (3x): smooth breathing on the capital (word and punctuation as in the page file)
+2chr	oldtestamenting02swet	126	21	9 +ὄνομα:	᾿᾽Ωδὴδ +ο ὄνομα:	ὄνομα·	ὄνομα·	image (3x): raised dot, ano teleia
 2chr	oldtestamenting02swet	126	22	αὐτοῖς +ον	αὐτοῖς	αὐτοῖς	αὐτοῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
-2chr	oldtestamenting02swet	126	22	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-2chr	oldtestamenting02swet	126	22	ὀργὴ	ὀργὴ	ὀργὴ	ὀργὴ	TODO zoom: acute or grave before a capitalized word
-2chr	oldtestamenting02swet	126	23	Ἰουδά,	Ἰουδά,	Ἰουδά,	Ἰουδά,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-2chr	oldtestamenting02swet	126	24	ὀργῇ	ὀργῇ:	ὀργῇ·	ὀργῇ·	TODO zoom: A OPEN, B R2
+2chr	oldtestamenting02swet	126	22	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on the capital (word and punctuation as in the page file)
+2chr	oldtestamenting02swet	126	22	ὀργὴ	ὀργὴ	ὀργὴ	ὀργὴ	image (3x): grave; following capital is a name, not a quotation
+2chr	oldtestamenting02swet	126	23	Ἰουδά,	Ἰουδά,	Ἰουδά,	Ἰουδά,	image (3x): smooth breathing on the capital (word and punctuation as in the page file)
+2chr	oldtestamenting02swet	126	24	ὀργῇ	ὀργῇ:	ὀργῇ·	ὀργῇ·	image (3x): raised dot, ano teleia
 2chr	oldtestamenting02swet	126	25	τοκαὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-2chr	oldtestamenting02swet	126	25	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	TODO zoom: acute or grave before a capitalized word
-2chr	oldtestamenting02swet	126	25	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-2chr	oldtestamenting02swet	126	25	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2chr	oldtestamenting02swet	126	25	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave; following capital is a name, not a quotation
+2chr	oldtestamenting02swet	126	25	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on the capital (word and punctuation as in the page file)
+2chr	oldtestamenting02swet	126	25	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on the capital (word and punctuation as in the page file)
 2chr	oldtestamenting02swet	126	25	εἰς +το	εἰς +το	εἰς	εἰς	class R3: OCR appended accent-row or margin junk; c read from the image strip
 2chr	oldtestamenting02swet	126	26	δούλας:	δούλας:	δούλας·	δούλας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 2chr	oldtestamenting02swet	126	27	"'καὶ	""'καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-2chr	oldtestamenting02swet	126	27	ἀκούσατέ	ἀκούσατέ	ἀκούσατέ	ἀκούσατέ	TODO zoom: accent before an enclitic
+2chr	oldtestamenting02swet	126	27	ἀκούσατέ	ἀκούσατέ	ἀκούσατέ	ἀκούσατέ	image (3x): acute on final ε before enclitic μου
 2chr	oldtestamenting02swet	126	27	αἰχμαλωσίαν +τι	αἰχμαλωσίαν +τι	αἰχμαλωσίαν	αἰχμαλωσίαν	class R3: OCR appended accent-row or margin junk; c read from the image strip
-2chr	oldtestamenting02swet	126	28	ἠχμαλωτεύσατε	ἠχμαλωτεύσατε	ᾐχμαλωτεύσατε	ᾐχμαλωτεύσατε	TODO zoom: A DROP, B DROP
-2chr	oldtestamenting02swet	126	28	ὀργὴ	ὀργὴ	ὀργὴ	ὀργὴ	TODO zoom: acute or grave before a capitalized word
+2chr	oldtestamenting02swet	126	28	ἠχμαλωτεύσατε	ἠχμαλωτεύσατε	ᾐχμαλωτεύσατε	ᾐχμαλωτεύσατε	image (3x): smooth breathing and iota subscript under η
+2chr	oldtestamenting02swet	126	28	ὀργὴ	ὀργὴ	ὀργὴ	ὀργὴ	image (3x): grave; following capital is a name, not a quotation

@@ -1,0 +1,47 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+2esd	oldtestamenting02swet	231	1	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on capital
+2esd	oldtestamenting02swet	231	1	Τερου-	Ἰερου-	Ἰερου-	Ἰερου-	image (3x): smooth breathing on capital
+2esd	oldtestamenting02swet	231	2	17 +"“Ἴκαὶ	“καὶ	καὶ	καὶ	image (3x): verse superscript is not text; καὶ
+2esd	oldtestamenting02swet	231	2	υἱοῖς +ἧς	υἱοῖς	υἱοῖς	υἱοῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2esd	oldtestamenting02swet	231	2	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on capital
+2esd	oldtestamenting02swet	231	2	εἰπα	εἰπα	εἶπα	εἶπα	image (3x): accent as printed; OCR dropped it
+2esd	oldtestamenting02swet	231	4	᾿δοὐχὶ	""οὐχὶ	οὐχὶ	οὐχὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2esd	oldtestamenting02swet	231	4	ὑμῶν,	ὑμών,	ὑμῶν,	ὑμῶν,	image (3x): circumflex
+2esd	oldtestamenting02swet	231	5	ἐπ᾽ +»	ἐπ᾽	ἐπ᾽	ἐπ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2esd	oldtestamenting02swet	231	5	ἐφ᾽ +»	ἐφ᾽	ἐφ᾽	ἐφ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2esd	oldtestamenting02swet	231	7	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on capital
+2esd	oldtestamenting02swet	231	7	""καὶ	""καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2esd	oldtestamenting02swet	231	8	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on capital
+2esd	oldtestamenting02swet	231	9	σαββάτου:	σαββάτου:	σαββάτου·	σαββάτου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2esd	oldtestamenting02swet	231	10	αἰρειν	αἰρειν	αἴρειν	αἴρειν	image (3x): accent as printed; OCR dropped it
+2esd	oldtestamenting02swet	231	10	σαββάτου. +“᾽	σαββάτου. +“᾽	σαββάτου.	σαββάτου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2esd	oldtestamenting02swet	231	11	ἔξω +Ε	ἔξω	ἔξω	ἔξω	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2esd	oldtestamenting02swet	231	11	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on capital
+2esd	oldtestamenting02swet	231	12	δίς. +“᾽	δίς.	δίς.	δίς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2esd	oldtestamenting02swet	231	12	καὶ	“᾿καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2esd	oldtestamenting02swet	231	12	αὐτούς	αὐτούς	αὐτούς	αὐτούς	image (3x): acute before capitalized quotation
+2esd	oldtestamenting02swet	231	13	ἐκτενῶ	ἐκτενώ	ἐκτενῶ	ἐκτενῶ	image (3x): circumflex
+2esd	oldtestamenting02swet	231	14	χεῖρά	χεῖρά	χεῖρά	χεῖρά	image (3x): acute before enclitic
+2esd	oldtestamenting02swet	231	14	σαββάτῳ. +“	σαββάτῳ. +“	σαββάτῳ.	σαββάτῳ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2esd	oldtestamenting02swet	231	17	μνήσθητί	μνήσθητί	μνήσθητί	μνήσθητί	image (3x): acute before enclitic
+2esd	oldtestamenting02swet	231	17	φεῖσαί	φεῖσαί	φεῖσαί	φεῖσαί	image (3x): acute before enclitic
+2esd	oldtestamenting02swet	231	18	Ἰουδαίους	Ἰουδαίους	Ἰουδαίους	Ἰουδαίους	image (3x): smooth breathing on capital
+2esd	oldtestamenting02swet	231	18	οἵ	οἵ	οἳ	οἳ	image (8x): rough + grave, compact d-shaped mark (curl with stroke rising right), not acute
+2esd	oldtestamenting02swet	231	19	Ἀζωτίας,	Ἀζωτίας,	Ἀζωτίας,	Ἀζωτίας,	image (3x): smooth breathing on capital
+2esd	oldtestamenting02swet	231	19	Ἀμμανείτιδας,	Ἀμμανείτιδας,	Ἀμμανείτιδας,	Ἀμμανείτιδας,	image (3x): smooth breathing on capital
+2esd	oldtestamenting02swet	231	19	Μωαβείτιδας, +“ἱ	Μωαβείτιδας, +“᾽	Μωαβείτιδας,	Μωαβείτιδας,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2esd	oldtestamenting02swet	231	20	αὐτών	αὐτών	αὐτῶν	αὐτῶν	image (3x): circumflex
+2esd	oldtestamenting02swet	231	20	Ἀζωτιστί,	Αζωτιστί,	Ἀζωτιστί,	Ἀζωτιστί,	image (3x): smooth breathing on capital
+2esd	oldtestamenting02swet	231	21	Ἰουδαιστί.	Ἰουδαιστί.	Ἰουδαιστί.	Ἰουδαιστί.	image (3x): smooth breathing on capital
+2esd	oldtestamenting02swet	231	21	“Ξκαὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2esd	oldtestamenting02swet	231	22	αὐτούς:	αὐτούς:	αὐτούς·	αὐτούς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2esd	oldtestamenting02swet	231	23	θεῷ	εῷ	θεῷ	θεῷ	class R6 (OCR letters differ): the other OCR reading agrees with c
+2esd	oldtestamenting02swet	231	23	Ἐὰν	Ἐὰν	Ἐὰν	Ἐὰν	image (3x): smooth breathing on capital
+2esd	oldtestamenting02swet	231	24	αὐτῶν	αὐτών	αὐτῶν	αὐτῶν	image (3x): circumflex
+2esd	oldtestamenting02swet	231	24	ὑμῶν.	ὑμών.	ὑμῶν.	ὑμῶν.	image (3x): circumflex
+2esd	oldtestamenting02swet	231	24	“οὐχ	“οὐχ	οὐχ	οὐχ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2esd	oldtestamenting02swet	231	25	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave before capitalized name (not a quotation)
+2esd	oldtestamenting02swet	231	25	Ἰσραήλ;	Ἰσραήλ;	Ἰσραήλ;	Ἰσραήλ;	image (3x): smooth breathing on capital
+2esd	oldtestamenting02swet	231	26	τῷ	τῴ	τῷ	τῷ	image (3x): circumflex and iota subscript
+2esd	oldtestamenting02swet	231	27	Ἰσραήλ,	Ἰσραῆλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on capital
+2esd	oldtestamenting02swet	231	18	-	-	οἳ	οἳ	ambiguous: breathing+accent on line-final οι is small; read rough + grave (d-shaped), not rough + acute

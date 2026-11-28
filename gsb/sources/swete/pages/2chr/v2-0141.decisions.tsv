@@ -1,0 +1,45 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+2chr	oldtestamenting02swet	141	1	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	141	1	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	141	2	ἐν +3	ἐν +᾽	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	141	2	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	141	2	1Ιο +“καὶ	το +"᾿“καὶ	καὶ	καὶ	image (3x): καὶ after verse superscript; OCR junk/fused
+2chr	oldtestamenting02swet	141	3	οἵ	οἵ	οἳ	οἳ	image (3x): compact closed rough+grave
+2chr	oldtestamenting02swet	141	4	οἶκον. +"“᾽	οἶκον. +“"᾽	οἶκον.	οἶκον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	141	6	οὺς	οὺς	οὓς	οὓς	image (3x): compact closed rough+grave
+2chr	oldtestamenting02swet	141	7	Ἰούδα.	Ἰούδα.	Ἰούδα.	Ἰούδα.	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	141	8	αὐτών	αὐτών	αὐτῶν	αὐτῶν	image (3x): circumflex as printed
+2chr	oldtestamenting02swet	141	8	Ἰ̓ὲ	Ἰ̓ὲ	Ἰὲ	Ἰὲ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	141	8	Ἀβδειὰ	Ἀβδειὰ	Ἀβδειὰ	Ἀβδειὰ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	141	9	τῶν	τών	τῶν	τῶν	image (3x): circumflex as printed
+2chr	oldtestamenting02swet	141	9	υἱῶν	υἱών	υἱῶν	υἱῶν	image (3x): circumflex as printed
+2chr	oldtestamenting02swet	141	10	φδών.	φδών.	ᾠδῶν.	ᾠδῶν.	image (3x): ᾠ with smooth breathing and iota subscript; circumflex on ῶν
+2chr	oldtestamenting02swet	141	10	13 +"Ξκαὶ	13 +"Ξκαὶ	καὶ	καὶ	image (3x): καὶ after verse superscript; OCR junk/fused
+2chr	oldtestamenting02swet	141	10	τῶν	τών	τῶν	τῶν	image (3x): circumflex as printed
+2chr	oldtestamenting02swet	141	10	νωτοφύρων	νωτοφύρων	νωτοφόρων	νωτοφόρων	image (3x): ό, not ύ
+2chr	oldtestamenting02swet	141	12	“καὶ	“᾿καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	141	14	χειρὸς	χειρὸς	χειρὸς	χειρὸς	image (3x): grave as printed before the capitalized word
+2chr	oldtestamenting02swet	141	15	“"καὶ	""καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	141	16	Κυρίου:	Κυρίου:	Κυρίου·	Κυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	141	17	"καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	141	19	∅	∅	τῶν	τῶν	image (3x): τῶν at line start after margin number; OCR lost it
+2chr	oldtestamenting02swet	141	19	"7καὶ	"7καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	141	20	Κυρίου:	Κυρίου:	Κυρίου·	Κυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	141	21	κ	»	τῶν	τῶν	image (3x): τῶν at line start after margin number; OCR lost it
+2chr	oldtestamenting02swet	141	21	ἐργασίαν. +ὙΘ	ἐργασίαν.	ἐργασίαν.	ἐργασίαν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	141	22	ἔδωκέν	ἔδωκέν	ἔδωκέν	ἔδωκέν	image (3x): acute on ἔδωκέν before enclitic μοι
+2chr	oldtestamenting02swet	141	22	ἱερεύς:	ἱερεύς:	ἱερεύς·	ἱερεύς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	141	23	αὐτὸ	αὐτὸ	αὐτὸ	αὐτὸ	image (3x): grave as printed before the capitalized word
+2chr	oldtestamenting02swet	141	23	βασιλέως. +“9	βασιλέως. +“"	βασιλέως.	βασιλέως.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	141	25	““καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	141	25	Ἀχεικὰμ	Ἀχεικὰμ	Ἀχεικὰμ	Ἀχεικὰμ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	141	26	τῴ +3	τῷ	τῷ	τῷ	image (3x): circumflex as printed
+2chr	oldtestamenting02swet	141	26	Ἀβδοδὸμ	Ἀβδοδὸμ	Ἀβδοδὸμ	Ἀβδοδὸμ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	141	27	Ἰσαίᾳ	Ἰσαίᾳ	Ἰσαίᾳ	Ἰσαίᾳ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	141	27	λέγων +“᾽	λέγων	λέγων	λέγων	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	141	27	Πορεύθητε,	οἵ +“Π̓ορεύθητε,	Πορεύθητε,	Πορεύθητε,	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	141	28	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	141	28	Ἰούδᾳ	Ἰούδᾳ	Ἰούδᾳ	Ἰούδᾳ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	141	29	λύγων	λύγων	λόγων	λόγων	image (3x): ό, not ύ
+2chr	oldtestamenting02swet	141	29	εὑρεθέντος:	εὑρεθέντος:	εὑρεθέντος·	εὑρεθέντος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	141	26	-	-	Μειχαία	Μειχαία	image (6x): no iota subscript under the final α (beside υἱῷ and τῷ which have it); kept as printed

@@ -1,0 +1,45 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+2esd	oldtestamenting02swet	200	1	Ἔσρας	Ἔσρας	Ἔσρας	Ἔσρας	image (3x): smooth breathing + acute on capital
+2esd	oldtestamenting02swet	200	1	αὐτούς +«	αὐτούς +[	αὐτούς	αὐτούς	image (3x): acute before capitalized quotation
+2esd	oldtestamenting02swet	200	1	Ὑμεῖς	Ὑμεῖς	Ὑμεῖς	Ὑμεῖς	image (3x): rough breathing on capital
+2esd	oldtestamenting02swet	200	1	ἡσυνθετήκατε	ησυνθετήκατε	ἠσυνθετήκατε	ἠσυνθετήκατε	image (3x): smooth breathing on ἠ
+2esd	oldtestamenting02swet	200	3	»	Ισραὴλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing
+2esd	oldtestamenting02swet	200	3	Ισραὴλ. +"“᾿καὶ	"“᾿καὶ	καὶ	καὶ	image (3x): verse superscript fused; word καὶ
+2esd	oldtestamenting02swet	200	3	καὶ +τι	καὶ +τι	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2esd	oldtestamenting02swet	200	5	ἀλλοτρίων. +15	ἀλλοτρίων. +15	ἀλλοτρίων.	ἀλλοτρίων.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2esd	oldtestamenting02swet	200	6	ῥῆμά	ῥῆμά	ῥῆμά	ῥῆμά	image (3x): acute before enclitic, as printed
+2esd	oldtestamenting02swet	200	7	ἢσαι.	ἢσαι.	ῆσαι.	ῆσαι.	image (3x): circumflex, not grave
+2esd	oldtestamenting02swet	200	7	"ἀλλὰ	"ἀλλὰ	ἀλλὰ	ἀλλὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2esd	oldtestamenting02swet	200	7	τύπος	τύπος	τόπος	τόπος	image (3x): ο, not υ
+2esd	oldtestamenting02swet	200	7	χειμερινύς,	χειμερινύς,	χειμερινός,	χειμερινός,	image (3x): ο, not υ
+2esd	oldtestamenting02swet	200	8	ἔξω"	ἔξω"	ἔξω·	ἔξω·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2esd	oldtestamenting02swet	200	9	“στήτωσαν	"“'στήτωσαν	στήτωσαν	στήτωσαν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2esd	oldtestamenting02swet	200	10	ἡμῶν:	ἡμῶν"	ἡμῶν·	ἡμῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2esd	oldtestamenting02swet	200	13	τούτου. +Ξ̓	τούτου. +Ξ̓	τούτου.	τούτου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2esd	oldtestamenting02swet	200	14	πλὴν	πλὴν	πλὴν	πλὴν	image (3x): grave; next word is a name, not a quotation
+2esd	oldtestamenting02swet	200	14	Ἰωναθὰν	Ἰωναθὰν	Ἰωναθὰν	Ἰωναθὰν	image (3x): smooth breathing
+2esd	oldtestamenting02swet	200	14	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave; next word is a name, not a quotation
+2esd	oldtestamenting02swet	200	14	Ἀσὴλ	Ἀσὴλ	Ἀσὴλ	Ἀσὴλ	image (3x): smooth breathing
+2esd	oldtestamenting02swet	200	14	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave; next word is a name, not a quotation
+2esd	oldtestamenting02swet	200	14	“Ἑλκειὰ	Ἑλκειὰ	Ἑλκειὰ	Ἑλκειὰ	image (3x): rough breathing on capital
+2esd	oldtestamenting02swet	200	15	αὐτοῖς. +“ὁ	αὐτοῖς. +τό	αὐτοῖς.	αὐτοῖς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2esd	oldtestamenting02swet	200	16	ἀποικίας"	ἀποικίας"	ἀποικίας·	ἀποικίας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2esd	oldtestamenting02swet	200	16	"ἢ +᾿ἔσρας	" +᾿ἔσρας	Ἔσρας	Ἔσρας	image (3x): smooth breathing + acute on capital
+2esd	oldtestamenting02swet	200	19	οἱ	οἵ	οἳ	οἳ	image (3x): rough breathing + grave (compact closed mark), οἳ
+2esd	oldtestamenting02swet	200	20	ἡμέρας +μ	ἡμέρας	ἡμέρας	ἡμέρας	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2esd	oldtestamenting02swet	200	20	ΤῸ +18	πρώτου.	πρώτου.	πρώτου.	class R6 (OCR letters differ): the other OCR reading agrees with c
+2esd	oldtestamenting02swet	200	21	οἱ	οἱ	οἳ	οἳ	image (3x): rough breathing + grave (compact closed mark), οἳ
+2esd	oldtestamenting02swet	200	21	ἀλλοτρίας:	ἀλλοτρίας:	ἀλλοτρίας·	ἀλλοτρίας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2esd	oldtestamenting02swet	200	21	υἱῶν	υἱῶν +»	υἱῶν	υἱῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2esd	oldtestamenting02swet	200	21	Ἰησοῦ	Ἰησοῦ	Ἰησοῦ	Ἰησοῦ	image (3x): smooth breathing
+2esd	oldtestamenting02swet	200	22	Ἰωσεδέκ,	Ἰωσεδέκ,	Ἰωσεδέκ,	Ἰωσεδέκ,	image (3x): smooth breathing
+2esd	oldtestamenting02swet	200	22	Ἐλιέζερ	Ἐλιέζερ	Ἐλιέζερ	Ἐλιέζερ	image (3x): smooth breathing
+2esd	oldtestamenting02swet	200	22	Ἰαρεὶμ	Ἰαρεὶμ	Ἰαρεὶμ	Ἰαρεὶμ	image (3x): smooth breathing
+2esd	oldtestamenting02swet	200	23	Ταδαλειά: +9	Ταδαλειά:	Γαδαλειά·	Γαδαλειά·	image (3x): Γ, not Τ; ano teleia
+2esd	oldtestamenting02swet	200	23	καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2esd	oldtestamenting02swet	200	23	αὐτών	αὐτών	αὐτῶν	αὐτῶν	image (3x): circumflex
+2esd	oldtestamenting02swet	200	24	αὐτῶν" +“"	αὐτῶν" +“"	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2esd	oldtestamenting02swet	200	25	»	»	Ἐμμήρ,	Ἐμμήρ,	image (3x): smooth breathing; acute on η, comma follows
+2esd	oldtestamenting02swet	200	25	Ἔμμηρ, +Ἀνανεὶ	Ἔμμηρ, +Ἀνανεὶ	Ἁνανεὶ	Ἁνανεὶ	image (3x): rough breathing on capital
+2esd	oldtestamenting02swet	200	25	Ζαβδειά" +“"	Ζαβδειά᾽ +“"	Ζαβδειά·	Ζαβδειά·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2esd	oldtestamenting02swet	200	25	ε +Ηράμ,	ε +.Ηράμ,	Ἡράμ,	Ἡράμ,	image (3x): rough breathing on capital

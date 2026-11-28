@@ -448,7 +448,8 @@ layer from there and its readable layer and notes from gsb/translation/."
                               (parts (string-split ref #\.))
                               (loc (hash-ref where cv '(#f #f #f #f #f))))
                          (set! verse-id (+ verse-id 1))
-                         (append (list verse-id ref id (string->number (second parts)) (third parts))
+                         ;; A lettered chapter (Esther's additions, esth.A.1) is stored as text.
+                         (append (list verse-id ref id (or (string->number (second parts)) (second parts)) (third parts))
                                  loc
                                  (list (hash-ref printed cv)
                                        (string-join (map (lambda (w) (string-append (word-pre* w) (word-text* w) (word-post* w))) (cdr v)) " ")))))

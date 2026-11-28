@@ -1,0 +1,75 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+2chr	oldtestamenting02swet	140	1	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave as printed before the capitalized word
+2chr	oldtestamenting02swet	140	1	Ἀμὼς	Ἀμὼς	Ἀμὼς	Ἀμὼς	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	140	2	οἴκῳ +524	οἴκῳ +524	οἴκῳ	οἴκῳ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	140	3	259 +“καὶ	25 +“καὶ	καὶ	καὶ	image (3x): word after verse superscript; OCR junk/fused
+2chr	oldtestamenting02swet	140	3	ὁ +λ	ὁ +λ	ὁ	ὁ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	140	3	τὸν +55	τὸν +55	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	140	4	Ἀμώς:	Ἀμώς:	Ἀμώς·	Ἀμώς·	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	140	4	Ἰωσείαν	Ἰωσείαν	Ἰωσείαν	Ἰωσείαν	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	140	5	αὐτοῦ	αὐτου	αὐτοῦ	αὐτοῦ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	140	5	ἀντ᾽	ανΡΤ	ἀντ᾽	ἀντ᾽	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	140	5	αὐτοῦ.	αὐτου.	αὐτοῦ.	αὐτοῦ.	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	140	6	Ὧν	Ὧν	Ὢν	Ὢν	image (8x): two separate parts, apostrophe (smooth, opening left) then grave falling right, the same open shape as leaf 138 Ὢν; not the compact closed mark of ἓν on this page; kept as printed
+2chr	oldtestamenting02swet	140	6	Ἰωσείας	ἸΙωσείας	Ἰωσείας	Ἰωσείας	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	140	7	ἕν	ἕν	ἓν	ἓν	image (3x): compact closed rough+grave on ἓν
+2chr	oldtestamenting02swet	140	7	Ἰερουσαλήμ.	Ἰερουσαλήῆμ. +“	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	140	7	“καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	140	9	ϑ3καὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	140	10	ζητῆσαι	ζητῆσαι +Κ	ζητῆσαι	ζητῆσαι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	140	10	τὸν +θ	τὸν +θ	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	140	10	θεὸν	θεὸν	θεὸν	θεὸν	image (3x): grave as printed before the capitalized word
+2chr	oldtestamenting02swet	140	11	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	140	12	τὸν +Ε	τὸν	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	140	12	Ἰουδὰ	Ἰουδὰ	Ἰουδὰ	Ἰουδὰ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	140	12	Ε +Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	140	13	χωνευτῶν":	χωνευτῶν:	χωνευτῶν·	χωνευτῶν·	image (3x): raised dot, ano teleia
+2chr	oldtestamenting02swet	140	13	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	140	13	κατέσπασεν +4	κατέσπασεν +4	κατέσπασεν	κατέσπασεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	140	15	ἐπ᾽ +(9	ἐπ᾽	ἐπ᾽	ἐπ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	140	17	Τῶν	Των	τῶν	τῶν	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	17	θ	υσιαζόντων	θυσιαζόντων	θυσιαζόντων	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	17	υσιαζόντων	αὐτοιφ᾽	αὐτοῖς·	αὐτοῖς·	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	17	αὐτοιφ᾽	“Και	καὶ	καὶ	image (3x): word after verse superscript; OCR junk/fused
+2chr	oldtestamenting02swet	140	17	Ξ	ΟστΤα	ὀστᾶ	ὀστᾶ	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	17	“Και	ιερεὼν	ἱερέων	ἱερέων	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	17	Οστὰ	κατεκαυσεν	κατέκαυσεν	κατέκαυσεν	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	17	ἱερεῶν	ἐπι	ἐπὶ	ἐπὶ	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	17	Κατεκαῦσεν	τα	τὰ	τὰ	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	17	ἐπιτα +θ υσια-	συσια-	θυσια-	θυσια-	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	18	τὸν +»	τὸν	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	140	18	Ἰουδὰ	Ἰουδὰ	Ἰουδὰ	Ἰουδὰ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	140	18	Ε	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	140	18	Ἱερουσαλήμ, +6 “καὶ	“καὶ	καὶ	καὶ	image (3x): word after verse superscript; OCR junk/fused
+2chr	oldtestamenting02swet	140	18	ἐν +6	ἐν +6	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	140	19	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	140	20	Τοποῖις	Τόπος	τόποις	τόποις	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	20	Κυκ	Κυκ	κύκλῳ.	κύκλῳ.	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	20	λ	ῳ.	καὶ	καὶ	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	20	ῳ.	και	κατέσπασεν	κατέσπασεν	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	20	7	Κατεσπασεν	τὰ	τὰ	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	20	και	Τὰ	ἄλση	ἄλση	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	20	κατεσπαᾶσεν	α	καὶ	καὶ	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	20	τὰ	σὴ	τὰ	τὰ	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	140	20	αλσῆ +Καιτα θ υσιαστήρια,	Καιτα +υσιαστήρια,	θυσιαστήρια,	θυσιαστήρια,	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	21	εἴδωλα.	εἴδωλα	εἴδωλα	εἴδωλα	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	140	22	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	140	22	ερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	140	22	Καὶ +8	καὶ +8	Καὶ	Καὶ	image (3x): word after verse superscript; OCR junk/fused
+2chr	oldtestamenting02swet	140	23	γὴν	γὴν	γῆν	γῆν	image (3x): circumflex on γῆν
+2chr	oldtestamenting02swet	140	24	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): grave as printed before the capitalized word
+2chr	oldtestamenting02swet	140	25	Ἰουὰχ	Ἰουὰχ	Ἰουὰχ	Ἰουὰχ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	140	25	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): grave as printed before the capitalized word
+2chr	oldtestamenting02swet	140	25	Ἰωὰχ	Ἰωὰχ	Ἰωὰχ	Ἰωὰχ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	140	26	αὐτοῦ. +5	αὐτοῦ. +9	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	140	28	χειρὸς	χειρὸς	χειρὸς	χειρὸς	image (3x): grave as printed before the capitalized word
+2chr	oldtestamenting02swet	140	29	Μανασση	Μανασση	Μανασσὴ	Μανασσὴ	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	29	Και	Και	καὶ	καὶ	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	29	Ὁ	τ	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing on the capital
+2chr	oldtestamenting02swet	140	29	Εφράιμ	Εφράιμ	καὶ	καὶ	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	29	και	και	τῶν	τῶν	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	29	Τῶν	Τῶν	ἀρχόντων	ἀρχόντων	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	29	αρχοόντῶν	αρχόοντῶν	καὶ	καὶ	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	29	Και +ΑἸΤΟ	Καὶ +ΑἸΤΟῸ	ἀπὸ	ἀπὸ	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	29	Κατα-	Κατα-	κατα-	κατα-	image (3x): read from the strip; OCR misaligned or dropped diacritics on this line
+2chr	oldtestamenting02swet	140	6	-	-	Ὢν	Ὢν	image (8x): breathing prints as smooth (apostrophe opening left, separate from the grave), as at 33:1 leaf 138; 33:21 leaf 139 prints the closed rough+grave; kept as printed

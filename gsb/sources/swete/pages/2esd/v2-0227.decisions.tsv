@@ -1,64 +1,65 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
-2esd	oldtestamenting02swet	227	1	Μαλούλ,	Μαλούλ,	Μαλούλ,	Μαλούλ,	TODO zoom: acute or grave before a capitalized word
-2esd	oldtestamenting02swet	227	1	3 +Σεχενιά:	3	Σεχενιά·	Σεχενιά·	TODO zoom: A OPEN, B OPEN
+2esd	oldtestamenting02swet	227	1	Μαλούλ,	Μαλούλ,	Μαλούλ,	Μαλούλ,	image (3x): accent as printed; list of names, not a capitalized quotation
+2esd	oldtestamenting02swet	227	1	3 +Σεχενιά:	3	Σεχενιά·	Σεχενιά·	image (3x): ano teleia
 2esd	oldtestamenting02swet	227	1	οὗτοι	Σεχενιά: +Τοὗτοι	οὗτοι	οὗτοι	class R6 (OCR letters differ): the other OCR reading agrees with c
 2esd	oldtestamenting02swet	227	1	ἐν +Β	ἐν +Β	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
-2esd	oldtestamenting02swet	227	2	Ἰησοῖ. +ὃ	Ἰησοῖ. +ὃ	Ἰησοῖ.	Ἰησοῖ.	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2esd	oldtestamenting02swet	227	2	Ἰησοῖ. +ὃ	Ἰησοῖ. +ὃ	Ἰησοῖ.	Ἰησοῖ.	image (3x): smooth breathing on the capital (checked letter by letter)
 2esd	oldtestamenting02swet	227	2	Λευεῖται:	Λευεῖται:	Λευεῖται·	Λευεῖται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-2esd	oldtestamenting02swet	227	2	Ἰησού,	Ἰησού,	Ἰησού,	Ἰησού,	TODO zoom: breathing on a capital (OCR misreads rough/smooth); acute or grave before a capitalized word
-2esd	oldtestamenting02swet	227	2	Βανουί,	Βανουί,	Βανουί,	Βανουί,	TODO zoom: acute or grave before a capitalized word
-2esd	oldtestamenting02swet	227	2	Καδμιήλ,	Καδμιήλ,	Καδμιήλ,	Καδμιήλ,	TODO zoom: acute or grave before a capitalized word
-2esd	oldtestamenting02swet	227	2	Σαραβιά,	Σαραβιά,	Σαραβιά,	Σαραβιά,	TODO zoom: acute or grave before a capitalized word
-2esd	oldtestamenting02swet	227	3	Ιουδά,	Ἰουδά,	Ἰουδά,	Ἰουδά,	TODO zoom: breathing on a capital (OCR misreads rough/smooth); acute or grave before a capitalized word; A DROP, B same
+2esd	oldtestamenting02swet	227	2	Ἰησού,	Ἰησού,	Ἰησού,	Ἰησού,	image (3x): smooth breathing on the capital (checked letter by letter)
+2esd	oldtestamenting02swet	227	2	Βανουί,	Βανουί,	Βανουί,	Βανουί,	image (3x): accent as printed; list of names, not a capitalized quotation
+2esd	oldtestamenting02swet	227	2	Καδμιήλ,	Καδμιήλ,	Καδμιήλ,	Καδμιήλ,	image (3x): accent as printed; list of names, not a capitalized quotation
+2esd	oldtestamenting02swet	227	2	Σαραβιά,	Σαραβιά,	Σαραβιά,	Σαραβιά,	image (3x): accent as printed; list of names, not a capitalized quotation
+2esd	oldtestamenting02swet	227	3	Ιουδά,	Ἰουδά,	Ἰουδά,	Ἰουδά,	image (3x): smooth breathing on the capital (checked letter by letter)
 2esd	oldtestamenting02swet	227	3	Μαχανιά:	Μαχανιά:	Μαχανιά·	Μαχανιά·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 2esd	oldtestamenting02swet	227	4	“καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-2esd	oldtestamenting02swet	227	4	Ἰησοῦς	ἴησους	Ἰησοῦς	Ἰησοῦς	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A same, B DIA
-2esd	oldtestamenting02swet	227	4	Ἰωακείμ,	Ἰωακείμ,	Ἰωακείμ,	Ἰωακείμ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-2esd	oldtestamenting02swet	227	4	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-2esd	oldtestamenting02swet	227	5	Β̓Ελιασείβ,	Ἐλιασείβ,	Ἐλιασείβ,	Ἐλιασείβ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B same
-2esd	oldtestamenting02swet	227	5	Ἐλειασεὶβ	Ἐ̓λειασεὶβ	Ἐλειασεὶβ	Ἐλειασεὶβ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A same, B DROP
-2esd	oldtestamenting02swet	227	5	Ἰωδά, +""	Ἰωδά, +""	Ἰωδά,	Ἰωδά,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-2esd	oldtestamenting02swet	227	5	Ἰωδὰ	Ἰωδὰ	Ἰωδὰ	Ἰωδὰ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-2esd	oldtestamenting02swet	227	6	Ἰωναθάν,	Ἰωναθάν,	Ἰωναθάν,	Ἰωναθάν,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-2esd	oldtestamenting02swet	227	6	Ἰωναθὰν	Ἰωναθὰν	Ἰωναθὰν	Ἰωναθὰν	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-2esd	oldtestamenting02swet	227	6	Ἰαδού.	Ἰαδού.	Ἰαδού.	Ἰαδού.	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-2esd	oldtestamenting02swet	227	6	εν	εν	ἐν	ἐν	TODO zoom: A DROP, B DROP
+2esd	oldtestamenting02swet	227	4	Ἰησοῦς	ἴησους	Ἰησοῦς	Ἰησοῦς	image (3x): smooth breathing on the capital (checked letter by letter)
+2esd	oldtestamenting02swet	227	4	Ἰωακείμ,	Ἰωακείμ,	Ἰωακείμ,	Ἰωακείμ,	image (3x): smooth breathing on the capital (checked letter by letter)
+2esd	oldtestamenting02swet	227	4	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	image (3x): smooth breathing on the capital (checked letter by letter)
+2esd	oldtestamenting02swet	227	5	Β̓Ελιασείβ,	Ἐλιασείβ,	Ἐλιασείβ,	Ἐλιασείβ,	image (3x): smooth breathing on the capital (checked letter by letter)
+2esd	oldtestamenting02swet	227	5	Ἐλειασεὶβ	Ἐ̓λειασεὶβ	Ἐλειασεὶβ	Ἐλειασεὶβ	image (3x): smooth breathing on the capital (checked letter by letter)
+2esd	oldtestamenting02swet	227	5	Ἰωδά, +""	Ἰωδά, +""	Ἰωδά,	Ἰωδά,	image (3x): smooth breathing on the capital (checked letter by letter)
+2esd	oldtestamenting02swet	227	5	Ἰωδὰ	Ἰωδὰ	Ἰωδὰ	Ἰωδὰ	image (3x): smooth breathing on the capital (checked letter by letter)
+2esd	oldtestamenting02swet	227	6	Ἰωναθάν,	Ἰωναθάν,	Ἰωναθάν,	Ἰωναθάν,	image (3x): smooth breathing on the capital (checked letter by letter)
+2esd	oldtestamenting02swet	227	6	Ἰωναθὰν	Ἰωναθὰν	Ἰωναθὰν	Ἰωναθὰν	image (3x): smooth breathing on the capital (checked letter by letter)
+2esd	oldtestamenting02swet	227	6	Ἰαδού.	Ἰαδού.	Ἰαδού.	Ἰαδού.	image (3x): smooth breathing on the capital (checked letter by letter)
+2esd	oldtestamenting02swet	227	6	εν	εν	ἐν	ἐν	image (3x): breathing/iota subscript as printed
 2esd	oldtestamenting02swet	227	7	ἡμέραις +3	ἡμέραις +ΕῚ	ἡμέραις	ἡμέραις	class R3: OCR appended accent-row or margin junk; c read from the image strip
-2esd	oldtestamenting02swet	227	7	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2esd	oldtestamenting02swet	227	7	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	image (3x): smooth breathing on the capital (checked letter by letter)
 2esd	oldtestamenting02swet	227	8	τριῶν:	τριῶν:	τριῶν·	τριῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 2esd	oldtestamenting02swet	227	8	τῷ	Νν	τῷ	τῷ	class R6 (OCR letters differ): the other OCR reading agrees with c
-2esd	oldtestamenting02swet	227	8	Σαραιὰ	∅	Σαραιὰ	Σαραιὰ	TODO zoom: acute or grave before a capitalized word
+2esd	oldtestamenting02swet	227	8	Σαραιὰ	∅	Σαραιὰ	Σαραιὰ	image (3x): accent as printed; list of names, not a capitalized quotation
 2esd	oldtestamenting02swet	227	8	Μαρεά,	∅	Μαρεά,	Μαρεά,	class R0: OCR lost the word in extraction; c read from the image strip
-2esd	oldtestamenting02swet	227	8	Ἰερεμιά,	Σαραια +Μαρεὰ,	Ἰερεμιά,	Ἰερεμιά,	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A same, B OPEN
-2esd	oldtestamenting02swet	227	8	Ἔσρᾳ	3 +ἴἵερεμια, 13 τῳ ἔσρᾳ	Ἔσρᾳ	Ἔσρᾳ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A same, B OPEN
+2esd	oldtestamenting02swet	227	8	Ἰερεμιά,	Σαραια +Μαρεὰ,	Ἰερεμιά,	Ἰερεμιά,	image (3x): smooth breathing on the capital (checked letter by letter)
+2esd	oldtestamenting02swet	227	8	Ἔσρᾳ	3 +ἴἵερεμια, 13 τῳ ἔσρᾳ	Ἔσρᾳ	Ἔσρᾳ	image (3x): smooth + grave on Ε (apostrophe then falling stroke, open two-part mark)
 2esd	oldtestamenting02swet	227	8	τῷ	τῳ	τῷ	τῷ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
-2esd	oldtestamenting02swet	227	9	Δμαρειὰ	Δμαρειὰ	Ἀμαρειὰ	Ἀμαρειὰ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); acute or grave before a capitalized word; A OPEN, B OPEN
-2esd	oldtestamenting02swet	227	9	Ἰωανάν,	Ἰωανάν,	Ἰωανάν,	Ἰωανάν,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-2esd	oldtestamenting02swet	227	9	“τῷ	“τῳ	τῷ	τῷ	TODO zoom: A R1, B OPEN
-2esd	oldtestamenting02swet	227	9	Β̓λιασείβ,	Β̓λιασείβ,	Ἐλιασείβ,	Ἐλιασείβ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth); acute or grave before a capitalized word; A OPEN, B OPEN
-2esd	oldtestamenting02swet	227	10	Ιωαδὰ	3 +Ιωαδὰ	Ἰωαδὰ	Ἰωαδὰ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DROP, B OPEN
-2esd	oldtestamenting02swet	227	10	Ἰωὰ	Ἰωὰ	Ἰωὰ	Ἰωὰ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-2esd	oldtestamenting02swet	227	10	Ἰωανὰν	Ἰωανὰν	Ἰωανὰν	Ἰωανὰν	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2esd	oldtestamenting02swet	227	9	Δμαρειὰ	Δμαρειὰ	Ἀμαρειὰ	Ἀμαρειὰ	image (3x): smooth breathing on the capital (checked letter by letter)
+2esd	oldtestamenting02swet	227	9	Ἰωανάν,	Ἰωανάν,	Ἰωανάν,	Ἰωανάν,	image (3x): smooth breathing on the capital (checked letter by letter)
+2esd	oldtestamenting02swet	227	9	“τῷ	“τῳ	τῷ	τῷ	image (3x): breathing/iota subscript as printed
+2esd	oldtestamenting02swet	227	9	Β̓λιασείβ,	Β̓λιασείβ,	Ἐλιασείβ,	Ἐλιασείβ,	image (3x): smooth breathing on the capital (checked letter by letter)
+2esd	oldtestamenting02swet	227	10	Ιωαδὰ	3 +Ιωαδὰ	Ἰωαδὰ	Ἰωαδὰ	image (3x): smooth breathing on the capital (checked letter by letter)
+2esd	oldtestamenting02swet	227	10	Ἰωὰ	Ἰωὰ	Ἰωὰ	Ἰωὰ	image (3x): smooth breathing on the capital (checked letter by letter)
+2esd	oldtestamenting02swet	227	10	Ἰωανὰν	Ἰωανὰν	Ἰωανὰν	Ἰωανὰν	image (3x): smooth breathing on the capital (checked letter by letter)
 2esd	oldtestamenting02swet	227	10	καὶ	καὶ +3	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
-2esd	oldtestamenting02swet	227	10	Ἰαδού,	Ἰαδού,	Ἰαδού,	Ἰαδού,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2esd	oldtestamenting02swet	227	10	Ἰαδού,	Ἰαδού,	Ἰαδού,	Ἰαδού,	image (3x): smooth breathing on the capital (checked letter by letter)
 2esd	oldtestamenting02swet	227	11	Πέρσου"	Πέρσου"	Πέρσου·	Πέρσου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-2esd	oldtestamenting02swet	227	11	“υἱοὶ	“Ῥυϊοὶ	υἱοὶ	υἱοὶ	TODO zoom: acute or grave before a capitalized word; A R1, B OPEN
-2esd	oldtestamenting02swet	227	13	Ἰωανὰν	Ἰωανὰν	Ἰωανὰν	Ἰωανὰν	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-2esd	oldtestamenting02swet	227	13	Ἐ̓λεισοῦε. +“᾽	Ἔλεισοῦε.	Ἐλεισοῦε.	Ἐλεισοῦε.	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DROP, B DIA
+2esd	oldtestamenting02swet	227	11	“υἱοὶ	“Ῥυϊοὶ	υἱοὶ	υἱοὶ	image (3x): accent as printed; list of names, not a capitalized quotation
+2esd	oldtestamenting02swet	227	13	Ἰωανὰν	Ἰωανὰν	Ἰωανὰν	Ἰωανὰν	image (3x): smooth breathing on the capital (checked letter by letter)
+2esd	oldtestamenting02swet	227	13	Ἐ̓λεισοῦε. +“᾽	Ἔλεισοῦε.	Ἐλεισοῦε.	Ἐλεισοῦε.	image (3x): smooth breathing on the capital (checked letter by letter)
 2esd	oldtestamenting02swet	227	13	καὶ	“'καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 2esd	oldtestamenting02swet	227	13	Λευειτῶν"	Λευειτῶν"	Λευειτῶν·	Λευειτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-2esd	oldtestamenting02swet	227	13	Ἀβιὰ	Ἀβιὰ	Ἁβιὰ	Ἁβιὰ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B DIA
-2esd	oldtestamenting02swet	227	14	ἸἸησού,	Ἰ̓Ἰησού,	Ἰησού,	Ἰησού,	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B OPEN
-2esd	oldtestamenting02swet	227	14	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	TODO zoom: acute or grave before a capitalized word
+2esd	oldtestamenting02swet	227	13	Ἀβιὰ	Ἀβιὰ	Ἁβιὰ	Ἁβιὰ	image (3x): rough breathing on the capital
+2esd	oldtestamenting02swet	227	14	ἸἸησού,	Ἰ̓Ἰησού,	Ἰησού,	Ἰησού,	image (3x): smooth breathing on the capital (checked letter by letter)
+2esd	oldtestamenting02swet	227	14	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): accent as printed; list of names, not a capitalized quotation
 2esd	oldtestamenting02swet	227	16	“5Ξἐν	“ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-2esd	oldtestamenting02swet	227	17	ς6 +“ἐν	“ἐν	ἐν	ἐν	TODO zoom: A OPEN, B R1
-2esd	oldtestamenting02swet	227	17	3 +ωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B same
+2esd	oldtestamenting02swet	227	17	ς6 +“ἐν	“ἐν	ἐν	ἐν	image (3x): breathing/iota subscript as printed
+2esd	oldtestamenting02swet	227	17	3 +ωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	image (3x): smooth breathing on the capital (checked letter by letter)
 2esd	oldtestamenting02swet	227	17	υἱοῦ +ὯΠ	υἱοῦ	υἱοῦ	υἱοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
-2esd	oldtestamenting02swet	227	17	Ἰησοῦ	Ἰησοῦ	Ἰησοῦ	Ἰησοῦ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-2esd	oldtestamenting02swet	227	17	Εἰωσεδέκ,	Εἰωσεδέκ,	Εἰωσεδέκ,	Εἰωσεδέκ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-2esd	oldtestamenting02swet	227	17	Ν	Νεεμία:	Νεεμία·	Νεεμία·	TODO zoom: A OPEN, B R2
+2esd	oldtestamenting02swet	227	17	Ἰησοῦ	Ἰησοῦ	Ἰησοῦ	Ἰησοῦ	image (3x): smooth breathing on the capital (checked letter by letter)
+2esd	oldtestamenting02swet	227	17	Εἰωσεδέκ,	Εἰωσεδέκ,	Εἰωσεδέκ,	Εἰωσεδέκ,	image (3x): Ε unaccented; smooth breathing and acute on ι
+2esd	oldtestamenting02swet	227	17	Ν	Νεεμία:	Νεεμία·	Νεεμία·	image (3x): ano teleia
 2esd	oldtestamenting02swet	227	18	Νεεμία	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
-2esd	oldtestamenting02swet	227	18	Καὶ +ἔσρας	Ἔσρας	Ἔσρας	Ἔσρας	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B same
-2esd	oldtestamenting02swet	227	18	γραμματεὺς.	γραμματεύς.	γραμματεύς.	γραμματεύς.	TODO zoom: A DIA, B same
+2esd	oldtestamenting02swet	227	18	Καὶ +ἔσρας	Ἔσρας	Ἔσρας	Ἔσρας	image (3x): smooth + grave on Ε (apostrophe then falling stroke, open two-part mark)
+2esd	oldtestamenting02swet	227	18	γραμματεὺς.	γραμματεύς.	γραμματεύς.	γραμματεύς.	image (3x): acute before the period
 2esd	oldtestamenting02swet	227	18	Και	Καὶ	Καὶ	Καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
 2esd	oldtestamenting02swet	227	18	ἐγκαινιοις	ἐγκαινίοις	ἐγκαινίοις	ἐγκαινίοις	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+2esd	oldtestamenting02swet	227	13	-	-	Ἐλεισοῦε.	Ἐλεισοῦε.	image (3x): circumflex on ου, unaccented final ε, as printed

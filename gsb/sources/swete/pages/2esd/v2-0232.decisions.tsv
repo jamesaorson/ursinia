@@ -1,0 +1,18 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+2esd	oldtestamenting02swet	232	1	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2esd	oldtestamenting02swet	232	1	πονηρίαν +527	πονηρίαν +57	πονηρίαν	πονηρίαν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2esd	oldtestamenting02swet	232	2	ἀλλοτρίας. +"ὃ	ἀλλοτρίας. +"ὃ	ἀλλοτρίας.	ἀλλοτρίας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2esd	oldtestamenting02swet	232	3	Ἰωαδὰ	Ἰωαδὰ	Ἰωαδὰ	Ἰωαδὰ	image (3x): smooth breathing on capital
+2esd	oldtestamenting02swet	232	3	Ἐλεισοὺβ	Ἐλεισοὺβ	Ἐλεισοὺβ	Ἐλεισοὺβ	image (3x): smooth breathing on capital
+2esd	oldtestamenting02swet	232	3	νυμφίου +.8	νυμφίου +.8	νυμφίου	νυμφίου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2esd	oldtestamenting02swet	232	4	Σαναβαλλάτ᾽	Σαναβαλλάτ᾽	Σαναβαλλάτ·	Σαναβαλλάτ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2esd	oldtestamenting02swet	232	4	“μνήσθητι	“μνήσθητι	μνήσθητι	μνήσθητι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2esd	oldtestamenting02swet	232	4	ὃ +20	ὃ +20	ὁ	ὁ	image (3x): rough breathing, no accent (ὁ)
+2esd	oldtestamenting02swet	232	6	Λευείτας.	Λευείτας. +3»	Λευείτας.	Λευείτας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2esd	oldtestamenting02swet	232	8	αὐτοῦ, +δ᾽	αὐτοῦ, +δ᾽	αὐτοῦ,	αὐτοῦ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2esd	oldtestamenting02swet	232	9	53:	531	ἐν	ἐν	image (3x): ἐν τοῖς at line start; OCR read the margin number 31
+2esd	oldtestamenting02swet	232	9	εν +Τοις	εν	τοῖς	τοῖς	image (3x): ἐν τοῖς at line start; OCR read the margin number 31
+2esd	oldtestamenting02swet	232	9	βακχουρίοις.	Τοις +βακχουριοις.	βακχουρίοις.	βακχουρίοις.	class R6 (OCR letters differ): the other OCR reading agrees with c
+2esd	oldtestamenting02swet	232	9	μνήσθητί	μνήσθητί	μνήσθητί	μνήσθητί	image (3x): acute before enclitic
+2esd	oldtestamenting02swet	232	9	μουο	μουο	μου	μου	image (3x): μου, then separate ὁ; OCR merged them
+2esd	oldtestamenting02swet	232	9	∅	∅	ὁ	ὁ	image (3x): rough breathing, no accent (ὁ)

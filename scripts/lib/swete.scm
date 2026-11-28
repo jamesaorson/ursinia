@@ -104,6 +104,10 @@ letter (\"a\" for {=31:48a}), or the rest of a combined number as printed
 '(stich) or #f."
   (cond
    ((string-match "^C([0-9]+)$" s) => (lambda (m) (list 'chapter (string->number (match:substring m 1)))))
+   ;; {CA}: Swete's lettered section (the Greek additions of Esther, A-F in
+   ;; the margin). Its verses are A:1, A:2 ...; it neither advances nor
+   ;; resets the numbered chapters around it.
+   ((string-match "^C([A-Z])$" s) => (lambda (m) (list 'chapter (match:substring m 1))))
    ((string-match "^([0-9]+)$" s) => (lambda (m) (list 'verse (string->number (match:substring m 1)))))
    ((string-match "^([0-9]+)!$" s) => (lambda (m) (list 'verse (string->number (match:substring m 1)) 'skip)))
    ;; {31!!}: Swete prints his own number a second time in the chapter
@@ -231,7 +235,7 @@ database's word locations) are left for the caller."
          (match r
            ((c v text)
             (let ((n (if (number? v) v (string->number (match:substring (string-match "^[0-9]+" v))))))
-              (match (find (match-lambda ((rc from to . _) (and (= rc c) (<= from n to)))) ranges)
+              (match (find (match-lambda ((rc from to . _) (and (eqv? rc c) (<= from n to)))) ranges)
                 (#f r)
                 ((_ from _ ec ev)
                  (list ec
@@ -266,6 +270,7 @@ punctuation. The keraia is allowed only right after a Greek letter."
                (cons #f (string->list s)))))
 
 (define (ref<? a b) (or (< (first a) (first b)) (and (= (first a) (first b)) (< (second a) (second b)))))
+(define (numbered? ref) (number? (first ref)))  ; not in a lettered section (Esther A-F)
 
 (define (book-problems pages first-leaf last-leaf step)
   "Problems in PAGES ((leaf . page), in order) as (leaf line severity message),
@@ -285,7 +290,7 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
                              (format #f "non-Greek character~a ~a: read the image again (Latin look-alikes, stray digits?; a numeral's keraia is ʹ U+02B9, right after its letters)"
                                      (if (> (length cs) 1) "s" "")
                                      (string-join (map (lambda (c) (format #f "~a (U+~a)" c (string-upcase (number->string (char->integer c) 16)))) cs) ", "))))))
-           (filter-map (match-lambda (('bad s) (list leaf n 'fail (format #f "unknown marker ~a (use {C3} {7} {7!} {7!!} {7a} {=2:25} {=31:48a} {=40:30-31} {=36:34,36} {P} {S}; combined numbers ascend)" s)))
+           (filter-map (match-lambda (('bad s) (list leaf n 'fail (format #f "unknown marker ~a (use {C3} {CA} {7} {7!} {7!!} {7a} {=2:25} {=31:48a} {=40:30-31} {=36:34,36} {P} {S}; combined numbers ascend)" s)))
                                      (_ #f))
                        (line-items line))))))
      (page-lines page)))
@@ -305,7 +310,11 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
            ;; (c v) -> ((part leaf line) ...): common references that have text
            (seen (make-hash-table))
            ;; (chapter verse) -> (leaf line): Swete's own numbers met
-           (swete-seen (make-hash-table)))
+           (swete-seen (make-hash-table))
+           ;; Lettered sections: the last letter met, and (chapter . last
+           ;; verse) of the numbered chapter a section interrupted.
+           (last-letter #f)
+           (numbered #f))
       (define (ref-text ref) (apply format #f "~a:~a" (ref-key ref)))
       (define (duplicate ref where)
         ;; A message if REF starts a second row for a common verse already
@@ -354,10 +363,30 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
            (match ev
              (('line leaf n) (loop rest (list leaf n) ch v ref last-ref pending-text? depth #f acc))
              (('hyphen) (loop rest where ch v ref last-ref pending-text? depth #t acc))
+             (('chapter (? string? l))
+              ;; A lettered section {CA}..{CF}: letters run A, B, C ...; the
+              ;; numbered chapter and its last verse are kept for a resume.
+              (let ((want (cond (last-letter (string (integer->char (+ 1 (char->integer (string-ref last-letter 0))))))
+                                (opens? "A")  ; else a run starting mid-book: unknown
+                                (else l))))
+                (when (number? ch) (set! numbered (cons ch v)))
+                (set! last-letter l)
+                (loop rest where l 'after-chapter ref last-ref pending-text? depth hyphen?
+                      (if (string=? l want) acc
+                          (seq "lettered section {C~a} where {C~a} is expected (Swete's sections run A, B, C ...)" l want)))))
              (('chapter n)
-              (loop rest where n 'after-chapter ref last-ref pending-text? depth hyphen?
-                    (if (and ch (not (= n (+ ch 1)))) (seq "Swete chapter {C~a} after chapter ~a" n ch)
-                        (if (and (not ch) opens? (not (= n 1))) (add 'fail "book opens with {C~a}, expected {C1}" n) acc))))
+              ;; After a lettered section Swete reprints the numeral of the
+              ;; chapter it interrupted (Esth 'III 14' after B 7): {C3}{14}
+              ;; resumes chapter 3 at its last verse.
+              (let ((base (if (string? ch) (and numbered (car numbered)) ch)))
+                (if (and (string? ch) numbered (eqv? n (car numbered)))
+                    (loop rest where n (cdr numbered) ref last-ref pending-text? depth hyphen? acc)
+                    (loop rest where n 'after-chapter ref last-ref pending-text? depth hyphen?
+                          (cond ((and base (not (= n (+ base 1))))
+                                 (seq "Swete chapter {C~a} after chapter ~a~a" n base
+                                      (if (string? ch) (format #f " (a chapter resumed after section ~a is {C~a})" ch base) "")))
+                                ((and (not base) (not ch) opens? (not (= n 1))) (add 'fail "book opens with {C~a}, expected {C1}" n))
+                                (else acc))))))
              (('verse n 'letter l)
               ;; Swete's own lettered verse {42a}: only after his {42} (or
               ;; another letter of it); V stays 42, so {43} runs on.
@@ -411,6 +440,9 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
                     (let*-values
                         (((acc2) (cond ((or (not ref) (and last-ref (equal? (take ref 3) (take last-ref 3)))) acc)
                                        ((duplicate ref where) => (lambda (msg) (add 'fail "~a" msg)))
+                                       ;; Into, out of or inside a lettered section: Swete's
+                                       ;; own numbers there are the reference; no order warnings.
+                                       ((not (and (numbered? ref) (or (not last-ref) (numbered? last-ref)))) acc)
                                        ;; An explicit {=c:v} may go anywhere (the LXX
                                        ;; transposes verses); only the references
                                        ;; that follow Swete's own numbers are judged,

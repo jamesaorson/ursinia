@@ -1,0 +1,59 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+2chr	oldtestamenting02swet	147	1	Ἰ̓ερουσαλὴμ	᾿ερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DROP, B OPEN
+2chr	oldtestamenting02swet	147	1	ἀθῴου:	ἀθῴου:	ἀθῴου·	ἀθῴου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	147	1	Κύριος	Κύριος +Β	Κύριος	Κύριος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	147	2	αὐτούς. +“	αὐτούς. +ὁ	αὐτούς.	αὐτούς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	147	2	αὐτὸν	αὐτὸν	αὐτὸν	αὐτὸν	TODO zoom: acute or grave before a capitalized word
+2chr	oldtestamenting02swet	147	3	λεὺς	λεὺς	λεὺς	λεὺς	TODO zoom: acute or grave before a capitalized word
+2chr	oldtestamenting02swet	147	4	γαγεν	γγαγεν	γαγεν	γαγεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	147	4	Τ7καὶ	Τ7καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	147	6	Βαβυλῶνι. +ὃ	Βαβυλῶνι. +ὃ	Βαβυλῶνι.	Βαβυλῶνι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	147	6	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2chr	oldtestamenting02swet	147	7	ὑκ	οὐκ	οὐκ	οὐκ	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	147	7	ταῦτα +α	ταῦτα	ταῦτα	ταῦτα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	147	7	τοῖς	τοῖς +ς	τοῖς	τοῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+2chr	oldtestamenting02swet	147	7	βα +βασι Ξ	βασι-	βασι-	βασι-	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	147	8	Ἰούδα;	Ἰούδα;	Ἰούδα;	Ἰούδα;	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2chr	oldtestamenting02swet	147	8	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2chr	oldtestamenting02swet	147	9	αὐτοῦ"	αὐτοῦ"	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	147	9	Ἰεχονίας	Ἰεχονίας	Ἰεχονίας	Ἰεχονίας	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2chr	oldtestamenting02swet	147	11	Οκτὼ	Οκτῶ	Ὀκτὼ	Ὀκτὼ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DROP, B DIA
+2chr	oldtestamenting02swet	147	11	Ἰεχονίας	Ιεχονιας	Ἰεχονίας	Ἰεχονίας	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A same, B DROP
+2chr	oldtestamenting02swet	147	11	τῳ	τῷ	τῷ	τῷ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	147	12	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2chr	oldtestamenting02swet	147	13	τον +“καὶ	“καὶ	καὶ	καὶ	TODO zoom: A OPEN, B R1
+2chr	oldtestamenting02swet	147	14	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	TODO zoom: acute or grave before a capitalized word
+2chr	oldtestamenting02swet	147	15	ἐπιθυμητῶών	ἐπιθυμητών	ἐπιθυμητῶν	ἐπιθυμητῶν	TODO zoom: A OPEN, B DIA
+2chr	oldtestamenting02swet	147	15	Κυρίου:	Κυρίου"	Κυρίου·	Κυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	147	16	Ἰούδαν	Ἰούδαν	Ἰούδαν	Ἰούδαν	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2chr	oldtestamenting02swet	147	16	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2chr	oldtestamenting02swet	147	17	τ +Ἑτών	τ +τών	Ἐτῶν	Ἐτῶν	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B OPEN
+2chr	oldtestamenting02swet	147	17	ἑνὸς	ἑνὸς	ἑνὸς	ἑνὸς	TODO zoom: acute or grave before a capitalized word
+2chr	oldtestamenting02swet	147	17	ἔνδεκα	ἔνδεκα	ἕνδεκα	ἕνδεκα	TODO zoom: A DIA, B DIA
+2chr	oldtestamenting02swet	147	18	Ιερουσαλὴμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B same
+2chr	oldtestamenting02swet	147	18	"καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	147	19	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+2chr	oldtestamenting02swet	147	19	Ἰ̓ερεμίου	Ἰερεμίου	Ἰερεμίου	Ἰερεμίου	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DROP, B same
+2chr	oldtestamenting02swet	147	20	δὲν	"ἐν	ἐν	ἐν	TODO zoom: A OPEN, B R1
+2chr	oldtestamenting02swet	147	23	θεὸν +᾽	θεὸν	θεὸν	θεὸν	TODO zoom: acute or grave before a capitalized word
+2chr	oldtestamenting02swet	147	23	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2chr	oldtestamenting02swet	147	23	“ἰκαὶ	"ἰκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	147	24	ἔν +δοξοι	ἔνδοξοι	ἔνδοξοι	ἔνδοξοι	class R6 (OCR letters differ): the other OCR reading agrees with c
+2chr	oldtestamenting02swet	147	24	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+2chr	oldtestamenting02swet	147	25	ἐθνῶν,	ἐθνών,	ἐθνῶν,	ἐθνῶν,	TODO zoom: A same, B DIA
+2chr	oldtestamenting02swet	147	26	Ἰερουσαλῆμ.	᾿ερουσαλῆμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B OPEN
+2chr	oldtestamenting02swet	147	26	“καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	147	28	"“καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+2chr	oldtestamenting02swet	147	30	θυμὸς	θυμὸς	θυμὸς	θυμὸς	TODO zoom: acute or grave before a capitalized word
+2chr	oldtestamenting02swet	147	31	Τῷ	3	ἐν	ἐν	TODO zoom: A OPEN, B OPEN
+2chr	oldtestamenting02swet	147	31	αῳ	Τῷ	τῷ	τῷ	TODO zoom: A OPEN, B DROP
+2chr	oldtestamenting02swet	147	31	αὐτου,	Ἀ	λαῷ	λαῷ	TODO zoom: A OPEN, B OPEN
+2chr	oldtestamenting02swet	147	31	εῶως	αῳ	αὐτοῦ,	αὐτοῦ,	TODO zoom: A OPEN, B OPEN
+2chr	oldtestamenting02swet	147	31	∅	αὐτου, +εῶως	ἕως	ἕως	TODO zoom: A R0, B OPEN
+2chr	oldtestamenting02swet	147	31	ἢν	ἣν	ἦν	ἦν	TODO zoom: A DIA, B DIA
+2chr	oldtestamenting02swet	147	31	ιαμα.	ιαμα.	ἴαμα.	ἴαμα.	TODO zoom: A DROP, B DROP
+2chr	oldtestamenting02swet	147	31	Και	17	καὶ	καὶ	TODO zoom: A DROP, B OPEN
+2chr	oldtestamenting02swet	147	31	γαγεν	Και	ἤγαγεν	ἤγαγεν	TODO zoom: A OPEN, B OPEN
+2chr	oldtestamenting02swet	147	31	ΕἾΤ	γαγεν	ἐπ᾽	ἐπ᾽	TODO zoom: A OPEN, B OPEN
+2chr	oldtestamenting02swet	147	31	αὐτους	ΕἾΤ	αὐτοὺς	αὐτοὺς	TODO zoom: A DROP, B OPEN
+2chr	oldtestamenting02swet	147	31	βασιλεα	3 +αὐτους β βασιλεα	βασιλέα	βασιλέα	TODO zoom: A DROP, B OPEN

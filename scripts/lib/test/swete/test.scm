@@ -190,6 +190,25 @@
 (check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C21}{1}α. {2}β. {2a}γ. {2a}δ.\n")) #f #f)
        '((40 1 fail)))                                   ; the same letter twice
 
+;; Lettered sections (Esther's additions A-F): A before 1:1, B inside 3, the
+;; interrupted chapter resumed by its reprinted numeral ('III 14').
+(define pe (page 40 "# s leaf 0040\n# box 1 2 3 4\n{CA}{1}α. {2}β. {C1}{1}γ. {C2}{1}δ. {C3}{1}ε. {2}ζ. {CB}{1}η. {2}θ. {C3}{3}ι. {C4}{1}κ. {CC}{1}λ. {CD}{1}μ. {C5}{3!}ν.\n"))
+(check (book-problems (list pe) 40 #f 1) '())             ; no failures and no warnings
+(call-with-values (lambda () (book-verses (list pe)))
+  (lambda (rows problems)
+    (check (map (lambda (r) (take r 2)) rows)
+           '(("A" 1) ("A" 2) (1 1) (2 1) (3 1) (3 2) ("B" 1) ("B" 2) (3 3) (4 1) ("C" 1) ("D" 1) (5 3)))))
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{CA}{1}α. {C1}{1}β. {CC}{1}γ.\n")) 40 #f)
+       '((40 1 fail)))                                   ; C without B
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C1}{1}α. {2}β. {CA}{1}γ. {C1}{4}δ.\n")) 40 #f)
+       '((40 1 fail)))                                   ; a resumed chapter runs on from its last verse
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C1}{1}α. {CA}{1}γ. {C3}{1}δ.\n")) 40 #f)
+       '((40 1 fail)))                                   ; nor does a section skip a chapter
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{CA}{1}α. {3}β.\n")) 40 #f)
+       '((40 1 fail)))                                   ; Swete's numbers inside a section run on
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{2}α. {3}β. {CD}{1}γ. {C5}{3!}δ.\n")) #f #f)
+       '())                                              ; a run starting mid-book: letter and chapter unknown
+
 ;; Combined common numbers (Exod 37:4-5, 36:34,36): one row, each verse claimed.
 (call-with-values (lambda () (book-verses (list (page 40 "{C38}{1}{=37:4-5}α. {2}{=36:34,36}β. {3}{=37:6}γ."))))
   (lambda (rows problems) (check (map second rows) '("4-5" "34,36" 6))))
