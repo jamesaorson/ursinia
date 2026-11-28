@@ -416,7 +416,7 @@
   (literal
     ("But" 2)
     ("Moses" 3)
-    ("uplifted" (1 uplift "ἐξαίρω"))
+    ("removed" (1 remove "ἐξαίρω"))
     ("the sons" 4 5)
     ("of Israel" 6)
     ("from" 7)

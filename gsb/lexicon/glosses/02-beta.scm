@@ -190,3 +190,5 @@
 (lemma "βύσσινος" (sense fine-linen (gloss "fine linen") (why "Made of byssus, fine linen (Genesis 41:42 στολὴν βυσσίνην, the robe Pharaoh put on Joseph; Revelation 18:12, 16; 19:8, 14).")))
 
 (lemma "βύσσος" (sense fine-linen (gloss "fine linen") (why "Byssus, fine linen, the costly flax cloth or thread (Luke 16:19 πορφύραν καὶ βύσσον). In the tabernacle and priestly chapters with ὑάκινθος \"blue\", πορφύρα \"purple\" and κόκκινος \"scarlet\" (Exodus 25:4; 26:1; 28:5-8 βύσσου κεκλωσμένης \"of twisted fine linen\"). It shares \"fine linen\" with its adjective βύσσινος, unavoidably: English has no other noun for it (\"byssus\" is not understood); λινοῦς stays plain \"linen\". Use this English in every tabernacle chapter.")))
+
+(lemma "βωμός" (sense raised-altar (gloss "raised altar" "raised altars") (plural "raised altars") (why "(LXX, supplied.) A raised place, a platform, and so an altar (Exodus 34:13 τοὺς βωμοὺς αὐτῶν καθελεῖτε, the Canaanites' altars; Acts 17:23, the Athenian altar to an unknown god). The Septuagint keeps θυσιαστήριον \"altar\" for the Lord's altar and uses βωμός for others; \"raised altar\" keeps the two words apart in English.")))

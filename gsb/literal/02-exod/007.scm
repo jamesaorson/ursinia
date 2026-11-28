@@ -153,7 +153,7 @@
     ("brother" (8 absorbed) 9)
     ("of years" 11)
     ("eighty" 12)
-    ("of three," 13)
+    ("three," 13)
     ("when" 14)
     ("he/she/it spoke" 15)
     ("to" (16 to))

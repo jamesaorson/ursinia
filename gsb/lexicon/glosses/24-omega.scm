@@ -50,7 +50,8 @@
 (lemma "ὡσεί" (sense about (gloss "about") (why "As it were, about, with a measure (Genesis 21:16 ὡσεὶ τόξου βολήν; Luke 3:23 ὡσεὶ ἐτῶν τριάκοντα; Acts 2:41). \"About\" keeps it apart from ὡς \"as\"."))
   (sense as-it-were (gloss "as it were") (why "Of likeness, not of a measure: as it were, like (Genesis 19:28 ὡσεὶ ἀτμὶς καμίνου; Matthew 3:16 ὡσεὶ περιστεράν; Luke 22:44). Chosen by word override.")))
 
-(lemma "ὥσπερ" (sense as-if (gloss "as if") (why "Just as, as it were; in the telling of a dream, \"as if\" (Genesis 41:2, 18, 22 καὶ ἰδοὺ ὥσπερ ἐκ τοῦ ποταμοῦ ἀνέβαινον). \"As if\" keeps it apart from ὡσεί \"as it were\" and καθώς \"just as\"; the New Testament's comparative \"just as\" (Matthew 6:2) becomes its own sense when needed.")))
+(lemma "ὥσπερ" (sense as-if (gloss "as if") (why "Just as, as it were; in the telling of a dream, \"as if\" (Genesis 41:2, 18, 22 καὶ ἰδοὺ ὥσπερ ἐκ τοῦ ποταμοῦ ἀνέβαινον). \"As if\" keeps it apart from ὡσεί \"as it were\" and καθώς \"just as\"; the New Testament's comparative \"just as\" (Matthew 6:2) becomes its own sense when needed."))
+  (sense just-as (gloss "just as") (why "The plain comparison, \"just as\" (Exodus 21:7 οὐκ ἀπελεύσεται ὥσπερ ἀποτρέχουσιν αἱ δοῦλαι; Matthew 6:2). Shares \"just as\" with καθώς; the alignment shows which. Chosen by word override.")))
 
 (lemma "ὥστε"
   (sense so-as

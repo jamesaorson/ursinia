@@ -104,11 +104,13 @@
 
 (lemma "ᾅδης" (sense name (gloss "Hades") (why "(LXX, supplied.) Hades, the place of the dead (Genesis 44:29, 31, εἰς ᾅδου, \"into Hades\", the elliptical genitive \"into [the house] of Hades\"; Matthew 11:23; Acts 2:27, quoting Psalm 16). The Greek name is kept, as in the New Testament.")))
 
+(lemma "ἀδιάλυτος" (sense indissoluble (gloss "indissoluble") (why "(LXX, supplied.) Not to be undone, indissoluble (ἀ- + διαλύω \"undo\"): the opening of the undergarment, its edge ἀδιάλυτον, that it may not come apart (Exodus 39:23; compare 28:32 ἵνα μὴ ῥαγῇ). Tabernacle term.")))
+
 (lemma "ἀδικέω" (sense wrong (gloss "wrong" "wronged" "wrongs" "wronging") (why "To do wrong, to wrong someone; passive \"be wronged\" (Genesis 16:5 Ἀδικοῦμαι ἐκ σοῦ, \"I am wronged from you\"; Acts 7:24-27).")))
 
 (lemma "ἀδίκημα" (sense wrongdoing (gloss "wrongdoing" "wrongdoings") (why "A wrong done, a misdeed (Genesis 31:36 Τί τὸ ἀδίκημά μου; Acts 18:14; 24:20). \"Wrongdoing\" keeps it apart from the verb ἀδικέω \"wrong\".")))
 
-(lemma "ἀδικία" (sense unrighteousness (gloss "unrighteousness") (why "Wrongdoing, injustice: the opposite of δίκαιος \"righteous\" (Genesis 6:11, 13; Romans 1:18). \"Unrighteousness\" keeps that link visible.")))
+(lemma "ἀδικία" (sense unrighteousness (gloss "unrighteousness" "unrighteousnesses") (why "Wrongdoing, injustice: the opposite of δίκαιος \"righteous\" (Genesis 6:11, 13; Romans 1:18). \"Unrighteousness\" keeps that link visible.")))
 
 (lemma "ἄδικος" (sense unrighteous (gloss "unrighteous") (why "Unrighteous, unjust (Genesis 19:8 μηδὲν ἄδικον; Matthew 5:45; 1 Corinthians 6:1): the adjective of ἀδικία \"unrighteousness\", the opposite of δίκαιος \"righteous\".")))
 
@@ -243,6 +245,8 @@
 
 (lemma "ἀληθής" (sense true (gloss "true") (why "True (Genesis 41:32 ἀληθὲς ἔσται τὸ ῥῆμα τὸ παρὰ τοῦ θεοῦ; John 3:33; 8:13). The adjective of ἀλήθεια.")))
 
+(lemma "ἀληθινός" (sense genuine (gloss "genuine") (why "Real, genuine, true to its name (Exodus 34:6, of the Lord, μακρόθυμος καὶ πολυέλεος καὶ ἀληθινός; John 1:9 τὸ φῶς τὸ ἀληθινόν; 17:3; 1 Thessalonians 1:9). \"Genuine\" keeps it apart from ἀληθής \"true\"; the readable layer may say \"true\".")))
+
 (lemma "ἀληθῶς" (sense truly (gloss "truly") (why "Truly, really (Genesis 18:13; Matthew 14:33; John 1:47). The adverb of ἀληθής \"true\".")))
 
 (lemma "ἁλίσκομαι" (sense be-caught (intransitive) (verb "be caught" "was caught" "been caught") (gloss "be caught" "was caught" "were caught" "is caught" "are caught" "been caught" "being caught") (why "(LXX, supplied.) To be taken, caught, convicted; the active aorist ἑάλων/ἁλούς has this passive sense (Exodus 22:9 ὁ ἁλοὺς διὰ τοῦ θεοῦ, \"the one having been caught through God\", found guilty). Kept apart from καταλαμβάνω, which is the active \"overtake\".")))
@@ -260,6 +264,8 @@
 
 (lemma "ἀλλότριος" (sense foreign (gloss "foreign") (why "Belonging to another, foreign (Genesis 17:12 υἱὸς ἀλλότριος \"foreign son\"; Hebrews 11:9, 34; Matthew 17:25-26).")))
 
+(lemma "ἀλλόφυλος" (sense foreigner (person) (gloss "foreigner" "foreigners") (why "(LXX, supplied.) Of another tribe or race (ἄλλος + φυλή), as a noun a foreigner (Exodus 34:15 τοῖς ἐνκαθημένοις πρὸς ἀλλοφύλους; Acts 10:28). \"Foreigner\" keeps it apart from ἀλλότριος \"foreign\" and ἀλλογενής \"alien\". In the historical books the plural is the Septuagint's name for the Philistines: whether those places keep \"foreigners\" or take the name is for the owner.")))
+
 (lemma "ἄλογος" (sense speechless (gloss "speechless") (why "(LXX sense.) Without speech, without reason. Exodus 6:12 ἐγὼ δὲ ἄλογός εἰμι, Moses of himself (the Hebrew has \"uncircumcised of lips\"): \"speechless\", without the gift of speech, beside ἰσχνόφωνος \"thin-voiced\" (6:30). In 2 Peter 2:12 and Jude 10, of animals, \"unreasoning\", a later sense.")))
 
 (lemma "Ἁλοήλ" (sense name (gloss "Jahleel") (why "(LXX, supplied.) A son of Zebulun (Genesis 46:14), Greek Ἁλοήλ; traditional English Jahleel.")))
@@ -272,9 +278,11 @@
 
 (lemma "ἅλς" (sense salt (gloss "salt" "salts") (why "(LXX, supplied.) Salt; the plural ἅλες in ἡ θάλασσα τῶν ἁλῶν, \"the sea of the salts\" (Genesis 14:3), the Dead Sea. The New Testament's ἅλας (Matthew 5:13) is a different lemma.")))
 
+(lemma "ἄλσος" (sense grove (gloss "grove" "groves") (why "(LXX, supplied.) A grove, a sacred wood (Exodus 34:13 τὰ ἄλση αὐτῶν ἐκκόψετε, the Canaanites' groves, where the Hebrew names the Asherah poles). \"Grove\" is the Greek word's own sense.")))
+
 (lemma "ἁλυκός" (sense salty (gloss "salty") (why "(LXX, supplied.) Salty, briny (Genesis 14:3, 8, 10, the salty ravine or valley; James 3:12). \"Salty\" keeps it apart from the noun ἅλς \"salt\".")))
 
-(lemma "ἁλυσιδωτός" (sense chained (gloss "chained") (why "(LXX, supplied.) Made like a chain, of chain links (ἅλυσις \"chain\"): the gold cords of the oracle, ἔργον ἁλυσιδωτοῦ \"work of chained [kind]\" and τὰ ἁλυσιδωτά \"the chained [things]\" (Exodus 28:22, 24; 36-39). Use this English in every tabernacle chapter.")))
+(lemma "ἁλυσιδωτός" (sense chainwork (gloss "chainwork") (why "(LXX, supplied.) Made like a chain, of chain links (ἅλυσις \"chain\"), used as a noun: the gold cords of the oracle, ἔργον ἁλυσιδωτοῦ \"work of chainwork\" and τὰ ἁλυσιδωτά \"the chainwork\" (Exodus 28:22, 24; 36-39). Use this English in every tabernacle chapter.")))
 
 (lemma "ἅλων" (sense threshing-floor (gloss "threshing floor" "threshing floors") (why "(LXX form supplied.) A threshing floor (Genesis 50:10-11, the threshing floor of Atad; Matthew 3:12; Luke 3:17).")))
 
@@ -378,6 +386,8 @@
 (lemma "ἀναζεύγνυμι" (sense break-camp (intransitive) (verb "break camp" "broke camp" "broken camp") (gloss "break camp" "broke camp" "broken camp" "breaks camp" "breaking camp") (why "(LXX, supplied.) To yoke up again, so to break camp and move on (Exodus 14:15, λάλησον τοῖς υἱοῖς Ἰσραὴλ καὶ ἀναζευξάτωσαν, \"let them break camp\"). Kin to ζεύγνυμι \"yoke\".")))
 
 (lemma "ἀναζέω" (sense boil-up (intransitive) (verb "boil up" "boiled up" "boiled up") (gloss "boil up" "boiled up" "boils up" "boiling up") (why "(LXX, supplied.) To boil up, break out (Exodus 9:9-10, φλυκτίδες ἀναζέουσαι, \"blisters boiling up\", of the sores).")))
+
+(lemma "ἀναζυγή" (sense breaking-of-camp (gloss "breaking of camp" "breakings of camp") (plural "breakings of camp") (why "(LXX, supplied.) The noun of ἀναζεύγνυμι \"break camp\": a moving off, a stage of the march (Exodus 40:38, ἐν πάσαις ταῖς ἀναζυγαῖς αὐτῶν, \"in all their breakings of camp\"). \"Breaking of camp\" keeps the verb's English inside the noun; kept apart from ἔξοδος \"exodus\" and πόρευσις \"journey\".")))
 
 (lemma "ἀναζωπυρέω" (sense rekindle (intransitive) (gloss "rekindle" "rekindled" "rekindles" "rekindling") (why "To kindle again, come to life again (Genesis 45:27, the spirit of Jacob rekindled; 2 Timothy 1:6, ἀναζωπυρεῖν τὸ χάρισμα). Intransitive in Genesis.")))
 
@@ -541,6 +551,8 @@
 
 (lemma "ἀπαντάω" (sense meet (dative "") (gloss "meet" "met" "meets" "meeting") (why "To meet, come upon, with the dative (Genesis 28:11 ἀπήντησεν τόπῳ, \"met [a] place\", came upon it; Mark 14:13). (LXX form supplied.)")))
 
+(lemma "ἀπαρτία" (sense belongings (gloss "belongings") (why "(LXX, supplied.) What is fitted out for removal, a household's movable goods (Exodus 40:36, the sons of Israel broke camp σὺν τῇ ἀπαρτίᾳ αὐτῶν, \"with their belongings\"; Numbers 10:12; 31:17-18; Deuteronomy 20:14). \"Belongings\" because ἀποσκευή has \"baggage\".")))
+
 (lemma "ἀπαρχή" (sense firstfruit (gloss "firstfruit" "firstfruits") (why "The first part taken off, firstfruits (Romans 8:23; 1 Corinthians 15:20), and so an offering set apart: Exodus 25:2-3, the gifts for the tent, λάβετε ἀπαρχάς. \"Firstfruit\" kept in both uses so the word stays recognizable.")))
 
 (lemma "ἅπαξ" (sense once (gloss "once") (why "Once, a single time (Genesis 18:32 ἔτι ἅπαξ \"yet once\", as Hebrews 12:26-27; 9:7).")))
@@ -699,7 +711,7 @@
 
 (lemma "ἀργύριον"(sense silver (gloss "silver") (why "Silver, as metal and as money (Genesis 13:2, rich in silver and gold; Matthew 25:18; Acts 3:6). It shares \"silver\" with the adjective ἀργυροῦς \"of silver\"; a sense \"money\" (Matthew 28:12) may be added where the coins are meant.")))
 
-(lemma "ἄργυρος" (sense silver (gloss "silver") (why "Silver as a metal (Exodus 27:11, the clasps and bands περιηργυρωμέναι ἀργύρῳ, \"silvered around with silver\"; Matthew 10:9; Acts 17:29; James 5:3). It shares \"silver\" with ἀργύριον (silver, money) and the adjective ἀργυροῦς: one metal; the alignment shows which Greek word stands behind it.")))
+(lemma "ἄργυρος" (sense silver (dative "with") (gloss "silver") (why "Silver as a metal (Exodus 27:11, the clasps and bands περιηργυρωμέναι ἀργύρῳ, \"silvered around with silver\"; Matthew 10:9; Acts 17:29; James 5:3). It shares \"silver\" with ἀργύριον (silver, money) and the adjective ἀργυροῦς: one metal; the alignment shows which Greek word stands behind it.")))
 
 (lemma "ἀργυροῦς" (sense silver (gloss "silver") (why "Made of silver (Exodus 20:23; Acts 19:24).")))
 
@@ -791,6 +803,8 @@
 (lemma "ἀρχιστράτηγος" (sense commander-in-chief (person) (gloss "commander-in-chief" "commanders-in-chief") (why "(LXX, supplied.) The chief general of an army (Genesis 21:22, 32; 26:26, Phicol, Abimelech's commander). One word, \"commander-in-chief\", for the compound ἀρχι- + στρατηγός.")))
 
 (lemma "ἀρχιτεκτονέω" (sense architect (gloss "architect" "architected" "architects" "architecting") (why "(LXX, supplied.) To be master builder, to design and direct the work (Exodus 31:4 and 35:32 διανοεῖσθαι καὶ ἀρχιτεκτονῆσαι, of Bezalel; compare ἀρχιτέκτων, 1 Corinthians 3:10). The English verb \"architect\" is the Greek word; kept apart from διανοέομαι \"think through\" and τεκτονικός \"carpentry\".")))
+
+(lemma "ἀρχιτεκτονία" (sense architecture (gloss "architecture") (why "(LXX, supplied.) The master builder's craft, design and direction of the work (Exodus 35:32 κατὰ πάντα τὰ ἔργα τῆς ἀρχιτεκτονίας; 35:35 ἔργον ἀρχιτεκτονίας ποικιλίας). The noun of ἀρχιτεκτονέω \"architect\", so \"architecture\" in every tabernacle chapter.")))
 
 (lemma "ἄρχω"
   (sense rule

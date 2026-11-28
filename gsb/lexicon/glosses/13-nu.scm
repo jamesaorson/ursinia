@@ -39,6 +39,8 @@
 (lemma "νέος"(sense young (comparative "younger") (gloss "young" "younger") (why "Young, new; the comparative νεώτερος \"younger\" (Genesis 9:24, Noah's younger son; Luke 15:12-13). \"New\" (Matthew 9:17, new wine) may become its own sense, against καινός."))
   (sense new (gloss "new") (why "New, fresh (Exodus 13:4, ἐν μηνὶ τῶν νέων, \"in month of the new [things]\", the Hebrew Abib, the month of new ears; Matthew 9:17, new wine). Chosen by the form row; καινός will need another word.")))
 
+(lemma "νεομηνία" (sense new-moon (dative "on") (gloss "new moon" "new moons") (why "The new moon, the first day of the month (Colossians 2:16 νεομηνίας): Exodus 40:2, 17, ἐν ἡμέρᾳ μιᾷ τοῦ μηνὸς τοῦ πρώτου νουμηνίᾳ, \"on new moon\". Swete spells it νουμηνία, the contracted form; the lemma follows the New Testament's spelling.")))
+
 (lemma "νεότης" (sense youth (gloss "youth") (why "Youth, the time of being young (Genesis 8:21, ἐκ νεότητος, from youth; Mark 10:20, from my youth). It shares \"youth\" with νεανίσκος (a young man, a person, plural \"youths\"); English has no other plain noun for the age, and the article and context keep them apart.")))
 
 (lemma "νευροκοπέω" (sense hamstring (verb "hamstring" "hamstrung" "hamstrung") (gloss "hamstring" "hamstrung" "hamstrings" "hamstringing") (why "(LXX, supplied.) To cut the sinews of the legs, hamstring (Genesis 49:6, ἐνευροκόπησαν ταῦρον).")))
@@ -58,6 +60,8 @@
 (lemma "νήθω" (sense spin (verb "spin" "spun" "spun") (gloss "spin" "spun" "spins" "spinning") (why "To spin thread (Matthew 6:28; Luke 12:27; Exodus 26:31, βύσσου νενησμένης \"of fine linen spun\"; 35:25-26). Kept apart from κλώθω \"twist\" and διανήθω \"spin through\".")))
 
 (lemma "νῆσος" (sense island (gloss "island" "islands") (why "An island; in the Septuagint also a coastland (Genesis 10:5, 32, νῆσοι τῶν ἐθνῶν; Acts 13:6; Revelation 1:9).")))
+
+(lemma "νηστεύω" (sense fast (intransitive) (gloss "fast" "fasted" "fasts" "fasting") (why "To fast, go without food (Exodus 38:8, the women τῶν νηστευσασῶν αἳ ἐνήστευσαν at the doors of the tent; Matthew 4:2; 6:16-18). (LXX form supplied.)")))
 
 (lemma "νηστός" (sense spun (gloss "spun") (why "(LXX, supplied.) Spun, of thread (Exodus 31:4 τὸ κόκκινον τὸ νηστόν, \"the spun scarlet\"; 35:6 κόκκινον διπλοῦν νηστόν, from νέω \"spin\"). Shares the English participle \"spun\" with διανήθω \"spin through\" only inside that verb's phrase.")))
 

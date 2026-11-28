@@ -142,13 +142,15 @@
 
 (lemma "σκέπτομαι" (sense look-out (verb "look out" "looked out" "looked out") (gloss "look out" "looked out" "looks out" "looking out") (why "(LXX form supplied.) To look about for, look out, choose with care (Genesis 41:33 σκέψαι ἄνθρωπον φρόνιμον; compare ἐπισκέπτομαι, Acts 6:3 \"look out\" seven men).")))
 
-(lemma "σκεπάζω" (sense shelter (gloss "shelter" "sheltered" "shelters" "sheltering") (why "(LXX, supplied.) To cover, shelter, protect (Exodus 2:2 ἐσκέπασαν αὐτὸ μῆνας τρεῖς, of hiding the child; Hebrews 11:23 tells it with κρύπτω). \"Shelter\" keeps it apart from κρύπτω \"hide\" and the καλύπτω verbs \"cover\".")))
+(lemma "σκεπάζω" (sense shelter (dative "with") (gloss "shelter" "sheltered" "shelters" "sheltering") (why "(LXX, supplied.) To cover, shelter, protect (Exodus 2:2 ἐσκέπασαν αὐτὸ μῆνας τρεῖς, of hiding the child; Hebrews 11:23 tells it with κρύπτω). \"Shelter\" keeps it apart from κρύπτω \"hide\" and the καλύπτω verbs \"cover\".")))
 
 (lemma "σκεῦος" (sense gear (gloss "gear") (why "An implement, piece of equipment; here a hunter's gear (Genesis 27:3 λάβε τὸ σκεῦος, τήν τε φαρέτραν καὶ τὸ τόξον). The common New Testament sense \"vessel\" (Romans 9:21-23; 2 Timothy 2:20-21) will be its own sense."))
   (sense article (gloss "article" "articles") (why "A made object, an article (Genesis 24:53, σκεύη ἀργυρᾶ καὶ χρυσᾶ, articles of silver and gold given to Rebekah; Revelation 18:12, every article of ivory). Chosen by override where the things are goods or jewelry rather than equipment or vessels."))
   (sense vessel (gloss "vessel" "vessels") (why "A vessel, utensil, the common New Testament sense (Romans 9:21-23; 2 Timothy 2:20-21) and the furnishings of the tent: τὸ παράδειγμα πάντων τῶν σκευῶν αὐτῆς, \"the model of all its vessels\" (Exodus 25:9), πάντα τὰ σκεύη ταῦτα, the lampstand's utensils (25:39); Hebrews 9:21 πάντα τὰ σκεύη τῆς λειτουργίας, \"all the vessels of the ministry\". Chosen by word override for the tent's furnishings and utensils in every tabernacle chapter; κατασκευή is \"furnishing\".")))
 
 (lemma "σκηνή" (sense tent (gloss "tent" "tents") (why "Tent, tabernacle; \"tent\" in the literal layer (Hebrews 11:9). Whether the tabernacle of Exodus keeps \"tent\" is a decision for the owner.")) (sense name (gloss "Tents") (why "(LXX, supplied.) The place name the Greek gives at Genesis 33:17, εἰς Σκηνάς ... Σκηναί, \"Tents\", where the Hebrew has Succoth; we translate the Greek name (rule 8, as Σύγχυσις \"Confusion\"), capitalized as a name.")))
+
+(lemma "σκιάζω" (sense shadow (dative "with") (gloss "shadow" "shadowed" "shadows" "shadowing") (why "(LXX, supplied.) To cast a shadow over, overshadow (σκιά \"shadow\"): the cherubim σκιάζοντα ταῖς πτέρυξιν αὐτῶν ἐπὶ τὸ ἱλαστήριον (Exodus 37:9). \"Shadow\" keeps it apart from συσκιάζω \"shade\", used of the same cherubim at 25:20.")))
 
 (lemma "σκιρτάω" (sense leap (intransitive) (gloss "leap" "leaped" "leaps" "leaping") (why "To spring, leap, of a child in the womb (Genesis 25:22 ἐσκίρτων δὲ τὰ παιδία ἐν αὐτῇ; Luke 1:41, 44) or for joy (Luke 6:23).")))
 
@@ -261,6 +263,8 @@
     (gloss "sowable")
     (why "Fit for sowing, sown (Genesis 1:29; Matthew 12:1, \"the sown [fields]\"). \"Sowable\" keeps it apart from σπείρω \"sow\" while showing the root.")))
 
+(lemma "σπόρος" (sense seedtime (gloss "seedtime" "seedtimes") (why "Sowing, the time or act of sowing, and the seed sown (Exodus 34:21 τῷ σπόρῳ καὶ τῷ ἀμήτῳ κατάπαυσις, rest in seedtime and reaping; Mark 4:26-27; Luke 8:5, 11; 2 Corinthians 9:10). \"Seedtime\" because σπέρμα has \"seed\" and \"sowing\" is a form of σπείρω \"sow\"; the seed of the New Testament parables may become its own sense.")))
+
 (lemma "σπουδή" (sense haste (dative "in") (gloss "haste") (why "Haste, speed, and so eagerness (Exodus 12:11 ἔδεσθε αὐτὸ μετὰ σπουδῆς, \"with haste\"; 12:33 σπουδῇ, \"in haste\"; Mark 6:25; Luke 1:39 μετὰ σπουδῆς; Romans 12:8, 11 \"diligence\"). \"Haste\", the noun of σπεύδω \"hasten\".")))
 
 (lemma "στάζω" (sense drip (intransitive) (gloss "drip" "dripped" "drips" "dripping") (why "(LXX, supplied.) To drip, fall in drops (Exodus 9:33 ὁ ὑετὸς οὐκ ἔσταξεν οὐκέτι ἐπὶ τὴν γῆν, the rain no longer dripping on the land).")))
@@ -292,6 +296,8 @@
     (why "A groan, groaning (Genesis 3:16; Acts 7:34; Romans 8:26). Genesis 3:16 has \"your groaning\" where translations from the Hebrew have \"your conception\" or \"childbearing\".")))
 
 (lemma "στένω" (sense groan (gloss "groan" "groaned" "groans" "groaning") (why "(LXX, supplied.) To groan: the verb of στεναγμός \"groaning\" (3:16).")))
+
+(lemma "στερεός" (sense solid (gloss "solid") (why "(LXX form supplied.) Firm, hard, solid; of the lampstand, beaten out of one solid piece, στερεὰν τὸν καυλόν, στερεὸν ὅλον χρυσοῦν (Exodus 37:17, 22); solid food, Hebrews 5:12, 14; the firm foundation, 2 Timothy 2:19; 1 Peter 5:9. Kin to στερέωμα \"firmament\". Tabernacle term.")))
 
 (lemma "στερέω" (sense deprive (genitive "of") (gloss "deprive" "deprived" "deprives" "depriving") (why "(LXX, supplied.) To deprive, rob; passive with the genitive, to be deprived of (Genesis 48:11 τοῦ προσώπου σου οὐκ ἐστερήθην, \"of your face I was not deprived\").")))
 
@@ -382,6 +388,8 @@
 
 (lemma "συκοφαντέω" (sense slander (gloss "slander" "slandered" "slanders" "slandering") (why "(LXX form supplied.) To accuse falsely, extort by false charges (Genesis 43:18 τοῦ συκοφαντῆσαι ἡμᾶς; Luke 3:14; 19:8). \"Slander\" keeps it apart from κατηγορέω \"accuse\".")))
 
+(lemma "συλλαλέω" (sense talk-with (dative "") (verb "talk with" "talked with" "talked with") (gloss "talk with" "talked with" "talks with" "talking with") (why "To speak together with, converse (Exodus 34:35 ἕως ἂν εἰσέλθῃ συνλαλεῖν αὐτῷ, Swete's spelling συνλ-; Luke 9:30, Moses and Elijah συνελάλουν αὐτῷ; Matthew 17:3). \"Talk with\" keeps it apart from λαλέω \"speak\"; the dative is the one talked with.")))
+
 (lemma "συλλαμβάνω" (sense conceive (gloss "conceive" "conceived" "conceives" "conceiving") (why "To conceive (a child), Genesis 4:1; Luke 1:24. Its other sense, seize, becomes its own sense when met."))
   (sense take-in (verb "take in" "took in" "taken in") (gloss "take in" "took in" "taken in" "takes in" "taking in") (why "Middle with μετά: to take in with oneself as a partner (Exodus 12:4 συλλήμψεται μεθ’ ἑαυτοῦ τὸν γείτονα, \"he will take in with himself the neighbor\", to share the lamb). \"Take in\" keeps it apart from παραλαμβάνω \"take along\" and λαμβάνω \"take\".")))
 
@@ -414,11 +422,15 @@
 
 (lemma "συμπίπτω" (sense fall-together (intransitive) (gloss "fall together" "fell together" "falls together" "falling together") (why "(LXX sense.) To fall together, collapse (Luke 6:49). Genesis 4:5-6, Cain's face fell.")))
 
+(lemma "συμπλεκτός" (sense plaited-together (gloss "plaited together") (why "(LXX, supplied.) Plaited together, the verbal adjective of συμπλέκω \"plait together\": the opening of the undergarment διυφασμένον συνπλεκτόν (Exodus 39:23, Swete's spelling συν-). Shares the English of συμπλέκω's participle, unavoidably. Tabernacle term.")))
+
 (lemma "συμπλέκω" (sense plait-together (gloss "plait together" "plaited together" "plaits together" "plaiting together") (why "(LXX, supplied.) To plait together, intertwine (σύν + πλέκω \"plait\"): κροσοὺς συνπεπλεγμένους \"tassels plaited together\" (Exodus 28:22, where Swete prints the unassimilated συνπ-).")))
 
 (lemma "συμποδίζω" (sense fetter (gloss "fetter" "fettered" "fetters" "fettering") (why "(LXX, supplied.) To tie the feet together, fetter (Genesis 22:9 συμποδίσας Ἰσαάκ), from σύν + πούς.")))
 
 (lemma "συμπορεύομαι" (sense travel-together (gloss "travel together" "traveled together" "travels together" "traveling together") (why "To go along with, travel together (Genesis 18:16 συνεπορεύετο μετ’ αὐτῶν; Luke 7:11; 24:15). \"Travel together\" so the μετά that follows does not print \"go with with\"; kept apart from πορεύομαι \"go\".")))
+
+(lemma "συμπορπάω" (sense pin-together (verb "pin together" "pinned together" "pinned together") (gloss "pin together" "pinned together" "pins together" "pinning together") (why "(LXX, supplied.) To fasten together with a pin or brooch (πόρπη), pin together: the two stones of the shoulder-piece συνπεπορπημένους (Exodus 39:6, Swete's spelling συν-). \"Pin\" for the πόρπη; κρίκος is \"clasp\". Tabernacle term.")))
 
 (lemma "συμπροπέμπω" (sense escort (gloss "escort" "escorted" "escorts" "escorting") (why "(LXX, supplied.) To join in sending someone on the way, escort (Genesis 18:16 συνπροπέμπων αὐτούς, Swete's unassimilated spelling). The simple προπέμπω (Acts 15:3; Romans 15:24) will need its own English.")))
 (lemma "συμφωνέω" (sense agree (gloss "agree" "agreed" "agrees" "agreeing") (why "To sound together, agree (Genesis 14:3, all these agreed upon the salty ravine, joined forces there; Matthew 18:19; 20:2).")))
@@ -434,6 +446,8 @@
   (sense gathering
     (gloss "gathering" "gatherings")
     (why "A gathering, a collected body (Genesis 1:9, the waters). The Jewish assembly and its building, \"synagogue\", will be a separate sense in the New Testament; the owner may instead want \"gathering\" there too.")))
+
+(lemma "συναθροίζω" (sense assemble (gloss "assemble" "assembled" "assembles" "assembling") (why "To gather together into one crowd, assemble (Exodus 35:1 συνήθροισεν Μωυσῆς πᾶσαν συναγωγὴν υἱῶν Ἰσραήλ; Acts 12:12; 19:25). \"Assemble\" keeps it apart from συνάγω \"gather\" and ἐπισυνάγω \"gather together\".")))
 
 (lemma "συναίρω" (sense raise-together (verb "raise together" "raised together" "raised together") (gloss "raise together" "raised together" "raises together" "raising together") (why "To take up together; with λόγον, to settle accounts (Exodus 23:5 συναρεῖς αὐτὸ μετ’ αὐτοῦ, lifting the fallen beast with its owner; Matthew 18:23-24; 25:19 συναίρει λόγον). Kept apart from αἴρω \"lift\".")))
 
@@ -456,7 +470,7 @@
 (lemma "συναπόλλυμι" (sense destroy-together (gloss "destroy together" "destroyed together" "destroys together" "destroying together") (why "To destroy together with (Genesis 18:23-25 μὴ συναπολέσῃς δίκαιον μετὰ ἀσεβοῦς; Hebrews 11:31, Rahab did not perish together with the disobedient). Built on ἀπόλλυμι \"destroy\"; the συν- is \"together\"."))
   (sense perish-together (dative "with") (verb "perish together" "perished together" "perished together") (gloss "perish together" "perished together" "perishes together" "perishing together") (why "The middle: to perish together with (Genesis 19:15 ἵνα μὴ συναπόλῃ ταῖς ἀνομίαις τῆς πόλεως; Hebrews 11:31 οὐ συναπώλετο τοῖς ἀπειθήσασιν). Chosen by the form row.")))
 
-(lemma "συναποστέλλω" (sense send-with (verb "send with" "sent with" "sent with") (gloss "send with" "sent with" "sends with" "sending with") (why "To send along with, send together (Exodus 33:2, συναποστελῶ τὸν ἄγγελόν μου πρὸ προσώπου σου; 33:12; 2 Corinthians 12:18). \"Send with\" against ἀποστέλλω and ἐξαποστέλλω.")))
+(lemma "συναποστέλλω" (sense send-along (verb "send along" "sent along" "sent along") (gloss "send along" "sent along" "sends along" "sending along") (why "To send along with, send together (Exodus 33:2, συναποστελῶ τὸν ἄγγελόν μου πρὸ προσώπου σου; 33:12; 2 Corinthians 12:18). \"Send along\" against ἀποστέλλω and ἐξαποστέλλω; not \"send with\", which would read \"send with my angel\" as sending something with him.")))
 
 (lemma "συνάπτω"(sense join (gloss "join" "joined" "joins" "joining") (why "(LXX, supplied.) To fasten together, join: the curtains and skin-cloths joined to one another with the clasps (Exodus 26:6, 9, 11; 36). Kept apart from κολλάω and συνέχω \"hold together\". Tabernacle term.")))
 
@@ -485,11 +499,14 @@
 
 (lemma "συννεφέω" (sense mass (gloss "mass" "massed" "masses" "massing") (why "(LXX, supplied.) To gather clouds, cloud over (σύν + νέφος); Genesis 9:14, ἐν τῷ συννεφεῖν με νεφέλας, with the cognate object, \"in my massing clouds\". \"Mass\" renders the σύν- and lets the object νεφέλας say \"clouds\"; \"gather\" is συνάγω's.")))
 
+(lemma "συνίημι" (sense comprehend (verb "comprehend" "comprehended" "comprehended") (gloss "comprehend" "comprehended" "comprehends" "comprehending") (why "(LXX form supplied.) To bring together in the mind, grasp, comprehend (Exodus 36:1, wisdom and expertise given συνιέναι ποιεῖν πάντα τὰ ἔργα; 35:35; Matthew 13:13-15, 19, 23; Acts 28:26-27, from Isaiah 6:9-10; Romans 3:11). The verb of σύνεσις \"intelligence\". \"Comprehend\" because \"understand\" is ἐπίσταμαι's.")))
+
 (lemma "συνίστημι" (sense commend (gloss "commend" "commended" "commends" "commending") (why "Transitive: to set together, introduce, commend, put in someone's charge (Genesis 40:4, the prisoners commended to Joseph; Romans 16:1; 2 Corinthians 3:1). Other senses (stand with, hold together) will be their own.")) (sense stand-together (intransitive) (verb "stand together" "stood together" "stood together") (gloss "stand together" "stood together" "stands together" "standing together") (why "Intransitive (perfect active): to have come to stand together, stand gathered: Exodus 7:19 πᾶν συνεστηκὸς ὕδωρ, all water standing together, pooled; 2 Peter 3:5, the earth συνεστῶσα out of water; Colossians 1:17 (\"hold together\" there may be its own sense). Chosen by form row.")))
 
 (lemma "συνοικέω" (sense dwell-with (dative "") (verb "dwell with" "dwelt with" "dwelt with") (gloss "dwell with" "dwelt with" "dwells with" "dwelling with") (why "To live together with, dwell with, of marriage (Genesis 20:3 συνῳκηκυῖα ἀνδρί; 1 Peter 3:7). Built on οἰκέω \"dwell\".")))
 
-(lemma "σύνταξις" (sense quota (gloss "quota" "quotas") (why "(LXX sense.) What is ordered or set, here the fixed daily tally of bricks (Exodus 5:8, 11, 14, 18 τὴν σύνταξιν τῆς πλινθίας), the noun of συντάσσω \"direct\". Not in the New Testament.")))
+(lemma "σύνταξις" (sense quota (gloss "quota" "quotas") (why "(LXX sense.) What is ordered or set, here the fixed daily tally of bricks (Exodus 5:8, 11, 14, 18 τὴν σύνταξιν τῆς πλινθίας), the noun of συντάσσω \"direct\". Not in the New Testament."))
+  (sense ordering (gloss "ordering" "orderings") (why "What is set in order, the arrangement or account of a thing: Καὶ αὕτη ἡ σύνταξις τῆς σκηνῆς τοῦ μαρτυρίου (Exodus 38:21), heading the reckoning of the tent's metals. \"Quota\" would say a fixed amount; \"ordering\" keeps the root of τάσσω. Chosen by word override.")))
 
 (lemma "συνταράσσω" (sense confound (gloss "confound" "confounded" "confounds" "confounding") (why "(LXX, supplied.) To throw into confusion, confound (Exodus 14:24, συνετάραξεν τὴν παρεμβολὴν τῶν Αἰγυπτίων). \"Confuse\" is συγχέω's.")))
 
@@ -524,6 +541,8 @@
     (why "(LXX, supplied; Swete prints συστέματα.) A whole made of parts, a body or collection (Genesis 1:10, \"the collections of the waters\"). Not in the New Testament.")))
 
 (lemma "συστρέφω" (sense twist-together (verb "twist together" "twisted together" "twisted together") (gloss "twist together" "twisted together" "twists together" "twisting together") (why "(LXX, supplied.) To twist or roll together, gather up; passive of the inward parts, to be wrung, churned (Genesis 43:30 συνεστρέφετο γὰρ τὰ ἔντερα αὐτοῦ, Joseph's bowels; Acts 28:3, gathering sticks). Kept apart from στρέφω \"turn\".")))
+
+(lemma "συσφίγγω" (sense bind-tight (verb "bind tight" "bound tight" "bound tight") (gloss "bind tight" "bound tight" "binds tight" "binding tight") (why "(LXX, supplied.) To bind tight, fasten together (σύν + σφίγγω \"squeeze, bind\"): συνέσφιγξεν τὸ λόγιον, the oracle fastened to the shoulder-piece's rings (Exodus 39:21). \"Bind tight\" keeps it apart from συνδέω \"bind together\". Tabernacle term.")))
 
 (lemma "Συχέμ" (sense name (gloss "Shechem") (why "The place in Canaan (Genesis 12:6; Acts 7:16), traditional English Shechem.")))
 

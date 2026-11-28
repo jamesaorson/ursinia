@@ -740,7 +740,7 @@
     ("But" 2)
     ("Moses" 3)
     ("said," 1)
-    ("This" 4)
+    ("Here" (4 here))
     ("I" 5)
     ("will go forth" (6 go-forth "ἐξέρχομαι"))
     ("from" 7)

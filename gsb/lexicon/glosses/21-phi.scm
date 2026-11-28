@@ -186,6 +186,8 @@
     (gloss "light" "lights")
     (why "Light itself; φωστήρ (a light-giver, a luminary, Genesis 1:14) gets its own gloss.")))
 
+(lemma "φωτίζω" (sense illuminate (gloss "illuminate" "illuminated" "illuminates" "illuminating") (why "To give light, shine on, illuminate (φῶς \"light\"): the lampstand ἣ φωτίζει (Exodus 37:17), with no object; John 1:9, the light which illuminates every man; Ephesians 1:18; Hebrews 6:4. \"Illuminate\" keeps it apart from φῶς \"light\" and λάμπω.")))
+
 (lemma "φωστήρ"
   (sense luminary
     (gloss "luminary" "luminaries")

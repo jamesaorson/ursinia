@@ -464,7 +464,7 @@
     ("in" 17)
     ("the gifts" 18 19)
     ("the [ones] going before" (20 attributive) (21 go-before "προπορεύομαι"))
-    ("of him," 22)
+    ("him," 22)
     ("and" 23)
     ("after" (24 after))
     ("this" 25)

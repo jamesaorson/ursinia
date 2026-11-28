@@ -110,7 +110,7 @@
     ("all" 19)
     ("the nations;" 20 21)
     ("for" 23)
-    ("mine" 22)
+    ("mine" (22 mine))
     ("is" 24)
     ("all" 25)
     ("the earth," 26 27)))

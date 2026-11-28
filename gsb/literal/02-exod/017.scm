@@ -144,7 +144,7 @@
 (verse 6
   (status draft)
   (literal
-    ("This" 1)
+    ("Here" (1 here))
     ("I" 2)
     ("have stood" 3)
     ("there" 4)

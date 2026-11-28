@@ -35,7 +35,8 @@
 
 (lemma "παρά" (sense beside (gloss "beside") (why "With the dative: beside, in the presence of, with (Genesis 18:14 μὴ ἀδυνατεῖ παρὰ τῷ θεῷ ῥῆμα, echoed in Luke 1:37; Matthew 19:26 παρὰ δὲ θεῷ πάντα δυνατά). \"Beside\" because μετά and πρός already share \"with\". With the genitive (\"from\") and the accusative (\"alongside\", \"contrary to\") it will take its own senses."))
   (sense from (object-case "G") (gloss "from") (why "With the genitive: from (the side of) someone (Genesis 21:30 λήμψῃ παρ' ἐμοῦ; John 1:6 παρὰ θεοῦ; Mark 12:2). It shares \"from\" with ἀπό; the alignment shows which Greek word stands behind it."))
-  (sense owing-to (gloss "owing to") (why "(LXX, supplied.) With the accusative of an articular infinitive: owing to, because of (Exodus 14:11, Παρὰ τὸ μὴ ὑπάρχειν μνήματα ἐν γῇ Αἰγύπτῳ, \"owing to sepulchers' not existing\"). \"Because of\" is διά's. Chosen by word override.")))
+  (sense owing-to (gloss "owing to") (why "(LXX, supplied.) With the accusative of an articular infinitive: owing to, because of (Exodus 14:11, Παρὰ τὸ μὴ ὑπάρχειν μνήματα ἐν γῇ Αἰγύπτῳ, \"owing to sepulchers' not existing\"). \"Because of\" is διά's. Chosen by word override."))
+  (sense more-than (gloss "more than") (why "With the accusative of comparison: more than, beyond, above (Exodus 33:12, 17, Οἶδά σε παρὰ πάντας, \"I know you more than all\"; 33:16, glorified παρὰ πάντα τὰ ἔθνη; Luke 13:2; Romans 12:3; Hebrews 1:9). \"Beyond\" is ὑπέρ's. Chosen by word override.")))
 
 (lemma "παραβαίνω" (sense transgress (intransitive) (gloss "transgress" "transgressed" "transgresses" "transgressing") (why "To step aside, go beyond, and so transgress (Exodus 32:8, παρέβησαν ταχὺ ἐκ τῆς ὁδοῦ, the people stepping aside from the commanded way; Matthew 15:2-3; Acts 1:25). \"Transgress\" as in the New Testament; ἐκκλίνω has \"turn aside\".")))
 
@@ -58,6 +59,8 @@
 
 (lemma "παραδοξάζω" (sense make-marvelous (verb "make marvelous" "made marvelous" "made marvelous") (gloss "make marvelous" "made marvelous" "makes marvelous" "making marvelous") (why "(LXX, supplied.) To make wonderful, set apart by a marvel (παράδοξος \"beyond expectation\", Luke 5:26): Exodus 8:22 παραδοξάσω ... τὴν γῆν Γέσεμ, God marking off Goshen from the plague. \"Make marvelous\" keeps the root; \"set apart\" is another verb's.")))
 
+(lemma "παράθεμα" (sense side-piece (gloss "side-piece" "side-pieces") (why "(LXX, supplied.) A thing set beside (παρατίθημι), an attached piece: the bronze altar's παράθεμα, ἔργον δικτυωτόν, \"side-piece, netted work\", below the firepan (Exodus 38:4, 5-6, 31; where 27:4-5 has ἐσχάρα \"grate\"). \"Side-piece\" renders παρά + θέμα and keeps it apart from ἐπίθεμα \"lid\" and ὑπόθεμα. Tabernacle term.")))
+
 (lemma "παρακαταθήκη" (sense deposit (gloss "deposit" "deposits") (why "(LXX, supplied.) Property left in someone's keeping, a deposit (Exodus 22:8, 11 τῆς παρακαταθήκης τοῦ πλησίον; the Textus Receptus at 1 Timothy 6:20 and 2 Timothy 1:14, where Nestle has παραθήκη).")))
 
 (lemma "παρακύπτω" (sense peer (gloss "peer" "peered" "peers" "peering") (why "To stoop to look, peer in or out (Genesis 26:8, Abimelech peered through the window; John 20:5, 11; James 1:25; 1 Peter 1:12).")))
@@ -77,6 +80,8 @@
 (lemma "παραμένω" (sense abide (gloss "abide" "abode" "abides" "abiding") (verb "abide" "abode" "abode") (why "To stay beside, remain on, abide (Genesis 44:33 παραμενῶ σοι παῖς, \"I will abide to you [as] servant\", Judah offering himself; Philippians 1:25; Hebrews 7:23). \"Abide\" keeps it apart from μένω \"stay\" and καταμένω \"remain\".")))
 
 (lemma "παραπορεύομαι" (sense go-past (verb "go past" "went past" "gone past") (gloss "go past" "went past" "gone past" "goes past" "going past") (why "To go past, go along beside (Genesis 37:28, καὶ παρεπορεύοντο οἱ ἄνθρωποι οἱ Μαδιηναῖοι, \"and the Midianite men were going past\"; Matthew 27:39; Mark 2:23). \"Go past\" keeps it apart from παρέρχομαι \"pass by\".")))
+
+(lemma "παράρυμα" (sense side-hanging (gloss "side-hanging" "side-hangings") (why "(LXX, supplied.) A thing drawn along the side, a hanging or screen of cloth (παρά + ἐρύω \"draw\"): τὴν σκηνὴν καὶ τὰ παραρύματα (Exodus 35:11, in the list of the tabernacle's parts). \"Side-hanging\" because αὐλαία has \"curtain\", καταπέτασμα \"veil\", ἐπίσπαστρον \"screen\", ἱστίον \"sheet\", δέρρις \"skin-cloth\", κάλυμμα \"cover\" and κατακάλυμμα \"drape\" (first drafted \"drape\" here too; changed by the coordinator so the two Greek words do not share one English). Tabernacle term.")))
 
 (lemma "παρασιωπάω" (sense keep-silent(gloss "keep silent" "kept silent" "keeps silent" "keeping silent") (why "(LXX, supplied.) To pass over in silence, keep silent (Genesis 24:21, the man was keeping silent to learn whether the Lord had prospered his way). Kept apart from σιωπάω, which may take \"be silent\".")))
 
@@ -141,7 +146,7 @@
 
 (lemma "Πατροσωνιείμ" (sense name (person) (plural "Pathrusim") (gloss "Pathrusim") (why "(LXX, supplied.) A people descended from Mizraim (Genesis 10:14), Greek Πατροσωνιείμ; traditional English Pathrusim.")))
 
-(lemma "παύω" (sense cease (voice active) (gloss "cease" "ceased" "ceases" "ceasing") (why "Middle: to cease, stop (Genesis 18:33 ὡς ἐπαύσατο λαλῶν \"as he/she/it ceased speaking\"; Luke 5:4; Acts 5:42). Kept apart from καταπαύω \"rest\".")))
+(lemma "παύω" (sense cease (voice active) (genitive "from") (gloss "cease" "ceased" "ceases" "ceasing") (why "Middle: to cease, stop (Genesis 18:33 ὡς ἐπαύσατο λαλῶν \"as he/she/it ceased speaking\"; Luke 5:4; Acts 5:42). Kept apart from καταπαύω \"rest\".")))
 
 (lemma "πεδίον" (sense plain (gloss "plain" "plains") (why "(LXX.) A plain, open field; kept apart from ἀγρός \"field\".")))
 
@@ -221,6 +226,8 @@
     (gloss "apron" "aprons")
     (why "(LXX, supplied.) Something girded around the waist, an apron or loincloth (Genesis 3:7). Not in the New Testament; ζώνη will take \"belt\".")))
 
+(lemma "περιδέξιον" (sense armlet (gloss "armlet" "armlets") (why "(LXX, supplied.) A band worn around the arm, an armlet (περί + δεξιός \"right [hand]\"): among the gold the people brought (Exodus 35:22). Kept apart from ψέλιον \"bracelet\", δακτύλιος \"ring\" and ἐνώτιον \"earring\". Tabernacle term.")))
+
 (lemma "περιζώννυμι" (sense gird-about (verb "gird about" "girded about" "girded about") (gloss "gird about" "girded about" "girds about" "girding about") (why "To gird around, put a belt round; passive, to be girded (Exodus 12:11 αἱ ὀσφύες ὑμῶν περιεζωσμέναι, the Passover eaten with loins girded about; Luke 12:35 Ἔστωσαν ὑμῶν αἱ ὀσφύες περιεζωσμέναι; Ephesians 6:14). \"Gird about\" for περί, as the noun περίζωμα is \"apron\".")))
 
 (lemma "περιλαμβάνω" (sense embrace (gloss "embrace" "embraced" "embraces" "embracing") (why "(LXX, supplied.) To take in one's arms, embrace (Genesis 48:10, Israel kissed and embraced Joseph's sons). Kept apart from λαμβάνω \"take\" and its other compounds.")))
@@ -246,6 +253,8 @@
 
 (lemma "περιποιέω" (sense preserve (gloss "preserve" "preserved" "preserves" "preserving") (why "Middle: to keep safe for oneself, preserve alive, acquire (Genesis 12:12, \"but you they will preserve\"; Luke 17:33; Acts 20:28, which he acquired). \"Preserve\" for the Genesis sense; \"acquire\" is κτάομαι's."))
   (sense gain (gloss "gain" "gained" "gains" "gaining") (why "The middle of possessions: to get for oneself, gain (Genesis 31:18, τὴν ἀποσκευὴν αὐτοῦ ἣν περιεποιήσατο ἐν τῇ Μεσοποταμίᾳ, the baggage he had gained in Mesopotamia; Acts 20:28; 1 Timothy 3:13). \"Preserved\" there would say he kept what he got. \"Gain\" because \"acquire\" is κτάομαι's. Chosen by override.")))
+
+(lemma "περισιαλόω" (sense border-around (verb "border around" "bordered around" "bordered around") (gloss "border around" "bordered around" "borders around" "bordering around") (why "(LXX, supplied.) To set around with an edging, border around: the shoulder-piece stones συνπεπορπημένους καὶ περισεσιαλωμένους, set in gold (Exodus 39:6). The sense is taken from the context (a border or setting round each stone); the exact meaning of the stem is uncertain. Tabernacle term.")))
 
 (lemma "περισκελής" (sense breeches (gloss "breeches") (plural "breeches") (why "(LXX, supplied.) Around the legs (περί + σκέλος); the neuter plural as a noun, the priests' breeches, περισκελῆ λινᾶ \"linen breeches\" to cover the body from the waist to the thighs (Exodus 28:42; Leviticus 6:10; 16:4). Analyzed as a noun.")))
 
@@ -375,7 +384,10 @@
     (gloss "fill" "filled" "fills" "filling")
     (why "To fill, and so to fulfill. \"Fill\" in Genesis 1:22, 28. Whether \"fulfill\" (Matthew 1:22) is a separate sense or kept as \"fill\" is for the owner when Matthew is translated.")))
 
-(lemma "πλησίον" (sense neighbor (person) (gloss "neighbor" "neighbors") (why "Near; with the article, ὁ πλησίον, \"the neighbor\" (Exodus 20:16-17; Matthew 22:39).")))
+(lemma "πλήρωσις" (sense infilling (gloss "infilling" "infillings") (why "(LXX, supplied.) A filling up, filling in (πληρόω \"fill\"): τοὺς λίθους τῆς πληρώσεως (Exodus 35:27; compare 35:9), the stones set to fill the settings of the ephod and the oracle. \"Infilling\" keeps it apart from the participle \"filling\" of πληρόω. Tabernacle term.")))
+
+(lemma "πλησίον" (sense neighbor (person) (gloss "neighbor" "neighbors") (why "Near; with the article, ὁ πλησίον, \"the neighbor\" (Exodus 20:16-17; Matthew 22:39)."))
+  (sense near (gloss "near") (why "The adverb, near, with the genitive (John 4:5 πλησίον τοῦ χωρίου); with the article after a noun it is attributive: Exodus 12:4 τὸν γείτονα τὸν πλησίον αὐτοῦ, \"the neighbor, the [one] near him/it\", where \"the neighbor his neighbor\" would repeat γείτων's English. Chosen by override.")))
 
 (lemma "πλησμονή" (sense satiety (gloss "satiety") (why "(LXX, supplied.) Fullness, having eaten one's fill, satiety (Genesis 41:30 ἐπιλησθήσονται τῆς πλησμονῆς, the years of plenty forgotten; Colossians 2:23). \"Satiety\" keeps it apart from πλήρης \"full\" and εὐθηνία \"plenty\".")))
 
@@ -433,6 +445,10 @@
 
 (lemma "ποικιλτής" (sense embroiderer (person) (gloss "embroiderer" "embroiderers") (why "(LXX, supplied.) An embroiderer, who works colored patterns (ποικίλος \"many-colored\") into cloth: ἔργον ποικιλτοῦ \"work of embroiderer\" (Exodus 26:36; 28:15, 39), ἔργον ὑφάντου ποικιλτοῦ \"work of weaver, of embroiderer\" (28:6). Kept apart from ὑφάντης \"weaver\". Use this English in every tabernacle chapter.")))
 
+(lemma "ποικιλτικός" (sense embroiderers (gloss "embroiderer's") (why "(LXX, supplied.) Of the embroiderer, embroidered work (ποικιλτής \"embroiderer\"): τὰ ὑφαντὰ καὶ τὰ ῥαφιδευτὰ καὶ ποικιλτικά, which Eliab devised (Exodus 38:23). \"Embroiderer's\", as μυρεψικός has \"perfumer's\", keeps it apart from ποικιλτός \"embroidered\". Tabernacle term.")))
+
+(lemma "ποικιλτός" (sense embroidered (gloss "embroidered") (why "(LXX, supplied.) Worked in colors, embroidered: τὰ ὑφαντὰ καὶ ποικιλτά (Exodus 35:35), the woven and embroidered work. The verbal adjective beside ποικιλτής \"embroiderer\" and ποικιλία \"embroidery\". Tabernacle term.")))
+
 (lemma "ποιμαίνω" (sense tend (gloss "tend" "tended" "tends" "tending") (why "To be shepherd of, tend a flock (Genesis 30:31, 36, Jacob tending Laban's sheep; Luke 17:7; John 21:16; 1 Peter 5:2). \"Tend\" keeps it apart from the noun ποιμήν \"shepherd\" and βόσκω \"pasture\".")))
 
 (lemma "ποιμήν" (sense shepherd (person) (gloss "shepherd" "shepherds") (why "Shepherd (Genesis 4:2; John 10:11).")))
@@ -449,9 +465,11 @@
 
 (lemma "πολίτης" (sense citizen (person) (gloss "citizen" "citizens") (why "A citizen, member of a city (Genesis 23:11, ἐναντίον τῶν πολιτῶν μου; Luke 15:15; Hebrews 8:11).")))
 
+(lemma "πολυέλεος" (sense much-merciful (gloss "much-merciful") (why "(LXX, supplied.) Of much mercy (πολύς + ἔλεος \"mercy\"): Exodus 34:6, of the Lord, μακρόθυμος καὶ πολυέλεος. \"Much-merciful\" keeps the compound and the link with ἔλεος, and stays apart from ἐλεήμων \"merciful\".")))
+
 (lemma "πολυπληθέω" (sense teem (intransitive) (gloss "teem" "teemed" "teems" "teeming") (why "(LXX, supplied.) To be very numerous, teem (Exodus 5:5 Ἰδοὺ νῦν πολυπληθεῖ ὁ λαός), from πολύς \"much\" and πλῆθος \"multitude\".")))
 
-(lemma "πολυπληθύνω" (sense multiply-greatly (verb "multiply greatly" "multiplied greatly" "multiplied greatly") (gloss "multiply greatly" "multiplied greatly" "multiplies greatly" "multiplying greatly") (why "(LXX, supplied.) To multiply greatly, make very many (Exodus 32:13, Πολυπληθυνῶ τὸ σπέρμα ὑμῶν, the promise to the fathers). πληθύνω is \"multiply\"; the added πολυ- is \"greatly\".")))
+(lemma "πολυπληθύνω" (sense greatly-multiply (verb "greatly multiply" "greatly multiplied" "greatly multiplied") (gloss "greatly multiply" "greatly multiplied" "greatly multiplies" "greatly multiplying") (why "(LXX, supplied.) To multiply greatly, make very many (Exodus 32:13, Πολυπληθυνῶ τὸ σπέρμα ὑμῶν, the promise to the fathers). πληθύνω is \"multiply\"; the added πολυ- is \"greatly\", put first so the object follows the verb.")))
 
 (lemma "πολύς" (sense many (gloss "many" "much") (why "Many (plural), much (singular): one English word in its two number forms (Genesis 6:1, ἤρξαντο οἱ ἄνθρωποι πολλοὶ γίνεσθαι; Matthew 7:22). The comparative and adverbial uses will be their own senses."))
   (sense more (comparative "more") (gloss "more") (why "The comparative πλείων/πλείους, more in number (Exodus 1:12 τοσούτῳ πλείους ἐγίνοντο, \"by so much more they were coming to be\"; Matthew 26:53; John 4:41). \"More many\" is not English; the English shares \"more\" with μᾶλλον, the adverb, as the alignment shows. Chosen by form row.")))
@@ -552,11 +570,17 @@
 
 (lemma "πρόβατον" (sense sheep (gloss "sheep") (why "Sheep (Genesis 4:2; John 10). The English plural is the same word.")))
 
+(lemma "προβιβάζω" (sense prompt (gloss "prompt" "prompted" "prompts" "prompting") (why "(LXX, supplied.) To lead forward, put forward, and so to teach or urge on (Exodus 35:34 καὶ προβιβάσαι γε ἔδωκεν αὐτῷ ἐν τῇ διανοίᾳ, of Bezalel and Oholiab, to teach others; Matthew 14:8 προβιβασθεῖσα ὑπὸ τῆς μητρὸς αὐτῆς). \"Prompt\" fits both; συμβιβάζω has \"instruct\", and \"teach\" is left for διδάσκω.")))
+
 (lemma "προεκφέρω" (sense bring-forth-first (verb "bring forth first" "brought forth first" "brought forth first") (gloss "bring forth first" "brought forth first" "brings forth first" "bringing forth first") (why "(LXX, supplied.) To bring out before, put out first (Genesis 38:28, one of Tamar's twins προεξήνεγκεν τὴν χεῖρα). Kept with ἐκφέρω \"bring forth\".")))
 
 (lemma "προέρχομαι" (sense go-forward (verb "go forward" "went forward" "gone forward") (gloss "go forward" "went forward" "gone forward" "goes forward" "going forward") (why "To go forward, go on ahead (Genesis 33:14, let my lord go forward ahead of the servant; Mark 14:35, προελθὼν μικρόν; Luke 1:17). \"Go forward\" avoids \"go ahead ahead of\" with ἔμπροσθεν.")))
 
+(lemma "πρόθεσις" (sense setting-forth (gloss "setting forth" "settings forth") (plural "settings forth") (why "A setting forth, the noun of προτίθημι \"set forth\": οἱ ἄρτοι τῆς προθέσεως \"the loaves of the setting forth\", the bread set out before the Lord (Exodus 39:36; 40:4 προθήσεις τὴν πρόθεσιν αὐτῆς, 23; Matthew 12:4; Hebrews 9:2). The sense \"purpose\" (Romans 8:28; Ephesians 1:11) will be its own sense. Tabernacle term.")))
+
 (lemma "προΐημι" (sense send-forth (verb "send forth" "sent forth" "sent forth") (gloss "send forth" "sent forth" "sends forth" "sending forth") (why "(LXX, supplied.) To send forth, let go forward (πρό + ἵημι): Exodus 3:19, Pharaoh οὐ προήσεται ὑμᾶς πορευθῆναι. \"Send forth\" keeps it apart from ἀφίημι \"let go\", ἀπολύω \"release\" and ἐξαποστέλλω \"send out\".")))
+
+(lemma "πρόκειμαι" (sense lie-forth (intransitive) (verb "lie forth" "lay forth" "lain forth") (gloss "lie forth" "lay forth" "lain forth" "lies forth" "lying forth") (why "(LXX form supplied.) To lie before, lie set out in view (πρό + κεῖμαι \"lie\"), serving as the passive of προτίθημι \"set forth\": the table τὴν προκειμένην, set out with the loaves (Exodus 37:10; 39:36 τοὺς ἄρτους τοὺς προκειμένους); of what lies ahead, Hebrews 6:18; 12:1-2; Jude 7. \"Lie forth\" matches προτίθημι \"set forth\" and keeps it apart from πρόσκειμαι \"lie before\".")))
 
 (lemma "προοράω" (sense foresee (verb "foresee" "foresaw" "foreseen") (gloss "foresee" "foresaw" "foreseen" "foresees" "foreseeing") (why "To see beforehand, see ahead (Genesis 37:18, the brothers πρόιδον αὐτὸν μακρόθεν, before he came near; Acts 2:25, 31; Galatians 3:8). The second aorist is προεῖδον, Swete's πρόιδον.")))
 
@@ -606,6 +630,8 @@
 (lemma "προσήλυτος" (sense proselyte (person) (gloss "proselyte" "proselytes") (why "One who has come over, a resident foreigner (Exodus 20:10) and in the New Testament a convert (Matthew 23:15).")))
 
 (lemma "προσκαλέω" (sense summon (gloss "summon" "summoned" "summons" "summoning") (why "Middle: to call to oneself, summon (Genesis 28:1 προσκαλεσάμενος δὲ Ἰσαὰκ τὸν Ἰακώβ; Matthew 10:1; Acts 13:2). Kept apart from καλέω \"call\". The middle is rendered active. (LXX form supplied.)")))
+
+(lemma "προσκαταλείπω" (sense leave-in-excess (verb "leave in excess" "left in excess" "left in excess") (gloss "leave in excess" "left in excess" "leaves in excess" "leaving in excess") (why "(LXX, supplied.) To leave behind besides, leave over in addition (πρός + καταλείπω \"leave\"): Exodus 36:7, the gifts were enough for the work, καὶ προσκατέλιπον, there was more than enough. \"Leave in excess\" keeps it apart from καταλείπω \"leave\" and ἀπολείπω \"leave over\".")))
 
 (lemma "πρόσκειμαι" (sense lie-before (intransitive) (dative "") (verb "lie before" "lay before" "lain before") (gloss "lie before" "lay before" "lain before" "lies before" "lying before") (why "(LXX, supplied.) To lie near, lie before, be set before someone, with the dative (Exodus 10:10 πονηρία πρόσκειται ὑμῖν, \"malice lies before you\"). Kept apart from κεῖμαι \"lie\" and its compounds by the particle.")))
 
@@ -682,6 +708,8 @@
     (why "Heel (Genesis 3:15; John 13:18, quoting Psalm 41:9).")))
 
 (lemma "πτερνίζω" (sense supplant (gloss "supplant" "supplanted" "supplants" "supplanting") (why "(LXX, supplied.) From πτέρνα \"heel\": to trip up by the heel, supplant, overreach (Genesis 27:36 ἐπτέρνικεν γάρ με ἤδη δεύτερον τοῦτο, Esau's pun on the name Jacob, who took his brother's heel, 25:26). \"Supplant\" is the traditional English of the pun.")))
+
+(lemma "πτερύγιον" (sense little-wing (gloss "little wing" "little wings") (plural "little wings") (why "A little wing (diminutive of πτέρυξ \"wing\"), and so a wing-like edge or tip: τὰ δύο πτερύγια at the top of the oracle (Exodus 39:19). The πτερύγιον of the temple (Matthew 4:5; Luke 4:9) may need its own sense. (LXX form supplied.)")))
 
 (lemma "πτέρυξ" (sense wing (gloss "wing" "wings") (why "A wing (Exodus 19:4, ὡσεὶ ἐπὶ πτερύγων ἀετῶν; Matthew 23:37; Revelation 12:14, the two wings of the great eagle). (LXX form supplied.)")))
 

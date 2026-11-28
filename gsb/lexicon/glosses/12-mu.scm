@@ -34,6 +34,8 @@
 
 (lemma "μακρόθεν" (sense from-afar (gloss "from afar") (why "From afar, at a distance.")))
 
+(lemma "μακρόθυμος" (sense long-suffering (gloss "long-suffering") (why "(LXX, supplied.) Long of temper, slow to anger (μακρός + θυμός): Exodus 34:6, of the Lord, οἰκτείρμων καὶ ἐλεήμων, μακρόθυμος; compare μακροθυμέω and μακροθυμία (1 Corinthians 13:4; Galatians 5:22). \"Long-suffering\" is the traditional English and keeps the compound visible.")))
+
 (lemma "μακρός" (sense farther (gloss "farther") (why "Long, far. The comparative neuter μακρότερον as an adverb, \"farther\" (Genesis 21:16). The adjective \"long\", \"distant\" (Luke 15:13 εἰς χώραν μακράν) will need its own sense.")))
 
 (lemma "μακροχρόνιος" (sense long-lived (gloss "long-lived") (why "(LXX.) Long-lived (Exodus 20:12; Ephesians 6:3 quotes it).")))
@@ -216,6 +218,8 @@
 (lemma "μηδείς" (sense nothing (gloss "nothing") (why "No one, nothing: the neuter μηδέν, \"nothing\" (Genesis 22:12 μηδὲ ποιήσῃς αὐτῷ μηδέν; Luke 3:13; Mark 5:26). The masculine \"no one\" will need its own sense."))
   (sense anything (gloss "anything") (why "The neuter μηδέν after another negative, which it strengthens in Greek (Genesis 19:8 μὴ ποιήσητε μηδὲν ἄδικον): English cannot stack the negatives without reversing the sense, so \"do not do anything\". Chosen by word override."))
   (sense no-one (gloss "no one") (why "The masculine μηδείς, no person (Exodus 22:10 καὶ μηδεὶς γνῷ, \"and no one know\"; Luke 3:14; Acts 9:7). \"Nothing\" would deny a thing, not a witness. Shares \"no one\" with οὐδείς, the same word with the other negative, as μηδέ shares \"nor\" with οὐδέ. Chosen by word override.")))
+
+(lemma "μηκέτι" (sense no-longer (gloss "no longer") (why "No more, no longer (μή + ἔτι): Exodus 36:6 Ἀνὴρ καὶ γυνὴ μηκέτι ἐργαζέσθωσαν; Mark 9:25; John 5:14; Romans 6:6. It shares \"no longer\" with οὐκέτι, the same word with the other negative, as μηδέ shares \"nor\" with οὐδέ.")))
 
 (lemma "μῆκος" (sense length (gloss "length") (why "Length (Genesis 6:15; Revelation 21:16).")))
 

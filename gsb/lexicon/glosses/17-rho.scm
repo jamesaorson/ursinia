@@ -27,6 +27,8 @@
 
 (lemma "ῥαφιδευτής" (sense needleworker (person) (gloss "needleworker" "needleworkers") (why "(LXX, supplied.) One who works with the needle (ῥαφίς), an embroiderer: τῇ ποικιλίᾳ τοῦ ῥαφιδευτοῦ (Exodus 27:16; 35-38). \"Needleworker\" keeps it apart from ποικιλτής \"embroiderer\" and ὑφάντης \"weaver\".")))
 
+(lemma "ῥαφιδευτός" (sense needleworked (gloss "needleworked") (why "(LXX, supplied.) Worked with the needle, needleworked (ῥαφίς \"needle\"): τὰ ῥαφιδευτά Eliab devised (Exodus 38:23). The verbal adjective beside ῥαφιδευτής \"needleworker\". Tabernacle term.")))
+
 (lemma "Ῥαχήλ" (sense name (gloss "Rachel") (why "Laban's younger daughter, Jacob's wife (Genesis 29:6-30:25; 31; 35:16-20); Matthew 2:18 Ῥαχήλ. Traditional English Rachel, indeclinable in Greek.")))
 
 (lemma "Ῥεβέκκα" (sense name (gloss "Rebekah") (why "Isaac's wife (Genesis 22:23, 24-27); Romans 9:10 Ῥεβέκκα; traditional English Rebekah.")))

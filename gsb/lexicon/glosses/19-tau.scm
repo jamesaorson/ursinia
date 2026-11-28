@@ -60,6 +60,8 @@
 
 (lemma "τελευτάω" (sense expire (intransitive) (gloss "expire" "expired" "expires" "expiring") (why "To come to the end (τελευτή) of life, die (Genesis 6:17; Matthew 2:19). \"Expire\" to keep it apart from ἀποθνῄσκω \"die\".")))
 
+(lemma "τέμνω" (sense cut (verb "cut" "cut" "cut") (gloss "cut" "cuts" "cutting") (why "To cut (Exodus 39:3 ἐτμήθη τὰ πέταλα τοῦ χρυσίου τρίχες, the gold plates cut into threads, \"hairs\"). The simple verb of περιτέμνω and the -τομέω compounds; κατακόπτω is \"cut down\", ἐκκόπτω \"cut off\". (LXX form supplied.)")))
+
 (lemma "τέρας" (sense wonder (gloss "wonder" "wonders") (why "A portent, wonder (Exodus 7:3 τὰ σημεῖά μου καὶ τὰ τέρατα; 7:9 σημεῖον ἢ τέρας; Acts 2:19, 22, 43, \"signs and wonders\"). Kept apart from σημεῖον \"sign\".")))
 
 (lemma "τερέμινθος" (sense terebinth (gloss "terebinth" "terebinths") (why "(LXX, supplied.) The terebinth tree (Genesis 14:6, as far as the terebinth of Paran). Kept apart from δρῦς \"oak\".")))
@@ -131,6 +133,7 @@
     (why "τί used adverbially, \"why\" (Genesis 3:1, τί ὅτι, \"why [is it] that\"; Matthew 6:28).")))
 
 (lemma "τὶς" (sense one (gloss "one") (why "The indefinite pronoun, someone, anyone, a certain one. Genesis 6:5 πᾶς τις is \"every one\"; it shares \"one\" with the numeral εἷς there, and the alignment shows which. \"Someone\" and \"a certain\" (Luke 10:30) will be their own senses."))
+  (sense with-relative (gloss "") (why "The τι of ὅ τι printed apart (the neuter of ὅστις): rendered with ὅ as \"whatever\" (ὅς, sense whatever) and left unrendered itself, as the article is (Exodus 22:9). Chosen by word override."))
   (sense certain (gloss "certain") (why "With a noun, \"certain\", some (Genesis 27:44 ἡμέρας τινάς, \"days certain\"; Luke 10:30 ἄνθρωπός τις; Acts 9:19 ἡμέρας τινάς). Chosen by word override."))
   (sense anything (gloss "anything") (why "The neuter τι with μή, \"[not] anything\", \"[in] anything\" (Genesis 18:30, 32 Μή τι, κύριε; 20:9 μή τι ἡμάρτομεν): \"one\" there would assert that no one is meant. Shares \"anything\" with οὐδείς/μηδείς after a negation. Chosen by word override.")))
 

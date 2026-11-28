@@ -132,6 +132,8 @@
 
 (lemma "γλύμμα" (sense carved-work (gloss "carved work" "carved works") (plural "carved works") (why "(LXX, supplied.) A thing carved, an intaglio: γλύμμα σφραγῖδος \"carved work of seal\", the names cut into the stones like a signet (Exodus 28:11; 36:13). From γλύφω \"carve\"; kept apart from γλυφή \"engraving\". Use this English in every tabernacle chapter.")))
 
+(lemma "γλυπτός" (sense graven (gloss "graven") (why "(LXX, supplied.) Carved, and as a neuter noun a carved image (γλύφω \"carve\"): τὰ γλυπτὰ τῶν θεῶν αὐτῶν (Exodus 34:13), the idols of the nations. \"Graven\", the traditional word, because γλύμμα has \"carved work\" and γλύφω \"carve\".")))
+
 (lemma "γλυφή" (sense engraving (gloss "engraving" "engravings") (why "(LXX, supplied.) Carving, engraving (from γλύφω \"carve\"): the engraved stones of the shoulder-piece and the oracle (Exodus 25:7 λίθους εἰς τὴν γλυφήν; 28:21; 35:9).")))
 
 (lemma "γλύφω" (sense carve (gloss "carve" "carved" "carves" "carving") (why "(LXX, supplied.) To carve, cut letters or figures into stone: γλύψεις ἐν αὐτοῖς τὰ ὀνόματα \"you will carve on them the names\" (Exodus 28:9; 36:13). \"Carve\", as γλυφή's entry has it; διαγλύφω is \"engrave\", γλύμμα \"carved work\". Use this English in every tabernacle chapter.")))
@@ -164,6 +166,8 @@
 (lemma "γόνυ"(sense knee (gloss "knee" "knees") (why "The knee (Genesis 48:12, Joseph brought the boys out from Israel's knees, where they had been set as his own; Mark 15:19; Romans 11:4; Philippians 2:10). (LXX form supplied.)")))
 
 (lemma "Γόμορρα" (sense name (gloss "Gomorrah") (why "The city (Genesis 10:19; 18:20; 19:24; Matthew 10:15; Romans 9:29); traditional English Gomorrah. Swete has the genitive Γομόρρας.")))
+
+(lemma "γράμμα" (sense letter (gloss "letter" "letters") (why "A thing written, a letter of the alphabet; plural, writing (Exodus 39:30 ἔγραψεν ἐπ’ αὐτοῦ γράμματα, the letters cut on the gold plate; Luke 23:38; John 7:15; 2 Corinthians 3:6). From γράφω \"write\"; kept apart from γραφή. (LXX form supplied.)")))
 
 (lemma "γραμματεύς" (sense scribe (person) (gloss "scribe" "scribes") (why "A writer, clerk. In Exodus 5:6-19 the Israelite officers who kept the tally of the brick quota under the taskmasters (the Hebrew has shoterim, officers); in the Gospels the scribes, teachers of the Law (Matthew 2:4; 23:2). One English word, \"scribe\", for both.")))
 

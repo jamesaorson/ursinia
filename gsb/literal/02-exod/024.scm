@@ -97,7 +97,7 @@
     ("and" 18)
     ("twelve" 19)
     ("stones" 20)
-    ("into" 21)
+    ("for" (21 for))
     ("the twelve" 22 23)
     ("tribes" 24)
     ("of Israel;" (25 unrendered) 26)))

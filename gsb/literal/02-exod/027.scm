@@ -44,7 +44,7 @@
     ("and" 14)
     ("you will cover" (15 cover "καλύπτω"))
     ("them" 16)
-    ("to bronze." (17 bronze "χαλκός"))))
+    ("with bronze." (17 bronze "χαλκός"))))
 
 (verse 3
   (status draft)
@@ -79,8 +79,8 @@
     ("you will make" 2)
     ("to him/it" 3)
     ("grate" (4 grate "ἐσχάρα"))
-    ("to netted" (6 netted "δικτυωτός"))
-    ("by work" 5)
+    ("by netted" (6 netted "δικτυωτός"))
+    ("work" 5)
     ("bronze;" (7 bronze "χαλκοῦς"))
     ("and" 8)
     ("you will make" 9)
@@ -122,7 +122,7 @@
     ("and" 9)
     ("you will bronze around" (10 bronze-around "περιχαλκόω"))
     ("them" 11)
-    ("to bronze." (12 bronze "χαλκός"))))
+    ("with bronze." (12 bronze "χαλκός"))))
 
 (verse 7
   (status draft)

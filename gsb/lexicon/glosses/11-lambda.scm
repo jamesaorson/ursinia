@@ -6,6 +6,8 @@
 
 (lemma "Λαβιείμ" (sense name (person) (plural "Lehabim") (gloss "Lehabim") (why "(LXX, supplied.) A people descended from Mizraim (Genesis 10:13), Greek Λαβιείμ; traditional English Lehabim.")))
 
+(lemma "λαβίς" (sense tongs (plural "tongs") (gloss "tongs") (why "(LXX, supplied.) A grip, tongs (λαμβάνω \"take\"): the lampstand's golden tongs, τὰς λαβίδας αὐτῆς χρυσᾶς (Exodus 37:23), for trimming the lamps. English \"tongs\" serves for singular and plural. Tabernacle term.")))
+
 (lemma "λάγανον" (sense wafer (gloss "wafer" "wafers") (why "(LXX, supplied.) A thin cake, wafer: λάγανα ἄζυμα κεχρισμένα ἐν ἐλαίῳ \"unleavened wafers anointed in oil\" (Exodus 29:2, 23; Leviticus 2:4).")))
 
 (lemma "λάκκος" (sense pit (gloss "pit" "pits") (why "(LXX, supplied.) A pit, cistern; a dungeon (Genesis 37:20-29, the pit Joseph was thrown into; 40:15, the prison called \"this pit\").")))
@@ -20,6 +22,10 @@
 (lemma "Λάμεχ" (sense name (gloss "Lamech") (why "Traditional English form; also Luke 3:36.")))
 
 (lemma "λαμπάς" (sense torch (gloss "torch" "torches") (why "Torch, lamp (Exodus 20:18; Matthew 25:1).")))
+
+(lemma "λαμπάδιον" (sense small-torch (gloss "small torch" "small torches") (why "(LXX, supplied.) Diminutive of λαμπάς \"torch\": the flame-shaped tops of the lampstand's branches, τὰ λαμπάδια αὐτῶν ἅ ἐστιν ἐπὶ τῶν ἄκρων (Exodus 37:19-22). \"Small torch\" keeps the diminutive, as καλαμίσκος \"small reed\". Tabernacle term.")))
+
+(lemma "λαξεύω" (sense chisel (verb "chisel" "chiseled" "chiseled") (gloss "chisel" "chiseled" "chisels" "chiseling") (why "(LXX, supplied.) To cut stone, dress it with the chisel (λᾶς \"stone\" + ξέω \"scrape\"): Λάξευσον σεαυτῷ δύο πλάκας λιθίνας (Exodus 34:1, 4), the second tablets; compare λαξευτός, the rock-cut tomb of Luke 23:53. \"Chisel\" keeps it apart from τμητός \"hewn\" and γλύφω \"carve\".")))
 
 (lemma "λαός" (sense people (gloss "people" "peoples") (why "A people.")))
 
@@ -47,6 +53,8 @@
 (lemma "λεῖος" (sense smooth (gloss "smooth") (why "Smooth (Genesis 27:11, Jacob ἀνὴρ λεῖος against Esau ἀνὴρ δασύς; Luke 3:5 quoting Isaiah 40:4). (LXX form supplied.)")))
 
 (lemma "λειτουργέω" (sense minister (intransitive) (gloss "minister" "ministered" "ministers" "ministering") (why "To perform a public or sacred service, minister (Hebrews 10:11, every priest stands λειτουργῶν; Acts 13:2; Romans 15:27): Aaron ἐν τῷ λειτουργεῖν \"in ministering\" (Exodus 28:35, 43; 29:30; 30:20). \"Minister\" keeps it apart from λατρεύω \"serve\" and διακονέω. Use this English in every tabernacle chapter.")))
+
+(lemma "λειτουργία" (sense ministry (gloss "ministry" "ministries") (why "A public or sacred service, ministry (Exodus 38:21 τὴν λειτουργίαν εἶναι τῶν Λευειτῶν; Luke 1:23; Hebrews 8:6; 9:21). The noun of λειτουργέω \"minister\"; \"ministry\" keeps it apart from λατρεία \"service\". Tabernacle term. (LXX form supplied.)")))
 
 (lemma "λειτουργικός" (sense ministerial (gloss "ministerial") (why "Of ministering, used in sacred service (Exodus 31:10 τὰς στολὰς τὰς λειτουργικάς, Aaron's robes; 39:1, 41; Numbers 4:12, 26; Hebrews 1:14 λειτουργικὰ πνεύματα). The adjective of λειτουργέω \"minister\"; \"ministerial\" keeps the root without repeating the verb's participle \"ministering\". Tabernacle term. (LXX form supplied.)")))
 
@@ -84,6 +92,8 @@
     (dative "with")
     (gloss "stone" "stones")
     (why "A stone, including a precious stone (Genesis 2:12).")))
+
+(lemma "λιθουργέω" (sense dress (gloss "dress" "dressed" "dresses" "dressing") (why "(LXX, supplied.) To work stone, the mason's craft (λίθος + ἔργον): λιθουργῆσαι τὸν λίθον (Exodus 35:33), of Bezalel. \"Dress\", the mason's word for shaping stone, because \"stonework\" would print \"stoneworking\", the English of the adjective λιθουργικός, and \"work\" is ἐργάζομαι's; kept apart from λαξεύω \"chisel\". Clothing verbs (ἐνδύω, στολίζω) must not take \"dress\".")))
 
 (lemma "λιθουργικός" (sense stoneworking (gloss "stoneworking") (why "(LXX, supplied.) Of the stone-worker's craft (λίθος + ἔργον): ἔργον λιθουργικῆς τέχνης \"work of stoneworking craft\" (Exodus 28:11; 31:5; 35:33). Use this English in every tabernacle chapter.")))
 

@@ -8,7 +8,7 @@
 
 (lemma "δακτύλιος" (sense ring (gloss "ring" "rings") (why "A finger ring, a signet ring (Genesis 41:42, Pharaoh's ring put on Joseph's hand; Luke 15:22).")))
 
-(lemma "δάκτυλος" (sense finger (gloss "finger" "fingers") (why "A finger (Exodus 8:19, the enchanters' Δάκτυλος θεοῦ \"finger of God\"; Luke 11:20 ἐν δακτύλῳ θεοῦ; Luke 16:24). The noun behind δακτύλιος \"ring\".")))
+(lemma "δάκτυλος" (sense finger (dative "with") (gloss "finger" "fingers") (why "A finger (Exodus 8:19, the enchanters' Δάκτυλος θεοῦ \"finger of God\"; Luke 11:20 ἐν δακτύλῳ θεοῦ; Luke 16:24). The noun behind δακτύλιος \"ring\".")))
 
 (lemma "Δαμασκός" (sense name (gloss "Damascus") (why "Damascus (Genesis 14:15; Acts 9:2).")))
 
@@ -205,6 +205,8 @@
 
 (lemma "διατίθημι" (sense arrange (gloss "arrange" "arranged" "arranges" "arranging") (why "Middle: to arrange, dispose; with διαθήκη, to make a covenant (Genesis 21:27, 32 διέθεντο διαθήκην; Hebrews 8:10 ἡ διαθήκη ἣν διαθήσομαι, Luke 22:29). \"Arrange\" keeps the root visible: \"arranged a covenant\" (διαθήκη is itself the arrangement); not \"make\", which is ποιέω.")))
 
+(lemma "διατόνιον" (sense crosspiece (gloss "crosspiece" "crosspieces") (why "(LXX, supplied.) A thing stretched across (διατείνω \"stretch\"), a crosspiece or brace: τὰ διατόνια καὶ τοὺς μοχλούς (Exodus 35:11, in the list of the tabernacle's parts), named beside the bars. \"Crosspiece\" keeps it apart from μοχλός \"bar\". Tabernacle term.")))
+
 (lemma "διατρέφω" (sense sustain (gloss "sustain" "sustained" "sustains" "sustaining") (why "(LXX, supplied.) To keep fed through a time, sustain, keep alive (Genesis 7:3, διαθρέψαι σπέρμα, to sustain seed on all the earth). \"Sustain\" keeps it apart from τρέφω \"nourish\".")))
 
 (lemma "διατρέχω" (sense run-through (intransitive) (verb "run through" "ran through" "run through") (gloss "run through" "ran through" "runs through" "running through") (why "(LXX, supplied.) To run through, run across (Exodus 9:23 διέτρεχεν τὸ πῦρ ἐπὶ τῆς γῆς, the fire running along the ground with the hail). Kept apart from τρέχω \"run\" by the particle.")))
@@ -230,6 +232,8 @@
   (sense give
     (gloss "give" "gave" "given" "gives" "giving")
     (why "To give. Perfect δέδωκα (Genesis 1:29) is \"I have given\".")))
+
+(lemma "διεμβάλλω" (sense throw-through (verb "throw through" "threw through" "thrown through") (gloss "throw through" "threw through" "thrown through" "throws through" "throwing through") (why "(LXX, supplied.) To throw in through, insert (Exodus 40:18, διενέβαλεν τοὺς μοχλούς, the bars run through the rings of the boards). \"Throw through\" follows ἐμβάλλω \"throw in\".")))
 
 (lemma "διέρχομαι" (sense go-through (gloss "go through" "went through" "goes through" "going through") (why "To go through, pass through. Genesis 4:8 Διέλθωμεν, \"Let us go through\" into the plain.")))
 
@@ -269,6 +273,10 @@
 
 (lemma "δισσός" (sense twofold (gloss "twofold") (why "(LXX, supplied.) Double, twofold (Genesis 43:12 τὸ ἀργύριον δισσὸν λάβετε, \"take the silver twofold\", where 43:15 has διπλοῦν). \"Twofold\" keeps it apart from διπλοῦς \"double\".")))
 
+(lemma "διυφαίνω" (sense weave-through (verb "weave through" "wove through" "woven through") (gloss "weave through" "wove through" "woven through" "weaves through" "weaving through") (why "(LXX, supplied.) To weave through, interweave (διά + ὑφαίνω \"weave\"): the opening of the undergarment διυφασμένον in the middle, \"woven through\" (Exodus 39:23). \"Through\" renders the δια-, as διανήθω \"spin through\". Tabernacle term.")))
+
+(lemma "διφθέρα" (sense pelt (gloss "pelt" "pelts") (why "(LXX, supplied.) A prepared hide, leather: τὰς διφθέρας δέρματα κριῶν ἠρυθροδανωμένα, the rams' skins dyed red brought to Moses (Exodus 39:34). \"Pelt\" because δέρμα has \"skin\" and \"leather\", δέρρις \"skin-cloth\", and κρύπτω \"hide\". Tabernacle term.")))
+
 (lemma "διψάω" (sense be-thirsty (intransitive) (dative "for") (verb "be thirsty" "was thirsty" "been thirsty") (gloss "be thirsty" "is thirsty" "are thirsty" "was thirsty" "were thirsty" "been thirsty" "being thirsty") (why "(LXX form supplied.) To thirst, be thirsty; with the dative of what is thirsted for (Exodus 17:3, ἐδίψησεν δὲ ἐκεῖ ὁ λαὸς ὕδατι; Matthew 5:6; John 4:13). \"Be thirsty\" keeps the verb apart from δίψος \"thirst\".")))
 
 (lemma "δίψος" (sense thirst (dative "by") (gloss "thirst") (why "(LXX, supplied.) Thirst (Exodus 17:3, ἀποκτεῖναι ἡμᾶς ... τῷ δίψει, \"by the thirst\"; 2 Corinthians 11:27 has δίψει). The dative is the means of death.")))
@@ -282,6 +290,8 @@
 (lemma "διώροφος" (sense two-storied (gloss "two-storied") (why "(LXX, supplied.) Having two stories or decks (Genesis 6:16).")))
 
 (lemma "διῶρυξ" (sense canal (gloss "canal" "canals") (why "(LXX, supplied.) A dug channel, canal (διορύσσω \"dig through\"): Exodus 7:19; 8:5, the canals of Egypt beside its rivers, marshes and standing water.")))
+
+(lemma "διωστήρ" (sense pole (gloss "pole" "poles") (why "(LXX, supplied.) A bar thrust through (διωθέω \"push through\"), the pole put through the rings to carry the ark and the table (Exodus 37:4-5, 13-15; 39:35; 40:20). A different Greek word from ἀναφορεύς \"carrying pole\" (25:13-15) and σκυτάλη \"stave\", so plain \"pole\". Tabernacle term.")))
 
 (lemma "δοκέω" (sense seem (gloss "seem" "seemed" "seems" "seeming") (why "To seem, appear; to think (Genesis 19:14 ἔδοξεν δὲ γελοιάζειν, he seemed to be jesting; Luke 10:36; Acts 25:27). \"Think\" (Matthew 3:9) may become its own sense."))
   (sense deem (gloss "deem" "deemed" "deems" "deeming") (why "To think, suppose, with an accusative and infinitive (Genesis 38:15, Judah ἔδοξεν αὐτὴν πόρνην εἶναι, \"deemed her to be harlot\"; Matthew 3:9; Luke 24:37). \"Deem\" because διανοέομαι has \"think through\" and οἴομαι \"suppose\".")))

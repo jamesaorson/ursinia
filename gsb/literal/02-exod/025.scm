@@ -95,7 +95,8 @@
     ("into" 9)
     ("the shoulder-piece" 10 (11 shoulder-piece "ἐπωμίς"))
     ("and" 12)
-    ("the foot-length." 13 14)))
+    ("the foot-length" 13 14)
+    ("[one].")))
 
 (verse 8
   (status draft)

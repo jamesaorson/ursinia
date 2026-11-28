@@ -88,6 +88,8 @@
 
 (lemma "ὕσσωπος" (sense hyssop (gloss "hyssop") (why "Hyssop, a small bushy plant used for sprinkling (Exodus 12:22 δέσμην ὑσσώπου, dipped in the Passover blood; John 19:29; Hebrews 9:19). Traditional English hyssop.")))
 
+(lemma "ὑφαίνω" (sense weave (verb "weave" "wove" "woven") (gloss "weave" "wove" "woven" "weaves" "weaving") (why "(LXX, supplied.) To weave (Exodus 35:35 τὰ ὑφαντὰ καὶ ποικιλτὰ ὑφᾶναι, Bezalel and Oholiab; compare Luke 12:27 in some texts). The simple verb of καθυφαίνω \"weave in\" and συνυφαίνω \"weave together\", and of ὑφάντης \"weaver\"; its participle \"woven\" is also the English of the verbal adjective ὑφαντός, unavoidably, and \"weaving\" that of ὕφασμα. Tabernacle term.")))
+
 (lemma "ὑφάντης" (sense weaver (person) (gloss "weaver" "weavers") (why "(LXX, supplied.) A weaver: ἔργον ὑφάντου \"work of weaver\" (Exodus 26:1, 31; 28:6, 32), and with ποικιλτής ἔργον ὑφάντου ποικιλτοῦ \"work of weaver, of embroiderer\" (28:6). The agent noun of ὑφαίνω \"weave\"; ὕφασμα is \"weaving\". Use this English in every tabernacle chapter.")))
 
 (lemma "ὑφαντός" (sense woven (gloss "woven") (why "Woven (ὑφαίνω \"weave\"): the veil ἔργον ὑφαντόν, \"woven work\" (Exodus 26:31; 28; 36); the tunic woven from the top (John 19:23). Kept beside ὑφάντης \"weaver\".")))

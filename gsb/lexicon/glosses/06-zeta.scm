@@ -30,7 +30,8 @@
 
 (lemma "ζηλωτής" (sense zealous (gloss "zealous") (why "One who is zealous, jealous for (Exodus 20:5 θεὸς ζηλωτής; Acts 21:20). \"Zealous\" keeps the link with ζῆλος; the readable layer may say \"jealous\".")))
 
-(lemma "ζηλωτός" (sense enviable (gloss "enviable") (why "(LXX, supplied.) To be envied, enviable (Genesis 49:22, Joseph υἱὸς ηὐξημένος μου ζηλωτός). Not ζηλωτής \"zealous\"; ζηλόω has \"envy\".")))
+(lemma "ζηλωτός" (sense enviable (gloss "enviable") (why "(LXX, supplied.) To be envied, enviable (Genesis 49:22, Joseph υἱὸς ηὐξημένος μου ζηλωτός). Not ζηλωτής \"zealous\"; ζηλόω has \"envy\"."))
+  (sense jealous (gloss "jealous") (why "Of God, jealous, not bearing a rival: ὁ γὰρ Κύριος ὁ θεὸς ζηλωτὸν ὄνομα, θεὸς ζηλωτής ἐστιν (Exodus 34:14), where the verbal adjective stands as the active partner of ζηλωτής, as the Hebrew has one word twice; \"enviable name\" would say the opposite of the warning. \"Jealous\" keeps it apart from ζηλωτής \"zealous\" beside it. Chosen by word override.")))
 
 (lemma "ζημιόω" (sense fine (gloss "fine" "fined" "fines" "fining") (why "To penalize, fine, and in the passive to suffer loss (Exodus 21:22, ἐπιζήμιον ζημιωθήσεται, \"will be fined [a] penalty\"; Matthew 16:26; Philippians 3:8 \"suffer loss\", which may become its own sense). (LXX form supplied.)")))
 
@@ -53,7 +54,7 @@
     (gloss "life")
     (why "ζωή, life itself, against βίος, livelihood or manner of life, which gets its own gloss. In Genesis 3:20 the Septuagint gives the woman's name as Ζωή, \"Life\" (capitalized as a name); see the note there.")))
 
-(lemma "ζώνη" (sense belt (gloss "belt" "belts") (why "A belt, girdle worn around the waist (Matthew 3:4 ζώνην δερματίνην; Acts 21:11; Revelation 1:13): of the priests' woven belts (Exodus 28:4, 39-40; 29:9 ζώσεις αὐτοὺς ταῖς ζώναις \"you will gird them with the belts\"). \"Belt\" in both testaments; its verb ζώννυμι is \"gird\". Use this English in every tabernacle chapter.")))
+(lemma "ζώνη" (sense belt (dative "with") (gloss "belt" "belts") (why "A belt, girdle worn around the waist (Matthew 3:4 ζώνην δερματίνην; Acts 21:11; Revelation 1:13): of the priests' woven belts (Exodus 28:4, 39-40; 29:9 ζώσεις αὐτοὺς ταῖς ζώναις \"you will gird them with the belts\"). \"Belt\" in both testaments; its verb ζώννυμι is \"gird\". Use this English in every tabernacle chapter.")))
 
 (lemma "ζώννυμι" (sense gird (gloss "gird" "girded" "girds" "girding") (why "To put a belt on, gird (John 21:18 ἐζώννυες σεαυτόν; Acts 12:8): ζώσεις αὐτοὺς ταῖς ζώναις \"you will gird them with the belts\" (Exodus 29:9). The verb of ζώνη \"belt\".")))
 

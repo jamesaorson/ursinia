@@ -57,7 +57,7 @@
 
 (lemma "καθυστερέω" (sense be-tardy-with (verb "be tardy with" "was tardy with" "been tardy with") (gloss "be tardy with" "was tardy with" "is tardy with" "been tardy with" "being tardy with") (why "(LXX, supplied.) To come late with, hold back past the time (Exodus 22:29 ἀπαρχὰς ἅλωνος καὶ ληνοῦ σου οὐ καθυστερήσεις). \"Be tardy with\" because βραδύνω and χρονίζω have \"delay\".")))
 
-(lemma "καθυφαίνω" (sense weave-in (verb "weave in" "wove in" "woven in") (gloss "weave in" "wove in" "woven in" "weaves in" "weaving in") (why "(LXX, supplied.) To weave into: καθυφανεῖς ἐν αὐτῷ ὕφασμα κατάλιθον \"you will weave in on it weaving set with stones\" (Exodus 28:17). From ὑφαίνω \"weave\" (ὑφάντης \"weaver\", ὕφασμα \"weaving\").")))
+(lemma "καθυφαίνω" (sense interweave (verb "interweave" "interwove" "interwoven") (gloss "interweave" "interwove" "interwoven" "interweaves" "interweaving") (why "(LXX, supplied.) To weave into: καθυφανεῖς ἐν αὐτῷ ὕφασμα κατάλιθον \"you will interweave in it stone-set weaving\" (Exodus 28:17); \"interweave\", since \"weave in\" doubles the following ἐν. From ὑφαίνω \"weave\" (ὑφάντης \"weaver\", ὕφασμα \"weaving\").")))
 
 (lemma "καθώς" (sense just-as (gloss "just as") (why "Just as, as (Genesis 8:21, just as I did; John 3:14). \"Just as\" keeps it apart from ὡς \"as\" and καθά \"according as\".")))
 
@@ -164,6 +164,8 @@
 
 (lemma "καρυίσκος" (sense little-nut (gloss "little nut" "little nuts") (why "(LXX, supplied.) A little nut, diminutive of κάρυον \"nut\": the lampstand's bowls are figured like little nuts, ἐκτετυπωμένοι καρυίσκους (Exodus 25:33-34), where the Hebrew has almond blossoms.")))
 
+(lemma "καρυωτός" (sense nut-shaped (gloss "nut-shaped") (why "(LXX, supplied.) Made like a nut, nut-shaped (κάρυον \"nut\"): the lampstand's λαμπάδια ... καρυωτὰ ἐξ αὐτῶν (Exodus 37:19-22), as its bowls are figured with καρυίσκοι \"little nuts\" in 25:33-34. Tabernacle term.")))
+
 (lemma "κάρυον" (sense nut (gloss "nut" "nuts") (why "(LXX, supplied.) A nut, almond or walnut (Genesis 43:11, among the gifts for Joseph). Aaron's rod bore κάρυα (Numbers 17:8).")))
 
 (lemma "κάρφος" (sense twig (gloss "twig" "twigs") (why "A dry stalk, twig, chip (Genesis 8:11, φύλλον ἐλαίας κάρφος, a leaf of olive, a twig, in the dove's mouth). The New Testament's speck in the eye (Matthew 7:3-5) is the same word; it will become its own sense there, or take \"twig\" with a note.")))
@@ -215,6 +217,8 @@
 
 (lemma "καταδέομαι" (sense entreat (genitive "") (gloss "entreat" "entreated" "entreats" "entreating") (why "(LXX, supplied.) To beg earnestly, entreat, with the genitive of the person (Genesis 42:21 ὅτε κατεδέετο ἡμῶν, Joseph pleading with his brothers). Kept apart from δέομαι.")))
 
+(lemma "καταδέχομαι" (sense assent (dative "with") (gloss "assent" "assented" "assents" "assenting") (why "(LXX, supplied.) To receive, take to oneself willingly, consent: πᾶς ὁ καταδεχόμενος τῇ καρδίᾳ \"every [one] assenting with the heart\" (Exodus 35:5), whoever is willing. \"Assent\" because δέχομαι has \"receive\", ἐκδέχομαι \"accept\", παραδέχομαι \"admit\" and προσδέχομαι \"welcome\".")))
+
 (lemma "καταδιώκω" (sense chase (gloss "chase" "chased" "chases" "chasing") (why "To pursue closely, hunt down (Genesis 14:14, chased behind them as far as Dan; Mark 1:36). \"Chase\" keeps it apart from διώκω \"pursue\".")))
 
 (lemma "καταδουλόω" (sense subjugate (gloss "subjugate" "subjugated" "subjugates" "subjugating") (why "To reduce to slavery, subjugate (Genesis 47:21 τὸν λαὸν κατεδουλώσατο αὐτῷ εἰς παῖδας, Joseph made the people servants of Pharaoh; 2 Corinthians 11:20; Galatians 2:4). \"Subjugate\" keeps it apart from δουλόω \"enslave\". (LXX form supplied.)")))
@@ -227,6 +231,8 @@
 
 (lemma "κατακαίω" (sense burn-up (verb "burn up" "burned up" "burned up") (gloss "burn up" "burned up" "burns up" "burning up") (why "To burn up, burn completely (Genesis 38:24, Judah of Tamar: κατακαυθήτω, \"let her be burned up\"; Matthew 3:12; 13:30).")))
 
+(lemma "κατακάλυμμα" (sense drape (gloss "drape" "drapes") (why "(LXX, supplied.) A covering let down over a thing (κατακαλύπτω \"cover up\"): the hanging stretched out above, εἰς τὸ ἐκτείνειν τὸ κατακάλυμμα ἄνωθεν (Exodus 36:34, 36b), laid over the tent (40:19, 21). \"Drape\" keeps it apart from κάλυμμα \"cover\", ἐπικάλυμμα \"upper cover\", περιβολή \"covering\" and καταπέτασμα \"veil\". Tabernacle term.")))
+
 (lemma "κατακαλύπτω" (sense cover-up (dative "with") (verb "cover up" "covered up" "covered up") (gloss "cover up" "covered up" "covers up" "covering up") (why "To cover up, veil; the middle, to cover oneself (Genesis 38:15, Tamar κατεκαλύψατο τὸ πρόσωπον αὐτῆς; 1 Corinthians 11:6-7). Kept apart from ἐπικαλύπτω \"cover over\".")))
 
 (lemma "κατάκαυμα" (sense burn (gloss "burn" "burns") (why "(LXX, supplied.) A burn, the wound left by fire (Exodus 21:25, κατάκαυμα ἀντὶ κατακαύματος). The noun; it shares the English with καίω \"burn\", the verb it comes from (through κατακαίω).")))
@@ -238,6 +244,8 @@
 (lemma "κατακλυσμός" (sense flood (gloss "flood" "floods") (why "Deluge, flood (Genesis 6:17; Matthew 24:38-39; 2 Peter 2:5).")))
 
 (lemma "κατακόπτω" (sense cut-down (verb "cut down" "cut down" "cut down") (gloss "cut down" "cuts down" "cutting down") (why "To cut down, cut to pieces; of an army, to strike down in battle (Genesis 14:5, 7; Mark 5:5 has \"cutting himself\").")))
+
+(lemma "κατακοσμέω" (sense adorn (gloss "adorn" "adorned" "adorns" "adorning") (why "(LXX, supplied.) To set in order, adorn (κατά + κοσμέω): of the columns of the court, κατεκόσμησεν αὐτούς (Exodus 38:28). \"Adorn\"; the simple κοσμέω, when it comes, will need to be kept apart.")))
 
 (lemma "κατακρύπτω" (sense hide-away (verb "hide away" "hid away" "hidden away") (gloss "hide away" "hid away" "hidden away" "hides away" "hiding away") (why "(LXX, supplied.) To hide away, conceal completely (Genesis 35:4, Jacob hid the foreign gods under the terebinth). Kept apart from κρύπτω \"hide\".")))
 
@@ -265,7 +273,7 @@
 
 (lemma "καταλιθοβολέω"(sense stone-down (verb "stone down" "stoned down" "stoned down") (gloss "stone down" "stoned down" "stones down" "stoning down") (why "(LXX, supplied.) To stone down, overwhelm with stones (κατά + λιθοβολέω; Exodus 17:4, ἔτι μικρὸν καὶ καταλιθοβολήσουσίν με; Luke 20:6). \"Stone down\" renders the κατα- and keeps the verb apart from λίθος \"stone\".")))
 
-(lemma "κατάλιθος" (sense set-with-stones (gloss "set with stones") (why "(LXX, supplied.) Set with stones (κατά + λίθος): ὕφασμα κατάλιθον τετράστιχον \"weaving set with stones, four-rowed\" (Exodus 28:17; 25:7 and 35:9 λίθους εἰς τὴν γλυφήν are another phrase).")))
+(lemma "κατάλιθος" (sense stone-set (gloss "stone-set") (why "(LXX, supplied.) Set with stones (κατά + λίθος): ὕφασμα κατάλιθον τετράστιχον \"stone-set weaving, four-rowed\"; one word, since the adjective goes before its noun (Exodus 28:17; 25:7 and 35:9 λίθους εἰς τὴν γλυφήν are another phrase).")))
 
 (lemma "κατάλυμα" (sense lodging-place (gloss "lodging place" "lodging places") (why "A place where travelers loose their burdens and stay, lodging place, inn or guest room (Exodus 4:24, the Lord's meeting with Moses on the way; Luke 2:7; 22:11). The noun of καταλύω \"lodge\". (LXX form supplied.)")))
 
@@ -283,6 +291,8 @@
     (why "To look closely at, consider (Matthew 7:3; Hebrews 3:1). Genesis 3:6 τοῦ κατανοῆσαι, \"to consider\", where translations from the Hebrew have \"to make one wise\".")))
 
 (lemma "κατανύσσω" (sense pierce (gloss "pierce" "pierced" "pierces" "piercing") (why "To prick, stab; passive, to be pierced, stung with grief (Genesis 34:7, κατενύχθησαν οἱ ἄνδρες, the men were pierced; Acts 2:37, κατενύγησαν τὴν καρδίαν).")))
+
+(lemma "κατάπαυσις" (sense rest (gloss "rest" "rests") (why "(LXX form supplied.) A ceasing, a rest (Exodus 34:21 τῇ δὲ ἑβδόμῃ κατάπαυσις; 35:2; Hebrews 3:11-4:11, quoting Psalm 94). It takes \"rest\" with its verb καταπαύω, as that entry planned; it shares the English with ἀνάπαυσις \"rest\" unavoidably (both stand in Exodus 35:2, κατάπαυσις ... ἀνάπαυσις Κυρίῳ).")))
 
 (lemma "καταπαύω"
   (sense rest
@@ -321,6 +331,8 @@
 
 (lemma "κατασπεύδω" (sense press (gloss "press" "pressed" "presses" "pressing") (why "(LXX, supplied.) To urge on, hurry someone along, press (Exodus 5:10, 13, the taskmasters κατέσπευδον αὐτούς). \"Press\" keeps it apart from ἐπισπουδάζω \"urge\" and σπεύδω."))
   (sense make-haste (intransitive) (verb "make haste" "made haste" "made haste") (gloss "make haste" "made haste" "makes haste" "making haste") (why "With an infinitive and no object: to make haste to do (Exodus 9:19 κατάσπευσον συναγαγεῖν τὰ κτήνη σου; 10:16 κατέσπευδεν Φαραὼ καλέσαι Μωυσῆν). \"Pressed to call\" would hide that Pharaoh himself hurries; \"make haste\" keeps it apart from σπεύδω \"hasten\" and ταχύνω \"hurry\".")))
+
+(lemma "καταστασιάζω" (sense revolt (intransitive) (gloss "revolt" "revolted" "revolts" "revolting") (why "(LXX, supplied.) To form a faction against, revolt (κατά + στασιάζω, from στάσις): the men τοῖς καταστασιάσασι μετὰ τῆς Κόρε συναγωγῆς, whose bronze firepans became the altar's (Exodus 38:1-2; Numbers 16-17).")))
 
 (lemma "καταστενάζω" (sense groan-heavily (intransitive) (verb "groan heavily" "groaned heavily" "groaned heavily") (gloss "groan heavily" "groaned heavily" "groans heavily" "groaning heavily") (why "(LXX, supplied.) To groan deeply, sigh heavily (Exodus 2:23 κατεστέναξαν οἱ υἱοὶ Ἰσραὴλ ἀπὸ τῶν ἔργων). The κατα- intensifies; \"groan heavily\" keeps it apart from στένω \"groan\" and στενάζω.")))
 
@@ -365,7 +377,9 @@
     (gloss "opposite")
     (why "Opposite, over against (Genesis 2:14; Mark 11:2). ἀπέναντι takes \"facing\".")))
 
-(lemma "κάτεργον" (sense workmanship (gloss "workmanship") (why "(LXX, supplied.) The working, the labor and cost of a work (Exodus 30:16 δώσεις αὐτὸ εἰς κάτεργον τῆς σκηνῆς τοῦ μαρτυρίου; 35:21, 24; 39:1). \"Workmanship\" keeps it apart from ἔργον \"work\", ἐργασία \"labor\" and λατρεία \"service\". Tabernacle term.")))
+(lemma "κατεργάζομαι" (sense work-out (verb "work out" "worked out" "worked out") (gloss "work out" "worked out" "works out" "working out") (why "To work at to the end, work out, accomplish (Exodus 35:33 κατεργάζεσθαι τὰ ξύλα, Bezalel's woodwork; Romans 7:18; Philippians 2:12). \"Work out\" keeps the root of ἐργάζομαι \"work\" and renders the κατα-; kept apart from κάτεργον \"workmanship\".")))
+
+(lemma "κάτεργον" (sense workmanship (gloss "workmanship") (plural "workmanship") (why "(LXX, supplied.) The working, the labor and cost of a work (Exodus 30:16 δώσεις αὐτὸ εἰς κάτεργον τῆς σκηνῆς τοῦ μαρτυρίου; 35:21, 24; 39:1). \"Workmanship\" keeps it apart from ἔργον \"work\", ἐργασία \"labor\" and λατρεία \"service\". Tabernacle term.")))
 
 (lemma "κατεσθίω" (sense devour (gloss "devour" "devoured" "devours" "devouring") (why "To eat up, devour (Genesis 40:17, the birds devouring the baker's bread; Matthew 13:4, the birds devoured the seed). Kept apart from ἐσθίω \"eat\".")))
 
@@ -388,6 +402,8 @@
 
 (lemma "κατοικητήριον" (sense dwelling-place (gloss "dwelling place" "dwelling places") (why "A dwelling place (Exodus 15:17, the ready dwelling place of the Lord; Ephesians 2:22; Revelation 18:2). From κατοικέω.")))
 
+(lemma "κατοικία" (sense habitation (gloss "habitation" "habitations") (why "A dwelling, a settled place to live (Exodus 35:3 ἐν πάσῃ κατοικίᾳ ὑμῶν, no fire kindled on the sabbath; Acts 17:26). \"Habitation\" keeps it apart from κατοίκησις \"residence\" and κατοικητήριον \"dwelling place\".")))
+
 (lemma "κατοικίζω"
   (sense settle
     (gloss "settle" "settled" "settles" "settling")
@@ -398,6 +414,8 @@
 (lemma "κάτοικος" (sense inhabitant (person) (gloss "inhabitant" "inhabitants") (why "(LXX, supplied.) A dweller, inhabitant (Genesis 50:11, the inhabitants of the land of Canaan). The noun of κατοικέω \"dwell\".")))
 
 (lemma "κατόπισθεν" (sense in-back-of (gloss "in back of") (why "(LXX, supplied.) Behind, after, as an improper preposition with the genitive (Genesis 37:17, Joseph went κατόπισθεν τῶν ἀδελφῶν αὐτοῦ, after his brothers). \"In back of\" keeps it apart from ὀπίσω \"behind\".")))
+
+(lemma "κάτοπτρον" (sense mirror (gloss "mirror" "mirrors") (why "(LXX, supplied.) A mirror, of polished bronze: the laver and its base made ἐκ τῶν κατόπτρων τῶν νηστευσασῶν, of the mirrors of the women who fasted at the doors of the tent (Exodus 38:8). Compare κατοπτρίζομαι (2 Corinthians 3:18).")))
 
 (lemma "κατορύσσω"(sense inter (verb "inter" "interred" "interred") (gloss "inter" "interred" "inters" "interring") (why "(LXX, supplied.) To bury in the ground, dig in (Genesis 48:7 κατώρυξα αὐτὴν ἐν τῇ ὁδῷ, Jacob of Rachel). \"Inter\" keeps it apart from θάπτω \"bury\" and ὀρύσσω \"dig\".")))
 
@@ -410,6 +428,8 @@
 (lemma "καυλός" (sense stalk (gloss "stalk" "stalks") (why "(LXX, supplied.) A stalk, stem of a plant: the lampstand's central shaft, ὁ καυλὸς αὐτῆς (Exodus 25:31; 37:17), from which the small reeds branch. \"Stalk\" because πυθμήν and στέλεχος have \"stem\". Tabernacle term.")))
 
 (lemma "καῦμα"(sense heat (gloss "heat" "heats") (why "Burning heat (Genesis 8:22, cold and heat; Revelation 7:16; 16:9).")))
+
+(lemma "καῦσις" (sense burning (gloss "burning" "burnings") (why "A burning (καίω \"burn\"): λύχνους τῆς καύσεως, \"lamps of the burning\" (Exodus 39:37); Hebrews 6:8 εἰς καῦσιν. Shares the English of καίω's participle, unavoidably, since it is that verb's noun; καύσων is \"burning heat\". (LXX form supplied.)")))
 
 (lemma "καύσων" (sense burning-heat (dative "by") (gloss "burning heat") (why "Burning heat, the scorching wind (Genesis 31:40 συγκαιόμενος τῷ καύσωνι; Matthew 20:12; James 1:11). \"Burning heat\" keeps it apart from καῦμα \"heat\".")))
 

@@ -28,7 +28,8 @@
 
 (lemma "ὄγδοος" (sense eighth (gloss "eighth") (why "The ordinal \"eighth\" (Genesis 17:12, 14, circumcision on the eighth day; Luke 1:59; Philippians 3:5).")))
 
-(lemma "ὅδε" (sense this (gloss "this" "these") (why "This (here), pointing forward: τάδε \"these [things]\" (Exodus 20:22).")))
+(lemma "ὅδε" (sense this (gloss "this" "these") (why "This (here), pointing forward: τάδε \"these [things]\" (Exodus 20:22)."))
+  (sense here (gloss "here") (why "The deictic ὅδε with a first person pronoun, ὅδε ἐγώ \"here I\" (Exodus 8:29, 17:6): it points at the speaker standing there and is not an object; \"This I will go forth\" does not construe. Shares \"here\" with the adverb ὧδε, a different word.")))
 
 (lemma "ὁδηγέω" (sense guide (gloss "guide" "guided" "guides" "guiding") (why "To lead on the way, guide (Exodus 13:17, οὐχ ὡδήγησεν αὐτοὺς ὁ θεὸς ὁδὸν γῆς Φυλιστιείμ; Matthew 15:14; John 16:13). From ὁδός, way, and ἄγω.")))
 
@@ -78,6 +79,8 @@
 (lemma "οἶκος" (sense house (gloss "house" "houses") (why "House, household (\"house of slavery\", \"house of Jacob\").")))
 
 (lemma "οἰκουμένη" (sense inhabited-earth (gloss "inhabited earth") (why "The inhabited earth, the settled land (Exodus 16:35, until they came into the inhabited earth; Luke 2:1; Acts 17:31). The participle of οἰκέω used as a noun; \"inhabited earth\" keeps it apart from κόσμος and γῆ.")))
+
+(lemma "οἰκτίρμων" (sense compassionate (gloss "compassionate") (why "Full of pity, compassionate (Exodus 34:6 οἰκτείρμων καὶ ἐλεήμων, Swete's spelling; Luke 6:36; James 5:11). The adjective of οἰκτίρω \"pity\"; \"compassionate\" keeps it apart from ἐλεήμων \"merciful\", its pair in the same verse.")))
 
 (lemma "οἰκτίρω" (sense pity (gloss "pity" "pitied" "pities" "pitying") (why "To have pity, compassion on (Exodus 33:19, οἰκτειρήσω ὃν ἂν οἰκτείρω, quoted in Romans 9:15). Swete spells it οἰκτείρω, the New Testament table οἰκτίρω. \"Pity\" keeps it apart from ἐλεέω \"have mercy on\", its pair in the same verse.")))
 
@@ -171,7 +174,7 @@
 
 (lemma "ὀπή" (sense hole (gloss "hole" "holes") (why "(LXX form supplied.) An opening, hole, cleft (Exodus 33:22, θήσω σε εἰς ὀπὴν τῆς πέτρας; James 3:11, the spring's opening; Hebrews 11:38, holes of the earth).")))
 
-(lemma "ὀπήτιον"(sense awl (gloss "awl" "awls") (why "(LXX, supplied.) An awl, a small boring tool (Exodus 21:6, the master bores the slave's ear τῷ ὀπητίῳ).")))
+(lemma "ὀπήτιον"(sense awl (dative "with") (gloss "awl" "awls") (why "(LXX, supplied.) An awl, a small boring tool (Exodus 21:6, the master bores the slave's ear τῷ ὀπητίῳ).")))
 
 (lemma "ὄπισθεν" (sense at-back (gloss "at back") (why "Behind, at the back, with the genitive (Genesis 18:10 οὖσα ὄπισθεν αὐτοῦ \"being at back of him\", the genitive giving \"of\"; Matthew 9:20, she came from behind and touched). \"At back\" keeps it apart from ὀπίσω \"behind\".")))
 
@@ -220,7 +223,7 @@
 
 (lemma "ὄρθρος" (sense dawn (gloss "dawn") (why "Daybreak, dawn (Genesis 19:15 ἡνίκα δὲ ὄρθρος ἐγίνετο; Luke 24:1; John 8:2).")))
 
-(lemma "ὀργή" (sense wrath (gloss "wrath") (why "Anger, wrath (Genesis 27:45 τὸν θυμὸν καὶ τὴν ὀργὴν τοῦ ἀδελφοῦ σου; Romans 1:18; 2:8 ὀργὴ καὶ θυμός). \"Wrath\" keeps it apart from θυμός \"fury\" and θυμόω \"anger\". (LXX form supplied.)")))
+(lemma "ὀργή" (sense wrath (dative "with") (gloss "wrath") (why "Anger, wrath (Genesis 27:45 τὸν θυμὸν καὶ τὴν ὀργὴν τοῦ ἀδελφοῦ σου; Romans 1:18; 2:8 ὀργὴ καὶ θυμός). \"Wrath\" keeps it apart from θυμός \"fury\" and θυμόω \"anger\". (LXX form supplied.)")))
 
 (lemma "ὀργίζω" (sense become-angry (voice active) (dative "with")(verb "become angry" "became angry" "become angry") (gloss "become angry" "became angry" "becomes angry" "becoming angry") (why "Passive: to be made angry, become angry (Genesis 40:2 ὠργίσθη Φαραώ; 41:10; Matthew 5:22; 18:34). The verb of ὀργή \"wrath\"; \"become angry\" keeps it apart from θυμόω \"anger\".")))
 
@@ -259,7 +262,10 @@
 (lemma "ὅς"
   (sense which
     (gloss "which" "who" "whom" "whose")
-    (why "The relative pronoun. The English form follows the referent: \"who/whom\" for persons, \"which\" for things.")))
+    (why "The relative pronoun. The English form follows the referent: \"who/whom\" for persons, \"which\" for things."))
+  (sense whatever
+    (gloss "whatever")
+    (why "ὅ τι printed as two words, the indefinite relative ὅστις in the neuter: \"whatever\" (Exodus 22:9 ὅ τι οὖν ἂν ᾖ, \"whatever ... it be\"). The τι is aligned with it (τὶς, sense with-relative). Chosen by word override.")))
 
 (lemma "ὀσμή" (sense odor (gloss "odor" "odors") (why "A smell, odor (Genesis 8:21, ὀσμὴ εὐωδίας, an odor of fragrance; John 12:3; 2 Corinthians 2:14-16; Ephesians 5:2). Kept apart from εὐωδία \"fragrance\".")))
 

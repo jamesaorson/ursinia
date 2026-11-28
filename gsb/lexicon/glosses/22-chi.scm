@@ -12,13 +12,15 @@
 
 (lemma "Χάλαχ" (sense name (gloss "Calah") (why "(LXX, supplied.) A city built by Asshur (Genesis 10:11-12), Greek Χάλαχ; traditional English Calah.")))
 
+(lemma "χαλάω" (sense slacken (voice active) (intransitive) (gloss "slacken" "slackened" "slackens" "slackening") (why "To slacken, loosen, let down; passive, to come loose (Exodus 39:21 ἵνα μὴ χαλᾶται τὸ λόγιον ἀπὸ τῆς ἐπωμίδος, that the oracle may not slacken from the shoulder-piece). The passive is rendered active, \"slacken\"; ἐκλύω has \"loosen\". The active \"let down\" the nets or the bed (Mark 2:4; Luke 5:4-5) will be its own sense. (LXX form supplied.)")))
+
 (lemma "χαλβάνη" (sense galbanum (gloss "galbanum") (why "(LXX, supplied.) Galbanum, a bitter gum resin, an ingredient of the incense (Exodus 30:34 χαλβάνην ἡδυσμοῦ). The English word is the Greek one; tabernacle term.")))
 
 (lemma "Χαλδαῖος" (sense name (person) (gloss "Chaldean" "Chaldeans") (why "A Chaldean (Genesis 11:28, 31, \"the country of the Chaldeans\"; Acts 7:4), traditional English.")))
 
 (lemma "χαλκεύς" (sense smith (person) (gloss "smith" "smiths") (why "A metalworker, smith (2 Timothy 4:14).")))
 
-(lemma "χαλκός" (sense bronze (gloss "bronze") (why "Copper, bronze (Revelation 18:12).")))
+(lemma "χαλκός" (sense bronze (dative "with") (gloss "bronze") (why "Copper, bronze (Revelation 18:12).")))
 
 (lemma "χαλκοῦς" (sense bronze (gloss "bronze") (why "Of bronze, brazen (Exodus 26:11, 37; 27:3-4, 10-19, the clasps, bases, utensils, grate and pegs; Revelation 9:20). It shares \"bronze\" with the noun χαλκός, as ἀργυροῦς and ἀργύριον share \"silver\"; the alignment shows which Greek word stands behind it.")))
 
@@ -150,6 +152,8 @@
 
 (lemma "χρυσόω" (sense gild (dative "with") (verb "gild" "gilded" "gilded") (gloss "gild" "gilded" "gilds" "gilding") (why "To overlay with gold, gild (Exodus 26:32, 37, the columns κεχρυσωμένων χρυσίῳ; Revelation 17:4; 18:16). Kept beside καταχρυσόω \"gild over\". Tabernacle term.")))
 
+(lemma "χρῶμα" (sense hue (gloss "hue" "hues") (why "(LXX, supplied.) Color, the coloring of a surface: ἡ ὄψις τοῦ χρώματος τοῦ προσώπου αὐτοῦ (Exodus 34:29-30), the look of the skin of Moses' face, glorified. \"Hue\" because χρόα has \"color\" and χρώς \"skin\".")))
+
 (lemma "χρώς" (sense skin (gloss "skin" "skins") (why "(LXX, supplied.) The skin, the surface of the body: καλύψαι ἀσχημοσύνην χρωτὸς αὐτῶν \"to cover shame of their skin\" (Exodus 28:42). It shares \"skin\" with δέρμα, unavoidably: \"flesh\" is σάρξ's and \"body\" σῶμα's; χρόα is \"color\".")))
 
 (lemma "Χωβάλ" (sense name (gloss "Hobah") (why "(LXX, supplied.) Genesis 14:15, the place on the left of Damascus, Greek Χωβάλ for the Hebrew Hobah; traditional English Hobah, the same place in a Greek spelling.")))
@@ -157,6 +161,8 @@
 (lemma "χυδαῖος" (sense teeming (gloss "teeming") (why "(LXX, supplied.) Poured out, abundant, numerous (Exodus 1:7 καὶ χυδαῖοι ἐγένοντο, the sons of Israel came to be teeming). From χέω \"pour\"; \"teeming\" keeps it apart from πολύς \"many\" and πλῆθος \"multitude\".")))
 
 (lemma "χῶμα" (sense soil (gloss "soil" "soils") (why "(LXX, supplied.) Heaped-up earth, loose soil, dust (χώννυμι \"heap up\"): Exodus 8:16-17, Aaron struck τὸ χῶμα τῆς γῆς and it became gnats. \"Soil\" because \"dust\" is χοῦς's and \"earth\" γῆ's.")))
+
+(lemma "χώνευσις" (sense smelting (gloss "smelting" "smeltings") (why "(LXX, supplied.) A melting, casting of metal (χωνεύω \"mold\"): the hundred talents of silver went εἰς τὴν χώνευσιν of the hundred capitals (Exodus 38:27). \"Smelting\" because κυμάτιον has \"molding\" and βάλλω \"cast\".")))
 
 (lemma "χωνευτός" (sense molded (gloss "molded") (why "(LXX, supplied.) Cast in a mold, molten (Exodus 32:4, 8, μόσχον χωνευτόν, the golden calf). The verbal adjective of χωνεύω \"mold\", so \"molded\"; traditional \"molten\".")))
 
