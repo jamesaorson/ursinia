@@ -1,0 +1,33 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+zech	oldtestgreek00unknuoft	98	1	EN	ἘΝ	ΕΝ	ΕΝ	TODO zoom: A R5, B DIA
+zech	oldtestgreek00unknuoft	98	1	λόγος +τ	λόγος +τ	λόγος	λόγος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	98	2	υἱὸν	υἱὸν	υἱὸν	υἱὸν	TODO zoom: acute or grave before a capitalized word
+zech	oldtestgreek00unknuoft	98	2	Ἀδδὼ	Ἀδδὼ	Ἀδδὼ	Ἀδδὼ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+zech	oldtestgreek00unknuoft	98	3	“Ὠ̓ργίσθη	“Ὠργίσθη	Ὠργίσθη	Ὠργίσθη	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B R1
+zech	oldtestgreek00unknuoft	98	4	2 +Skal	5 +βκαὶ	καὶ	καὶ	TODO zoom: A OPEN, B OPEN
+zech	oldtestgreek00unknuoft	98	4	αὐτούς	αὐτούς	αὐτούς	αὐτούς	TODO zoom: acute or grave before a capitalized word
+zech	oldtestgreek00unknuoft	98	4	Ἔπι- +3	Ἔπι- +3	Ἐπι-	Ἐπι-	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B DIA
+zech	oldtestgreek00unknuoft	98	6	*kai	ἑκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	98	6	οἱ +4	οἱ +4	οἱ	οἱ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	98	7	ois	οἷς	οἷς	οἷς	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	98	8	Ἀποστρέψατε	Ἀποστρέψατε	Ἀποστρέψατε	Ἀποστρέψατε	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+zech	oldtestgreek00unknuoft	98	10	πονηρῶν"	πονηρῶν"	πονηρῶν·	πονηρῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	98	10	εἰσακοῦσαί	εἰσακοῦσαί	εἰσακοῦσαί	εἰσακοῦσαί	TODO zoom: accent before an enclitic
+zech	oldtestgreek00unknuoft	98	11	Κύριος:	Κύριος:	Κύριος.	Κύριος.	TODO zoom: A OPEN, B OPEN
+zech	oldtestgreek00unknuoft	98	11	5οἱ	-5οἱ	οἱ	οἱ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	98	11	εἶσιν;	εἶσιν;	εἰσιν;	εἰσιν;	TODO zoom: A DIA, B DIA
+zech	oldtestgreek00unknuoft	98	11	τὸν	τὸν +5	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	98	12	“πλὴν	“πλὴν	πλὴν	πλὴν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	98	12	νόμιμά	νόμιμά	νόμιμά	νόμιμά	TODO zoom: accent before an enclitic
+zech	oldtestgreek00unknuoft	98	12	δέχεσθε,	δέχεσθε, +6	δέχεσθε,	δέχεσθε,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	98	13	πνεύματί	πνεύματί	πνεύματί	πνεύματί	TODO zoom: accent before an enclitic
+zech	oldtestgreek00unknuoft	98	13	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	98	13	mpo-	προ-	προ-	προ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	98	14	ot	οἱ	οἳ	οἳ	TODO zoom: A R5, B DROP
+zech	oldtestgreek00unknuoft	98	17	7TH	7Τῇ	ἡμῖν.	ἡμῖν.	TODO zoom: A R5, B OPEN
+zech	oldtestgreek00unknuoft	98	18	∅	∅	Τῇ	Τῇ	TODO zoom: no OCR reading at all
+zech	oldtestgreek00unknuoft	98	18	οὗτός	οὗτός	οὗτός	οὗτός	TODO zoom: accent before an enclitic
+zech	oldtestgreek00unknuoft	98	18	μὴν +7	μὴν +7	μὴν	μὴν	TODO zoom: acute or grave before a capitalized word
+zech	oldtestgreek00unknuoft	98	20	υἱὸν	υἱὸν	υἱὸν	υἱὸν	TODO zoom: acute or grave before a capitalized word
+zech	oldtestgreek00unknuoft	98	20	Ἀδδὼ	Ἀδδὼ	Ἀδδὼ	Ἀδδὼ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+zech	oldtestgreek00unknuoft	98	20	*Ed- +8	ὅἜό6- +8	Ἑό-	Ἑό-	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A R5, B OPEN

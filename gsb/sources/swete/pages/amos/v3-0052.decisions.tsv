@@ -1,0 +1,5 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+amos	oldtestgreek00unknuoft	52	1	αὐτῶν"	αὐτῶν" +ἘΠῚ	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+amos	oldtestgreek00unknuoft	52	2	ἐκσπα- +15	ἐκσπα- +τς	ἐκσπα-	ἐκσπα-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	52	2	-	-	οὐ	οὐ	image (4x): small light raised dot between καὶ and οὐ is a speck, not an ano teleia; none written
+amos	oldtestgreek00unknuoft	52	3	-	-	ἔδωκα	ἔδωκα	image (3x): small light dot before ἔδωκα on the baseline is a speck, not a period; none written

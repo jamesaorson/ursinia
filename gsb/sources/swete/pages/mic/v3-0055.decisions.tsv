@@ -1,0 +1,39 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+mic	oldtestgreek00unknuoft	55	1	ἐν +B	ἐν	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+mic	oldtestgreek00unknuoft	55	2	“μὴ	“μὴ	μὴ	μὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+mic	oldtestgreek00unknuoft	55	3	τούτοις:	τούτοις:	τούτοις·	τούτοις·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+mic	oldtestgreek00unknuoft	55	3	76	7ὁ	ὁ	ὁ	image (3x): superscript 7 then ὁ, rough breathing
+mic	oldtestgreek00unknuoft	55	3	Οἶκος	Οἶκος	Οἶκος	Οἶκος	image (3x): circumflex on ι of Οἶκος, no breathing mark on the capital; breathing+circumflex sits over ι
+mic	oldtestgreek00unknuoft	55	3	Ἰακὼβ	Ἰακὼβ᾽	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing
+mic	oldtestgreek00unknuoft	55	5	εἰσὶν.	εἰσὶν	εἰσὶν	εἰσὶν	class R6 (OCR letters differ): the other OCR reading agrees with c
+mic	oldtestgreek00unknuoft	55	5	πεπόρευνται; +ὃ	πεπόρευνται; +ὃ	πεπόρευνται;	πεπόρευνται;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+mic	oldtestgreek00unknuoft	55	6	λαός	λαός	λαός	λαός	image (3x): acute before the enclitic
+mic	oldtestgreek00unknuoft	55	6	ἀντέστη:	ἀντέστη:	ἀντέστη·	ἀντέστη·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+mic	oldtestgreek00unknuoft	55	7	ἐλπίδα.	ἐλπίδα.	ἐλπίδα	ἐλπίδα	image (3x): no point after ἐλπίδα
+mic	oldtestgreek00unknuoft	55	8	ἡγούμενοι	9ἡγούμενοι	ἡγούμενοι	ἡγούμενοι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+mic	oldtestgreek00unknuoft	55	10	αἰωνίοις:	αἰωνίοις"	αἰωνίοις·	αἰωνίοις·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+mic	oldtestgreek00unknuoft	55	10	"““ἀνάστηθι	᾿᾿ἀνάστηθι	ἀνάστηθι	ἀνάστηθι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+mic	oldtestgreek00unknuoft	55	11	""κατεδιώχθητε	"᾿κατεδιώχθητε	κατεδιώχθητε	κατεδιώχθητε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+mic	oldtestgreek00unknuoft	55	12	διώκοντος"	ὃ +διώκοντος" Η	διώκοντος·	διώκοντος·	image (3x): ano teleia
+mic	oldtestgreek00unknuoft	55	12	ἐστάλαξέν	ἐστάλαξέν	ἐστάλαξέν	ἐστάλαξέν	image (3x): acute before the enclitic
+mic	oldtestgreek00unknuoft	55	13	“συνα-	᾿συνα-	συνα-	συνα-	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+mic	oldtestgreek00unknuoft	55	14	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing
+mic	oldtestgreek00unknuoft	55	14	πᾶσιν:	πᾶσιν:	πᾶσιν·	πᾶσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+mic	oldtestgreek00unknuoft	55	15	Tov	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+mic	oldtestgreek00unknuoft	55	15	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing
+mic	oldtestgreek00unknuoft	55	16	τοῦ:	τοῦ:	τοῦ·	τοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+mic	oldtestgreek00unknuoft	55	17	ἀνθρώπων	ἀνθρώπων	ἀνθρώπων·	ἀνθρώπων·	image (3x): ano teleia
+mic	oldtestgreek00unknuoft	55	17	wa	ιἰὰ	διὰ	διὰ	image (3x): superscript 13 then διὰ
+mic	oldtestgreek00unknuoft	55	18	δι᾽	δι	δι᾽	δι᾽	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+mic	oldtestgreek00unknuoft	55	21	; +*Kal	. +1 Κ̓αὶ	Καὶ	Καὶ	image (3x): superscript 1 then Καὶ; III in margin
+mic	oldtestgreek00unknuoft	55	21	Ἀκούσατε	Ἀκούσατε	Ἀκούσατε	Ἀκούσατε	image (3x): smooth breathing
+mic	oldtestgreek00unknuoft	55	21	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+mic	oldtestgreek00unknuoft	55	21	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing
+mic	oldtestgreek00unknuoft	55	22	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing
+mic	oldtestgreek00unknuoft	55	23	∅	∅	μισοῦντες	μισοῦντες	image (3x): superscript 2 then μισοῦντες
+mic	oldtestgreek00unknuoft	55	25	ϑὺν	ϑὸν	ὃν	ὃν	image (3x): rough + grave (closed d shape) on ὃν
+mic	oldtestgreek00unknuoft	55	27	“καὶ	“καὶ	καὶ	καὶ	image (3x): καὶ, no mark before it
+mic	oldtestgreek00unknuoft	55	28	4 +ΤΓοὕτως	4“ +ΓΛοὕτως	οὕτως	οὕτως	image (3x): superscript 4 then οὕτως
+mic	oldtestgreek00unknuoft	55	28	αὐτῶν":	αὐτῶν":	αὐτῶν·	αὐτῶν·	image (3x): ano teleia
+mic	oldtestgreek00unknuoft	55	30	ἀνθ᾽	ἀνθ᾽ +»	ἀνθ᾽	ἀνθ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+mic	oldtestgreek00unknuoft	55	2	-	-	Κυρίου.	Κυρίου.	image (3x): a raised tick after the period (stray mark / displaced accent), not punctuation; left out

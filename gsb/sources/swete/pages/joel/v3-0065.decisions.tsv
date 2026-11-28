@@ -1,0 +1,30 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+joel	oldtestgreek00unknuoft	65	1	θεραπείαν, +*°	θεραπείαν, +"“	θεραπείαν,	θεραπείαν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+joel	oldtestgreek00unknuoft	65	1	mpe-	πρε-	πρε-	πρε-	class R5: Latin-letter substitution in OCR; c read from the image strip
+joel	oldtestgreek00unknuoft	65	3	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+joel	oldtestgreek00unknuoft	65	3	“dvd	"Ἰἀνὰ	ἀνὰ	ἀνὰ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+joel	oldtestgreek00unknuoft	65	4	τῆς.	τῆς.	τῆς	τῆς	image (3x): speck, not a period
+joel	oldtestgreek00unknuoft	65	5	Φεῖσαι, +»	Φεῖσαι, +»	Φεῖσαι,	Φεῖσαι,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+joel	oldtestgreek00unknuoft	65	5	σου, +»	σου, +»	σου,	σου,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+joel	oldtestgreek00unknuoft	65	5	κληρο	κληρο-	κληρο-	κληρο-	class R6 (OCR letters differ): the other OCR reading agrees with c
+joel	oldtestgreek00unknuoft	65	7	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+joel	oldtestgreek00unknuoft	65	8	"Καὶ	"Καὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+joel	oldtestgreek00unknuoft	65	8	aod	Χαοῦ	λαοῦ	λαοῦ	image (3x): λαοῦ
+joel	oldtestgreek00unknuoft	65	9	kal	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+joel	oldtestgreek00unknuoft	65	9	ἀπεκρίθη.	ἀπεκρίθη.	ἀπεκρίθη	ἀπεκρίθη	image (3x): speck, not a period
+joel	oldtestgreek00unknuoft	65	9	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing
+joel	oldtestgreek00unknuoft	65	12	ἔθνεσι:	ἔθνεσι:	ἔθνεσι·	ἔθνεσι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+joel	oldtestgreek00unknuoft	65	12	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+joel	oldtestgreek00unknuoft	65	14	ἐσχάτην"	ἐσχάτην"	ἐσχάτην·	ἐσχάτην·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+joel	oldtestgreek00unknuoft	65	16	ἄρσει,	ἄρσει,	θάρσει,	θάρσει,	image (3x): θ clear; superscript numeral not text
+joel	oldtestgreek00unknuoft	65	17	ἐμεγάλυνεν.	ἐμεγάλυνεν.	ἐμεγάλυνεν	ἐμεγάλυνεν	image (3x): speck, not a period
+joel	oldtestgreek00unknuoft	65	17	apoeire,	ἀαρσεῖτε,	θαρσεῖτε,	θαρσεῖτε,	image (3x): θ clear; superscript numeral not text
+joel	oldtestgreek00unknuoft	65	19	Kal	“Ξκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+joel	oldtestgreek00unknuoft	65	22	Kal	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+joel	oldtestgreek00unknuoft	65	22	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+joel	oldtestgreek00unknuoft	65	23	“5καὶ	“5καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+joel	oldtestgreek00unknuoft	65	25	ἣ	ἣ	ἡ	ἡ	image (3x): rough breathing only, no accent
+joel	oldtestgreek00unknuoft	65	25	δύναμίς	δύναμίς	δύναμίς	δύναμίς	image (3x): acute before enclitic μου
+joel	oldtestgreek00unknuoft	65	25	ὑμᾶς"	ὑμᾶς"	ὑμᾶς·	ὑμᾶς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+joel	oldtestgreek00unknuoft	65	25	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+joel	oldtestgreek00unknuoft	65	27	«μὴ	«μὴ	μὴ	μὴ	image (3x): speck before μὴ, not text

@@ -1,0 +1,19 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+joel	oldtestgreek00unknuoft	68	1	Αἴγυπτος	"Αἴγυπτος	Αἴγυπτος	Αἴγυπτος	image (3x): smooth breathing + acute on ι of Αἴγυπτος
+joel	oldtestgreek00unknuoft	68	1	εἰς.	εἰς	εἰς	εἰς	class R6 (OCR letters differ): the other OCR reading agrees with c
+joel	oldtestgreek00unknuoft	68	1	ἀφανισμὸν +19	ἀφανισμὸν +τὸ	ἀφανισμὸν	ἀφανισμὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+joel	oldtestgreek00unknuoft	68	2	Ἰδουμαία	Ἰδουμαία	Ἰδουμαία	Ἰδουμαία	image (3x): smooth breathing (apostrophe shape) on the capital
+joel	oldtestgreek00unknuoft	68	2	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+joel	oldtestgreek00unknuoft	68	2	υἱῶν	υἱῶν.	υἱῶν	υἱῶν	class R6 (OCR letters differ): the other OCR reading agrees with c
+joel	oldtestgreek00unknuoft	68	3	Ἰούδα,	ΕΣ +Ιούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing (apostrophe shape) on the capital
+joel	oldtestgreek00unknuoft	68	3	ἀνθ᾽	ἀνθ᾽ +ως	ἀνθ᾽	ἀνθ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+joel	oldtestgreek00unknuoft	68	3	“ἡ	“ἡ	ἡ	ἡ	image (3x): ἡ, rough breathing only; 20 is the verse superscript
+joel	oldtestgreek00unknuoft	68	3	Ἰουδαία +20	Ἰουδαία +20	Ἰουδαία	Ἰουδαία	image (3x): smooth breathing (apostrophe shape) on the capital
+joel	oldtestgreek00unknuoft	68	4	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+joel	oldtestgreek00unknuoft	68	4	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing (apostrophe shape) on the capital
+joel	oldtestgreek00unknuoft	68	4	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+joel	oldtestgreek00unknuoft	68	4	γενεῶν"	γενεῶν"	γενεῶν·	γενεῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+joel	oldtestgreek00unknuoft	68	5	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+joel	oldtestgreek00unknuoft	68	5	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+joel	oldtestgreek00unknuoft	68	5	κατα- +21	κατα- +“τ	κατα-	κατα-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+joel	oldtestgreek00unknuoft	68	5	-	-	ἀθῳώσω,	ἀθῳώσω,	image (3x): iota subscript under the first ω, as printed

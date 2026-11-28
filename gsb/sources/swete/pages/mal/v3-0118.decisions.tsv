@@ -1,0 +1,57 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+mal	oldtestgreek00unknuoft	118	1	ΛΗ͂ΜΜΑ	ΛΗ͂ΜΜΑ	ΛΗΜΜΑ	ΛΗΜΜΑ	image (3x): unaccented capitals of the book opening, no circumflex
+mal	oldtestgreek00unknuoft	118	1	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on Ι
+mal	oldtestgreek00unknuoft	118	1	αὐτοῦ:	αὐτοῦ"	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+mal	oldtestgreek00unknuoft	118	2	ὑμῶν.	ὑμῶν. +Ξ᾽	ὑμῶν.	ὑμῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+mal	oldtestgreek00unknuoft	118	3	Ἡγάπησα	Ἠγάπησα	Ἠγάπησα	Ἠγάπησα	image (3x): smooth breathing on Η, no accent
+mal	oldtestgreek00unknuoft	118	3	Κύριος:	Κύριος:	Κύριος·	Κύριος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+mal	oldtestgreek00unknuoft	118	3	Ev	Ἔν	Ἐν	Ἐν	image (3x): smooth breathing on Ε, no accent
+mal	oldtestgreek00unknuoft	118	4	Ἢσαὺ	σαὺ	Ἠσαὺ	Ἠσαὺ	image (3x): smooth breathing on Η, no accent
+mal	oldtestgreek00unknuoft	118	4	Ἰακώβ;	Ἰακώβ;	Ἰακώβ;	Ἰακώβ;	image (3x): smooth breathing on Ι
+mal	oldtestgreek00unknuoft	118	4	Κύριος:	Κύριος:	Κύριος·	Κύριος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+mal	oldtestgreek00unknuoft	118	5	∅	πῆσα	πησα	πησα	image (3x): πησα, no accent (turned-over half of ἠγάπησα)
+mal	oldtestgreek00unknuoft	118	5	∅	τὸν	τὸν	τὸν	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	118	5	∅	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing on Ι
+mal	oldtestgreek00unknuoft	118	5	∅	τὸν	τὸν	τὸν	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	118	5	∅	δὲ	δὲ	δὲ	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	118	5	∅	σαὺ	Ἠσαὺ	Ἠσαὺ	image (3x): smooth breathing on Η, no accent
+mal	oldtestgreek00unknuoft	118	5	∅	ἐμίσησα,	ἐμίσησα,	ἐμίσησα,	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	118	5	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	118	5	∅	ἔταξα	ἔταξα	ἔταξα	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	118	5	∅	τὰ	τὰ	τὰ	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	118	5	∅	ὅρια	ὅρια	ὅρια	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	118	5	∅	αὐ-	αὐ-	αὐ-	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	118	7	ότι	διότι	διότι	διότι	class R6 (OCR letters differ): the other OCR reading agrees with c
+mal	oldtestgreek00unknuoft	118	7	Ἣ	Ἣ	Ἡ	Ἡ	image (3x): rough breathing on Η, no accent
+mal	oldtestgreek00unknuoft	118	7	Ἰδουμαία	Ἰδουμαία	Ἰδουμαία	Ἰδουμαία	image (3x): smooth breathing on Ι
+mal	oldtestgreek00unknuoft	118	8	αἰκοδυμήσουσιν	κοδομήσωμεν	κοδομήσωμεν	κοδομήσωμεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+mal	oldtestgreek00unknuoft	118	8	∅	τὰς	τὰς	τὰς	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	118	8	∅	ἐρήμους.	ἐρήμους.	ἐρήμους.	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	118	8	∅	τάδε	τάδε	τάδε	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	118	8	∅	λέγει	λέγει	λέγει	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	118	8	∅	Κύριος	Κύριος	Κύριος	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	118	8	∅	Παντοκράτωρ	Παντοκράτωρ	Παντοκράτωρ	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	118	8	∅	Αὐτοὶ	Αὐτοὶ	Αὐτοὶ	image (3x): smooth breathing on υ of Αὐτοὶ
+mal	oldtestgreek00unknuoft	118	9	∅	οἰκοδομήσουσιν	οἰκοδομήσουσιν	οἰκοδομήσουσιν	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	118	9	᾿ῥηθανμ +νὰ ϑρα	καταστρέψω:	καταστρέψω·	καταστρέψω·	image (3x): καταστρέψω with ano teleia
+mal	oldtestgreek00unknuoft	118	9	ἐπικληθήσεγαι	ἐπικληθήσεται	ἐπικληθήσεται	ἐπικληθήσεται	class R6 (OCR letters differ): the other OCR reading agrees with c
+mal	oldtestgreek00unknuoft	118	10	ΜΔΡΙΔΗΜΚΟΝΝ,	παρατέτακται	παρατέτακται	παρατέτακται	class R6 (OCR letters differ): the other OCR reading agrees with c
+mal	oldtestgreek00unknuoft	118	11	Ἐ̓μεγαλύνθη	Ἐ̓μεγαλύνθη	Ἐμεγαλύνθη	Ἐμεγαλύνθη	image (3x): smooth breathing on Ε, no accent
+mal	oldtestgreek00unknuoft	118	12	dv@	ἄνω	άνω	άνω	image (3x): άνω, acute only (second half of ὑπεράνω)
+mal	oldtestgreek00unknuoft	118	12	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on Ι
+mal	oldtestgreek00unknuoft	118	13	®Yids	ὁ +γϊὸς	Υἱὸς	Υἱὸς	image (3x): Υ with rough breathing and grave on ι: Υἱὸς
+mal	oldtestgreek00unknuoft	118	14	πατήρ	πατήρ	πατήρ	πατήρ	image (3x): accent before enclitic as printed
+mal	oldtestgreek00unknuoft	118	14	εἶμι	εἶμι	εἰμι	εἰμι	image (3x): εἰμι, smooth breathing, no circumflex
+mal	oldtestgreek00unknuoft	118	14	pov;	μου;	μου;	μου;	class R5: Latin-letter substitution in OCR; c read from the image strip
+mal	oldtestgreek00unknuoft	118	14	κύριός	κύριός	κύριός	κύριός	image (3x): accent before enclitic as printed
+mal	oldtestgreek00unknuoft	118	14	εἶμι	εἶμι	εἰμι	εἰμι	image (3x): εἰμι, smooth breathing, no circumflex
+mal	oldtestgreek00unknuoft	118	15	Παντοκράτωρ.	ἸΤαντοκράτωρ.	Παντοκράτωρ.	Παντοκράτωρ.	class R6 (OCR letters differ): the other OCR reading agrees with c
+mal	oldtestgreek00unknuoft	118	16	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): accent before enclitic as printed
+mal	oldtestgreek00unknuoft	118	16	Ἔν	Ἔν	Ἐν	Ἐν	image (3x): smooth breathing on Ε, no accent
+mal	oldtestgreek00unknuoft	118	16	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): accent before enclitic as printed
+mal	oldtestgreek00unknuoft	118	17	Ἰπροσάγοντες	προσάγοντες	προσάγοντες	προσάγοντες	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+mal	oldtestgreek00unknuoft	118	17	θυσιαστήριόν	θυσιαστήριόν	θυσιαστήριόν	θυσιαστήριόν	image (3x): accent before enclitic as printed
+mal	oldtestgreek00unknuoft	118	17	ἡλισγημένους.	ἠλισγημένους.	ἠλισγημένους.	ἠλισγημένους.	image (3x): smooth breathing on η
+mal	oldtestgreek00unknuoft	118	18	Ἔν	Ἔν	Ἐν	Ἐν	image (3x): smooth breathing on Ε, no accent
+mal	oldtestgreek00unknuoft	118	18	ἠλισγήσαμεν	ἡλισγήσαμεν	ἠλισγήσαμεν	ἠλισγήσαμεν	image (3x): smooth breathing on η
+mal	oldtestgreek00unknuoft	118	19	ἐξουδενώσατε. +ὃ	ἐξουδενώσατε. +ὃ	ἐξουδενώσατε.	ἐξουδενώσατε.	class R3: OCR appended accent-row or margin junk; c read from the image strip

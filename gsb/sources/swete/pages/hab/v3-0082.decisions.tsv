@@ -1,0 +1,39 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+hab	oldtestgreek00unknuoft	82	1	Ξ	ΤῸ	ΤΟ	ΤΟ	image (3x): unaccented capitals ΤΟ opening the book
+hab	oldtestgreek00unknuoft	82	1	∅	λῆμμα	λῆμμα	λῆμμα	class R0: OCR lost the word in extraction; c read from the image strip
+hab	oldtestgreek00unknuoft	82	1	∅	ὁ	ὃ	ὃ	image (3x): rough breathing + grave, compact closed mark: ὃ
+hab	oldtestgreek00unknuoft	82	1	∅	εἶδεν	εἶδεν	εἶδεν	class R0: OCR lost the word in extraction; c read from the image strip
+hab	oldtestgreek00unknuoft	82	1	∅	Ἀμβακοὺμ	Ἁμβακοὺμ	Ἁμβακοὺμ	image (4x): rough breathing (reversed comma opening left) on Α
+hab	oldtestgreek00unknuoft	82	1	∅	ὁ	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
+hab	oldtestgreek00unknuoft	82	1	∅	προφήτης.	προφήτης.	προφήτης.	class R0: OCR lost the word in extraction; c read from the image strip
+hab	oldtestgreek00unknuoft	82	2	Ἕως	ΠΤ᾽; +“Ἕως	Ἕως	Ἕως	image (3x): rough + acute, open curl then rising stroke
+hab	oldtestgreek00unknuoft	82	2	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+hab	oldtestgreek00unknuoft	82	2	εἰσακούσης;	εἰσακούσῃς;	εἰσακούσῃς;	εἰσακούσῃς;	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+hab	oldtestgreek00unknuoft	82	2	βοήσομαι +2	βοήσομαι +9:	βοήσομαι	βοήσομαι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hab	oldtestgreek00unknuoft	82	3	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+hab	oldtestgreek00unknuoft	82	3	3iva	ϑἵνα	ἵνα	ἵνα	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+hab	oldtestgreek00unknuoft	82	3	ἔδειξάς	ἔδειξάς	ἔδειξάς	ἔδειξάς	image (3x): acute before enclitic as printed
+hab	oldtestgreek00unknuoft	82	3	κόπους +3	κόπους +3	κόπους	κόπους	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hab	oldtestgreek00unknuoft	82	5	έγονεν	γέγονεν	γέγονεν	γέγονεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+hab	oldtestgreek00unknuoft	82	5	λαμβάνει:	λαμβάνει:	λαμβάνει·	λαμβάνει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hab	oldtestgreek00unknuoft	82	5	“διὰ	“διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hab	oldtestgreek00unknuoft	82	5	νόμος	νόμος, +4	νόμος,	νόμος,	image (3x): comma after νόμος
+hab	oldtestgreek00unknuoft	82	6	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+hab	oldtestgreek00unknuoft	82	7	δίκαιον:	δίκαιον:	δίκαιον·	δίκαιον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hab	oldtestgreek00unknuoft	82	7	ἴδετε, +5	ἴδετε, +9	ἴδετε,	ἴδετε,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hab	oldtestgreek00unknuoft	82	9	σθητε:	σθητε:	σθητε·	σθητε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hab	oldtestgreek00unknuoft	82	10	ἐάν	ἐάν	ἐάν	ἐάν	image (3x): acute before enclitic as printed
+hab	oldtestgreek00unknuoft	82	10	“διότι	“διότι	διότι	διότι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hab	oldtestgreek00unknuoft	82	10	Χαλ- +6	Χαλ- +6	Χαλ-	Χαλ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hab	oldtestgreek00unknuoft	82	11	πλά	πλάτη	πλάτη	πλάτη	class R6 (OCR letters differ): the other OCR reading agrees with c
+hab	oldtestgreek00unknuoft	82	12	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hab	oldtestgreek00unknuoft	82	12	φοβερὸς	Τφοβερὸς	φοβερὸς	φοβερὸς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hab	oldtestgreek00unknuoft	82	12	καὶ +7	καὶ +7	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hab	oldtestgreek00unknuoft	82	13	ἐπιφανής	ἐπιφανής	ἐπιφανής	ἐπιφανής	image (3x): acute before enclitic as printed
+hab	oldtestgreek00unknuoft	82	14	ἐξελεύσεται:	ἐξελεύσεται: +ὃ	ἐξελεύσεται·	ἐξελεύσεται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hab	oldtestgreek00unknuoft	82	14	*xal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+hab	oldtestgreek00unknuoft	82	14	αὐτοῦ, +8	αὐτοῦ, +8	αὐτοῦ,	αὐτοῦ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hab	oldtestgreek00unknuoft	82	15	“ApaBias:	Ἀραβίας-	Ἀραβίας·	Ἀραβίας·	image (3x): smooth breathing (apostrophe) on Α
+hab	oldtestgreek00unknuoft	82	17	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+hab	oldtestgreek00unknuoft	82	17	ϑσυντέλεια	συντέλεια	συντέλεια	συντέλεια	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hab	oldtestgreek00unknuoft	82	17	ἀνθεστηκότας +9	ἀνθεστηκότας +9	ἀνθεστηκότας	ἀνθεστηκότας	class R3: OCR appended accent-row or margin junk; c read from the image strip

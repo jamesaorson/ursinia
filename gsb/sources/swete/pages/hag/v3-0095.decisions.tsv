@@ -1,0 +1,54 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+hag	oldtestgreek00unknuoft	95	1	dia	"“διὰ	διὰ	διὰ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+hag	oldtestgreek00unknuoft	95	1	ἀπὸ	ἀπὸ +ὃ	ἀπὸ	ἀπὸ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hag	oldtestgreek00unknuoft	95	1	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+hag	oldtestgreek00unknuoft	95	2	∅	ἡ	ἡ	ἡ	class R0: OCR lost the word in extraction; c read from the image strip
+hag	oldtestgreek00unknuoft	95	2	γῆ	γῇ	γῆ	γῆ	image (3x): circumflex, no iota subscript under η
+hag	oldtestgreek00unknuoft	95	2	αὐτῆς"	αὐτῆς"	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hag	oldtestgreek00unknuoft	95	2	“Kal	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+hag	oldtestgreek00unknuoft	95	3	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+hag	oldtestgreek00unknuoft	95	4	ἔλαιον.	ἔλαιον	ἔλαιον	ἔλαιον	class R6 (OCR letters differ): the other OCR reading agrees with c
+hag	oldtestgreek00unknuoft	95	5	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+hag	oldtestgreek00unknuoft	95	5	αὐτῶν. +τς	αὐτῶν. +τ᾽	αὐτῶν.	αὐτῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hag	oldtestgreek00unknuoft	95	6	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on Ι
+hag	oldtestgreek00unknuoft	95	6	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	image (3x): smooth breathing on Ι
+hag	oldtestgreek00unknuoft	95	6	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+hag	oldtestgreek00unknuoft	95	7	Ἰωσεδὲκ	Ἰωσεδὲκ	Ἰωσεδὲκ	Ἰωσεδὲκ	image (3x): smooth breathing on Ι
+hag	oldtestgreek00unknuoft	95	7	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+hag	oldtestgreek00unknuoft	95	8	Ἀγγαίου	Ἀγγαίου	Ἁγγαίου	Ἁγγαίου	image (3x): rough breathing (opening-left comma) on Α
+hag	oldtestgreek00unknuoft	95	9	αὐτὸν	αὐτὸν	αὐτὸν	αὐτὸν	image (3x): grave before capitalized word
+hag	oldtestgreek00unknuoft	95	9	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+hag	oldtestgreek00unknuoft	95	10	“Kal	"Ξκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+hag	oldtestgreek00unknuoft	95	11	Ayyaios	Αγγαῖος	Ἁγγαῖος	Ἁγγαῖος	image (3x): rough breathing (opening-left comma) on Α
+hag	oldtestgreek00unknuoft	95	11	Ἐγώ	Ἐγώ	Ἐγώ	Ἐγώ	image (3x): smooth breathing on Ε, acute on ω before enclitic
+hag	oldtestgreek00unknuoft	95	12	“nat	"““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+hag	oldtestgreek00unknuoft	95	12	Zo-	Ζο-	Ζο-	Ζο-	class R5: Latin-letter substitution in OCR; c read from the image strip
+hag	oldtestgreek00unknuoft	95	13	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on Ι
+hag	oldtestgreek00unknuoft	95	13	Ἰησοῦ	Ἰησοῦ	Ἰησοῦ	Ἰησοῦ	image (3x): smooth breathing on Ι
+hag	oldtestgreek00unknuoft	95	14	Ἰωσεδὲκ	Ἰωσεδὲκ	Ἰωσεδὲκ	Ἰωσεδὲκ	image (3x): smooth breathing on Ι
+hag	oldtestgreek00unknuoft	95	17	ἕκτου	ἔκτου	ἕκτου	ἕκτου	image (3x): rough breathing with acute on ε
+hag	oldtestgreek00unknuoft	95	17	Aapiov	Δαρίου	Δαρίου	Δαρίου	class R5: Latin-letter substitution in OCR; c read from the image strip
+hag	oldtestgreek00unknuoft	95	17	βασιλέως.	βασιλέως. +(ἡ)	βασιλέως.	βασιλέως.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hag	oldtestgreek00unknuoft	95	18	MT	Τῷ	Τῷ	Τῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
+hag	oldtestgreek00unknuoft	95	18	εἰνάδι	εἰνάδι	εἰκάδι	εἰκάδι	image (3x): ambiguous: κ printed broken (looks like r with a dot); read εἰκάδι
+hag	oldtestgreek00unknuoft	95	19	χειρὶ	χειρὶ	χειρὶ	χειρὶ	image (3x): grave before capitalized word
+hag	oldtestgreek00unknuoft	95	19	Ἀγγαίου	Ἀγγαίου	Ἁγγαίου	Ἁγγαίου	image (3x): rough breathing (opening-left comma) on Α
+hag	oldtestgreek00unknuoft	95	19	“Εἰπὸν	“Εἰπὸν	Εἰπὸν	Εἰπὸν	image (3x): smooth breathing on ι, capital Ε; 2 is the verse superscript
+hag	oldtestgreek00unknuoft	95	20	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on Ι
+hag	oldtestgreek00unknuoft	95	20	Ἰησοῦν	Ἰησοῦν	Ἰησοῦν	Ἰησοῦν	image (3x): smooth breathing on Ι
+hag	oldtestgreek00unknuoft	95	20	Ἰωσεδὲκ	Ἰωσεδὲκ	Ἰωσεδὲκ	Ἰωσεδὲκ	image (3x): smooth breathing on Ι
+hag	oldtestgreek00unknuoft	95	22	τίς	1τίς	Τίς	Τίς	image (3x): capital Τ; 3 is the verse superscript
+hag	oldtestgreek00unknuoft	95	22	ep-	ἔμ-	ἔμ-	ἔμ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+hag	oldtestgreek00unknuoft	95	23	viv;	νῦν;	νῦν;	νῦν;	class R5: Latin-letter substitution in OCR; c read from the image strip
+hag	oldtestgreek00unknuoft	95	24	‘xat	“'καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+hag	oldtestgreek00unknuoft	95	24	viv	νῦν	νῦν	νῦν	class R5: Latin-letter substitution in OCR; c read from the image strip
+hag	oldtestgreek00unknuoft	95	25	κατίσχυε,	κατίσχυε, +᾽	κατίσχυε,	κατίσχυε,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hag	oldtestgreek00unknuoft	95	25	Ἰησοῦ	Ἰησοῦ	Ἰησοῦ	Ἰησοῦ	image (3x): smooth breathing on Ι
+hag	oldtestgreek00unknuoft	95	25	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+hag	oldtestgreek00unknuoft	95	25	Ἰωσεδὲκ	Ἰωσεδὲκ	Ἰωσεδὲκ	Ἰωσεδὲκ	image (3x): smooth breathing on Ι
+hag	oldtestgreek00unknuoft	95	26	ποιεῖτε:	ποιεῖτε"	ποιεῖτε·	ποιεῖτε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hag	oldtestgreek00unknuoft	95	26	ἐγώ	ἐγώ	ἐγώ	ἐγώ	image (3x): acute on ἐγώ before enclitic εἰμι
+hag	oldtestgreek00unknuoft	95	26	εἰμι,	εἶμι,	εἰμι,	εἰμι,	image (3x): smooth breathing, no accent on εἰμι
+hag	oldtestgreek00unknuoft	95	27	καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hag	oldtestgreek00unknuoft	95	27	πνεῦμά	πνεῦμά	πνεῦμά	πνεῦμά	image (3x): acute on πνεῦμά before enclitic μου
+hag	oldtestgreek00unknuoft	95	18	-	-	εἰκάδι	εἰκάδι	ambiguous: broken type, κ prints like r with a dot; read εἰκάδι

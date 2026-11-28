@@ -1,0 +1,41 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+mal	oldtestgreek00unknuoft	121	2	eis᾽	εἰς᾽	εἰς	εἰς	image (3x): εἰς; the small raised tick after it is a stray mark at accent height, not punctuation
+mal	oldtestgreek00unknuoft	121	2	λαβεῖν	λαβεῖν +ὃ	λαβεῖν	λαβεῖν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+mal	oldtestgreek00unknuoft	121	3	“Kai	ΨΤΙ +"᾿καὶ	καὶ	καὶ	image (3x): καὶ after superscript 14
+mal	oldtestgreek00unknuoft	121	3	εἴπατε	εἴπατε +ἝἝἭ	εἴπατε	εἴπατε	class R3: OCR appended accent-row or margin junk; c read from the image strip
+mal	oldtestgreek00unknuoft	121	3	Ἔνεκεν	Ἕνεκεν	Ἕνεκεν	Ἕνεκεν	image (3x): rough breathing + acute on Ε (open curl then rising stroke): Ἕνεκεν
+mal	oldtestgreek00unknuoft	121	4	νεύτητός	νεότητός	νεότητός	νεότητός	image (3x): accent before enclitic as printed
+mal	oldtestgreek00unknuoft	121	4	σοῦ,	σοῦ,	σου,	σου,	image (3x): σου unaccented
+mal	oldtestgreek00unknuoft	121	5	ἐνκατέλιπες:	ἐνκατέλιπες"	ἐνκατέλιπες·	ἐνκατέλιπες·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+mal	oldtestgreek00unknuoft	121	5	κοινωνός	κοινωνός	κοινωνός	κοινωνός	image (3x): accent before enclitic as printed
+mal	oldtestgreek00unknuoft	121	5	cov.	σοὺ.	σου.	σου.	image (3x): σου unaccented
+mal	oldtestgreek00unknuoft	121	8	νεότητός	νεότητός	νεότητός	νεότητός	image (3x): accent before enclitic as printed
+mal	oldtestgreek00unknuoft	121	8	ἐνκαταλίπῃς"	ἐνκαταλίπῃς"	ἐνκαταλίπῃς·	ἐνκαταλίπῃς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+mal	oldtestgreek00unknuoft	121	8	“ἀλλὰ	“ἀλλὰ	ἀλλὰ	ἀλλὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+mal	oldtestgreek00unknuoft	121	9	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on Ι
+mal	oldtestgreek00unknuoft	121	10	ἐνθυμήματά	ἐνθυμήματά	ἐνθυμήματά	ἐνθυμήματά	image (3x): accent before enclitic as printed
+mal	oldtestgreek00unknuoft	121	12	"οἱ	"οἱ	οἱ	οἱ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+mal	oldtestgreek00unknuoft	121	12	τὸν	τὸν +θ	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+mal	oldtestgreek00unknuoft	121	12	ὑμῶν"	ὑμῶν"	ὑμῶν·	ὑμῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+mal	oldtestgreek00unknuoft	121	13	Ἔν	Ἔν	Ἐν	Ἐν	image (3x): smooth breathing on Ε, no accent
+mal	oldtestgreek00unknuoft	121	13	τίνι	τίνει	τίνι	τίνι	class R6 (OCR letters differ): the other OCR reading agrees with c
+mal	oldtestgreek00unknuoft	121	13	πονηρόν,	πονὴῤρόν,	πονηρόν,	πονηρόν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+mal	oldtestgreek00unknuoft	121	14	εὐδόκησεν"	εὐδόκησεν"	εὐδόκησεν·	εὐδόκησεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+mal	oldtestgreek00unknuoft	121	14	Tot	ἸΤοῦ	Ποῦ	Ποῦ	image (3x): Π, circumflex: Ποῦ, after acute καί
+mal	oldtestgreek00unknuoft	121	16	ΤἸΤἸδοὺ	᾿δοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on Ι
+mal	oldtestgreek00unknuoft	121	16	ἄγγελόν	ἄγγελόν	ἄγγελόν	ἄγγελόν	image (3x): accent before enclitic as printed
+mal	oldtestgreek00unknuoft	121	18	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+mal	oldtestgreek00unknuoft	121	18	θέλετε:	θέλετε"	θέλετε·	θέλετε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+mal	oldtestgreek00unknuoft	121	19	Κύριος	Κύριος +Π	Κύριος	Κύριος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+mal	oldtestgreek00unknuoft	121	19	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+mal	oldtestgreek00unknuoft	121	21	χωνευτὴρίου	χωνευτηρίου	χωνευτηρίου	χωνευτηρίου	image (3x): χωνευτηρίου, no grave on η
+mal	oldtestgreek00unknuoft	121	22	ϑκαθιεῖται	Ξκαθιεῖται	καθιεῖται	καθιεῖται	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+mal	oldtestgreek00unknuoft	121	23	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave on υἱοὺς before the name Λευεὶ (not a quotation)
+mal	oldtestgreek00unknuoft	121	23	τὸ	τ᾽	τὸ	τὸ	class R6 (OCR letters differ): the other OCR reading agrees with c
+mal	oldtestgreek00unknuoft	121	24	χρυσίον	χρύσιον	χρυσίον	χρυσίον	image (3x): χρυσίον, acute on ι
+mal	oldtestgreek00unknuoft	121	24	καὶ	Καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+mal	oldtestgreek00unknuoft	121	24	ἀργύριον:	αἀργυριίον"	ἀργύριον·	ἀργύριον·	image (3x): ἀργύριον followed by ano teleia
+mal	oldtestgreek00unknuoft	121	24	ἔσονται	εσόονται	ἔσονται	ἔσονται	class R6 (OCR letters differ): the other OCR reading agrees with c
+mal	oldtestgreek00unknuoft	121	24	κυρίῳ	κυριῷ	κυρίῳ	κυρίῳ	image (3x): κυρίῳ, acute on ι
+mal	oldtestgreek00unknuoft	121	24	“προσάγοντες	προσάγοντες	προσάγοντες	προσάγοντες	class R6 (OCR letters differ): the other OCR reading agrees with c
+mal	oldtestgreek00unknuoft	121	2	-	-	εἰς	εἰς	ambiguous: a small raised tick after εἰς (accent height) read as a stray mark/speck, not punctuation

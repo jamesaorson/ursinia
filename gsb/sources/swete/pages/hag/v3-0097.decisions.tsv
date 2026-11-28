@@ -1,0 +1,26 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+hag	oldtestgreek00unknuoft	97	1	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+hag	oldtestgreek00unknuoft	97	2	"ἐπάταξα	"έπάταξα	ἐπάταξα	ἐπάταξα	image (3x): ἐπάταξα; 17 is the verse superscript
+hag	oldtestgreek00unknuoft	97	4	“ὑποτάξατε	“ὑποτάξατε	ὑποτάξατε	ὑποτάξατε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hag	oldtestgreek00unknuoft	97	4	xapdias!	καρδίας +Ἷ	καρδίας	καρδίας	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+hag	oldtestgreek00unknuoft	97	6	ναὸς	ναὸς	ναὸς	ναὸς	image (3x): grave on ναὸς before Κυρίου (a name, not a quotation)
+hag	oldtestgreek00unknuoft	97	6	Κυρίου:	Κυρίου:	Κυρίου·	Κυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hag	oldtestgreek00unknuoft	97	7	"εἰ"	" +εἰ᾽	εἰ	εἰ	image (4x): ambiguous: small light raised dot after εἰ, lighter and smaller than the ano teleia after Κυρίου on the line above; read speck, not punctuation
+hag	oldtestgreek00unknuoft	97	8	καρπόν"	καρπόν"	καρπόν·	καρπόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hag	oldtestgreek00unknuoft	97	10	“Καὶ	“Καὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hag	oldtestgreek00unknuoft	97	10	Ἀγγαῖον	Ἀγγαῖον	Ἁγγαῖον	Ἁγγαῖον	image (3x): rough breathing (opening-left comma) on Α
+hag	oldtestgreek00unknuoft	97	11	“Εἰπὸν	“Ἐἰπὸν	Εἰπὸν	Εἰπὸν	image (3x): smooth breathing on ι, capital Ε; 21 is the verse superscript
+hag	oldtestgreek00unknuoft	97	12	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on Ι
+hag	oldtestgreek00unknuoft	97	12	"Eyo	Ἐγὼ	Ἐγὼ	Ἐγὼ	image (3x): smooth breathing on Ε, grave on ω
+hag	oldtestgreek00unknuoft	97	12	σείω.	σείω.	σείω	σείω	image (3x): no period after σείω (speck)
+hag	oldtestgreek00unknuoft	97	13	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+hag	oldtestgreek00unknuoft	97	13	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hag	oldtestgreek00unknuoft	97	14	ὀλεθρεύσῳ	ὀλεθρεύσω	ὀλεθρεύσω	ὀλεθρεύσω	image (3x): no iota subscript under final ω
+hag	oldtestgreek00unknuoft	97	16	Bara	βάται	βάται	βάται	class R5: Latin-letter substitution in OCR; c read from the image strip
+hag	oldtestgreek00unknuoft	97	16	Bev	“3ἐν	ἐν	ἐν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+hag	oldtestgreek00unknuoft	97	17	λήμψομαί	λήμψομαί	λήμψομαί	λήμψομαί	image (3x): acute on final syllable before enclitic
+hag	oldtestgreek00unknuoft	97	18	δοῦλόν	δοῦλόν	δοῦλόν	δοῦλόν	image (3x): acute on final syllable before enclitic
+hag	oldtestgreek00unknuoft	97	18	θήσομαί	θήσομαί	θήσομαί	θήσομαί	image (3x): acute on final syllable before enclitic
+hag	oldtestgreek00unknuoft	97	18	opa-	σῴφρα-	σφρα-	σφρα-	image (3x): σφρα- with hyphen
+hag	oldtestgreek00unknuoft	97	19	ἡἠρέτισα,	ἡρέτισα,	ᾑρέτισα,	ᾑρέτισα,	image (3x): rough breathing on η with iota subscript, acute on ε
+hag	oldtestgreek00unknuoft	97	7	-	-	εἰ	εἰ	ambiguous: small light raised dot after εἰ, lighter than a real ano teleia; read speck

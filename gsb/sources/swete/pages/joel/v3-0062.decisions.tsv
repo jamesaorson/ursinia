@@ -1,0 +1,30 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+joel	oldtestgreek00unknuoft	62	1	ΛΟΓῸΣ	ΛΟΓῸΣ	ΛΟΓΟΣ	ΛΟΓΟΣ	image (3x): unaccented capitals of the book opening, no accent
+joel	oldtestgreek00unknuoft	62	1	Ἰωὴλ	Ἰωὴλ	Ἰωὴλ	Ἰωὴλ	image (3x): smooth breathing
+joel	oldtestgreek00unknuoft	62	2	Ἀκούσατε	Ἀκούσατε	Ἀκούσατε	Ἀκούσατε	image (3x): smooth breathing
+joel	oldtestgreek00unknuoft	62	2	oi	οἵἱ	οἱ	οἱ	image (3x): οἱ with rough breathing; OCR junk from margin numeral 2
+joel	oldtestgreek00unknuoft	62	4	ϑὑπὲρ	ϑὑπὲρ	ὑπὲρ	ὑπὲρ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+joel	oldtestgreek00unknuoft	62	6	“τὰ	“τὰ	τὰ	τὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+joel	oldtestgreek00unknuoft	62	7	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+joel	oldtestgreek00unknuoft	62	8	Bpovxov	βρούχου	βρούχου	βρούχου	class R5: Latin-letter substitution in OCR; c read from the image strip
+joel	oldtestgreek00unknuoft	62	8	ἐρυσίβη. +5	ἐρυσίβη.	ἐρυσίβη.	ἐρυσίβη.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+joel	oldtestgreek00unknuoft	62	8	Ἐκνήψατε,	5 +Ἔκνήψατε,	Ἐκνήψατε,	Ἐκνήψατε,	image (3x): smooth breathing
+joel	oldtestgreek00unknuoft	62	9	κλαύσατε:	κλαύσατε:	κλαύσατε·	κλαύσατε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+joel	oldtestgreek00unknuoft	62	11	“ὅτι	“ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+joel	oldtestgreek00unknuoft	62	12	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+joel	oldtestgreek00unknuoft	62	12	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+joel	oldtestgreek00unknuoft	62	12	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+joel	oldtestgreek00unknuoft	62	13	σκύμνου:	σκύμνου:	σκύμνου·	σκύμνου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+joel	oldtestgreek00unknuoft	62	13	7éero	Τἔθετο	ἔθετο	ἔθετο	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+joel	oldtestgreek00unknuoft	62	13	ἄμπελόν	ἄμπελόν	ἄμπελόν	ἄμπελόν	image (3x): acute before enclitic μου
+joel	oldtestgreek00unknuoft	62	13	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+joel	oldtestgreek00unknuoft	62	13	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+joel	oldtestgreek00unknuoft	62	14	συνκλασμόν:	συνκλασμόν:	συνκλασμόν·	συνκλασμόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+joel	oldtestgreek00unknuoft	62	15	ὥθρήνησον	“θρήνησον	θρήνησον	θρήνησον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+joel	oldtestgreek00unknuoft	62	16	παρθενικόν. +9	παρθενικόν. +9	παρθενικόν.	παρθενικόν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+joel	oldtestgreek00unknuoft	62	17	Κυρίου:	Κυρίου:	Κυρίου·	Κυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+joel	oldtestgreek00unknuoft	62	17	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+joel	oldtestgreek00unknuoft	62	18	“ὅτι	“ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+joel	oldtestgreek00unknuoft	62	18	γῆ"	γῆ"	γῆ·	γῆ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+joel	oldtestgreek00unknuoft	62	19	ἔλαιον,	ἔλαιον, +""	ἔλαιον,	ἔλαιον,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+joel	oldtestgreek00unknuoft	62	19	""ἐξηράν-	ἐξηράν-	ἐξηράν-	ἐξηράν-	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip

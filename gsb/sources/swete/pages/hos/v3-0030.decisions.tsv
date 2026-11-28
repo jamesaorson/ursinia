@@ -1,0 +1,78 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+hos	oldtestgreek00unknuoft	30	1	αὐτῶν"	ἀπ᾽	ἀπ᾽	ἀπ᾽	class R6 (OCR letters differ): the other OCR reading agrees with c
+hos	oldtestgreek00unknuoft	30	1	∅	αὐτῶν"	αὐτῶν·	αὐτῶν·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hos	oldtestgreek00unknuoft	30	1	ἀλλότρια	ἀλλόξρια	ἀλλότρια	ἀλλότρια	class R6 (OCR letters differ): the other OCR reading agrees with c
+hos	oldtestgreek00unknuoft	30	1	ἐγεννή- +7	ἐγεννή- +7	ἐγεννή-	ἐγεννή-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	30	2	αὐτοῖς"	αὐτοῖς"	αὐτοῖς·	αὐτοῖς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hos	oldtestgreek00unknuoft	30	3	SSadricare	ὅΣαλπίσατε	αὐτῶν.	αὐτῶν.	image (3x): page reading confirmed (OCR merged lines, margin number, speck or misread letter)
+hos	oldtestgreek00unknuoft	30	4	∅	∅	Σαλπίσατε	Σαλπίσατε	image (3x): page reading confirmed (OCR merged lines, margin number, speck or misread letter)
+hos	oldtestgreek00unknuoft	30	4	ὑψὴη- +8	ὑψὴη- +8	ὑψη-	ὑψη-	image (3x): page reading confirmed (OCR merged lines, margin number, speck or misread letter)
+hos	oldtestgreek00unknuoft	30	5	λῶν,	λῶν, +ν	λῶν,	λῶν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	30	5	"Qv,	ΕΣ +ἴῶν,	Ὤν,	Ὤν,	image (3x): smooth + acute (”-shape) on capital Ω, as in Hos 4:15
+hos	oldtestgreek00unknuoft	30	5	Βενιαμείν,	Βενιαμείν,	Βενιαμείν,	Βενιαμείν,	image (3x): acute before comma
+hos	oldtestgreek00unknuoft	30	5	5 +Ἐφράιμ᾽	5 +Ἔφράιμ᾽	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing
+hos	oldtestgreek00unknuoft	30	5	εἰς +o	εἰς +ο	εἰς	εἰς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	30	6	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+hos	oldtestgreek00unknuoft	30	7	πιστά:	πιστά:	πιστά·	πιστά·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hos	oldtestgreek00unknuoft	30	7	“ἐγένοντο	“ἐγένοντο	ἐγένοντο	ἐγένοντο	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hos	oldtestgreek00unknuoft	30	7	“lovda	Ιούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing
+hos	oldtestgreek00unknuoft	30	7	ὅρια, +το	ὅρια, +το	ὅρια,	ὅρια,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	30	8	ὅρμημά	ὅρμημά	ὅρμημά	ὅρμημά	image (3x): acute before enclitic
+hos	oldtestgreek00unknuoft	30	8	"᾿κατεδυνάστευσεν	"᾿κατεδυνάστευσεν	κατεδυνάστευσεν	κατεδυνάστευσεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hos	oldtestgreek00unknuoft	30	9	τι +Ἐφράιμ.	τι +Ἐφράιμ.	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing
+hos	oldtestgreek00unknuoft	30	10	p +αι	πορεύεσθαι	πορεύεσθαι	πορεύεσθαι	class R5: Latin-letter substitution in OCR; c read from the image strip
+hos	oldtestgreek00unknuoft	30	10	“Kai	"““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+hos	oldtestgreek00unknuoft	30	10	Ἐ̓φράιμ, +x2	Ἐφῥάϊμ; +τ	Ἐφράιμ,	Ἐφράιμ,	image (3x): smooth breathing
+hos	oldtestgreek00unknuoft	30	11	Ἰούδα.	Ἰούδα.	Ἰούδα.	Ἰούδα.	image (3x): smooth breathing
+hos	oldtestgreek00unknuoft	30	11	"3καὶ	"3καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hos	oldtestgreek00unknuoft	30	11	Ἔφράιμ	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing
+hos	oldtestgreek00unknuoft	30	11	αὐτοῦ; +13	αὐτοῦ; +13	αὐτοῦ,	αὐτοῦ,	image (3x): page reading confirmed (OCR merged lines, margin number, speck or misread letter)
+hos	oldtestgreek00unknuoft	30	12	“lovdas	Ἰούδας	Ἰούδας	Ἰούδας	image (3x): smooth breathing
+hos	oldtestgreek00unknuoft	30	12	αὐτοῦ:	αὐτοῦ"	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hos	oldtestgreek00unknuoft	30	12	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing
+hos	oldtestgreek00unknuoft	30	12	πρὸς	πρὸν	πρὸς	πρὸς	class R6 (OCR letters differ): the other OCR reading agrees with c
+hos	oldtestgreek00unknuoft	30	12	Ἀσσυρίους	Ἀσσυρίους	Ἀσσυρίους	Ἀσσυρίους	image (3x): smooth breathing
+hos	oldtestgreek00unknuoft	30	13	Ἰαρείμ"	Ἰαρείμ᾽	Ἰαρείμ·	Ἰαρείμ·	image (3x): smooth breathing
+hos	oldtestgreek00unknuoft	30	13	ἢδυ-	ἢδυ-	ἠδυ-	ἠδυ-	image (8x): smooth breathing only, no accent
+hos	oldtestgreek00unknuoft	30	14	ὀδύνη. +"“	ὀδύνη. +"“	ὀδύνη.	ὀδύνη.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	30	14	ἐγώ +14	ἐγώ +τΆ	ἐγώ	ἐγώ	image (3x): acute before enclitic
+hos	oldtestgreek00unknuoft	30	15	Edpdip,	ἙἘφράιμ,	Ἐφράιμ,	Ἐφράιμ,	image (3x): smooth breathing
+hos	oldtestgreek00unknuoft	30	15	κἀὶ	κἀὶ	καὶ	καὶ	image (3x): page reading confirmed (OCR merged lines, margin number, speck or misread letter)
+hos	oldtestgreek00unknuoft	30	15	Ἰ̓ούδα:	Ἰ̓ούδα-	Ἰούδα·	Ἰούδα·	image (3x): smooth breathing
+hos	oldtestgreek00unknuoft	30	17	πορεύσομαι	᾿δπορεύσομαι	πορεύσομαι	πορεύσομαι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hos	oldtestgreek00unknuoft	30	17	ἀφανισθῶσιν +τς	ἀφανισθῶσιν +τ5	ἀφανισθῶσιν	ἀφανισθῶσιν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	30	18	ζητήδουσιν	ζητήδουσιν	ζητήσουσιν	ζητήσουσιν	image (3x): page reading confirmed (OCR merged lines, margin number, speck or misread letter)
+hos	oldtestgreek00unknuoft	30	18	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): acute before enclitic
+hos	oldtestgreek00unknuoft	30	19	VEv	"Ἐν	Ἐν	Ἐν	image (3x): smooth breathing
+hos	oldtestgreek00unknuoft	30	19	καὶ +x	καὶ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	30	20	ἐπιστρέψωμεν	τ +πιστρέψωμεν	ἐπιστρέψωμεν	ἐπιστρέψωμεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+hos	oldtestgreek00unknuoft	30	21	"ὑγιάσει	"ὑγιάσει	ὑγιάσει	ὑγιάσει	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hos	oldtestgreek00unknuoft	30	21	dvo	δύο	δύο	δύο	class R5: Latin-letter substitution in OCR; c read from the image strip
+hos	oldtestgreek00unknuoft	30	22	2 +ἡμέρας"	2 +ἡμέρας:	ἡμέρας·	ἡμέρας·	image (3x): page reading confirmed (OCR merged lines, margin number, speck or misread letter)
+hos	oldtestgreek00unknuoft	30	23	Ξκαὶ	Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hos	oldtestgreek00unknuoft	30	23	γνωσόμεθα"	γνωσόμεθα"	γνωσόμεθα·	γνωσόμεθα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hos	oldtestgreek00unknuoft	30	23	ὄρθρον	ὄρθρον +3	ὄρθρον	ὄρθρον	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	30	25	γῇ.	γῆ. +4	γῇ.	γῇ.	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+hos	oldtestgreek00unknuoft	30	25	‘Ti	Τί	Τί	Τί	image (3x): acute before enclitic
+hos	oldtestgreek00unknuoft	30	25	Edpap;	ΕΣ +ἜἬὌἬἭ Φφράιμ;	Ἐφράιμ;	Ἐφράιμ;	image (3x): smooth breathing
+hos	oldtestgreek00unknuoft	30	25	τί	τί	τί	τί	image (3x): acute before enclitic
+hos	oldtestgreek00unknuoft	30	25	Ἰούδα;	ΕΣ +Ἰ̓Ιούδα;	Ἰούδα;	Ἰούδα;	image (3x): smooth breathing
+hos	oldtestgreek00unknuoft	30	25	δὲ +4	δὲ +4	δὲ	δὲ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	30	26	πρωινὴ	τρωνὴ	πρωινὴ	πρωινὴ	class R6 (OCR letters differ): the other OCR reading agrees with c
+hos	oldtestgreek00unknuoft	30	26	δρόσος	δρόσον	δρόσος	δρόσος	class R6 (OCR letters differ): the other OCR reading agrees with c
+hos	oldtestgreek00unknuoft	30	26	ὀρθρινὴ	ὀρθῥινὴ	ὀρθρινὴ	ὀρθρινὴ	image (3x): page reading confirmed (OCR merged lines, margin number, speck or misread letter)
+hos	oldtestgreek00unknuoft	30	26	πορευομένη.	πορευομένη:	πορευομένη.	πορευομένη.	class R6 (OCR letters differ): the other OCR reading agrees with c
+hos	oldtestgreek00unknuoft	30	27	58:4	5διὰ	διὰ	διὰ	image (3x): page reading confirmed (OCR merged lines, margin number, speck or misread letter)
+hos	oldtestgreek00unknuoft	30	27	ὑμῶν,	ὑμῶν;	ὑμῶν,	ὑμῶν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+hos	oldtestgreek00unknuoft	30	27	ἐν +5	ἐν +ς	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	30	28	στόματός	στόματός	στόματός	στόματός	image (3x): acute before enclitic
+hos	oldtestgreek00unknuoft	30	28	“διότι +6	ὁδιότι +6	διότι	διότι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hos	oldtestgreek00unknuoft	30	29	ὁλοκαυτώματα. +| 7	ὁλοκαυτώματα.	ὁλοκαυτώματα.	ὁλοκαυτώματα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	30	29	αὐτοὶ +7	αὐτοὶ +7	αὐτοὶ	αὐτοὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	30	30	δέ	δέ	δέ	δέ	image (3x): acute before enclitic
+hos	oldtestgreek00unknuoft	30	30	διαθήκην:	διαθήκην:	διαθήκην·	διαθήκην·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hos	oldtestgreek00unknuoft	30	30	κατεφρόνησέν	κατεφρόνησέν	κατεφρόνησέν	κατεφρόνησέν	image (3x): acute before enclitic
+hos	oldtestgreek00unknuoft	30	31	“Γαλαάδ,	“Γαλαάδ,	Γαλαάδ,	Γαλαάδ,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hos	oldtestgreek00unknuoft	30	31	ὕδωρ, +5	ὕδωρ, +5	ὕδωρ,	ὕδωρ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	30	31	ἰσχύς +5	ἰσχύς +᾿	ἰσχύς	ἰσχύς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	30	29	-	-	ἢ	ἢ	ambiguous: breathing+grave on both ἢ of this line is a solid blob with a rising stroke, matching ἢ (τότε ἢ νῦν, leaf 26) and not the open ring of relative ἣ (leaf 26 line 2); read smooth + grave

@@ -1,0 +1,81 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+hos	oldtestgreek00unknuoft	34	1	ἐστιν,	ἐστίν,	ἐστιν,	ἐστιν,	image (3x): ἐστιν without accent
+hos	oldtestgreek00unknuoft	34	1	σάρξ	σάρξ	σάρξ	σάρξ	image (3x): acute before enclitic as printed
+hos	oldtestgreek00unknuoft	34	1	αὐτῶν. +"5	αὐτῶν. +"5	αὐτῶν.	αὐτῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	34	1	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing on the capital
+hos	oldtestgreek00unknuoft	34	1	παρέστη- +13	παρέστη- +13	παρέστη-	παρέστη-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	34	2	αὐτῶν.	αὐτῶν.	αὐτῶν,	αὐτῶν,	image (3x): comma, not period
+hos	oldtestgreek00unknuoft	34	2	Ἐφράιμ	Ἐ̓́φράιμ	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing on the capital
+hos	oldtestgreek00unknuoft	34	3	“dds	"᾿δὸς	δὸς	δὸς	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+hos	oldtestgreek00unknuoft	34	3	Κύριε:	Κύριε:	Κύριε·	Κύριε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hos	oldtestgreek00unknuoft	34	3	ἀτεκνοῦ- +14	ἀτεκνοῦ- +τὰ	ἀτεκνοῦ-	ἀτεκνοῦ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	34	4	"πᾶσαι	"πᾶσαι	πᾶσαι	πᾶσαι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hos	oldtestgreek00unknuoft	34	4	αὑτῶν	αὑτῶν	αὐτῶν	αὐτῶν	ambiguous: image (3x): a brown stain covers the breathing on α; the mark under it reads as smooth; read αὐτῶν
+hos	oldtestgreek00unknuoft	34	4	Ταλγάλ,	Ταλγάλ,	Γαλγάλ,	Γαλγάλ,	image (3x): Γ, not Τ
+hos	oldtestgreek00unknuoft	34	4	ὅτι +15	ὅτι +τς	ὅτι	ὅτι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	34	5	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hos	oldtestgreek00unknuoft	34	6	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+hos	oldtestgreek00unknuoft	34	6	Tov	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+hos	oldtestgreek00unknuoft	34	6	αὐτούς"	αὐτούς"	αὐτούς·	αὐτούς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hos	oldtestgreek00unknuoft	34	7	““ἐπόνεσεν	"““ἐπόνεσεν	ἐπόνεσεν	ἐπόνεσεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hos	oldtestgreek00unknuoft	34	7	Ἐ̓φράιμ:	Ἐφράιμ:	Ἐφράιμ·	Ἐφράιμ·	image (3x): smooth breathing on the capital
+hos	oldtestgreek00unknuoft	34	7	ras	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+hos	oldtestgreek00unknuoft	34	8	16 +ῥίζας.	τό +ῥίζας.	ῥίζας	ῥίζας	image (3x): ῥίζας, rough breathing on ρ; OCR took margin numeral
+hos	oldtestgreek00unknuoft	34	8	ἐνέγκῃ"	ἐνέγκῃ" +Β ὃ	ἐνέγκῃ·	ἐνέγκῃ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hos	oldtestgreek00unknuoft	34	9	"ἀπώσεται +17	"ἀπώσεται +17	ἀπώσεται	ἀπώσεται	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hos	oldtestgreek00unknuoft	34	12	“Apmedos	λμπελος	Ἄμπελος	Ἄμπελος	image (3x): smooth + acute (apostrophe then rising stroke) on Α
+hos	oldtestgreek00unknuoft	34	12	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on the capital
+hos	oldtestgreek00unknuoft	34	12	αὐτῆς"	αὐτῆς"	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hos	oldtestgreek00unknuoft	34	12	κατὰ +x	κατὰ	κατὰ	κατὰ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	34	14	ὠκοδόμησεν	ὠκοδόμησεν	ᾠκοδόμησεν	ᾠκοδόμησεν	image (3x): ω with smooth breathing and iota subscript (ᾠ)
+hos	oldtestgreek00unknuoft	34	14	στήλας:	στήλας:	στήλας.	στήλας.	image (3x): period on the baseline
+hos	oldtestgreek00unknuoft	34	14	“ἐμέρισαν	"ἐμέρισαν	ἐμέρισαν	ἐμέρισαν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hos	oldtestgreek00unknuoft	34	14	αὐτῶν,	αὐτῶν, +2	αὐτῶν,	αὐτῶν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	34	15	ἀφανισθήσονται"	ἀφανισθήσονται"	ἀφανισθήσονται·	ἀφανισθήσονται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hos	oldtestgreek00unknuoft	34	15	αὐτὸς +"	αὐτὸς	αὐτὸς	αὐτὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	34	15	κατασκάψει	"κατασκάψει	κατασκάψει	κατασκάψει	class R6 (OCR letters differ): the other OCR reading agrees with c
+hos	oldtestgreek00unknuoft	34	16	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+hos	oldtestgreek00unknuoft	34	16	53διότι	3διότι	διότι	διότι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hos	oldtestgreek00unknuoft	34	16	viv	νῦν	νῦν	νῦν	class R5: Latin-letter substitution in OCR; c read from the image strip
+hos	oldtestgreek00unknuoft	34	16	Οὐκ	Οὐκ	Οὐκ	Οὐκ	image (3x): smooth breathing on the capital
+hos	oldtestgreek00unknuoft	34	16	βασιλεὺς	βασιλεὺς +3	βασιλεὺς	βασιλεὺς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	34	18	λαλῶν	“λαλῶν	λαλῶν	λαλῶν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hos	oldtestgreek00unknuoft	34	18	ψευδεῖς;	Ψευδεῖς;	ψευδεῖς;	ψευδεῖς;	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+hos	oldtestgreek00unknuoft	34	18	διαθήκην,	διαθήκην, +4	διαθήκην,	διαθήκην,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	34	19	τοῦ	τοῦ +-	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	34	20	Qy	"ν	Ὣν	Ὣν	ambiguous: image (10x): one compact closed mark before Ω like the rough+grave on ὃν in line 1; read Ὣν (rough + grave)
+hos	oldtestgreek00unknuoft	34	21	αὐτόν:	αὐτόν:	αὐτόν·	αὐτόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hos	oldtestgreek00unknuoft	34	22	αὐτοῦ.	αὐτοῦ. +“	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	34	22	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+hos	oldtestgreek00unknuoft	34	22	Ἀσσυρίους	Ἀσσυρίους +6	Ἀσσυρίους	Ἀσσυρίους	image (3x): smooth breathing on the capital
+hos	oldtestgreek00unknuoft	34	23	“lapeip:	᾿αρείμ:	Ἰαρείμ·	Ἰαρείμ·	image (3x): smooth breathing on the capital
+hos	oldtestgreek00unknuoft	34	23	Ἐ̓́φράιμ	᾽Ἐ̓́φράιμ	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing on the capital
+hos	oldtestgreek00unknuoft	34	24	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+hos	oldtestgreek00unknuoft	34	24	7améppuev	Τἀπέρριψεν	ἀπέρριψεν	ἀπέρριψεν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+hos	oldtestgreek00unknuoft	34	25	ὕδατος:	ὕδατος" +ὃ	ὕδατος·	ὕδατος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hos	oldtestgreek00unknuoft	34	25	ὃ	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+hos	oldtestgreek00unknuoft	34	26	∅	ἐξαρθήσονται	ἐξαρθήσονται	ἐξαρθήσονται	class R0: OCR lost the word in extraction; c read from the image strip
+hos	oldtestgreek00unknuoft	34	26	∅	βωμοὶ	βωμοὶ	βωμοὶ	image (8x): grave on βωμοὶ before Ὤν (a name, not a quotation)
+hos	oldtestgreek00unknuoft	34	26	∅	Ὧν,	Ὤν,	Ὤν,	image (8x): apostrophe then rising stroke, smooth + acute: Ὤν
+hos	oldtestgreek00unknuoft	34	26	∅	ἁμαρτήματα	ἁμαρτήματα	ἁμαρτήματα	class R0: OCR lost the word in extraction; c read from the image strip
+hos	oldtestgreek00unknuoft	34	26	∅	τοῦ	τοῦ	τοῦ	class R0: OCR lost the word in extraction; c read from the image strip
+hos	oldtestgreek00unknuoft	34	26	∅	Ἰσραήλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing on the capital
+hos	oldtestgreek00unknuoft	34	26	∅	ἄκανθαι	ἄκανθαι	ἄκανθαι	class R0: OCR lost the word in extraction; c read from the image strip
+hos	oldtestgreek00unknuoft	34	26	iy	τρίβολοι	τρίβολοι	τρίβολοι	class R5: Latin-letter substitution in OCR; c read from the image strip
+hos	oldtestgreek00unknuoft	34	27	ἥσονται	ἀναβήσονται	ἀναβήσονται	ἀναβήσονται	class R6 (OCR letters differ): the other OCR reading agrees with c
+hos	oldtestgreek00unknuoft	34	27	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hos	oldtestgreek00unknuoft	34	28	∅	Καλύψατε	Καλύψατε	Καλύψατε	class R0: OCR lost the word in extraction; c read from the image strip
+hos	oldtestgreek00unknuoft	34	28	∅	ἡμᾶς,	ἡμᾶς,	ἡμᾶς,	class R0: OCR lost the word in extraction; c read from the image strip
+hos	oldtestgreek00unknuoft	34	28	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+hos	oldtestgreek00unknuoft	34	28	∅	τοῖς	τοῖς	τοῖς	class R0: OCR lost the word in extraction; c read from the image strip
+hos	oldtestgreek00unknuoft	34	28	∅	βουνοῖς	βουνοῖς	βουνοῖς	class R0: OCR lost the word in extraction; c read from the image strip
+hos	oldtestgreek00unknuoft	34	28	∅	ἸΠέσατε	Πέσατε	Πέσατε	image (3x): Πέσατε, capitalized quotation; no extra letter
+hos	oldtestgreek00unknuoft	34	28	∅	ἐφ᾽	ἐφ᾽	ἐφ᾽	class R0: OCR lost the word in extraction; c read from the image strip
+hos	oldtestgreek00unknuoft	34	28	∅	ἡμᾶς.	ἡμᾶς.	ἡμᾶς.	class R0: OCR lost the word in extraction; c read from the image strip
+hos	oldtestgreek00unknuoft	34	28	∅	ἀφ᾽	ἀφ᾽	ἀφ᾽	class R0: OCR lost the word in extraction; c read from the image strip
+hos	oldtestgreek00unknuoft	34	28	∅	οὗ	οὗ	οὗ	class R0: OCR lost the word in extraction; c read from the image strip
+hos	oldtestgreek00unknuoft	34	28	∅	οἱ +ο	οἱ	οἱ	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	34	29	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on the capital
+hos	oldtestgreek00unknuoft	34	29	ἔστησαν"	ἔστησαν".	ἔστησαν·	ἔστησαν·	image (4x): raised point, ano teleia
+hos	oldtestgreek00unknuoft	34	15	-	-	κατασκάψει	κατασκάψει	image (3x): superscript § printed in the text before the word (Γ resumes; margin § Γ); kept
+hos	oldtestgreek00unknuoft	34	29	-	-	αὐτοὺς	αὐτοὺς	image (4x): superscript ¶ printed in the text after αὐτοὺς (Γ stops; margin ¶ Γ); kept

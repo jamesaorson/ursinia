@@ -1,0 +1,17 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+obad	oldtestgreek00unknuoft	71	1	Haat,	Ἢσαύ,	Ἠσαύ,	Ἠσαύ,	image (3x): smooth breathing alone on Η, acute on υ; comma
+obad	oldtestgreek00unknuoft	71	1	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+obad	oldtestgreek00unknuoft	71	1	ἀλλοφύλους"	ἀλλοφύλους"	ἀλλοφύλους·	ἀλλοφύλους·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+obad	oldtestgreek00unknuoft	71	2	“Edpdip	Ἔφράιμ	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing (apostrophe shape) on the capital
+obad	oldtestgreek00unknuoft	71	3	Ταλααδεῖτιν.	Ταλααδεῖτιν. +““	Γαλααδεῖτιν.	Γαλααδεῖτιν.	image (3x): Γ, not Τ; period
+obad	oldtestgreek00unknuoft	71	3	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+obad	oldtestgreek00unknuoft	71	4	αὕτη"	αὕτη"	αὕτη·	αὕτη·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+obad	oldtestgreek00unknuoft	71	4	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe shape) on the capital
+obad	oldtestgreek00unknuoft	71	4	yj	γῆ	γῆ	γῆ	class R5: Latin-letter substitution in OCR; c read from the image strip
+obad	oldtestgreek00unknuoft	71	4	ἣ	ἢ	ἡ	ἡ	image (4x): rough breathing alone on η, no accent
+obad	oldtestgreek00unknuoft	71	5	᾿ερουσαλὴμ	᾿ερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing (apostrophe shape) on the capital
+obad	oldtestgreek00unknuoft	71	5	Ἐράθα:	᾿φράθα:	Ἐφράθα·	Ἐφράθα·	image (3x): smooth breathing on Ε, φ present; ano teleia
+obad	oldtestgreek00unknuoft	71	6	TOU	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+obad	oldtestgreek00unknuoft	71	6	NdyeB.	Νάγεβ.	Νάγεβ.	Νάγεβ.	class R5: Latin-letter substitution in OCR; c read from the image strip
+obad	oldtestgreek00unknuoft	71	6	“kal	“᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+obad	oldtestgreek00unknuoft	71	7	Ἢσαύ,	Ἢσαύ,	Ἠσαύ,	Ἠσαύ,	image (3x): smooth breathing alone on Η, acute on υ; comma

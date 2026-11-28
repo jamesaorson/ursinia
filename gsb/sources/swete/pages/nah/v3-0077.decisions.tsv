@@ -1,0 +1,31 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+nah	oldtestgreek00unknuoft	77	1	*@eds	ΛΗ͂ΜΜΑ	ΛΗΜΜΑ	ΛΗΜΜΑ	image (3x): unaccented capitals ΛΗΜΜΑ, book opening
+nah	oldtestgreek00unknuoft	77	1	∅	Νινενή,	Νινευή,	Νινευή,	image (3x): Νινευή, υ not ν
+nah	oldtestgreek00unknuoft	77	1	∅	βιβλίον	βιβλίον	βιβλίον	class R0: OCR lost the word in extraction; c read from the image strip
+nah	oldtestgreek00unknuoft	77	1	∅	ὁράσεως	ὁράσεως	ὁράσεως	class R0: OCR lost the word in extraction; c read from the image strip
+nah	oldtestgreek00unknuoft	77	1	∅	Ναοὺμ	Ναοὺμ	Ναοὺμ	class R0: OCR lost the word in extraction; c read from the image strip
+nah	oldtestgreek00unknuoft	77	1	∅	τοῦ	τοῦ	τοῦ	class R0: OCR lost the word in extraction; c read from the image strip
+nah	oldtestgreek00unknuoft	77	1	∅	Ἐλκεσαίου. +᾿	Ἐλκεσαίου.	Ἐλκεσαίου.	image (3x): smooth breathing (apostrophe shape) on Ε
+nah	oldtestgreek00unknuoft	77	2	∅	Θεὸς	Θεὸς	Θεὸς	class R0: OCR lost the word in extraction; c read from the image strip
+nah	oldtestgreek00unknuoft	77	2	pera	μετὰ	μετὰ	μετὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+nah	oldtestgreek00unknuoft	77	4	αὑτοῦ,	αὑτοῦ,	αὐτοῦ,	αὐτοῦ,	image (3x): smooth breathing on υ
+nah	oldtestgreek00unknuoft	77	4	ἀθῷῳ-	ἀθῳ-	ἀθῳ-	ἀθῳ-	class R6 (OCR letters differ): the other OCR reading agrees with c
+nah	oldtestgreek00unknuoft	77	5	éoe	ὥσει	ώσει	ώσει	image (3x): second half of ἀθῳ-ώσει, acute only, no breathing
+nah	oldtestgreek00unknuoft	77	5	Κύριος:	Κύριος"	Κύριος·	Κύριος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+nah	oldtestgreek00unknuoft	77	6	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+nah	oldtestgreek00unknuoft	77	6	“ἀπειλῶν	“ἀπειλῶν	ἀπειλῶν	ἀπειλῶν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+nah	oldtestgreek00unknuoft	77	7	Bacaviris	Βασανῖτις	Βασανῖτις	Βασανῖτις	class R5: Latin-letter substitution in OCR; c read from the image strip
+nah	oldtestgreek00unknuoft	77	8	ἐξέλιπεν:	ἐξέλιπεν:	ἐξέλιπεν·	ἐξέλιπεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+nah	oldtestgreek00unknuoft	77	8	Sra	στὰ	τὰ	τὰ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+nah	oldtestgreek00unknuoft	77	9	of	οὗ	οἱ	οἱ	image (3x): οἱ with rough breathing
+nah	oldtestgreek00unknuoft	77	9	ἐσαλεύθησαν"	ἐσαλεύθησαν":	ἐσαλεύθησαν·	ἐσαλεύθησαν·	image (3x): ano teleia
+nah	oldtestgreek00unknuoft	77	9	ἀνεστάλη.	ἀνεστάλη.	ἀνεστάλη	ἀνεστάλη	image (3x): no point after ἀνεστάλη
+nah	oldtestgreek00unknuoft	77	11	αὐτῇ. +©	αὑτῃ.	αὐτῇ.	αὐτῇ.	image (3x): smooth breathing on υ
+nah	oldtestgreek00unknuoft	77	13	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+nah	oldtestgreek00unknuoft	77	13	Τχρηστὸς	χρηστὸς	χρηστὸς	χρηστὸς	image (3x): verse number 7 superscript, not text; grave before Κύριος (not a quotation)
+nah	oldtestgreek00unknuoft	77	14	θλίψεως,	θλίψεως;	θλίψεως,	θλίψεως,	class R6 (OCR letters differ): the other OCR reading agrees with c
+nah	oldtestgreek00unknuoft	77	15	ποιήσεται,	ποιήσεται;	ποιήσεται,	ποιήσεται,	class R6 (OCR letters differ): the other OCR reading agrees with c
+nah	oldtestgreek00unknuoft	77	16	-καὶ	-καὶ	καὶ	καὶ	image (3x): speck before καὶ, not a hyphen
+nah	oldtestgreek00unknuoft	77	18	θλίψει"	θλίψει"	θλίψει·	θλίψει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+nah	oldtestgreek00unknuoft	77	18	"ὅτι	"ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+nah	oldtestgreek00unknuoft	77	19	“eK	“ἐκ	ἐκ	ἐκ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip

@@ -1,0 +1,90 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+zeph	oldtestgreek00unknuoft	89	1	αὐτοῦ.	αὐτοῦ. +ὃ	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	1	*Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	1	ἐν.	ἐν.	ἐν	ἐν	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	1	Κυρίου.	Κυρίου	Κυρίου	Κυρίου	class R6 (OCR letters differ): the other OCR reading agrees with c
+zeph	oldtestgreek00unknuoft	89	1	ἐκδικήσω +B	ἐκδικήσω	ἐκδικήσω	ἐκδικήσω	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	2	ἐπὶ +ἡ	ἐπὶ	ἐπὶ	ἐπὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	2	οἶκον	οἶκον.	οἶκον	οἶκον	class R6 (OCR letters differ): the other OCR reading agrees with c
+zeph	oldtestgreek00unknuoft	89	2	“ἐπὶ	“ἐπὶ	ἐπὶ	ἐπὶ	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	3	ἀλλότρια" +9	ἀλλότρια"	ἀλλότρια·	ἀλλότρια·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	3	καὶ	9καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	4	πρόπυλα.	πρόπυλα.	πρόπυλα	πρόπυλα	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	4	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	4	ἡμέρᾳ;	ἡμέρᾳ;:	ἡμέρᾳ,	ἡμέρᾳ,	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	5	θεοῦ	θεοῦ.	θεοῦ	θεοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+zeph	oldtestgreek00unknuoft	89	5	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	6	έγει.	λέγει.	λέγει	λέγει	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	6	ἀπὸ	ἀπὸ:	ἀπὸ	ἀπὸ	class R6 (OCR letters differ): the other OCR reading agrees with c
+zeph	oldtestgreek00unknuoft	89	6	ὁλο-	ὁὰλο-	ὀλο-	ὀλο-	TODO zoom: A DIA, B OPEN
+zeph	oldtestgreek00unknuoft	89	7	δευτέρας,	δευτέρας,.	δευτέρας,	δευτέρας,	class R6 (OCR letters differ): the other OCR reading agrees with c
+zeph	oldtestgreek00unknuoft	89	8	᾿᾿θρηνήσατε,	᾿᾿θρηνήσατε,	θρηνήσατε,	θρηνήσατε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	9	λαὸς	λαὸς	λαὸς	λαὸς	TODO zoom: acute or grave before a capitalized word
+zeph	oldtestgreek00unknuoft	89	9	» +ἐξωλεθρεύθησαν.	» +ἐξωλεθρεύθησαν.	ἐξωλεθρεύθησαν	ἐξωλεθρεύθησαν	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	9	ἀργυρίῳ: +."	ἀργυρίῳ: +.""	ἀργυρίῳ.	ἀργυρίῳ.	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	10	Ἰερουσαλὴμ᾽	Ἰερουσαλὴμ᾽	Ἰερουσαλὴμ	Ἰερουσαλὴμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	11	ἄνδρας	ἄνδρας.	ἄνδρας	ἄνδρας	class R6 (OCR letters differ): the other OCR reading agrees with c
+zeph	oldtestgreek00unknuoft	89	12	∅	λάγματα	λάγματα	λάγματα	class R0: OCR lost the word in extraction; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	12	∅	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	12	∅	οἱ	οἱ	οἱ	class R0: OCR lost the word in extraction; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	12	∅	δὲ	δὲ	δὲ	class R0: OCR lost the word in extraction; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	12	∅	χέγόντες	λέγοντες	λέγοντες	TODO zoom: A R0, B OPEN
+zeph	oldtestgreek00unknuoft	89	12	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	12	∅	ταῖς.	ταῖς	ταῖς	TODO zoom: A R0, B OPEN
+zeph	oldtestgreek00unknuoft	89	12	∅	καρδίαις"	καρδίαις	καρδίαις	TODO zoom: A R0, B OPEN
+zeph	oldtestgreek00unknuoft	89	12	∅	αὐτῶν	αὐτῶν	αὐτῶν	class R0: OCR lost the word in extraction; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	12	∅	Οὐ	Οὐ	Οὐ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+zeph	oldtestgreek00unknuoft	89	12	∅	μὴ	μὴ	μὴ	class R0: OCR lost the word in extraction; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	12	∅	ἀγα-	ἀγα-	ἀγα-	class R0: OCR lost the word in extraction; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	13	οὐδὲ.	οὐδὲ.	οὐδὲ	οὐδὲ	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	13	"3καὶ	"3καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	13	ἡ.	ἡ.	ἡ	ἡ	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	13	᾿αὐτῶν	᾿αὐτῶν	αὐτῶν	αὐτῶν	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	14	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	14	ἀφανισμόν"	ἀφανισμόν"	ἀφανισμόν·	ἀφανισμόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	14	᾿οἰκοδομήσουδιν	᾿οἰκοδομήσουδσιν	οἰκοδομήσουσιν	οἰκοδομήσουσιν	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	15	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	16	“τὸν:	"τὸν.	τὸν	τὸν	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	16	Ore.	σάήθ +τι	Ὅτι	Ὅτι	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A R5, B OPEN
+zeph	oldtestgreek00unknuoft	89	17	ἡμέρα	ἡμέρα.	ἡμέρα	ἡμέρα	class R6 (OCR letters differ): the other OCR reading agrees with c
+zeph	oldtestgreek00unknuoft	89	17	ταχεῖα:	ταχεῖα:	ταχεῖα	ταχεῖα	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	17	σφόδρα:	σφόδρα:	σφόδρα·	σφόδρα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	18	τέτακτάι,	τέτακτάι,	τέτακται,	τέτακται,	TODO zoom: A DIA, B DIA
+zeph	oldtestgreek00unknuoft	89	18	δυνατή:	δυνατή:	δυνατή.	δυνατή.	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	18	"ἡμέρα	"ἡμέρα	ἡμέρα	ἡμέρα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	19	ἡμέρα	ἡμέρα!	ἡμέρα	ἡμέρα	class R6 (OCR letters differ): the other OCR reading agrees with c
+zeph	oldtestgreek00unknuoft	89	19	βλόψφως	θλίψεως	θλίψεως	θλίψεως	class R6 (OCR letters differ): the other OCR reading agrees with c
+zeph	oldtestgreek00unknuoft	89	19	πη	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+zeph	oldtestgreek00unknuoft	89	19	aa	μἰνἀγκηγοήμέρα	ἀνάγκης,	ἀνάγκης,	TODO zoom: A R5, B OPEN
+zeph	oldtestgreek00unknuoft	89	19	ΝΙΝ	ἰωρίας	ἡμέρα	ἡμέρα	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	19	∅	∅	ἀωρίας	ἀωρίας	TODO zoom: no OCR reading at all
+zeph	oldtestgreek00unknuoft	89	20	ἡμέρα.	ἡμέρα.	ἡμέρα	ἡμέρα	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	20	ny	γνόφουβ	γνόφου,	γνόφου,	TODO zoom: A R5, B OPEN
+zeph	oldtestgreek00unknuoft	89	20	ap +aban	μέφέλην	νεφέλης	νεφέλης	TODO zoom: A R5, B OPEN
+zeph	oldtestgreek00unknuoft	89	20	μέρα	ἡμέρα	ἡμέρα	ἡμέρα	class R6 (OCR letters differ): the other OCR reading agrees with c
+zeph	oldtestgreek00unknuoft	89	21	adh +yyyoe	σήλπεγγος	σάλπιγγος	σάλπιγγος	TODO zoom: A R5, B OPEN
+zeph	oldtestgreek00unknuoft	89	21	«κραυγῆς	“κραυγῆς	κραυγῆς	κραυγῆς	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	21	ras	"τὰς.	τὰς	τὰς	TODO zoom: A R5, B OPEN
+zeph	oldtestgreek00unknuoft	89	21	.	πόλέις.	πόλεις	πόλεις	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	21	πόλέις. +“τὰς	“τὰς	τὰς	τὰς	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	21	ἐπὶ"	ἐπὶ	ἐπὶ	ἐπὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+zeph	oldtestgreek00unknuoft	89	22	γωνίας.	γωνίας.	γωνίας	γωνίας	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	22	- +"καὶ	"καὶ	καὶ	καὶ	TODO zoom: A OPEN, B R1
+zeph	oldtestgreek00unknuoft	89	22	ἀνθρώπους;	ἀνθρώπους, +-	ἀνθρώπους,	ἀνθρώπους,	TODO zoom: A OPEN, B R3
+zeph	oldtestgreek00unknuoft	89	22	Kal᾽	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	23	drt	ὅτι	ὅτι	ὅτι	class R5: Latin-letter substitution in OCR; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	23	κυρίῳ"	κυρίῳ"	κυρίῳ	κυρίῳ	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	23	ἐξήμαρτον"	ἐξήμαρτον:	ἐξήμαρτον·	ἐξήμαρτον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	23	ἐκχεεῖ"	ἐκχεεῖ"	ἐκχεεῖ	ἐκχεεῖ	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	23	av-	αὐ-	αὐ-	αὐ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	24	TOY	τῶν	τῶν	τῶν	class R5: Latin-letter substitution in OCR; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	24	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	24	«αὐτῶν.	«αὐτῶν.	αὐτῶν	αὐτῶν	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	24	βόλβιτα".	᾿βόλβιτα".	βόλβιτα.	βόλβιτα.	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	24	καὶ	χ8 +"καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+zeph	oldtestgreek00unknuoft	89	25	ἐξεχέσθαε	ἐξεχέσθαι	ἐξελέσθαι	ἐξελέσθαι	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	25	αὐτφρὺς:	αὐτφρὺς:	αὐτοὺς	αὐτοὺς	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	25	ἐν +,.	ἐν +,	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zeph	oldtestgreek00unknuoft	89	26	ὀργῆς.	ὀργῆς.	ὀργῆς	ὀργῆς	TODO zoom: A OPEN, B OPEN
+zeph	oldtestgreek00unknuoft	89	26	.αὐτοῦ	αὐτοῦ	αὐτοῦ	αὐτοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+zeph	oldtestgreek00unknuoft	89	27	συντέλειαν	συντέλειαν.	συντέλειαν	συντέλειαν	class R6 (OCR letters differ): the other OCR reading agrees with c

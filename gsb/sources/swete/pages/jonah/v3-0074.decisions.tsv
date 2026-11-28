@@ -1,0 +1,54 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jonah	oldtestgreek00unknuoft	74	1	Ἐβόησα	Ἐβόησα	Ἐβόησα	Ἐβόησα	image (3x): smooth breathing (apostrophe shape)
+jonah	oldtestgreek00unknuoft	74	1	θεόν	θεόν	θεόν	θεόν	image (3x): acute before enclitic as printed
+jonah	oldtestgreek00unknuoft	74	2	κουσέν	κουσέν	κουσέν	κουσέν	image (3x): acute before enclitic as printed
+jonah	oldtestgreek00unknuoft	74	2	μου. +;	μου. +ι	μου.	μου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	74	3	ἅδου	ἅδου	ᾅδου	ᾅδου	image (3x): ᾅδου rough breathing + acute with iota subscript under alpha
+jonah	oldtestgreek00unknuoft	74	3	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+jonah	oldtestgreek00unknuoft	74	3	μου:	μου:	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jonah	oldtestgreek00unknuoft	74	4	“ἀπέρριψάς	“ἀπέρριψάς	ἀπέρριψάς	ἀπέρριψάς	image (3x): acute before enclitic as printed
+jonah	oldtestgreek00unknuoft	74	4	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+jonah	oldtestgreek00unknuoft	74	4	θαλάσσης,	θαλάσσης, +4	θαλάσσης,	θαλάσσης,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	74	5	4	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jonah	oldtestgreek00unknuoft	74	5	και +ποταμοὶ	ποταμοί	ποταμοί	ποταμοί	image (3x): acute before enclitic as printed
+jonah	oldtestgreek00unknuoft	74	6	μετεωρισμοί	μετεωρισμοί	μετεωρισμοί	μετεωρισμοί	image (3x): acute before enclitic as printed
+jonah	oldtestgreek00unknuoft	74	6	κύματά	κύματά	κύματά	κύματά	image (3x): acute before enclitic as printed
+jonah	oldtestgreek00unknuoft	74	8	Skal	5καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jonah	oldtestgreek00unknuoft	74	8	Ἀπῶσμαι	Ἀπῶσμαι	Ἀπῶσμαι	Ἀπῶσμαι	image (3x): smooth breathing (apostrophe shape)
+jonah	oldtestgreek00unknuoft	74	8	σου" +: 5	σου" +: 5	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jonah	oldtestgreek00unknuoft	74	9	ἐπιβλέψαι	ἐπιβλέψαι.	ἐπιβλέψαι	ἐπιβλέψαι	class R6 (OCR letters differ): the other OCR reading agrees with c
+jonah	oldtestgreek00unknuoft	74	9	ἅγιόν	ἅγιόν	ἅγιόν	ἅγιόν	image (3x): acute before enclitic as printed
+jonah	oldtestgreek00unknuoft	74	10	ὁπεριεχύθη	ὁπεριεχύθη	σου·	σου·	image (3x): σου· turned-over line end, OCR merged it with next line
+jonah	oldtestgreek00unknuoft	74	11	∅	∅	περιεχύθη	περιεχύθη	image (3x): περιεχύθη, verse 6 superscript before it
+jonah	oldtestgreek00unknuoft	74	11	μοὶ	μοὶ	μοι	μοι	image (3x): μοι unaccented
+jonah	oldtestgreek00unknuoft	74	11	ψυχῆς, +6	ψυχῆς, +6	ψυχῆς,	ψυχῆς,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	74	12	ἐκύκλωσέν	ἐκύκλωσέν	ἐκύκλωσέν	ἐκύκλωσέν	image (3x): acute before enclitic as printed
+jonah	oldtestgreek00unknuoft	74	13	κεφαλή	κεφαλή	κεφαλή	κεφαλή	image (3x): acute before enclitic as printed
+jonah	oldtestgreek00unknuoft	74	14	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jonah	oldtestgreek00unknuoft	74	14	αἰώνιοι +-	αἰώνιοι +7	αἰώνιοι·	αἰώνιοι·	image (3x): ano teleia; margin 7 not text
+jonah	oldtestgreek00unknuoft	74	15	θεός	θεός	θεός	θεός	image (3x): acute before enclitic as printed
+jonah	oldtestgreek00unknuoft	74	16	puxnvy	ψυχήν	ψυχήν	ψυχήν	image (3x): acute before enclitic as printed
+jonah	oldtestgreek00unknuoft	74	16	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+jonah	oldtestgreek00unknuoft	74	16	κυρίου +8	κυρίου +8	κυρίου	κυρίου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	74	18	εὐχή	εὐχή	εὐχή	εὐχή	image (3x): acute before enclitic as printed
+jonah	oldtestgreek00unknuoft	74	18	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+jonah	oldtestgreek00unknuoft	74	18	ἅγιόν	ἅγιόν	ἅγιόν	ἅγιόν	image (3x): acute before enclitic as printed
+jonah	oldtestgreek00unknuoft	74	19	. +ϑφυλασσόμενοι	. +ϑφυλασσόμενοι	φυλασσόμενοι	φυλασσόμενοι	image (3x): faint show-through speck, not text
+jonah	oldtestgreek00unknuoft	74	19	ψευδῆ	ψευδῆ +᾿	ψευδῆ	ψευδῆ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	74	21	"ἐγὼ	"ἐγὼ	ἐγὼ	ἐγὼ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jonah	oldtestgreek00unknuoft	74	21	σόϊ,	σόϊ,	σοί,	σοί,	image (3x): σοί, with acute, no diaeresis
+jonah	oldtestgreek00unknuoft	74	22	κυρίῳ. +Ξ̓	κυρίῳ. +Ξ̓	κυρίῳ.	κυρίῳ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	74	23	Ἰωνᾶν	Ἰωνᾶν	Ἰωνᾶν	Ἰωνᾶν	image (3x): smooth breathing (apostrophe shape)
+jonah	oldtestgreek00unknuoft	74	23	ξηράν: +11	ξηράν: +αι 1	ξηράν.	ξηράν.	image (3x): period; margin 11 not text
+jonah	oldtestgreek00unknuoft	74	24	πρὸς	πρὸς +᾽	πρὸς	πρὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	74	24	Ἰωνᾶν	Ἰωνᾶν	Ἰωνᾶν	Ἰωνᾶν	image (3x): smooth breathing (apostrophe shape)
+jonah	oldtestgreek00unknuoft	74	24	ἐκ	ἐκ +ὃ	ἐκ	ἐκ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	74	25	᾿Ἀνάστηθι	“Ἀνάστηθι	Ἀνάστηθι	Ἀνάστηθι	image (3x): smooth breathing (apostrophe shape)
+jonah	oldtestgreek00unknuoft	74	26	2 +ἐν.	. +ἐν.	ἐν	ἐν	image (3x): faint show-through speck, not text
+jonah	oldtestgreek00unknuoft	74	26	ἐλάλησα.	ἐλάλησα.	ἐλάλησα	ἐλάλησα	image (3x): no period after ἐλάλησα
+jonah	oldtestgreek00unknuoft	74	27	53καὶ	53καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jonah	oldtestgreek00unknuoft	74	27	Ἰωνᾶς	Ἰωνᾶς	Ἰωνᾶς	Ἰωνᾶς	image (3x): smooth breathing (apostrophe shape)
+jonah	oldtestgreek00unknuoft	74	27	Κύριος" +3	Κύριος" +3	Κύριος·	Κύριος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jonah	oldtestgreek00unknuoft	74	28	Nwev7	Νινευὴ	Νινευὴ	Νινευὴ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jonah	oldtestgreek00unknuoft	74	28	πόλις	πόλὶς	πόλις	πόλις	image (3x): πόλις, no accent on iota
+jonah	oldtestgreek00unknuoft	74	8	-	-	ἐγώ	ἐγώ	image (3x): acute (not grave) on ἐγώ before εἶπα, as printed

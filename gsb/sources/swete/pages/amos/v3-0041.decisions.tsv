@@ -1,0 +1,39 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+amos	oldtestgreek00unknuoft	41	1	ἀνθ᾽	ἀνθ᾽ +᾽	ἀνθ᾽	ἀνθ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	41	2	Ιδουμαίαν,	Ιδουμαίαν,	Ἰδουμαίαν,	Ἰδουμαίαν,	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	41	3	ἀδελφῶν:	ἀδελφῶν:	ἀδελφῶν·	ἀδελφῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+amos	oldtestgreek00unknuoft	41	3	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	41	3	τὰ +ἵ	τὰ +ἵ	τὰ	τὰ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	41	4	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+amos	oldtestgreek00unknuoft	41	5	Τάδε	᾿άδε	Τάδε	Τάδε	class R6 (OCR letters differ): the other OCR reading agrees with c
+amos	oldtestgreek00unknuoft	41	5	Ἐπὶ	Ἐπὶ	Ἐπὶ	Ἐπὶ	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	41	5	Ἰδουμαίας	Ἰδουμαίας	Ἰδουμαίας	Ἰδουμαίας	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	41	8	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+amos	oldtestgreek00unknuoft	41	9	νῖκος:	νῖκος"	νῖκος·	νῖκος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+amos	oldtestgreek00unknuoft	41	9	“kal	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	41	9	ἐξαποστελῶ	ἐξαποστελῷ	ἐξαποστελῶ	ἐξαποστελῶ	image (3x): circumflex, no iota subscript
+amos	oldtestgreek00unknuoft	41	11	3Tdde	τϑΤ̓άδε	Τάδε	Τάδε	image (3x): verse superscript then Τάδε with acute; not text
+amos	oldtestgreek00unknuoft	41	11	Ἐπὶ	Ἐπὶ	Ἐπὶ	Ἐπὶ	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	41	11	Ἀμμὼν	Ἀμμὼν	Ἀμμὼν	Ἀμμὼν	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	41	13	Ταλααδειτῶν,	Γαλααδειτῶν,	Γαλααδειτῶν,	Γαλααδειτῶν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+amos	oldtestgreek00unknuoft	41	14	ἑαυτῶν	ἑαυτῶν᾽	ἑαυτῶν·	ἑαυτῶν·	image (3x): raised point = ano teleia
+amos	oldtestgreek00unknuoft	41	14	“kal	"“Γκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	41	14	Ῥαββά,	Ῥαββά,	Ῥαββά,	Ῥαββά,	image (3x): rough breathing (reversed comma) on Ρ
+amos	oldtestgreek00unknuoft	41	16	αὐτῆς-	αὐτῆς:	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+amos	oldtestgreek00unknuoft	41	16	kal	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	41	18	Κυριος.	Κυριος.	Κύριος.	Κύριος.	image (3x): Κύριος with acute
+amos	oldtestgreek00unknuoft	41	19	*Tade	τάδε	Τάδε	Τάδε	image (3x): verse superscript then Τάδε with acute; not text
+amos	oldtestgreek00unknuoft	41	19	Ἐ̓πὶ	Ἐπὶ	Ἐπὶ	Ἐπὶ	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	41	20	ὀστᾶ +2	ὀστᾶ +2	ὀστᾶ	ὀστᾶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	41	21	Ἰδουμαίας	Ἰδουμαίας	Ἰδουμαίας	Ἰδουμαίας	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	41	21	κονίαν:	κονίαν:	κονίαν·	κονίαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+amos	oldtestgreek00unknuoft	41	21	“καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	41	22	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+amos	oldtestgreek00unknuoft	41	22	ἐν +3	ἐν +3	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	41	23	σάλπιγγος"	σάλπιγγος"	σάλπιγγος·	σάλπιγγος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+amos	oldtestgreek00unknuoft	41	23	35καὶ	3καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	41	24	αὐτοῦ	αὐτοῦ,	αὐτοῦ,	αὐτοῦ,	class R6 (OCR letters differ): the other OCR reading agrees with c
+amos	oldtestgreek00unknuoft	41	26	4 +“Τάδε	4 +“Τάδε	Τάδε	Τάδε	image (3x): verse superscript then Τάδε with acute; not text
+amos	oldtestgreek00unknuoft	41	26	Ἐπὶ	Ἐπὶ	Ἐπὶ	Ἐπὶ	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	41	26	υἱῶν.	υἱῶν.	υἱῶν	υἱῶν	image (3x): no point after υἱῶν; speck/none
+amos	oldtestgreek00unknuoft	41	26	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing (apostrophe) on the capital

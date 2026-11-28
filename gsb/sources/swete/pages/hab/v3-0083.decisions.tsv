@@ -1,0 +1,51 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+hab	oldtestgreek00unknuoft	83	1	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+hab	oldtestgreek00unknuoft	83	1	αὐτοῦ, +Β	αὐτοῦ, +Β	αὐτοῦ,	αὐτοῦ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hab	oldtestgreek00unknuoft	83	2	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+hab	oldtestgreek00unknuoft	83	3	αὐτοῦ.	αὐτοῦ. +᾿᾽	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hab	oldtestgreek00unknuoft	83	3	ἐξιλάσεται:	ἐξιλάσεται:	ἐξιλάσεται·	ἐξιλάσεται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hab	oldtestgreek00unknuoft	83	4	"Ξρὐχὶ	"οὐχὶ	Οὐχὶ	Οὐχὶ	image (3x): capital Ο, smooth breathing on υ of the diphthong
+hab	oldtestgreek00unknuoft	83	5	ἅγιός	ἅγιός	ἅγιός	ἅγιός	image (3x): acute before enclitic as printed
+hab	oldtestgreek00unknuoft	83	5	αὐτό:	αὐτό:	αὐτό·	αὐτό·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hab	oldtestgreek00unknuoft	83	6	ἔπλασέν	ἔπλασέν	ἔπλασέν	ἔπλασέν	image (3x): acute before enclitic as printed
+hab	oldtestgreek00unknuoft	83	6	"“Ξ"καθαρὸς	"“"καθαρὸς	καθαρὸς	καθαρὸς	image (3x): verse superscript is not text; word as written
+hab	oldtestgreek00unknuoft	83	7	ὀδύνης:	ὀδύνης:	ὀδύνης·	ὀδύνης·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hab	oldtestgreek00unknuoft	83	9	“4kai	"“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+hab	oldtestgreek00unknuoft	83	9	τῆς	τῆς +θ	τῆς	τῆς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hab	oldtestgreek00unknuoft	83	10	ἡγούμενον.;	ἡγούμενον;	ἡγούμενον;	ἡγούμενον;	class R6 (OCR letters differ): the other OCR reading agrees with c
+hab	oldtestgreek00unknuoft	83	10	"συντέλειαν	15 +“συντέλειαν	συντέλειαν	συντέλειαν	image (3x): verse superscript is not text; word as written
+hab	oldtestgreek00unknuoft	83	11	ἐν.	ἐν.	ἐν	ἐν	image (3x): no point after ἐν
+hab	oldtestgreek00unknuoft	83	11	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+hab	oldtestgreek00unknuoft	83	12	∅	᾿ϑένεκεν	ἕνεκεν	ἕνεκεν	image (3x): verse superscript is not text; word as written
+hab	oldtestgreek00unknuoft	83	12	∅	τούτου	τούτου	τούτου	class R0: OCR lost the word in extraction; c read from the image strip
+hab	oldtestgreek00unknuoft	83	12	∅	εὐφρανθή-	εὐφρανθή-	εὐφρανθή-	class R0: OCR lost the word in extraction; c read from the image strip
+hab	oldtestgreek00unknuoft	83	13	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hab	oldtestgreek00unknuoft	83	14	θυμιά	θυμιάσει	θυμιάσει	θυμιάσει	class R6 (OCR letters differ): the other OCR reading agrees with c
+hab	oldtestgreek00unknuoft	83	14	ἀμφιβλή	τῷ	τῷ	τῷ	class R6 (OCR letters differ): the other OCR reading agrees with c
+hab	oldtestgreek00unknuoft	83	14	∅	ἀμφιβλήστρῳ	ἀμφιβλήστρῳ	ἀμφιβλήστρῳ	class R0: OCR lost the word in extraction; c read from the image strip
+hab	oldtestgreek00unknuoft	83	14	αὐτοῖς +ς	αὐτοῖς	αὐτοῖς	αὐτοῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hab	oldtestgreek00unknuoft	83	15	ἐκλεκτά- +1	ἐκλεκτά:	ἐκλεκτά·	ἐκλεκτά·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hab	oldtestgreek00unknuoft	83	15	διὰ	"διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hab	oldtestgreek00unknuoft	83	17	Ἐπὶ	Ἐπὶ	Ἐπὶ	Ἐπὶ	image (3x): smooth breathing (apostrophe) on Ε
+hab	oldtestgreek00unknuoft	83	18	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+hab	oldtestgreek00unknuoft	83	18	τί.	τί	τί	τί	class R6 (OCR letters differ): the other OCR reading agrees with c
+hab	oldtestgreek00unknuoft	83	19	ἔλεγχόν	ἔλεγχόν	ἔλεγχόν	ἔλεγχόν	image (3x): acute before enclitic as printed
+hab	oldtestgreek00unknuoft	83	19	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hab	oldtestgreek00unknuoft	83	19	μὲ	μὲ	μὲ	μὲ	image (3x): grave on μὲ before Κύριος (not a quotation)
+hab	oldtestgreek00unknuoft	83	19	Τράψον	Τράψον	Γράψον	Γράψον	image (3x): Γ, not Τ
+hab	oldtestgreek00unknuoft	83	20	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+hab	oldtestgreek00unknuoft	83	21	3Ξδιότε	3Ξδιότε	διότι	διότι	image (3x): διότι, final ι
+hab	oldtestgreek00unknuoft	83	22	κενόν"	κενόν"	κενόν·	κενόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hab	oldtestgreek00unknuoft	83	22	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+hab	oldtestgreek00unknuoft	83	22	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+hab	oldtestgreek00unknuoft	83	23	χρονίσῃ...	χρονίσῃ.	χρονίσῃ.	χρονίσῃ.	class R6 (OCR letters differ): the other OCR reading agrees with c
+hab	oldtestgreek00unknuoft	83	23	“ἐὰν	4 +“ἐὰν	ἐὰν	ἐὰν	image (3x): verse superscript is not text; word as written
+hab	oldtestgreek00unknuoft	83	23	ὑποστείχηται,	ὑποστείληται,	ὑποστείληται,	ὑποστείληται,	class R6 (OCR letters differ): the other OCR reading agrees with c
+hab	oldtestgreek00unknuoft	83	23	ψυχή	ψυχή	ψυχή	ψυχή	image (3x): acute before enclitic as printed
+hab	oldtestgreek00unknuoft	83	23	αὐτῷ	αὐτῷ"	αὐτῷ·	αὐτῷ·	image (3x): ano teleia after αὐτῷ
+hab	oldtestgreek00unknuoft	83	24	πίστεώς	πίστεώς	πίστεώς	πίστεώς	image (3x): acute before enclitic as printed
+hab	oldtestgreek00unknuoft	83	24	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+hab	oldtestgreek00unknuoft	83	24	56	"ὁ	ὁ	ὁ	image (3x): verse superscript is not text; word as written
+hab	oldtestgreek00unknuoft	83	25	, +φρονητής:	, +φρονητής:	φρονητής·	φρονητής·	image (3x): ano teleia after φρονητής
+hab	oldtestgreek00unknuoft	83	25	περάνῃ:	περάνῃ:	περάνῃ·	περάνῃ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hab	oldtestgreek00unknuoft	83	25	Gdns	ἄἅδης	ᾅδης	ᾅδης	image (3x): rough + acute (open curl and stroke) with iota subscript: ᾅδης

@@ -1,0 +1,79 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+amos	oldtestgreek00unknuoft	48	2	“ei	"“εἰ	εἰ	εἰ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	48	2	παρασιωπήσονται	παρασιωπήσονται +τὸ	παρασιωπήσονται	παρασιωπήσονται	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	48	4	σύνης	σύ +νης	σύνης	σύνης	class R6 (OCR letters differ): the other OCR reading agrees with c
+amos	oldtestgreek00unknuoft	48	4	Boi	"Ξοἷἱ	οἱ	οἱ	image (3x): superscript verse number, not text; word as printed
+amos	oldtestgreek00unknuoft	48	4	λέγοντες	λέγοντες +τ3	λέγοντες	λέγοντες	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	48	5	Οὐκ	Οὐκ	Οὐκ	Οὐκ	image (3x): smooth breathing on the capital (Οὕτως smooth+acute on υ); accent as printed
+amos	oldtestgreek00unknuoft	48	5	"“διότι	"“διότι	διότι	διότι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	48	5	ἐπεγείρω	ἐπεγείρω +τῷ	ἐπεγείρω	ἐπεγείρω	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	48	6	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on the capital (Οὕτως smooth+acute on υ); accent as printed
+amos	oldtestgreek00unknuoft	48	7	Ψψουσιν	Ψψουσιν	ψουσιν	ψουσιν	image (3x): second half of the hyphenated word, as printed
+amos	oldtestgreek00unknuoft	48	7	“Ἐμὰθ	Ἑμὰθ	Ἑμὰθ	Ἑμὰθ	image (3x): rough breathing on Ε, Ἑμὰθ
+amos	oldtestgreek00unknuoft	48	9	τοὕτως	Οὕτως	Οὕτως	Οὕτως	image (3x): smooth breathing on the capital (Οὕτως smooth+acute on υ); accent as printed
+amos	oldtestgreek00unknuoft	48	9	ἔδειξέν	ἔδειξέν	ἔδειξέν	ἔδειξέν	image (3x): acute before the enclitic (μοι, ἐστιν) as printed
+amos	oldtestgreek00unknuoft	48	9	ἀκρίδων	ἀκρίδων +τ	ἀκρίδων	ἀκρίδων	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	48	10	Tay	Τὼγ	Γὼγ	Γὼγ	image (3x): capital Γ, grave on ω
+amos	oldtestgreek00unknuoft	48	10	βασιλεύς. +“	βασιλεύς. +“	βασιλεύς.	βασιλεύς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	48	10	ἔσται	ἔσται +:	ἔσται	ἔσται	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	48	12	ύριε,	Κύριε,	Κύριε,	Κύριε,	class R6 (OCR letters differ): the other OCR reading agrees with c
+amos	oldtestgreek00unknuoft	48	12	γενοῦ:	γενοῦ:	γενοῦ·	γενοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+amos	oldtestgreek00unknuoft	48	12	τὸν	τὸν +ε	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	48	12	Ἰακώβ;	Ἰακώβ;	Ἰακώβ;	Ἰακώβ;	image (3x): smooth breathing on the capital (Οὕτως smooth+acute on υ); accent as printed
+amos	oldtestgreek00unknuoft	48	12	ὀλιγοστός	ὀλιγοστός	ὀλιγοστός	ὀλιγοστός	image (3x): acute before the enclitic (μοι, ἐστιν) as printed
+amos	oldtestgreek00unknuoft	48	13	ἐστιν:	ἐστιν:	ἐστιν·	ἐστιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+amos	oldtestgreek00unknuoft	48	13	3peravonoov,	Ξμετανόησον,	μετανόησον,	μετανόησον,	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	48	13	λέγει	λέγει +3	λέγει	λέγει	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	48	14	Οὕτως	Οὕτως	Οὕτως	Οὕτως	image (3x): smooth breathing on the capital (Οὕτως smooth+acute on υ); accent as printed
+amos	oldtestgreek00unknuoft	48	14	ἔδειξέν	ἔδειξέν	ἔδειξέν	ἔδειξέν	image (3x): acute before the enclitic (μοι, ἐστιν) as printed
+amos	oldtestgreek00unknuoft	48	14	δίκην	δίκην +4	δίκην	δίκην	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	48	15	πυρὶ	πυρὶ	πυρὶ	πυρὶ	image (3x): grave before a capitalized name (not a quotation)
+amos	oldtestgreek00unknuoft	48	16	payer	ῴαγεν	φαγεν	φαγεν	image (3x): second half of the hyphenated word, as printed
+amos	oldtestgreek00unknuoft	48	16	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	48	16	δή":	δή":	δή·	δή·	image (3x): ano teleia after δή
+amos	oldtestgreek00unknuoft	48	16	τίς	τίς +9	τίς	τίς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	48	17	Ἰακώβ;	Ἰακώβ;	Ἰακώβ;	Ἰακώβ;	image (3x): smooth breathing on the capital (Οὕτως smooth+acute on υ); accent as printed
+amos	oldtestgreek00unknuoft	48	17	ὀλιγοστός	ὀλιγοστός	ὀλιγοστός	ὀλιγοστός	image (3x): acute before the enclitic (μοι, ἐστιν) as printed
+amos	oldtestgreek00unknuoft	48	17	ἐστιν:	ἐστιν:	ἐστιν·	ἐστιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+amos	oldtestgreek00unknuoft	48	17	“μετανόησον,	“μετανόησον,	μετανόησον,	μετανόησον,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	48	17	Κύριε,	Κύριε, +6	Κύριε,	Κύριε,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	48	18	Κύ	Κύριος.	Κύριος.	Κύριος.	class R6 (OCR letters differ): the other OCR reading agrees with c
+amos	oldtestgreek00unknuoft	48	18	ptos. +"Οὕτω	7Οὕτως +7	Οὕτως	Οὕτως	image (3x): superscript verse number, not text; word as printed
+amos	oldtestgreek00unknuoft	48	19	ἔδειξέν	ἔδειξέν	ἔδειξέν	ἔδειξέν	image (3x): acute before the enclitic (μοι, ἐστιν) as printed
+amos	oldtestgreek00unknuoft	48	19	Κύριος,.	Κύριος,.	Κύριος,	Κύριος,	image (3x): speck after the comma, lighter and smaller than a point; not text
+amos	oldtestgreek00unknuoft	48	20	aVTOV	αὐτοῦ	αὐτοῦ	αὐτοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+amos	oldtestgreek00unknuoft	48	20	ἀδάμας.	ἀδάμας. +δ	ἀδάμας.	ἀδάμας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	48	20	“καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	48	20	μέ	μέ	μέ	μέ	image (3x): acute before the capitalized quotation
+amos	oldtestgreek00unknuoft	48	20	Ti	Τί	Τί	Τί	class R5: Latin-letter substitution in OCR; c read from the image strip
+amos	oldtestgreek00unknuoft	48	20	ὁρᾷς,	ὁρᾷς, +8	ὁρᾷς,	ὁρᾷς,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	48	21	Apos;	Ἀμώς;	Ἀμώς;	Ἀμώς;	image (3x): smooth breathing on the capital (Οὕτως smooth+acute on υ); accent as printed
+amos	oldtestgreek00unknuoft	48	21	Ἀδάμαντα.	Ἀδάμαντα.	Ἀδάμαντα.	Ἀδάμαντα.	image (3x): smooth breathing on the capital (Οὕτως smooth+acute on υ); accent as printed
+amos	oldtestgreek00unknuoft	48	21	μέ	μέ	μέ	μέ	image (3x): acute before the capitalized quotation
+amos	oldtestgreek00unknuoft	48	21	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on the capital (Οὕτως smooth+acute on υ); accent as printed
+amos	oldtestgreek00unknuoft	48	22	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+amos	oldtestgreek00unknuoft	48	22	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on the capital (Οὕτως smooth+acute on υ); accent as printed
+amos	oldtestgreek00unknuoft	48	23	αὐτόν" +9	αὐτόν" +9	αὐτόν·	αὐτόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+amos	oldtestgreek00unknuoft	48	23	καὶ	καὶ +9	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	48	24	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+amos	oldtestgreek00unknuoft	48	24	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital (Οὕτως smooth+acute on υ); accent as printed
+amos	oldtestgreek00unknuoft	48	25	Ἰεροβοὰμ	Ἰεροβοὰμ	Ἰεροβοὰμ	Ἰεροβοὰμ	image (3x): smooth breathing on the capital (Οὕτως smooth+acute on υ); accent as printed
+amos	oldtestgreek00unknuoft	48	25	ῥομφαίᾳ.	ῥομφαίᾳ. +το	ῥομφαίᾳ.	ῥομφαίᾳ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	48	26	Kal	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+amos	oldtestgreek00unknuoft	48	26	ἐξαπέστειλεν	ἐξαπέστειλεν +Ε	ἐξαπέστειλεν	ἐξαπέστειλεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	48	26	Ἀμασίας	Ἀμασίας	Ἀμασίας	Ἀμασίας	image (3x): smooth breathing on the capital (Οὕτως smooth+acute on υ); accent as printed
+amos	oldtestgreek00unknuoft	48	26	ἱερεὺς	ἱερεὺς	ἱερεὺς	ἱερεὺς	image (3x): grave before a capitalized name (not a quotation)
+amos	oldtestgreek00unknuoft	48	26	πρὸς	πρὸς +᾽.	πρὸς	πρὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	48	26	Ἰεροβοὰμ᾽	Ἰεροβοὰμ +᾽ το	Ἰεροβοὰμ	Ἰεροβοὰμ	image (3x): smooth breathing on the capital (Οὕτως smooth+acute on υ); accent as printed
+amos	oldtestgreek00unknuoft	48	27	βασιλέα	βασιλέα +»	βασιλέα	βασιλέα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	48	27	Ἰσραὴλ	Ἰσραὴλ +᾽	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital (Οὕτως smooth+acute on υ); accent as printed
+amos	oldtestgreek00unknuoft	48	27	λέγων	λέγων +»,	λέγων	λέγων	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	48	27	Ἀμὼς	Ἀμὼς	Ἀμὼς	Ἀμὼς	image (3x): smooth breathing on the capital (Οὕτως smooth+acute on υ); accent as printed
+amos	oldtestgreek00unknuoft	48	28	Ἰσραήλ:	Ἰσραήλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing on the capital (Οὕτως smooth+acute on υ); accent as printed
+amos	oldtestgreek00unknuoft	48	29	“διότι	“διότι	διότι	διότι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	48	29	Ἀμώς	Ἀμώς	Ἀμώς	Ἀμώς	image (3x): acute before the capitalized quotation
+amos	oldtestgreek00unknuoft	48	29	Ἔν	Ἔν	Ἐν	Ἐν	image (3x): smooth breathing, no accent on Ἐν
+amos	oldtestgreek00unknuoft	48	29	εροβοάμ,	Ἰεροβοάμ, +τι	Ἰεροβοάμ,	Ἰεροβοάμ,	image (3x): smooth breathing on the capital (Οὕτως smooth+acute on υ); accent as printed
+amos	oldtestgreek00unknuoft	48	30	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital (Οὕτως smooth+acute on υ); accent as printed
+amos	oldtestgreek00unknuoft	48	30	"“καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	48	30	εἶπεν +τὸ	εἶπεν +τὸ	εἶπεν	εἶπεν	class R3: OCR appended accent-row or margin junk; c read from the image strip

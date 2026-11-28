@@ -1,0 +1,20 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+hos	oldtestgreek00unknuoft	39	1	ὁτῷ	ὁτῷ	τῷ	τῷ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hos	oldtestgreek00unknuoft	39	1	Ἔφράιμ,	ἜἘφράιμ,	Ἐφράιμ,	Ἐφράιμ,	image (3x): smooth breathing on Ε
+hos	oldtestgreek00unknuoft	39	1	ri	τί	τί	τί	class R5: Latin-letter substitution in OCR; c read from the image strip
+hos	oldtestgreek00unknuoft	39	1	ἐταπείνωσα +B	ἐταπείνωσα +Β	ἐταπείνωσα	ἐταπείνωσα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hos	oldtestgreek00unknuoft	39	2	αὐτόν:	αὐτόν:	αὐτόν·	αὐτόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hos	oldtestgreek00unknuoft	39	3	6	ὃ	ὁ	ὁ	image (3x): ὁ, rough breathing, no accent; 6 is the margin 10
+hos	oldtestgreek00unknuoft	39	3	καρπός	καρπός	καρπός	καρπός	image (3x): acute before enclitic σου
+hos	oldtestgreek00unknuoft	39	3	“ris	“τίς	τίς	τίς	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+hos	oldtestgreek00unknuoft	39	4	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+hos	oldtestgreek00unknuoft	39	5	∅	πορεύσονται	πορεύσονται	πορεύσονται	class R0: OCR lost the word in extraction; c read from the image strip
+hos	oldtestgreek00unknuoft	39	5	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+hos	oldtestgreek00unknuoft	39	5	∅	αὐταῖς,	αὐταῖς,	αὐταῖς,	class R0: OCR lost the word in extraction; c read from the image strip
+hos	oldtestgreek00unknuoft	39	5	∅	οἱ	οἱ	οἱ	class R0: OCR lost the word in extraction; c read from the image strip
+hos	oldtestgreek00unknuoft	39	5	∅	δὲ	δὲ	δὲ	class R0: OCR lost the word in extraction; c read from the image strip
+hos	oldtestgreek00unknuoft	39	5	∅	ἀσεβεῖς	ἀσεβεῖς	ἀσεβεῖς	class R0: OCR lost the word in extraction; c read from the image strip
+hos	oldtestgreek00unknuoft	39	5	∅	ἀσθενήσουσιν	ἀσθενήσουσιν	ἀσθενήσουσιν	class R0: OCR lost the word in extraction; c read from the image strip
+hos	oldtestgreek00unknuoft	39	5	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+hos	oldtestgreek00unknuoft	39	5	∅	αὐταῖς.	αὐταῖς.	αὐταῖς.	class R0: OCR lost the word in extraction; c read from the image strip
+hos	oldtestgreek00unknuoft	39	3	-	-	ἢ	ἢ	image (8x): apostrophe then a stroke falling right: smooth + grave, ἢ

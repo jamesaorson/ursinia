@@ -1,0 +1,10 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+mal	oldtestgreek00unknuoft	124	1	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+mal	oldtestgreek00unknuoft	124	2	πϑήσθηνε	“Μνήσθητε	Μνήσθητε	Μνήσθητε	image (3x): reading as in the page file; OCR junk / margin number
+mal	oldtestgreek00unknuoft	124	2	Μωσῆ	Μωσῇ	Μωσῆ	Μωσῆ	image (3x): circumflex, no iota subscript under η
+mal	oldtestgreek00unknuoft	124	2	μου, +6	μου; +6	μου,	μου,	image (3x): reading as in the page file; OCR junk / margin number
+mal	oldtestgreek00unknuoft	124	3	ἊΨ"	πρὸς	πρὸς	πρὸς	class R6 (OCR letters differ): the other OCR reading agrees with c
+mal	oldtestgreek00unknuoft	124	3	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe shape) on the capital
+mal	oldtestgreek00unknuoft	124	4	∅	∅	προστάγματα	προστάγματα	image (3x, zoom 200 430 900 515): last short line, both OCRs missed it; read as printed
+mal	oldtestgreek00unknuoft	124	4	∅	∅	καὶ	καὶ	image (3x, zoom 200 430 900 515): last short line, both OCRs missed it; read as printed
+mal	oldtestgreek00unknuoft	124	4	∅	∅	δικαιώματα.	δικαιώματα.	image (3x, zoom 200 430 900 515): last short line, both OCRs missed it; read as printed

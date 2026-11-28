@@ -1,0 +1,34 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+mal	oldtestgreek00unknuoft	120	1	3id0d	ἰδοὺ	ἰδοὺ	ἰδοὺ	class R5: Latin-letter substitution in OCR; c read from the image strip
+mal	oldtestgreek00unknuoft	120	3	αὐτό"	αὐτό"	αὐτό·	αὐτό·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+mal	oldtestgreek00unknuoft	120	3	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+mal	oldtestgreek00unknuoft	120	5	'διαθήκην.	“διαθήκην.	διαθήκην	διαθήκην	image (3x): διαθήκην, no period (μου follows); OCR misaligned
+mal	oldtestgreek00unknuoft	120	5	ἸΤαντοκράτωρ.	Παντοκράτωρ.	Παντοκράτωρ.	Παντοκράτωρ.	class R6 (OCR letters differ): the other OCR reading agrees with c
+mal	oldtestgreek00unknuoft	120	5	"ἡ	δὴ	ἡ	ἡ	image (3x): ἡ, rough breathing and grave, after superscript 5
+mal	oldtestgreek00unknuoft	120	7	ὀνόματός	ὀνόματός	ὀνόματός	ὀνόματός	image (3x): accent before enclitic as printed
+mal	oldtestgreek00unknuoft	120	8	“νόμος	“νόμος	νόμος	νόμος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+mal	oldtestgreek00unknuoft	120	9	kia	κία	κία	κία	class R5: Latin-letter substitution in OCR; c read from the image strip
+mal	oldtestgreek00unknuoft	120	9	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+mal	oldtestgreek00unknuoft	120	10	Τὅτι	Τῦτι	ὅτι	ὅτι	image (3x): ὅτι after superscript 7
+mal	oldtestgreek00unknuoft	120	12	ἸΠαντοκράτορός	Ἰαντοκράτορός	Παντοκράτορός	Παντοκράτορός	image (3x): accent before enclitic as printed
+mal	oldtestgreek00unknuoft	120	12	ϑὑμεῖς	ὑμεῖς	ὑμεῖς	ὑμεῖς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+mal	oldtestgreek00unknuoft	120	12	τῆς +:	τῆς +:	τῆς	τῆς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+mal	oldtestgreek00unknuoft	120	14	Λευέ;	Λευΐ;	Λευί,	Λευί;	image (8x): Λευί followed by a semicolon (raised dot over a comma), kept as printed though a question mark is odd here
+mal	oldtestgreek00unknuoft	120	14	ϑκἀγὼ	θκἀγὼ	κἀγὼ	κἀγὼ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+mal	oldtestgreek00unknuoft	120	16	ὁδούς	ὁδούς	ὁδούς	ὁδούς	image (3x): accent before enclitic as printed
+mal	oldtestgreek00unknuoft	120	16	ἐλαμβάνετε	ἐχαμβάνετε	ἐλαμβάνετε	ἐλαμβάνετε	class R6 (OCR letters differ): the other OCR reading agrees with c
+mal	oldtestgreek00unknuoft	120	17	ὑχὶ	το	νόμῳ.	νόμῳ.	image (3x): νόμῳ. alone on the line; OCR misaligned
+mal	oldtestgreek00unknuoft	120	18	∅	Οὐχὶ	Οὐχὶ	Οὐχὶ	image (3x): Οὐχὶ, smooth breathing on υ
+mal	oldtestgreek00unknuoft	120	20	ὑμῶν;	ὑμῶν; +τ"	ὑμῶν;	ὑμῶν;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+mal	oldtestgreek00unknuoft	120	20	""ἐνκατελίφθη	ἐνκατελίφθη	ἐνκατελίφθη	ἐνκατελίφθη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+mal	oldtestgreek00unknuoft	120	20	Ἰούδας,	Ἰούδας,	Ἰούδας,	Ἰούδας,	image (3x): smooth breathing on Ι
+mal	oldtestgreek00unknuoft	120	21	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on Ι
+mal	oldtestgreek00unknuoft	120	21	Ἱερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing on Ι
+mal	oldtestgreek00unknuoft	120	21	Ἰούδας	Ἰ̓ούδας	Ἰούδας	Ἰούδας	image (3x): smooth breathing on Ι
+mal	oldtestgreek00unknuoft	120	22	ois	οἷς	οἷς	οἷς	class R5: Latin-letter substitution in OCR; c read from the image strip
+mal	oldtestgreek00unknuoft	120	22	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+mal	oldtestgreek00unknuoft	120	23	"ἐξολεθρεύσει	"ἐξολεθρεύσει	ἐξολεθρεύσει	ἐξολεθρεύσει	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+mal	oldtestgreek00unknuoft	120	24	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing on Ι
+mal	oldtestgreek00unknuoft	120	25	"Ξκαὶ	"Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+mal	oldtestgreek00unknuoft	120	25	ἐποιεῖτε"	ἐποιεῖτε"	ἐποιεῖτε·	ἐποιεῖτε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+mal	oldtestgreek00unknuoft	120	14	-	-	Λευί;	Λευί;	ambiguous: mark after Λευί prints as a semicolon (Greek question mark) at 8x, where a comma would be expected before λέγει; kept as printed, possible misprint

@@ -1,0 +1,37 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+nah	oldtestgreek00unknuoft	79	1	φεύγοντες +B	φεύγοντες +Β	φεύγοντες	φεύγοντες	class R3: OCR appended accent-row or margin junk; c read from the image strip
+nah	oldtestgreek00unknuoft	79	2	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+nah	oldtestgreek00unknuoft	79	2	"διήρπασαν	"διήρπασαν	διήρπασαν	διήρπασαν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+nah	oldtestgreek00unknuoft	79	3	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+nah	oldtestgreek00unknuoft	79	3	αὐτῆς:	αὐτῆς:	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+nah	oldtestgreek00unknuoft	79	4	∅	∅	ρυνται	ρυνται	image (3x): ρυνται, second half of βεβά-ρυνται; OCR lost it beside margin 11
+nah	oldtestgreek00unknuoft	79	4	“ἐκτιναγμὸς	“ἐκτιναγμὸς	ἐκτιναγμὸς	ἐκτιναγμὸς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+nah	oldtestgreek00unknuoft	79	4	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+nah	oldtestgreek00unknuoft	79	7	“rod	"“ποῦ	ποῦ	ποῦ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+nah	oldtestgreek00unknuoft	79	8	τοῖς.	τοῖς.	τοῖς	τοῖς	image (3x): no point after the word; speck only
+nah	oldtestgreek00unknuoft	79	9	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+nah	oldtestgreek00unknuoft	79	9	“héov	έων	λέων	λέων	image (3x): λέων after superscript 13
+nah	oldtestgreek00unknuoft	79	10	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+nah	oldtestgreek00unknuoft	79	12	᾿εἰδοὺ	᾿εἰδοὺ	ἰδοὺ	ἰδοὺ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+nah	oldtestgreek00unknuoft	79	12	ἐπὶ.	ἐπὶ.	ἐπὶ	ἐπὶ	image (3x): no point after the word; speck only
+nah	oldtestgreek00unknuoft	79	13	πλῆθός	πλῆθός	πλῆθός	πλῆθός	image (3x): acute before enclitic as printed
+nah	oldtestgreek00unknuoft	79	13	λέοντάς	λέοντάς	λέοντάς	λέοντάς	image (3x): acute before enclitic as printed
+nah	oldtestgreek00unknuoft	79	14	θρεύσω.	θρεύσω.	θρεύσω	θρεύσω	image (3x): no point after the word; speck only
+nah	oldtestgreek00unknuoft	79	14	od	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+nah	oldtestgreek00unknuoft	79	16	α +*°Q	α +Ὠ̓͂.	Ὦ	Ὦ	image (3x): Ὦ, smooth breathing with circumflex over it, before Ω (small mark next to superscript 1)
+nah	oldtestgreek00unknuoft	79	17	“φωνὴ	“φωνὴ	φωνὴ	φωνὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+nah	oldtestgreek00unknuoft	79	18	ἀναβράσδοντος, +3	ἀναβράσδοντος, +3	ἀναβράσσοντος,	ἀναβράσσοντος,	image (3x): σσ, not σδ
+nah	oldtestgreek00unknuoft	79	19	τραὺ-	τραὺ-	τραυ-	τραυ-	image (3x): τραυ- without accent
+nah	oldtestgreek00unknuoft	79	20	βαρείας.	βαρείας.	βαρείας	βαρείας	image (3x): no point after the word; speck only
+nah	oldtestgreek00unknuoft	79	20	αὐτῆς"	αὐτῆς"	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+nah	oldtestgreek00unknuoft	79	22	ἔθνη +5	ἔθνη +5	ἔθνη	ἔθνη	class R3: OCR appended accent-row or margin junk; c read from the image strip
+nah	oldtestgreek00unknuoft	79	23	"ἰδοὺ	"ἰδοὺ	ἰδοὺ	ἰδοὺ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+nah	oldtestgreek00unknuoft	79	25	οπισὼῶ	οπισὼ	ὀπίσω	ὀπίσω	image (3x): last line read clearly; OCR garbled it
+nah	oldtestgreek00unknuoft	79	25	σοὺ	σοὺ	σου	σου	image (3x): last line read clearly; OCR garbled it
+nah	oldtestgreek00unknuoft	79	25	ἐπὶ	ἐπι	ἐπὶ	ἐπὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+nah	oldtestgreek00unknuoft	79	25	TO	Τὸ	τὸ	τὸ	image (3x): last line read clearly; OCR garbled it
+nah	oldtestgreek00unknuoft	79	25	TPOTWMTOV	προσῶπον	πρόσωπόν	πρόσωπόν	image (3x): last line read clearly; OCR garbled it
+nah	oldtestgreek00unknuoft	79	25	σοῦ,	σόοῦυ,	σου,	σου,	image (3x): last line read clearly; OCR garbled it
+nah	oldtestgreek00unknuoft	79	25	Και	και	καὶ	καὶ	image (3x): last line read clearly; OCR garbled it
+nah	oldtestgreek00unknuoft	79	25	την	την	τὴν	τὴν	image (3x): last line read clearly; OCR garbled it
+nah	oldtestgreek00unknuoft	79	25	αἰσχυνὴν	αιἰσχυνὴν	αἰσχύνην	αἰσχύνην	image (3x): last line read clearly; OCR garbled it

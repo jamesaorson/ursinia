@@ -1,0 +1,39 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+mic	oldtestgreek00unknuoft	53	1	KAI	ΚΑΙ	ΚΑΙ	ΚΑΙ	class R5: Latin-letter substitution in OCR; c read from the image strip
+mic	oldtestgreek00unknuoft	53	2	Ἰωαθὰμ	Ἰωαθὰμ	Ἰωαθὰμ	Ἰωαθὰμ	image (3x): smooth breathing
+mic	oldtestgreek00unknuoft	53	2	Ἀχὰζ	Ἀχὰζ	Ἀχὰζ	Ἀχὰζ	image (3x): smooth breathing
+mic	oldtestgreek00unknuoft	53	2	“Ἑζεκίου	Ἕ +εκίου	Ἑζεκίου	Ἑζεκίου	image (3x): rough breathing
+mic	oldtestgreek00unknuoft	53	2	Ἰούδα,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing
+mic	oldtestgreek00unknuoft	53	3	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing
+mic	oldtestgreek00unknuoft	53	4	Ακούσατε,	Ακούσατε,	Ἀκούσατε,	Ἀκούσατε,	image (3x): smooth breathing
+mic	oldtestgreek00unknuoft	53	4	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+mic	oldtestgreek00unknuoft	53	5	εν	ἐν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+mic	oldtestgreek00unknuoft	53	5	Και	καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+mic	oldtestgreek00unknuoft	53	5	εσται	ἔσται	ἔσται	ἔσται	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+mic	oldtestgreek00unknuoft	53	5	κυριος	κύριος	κύριος	κύριος	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+mic	oldtestgreek00unknuoft	53	5	εν	ἐν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+mic	oldtestgreek00unknuoft	53	5	υμιν	ὑμῖν	ὑμῖν	ὑμῖν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+mic	oldtestgreek00unknuoft	53	5	μαρτυρίιον,	μαρτύριον,	μαρτύριον,	μαρτύριον,	class R6 (OCR letters differ): the other OCR reading agrees with c
+mic	oldtestgreek00unknuoft	53	6	οἰκου	οἴκου	οἴκου	οἴκου	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+mic	oldtestgreek00unknuoft	53	6	γίου	ἁγίου	ἁγίου	ἁγίου	class R6 (OCR letters differ): the other OCR reading agrees with c
+mic	oldtestgreek00unknuoft	53	6	αὐτου.	αὐτοῦ.	αὐτοῦ.	αὐτοῦ.	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+mic	oldtestgreek00unknuoft	53	6	toTt	3διότι	διότι	διότι	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+mic	oldtestgreek00unknuoft	53	6	ἰθοῦυ	ἰδοὺ	ἰδοὺ	ἰδοὺ	image (3x): grave before a name, not a quotation
+mic	oldtestgreek00unknuoft	53	6	ἘΚ	ἐκπορεύεται	ἐκπορεύεται	ἐκπορεύεται	class R6 (OCR letters differ): the other OCR reading agrees with c
+mic	oldtestgreek00unknuoft	53	6	πορευεται	ἐκ	ἐκ	ἐκ	class R6 (OCR letters differ): the other OCR reading agrees with c
+mic	oldtestgreek00unknuoft	53	6	εκ +TOV	τοῦ	τοῦ	τοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+mic	oldtestgreek00unknuoft	53	7	"καὶ	4 +“καὶ	καὶ	καὶ	image (3x): superscript 4 then καὶ
+mic	oldtestgreek00unknuoft	53	8	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+mic	oldtestgreek00unknuoft	53	9	ὦπου	ώπου	ώπου	ώπου	image (3x): acute on ω
+mic	oldtestgreek00unknuoft	53	9	διὰ	5διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+mic	oldtestgreek00unknuoft	53	10	βειαν	βειαν +3	βειαν	βειαν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+mic	oldtestgreek00unknuoft	53	10	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing
+mic	oldtestgreek00unknuoft	53	10	Ἰσραήῆλ.	ΕΣ +Ἰσραήῆλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing
+mic	oldtestgreek00unknuoft	53	11	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing
+mic	oldtestgreek00unknuoft	53	11	“lovda,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing
+mic	oldtestgreek00unknuoft	53	12	οὐχὶ	οὐχὶ	οὐχὶ	οὐχὶ	image (3x): grave before a name, not a quotation
+mic	oldtestgreek00unknuoft	53	12	Ἱερουσαλήμ;	Ἱερουσαλήμ;	Ἰερουσαλήμ;	Ἰερουσαλήμ;	image (3x): smooth breathing
+mic	oldtestgreek00unknuoft	53	12	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+mic	oldtestgreek00unknuoft	53	14	ἀποκαλύψω:	ἀποκαλύψω:	ἀποκαλύψω·	ἀποκαλύψω·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+mic	oldtestgreek00unknuoft	53	14	7Kal	Τκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+mic	oldtestgreek00unknuoft	53	16	ἀφανισμόν:	ἀφανισμόν"	ἀφανισμόν·	ἀφανισμόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

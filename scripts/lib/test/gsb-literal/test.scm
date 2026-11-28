@@ -188,7 +188,7 @@
 (has "gen.22.12" "that you fear God")
 (has "gen.4.26" "son came to be")                 ; a dative possessor: the person is the subject
 (lacks "gen.22.1" "Abraham said")                 ; Ἀβραὰμ Ἀβραάμ is a call
-(has "gen.27.1" "and called Esau his son")        ; undecidable: Greek order, no false actor
+(has "gen.27.1" "and called Esau his older son")  ; undecidable: Greek order, no false actor
 (has "gen.27.18" "who are you, child?")
 (has "gen.3.8" "both Adam and his woman hid")         ; ὅ τε X καὶ Y
 (has "gen.18.4" "Let water be taken indeed")          ; past the particle δή

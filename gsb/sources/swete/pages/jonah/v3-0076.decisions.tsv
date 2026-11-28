@@ -1,0 +1,28 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jonah	oldtestgreek00unknuoft	76	1	πόλεως"	πόλεως"	πόλεως·	πόλεως·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jonah	oldtestgreek00unknuoft	76	2	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jonah	oldtestgreek00unknuoft	76	2	Κύριος +6	Κύριος +6	Κύριος	Κύριος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	76	3	Keadis	κεφαλῆς	κεφαλῆς	κεφαλῆς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jonah	oldtestgreek00unknuoft	76	3	Ἰωνᾶ	Ἰωνᾶ	Ἰωνᾶ	Ἰωνᾶ	image (3x): smooth breathing (apostrophe shape); ano teleia where present
+jonah	oldtestgreek00unknuoft	76	5	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jonah	oldtestgreek00unknuoft	76	5	Ἰωνᾶς	Ἰωνᾶς	Ἰωνᾶς	Ἰωνᾶς	image (3x): smooth breathing (apostrophe shape); ano teleia where present
+jonah	oldtestgreek00unknuoft	76	5	μεγάλην..	μεγάλην.. +7	μεγάλην.	μεγάλην.	image (3x): one period; second dot is smaller and lighter, a speck
+jonah	oldtestgreek00unknuoft	76	5	7 +Kai	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jonah	oldtestgreek00unknuoft	76	6	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jonah	oldtestgreek00unknuoft	76	7	*xai	ὅκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jonah	oldtestgreek00unknuoft	76	9	κεφαλὴν	κεφαλὴν	κεφαλὴν	κεφαλὴν	image (3x): grave on κεφαλὴν before capitalized Ἰωνᾶ (not a quotation)
+jonah	oldtestgreek00unknuoft	76	9	Ἰωνᾶ:	Ἰωνᾶ:	Ἰωνᾶ·	Ἰωνᾶ·	image (3x): smooth breathing (apostrophe shape); ano teleia where present
+jonah	oldtestgreek00unknuoft	76	9	ὠλιγοψύχησεν	ὠλιγοψύχησεν.	ὠλιγοψύχησεν	ὠλιγοψύχησεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+jonah	oldtestgreek00unknuoft	76	10	Καλόν	Καλόν	Καλόν	Καλόν	image (3x): acute on Καλόν before enclitic μοι
+jonah	oldtestgreek00unknuoft	76	10	ἀποθανεῖν.	ἀποθανεῖν.	ἀποθανεῖν	ἀποθανεῖν	image (3x): faint show-through speck, no period
+jonah	oldtestgreek00unknuoft	76	10	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+jonah	oldtestgreek00unknuoft	76	11	ζῇν.	ζῆν.	ζῆν.	ζῆν.	image (3x): ζῆν circumflex, no iota subscript
+jonah	oldtestgreek00unknuoft	76	11	beds	θεὸς	θεὸς	θεὸς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jonah	oldtestgreek00unknuoft	76	11	Ἰωνᾶν	Ἰωνᾶν	Ἰωνᾶν	Ἰωνᾶν	image (3x): smooth breathing (apostrophe shape); ano teleia where present
+jonah	oldtestgreek00unknuoft	76	11	Ei	Εἰ	Εἰ	Εἰ	image (3x): Εἰ smooth breathing on iota
+jonah	oldtestgreek00unknuoft	76	12	"“καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jonah	oldtestgreek00unknuoft	76	15	""ἐγὼ	"ἐγὼ	ἐγὼ	ἐγὼ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jonah	oldtestgreek00unknuoft	76	16	ἧ	ἧ	ᾗ	ᾗ	image (3x): ᾗ rough breathing + circumflex, iota subscript
+jonah	oldtestgreek00unknuoft	76	5	-	-	μεγάλην.	μεγάλην.	ambiguous: two dots after the word; the second is smaller and lighter, read single period
+jonah	oldtestgreek00unknuoft	76	14	-	-	ἣ	ἣ	image (4x): compact closed mark, rough + grave
+jonah	oldtestgreek00unknuoft	76	17	-	-	ἢ	ἢ	image (4x): open two-part mark, smooth + grave

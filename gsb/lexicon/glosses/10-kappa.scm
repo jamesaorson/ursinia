@@ -46,7 +46,10 @@
     (why "The connective, always rendered so the parataxis of the Greek stays visible. At the start of a sentence it stays \"And\" in the literal layer; the readable layer usually keeps it too."))
   (sense also
     (gloss "also")
-    (why "Adverbial καί, adding a word rather than joining clauses: \"she gave also to her man\" (Genesis 3:6). \"Even\" becomes its own sense when first needed.")))
+    (why "Adverbial καί, adding a word rather than joining clauses: \"she gave also to her man\" (Genesis 3:6). \"Even\" becomes its own sense when first needed."))
+  (sense both
+    (gloss "both")
+    (why "The first καί of καὶ ... καί, \"both ... and\" (Genesis 43:8 καὶ ἡμεῖς καὶ σὺ καὶ ἡ ἀποσκευὴ ἡμῶν \"both we and you and our baggage\"; Matthew 10:28). Shares \"both\" with τε of τε ... καί, the same correlation; the alignment shows which Greek word stands behind it.")))
 
 (lemma "Κάϊν" (sense name (gloss "Cain") (why "Traditional English form; also Hebrews 11:4, 1 John 3:12. Swete writes Κάιν without the diaeresis.")))
 

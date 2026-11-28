@@ -1,0 +1,49 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+amos	oldtestgreek00unknuoft	40	1	ΛΟΓῸΙ	ΛΟΓῸΙ	ΛΟΓΟΙ	ΛΟΓΟΙ	image (3x): unaccented capitals of the book opening
+amos	oldtestgreek00unknuoft	40	1	Ἀμὼς	Ἀμὼς	Ἀμὼς	Ἀμὼς	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	40	1	οἱ	οἱ	οἳ	οἳ	image (4x): compact closed mark = rough + grave
+amos	oldtestgreek00unknuoft	40	1	Ἀκκαρεὶμ	Ἀκκαρεὶμ	Ἀκκαρεὶμ	Ἀκκαρεὶμ	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	40	1	ots	οὗς	οὓς	οὓς	image (4x): compact closed mark = rough + grave
+amos	oldtestgreek00unknuoft	40	1	ὑπὲρ +x	ὑπὲρ	ὑπὲρ	ὑπὲρ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	40	2	Ἰερουσαλὴμ	τ +ΕΣ Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	40	2	ἡμέραις	ἡμέραις +»	ἡμέραις	ἡμέραις	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	40	2	Ὀζείου	Ὀζείου	Ὀζείου	Ὀζείου	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	40	2	βασιλέως	βασιλέως +ΕΣ	βασιλέως	βασιλέως	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	40	2	Ἰούδα	Ἰούδα +᾿	Ἰούδα	Ἰούδα	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	40	2	Ἴερο-	Ε +Ἴερο-	Ἰερο-	Ἰερο-	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	40	3	Ἰωὰς	Ἰωὰς	Ἰωὰς	Ἰωὰς	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	40	3	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	40	3	σεισμοῦ. +5	σεισμοῦ. +Ξ	σεισμοῦ.	σεισμοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	40	4	Ἱερουσαλὴμ᾽	ἸἹερουσαλὴμ᾽	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	40	4	ἔδωκεν	ἔδωκεν +2	ἔδωκεν	ἔδωκεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	40	5	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+amos	oldtestgreek00unknuoft	40	7	3Καὶ	3Καὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	40	7	πὶ	Ἐπὶ	Ἐπὶ	Ἐπὶ	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	40	7	ἐπὶ +3	ἐπὶ +3	ἐπὶ	ἐπὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	40	8	mpioow	πρίοσιν	πρίοσιν	πρίοσιν	class R5: Latin-letter substitution in OCR; c read from the image strip
+amos	oldtestgreek00unknuoft	40	9	“ἐχούσας	"ἐχούσας	ἐχούσας	ἐχούσας	image (3x): § witness mark printed in the text before the word; kept
+amos	oldtestgreek00unknuoft	40	9	Tadadd:	Ταλαάδ᾽	Γαλαάδ·	Γαλαάδ·	image (3x): Γ, not Τ
+amos	oldtestgreek00unknuoft	40	9	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	40	9	ἐξαποστελῶ	ἐξαποστελῶ.	ἐξαποστελῶ	ἐξαποστελῶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+amos	oldtestgreek00unknuoft	40	10	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+amos	oldtestgreek00unknuoft	40	10	Ἀζαήλ,	Ἀζαήλ,	Ἁζαήλ,	Ἁζαήλ,	image (3x): rough breathing (reversed comma) on the capital
+amos	oldtestgreek00unknuoft	40	10	Ἀδέρ-	Ἀδέρ-	Ἁδέρ·	Ἁδέρ·	image (3x): rough breathing (reversed comma) on the capital
+amos	oldtestgreek00unknuoft	40	10	"καὶ	"καὶ +ς	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	40	11	μοχλοὺς	μοχλοὺς	μοχλοὺς	μοχλοὺς	image (3x): grave on oxytone before capitalized name, as printed
+amos	oldtestgreek00unknuoft	40	12	Ὧν,	Ὧν,	Ὤν,	Ὤν,	image (4x): apostrophe then rising stroke = smooth + acute
+amos	oldtestgreek00unknuoft	40	13	λαὸς	λαὸς	λαὸς	λαὸς	image (3x): grave on oxytone before capitalized name, as printed
+amos	oldtestgreek00unknuoft	40	14	ὁΤάδε	ὁΤάδε	Τάδε	Τάδε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	40	14	Ἐπὶ	Ἐπὶ	Ἐπὶ	Ἐπὶ	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	40	14	Τάζης	Τάζης	Γάζης	Γάζης	image (3x): Γ, not Τ
+amos	oldtestgreek00unknuoft	40	14	ἐπὶ	ἐπὶ +6	ἐπὶ	ἐπὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	40	17	Ἰδουμαίαν:	Ἰδουμαίαν:	Ἰδουμαίαν·	Ἰδουμαίαν·	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	40	17	Τκαὶ	Τκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	40	17	Τ'άζης,	Τ'άζης,	Γάζης,	Γάζης,	image (3x): Γ, not Τ
+amos	oldtestgreek00unknuoft	40	18	*xai	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	40	18	Ἀζώτου,	Ἀζώτου,	Ἀζώτου,	Ἀζώτου,	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	40	19	Ἀσκάλωνος,	Ἀσκάλωνος,	Ἀσκάλωνος,	Ἀσκάλωνος,	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	40	19	χεῖρά	χεῖρά	χεῖρά	χεῖρά	image (3x): χεῖρά with added acute before enclitic μου
+amos	oldtestgreek00unknuoft	40	20	Ἀκκαρών,	Ἀκκαρών,	Ἀκκαρών,	Ἀκκαρών,	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	40	22	ϑΤάδε	ϑΤάδε	Τάδε	Τάδε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	40	22	Ἐπὶ	Ἐπὶ	Ἐπὶ	Ἐπὶ	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	40	22	ἐπὶ +9	ἐπὶ +9	ἐπὶ	ἐπὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip

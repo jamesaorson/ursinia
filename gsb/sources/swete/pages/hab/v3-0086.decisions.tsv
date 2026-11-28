@@ -1,0 +1,32 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+hab	oldtestgreek00unknuoft	86	1	ὅρμημά	ὅρμημά	ὅρμημά	ὅρμημά	image (3x): acute before enclitic, as printed
+hab	oldtestgreek00unknuoft	86	2	σου, +᾿	σου, +᾿	σου,	σου,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hab	oldtestgreek00unknuoft	86	4	ἐντείνων	ϑέντείνων	ἐντείνων	ἐντείνων	class R6 (OCR letters differ): the other OCR reading agrees with c
+hab	oldtestgreek00unknuoft	86	4	Κύριος. +9	Κύριος. +9	Κύριος.	Κύριος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hab	oldtestgreek00unknuoft	86	7	6yovrai	λοψονταί	ὄψονταί	ὄψονταί	image (3x): acute before enclitic, as printed
+hab	oldtestgreek00unknuoft	86	7	λαοί. +το	λαοί. +το	λαοί.	λαοί.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hab	oldtestgreek00unknuoft	86	8	πορείας"	πορείας"	πορείας·	πορείας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hab	oldtestgreek00unknuoft	86	11	πήρθη	πήρθη	ἐπήρθη	ἐπήρθη	image (3x): ἐ with smooth breathing after superscript 11; OCRs lost the ἐ
+hab	oldtestgreek00unknuoft	86	11	“6	()ὁ	ὁ	ὁ	image (3x): in-text (11) (encoded {=3:11}) then ὁ with rough breathing
+hab	oldtestgreek00unknuoft	86	11	4	ἡ	ἡ	ἡ	class R6 (OCR letters differ): the other OCR reading agrees with c
+hab	oldtestgreek00unknuoft	86	11	αὐτῆς" +αι	αὐτῆς" +τὶ	αὐτῆς·	αὐτῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hab	oldtestgreek00unknuoft	86	12	πορεύσονται,	πορεύσονται, +:	πορεύσονται,	πορεύσονται,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hab	oldtestgreek00unknuoft	86	13	; +eis	εἰς	εἰς	εἰς	class R6 (OCR letters differ): the other OCR reading agrees with c
+hab	oldtestgreek00unknuoft	86	14	ἐν	ἀξὲν	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+hab	oldtestgreek00unknuoft	86	14	ὀλιγώσεις	ὀλιγώ	ὀλιγώσεις	ὀλιγώσεις	class R6 (OCR letters differ): the other OCR reading agrees with c
+hab	oldtestgreek00unknuoft	86	14	γῆν, +12	ἢ +τ	γῆν,	γῆν,	image (3x): γῆν, ; OCR junk is the right-margin 12 inside the box
+hab	oldtestgreek00unknuoft	86	15	ἔθν	ἔθν	ἔθνη.	ἔθνη.	image (3x): ἔθνη. smooth+acute
+hab	oldtestgreek00unknuoft	86	16	᾿βέξηλθες	᾿ϑέξηλθες	ἐξῆλθες	ἐξῆλθες	image (3x): superscript 13 then ἐξῆλθες (circumflex on η)
+hab	oldtestgreek00unknuoft	86	16	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+hab	oldtestgreek00unknuoft	86	16	σου, +13	σου, +13	σου,	σου,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hab	oldtestgreek00unknuoft	86	17	χριστόν	χριστόν	χριστόν	χριστόν	image (3x): acute before enclitic, as printed
+hab	oldtestgreek00unknuoft	86	17	σου"	σου"	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hab	oldtestgreek00unknuoft	86	20	“4Siéxowas	᾿ἐδιέκοψας	διέκοψας	διέκοψας	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+hab	oldtestgreek00unknuoft	86	20	δυναστῶν, +14	δυναστῶν, +14	δυναστῶν,	δυναστῶν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hab	oldtestgreek00unknuoft	86	21	αὐτῇ"	αὐτῇ"	αὐτῇ·	αὐτῇ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hab	oldtestgreek00unknuoft	86	23	Sxal	᾿ϑκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+hab	oldtestgreek00unknuoft	86	23	σου +15	σου +τ5	σου	σου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hab	oldtestgreek00unknuoft	86	25	᾿δἐφυλαξάμην,	᾿δἐφυλαξάμην,	ἐφυλαξάμην,	ἐφυλαξάμην,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hab	oldtestgreek00unknuoft	86	25	μου +τό	μου +τό	μου	μου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hab	oldtestgreek00unknuoft	86	28	ὑποκάτωθέν	ὑποκάτωθέν	ὑποκάτωθέν	ὑποκάτωθέν	image (3x): acute before enclitic, as printed
+hab	oldtestgreek00unknuoft	86	22	-	-	διανοίξουσιν	διανοίξουσιν	ambiguous: a small stray mark stands over the ο beside the acute on ι (worn or shifted type); read διανοίξουσιν

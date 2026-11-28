@@ -1,0 +1,27 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jonah	oldtestgreek00unknuoft	72	1	KAI	ΚΑΙ	ΚΑΙ	ΚΑΙ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jonah	oldtestgreek00unknuoft	72	1	λύγος	λόγος	λόγος	λόγος	class R6 (OCR letters differ): the other OCR reading agrees with c
+jonah	oldtestgreek00unknuoft	72	1	Ἰωνᾶν	Ἰωνᾶν	Ἰωνᾶν	Ἰωνᾶν	image (3x): smooth breathing (apostrophe shape)
+jonah	oldtestgreek00unknuoft	72	1	Ἀμαθεὶ	Ἀμαθεὶ	Ἀμαθεὶ	Ἀμαθεὶ	image (3x): smooth breathing (apostrophe shape)
+jonah	oldtestgreek00unknuoft	72	2	τ +ΞἈνάστηθι	τ +ΞἈνάστηθι	Ἀνάστηθι	Ἀνάστηθι	image (3x): smooth breathing (apostrophe shape)
+jonah	oldtestgreek00unknuoft	72	2	καὶ +2	καὶ +:	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	72	3	μέ. +5	μέ. +5	μέ.	μέ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	72	3	καὶ +3	καὶ +3	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	72	4	Ἰωνᾶς	Ἰωνᾶς	Ἰωνᾶς	Ἰωνᾶς	image (3x): smooth breathing (apostrophe shape)
+jonah	oldtestgreek00unknuoft	72	5	Ἰόππην"	Ἰόππην"	Ἰόππην·	Ἰόππην·	image (3x): smooth breathing (apostrophe shape)
+jonah	oldtestgreek00unknuoft	72	7	τὴν +4	τὴν +4	τὴν	τὴν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	72	9	συντριβῆναι.	συντριβῆναι. +5	συντριβῆναι.	συντριβῆναι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	72	9	"καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jonah	oldtestgreek00unknuoft	72	9	ἀνεβόησαν +5	ἀνεβόησαν +5	ἀνεβόησαν	ἀνεβόησαν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	72	11	αὐτῶν	αὐτῶν	αὐτῶν·	αὐτῶν·	image (3x): raised dot, ano teleia
+jonah	oldtestgreek00unknuoft	72	12	Ἰωνᾶς	Ὶ +ὡνᾶς	Ἰωνᾶς	Ἰωνᾶς	image (3x): smooth breathing (apostrophe shape)
+jonah	oldtestgreek00unknuoft	72	12	ἔρεγχεν. +δ	ἔρεγχεν. +[Ἱ	ἔρεγχεν.	ἔρεγχεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	72	13	προσῆλθεν	προσῆλθεν +ὄπ	προσῆλθεν	προσῆλθεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	72	13	αὐτὸν	αὐτὸ +ν	αὐτὸν	αὐτὸν	class R6 (OCR letters differ): the other OCR reading agrees with c
+jonah	oldtestgreek00unknuoft	72	13	εἶπεν +εἶπεν	εἶπεν	εἶπεν	εἶπεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	72	13	ῥέ; +6	ῥέγχεις; +6	ῥέγχεις;	ῥέγχεις;	image (3x): ῥέγχεις; with rough breathing on rho; margin 6 not text
+jonah	oldtestgreek00unknuoft	72	14	θεόν	θεόν	θεόν	θεόν	image (3x): acute on θεόν before enclitic σου
+jonah	oldtestgreek00unknuoft	72	15	ΤἸκαὶ	ΤἸκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jonah	oldtestgreek00unknuoft	72	15	Δεῦτε +7	Δεῦτε +7	Δεῦτε	Δεῦτε	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	72	17	Ἰωνᾶν. +ὃ	Ἰωνᾶν.	Ἰωνᾶν.	Ἰωνᾶν.	image (3x): smooth breathing (apostrophe shape)
+jonah	oldtestgreek00unknuoft	72	17	καὶ +8	ὃκαὶ +8	καὶ	καὶ	class R3+R1: OCR appended accent-row or margin junk; OCR fused/misread the superscript verse number into the word; c read from the image strip

@@ -1,0 +1,35 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+zeph	oldtestgreek00unknuoft	88	1	ΔΛΟΙῸΣ	ΛΟΙῸΣ	ΛΟΓΟΣ	ΛΟΓΟΣ	image (3x): ΛΟΓΟΣ / Γοδολίου, Γ not Τ, letters clear
+zeph	oldtestgreek00unknuoft	88	1	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): grave printed on υἱὸν before capitalized name
+zeph	oldtestgreek00unknuoft	88	2	Τοδολίου	τ +Τοδολίου	Γοδολίου	Γοδολίου	image (3x): ΛΟΓΟΣ / Γοδολίου, Γ not Τ, letters clear
+zeph	oldtestgreek00unknuoft	88	2	Ἀμορίου	Ἀμορίου	Ἀμορίου	Ἀμορίου	image (3x): smooth breathing (apostrophe shape)
+zeph	oldtestgreek00unknuoft	88	2	Ἕ	Ἕ	Ἑζεκίου	Ἑζεκίου	image (3x): rough breathing alone, no accent on capital; Ἑζεκίου
+zeph	oldtestgreek00unknuoft	88	2	ζεκίου +ἐν.	ζεκίου +ἐν.	ἐν	ἐν	image (3x): light speck after ἐν, not a period
+zeph	oldtestgreek00unknuoft	88	2	Ἰωσείου	Ἰωσείου	Ἰωσείου	Ἰωσείου	image (3x): smooth breathing (apostrophe shape)
+zeph	oldtestgreek00unknuoft	88	2	Ἀμὼν	Ἀμὼν	Ἀμὼν	Ἀμὼν	image (3x): smooth breathing (apostrophe shape)
+zeph	oldtestgreek00unknuoft	88	3	Ἰ̓ούδα. +; 5	Ἰ̓ούδα. +; 5	Ἰούδα.	Ἰούδα.	image (3x): smooth breathing; OCR junk after period is margin
+zeph	oldtestgreek00unknuoft	88	4	Ἐκλείψει	Ἐκλείψει	Ἐκλείψει	Ἐκλείψει	image (3x): smooth breathing (apostrophe shape)
+zeph	oldtestgreek00unknuoft	88	4	λέγει.	λέγει.	λέγει	λέγει	image (3x): light speck below baseline after λέγει, not a period
+zeph	oldtestgreek00unknuoft	88	4	Κύριος"	Κύριος"	Κύριος·	Κύριος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zeph	oldtestgreek00unknuoft	88	5	3éximér@	. +βέἐκλιπέτω	ἐκλιπέτω	ἐκλιπέτω	image (3x): ἐκλιπέτω after superscript 3
+zeph	oldtestgreek00unknuoft	88	5	οὐρανοῦ +3 :	οὐρανοῦ +3 :	οὐρανοῦ	οὐρανοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zeph	oldtestgreek00unknuoft	88	6	θαλάσσης"	θαλάσσης"	θαλάσσης·	θαλάσσης·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zeph	oldtestgreek00unknuoft	88	7	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zeph	oldtestgreek00unknuoft	88	7	ἐκτενῶ +4	ἐκτενῶ +κα	ἐκτενῶ	ἐκτενῶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zeph	oldtestgreek00unknuoft	88	8	χεῖρά	χεῖρά	χεῖρά	χεῖρά	image (3x): χεῖρά with acute before enclitic μου
+zeph	oldtestgreek00unknuoft	88	8	Ἰούδαν	Ἰούδαν	Ἰούδαν	Ἰούδαν	image (3x): smooth breathing (apostrophe shape)
+zeph	oldtestgreek00unknuoft	88	8	Ἱερου-	Ἱερου-	Ἰερου-	Ἰερου-	image (3x): smooth breathing (apostrophe shape)
+zeph	oldtestgreek00unknuoft	88	9	σαλήμ-	σαλήμ-	σαλήμ·	σαλήμ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zeph	oldtestgreek00unknuoft	88	10	ἱερέων,	ἱερέων, +5	ἱερέων,	ἱερέων,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zeph	oldtestgreek00unknuoft	88	10	"καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zeph	oldtestgreek00unknuoft	88	10	τῇ +5	τῇ +ς	τῇ	τῇ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zeph	oldtestgreek00unknuoft	88	12	αὐτῶν, +"	αὐτῶν, +ὅ	αὐτῶν,	αὐτῶν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zeph	oldtestgreek00unknuoft	88	12	καὶ +6	καὶ +6	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zeph	oldtestgreek00unknuoft	88	15	ΤΕὐλαβεῖσθε	ΤΕὐλαβεῖσθε	Εὐλαβεῖσθε	Εὐλαβεῖσθε	image (3x): Εὐ smooth breathing; superscript 7 not text
+zeph	oldtestgreek00unknuoft	88	15	ἡμέρα	ἡμέρα +7	ἡμέρα	ἡμέρα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zeph	oldtestgreek00unknuoft	88	16	TOU	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zeph	oldtestgreek00unknuoft	88	16	κυριου,	κυρίου,	κυρίου,	κυρίου,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+zeph	oldtestgreek00unknuoft	88	16	OTL	ὅτι	ὅτι	ὅτι	class R5: Latin-letter substitution in OCR; c read from the image strip
+zeph	oldtestgreek00unknuoft	88	16	ἡτοίιμᾶακεν	ἡτοίμακεν	ἡτοίμακεν	ἡτοίμακεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+zeph	oldtestgreek00unknuoft	88	16	αὐτου,	αὐτοῦ,	αὐτοῦ,	αὐτοῦ,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+zeph	oldtestgreek00unknuoft	88	16	ἡγιακεν	ἡγίακεν	ἡγίακεν	ἡγίακεν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c

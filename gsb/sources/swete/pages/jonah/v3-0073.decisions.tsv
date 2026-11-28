@@ -1,0 +1,59 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jonah	oldtestgreek00unknuoft	73	1	εἶπον	εἰπὸν	εἶπον	εἶπον	image (3x): εἶπον, circumflex on ει, no accent on ο
+jonah	oldtestgreek00unknuoft	73	1	αὐτόν	αὐτόν	αὐτόν	αὐτόν	image (3x): acute before capitalized word
+jonah	oldtestgreek00unknuoft	73	1	Ἀπάγγειλον	Ἀπάγγειλον	Ἀπάγγειλον	Ἀπάγγειλον	image (3x): smooth breathing (apostrophe shape)
+jonah	oldtestgreek00unknuoft	73	1	τίς	τίς	τίς	τίς	image (3x): acute on τίς before enclitic σου
+jonah	oldtestgreek00unknuoft	73	1	καὶ +B	καὶ +Β	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	73	2	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jonah	oldtestgreek00unknuoft	73	2	ov;	σύ;	σύ;	σύ;	class R5: Latin-letter substitution in OCR; c read from the image strip
+jonah	oldtestgreek00unknuoft	73	3	αὐτούς	αὐτούς	αὐτούς	αὐτούς	image (3x): acute before capitalized word
+jonah	oldtestgreek00unknuoft	73	3	ἐγώ	ἐγώ	ἐγώ	ἐγώ	image (3x): acute on ἐγώ before enclitic εἰμι
+jonah	oldtestgreek00unknuoft	73	4	τὴν.	τὴν.	τὴν	τὴν	image (3x): faint show-through speck, no printed period
+jonah	oldtestgreek00unknuoft	73	4	ξηράν.	ξηράν. +““	ξηράν.	ξηράν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	73	4	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jonah	oldtestgreek00unknuoft	73	5	αὐτόν	αὐτόν	αὐτόν	αὐτόν	image (3x): acute before capitalized word
+jonah	oldtestgreek00unknuoft	73	6	ἡσας;	ἡσας;	ησας;	ησας;	image (3x): word-half after hyphen, no breathing printed
+jonah	oldtestgreek00unknuoft	73	6	ἔγνωσαν.	ἔγνωσαν.	ἔγνωσαν	ἔγνωσαν	image (3x): faint show-through speck, no printed period
+jonah	oldtestgreek00unknuoft	73	6	οἵ	οἵ	οἱ	οἱ	image (3x): οἱ rough breathing only, no accent
+jonah	oldtestgreek00unknuoft	73	6	ἦν.	ἦν.	ἦν	ἦν	image (3x): faint show-through speck, no printed period
+jonah	oldtestgreek00unknuoft	73	7	“καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jonah	oldtestgreek00unknuoft	73	7	αὐτόν	αὐτόν	αὐτόν	αὐτόν	image (3x): acute before capitalized word
+jonah	oldtestgreek00unknuoft	73	7	Τί	Τί	Τί	Τί	image (3x): acute on Τί before enclitic σοι
+jonah	oldtestgreek00unknuoft	73	8	dri	ὅτὶ	ὅτι	ὅτι	image (3x): ὅτι, no accent on iota
+jonah	oldtestgreek00unknuoft	73	9	μᾶλλον +᾿	μᾶλλον +᾿	μᾶλλον	μᾶλλον	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	73	9	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jonah	oldtestgreek00unknuoft	73	9	εἶπεν +>	εἶπεν	εἶπεν	εἶπεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	73	9	Ἰωνᾶς	Ἰωνᾶς	Ἰωνᾶς	Ἰωνᾶς	image (3x): smooth breathing (apostrophe shape)
+jonah	oldtestgreek00unknuoft	73	9	αὐτούς	αὐτούς	αὐτούς	αὐτούς	image (3x): acute before capitalized word
+jonah	oldtestgreek00unknuoft	73	9	ὦ +“Apaté	"Αρατέ	Ἄρατέ	Ἄρατέ	image (3x): smooth breathing + acute (apostrophe then rising stroke) on Ἄ; acute on ρατέ before enclitic με
+jonah	oldtestgreek00unknuoft	73	10	ἐμβάλετέ	ἐμβάλετέ	ἐμβάλετέ	ἐμβάλετέ	image (3x): ἐμβάλετέ with second acute before enclitic με
+jonah	oldtestgreek00unknuoft	73	10	ὑμῶν"	ὑμῶν:	ὑμῶν·	ὑμῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jonah	oldtestgreek00unknuoft	73	12	Ξ̓καὶ	Ξ̓καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jonah	oldtestgreek00unknuoft	73	12	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jonah	oldtestgreek00unknuoft	73	12	7)-	ἡ-	ἠ-	ἠ-	image (3x): ἠ smooth breathing
+jonah	oldtestgreek00unknuoft	73	13	ἐπορεύετό	ἐπορεύετό	ἐπορεύετο	ἐπορεύετο	ambiguous (3x): faint mark above final ο is lighter than the ink, show-through like other ghost marks on the line; read ἐπορεύετο
+jonah	oldtestgreek00unknuoft	73	14	“καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jonah	oldtestgreek00unknuoft	73	14	Κύριε᾽	Κύριε᾽	Κύριε·	Κύριε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jonah	oldtestgreek00unknuoft	73	14	μὴ.	μὴ.	μὴ	μὴ	image (3x): faint show-through speck, no printed period
+jonah	oldtestgreek00unknuoft	73	15	δῷς.	δῷς.	δῷς	δῷς	image (3x): faint show-through speck, no printed period
+jonah	oldtestgreek00unknuoft	73	16	δίκαιον;	δίκαιον;	δίκαιον,	δίκαιον,	image (3x): comma, not ano teleia question mark
+jonah	oldtestgreek00unknuoft	73	16	διότι	διότε	διότι	διότι	class R6 (OCR letters differ): the other OCR reading agrees with c
+jonah	oldtestgreek00unknuoft	73	16	ov,	σύ,	σύ,	σύ,	image (3x): acute before capitalized word
+jonah	oldtestgreek00unknuoft	73	16	dv	ὃν	ὃν	ὃν	class R5: Latin-letter substitution in OCR; c read from the image strip
+jonah	oldtestgreek00unknuoft	73	16	πεποίηκας.	πεποίηκας. +"δ	πεποίηκας.	πεποίηκας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	73	16	“Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jonah	oldtestgreek00unknuoft	73	17	Ἰωνᾶν	Ἰωνᾶν	Ἰωνᾶν	Ἰωνᾶν	image (3x): smooth breathing (apostrophe shape)
+jonah	oldtestgreek00unknuoft	73	18	ἐκ.	ἐκ.	ἐκ	ἐκ	image (3x): faint show-through speck, no printed period
+jonah	oldtestgreek00unknuoft	73	18	αὐτῆς. +"6	αὐτῆς. +"6	αὐτῆς.	αὐτῆς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	73	19	μεγάλῳ	εγάλῳ	μεγάλῳ	μεγάλῳ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jonah	oldtestgreek00unknuoft	73	19	τὸν	τὸν +τὸν	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jonah	oldtestgreek00unknuoft	73	19	εὐχάς.	εὐχάς	εὐχάς.	εὐχάς.	class R6 (OCR letters differ): the other OCR reading agrees with c
+jonah	oldtestgreek00unknuoft	73	20	*Kal	"Καὶ	Καὶ	Καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jonah	oldtestgreek00unknuoft	73	20	κή	κήτει	κήτει	κήτει	class R6 (OCR letters differ): the other OCR reading agrees with c
+jonah	oldtestgreek00unknuoft	73	20	aN	μεγάλῳ	μεγάλῳ	μεγάλῳ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jonah	oldtestgreek00unknuoft	73	20	ταπιεῖν	καταπιεῖν	καταπιεῖν	καταπιεῖν	class R6 (OCR letters differ): the other OCR reading agrees with c
+jonah	oldtestgreek00unknuoft	73	20	Ἰωνᾶν"	Ἰωνᾶν"	Ἰωνᾶν·	Ἰωνᾶν·	image (3x): smooth breathing (apostrophe shape)
+jonah	oldtestgreek00unknuoft	73	21	Ἰωνᾶς	Ἰωνᾶς	Ἰωνᾶς	Ἰωνᾶς	image (3x): smooth breathing (apostrophe shape)
+jonah	oldtestgreek00unknuoft	73	22	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jonah	oldtestgreek00unknuoft	73	22	‘lavas	Ἰωνᾶς	Ἰωνᾶς	Ἰωνᾶς	image (3x): smooth breathing (apostrophe shape)
+jonah	oldtestgreek00unknuoft	73	23	3καὶ	Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip

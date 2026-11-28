@@ -1,0 +1,50 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+joel	oldtestgreek00unknuoft	67	1	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing (apostrophe shape) on the capital
+joel	oldtestgreek00unknuoft	67	1	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave on υἱοὺς before the capitalized name
+joel	oldtestgreek00unknuoft	67	1	᾿ερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing (apostrophe shape) on the capital
+joel	oldtestgreek00unknuoft	67	1	ἙἝλλή-.	ἙἝλλή-.	Ἑλλή-	Ἑλλή-	image (3x): rough breathing (reversed comma) on Ἑλλή-
+joel	oldtestgreek00unknuoft	67	2	∅	Β	νων,	νων,	image (3x): νων, printed at the line start after margin 7 (OCRs lost it)
+joel	oldtestgreek00unknuoft	67	2	Τἰδοὺ	Τἰδοὺ	ἰδοὺ	ἰδοὺ	image (3x): word as written; OCR noise is the verse superscript or margin number
+joel	oldtestgreek00unknuoft	67	4	*xai	ΓΕ. +ὅκαὶ	καὶ	καὶ	image (3x): word as written; OCR noise is the verse superscript or margin number
+joel	oldtestgreek00unknuoft	67	5	Ἰούδα,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing (apostrophe shape) on the capital
+joel	oldtestgreek00unknuoft	67	5	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+joel	oldtestgreek00unknuoft	67	7	ϑΚηρύξατε	ϑΚηρύξατε	Κηρύξατε	Κηρύξατε	image (3x): word as written; OCR noise is the verse superscript or margin number
+joel	oldtestgreek00unknuoft	67	8	gate	σατε	σατε	σατε	class R5: Latin-letter substitution in OCR; c read from the image strip
+joel	oldtestgreek00unknuoft	67	8	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+joel	oldtestgreek00unknuoft	67	8	ava-	ἀνα-	ἀνα-	ἀνα-	class R5: Latin-letter substitution in OCR; c read from the image strip
+joel	oldtestgreek00unknuoft	67	9	Baivere	βαίνετε	βαίνετε	βαίνετε	class R5: Latin-letter substitution in OCR; c read from the image strip
+joel	oldtestgreek00unknuoft	67	9	πολεμισταΐ,	πολεμισταί, +“᾽	πολεμισταί,	πολεμισταί,	image (3x): acute on ι, no diaeresis
+joel	oldtestgreek00unknuoft	67	9	“᾿συγκόψατε	συγκόψατε	συγκόψατε	συγκόψατε	class R6 (OCR letters differ): the other OCR reading agrees with c
+joel	oldtestgreek00unknuoft	67	10	σειρομάστας"	σειρομάστας"	σειρομάστας·	σειρομάστας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+joel	oldtestgreek00unknuoft	67	10	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+joel	oldtestgreek00unknuoft	67	11	Ἰσχύω	Ἰσχύω	Ἰσχύω	Ἰσχύω	image (3x): smooth breathing (apostrophe shape) on the capital
+joel	oldtestgreek00unknuoft	67	11	"᾿συναθροίζεσθε	"᾿συναθροίζεσθε	συναθροίζεσθε	συναθροίζεσθε	image (3x): word as written; OCR noise is the verse superscript or margin number
+joel	oldtestgreek00unknuoft	67	11	εἰσπορεύεσθε.	εἰσπορεύεσθε.	εἰσπορεύεσθε	εἰσπορεύεσθε	ambiguous: small dot at mid letter height between εἰσπορεύεσθε and πάντα, lower and lighter than the ano teleia after σειρομάστας; read as a speck, no punctuation
+joel	oldtestgreek00unknuoft	67	12	ἐκεῖ:	ἐκεῖ:	ἐκεῖ·	ἐκεῖ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+joel	oldtestgreek00unknuoft	67	12	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+joel	oldtestgreek00unknuoft	67	12	μαχητήῆς. +"5	μαχητής.	μαχητής.	μαχητής.	class R6 (OCR letters differ): the other OCR reading agrees with c
+joel	oldtestgreek00unknuoft	67	12	ἐξεγει-	"ἐξεγει-	ἐξεγει-	ἐξεγει-	class R6 (OCR letters differ): the other OCR reading agrees with c
+joel	oldtestgreek00unknuoft	67	13	Ἰωσαφάτ,	Ἰωσαφάτ,	Ἰωσαφάτ,	Ἰωσαφάτ,	image (3x): smooth breathing (apostrophe shape) on the capital
+joel	oldtestgreek00unknuoft	67	14	διότι	διότε	διότι	διότι	class R6 (OCR letters differ): the other OCR reading agrees with c
+joel	oldtestgreek00unknuoft	67	14	"3ἐξαπο-	"3Ξἐξαπο-	ἐξαπο-	ἐξαπο-	image (3x): word as written; OCR noise is the verse superscript or margin number
+joel	oldtestgreek00unknuoft	67	15	τρυγητός"	τρυγητύς"	τρυγητός·	τρυγητός·	image (3x): τρυγητός with ο, raised point = ano teleia
+joel	oldtestgreek00unknuoft	67	16	dts	διότι	διότι	διότι	class R5: Latin-letter substitution in OCR; c read from the image strip
+joel	oldtestgreek00unknuoft	67	16	ληνός:	ληνός"	ληνός·	ληνός·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+joel	oldtestgreek00unknuoft	67	17	“you	"Γἦχοι	ἦχοι	ἦχοι	image (3x): ἦχοι, smooth breathing + circumflex
+joel	oldtestgreek00unknuoft	67	18	᾿5ὁ	᾿5ὁ	ὁ	ὁ	image (3x): word as written; OCR noise is the verse superscript or margin number
+joel	oldtestgreek00unknuoft	67	19	of	οἱ +ἡ	οἱ	οἱ	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+joel	oldtestgreek00unknuoft	67	19	"ὁ	"ὁ	ὁ	ὁ	image (3x): word as written; OCR noise is the verse superscript or margin number
+joel	oldtestgreek00unknuoft	67	20	Ἰερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing (apostrophe shape) on the capital
+joel	oldtestgreek00unknuoft	67	21	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+joel	oldtestgreek00unknuoft	67	21	yn᾽	γῆ"	γῆ·	γῆ·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+joel	oldtestgreek00unknuoft	67	22	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave on υἱοὺς before the capitalized name
+joel	oldtestgreek00unknuoft	67	22	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing (apostrophe shape) on the capital
+joel	oldtestgreek00unknuoft	67	22	"καὶ	"καὶ	καὶ	καὶ	image (3x): word as written; OCR noise is the verse superscript or margin number
+joel	oldtestgreek00unknuoft	67	23	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ before Κύριος
+joel	oldtestgreek00unknuoft	67	23	pou:	μου"	μου·	μου·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+joel	oldtestgreek00unknuoft	67	24	ἔσται +>	ἔσται	ἔσται	ἔσται	class R3: OCR appended accent-row or margin junk; c read from the image strip
+joel	oldtestgreek00unknuoft	67	24	Ἰερουσαλὴμ	Ε +Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing (apostrophe shape) on the capital
+joel	oldtestgreek00unknuoft	67	25	οὐκέτι. +δ	οὐκέτι. +δ	οὐκέτι.	οὐκέτι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+joel	oldtestgreek00unknuoft	67	27	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing (apostrophe shape) on the capital
+joel	oldtestgreek00unknuoft	67	11	-	-	εἰσπορεύεσθε	εἰσπορεύεσθε	ambiguous: dot at mid letter height after the word, not at ano-teleia height; read as a speck
+joel	oldtestgreek00unknuoft	67	12	-	-	πρᾳὺς	πρᾳὺς	image (3x): iota subscript under α and grave on υ, as printed

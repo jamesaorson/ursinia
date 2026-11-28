@@ -1,0 +1,44 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+mal	oldtestgreek00unknuoft	123	1	Παντοκράτωρ. +"3	Παντοκράτωρ. +"3	Παντοκράτωρ.	Παντοκράτωρ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+mal	oldtestgreek00unknuoft	123	1	Ἐβαρύνατε	Ἐβαρύνατε	Ἐβαρύνατε	Ἐβαρύνατε	image (3x): smooth breathing (apostrophe shape) on the capital
+mal	oldtestgreek00unknuoft	123	1	ὑμῶν,	ὑμῶν, +Β	ὑμῶν,	ὑμῶν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+mal	oldtestgreek00unknuoft	123	2	εἴπατε.	εἴπατε.	εἴπατε	εἴπατε	image (3x): no period after the word
+mal	oldtestgreek00unknuoft	123	2	Ἔν	Ἔν	Ἐν	Ἐν	image (3x): smooth breathing only, no accent on Ἐν
+mal	oldtestgreek00unknuoft	123	2	rive	τίνε	τίνι	τίνι	image (3x): reading as in the page file; OCR junk / verse superscript / Latin look-alikes / lowercase
+mal	oldtestgreek00unknuoft	123	2	“ei-	"“εἴ-	εἴ-	εἴ-	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+mal	oldtestgreek00unknuoft	123	3	mate	πατε	πατε	πατε	class R5: Latin-letter substitution in OCR; c read from the image strip
+mal	oldtestgreek00unknuoft	123	3	Maraos	Μάταιος	Μάταιος	Μάταιος	class R5: Latin-letter substitution in OCR; c read from the image strip
+mal	oldtestgreek00unknuoft	123	3	ὅτι.	ὅτι.	ὅτι	ὅτι	image (3x): no period after the word
+mal	oldtestgreek00unknuoft	123	4	προσώπου	προσώπου.	προσώπου	προσώπου	class R6 (OCR letters differ): the other OCR reading agrees with c
+mal	oldtestgreek00unknuoft	123	5	‘Skat	""καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+mal	oldtestgreek00unknuoft	123	5	viv	νῦν	νῦν	νῦν	class R5: Latin-letter substitution in OCR; c read from the image strip
+mal	oldtestgreek00unknuoft	123	7	Tadra	ταῦτα	Ταῦτα	Ταῦτα	image (3x): reading as in the page file; OCR junk / verse superscript / Latin look-alikes / lowercase
+mal	oldtestgreek00unknuoft	123	8	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+mal	oldtestgreek00unknuoft	123	10	αὐτοῦ.	αὐτοῦ. +“7	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+mal	oldtestgreek00unknuoft	123	10	ἔσονταί	ἔσονταί	ἔσονταί	ἔσονταί	image (3x): acute on the last syllable before the enclitic
+mal	oldtestgreek00unknuoft	123	13	αὐτῷ.	αὐτῷ. +18	αὐτῷ.	αὐτῷ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+mal	oldtestgreek00unknuoft	123	14	θεῷ +x	θεῷ +τ:	θεῷ	θεῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+mal	oldtestgreek00unknuoft	123	15	wre	τ᾿, +᾿διότε	διότι	διότι	image (3x): reading as in the page file; OCR junk / verse superscript / Latin look-alikes / lowercase
+mal	oldtestgreek00unknuoft	123	15	ἔρχεται	ἐρχεται	ἔρχεται	ἔρχεται	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+mal	oldtestgreek00unknuoft	123	15	καιομένη	καιομενὴ	καιομένη	καιομένη	image (3x): acute on έ, no accent on final η
+mal	oldtestgreek00unknuoft	123	18	μὴ +2	μὴ +2	μὴ	μὴ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+mal	oldtestgreek00unknuoft	123	19	“καὶ	“καὶ	καὶ	καὶ	image (3x): reading as in the page file; OCR junk / verse superscript / Latin look-alikes / lowercase
+mal	oldtestgreek00unknuoft	123	20	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): acute on the last syllable before the enclitic
+mal	oldtestgreek00unknuoft	123	21	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+mal	oldtestgreek00unknuoft	123	21	μοσχάρια +3	μοσχάρια +3	μοσχάρια	μοσχάρια	class R3: OCR appended accent-row or margin junk; c read from the image strip
+mal	oldtestgreek00unknuoft	123	22	3ϑκαὶ	3καὶ	καὶ	καὶ	image (3x): reading as in the page file; OCR junk / verse superscript / Latin look-alikes / lowercase
+mal	oldtestgreek00unknuoft	123	23	ἧ	ἣἧ	ᾗ	ᾗ	image (3x): rough breathing + circumflex + iota subscript
+mal	oldtestgreek00unknuoft	123	23	ποιῶ, +4	ποιῶ, +4	ποιῶ,	ποιῶ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+mal	oldtestgreek00unknuoft	123	24	“Καὶ	“Καὶ	Καὶ	Καὶ	image (3x): reading as in the page file; OCR junk / verse superscript / Latin look-alikes / lowercase
+mal	oldtestgreek00unknuoft	123	25	Ἠλίαν	Ἠλίαν	Ἠλίαν	Ἠλίαν	image (3x): smooth breathing (apostrophe shape) on the capital
+mal	oldtestgreek00unknuoft	123	25	μεγάλην	μεγάλην. +5	μεγάλην	μεγάλην	class R6 (OCR letters differ): the other OCR reading agrees with c
+mal	oldtestgreek00unknuoft	123	26	|	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+mal	oldtestgreek00unknuoft	123	26	∅	ἐπιφανῆ,	ἐπιφανῆ,	ἐπιφανῆ,	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	123	26	∅	"ὃς	ὃς	ὃς	image (3x): rough + grave as one compact closed mark, ὃς
+mal	oldtestgreek00unknuoft	123	26	∅	ἀποκαταστήσει	ἀποκαταστήσει	ἀποκαταστήσει	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	123	26	∅	καρδίαν	καρδίαν	καρδίαν	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	123	26	∅	πατρὸς	πατρὸς	πατρὸς	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	123	26	∅	πρὸς	πρὸς	πρὸς	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	123	26	∅	υἱὸν	υἱὸν	υἱὸν	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	123	26	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+mal	oldtestgreek00unknuoft	123	15	-	-	διότι	διότι	margin numeral of chapter shows only V (the I is in the scan gutter); running head IV 5 confirms chapter IV; {C4} placed at superscript 1 before διότι

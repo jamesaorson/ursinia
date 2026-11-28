@@ -1,0 +1,16 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+nah	oldtestgreek00unknuoft	81	1	αὐτοῖς. +18	αὐτοῖς.	αὐτοῖς.	αὐτοῖς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+nah	oldtestgreek00unknuoft	81	1	ἐνύσταξαν	"δἐνύσταξαν	ἐνύσταξαν	ἐνύσταξαν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+nah	oldtestgreek00unknuoft	81	1	σου, +B	σου, +Β	σου,	σου,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+nah	oldtestgreek00unknuoft	81	2	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave before Ἀσσύριος (not a quotation)
+nah	oldtestgreek00unknuoft	81	2	Ἀσσύριος,	Ἀσσύριος,	Ἀσσύριος,	Ἀσσύριος,	image (3x): smooth breathing (apostrophe shape) on Α
+nah	oldtestgreek00unknuoft	81	2	σου:	σου	σου·	σου·	image (3x): ano teleia
+nah	oldtestgreek00unknuoft	81	2	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+nah	oldtestgreek00unknuoft	81	2	λαός	λαός	λαός	λαός	image (3x): acute before enclitic as printed
+nah	oldtestgreek00unknuoft	81	3	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+nah	oldtestgreek00unknuoft	81	3	YovK	"ϑοὺκ	οὐκ	οὐκ	image (3x): superscript 19 before οὐκ, not text
+nah	oldtestgreek00unknuoft	81	3	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+nah	oldtestgreek00unknuoft	81	4	πληγή	πληγή	πληγή	πληγή	image (3x): acute before enclitic as printed
+nah	oldtestgreek00unknuoft	81	4	σου"	σου"	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+nah	oldtestgreek00unknuoft	81	5	σέ:	σέ᾽	σέ·	σέ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+nah	oldtestgreek00unknuoft	81	6	παντός;	παντός; +ἔ	παντός;	παντός;	class R3: OCR appended accent-row or margin junk; c read from the image strip

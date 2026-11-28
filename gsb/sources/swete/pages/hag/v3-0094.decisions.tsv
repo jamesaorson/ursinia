@@ -1,0 +1,31 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+hag	oldtestgreek00unknuoft	94	1	EN	ἘΝ	ΕΝ	ΕΝ	image (3x): Greek capitals ΕΝ, unaccented book opening
+hag	oldtestgreek00unknuoft	94	1	Aapiov	Δαρίου	Δαρίου	Δαρίου	class R5: Latin-letter substitution in OCR; c read from the image strip
+hag	oldtestgreek00unknuoft	94	1	τῷτ	τῷτ	τῷ	τῷ	image (3x): τῷ; the trailing 1 is the margin verse number
+hag	oldtestgreek00unknuoft	94	2	χειρὶ	χειρὶ	χειρὶ	χειρὶ	image (3x): grave on χειρὶ before capitalized name
+hag	oldtestgreek00unknuoft	94	2	“Ayyaiov	Ἀγγαίου	Ἁγγαίου	Ἁγγαίου	image (3x): rough breathing (opening-left comma) on Α
+hag	oldtestgreek00unknuoft	94	3	Εἰπὸν	Εἰπὸν	Εἰπὸν	Εἰπὸν	image (3x): smooth breathing on ι, capital Ε
+hag	oldtestgreek00unknuoft	94	4	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on Ι
+hag	oldtestgreek00unknuoft	94	4	Ἰησοῦν	Ἰησοῦν	Ἰησοῦν	Ἰησοῦν	image (3x): smooth breathing on Ι
+hag	oldtestgreek00unknuoft	94	4	Ἰωσεδὲκ	Ἰωσεδὲκ	Ἰωσεδὲκ	Ἰωσεδὲκ	image (3x): smooth breathing on Ι
+hag	oldtestgreek00unknuoft	94	5	*Tade	ΞΤάδε	Τάδε	Τάδε	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+hag	oldtestgreek00unknuoft	94	5	Ὃ	Ὃ	Ὁ	Ὁ	image (3x): rough breathing only, no accent on Ὁ
+hag	oldtestgreek00unknuoft	94	6	Οὐχ	Οὐχ	Οὐχ	Οὐχ	image (3x): smooth breathing on υ
+hag	oldtestgreek00unknuoft	94	6	3xai	53καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+hag	oldtestgreek00unknuoft	94	7	χειρὶ	χειρὶ	χειρὶ	χειρὶ	image (3x): grave on χειρὶ before capitalized name
+hag	oldtestgreek00unknuoft	94	7	Ἀγγαίου	Ἀγγαίου	Ἁγγαίου	Ἁγγαίου	image (3x): rough breathing (opening-left comma) on Α
+hag	oldtestgreek00unknuoft	94	7	“Εἰ	“Εἰ	Εἰ	Εἰ	image (3x): smooth breathing on ι, capital Ε
+hag	oldtestgreek00unknuoft	94	8	ἐν	μὲν	μὲν	μὲν	class R6 (OCR letters differ): the other OCR reading agrees with c
+hag	oldtestgreek00unknuoft	94	9	viv	νῦν	νῦν	νῦν	class R5: Latin-letter substitution in OCR; c read from the image strip
+hag	oldtestgreek00unknuoft	94	9	rade	τάδε	τάδε	τάδε	class R5: Latin-letter substitution in OCR; c read from the image strip
+hag	oldtestgreek00unknuoft	94	10	ὑμῶν:	ὑμῶν"	ὑμῶν·	ὑμῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hag	oldtestgreek00unknuoft	94	10	“ἐσπείρατε	δἐσπείρατε	ἐσπείρατε	ἐσπείρατε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hag	oldtestgreek00unknuoft	94	11	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+hag	oldtestgreek00unknuoft	94	13	7rdde	Ττάδε	τάδε	τάδε	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+hag	oldtestgreek00unknuoft	94	15	ὑμῶν:	ὑμῶν:	ὑμῶν·	ὑμῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hag	oldtestgreek00unknuoft	94	15	®*dvaBnre	ϑἀνάβητε	ἀνάβητε	ἀνάβητε	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+hag	oldtestgreek00unknuoft	94	17	ϑέπεβλέψατε	ϑέἐπεβλέψατε	ἐπεβλέψατε	ἐπεβλέψατε	image (3x): ἐπεβλέψατε; 9 is the verse superscript
+hag	oldtestgreek00unknuoft	94	18	Tavro-	ΠΙαντο-	Παντο-	Παντο-	image (3x): Π, hyphen printed
+hag	oldtestgreek00unknuoft	94	19	κράτωρ	κράτωρ +᾽	κράτωρ	κράτωρ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+hag	oldtestgreek00unknuoft	94	19	Ἀνθ᾽	Ἀνθ᾽ +»	Ἀνθ᾽	Ἀνθ᾽	image (3x): smooth breathing on Α, elision mark after θ
+hag	oldtestgreek00unknuoft	94	19	μού	μού	μού	μού	image (3x): acute on μού before enclitic ἐστιν

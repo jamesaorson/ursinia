@@ -1,0 +1,39 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+obad	oldtestgreek00unknuoft	70	1	Ἢσαύ:	Ἦσαύ:	Ἠσαύ·	Ἠσαύ·	image (3x): smooth breathing alone on Η, acute on υ; ano teleia
+obad	oldtestgreek00unknuoft	70	1	"διὰ	"διὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+obad	oldtestgreek00unknuoft	70	2	gov	σου	σου	σου	class R5: Latin-letter substitution in OCR; c read from the image strip
+obad	oldtestgreek00unknuoft	70	2	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing (apostrophe shape) on the capital
+obad	oldtestgreek00unknuoft	70	3	ΑΦ᾽	ΑΦ᾽	Ἀφ᾽	Ἀφ᾽	image (3x): smooth breathing on Α; elision mark after φ
+obad	oldtestgreek00unknuoft	70	5	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing (apostrophe shape) on the capital
+obad	oldtestgreek00unknuoft	70	5	ἧς	ἧς	ἦς	ἦς	image (12x): breathing under circumflex has its blob right and tail curling down-left (smooth), unlike the c-shaped rough on ἧς line 3 and εἷς same line; ἦς
+obad	oldtestgreek00unknuoft	70	6	"“καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+obad	oldtestgreek00unknuoft	70	7	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave on υἱοὺς before Ἰούδα (no capitalized quotation); faint raised speck after it is not punctuation
+obad	oldtestgreek00unknuoft	70	7	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing (apostrophe shape) on the capital
+obad	oldtestgreek00unknuoft	70	8	θλίψεως:	θλίψεως:	θλίψεως·	θλίψεως·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+obad	oldtestgreek00unknuoft	70	8	Ξ̓μηδὲ	Ξ̓μηδὲ	μηδὲ	μηδὲ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+obad	oldtestgreek00unknuoft	70	8	εἰσέλθης	εἰσέλθης	εἰσέλθῃς	εἰσέλθῃς	image (3x): iota subscript under η printed
+obad	oldtestgreek00unknuoft	70	11	αὐτῶν:	αὐτῶν"	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+obad	oldtestgreek00unknuoft	70	11	“pnde	"“μηδὲ	μηδὲ	μηδὲ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+obad	oldtestgreek00unknuoft	70	13	ότι	τϑ +ὃ ότι	διότι	διότι	image (3x): διότι, superscript 15 before it
+obad	oldtestgreek00unknuoft	70	14	ἔθνη":	ἔθνη"	ἔθνη·	ἔθνη·	image (3x): raised dot, ano teleia
+obad	oldtestgreek00unknuoft	70	14	go᾽	σοι	σοι·	σοι·	image (3x): raised dot, ano teleia
+obad	oldtestgreek00unknuoft	70	15	πόδομά	πόδομά	πόδομά	πόδομά	image (3x): acute before enclitic as printed
+obad	oldtestgreek00unknuoft	70	15	κεφαλήν	κεφαλήν	κεφαλήν	κεφαλήν	image (3x): acute before enclitic as printed
+obad	oldtestgreek00unknuoft	70	15	σου" +*	σου" +"ὁ	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+obad	oldtestgreek00unknuoft	70	15	τρόπον;	τρόπον;	τρόπον	τρόπον	image (3x): no punctuation after τρόπον; OCR took margin 16 as a mark
+obad	oldtestgreek00unknuoft	70	16	ἅγιόν	ἅγιόν	ἅγιόν	ἅγιόν	image (3x): acute before enclitic as printed
+obad	oldtestgreek00unknuoft	70	17	Ἐν	Ἐν	Ἐν	Ἐν	image (3x): smooth breathing (apostrophe shape) on the capital
+obad	oldtestgreek00unknuoft	70	17	oper	ὄρει	ὄρει	ὄρει	class R5: Latin-letter substitution in OCR; c read from the image strip
+obad	oldtestgreek00unknuoft	70	18	ἅγιον᾽	ἅγιον"	ἅγιον·	ἅγιον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+obad	oldtestgreek00unknuoft	70	18	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing (apostrophe shape) on the capital
+obad	oldtestgreek00unknuoft	70	19	αὐτούς.	αὐτούς. +χ8	αὐτούς.	αὐτούς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+obad	oldtestgreek00unknuoft	70	19	““καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+obad	oldtestgreek00unknuoft	70	19	οἶκος	οἶκος +᾽	οἶκος	οἶκος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+obad	oldtestgreek00unknuoft	70	19	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing (apostrophe shape) on the capital
+obad	oldtestgreek00unknuoft	70	19	mip,	πῦρ,	πῦρ,	πῦρ,	class R5: Latin-letter substitution in OCR; c read from the image strip
+obad	oldtestgreek00unknuoft	70	20	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	image (3x): smooth breathing (apostrophe shape) on the capital
+obad	oldtestgreek00unknuoft	70	20	σαὺ	Ἠ̓̀σαὺ	Ἠσαὺ	Ἠσαὺ	image (3x): smooth breathing alone on Η, grave on υ
+obad	oldtestgreek00unknuoft	70	22	"Head,	Ἢσαύ,	Ἠσαύ,	Ἠσαύ,	image (3x): smooth breathing alone on Η, acute on υ; comma
+obad	oldtestgreek00unknuoft	70	22	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+obad	oldtestgreek00unknuoft	70	7	-	-	υἱοὺς	υἱοὺς	image (8x): faint small raised speck after the word, lighter than an ano teleia; read as a speck, no punctuation
+obad	oldtestgreek00unknuoft	70	5	-	-	ἦς	ἦς	ambiguous: breathing under the circumflex is small; at 12x it curls like a smooth breathing (cf. rough on εἷς same line); read ἦς

@@ -1,0 +1,15 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+hab	oldtestgreek00unknuoft	87	3	"διότι	"διότι	διότι	διότι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hab	oldtestgreek00unknuoft	87	4	ἀμπέλοις"	ἀμπέλοις"	ἀμπέλοις·	ἀμπέλοις·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hab	oldtestgreek00unknuoft	87	6	οὐ.	οὐ.	οὐ	οὐ	image (3x): speck after οὐ (faint show-through), not a period
+hab	oldtestgreek00unknuoft	87	6	ποιήσεε	ποιήσεε	ποιήσει	ποιήσει	ambiguous: final ι of ποιήσει prints broken/blurred (looks like ε with a dot); read ποιήσει
+hab	oldtestgreek00unknuoft	87	6	βρῶσιν"	βρῶσιν".	βρῶσιν·	βρῶσιν·	image (3x): raised ano teleia
+hab	oldtestgreek00unknuoft	87	9	"ἐγὼ	"ἐγὼ	ἐγὼ	ἐγὼ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+hab	oldtestgreek00unknuoft	87	10	σωτῆρί	σωτῆρί	σωτῆρί	σωτῆρί	image (3x): acute before enclitic, as printed
+hab	oldtestgreek00unknuoft	87	10	pov.	μου. +᾿ ᾿ς κ᾽ τον τ.» : ἘΦΛῚ “ Ἰεω"	μου.	μου.	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+hab	oldtestgreek00unknuoft	87	11	'ὃ	'ὃ	ὁ	ὁ	image (3x): ὁ with rough breathing; mark before it is a speck
+hab	oldtestgreek00unknuoft	87	11	δύναμίς	δύναμίς	δύναμίς	δύναμίς	image (3x): acute before enclitic, as printed
+hab	oldtestgreek00unknuoft	87	11	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+hab	oldtestgreek00unknuoft	87	12	συντέλειαν"	συντέλειαν"	συντέλειαν·	συντέλειαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+hab	oldtestgreek00unknuoft	87	14	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+hab	oldtestgreek00unknuoft	87	14	ὠδῇ	ὠδῇ	ᾠδῇ	ᾠδῇ	image (3x): ω has smooth breathing and iota subscript, ᾠδῇ

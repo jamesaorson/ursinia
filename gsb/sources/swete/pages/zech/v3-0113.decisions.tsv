@@ -1,0 +1,57 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+zech	oldtestgreek00unknuoft	113	1	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	113	1	τὸ +Β	τὸ +Β	τὸ	τὸ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	113	3	av-	αὐ-	αὐ-	αὐ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	113	4	‘7	17 +Τὼ	ὦ	ὦ	TODO zoom: A OPEN, B OPEN
+zech	oldtestgreek00unknuoft	113	4	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	113	4	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	113	5	πρόβατα:	πρόβατα:	πρόβατα·	πρόβατα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	113	6	Srov	ἑτὸν	τὸν	τὸν	TODO zoom: A R5, B OPEN
+zech	oldtestgreek00unknuoft	113	6	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	113	6	ξηρανθήσεται, +ὃ	ξηρανθήσεται, +ὃ	ξηρανθήσεται,	ξηρανθήσεται,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	113	8	"Λῆμμα	"Λῆμμα	Λῆμμα	Λῆμμα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	113	8	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+zech	oldtestgreek00unknuoft	113	9	Aéyet	Δέγει	Λέγει	Λέγει	TODO zoom: A R5, B OPEN
+zech	oldtestgreek00unknuoft	113	10	“Ἰδοὺ	“Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+zech	oldtestgreek00unknuoft	113	10	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+zech	oldtestgreek00unknuoft	113	11	Ἰουδαίᾳ	Ἰουδαίᾳ	Ἰουδαίᾳ	Ἰουδαίᾳ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+zech	oldtestgreek00unknuoft	113	12	᾿ερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B same
+zech	oldtestgreek00unknuoft	113	12	3καὶ	3καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	113	12	On-	θη-	θή-	θή-	TODO zoom: A R5, B DROP
+zech	oldtestgreek00unknuoft	113	13	copa	σομαι	σομαι	σομαι	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	113	13	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B same
+zech	oldtestgreek00unknuoft	113	13	ἔθνεσιν"	ἔθνεσιν"	ἔθνεσιν·	ἔθνεσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+zech	oldtestgreek00unknuoft	113	15	∅	∅	ἐπ᾽	ἐπ᾽	TODO zoom: no OCR reading at all
+zech	oldtestgreek00unknuoft	113	15	“ἐν	“ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	113	16	πάντὰ	πάντὰ	πάντα	πάντα	TODO zoom: A DIA, B DIA
+zech	oldtestgreek00unknuoft	113	17	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+zech	oldtestgreek00unknuoft	113	17	δια-	᾿δια-	δια-	δια-	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	113	18	ὀφθαλμούς	ὀφθαλμούς	ὀφθαλμούς	ὀφθαλμούς	TODO zoom: accent before an enclitic
+zech	oldtestgreek00unknuoft	113	18	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	113	18	immovs	ἵπποὺς	ἵππους	ἵππους	TODO zoom: A R5, B DIA
+zech	oldtestgreek00unknuoft	113	18	πά-	πά-	πα-	πα-	TODO zoom: A DIA, B DIA
+zech	oldtestgreek00unknuoft	113	19	ἐν.	ἐν.	ἐν	ἐν	TODO zoom: A OPEN, B OPEN
+zech	oldtestgreek00unknuoft	113	19	ϑκαὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+zech	oldtestgreek00unknuoft	113	19	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+zech	oldtestgreek00unknuoft	113	20	Etpnoopey	Ἑὑρήσομεν	Εὑρήσομεν	Εὑρήσομεν	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A R5, B DIA
+zech	oldtestgreek00unknuoft	113	20	ἑαυτοῖς.	ἑαυτοῖς	ἑαυτοῖς	ἑαυτοῖς	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	113	20	κατοικοῦντας	κατοικοῦντας.	κατοικοῦντας	κατοικοῦντας	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	113	20	Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B DIA
+zech	oldtestgreek00unknuoft	113	21	Παντοκρά	ἸΠαντοκράτορι	Παντοκράτορι	Παντοκράτορι	TODO zoom: A OPEN, B OPEN
+zech	oldtestgreek00unknuoft	113	21	αὐτῶ	αὐτῶν.	αὐτῶν.	αὐτῶν.	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	113	21	δὲν	“ἐν	ἐν	ἐν	TODO zoom: A OPEN, B R1
+zech	oldtestgreek00unknuoft	113	22	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+zech	oldtestgreek00unknuoft	113	23	Kor +φάγογααι	καταφάγονται	καταφάγονται	καταφάγονται	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	113	23	δεξιῶν.	δεξιῶν	δεξιῶν	δεξιῶν	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	113	23	ἁϑωάμμίαν	εὐωνύμων	εὐωνύμων	εὐωνύμων	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	113	24	τοὺς	τοὺς +λ	τοὺς	τοὺς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	113	24	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+zech	oldtestgreek00unknuoft	113	24	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B same
+zech	oldtestgreek00unknuoft	113	24	καθ᾽	καθ᾽ +θ᾽	καθ᾽	καθ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+zech	oldtestgreek00unknuoft	113	24	ἕμδον	ἑαυτὴν	ἑαυτὴν	ἑαυτὴν	class R6 (OCR letters differ): the other OCR reading agrees with c
+zech	oldtestgreek00unknuoft	113	25	Ἱερουσαλήμ.	»	Ἰερουσαλήμ.	Ἰερουσαλήμ.	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B OPEN
+zech	oldtestgreek00unknuoft	113	25	7kal	ν +Ὑλὶ ν ᾿ Ἱερουσαλήμ. Τκαὶ	καὶ	καὶ	TODO zoom: A R5, B OPEN
+zech	oldtestgreek00unknuoft	113	25	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+zech	oldtestgreek00unknuoft	113	27	Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B DIA
+zech	oldtestgreek00unknuoft	113	27	Ἰούδαν.	Ἰούδαν.	Ἰούδαν.	Ἰούδαν.	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+zech	oldtestgreek00unknuoft	113	27	ὅκαὶ	ὅκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip

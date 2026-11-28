@@ -1,0 +1,37 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+amos	oldtestgreek00unknuoft	43	1	σραήλ,	Ἷ +σραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	43	1	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	image (3x): Αἰ, breathing on the iota, none on the capital
+amos	oldtestgreek00unknuoft	43	2	“Πλὴν	“Πλὴν	Πλὴν	Πλὴν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	43	2	γῆς"	γῆς"	γῆς·	γῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+amos	oldtestgreek00unknuoft	43	3	3εἰ	53εἰ	εἰ	εἰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	43	4	“εἰ	“εἰ	εἰ	εἰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	43	5	δρυμοῦ	ρυμοῦ	δρυμοῦ	δρυμοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+amos	oldtestgreek00unknuoft	43	6	μὴ	μὴ +ἁ	μὴ	μὴ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+amos	oldtestgreek00unknuoft	43	6	Set	5 +5"εἰ	εἰ	εἰ	image (3x): verse superscript fused by OCR; not text
+amos	oldtestgreek00unknuoft	43	8	“εἰ	“εἰ	εἰ	εἰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	43	9	ἣν	ἣν	ἣν	ἣν	image (3x): grave before capitalized word, as printed
+amos	oldtestgreek00unknuoft	43	10	∅	1διότι	διότι	διότι	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	43	11	ὅλέων	ὅλέων	λέων	λέων	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	43	13	Απαγγείλατε	Απαγγείλατε	Ἀπαγγείλατε	Ἀπαγγείλατε	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	43	13	Ἀσσυρίοις	Ἀσσυρίοις	Ἀσσυρίοις	Ἀσσυρίοις	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	43	14	∅	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	image (3x): Αἰ, breathing on the iota, none on the capital
+amos	oldtestgreek00unknuoft	43	15	αὐτῇ"	αὐτῇ"	αὐτῇ·	αὐτῇ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+amos	oldtestgreek00unknuoft	43	16	Kal	᾿"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	43	16	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+amos	oldtestgreek00unknuoft	43	17	“dia	αι +“"᾿διὰ	διὰ	διὰ	image (3x): verse superscript fused by OCR; not text
+amos	oldtestgreek00unknuoft	43	18	θεός	θεός	θεός	θεός	image (3x): acute on θεός before capitalized Τύρος
+amos	oldtestgreek00unknuoft	43	19	ἰσχύν	ἰσχύν	ἰσχύν	ἰσχύν	image (3x): added acute before enclitic σου
+amos	oldtestgreek00unknuoft	43	19	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+amos	oldtestgreek00unknuoft	43	19	χῶραί	χῶραί	χῶραί	χῶραί	image (3x): added acute before enclitic σου
+amos	oldtestgreek00unknuoft	43	19	"Ζτάδε	"Ζτάδε	τάδε	τάδε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	43	20	ον	ον	Ὃν	Ὃν	image (3x): compact closed mark = rough + grave on the capital
+amos	oldtestgreek00unknuoft	43	21	ἣ	ἣ	ἢ	ἢ	ambiguous (6x): mark over η reads as apostrophe then falling stroke (smooth + grave), not the closed rough+grave of Ὃν above; read ἢ
+amos	oldtestgreek00unknuoft	43	21	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+amos	oldtestgreek00unknuoft	43	21	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before capitalized word, as printed
+amos	oldtestgreek00unknuoft	43	22	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	43	23	Sdxovcare	᾿βϑἀκούσατε	ἀκούσατε	ἀκούσατε	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	43	23	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	43	24	"“διότι	""διότι	διότι	διότι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+amos	oldtestgreek00unknuoft	43	25	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe) on the capital
+amos	oldtestgreek00unknuoft	43	27	γῆν"	γῆν"	γῆν·	γῆν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+amos	oldtestgreek00unknuoft	43	27	"συνχεῶ	"συνχεῶ	συνχεῶ	συνχεῶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
