@@ -149,7 +149,7 @@
     ("was mounted up," (15 mount-up "ἀναβιβάζω"))
     ("and" 18)
     ("covered" (19 cover "καλύπτω"))
-    ("the earth" 20 21)
+    ("the land" 20 (21 land))
     ("of Egypt." 22)))
 
 (verse 7
@@ -167,7 +167,7 @@
     ("led up" 13)
     ("the frogs" 14 (15 frog "βάτραχος"))
     ("upon" 16)
-    ("earth" 17)
+    ("land" (17 land))
     ("of Egypt." 18)))
 
 (verse 8
@@ -401,8 +401,8 @@
     ("the four-footed" 29 (30 four-footed "τετράπους"))
     ("and" 31)
     ("in" 32)
-    ("every" (33 every))
-    ("earth" 34)
+    ("all" 33)
+    ("land" (34 land))
     ("of Egypt." 35)))
 
 (verse 17
@@ -566,7 +566,7 @@
     ("in" 3)
     ("that" 6)
     ("day" (4 absorbed) 5)
-    ("the earth" 7 8)
+    ("the land" 7 (8 land))
     ("of Goshen," (9 name "Γέσεμ"))
     ("upon" 10)
     ("which" 11)
@@ -635,7 +635,7 @@
     ("and" 21)
     ("into" 22)
     ("all" 23)
-    ("the earth" 24 25)
+    ("the land" 24 (25 land))
     ("of Egypt;" 26)
     ("and" 27)
     ("the earth" 29 30)
@@ -722,9 +722,8 @@
     ("in" 12)
     ("the wilderness," 13 14)
     ("rather" 15)
-    ("not" 16)
+    ("you will not stretch away" 16 (18 stretch-away "ἀποτείνω"))
     ("far off" 17)
-    ("you will stretch away" (18 stretch-away "ἀποτείνω"))
     ("to go;" 19)
     ("therefore" 21)
     ("petition" (20 petition "εὔχομαι"))

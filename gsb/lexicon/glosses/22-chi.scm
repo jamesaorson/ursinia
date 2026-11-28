@@ -58,6 +58,9 @@
 
 (lemma "χείρ"
   (sense hand
+    ;; the dative is mostly the instrument: Ἔκτεινον τῇ χειρί "stretch out
+    ;; with the hand"
+    (dative "with")
     (gloss "hand" "hands")
     (why "Hand. Greek often has the article where English has a possessive (τὴν χεῖρα, Genesis 3:22): the literal layer keeps \"the hand\".")))
 
@@ -141,6 +144,8 @@
 (lemma "χρυσίον"
   (sense gold
     (dative "with")
+    ;; χρυσίον καθαρόν "pure gold", not "clean"
+    (with-adjective "καθαρός" pure)
     (gloss "gold")
     (why "Gold. χρυσός will share \"gold\" with a note if needed.")))
 

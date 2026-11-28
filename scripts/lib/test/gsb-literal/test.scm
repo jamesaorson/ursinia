@@ -134,10 +134,19 @@
   (call-with-values load-literal-env
     (lambda (e problems)
       (make-env (env-forms e) (env-nt e) (env-senses e) (env-phrases e) (make-hash-table) (make-hash-table)))))
-(define gen-verses (append (read-greek-table "gsb/greek/01-gen.tsv")
-                           (filter (lambda (v) (string-prefix? "exod.20." (car v))) (read-greek-table "gsb/greek/02-exod.tsv"))))
+(define gen-verses (append (read-greek-table "gsb/greek/01-gen.tsv") (read-greek-table "gsb/greek/02-exod.tsv")
+                           (filter (lambda (v) (or (string-prefix? "lev.1." (car v)) (string-prefix? "deut.6." (car v))))
+                                   (append (read-greek-table "gsb/greek/03-lev.tsv") (read-greek-table "gsb/greek/05-deut.tsv")))))
+(define (prev-verse-words ref)
+  ;; the verse before in the same chapter, as the generator passes it
+  (let* ((chap (let ((p (string-split ref #\.))) (string-append (car p) "." (cadr p) ".")))
+         (tail (member ref (map car gen-verses))))
+    (let loop ((vs gen-verses) (prev #f))
+      (cond ((null? vs) '())
+            ((equal? (caar vs) ref) (if (and prev (string-prefix? chap (car prev))) (cdr prev) '()))
+            (else (loop (cdr vs) (car vs)))))))
 (define (gen ref)
-  (call-with-values (lambda () (render-verse real-env ref (assoc-ref gen-verses ref) #t))
+  (call-with-values (lambda () (render-verse real-env ref (assoc-ref gen-verses ref) #t (prev-verse-words ref)))
     (lambda (segs stop?) (string-join (map car segs) " "))))
 (define (has ref . parts)
   (let ((text (gen ref)))
@@ -253,7 +262,7 @@
 ;; indicative is "would have", with an optative "would".
 (has "gen.40.23" "But the chief cupbearer did not remember Joseph")
 (has "gen.8.21" "therefore I will not add further to strike")
-(has "gen.43.10" "For if we did not delay already we would have returned twice")
+(has "gen.43.10" "For if we did not delay, already we would have returned twice") ; the comma kept
 (has "gen.31.27" "I would have sent you out")
 (has "gen.44.8" "how would we steal")
 (has "gen.6.4" "as ever the sons of God were entering")             ; ὡς ἄν: iterative
@@ -272,8 +281,78 @@
 (has "gen.42.22" "saying, Do not wrong the lad")                   ; nested: a prohibition
 ;; 8. First singular or third plural (ἔλαβον, ἴδον): by a cue in the sentence.
 (has "gen.48.22" "which I took out of hand")                       ; ἐγώ
-(has "gen.50.11" "And the inhabitants of the earth of Canaan saw")  ; a plural nominative
+(has "gen.50.11" "And the inhabitants of the land of Canaan saw")  ; a plural nominative
 (has "gen.12.15" "And the rulers of Pharaoh saw her")
+;;; Third fix round (2026-11-28, ursinia-vff.55). Expected English decided
+;;; from the Greek of each verse.
+;; 1. Indeclinable names: after Κύριος ὁ θεός the genitive; one name is no
+;; plural verb's subject; joined by καί to a dative, a dative.
+(has "exod.5.1" "These the Lord God of Israel says")
+(lacks "exod.28.3" "Aaron will make")
+(has "exod.28.4" "to Aaron and to his sons")
+(has "exod.8.5" "Say to Aaron your brother")                       ; after a second person verb
+(has "exod.8.16" "Say to Aaron,")
+(has "exod.10.26" "to serve the Lord our God")                     ; Κύριος ὁ θεὸς ἡμῶν
+;; 2. A genitive pronoun after a verb taking the genitive is its object.
+(has "exod.7.4" "And Pharaoh will not hearken to you")
+(has "exod.6.12" "how will Pharaoh hearken to me?")
+(has "exod.3.18" "they will hearken to your voice" "you and the senate of Israel will go in")
+(has "gen.23.6" "but hear us." "in our choice tombs bury your dead" "no one of us")
+(has "exod.2.6" "the daughter of Pharaoh spared him")               ; the object already there
+;; 3. Third person imperatives.
+(has "exod.5.7" "let them go and let them gather to themselves straws")
+(has "exod.5.9" "let them care for these")
+(has "exod.19.24" "but let not the priests and the people force")
+(has "exod.34.3" "And let no one go up" "and let not the sheep and the oxen graze")
+(has "exod.19.22" "And let the priests drawing near to the Lord God be sanctified")
+(has "exod.36.6" "Let man and woman no longer work")
+(has "gen.23.9" "let him/her/it give to me the double cave")
+(has "gen.27.29" "And let nations slave for you")
+(has "gen.1.20" "Let the waters bring out creeping things")
+;; 4. Negation scope.
+(has "exod.23.33" "they may not make")
+(lacks "exod.23.33" "not to sin")
+(has "exod.22.28" "you will not say badly.")
+(has "exod.33.15" "If you yourself do not go, do not lead me up")
+(has "exod.22.14" "but the lord not be with him")
+(has "exod.23.29" "so that the earth may not come to be wilderness")
+(has "deut.6.12" "lest you forget")
+(has "deut.6.14" "You do not go behind")
+;; 5. Subject phrases with a numeral, πᾶς, a collective, ἕκαστος.
+(has "exod.7.25" "And seven days were filled up")
+(has "exod.21.18" "But if two men revile")
+(has "exod.32.3" "And all the people took off the golden earrings")
+(has "exod.12.6" "all the multitude of gathering of sons of Israel will slaughter it")
+(has "exod.23.17" "every male of you will be seen")
+(has "exod.11.2" "let each request")
+;; 6. The rest.
+(has "gen.13.12" "in land of Canaan")                               ; γῆ + a country
+(has "exod.10.19" "in all land of Egypt")
+(has "gen.21.23" "swear to me by God")                              ; oaths
+(has "gen.22.16" "By myself I swore")
+(has "gen.31.53" "swore by the fear")
+(has "exod.2.10" "But the little child having grown up")            ; genitive absolutes
+(has "gen.29.9" "Further he/it speaking to them")
+(has "gen.44.4" "But they having gone forth the city")
+(has "exod.19.4" "You yourselves have seen")                        ; the intensive αὐτός
+(has "exod.20.23" "to you yourselves silver gods")
+(has "exod.5.11" "collect to yourselves")
+(has "exod.6.26" "Aaron and Moses, to whom")                       ; relatives
+(has "gen.42.28" "What [is] this God made to us?")                  ; questions
+(has "gen.37.10" "What [is] this dream which you dreamed?")
+(has "exod.4.2" "What is this the [thing] in your hand?")
+(has "exod.2.14" "Who installed you ruler")
+(has "exod.25.11" "with pure gold")                                 ; with-adjective
+(has "exod.30.19" "with water")
+(has "exod.25.11" "you will gild over it")                          ; a thing from the verse before
+(has "exod.3.22" "silver and golden gears")                         ; joined adjectives
+;; 7. Legal and cultic prose.
+(has "lev.1.9" "he/she/it is fruit offering")
+(has "lev.1.9" "all the [things] upon the altar")
+(has "deut.6.10" "And it will be whenever")
+(has "deut.6.5" "out of your whole mind")
+(has "exod.26.25" "And eight columns will be")
+(lacks "exod.40.38" "he/she/it was fire")
 ;; Lettered chapters (Esther's additions).
 (check "chapter-arg" (map chapter-arg '("12" "A" "0" "a" "AB")) '(12 "A" #f #f #f))
 (check "literal-chapter-key" (map literal-chapter-key '("001.scm" "A.scm" "book.scm")) '(1 "A" #f))

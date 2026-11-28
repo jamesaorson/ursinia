@@ -67,7 +67,7 @@
     ("and" 12)
     ("the wonders" 13 14)
     ("in" 15)
-    ("earth" 16)
+    ("land" (16 land))
     ("Egypt." 17)))
 
 (verse 4
@@ -93,7 +93,7 @@
     ("the sons" 21 22)
     ("of Israel" 23)
     ("out of" 24)
-    ("earth" 25)
+    ("land" (25 land))
     ("of Egypt" 26)
     ("with" 27)
     ("great" 29)
@@ -102,7 +102,7 @@
 (verse 5
   (status draft)
   (literal
-    ("And" 1)
+    ("and" 1)
     ("all" 3)
     ("the Egyptians" 4 5)
     ("will know" 2)
@@ -470,8 +470,8 @@
     ("blood" 54)
     ("came to be" 53)
     ("in" 55)
-    ("every" (56 every))
-    ("earth" 57)
+    ("all" 56)
+    ("land" (57 land))
     ("of Egypt," 58)
     ("both" 60)
     ("in" 59)
@@ -539,8 +539,8 @@
     ("the blood" 25 26)
     ("was" 24)
     ("in" 27)
-    ("every" (28 every))
-    ("earth" 29)
+    ("all" 28)
+    ("land" (29 land))
     ("of Egypt." 30)))
 
 (verse 22

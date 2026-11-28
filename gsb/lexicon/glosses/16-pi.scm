@@ -582,6 +582,8 @@
 
 (lemma "πρόκειμαι" (sense lie-forth (intransitive) (verb "lie forth" "lay forth" "lain forth") (gloss "lie forth" "lay forth" "lain forth" "lies forth" "lying forth") (why "(LXX form supplied.) To lie before, lie set out in view (πρό + κεῖμαι \"lie\"), serving as the passive of προτίθημι \"set forth\": the table τὴν προκειμένην, set out with the loaves (Exodus 37:10; 39:36 τοὺς ἄρτους τοὺς προκειμένους); of what lies ahead, Hebrews 6:18; 12:1-2; Jude 7. \"Lie forth\" matches προτίθημι \"set forth\" and keeps it apart from πρόσκειμαι \"lie before\".")))
 
+(lemma "πρόλοβος" (sense crop (gloss "crop" "crops") (why "(LXX, supplied.) The crop of a bird, the pouch of the gullet (πρό + λοβός \"lobe\"), removed from the bird offering with its feathers (Leviticus 1:16 ἀφελεῖ τὸν πρόλοβον σὺν τοῖς πτεροῖς). Cultic term.")))
+
 (lemma "προοράω" (sense foresee (verb "foresee" "foresaw" "foreseen") (gloss "foresee" "foresaw" "foreseen" "foresees" "foreseeing") (why "To see beforehand, see ahead (Genesis 37:18, the brothers πρόιδον αὐτὸν μακρόθεν, before he came near; Acts 2:25, 31; Galatians 3:8). The second aorist is προεῖδον, Swete's πρόιδον.")))
 
 (lemma "πρόπαππος" (sense great-grandfather (person) (gloss "great-grandfather" "great-grandfathers") (why "(LXX, supplied.) A great-grandfather, a forefather (Exodus 10:6 οἱ πατέρες σου οὐδὲ οἱ πρόπαπποι αὐτῶν, what neither Pharaoh's fathers nor their forefathers had seen).")))
@@ -708,6 +710,8 @@
     (why "Heel (Genesis 3:15; John 13:18, quoting Psalm 41:9).")))
 
 (lemma "πτερνίζω" (sense supplant (gloss "supplant" "supplanted" "supplants" "supplanting") (why "(LXX, supplied.) From πτέρνα \"heel\": to trip up by the heel, supplant, overreach (Genesis 27:36 ἐπτέρνικεν γάρ με ἤδη δεύτερον τοῦτο, Esau's pun on the name Jacob, who took his brother's heel, 25:26). \"Supplant\" is the traditional English of the pun.")))
+
+(lemma "πτερόν" (sense feather (gloss "feather" "feathers") (why "(LXX, supplied.) A feather, plumage (Leviticus 1:16 σὺν τοῖς πτεροῖς, the crop removed with the feathers). \"Feather\" keeps it apart from πτέρυξ \"wing\" and πτερύγιον \"little wing\".")))
 
 (lemma "πτερύγιον" (sense little-wing (gloss "little wing" "little wings") (plural "little wings") (why "A little wing (diminutive of πτέρυξ \"wing\"), and so a wing-like edge or tip: τὰ δύο πτερύγια at the top of the oracle (Exodus 39:19). The πτερύγιον of the temple (Matthew 4:5; Luke 4:9) may need its own sense. (LXX form supplied.)")))
 

@@ -626,6 +626,8 @@
 
 (lemma "ἀποκλείω" (sense shut-off (verb "shut off" "shut off" "shut off") (gloss "shut off" "shuts off" "shutting off") (why "To shut, close off (Genesis 19:10 τὴν θύραν ... ἀπέκλεισαν; Luke 13:25, the master shuts the door). \"Shut off\" keeps the ἀπο- of the compound against κλείω \"shut\" and συγκλείω.")))
 
+(lemma "ἀποκνίζω" (sense nip-off (verb "nip off" "nipped off" "nipped off") (gloss "nip off" "nipped off" "nips off" "nipping off") (why "(LXX, supplied.) To nip off, pinch off (ἀπο- + κνίζω \"nip\"): the priest nips off the head of the bird offering (Leviticus 1:15 ἀποκνίσει τὴν κεφαλήν; 5:8). \"Nip off\" renders the ἀπο- and keeps it apart from ἀφαιρέω \"remove\" and ἐκκόπτω \"cut off\". Cultic term.")))
+
 (lemma "ἀποκρίνομαι" (sense answer (gloss "answer" "answered" "answers" "answering") (why "To answer, reply (Genesis 18:9, 27 ὁ δὲ ἀποκριθεὶς εἶπεν; very often in the Gospels). The passive-deponent aorist is rendered active.")))
 
 (lemma "ἀποκτείνω" (sense kill (gloss "kill" "killed" "kills" "killing") (why "To kill.")))
@@ -939,6 +941,8 @@
 (lemma "ἀφαιρέω" (sense remove (gloss "remove" "removed" "removes" "removing") (why "To take away from, remove (Genesis 21:25, the wells which the servants removed, that is took for themselves; Luke 1:25; Matthew 26:51 ἀφεῖλεν αὐτοῦ τὸ ὠτίον). \"Remove\" keeps it apart from ἀναιρέω \"take away\".")))
 
 (lemma "ἀφανίζω" (sense obliterate (gloss "obliterate" "obliterated" "obliterates" "obliterating") (why "To make unseen (ἀ- + φαίνω), do away with, destroy (Exodus 8:9, to obliterate the frogs; Matthew 6:19-20, where moth and rust obliterate; James 4:14, passive, a vapor obliterated). \"Obliterate\" keeps it apart from ἀπόλλυμι \"destroy\" and ἐξολεθρεύω \"destroy utterly\".")))
+
+(lemma "ἀφάπτω" (sense fasten (gloss "fasten" "fastened" "fastens" "fastening") (why "(LXX, supplied.) To fasten on, tie on (ἀπο- + ἅπτω): the words fastened for a sign on the hand (Deuteronomy 6:8 ἀφάψεις αὐτὰ εἰς σημεῖον ἐπὶ τῆς χειρός σου; 11:18). \"Fasten\" keeps it apart from δέω \"tie\", δεσμεύω \"bind\" and ἅπτω \"touch\".")))
 
 (lemma "Ἄφερ" (sense name (gloss "Epher") (why "(LXX, supplied.) A son of Midian (Genesis 25:4), traditional English Epher.")))
 

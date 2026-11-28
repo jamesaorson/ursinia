@@ -534,9 +534,13 @@
 
 (lemma "κοίλωμα" (sense hollow (gloss "hollow" "hollows") (why "(LXX, supplied.) A hollow, a valley (Genesis 23:2, Arba ἐν τῷ κοιλώματι, \"in the hollow\"). Kept apart from κοιλάς and κοιλία.")))
 
+(lemma "κοιτάζομαι" (sense bed-down (intransitive) (verb "bed down" "bedded down" "bedded down") (gloss "bed down" "bedded down" "beds down" "bedding down") (why "(LXX, supplied.) Middle, to go to bed, lie down to rest (κοίτη \"couch\"): Deuteronomy 6:7 and 11:19 κοιταζόμενος καὶ διανιστάμενος, \"bedding down and rising up\". \"Bed down\" keeps it apart from κοιμάομαι \"lie down\" and καθεύδω \"be asleep\"; it shares \"bed\" with κλίνη \"bed\", the particle telling them apart.")))
+
 (lemma "κοιτών" (sense bedchamber (gloss "bedchamber" "bedchambers") (why "A bedroom, bedchamber (κοίτη \"bed\"): Exodus 8:3 τὰ ταμεῖα τῶν κοιτώνων σου, \"the inner rooms of your bedchambers\"; Acts 12:20, Blastus ὁ ἐπὶ τοῦ κοιτῶνος. (LXX form supplied.)")))
 
 (lemma "κολάπτω" (sense engrave (gloss "engrave" "engraved" "engraves" "engraving") (why "(LXX, supplied.) To peck, chisel, and so engrave, cut letters in stone (Exodus 32:16, γραφὴ θεοῦ κεκολαμμένη ἐν ταῖς πλαξίν). Kept apart from γλύφω, the carving of an image.")))
+
+(lemma "κολλάω" (sense glue (gloss "glue" "glued" "glues" "gluing") (why "To glue, join fast; passive, to be glued to, cleave to (Deuteronomy 6:13 πρὸς αὐτὸν κολληθήσῃ, \"you will be glued to him\"; 10:20; Matthew 19:5; Luke 10:11; Romans 12:9). The passive is kept passive. \"Glue\" keeps it apart from προσκολλάω \"be joined\" (Genesis 2:24), as that entry's why foresaw. (LXX form supplied.)")))
 
 (lemma "κόλπος" (sense bosom (gloss "bosom") (why "Bosom, lap (Genesis 16:5, \"into your bosom\"; Luke 16:22; John 1:18).")))
 

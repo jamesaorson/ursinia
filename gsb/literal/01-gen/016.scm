@@ -71,7 +71,7 @@
     ("of Abram's" (16 infinitive) (18 name "Ἀβράμ"))
     ("dwelling" (17 dwell "οἰκέω"))
     ("in" 19)
-    ("earth" 20)
+    ("land" (20 land))
     ("of Canaan," 21)
     ("and" 22)
     ("he/she/it gave" 23)

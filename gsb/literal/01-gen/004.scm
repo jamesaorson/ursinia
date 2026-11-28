@@ -101,7 +101,7 @@
     ("Cain" (13 unrendered) 14)
     ("very" 15)
     ("and" 16)
-    ("fell together" 17)
+    ("he/she/it fell together" 17)
     ("in the face." 18 19)))
 
 (verse 6

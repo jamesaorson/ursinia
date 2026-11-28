@@ -438,7 +438,7 @@
     ("to him/it" 10)
     ("woman" 13)
     ("out of" 14)
-    ("earth" 15)
+    ("land" (15 land))
     ("of Egypt." 16)))
 
 (verse 22
@@ -481,7 +481,7 @@
     ("now" 1)
     ("swear" (3 swear "ὀμνύω"))
     ("to me" 4)
-    ("God," (5 unrendered) 6)
+    ("by God," (5 unrendered) 6)
     ("not" 7)
     ("to wrong" (8 wrong "ἀδικέω"))
     ("me" 9)

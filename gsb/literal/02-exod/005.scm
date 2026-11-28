@@ -250,7 +250,7 @@
     ("was scattered" (2 scatter "διασπείρω"))
     ("in" 5)
     ("whole" 6)
-    ("earth" 7)
+    ("land" (7 land))
     ("Egypt" 8)
     ("to gather" 9)
     ("stubble" 10)

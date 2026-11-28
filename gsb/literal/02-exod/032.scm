@@ -112,7 +112,7 @@
     ("made go up" (26 make-go-up "ἀναβιβάζω"))
     ("you" 27)
     ("out of" 28)
-    ("earth" 29)
+    ("land" (29 land))
     ("of Egypt." 30)))
 
 (verse 5
@@ -177,7 +177,7 @@
     ("which" 17)
     ("you brought out" (18 bring-out "ἐξάγω"))
     ("out of" 19)
-    ("earth" 20)
+    ("land" (20 land))
     ("of Egypt." 21)))
 
 (verse 8
@@ -207,7 +207,7 @@
     ("made go up" (23 make-go-up "ἀναβιβάζω"))
     ("you" 24)
     ("out of" 25)
-    ("earth" 26)
+    ("land" (26 land))
     ("of Egypt." 27)))
 
 (verse 10
@@ -252,7 +252,7 @@
     ("which" 19)
     ("you brought out" (20 bring-out "ἐξάγω"))
     ("out of" 21)
-    ("earth" 22)
+    ("land" (22 land))
     ("of Egypt" 23)
     ("in" 24)
     ("great" 26)
@@ -591,8 +591,8 @@
     ("them" 10)
     ("up," (cont 8))
     ("gloating" (12 gloating "ἐπίχαρμα"))
-    ("to the adversaries" 13 (14 adversary "ὑπεναντίος"))
-    ("of them;" 15)))
+    ("to their" 15)
+    ("adversaries;" (13 absorbed) (14 adversary "ὑπεναντίος"))))
 
 (verse 26
   (status draft)

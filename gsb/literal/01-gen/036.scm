@@ -80,7 +80,7 @@
     ("came to be" 16)
     ("to him" 17)
     ("in" 18)
-    ("earth" 19)
+    ("land" (19 land))
     ("of Canaan." 20)))
 
 (verse 6
@@ -113,12 +113,12 @@
     ("as many as" 32)
     ("he/she/it gained" (33 gain))
     ("in" 34)
-    ("earth" 35)
+    ("land" (35 land))
     ("of Canaan;" 36)
     ("and" 37)
     ("he/she/it went" 38)
     ("out of" 39)
-    ("earth" 40)
+    ("land" (40 land))
     ("of Canaan" 41)
     ("from" 42)
     ("face" 43)
@@ -310,7 +310,7 @@
     ("chiefs" (8 chief "ἡγεμών"))
     ("of Eliphaz" (9 name "Ἐλιφάς"))
     ("in" 10)
-    ("earth" 11)
+    ("land" (11 land))
     ("Idumea," (12 name "Ἰδουμαία"))
     ("these" 13)
     ("[are]")
@@ -340,7 +340,7 @@
     ("chiefs" (16 chief "ἡγεμών"))
     ("of Reuel" (17 name "Ῥαγουήλ"))
     ("in" 18)
-    ("earth" 19)
+    ("land" (19 land))
     ("of Edom," (20 name "Ἐδώμ"))
     ("these" 21)
     ("[are]")
@@ -422,7 +422,7 @@
     ("the son" 12 13)
     ("of Seir" (14 name "Σηείρ"))
     ("in" 15)
-    ("the earth" 16 17)
+    ("the land" 16 (17 land))
     ("of Edom." (18 name "Ἐδώμ"))))
 
 (verse 22
@@ -574,7 +574,7 @@
     ("their" 13)
     ("chiefdoms" (11 absorbed) (12 chiefdom "ἡγεμονία"))
     ("in" 14)
-    ("earth" 15)
+    ("land" (15 land))
     ("of Edom." (16 name "Ἐδώμ"))))
 
 (verse 31

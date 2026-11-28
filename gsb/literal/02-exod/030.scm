@@ -72,8 +72,8 @@
     ("pure" (5 pure "καθαρός"))
     ("you will make" 6)
     ("under" 7)
-    ("the wreathed" 8 (9 wreathed "στρεπτός"))
     ("his/its" 11)
+    ("wreathed" (8 absorbed) (9 wreathed "στρεπτός"))
     ("rim" (10 rim "στεφάνη"))
     ("into" 12)
     ("the two" 13 14)
@@ -640,8 +640,8 @@
     ("holy" 16)
     ("it is," 17)
     ("and" 18)
+    ("he/she/it will be" 20)
     ("holy thing" (19 holy-thing "ἁγίασμα"))
-    ("will be" 20)
     ("to you." 21)))
 
 (verse 33
@@ -737,8 +737,8 @@
     ("you will not make" 6 7)
     ("to you" 8)
     ("yourselves;" (9 intensive))
+    ("he/she/it will be" 11)
     ("holy thing" (10 holy-thing "ἁγίασμα"))
-    ("will be" 11)
     ("to you" 12)
     ("to [the] Lord;" 13)))
 

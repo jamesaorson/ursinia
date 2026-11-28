@@ -16,7 +16,7 @@
     ("father" (9 absorbed) 10)
     ("sojourned," 8)
     ("in" 12)
-    ("earth" 13)
+    ("land" (13 land))
     ("of Canaan." 14)))
 
 (verse 2

@@ -571,7 +571,7 @@
     ("facing" (6 attributive) 7)
     ("Mamre" (8 name "Μαμβρή"))
     ("in" 9)
-    ("earth" 10)
+    ("land" (10 land))
     ("of Canaan," 11)
     ("which" 12)
     ("Abraham" 14)

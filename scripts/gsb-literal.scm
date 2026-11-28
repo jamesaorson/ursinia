@@ -102,9 +102,11 @@
        (let ((pin (hash-ref (env-pins* env) ref)))
          (if pin
              (loop rest #t words (cons (cons (verse-number ref) pin) acc))
-             ;; ponytail: antecedents only within the verse; the verse before
-             ;; (prev) picked wrong ones in dialogue (Gen 3:11 "said to it").
-             (call-with-values (lambda () (render-verse env ref words stop?))
+             ;; ponytail: the verse before (prev) gives a pronoun only a thing
+             ;; antecedent, and only when neither verse names a person
+             ;; (resolve-pronouns): in dialogue it picked wrong ones (Gen 3:11
+             ;; "said to it").
+             (call-with-values (lambda () (render-verse env ref words stop? prev))
                (lambda (segs full-stop?)
                  (loop rest full-stop? words
                        (cons (cons (verse-number ref) (segments->sexp env segs (table-lemmas words))) acc))))))))))

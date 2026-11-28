@@ -277,7 +277,7 @@
   (status draft)
   (literal
     ("therefore" 2)
-    ("he/she/it will be" 1)
+    ("it will be" 1)
     ("as" 3)
     ("ever" 4)
     ("the Egyptians" 7 8)

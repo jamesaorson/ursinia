@@ -133,8 +133,8 @@
     ("my" 23)
     ("statutes" (21 absorbed) 22)
     ("and" 24)
-    ("the lawful" 25 (26 lawful "νόμιμος"))
-    ("of me." 27)))
+    ("my" 27)
+    ("lawful." (25 absorbed) (26 lawful "νόμιμος"))))
 
 (verse 6
   (status draft)

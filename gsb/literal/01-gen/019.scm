@@ -164,10 +164,10 @@
   (status draft)
   (literal
     ("But" 2)
-    ("they are" 1)
-    ("to me" 3)
     ("two" 4)
-    ("daughters," 5)
+    ("daughters" 5)
+    ("are" 1)
+    ("to me," 3)
     ("who" 6)
     ("did not know" 7 8)
     ("man;" 9)

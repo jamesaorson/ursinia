@@ -188,8 +188,8 @@
     ("him" 20)
     ("to have done evil" (21 do-evil "πονηρεύομαι"))
     ("upon" 22)
-    ("whole" 23)
-    ("of the deposit" 24 (25 deposit "παρακαταθήκη"))
+    ("the whole" 24 23)
+    ("deposit" (25 deposit "παρακαταθήκη"))
     ("of the neighbor." 26 27)))
 
 (verse 9
@@ -324,7 +324,7 @@
     ("it come to be," 14)
     ("but" 16)
     ("the lord" 15 17)
-    ("do not be" 18 19)
+    ("not be" 18 19)
     ("with" 20)
     ("him," 21)
     ("he/she/it will make good;" (22 make-good "ἀποτίνω"))))
@@ -552,9 +552,8 @@
     ("rulers" 5)
     ("of your" 8)
     ("people" (6 absorbed) 7)
-    ("not" 9)
-    ("badly" 10)
-    ("you will say." (11 say "λέγω"))))
+    ("you will not say" 9 (11 say "λέγω"))
+    ("badly." 10)))
 
 (verse 29
   (status draft)

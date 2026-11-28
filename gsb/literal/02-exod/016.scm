@@ -11,11 +11,11 @@
     ("out of" 3)
     ("Elim," (4 name "Αἰλείμ"))
     ("and" 5)
-    ("came" (6 come "ἔρχομαι"))
     ("every" (7 every))
     ("gathering" 8)
     ("of sons" 9)
     ("of Israel" 10)
+    ("came" (6 come "ἔρχομαι"))
     ("into" 11)
     ("the wilderness" 12 13)
     ("Sin," (14 name "Σείν"))
@@ -34,7 +34,7 @@
     ("they" 33)
     ("having gone forth" (32 go-forth "ἐξέρχομαι"))
     ("out of" 34)
-    ("earth" 35)
+    ("land" (35 land))
     ("of Egypt" 36)))
 
 (verse 2
@@ -66,7 +66,7 @@
     ("[the]")
     ("Lord" 12)
     ("in" 13)
-    ("earth" 14)
+    ("land" (14 land))
     ("Egypt," 15)
     ("whenever" 16)
     ("we sat" (17 sit "καθίζω"))
@@ -171,7 +171,7 @@
     ("you" 16)
     ("out" (cont 15))
     ("out of" 17)
-    ("earth" 18)
+    ("land" (18 land))
     ("of Egypt," 19)))
 
 (verse 7
@@ -716,7 +716,7 @@
     ("name" (7 absorbed) 8)
     ("manna;" (10 manna "μάν"))
     ("but" 12)
-    ("he/she/it was" 11)
+    ("it was" 11)
     ("as" 13)
     ("seed" 14)
     ("of coriander" (15 coriander "κόριον"))
@@ -766,7 +766,7 @@
     ("you" 33)
     ("out" (cont 32))
     ("out of" 35)
-    ("earth" 36)
+    ("land" (36 land))
     ("of Egypt." 37)))
 
 (verse 33

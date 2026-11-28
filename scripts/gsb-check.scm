@@ -9,6 +9,7 @@
 
 (use-modules (scripts lib gsb-translation)
              (ice-9 format)
+             (ice-9 ftw)
              (ice-9 match)
              (srfi srfi-1)
              (srfi srfi-11)
@@ -36,7 +37,8 @@
   (format port "Exits 1 and names file, verse and fix for each problem. Run as `make gsb/lint`.~%~%")
   (format port "--uses LEMMA lists every literal-layer use of LEMMA (as in gsb/greek/ and~%")
   (format port "the concordance, e.g. ἀρχή) with its sense and English: review them after~%")
-  (format port "adding a sense. Run as `make gsb/uses LEMMA=ἀρχή`.~%~%")
+  (format port "adding a sense. It reads the generated chapters in gsb/literal/ and the hand~%")
+  (format port "drafts of chapters not generated. Run as `make gsb/uses LEMMA=ἀρχή`.~%~%")
   (format port "Format and worked examples: gsb/translation/README.md.~%"))
 
 (define (safe-read-forms path)
@@ -101,6 +103,22 @@ with chapter #f."
                     (if (null? (gloss-files)) (list (format #f "~a: no concordance files; it should hold one .scm file per initial letter" %glosses)) '())
                     (map (lambda (m) (string-append %glosses ": " m)) (check-gloss-files good))))))
 
+(define (uses-chapters book)
+  "The chapter files holding BOOK's literal layer, as book-chapters gives
+them: the generated chapters in gsb/literal/ (the literal layer of every book,
+gsb/AGENTS.md rule 16a), then the hand drafts of chapters not generated."
+  (let* ((dir (string-append "gsb/literal/" (book-file-stem book)))
+         (generated (if (file-exists? dir)
+                        (filter-map (lambda (name)
+                                      (let ((c (chapter-file-number name)))
+                                        (and c (let ((path (string-append dir "/" name)))
+                                                 (list path c (safe-read-forms path))))))
+                                    (sort (or (scandir dir (lambda (f) (string-suffix? ".scm" f))) '()) string<?))
+                        '())))
+    (append generated
+            (remove (lambda (f) (and (cadr f) (assv (cadr f) (map (lambda (g) (cons (cadr g) g)) generated))))
+                    (book-chapters book)))))
+
 (define (uses books glosses lemma)
   "Print every literal-layer use of LEMMA; exit 1 if there is none."
   (let* ((lemma (string-normalize-nfc lemma))
@@ -139,7 +157,7 @@ with chapter #f."
                       (_ #f))
                     forms)))
                 (_ #f))
-              (book-chapters book))))))
+              (uses-chapters book))))))
      books)
     (when (zero? found)
       (format (current-error-port) "gsb-check: no literal-layer use of ~a; check the spelling against the lemma column of gsb/greek/ or ~a~%" lemma %glosses)

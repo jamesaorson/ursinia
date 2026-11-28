@@ -102,8 +102,9 @@
 (verse 6
   (status draft)
   (literal
-    ("he/she/it will bring near" (1 bring-near "προσάγω"))
-    ("him;" 2)
+    ("he/she/it will bring" (1 bring-near "προσάγω"))
+    ("him" 2)
+    ("near;" (cont 1))
     ("his/its" 5)
     ("lord" (3 absorbed) 4)
     ("to" (6 to))
@@ -111,8 +112,9 @@
     ("of God," (9 unrendered) 10)
     ("and" 11)
     ("at that time" 12)
-    ("he/she/it will bring near" (13 bring-near "προσάγω"))
+    ("he/she/it will bring" (13 bring-near "προσάγω"))
     ("him" 14)
+    ("near" (cont 13))
     ("upon" 15)
     ("the door" 16 17)
     ("upon" 18)
@@ -336,7 +338,7 @@
 (verse 19
   (status draft)
   (literal
-    ("If" (1 if))
+    ("if" (1 if))
     ("the human" 3 4)
     ("having gotten up" (2 get-up "ἐξανίστημι"))
     ("walk" 5)

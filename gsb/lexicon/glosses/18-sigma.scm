@@ -325,6 +325,8 @@
 
 (lemma "στόμα" (sense mouth (gloss "mouth" "mouths") (why "Mouth.")))
 
+(lemma "στραγγίζω" (sense wring-out (verb "wring out" "wrung out" "wrung out") (gloss "wring out" "wrung out" "wrings out" "wringing out") (why "(LXX, supplied.) To squeeze out drop by drop (στράγξ \"drop\"): the priest wrings out the bird's blood at the base of the altar (Leviticus 1:15 στραγγιεῖ τὸ αἷμα πρὸς τὴν βάσιν τοῦ θυσιαστηρίου; 5:9). \"Wring out\" keeps it apart from ἐκθλίβω \"squeeze out\" and ἐκχέω. Cultic term.")))
+
 (lemma "στρατιά" (sense host (gloss "host" "hosts") (why "An army, a host (Exodus 14:4, 9, 17, ἐν πάσῃ τῇ στρατιᾷ αὐτοῦ, Pharaoh's army; Luke 2:13, a host of heaven; Acts 7:42). \"Army\" is δύναμις's, so \"host\".")))
 
 (lemma "στρατοπεδεύω" (sense encamp (gloss "encamp" "encamped" "encamps" "encamping") (why "(LXX, supplied.) To pitch camp, encamp (Genesis 12:9, Abram encamped in the wilderness).")))

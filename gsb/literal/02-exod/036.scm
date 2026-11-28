@@ -231,8 +231,9 @@
   (status draft)
   (literal
     ("and" 1)
-    ("they laid on" 2)
+    ("they laid" 2)
     ("it" 3)
+    ("on" (cont 2))
     ("upon" 4)
     ("four" 5)
     ("unrotting" (7 unrotting "ἄσηπτος"))

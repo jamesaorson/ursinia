@@ -348,8 +348,8 @@
     ("under" 11)
     ("it" 12)
     ("until" 13)
-    ("the half" 14 15)
-    ("of it;" 16)))
+    ("its" 16)
+    ("half;" (14 absorbed) 15)))
 
 (verse "5-6"
   (status draft)
@@ -391,7 +391,7 @@
     ("out of" 11)
     ("the mirrors" 12 (13 mirror "κάτοπτρον"))
     ("of the [ones] having fasted" 14 (15 fast "νηστεύω"))
-    ("which" 16)
+    ("who" 16)
     ("fasted" (17 fast "νηστεύω"))
     ("beside" 18)
     ("the doors" 19 20)

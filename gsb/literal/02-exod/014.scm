@@ -258,7 +258,7 @@
     ("not" 7)
     ("existing" (8 exist))
     ("in" 10)
-    ("earth" 11)
+    ("land" (11 land))
     ("Egypt" 12)
     ("you brought" (13 bring-out "ἐξάγω"))
     ("us" 14)
@@ -509,8 +509,8 @@
     ("and" 24)
     ("they did not mingle" 25 (26 mingle "συμμίγνυμι"))
     ("with one another" 27)
-    ("whole" 28)
-    ("the night." 29 30)))
+    ("the whole" 29 28)
+    ("night." 30)))
 
 (verse 21
   (status draft)

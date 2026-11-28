@@ -20,7 +20,7 @@
     ("each" 16)
     ("with whole household" 17)
     ("of them" 18)
-    ("they went in;" (19 go-in "εἰσέρχομαι"))))
+    ("went in;" (19 go-in "εἰσέρχομαι"))))
 
 (verse 2
   (status draft)

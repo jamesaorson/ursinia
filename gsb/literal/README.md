@@ -63,7 +63,8 @@ lowercase, grave as acute, an enclitic's thrown-back accent dropped
 
 ### `forms/*.tsv`
 
-Tab-separated, header row, one row per reading; several rows for one form are
+Tab-separated, header row, at most five columns (`check` rejects a row with
+more: an extra tab would drop the note), one row per reading; several rows for one form are
 several readings, the first the default. Rows for a form replace the New
 Testament's readings of it. A form is analyzed in one file only (the first
 book that needs it, or `00-common.tsv`); `check` reports duplicates.
@@ -125,6 +126,7 @@ consecutive lemmas rendered as one segment (ἀνὰ μέσον, ἐν μέσῳ
 | `(subject "it")` | a true impersonal: "it" for a third singular verb with no subject (γίνομαι: "it came to be"); keep the list short and say why in a comment |
 | `(person)` | the noun names a person: a relative pronoun after it is "who"/"whom" |
 | `(anarthrous "[the]")` | supplied before the noun without its article (κύριος: "[the] Lord") |
+| `(with-adjective "καθαρός" pure)` | on a noun sense: that adjective agreeing with the noun (before or after it, past an article) takes that sense (χρυσίον: χρυσίῳ καθαρῷ "with pure gold", not "clean") |
 
 English inflection uses the first gloss plus regular rules and a built-in
 list of irregular verbs and nouns (`%irregular` in the library). A final
@@ -252,8 +254,12 @@ auxiliaries ("will", "was", "has", "let", "did").
   ("himself/itself"), and the others keep their Greek gender. The
   nominative αὐτός is not resolved ("he"). ponytail: nearest agreeing noun,
   not syntax; a wrong pick is fixed with `(english "his/its")` (the open
-  form, never a referent by meaning). The verse before is not searched:
-  in dialogue it gave wrong antecedents.
+  form, never a referent by meaning). The verse before is searched only in
+  instructions (every finite verb of the verse second person: ποιήσεις
+  κιβωτόν ... next verse καταχρυσώσεις αὐτήν "you will gild over it"), only
+  for a thing, never for a reflexive, and only when neither verse names a
+  person, has a first or second person pronoun or opens speech; in
+  narrative and dialogue it gave wrong antecedents (Gen 3:11 εἶπεν αὐτῷ).
 - **Articular infinitive with a subject: the possessive gerund.** After a
   preposition (or ἕως, πρό) the articular infinitive is a gerund. Its
   subject goes before it as a possessive, a pronoun as "his", "my", "your",
@@ -441,6 +447,70 @@ punctuation-delimited stretch:
    helper (τῇ πρώτῃ τοῦ μηνός "on the first"); a supplied word goes after
    the helper ("of [the] Lord", "altar to [the] Lord"); a vocative takes no
    "[the]" (Κύριε "Lord").
+
+**Added in the third fix round** (2026-11-28; tests in the test file's
+"Third fix round" block):
+- *Names.* After Κύριος ὁ θεός (a phrase) a name is its genitive ("the Lord
+  God of Israel"); Κύριος ὁ θεὸς ἡμῶν/μου/αὐτῶν is "the Lord our/my/their
+  God". One indeclinable name is never the subject of a plural verb
+  (ποιήσουσιν τὴν στολὴν ... Ἀαρών). A name joined by καί to a dative or
+  genitive phrase takes its case (Ἀαρὼν καὶ τοῖς υἱοῖς αὐτοῦ "to Aaron and
+  to his sons"); after a first or second person verb a name takes the case
+  of its apposition (Εἰπὸν Ἀαρὼν τῷ ἀδελφῷ σου "Say to Aaron your brother"),
+  and after a second person verb of saying it is the one spoken to (Εἰπὸν
+  Ἀαρών "Say to Aaron").
+- *Genitive pronouns.* After a verb that takes a genitive object (its sense
+  has a `(genitive ...)` field), not a true passive, a genitive pronoun
+  before a noun is the verb's object (οὐκ εἰσακούσεται ὑμῶν Φαραώ "Pharaoh
+  will not hearken to you"); not across punctuation; after οὐδείς, εἷς,
+  ἕκαστος, τις it is partitive ("no one of us"); after an anarthrous genitive
+  participle it is a genitive absolute's subject. A possessive after an
+  article + adjective used as a noun goes before it ("your dead", "his
+  paternal house", "our choice tombs"). A possessive moved before its absorbed
+  article takes the phrase's helper ("to your voice").
+- *Third person imperatives.* An object pronoun-subject after "let" is "them"
+  (αὐτοὶ πορευέσθωσαν "let them go"); members joined by καί stay together
+  ("let not the priests and the people force"); with words between the
+  subject and the verb, "let" goes before the subject ("let the priests
+  drawing near ... be sanctified"). A neuter after an active imperative is its
+  subject only with an object after it (ἐξαγαγέτω τὰ ὕδατα ἑρπετά), a neuter
+  plural with a singular verb, or a people with a plural (δουλευσάτωσάν σοι
+  ἔθνη); else the object (δότω μοι τὸ σπήλαιον "let him/her/it give").
+- *Negation.* ἵνα/ὅπως/ἐάν/εἰ μή + infinitive + finite verb: the negation is
+  the verb's; εἰ μή + subject pronouns + verb: "If you yourself do not go";
+  οὐ/μή + an adverb or (prohibition) an object pronoun + verb: "you will not
+  say badly", "do not lead me up"; μή + a nominative participle + subjunctive
+  and μή after a command to heed (πρόσεχε ... μή) are "lest"; a negated
+  subjunctive of "be" outside a prohibition is "not be" ("if ... not be with
+  him"); after οὐ a form that may be imperative or indicative is the
+  indicative.
+- *Subjects.* A numeral in the nominative, πᾶς + adjective (πᾶν ἀρσενικόν),
+  ἕκαστος, and the article of a substantival prepositional phrase (οἱ ἐν τῇ
+  οἰκίᾳ) can head a subject; a collective (`%collectives`: λαός, πλῆθος ...)
+  or a πᾶς phrase can be the subject of a plural verb; after εἰμί a numeral
+  with its noun is the subject ("eight columns will be"); the impersonal
+  "it" of γίνομαι does not look past a καί for another verb; καὶ ἔσται ὅταν
+  "and it will be whenever"; an anarthrous neuter noun opening its clause
+  before εἰμί with nothing after but a dative is the predicate (κάρπωμά
+  ἐστιν "he/she/it is fruit offering"); a prepositional phrase whose object
+  is a pronoun ends at the pronoun.
+- *Other.* γῆ before a country's name (no article) is "land", and πᾶς before
+  it "all"; in a stretch with a verb of swearing an accusative θεός/κύριος
+  takes "by" and κατά + genitive is "by"; the intensive αὐτός beside a first
+  or second person pronoun of its case, or nominative with a first or second
+  person verb ("you yourselves"), and a plural ἑαυτοῦ with a first or second
+  person plural verb ("yourselves"); a dative relative not attracted takes
+  "to"; a masculine relative right after an indeclinable person's name, a
+  plural after names joined by καί, and a relative after an articular
+  masculine/feminine participle are "who"/"whom"; Τί τοῦτο + a verb whose subject
+  moved: "What [is] this God made"; a verbless τί/τίνος question gets
+  "[is]"/"[are]"; Τίς σε κατέστησεν "Who installed you"; the interrogative
+  inverts only with a verb of its own clause; ὅλος + article is "the whole";
+  adjectives joined by καί after an anarthrous noun move together ("great
+  and good cities"); τὰ πάντα alone is "all the [things]"; "on" and "near"
+  are verb particles ("lay it on", "bring him near"); the article before an
+  adjective follows the adjective's agreement with its noun (τοῖς ἐκλεκτοῖς
+  μνημείοις); two adjacent nouns are made to agree only in the genitive.
 
 **Kept as the Greek has it** (rule 9): demonstratives are "this/that", never
 "he"; no name is supplied for a pronoun; capitals follow sentence ends and

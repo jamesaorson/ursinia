@@ -174,7 +174,7 @@
     ("and" 12)
     ("Calneh" (13 name "Χαλαννή"))
     ("in" 14)
-    ("the earth" 15 16)
+    ("the land" 15 (16 land))
     ("of Shinar." (17 name "Σενναάρ"))))
 
 (verse 11

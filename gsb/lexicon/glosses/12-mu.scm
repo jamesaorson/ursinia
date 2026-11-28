@@ -32,6 +32,8 @@
 
 (lemma "μακράν" (sense far-off (gloss "far off") (why "Far, far off, at a distance (Genesis 44:4 οὐκ ἀπέσχον μακράν, \"they were not distant far off\"; Luke 15:20; Acts 2:39). The adverb of μακρός; \"far off\" keeps it apart from μακρόθεν \"from afar\".")))
 
+(lemma "μακροημερεύω" (sense prolong-days (intransitive) (verb "prolong days" "prolonged days" "prolonged days") (gloss "prolong days" "prolonged days" "prolongs days" "prolonging days") (why "(LXX, supplied.) To be long of days, live long (μακρός \"long\" + ἡμέρα \"day\"): ἵνα μακροημερεύσητε (Deuteronomy 6:2; 5:33; 11:9). \"Prolong days\" keeps the two parts of the compound and keeps it apart from μακροχρόνιος \"long-lived\".")))
+
 (lemma "μακρόθεν" (sense from-afar (gloss "from afar") (why "From afar, at a distance.")))
 
 (lemma "μακρόθυμος" (sense long-suffering (gloss "long-suffering") (why "(LXX, supplied.) Long of temper, slow to anger (μακρός + θυμός): Exodus 34:6, of the Lord, οἰκτείρμων καὶ ἐλεήμων, μακρόθυμος; compare μακροθυμέω and μακροθυμία (1 Corinthians 13:4; Galatians 5:22). \"Long-suffering\" is the traditional English and keeps the compound visible.")))
@@ -119,6 +121,8 @@
 (lemma "μεθύσκω"(sense get-drunk (voice active) (gloss "get drunk" "got drunk" "gotten drunk" "gets drunk" "getting drunk") (why "To make drunk; the passive, to get drunk (Genesis 9:21, Noah ἐμεθύσθη; Luke 12:45; Ephesians 5:18). The passive is rendered as the intransitive \"get drunk\".")))
 
 (lemma "μέλι" (sense honey (gloss "honey") (why "Honey (Genesis 43:11, among the gifts; Matthew 3:4; Revelation 10:9). (LXX form supplied.)")))
+
+(lemma "μελίζω" (sense dismember (gloss "dismember" "dismembered" "dismembers" "dismembering") (why "(LXX, supplied.) To cut limb from limb (μέλος \"limb\"): μελιοῦσιν αὐτὸ κατὰ μέλη, \"they will dismember it according to limbs\" (Leviticus 1:6; 8:20). \"Dismember\" keeps it apart from διαιρέω \"divide\" and κατακόπτω. Cultic term.")))
 
 (lemma "μέλλω" (sense be-about (verb "be about" "was about" "been about") (gloss "be about" "is about" "are about" "am about" "was about" "were about" "been about" "being about") (why "To be about to, be going to, with an infinitive (Genesis 25:22 Εἰ οὕτως μοι μέλλει γίνεσθαι, \"If thus to me it is about to come to be\"; Matthew 2:13; Romans 8:18).")))
 

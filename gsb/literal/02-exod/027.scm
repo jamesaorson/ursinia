@@ -77,7 +77,7 @@
   (literal
     ("And" 1)
     ("you will make" 2)
-    ("to him/it" 3)
+    ("to it" 3)
     ("grate" (4 grate "ἐσχάρα"))
     ("by netted" (6 netted "δικτυωτός"))
     ("work" 5)

@@ -6,7 +6,7 @@ form	lemma	tag	sense	note
 ἐπεφέρετο	ἐπιφέρω	V-IPI-3S		imperfect middle/passive, read as passive ("was being borne"), as the hand draft
 ἴδεν	ὁράω	V-2AAI-3S	see	Swete's spelling of εἶδεν
 διεχώρισεν	διαχωρίζω	V-AAI-3S
-πρωί	πρωΐ	N-NSN			an adverb used as the noun "morning" (καὶ ἐγένετο πρωί)
+πρωί	πρωΐ	N-NSN		an adverb used as the noun "morning" (καὶ ἐγένετο πρωί)
 ὤφθη	ὁράω	V-API-3S	appear	passive of ὁράω, "appeared"
 ἰδού	ὁράω	INJ	behold	the table lemmatizes ἰδού under ὁράω; the concordance sense is behold
 ἀνήγγειλεν	ἀναγγέλλω	V-AAI-3S		also ἀνήγγειλέν (enclitic accent)
@@ -14,7 +14,7 @@ form	lemma	tag	sense	note
 ἤρξατο	ἄρχω	V-AMI-3S	begin	the middle of ἄρχω is "begin"
 φάγῃ	ἐσθίω	V-FDI-2S		"you will eat" (future of ἐσθίω); after ἵνα, μή ... the next reading
 φάγῃ	ἐσθίω	V-2AAS-3S
-χλωρόν	χλωρός	A-ASM			the New Testament has only the neuter reading
+χλωρόν	χλωρός	A-ASM		the New Testament has only the neuter reading
 χλωρόν	χλωρός	A-ASN
 χλωρόν	χλωρός	A-NSN
 διαχωρίζον	διαχωρίζω	V-PAP-NSN
@@ -124,10 +124,10 @@ form	lemma	tag	sense	note
 χερουβὶν	Χερούβ	N-APN
 φλογίνην	φλόγινος	A-ASF
 στρεφομένην	στρέφω	V-PMP-ASF
-Κάιν	Κάϊν	N-PRI			Swete writes no diaeresis
+Κάιν	Κάϊν	N-PRI		Swete writes no diaeresis
 πρωτοτόκων	πρωτότοκος	A-GPN
 στεάτων	στέαρ	N-GPN
-ἔπιδεν	ἐπεῖδον	V-2AAI-3S			Swete's spelling of ἐπεῖδεν
+ἔπιδεν	ἐπεῖδον	V-2AAI-3S		Swete's spelling of ἐπεῖδεν
 προσέσχεν	προσέχω	V-2AAI-3S
 προσενέγκῃς	προσφέρω	V-2AAS-2S
 διέλῃς	διαιρέω	V-2AAS-2S
@@ -138,7 +138,7 @@ form	lemma	tag	sense	note
 φύλαξ	φύλαξ	N-NSM
 βοᾷ	βοάω	V-PAI-3S
 ἔχανεν	χάσκω	V-2AAI-3S
-ἐργᾷ	ἐργάζομαι	V-FDI-2S			future 2nd singular; the table guessed ἔργον
+ἐργᾷ	ἐργάζομαι	V-FDI-2S		future 2nd singular; the table guessed ἔργον
 προσθήσει	προστίθημι	V-FAI-3S
 στένων	στένω	V-PAP-NSM
 τρέμων	τρέμω	V-PAP-NSM
@@ -2551,3 +2551,5 @@ form	lemma	tag	sense	note
 κοιλίας	κοιλία	N-APF		after its article (Genesis 41:21 εἰς τὰς κοιλίας αὐτῶν)
 ὑγιαίνουσιν	ὑγιαίνω	V-PAI-3P		the finite verb (Genesis 37:14 εἰ ὑγιαίνουσιν οἱ ἀδελφοί σου); after an article the participle
 ὑγιαίνουσιν	ὑγιαίνω	V-PAP-DPM
+πορεύεσθε	πορεύομαι	V-PNM-2P		the imperative; after οὐ the indicative (Deuteronomy 6:14 οὐ πορεύεσθε)
+πορεύεσθε	πορεύομαι	V-PNI-2P

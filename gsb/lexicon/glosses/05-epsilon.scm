@@ -59,6 +59,8 @@
 
 (lemma "ἐγκισσάω" (sense crave (intransitive) (gloss "crave" "craved" "craves" "craving") (why "(LXX, supplied.) Of animals in heat, to crave, desire to conceive (Genesis 30:38-41, the flocks ἐνκισσήσωσιν at the peeled rods; 31:10). From κίσσα, the craving of pregnancy. Swete prints the unassimilated ἐνκισσ- (and the augmented ἐνεκίσσων); the lemma has the usual ἐγ-.")))
 
+(lemma "ἐγκοίλια" (sense inwards (gloss "inwards") (plural "inwards") (why "(LXX, supplied.) Neuter plural, the parts within the belly (ἐν + κοιλία), the inner organs of a sacrificial animal (Leviticus 1:9, 13 τὰ δὲ ἐνκοίλια ... πλυνοῦσιν ὕδατι; Exodus 29:13 has ἐνδόσθια). \"Inwards\" keeps it apart from ἐνδόσθια \"entrails\" and κοιλία. Swete prints the unassimilated ἐνκοίλια; the lemma has the usual ἐγ-. Cultic term.")))
+
 (lemma "ἐγκρατεύομαι" (sense hold-back (verb "hold back" "held back" "held back") (gloss "hold back" "held back" "holds back" "holding back") (why "(LXX, supplied.) To exercise self-control, restrain oneself (Genesis 43:31, Joseph, having washed his face and come out, ἐνεκρατεύσατο, \"held back\" his weeping; 1 Corinthians 7:9; 9:25). \"Hold back\" keeps it apart from κρατέω \"hold\" and κατέχω \"hold fast\".")))
 
 (lemma "ἐγκρατέω" (sense keep-hold (genitive "of") (verb "keep hold" "kept hold" "kept hold") (gloss "keep hold" "kept hold" "keeps hold" "keeping hold") (why "(LXX, supplied.) To have in one's power, keep hold of, with the genitive (Exodus 9:2 ἀλλ’ ἔτι ἐνκρατεῖς αὐτοῦ, Pharaoh still keeping hold of the people; Swete spells it ἐν-). Read as the verb: the adjective ἐγκρατής would be singular here. \"Keep hold\" keeps it apart from κρατέω \"hold\", κατέχω \"hold fast\" and ἐγκρατεύομαι \"hold back\".")))
@@ -194,11 +196,15 @@
 
 (lemma "ἐκδέχομαι" (sense accept (gloss "accept" "accepted" "accepts" "accepting") (why "To take from another's hand, receive as one's charge (Genesis 43:9 ἐγὼ δὲ ἐκδέχομαι αὐτόν, Judah taking Benjamin on himself; 44:32 ἐκδέδεκται τὸ παιδίον παρὰ τοῦ πατρός). \"Accept\" keeps it apart from δέχομαι \"receive\". The New Testament's \"wait for, expect\" (John 5:3; Hebrews 11:10) will need its own sense.")))
 
+(lemma "ἐκδέρω" (sense flay (gloss "flay" "flayed" "flays" "flaying") (why "(LXX, supplied.) To skin, flay (ἐκ + δέρω, the root of δέρμα \"skin\"): the whole burnt offering flayed before it is cut up (Leviticus 1:6 ἐκδείραντες τὸ ὁλοκαύτωμα). \"Flay\" keeps it apart from ἐκδύω \"strip\" and from δέρω \"beat\" in the New Testament. Cultic term.")))
+
 (lemma "ἐκδίδωμι" (sense give-out (dative "to") (verb "give out" "gave out" "given out") (gloss "give out" "gave out" "given out" "gives out" "giving out") (why "To give out, hand over; middle, to let out for hire (Matthew 21:33 ἐξέδετο, of a vineyard) or give out a daughter in marriage (Exodus 2:21 ἐξέδοτο Σεπφώραν ... Μωυσῇ γυναῖκα). \"Give out\" keeps it apart from δίδωμι \"give\".")))
 
 (lemma "ἐκδικέω" (sense avenge (gloss "avenge" "avenged" "avenges" "avenging") (why "To avenge, punish (Romans 12:19; Revelation 6:10).")))
 
 (lemma "ἐκδίκησις" (sense vengeance (gloss "vengeance" "vengeances") (why "Vengeance, the doing of justice on a wrongdoer (Exodus 7:4 σὺν ἐκδικήσει μεγάλῃ, God bringing Israel out with great vengeance; Luke 18:7-8; Romans 12:19). The noun of ἐκδικέω.")))
+
+(lemma "ἐκδιώκω" (sense pursue-out (verb "pursue out" "pursued out" "pursued out") (gloss "pursue out" "pursued out" "pursues out" "pursuing out") (why "(LXX, supplied.) To chase out, drive away (ἐκ + διώκω \"pursue\"): ἐκδιῶξαι πάντας τοὺς ἐχθρούς σου (Deuteronomy 6:19); 1 Thessalonians 2:15 ἡμᾶς ἐκδιωξάντων. \"Pursue out\" renders the ἐκ- and keeps it apart from διώκω \"pursue\", καταδιώκω \"chase\" and ἐκβάλλω \"cast out\".")))
 
 (lemma "ἐκδύω" (sense strip (gloss "strip" "stripped" "strips" "stripping") (why "To take off clothing, strip, with an accusative of the person and of the garment (Genesis 37:23 ἐξέδυσαν τὸν Ἰωσὴφ τὸν χιτῶνα, \"they stripped Joseph the tunic\"; Matthew 27:28, 31). \"Strip\" keeps it apart from περισύρω \"strip off\" (bark) and ἐνδύω \"put on\".")))
 
@@ -229,6 +235,8 @@
 
 (lemma "ἐκκενόω" (sense empty-out (gloss "empty out" "emptied out" "empties out" "emptying out") (why "(LXX, supplied.) To empty out, pour out completely (Genesis 24:20, the jar emptied into the trough). Kept apart from κενόω \"empty\" (Philippians 2:7) by the particle.")))
 
+(lemma "ἐκκλάω" (sense break-off (verb "break off" "broke off" "broken off") (gloss "break off" "broke off" "broken off" "breaks off" "breaking off") (why "(LXX, supplied.) To break off (ἐκ + κλάω \"break\"): the bird offering broken ἐκ τῶν πτερύγων, \"from the wings\", but not divided (Leviticus 1:17; 5:8). \"Break off\" renders the ἐκ- and keeps it apart from διακόπτω \"break through\" and διασκεδάζω \"break up\". Cultic term.")))
+
 (lemma "ἐκκλείω" (sense shut-out (verb "shut out" "shut out" "shut out") (gloss "shut out" "shuts out" "shutting out") (why "To shut out, exclude (Exodus 23:2 ὥστε ἐκκλεῖσαι κρίσιν, \"so as to shut out judgment\", as Swete prints; Romans 3:27; Galatians 4:17). Kept apart from κλείω \"shut\".")))
 
 (lemma "ἐκκλίνω" (sense turn-aside (gloss "turn aside" "turned aside" "turns aside" "turning aside") (why "To turn aside, turn away (Genesis 18:5, the guests turned aside to Abraham; Romans 3:12; 16:17; 1 Peter 3:11). Kept apart from the στρέφω compounds.")))
@@ -250,6 +258,8 @@
 (lemma "ἐκλεκτός" (sense choice (gloss "choice") (why "Picked out, choice, the best (Genesis 23:6, ἐν τοῖς ἐκλεκτοῖς μνημείοις ἡμῶν, \"in our choice tombs\"). \"Choice\" keeps it apart from ἐκλέγω \"choose\" (\"chosen\"); the New Testament's \"elect\" (Matthew 24:22; Romans 8:33), of persons, may become its own sense.")))
 
 (lemma "ἐκνήφω" (sense sober-up (gloss "sober up" "sobered up" "sobers up" "sobering up") (why "To become sober out of drunkenness (Genesis 9:24, Noah ἐξένηψεν ἀπὸ τοῦ οἴνου; 1 Corinthians 15:34). Against νήφω \"be sober\".")))
+
+(lemma "ἐκπειράζω" (sense test-out (verb "test out" "tested out" "tested out") (gloss "test out" "tested out" "tests out" "testing out") (why "To put to the test, try out (ἐκ + πειράζω \"test\"): Οὐκ ἐκπειράσεις Κύριον τὸν θεόν σου (Deuteronomy 6:16), quoted by Jesus in Matthew 4:7 and Luke 4:12; Luke 10:25; 1 Corinthians 10:9. \"Test out\" renders the ἐκ- and keeps it apart from πειράζω \"test\", in both testaments. (LXX form supplied.)")))
 
 (lemma "ἐκπέμπω" (sense send-off(gloss "send off" "sent off" "sends off" "sending off") (why "To send away, send off on a journey (Genesis 24:54, 56, 59; Acts 13:4; 17:10). \"Send off\" keeps it apart from πέμπω \"send\" and ἐξαποστέλλω \"send out\".")))
 
@@ -680,7 +690,7 @@
 
 (lemma "ἐπέκεινα" (sense beyond (genitive "") (gloss "beyond") (why "Beyond, on the far side of, with the genitive (Genesis 35:21 ἐπέκεινα τοῦ πύργου Γάδερ; Acts 7:43 ἐπέκεινα Βαβυλῶνος).")))
 
-(lemma "ἐπέρχομαι" (sense come-over (verb "come over" "came over" "come over") (gloss "come over" "came over" "comes over" "coming over") (why "To come upon, come against, befall (Genesis 42:21 ἐπῆλθεν ἐφ’ ἡμᾶς ἡ θλίψις αὕτη; Luke 1:35; 21:26). \"Come over\", not \"come upon\", because the verb usually takes ἐπί, which is \"upon\" (\"came over upon us\"), and συμβαίνω has \"befall\".")))
+(lemma "ἐπέρχομαι" (sense come-over (intransitive) (verb "come over" "came over" "come over") (gloss "come over" "came over" "comes over" "coming over") (why "To come upon, come against, befall (Genesis 42:21 ἐπῆλθεν ἐφ’ ἡμᾶς ἡ θλίψις αὕτη; Luke 1:35; 21:26). \"Come over\", not \"come upon\", because the verb usually takes ἐπί, which is \"upon\" (\"came over upon us\"), and συμβαίνω has \"befall\".")))
 
 (lemma "ἐπερωτάω"(sense question (gloss "question" "questioned" "questions" "questioning") (why "To ask, put a question to, inquire of (Genesis 26:7; Mark 9:32; Luke 2:46). \"Question\" keeps it apart from αἰτέω \"ask\", δέομαι \"beg\" and πυνθάνομαι \"inquire\".")))
 
@@ -794,6 +804,8 @@
 (lemma "ἐπιστήμη" (sense expertise (gloss "expertise") (why "(LXX, supplied.) Knowledge that knows how, skill (Exodus 31:3; 35:31 σοφίας καὶ συνέσεως καὶ ἐπιστήμης, of Bezalel's gifts; 36:1), the noun of ἐπίσταμαι. \"Expertise\" keeps it apart from σοφία \"wisdom\", σύνεσις \"intelligence\", ἐπίσταμαι \"understand\" and the \"knowledge\" that γνῶσις will need.")))
 
 (lemma "ἐπιστηρίζω" (sense lean (voice active) (gloss "lean" "leaned" "leans" "leaning") (why "(LXX, supplied.) To prop upon; passive, to lean or be set firm upon (Genesis 28:13 ὁ δὲ Κύριος ἐπεστήρικτο ἐπ’ αὐτῆς, \"the Lord had leaned upon it\", the ladder). The passive is rendered active. In the New Testament (Acts 14:22; 15:32, 41) it is \"strengthen\", which will be its own sense.")))
+
+(lemma "ἐπιστοιβάζω" (sense pile-on (verb "pile on" "piled on" "piled on") (gloss "pile on" "piled on" "piles on" "piling on") (why "(LXX, supplied.) To pile up on, stack on (ἐπί + στοιβάζω \"pile\"): the priests pile wood on the fire, and the pieces on the wood (Leviticus 1:7, 8, 12 ἐπιστοιβάσουσιν ξύλα ἐπὶ τὸ πῦρ). \"Pile on\" keeps it apart from θιμωνιά \"stack\" and βουνός \"heap\". Cultic term.")))
 
 (lemma "ἐπιστρέφω" (sense turn-again (gloss "turn again" "turned again" "turns again" "turning again") (why "Intransitive: to turn around, turn back again, return (Genesis 8:12, the dove did not add of turning again to him; Luke 17:4; Acts 3:19). \"Turn again\" keeps it apart from στρέφω \"turn\", ἀποστρέφω \"turn back\", ἀναστρέφω \"come back\" and ὑποστρέφω \"return\".")))
 

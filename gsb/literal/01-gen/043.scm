@@ -222,7 +222,7 @@
   (literal
     ("For" 3)
     ("if" 1)
-    ("we did not delay" 2 (4 delay "βραδύνω"))
+    ("we did not delay," 2 (4 delay "βραδύνω"))
     ("already" 5)
     ("we would have returned" (6 unrendered) (7 return "ὑποστρέφω"))
     ("twice." 8)))

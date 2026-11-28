@@ -127,8 +127,9 @@
   (status draft)
   (literal
     ("and" 1)
-    ("he/she/it laid on" 2)
+    ("he/she/it laid" 2)
     ("them" 3)
+    ("on" (cont 2))
     ("upon" 4)
     ("the shoulders" 5 6)
     ("of the shoulder-piece," 7 (8 shoulder-piece "ἐπωμίς"))

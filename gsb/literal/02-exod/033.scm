@@ -22,7 +22,7 @@
     ("which" 14)
     ("you brought out" (15 bring-out "ἐξάγω"))
     ("out of" 16)
-    ("earth" 17)
+    ("land" (17 land))
     ("of Egypt," 18)
     ("into" 19)
     ("the land" 20 (21 land))

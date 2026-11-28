@@ -255,7 +255,7 @@
     ("Abram" (1 name "Ἀβράμ"))
     ("resided" 3)
     ("in" 4)
-    ("earth" 5)
+    ("land" (5 land))
     ("of Canaan;" 6)
     ("but" 8)
     ("Lot" 7)

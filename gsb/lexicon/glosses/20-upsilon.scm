@@ -16,6 +16,8 @@
 
 (lemma "ὕδωρ"
   (sense water
+    ;; the dative is mostly the means: λούσεται ὕδατι "will wash with water"
+    (dative "with")
     (gloss "water" "waters")
     (why "Water. The Greek number is kept: singular \"water\" in Genesis 1:2-9, plural \"waters\" from 1:10.")))
 

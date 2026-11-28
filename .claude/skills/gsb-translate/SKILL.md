@@ -63,6 +63,7 @@ Columns: `kind form count table-lemma first context`. Kinds:
 - **unknown-form**: the generator has no grammar tag for the form. Add a row
   to *your book's* `gsb/literal/forms/NN-<id>.tsv`, at the end:
   `form<TAB>lemma<TAB>tag<TAB>sense<TAB>note` (sense and note may be empty).
+  - At most five tab-separated columns (`check` rejects a row with more).
   - `form` exactly as in the `todo` output (Swete's spelling, accents as
     printed). Forms are matched lowercase with grave = acute and an
     enclitic's extra accent dropped, so one row covers `ὡραῖον`/`ὡραῖόν`.
@@ -244,6 +245,49 @@ Never edit `gsb/literal/NN-<id>/*.scm` (generated), the hand files in
   (Gen 2:7 "breathed into its face", the noun being χοῦν "dust"), use the
   open form, `(english "his/its")` (or "him/it"), not the referent.
 - **A verbless clause** that does not read as English: item 4 above.
+
+**Done by rule now (third fix round): do not add overrides for these.**
+γῆ before a country's name is "land" (γῆ Αἰγύπτου "land of Egypt");
+"the Lord our/my/their God" (Κύριος ὁ θεὸς ἡμῶν) and "the Lord God of
+Israel"; a verbless τί/τίνος question gets "[is]"/"[are]" (Τί τοῦτο; "What
+[is] this?"), so never add another; the intensive αὐτός beside or with a
+first/second person ("you yourselves", ὑμῖν αὐτοῖς "to you yourselves") and
+ἑαυτοῖς with a second person verb ("yourselves"); oaths ("swear by God",
+κατ’ ἐμαυτοῦ "by myself"); καὶ ἔσται ὅταν "and it will be whenever"; a
+dative relative that is not attracted is "to whom/which"; τὰ πάντα "all the
+[things]"; χρυσίον καθαρόν "pure gold" (a noun's `(with-adjective ...)`
+field: use it for other fixed adjective senses). An old override that
+supplied one of these now doubles it ("[is] [is]"): delete it. In
+instructions (verses whose finite verbs are all second person) a thing
+pronoun may take its antecedent from the verse before ("you will gild over
+it"); read those.
+
+**What to expect in legal and cultic chapters** (Leviticus, Numbers,
+Deuteronomy; from a look-ahead at Lev 1 and Deut 6):
+- Third person pronouns: the offerer is usually named verses back, so
+  αὐτοῦ/αὐτῷ in "his gift", "acceptable to him" take the nearest noun
+  (τὸ δῶρον αὐτοῦ after ὁλοκαύτωμα: "its gift"; δεκτὸν αὐτῷ after τοῦ
+  μαρτυρίου: "to it"). Expect many `(english "his/its")` / `(english
+  "him/it")` overrides; a whole-chapter pattern is worth reporting as a rule
+  fault rather than overriding forty times.
+- Verbless ἐάν protases (Ἐὰν ὁλοκαύτωμα τὸ δῶρον αὐτοῦ ...) read as
+  fragments: supply `[is]` by override where a clause does not read.
+- κάρπωμά ἐστιν, ἅγιόν ἐστιν: an anarthrous neuter noun opening its clause
+  before εἰμί, with nothing after it but a dative, is the predicate: "he/she/it
+  is fruit offering" (by rule). With a genitive after (κάρπωμά ἐστιν θυσίας)
+  the rule does not fire and θυσίας may need `(tag "N-GSF")`.
+- Lower-case τῷ κυρίῳ in the formula ὀσμὴ εὐωδίας τῷ κυρίῳ is "to the lord"
+  by Swete's capitals (README "κύριος"); report it, do not override it (an
+  owner question).
+- The future as command ("you will not ...") is rendered as a future, as the
+  Greek has it; οὐ before a form that could be imperative is read as the
+  indicative (a form row with both readings is needed, imperative first).
+- Repeated articles (τὰ ξύλα τὰ ἐπὶ τοῦ πυρὸς τὰ ὄντα ἐπὶ τοῦ θυσιαστηρίου)
+  come out "the [things] being upon": stiff, not false; leave them.
+- κατὰ μέλη "according to limbs" and similar distributive κατά: a `(sense
+  ...)` override where the sense differs; ὃν τρόπον "which manner" is stiff.
+- μή after a command to take heed (πρόσεχε σεαυτῷ μὴ ἐπιλάθῃ) is "lest" by
+  rule; μή + a nominative participle + subjunctive is "lest" too.
 
 **Acceptable** means: every Greek word is translated with the right sense
 and grammatical role (subject, object, case), nothing the Greek leaves open

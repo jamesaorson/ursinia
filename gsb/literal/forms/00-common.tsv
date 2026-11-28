@@ -1,18 +1,18 @@
 form	lemma	tag	sense	note
-αὐτοῦ	αὐτός	P-GSM			masculine and neuter alike; the generator leaves "his/its" open unless the clause fixes it (rule 16a)
+αὐτοῦ	αὐτός	P-GSM		masculine and neuter alike; the generator leaves "his/its" open unless the clause fixes it (rule 16a)
 αὐτοῦ	αὐτός	P-GSN
-ὅ	ὅς	R-ASN			relative; ὅ τε is the article (the generator's ὅ τε rule)
+ὅ	ὅς	R-ASN		relative; ὅ τε is the article (the generator's ὅ τε rule)
 ὅ	ὅς	R-NSN
 ὅ	ὁ	T-NSM
-οὗ	ὅς	R-GSN			before a verb (not after a genitive noun) the generator reads the adverb "where"
+οὗ	ὅς	R-GSN		before a verb (not after a genitive noun) the generator reads the adverb "where"
 οὗ	ὅς	R-GSM
 οὗ	οὗ	ADV	where
 ἅ	ὅς	R-APN
 ἅ	ὅς	R-NPN
 ἥ	ὅς	R-NSF
-τί	τίς	I-ASN			also Τί; the subject rules or an override choose the nominative
+τί	τίς	I-ASN		also Τί; the subject rules or an override choose the nominative
 τί	τίς	I-NSN
-τίς	τίς	I-NSM			also Τίς
+τίς	τίς	I-NSM		also Τίς
 τίς	τίς	I-NSF
 ἐμοῦ	ἐγώ	P-1GS
 ἐμοί	ἐγώ	P-1DS

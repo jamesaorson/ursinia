@@ -90,7 +90,7 @@
     ("the famine" 12 13)
     ("was" 10)
     ("in" 14)
-    ("earth" 15)
+    ("land" (15 land))
     ("of Canaan." 16)))
 
 (verse 6
@@ -143,7 +143,7 @@
     ("But" 22)
     ("they said," (21 pronoun) 23)
     ("Out of" 24)
-    ("earth" 25)
+    ("land" (25 land))
     ("of Canaan" 26)
     ("to buy" 27)
     ("foods." 28)))
@@ -233,7 +233,7 @@
     ("servants" (6 absorbed) (7 servant "παῖς"))
     ("brothers" 9)
     ("in" 10)
-    ("earth" 11)
+    ("land" (11 land))
     ("of Canaan;" 12)
     ("and" 13)
     ("behold" (14 behold))
@@ -554,7 +554,7 @@
 (verse 28
   (status draft)
   (literal
-    ("and" 1)
+    ("And" 1)
     ("he/she/it said" 2)
     ("to his/its" 5)
     ("brothers," (3 absorbed) 4)
@@ -593,7 +593,7 @@
     ("their" 7)
     ("father" (5 absorbed) 6)
     ("into" 8)
-    ("earth" 9)
+    ("land" (9 land))
     ("of Canaan," 10)
     ("and" 11)
     ("reported" 12)
@@ -651,7 +651,7 @@
     ("father" (16 absorbed) 17)
     ("today" 19)
     ("into" 20)
-    ("earth" 21)
+    ("land" (21 land))
     ("of Canaan." 22)))
 
 (verse 33

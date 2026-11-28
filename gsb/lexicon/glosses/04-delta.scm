@@ -163,6 +163,8 @@
 
 (lemma "διανήθω" (sense spin-through (verb "spin through" "spun through" "spun through") (gloss "spin through" "spun through" "spins through" "spinning through") (why "(LXX, supplied.) To spin out thoroughly, διά + νήθω \"spin\" (Matthew 6:28 οὐδὲ νήθουσιν); the perfect passive participle of the scarlet thread, κοκκίνου διανενησμένου (Exodus 26:1, 31; 28:8, 33), \"of scarlet spun through\". \"Spin through\" keeps the prefix and keeps it apart from κλώθω \"twist\". Use this English in every tabernacle chapter.")))
 
+(lemma "διανίστημι" (sense rise-up (intransitive) (verb "rise up" "rose up" "risen up") (gloss "rise up" "rose up" "risen up" "rises up" "rising up") (why "(LXX, supplied.) Intransitive: to rise up, get up from lying (Deuteronomy 6:7 and 11:19 κοιταζόμενος καὶ διανιστάμενος, \"bedding down and rising up\"). \"Rise up\" keeps it apart from ἀνίστημι \"stand up\" and ἐξανίστημι \"get up\"; it shares the word \"rise\" with ἀνατέλλω \"rise\" (of the sun), the particle \"up\" telling them apart.")))
+
 (lemma "διανοέομαι" (sense think-through (gloss "think through" "thought through" "thinks through" "thinking through") (why "(LXX, supplied.) To think over, have in mind, consider (Genesis 6:5-6). \"Think through\" renders the δια- and keeps it apart from ἐνθυμέομαι \"ponder\"; the noun διάνοια will take \"mind\" or \"understanding\".")))
 
 (lemma "διάνοια" (sense mind (gloss "mind" "minds") (why "The faculty of thinking, the mind, and what it devises (Genesis 8:21, the mind of the human is intent on evil things; Matthew 22:37, with all your mind; Ephesians 4:18). \"Mind\", as διανοέομαι's entry foresaw; νοῦς will need its own English or a note when it comes.")))
@@ -223,6 +225,8 @@
   (sense separate
     (gloss "separate" "separated" "separates" "separating")
     (why "(Supplied in Genesis 1, where the forms are LXX-only.) To divide, separate one thing from another (Luke 9:33, middle: \"part from\"). \"Separate\" in all five uses of Genesis 1. ἀφορίζω takes \"set apart\".")))
+
+(lemma "διδάσκω" (sense teach (verb "teach" "taught" "taught") (gloss "teach" "taught" "teaches" "teaching") (why "To teach (Deuteronomy 4:1, 5, 10; 6:1 διδάξαι ὑμᾶς ποιεῖν; Matthew 4:23; 28:20). \"Teach\" was kept free for it by προβιβάζω \"prompt\" and συμβιβάζω \"instruct\". (LXX form supplied.)")))
 
 (lemma "δίδραχμον" (sense didrachm (gloss "didrachm" "didrachms") (why "A double drachma, a silver coin of two drachmas (Genesis 20:14, 16 χίλια δίδραχμα; Matthew 17:24, the didrachm tax). Kept as the coin's name.")))
 

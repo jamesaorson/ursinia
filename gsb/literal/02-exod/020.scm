@@ -26,7 +26,7 @@
     ("you" 9)
     ("out" (cont 8))
     ("out of" 10)
-    ("earth" 11)
+    ("land" (11 land))
     ("of Egypt," 12)
     ("out of" 13)
     ("house" 14)
