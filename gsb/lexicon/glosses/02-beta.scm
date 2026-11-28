@@ -8,6 +8,8 @@
 
 (lemma "Βαιθήλ" (sense name (gloss "Bethel") (why "(LXX, supplied.) Bethel, \"house of God\" (Genesis 12:8; 13:3); traditional English.")))
 
+(lemma "βακτηρία" (sense walking-stick (gloss "walking stick" "walking sticks") (why "(LXX, supplied.) A stick to lean on in walking, a traveler's stick (Exodus 12:11 αἱ βακτηρίαι ἐν ταῖς χερσὶν ὑμῶν, the Passover eaten ready to set out). \"Walking stick\" keeps it apart from ῥάβδος \"staff\".")))
+
 (lemma "Βάλα" (sense name (gloss "Bela") (why "(LXX, supplied.) Benjamin's firstborn (Genesis 46:21; Swete prints Βάλα, then Βαλά), Greek Βάλα; traditional English Bela.")))
 
 (lemma "Βαλαάν" (sense name (gloss "Bilhan") (why "(LXX, supplied.) A son of Ezer, the Horite Σάαρ (Genesis 36:27), Greek Βαλαάν; traditional English Bilhan.")))
@@ -22,6 +24,8 @@
   (sense bilhah (person) (gloss "Bilhah") (why "(LXX, supplied.) Rachel's slave girl, given to Jacob (Genesis 29:29; 30:3-7; 35:22, 25), Greek Βάλλα (accusative Βάλλαν) for the Hebrew Bilhah. The same Greek spelling as the king of Sodom, a different person and Hebrew name: her own sense, traditional English Bilhah.")))
 
 (lemma "βάλλω" (sense cast (verb "cast" "cast" "cast") (gloss "cast" "casts" "casting") (why "To throw, cast (Exodus 10:19 ἔβαλεν αὐτὴν εἰς τὴν ἐρυθρὰν θάλασσαν, the wind casting the locust into the Red Sea; Matthew 3:10; 5:29). \"Cast\" as ἐπιβάλλω's note foresaw: the compound adds ἐπί; ῥίπτω keeps \"throw\".")))
+
+(lemma "βάπτω" (sense dip (gloss "dip" "dipped" "dips" "dipping") (why "(LXX form supplied.) To dip, plunge into a liquid (Exodus 12:22 βάψαντες ἀπὸ τοῦ αἵματος, dipping the hyssop in the blood; Luke 16:24; John 13:26). The simple verb behind βαπτίζω.")))
 
 (lemma "Βάραδ" (sense name (gloss "Bered") (why "(LXX, supplied.) A place in the wilderness of Shur (Genesis 16:14), Hebrew Bered; the traditional English form, the Greek being the same name.")))
 
@@ -49,13 +53,17 @@
 
 (lemma "βαρέως" (sense heavily (gloss "heavily") (why "Heavily, with difficulty (Matthew 13:15 τοῖς ὠσὶν βαρέως ἤκουσαν, quoting Isaiah 6:10). Genesis 31:35 Μὴ βαρέως φέρε, Rachel to Laban, \"do not bear heavily\", take it ill.")))
 
-(lemma "βασιλεύς" (sense king (person) (gloss "king" "kings") (why "King (Genesis 17:6, 16, kings will come out of Abraham; Matthew 1:6; 2:1).")))
+(lemma "βασίλειος" (sense royal (gloss "royal") (why "Royal, of a king (βασιλεύς); Exodus 19:6 βασίλειον ἱεράτευμα \"royal priesthood\", quoted at 1 Peter 2:9. (LXX form supplied.)")))
+
+(lemma "βασιλεύς"(sense king (person) (gloss "king" "kings") (why "King (Genesis 17:6, 16, kings will come out of Abraham; Matthew 1:6; 2:1).")))
 
 (lemma "βασιλεύω" (sense reign (intransitive) (gloss "reign" "reigned" "reigns" "reigning") (why "(LXX form supplied.) To be king, reign (Genesis 36:31-39, the kings who reigned in Edom; Matthew 2:22; Luke 1:33). The verb of βασιλεύς \"king\".")))
 
+(lemma "βάσις" (sense base (gloss "base" "bases") (why "A step, and so a foot, base (Acts 3:7, his feet, αἱ βάσεις): the silver bases under the columns of the tabernacle and the bronze bases of the court's columns (Exodus 26:19-37; 27:10-18; 35-40), where the Hebrew has sockets. Tabernacle term: always \"base\".")))
+
 (lemma "βάτος (I)" (sense bush (gloss "bush" "bushes") (why "A thorn bush, bramble: the burning bush (Exodus 3:2-4, ὁ βάτος, masculine in Swete; Mark 12:26 ἐπὶ τοῦ βάτου; Luke 20:37; Acts 7:30, 35, retelling Exodus 3). The lemma keeps the New Testament table's name, apart from βάτος (II), the liquid measure \"bath\" (Luke 16:6).")))
 
-(lemma "βάτραχος" (sense frog (gloss "frog" "frogs") (why "A frog (Exodus 8:2-13, the second plague; Revelation 16:13, unclean spirits like frogs). The singular ὁ βάτραχος of Exodus 8:6 is collective and stays singular.")))
+(lemma "βάτραχος" (sense frog (dative "with") (gloss "frog" "frogs") (why "A frog (Exodus 8:2-13, the second plague, τύπτω ... τοῖς βατράχοις \"I beat ... with the frogs\", the dative instrumental; Revelation 16:13, unclean spirits like frogs). The singular ὁ βάτραχος of Exodus 8:6 is collective and stays singular.")))
 
 (lemma "βδέλυγμα"(sense abomination (gloss "abomination" "abominations") (why "(LXX form supplied.) A thing abhorred, an abomination (Genesis 43:32 βδέλυγμα γάρ ἐστιν τοῖς Αἰγυπτίοις, of eating with Hebrews; Matthew 24:15; Luke 16:15). The noun of βδελύσσομαι \"abhor\".")))
 
@@ -64,6 +72,8 @@
 (lemma "Βαύξ" (sense name (gloss "Buz") (why "(LXX, supplied.) Nahor's second son (Genesis 22:21); the Greek form of the Hebrew Buz. Traditional English Buz.")))
 
 (lemma "βδελύσσω" (sense make-loathsome (verb "make loathsome" "made loathsome" "made loathsome") (gloss "make loathsome" "made loathsome" "makes loathsome" "making loathsome") (why "(LXX sense.) Active, to make loathsome, make to stink (Exodus 5:21 ἐβδελύξατε τὴν ὀσμὴν ἡμῶν ἐναντίον Φαραώ, \"you made our smell loathsome before Pharaoh\"). The middle \"abhor\" (Romans 2:22 ὁ βδελυσσόμενος τὰ εἴδωλα) becomes its own sense when needed.")))
+
+(lemma "βεβηλόω" (sense profane (gloss "profane" "profaned" "profanes" "profaning") (why "(LXX form supplied.) To make common, profane what is holy (Exodus 31:14 ὁ βεβηλῶν αὐτό, the sabbath; Matthew 12:5, the priests profane the sabbath; Acts 24:6, the temple). Kept apart from μιαίνω \"defile\".")))
 
 (lemma "Βεελσεπφών" (sense name (gloss "Baal-zephon") (why "(LXX, supplied.) A place by the sea where Israel camped (Exodus 14:2, 9, ἐξ ἐναντίας Βεελσεπφών), indeclinable; traditional English Baal-zephon.")))
 
@@ -77,9 +87,13 @@
 
 (lemma "Βενιαμίν" (sense name (gloss "Benjamin") (why "Jacob's last son by Rachel (Genesis 35:18, 24; Acts 13:21; Romans 11:1); Swete spells it Βενιαμείν. Traditional English Benjamin.")))
 
+(lemma "Βεσελεήλ" (sense name (gloss "Bezalel") (why "(LXX, supplied.) The craftsman of the tabernacle, son of Uri son of Hur, of Judah (Exodus 31:2; 35:30; 36-38). Greek Βεσελεήλ transcribes the Hebrew Bezalel: the same name, so the traditional English Bezalel (rule 8).")))
+
 (lemma "Βεώρ" (sense name (gloss "Beor") (why "(LXX, supplied.) Father of Balak (Bela), the first king of Edom (Genesis 36:32), traditional English Beor. The New Testament's Βοσόρ (2 Peter 2:15) is the father of Balaam.")))
 
 (lemma "Βηθλέεμ" (sense name (gloss "Bethlehem") (why "Bethlehem, on the way to Ephrath, where Rachel was buried (Genesis 35:19; Matthew 2:1-8; Luke 2:4). Traditional English.")))
+
+(lemma "βηρύλλιον" (sense beryl (gloss "beryl" "beryls") (why "(LXX, supplied.) Beryl, the second stone of the oracle's fourth row (Exodus 28:20; 36:20). It shares \"beryl\" with βήρυλλος (Revelation 21:20), the same stone under the other form of its name. The stones of the oracle keep the names the Greek gives them, in their English forms.")))
 
 (lemma "βία" (sense violence (dative "with") (gloss "violence") (why "Force, violence (Exodus 1:13 κατεδυνάστευον ... βίᾳ; 1:14 μετὰ βίας; Acts 5:26 οὐ μετὰ βίας; 27:41). \"Violence\" keeps it apart from the verb βιάζομαι \"force\". The bare dative is the means, \"with violence\".")))
 
@@ -119,7 +133,9 @@
 
 (lemma "βολή" (sense shot (gloss "shot" "shots") (why "A throw, a cast; with τόξου the distance of a bowshot (Genesis 21:16; Luke 22:41 ὡσεὶ λίθου βολήν, \"about a stone's throw\"). \"Shot\" fits the bow.")))
 
-(lemma "βορρᾶς" (sense north (gloss "north") (why "The north wind, the north (Genesis 13:14 πρὸς βορρᾶν; Luke 13:29).")))
+(lemma "βολίς" (sense dart (dative "with") (gloss "dart" "darts") (why "(LXX, supplied.) A missile, javelin, dart (βάλλω \"throw\"; Exodus 19:13, the one who touches the mountain shot down with a dart; Hebrews 12:20 in the Textus Receptus). Kept apart from βολή \"throw\".")))
+
+(lemma "βορρᾶς"(sense north (gloss "north") (why "The north wind, the north (Genesis 13:14 πρὸς βορρᾶν; Luke 13:29).")))
 
 (lemma "βόσκω" (sense pasture (gloss "pasture" "pastured" "pastures" "pasturing") (why "To feed, graze, pasture a flock (Genesis 29:6-9, Rachel ἔβοσκεν her father's sheep; Luke 15:15; John 21:15). \"Pasture\" keeps it apart from ποιμαίνω \"tend\" and the \"feed\" of other verbs.")))
 
@@ -140,7 +156,8 @@
 
 (lemma "βούλομαι" (sense wish (gloss "wish" "wished" "wishes" "wishing") (why "To wish, be willing, intend (Genesis 24:5, μή ποτε οὐ βούλεται ἡ γυνή; Matthew 1:19; 1 Timothy 2:8). \"Wish\" keeps it apart from θέλω.")))
 
-(lemma "βουνός" (sense heap (gloss "heap" "heaps") (why "(LXX sense supplied.) A mound, here the heap of stones Jacob's kin piled as a witness (Genesis 31:46-52, Βουνὸς μαρτυρεῖ, Galeed). \"Heap\" because \"mound\" is θίς's; the New Testament's \"hill\" (Luke 3:5; 23:30) will be its own sense.")))
+(lemma "βουνός" (sense heap (gloss "heap" "heaps") (why "(LXX sense supplied.) A mound, here the heap of stones Jacob's kin piled as a witness (Genesis 31:46-52, Βουνὸς μαρτυρεῖ, Galeed). \"Heap\" because \"mound\" is θίς's; the New Testament's \"hill\" (Luke 3:5; 23:30) will be its own sense."))
+  (sense hill (gloss "hill" "hills") (why "A hill (Exodus 17:9-10, Moses on the summit of the hill during the fight with Amalek; Luke 3:5; 23:30). Chosen by override where the word is a natural height, not a piled heap.")))
 
 (lemma "βοῦς" (sense ox (gloss "ox" "oxen") (plural "oxen") (why "Ox (Exodus 20:17; 1 Corinthians 9:9).")))
 
@@ -167,6 +184,8 @@
     (dative "with")
     (gloss "eating")
     (why "The act of eating, or what is eaten. \"Eating\" (1 Corinthians 8:4) keeps it apart from βρῶμα, which will take \"food\". In Genesis 2:16 βρώσει φάγῃ is \"with eating you will eat\", a Hebrew-style intensive kept in the literal layer.")))
+
+(lemma "βυθός" (sense depth (gloss "depth" "depths") (why "The depth of the sea, the deep (Exodus 15:5 κατέδυσαν εἰς βυθόν, \"they sank down into depth\"; 2 Corinthians 11:25 ἐν τῷ βυθῷ).")))
 
 (lemma "βύσσινος" (sense fine-linen (gloss "fine linen") (why "Made of byssus, fine linen (Genesis 41:42 στολὴν βυσσίνην, the robe Pharaoh put on Joseph; Revelation 18:12, 16; 19:8, 14).")))
 

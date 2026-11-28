@@ -2,13 +2,15 @@
 ;; in Greek alphabetical order. Format: gsb/translation/README.md; generator
 ;; fields: gsb/literal/README.md. Checked by `make gsb/lint`.
 
-(lemma "ῥάβδος" (sense staff (gloss "staff" "staffs") (why "A staff, rod (Genesis 47:31 προσεκύνησεν Ἰσραὴλ ἐπὶ τὸ ἄκρον τῆς ῥάβδου αὐτοῦ, quoted in Hebrews 11:21; Mark 6:8). \"Staff\" for the walking staff; a rod of rule or punishment (1 Corinthians 4:21; Revelation 2:27) may become its own sense. (LXX form supplied.)")))
+(lemma "ῥάβδος" (sense staff (dative "with") (gloss "staff" "staffs") (why "A staff, rod (Genesis 47:31 προσεκύνησεν Ἰσραὴλ ἐπὶ τὸ ἄκρον τῆς ῥάβδου αὐτοῦ, quoted in Hebrews 11:21; Mark 6:8). \"Staff\" for the walking staff; a rod of rule or punishment (1 Corinthians 4:21; Revelation 2:27) may become its own sense. (LXX form supplied.)")))
 
 (lemma "Ῥαγαύ" (sense name (gloss "Reu") (why "Peleg's son (Genesis 11:18-21; Luke 3:35, Ῥαγαύ, KJV \"Ragau\"), traditional Old Testament English Reu.")))
 
 (lemma "Ῥαγουήλ" (sense name (gloss "Reuel") (why "(LXX, supplied.) Genesis 25:3, a son of Dedan the Greek adds (the Hebrew lists none); the same name as Esau's son (36:4) and Moses' father-in-law (Exodus 2:18), traditional English Reuel.")))
 
 (lemma "ῥᾳθυμέω" (sense idle (gloss "idle" "idled" "idles" "idling") (why "(LXX, supplied.) To take things easy, be slack, idle (Genesis 42:1 Ἵνα τί ῥᾳθυμεῖτε; Jacob to his sons, sitting still in the famine).")))
+
+(lemma "ῥαίνω" (sense sprinkle (gloss "sprinkle" "sprinkled" "sprinkles" "sprinkling") (why "(LXX, supplied.) To sprinkle, spatter (blood or water): ῥανεῖς ἐπὶ Ἀαρὼν καὶ ἐπὶ τὴν στολὴν αὐτοῦ \"you will sprinkle on Aaron and on his robe\" (Exodus 29:21; Leviticus passim). ῥαντίζω (Hebrews 9:13-21) will share \"sprinkle\" or take another word when it comes.")))
 
 (lemma "Ῥαμεσσή" (sense name (gloss "Rameses") (why "(LXX, supplied.) The district of Egypt where Joseph settled his family (Genesis 47:11 ἐν γῇ Ῥαμεσσή); traditional English Rameses.")))
 
@@ -20,6 +22,10 @@
     (why "(LXX, supplied.) To sew, stitch (Genesis 3:7). Not in the New Testament (ἐπιράπτω, Mark 2:21, is related).")))
 
 (lemma "Ῥαφαείν" (sense name (person) (plural "Rephaim") (gloss "Rephaim") (why "(LXX, supplied.) The Rephaim, a people of giants (Genesis 14:5; 15:20). Greek Ῥαφαείν, the Hebrew plural, indeclinable; traditional English Rephaim, already plural.")))
+
+(lemma "Ῥαφιδείν" (sense name (gloss "Rephidim") (why "(LXX, supplied.) The camp where the people found no water and fought Amalek (Exodus 17:1, 8; 19:2). Greek Ῥαφιδείν, indeclinable; traditional English Rephidim.")))
+
+(lemma "ῥαφιδευτής" (sense needleworker (person) (gloss "needleworker" "needleworkers") (why "(LXX, supplied.) One who works with the needle (ῥαφίς), an embroiderer: τῇ ποικιλίᾳ τοῦ ῥαφιδευτοῦ (Exodus 27:16; 35-38). \"Needleworker\" keeps it apart from ποικιλτής \"embroiderer\" and ὑφάντης \"weaver\".")))
 
 (lemma "Ῥαχήλ" (sense name (gloss "Rachel") (why "Laban's younger daughter, Jacob's wife (Genesis 29:6-30:25; 31; 35:16-20); Matthew 2:18 Ῥαχήλ. Traditional English Rachel, indeclinable in Greek.")))
 
@@ -39,11 +45,17 @@
 
 (lemma "ῥητίνη" (sense resin (gloss "resin" "resins") (why "(LXX, supplied; Swete spells ῥιτίνη.) Resin, the gum of trees such as the pine or terebinth (Genesis 37:25; 43:11, among the gifts for Joseph).")))
 
+(lemma "ῥητός" (sense stated (gloss "stated") (why "(LXX, supplied.) Stated, specified; with a negative, not a single thing that could be named (Exodus 9:4 οὐ τελευτήσει ... ῥητόν, of Israel's livestock not one will die).")))
+
 (lemma "ῥίπτω" (sense throw (gloss "throw" "threw" "thrown" "throws" "throwing") (why "To throw, cast down (Genesis 21:15; Matthew 27:5; Luke 17:2). \"Throw\" keeps it apart from (ἐπι)βάλλω \"cast\".")))
 
 (lemma "Ῥιφάθ" (sense name (gloss "Riphath") (why "(LXX, supplied.) Gomer's son (Genesis 10:3), traditional English Riphath.")))
 
+(lemma "ῥόα" (sense pomegranate (gloss "pomegranate" "pomegranates") (why "(LXX, supplied.) The pomegranate, tree and fruit: ὡσεὶ ἐξανθούσης ῥόας ῥοίσκους \"as of blossoming pomegranate, little pomegranates\" (Exodus 28:33; Numbers 13:23; 20:5). Its diminutive ῥοίσκος is \"little pomegranate\".")))
+
 (lemma "Ῥόδιος" (sense name (person) (plural "Rodanim") (gloss "Rodanim") (why "(LXX, supplied.) Genesis 10:4, οἱ Ῥόδιοι, \"the Rhodians\", among Javan's sons, where the Hebrew has Dodanim (1 Chronicles 1:7, Rodanim). The Greek follows the R reading; the English gives its traditional form Rodanim. The owner may prefer \"Rhodians\".")))
+
+(lemma "ῥοίσκος" (sense little-pomegranate (gloss "little pomegranate" "little pomegranates") (plural "little pomegranates") (why "(LXX, supplied.) A little pomegranate, the diminutive of ῥόα: the woven pomegranates on the hem of the undergarment, between the gold bells (Exodus 28:33-34; 36:31-33). Use this English in every tabernacle chapter.")))
 
 (lemma "ῥομφαία"
   (sense sword
@@ -55,6 +67,8 @@
 (lemma "Ῥοωβώθ" (sense name (gloss "Rehoboth") (why "(LXX, supplied.) Rehoboth by the river, the town of Saul king of Edom (Genesis 36:37 ἐκ Ῥοωβὼθ τῆς παρὰ ποταμόν); traditional English Rehoboth, shared with Ῥοωβώς (Genesis 10:11), the same Hebrew name.")))
 
 (lemma "Ῥοωβώς"(sense name (gloss "Rehoboth") (why "(LXX, supplied.) A city built by Asshur (Genesis 10:11, τὴν Ῥοωβὼς πόλιν, where the Hebrew has Rehoboth-Ir, \"Rehoboth city\"); traditional English Rehoboth.")))
+
+(lemma "ῥυθμός" (sense fashion (gloss "fashion" "fashions") (why "(LXX, supplied.) Measured form, proportion, fashion (from ῥέω, the shape a thing takes): κατὰ τὸν ῥυθμὸν τῆς ἐπωμίδος \"according to the fashion of the shoulder-piece\" (Exodus 28:15). \"Fashion\" (the way a thing is made) keeps it apart from παράδειγμα and τύπος.")))
 
 (lemma "ῥύομαι" (sense deliver (gloss "deliver" "delivered" "delivers" "delivering") (why "To rescue, deliver (Genesis 48:16 ὁ ἄγγελος ὁ ῥυόμενός με ἐκ πάντων τῶν κακῶν; Matthew 6:13; 27:43; Colossians 1:13). \"Deliver\" keeps it apart from σῴζω \"save\" and διασῴζω \"rescue\". (LXX form supplied.)")))
 

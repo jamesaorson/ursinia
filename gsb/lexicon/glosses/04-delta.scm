@@ -31,6 +31,8 @@
 
 (lemma "Δεββωρά" (sense name (gloss "Deborah") (why "(LXX, supplied.) Rebekah's nurse, buried below Bethel (Genesis 35:8), traditional English Deborah.")))
 
+(lemma "δεῖ" (sense be-needful (verb "be needful" "was needful" "been needful") (gloss "be needful" "is needful" "was needful" "been needful" "being needful") (why "It is needful, it is necessary; the neuter participle τὰ δέοντα, \"the [things] being needful\", what is due (Exodus 21:10, a wife's due). The usual New Testament \"must\" (Matthew 16:21; John 3:7) will be its own sense when met. (LXX form supplied.)")))
+
 (lemma "δείκνυμι"(sense show (gloss "show" "showed" "shown" "shows" "showing") (why "To show, point out (Genesis 12:1, \"the land which I will show you\", quoted in Acts 7:3; Matthew 4:8). It shares \"show\" with καταδείκνυμι (Genesis 4:21), the compound; the alignment shows which.")))
 
 (lemma "δείλη" (sense afternoon (gloss "afternoon") (why "(LXX, supplied.) The afternoon, the later part of the day (Genesis 24:63, πρὸς δείλης, \"toward afternoon\"). It shares \"afternoon\" with its adjective δειλινός (Genesis 3:8), the same root; ἑσπέρα keeps \"evening\".")))
@@ -46,13 +48,15 @@
 
 (lemma "δεκάδαρχος" (sense commander-of-tens (person) (plural "commanders of tens") (gloss "commander of tens" "commanders of tens") (why "(LXX, supplied.) Commander of ten (δεκάς + ἄρχω), the lowest of the ranks of judges set over the people (Exodus 18:21, 25). With χιλίαρχος, ἑκατοντάρχης and πεντηκόνταρχος, each \"commander of\" its number.")))
 
-(lemma "δέκατος" (sense tenth (gloss "tenth") (why "(LXX, supplied.) The ordinal \"tenth\" (Genesis 8:5, the tenth month; Revelation 21:20).")))
+(lemma "δέκατος" (sense tenth (dative "on") (gloss "tenth") (why "(LXX, supplied.) The ordinal \"tenth\" (Genesis 8:5, the tenth month; Revelation 21:20).")))
 
 (lemma "δεξαμενή" (sense cistern (gloss "cistern" "cisterns") (why "(LXX, supplied.) A receptacle for water, cistern, tank (Exodus 2:16, the daughters drew water until they filled the cisterns to water the sheep). From δέχομαι \"receive\"; kept apart from ποτιστήριον \"trough\".")))
 
 (lemma "δεξιός" (sense right (gloss "right") (why "Right, the right hand or side (Genesis 13:9, εἰς δεξιά \"into right [parts]\"; Matthew 5:29).")))
 
 (lemma "Δεκλά" (sense name (gloss "Diklah") (why "(LXX, supplied.) A son of Joktan (Genesis 10:27), Greek Δεκλά; traditional English Diklah.")))
+
+(lemma "δεκτός" (sense acceptable (gloss "acceptable") (why "Acceptable, welcome (Luke 4:19, 24; 2 Corinthians 6:2; Philippians 4:18): Exodus 28:38, the plate on Aaron's forehead δεκτὸν αὐτοῖς ἔναντι Κυρίου, \"acceptable for them before [the] Lord\". From δέχομαι \"receive\".")))
 
 (lemma "δένδρον" (sense tree (gloss "tree" "trees") (why "A (growing) tree (Genesis 18:4, 8, ὑπὸ τὸ δένδρον; Matthew 3:10; 7:17). It shares \"tree\" with ξύλον, which keeps \"tree\" for the tree of life and the cross: English has no second plain word, and the alignment shows which Greek word stands behind it.")))
 
@@ -67,9 +71,13 @@
     (gloss "leather")
     (why "(Supplied in Genesis 3:21.) Made of skin or hide, leather (Mark 1:6; Matthew 3:4, John's leather belt). Same gloss in both.")))
 
+(lemma "δέρρις" (sense skin-cloth (gloss "skin-cloth" "skin-cloths") (why "(LXX, supplied.) A skin, a coat of skin or hair, and so a cloth of goats' hair: the eleven δέρρεις τρίχιναι spread as a shelter over the tabernacle (Exodus 26:7-13; 36), and the prophet's hairy mantle (Zechariah 13:4). \"Skin-cloth\" keeps the word's root (δέρω, δέρμα \"skin\") and its use for a cloth, apart from δέρμα \"skin\", δορά \"pelt\" and αὐλαία \"curtain\". Tabernacle term.")))
+
 (lemma "δεῦρο" (sense come-here (gloss "come here") (why "Hither, come! (Genesis 19:32 δεῦρο οὖν ποτίσωμεν, before a first plural subjunctive; Matthew 19:21; John 11:43). The singular of δεῦτε, which shares \"come here\": one adverb in two numbers.")))
 
 (lemma "δεσμεύω" (sense bind (verb "bind" "bound" "bound") (gloss "bind" "bound" "binds" "binding") (why "(LXX form supplied.) To tie up, bind, fetter (Genesis 49:11, binding his colt to the vine; Matthew 23:4; Acts 22:4). \"Bind\" is free here; if δέω later needs it, one of the two takes \"tie\".")))
+
+(lemma "δέσμη" (sense bunch (gloss "bunch" "bunches") (why "(LXX form supplied.) A bunch, sheaf tied together (Exodus 12:22 δέσμην ὑσσώπου, a bunch of hyssop; Matthew 13:30, the tares bound εἰς δέσμας). \"Bunch\" keeps it apart from δεσμός \"bundle\".")))
 
 (lemma "δεσμός" (sense bundle (gloss "bundle" "bundles") (why "Anything that binds: a bond, fetter (Luke 8:29; Acts 16:26), and a bundle tied up (Genesis 42:27, 35 ὁ δεσμὸς τοῦ ἀργυρίου, each brother's bundle of silver). \"Bundle\" for the tied purse; \"bond\" becomes its own sense when first needed.")))
 
@@ -96,6 +104,8 @@
 
 (lemma "δηλόω" (sense make-clear (verb "make clear" "made clear" "made clear") (gloss "make clear" "made clear" "makes clear" "making clear") (why "To make plain, make clear (Exodus 6:3 τὸ ὄνομά μου Κύριος οὐκ ἐδήλωσα αὐτοῖς; 1 Corinthians 3:13; Hebrews 9:8; 2 Peter 1:14), from δῆλος \"plain\".")))
 
+(lemma "δήλωσις" (sense disclosure (gloss "disclosure" "disclosures") (why "(LXX, supplied.) A making clear, disclosure (δηλόω \"make clear\"): the Greek's name for what the Hebrew calls the Urim, put into the oracle with ἀλήθεια \"truth\" (the Thummim): τὴν δήλωσιν καὶ τὴν ἀλήθειαν (Exodus 28:30). The literal layer gives what the Greek says, not the Hebrew names. Use this English wherever the Urim are δήλωσις (Leviticus 8:8; Numbers 27:21 and elsewhere).")))
+
 (lemma "Δησών" (sense name (gloss "Dishon") (why "(LXX, supplied.) A son of Seir the Horite and a son of Anah (Genesis 36:21, 25-26, 30), Greek Δησών; traditional English Dishon.")))
 
 (lemma "διά"
@@ -113,13 +123,21 @@
 
 (lemma "διαβιβάζω" (sense bring-across (verb "bring across" "brought across" "brought across") (gloss "bring across" "brought across" "brings across" "bringing across") (why "(LXX, supplied.) To carry or bring across (Genesis 32:23 διεβίβασεν πάντα τὰ αὐτοῦ). The causative of διαβαίνω.")))
 
+(lemma "διαβιόω" (sense live-through (verb "live through" "lived through" "lived through") (intransitive) (gloss "live through" "lived through" "lives through" "living through") (why "(LXX, supplied.) To live on, survive (Exodus 21:21, the struck slave who lives on a day or two). \"Live through\" keeps it apart from ζάω \"live\" and ἐπιζάω \"live on\".")))
+
 (lemma "διαβοάω" (sense noise-abroad (verb "noise abroad" "noised abroad" "noised abroad") (gloss "noise abroad" "noised abroad" "noises abroad" "noising abroad") (why "(LXX, supplied.) To cry through, spread a report abroad; passive, to be noised abroad (Genesis 45:16, the voice was noised abroad into Pharaoh's house).")))
 
 (lemma "διαβουλεύομαι" (sense deliberate (gloss "deliberate" "deliberated" "deliberates" "deliberating") (why "(LXX, supplied.) To take counsel together, deliberate, plot (Genesis 49:23, the archers deliberating against Joseph). Kept apart from βουλεύω \"plan\".")))
 
 (lemma "διαγγέλλω" (sense publish (gloss "publish" "published" "publishes" "publishing") (why "To announce far and wide, publish abroad (Exodus 9:16 ὅπως διαγγελῇ τὸ ὄνομά μου ἐν πάσῃ τῇ γῇ, quoted at Romans 9:17; Luke 9:60). \"Publish\" keeps it apart from κηρύσσω \"proclaim\" and ἀναγγέλλω \"declare\".")))
 
+(lemma "διαγλύφω" (sense engrave (gloss "engrave" "engraved" "engraves" "engraving") (why "(LXX, supplied.) To carve through, engrave deeply (διά + γλύφω \"carve\"): γλύμμα σφραγῖδος διαγλύψεις τοὺς δύο λίθους \"carved work of seal you will engrave the two stones\" (Exodus 28:11). \"Engrave\" keeps it apart from γλύφω \"carve\". Use this English in every tabernacle chapter.")))
+
+(lemma "διαγογγύζω" (sense grumble (intransitive) (gloss "grumble" "grumbled" "grumbles" "grumbling") (why "To murmur through a crowd, grumble (Exodus 15:24; 16:2, 7-8, against Moses and Aaron; Luke 15:2; 19:7). \"Grumble\" keeps it apart from γογγύζω \"murmur\"; the noun γογγυσμός is \"murmuring\".")))
+
 (lemma "διάδηλος" (sense evident (gloss "evident") (why "(LXX, supplied.) Clearly seen, plain to see (Genesis 41:21 οὐ διάδηλοι ἐγένοντο, the lean cows showing no sign of what they had eaten).")))
+
+(lemma "διαθερμαίνω" (sense heat-up (intransitive) (verb "heat up" "heated up" "heated up") (gloss "heat up" "heated up" "heats up" "heating up") (why "(LXX, supplied.) To heat through; of the sun, to grow hot (Exodus 16:21 ἡνίκα δὲ διεθέρμαινεν ὁ ἥλιος, \"but when the sun was heating up\"). The noun καῦμα is \"heat\".")))
 
 (lemma "διαθήκη" (sense covenant (gloss "covenant" "covenants") (why "Covenant, the arrangement God sets up (Genesis 6:18; 9:9-17; Luke 1:72; Hebrews 8). \"Covenant\" in both testaments; Hebrews 9:16-17 (a will) will be discussed there.")))
 
@@ -166,6 +184,8 @@
 
 (lemma "διασκεδάζω" (sense break-up (gloss "break up" "broke up" "broken up" "breaks up" "breaking up") (verb "break up" "broke up" "broken up") (why "(LXX, supplied.) To scatter, break up, and so make void (Genesis 17:14 τὴν διαθήκην μου διεσκέδασεν \"he/she/it broke up my covenant\"). \"Break up\" keeps the picture of scattering; \"break\" alone is kept free for other verbs.")))
 
+(lemma "διασκευή" (sense equipment (gloss "equipment") (why "(LXX, supplied.) The fitting out, equipment (Exodus 31:7 τὴν διασκευὴν τῆς σκηνῆς, the tent's equipment). \"Equipment\" keeps it apart from κατασκευή \"furnishing\" and σκεῦος \"vessel\"; tabernacle term, keep \"equipment\" wherever it recurs.")))
+
 (lemma "διαστέλλω" (sense part (gloss "part" "parted" "parts" "parting") (why "To set apart, divide, separate (Genesis 25:23, the two peoples \"will be parted\" from Rebekah's womb). \"Part\" keeps it apart from διαχωρίζω \"separate\" and διαιρέω. The New Testament's middle \"give orders, charge\" (Mark 7:36) will be its own sense."))
   (sense specify (gloss "specify" "specified" "specifies" "specifying") (why "To set out distinctly, define (Genesis 30:28 διάστειλον τὸν μισθόν σου πρὸς μέ, Laban to Jacob: name the wage). \"Part your wage\" would read as sharing it.")))
 
@@ -181,15 +201,21 @@
 
 (lemma "διάστημα" (sense interval (gloss "interval" "intervals") (why "A space between, an interval (Genesis 32:16 διάστημα ποιεῖτε ἀνὰ μέσον ποίμνης καὶ ποίμνης; Acts 5:7, of time).")))
 
+(lemma "διατήρησις" (sense keeping (gloss "keeping") (why "(LXX, supplied.) A keeping, preserving (Exodus 16:33-34, the omer of manna put away εἰς διατήρησιν, \"for keeping\"); from διατηρέω.")))
+
 (lemma "διατίθημι" (sense arrange (gloss "arrange" "arranged" "arranges" "arranging") (why "Middle: to arrange, dispose; with διαθήκη, to make a covenant (Genesis 21:27, 32 διέθεντο διαθήκην; Hebrews 8:10 ἡ διαθήκη ἣν διαθήσομαι, Luke 22:29). \"Arrange\" keeps the root visible: \"arranged a covenant\" (διαθήκη is itself the arrangement); not \"make\", which is ποιέω.")))
 
 (lemma "διατρέφω" (sense sustain (gloss "sustain" "sustained" "sustains" "sustaining") (why "(LXX, supplied.) To keep fed through a time, sustain, keep alive (Genesis 7:3, διαθρέψαι σπέρμα, to sustain seed on all the earth). \"Sustain\" keeps it apart from τρέφω \"nourish\".")))
 
 (lemma "διατρέχω" (sense run-through (intransitive) (verb "run through" "ran through" "run through") (gloss "run through" "ran through" "runs through" "running through") (why "(LXX, supplied.) To run through, run across (Exodus 9:23 διέτρεχεν τὸ πῦρ ἐπὶ τῆς γῆς, the fire running along the ground with the hail). Kept apart from τρέχω \"run\" by the particle.")))
 
+(lemma "διαφανής" (sense translucent (gloss "translucent") (why "(LXX, supplied.) Showing light through, translucent, so clear and pure (Exodus 30:34 λίβανον διαφανῆ, frankincense of the clear kind). \"Translucent\" is what the Greek says; the readable layer may say \"pure\".")))
+
 (lemma "διαφαύσκω" (sense grow-light (intransitive) (verb "grow light" "grew light" "grown light") (gloss "grow light" "grew light" "grown light" "grows light" "growing light") (why "(LXX, supplied.) Of the day: to dawn, grow light (Genesis 44:3 τὸ πρωὶ διέφαυσεν, \"the morning grew light\"). \"Grow light\" keeps it apart from the noun ὄρθρος \"dawn\"; the cognate διαυγάζω (2 Peter 1:19) is another word.")))
 
 (lemma "διαφυλάσσω" (sense preserve (gloss "preserve" "preserved" "preserves" "preserving") (why "To guard carefully, keep safe (Genesis 28:15, 20, God keeping Jacob on the road; Luke 4:10 quotes Psalm 91:11). \"Preserve\" keeps it apart from φυλάσσω \"guard\".")))
+
+(lemma "διαφωνέω" (sense be-missing (intransitive) (verb "be missing" "was missing" "been missing") (gloss "be missing" "was missing" "were missing" "been missing" "is missing" "being missing" "missing") (why "(LXX, supplied.) Literally to differ in voice, disagree, and so to be wanting from a count, be missing (Exodus 24:11, of the picked men of Israel οὐ διεφώνησεν οὐδὲ εἷς, none was missing, no one died at the sight of God).")))
 
 (lemma "διαχωρίζω"
   (sense separate
@@ -209,6 +235,10 @@
 
 (lemma "διηγέομαι" (sense relate (gloss "relate" "related" "relates" "relating") (why "To set out in detail, relate, recount (Genesis 24:66; Mark 5:16; Luke 8:39). \"Relate\" keeps it apart from λέγω \"say\" and the report-verbs ἀναγγέλλω \"declare\", ἀπαγγέλλω \"report\".")))
 
+(lemma "διϊκνέομαι" (sense reach-through (intransitive) (verb "reach through" "reached through" "reached through") (gloss "reach through" "reached through" "reaches through" "reaching through") (why "To go through, reach through (Exodus 26:28, the middle bar διικνείσθω from one quarter of the tabernacle to the other; Hebrews 4:12, the word piercing through, διϊκνούμενος). Swete prints διικνείσθω without the diaeresis.")))
+
+(lemma "διΐστημι" (sense stand-apart (intransitive) (verb "stand apart" "stood apart" "stood apart") (gloss "stand apart" "stood apart" "stands apart" "standing apart") (why "Intransitive second aorist: to stand apart, part (Exodus 15:8, the water stood apart; Luke 24:51 διέστη ἀπ’ αὐτῶν; Acts 27:28). Built on ἵστημι \"stand\".")))
+
 (lemma "δίκαιος" (sense righteous (gloss "righteous") (why "Righteous, just (Genesis 6:9, Noah; Matthew 1:19; Hebrews 11:4, 7). \"Righteous\" so ἀδικία \"unrighteousness\" and δικαιοσύνη stay visibly related.")))
 
 (lemma "δικαιοσύνη" (sense righteousness (gloss "righteousness") (why "Righteousness, justice (Genesis 15:6, quoted in Romans 4:3; 18:19 ποιεῖν δικαιοσύνην καὶ κρίσιν). The noun of δίκαιος \"righteous\".")))
@@ -221,7 +251,15 @@
 
 (lemma "δικαστής" (sense magistrate (person) (gloss "magistrate" "magistrates") (why "One who gives judgment, a judge, magistrate (Exodus 2:14 ἄρχοντα καὶ δικαστήν, quoted in Acts 7:27, 35). \"Magistrate\" keeps it apart from κρίνω \"judge\" and the noun κριτής.")))
 
+(lemma "δικτυωτός" (sense netted (gloss "netted") (why "(LXX, supplied.) Made like a net (δίκτυον), netted, latticed (Exodus 27:4, the altar's grate ἔργῳ δικτυωτῷ, \"by netted work\"; 38).")))
+
+(lemma "δίκη" (sense justice (dative "by") (gloss "justice") (why "Justice, right, and the penalty it exacts (Exodus 21:20, δίκῃ ἐκδικηθήτω, \"let him be avenged by justice\"; Acts 28:4; 2 Thessalonians 1:9; Jude 7). Kept apart from δικαιοσύνη \"righteousness\". (LXX form supplied.)")))
+
 (lemma "διοδεύω" (sense travel-through (gloss "travel through" "traveled through" "travels through" "traveling through") (why "To travel through, pass along (Genesis 12:6; Luke 8:1; Acts 17:1). \"Travel through\" keeps it apart from διέρχομαι \"go through\".")))
+
+(lemma "διορίζω" (sense mark-off (verb "mark off" "marked off" "marked off") (gloss "mark off" "marked off" "marks off" "marking off") (why "(LXX, supplied.) To draw a boundary through, divide off (ὅρος \"boundary\"): the veil διοριεῖ ... ἀνὰ μέσον τοῦ ἁγίου καὶ ἀνὰ μέσον τοῦ ἁγίου τῶν ἁγίων (Exodus 26:33). \"Mark off\" keeps it apart from the verbs of separating, χωρίζω and διαχωρίζω.")))
+
+(lemma "διόρυγμα" (sense breach (gloss "breach" "breaches") (why "(LXX, supplied.) A digging through, the hole a thief digs through a house wall, a breach (Exodus 22:2 ἐὰν δὲ ἐν τῷ διορύγματι εὑρεθῇ ὁ κλέπτης). The noun of διορύσσω \"dig through\" (Matthew 6:19-20).")))
 
 (lemma "διότι" (sense since (gloss "since") (why "Because, since: διὰ τοῦτο ὅτι (Genesis 5:24, quoted in Hebrews 11:5; Luke 1:13). \"Since\" to keep it apart from ὅτι \"because\".")))
 
@@ -237,6 +275,8 @@
 
 (lemma "διώκω" (sense pursue (gloss "pursue" "pursued" "pursues" "pursuing") (why "To pursue, chase; also persecute (Genesis 14:15; Matthew 5:10-12). \"Pursue\" for the chase; \"persecute\" may become its own sense. Kept apart from καταδιώκω \"chase\".")))
 
+(lemma "διχοτομέω" (sense cut-in-two (verb "cut in two" "cut in two" "cut in two") (gloss "cut in two" "cuts in two" "cutting in two") (why "To cut in two (Matthew 24:51; Luke 12:46): of the ram, τὸν κριὸν διχοτομήσεις κατὰ μέλη \"you will cut in two the ram according to limbs\" (Exodus 29:17). The verb of διχοτόμημα \"half\".")))
+
 (lemma "διχοτόμημα" (sense half (gloss "half" "halves") (why "(LXX, supplied.) A piece cut in two, a half (Genesis 15:11, 17, the halves of the animals cut for the covenant; the verb διχοτομέω, Matthew 24:51).")))
 
 (lemma "διώροφος" (sense two-storied (gloss "two-storied") (why "(LXX, supplied.) Having two stories or decks (Genesis 6:16).")))
@@ -248,13 +288,15 @@
 
 (lemma "δοκός" (sense beam (gloss "beam" "beams") (why "(LXX form supplied.) A beam of timber (Genesis 19:8 ὑπὸ τὴν στέγην τῶν δοκῶν μου, under the roof of my beams; Matthew 7:3-5).")))
 
-(lemma "δόλος" (sense deceit (gloss "deceit") (why "Craft, deceit (Genesis 27:35 μετὰ δόλου; Mark 14:1; John 1:47 ἐν ᾧ δόλος οὐκ ἔστιν, of a true Israelite, against Jacob's deceit here).")))
+(lemma "δόλος" (sense deceit (dative "with") (gloss "deceit") (why "Craft, deceit (Genesis 27:35 μετὰ δόλου; Mark 14:1; John 1:47 ἐν ᾧ δόλος οὐκ ἔστιν, of a true Israelite, against Jacob's deceit here).")))
 
 (lemma "δόκιμος" (sense approved (gloss "approved") (why "Tested and found genuine, approved (Genesis 23:16, silver δοκίμου ἐμπόροις, \"approved to merchants\", current money; Romans 16:10; 2 Timothy 2:15).")))
 
 (lemma "δόμα" (sense present (gloss "present" "presents") (why "A thing given, a present (Genesis 25:6, Abraham's presents to the sons of the concubines; Matthew 7:11; Ephesians 4:8). \"Present\" keeps it apart from δῶρον \"gift\".")))
 
-(lemma "δόξα" (sense glory (gloss "glory") (why "Glory, honor, splendor (Genesis 31:1; 45:13, all my glory in Egypt; John 1:14; Romans 3:23).")))
+(lemma "δόξα" (sense glory (gloss "glory" "glories") (why "Glory, honor, splendor (Genesis 31:1; 45:13, all my glory in Egypt; John 1:14; Romans 3:23).")))
+
+(lemma "δοξάζω" (sense glorify (gloss "glorify" "glorified" "glorifies" "glorifying") (why "To give glory, glorify; passive, to be glorified (Exodus 15:1, 6, 11, the Lord gloriously glorified; John 17:1-5; Romans 8:30). The verb of δόξα \"glory\". It shares \"glorify\" with ἐνδοξάζω (Exodus 14:4): English has no second plain word, and δοξάζω is the New Testament's word for it.")))
 
 (lemma "δορά" (sense pelt (gloss "pelt" "pelts") (why "(LXX, supplied.) A flayed skin, hide, pelt (Genesis 25:25, Esau \"whole as if [a] hairy pelt\"). \"Pelt\" keeps it apart from δέρμα \"skin\" and from the verb \"hide\" (κρύπτω).")))
 
@@ -263,6 +305,8 @@
 (lemma "δουλεία" (sense slavery (gloss "slavery") (why "Slavery, bondage (Exodus 20:2 \"house of slavery\"; Romans 8:15). Swete spells δουλία.")))
 
 (lemma "δουλεύω" (sense slave (dative "for") (gloss "slave" "slaved" "slaves" "slaving") (why "To be a slave, serve as a slave (Genesis 14:4, they were slaving for Chedorlaomer; 15:13; Matthew 6:24). \"Slave\" as a verb, beside δουλεία \"slavery\", keeps it apart from λατρεύω \"serve\".")))
+
+(lemma "δούλη" (sense bondwoman (person) (plural "bondwomen") (gloss "bondwoman" "bondwomen") (why "A female slave, bondwoman (Exodus 21:7, ὥσπερ ἀποτρέχουσιν αἱ δοῦλαι; Luke 1:38, 48; Acts 2:18). Kept apart from παιδίσκη \"maidservant\", θεράπαινα \"handmaid\" and οἰκέτις \"housemaid\". (LXX form supplied.)")))
 
 (lemma "δουλόω" (sense enslave (gloss "enslave" "enslaved" "enslaves" "enslaving") (why "To make a slave of, enslave (Genesis 15:13, quoted in Acts 7:6; Romans 6:18).")))
 
@@ -281,13 +325,13 @@
 
 (lemma "δυναστεία" (sense dominion (gloss "dominion") (why "(LXX, supplied.) Lordship, power held over others (Exodus 6:6 ἀπὸ τῆς δυναστείας τῶν Αἰγυπτίων, \"from the dominion of the Egyptians\"). Its compound καταδυναστεία is \"oppression\" (6:7).")))
 
-(lemma "δύνω" (sense set (gloss "set" "sets") (why "Of the sun, to go down, set (Genesis 28:11 ἔδυ γὰρ ὁ ἥλιος; Mark 1:32; Luke 4:40). Its noun δυσμή is \"setting\". (LXX form supplied.)")))
+(lemma "δύνω" (sense set (gloss "set" "sets") (why "Of the sun, to go down, set (Genesis 28:11 ἔδυ γὰρ ὁ ἥλιος; Mark 1:32; Luke 4:40). Its noun δυσμή is \"setting\". (LXX form supplied.)")) (sense sink (intransitive) (verb "sink" "sank" "sunk") (gloss "sink" "sank" "sunk" "sinks" "sinking") (why "(LXX sense, supplied.) Of things in water, to go under, sink (Exodus 15:10 ἔδυσαν ὡσεὶ μόλιβος, \"they sank like lead\"); the same going down as the sun's setting.")))
 
 (lemma "δύναμις" (sense power (gloss "power" "powers") (why "Power, might (Matthew 22:29; Luke 1:35).")) (sense army (gloss "army" "armies") (why "An armed force, an army, as often in the Septuagint (Genesis 21:22, 32 ὁ ἀρχιστράτηγος τῆς δυνάμεως αὐτοῦ; Exodus 14:4).")))
 
 (lemma "δυνάστης" (sense potentate (person) (gloss "potentate" "potentates") (why "(LXX form supplied.) A man of power, a court grandee (Genesis 50:4, Pharaoh's δυνάσται; 49:24 δυνάστου Ἰακώβ, of God; Luke 1:52; Acts 8:27; 1 Timothy 6:15). \"Potentate\" keeps it apart from ἄρχων \"ruler\".")))
 
-(lemma "δυνατός" (sense mighty (comparative "mightier") (gloss "mighty" "mightier") (why "Able, powerful, mighty (Genesis 26:16 δυνατώτερος ἡμῶν ἐγένου σφόδρα, \"mightier than us\"; Luke 1:49; Romans 4:21). A \"possible\" sense (Mark 9:23) becomes its own sense when met.")))
+(lemma "δυνατός" (sense mighty (comparative "mightier") (gloss "mighty" "mightier") (why "Able, powerful, mighty (Genesis 26:16 δυνατώτερος ἡμῶν ἐγένου σφόδρα, \"mightier than us\"; Luke 1:49; Romans 4:21). A \"possible\" sense (Mark 9:23) becomes its own sense when met.")) (sense possible (gloss "possible") (why "Neuter, impersonal: possible, able to be done (Exodus 8:26 Οὐ δυνατὸν γενέσθαι οὕτως, \"[It is] not possible to come to be so\"; Mark 9:23; 14:35-36; Romans 12:18). Chosen by override.")))
 
 (lemma "δύο"
   (sense two

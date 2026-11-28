@@ -25,10 +25,12 @@
 
 (lemma "ὑμέτερος" (sense your (gloss "your") (why "The possessive adjective of ὑμεῖς, \"your\" (Genesis 9:5, τὸ ὑμέτερον αἷμα; John 7:6; 15:20). It shares \"your\" with the genitive ὑμῶν, as English has one word for both.")))
 
+(lemma "ὑπάγω" (sense draw-back (verb "draw back" "drew back" "drawn back") (gloss "draw back" "drew back" "drawn back" "draws back" "drawing back") (why "To lead under, draw away; transitive in Exodus 14:21 (ὑπήγαγεν Κύριος τὴν θάλασσαν ἐν ἀνέμῳ νότῳ βιαίῳ, the Lord drew the sea back with the wind). The New Testament's intransitive \"go away\" (John 7:33) will be its own sense.")))
+
 (lemma "ὑπακούω" (sense obey (genitive "") (dative "") (gloss "obey" "obeyed" "obeys" "obeying") (why "To listen under, obey (Genesis 16:2 ὑπήκουσεν δὲ Ἀβρὰμ τῆς φωνῆς αὐτῆς; Matthew 8:27; Romans 6:16). \"Obey\" keeps it apart from ἀκούω \"hear\" and ἐπακούω.")))
 
 (lemma "ὑπάρχω" (sense belong (gloss "belong" "belonged" "belongs" "belonging") (why "To be at hand, exist; τὰ ὑπάρχοντα with a genitive, what belongs to someone, possessions (Genesis 12:5; Luke 8:3; 12:15). \"Belong\" so the participle reads \"the [things] belonging\"; \"be\" is εἰμί's."))
-  (sense exist (gloss "exist" "existed" "exists" "existing") (why "To be in existence, be there (Genesis 42:13, 32 ὁ δὲ ἕτερος οὐχ ὑπάρχει, the brothers' word for Joseph, \"the other does not exist\"; Luke 16:23; Acts 2:30). Chosen by word override.")))
+  (sense exist (intransitive) (gloss "exist" "existed" "exists" "existing") (why "To be in existence, be there (Genesis 42:13, 32 ὁ δὲ ἕτερος οὐχ ὑπάρχει, the brothers' word for Joseph, \"the other does not exist\"; Luke 16:23; Acts 2:30). Chosen by word override.")))
 
 (lemma "ὑπεναντίος" (sense adversary (gloss "adversary" "adversaries") (why "Set against, opposed; as a noun, the adversary (Genesis 22:17 τὰς πόλεις τῶν ὑπεναντίων; Hebrews 10:27 τοὺς ὑπεναντίους; Colossians 2:14 \"against us\").")))
 
@@ -40,7 +42,11 @@
 
 (lemma "ὑπερέχω" (sense surpass (genitive "") (gloss "surpass" "surpassed" "surpasses" "surpassing") (why "To hold above, rise above, surpass, with the genitive (Genesis 25:23 λαὸς λαοῦ ὑπερέξει, \"people will surpass people\"; Philippians 2:3; 4:7; Romans 13:1).")))
 
+(lemma "ὑπερηφανία" (sense arrogance (gloss "arrogance") (why "Haughtiness, arrogance (Exodus 18:21, ἄνδρας ... μισοῦντας ὑπερηφανίαν; Mark 7:22). (LXX form supplied.)")))
+
 (lemma "ὑπερισχύω" (sense overpower (gloss "overpower" "overpowered" "overpowers" "overpowering") (why "(LXX, supplied.) To be stronger, prevail over (Genesis 49:26, the blessings of your father ὑπερίσχυσεν above the blessings of lasting mountains). \"Overpower\" because ὑπερέχω has \"surpass\" and ἐπικρατέω \"prevail\".")))
+
+(lemma "ὑπέρογκος" (sense excessive (gloss "excessive") (why "Of excessive size, too great, too weighty (Exodus 18:22, 26, τὸ ῥῆμα τὸ ὑπέρογκον, the cases too hard for the lower judges; 2 Peter 2:18; Jude 16, \"swelling\" words).")))
 
 (lemma "ὑπεροράω" (sense overlook (gloss "overlook" "overlooked" "overlooks" "overlooking") (why "To look past, disregard, overlook (Genesis 42:21 ὑπερίδομεν τὴν θλίψιν τῆς ψυχῆς αὐτοῦ; Acts 17:30).")))
 
@@ -56,7 +62,13 @@
 
 (lemma "ὑπόδημα" (sense sandal (gloss "sandal" "sandals") (why "A sandal, shoe (Genesis 14:23, a sandal's thong; Mark 1:7, the strap of whose sandals).")))
 
+(lemma "ὑποδύτης" (sense undergarment (gloss "undergarment" "undergarments") (why "(LXX, supplied.) A garment one slips into, worn under (ὑπό + δύω): the high priest's ὑποδύτης ποδήρης ὅλος ὑακίνθινος \"foot-length undergarment all blue\" (Exodus 28:31-34), the robe of the Hebrew. \"Undergarment\" keeps it apart from στολή \"robe\", χιτών \"tunic\" and ἱμάτιον. Use this English in every tabernacle chapter.")))
+
 (lemma "ὑποζύγιον" (sense beast-of-burden (plural "beasts of burden") (gloss "beast of burden" "beasts of burden") (why "A beast under the yoke, a pack animal (2 Peter 2:16).")))
+
+(lemma "ὑποκαλύπτω" (sense cover-under (verb "cover under" "covered under" "covered under") (gloss "cover under" "covered under" "covers under" "covering under") (why "(LXX, supplied.) To cover from beneath, cover under: the surplus of the skin-cloths ὑποκαλύψεις ὀπίσω τῆς σκηνῆς (Exodus 26:12). Kept beside καλύπτω \"cover\" and συγκαλύπτω \"cover up\".")))
+
+(lemma "ὑπόθεμα" (sense underlay (gloss "underlay" "underlays") (why "(LXX, supplied.) Something put under (ὑποτίθημι), a stand or tray: one of the lampstand's utensils, τὰ ὑποθέματα αὐτῆς (Exodus 25:38). \"Underlay\" says what the Greek says; στηρίζω has \"support\" and βάσις should take \"base\".")))
 
 (lemma "ὑποκάτω"
   (sense under
@@ -66,13 +78,19 @@
 (lemma "ὑπολείπω" (sense reserve (gloss "reserve" "reserved" "reserves" "reserving") (why "To leave remaining; middle, to keep back for oneself, reserve (Genesis 27:36 Οὐχ ὑπελείπου μοι εὐλογίαν, \"Were you not reserving for me [a] blessing?\"; Romans 11:3 quoting 1 Kings 19:10, \"I was left\"). \"Reserve\" keeps it apart from καταλείπω \"leave\". The middle is rendered active. (LXX form supplied.)"))
   (sense leave-behind (verb "leave behind" "left behind" "left behind") (gloss "leave behind" "left behind" "leaves behind" "leaving behind") (why "Passive: to be left behind, remain (Genesis 32:24 ὑπελείφθη δὲ Ἰακὼβ μόνος; Romans 11:3 ὑπελείφθην μόνος, quoting 1 Kings 19:10). \"Was reserved\" would misread the passive; καταλείπω keeps \"leave\" alone.")))
 
+(lemma "ὑποστέλλω" (sense shrink-from (verb "shrink from" "shrank from" "shrunk from") (gloss "shrink from" "shrank from" "shrunk from" "shrinks from" "shrinking from") (why "Middle: to draw back, shrink from, hold back (Exodus 23:21 οὐ γὰρ μὴ ὑποστείληταί σε, of the angel; Acts 20:20, 27; Galatians 2:12; Hebrews 10:38 quoting Habakkuk 2:4).")))
+
 (lemma "ὑποστρέφω" (sense return (intransitive) (gloss "return" "returned" "returns" "returning") (why "To turn back, return (Genesis 8:7, the raven did not return; Luke 2:20; 24:52). \"Return\" keeps it apart from ἀποστρέφω \"turn back\", ἀναστρέφω \"come back\" and ἐπιστρέφω \"turn again\".")))
 
 (lemma "ὑποτίθημι" (sense put-under (verb "put under" "put under" "put under") (gloss "put under" "puts under" "putting under") (why "To place under (Genesis 47:29 ὑπόθες τὴν χεῖρά σου ὑπὸ τὸν μηρόν μου, the oath-gesture of 24:2; 49:15; Romans 16:4, \"laid down their necks\"). \"Put under\" keeps it apart from τίθημι \"put\"; the middle \"suggest, point out\" (1 Timothy 4:6) will be its own sense.")))
 
 (lemma "ὑποχείριος" (sense subject (gloss "subject") (why "(LXX, supplied.) Under the hand, subject (Genesis 14:20, handed over your enemies subject to you), from ὑπό + χείρ.")))
 
+(lemma "ὕσσωπος" (sense hyssop (gloss "hyssop") (why "Hyssop, a small bushy plant used for sprinkling (Exodus 12:22 δέσμην ὑσσώπου, dipped in the Passover blood; John 19:29; Hebrews 9:19). Traditional English hyssop.")))
+
 (lemma "ὑφάντης" (sense weaver (person) (gloss "weaver" "weavers") (why "(LXX, supplied.) A weaver: ἔργον ὑφάντου \"work of weaver\" (Exodus 26:1, 31; 28:6, 32), and with ποικιλτής ἔργον ὑφάντου ποικιλτοῦ \"work of weaver, of embroiderer\" (28:6). The agent noun of ὑφαίνω \"weave\"; ὕφασμα is \"weaving\". Use this English in every tabernacle chapter.")))
+
+(lemma "ὑφαντός" (sense woven (gloss "woven") (why "Woven (ὑφαίνω \"weave\"): the veil ἔργον ὑφαντόν, \"woven work\" (Exodus 26:31; 28; 36); the tunic woven from the top (John 19:23). Kept beside ὑφάντης \"weaver\".")))
 
 (lemma "ὕφασμα" (sense weaving (gloss "weaving" "weavings") (why "(LXX, supplied.) A thing woven, a web: τὸ ὕφασμα τῶν ἐπωμίδων (Exodus 28:8), the woven band of the shoulder-piece; ὕφασμα κατάλιθον (28:17), the woven setting of the stones. \"Weaving\" (the woven thing) from ὑφαίνω \"weave\", kept apart from ἔργον \"work\". Use this English in every tabernacle chapter.")))
 
@@ -83,3 +101,5 @@
 (lemma "ὕψος" (sense height (gloss "height") (why "Height (Genesis 6:15; Ephesians 3:18); \"on high\" (Luke 1:78) may become its own sense.")))
 
 (lemma "ὑψόω" (sense raise-high (gloss "raise high" "raised high" "raises high" "raising high") (why "To lift high, raise up; of the flood, to rise high (Genesis 7:17, 20, 24, the ark and the water were raised high). In the New Testament it is \"exalt\" (Luke 14:11; John 3:14, the Son of Man must be lifted up), which may become its own sense; \"raise high\" here keeps the physical height (ὕψος) and is kept apart from ἐπαίρω \"lift up\".")))
+
+(lemma "ὕω" (sense rain-down (verb "rain down" "rained down" "rained down") (gloss "rain down" "rained down" "rains down" "raining down") (why "(LXX, supplied.) To rain, send down as rain (Exodus 9:18 ἰδοὺ ἐγὼ ὕω ... χάλαζαν, God raining hail). \"Rain down\" keeps it apart from βρέχω \"rain\" and the noun ὑετός \"rain\".")))

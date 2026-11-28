@@ -76,6 +76,8 @@
 
 (lemma "γερουσία" (sense senate (gloss "senate" "senates") (why "(LXX, supplied.) The body of elders, council of old men (γέρων): Exodus 3:16, 18; 4:29, ἡ γερουσία (τῶν υἱῶν) Ἰσραήλ. \"Senate\" (Latin senex, old man) is made the same way and is the English of Acts 5:21, which uses the very phrase πᾶσαν τὴν γερουσίαν τῶν υἱῶν Ἰσραήλ.")))
 
+(lemma "γεῦμα" (sense taste (gloss "taste" "tastes") (why "(LXX, supplied.) Taste, flavor (Exodus 16:31, the taste of the manna like a wafer in honey); the noun of γεύομαι.")))
+
 (lemma "γεύω" (sense feed (gloss "feed" "fed" "feeds" "feeding") (why "(LXX, supplied.) The active of γεύομαι \"taste\": to make someone taste, give a taste of (Genesis 25:30 Γεῦσόν με ἀπὸ τοῦ ἑψέματος, Esau to Jacob). \"Feed\" because English \"taste\" cannot take the person as its object.")))
 
 (lemma "Γέσεμ" (sense name (gloss "Goshen") (why "(LXX, supplied.) The district of Egypt where Jacob's family settled (Genesis 45:10; 46:28-34; 47:1-6, 27), Greek Γέσεμ; traditional English Goshen.")))
@@ -124,26 +126,54 @@
     (gloss "know" "knew" "known" "knows" "knowing")
     (why "To know, come to know. It shares \"know\" with οἶδα: no English pair keeps the two apart without distorting one of them, so the alignment, not the English, shows which verb the Greek uses (Genesis 2:9 has οἶδα, 2:17 γινώσκω). The owner may prefer \"come to know\" or \"recognize\" for γινώσκω.")))
 
-(lemma "γλυφή" (sense engraving (gloss "engraving" "engravings") (why "(LXX, supplied.) Carving, engraving (from γλύφω \"carve\"): the engraved stones of the shoulder-piece and the oracle (Exodus 25:7 λίθους εἰς τὴν γλυφήν; 28:11, 21, 36 γλύμμα σφραγῖδος).")))
+(lemma "γιώρας" (sense stranger (person) (gloss "stranger" "strangers") (why "(LXX, supplied.) A resident foreigner, a loanword from the Aramaic form of the Hebrew ger (Exodus 12:19 ἔν τε τοῖς γιώραις καὶ αὐτόχθοσιν τῆς γῆς). \"Stranger\" keeps it apart from προσήλυτος \"proselyte\", πάροικος \"sojourner\" and ἀλλογενής \"alien\".")))
+
+(lemma "γλυκαίνω" (sense sweeten (gloss "sweeten" "sweetened" "sweetens" "sweetening") (why "(LXX, supplied.) To make sweet; passive, to become sweet (Exodus 15:25 ἐγλυκάνθη τὸ ὕδωρ, \"the water was sweetened\"); from γλυκύς \"sweet\" (James 3:11).")))
+
+(lemma "γλύμμα" (sense carved-work (gloss "carved work" "carved works") (plural "carved works") (why "(LXX, supplied.) A thing carved, an intaglio: γλύμμα σφραγῖδος \"carved work of seal\", the names cut into the stones like a signet (Exodus 28:11; 36:13). From γλύφω \"carve\"; kept apart from γλυφή \"engraving\". Use this English in every tabernacle chapter.")))
+
+(lemma "γλυφή" (sense engraving (gloss "engraving" "engravings") (why "(LXX, supplied.) Carving, engraving (from γλύφω \"carve\"): the engraved stones of the shoulder-piece and the oracle (Exodus 25:7 λίθους εἰς τὴν γλυφήν; 28:21; 35:9).")))
+
+(lemma "γλύφω" (sense carve (gloss "carve" "carved" "carves" "carving") (why "(LXX, supplied.) To carve, cut letters or figures into stone: γλύψεις ἐν αὐτοῖς τὰ ὀνόματα \"you will carve on them the names\" (Exodus 28:9; 36:13). \"Carve\", as γλυφή's entry has it; διαγλύφω is \"engrave\", γλύμμα \"carved work\". Use this English in every tabernacle chapter.")))
 
 (lemma "γλῶσσα" (sense tongue (gloss "tongue" "tongues") (why "Tongue, and so a language (Genesis 11:7, \"let us confuse their tongue\"; Acts 2:4, 11). \"Tongue\" in both, so Babel and Pentecost stay visibly linked.")))
 
 (lemma "γνόφος" (sense gloom (gloss "gloom") (why "(LXX.) Thick darkness, gloom (Exodus 20:21; Hebrews 12:18). Kept apart from σκότος \"darkness\".")))
+
+(lemma "γνοφώδης" (sense murky (gloss "murky") (why "(LXX, supplied.) Dark with gloom (γνόφος \"gloom\"), murky (Exodus 19:16, νεφέλη γνοφώδης over Sinai). \"Murky\" keeps it apart from σκυθρωπός \"gloomy\".")))
+
+(lemma "γνωρίζω" (sense make-known (verb "make known" "made known" "made known") (gloss "make known" "made known" "makes known" "making known") (why "To make known, and in the passive to be known, recognized (Exodus 21:36, ἐὰν δὲ γνωρίζηται ὁ ταῦρος ὅτι κερατιστής ἐστιν, \"if the bull is made known that it is gorer\"; Luke 2:15; John 15:15; Romans 9:22). The English is shared with ἀναγνωρίζω \"make known\" (Genesis 45:1), the compound of the same verb; a separate sense \"recognize\" may be wanted later. (LXX form supplied.)")))
 
 (lemma "γνωστός"
   (sense known
     (gloss "known")
     (why "Known, knowable (Acts 1:19; Romans 1:19, τὸ γνωστὸν τοῦ θεοῦ). Genesis 2:9 has the tree τοῦ εἰδέναι γνωστὸν καλοῦ καὶ πονηροῦ, \"of knowing [what is] known of good and evil\".")))
 
+(lemma "γνωστῶς" (sense knowably (gloss "knowably") (why "(LXX, supplied.) The adverb of γνωστός \"known\": so as to be known, clearly (Exodus 33:13, γνωστῶς ἴδω σε, Moses asking to see the Lord). \"Knowably\" keeps the tie to \"known\".")))
+
 (lemma "γογγύζω" (sense murmur (intransitive) (gloss "murmur" "murmured" "murmurs" "murmuring") (why "(LXX form supplied.) To mutter in discontent, murmur, grumble (Exodus 17:3, the people ἐγόγγυζεν against Moses; John 6:41; 1 Corinthians 10:10, recalling the wilderness). Traditional \"murmur\".")))
 
+(lemma "γογγυσμός" (sense murmuring (gloss "murmuring" "murmurings") (why "A muttering in discontent, murmuring (Exodus 16:7-12, the people's murmuring heard by the Lord; John 7:12; Acts 6:1; Philippians 2:14). The noun of γογγύζω \"murmur\", sharing its English deliberately.")))
+
 (lemma "Γοθόμ" (sense name (gloss "Gatam") (why "(LXX, supplied.) A son of Eliphaz (Genesis 36:11; Swete prints Γοθά at 36:16), Greek Γοθόμ; traditional English Gatam.")))
+
+(lemma "γόμορ" (sense omer (gloss "omer" "omers") (why "(LXX, supplied.) Indeclinable, the Hebrew dry measure omer (Exodus 16:16-36; 16:36, the tenth of three measures); traditional English omer.")))
+
+(lemma "γόμος" (sense burden (gloss "burden" "burdens") (why "A load, a beast's burden, a ship's cargo (Exodus 23:5 πεπτωκὸς ὑπὸ τὸν γόμον αὐτοῦ; Acts 21:3; Revelation 18:11-12). \"Burden\" because the verb γεμίζω has \"load\".")))
 
 (lemma "γόνυ"(sense knee (gloss "knee" "knees") (why "The knee (Genesis 48:12, Joseph brought the boys out from Israel's knees, where they had been set as his own; Mark 15:19; Romans 11:4; Philippians 2:10). (LXX form supplied.)")))
 
 (lemma "Γόμορρα" (sense name (gloss "Gomorrah") (why "The city (Genesis 10:19; 18:20; 19:24; Matthew 10:15; Romans 9:29); traditional English Gomorrah. Swete has the genitive Γομόρρας.")))
 
 (lemma "γραμματεύς" (sense scribe (person) (gloss "scribe" "scribes") (why "A writer, clerk. In Exodus 5:6-19 the Israelite officers who kept the tally of the brick quota under the taskmasters (the Hebrew has shoterim, officers); in the Gospels the scribes, teachers of the Law (Matthew 2:4; 23:2). One English word, \"scribe\", for both.")))
+
+(lemma "γραφή" (sense writing (gloss "writing" "writings") (why "A writing, what is written (Exodus 32:16, ἡ γραφὴ γραφὴ θεοῦ, the writing on the tablets). In the New Testament \"the writing\" is Scripture (John 2:22; 2 Timothy 3:16); one English word, \"writing\", shared with γράφω's -ing form, its verb.")))
+
+(lemma "γραφίς" (sense stylus (dative "with") (gloss "stylus" "styluses") (why "(LXX, supplied.) A pointed tool for writing or engraving, stylus, graving tool (Exodus 32:4, ἔπλασεν αὐτὰ ἐν τῇ γραφίδι, Aaron shaping the gold). From γράφω \"write\".")))
+
+(lemma "γράφω" (sense write (verb "write" "wrote" "written") (gloss "write" "wrote" "written" "writes" "writing") (why "To write (Exodus 24:4, Moses wrote all the utterances of the Lord; 24:12; 32:15; John 1:45). The perfect γέγραπται \"it has been written\" introduces Scripture in the New Testament (Matthew 4:4).")))
+
+(lemma "γρύζω" (sense growl (intransitive) (gloss "growl" "growled" "growls" "growling") (why "(LXX, supplied.) To grunt, mutter, make the least sound (Exodus 11:7 οὐ γρύξει κύων τῇ γλώσσῃ αὐτοῦ, \"dog will not growl with its tongue\" against Israel). \"Growl\" for the dog's sound; kept apart from γογγύζω \"murmur\".")))
 
 (lemma "γυμνός"
   (sense naked
@@ -165,5 +195,7 @@
 (lemma "Γωλά" (sense name (gloss "Alvah") (why "(LXX, supplied.) A chief of Esau (Genesis 36:40), Greek Γωλά for the Hebrew Alvah (the Hebrew ayin heard as γ), the same name: traditional English Alvah.")))
 
 (lemma "Γωλών" (sense name (gloss "Alvan") (why "(LXX, supplied.) A son of Shobal the Horite (Genesis 36:23), Greek Γωλών for the Hebrew Alvan, the same name: traditional English Alvan.")))
+
+(lemma "γωνία" (sense corner (gloss "corner" "corners") (why "A corner, angle (Exodus 26:23-24, the corners of the tabernacle; 27:2, the four corners of the altar; Matthew 21:42, the head of the corner, from Psalm 117:22; Acts 4:11; Revelation 7:1).")))
 
 (lemma "Γωυνί" (sense name (gloss "Guni") (why "(LXX, supplied.) A son of Naphtali (Genesis 46:24), Greek Γωυνί; traditional English Guni.")))

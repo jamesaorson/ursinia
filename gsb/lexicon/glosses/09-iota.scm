@@ -16,6 +16,10 @@
 
 (lemma "Ἰασούφ" (sense name (gloss "Jashub") (why "(LXX, supplied.) A son of Issachar (Genesis 46:13), Greek Ἰασούφ. The Hebrew of Genesis has Iob here but Jashub in Numbers 26:24 and 1 Chronicles 7:1; the Greek gives Jashub, so the English follows it (rule 8).")))
 
+(lemma "ἴασπις" (sense jasper (gloss "jasper" "jaspers") (why "Jasper (Revelation 4:3; 21:11, 18-19), the third stone of the oracle's second row (Exodus 28:18; 36:18). The stones of the oracle keep the names the Greek gives them, in their English forms.")))
+
+(lemma "ἰατρεῖον" (sense healing-fee (gloss "healing fee" "healing fees") (why "(LXX, supplied.) A physician's fee, the cost of the cure (Exodus 21:19, ἀποτίσει ... τὰ ἰατρεῖα, the striker pays them). The English shares \"healing\" with ἰάομαι \"heal\", the verb it comes from.")))
+
 (lemma "Ἰάφεθ" (sense name (gloss "Japheth") (why "(LXX, supplied.) Noah's son (Genesis 5:32; 6:10), traditional English Japheth.")))
 
 (lemma "Ἰαχείμ" (sense name (gloss "Jachin") (why "(LXX, supplied.) A son of Simeon (Genesis 46:10), Greek Ἰαχείμ; traditional English Jachin.")))
@@ -30,6 +34,12 @@
   (sense sweat
     (gloss "sweat")
     (why "(Supplied in Genesis 3:19.) Sweat. Luke 22:44 (Jesus' sweat like drops of blood) is the only New Testament use.")))
+
+(lemma "ἱερατεία" (sense priestly-office (gloss "priestly office" "priestly offices") (plural "priestly offices") (why "The office or service of a priest (Luke 1:9 κατὰ τὸ ἔθος τῆς ἱερατείας; Hebrews 7:5): καὶ ἔσται αὐτοῖς ἱερατία μοι εἰς τὸν αἰῶνα \"and priestly office will be to them for me into the age\" (Exodus 29:9; Swete spells ἱερατία). \"Priestly office\" keeps it apart from ἱεράτευμα \"priesthood\", the body of priests.")))
+
+(lemma "ἱεράτευμα" (sense priesthood (gloss "priesthood" "priesthoods") (why "A priesthood, a body of priests (ἱερατεύω \"serve as priest\"; Exodus 19:6, βασίλειον ἱεράτευμα \"royal priesthood\", quoted at 1 Peter 2:5, 9). (LXX form supplied.)")))
+
+(lemma "ἱερατεύω" (sense serve-as-priest (dative "to") (verb "serve as priest" "served as priest" "served as priest") (gloss "serve as priest" "served as priest" "serves as priest" "serving as priest") (why "To be priest, serve as priest (Luke 1:8, Zechariah ἐν τῷ ἱερατεύειν αὐτόν): ἱερατεύειν μοι \"to serve as priest to me\" (Exodus 28:1, 3-4, 41; 29:1, 44). One verb phrase for one Greek verb, as ἱεράτευμα's entry gives it; the dative is the one served.")))
 
 (lemma "ἱερεύς" (sense priest (person) (gloss "priest" "priests") (why "Priest (Genesis 14:18, Melchizedek priest of God the most high; Hebrews 7:1).")))
 
@@ -73,6 +83,10 @@
 
 (lemma "ἱκανόω" (sense make-sufficient (verb "make sufficient" "made sufficient" "made sufficient") (gloss "make sufficient" "made sufficient" "makes sufficient" "making sufficient") (why "To make sufficient, qualify (2 Corinthians 3:6; Colossians 1:12). Genesis 32:10, as Swete is transcribed, ἱκανοῦσαί μοι, taken as the passive ἱκανοῦταί, \"it is made sufficient to me\", Jacob's \"enough for me of all the righteousness\". The reading is unsure.")))
 
+(lemma "ἱλάσκομαι" (sense propitiate (gloss "propitiate" "propitiated" "propitiates" "propitiating") (why "To make propitious, propitiate; passive, to be propitiated, become gracious (Exodus 32:14, ἱλάσθη Κύριος, the Lord relenting at Moses' plea; Luke 18:13 ἱλάσθητί μοι; Hebrews 2:17). \"Propitiate\" ties it to ἱλαστήριος \"propitiatory\" and keeps it apart from the compound ἐξιλάσκομαι \"appease\".")))
+
+(lemma "ἱλαστήριος"(sense propitiatory (gloss "propitiatory" "propitiatories") (why "Propitiatory, having to do with appeasing (ἱλάσκομαι \"propitiate\"); the neuter τὸ ἱλαστήριον is the gold lid on the ark (Exodus 25:17-22 ἱλαστήριον ἐπίθεμα χρυσίου καθαροῦ; 31:7; 35:12; 37:6-9), the place of atonement, traditionally \"mercy seat\". Hebrews 9:5 uses it of the same object and Romans 3:25 of Christ: \"propitiatory\" in all, so the link the New Testament draws stays visible. Lemmatized as in the New Testament table. Tabernacle term.")))
+
 (lemma "ἵλεως" (sense gracious (gloss "gracious") (why "Propitious, gracious, merciful (Genesis 43:23 Ἵλεως ὑμῖν, \"Gracious [be God] to you\", the steward's greeting; Matthew 16:22 Ἵλεώς σοι; Hebrews 8:12). Akin to ἱλάσκομαι.")))
 
 (lemma "ἱμάτιον" (sense garment (gloss "garment" "garments") (why "A garment, the outer cloak (Genesis 9:23, Shem and Japheth took τὸ ἱμάτιον; Matthew 5:40; John 19:23-24). \"Garment\" against χιτών \"tunic\".")))
@@ -105,11 +119,15 @@
   (sense horse (gloss "horse" "horses") (why "A horse (James 3:3; Revelation 6:2)."))
   (sense cavalry (gloss "cavalry") (why "(LXX sense, supplied.) The feminine ἡ ἵππος, horses taken together, cavalry (Genesis 14:11, 16, 21, where the Hebrew has \"goods\"). Chosen by the form row of ἵππον with the feminine article.")))
 
+(lemma "ἶρις" (sense iris (gloss "iris") (why "(LXX, supplied.) The iris plant, its fragrant root (Exodus 30:24 ἴρεως πεντακοσίους σίκλους, among the spices of the anointing oil, where the Hebrew has cassia). We translate the Greek: \"iris\". The rainbow of Revelation 4:3; 10:1 (ἶρις) will be its own sense.")))
+
 (lemma "Ἰσαάκ" (sense name (gloss "Isaac") (why "Abraham's son by Sarah (Genesis 17:19, 21; Matthew 1:2; Romans 9:7-10); traditional English Isaac.")))
 
 (lemma "Ἰσμαήλ" (sense name (gloss "Ishmael") (why "(LXX, supplied.) Abraham's son by Hagar (Genesis 16:11-17:26); traditional English Ishmael.")))
 
 (lemma "Ἰσμαηλίτης" (sense name (person) (gloss "Ishmaelite" "Ishmaelites") (why "(LXX, supplied.) A descendant of Ishmael (Ἰσμαήλ), the traders who bought Joseph (Genesis 37:25-28; 39:1). Swete spells it both Ἰσμαηλίτης (37:27) and Ἰσμαηλείτης (37:25; 39:1).")))
+
+(lemma "ἴσος" (sense equal (gloss "equal") (why "Equal, the same (Exodus 26:24, ἐξ ἴσου \"from equal\", level, and ἴσοι, the corner columns equal; Matthew 20:12; John 5:18; Philippians 2:6).")))
 
 (lemma "Ἰσραήλ" (sense name (gloss "Israel") (why "Traditional English form.")))
 
@@ -127,9 +145,11 @@
     (gloss "set up" "sets up" "setting up")
     (why "Transitive, of a thing: to set up, make stand (Genesis 28:18, 22, Jacob sets up the stone as a pillar: ἔστησεν αὐτὸν στήλην, ὃν ἔστησα στήλην). Kept apart from \"establish\", which is for covenants and the like.")))
 
+(lemma "ἱστίον" (sense sheet (gloss "sheet" "sheets") (why "(LXX, supplied.) A web, a woven cloth, a sail (from ἱστός \"loom\"): the hangings of the court of the tabernacle (Exodus 27:9-15; 35-38). \"Sheet\" for the woven cloth, kept apart from αὐλαία \"curtain\", καταπέτασμα \"veil\" and ἐπίσπαστρον \"screen\". Tabernacle term.")))
+
 (lemma "ἰσχνόφωνος" (sense thin-voiced (gloss "thin-voiced") (why "(LXX, supplied.) Thin of voice, weak in speech (ἰσχνός + φωνή): Exodus 4:10, Moses of himself, beside βραδύγλωσσος \"slow-tongued\". One English word made the same way as the Greek.")))
 
-(lemma "ἰσχυρός" (sense strong (gloss "strong") (why "Strong, mighty (Genesis 14:5, strong nations; Matthew 12:29). Beside ἰσχύς \"strength\".")))
+(lemma "ἰσχυρός" (sense strong (comparative "stronger") (gloss "strong" "stronger") (why "Strong, mighty (Genesis 14:5, strong nations; Matthew 12:29). Beside ἰσχύς \"strength\".")))
 
 (lemma "ἰσχύς" (sense strength (gloss "strength") (why "Strength.")))
 

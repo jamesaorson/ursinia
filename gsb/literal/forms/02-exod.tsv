@@ -78,7 +78,7 @@ form	lemma	tag	sense	note
 ἐπιστατῶν	ἐπιστάτης	N-GPM
 συνετελέσατε	συντελέω	V-AAI-2P
 κατεβόησαν	καταβοάω	V-AAI-3P
-σοῖς	σός	A-DPM
+σοῖς	σός	S-2SDPM
 οἰκέταις	οἰκέτης	N-DPM
 πλίνθον	πλίνθος	N-ASF
 μεμαστίγωνται	μαστιγόω	V-RPI-3P
@@ -275,7 +275,7 @@ form	lemma	tag	sense	note
 ἐπαοιδοὶ	ἐπαοιδός	N-NPM
 φαρμακίαις	φαρμακεία	N-DPF		Swete's spelling of φαρμακείαις
 δράκοντες	δράκων	N-NPM
-κατίσχυσεν	κατισχύω	V-AAI-3S	prevail	intransitive: the heart of Pharaoh prevailed, was strong (Exod 7:13)
+κατίσχυσεν	κατισχύω	V-AAI-3S	grow-mighty	intransitive: the heart of Pharaoh grew mighty (Exod 7:13)
 βεβάρηται	βαρέω	V-RPI-3S
 βάδισον	βαδίζω	V-AAM-2S
 συναντῶν	συναντάω	V-PAP-NSM
@@ -382,7 +382,7 @@ form	lemma	tag	sense	note
 παρετάξατο	παρατάσσω	V-AMI-3S
 Ὣρ	Ὤρ	N-PRI
 κορυφὴν	κορυφή	N-ASF
-κατίσχυεν	κατισχύω	V-IAI-3S	prevail	Exodus 17:11, the intransitive use
+κατίσχυεν	κατισχύω	V-IAI-3S	grow-mighty	Exodus 17:11, the intransitive use
 Μωυσῆ	Μωϋσῆς	N-GSM		Swete's dative is Μωυσεῖ
 ἐστήριζον	στηρίζω	V-IAI-3P
 ἐστηριγμέναι	στηρίζω	V-RPP-NPF
@@ -435,13 +435,13 @@ form	lemma	tag	sense	note
 ἐπέλεξεν	ἐπιλέγω	V-AAI-3S
 ἐκρίνοσαν	κρίνω	V-IAI-3P		the -οσαν ending of the imperfect third plural
 ἀνεφέροσαν	ἀναφέρω	V-IAI-3P		the -οσαν ending of the imperfect third plural
-βάτος	βάτος (I)	N-NSM			masculine in Exodus 3 (ὁ βάτος); the New Testament's lemma name
+βάτος	βάτος (I)	N-NSM		masculine in Exodus 3 (ὁ βάτος); the New Testament's lemma name
 κατεκαίετο	κατακαίω	V-IPI-3S
-προσάγει	προσάγω	V-PAI-3S	come-near		intransitive, Exodus 3:4 ὅτι προσάγει ἰδεῖν
+προσάγει	προσάγω	V-PAI-3S	come-near	intransitive, Exodus 3:4 ὅτι προσάγει ἰδεῖν
 Μωυσῇ	Μωϋσῆς	N-DSM
-Μωσεῖ	Μωϋσῆς	N-DSM			Swete's spelling (Exodus 4:27)
+Μωσεῖ	Μωϋσῆς	N-DSM		Swete's spelling (Exodus 4:27)
 ἐγγίσῃς	ἐγγίζω	V-AAS-2S
-εὐλαβεῖτο	εὐλαβέομαι	V-IDI-3S			imperfect without augment, as Swete prints (for ηὐλαβεῖτο)
+εὐλαβεῖτο	εὐλαβέομαι	V-IDI-3S		imperfect without augment, as Swete prints (for ηὐλαβεῖτο)
 κατεμβλέψαι	κατεμβλέπω	V-AAN
 ἐργοδιωκτῶν	ἐργοδιώκτης	N-GPM
 ὀδύνην	ὀδύνη	N-ASF
@@ -453,10 +453,10 @@ form	lemma	tag	sense	note
 Ἰεβουσαίων	Ἰεβουσαῖος	N-GPM
 θλιμμὸν	θλιμμός	N-ASM
 λατρεύσετε	λατρεύω	V-FAI-2P
-ἐρωτήσουσιν	ἐρωτάω	V-FAI-3P			also ἐρωτήσουσίν (enclitic accent)
+ἐρωτήσουσιν	ἐρωτάω	V-FAI-3P		also ἐρωτήσουσίν (enclitic accent)
 συνάγαγε	συνάγω	V-2AAM-2S
 γερουσία	γερουσία	N-NSF
-ὦπται	ὁράω	V-RPI-3S	appear		also ὦπταί (enclitic accent); perfect passive, "has appeared"
+ὦπται	ὁράω	V-RPI-3S	appear	also ὦπταί (enclitic accent); perfect passive, "has appeared"
 ἐπέσκεμμαι	ἐπισκέπτομαι	V-RDI-1S
 κακώσεως	κάκωσις	N-GSF
 πορευσώμεθα	πορεύομαι	V-ADS-1P
@@ -466,17 +466,17 @@ form	lemma	tag	sense	note
 θαυμασίοις	θαυμάσιος	A-DPN
 ἀποτρέχητε	ἀποτρέχω	V-PAS-2P
 κενοί	κενός	A-NPM
-γείτονος	γείτων	N-GSF			common gender; feminine by sense (the woman's neighbor), unsure
-συσκήνου	σύσκηνος	N-GSF			two-ending adjective used as a noun; feminine by sense, unsure
+γείτονος	γείτων	N-GSF		common gender; feminine by sense (the woman's neighbor), unsure
+συσκήνου	σύσκηνος	N-GSF		two-ending adjective used as a noun; feminine by sense, unsure
 ἐπιθήσετε	ἐπιτίθημι	V-FAI-2P
 σκυλεύσατε	σκυλεύω	V-AAM-2P
 εἰσακούσωσιν	εἰσακούω	V-AAS-3P
-ἐπιλαβοῦ	ἐπιλαμβάνω	V-2ADM-2S			the table's lemma ἐπιλαμβάνομαι is the concordance's ἐπιλαμβάνω
-ἐπελάβετο	ἐπιλαμβάνω	V-2ADI-3S			the table's lemma ἐπιλαμβάνομαι is the concordance's ἐπιλαμβάνω
+ἐπιλαβοῦ	ἐπιλαμβάνω	V-2ADM-2S		the table's lemma ἐπιλαμβάνομαι is the concordance's ἐπιλαμβάνω
+ἐπελάβετο	ἐπιλαμβάνω	V-2ADI-3S		the table's lemma ἐπιλαμβάνομαι is the concordance's ἐπιλαμβάνω
 κέρκου	κέρκος	N-GSF
 Εἰσένεγκον	εἰσφέρω	V-2AAM-2S
 κόλπου	κόλπος	N-GSM
-ἀπεκατέστη	ἀποκαθίστημι	V-2AAI-3S	be-restored		the intransitive second aorist; the table guessed ἀποκαθιστάνω
+ἀπεκατέστη	ἀποκαθίστημι	V-2AAI-3S	be-restored	the intransitive second aorist; the table guessed ἀποκαθιστάνω
 χρόαν	χρόα	N-ASF
 σημείου	σημεῖον	N-GSN
 ἐκχεεῖς	ἐκχέω	V-FAI-2S
@@ -494,7 +494,7 @@ form	lemma	tag	sense	note
 ὑγιαίνων	ὑγιαίνω	V-PAP-NSM
 ἀποστρέφοντος	ἀποστρέφω	V-PAP-GSM
 ἐξαποστείλῃ	ἐξαποστέλλω	V-AAS-3S
-ἀποκτέννω	ἀποκτείνω	V-PAI-1S			Swete's spelling, the by-form ἀποκτέννω
+ἀποκτέννω	ἀποκτείνω	V-PAI-1S		Swete's spelling, the by-form ἀποκτέννω
 Σεπφώρα	Σεπφώρα	N-NSF
 κατεφίλησαν	καταφιλέω	V-AAI-3P
 ἐνκρατεῖς	ἐγκρατέω	V-PAI-2S		Swete's ἐν- spelling; read as the verb with the genitive, "you still master it" (the adjective ἐγκρατής would be singular); not certain
@@ -512,8 +512,8 @@ form	lemma	tag	sense	note
 ἀναζέουσαι	ἀναζέω	V-PAP-NPF
 αἰθάλην	αἰθάλη	N-ASF
 ἔπασεν	πάσσω	V-AAI-3S
-φαρμακοὶ	φάρμακος	N-NPM		Swete accents φαρμακοί (φαρμακός); the lemma as the New Testament table spells it (Revelation 22:15)
-φαρμακοῖς	φάρμακος	N-DPM
+φαρμακοὶ	φαρμακός	N-NPM
+φαρμακοῖς	φαρμακός	N-DPM
 συναντήματά	συνάντημα	N-APN
 ἵν’	ἵνα	CONJ		elided ἵνα
 θανατώσω	θανατόω	V-FAI-1S
@@ -522,7 +522,7 @@ form	lemma	tag	sense	note
 ἐνποιῇ	ἐμποιέω	V-PMI-2S		Swete's ἐν- spelling; middle with the genitive, "lay claim to"
 ὕω	ὕω	V-PAI-1S
 χάλαζαν	χάλαζα	N-ASF
-κατάσπευσον	κατασπεύδω	V-AAM-2S
+κατάσπευσον	κατασπεύδω	V-AAM-2S	make-haste
 διέτρεχεν	διατρέχω	V-IAI-3S
 φλογίζον	φλογίζω	V-PAP-NSN
 χαλάζῃ	χάλαζα	N-DSF
@@ -567,7 +567,7 @@ form	lemma	tag	sense	note
 ἀνέλαβεν	ἀναλαμβάνω	V-2AAI-3S
 προτέρα	πρότερος	A-NSF
 βοτάνῃ	βοτάνη	N-DSF
-κατέσπευδεν	κατασπεύδω	V-IAI-3S
+κατέσπευδεν	κατασπεύδω	V-IAI-3S	make-haste
 προσδέξασθε	προσδέχομαι	V-ADM-2P
 προσεύξασθε	προσεύχομαι	V-ADM-2P
 σφοδρόν	σφοδρός	A-ASM
@@ -721,7 +721,7 @@ form	lemma	tag	sense	note
 δεκάτῃ	δέκατος	A-DSF
 λαβέτωσαν	λαμβάνω	V-2AAM-3P
 ὀλιγοστοὶ	ὀλίγος	A-NPM-S		ὀλιγοστός, the superlative of ὀλίγος (as Genesis 34:30)
-συλλήμψεται	συλλαμβάνω	V-FDI-3S	take-along	with μεθ’ ἑαυτοῦ: take along, not conceive
+συλλήμψεται	συλλαμβάνω	V-FDI-3S	take-in	with μεθ’ ἑαυτοῦ: take in as partner, not conceive
 γείτονα	γείτων	N-ASM
 ἀρκοῦν	ἀρκέω	V-PAP-ASN
 ἀρκοῦν	ἀρκέω	V-PAP-NSN
@@ -796,8 +796,8 @@ form	lemma	tag	sense	note
 ἐσκύλευσαν	σκυλεύω	V-AAI-3P
 Σοκχώθα	Σοκχώθ	N-PRI		Σοκχώθ with -α of direction (Hebrew Sukkotah)
 ἑξακοσίας	ἑξακόσιοι	A-APF
-πεζῶν	πεζός	A-GPM
-ἐπίμικτος	ἐπίμικτος	A-NSM
+πεζῶν	πεζός	N-GPM		the adjective as a noun, men on foot
+ἐπίμικτος	ἐπίμικτος	N-NSM		the adjective as a noun, a mixed company (Exodus 12:38)
 συνανέβη	συναναβαίνω	V-2AAI-3S
 ἔπεψαν	πέσσω	V-AAI-3P
 ἐξήνεγκαν	ἐκφέρω	V-AAI-3P
@@ -812,6 +812,9 @@ form	lemma	tag	sense	note
 ἐνχωρίῳ	ἐγχώριος	A-DSM		Swete's spelling ἐνχ- (unassimilated)
 προσελθόντι	προσέρχομαι	V-2AAP-DSM
 προσηλύτῳ	προσήλυτος	N-DSM
+πρῶτός	πρῶτος	A-NSM		the plain ordinal, not the New Testament's superlative tag
+πρώτης	πρῶτος	A-GSF		the plain ordinal, not the New Testament's superlative tag
+πρώτη	πρῶτος	A-NSF		the plain ordinal, not the New Testament's superlative tag
 σφάξῃ	σφάζω	V-AAS-3S
 ἀποδῶται	ἀποδίδωμι	V-2AMS-3S	sell	the middle, "sell"
 ἀποτίσει	ἀποτίνω	V-FAI-3S
@@ -894,6 +897,7 @@ form	lemma	tag	sense	note
 ματαίαν	μάταιος	A-ASF
 συνκαταθήσῃ	συγκατατίθημι	V-FMI-2S		Swete's spelling συνκ- for συγκ-
 ἀδίκου	ἄδικος	A-GSM
+ἀδίκου	ἄδικος	A-GSN		ῥήματος ἀδίκου (Exodus 23:7)
 προσθήσῃ	προστίθημι	V-FMI-2S
 ἐκκλῖναι	ἐκκλίνω	V-AAN
 ἐκκλεῖσαι	ἐκκλείω	V-AAN
@@ -965,8 +969,8 @@ form	lemma	tag	sense	note
 αὐξηθῇς	αὐξάνω	V-APS-2S
 κληρονομήσῃς	κληρονομέω	V-AAS-2S
 ἐρυθρᾶς	ἐρυθρός	A-GSF
-ἐνκαθημένους	ἐγκάθημαι	V-PNP-APM	reside	Swete's spelling ἐνκ-
-ἐνκαθήσονται	ἐγκάθημαι	V-FDI-3P	reside	Swete's spelling ἐνκ-
+ἐνκαθημένους	ἐγκάθημαι	V-PNP-APM	be-settled	Swete's spelling ἐνκ-
+ἐνκαθήσονται	ἐγκάθημαι	V-FDI-3P	be-settled	Swete's spelling ἐνκ-
 δουλεύσῃς	δουλεύω	V-AAS-2S
 Σινά	Σεινά	N-PRI			Sinai with Swete's other spelling; one lemma with Σεινά
 ἀετῶν	ἀετός	N-GPM
@@ -1105,7 +1109,6 @@ form	lemma	tag	sense	note
 νομοθετῆσαι	νομοθετέω	V-AAN
 Ἡσυχάζετε	ἡσυχάζω	V-PAM-2P
 προσπορευέσθωσαν	προσπορεύομαι	V-PDM-3P
-Σινά	Σινᾶ	N-PRI		lemma as in the New Testament table (Acts 7:30)
 φλέγον	φλέγω	V-PAP-NSN
 φλέγον	φλέγω	V-PAP-ASN
 ἀπαρχὰς	ἀπαρχή	N-APF
@@ -1301,3 +1304,336 @@ form	lemma	tag	sense	note
 θανατωθήσεται	θανατόω	V-FPI-3S
 πλάκας	πλάξ	N-APF
 λιθίνας	λίθινος	A-APF
+εἰσπεπορευμένων	εἰσπορεύομαι	V-RNP-GPM
+πανοικὶ	πανοικεί	ADV		Swete's spelling of πανοικεί (Acts 16:34)
+χυδαῖοι	χυδαῖος	A-NPM
+ἐπλήθυνεν	πληθύνω	V-AAI-3S		the aorist and the imperfect are spelled alike; read as aorist
+κατασοφισώμεθα	κατασοφίζομαι	V-ADS-1P
+πληθυνθῇ	πληθύνω	V-APS-3S
+προστεθήσονται	προστίθημι	V-FPI-3P
+ἐκπολεμήσαντες	ἐκπολεμέω	V-AAP-NPM
+ἐπιστάτας	ἐπιστάτης	N-APM
+κακώσωσιν	κακόω	V-AAS-3P
+ὀχυρὰς	ὀχυρός	A-APF
+Πειθὼ	Πειθώ	N-PRI		the table guessed πείθω
+ἐταπείνουν	ταπεινόω	V-IAI-3P
+ἐβδελύσσοντο	βδελύσσομαι	V-INI-3P
+κατεδυνάστευον	καταδυναστεύω	V-IAI-3P
+βίᾳ	βία	N-DSF
+κατωδύνων	κατοδυνάω	V-IAI-3P
+σκληροῖς	σκληρός	A-DPN
+πηλῷ	πηλός	N-DSM
+πλινθίᾳ	πλινθεία	N-DSF		Swete's spelling of πλινθείᾳ
+κατεδουλοῦντο	καταδουλόω	V-IMI-3P
+μαίαις	μαῖα	N-DPF
+Σεπφωρά	Σεπφωρά	N-PRI		the midwife Shiphrah; Swete accents Zipporah Σεπφώρα
+μαιοῦσθε	μαιόομαι	V-PNS-2P		subjunctive after ὅταν; the indicative is spelled alike
+Ἐβραίας	Ἑβραῖος	N-APF	woman
+ἀποκτείνατε	ἀποκτείνω	V-AAM-2P
+περιποιεῖσθε	περιποιέω	V-PMM-2P		imperative; the indicative is spelled alike
+μαῖαι	μαῖα	N-NPF
+ἐζωογόνουν	ζωογονέω	V-IAI-3P
+μαίας	μαῖα	N-APF
+μαίας	μαῖα	N-GSF
+ἐζωογονεῖτε	ζωογονέω	V-IAI-2P
+Ἐβραῖαι	Ἑβραῖος	N-NPF	woman
+τίκτουσιν	τίκτω	V-PAI-3P
+τίκτουσιν	τίκτω	V-PAP-DPF
+τεχθῇ	τίκτω	V-APS-3S
+Ἐβραίοις	Ἑβραῖος	N-DPM
+ῥίψατε	ῥίπτω	V-AAM-2P
+ζωογονεῖτε	ζωογονέω	V-PAM-2P
+ζωογονεῖτε	ζωογονέω	V-PAI-2P
+ἀστεῖον	ἀστεῖος	A-ASN
+ἐσκέπασαν	σκεπάζω	V-AAI-3P
+μῆνας	μήν	N-APM
+κρύπτειν	κρύπτω	V-PAN
+θῖβιν	θῖβις	N-ASF
+κατέχρισεν	καταχρίω	V-AAI-3S
+ἀσφαλτοπίσσῃ	ἀσφαλτόπισσα	N-DSF
+ἕλος	ἕλος	N-ASN
+κατεσκόπευεν	κατασκοπεύω	V-IAI-3S
+μαθεῖν	μανθάνω	V-2AAN
+ἀποβησόμενον	ἀποβαίνω	V-FDP-NSN
+λούσασθαι	λούω	V-AMN
+ἕλει	ἕλος	N-DSN
+ἅβραν	ἅβρα	N-ASF
+ἀνοίξασα	ἀνοίγω	V-AAP-NSF
+κλαῖον	κλαίω	V-PAP-ASN
+θίβει	θῖβις	N-DSF
+τροφεύουσαν	τροφεύω	V-PAP-ASF
+θηλάσει	θηλάζω	V-FAI-3S
+νεᾶνις	νεᾶνις	N-NSF
+Διατήρησόν	διατηρέω	V-AAM-2S
+θήλασόν	θηλάζω	V-AAM-2S
+ἐθήλαζεν	θηλάζω	V-IAI-3S
+ἁδρυνθέντος	ἁδρύνω	V-APP-GSN
+ἀνειλόμην	ἀναιρέω	V-2AMI-1S	take-up
+τύπτοντά	τύπτω	V-PAP-ASM
+ἄμμῳ	ἄμμος	N-DSF
+Ἐβραίους	Ἑβραῖος	N-APM
+διαπληκτιζομένους	διαπληκτίζομαι	V-PNP-APM
+ἀδικοῦντι	ἀδικέω	V-PAP-DSM
+τύπτεις	τύπτω	V-PAI-2S
+ἐμφανὲς	ἐμφανής	A-NSN
+ποιμαίνουσαι	ποιμαίνω	V-PAP-NPF
+παραγενόμεναι	παραγίνομαι	V-2ADP-NPF
+ἤντλουν	ἀντλέω	V-IAI-3P
+δεξαμενάς	δεξαμενή	N-APF
+ποτίσαι	ποτίζω	V-AAN
+ἤντλησεν	ἀντλέω	V-AAI-3S
+ἐταχύνατε	ταχύνω	V-AAI-2P
+παραγενέσθαι	παραγίνομαι	V-2ADN
+ἐστι	εἰμί	V-PAI-3S		ἐστί(ν) without movable nu
+καταλελοίπατε	καταλείπω	V-RAI-2P
+κατῳκίσθη	κατοικίζω	V-API-3S
+ἐξέδοτο	ἐκδίδωμι	V-2AMI-3S
+κατεστέναξαν	καταστενάζω	V-AAI-3P
+βοὴ	βοή	N-NSF
+σταθμόν	σταθμός	N-ASM	doorpost	the doorpost (Exodus 21:6); the balance sense would be σταθμῷ, Genesis 43:21
+τέσσαρες	τέσσαρες	A-NPM		the Septuagint also uses τέσσαρες for the accusative (Exodus 25:12, 26 τέσσαρες δακτυλίους)
+τέσσαρες	τέσσαρες	A-APM
+τέσσαρες	τέσσαρες	A-NPF
+τέσσαρες	τέσσαρες	A-APF
+ἵππος	ἵππος	N-NSM	horse
+ἵππος	ἵππος	N-NSF	cavalry	feminine ἡ ἵππος, the horse collectively (Exodus 14:9)
+ἱππεῖς	ἱππεύς	N-NPM
+ἱππεῖς	ἱππεύς	N-APM
+αὐλαίας	αὐλαία	N-APF
+αὐλαίας	αὐλαία	N-GSF
+βύσσου	βύσσος	N-GSF
+κεκλωσμένης	κλώθω	V-RPP-GSF
+ὑακίνθου	ὑάκινθος	N-GSF
+κεκλωσμένου	κλώθω	V-RPP-GSN
+ἐργασίᾳ	ἐργασία	N-DSF
+ὑφάντου	ὑφάντης	N-GSM		ὑφάντης "weaver" (ἔργον ὑφάντου), not the adjective ὑφαντός
+αὐλαία	αὐλαία	N-NSF
+αὐλαίαις	αὐλαία	N-DPF
+αὐλαῖαι	αὐλαία	N-NPF
+ἐχόμεναι	ἔχω	V-PMP-NPF	hold-to	middle, holding to one another (Exod 26:3)
+συνεχόμεναι	συνέχω	V-PPP-NPF	hold-together
+ἀγκύλας	ἀγκύλη	N-APF
+ὑακινθίνας	ὑακίνθινος	A-APF
+χείλους	χεῖλος	N-GSN
+συμβολήν	συμβολή	N-ASF
+συμβολῇ	συμβολή	N-DSF
+ἐξωτέρας	ἐξώτερος	A-GSF
+αὐλαίᾳ	αὐλαία	N-DSF
+ἀντιπρόσωποι	ἀντιπρόσωπος	A-NPF
+ἀντιπίπτουσαι	ἀντιπίπτω	V-PAP-NPF
+ἀλλήλαις	ἀλλήλων	C-DPF
+κρίκους	κρίκος	N-APM
+κρίκοις	κρίκος	N-DPM
+κρίκοι	κρίκος	N-NPM
+συνάψεις	συνάπτω	V-FAI-2S
+δέρρεις	δέρρις	N-APF
+δέρρεις	δέρρις	N-NPF
+τριχίνας	τρίχινος	A-APF
+σκέπην	σκέπη	N-ASF
+δέρρεως	δέρρις	N-GSF
+δέρρεσι	δέρρις	N-DPF
+δέρρεσιν	δέρρις	N-DPF
+δέρριν	δέρρις	N-ASF
+δέρρεων	δέρρις	N-GPF
+ἐπιδιπλώσεις	ἐπιδιπλόω	V-FAI-2S
+συναπτούσης	συνάπτω	V-PAP-GSF
+χαλκοῦς	χαλκοῦς	A-APM
+χαλκοῦς	χαλκοῦς	A-NSM
+ἀγκυλῶν	ἀγκύλη	N-GPF
+ὑποθήσεις	ὑποτίθημι	V-FAI-2S
+ὑποκαλύψεις	ὑποκαλύπτω	V-FAI-2S
+ὑπερέχοντος	ὑπερέχω	V-PAP-GSN
+μήκους	μῆκος	N-GSN
+συνκαλύπτον	συγκαλύπτω	V-PAP-NSN		Swete's spelling (συν- unassimilated)
+πλάγια	πλάγιος	A-APN
+καλύπτῃ	καλύπτω	V-PAS-3S
+ἐπικαλύμματα	ἐπικάλυμμα	N-APN
+ἐπικαλύμματα	ἐπικάλυμμα	N-NPN
+στύλους	στῦλος	N-APM		Swete accents στύλος
+στύλον	στῦλος	N-ASM		Swete accents στύλος
+στύλου	στῦλος	N-GSM		Swete accents στύλος
+στύλοις	στῦλος	N-DPM		Swete accents στύλος
+στύλοι	στῦλος	N-NPM		Swete accents στύλος
+στύλων	στῦλος	N-GPM		Swete accents στύλος
+ἀγκωνίσκους	ἀγκωνίσκος	N-APM
+ἀντιπίπτοντας	ἀντιπίπτω	V-PAP-APM
+κʹ	εἴκοσι	A-NUI		Swete prints the numeral letter κʹ, twenty (Exod 26:18)
+νʹ	πεντήκοντα	A-NUI		Swete prints the numeral letter νʹ, fifty (Exod 27:13)
+ἀργυρᾶς	ἀργυροῦς	A-APF
+ἀργυραῖ	ἀργυροῦς	A-NPF
+γωνιῶν	γωνία	N-GPF
+ὀπισθίων	ὀπίσθιος	A-GPN
+ἴσου	ἴσος	A-GSN
+ἴσοι	ἴσος	A-NPM
+κάτωθεν	κάτωθεν	ADV
+σύμβλησιν	σύμβλησις	N-ASF
+ἀμφοτέραις	ἀμφότεροι	A-DPF
+μοχλοὺς	μοχλός	N-APM
+μοχλὸς	μοχλός	N-NSM
+κλίτει	κλίτος	N-DSN
+ὀπισθίῳ	ὀπίσθιος	A-DSM
+διικνείσθω	διϊκνέομαι	V-PDM-3S		Swete prints no diaeresis
+ἀναστήσεις	ἀνίστημι	V-FAI-2S	set-up	transitive future, to set up the tent
+νενησμένης	νήθω	V-RPP-GSF
+ὑφαντὸν	ὑφαντός	A-ASN
+ὑφαντὸν	ὑφαντός	A-NSN
+κεχρυσωμένων	χρυσόω	V-RPP-GPM
+κεφαλίδες	κεφαλίς	N-NPF
+χρυσαῖ	χρυσοῦς	A-NPF
+διοριεῖ	διορίζω	V-FAI-3S
+κατακαλύψεις	κατακαλύπτω	V-FAI-2S
+καταπετάσματι	καταπέτασμα	N-DSN
+ἐπίσπαστρον	ἐπίσπαστρον	N-ASN
+ἐπίσπαστρον	ἐπίσπαστρον	N-NSN
+ποικιλτοῦ	ποικιλτής	N-GSM
+χωνεύσεις	χωνεύω	V-FAI-2S
+χαλκᾶς	χαλκοῦς	A-APF
+καλύψεις	καλύπτω	V-FAI-2S
+χαλκῷ	χαλκός	N-DSM
+καλυπτῆρα	καλυπτήρ	N-ASM
+κρεάγρας	κρεάγρα	N-APF
+πυρεῖον	πυρεῖον	N-ASN
+πυρεῖον	πυρεῖον	N-NSN
+δικτυωτῷ	δικτυωτός	A-DSN
+ἐσχάρᾳ	ἐσχάρα	N-DSF
+ἐσχάρα	ἐσχάρα	N-NSF
+φορεῖς	φορεύς	N-APM
+φορεῖς	φορεύς	N-NPM
+περιχαλκώσεις	περιχαλκόω	V-FAI-2S
+πλευρὰ	πλευρά	N-APN		κατὰ πλευρά, neuter plural of the by-form πλευρόν, the same word (Exod 27:7)
+κοῖλον	κοῖλος	A-ASN
+σανιδωτὸν	σανιδωτός	A-ASN
+παραδειχθέν	παραδείκνυμι	V-APP-ASN
+ἱστία	ἱστίον	N-NPN
+ἱστία	ἱστίον	N-APN
+ἱστίων	ἱστίον	N-GPN
+χαλκαῖ	χαλκοῦς	A-NPF
+ἀπηλιώτην	ἀπηλιώτης	N-ASM
+περιηργυρωμέναι	περιαργυρόω	V-RPP-NPF
+ποικιλίᾳ	ποικιλία	N-DSF
+ῥαφιδευτοῦ	ῥαφιδευτής	N-GSM
+κατηργυρωμένοι	καταργυρόω	V-RPP-NPM
+κατασκευὴ	κατασκευή	N-NSF
+ἐργαλεῖα	ἐργαλεῖον	N-NPN
+ἐργαλεῖα	ἐργαλεῖον	N-APN
+πάσσαλοι	πάσσαλος	N-NPM
+χαλκοῖ	χαλκοῦς	A-NPM
+ἄτρυγον	ἄτρυγος	A-ASN
+κεκομμένον	κόπτω	V-RPP-ASN	beat
+καῦσαι	καίω	V-AAN
+κάηται	καίω	V-2APS-3S
+καύσει	καίω	V-FAI-3S
+δοξάσω	δοξάζω	V-FAI-1S		future, καὶ δοξάσω αὐτόν (Exodus 15:2); the New Testament's subjunctive reading would be "I glorify"
+Ὄφελον	ὄφελον	PRT		the particle of wish (Exodus 16:3), not a form of ὀφείλω
+θλίβουσιν	θλίβω	V-PAI-3P		the indicative (Exodus 3:9 ὃν οἱ Αἰγύπτιοι θλίβουσιν αὐτούς); after an article the participle below
+θλίβουσιν	θλίβω	V-PAP-DPM
+ἐσχάτου	ἔσχατος	A-GSN		the positive, not the New Testament's superlative tag ("most last"); Exodus 4:8 τοῦ σημείου τοῦ ἐσχάτου
+ἐσχάτου	ἔσχατος	A-GSM
+χερουβείν	Χερούβ	N-GPN		Swete's genitive plural spelling (Exodus 25:20, 22 τῶν χερουβείν); also χερουβεὶν
+χερουβείν	Χερούβ	N-GPM
+πλείους	πολύς	A-NPM-C	more
+πλείους	πολύς	A-APM-C	more
+πλείους	πολύς	A-NPF-C	more
+πλείους	πολύς	A-APF-C	more
+ἑαυταῖς	ἑαυτοῦ	F-3DPF		the third person; the New Testament table tags it second person
+ἄρσενα	ἄρσην	A-APN		τὰ ἄρσενα, the males (Exodus 1:17-18)
+ἄρσενα	ἄρσην	A-ASM
+αἰτήσῃ	αἰτέω	V-AAS-3S		aorist subjunctive after ἐάν with τις (Exodus 22:14); the New Testament reading is the future middle 2sg
+αἰτήσῃ	αἰτέω	V-FMI-2S
+πρωτότοκα	πρωτότοκος	A-APN		the positive; the New Testament table's superlative tag gives "most firstborn"
+πρωτότοκα	πρωτότοκος	A-NPN
+πλειόνων	πολύς	A-GPM-C	more	the comparative πλείων, "more [ones]"
+πλειόνων	πολύς	A-GPN-C	more
+πυρὸς	πῦρ	N-GSN			"of fire", the common reading (as the New Testament)
+πυρὸς	πυρός	N-NSM			wheat, with a nominative article (ὁ δὲ πυρός, Exodus 9:32)
+ἐκτὸς	ἐκτός	PREP			with the genitive, "outside of" (Exodus 9:33)
+κεχρόνικεν	χρονίζω	V-RAI-3S
+συνέστη	συνίστημι	V-2AAI-3S	stand-together
+Περιέλεσθε	περιαιρέω	V-2AMM-2P
+περιείλαντο	περιαιρέω	V-2AMI-3P		first-aorist ending on the second aorist stem
+γραφίδι	γραφίς	N-DSF
+χωνευτὸν	χωνευτός	A-ASM
+τάχος	τάχος	N-ASN
+ἠνόμησεν	ἀνομέω	V-AAI-3S
+παρέβησαν	παραβαίνω	V-2AAI-3P
+ἐνετείλω	ἐντέλλομαι	V-ADI-2S
+προσκεκυνήκασιν	προσκυνέω	V-RAI-3P
+θυμοῖ	θυμόω	V-PPI-2S		present passive second singular (θυμόῃ contracted)
+ἐξαναλῶσαι	ἐξαναλίσκω	V-AAN
+παῦσαι	παύω	V-AMM-2S
+μνησθεὶς	μιμνῄσκω	V-APP-NSM
+ὤμοσας	ὀμνύω	V-AAI-2S
+Πολυπληθυνῶ	πολυπληθύνω	V-FAI-1S
+καθέξουσιν	κατέχω	V-FAI-3P
+ἱλάσθη	ἱλάσκομαι	V-API-3S
+περιποιῆσαι	περιποιέω	V-AAN	preserve
+καταγεγραμμέναι	καταγράφω	V-RPP-NPF
+μερῶν	μέρος	N-GPN
+γεγραμμέναι	γράφω	V-RPP-NPF
+κεκολαμμένη	κολάπτω	V-RPP-NSF
+κραζόντων	κράζω	V-PAP-GPM		masculine plural with the collective λαοῦ
+πολέμου	πόλεμος	N-GSM
+ἐξαρχόντων	ἐξάρχω	V-PAP-GPM
+χορούς	χορός	N-APM
+κατέκαυσεν	κατακαίω	V-AAI-3S
+κατήλεσεν	καταλέω	V-AAI-3S
+ὀργίζου	ὀργίζω	V-PPM-2S
+ὅρμημα	ὅρμημα	N-ASN
+ὅρμημα	ὅρμημα	N-NSN
+χρυσία	χρυσίον	N-NPN
+χρυσία	χρυσίον	N-APN
+ἔρριψα	ῥίπτω	V-AAI-1S
+διεσκέδασται	διασκεδάζω	V-RPI-3S
+ἐπίχαρμα	ἐπίχαρμα	N-NSN
+ἐπίχαρμα	ἐπίχαρμα	N-ASN
+ὑπεναντίοις	ὑπεναντίος	A-DPM
+ἴτω	εἶμι	V-PAM-3S
+διέλθατε	διέρχομαι	V-2AAM-2P
+ἀνακάμψατε	ἀνακάμπτω	V-AAM-2P
+ἔγγιστα	ἐγγύς	ADV-S		superlative adverb, nearest
+τρισχιλίους	τρισχίλιοι	A-APM
+Ἐπληρώσατε	πληρόω	V-AAI-2P
+ἡμαρτήκατε	ἁμαρτάνω	V-RAI-2P
+ἐξιλάσωμαι	ἐξιλάσκομαι	V-ADS-1S
+ἡμάρτηκεν	ἁμαρτάνω	V-RAI-3S
+ἐξάλειψόν	ἐξαλείφω	V-AAM-2S
+ἔγραψας	γράφω	V-AAI-2S
+ὁδήγησον	ὁδηγέω	V-AAM-2S
+προπορεύεται	προπορεύομαι	V-PDI-3S
+ἐπισκέπτωμαι	ἐπισκέπτομαι	V-PDS-1S
+ποιήσεως	ποίησις	N-GSF
+συναποστελῶ	συναποστέλλω	V-FAI-1S
+εἰσάξω	εἰσάγω	V-FAI-1S
+συναναβῶ	συναναβαίνω	V-2AAS-1S
+σκληροτράχηλόν	σκληροτράχηλος	A-ASM
+ἐξαναλώσω	ἐξαναλίσκω	V-AAS-1S
+ἐξαναλώσω	ἐξαναλίσκω	V-FAI-1S
+κατεπένθησεν	καταπενθέω	V-AAI-3S
+πενθικοῖς	πενθικός	A-DPN
+σκληροτράχηλος	σκληροτράχηλος	A-NSM
+ἀφέλεσθε	ἀφαιρέω	V-2AMM-2P
+δοξῶν	δόξα	N-GPF
+περιστολὴν	περιστολή	N-ASF
+σκοπεύοντες	σκοπεύω	V-PAP-NPM
+κατενοοῦσαν	κατανοέω	V-IAI-3P		Swete's -οσαν ending of the imperfect
+ἀπιόντος	ἄπειμι (II)	V-PAP-GSM
+Μωσῆ	Μωϋσῆς	N-GSM		Swete prints it without υ here (Exodus 33:8)
+ἵστατο	ἵστημι	V-IMI-3S
+στάντες	ἵστημι	V-2AAP-NPM
+ἐνώπιος	ἐνώπιος	A-NSM
+ἐνωπίῳ	ἐνώπιος	A-DSM
+ἀπελύετο	ἀπολύω	V-IPI-3S		middle/passive: was let go, took his leave
+Ναυὴ	Ναυή	N-PRI
+ἐδήλωσάς	δηλόω	V-AAI-2S
+συναποστελεῖς	συναποστέλλω	V-FAI-2S
+ἐμφάνισόν	ἐμφανίζω	V-AAM-2S
+γνωστῶς	γνωστῶς	ADV
+εὑρηκὼς	εὑρίσκω	V-RAP-NSM
+προπορεύσομαί	προπορεύομαι	V-FDI-1S
+καταπαύσω	καταπαύω	V-FAI-1S
+ἀναγάγῃς	ἀνάγω	V-2AAS-2S
+συμπορευομένου	συμπορεύομαι	V-PDP-GSM
+παρελεύσομαι	παρέρχομαι	V-FDI-1S
+ὀπὴν	ὀπή	N-ASF
+παρέλθω	παρέρχομαι	V-2AAS-1S
+ἀφελῶ	ἀφαιρέω	V-FAI-1S

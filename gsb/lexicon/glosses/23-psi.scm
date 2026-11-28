@@ -2,6 +2,8 @@
 ;; in Greek alphabetical order. Format: gsb/translation/README.md; generator
 ;; fields: gsb/literal/README.md. Checked by `make gsb/lint`.
 
+(lemma "ψαλίς" (sense bracket (gloss "bracket" "brackets") (why "(LXX, supplied.) An arch, a curved band; in the tabernacle a holder: the rings of the altar of incense ἔσονται ψαλίδες ταῖς σκυτάλαις, \"will be brackets for the staves\" (Exodus 30:4); the bands of the pillars (37-38). \"Bracket\" says what it does; kept apart from δακτύλιος \"ring\", κρίκος and ἀγκύλη \"loop\". Tabernacle term.")))
+
 (lemma "ψαλτήριον" (sense psaltery (gloss "psaltery" "psalteries") (why "(LXX, supplied.) A stringed instrument, the psaltery (Genesis 4:21); the word behind \"Psalter\".")))
 
 (lemma "ψέλιον" (sense bracelet (gloss "bracelet" "bracelets") (why "(LXX, supplied.) A bracelet, armlet (Genesis 24:22, 30, 47, two bracelets for Rebekah's hands).")))
@@ -11,6 +13,8 @@
 (lemma "ψευδομαρτυρέω" (sense bear-false-witness (gloss "bear false witness" "bore false witness" "bears false witness" "bearing false witness") (why "To bear false witness (Exodus 20:16; Matthew 19:18).")))
 
 (lemma "ψηλαφάω" (sense feel (gloss "feel" "felt" "feels" "feeling") (verb "feel" "felt" "felt") (why "To feel, touch, grope for (Genesis 27:12, 21-22, Isaac feeling Jacob; Luke 24:39; Acts 17:27; 1 John 1:1). Kept apart from ἅπτω. (LXX form supplied.)")))
+
+(lemma "ψηλαφητός" (sense palpable (gloss "palpable") (why "(LXX, supplied.) That can be touched or felt, palpable (Exodus 10:21 ψηλαφητὸν σκότος, darkness to be felt; compare Hebrews 12:18 ψηλαφωμένῳ). The adjective of ψηλαφάω \"feel\".")))
 
 (lemma "ψῆφος" (sense pebble (gloss "pebble" "pebbles") (why "A small smooth stone, pebble, also one used in voting (Acts 26:10; Revelation 2:17); in Exodus 4:25 the stone, a flint, with which Zipporah circumcised her son. \"Pebble\" keeps it apart from λίθος \"stone\".")))
 

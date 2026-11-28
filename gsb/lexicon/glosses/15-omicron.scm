@@ -22,11 +22,15 @@
     (gloss "he" "she" "it" "they")
     (why "ὁ δέ, ἡ δέ, οἱ δέ: the article standing alone before δέ is a pronoun, \"but he\" (Genesis 4:9). English pronoun by the article's gender and number.")))
 
+(lemma "ὀβολός" (sense obol (gloss "obol" "obols") (why "(LXX, supplied.) The obol, a small silver coin (Exodus 30:13 εἴκοσι ὀβολοὶ τὸ δίδραχμον, where the Hebrew counts gerahs). Kept as the coin's name, like δίδραχμον \"didrachm\".")))
+
 (lemma "ὀγδοήκοντα" (sense eighty (gloss "eighty") (why "The numeral eighty (Genesis 5:25-28; Luke 2:37).")))
 
 (lemma "ὄγδοος" (sense eighth (gloss "eighth") (why "The ordinal \"eighth\" (Genesis 17:12, 14, circumcision on the eighth day; Luke 1:59; Philippians 3:5).")))
 
 (lemma "ὅδε" (sense this (gloss "this" "these") (why "This (here), pointing forward: τάδε \"these [things]\" (Exodus 20:22).")))
+
+(lemma "ὁδηγέω" (sense guide (gloss "guide" "guided" "guides" "guiding") (why "To lead on the way, guide (Exodus 13:17, οὐχ ὡδήγησεν αὐτοὺς ὁ θεὸς ὁδὸν γῆς Φυλιστιείμ; Matthew 15:14; John 16:13). From ὁδός, way, and ἄγω.")))
 
 (lemma "ὁδοιπόρος" (sense traveler (person) (gloss "traveler" "travelers") (why "(LXX, supplied.) A wayfarer, one going on the road (ὁδός + πορεύομαι): Genesis 37:25, ὁδοιπόροι Ἰσμαηλεῖται, \"Ishmaelite travelers\".")))
 
@@ -43,9 +47,13 @@
 
 (lemma "ὀδούς" (sense tooth (plural "teeth") (gloss "tooth" "teeth") (why "(LXX form supplied.) A tooth (Genesis 49:12, his teeth white rather than milk; Matthew 5:38; 8:12, the gnashing of teeth).")))
 
+(lemma "Ὀζειήλ" (sense name (gloss "Uzziel") (why "(LXX, supplied.) A son of Kohath (Exodus 6:18, 22), Greek Ὀζειήλ; traditional English Uzziel.")))
+
 (lemma "ὄζω" (sense stink (intransitive) (gloss "stink" "stank" "stunk" "stinks" "stinking") (verb "stink" "stank" "stunk") (why "To smell, give off a smell, stink (Exodus 8:14 ὤζεσεν ἡ γῆ, the land stank of the dead frogs; John 11:39 ἤδη ὄζει). \"Stink\" keeps it apart from ἐπόζω \"reek\".")))
 
 (lemma "ὅθεν" (sense from-where (gloss "from where") (why "From where, whence (Genesis 10:14, ὅθεν ἐξῆλθεν ἐκεῖθεν, \"from where came forth from there\"; Matthew 12:44; Hebrews 11:19). \"From where\" rather than archaic \"whence\".")))
+
+(lemma "Ὀθόμ" (sense name (gloss "Etham") (why "(LXX, supplied.) Israel's camp at the edge of the wilderness (Exodus 13:20, ἐστρατοπέδευσαν ἐν Ὀθόμ), indeclinable. The Greek spelling differs a little from the Hebrew Etham; the place is the same, so the traditional English Etham.")))
 
 (lemma "οἶδα"
   (sense know
@@ -53,6 +61,8 @@
     (why "To know (a perfect with present meaning; ᾔδει, Genesis 3:5, is its past, \"knew\"). It shares \"know\" with γινώσκω; see that entry.")))
 
 (lemma "οἰκέτης" (sense house-servant (person) (gloss "house servant" "house servants") (why "A household servant, domestic (Genesis 9:25, παῖς οἰκέτης; Luke 16:13; Acts 10:7; 1 Peter 2:18). \"House servant\" renders οἶκος and keeps it apart from παῖς \"servant\" and δοῦλος.")))
+
+(lemma "οἰκέτις" (sense housemaid (person) (gloss "housemaid" "housemaids") (why "(LXX, supplied.) A female household slave, the feminine of οἰκέτης \"house servant\" (Exodus 21:7, a man who sells his daughter as οἰκέτιν). Kept apart from παιδίσκη \"maidservant\", θεράπαινα \"handmaid\" and δούλη \"bondwoman\".")))
 
 (lemma "οἰκέω" (sense dwell (gloss "dwell" "dwelt" "dwells" "dwelling") (why "To dwell, inhabit. Kept apart from κατοικίζω \"settle\" and κατοικέω.")))
 
@@ -66,6 +76,10 @@
 (lemma "οἰκογενής" (sense home-born (gloss "home-born") (why "(LXX, supplied.) Born in the house, of a slave born in the household (Genesis 17:12-27, beside the ἀργυρώνητος \"bought with silver\"). \"Home-born\" renders οἶκος + γίνομαι.")))
 
 (lemma "οἶκος" (sense house (gloss "house" "houses") (why "House, household (\"house of slavery\", \"house of Jacob\").")))
+
+(lemma "οἰκουμένη" (sense inhabited-earth (gloss "inhabited earth") (why "The inhabited earth, the settled land (Exodus 16:35, until they came into the inhabited earth; Luke 2:1; Acts 17:31). The participle of οἰκέω used as a noun; \"inhabited earth\" keeps it apart from κόσμος and γῆ.")))
+
+(lemma "οἰκτίρω" (sense pity (gloss "pity" "pitied" "pities" "pitying") (why "To have pity, compassion on (Exodus 33:19, οἰκτειρήσω ὃν ἂν οἰκτείρω, quoted in Romans 9:15). Swete spells it οἰκτείρω, the New Testament table οἰκτίρω. \"Pity\" keeps it apart from ἐλεέω \"have mercy on\", its pair in the same verse.")))
 
 (lemma "οἶνος" (sense wine (gloss "wine" "wines") (why "Wine (Genesis 9:21, 24, Noah's wine; John 2:3-10).")))
 
@@ -85,19 +99,33 @@
 
 (lemma "ὀκτώ" (sense eight (gloss "eight") (why "The numeral eight (Genesis 5:28; 1 Peter 3:20, the eight souls saved in the ark).")))
 
+(lemma "ὀλεθρεύω" (sense exterminate (gloss "exterminate" "exterminated" "exterminates" "exterminating") (why "(LXX, supplied.) To destroy, bring to ruin (Exodus 22:20 Ὁ θυσιάζων θεοῖς θανάτῳ ὀλεθρευθήσεται; Hebrews 11:28 ὁ ὀλοθρεύων, the destroyer of the firstborn). \"Exterminate\" because ἀπόλλυμι has \"destroy\" and ἐξολεθρεύω \"destroy utterly\".")))
+
 (lemma "Ὀλιβεμά" (sense name (gloss "Oholibamah") (why "(LXX, supplied.) Esau's wife, daughter of Anah (Genesis 36:2, 5, 14, 18, 25), and a chief of Esau (36:41); Swete prints Ὀλιβεμά, Ἐλιβέμας and Ἐλιβεμᾶς. Traditional English Oholibamah.")))
 
 (lemma "ὀλίγος"(sense few (gloss "few") (why "Few, little (Matthew 7:14; 9:37). Genesis 34:30 ὀλιγοστός, its superlative, \"most few\" (fewest) in number.")))
 
+(lemma "ὀλιγοψυχία" (sense faintheartedness (gloss "faintheartedness") (why "(LXX, supplied.) Smallness of soul, faintheartedness, discouragement (Exodus 6:9 οὐκ εἰσήκουσαν Μωυσῇ ἀπὸ τῆς ὀλιγοψυχίας), from ὀλίγος \"little\" and ψυχή \"soul\"; the adjective ὀλιγόψυχος is in 1 Thessalonians 5:14.")))
+
 (lemma "ὁλκή" (sense weight (gloss "weight" "weights") (why "(LXX, supplied.) A drawing down of the scale, weight (Genesis 24:22, a ring of a drachma's weight and bracelets of ten gold [pieces] their weight).")))
+
+(lemma "ὀλοθρεύω" (sense ravage (gloss "ravage" "ravaged" "ravages" "ravaging") (why "To bring ruin (ὄλεθρος), destroy; ὁ ὀλεθρεύων, the destroyer who struck Egypt's firstborn (Exodus 12:23, Swete's spelling ὀλεθρ-; Hebrews 11:28 ὁ ὀλοθρεύων). \"Ravage\" keeps it apart from ἀπόλλυμι \"destroy\", ἐξολεθρεύω \"destroy utterly\" and καταφθείρω \"ruin\".")))
 
 (lemma "ὁλοκάρπωσις" (sense whole-offering (with-preposition "εἰς" for) (gloss "whole offering" "whole offerings") (why "(LXX, supplied.) An offering given whole, the Septuagint's word in Genesis 8:20 (and elsewhere) for the burnt offering: ὅλος \"whole\" with καρπόω \"offer as fruit, burn\". \"Whole offering\" keeps it apart from ὁλοκαύτωμα \"whole burnt offering\".")))
 
 (lemma "ὁλοκαύτωμα" (sense whole-burnt-offering (gloss "whole burnt offering" "whole burnt offerings") (why "A whole burnt offering (Hebrews 10:6).")))
 
+(lemma "ὁλοκαύτωσις" (sense whole-burning (gloss "whole burning" "whole burnings") (plural "whole burnings") (why "(LXX, supplied.) The burning whole, the act of the burnt offering: τὸ θυσιαστήριον τῆς ὁλοκαυτώσεως \"the altar of the whole burning\" (Exodus 29:25; 30:28; 31:9). \"Whole burning\" keeps it apart from ὁλοκαύτωμα \"whole burnt offering\", the thing offered. Use this English in every tabernacle chapter.")))
+
 (lemma "ὅλος" (sense whole (gloss "whole") (why "Whole, entire, all of (Genesis 25:25, Esau came out ὅλος ὡσεὶ δορὰ δασύς, \"whole as if [a] hairy pelt\"; Matthew 4:23; John 4:53). \"Whole\" keeps it apart from πᾶς \"all\".")))
 
+(lemma "ὄλυρα" (sense spelt (gloss "spelt") (why "(LXX, supplied.) Spelt, a late-ripening grain (Exodus 9:32 ὁ δὲ πυρὸς καὶ ἡ ὄλυρα οὐκ ἐπλήγησαν, spared by the hail with the wheat).")))
+
+(lemma "ὁμιλία" (sense company (gloss "company") (why "Being together, intercourse, company (Exodus 21:10, a wife's ὁμιλία, her marital due; 1 Corinthians 15:33, bad company). (LXX form supplied.)")))
+
 (lemma "ὀμνύω" (sense swear (gloss "swear" "swore" "sworn" "swears" "swearing") (why "To swear an oath (Genesis 21:23-31, 22:16 Κατ' ἐμαυτοῦ ὤμοσα, quoted in Hebrews 6:13; Matthew 5:34). The one sworn by is in the accusative (ὄμοσόν μοι τὸν θεόν) or after κατά.")))
+
+(lemma "ὁμοθυμαδόν" (sense with-one-accord (gloss "with one accord") (why "With one mind, with one accord, all together (Exodus 19:8, the whole people answered ὁμοθυμαδόν; Acts 1:14; 2:46; Romans 15:6). Kept apart from ἅμα \"together\". (LXX form supplied.)")))
 
 (lemma "ὅμοιος"
   (sense like
@@ -122,6 +150,8 @@
 
 (lemma "ὁμομήτριος" (sense same-mother (gloss "same-mother") (why "(LXX, supplied.) Born of the same mother (Genesis 43:16, 29, Benjamin τὸν ἀδελφὸν αὐτοῦ τὸν ὁμομήτριον, Joseph's brother by Rachel). The hyphen keeps the one Greek word one English word.")))
 
+(lemma "Ὀμουσεί" (sense name (gloss "Mushi") (why "(LXX, supplied.) A son of Merari (Exodus 6:19), Greek Ὀμουσεί; traditional English Mushi.")))
+
 (lemma "ὄνειδος" (sense reproach (gloss "reproach" "reproaches") (why "Reproach, disgrace (Genesis 30:23, Rachel: Ἀφεῖλεν ὁ θεός μου τὸ ὄνειδος; 34:14; Luke 1:25, Elizabeth's same words).")))
 
 (lemma "ὄνομα"
@@ -135,13 +165,27 @@
 
 (lemma "ὄνος" (sense donkey (gloss "donkey" "donkeys") (why "A donkey, ass, male or female (Genesis 12:16; Matthew 21:2-7; John 12:15).")))
 
+(lemma "ὄνυξ" (sense onycha (gloss "onycha") (why "(LXX, supplied.) A nail, claw; in Exodus 30:34 an ingredient of the incense, the shell of a mollusk shaped like a fingernail (στακτήν, ὄνυχα, χαλβάνην). \"Onycha\" is the traditional English for this spice, taken from the Greek accusative; tabernacle term. The fingernail (Deuteronomy 21:12) and claw (Daniel 4:30; 7:19) will be its own sense.")))
+
+(lemma "ὀνύχιον" (sense onyx (gloss "onyx" "onyxes") (why "(LXX, supplied.) Onyx, the third stone of the oracle's fourth row (Exodus 28:20; 36:20), the diminutive of ὄνυξ \"nail\" (whose Exodus 30:34 sense is \"onycha\"). The stones of the oracle keep the names the Greek gives them, in their English forms; the two shoulder stones are σμάραγδος \"emerald\" in the Greek (28:9).")))
+
+(lemma "ὀπή" (sense hole (gloss "hole" "holes") (why "(LXX form supplied.) An opening, hole, cleft (Exodus 33:22, θήσω σε εἰς ὀπὴν τῆς πέτρας; James 3:11, the spring's opening; Hebrews 11:38, holes of the earth).")))
+
+(lemma "ὀπήτιον"(sense awl (gloss "awl" "awls") (why "(LXX, supplied.) An awl, a small boring tool (Exodus 21:6, the master bores the slave's ear τῷ ὀπητίῳ).")))
+
 (lemma "ὄπισθεν" (sense at-back (gloss "at back") (why "Behind, at the back, with the genitive (Genesis 18:10 οὖσα ὄπισθεν αὐτοῦ \"being at back of him\", the genitive giving \"of\"; Matthew 9:20, she came from behind and touched). \"At back\" keeps it apart from ὀπίσω \"behind\".")))
+
+(lemma "ὀπίσθιος" (sense rearward (gloss "rearward") (why "(LXX, supplied.) At the back, hinder (Exodus 26:23, the corner columns ἐκ τῶν ὀπισθίων; 26:27, the rearward column). \"Rearward\" keeps it apart from ὄπισθεν \"at back\", ὀπίσω and ὀπισθοφανής \"backward\".")))
 
 (lemma "ὀπισθοφανής" (sense backward (gloss "backward") (why "(LXX, supplied.) Looking backward, with the back turned (Genesis 9:23: the brothers walked ὀπισθοφανῶς, the adverb, filed here, and their face was ὀπισθοφανές). One English word for the adjective and its adverb, as the Greek has one stem.")))
 
 (lemma "ὀπίσω" (sense behind (gloss "behind") (why "Behind, after (Genesis 8:8, he sent the dove behind it, after the raven; Matthew 4:19, come behind me). \"Behind\" keeps it apart from μετά \"after\".")))
 
+(lemma "ὁπλή" (sense hoof (gloss "hoof" "hoofs") (why "(LXX, supplied.) A hoof (Exodus 10:26 οὐχ ὑπολειφθησόμεθα ὁπλήν, \"not a hoof\" of the livestock left behind).")))
+
 (lemma "ὀπτάω" (sense bake (gloss "bake" "baked" "bakes" "baking") (why "(LXX, supplied.) To roast, bake (Genesis 11:3, \"let us bake them with fire\", of bricks).")))
+
+(lemma "ὀπτός" (sense roasted (gloss "roasted") (why "(LXX, supplied.) Roasted, cooked at the fire, the verbal adjective of ὀπτάω (Exodus 12:8-9 ὀπτὰ πυρί, the Passover meat \"roasted by fire\", not raw or boiled). \"Roasted\" keeps it apart from ὀπτάω's \"baked\"; Luke 24:42 has ὀπτοῦ, of fish.")))
 
 (lemma "ὅπως" (sense in-order-that (gloss "in order that") (why "Purpose: \"in order that\", kept apart from ἵνα \"so that\".")))
 
@@ -186,11 +230,15 @@
 
 (lemma "ὁρκισμός" (sense oath-taking (gloss "oath-taking") (why "(LXX, supplied.) A swearing, the taking of an oath (Genesis 21:31 Φρέαρ ὁρκισμοῦ, the Greek for Beersheba; 26:3). \"Oath-taking\" keeps it apart from ὅρκος \"oath\" and from \"swearing\", the participle of ὀμνύω.")))
 
+(lemma "ὁρισμός" (sense determination (gloss "determination" "determinations") (why "(LXX, supplied.) A marking off, a fixing of a term or limit (ὁρίζω \"mark out, determine\"): Exodus 8:12, Moses cried out περὶ τοῦ ὁρισμοῦ τῶν βατράχων, about the determination of the frogs, the time Pharaoh had fixed (ὡς ἐτάξατο Φαραώ).")))
+
 (lemma "ὅρκος" (sense oath (gloss "oath" "oaths") (why "An oath (Genesis 21:14, 31-33 τὸ φρέαρ τοῦ ὅρκου, the Greek for Beersheba; 26:3; Luke 1:73; Hebrews 6:16-17).")))
 
 (lemma "ὅριον" (sense border (gloss "border" "borders") (why "A boundary; in the plural the borders, the territory they enclose (Genesis 10:19, τὰ ὅρια Χαναναίων; Matthew 2:16; 4:13). \"Borders\" keeps the plural visible; \"region\" is a reading.")))
 
 (lemma "ὁρμάω" (sense rush (gloss "rush" "rushed" "rushes" "rushing") (why "To set off, rush (Genesis 31:21 ὥρμησεν εἰς τὸ ὄρος Γαλαάδ; Mark 5:13; Acts 7:57).")))
+
+(lemma "ὅρμημα" (sense impulse (gloss "impulse" "impulses") (why "An onset, rush, impulse, the bent of a person or crowd (Exodus 32:22, σὺ γὰρ οἶδας τὸ ὅρμημα τοῦ λαοῦ τούτου, Aaron excusing himself; Revelation 18:21, ὁρμήματι, with a violent rush). The noun of ὁρμάω \"rush\"; \"impulse\", since \"the rush of this people\" would read as a crowd.")))
 
 (lemma "ὁρμίσκος" (sense necklace (gloss "necklace" "necklaces") (why "(LXX, supplied.) A small chain or cord worn round the neck (diminutive of ὅρμος), one of the three pledges Judah gave Tamar (Genesis 38:18, 25).")))
 
@@ -200,7 +248,13 @@
 
 (lemma "ὄρος" (sense mountain (gloss "mountain" "mountains") (why "Mountain.")))
 
+(lemma "ὅρος" (sense limit (gloss "limit" "limits") (why "(LXX, supplied.) A boundary, limit; of time, a set term (Exodus 9:5 ἔδωκεν ὁ θεὸς ὅρον λέγων Ἐν τῇ αὔριον, God setting the time of the plague). Not ὄρος \"mountain\"; ὅριον is \"border\".")))
+
+(lemma "ὀρτυγομήτρα" (sense quail (gloss "quail") (why "(LXX, supplied.) Quail (Exodus 16:13, the quail came up and covered the camp); literally \"quail-mother\".")))
+
 (lemma "ὀρύσσω" (sense dig (gloss "dig" "dug" "digs" "digging") (why "To dig (Genesis 21:30, 26:15-32 the wells; Matthew 21:33, 25:18).")))
+
+(lemma "ὀρφανός" (sense orphan (person) (gloss "orphan" "orphans") (why "Bereft of parents, an orphan (Exodus 22:22, 24 χήραν καὶ ὀρφανόν; James 1:27; John 14:18 οὐκ ἀφήσω ὑμᾶς ὀρφανούς).")))
 
 (lemma "ὅς"
   (sense which
@@ -219,7 +273,8 @@
     (gloss "bone" "bones")
     (why "Bone (Genesis 2:23; Luke 24:39). The contracted form ὀστοῦν is the same lemma.")))
 
-(lemma "ὅστις" (sense who (gloss "who") (why "The indefinite or qualitative relative, here simply \"who\" (Exodus 20:2).")))
+(lemma "ὅστις" (sense who (gloss "who") (why "The indefinite or qualitative relative, here simply \"who\" (Exodus 20:2)."))
+  (sense which (gloss "which") (why "Of a thing, \"which\", as ὅς is \"which\" after a thing (Exodus 9:18, 24 χάλαζαν ... ἥτις τοιαύτη οὐ γέγονεν; Luke 2:4 πόλιν Δαυεὶδ ἥτις καλεῖται Βηθλεέμ; Acts 12:10). Chosen by override where the noun before it is not a person.")))
 
 (lemma "ὀσφραίνομαι" (sense smell (gloss "smell" "smelled" "smells" "smelling") (why "(LXX, supplied.) To smell, catch the scent of (Genesis 8:21, the Lord God smelled an odor of fragrance). The aorist is passive in form, deponent in sense. The noun ὄσφρησις (1 Corinthians 12:17) will need its own English.")))
 
@@ -266,7 +321,14 @@
   (sense anyone (person) (gloss "anyone") (why "After another negative in its clause (καὶ οὐ παριστήκει οὐδείς, Genesis 45:1), the Greek doubles the negation for strength; English takes one, so the verb keeps \"not\" and οὐδείς is \"anyone\" (\"had not stood by anyone\"). \"No one\" there would cancel the \"not\" and reverse the sense. Chosen by override."))
   (sense anything (gloss "anything") (why "The neuter οὐδέν (οὐθέν) after another negative, as the sense anyone for persons (Genesis 39:9 οὐχ ὑπερέχει ... οὐθέν, οὐδὲ ὑπεξῄρηται ... οὐδέν): English takes one negation, \"nothing does not surpass\" would reverse it. Shares \"anything\" with μηδέν, the same word with μή, as \"nothing\" does. Chosen by override.")))
 
+(lemma "οὐδέποτε" (sense never (gloss "never") (why "Not ever, never (Exodus 10:6 ἃ οὐδέποτε ἑωράκασιν οἱ πατέρες σου; Matthew 7:23; 9:33; Acts 10:14).")))
+
+(lemma "οὐδέπω" (sense never-yet (gloss "never yet") (why "Not even yet, never yet (Exodus 9:30 οὐδέπω πεφόβησθε τὸν θεόν; Luke 23:53; John 19:41; 20:9). \"Never yet\" keeps it apart from οὔπω \"not yet\" and οὐδέποτε \"never\".")))
+
 (lemma "Οὐκάν" (sense name (gloss "Akan") (why "(LXX, supplied.) A son of Ezer, the Horite Σάαρ (Genesis 36:27), Greek Οὐκάν; traditional English Akan. See Ἰωυκάμ.")))
+
+(lemma "οὐκέτι" (sense no-longer (gloss "no longer") (why "No more, no longer (Exodus 5:7 Οὐκέτι προστεθήσεται διδόναι ἄχυρον; 5:10 Οὐκέτι δίδωμι ὑμῖν ἄχυρα; Matthew 19:6; John 15:15)."))
+  (sense any-longer (gloss "any longer") (why "After another negative in its clause (Exodus 9:33 ὁ ὑετὸς οὐκ ἔσταξεν οὐκέτι, \"the rain did not drip any longer\"; Mark 14:25 οὐκέτι οὐ μὴ πίω), the Greek doubles the negation for strength; English takes one, so the verb keeps \"not\" and οὐκέτι is \"any longer\". \"Did not drip no longer\" would cancel the negation. Chosen by override, as οὐδείς \"anyone\".")))
 
 (lemma "Οὖλ"(sense name (gloss "Hul") (why "(LXX, supplied.) A son of Aram (Genesis 10:23), Greek Οὖλ; traditional English Hul.")))
 
@@ -280,6 +342,8 @@
   (sense heaven
     (gloss "heaven" "heavens")
     (why "Heaven, the sky. Singular \"heaven\", plural \"heavens\", following the Greek number: Genesis 1 in the Septuagint is singular throughout (Hebrew has a plural-form noun), while Matthew often has the plural. \"Sky\" is not used, so the one word can be traced from \"the birds of the heaven\" to \"the kingdom of the heavens\".")))
+
+(lemma "Οὐρείας" (sense name (gloss "Uri") (why "(LXX, supplied.) Bezalel's father, son of Hur (Exodus 31:2; 35:30; 38:22 ὁ τοῦ Οὐρείου). Only the genitive Οὐρείου occurs; the nominative Οὐρείας is assumed. The Greek adds a declinable ending to the Hebrew Uri; it is the same name, so the traditional English Uri (rule 8), not Uriah (Οὐρίας, Matthew 1:6).")))
 
 (lemma "οὖς" (sense ear (gloss "ear" "ears") (why "The ear (Genesis 20:8 εἰς τὰ ὦτα αὐτῶν; Matthew 11:15; Luke 1:44).")))
 
@@ -300,6 +364,8 @@
 (lemma "οὐχί" (sense no (gloss "no") (why "The emphatic form of οὐ. Standing alone as an answer it is \"No\" (Genesis 18:15 Οὐχί, ἀλλὰ ἐγέλασας; Luke 1:60; John 9:9). In a question expecting \"yes\" (Matthew 5:46) it will be its own sense, \"not\"."))
   (sense not (gloss "not") (why "In a question expecting \"yes\", \"not\" (Genesis 40:8 Οὐχὶ διὰ τοῦ θεοῦ ἡ διασάφησις αὐτῶν ἐστίν; Matthew 5:46-47; Luke 4:22). Shares \"not\" with οὐ, of which it is the emphatic form. Chosen by word override.")))
 
+(lemma "ὄφελον" (sense would-that (gloss "would that") (why "A particle of a wish that cannot now be had, would that, if only (Exodus 16:3 Ὄφελον ἀπεθάνομεν, \"Would that we died\"; 1 Corinthians 4:8; Galatians 5:12).")))
+
 (lemma "ὀφθαλμός"
   (sense eye
     (gloss "eye" "eyes")
@@ -319,5 +385,7 @@
 (lemma "ὀχύρωμα" (sense stronghold (gloss "stronghold" "strongholds") (why "A fortified place, stronghold; in Genesis 39:20-40:14 the prison where the king's prisoners are held (2 Corinthians 10:4, figurative). The literal \"stronghold\" is kept.")))
 
 (lemma "ὀψέ" (sense late (gloss "late") (why "Late, late in the day (Genesis 24:11, τὸ πρὸς ὀψέ, \"toward late\", toward evening; Mark 11:19; 13:35).")))
+
+(lemma "ὄψιμος" (sense late (gloss "late") (why "Late, late in the season (Exodus 9:32 ὄψιμα γὰρ ἦν, the wheat and spelt not yet up when the hail fell; James 5:7, the late rain). It shares \"late\" with the adverb ὀψέ: English has one plain word, and the part of speech keeps them apart.")))
 
 (lemma "ὄψις" (sense aspect (dative "in") (gloss "aspect" "aspects")(why "The look of a thing, appearance, aspect (Genesis 24:16, καλὴ τῇ ὄψει, \"beautiful in aspect\"; John 7:24; 11:44, the face). \"Aspect\" keeps it apart from εἰδέα \"appearance\" and ὅρασις \"sight\".")))

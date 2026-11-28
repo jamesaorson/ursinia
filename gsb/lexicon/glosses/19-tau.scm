@@ -6,6 +6,8 @@
 
 (lemma "Τάβεκ" (sense name (gloss "Tebah") (why "(LXX, supplied.) Son of Nahor and Reumah (Genesis 22:24); the Greek form of the Hebrew Tebah. Traditional English Tebah.")))
 
+(lemma "τάλαντον" (sense talent (gloss "talent" "talents") (why "A talent, the largest weight and sum of money (Matthew 18:24; 25:15-28): the lampstand and its vessels weigh τάλαντον χρυσίου καθαροῦ, \"talent of pure gold\" (Exodus 25:39; 38:24-27).")))
+
 (lemma "ταμεῖον" (sense inner-room (gloss "inner room" "inner rooms") (why "(LXX form supplied; Swete spells ταμιεῖον.) A storeroom, an inner private room (Genesis 43:30, Joseph going into it to weep; Matthew 6:6; 24:26; Luke 12:3).")))
 
 (lemma "ταπεινόω" (sense humble (gloss "humble" "humbled" "humbles" "humbling") (why "To make low, humble, afflict (Genesis 15:13 ταπεινώσουσιν αὐτούς; 16:9 ταπεινώθητι, \"be humbled\"; Luke 14:11; Philippians 2:8).")))
@@ -25,6 +27,8 @@
 
 (lemma "τάφος" (sense grave (gloss "grave" "graves") (why "A burial, a grave (Genesis 23:4, 20, κτῆσιν τάφου; Matthew 23:27; 27:61). \"Grave\" keeps it apart from μνημεῖον \"tomb\".")))
 
+(lemma "τάχος" (sense speed (gloss "speed" "speeds") (why "Quickness, speed; the accusative τὸ τάχος used as an adverb, \"with speed\" (Exodus 32:7, Βάδιζε τὸ τάχος ἐντεῦθεν); ἐν τάχει \"with speed\" (Luke 18:8; Acts 12:7). The noun of ταχύς \"quick\". (LXX form supplied.)")))
+
 (lemma "ταχύνω" (sense hurry (gloss "hurry" "hurried" "hurries" "hurrying") (why "(LXX, supplied.) To make haste, hurry (Genesis 18:7 ἐτάχυνεν τοῦ ποιῆσαι αὐτό). From ταχύς \"quick\"; kept apart from σπεύδω \"hasten\" (18:6).")))
 
 (lemma "ταχύς" (sense quickly (gloss "quickly") (why "The neuter ταχύ as an adverb, quickly (Genesis 27:20 Τί τοῦτο ὃ ταχὺ εὗρες; Matthew 28:7-8; Revelation 22:7). The adjective \"quick\" (James 1:19) will be its own sense. (LXX form supplied.)")))
@@ -37,6 +41,8 @@
     (gloss "and")
     (why "τε alone, a light \"and\" joining a clause (Genesis 2:20). It shares \"and\" with καί; the alignment shows which.")))
 
+(lemma "τεῖχος" (sense wall (gloss "wall" "walls") (why "A wall, of a city or as here of water (Exodus 14:22, 29, τεῖχος ἐκ δεξιῶν καὶ τεῖχος ἐξ εὐωνύμων; Acts 9:25; Hebrews 11:30).")))
+
 (lemma "τέκνον"
   (sense child
     (gloss "child" "children")
@@ -44,7 +50,13 @@
 
 (lemma "τεκνοποιέω" (sense bear-children (gloss "bear children" "bore children" "borne children" "bears children" "bearing children") (why "(LXX, supplied.) To produce children, bear children (Genesis 11:30, Sarai \"was not bearing children\"; 16:1). Built on τέκνον \"child\"; \"bear\" as τίκτω.")))
 
+(lemma "τεκτονικός" (sense carpentry (gloss "carpentry") (why "(LXX, supplied.) Of the builder or carpenter (τέκτων, Matthew 13:55): Exodus 31:5 εἰς τὰ ἔργα τὰ τεκτονικὰ τῶν ξύλων, \"into the carpentry works of the timbers\"; 35:33. Rendered by the English noun used as an adjective.")))
+
 (lemma "τέλειος" (sense perfect (gloss "perfect") (why "Complete, whole, perfect (Genesis 6:9, Noah; Matthew 5:48). τελειόω, when it comes, will share \"perfect\" as the verb of this adjective; συντελέω keeps \"complete\".")))
+
+(lemma "τελειόω" (sense perfect (gloss "perfect" "perfected" "perfects" "perfecting") (why "To make complete, perfect (John 17:23; Hebrews 2:10; 5:9; 7:28): in Exodus the ordination of the priests, τελειώσεις Ἀαρὼν τὰς χεῖρας \"you will perfect the hands of Aaron\" (29:9, 29, 33, 35), where the Hebrew says \"fill the hand\". \"Perfect\", the verb of τέλειος as that entry says; the noun τελείωσις is \"perfection\". Hebrews uses the same words of priesthood (7:11, 28). Use this English in every tabernacle chapter.")))
+
+(lemma "τελείωσις" (sense perfection (gloss "perfection" "perfections") (why "Completion, perfection (Luke 1:45; Hebrews 7:11 εἰ μὲν οὖν τελείωσις διὰ τῆς Λευιτικῆς ἱερωσύνης ἦν): in Exodus the ordination of the priests, ὁ κριὸς τῆς τελειώσεως \"the ram of the perfection\" (29:22, 26-27, 31, 34; Leviticus 8:22-33), the ram the English tradition calls the ram of consecration. \"Perfection\" keeps the link with τελειόω \"perfect\" and with Hebrews. Use this English in every tabernacle chapter.")))
 
 (lemma "τελευτάω" (sense expire (intransitive) (gloss "expire" "expired" "expires" "expiring") (why "To come to the end (τελευτή) of life, die (Genesis 6:17; Matthew 2:19). \"Expire\" to keep it apart from ἀποθνῄσκω \"die\".")))
 
@@ -78,6 +90,12 @@
   (sense four-footed
     (gloss "four-footed")
     (why "Four-footed; as a noun, a quadruped (Genesis 1:24; Acts 10:12; Romans 1:23).")))
+
+(lemma "τετράστιχος" (sense four-rowed (gloss "four-rowed") (why "(LXX, supplied.) Of four rows (τέσσαρες + στίχος \"row\"): ὕφασμα κατάλιθον τετράστιχον \"weaving set with stones, four-rowed\" (Exodus 28:17; 36:17).")))
+
+(lemma "τέχνη" (sense craft (gloss "craft" "crafts") (why "Craft, art, skill of hand (Acts 17:29; 18:3; Revelation 18:22): ἔργον λιθουργικῆς τέχνης \"work of stoneworking craft\" (Exodus 28:11). \"Craft\" keeps it apart from ἔργον \"work\".")))
+
+(lemma "τήκω" (sense melt (voice active) (intransitive) (gloss "melt" "melted" "melts" "melting") (why "To melt; passive, to melt away, rendered active (Exodus 15:15 ἐτάκησαν, the inhabitants of Canaan melted; 16:21, the manna was melting in the sun; 2 Peter 3:12).")))
 
 (lemma "τηρέω"
   (sense watch
@@ -120,6 +138,10 @@
 
 (lemma "τοιοῦτος" (sense such (gloss "such") (why "Of this kind, such (Genesis 39:11 τοιαύτη τις ἡμέρα; Matthew 9:8; John 4:23).")))
 
+(lemma "τοῖχος" (sense wall (gloss "wall" "walls") (why "(LXX, supplied.) The wall of a house or building; of the altar of incense its sides (Exodus 30:3 τοὺς τοίχους αὐτοῦ κύκλῳ; Acts 23:3 τοῖχε κεκονιαμένε). Shares \"wall\" with τεῖχος (a city wall), unavoidably: English has one word; τὸ κλίτος and πλευρόν have \"side\".")))
+
+(lemma "τόκος" (sense interest (gloss "interest") (why "What money brings forth, interest on a loan (Exodus 22:25 οὐκ ἐπιθήσεις αὐτῷ τόκον; Matthew 25:27; Luke 19:23). Kept apart from τοκετός \"childbirth\".")))
+
 (lemma "τόξευμα" (sense arrow (gloss "arrow" "arrows") (why "(LXX, supplied.) An arrow, a shot (Genesis 49:23, κύριοι τοξευμάτων, \"lords of arrows\"). The noun of τοξεύω; beside τόξον \"bow\" and τοξότης \"archer\".")))
 
 (lemma "τοκετός" (sense childbirth (gloss "childbirth" "childbirths") (why "(LXX, supplied.) Childbirth, delivery (Genesis 35:16 ἐδυστόκησεν ἐν τῷ τοκετῷ; 38:27). The noun of τίκτω \"bear\".")))
@@ -128,9 +150,13 @@
 
 (lemma "τοξότης" (sense archer (person) (gloss "archer" "archers") (why "(LXX, supplied.) A bowman, archer (Genesis 21:20), from τόξον \"bow\".")))
 
+(lemma "τοπάζιον" (sense topaz (gloss "topaz" "topazes") (why "Topaz (Revelation 21:20), the second stone of the oracle's first row (Exodus 28:17; 36:17). The stones of the oracle keep the names the Greek gives them, in their English forms.")))
+
 (lemma "τοπάρχης" (sense local-ruler (person) (gloss "local ruler" "local rulers") (why "(LXX, supplied.) The governor of a district (τόπος + ἄρχω), a local ruler (Genesis 41:34 καταστησάτω τοπάρχας ἐπὶ τῆς γῆς). \"Local ruler\" keeps it apart from ἄρχων \"ruler\".")))
 
 (lemma "τόπος" (sense place (gloss "place" "places") (why "Place.")))
+
+(lemma "τορευτός" (sense embossed (gloss "embossed") (why "(LXX, supplied.) Worked in relief, chased, embossed (from τορεύω \"work in relief\"): the lampstand λυχνίαν ... τορευτήν, ὅλη τορευτή (Exodus 25:31, 36). Kept with χρυσοτόρευτος \"gold-embossed\" (25:18); ἐκτυπόω is \"figure\". Tabernacle term.")))
 
 (lemma "τοσοῦτος" (sense so-much (gloss "so much" "so many") (why "So great, so much; plural, so many (Exodus 1:12 τοσούτῳ πλείους ἐγίνοντο, \"by so much more\"; Hebrews 1:4 τοσούτῳ κρείττων; John 6:9; 14:9). The dative of measure is \"by so much\".")))
 
@@ -139,6 +165,8 @@
 (lemma "Τόχος" (sense name (gloss "Tahash") (why "(LXX, supplied.) Son of Nahor and Reumah (Genesis 22:24); the Greek form of the Hebrew Tahash. Traditional English Tahash.")))
 
 (lemma "τράγος" (sense male-goat (gloss "male goat" "male goats") (why "A he-goat, male goat (Genesis 30:35; 31:10-12, Jacob's flocks; Hebrews 9:12-13, 19). Kept apart from αἴξ \"goat\" and ἔριφος \"kid\".")))
+
+(lemma "τράπεζα" (sense table (gloss "table" "tables") (why "A table: the table of the bread of the presence in the tabernacle (Exodus 25:23-30; 26:35; Hebrews 9:2), a meal table (Matthew 15:27), a money table (Matthew 21:12). Tabernacle term.")))
 
 (lemma "τραῦμα" (sense wound (gloss "wound" "wounds") (why "Wound (Luke 10:34).")))
 
@@ -149,6 +177,8 @@
 (lemma "τρεῖς" (sense three (gloss "three") (why "The numeral three (Genesis 5:31-32; 6:10; Matthew 12:40).")))
 
 (lemma "τρέμω" (sense tremble (gloss "tremble" "trembled" "trembles" "trembling") (why "To tremble.")))
+
+(lemma "τρέπω" (sense rout (gloss "rout" "routed" "routs" "routing") (why "(LXX, supplied.) To turn; the middle, to turn an enemy back, put to flight, rout (Exodus 17:13, ἐτρέψατο Ἰησοῦς τὸν Ἀμαλήκ). The middle is rendered active. The plain \"turn\" belongs to στρέφω and its compounds.")))
 
 (lemma "τρέφω" (sense nourish (gloss "nourish" "nourished" "nourishes" "nourishing") (why "To feed, nourish, rear (Genesis 6:19-20, the animals kept alive in the ark; Matthew 6:26). \"Nourish\" so that βόσκω can keep \"feed\".")))
 
@@ -171,12 +201,20 @@
 
 (lemma "τρισκαιδέκατος" (sense thirteenth (gloss "thirteenth") (why "(LXX, supplied.) Thirteenth (Genesis 14:4, in the thirteenth year).")))
 
+(lemma "τριστάτης" (sense officer (person) (gloss "officer" "officers") (why "(LXX, supplied.) A chariot officer: literally \"third-stander\", the third man of a chariot's crew, or an officer of the third rank (Exodus 14:7, τριστάτας ἐπὶ πάντων; 15:4). \"Officer\" keeps the rank without deciding which.")))
+
+(lemma "τρισχίλιοι" (sense three-thousand (gloss "three thousand") (why "The numeral three thousand (Exodus 32:28, εἰς τρισχιλίους ἄνδρας; Acts 2:41 ψυχαὶ ὡσεὶ τρισχίλιαι).")))
+
 (lemma "τρίτος"
   (sense third
     (gloss "third")
     (why "The ordinal \"third\".")))
 
+(lemma "τρίχινος" (sense haircloth (gloss "haircloth") (why "Made of hair (θρίξ), of haircloth: the δέρρεις τρίχιναι over the tabernacle (Exodus 26:7; 36), the sackcloth τρίχινος (Revelation 6:12). \"Haircloth\", used as an adjective, keeps it apart from the noun θρίξ.")))
+
 (lemma "τριώροφος" (sense three-storied (gloss "three-storied") (why "(LXX, supplied.) Having three stories or decks (Genesis 6:16; Acts 20:9 has τρίστεγον).")))
+
+(lemma "τροπή" (sense rout (gloss "rout" "routs") (why "(LXX, supplied.) A turning, and in war the turning to flight, rout (Exodus 32:18, οὐδὲ φωνὴ ἐξαρχόντων τροπῆς, not the cry raised over a rout; James 1:17 τροπῆς ἀποσκίασμα, a turning). \"Rout\" for the battle sense; the turning of the heavens in James will be its own sense.")))
 
 (lemma "τρόπος" (sense manner (gloss "manner" "manners") (why "A way, manner (Genesis 26:29 ὃν τρόπον, \"which manner\", the accusative of manner; Matthew 23:37; Acts 1:11).")))
 
@@ -186,9 +224,13 @@
 
 (lemma "τροφός" (sense nurse (person) (gloss "nurse" "nurses") (why "(LXX, supplied form.) A nurse, one who feeds a child (Genesis 35:8 Δεββωρὰ ἡ τροφὸς Ῥεβέκκας; 1 Thessalonians 2:7). From τρέφω \"feed\".")))
 
+(lemma "τρύβλιον" (sense dish (gloss "dish" "dishes") (why "A dish, deep bowl for food (Matthew 26:23; Mark 14:20): one of the table's vessels (Exodus 25:29; 37:16).")))
+
 (lemma "τρυγών"(sense turtledove (gloss "turtledove" "turtledoves") (why "A turtledove (Genesis 15:9; Luke 2:24).")))
 
 (lemma "τρόμος" (sense trembling (gloss "trembling") (why "Trembling, quaking from fear (Genesis 9:2, ὁ τρόμος ὑμῶν καὶ ὁ φόβος; Mark 16:8; 1 Corinthians 2:3, \"in fear and in much trembling\"). It shares \"trembling\" with the participle of its own verb τρέμω; φόβος is \"fear\".")))
+
+(lemma "τρυπάω" (sense bore-through (verb "bore through" "bored through" "bored through") (gloss "bore through" "bored through" "bores through" "boring through") (why "(LXX, supplied.) To bore a hole, pierce (Exodus 21:6, τρυπήσει ὁ κύριος αὐτοῦ τὸ οὖς τῷ ὀπητίῳ). \"Bore through\" keeps it apart from κατανύσσω \"pierce\".")))
 
 (lemma "τρυφή"
   (sense delight
@@ -197,8 +239,10 @@
 
 (lemma "τύμπανον" (sense drum (gloss "drum" "drums") (why "(LXX, supplied.) A hand drum, tambourine (Genesis 31:27 μετὰ μουσικῶν, τυμπάνων καὶ κιθάρας). The verb τυμπανίζω is in Hebrews 11:35.")))
 
+(lemma "τύπος" (sense pattern (gloss "pattern" "patterns") (why "An impression, figure, and so a pattern to follow: ὅρα ποιήσεις κατὰ τὸν τύπον τὸν δεδειγμένον σοι ἐν τῷ ὄρει (Exodus 25:40), quoted in Acts 7:44 and Hebrews 8:5 \"according to the pattern\". Kept apart from παράδειγμα \"model\" (25:9). Other New Testament senses (a mark, John 20:25; a type, Romans 5:14) may become their own senses.")))
+
 (lemma "τυφλός" (sense blind (gloss "blind") (why "Blind (Exodus 4:11, βλέποντα καὶ τυφλόν; Matthew 9:27; John 9:1). (LXX form supplied.)")))
 
-(lemma "τύπτω" (sense beat (gloss "beat" "beat" "beaten" "beats" "beating") (why "To strike, beat (Exodus 2:11 ἄνθρωπον Αἰγύπτιον τύπτοντά τινα Ἐβραῖον; 2:13 Διὰ τί σὺ τύπτεις τὸν πλησίον; Matthew 24:49; Acts 23:2-3). \"Beat\" keeps it apart from πατάσσω \"strike\".")))
+(lemma "τύπτω" (sense beat (gloss "beat" "beat" "beaten" "beats" "beating") (why "To strike, beat (Exodus 2:11 ἄνθρωπον Αἰγύπτιον τύπτοντά τινα Ἐβραῖον; 2:13 Διὰ τί σὺ τύπτεις τὸν πλησίον; Matthew 24:49; Acts 23:2-3). \"Beat\" keeps it apart from πατάσσω \"strike\", πλήσσω \"smite\" and παίω \"hit\". κόπτω has a sense \"beat\" too, of oil beaten out (Exodus 27:20 κεκομμένον); the two share the English, and the alignment shows which is which.")))
 
 (lemma "τύχη" (sense fortune (gloss "fortune") (why "(LXX, supplied.) What befalls one, fortune, luck (Genesis 30:11, Leah at Gad's birth: Ἐν τύχῃ, \"In fortune\"). From τυγχάνω \"happen upon\".")))

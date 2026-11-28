@@ -32,6 +32,8 @@
 
 (lemma "ζηλωτός" (sense enviable (gloss "enviable") (why "(LXX, supplied.) To be envied, enviable (Genesis 49:22, Joseph υἱὸς ηὐξημένος μου ζηλωτός). Not ζηλωτής \"zealous\"; ζηλόω has \"envy\".")))
 
+(lemma "ζημιόω" (sense fine (gloss "fine" "fined" "fines" "fining") (why "To penalize, fine, and in the passive to suffer loss (Exodus 21:22, ἐπιζήμιον ζημιωθήσεται, \"will be fined [a] penalty\"; Matthew 16:26; Philippians 3:8 \"suffer loss\", which may become its own sense). (LXX form supplied.)")))
+
 (lemma "ζητέω" (sense seek (gloss "seek" "sought" "seeks" "seeking") (verb "seek" "sought" "sought") (why "To seek, look for (Genesis 19:11 ζητοῦντες τὴν θύραν; 37:15-16; Matthew 2:13; 7:7).")))
 
 (lemma "Ζόγορα" (sense name (gloss "Zoar") (why "(LXX, supplied.) Genesis 13:10, Swete's Ζόγορα for the town the Hebrew calls Zoar; traditional English Zoar. Genesis 14:2, 8 spells it Σήγωρ, also \"Zoar\": two Greek spellings of one name.")))
@@ -42,12 +44,18 @@
 
 (lemma "ζύμη" (sense leaven (gloss "leaven") (why "Leaven, sourdough (Exodus 12:15, 19; 13:3, 7; Matthew 13:33; 16:6; 1 Corinthians 5:6). ἄζυμος, unleavened, is its negative.")))
 
+(lemma "ζυμόω" (sense ferment (gloss "ferment" "fermented" "ferments" "fermenting") (why "To leaven, make rise with ζύμη; passive, to rise, be leavened (Exodus 12:34 πρὸ τοῦ ζυμωθῆναι, 12:39 οὐ γὰρ ἐζυμώθη, the dough; Matthew 13:33; 1 Corinthians 5:6 μικρὰ ζύμη ὅλον τὸ φύραμα ζυμοῖ). \"Ferment\" because \"leaven\" is ζύμη's and \"leavened\" ζυμωτός's.")))
+
 (lemma "ζυμωτός" (sense leavened (gloss "leavened") (why "(LXX, supplied.) Leavened, made with ζύμη \"leaven\" (Exodus 13:7, οὐκ ὀφθήσεταί σοι ζυμωτόν).")))
 
 (lemma "ζωή"
   (sense life
     (gloss "life")
     (why "ζωή, life itself, against βίος, livelihood or manner of life, which gets its own gloss. In Genesis 3:20 the Septuagint gives the woman's name as Ζωή, \"Life\" (capitalized as a name); see the note there.")))
+
+(lemma "ζώνη" (sense belt (gloss "belt" "belts") (why "A belt, girdle worn around the waist (Matthew 3:4 ζώνην δερματίνην; Acts 21:11; Revelation 1:13): of the priests' woven belts (Exodus 28:4, 39-40; 29:9 ζώσεις αὐτοὺς ταῖς ζώναις \"you will gird them with the belts\"). \"Belt\" in both testaments; its verb ζώννυμι is \"gird\". Use this English in every tabernacle chapter.")))
+
+(lemma "ζώννυμι" (sense gird (gloss "gird" "girded" "girds" "girding") (why "To put a belt on, gird (John 21:18 ἐζώννυες σεαυτόν; Acts 12:8): ζώσεις αὐτοὺς ταῖς ζώναις \"you will gird them with the belts\" (Exodus 29:9). The verb of ζώνη \"belt\".")))
 
 (lemma "ζωογονέω" (sense keep-alive (verb "keep alive" "kept alive" "kept alive") (gloss "keep alive" "kept alive" "keeps alive" "keeping alive") (why "To give life, preserve alive, let live (Exodus 1:17-18, 22, the midwives kept the males alive; Luke 17:33; Acts 7:19 εἰς τὸ μὴ ζωογονεῖσθαι, of the same story). From ζωή \"life\" + γόνος; kept apart from ζάω \"live\" and περιποιέω \"preserve\".")))
 

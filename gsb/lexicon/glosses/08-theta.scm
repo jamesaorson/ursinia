@@ -40,7 +40,11 @@
 
 (lemma "θαυμάσιος" (sense marvelous (gloss "marvelous") (why "(LXX, supplied.) Marvelous, to be marveled at (θαυμάζω \"marvel at\"); plural τὰ θαυμάσια, marvelous deeds (Exodus 3:20, ἐν πᾶσι τοῖς θαυμασίοις μου; Matthew 21:15).")))
 
+(lemma "θαυμαστός" (sense wonderful (gloss "wonderful") (why "Wonderful, marvelous (Exodus 15:11 θαυμαστὸς ἐν δόξαις; Matthew 21:42; 1 Peter 2:9). The adjective of θαυμάζω.")))
+
 (lemma "θεῖον" (sense sulfur (gloss "sulfur") (why "(LXX form supplied.) Sulfur, brimstone (Genesis 19:24 θεῖον καὶ πῦρ; Luke 17:29, which recalls it; Revelation 14:10). Not the adjective θεῖος \"divine\".")))
+
+(lemma "θεῖος" (sense divine (gloss "divine") (why "Of God, divine (Exodus 31:3 and 35:31 πνεῦμα θεῖον σοφίας, filling Bezalel; 2 Peter 1:3-4 τῆς θείας δυνάμεως, θείας φύσεως; Acts 17:29 τὸ θεῖον). Its neuter θεῖον is spelled like θεῖον \"sulfur\": choose this lemma by word override where the adjective is meant. (LXX form supplied.)")))
 
 (lemma "Θαρσίς" (sense name (gloss "Tarshish") (why "(LXX, supplied.) Javan's son (Genesis 10:4), Greek Θαρσίς; traditional English Tarshish.")))
 
@@ -57,6 +61,8 @@
 
 (lemma "θεοσεβής" (sense pious (gloss "pious") (why "Revering God, pious (Exodus 18:21, ἄνδρας δυνατούς, θεοσεβεῖς, the judges Jethro advises; John 9:31). \"Pious\", the adjective of θεοσέβεια \"piety\", for the same reason: the gloss does not name God, whom the Greek names only inside the compound.")))
 
+(lemma "θεράπαινα" (sense handmaid (person) (gloss "handmaid" "handmaids") (why "(LXX, supplied.) A female attendant, handmaid, the feminine of θεράπων (Exodus 21:20-32 alongside παιδίσκη; 21:26 τὸν ὀφθαλμὸν τῆς θεραπαίνης αὐτοῦ). Kept apart from παιδίσκη \"maidservant\", δούλη \"bondwoman\" and οἰκέτις \"housemaid\".")))
+
 (lemma "θεραπεία" (sense retinue (gloss "retinue") (why "Service, and so the body of servants in attendance, a household (Genesis 45:16, Pharaoh and his retinue; Luke 12:42 τῆς θεραπείας αὐτοῦ). \"Healing\" (Luke 9:11; Revelation 22:2) will be its own sense. \"Retinue\" keeps it apart from οἶκος \"house\".")))
 
 (lemma "θεράπων" (sense attendant (person) (gloss "attendant" "attendants") (why "An attendant, one who serves willingly (Genesis 24:44, Isaac τῷ ἑαυτοῦ θεράποντι; Hebrews 3:5, Moses faithful as a θεράπων). \"Attendant\" keeps it apart from παῖς \"servant\" and δοῦλος.")))
@@ -68,6 +74,8 @@
 (lemma "θέριστρον" (sense veil (gloss "veil" "veils") (why "(LXX, supplied.) A light summer garment or veil (Genesis 24:65, Rebekah took τὸ θέριστρον and covered herself). From θέρος \"summer\". κάλυμμα, when it comes, will need its own English.")))
 
 (lemma "θέρος" (sense summer (gloss "summer" "summers") (why "Summer (Genesis 8:22, summer and springtime; Matthew 24:32).")))
+
+(lemma "θήκη" (sense sheath (gloss "sheath" "sheaths") (why "A case to put a thing in (from τίθημι), a sword's sheath (John 18:11): the rings of the table are εἰς θήκας τοῖς ἀναφορεῦσιν, \"into sheaths for the carrying poles\" (Exodus 25:27), the holders the poles slide into.")))
 
 (lemma "θηλάζω" (sense suckle (gloss "suckle" "suckled" "suckles" "suckling") (why "To suckle, nurse at the breast (Genesis 21:7; Matthew 24:19 ταῖς θηλαζούσαις).")))
 
@@ -93,6 +101,8 @@
 
 (lemma "θῖβις" (sense basket (gloss "basket" "baskets") (why "(LXX, supplied.) An Egyptian word for a basket or box woven of papyrus (Exodus 2:3, 5-6, in which Moses was laid by the river). The English shares \"basket\" with κανοῦν (Genesis 40), a different Greek word for a different basket; the alignment shows which.")))
 
+(lemma "θιγγάνω" (sense handle (gloss "handle" "handled" "handles" "handling") (why "To touch, handle (Exodus 19:12, θιγεῖν τι αὐτοῦ, of the mountain; Colossians 2:21, μὴ ἅψῃ μηδὲ γεύσῃ μηδὲ θίγῃς, where ἅπτω is \"touch\"; Hebrews 12:20). \"Handle\" keeps it apart from ἅπτω \"touch\". (LXX form supplied.)")))
+
 (lemma "θλίβω" (sense afflict (gloss "afflict" "afflicted" "afflicts" "afflicting") (why "To press, squeeze, and so afflict, oppress (Exodus 3:9, the oppression with which the Egyptians afflict them; 2 Corinthians 4:8; 2 Thessalonians 1:6). The verb of θλῖψις \"affliction\". (LXX form supplied.)")))
 
 (lemma "θλιμμός" (sense oppression (gloss "oppression" "oppressions") (why "(LXX, supplied.) Pressing, oppression (θλίβω): Exodus 3:9, τὸν θλιμμὸν ὃν οἱ Αἰγύπτιοι θλίβουσιν αὐτούς. \"Oppression\" keeps it apart from θλῖψις \"affliction\".")))
@@ -107,13 +117,23 @@
 
 (lemma "Θόβελ"(sense name (gloss "Tubal") (why "(LXX, supplied.) Genesis 4:22: Greek Θόβελ where the Hebrew has Tubal-cain; the Greek name is Tubal alone.")))
 
+(lemma "θραύω" (sense shatter (gloss "shatter" "shattered" "shatters" "shattering") (why "To break in pieces, shatter (Exodus 15:6, your right hand shattered enemies; Luke 4:18 τεθραυσμένους). Kept apart from συντρίβω \"crush\".")))
+
+(lemma "θρίξ" (sense hair (gloss "hair" "hairs") (why "A hair; plural, hair (Matthew 5:36; 10:30; Revelation 1:14). Exodus 25:4 τρίχας αἰγίας, \"goat's hairs\", given for the tent; the plural is kept.")))
+
 (lemma "θρόνος" (sense throne (gloss "throne" "thrones") (why "A seat of state, a throne (Genesis 41:40 πλὴν τὸν θρόνον ὑπερέξω σου ἐγώ, Pharaoh above Joseph only in the throne; Matthew 5:34; Revelation 4:2).")))
 
 (lemma "θυγάτηρ" (sense daughter (person) (gloss "daughter" "daughters") (why "Daughter.")))
 
+(lemma "θύελλα" (sense tempest (gloss "tempest" "tempests") (why "A storm, whirlwind, tempest (Exodus 10:22 σκότος γνόφος θύελλα, the darkness of the ninth plague; Hebrews 12:18, the same three words at Sinai). \"Tempest\" keeps it apart from the other words for wind and storm.")))
+
+(lemma "θυίσκη" (sense incense-pan (gloss "incense-pan" "incense-pans") (why "(LXX, supplied.) A small vessel for burning or holding incense (from θύω), one of the table's vessels (Exodus 25:29 τὰς θυίσκας; 37:16). \"Incense-pan\" keeps it apart from θυμιατήριον and λιβανωτός.")))
+
 (lemma "θῦμα" (sense slain-beast (gloss "slain beast" "slain beasts") (why "(LXX, supplied.) An animal slaughtered, for sacrifice or for the table (Genesis 43:16 σφάξον θύματα, Joseph's steward preparing the midday meal). From θύω; \"slain beast\" keeps it apart from θυσία \"sacrifice\" and σφάζω \"slaughter\".")))
 
 (lemma "θυμίαμα" (sense incense (gloss "incense" "incenses") (why "(LXX, supplied.) Incense, sweet spice for burning (Genesis 43:11, among the gifts for Joseph; Luke 1:10-11; Revelation 5:8).")))
+
+(lemma "θυμιάω" (sense burn-incense (verb "burn incense" "burned incense" "burned incense") (gloss "burn incense" "burned incense" "burns incense" "burning incense") (why "To burn incense, offer it by burning (Exodus 30:7-8, Aaron θυμιάσει on the altar of incense; 40:27; Luke 1:9 τοῦ θυμιᾶσαι, Zechariah). \"Burn incense\" names the act; the noun θυμίαμα is \"incense\". Tabernacle term. (LXX form supplied.)")))
 
 (lemma "θυμός" (sense fury (gloss "fury") (why "Passion, hot anger, fury (Genesis 27:45 τὸν θυμὸν καὶ τὴν ὀργὴν τοῦ ἀδελφοῦ σου; Romans 2:8 θυμὸς καὶ ὀργή; Revelation 14:10). \"Fury\" keeps it apart from ὀργή \"wrath\" where the two stand together.")))
 
@@ -124,6 +144,8 @@
 (lemma "θυρίς" (sense window (gloss "window" "windows") (why "A small opening, window (Genesis 8:6, Noah opened the window of the ark; Acts 20:9; 2 Corinthians 11:33). Kept apart from θύρα \"door\".")))
 
 (lemma "θυσία" (sense sacrifice (gloss "sacrifice" "sacrifices") (why "Sacrifice, offering (Genesis 4:3; Hebrews 11:4, Abel's sacrifice).")))
+
+(lemma "θυσιάζω" (sense make-sacrifice (verb "make sacrifice" "made sacrifice" "made sacrifice") (gloss "make sacrifice" "made sacrifice" "makes sacrifice" "making sacrifice") (why "(LXX, supplied.) To offer sacrifice, with the dative of the god (Exodus 22:20 Ὁ θυσιάζων θεοῖς). \"Make sacrifice\" because θύω has \"sacrifice\"; the noun θυσία \"sacrifice\" shows inside it.")))
 
 (lemma "θυσιαστήριον" (sense altar (gloss "altar" "altars") (why "Altar, the place of sacrifice (θυσία).")))
 

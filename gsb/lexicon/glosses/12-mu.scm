@@ -20,7 +20,7 @@
 
 (lemma "Μαθουσαλά"(sense name (gloss "Methuselah") (why "The Greek of Genesis 4:18 spells Cain's descendant exactly as Seth's descendant of 5:21 (Luke 3:37): Μαθουσαλά, \"Methuselah\". The Hebrew has two names (Methushael, Methuselah); we translate the Greek and note the difference.")))
 
-(lemma "μαῖα" (sense midwife (person) (gloss "midwife" "midwives") (why "(LXX, supplied.) A midwife (Genesis 35:17, Rachel's midwife; 38:28). The Hebrew word is the same as in Exodus 1:15-21.")))
+(lemma "μαῖα" (sense midwife (person) (plural "midwives") (gloss "midwife" "midwives") (why "(LXX, supplied.) A midwife (Genesis 35:17, Rachel's midwife; 38:28). The Hebrew word is the same as in Exodus 1:15-21.")))
 
 (lemma "Μαιήλ"(sense name (gloss "Mehujael") (why "(LXX, supplied.) Genesis 4:18, traditional English Mehujael.")))
 
@@ -50,12 +50,16 @@
 
 (lemma "Μαμφείν" (sense name (gloss "Muppim") (why "(LXX, supplied.) A son of Benjamin's line (Genesis 46:21), Greek Μαμφείν, standing where the Hebrew has Muppim; traditional English Muppim.")))
 
+(lemma "μάν" (sense manna (gloss "manna") (why "(LXX, supplied.) Indeclinable, the Hebrew man, the bread from heaven (Exodus 16:31-35). The Greek here transliterates the Hebrew as μάν; the New Testament has μάννα (John 6:31, 49; Hebrews 9:4). Traditional English \"manna\": English has no other word, so μάννα, when it is entered, will share it.")))
+
 (lemma "Μανασσῆ" (sense name (gloss "Manasseh") (why "Joseph's firstborn (Genesis 41:51; 46:20; 48:1-20), indeclinable; Swete spells Μανασσή and Μαννασσή. The same name as King Manasseh (Matthew 1:10) and the tribe (Revelation 7:6); traditional English Manasseh.")))
 (lemma "μανδραγόρας" (sense mandrake (gloss "mandrake" "mandrakes") (why "(LXX, supplied.) The mandrake, a plant whose fruit was thought to help conception (Genesis 30:14-16, μῆλα μανδραγόρου, Reuben's find).")))
 
 (lemma "μανθάνω" (sense learn (gloss "learn" "learned" "learns" "learning") (why "To learn, find out (Exodus 2:4 μαθεῖν τί τὸ ἀποβησόμενον αὐτῷ, to learn what would turn out for him; Matthew 9:13; Galatians 3:2). The verb of μαθητής \"disciple\".")))
 
 (lemma "Μαννάχαθ" (sense name (gloss "Manahath") (why "(LXX, supplied.) A son of Shobal the Horite (Genesis 36:23), Greek Μαννάχαθ; traditional English Manahath.")))
+
+(lemma "Μαριάμ" (sense name (gloss "Miriam") (why "Aaron and Moses' sister (Exodus 6:20; 15:20), Greek Μαριάμ; traditional English Miriam. The New Testament's Mary has the same Greek (Matthew 1:20; Luke 1:27): whether the two share one English (rule 8) is for the owner; the Old Testament keeps the traditional Miriam.")))
 
 (lemma "μάρσιππος"(sense sack (gloss "sack" "sacks") (why "(LXX, supplied.) A bag, sack (Genesis 43:12-44:12, the brothers' grain sacks with the silver and the goblet in them). Kept apart from σάκκος \"sackcloth\" and βαλλάντιον \"purse\" (Luke 10:4).")))
 
@@ -81,6 +85,8 @@
 
 (lemma "Μασσή" (sense name (gloss "Massa") (why "(LXX, supplied.) A son of Ishmael (Genesis 25:14); Greek Μασσή for the Hebrew Massa, traditional English Massa.")))
 
+(lemma "μαστιγόω" (sense scourge (gloss "scourge" "scourged" "scourges" "scourging") (why "To whip, scourge (Exodus 5:14, 16, the Israelite scribes beaten by Pharaoh's men; Matthew 10:17; John 19:1; Hebrews 12:6).")))
+
 (lemma "μαστός" (sense breast (gloss "breast" "breasts") (why "(LXX form supplied.) The breast that nurses (Genesis 49:25 εὐλογίας μαστῶν καὶ μήτρας; Luke 11:27; 23:29). στῆθος also has \"breast\"; στῆθος is the chest (Luke 18:13), and the owner may move it to \"chest\".")))
 
 (lemma "μάταιος" (sense vain (gloss "vain") (why "Empty, vain, futile (Exodus 20:7 ἐπὶ ματαίῳ \"upon [a] vain [thing]\"; 1 Corinthians 15:17).")))
@@ -88,7 +94,7 @@
 (lemma "Ματραείθ" (sense name (gloss "Matred") (why "(LXX, supplied.) Mother (in the Greek, father: θυγάτηρ Ματραεὶθ υἱοῦ Μεζοόβ) of Mehetabel, the wife of Hadar (Genesis 36:39), Greek Ματραείθ; traditional English Matred.")))
 
 (lemma "μάχαιρα"(sense knife (gloss "knife" "knives") (why "A large knife, a short sword. Here the knife of sacrifice (Genesis 22:6, 10). The weapon of the New Testament (Matthew 26:47-52) will need its own sense, apart from ῥομφαία \"sword\"."))
-  (sense short-sword (gloss "short sword" "short swords") (why "The blade as a weapon (Genesis 27:40 ἐπὶ τῇ μαχαίρῃ σου ζήσῃ, Esau living by it; Matthew 26:51-52; Ephesians 6:17). \"Short sword\", as the note at ῥομφαία proposes, keeps it apart from ῥομφαία \"sword\"; for the owner: whether the two should share \"sword\". Chosen by word override.")))
+  (sense short-sword (dative "with") (gloss "short sword" "short swords") (why "The blade as a weapon (Genesis 27:40 ἐπὶ τῇ μαχαίρῃ σου ζήσῃ, Esau living by it; Matthew 26:51-52; Ephesians 6:17). \"Short sword\", as the note at ῥομφαία proposes, keeps it apart from ῥομφαία \"sword\"; for the owner: whether the two should share \"sword\". Chosen by word override.")))
 
 (lemma "Μαχείρ" (sense name (gloss "Machir") (why "(LXX, supplied.) The son of Manasseh, father of Gilead (Genesis 46:20, one of the Septuagint's additions to the list), Greek Μαχείρ; traditional English Machir.")))
 
@@ -104,13 +110,17 @@
     (gloss "great" "greater")
     (why "Great, large. The comparative μείζων is \"greater\" (Genesis 4:13).")))
 
+(lemma "μέγεθος" (sense greatness (dative "by") (gloss "greatness") (why "Greatness, size (Exodus 15:16 μεγέθει βραχίονός σου, \"by greatness of your arm\"; Ephesians 1:19).")))
+
 (lemma "Μεζοόβ" (sense name (gloss "Mezahab") (why "(LXX, supplied.) Grandparent of Mehetabel, the wife of Hadar king of Edom (Genesis 36:39), Greek Μεζοόβ for the Hebrew Mezahab, the same name: traditional English Mezahab.")))
 
 (lemma "μεθύσκω"(sense get-drunk (voice active) (gloss "get drunk" "got drunk" "gotten drunk" "gets drunk" "getting drunk") (why "To make drunk; the passive, to get drunk (Genesis 9:21, Noah ἐμεθύσθη; Luke 12:45; Ephesians 5:18). The passive is rendered as the intransitive \"get drunk\".")))
 
 (lemma "μέλι" (sense honey (gloss "honey") (why "Honey (Genesis 43:11, among the gifts; Matthew 3:4; Revelation 10:9). (LXX form supplied.)")))
 
-(lemma "μέλλω" (sense be-about (verb "be about" "was about" "been about") (gloss "be about" "is about" "was about" "were about" "been about" "being about") (why "To be about to, be going to, with an infinitive (Genesis 25:22 Εἰ οὕτως μοι μέλλει γίνεσθαι, \"If thus to me it is about to come to be\"; Matthew 2:13; Romans 8:18).")))
+(lemma "μέλλω" (sense be-about (verb "be about" "was about" "been about") (gloss "be about" "is about" "are about" "am about" "was about" "were about" "been about" "being about") (why "To be about to, be going to, with an infinitive (Genesis 25:22 Εἰ οὕτως μοι μέλλει γίνεσθαι, \"If thus to me it is about to come to be\"; Matthew 2:13; Romans 8:18).")))
+
+(lemma "μέλος" (sense limb (gloss "limb" "limbs") (why "A limb, member of a body (Matthew 5:29-30; Romans 12:4-5; 1 Corinthians 12:12-27): τὸν κριὸν διχοτομήσεις κατὰ μέλη \"you will cut in two the ram according to limbs\" (Exodus 29:17). \"Limb\" in both testaments (\"the limbs of the body\"); the readable layer may prefer \"member\" in Paul.")))
 
 (lemma "Μελχά" (sense name (gloss "Milcah") (why "(LXX, supplied.) Haran's daughter, Nahor's wife (Genesis 11:29), traditional English Milcah.")))
 
@@ -124,9 +134,15 @@
 
 (lemma "Μεραρεί" (sense name (gloss "Merari") (why "(LXX, supplied.) A son of Levi (Genesis 46:11), Greek Μεραρεί; traditional English Merari.")))
 
+(lemma "μερίζω" (sense apportion (gloss "apportion" "apportioned" "apportions" "apportioning") (why "To divide into parts, share out, apportion (Exodus 15:9 μεριῶ σκῦλα, \"I will apportion spoils\"; Mark 3:24-26; 1 Corinthians 7:17). \"Apportion\" keeps it apart from διαιρέω \"divide\".")))
+
+(lemma "μεριμνάω" (sense care-for (verb "care for" "cared for" "cared for") (gloss "care for" "cared for" "cares for" "caring for") (why "To be anxious about, give one's care to (Exodus 5:9 μεριμνάτωσαν ταῦτα, καὶ μὴ μεριμνάτωσαν ἐν λόγοις κενοῖς, \"let them care for these\"; Matthew 6:25-34; 1 Corinthians 7:32-34). \"Care for\" takes the accusative object the Greek gives it.")))
+
 (lemma "μερίς" (sense portion (gloss "portion" "portions") (why "A part, portion, share (Genesis 14:24, they will take a portion; Luke 10:42; Colossians 1:12).")))
 
 (lemma "μέρος" (sense part (gloss "part" "parts") (why "A part, share (Genesis 47:24 τὸ πέμπτον μέρος, the fifth part to Pharaoh, τὰ τέσσερα μέρη the four parts; Luke 15:12; John 13:8; 1 Corinthians 13:9-12). \"Part\" keeps it apart from μερίς \"portion\"; the verb διαστέλλω's \"part\" is the same English spelling as another part of speech. (LXX form supplied.)")))
+
+(lemma "Μερρά" (sense name (gloss "Marah") (why "(LXX, supplied.) The place of bitter water (Exodus 15:23), Greek Μερρά, declined ἐκ Μέρρας; traditional English Marah.")))
 
 (lemma "μεσημβρία" (sense midday (genitive "at") (dative "at") (gloss "midday") (why "Midday, noon; also the south (Acts 8:26). The genitive of Genesis 18:1 is the time when, \"at midday\" (Acts 22:6 περὶ μεσημβρίαν).")))
 
@@ -141,9 +157,14 @@
     (why "ἐν μέσῳ, \"in [the] midst\" (Genesis 1:6; 2:9; 3:3, 8; Revelation 2:7; 22:2). \"Midst\" rather than \"middle\" to match the traditional New Testament phrase."))
   (sense in-middle
     (gloss "in middle")
-    (why "The neuter plural μέσα as an adverb, through the middle: Genesis 15:10 διεῖλεν αὐτὰ μέσα, \"divided them in middle\". No article is supplied (rule 16a).")))
+    (why "The neuter plural μέσα as an adverb, through the middle: Genesis 15:10 διεῖλεν αὐτὰ μέσα, \"divided them in middle\". No article is supplied (rule 16a)."))
+  (sense middle
+    (gloss "middle")
+    (why "The adjective, the middle of a time or place: Exodus 11:4 Περὶ μέσας νύκτας, \"Around middle nights\", about midnight (Matthew 25:6 μέσης δὲ νυκτός; Acts 26:13 ἡμέρας μέσης). Chosen by word override.")))
 
 (lemma "Μεσράιν" (sense name (gloss "Mizraim") (why "(LXX, supplied.) Ham's son (Genesis 10:6, 13), the ancestor of Egypt; Greek Μεσράιν, traditional English Mizraim. Elsewhere the Greek says Αἴγυπτος \"Egypt\".")))
+
+(lemma "μεσόω" (sense reach-middle (intransitive) (verb "reach middle" "reached middle" "reached middle") (gloss "reach middle" "reached middle" "reaches middle" "reaching middle") (why "To be in the middle, reach its middle, of a time (Exodus 12:29 μεσούσης τῆς νυκτός, \"the night reaching middle\", at midnight; John 7:14 τῆς ἑορτῆς μεσούσης). The verb of μέσος \"middle\".")))
 
 (lemma "μετά"
   (sense with
@@ -156,7 +177,11 @@
 
 (lemma "μεταβάλλω" (sense transform (gloss "transform" "transformed" "transforms" "transforming") (why "(LXX, supplied.) To turn into something else, change over: transitive, Exodus 7:20 μετέβαλεν πᾶν τὸ ὕδωρ ... εἰς αἷμα; intransitive, 7:17 μεταβαλεῖ εἰς αἷμα; Acts 28:6, middle, changing their minds. \"Transform\" because \"change\" is ἀλλάσσω's and \"turn\" στρέφω's.")))
 
+(lemma "μεταμέλομαι" (sense regret (gloss "regret" "regretted" "regrets" "regretting") (why "To regret, think better of it afterwards (Matthew 21:29, 32; 27:3; 2 Corinthians 7:8). Also the impersonal active μεταμελεῖ τινι, \"it is a regret to someone\" (Exodus 13:17, μή ποτε μεταμελήσῃ τῷ λαῷ).")))
+
 (lemma "μεταπέμπω" (sense send-for (gloss "send for" "sent for" "sends for" "sending for") (why "Middle: to send for, summon (Genesis 27:45 ἀποστείλασα μεταπέμψομαί σε ἐκεῖθεν; Acts 10:5, 22; 24:24). The middle is rendered active. (LXX form supplied.)")))
+
+(lemma "μεταστρέφω" (sense turn-about (verb "turn about" "turned about" "turned about") (gloss "turn about" "turned about" "turns about" "turning about") (why "To turn about, turn to the opposite, change (Exodus 14:5, μετεστράφη ἡ καρδία Φαραώ, Pharaoh's heart was turned about; Acts 2:20; Galatians 1:7). \"Turn\" is στρέφω and \"turn around\" περιστρέφω.")))
 
 (lemma "μετατίθημι" (sense transfer (verb "transfer" "transferred" "transferred") (gloss "transfer" "transferred" "transfers" "transferring") (why "To move from one place to another, transfer (Genesis 5:24, God transferred Enoch; Hebrews 11:5 quotes it, where the KJV has \"translated\"; Acts 7:16).")))
 
@@ -164,7 +189,11 @@
 
 (lemma "Μετοδιήλ" (sense name (gloss "Magdiel") (why "(LXX, supplied.) A chief of Edom (Genesis 36:43); Swete's Μετοδιήλ is a variant spelling of the Hebrew Magdiel, the same name, so the traditional English Magdiel (rule 8).")))
 
+(lemma "μετρέω" (sense measure (gloss "measure" "measured" "measures" "measuring") (why "To measure (Exodus 16:18, measuring with the omer; Matthew 7:2; Revelation 11:1). The verb of μέτρον \"measure\", sharing its English deliberately.")))
+
 (lemma "μέτρον"(sense measure (gloss "measure" "measures") (why "A measure (Genesis 18:6 τρία μέτρα σεμιδάλεως \"three measures of fine flour\", as Matthew 13:33 has σάτα τρία; Matthew 7:2).")))
+
+(lemma "μέτωπον" (sense forehead (gloss "forehead" "foreheads") (why "The forehead (Revelation 7:3; 13:16; 22:4): the gold plate ἐπὶ τοῦ μετώπου Ἀαρών \"on the forehead of Aaron\" (Exodus 28:38).")))
 
 (lemma "μή"
   (sense not
@@ -185,7 +214,8 @@
 (lemma "μηδέ" (sense nor (gloss "nor") (why "μή plus δέ: and not, nor, joining a further negative (Genesis 21:23 μὴ ἀδικήσειν με μηδὲ τὸ σπέρμα μου; 22:12; Matthew 6:25). It shares \"nor\" with οὐδέ and οὔτε, the same word with the other negative.")))
 
 (lemma "μηδείς" (sense nothing (gloss "nothing") (why "No one, nothing: the neuter μηδέν, \"nothing\" (Genesis 22:12 μηδὲ ποιήσῃς αὐτῷ μηδέν; Luke 3:13; Mark 5:26). The masculine \"no one\" will need its own sense."))
-  (sense anything (gloss "anything") (why "The neuter μηδέν after another negative, which it strengthens in Greek (Genesis 19:8 μὴ ποιήσητε μηδὲν ἄδικον): English cannot stack the negatives without reversing the sense, so \"do not do anything\". Chosen by word override.")))
+  (sense anything (gloss "anything") (why "The neuter μηδέν after another negative, which it strengthens in Greek (Genesis 19:8 μὴ ποιήσητε μηδὲν ἄδικον): English cannot stack the negatives without reversing the sense, so \"do not do anything\". Chosen by word override."))
+  (sense no-one (gloss "no one") (why "The masculine μηδείς, no person (Exodus 22:10 καὶ μηδεὶς γνῷ, \"and no one know\"; Luke 3:14; Acts 9:7). \"Nothing\" would deny a thing, not a witness. Shares \"no one\" with οὐδείς, the same word with the other negative, as μηδέ shares \"nor\" with οὐδέ. Chosen by word override.")))
 
 (lemma "μῆκος" (sense length (gloss "length") (why "Length (Genesis 6:15; Revelation 21:16).")))
 
@@ -224,7 +254,15 @@
 
 (lemma "μισθός" (sense wage (gloss "wage" "wages") (why "Pay, wage, reward (Genesis 15:1 ὁ μισθός σου πολύς; Matthew 5:12; Luke 10:7). \"Wage\" for the literal layer, which keeps the idea of pay; the readable layer may say \"reward\".")))
 
+(lemma "μισθωτός" (sense hireling (person) (gloss "hireling" "hirelings") (why "Hired; as a noun, a hired man, hireling (Exodus 12:45 πάροικος ἢ μισθωτὸς οὐκ ἔδεται ἀπ’ αὐτοῦ; Mark 1:20; John 10:12-13). From μισθόω \"hire\".")))
+
+(lemma "μίτρα" (sense miter (gloss "miter" "miters") (why "(LXX, supplied.) A headband or headdress, the miter (English \"miter\" comes from this word): the high priest's headdress that carries the gold plate, ἐπὶ τῆς μίτρας \"on the miter\" (Exodus 28:37; 29:6; 36:37-38). Exodus also calls Aaron's headdress κίδαρις \"turban\" (28:4, 39), so the two Greek words keep two English words. Use this English in every tabernacle chapter.")))
+
+(lemma "μνῆμα" (sense sepulcher (gloss "sepulcher" "sepulchers") (why "A memorial, a tomb (Exodus 14:11, παρὰ τὸ μὴ ὑπάρχειν μνήματα ἐν γῇ Αἰγύπτῳ; Mark 5:3, 5; Luke 23:53; 24:1). \"Tomb\" is μνημεῖον and \"grave\" τάφος, so \"sepulcher\".")))
+
 (lemma "μνημεῖον" (sense tomb (gloss "tomb" "tombs") (why "A memorial, and so a tomb (Genesis 23:6, 9; Matthew 27:52-60; John 11:17). \"Tomb\" keeps it apart from τάφος \"grave\" and μνημόσυνον \"memorial\".")))
+
+(lemma "μνημονεύω" (sense keep-in-mind (genitive "") (verb "keep in mind" "kept in mind" "kept in mind") (gloss "keep in mind" "kept in mind" "keeps in mind" "keeping in mind") (why "To keep in memory, be mindful of, with the accusative or the genitive (Exodus 13:3, Μνημονεύετε τὴν ἡμέραν ταύτην; Luke 17:32; Hebrews 13:7). \"Remember\" is μιμνῄσκω; μνημόσυνον \"memorial\" is its kin.")))
 
 (lemma "μνημόσυνον" (sense memorial (gloss "memorial" "memorials") (why "A remembrance, memorial (Exodus 3:15, the name of God μνημόσυνον γενεῶν γενεαῖς; Matthew 26:13; Mark 14:9; Acts 10:4). (LXX form supplied.)")))
 
@@ -233,6 +271,8 @@
 (lemma "Μοζέ" (sense name (gloss "Mizzah") (why "(LXX, supplied.) A son of Reuel, Esau's grandson, and a chief (Genesis 36:13, 17), Greek Μοζέ; traditional English Mizzah.")))
 
 (lemma "μοιχεύω"(sense commit-adultery (gloss "commit adultery" "committed adultery" "commits adultery" "committing adultery") (why "To commit adultery.")))
+
+(lemma "μόλιβος" (sense lead (gloss "lead") (why "(LXX, supplied.) The metal lead (Exodus 15:10, they sank like lead in violent water).")))
 
 (lemma "μολύνω" (sense stain (gloss "stain" "stained" "stains" "staining") (why "To stain, soil, defile (Genesis 37:31, ἐμόλυναν τὸν χιτῶνα αἵματι, \"they stained the tunic with blood\"; 1 Corinthians 8:7; Revelation 3:4; 14:4). \"Stain\" keeps it apart from μιαίνω \"defile\".")))
 
@@ -246,6 +286,8 @@
     (gloss "only")
     (why "The neuter μόνον as an adverb, only, just (Genesis 27:13 μόνον ὑπάκουσον τῆς φωνῆς μου; 24:8; Matthew 9:21; Galatians 2:10). Chosen in the form row for the adverb.")))
 
+(lemma "Μοολεί" (sense name (gloss "Mahli") (why "(LXX, supplied.) A son of Merari (Exodus 6:19), Greek Μοολεί; traditional English Mahli.")))
+
 (lemma "Μόσοχ" (sense name (gloss "Meshech") (why "(LXX, supplied.) Japheth's son (Genesis 10:2), traditional English Meshech. In 10:23 the Greek gives Μόσοχ again as Aram's son, where the Hebrew has Mash; the English follows the Greek name.")))
 
 (lemma "μοσχάριον" (sense young-calf (gloss "young calf" "young calves") (why "(LXX, supplied.) The diminutive of μόσχος \"calf\" (Genesis 18:7-8). \"Young calf\" keeps both the link and the diminutive.")))
@@ -258,7 +300,17 @@
 
 (lemma "μόχθος" (sense hardship (gloss "hardship" "hardships") (why "Toil, hardship, labor that wears (Exodus 18:8, πάντα τὸν μόχθον τὸν γενόμενον αὐτοῖς ἐν τῇ ὁδῷ; 2 Corinthians 11:27; 1 Thessalonians 2:9). \"Hardship\" because κόπος has \"toil\". (LXX form supplied.)")))
 
+(lemma "μοχλός" (sense bar (gloss "bar" "bars") (why "(LXX, supplied.) A bar, bolt: the wooden bars run through gold rings along the columns of the tabernacle (Exodus 26:26-29; 35-39); also the bars of gates (Judges 16:3). Tabernacle term: always \"bar\", kept apart from ἀναφορεύς and φορεύς, the poles for carrying.")))
+
+(lemma "μυρεψικός" (sense perfumers (gloss "perfumer's") (why "(LXX, supplied.) Of the perfumer, prepared by perfumer's art (Exodus 30:25 μύρον μυρεψικόν; 30:35 θυμίαμα μυρεψικόν). Adjective of μυρεψός \"perfumer\"; \"perfumer's\" keeps the link.")))
+
+(lemma "μυρεψός" (sense perfumer (person) (gloss "perfumer" "perfumers") (why "(LXX, supplied.) One who boils perfumes, a perfumer (Exodus 30:25 τέχνῃ μυρεψοῦ; 30:35 ἔργον μυρεψοῦ). From μύρον \"perfume\" + ἕψω \"boil\"; \"perfumer\" keeps the link with μύρον.")))
+
+(lemma "μύλος" (sense mill (gloss "mill" "mills") (why "A mill, millstone (Exodus 11:5 τῆς θεραπαίνης τῆς παρὰ τὸν μύλον, the handmaid at the mill, the lowest household task; Matthew 18:6; 24:41; Revelation 18:21-22).")))
+
 (lemma "μυριάς" (sense myriad (gloss "myriad" "myriads") (why "Ten thousand, a myriad (Genesis 24:60, εἰς χιλιάδας μυριάδων, \"into thousands of myriads\"; Luke 12:1; Revelation 5:11).")))
+
+(lemma "μύρον" (sense perfume (gloss "perfume" "perfumes") (why "Perfumed oil, perfume (Exodus 30:25 μύρον μυρεψικόν, the holy anointing oil; Matthew 26:7; John 12:3, μύρου νάρδου; Luke 7:37-38). \"Perfume\" keeps it apart from ἔλαιον \"oil\", χρῖσμα and ἄλειμμα \"salve\", and links μυρεψός \"perfumer\". (LXX form supplied.)")))
 
 (lemma "Μωάβ" (sense name (gloss "Moab") (why "(LXX, supplied.) The elder daughter's son (Genesis 19:37) and the people and land named after him; traditional English Moab.")))
 

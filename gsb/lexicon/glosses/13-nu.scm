@@ -2,15 +2,23 @@
 ;; in Greek alphabetical order. Format: gsb/translation/README.md; generator
 ;; fields: gsb/literal/README.md. Checked by `make gsb/lint`.
 
+(lemma "Ναασσών" (sense name (gloss "Nahshon") (why "Amminadab's son, brother of Elisheba (Exodus 6:23); Matthew 1:4 and Luke 3:32 Ναασσών, the same man (KJV Naasson). Traditional English Nahshon.")))
+
 (lemma "Ναβαιώθ" (sense name (gloss "Nebaioth") (why "(LXX, supplied.) Ishmael's firstborn (Genesis 25:13; 28:9); Greek Ναβαιώθ, traditional English Nebaioth.")))
 
 (lemma "Ναβδεήλ" (sense name (gloss "Adbeel") (why "(LXX, supplied.) A son of Ishmael (Genesis 25:13), Greek Ναβδεήλ for the Hebrew Adbeel, traditional English Adbeel. The Greek also lists a Ναβδεήλ among Dedan's sons (25:3), where the Hebrew has none; one Greek name, one English.")))
+
+(lemma "Ναδάβ" (sense name (gloss "Nadab") (why "(LXX, supplied.) Aaron's firstborn (Exodus 6:23), Greek Ναδάβ; traditional English Nadab.")))
 
 (lemma "ναί" (sense yes (gloss "yes") (why "Yes, truly (Genesis 17:19; Matthew 5:37; Revelation 22:20).")))
 
 (lemma "Ναΐδ" (sense name (gloss "Nod") (why "(LXX, supplied.) The land of Genesis 4:16: Greek Ναΐδ, traditional English \"Nod\".")))
 
 (lemma "ναρκάω" (sense grow-numb (verb "grow numb" "grew numb" "grown numb") (gloss "grow numb" "grew numb" "grows numb" "growing numb" "grown numb") (why "(LXX, supplied.) To grow numb, stiff (Genesis 32:25, 32 ἐνάρκησεν τὸ πλάτος τοῦ μηροῦ Ἰακώβ, after the wrestling).")))
+
+(lemma "Ναυή" (sense name (gloss "Nun") (why "(LXX, supplied.) Joshua's father (Exodus 33:11, Ἰησοῦς υἱὸς Ναυή), Greek Ναυή, indeclinable; the Septuagint's form of the Hebrew Nun throughout (likely a scribal ΝΑΥΗ for ΝΑΥΝ). The same man, so the traditional English Nun (rule 8), as Ναΐδ is Nod.")))
+
+(lemma "Νάφεκ"(sense name (gloss "Nepheg") (why "(LXX, supplied.) A son of Izhar (Exodus 6:21), Greek Νάφεκ; traditional English Nepheg.")))
 
 (lemma "Ναφές" (sense name (gloss "Naphish") (why "(LXX, supplied.) A son of Ishmael (Genesis 25:15), traditional English Naphish.")))
 
@@ -43,9 +51,15 @@
 
 (lemma "Νεφθαλιείμ" (sense name (person) (plural "Naphtuhim") (gloss "Naphtuhim") (why "(LXX, supplied.) A people descended from Mizraim (Genesis 10:13), Greek Νεφθαλιείμ; traditional English Naphtuhim. The Greek spelling recalls Naphtali, but it is not that name.")))
 
+(lemma "νεφρός" (sense kidney (gloss "kidney" "kidneys") (why "A kidney (Revelation 2:23, where the kidneys stand for the inner self): τοὺς δύο νεφροὺς καὶ τὸ στέαρ τὸ ἐπ’ αὐτῶν \"the two kidneys and the fat upon them\" (Exodus 29:13, 22; Leviticus passim). The literal layer keeps \"kidneys\" in both testaments.")))
+
 (lemma "νή" (sense by (gloss "by") (why "The particle of an oath, \"by\", with the accusative of what is sworn by (Genesis 42:15-16 νὴ τὴν ὑγίαν Φαραώ, \"by the health of Pharaoh\"; 1 Corinthians 15:31). It shares \"by\" with ὑπό (agent) and κατά (oath): English has no other word for it.")))
 
+(lemma "νήθω" (sense spin (verb "spin" "spun" "spun") (gloss "spin" "spun" "spins" "spinning") (why "To spin thread (Matthew 6:28; Luke 12:27; Exodus 26:31, βύσσου νενησμένης \"of fine linen spun\"; 35:25-26). Kept apart from κλώθω \"twist\" and διανήθω \"spin through\".")))
+
 (lemma "νῆσος" (sense island (gloss "island" "islands") (why "An island; in the Septuagint also a coastland (Genesis 10:5, 32, νῆσοι τῶν ἐθνῶν; Acts 13:6; Revelation 1:9).")))
+
+(lemma "νηστός" (sense spun (gloss "spun") (why "(LXX, supplied.) Spun, of thread (Exodus 31:4 τὸ κόκκινον τὸ νηστόν, \"the spun scarlet\"; 35:6 κόκκινον διπλοῦν νηστόν, from νέω \"spin\"). Shares the English participle \"spun\" with διανήθω \"spin through\" only inside that verb's phrase.")))
 
 (lemma "Νινευή" (sense name (gloss "Nineveh") (why "(LXX, supplied.) The city built by Asshur (Genesis 10:11-12), traditional English Nineveh (compare Νινευῖται, Luke 11:30-32).")))
 
@@ -59,9 +73,15 @@
 
 (lemma "νομή" (sense pasture (gloss "pasture" "pastures") (why "Pasture, grazing ground (Genesis 47:4 οὐ γάρ ἐστιν νομὴ τοῖς κτήνεσιν, \"for there is not pasture for the livestock\"; John 10:9). The spreading of a sore (2 Timothy 2:17) will be its own sense. (LXX form supplied.)")))
 
+(lemma "νομοθετέω" (sense legislate (gloss "legislate" "legislated" "legislates" "legislating") (why "(LXX, supplied.) To lay down law (νόμος + τίθημι), legislate: the stone tablets, the law and the commandments ἃς ἔγραψα νομοθετῆσαι αὐτοῖς, \"which I wrote to legislate to them\" (Exodus 24:12); Hebrews 7:11; 8:6.")))
+
 (lemma "νόμος" (sense law (gloss "law" "laws") (why "Law (Exodus 18:16, 20, τὰ προστάγματα τοῦ θεοῦ καὶ τὸν νόμον αὐτοῦ; Matthew 5:17; Romans 7:12). Kept apart from πρόσταγμα \"ordinance\" and δικαίωμα \"statute\". (LXX form supplied.)")))
 
+(lemma "νόσος" (sense disease (gloss "disease" "diseases") (why "Disease, sickness (Exodus 15:26, every disease brought on the Egyptians; Matthew 4:23-24).")))
+
 (lemma "νοσσιά" (sense nest (gloss "nest" "nests") (why "(LXX, supplied.) A nest, a brood (Genesis 6:14, the ark made in \"nests\", compartments). The literal layer keeps \"nests\".")))
+
+(lemma "νότος" (sense south (gloss "south") (why "The south wind, the south (Exodus 14:21, ἐν ἀνέμῳ νότῳ βιαίῳ, a south wind; Luke 12:55; Acts 27:13; Matthew 12:42, the queen of the south).")))
 
 (lemma "νοῦς" (sense intellect (gloss "intellect" "intellects") (why "The mind as the faculty of perceiving and judging, intellect (Exodus 7:23, Pharaoh did not apply his intellect even to this; Luke 24:45; Romans 12:2; 1 Corinthians 2:16). \"Intellect\" because \"mind\" is διάνοια's, as διάνοια's entry foresaw.")))
 

@@ -6,13 +6,20 @@
   (sense than (gloss "than") (why "After a comparative or μᾶλλον: than (Genesis 19:9 σὲ κακώσομεν μᾶλλον ἢ ἐκείνους; John 3:19; Acts 5:29). Chosen by word override."))
   (sense alla-phrase (gloss "") (why "In ἀλλ’ ἤ, \"but rather, except\" (Genesis 19:2 Οὐχί, ἀλλ’ ἢ ἐν τῇ πλατείᾳ καταλύσομεν; 2 Corinthians 1:13): the phrase (gsb/literal/phrases.scm) gives its English to ἀλλά, and ἤ is aligned with it and left unrendered.")))
 
+(lemma "ἦ" (sense verily (gloss "verily") (why "(LXX, supplied.) The affirming particle, in oaths with μήν: ἦ μήν, \"verily surely\" (Exodus 22:8, 11, the keeper swears ἦ μὴν μὴ αὐτὸν πεπονηρεῦσθαι). Not ἤ \"or\". \"Verily\" because ἀληθῶς has \"truly\" and μήν \"surely\".")))
+
 (lemma "ἡγεμονία" (sense chiefdom (gloss "chiefdom" "chiefdoms") (why "(LXX form supplied.) The office or domain of a ἡγεμών, here of the Horite chiefs (Genesis 36:30 ἐν ταῖς ἡγεμονίαις αὐτῶν); Luke 3:1, of a governorship. \"Chiefdom\" keeps it with ἡγεμών \"chief\".")))
 
 (lemma "ἡγεμών" (sense chief (person) (apposition) (gloss "chief" "chiefs") (why "(LXX sense.) A leader, chief: the chiefs (Hebrew alluph) of Edom and of the Horites (Genesis 36:15-43). The New Testament uses it of a Roman governor (Matthew 27:2); a \"governor\" sense may be added when met. Kept apart from ἄρχων \"ruler\".")))
 
-(lemma "ἡγέομαι" (sense govern (genitive "") (gloss "govern" "governed" "governs" "governing") (why "(LXX form supplied.) To lead, be chief over, govern, with the genitive (Genesis 49:10 ἡγούμενος ἐκ τῶν μηρῶν αὐτοῦ, quoted in Matthew 2:6; 49:26 ὧν ἡγήσατο ἀδελφῶν; Hebrews 13:7, 17). \"Govern\" because ἄγω and its compounds have \"lead\". The New Testament's \"consider, regard\" (Philippians 2:3, 6) will be its own sense.")))
+(lemma "ἡγέομαι" (sense govern (genitive "") (gloss "govern" "governed" "governs" "governing") (why "(LXX form supplied.) To lead, be chief over, govern, with the genitive (Genesis 49:10 ἡγούμενος ἐκ τῶν μηρῶν αὐτοῦ, quoted in Matthew 2:6; 49:26 ὧν ἡγήσατο ἀδελφῶν; Hebrews 13:7, 17). \"Govern\" because ἄγω and its compounds have \"lead\". The New Testament's \"consider, regard\" (Philippians 2:3, 6) will be its own sense."))
+  (sense go-ahead (genitive "of") (verb "go ahead" "went ahead" "gone ahead") (gloss "go ahead" "went ahead" "gone ahead" "goes ahead" "going ahead") (why "(LXX, supplied.) The root sense, to go ahead of, lead the way for, with the genitive (Exodus 13:21, ὁ δὲ θεὸς ἡγεῖτο αὐτῶν, in the column of cloud by day and of fire by night). \"Lead\" is ἄγω's. Chosen by the form row.")))
 
 (lemma "ἤδη"(sense already (gloss "already") (why "Already, now by this time (Genesis 27:36 ἤδη δεύτερον τοῦτο; John 4:35). (LXX form supplied.)")))
+
+(lemma "ἥδυσμα" (sense spice (gloss "spice" "spices") (why "(LXX, supplied.) What sweetens, a spice, aromatic (Exodus 30:23 λάβε ἡδύσματα; 30:34; 35:8, 28). Tabernacle term: always \"spice\"; kept apart from ἡδυσμός \"sweetening\". ἄρωμα (Mark 16:1), when it comes, needs another word.")))
+
+(lemma "ἡδυσμός" (sense sweetening (gloss "sweetening") (why "(LXX, supplied.) A sweetening, seasoning, from ἡδύνω (Exodus 30:34 χαλβάνην ἡδυσμοῦ, \"galbanum of sweetening\"). Kept apart from ἥδυσμα \"spice\", of the same root.")))
 
 (lemma "ἥκω" (sense come (gloss "come" "came" "comes" "coming") (why "To have come, come (Exodus 20:24; John 8:42). Shares \"come\" with ἔρχομαι until the two are separated.")))
 
@@ -36,6 +43,8 @@
 
 (lemma "ἡμίονος" (sense mule (gloss "mule" "mules") (why "(LXX, supplied.) A mule, half-donkey (Genesis 12:16).")))
 
+(lemma "ἥμισυς" (sense half (gloss "half" "halves") (why "Half; τὸ ἥμισυ \"the half\" (Exodus 24:6, half the blood; Mark 6:23; Luke 19:8), and in measures καὶ ἡμίσους \"and half\" (Exodus 25:10, two cubits and half). It shares \"half\" with διχοτόμημα, a half cut off: English has one word.")))
+
 (lemma "ἡνίκα" (sense when (gloss "when") (why "At the time when, when (Genesis 6:1; 2 Corinthians 3:15-16, quoting Exodus 34:34). It shares \"when\" with ὅτε: both are plain temporal \"when\", and the fuller \"at the time when\" would put an unbracketed \"the\" in the text; the alignment shows which Greek word stands behind it.")))
 
 (lemma "ἧπαρ" (sense liver (gloss "liver" "livers") (why "(LXX, supplied.) The liver, seat of the passions (Genesis 49:6 μὴ ἐρίσαι τὰ ἥπατά μου, \"may my livers not strive\").")))
@@ -47,3 +56,5 @@
 (lemma "Ἠσαῦ" (sense name (gloss "Esau") (why "Isaac's elder son, Jacob's twin (Genesis 25:25-36:43; Romans 9:13; Hebrews 11:20; 12:16). Greek Ἠσαῦ (Swete prints the grave Ἠσαὺ before another word), traditional English Esau, the same in both testaments.")))
 
 (lemma "ἡσυχάζω" (sense be-still (gloss "be still" "was still" "were still" "is still") (why "To be quiet, be still, rest (Luke 23:56). Genesis 4:7 ἡσύχασον, \"be still\".")))
+
+(lemma "ἠχέω" (sense resound (intransitive) (gloss "resound" "resounded" "resounds" "resounding") (why "To sound, ring out, resound (Exodus 19:16, φωνὴ τῆς σάλπιγγος ἤχει μέγα, \"[the] voice of the trumpet was resounding great\"; 1 Corinthians 13:1, χαλκὸς ἠχῶν). (LXX form supplied.)")))
