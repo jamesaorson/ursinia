@@ -356,7 +356,10 @@ common 28:24-25) leave it unmarked.
   U+0374 GREEK NUMERAL SIGN) right after the letters: `ιβʹ`. Not an apostrophe
   `'`, not the tonos `΄` (U+0384); the checker refuses those, and refuses `ʹ`
   anywhere but after a Greek letter. Type it with `printf 'ʹ'` or copy it
-  from here.
+  from here. **Thousands** carry a keraia at the lower left (`͵α` = 1000,
+  2 Esdras 2:37, leaf 184): write U+0375 GREEK LOWER NUMERAL SIGN `͵` right
+  before the letter, `͵α`; Swete prints the stigma (6) as `ς` (`͵αςʹ` = 1006,
+  2 Esdras 17:41), kept as printed.
 - A page that starts mid-verse simply starts with the text; one that starts
   mid-word starts with the word's second half (the previous page ends in `-`).
 - Wide spaces inside a line (Swete's section breaks) are a single space; the

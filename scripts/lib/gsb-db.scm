@@ -599,7 +599,9 @@ layer from there and its readable layer and notes from gsb/translation/."
 
 (define (build-database! out)
   "Build the database file OUT from gsb/ (replacing it). Raises on failure."
-  (let ((tmp (string-append out ".tmp")))
+  ;; The pid keeps two builds running at once (several agents, make serve) from
+  ;; writing the same temporary file.
+  (let ((tmp (string-append out ".tmp." (number->string (getpid)))))
     (when (file-exists? tmp) (delete-file tmp))
     (let mk ((d (dirname out)))
       (unless (file-exists? d) (mk (dirname d)) (mkdir d)))

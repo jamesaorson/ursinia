@@ -55,7 +55,9 @@ leaf numbers here; the images and OCR layers stay out of the repo
   U+0387), question mark `;` (U+003B, likewise from U+037E), elision mark `᾽`
   (U+1FBD, e.g. `καθ᾽`), the keraia of a letter numeral `ʹ` (U+02B9, what NFC
   makes of U+0374 GREEK NUMERAL SIGN; allowed only right after the letters:
-  `ιβʹ` = 12, Exod 15:27).
+  `ιβʹ` = 12, Exod 15:27), and the lower keraia of thousands `͵` (U+0375,
+  right before its letter: `͵α` = 1000, 2 Esdras 2:37; Swete's stigma prints
+  as `ς`, `͵αςʹ` = 1006, 2 Esdras 17:41).
 - **Square brackets are kept.** In Genesis Swete prints the text of Codex
   Alexandrinus and brackets the letters that have perished in it
   (apparatus: "quae uncis incl sunt perier in A"), e.g. `πετόμεν[α]`. Brackets
@@ -165,6 +167,13 @@ leaf numbers here; the images and OCR layers stay out of the repo
     `(1)` follows), 11:3a/b, 11:25a/b. Common verses with no number printed
     (lacking in B, or only in the lettered supplements): 4:20, 5:5-6, 6:11-13, 6:32, 7:22, 7:31, 8:12-13, 9:23-25,
     11:39, 12:2, 12:17, 13:27, 14:1-20, 15:6, 15:32, 21:11-12, 22:47-50.
+  - *4 Kingdoms*: his 11:21 is `21 (1) (XII)` and his 12:1-21 are `(2)`-`(22)`
+    (leaf 800; Hebrew 12:1 = English 11:21, 12:2-22 = 12:1-21). His own
+    lettered 1:18a-d (Greek-only) stay `{18a}`-`{18d}`. In-text numbers: `(4)`
+    before his 1:4, `(6)` before his 4:6 and `(3)` before his 25:3 start the
+    common verse there; at 15:19 his 19 stands three words before `(19)`, so
+    those words run on with 15:18; at 25:10 only `(10)` is printed (no own 10,
+    `{11!}` follows).
   - *A Swete number printed twice in a chapter*: 2 Kgdms 23 prints 29, then 31
     (no 30: apparatus "30 om B"), and after 39 prints 30 and 31 again (leaves
     697-698). Encoded `{31!}{=23:31a}` ... `{30!}` ... `{31!!}{=23:31b}`; the

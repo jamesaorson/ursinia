@@ -188,9 +188,17 @@
    (if notes? (format #f "<a class=\"nl\" href=\"#~a-n\">note</a>" anchor) "")
    "</div>"))
 
+;; #<slug>-<chapter>[-<verse>]; a lettered chapter (Esther's additions,
+;; chapter "A") is lowercased: #esther-a-1.
+(define (chapter-anchor slug chapter) (string-append slug "-" (string-downcase chapter)))
+(define (verse-anchor slug chapter v) (string-append (chapter-anchor slug chapter) "-" (v-verse v)))
+(define (chapter-title book chapter)
+  (string-append (book-field book 'english)
+                 (if (string->number chapter) " " ", addition ") chapter))
+
 (define (verse-html slug v trans verse-notes)
   (let* ((ref (v-ref v))
-         (anchor (string-append slug "-" (v-chapter v) "-" (v-verse v)))
+         (anchor (verse-anchor slug (v-chapter v) v))
          (t (hash-ref trans ref))
          (tr-verse? (every (lambda (w) (member "tr" (eighth w))) (v-words v))))
     (string-append
@@ -203,25 +211,41 @@
 (define (chapters-of verses)
   "VERSES grouped by chapter: a list of (chapter . verses), chapters in order of
 first appearance, verses in printed order. A verse printed out of order across
-a chapter boundary joins its own chapter rather than starting a second one."
-  (let ((groups (make-hash-table)) (order '()))
+a chapter boundary joins its own chapter rather than starting a second one,
+except after a lettered chapter (Esther's additions: 3:1-13, B, 3:14-15): the
+chapter it interrupted then continues as a second group of the same chapter."
+  ;; Groups are keyed (chapter . n): n is 0 for a chapter's first group, the
+  ;; group count for a continuation.
+  (let ((groups (make-hash-table)) (order '()) (prev #f))
     (for-each (lambda (v)
-                (let ((c (v-chapter v)))
-                  (unless (hash-ref groups c) (set! order (cons c order)))
-                  (hash-set! groups c (cons v (hash-ref groups c '())))))
+                (let* ((c (v-chapter v))
+                       (key (cond ((and prev (equal? (car prev) c)) prev)
+                                  ((and prev (not (string->number (car prev))) (hash-ref groups (cons c 0)))
+                                   (cons c (length order)))
+                                  (else (cons c 0)))))
+                  (unless (hash-ref groups key) (set! order (cons key order)))
+                  (hash-set! groups key (cons v (hash-ref groups key '())))
+                  (set! prev key)))
               verses)
-    (map (lambda (c) (cons c (reverse (hash-ref groups c)))) (reverse order))))
+    (map (lambda (k) (cons (car k) (reverse (hash-ref groups k)))) (reverse order))))
 
-(define (chapter-notes-html slug book chapter chapter-verses notes)
+(define (continuations groups)
+  "For each (chapter . verses) of GROUPS, #t when it continues a chapter already given."
+  (let seen ((cs (map car groups)) (before '()))
+    (if (null? cs) '() (cons (and (member (car cs) before) #t) (seen (cdr cs) (cons (car cs) before))))))
+
+(define* (chapter-notes-html slug book chapter chapter-verses notes #:optional continued?)
+  "CONTINUED?: the second group of a chapter (after a lettered one): its verse
+notes only, under its own id."
   (match notes
     ((_ chapter-notes verse-notes)
-     (let* ((cnotes (hash-ref chapter-notes (string-append (book-field book 'id) "." chapter) '()))
+     (let* ((cnotes (if continued? '() (hash-ref chapter-notes (string-append (book-field book 'id) "." chapter) '())))
             (vnotes (filter-map (lambda (v) (let ((ns (hash-ref verse-notes (v-ref v) '()))) (and (pair? ns) (cons v ns))))
                                 chapter-verses)))
        (if (and (null? cnotes) (null? vnotes))
            ""
            (string-append
-            "<details class=\"notes\" id=\"" slug "-" chapter "-notes\"><summary>Translation notes</summary>"
+            "<details class=\"notes\" id=\"" (chapter-anchor slug chapter) (if continued? "-notes-2" "-notes") "\"><summary>Translation notes</summary>"
             (string-concatenate (map md cnotes))
             (if (null? vnotes)
                 ""
@@ -230,7 +254,7 @@ a chapter boundary joins its own chapter rather than starting a second one."
                  (string-concatenate
                   (map (match-lambda
                          ((v . ns)
-                          (let ((anchor (string-append slug "-" chapter "-" (v-verse v))))
+                          (let ((anchor (verse-anchor slug chapter v)))
                             (string-append
                              "<dt id=\"" anchor "-n\"><a href=\"#" anchor "\">" chapter ":" (v-verse v) "</a></dt>"
                              (string-concatenate
@@ -263,7 +287,7 @@ a chapter boundary joins its own chapter rather than starting a second one."
       ;; A Swete book is partial unless books.tsv records its chapter total
       ;; and every chapter has a table (blank total: always partial).
       ((string=? (book-field book 'testament) "OT")
-       (let ((chapters (map car (chapters-of verses)))
+       (let ((chapters (delete-duplicates (map car (chapters-of verses))))
              (total (string->number (book-field book 'chapters))))
          (if (and total (>= (length chapters) total))
              ""
@@ -289,21 +313,27 @@ a chapter boundary joins its own chapter rather than starting a second one."
                         (string-concatenate (map md book-notes)) "</details>"))
      (if (null? chapters) ""
          (string-append "<p class=\"chs\">"
-                        (string-join (map (lambda (c) (format #f "<a href=\"#~a-~a\">~a</a>" slug (car c) (car c))) chapters) " ")
+                        (string-join (map (lambda (c) (format #f "<a href=\"#~a\">~a</a>" (chapter-anchor slug c) c))
+                                          (delete-duplicates (map car chapters))) " ")
                         "</p>"))
      (string-concatenate
-      (map (match-lambda
-             ((chapter . chapter-verses)
-              (string-append
-               ;; ~6em per verse is a rough height until the browser has laid
-               ;; the chapter out once (content-visibility then remembers it).
-               "<section class=\"ch\" id=\"" slug "-" chapter "\" style=\"contain-intrinsic-size:auto "
-               (number->string (* 6 (length chapter-verses))) "em\">"
-               "<h3><a href=\"#" slug "-" chapter "\">" (esc (book-field book 'english)) " " chapter "</a></h3>"
-               (chapter-notes-html slug book chapter chapter-verses notes)
-               (string-concatenate (map (lambda (v) (verse-html slug v trans (third notes))) chapter-verses))
-               "</section>")))
-           chapters))
+      (map (match-lambda*
+             (((chapter . chapter-verses) continued?)
+              ;; A chapter's second group (after a lettered one) has no id of
+              ;; its own; its heading links to its first verse. data-c is
+              ;; the chapter as in refs, for gsb.js.
+              (let ((target (if continued? (verse-anchor slug chapter (car chapter-verses)) (chapter-anchor slug chapter))))
+                (string-append
+                 ;; ~6em per verse is a rough height until the browser has laid
+                 ;; the chapter out once (content-visibility then remembers it).
+                 "<section class=\"ch\"" (if continued? "" (string-append " id=\"" target "\"")) " data-c=\"" chapter
+                 "\" style=\"contain-intrinsic-size:auto "
+                 (number->string (* 6 (length chapter-verses))) "em\">"
+                 "<h3><a href=\"#" target "\">" (esc (chapter-title book chapter)) (if continued? " (continued)" "") "</a></h3>"
+                 (chapter-notes-html slug book chapter chapter-verses notes continued?)
+                 (string-concatenate (map (lambda (v) (verse-html slug v trans (third notes))) chapter-verses))
+                 "</section>"))))
+           chapters (continuations chapters)))
      "</section>\n")))
 
 (define (progress-html books trans)
@@ -498,15 +528,15 @@ until gsb.js runs; without JS the book links above do the navigating."
 ;;; ---------------------------------------------------------------------------
 
 (define (chapter-ranges chapters)
-  "(\"1\" \"2\" \"3\" \"5\") -> \"1-3, 5\"."
-  (let loop ((ns (map string->number chapters)) (acc '()))
+  "(\"1\" \"2\" \"3\" \"5\") -> \"1-3, 5\"; a lettered chapter (\"A\") stands alone."
+  (let loop ((ns (map (lambda (c) (or (string->number c) c)) (delete-duplicates chapters))) (acc '()))
     (match ns
       (() (string-join (reverse acc) ", "))
       ((a . rest)
        (let run ((b a) (rest rest))
-         (if (and (pair? rest) (= (car rest) (+ b 1)))
+         (if (and (number? b) (pair? rest) (eqv? (car rest) (+ b 1)))
              (run (car rest) (cdr rest))
-             (loop rest (cons (if (= a b) (number->string a) (format #f "~a-~a" a b)) acc))))))))
+             (loop rest (cons (if (eqv? a b) (format #f "~a" a) (format #f "~a-~a" a b)) acc))))))))
 
 ;;; ---------------------------------------------------------------------------
 ;;; Progress: the progress and progress_totals views (gsb/schema.sql)
@@ -594,17 +624,20 @@ Testament total, the New Testament as one row, and the overall total."
                            (num readable) (num transcribed)))))
      "</i></p>\n"
      (string-concatenate
-      (map (match-lambda
-             ((chapter . vs)
+      (map (match-lambda*
+             (((chapter . vs) continued?)
               (string-append
-               (heading "h3" (string-append slug "-" chapter) (string-append (book-field book 'english) " " chapter)) "\n"
+               (if continued?
+                   (string-append "<h3>" (esc (chapter-title book chapter)) " (continued)</h3>")
+                   (heading "h3" (chapter-anchor slug chapter) (chapter-title book chapter)))
+               "\n"
                (string-concatenate
                 (map (lambda (v)
-                       (let ((anchor (string-append slug "-" chapter "-" (v-verse v))))
+                       (let ((anchor (verse-anchor slug chapter v)))
                          (format #f "<p id=\"~a\"><strong><a href=\"#~a\">~a</a></strong> ~a</p>\n"
                                  anchor anchor (v-verse v) (esc (readable trans v)))))
                      vs)))))
-           chapters)))))
+           chapters (continuations chapters))))))
 
 (define (reading-html books trans)
   (string-append

@@ -136,7 +136,7 @@
 
   function info(v) {
     var book = v.closest(".book");
-    var chapter = v.parentNode.id.slice(book.id.length + 1);
+    var chapter = v.parentNode.dataset.c;
     var key = chapter + "." + v.firstChild.textContent;
     return {
       file: book.dataset.f,
