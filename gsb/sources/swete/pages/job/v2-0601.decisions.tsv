@@ -1,21 +1,21 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
-job	oldtestamenting02swet	601	1	ἄμεμπτός	ἄμεμπτός	ἄμεμπτός	ἄμεμπτός	TODO zoom: accent before an enclitic
+job	oldtestamenting02swet	601	1	ἄμεμπτός	ἄμεμπτός	ἄμεμπτός	ἄμεμπτός	image (3x): accents before the enclitic as written
 job	oldtestamenting02swet	601	1	ἠνόμησα. +το.	ἠνόμησα.	ἠνόμησα.	ἠνόμησα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
 job	oldtestamenting02swet	601	2	μέμψιν	“μέμψιν	μέμψιν	μέμψιν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-job	oldtestamenting02swet	601	3	δέ	δέ	δέ	δέ	TODO zoom: accent before an enclitic
-job	oldtestamenting02swet	601	3	ὑπεναντίον	ὑπεναντίον"	ὑπεναντίον·	ὑπεναντίον·	TODO zoom: A OPEN, B R2
-job	oldtestamenting02swet	601	4	πέθετο	πέθετο	ἔθετο	ἔθετο	TODO zoom: A OPEN, B OPEN
-job	oldtestamenting02swet	601	5	δέ	δέ	δέ	δέ	TODO zoom: accent before an enclitic
+job	oldtestamenting02swet	601	3	δέ	δέ	δέ	δέ	image (3x): accents before the enclitic as written
+job	oldtestamenting02swet	601	3	ὑπεναντίον	ὑπεναντίον"	ὑπεναντίον·	ὑπεναντίον·	image (3x): ano teleia
+job	oldtestamenting02swet	601	4	πέθετο	πέθετο	ἔθετο	ἔθετο	image (3x): superscript verse number is not text; word as written
+job	oldtestamenting02swet	601	5	δέ	δέ	δέ	δέ	image (3x): accents before the enclitic as written
 job	oldtestamenting02swet	601	6	πῶς	᾿ξπτῶς	πῶς	πῶς	class R6 (OCR letters differ): the other OCR reading agrees with c
-job	oldtestamenting02swet	601	6	Δίκαιός	Δίκαιός	Δίκαιός	Δίκαιός	TODO zoom: accent before an enclitic
-job	oldtestamenting02swet	601	6	ἐπακήῆκοέν	ἐπακηκοέν	ἐπακήκοέν	ἐπακήκοέν	TODO zoom: accent before an enclitic; A OPEN, B DROP
-job	oldtestamenting02swet	601	7	γάρ	γάρ	γάρ	γάρ	TODO zoom: accent before an enclitic
-job	oldtestamenting02swet	601	8	ἐπακήκοέν	ἐπακήκοέν	ἐπακήκοέν	ἐπακήκοέν	TODO zoom: accent before an enclitic
+job	oldtestamenting02swet	601	6	Δίκαιός	Δίκαιός	Δίκαιός	Δίκαιός	image (3x): accents before the enclitic as written
+job	oldtestamenting02swet	601	6	ἐπακήῆκοέν	ἐπακηκοέν	ἐπακήκοέν	ἐπακήκοέν	image (3x): accents before the enclitic as written
+job	oldtestamenting02swet	601	7	γάρ	γάρ	γάρ	γάρ	image (3x): accents before the enclitic as written
+job	oldtestamenting02swet	601	8	ἐπακήκοέν	ἐπακήκοέν	ἐπακήκοέν	ἐπακήκοέν	image (3x): accents before the enclitic as written
 job	oldtestamenting02swet	601	9	ἐν	"ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-job	oldtestamenting02swet	601	9	λαλῆσαι	λαλήσαι	λαλῆσαι	λαλῆσαι	TODO zoom: A same, B DIA
+job	oldtestamenting02swet	601	9	λαλῆσαι	λαλήσαι	λαλῆσαι	λαλῆσαι	image (3x): circumflex on eta
 job	oldtestamenting02swet	601	10	δευτέρῳ:	δευτέρῳ:	δευτέρῳ·	δευτέρῳ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 job	oldtestamenting02swet	601	10	""ἐνύπνιον,	""ἐνύπνιον,	ἐνύπνιον,	ἐνύπνιον,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-job	oldtestamenting02swet	601	11	ὡς	ῶς	ὡς	ὡς	TODO zoom: A same, B DIA
+job	oldtestamenting02swet	601	11	ὡς	ῶς	ὡς	ὡς	image (3x): rough breathing, no accent
 job	oldtestamenting02swet	601	11	ὅταν	ΟΤαν	ὅταν	ὅταν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
 job	oldtestamenting02swet	601	11	ἐπιπίπτῃ	ΕἼ +ΤιΤΤΊ)	ἐπιπίπτῃ	ἐπιπίπτῃ	class R6 (OCR letters differ): the other OCR reading agrees with c
 job	oldtestamenting02swet	601	11	ἐπ᾽ +ΕἾ	5.	ἐπ᾽	ἐπ᾽	TODO zoom: A R3, B OPEN
@@ -31,7 +31,7 @@ job	oldtestamenting02swet	601	20	ἐνάρκησεν"	ἐνάρκησεν"	ἐν
 job	oldtestamenting02swet	601	21	“πᾶν	“πᾶν	πᾶν	πᾶν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 job	oldtestamenting02swet	601	22	Ψυχὴ	ψυχὴ	ψυχὴ	ψυχὴ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
 job	oldtestamenting02swet	601	22	ἐπιθυμήσει:	ἐπιθυμήσει:	ἐπιθυμήσει·	ἐπιθυμήσει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-job	oldtestamenting02swet	601	23	“έξἔως	“ἕως	ἕως	ἕως	TODO zoom: A OPEN, B R1
+job	oldtestamenting02swet	601	23	“έξἔως	“ἕως	ἕως	ἕως	image (3x): superscript verse number is not text; word as written
 job	oldtestamenting02swet	601	24	∅	22	κενά.	κενά.	TODO zoom: A R0, B OPEN
-job	oldtestamenting02swet	601	26	δε	δε	ἤδε	ἤδε	TODO zoom: A OPEN, B OPEN
+job	oldtestamenting02swet	601	26	δε	δε	ἤδε	ἥδε	TODO zoom: A OPEN, B OPEN
 job	oldtestamenting02swet	601	26	ἅδη:	ἅδη:	ᾅδῃ·	ᾅδῃ·	TODO zoom: A OPEN, B OPEN

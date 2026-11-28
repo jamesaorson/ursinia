@@ -1,14 +1,14 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 job	oldtestamenting02swet	615	1	νεσσά: +τὰ	νεσσά:	νεσσά·	νεσσά·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-job	oldtestamenting02swet	615	2	γὴν	γὴν	γῆν	γῆν	TODO zoom: A DIA, B DIA
-job	oldtestamenting02swet	615	2	ῳὰ	ῳφὰ	ᾠὰ	ᾠὰ	TODO zoom: A DROP, B OPEN
-job	oldtestamenting02swet	615	2	θάλψει +Ψ τ	θάλψει	θάλψει·	θάλψει·	TODO zoom: A OPEN, B OPEN
+job	oldtestamenting02swet	615	2	γὴν	γὴν	γῆν	γῆν	image (3x): circumflex on η
+job	oldtestamenting02swet	615	2	ῳὰ	ῳφὰ	ᾠὰ	ᾠὰ	image (3x): ᾠ with smooth breathing and iota subscript, grave on α
+job	oldtestamenting02swet	615	2	θάλψει +Ψ τ	θάλψει	θάλψει·	θάλψει·	image (3x): ano teleia after θάλψει; nothing else
 job	oldtestamenting02swet	615	3	καὶ	ἰδκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 job	oldtestamenting02swet	615	5	'τἀπεσκλήρυνεν	'ἀπεσκλήρυνεν	ἀπεσκλήρυνεν	ἀπεσκλήρυνεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-job	oldtestamenting02swet	615	5	ἑαυτὴν"	ἑαυτὴν"	ἑαυτήν·	ἑαυτήν·	TODO zoom: A OPEN, B OPEN
+job	oldtestamenting02swet	615	5	ἑαυτὴν"	ἑαυτὴν"	ἑαυτήν·	ἑαυτήν·	image (3x): acute on η, then ano teleia
 job	oldtestamenting02swet	615	8	συνέσει. +᾿δ	συνέσει.	συνέσει.	συνέσει.	class R3: OCR appended accent-row or margin junk; c read from the image strip
 job	oldtestamenting02swet	615	9	κατὰ	᾿δκατὰ	κατὰ	κατὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-job	oldtestamenting02swet	615	11	ἵππῳ.	ἵππῳ.	ἵππῳ	ἵππῳ	TODO zoom: A OPEN, B OPEN
+job	oldtestamenting02swet	615	11	ἵππῳ.	ἵππῳ.	ἵππῳ	ἵππῳ	image (3x): light speck off the ink weight after ἵππῳ, not a period
 job	oldtestamenting02swet	615	11	δύναμιν, +΄ , ΞΞ Ἦν Ξ	δύναμιν,	δύναμιν,	δύναμιν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
 job	oldtestamenting02swet	615	13	“περιέθηκας	“περιέθηκας	περιέθηκας	περιέθηκας	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 job	oldtestamenting02swet	615	15	“᾿ἀνορύσσων	ἀνορύσσων	ἀνορύσσων	ἀνορύσσων	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
@@ -16,9 +16,10 @@ job	oldtestamenting02swet	615	16	ἰσχύι:	ἰσχύι: +Ξ	ἰσχύι·	ἰ
 job	oldtestamenting02swet	615	17	“συναντῶν	συναντῶν	συναντῶν	συναντῶν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 job	oldtestamenting02swet	615	19	μάχαιρα, +24,	μάχαιρα,	μάχαιρα,	μάχαιρα,	class R3: OCR appended accent-row or margin junk; c read from the image strip
 job	oldtestamenting02swet	615	20	γῆν"	γῆν"	γῆν·	γῆν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-job	oldtestamenting02swet	615	22	Εὐγε:	Εὐγε:	Εὖγε·	Εὖγε·	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B OPEN
-job	oldtestamenting02swet	615	25	νύτον;	νύτον;	νότον;	νότον;	TODO zoom: A OPEN, B OPEN
-job	oldtestamenting02swet	615	26	σῷ	σῴ	σῷ	σῷ	TODO zoom: A same, B DIA
+job	oldtestamenting02swet	615	22	Εὐγε:	Εὐγε:	Εὖγε·	Εὖγε·	image (3x): smooth breathing + circumflex on υ of Εὖγε, then ano teleia
+job	oldtestamenting02swet	615	25	νύτον;	νύτον;	νότον;	νότον;	image (3x): ο with acute, not υ
+job	oldtestamenting02swet	615	26	σῷ	σῴ	σῷ	σῷ	image (3x): circumflex and iota subscript on ω
 job	oldtestamenting02swet	615	27	αὐτοῦ +“9	αὐτοῦ +“9	αὐτοῦ	αὐτοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
 job	oldtestamenting02swet	615	27	“ἐπ᾽	“ἐπ᾽	ἐπ᾽	ἐπ᾽	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-job	oldtestamenting02swet	615	27	ἐξοχῆ	ἐξοχῆ	ἐξοχῇ	ἐξοχῇ	TODO zoom: A DROP, B DROP
+job	oldtestamenting02swet	615	27	ἐξοχῆ	ἐξοχῆ	ἐξοχῇ	ἐξοχῇ	image (3x): iota subscript under η, circumflex
+job	oldtestamenting02swet	615	1	-	-	ἁσιδὰ	ἁσιδὰ	image (8x): breathing tail curves down-right like ἑαυτῆς on l5, unlike smooth ἐὰν on this line; read rough

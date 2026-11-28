@@ -1,27 +1,27 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 job	oldtestamenting02swet	592	1	γάλακτι"	γάλακτι"	γάλακτι·	γάλακτι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-job	oldtestamenting02swet	592	3	ἐτίθετό	ἐτίθετό	ἐτίθετό	ἐτίθετό	TODO zoom: accent before an enclitic
+job	oldtestamenting02swet	592	3	ἐτίθετό	ἐτίθετό	ἐτίθετό	ἐτίθετό	image (3x): acute before the enclitic
 job	oldtestamenting02swet	592	5	ἔστησαν"	ἔστησαν"	ἔστησαν·	ἔστησαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 job	oldtestamenting02swet	592	6	ϑἁδροὶ	ϑἁδροὶ	ἁδροὶ	ἁδροὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-job	oldtestamenting02swet	592	7	∅	∅	ματι.	ματι.	TODO zoom: no OCR reading at all
-job	oldtestamenting02swet	592	8	ἐμακάρισάν	ἐμακάρισάν	ἐμακάρισάν	ἐμακάρισάν	TODO zoom: accent before an enclitic
+job	oldtestamenting02swet	592	7	∅	∅	ματι.	ματι.	image (3x): turned-over end ματι. of στό- on its own line, deep indent; OCR missed the short line
+job	oldtestamenting02swet	592	8	ἐμακάρισάν	ἐμακάρισάν	ἐμακάρισάν	ἐμακάρισάν	image (3x): acute before the enclitic
 job	oldtestamenting02swet	592	9	ἐκολλήθη"	ἐκολλήθη"	ἐκολλήθη·	ἐκολλήθη·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-job	oldtestamenting02swet	592	10	ταῦτ	τῦτι	ὅτι	ὅτι	TODO zoom: A OPEN, B OPEN
-job	oldtestamenting02swet	592	10	ἐμακάρισέν	ἐμακάρισέν	ἐμακάρισέν	ἐμακάρισέν	TODO zoom: accent before an enclitic
-job	oldtestamenting02swet	592	11	ἰδών	ἰδών	ἰδών	ἰδών	TODO zoom: accent before an enclitic
+job	oldtestamenting02swet	592	10	ταῦτ	τῦτι	ὅτι	ὅτι	image (3x): ὅτι, rough + acute; verse superscript read as junk
+job	oldtestamenting02swet	592	10	ἐμακάρισέν	ἐμακάρισέν	ἐμακάρισέν	ἐμακάρισέν	image (3x): acute before the enclitic
+job	oldtestamenting02swet	592	11	ἰδών	ἰδών	ἰδών	ἰδών	image (3x): acute before the enclitic
 job	oldtestamenting02swet	592	12	ἱςδιέσωσα	Ἰδιέσωσα	διέσωσα	διέσωσα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 job	oldtestamenting02swet	592	12	δυνάστου, +ἣ	δυνάστου, +:	δυνάστου,	δυνάστου,	class R3: OCR appended accent-row or margin junk; c read from the image strip
-job	oldtestamenting02swet	592	13	ἐβοήθησα	ἐβοήθησα	ἐβοήθησα·	ἐβοήθησα·	TODO zoom: A OPEN, B OPEN
+job	oldtestamenting02swet	592	13	ἐβοήθησα	ἐβοήθησα	ἐβοήθησα·	ἐβοήθησα·	image (3x): ano teleia printed
 job	oldtestamenting02swet	592	14	᾿ϑεὐλογία	᾿ϑεὐλογία	εὐλογία	εὐλογία	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 job	oldtestamenting02swet	592	15	εὐλόγησεν. +τ	εὐλόγησεν.	εὐλόγησεν.	εὐλόγησεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
-job	oldtestamenting02swet	592	17	διπλοίδι.	διπλοίδι.	διπλοΐδι.	διπλοΐδι.	TODO zoom: A DROP, B DROP
-job	oldtestamenting02swet	592	21	ἥδειν	ἥδειν	ᾔδειν	ᾔδειν	TODO zoom: A DIA, B DIA
+job	oldtestamenting02swet	592	21	ἥδειν	ἥδειν	ᾔδειν	ᾔδειν	image (3x): smooth + acute on η with iota subscript below
 job	oldtestamenting02swet	592	21	ἐξιχνίασα"	ἐξιχνίασα"	ἐξιχνίασα·	ἐξιχνίασα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 job	oldtestamenting02swet	592	22	ἰσυνέτριψα	Ἰσυνέτριψα	συνέτριψα	συνέτριψα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 job	oldtestamenting02swet	592	22	ἀδίκων"	ἀδίκων"	ἀδίκων·	ἀδίκων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 job	oldtestamenting02swet	592	23	ἐξήρπασα. +18	ἐξήρπασα. +18	ἐξήρπασα.	ἐξήρπασα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
-job	oldtestamenting02swet	592	24	Ἣ	Ἣ	Ἡ	Ἡ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B DIA
+job	oldtestamenting02swet	592	24	Ἣ	Ἣ	Ἡ	Ἡ	image (3x): rough breathing alone on capital Η, no accent (single reversed-comma mark)
 job	oldtestamenting02swet	592	24	γηράσει:	γηράσει:	γηράσει·	γηράσει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 job	oldtestamenting02swet	592	25	βιώσω"	βιώσω:	βιώσω·	βιώσω·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 job	oldtestamenting02swet	592	26	ῥίζα	ῥίζα +ὃ	ῥίζα	ῥίζα	class R3: OCR appended accent-row or margin junk; c read from the image strip
-job	oldtestamenting02swet	592	27	μ +μου:	μ +μου.	μου·	μου·	TODO zoom: A OPEN, B OPEN
+job	oldtestamenting02swet	592	27	μ +μου:	μ +μου.	μου·	μου·	image (3x): ano teleia printed
+job	oldtestamenting02swet	592	6	-	-	ἁδροὶ	ἁδροὶ	image (8x): rough breathing (single c-shaped curl), no accent on α

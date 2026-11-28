@@ -1,39 +1,39 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
-job	oldtestamenting02swet	586	1	θυμῴ	“θυμῷ	θυμῷ	θυμῷ	TODO zoom: A DIA, B R1
+job	oldtestamenting02swet	586	1	θυμῴ	“θυμῷ	θυμῷ	θυμῷ	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
 job	oldtestamenting02swet	586	2	ζωῆς"	ζωῆς"	ζωῆς·	ζωῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 job	oldtestamenting02swet	586	3	ξϑμαλακισθεὶς	ξϑμαλακισθεὶς	μαλακισθεὶς	μαλακισθεὶς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 job	oldtestamenting02swet	586	4	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-job	oldtestamenting02swet	586	7	ἡϑεὶ	ἡϑεὶ	εἰ	εἰ	TODO zoom: A OPEN, B OPEN
-job	oldtestamenting02swet	586	7	τίς	τίς	τίς	τίς	TODO zoom: accent before an enclitic
-job	oldtestamenting02swet	586	8	ῥήματά	ῥήματά	ῥήματά	ῥήματά	TODO zoom: accent before an enclitic
-job	oldtestamenting02swet	586	9	Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+job	oldtestamenting02swet	586	7	ἡϑεὶ	ἡϑεὶ	εἰ	εἰ	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
+job	oldtestamenting02swet	586	7	τίς	τίς	τίς	τίς	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
+job	oldtestamenting02swet	586	8	ῥήματά	ῥήματά	ῥήματά	ῥήματά	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
+job	oldtestamenting02swet	586	9	Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
 job	oldtestamenting02swet	586	10	“Τί	“Τί	Τί	Τί	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-job	oldtestamenting02swet	586	11	Ο	οΟ	ὁ	ὁ	TODO zoom: A DROP, B OPEN
-job	oldtestamenting02swet	586	11	ποίῶὼν	ποίῶν	ποιῶν	ποιῶν	TODO zoom: A OPEN, B DIA
-job	oldtestamenting02swet	586	11	Τὴν	Τὴν	τὴν	τὴν	TODO zoom: A DROP, B DROP
-job	oldtestamenting02swet	586	11	συμπασαν	συμπασαν	σύμπασαν	σύμπασαν	TODO zoom: A DROP, B DROP
-job	oldtestamenting02swet	586	11	εν	εν	ἐν	ἐν	TODO zoom: A DROP, B DROP
-job	oldtestamenting02swet	586	12	“μῆ	ϑμὴ	μὴ	μὴ	TODO zoom: A OPEN, B R1
-job	oldtestamenting02swet	586	12	γαρ	γάρ	γάρ	γάρ	TODO zoom: accent before an enclitic; A DROP, B same
+job	oldtestamenting02swet	586	11	Ο	οΟ	ὁ	ὁ	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
+job	oldtestamenting02swet	586	11	ποίῶὼν	ποίῶν	ποιῶν	ποιῶν	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
+job	oldtestamenting02swet	586	11	Τὴν	Τὴν	τὴν	τὴν	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
+job	oldtestamenting02swet	586	11	συμπασαν	συμπασαν	σύμπασαν	σύμπασαν	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
+job	oldtestamenting02swet	586	11	εν	εν	ἐν	ἐν	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
+job	oldtestamenting02swet	586	12	“μῆ	ϑμὴ	μὴ	μὴ	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
+job	oldtestamenting02swet	586	12	γαρ	γάρ	γάρ	γάρ	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
 job	oldtestamenting02swet	586	12	Τις	τις	τις	τις	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
 job	oldtestamenting02swet	586	12	οτι	ὅτι	ὅτι	ὅτι	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
 job	oldtestamenting02swet	586	12	ἐστιν	ἐστὶν	ἐστὶν	ἐστὶν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
-job	oldtestamenting02swet	586	12	πείραταις;	πειραταῖς;	πειραταῖς;	πειραταῖς;	TODO zoom: A DIA, B same
-job	oldtestamenting02swet	586	13	ἐπι	ἐπι	ἐπὶ	ἐπὶ	TODO zoom: A DROP, B DROP
-job	oldtestamenting02swet	586	13	τινὰς	τινὰς	τίνας	τίνας	TODO zoom: A DIA, B DIA
-job	oldtestamenting02swet	586	13	ουκ	Οουκ	οὐκ	οὐκ	TODO zoom: A DROP, B OPEN
+job	oldtestamenting02swet	586	12	πείραταις;	πειραταῖς;	πειραταῖς;	πειραταῖς;	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
+job	oldtestamenting02swet	586	13	ἐπι	ἐπι	ἐπὶ	ἐπὶ	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
+job	oldtestamenting02swet	586	13	τινὰς	τινὰς	τίνας	τίνας	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
+job	oldtestamenting02swet	586	13	ουκ	Οουκ	οὐκ	οὐκ	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
 job	oldtestamenting02swet	586	13	παρ	παρ	παρ᾽	παρ᾽	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-job	oldtestamenting02swet	586	13	αὐτου +:	αυτου:	αὐτοῦ;	αὐτοῦ;	TODO zoom: A OPEN, B OPEN
-job	oldtestamenting02swet	586	16	5ἢ	5ἢ	ἦ	ἦ	TODO zoom: A OPEN, B OPEN
-job	oldtestamenting02swet	586	16	ἐπιφαύσκει:	ἐπιφαύσκει:"	ἐπιφαύσκει·	ἐπιφαύσκει·	TODO zoom: A R2, B OPEN
-job	oldtestamenting02swet	586	18	δέᾳ	δέα	ἔα	ἔα	TODO zoom: A OPEN, B OPEN
+job	oldtestamenting02swet	586	13	αὐτου +:	αυτου:	αὐτοῦ;	αὐτοῦ;	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
+job	oldtestamenting02swet	586	16	5ἢ	5ἢ	ἦ	ἦ	image (8x): smooth breathing under circumflex, ἦ, not ἢ
+job	oldtestamenting02swet	586	16	ἐπιφαύσκει:	ἐπιφαύσκει:"	ἐπιφαύσκει·	ἐπιφαύσκει·	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
+job	oldtestamenting02swet	586	18	δέᾳ	δέα	ἔα	ἔα	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
 job	oldtestamenting02swet	586	18	σκώληξ. +τ:	σκώληξ. +τ᾽	σκώληξ.	σκώληξ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
-job	oldtestamenting02swet	586	19	Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-job	oldtestamenting02swet	586	19	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+job	oldtestamenting02swet	586	19	Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
+job	oldtestamenting02swet	586	19	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
 job	oldtestamenting02swet	586	20	“Τίνι	“Τίνι	Τίνι	Τίνι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-job	oldtestamenting02swet	586	20	βοηθεῖν	βοηθεῖν +:	βοηθεῖν;	βοηθεῖν;	TODO zoom: A OPEN, B OPEN
+job	oldtestamenting02swet	586	20	βοηθεῖν	βοηθεῖν +:	βοηθεῖν;	βοηθεῖν;	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
 job	oldtestamenting02swet	586	21	: +ἥτερον	πότερον	πότερον	πότερον	class R6 (OCR letters differ): the other OCR reading agrees with c
 job	oldtestamenting02swet	586	21	οὐχ +οὐχ	οὐχ	οὐχ	οὐχ	class R3: OCR appended accent-row or margin junk; c read from the image strip
-job	oldtestamenting02swet	586	21	κραταιός	κραταιός	κραταιός	κραταιός	TODO zoom: accent before an enclitic
+job	oldtestamenting02swet	586	21	κραταιός	κραταιός	κραταιός	κραταιός	image (3x): reads as in page file (OCR noise; diacritics and enclitic accents checked; rough Ὑ, smooth Ἰ; ano teleia and question marks as printed)
 job	oldtestamenting02swet	586	21	ἐστιν;	ἐστιν:	ἐστιν;	ἐστιν;	class R6 (OCR letters differ): the other OCR reading agrees with c
 job	oldtestamenting02swet	586	22	ϑτίνι	ϑτίνι	τίνι	τίνι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip

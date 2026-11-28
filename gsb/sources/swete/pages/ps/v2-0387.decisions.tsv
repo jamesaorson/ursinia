@@ -1,21 +1,22 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 ps	oldtestamenting02swet	387	1	αὐτόν"	αὐτόν"	αὐτόν·	αὐτόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-ps	oldtestamenting02swet	387	3	ψυχὴν	ψυχήν	ψυχήν	ψυχήν	TODO zoom: accent before an enclitic; A DIA, B same
+ps	oldtestamenting02swet	387	3	ψυχὴν	ψυχήν	ψυχήν	ψυχήν	image (3x): acute kept before enclitic
 ps	oldtestamenting02swet	387	4	Τῷ	Τῷ +Δ	Τῷ	Τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
-ps	oldtestamenting02swet	387	5	Εἶπεν	Εἶπεν	Εἶπεν	Εἶπεν	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+ps	oldtestamenting02swet	387	5	Εἶπεν	Εἶπεν	Εἶπεν	Εἶπεν	image (3x): smooth breathing + circumflex on ι
 ps	oldtestamenting02swet	387	5	κυριος	κύριος	κύριος	κύριος	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
-ps	oldtestamenting02swet	387	6	ἐχθρούς	ἐχθρούς	ἐχθρούς	ἐχθρούς	TODO zoom: accent before an enclitic
+ps	oldtestamenting02swet	387	6	ἐχθρούς	ἐχθρούς	ἐχθρούς	ἐχθρούς	image (3x): acute kept before enclitic
 ps	oldtestamenting02swet	387	7	“ῥάβδον	“ῥάβδον	ῥάβδον	ῥάβδον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 ps	oldtestamenting02swet	387	7	Σιών"	Σιών"	Σιών·	Σιών·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 ps	oldtestamenting02swet	387	9	βμετὰ	βμετὰ	μετὰ	μετὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-ps	oldtestamenting02swet	387	9	δυνάμεώς	δυνάμεώς	δυνάμεώς	δυνάμεώς	TODO zoom: accent before an enclitic
+ps	oldtestamenting02swet	387	9	δυνάμεώς	δυνάμεώς	δυνάμεώς	δυνάμεώς	image (3x): acute kept before enclitic
 ps	oldtestamenting02swet	387	10	ἁγίων"	ἁγίων"	ἁγίων·	ἁγίων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-ps	oldtestamenting02swet	387	11	ἐξεγέννησά	ἐξεγέννησά	ἐξεγέννησά	ἐξεγέννησά	TODO zoom: accent before an enclitic
-ps	oldtestamenting02swet	387	12	ὦμοσεν	ὦμοσεν	ὤμοσεν	ὤμοσεν	TODO zoom: A DIA, B DIA
-ps	oldtestamenting02swet	387	15	6	∅	λεῖς·	λεῖς·	TODO zoom: A OPEN, B R0
+ps	oldtestamenting02swet	387	11	ἐξεγέννησά	ἐξεγέννησά	ἐξεγέννησά	ἐξεγέννησά	image (3x): acute kept before enclitic
+ps	oldtestamenting02swet	387	12	ὦμοσεν	ὦμοσεν	ὤμοσεν	ὤμοσεν	image (3x): smooth + acute (”) on ω, not circumflex
+ps	oldtestamenting02swet	387	15	6	∅	λεῖς·	λεῖς·	image (3x): turned-over line end λεῖς· printed; OCRs missed the short line
 ps	oldtestamenting02swet	387	18	7ἐκ	7ἐκ	ἐκ	ἐκ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 ps	oldtestamenting02swet	387	18	πίεται:	πίεται:	πίεται·	πίεται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-ps	oldtestamenting02swet	387	20	Ἀλληλουιά.	Ἀλληλουιά.	Ἁλληλουιά.	Ἁλληλουιά.	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B DIA
-ps	oldtestamenting02swet	387	21	ἙΕξομολογήσομαί	Ἐξομολογήσομαί	Ἐξομολογήσομαί	Ἐξομολογήσομαί	TODO zoom: breathing on a capital (OCR misreads rough/smooth); accent before an enclitic; A OPEN, B same
+ps	oldtestamenting02swet	387	20	Ἀλληλουιά.	Ἀλληλουιά.	Ἁλληλουιά.	Ἁλληλουιά.	image (8x): rough breathing (mark opens left, tail down-right), unlike smooth on Ἐξομολογήσομαί two lines below
+ps	oldtestamenting02swet	387	21	ἙΕξομολογήσομαί	Ἐξομολογήσομαί	Ἐξομολογήσομαί	Ἐξομολογήσομαί	image (8x): smooth breathing; acute before enclitic σοι
 ps	oldtestamenting02swet	387	24	αὐτοῦ: +3	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 ps	oldtestamenting02swet	387	25	ἐξομολόγησις	ϑέἐξομολόγησις	ἐξομολόγησις	ἐξομολόγησις	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	387	20	-	-	Ἁλληλουιά.	Ἁλληλουιά.	ambiguous: breathing light in print; reads rough at 8x (opposite shape to the smooth on Ἐξομολογήσομαί)
