@@ -1,0 +1,95 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+num	theoldtestamenti00unknuoft	345	1	Φαλλουεί:	Φαλλουεί:	Φαλλουεί·	Φαλλουεί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	345	1	“τῷ	“τῷ	τῷ	τῷ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	345	1	Ἀσρών,	Ἀσρών,	Ἁσρών,	Ἁσρών,	image (3x): rough breathing (reversed comma, as on Ῥουβήν)
+num	theoldtestamenti00unknuoft	345	1	“Ασρωνεί:	“Ασρωνεί:	Ἁσρωνεί·	Ἁσρωνεί·	image (3x): rough breathing (reversed comma, as on Ῥουβήν)
+num	theoldtestamenti00unknuoft	345	2	Τοῦτοι	Τοῦτοι	οὗτοι	οὗτοι	image (3x): reads as transcribed; OCR noise, margin numbers or verse superscript
+num	theoldtestamenti00unknuoft	345	2	“PovBnv-	Ρουβην:	Ῥουβήν·	Ῥουβήν·	image (3x): rough breathing (reversed comma, as on Ῥουβήν)
+num	theoldtestamenti00unknuoft	345	3	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	345	3	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before capitalized word (not a quotation)
+num	theoldtestamenti00unknuoft	345	4	Φαλλού:	Φαλλού:	Φαλλού·	Φαλλού·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	345	4	Ἐλιάβ. +9	Ἐλιάβ. +9	Ἐλιάβ.	Ἐλιάβ.	image (3x): smooth breathing
+num	theoldtestamenti00unknuoft	345	4	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before capitalized word (not a quotation)
+num	theoldtestamenti00unknuoft	345	4	᾽Ἐ̓λιάβ:	᾽Ἐ̓λιάβ᾽	Ἐλιάβ·	Ἐλιάβ·	image (3x): smooth breathing
+num	theoldtestamenti00unknuoft	345	4	Ἀβειρών-	Ἀβειρών-	Ἀβειρών·	Ἀβειρών·	image (3x): smooth breathing
+num	theoldtestamenti00unknuoft	345	5	οὗτοί	οὗτοί	οὗτοί	οὗτοί	image (3x): acute before enclitic εἰσιν
+num	theoldtestamenti00unknuoft	345	6	Ἀαρὼν	Ἀαρὼν	Ἀαρὼν	Ἀαρὼν	image (3x): smooth breathing
+num	theoldtestamenti00unknuoft	345	6	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	345	6	Kope	Κόρε	Κόρε	Κόρε	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	345	6	Κυρίου"	Κυρίου:	Κυρίου·	Κυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	345	7	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	345	8	καὶ	καὶ +ὃ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	345	9	“oi	τι +""οἱ	οἱ	οἱ	image (3x): reads as transcribed; OCR noise, margin numbers or verse superscript
+num	theoldtestamenti00unknuoft	345	9	υἱοὶ	υἱοὶ +Κ	υἱοὶ	υἱοὶ	image (3x): grave before capitalized word (not a quotation)
+num	theoldtestamenti00unknuoft	345	9	Kope	Κόρε	Κόρε	Κόρε	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	345	10	VOV.	ΡῸΨΡ. +Ι2	νον.	νον.	image (3x): reads as transcribed; OCR noise, margin numbers or verse superscript
+num	theoldtestamenti00unknuoft	345	10	*Kat	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	345	10	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before capitalized word (not a quotation)
+num	theoldtestamenti00unknuoft	345	10	Συμεών:	ἫΣ +Συμεών:	Συμεών·	Συμεών·	image (3x): reads as transcribed; OCR noise, margin numbers or verse superscript
+num	theoldtestamenti00unknuoft	345	10	Συμεών:	Σ +Συμεών:	Συμεών·	Συμεών·	image (3x): reads as transcribed; OCR noise, margin numbers or verse superscript
+num	theoldtestamenti00unknuoft	345	11	Ναμουηλεί:	Ναμουηλεί:	Ναμουηλεί·	Ναμουηλεί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	345	11	Ἰαμείν,	Ἰαμείν,	Ἰαμείν,	Ἰαμείν,	image (3x): smooth breathing
+num	theoldtestamenti00unknuoft	345	11	Ἰαμινεί:	Ἰαμινεί:	Ἰαμινεί·	Ἰαμινεί·	image (3x): smooth breathing
+num	theoldtestamenti00unknuoft	345	11	Ἰαχείν,	Ἰαχείν,	Ἰαχείν,	Ἰαχείν,	image (3x): smooth breathing
+num	theoldtestamenti00unknuoft	345	12	Ἰαχινεί"	Ἰαχινεί"	Ἰαχινεί·	Ἰαχινεί·	image (3x): smooth breathing
+num	theoldtestamenti00unknuoft	345	12	Ξ̓τῷ	᾿"Ξτῷ	τῷ	τῷ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	345	12	Zapa,	Ζάρα,	Ζάρα,	Ζάρα,	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	345	12	Ζαραεί:	Ζαραεί:	Ζαραεί·	Ζαραεί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	345	13	“obrot	᾿ἐοὗτοι	οὗτοι	οὗτοι	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	345	13	χιλιάδες +15	χιλιάδες +τς	χιλιάδες	χιλιάδες	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	345	14	διακόσιοι.	διακόσιοι. +᾿5ϑ	διακόσιοι.	διακόσιοι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	345	14	SYioi	Υἱοὶ	Υἱοὶ	Υἱοὶ	image (3x): Υἱοὶ, rough breathing on ι, grave before capitalized name
+num	theoldtestamenti00unknuoft	345	14	“Iovda:	Ιούδα-	Ἰούδα·	Ἰούδα·	image (3x): smooth breathing
+num	theoldtestamenti00unknuoft	345	14	Ἢρ	Ἢρ	Ἢρ	Ἢρ	image (4x): smooth breathing + grave on Η (same mark as Ὢγ on leaf 343)
+num	theoldtestamenti00unknuoft	345	14	Αὐνάν:	Αὐνάν:	Αὐνάν·	Αὐνάν·	image (3x): smooth breathing
+num	theoldtestamenti00unknuoft	345	14	ἀπέθανεν +τό	ἀπέθανεν +τό	ἀπέθανεν	ἀπέθανεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	345	15	Ἢρ	Ἢρ	Ἢρ	Ἢρ	image (4x): smooth breathing + grave on Η (same mark as Ὢγ on leaf 343)
+num	theoldtestamenti00unknuoft	345	15	Αὐνὰν	Αὐνὰν	Αὐνὰν	Αὐνὰν	image (3x): smooth breathing
+num	theoldtestamenti00unknuoft	345	15	“éyévovto	"ἐγένοντο	ἐγένοντο	ἐγένοντο	image (3x): reads as transcribed; OCR noise, margin numbers or verse superscript
+num	theoldtestamenti00unknuoft	345	15	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before capitalized word (not a quotation)
+num	theoldtestamenti00unknuoft	345	15	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing
+num	theoldtestamenti00unknuoft	345	16	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	345	16	Σηλωνεί	Σηλωνεί:	Σηλωνεί·	Σηλωνεί·	image (3x): reads as transcribed; OCR noise, margin numbers or verse superscript
+num	theoldtestamenti00unknuoft	345	17	18	1γ +Φάρες:	Φάρες·	Φάρες·	image (3x): reads as transcribed; OCR noise, margin numbers or verse superscript
+num	theoldtestamenti00unknuoft	345	17	‘Acpav,	τῷ	τῷ	τῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	345	17	∅	Ζάρα,	Ζάρα,	Ζάρα,	class R0: OCR lost the word in extraction; c read from the image strip
+num	theoldtestamenti00unknuoft	345	17	∅	δῆμος	δῆμος	δῆμος	class R0: OCR lost the word in extraction; c read from the image strip
+num	theoldtestamenti00unknuoft	345	17	∅	ὁ	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
+num	theoldtestamenti00unknuoft	345	17	∅	Ζαραεί.	Ζαραεί.	Ζαραεί.	class R0: OCR lost the word in extraction; c read from the image strip
+num	theoldtestamenti00unknuoft	345	17	∅	“7καὶ	καὶ	καὶ	image (3x): reads as transcribed; OCR noise, margin numbers or verse superscript
+num	theoldtestamenti00unknuoft	345	17	∅	ἐγένετο	ἐγένετο	ἐγένετο	class R0: OCR lost the word in extraction; c read from the image strip
+num	theoldtestamenti00unknuoft	345	17	∅	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before capitalized word (not a quotation)
+num	theoldtestamenti00unknuoft	345	17	∅	Φάρες-	Φάρες·	Φάρες·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	345	17	∅	τῷ	τῷ	τῷ	class R0: OCR lost the word in extraction; c read from the image strip
+num	theoldtestamenti00unknuoft	345	18	∅	18 +Ἀσρών,	Ἁσρών,	Ἁσρών,	image (3x): rough breathing (reversed comma, as on Ῥουβήν)
+num	theoldtestamenti00unknuoft	345	18	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	345	18	Ἀσρωνεί:	Ἀσρωνεί:	Ἁσρωνεί·	Ἁσρωνεί·	image (3x): rough breathing (reversed comma, as on Ῥουβήν)
+num	theoldtestamenti00unknuoft	345	18	Ἰαμούν,	Ἰαμούν,	Ἰαμούν,	Ἰαμούν,	image (3x): smooth breathing
+num	theoldtestamenti00unknuoft	345	18	Ἰαμουνεί. +©	Ἰαμουνεί.	Ἰαμουνεί.	Ἰαμουνεί.	image (3x): smooth breathing
+num	theoldtestamenti00unknuoft	345	19	Ἰούδᾳ	Ἰούδᾳ	Ἰούδᾳ	Ἰούδᾳ	image (3x): smooth breathing
+num	theoldtestamenti00unknuoft	345	19	ἐξ	ἕξ	ἓξ	ἓξ	image (3x): compact d-shape = rough + grave
+num	theoldtestamenti00unknuoft	345	19	χι- +19	χι- +το	χι-	χι-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	345	20	πεντακόσιοι.	πεντακόσιοι. +1	πεντακόσιοι.	πεντακόσιοι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	345	20	Kal	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	345	20	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before capitalized word (not a quotation)
+num	theoldtestamenti00unknuoft	345	20	Ἰσσαχὰρ	Ἰσσαχὰρ	Ἰσσαχὰρ	Ἰσσαχὰρ	image (3x): smooth breathing
+num	theoldtestamenti00unknuoft	345	20	αὐτῶν" +20	αὐτῶν" +»ο	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	345	21	Θωλαεί:	Θωλαεί:	Θωλαεί·	Θωλαεί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	345	21	Bova,	Φουά,	Φουά,	Φουά,	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	345	21	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	345	21	Φουαεί:	Φουαεί:	Φουαεί·	Φουαεί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	345	21	““τῷ	“τῷ	τῷ	τῷ	image (3x): reads as transcribed; OCR noise, margin numbers or verse superscript
+num	theoldtestamenti00unknuoft	345	21	Ἰασούβ, +2t	Ἰασούβ, +.1	Ἰασούβ,	Ἰασούβ,	image (3x): smooth breathing
+num	theoldtestamenti00unknuoft	345	22	Ἰασουβεί:	Ἰασουβεί:	Ἰασουβεί·	Ἰασουβεί·	image (3x): smooth breathing
+num	theoldtestamenti00unknuoft	345	22	Σαμαρανεί. +“"	Σαμαρανεί.	Σαμαρανεί.	Σαμαρανεί.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	345	22	οὗτοι	“"οὗτοι	οὗτοι	οὗτοι	class R6 (OCR letters differ): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	345	23	Ισσαχὰρ	Ἰσσαχὰρ	Ἰσσαχὰρ	Ἰσσαχὰρ	image (3x): smooth breathing
+num	theoldtestamenti00unknuoft	345	23	χιλιάδες +22	χιλιάδες +22	χιλιάδες	χιλιάδες	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	345	24	τριακύσιοι.	τριακύσιοι.	τριακόσιοι.	τριακόσιοι.	image (3x): reads as transcribed; OCR noise, margin numbers or verse superscript
+num	theoldtestamenti00unknuoft	345	24	=Yiol	Ξγϊοὶ	Υἱοὶ	Υἱοὶ	image (3x): Υἱοὶ, rough breathing on ι, grave before capitalized name
+num	theoldtestamenti00unknuoft	345	24	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	345	25	Sapedei:	Σαρεδεί:	Σαρεδεί·	Σαρεδεί·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	345	25	Ἀλλών,	Ἀλλών,	Ἀλλών,	Ἀλλών,	image (3x): smooth breathing
+num	theoldtestamenti00unknuoft	345	25	Ἀλλωνεί:	Ἀλλωνεί:	Ἀλλωνεί·	Ἀλλωνεί·	image (3x): smooth breathing
+num	theoldtestamenti00unknuoft	345	25	“AANA,	Ἀλλήλ,	Ἀλλήλ,	Ἀλλήλ,	image (3x): smooth breathing
+num	theoldtestamenti00unknuoft	345	16	-	-	δήμους	δήμους	image: lines 14-25 are set in from the left edge to make room for the paired margin numbers (19) 15 ... (26) 22; not paragraph indents, so no {P}

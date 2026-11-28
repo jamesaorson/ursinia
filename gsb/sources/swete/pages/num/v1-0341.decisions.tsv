@@ -1,0 +1,52 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+num	theoldtestamenti00unknuoft	341	1	ἐκεῖθεν. +7	ἐκεῖθεν. +38	ἐκεῖθεν.	ἐκεῖθεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	341	2	τὸ	Τὸ	τὸ	τὸ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	341	2	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	341	2	ἔρημον.	ἐρῆμον.	ἔρημον.	ἔρημον.	image (3x): ἔρημον smooth+acute on ε
+num	theoldtestamenti00unknuoft	341	2	kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	341	2	Βαλάκ	Βαλάκ	Βαλάκ	Βαλάκ	image (3x): accent before capitalized word as transcribed
+num	theoldtestamenti00unknuoft	341	3	Οἰκοδόμησόν	Οἰκοδόμησόν	Οἰκοδόμησόν	Οἰκοδόμησόν	image (3x): accent before enclitic as transcribed; Οἰ smooth
+num	theoldtestamenti00unknuoft	341	3	ἑτοίμασόν	ἑτοίμασόν	ἑτοίμασόν	ἑτοίμασόν	image (3x): accent before enclitic as transcribed; Οἰ smooth
+num	theoldtestamenti00unknuoft	341	3	ἐπτὰ	ἑπτὰ	ἑπτὰ	ἑπτὰ	image (3x): ἑπτὰ rough breathing, grave
+num	theoldtestamenti00unknuoft	341	4	μόσχους	μοσχους	μόσχους	μόσχους	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	341	4	καὶ	Και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	341	4	ἑπτὰ	ἐπτα	ἑπτὰ	ἑπτὰ	image (3x): ἑπτὰ rough breathing, grave
+num	theoldtestamenti00unknuoft	341	4	κριούς. +3"	Κριίιους.	κριούς.	κριούς.	image (3x): κριούς. (30 is the margin number)
+num	theoldtestamenti00unknuoft	341	4	καὶ	Και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	341	4	ἐποίησεν	ἐποιῆσεν	ἐποίησεν	ἐποίησεν	image (3x): ἐποίησεν acute on ί
+num	theoldtestamenti00unknuoft	341	4	εἶπεν	ειπεν	εἶπεν	εἶπεν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	341	5	βωμόν. +τ	βωμόν. +τ	βωμόν.	βωμόν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	341	5	ἰδὼν	ἰδὼν	ἰδὼν	ἰδὼν	image (3x): accent before capitalized word as transcribed
+num	theoldtestamenti00unknuoft	341	6	καλόν	καλόν	καλόν	καλόν	image (3x): accent before enclitic as transcribed; Οἰ smooth
+num	theoldtestamenti00unknuoft	341	6	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on capital as transcribed
+num	theoldtestamenti00unknuoft	341	8	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	341	8	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	341	9	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital as transcribed
+num	theoldtestamenti00unknuoft	341	9	φυλάς:	φυλάς:	φυλάς·	φυλάς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	341	10	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	341	10	3καὶ	53καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	341	11	Φησὶν	Φησὶν	Φησὶν	Φησὶν	image (3x): accent before capitalized word as transcribed
+num	theoldtestamenti00unknuoft	341	11	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): accent before capitalized word as transcribed
+num	theoldtestamenti00unknuoft	341	15	αὐτοῦ"	αὐτοῦ	αὐτοῦ·	αὐτοῦ·	image (3x): ano teleia at line end
+num	theoldtestamenti00unknuoft	341	16	5@s	5Βῶὼς	ὡς	ὡς	image (3x): ὡς rough + acute after superscript 5
+num	theoldtestamenti00unknuoft	341	16	καλοί	καλοί	καλοί	καλοί	image (3x): accent before enclitic as transcribed; Οἰ smooth
+num	theoldtestamenti00unknuoft	341	16	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing on capital as transcribed
+num	theoldtestamenti00unknuoft	341	17	∅	αἱ	αἱ	αἱ	class R0: OCR lost the word in extraction; c read from the image strip
+num	theoldtestamenti00unknuoft	341	17	∅	σκηναί	σκηναί	σκηναί	image (3x): accent before enclitic as transcribed; Οἰ smooth
+num	theoldtestamenti00unknuoft	341	17	∅	σου,	σου,	σου,	class R0: OCR lost the word in extraction; c read from the image strip
+num	theoldtestamenti00unknuoft	341	17	∅	Ἰσραὴλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing on capital as transcribed
+num	theoldtestamenti00unknuoft	341	18	ὡς	ὁῶς	ὡς	ὡς	class R6 (OCR letters differ): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	341	19	ποταμῶν:	ποταμῶν.	ποταμῶν·	ποταμῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	341	20	as	ἃς	ἃς	ἃς	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	341	21	παρ᾽	παρ᾽ +9	παρ᾽	παρ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	341	22	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	341	23	ἐθνών	ἐθνών	ἐθνῶν	ἐθνῶν	image (3x): ἐθνῶν circumflex
+num	theoldtestamenti00unknuoft	341	23	πολλῶν:	πολλών:	πολλῶν·	πολλῶν·	image (3x): ano teleia at line end
+num	theoldtestamenti00unknuoft	341	24	Tay	Τὼγ	Γὼγ	Γὼγ	image (3x): Γ, not Τ; Γὼγ grave
+num	theoldtestamenti00unknuoft	341	26	δθεὸς	δθεὸς	θεὸς	θεὸς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	341	26	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	image (3x): smooth breathing on capital as transcribed
+num	theoldtestamenti00unknuoft	341	27	αὐτῷ"	αὐτῷ"	αὐτῷ·	αὐτῷ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	341	30	BoXiow	βολίσιν	βολίσιν	βολίσιν	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	341	15	-	-	ὕπνῳ,	ὕπνῳ,	image (4x): small speck before ὕπνῳ on the baseline, not a mark; ignored
+num	theoldtestamenti00unknuoft	341	24	-	-	ἢ	ἢ	image (8x): smooth breathing + grave (ἢ), not ἡ; kept as printed
+num	theoldtestamenti00unknuoft	341	26	-	-	ὡδήγησεν	ὡδήγησεν	image (8x): rough breathing on ω, acute on η; kept as printed

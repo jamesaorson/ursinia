@@ -1,7 +1,7 @@
 ;; Copyright (C) 2026
 ;;
 ;; Check the Greek Source Bible translation files (gsb/translation/) against
-;; the Greek tables (gsb/greek/), the concordance (gsb/lexicon/glosses.scm) and
+;; the Greek tables (gsb/greek/), the concordance (gsb/lexicon/glosses/) and
 ;; the readable layer's avoid list (gsb/lexicon/readable-avoid.scm); or, with
 ;; --uses, list where a lemma is used. The rules live in (scripts lib
 ;; gsb-translation); the format is documented in gsb/translation/README.md.
@@ -14,7 +14,7 @@
              (srfi srfi-11)
              (srfi srfi-13))
 
-(define %glosses "gsb/lexicon/glosses.scm")
+(define %glosses "gsb/lexicon/glosses/")
 (define %avoid "gsb/lexicon/readable-avoid.scm")
 
 (define (usage port)
@@ -90,6 +90,16 @@ with chapter #f."
         (values '() (list forms))
         (values forms (map (lambda (m) (string-append path ": " m)) (check forms))))))
 
+(define (read-concordance)
+  "(values forms errors) for the concordance files (gsb/lexicon/glosses/*.scm)."
+  (let* ((read (map (lambda (p) (cons p (safe-read-forms p))) (gloss-files)))
+         (bad (filter (lambda (r) (string? (cdr r))) read))
+         (forms (append-map cdr (remove (lambda (r) (string? (cdr r))) read))))
+    (values forms
+            (append (map cdr bad)
+                    (if (null? (gloss-files)) (list (format #f "~a: no concordance files; it should hold one .scm file per initial letter" %glosses)) '())
+                    (map (lambda (m) (string-append %glosses ": " m)) (check-glosses forms))))))
+
 (define (uses books glosses lemma)
   "Print every literal-layer use of LEMMA; exit 1 if there is none."
   (let* ((lemma (string-normalize-nfc lemma))
@@ -142,7 +152,7 @@ with chapter #f."
     (format (current-error-port) "gsb-check: Greek tables missing (gsb/greek/); run `make gsb`~%")
     (exit 1))
   (let*-values (((books) (read-books))
-                ((gloss-forms gloss-errors) (read-checked %glosses check-glosses "concordance"))
+                ((gloss-forms gloss-errors) (read-concordance))
                 ((avoid-forms avoid-errors) (read-checked %avoid check-avoid "avoid list"))
                 ((glosses) (parse-glosses (if (null? gloss-errors) gloss-forms '())))
                 ((avoid) (if (null? avoid-errors) (parse-avoid avoid-forms) '())))

@@ -1,0 +1,61 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+deut	theoldtestamenti00unknuoft	400	2	πυρί:	πυρί:	πυρί·	πυρί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	3	“οὐ	“οὐ	οὐ	οὐ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	3	ποιήσετε	ποιήσετε +4	ποιήσετε	ποιήσετε	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	4	τῴ	τῴ	τῷ	τῷ	image (3x): circumflex and iota subscript (τῷ)
+deut	theoldtestamenti00unknuoft	400	4	ὑμῶν.	ὑμῶν.	ὑμῶν·	ὑμῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	4	5ἀλλ᾽	5ἀλλ᾽	ἀλλ᾽	ἀλλ᾽	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	4	ἐκλέξηται	ἐκλέξηται +5	ἐκλέξηται	ἐκλέξηται	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	5	θεός	θεός	θεός	θεός	image (3x): acute before enclitic, as printed
+deut	theoldtestamenti00unknuoft	400	5	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	6	ἐκεῖ:	ἐκεῖ:	ἐκεῖ·	ἐκεῖ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	6	“καὶ	6 +“καὶ	καὶ	καὶ	image (3x): word after verse number, as in page file; OCR fused the superscript
+deut	theoldtestamenti00unknuoft	400	6	οἴσετε	οἴσετε +6	οἴσετε	οἴσετε	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	8	ὑμῶν	ὑμῶν:	ὑμῶν·	ὑμῶν·	image (3x): ano teleia
+deut	theoldtestamenti00unknuoft	400	8	καὶ	7καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	8	ἐκεῖ	ἐκεῖ +7	ἐκεῖ	ἐκεῖ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	10	εὐλόγησέν	εὐλόγησέν	εὐλόγησέν	εὐλόγησέν	image (3x): acute before enclitic, as printed
+deut	theoldtestamenti00unknuoft	400	11	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	400	11	θεός	θεός	θεός	θεός	image (3x): acute before enclitic, as printed
+deut	theoldtestamenti00unknuoft	400	11	*ov	ὅ“οὺ	οὐ	οὐ	image (3x): word after verse number, as in page file; OCR fused the superscript
+deut	theoldtestamenti00unknuoft	400	11	ὧδε	ὧδε +8	ὧδε	ὧδε	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	12	8	σήμερον,	σήμερον,	σήμερον,	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	400	12	∅	ἕκαστος	ἕκαστος	ἕκαστος	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	12	∅	τὸ	τὸ	τὸ	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	12	∅	ἀρεστὸν	ἀρεστὸν	ἀρεστὸν	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	12	∅	ἐνώπιον	ἐνώπιον	ἐνώπιον	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	12	∅	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	12	∅	θοὺ	οὐ	οὐ	image (3x): word after verse number, as in page file; OCR fused the superscript
+deut	theoldtestamenti00unknuoft	400	12	∅	γὰρ	γὰρ	γὰρ	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	12	∅	ἥκατε	ἥκατε	ἥκατε	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	12	∅	ἕως +9	ἕως	ἕως	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	13	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	13	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	13	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	13	ἣν	ἣν	ἣν	ἣν	image (3x): rough + grave, grave as printed (no quotation follows)
+deut	theoldtestamenti00unknuoft	400	14	ὑμῖν. +"	ὑμῖν. +"ὁ	ὑμῖν.	ὑμῖν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	14	τὸν	τὸν +ΕῚ	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	14	Ἰορδάνην,	Ἰορδάνην,	Ἰορδάνην,	Ἰορδάνην,	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	400	14	καὶ +10	καὶ +τὸ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	17	ἀσφαλίας.	ἀσφαλίας. +1Ι	ἀσφαλίας.	ἀσφαλίας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	17	ὃν +τι	ὃν +τι	ὃν	ὃν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	18	θεός	θεός	θεός	θεός	image (3x): acute before enclitic, as printed
+deut	theoldtestamenti00unknuoft	400	20	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	22	θεῷ"	θεῷ"	θεῷ·	θεῷ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	22	Kal	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	22	τοῦ +12	τοῦ +τ:	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	23	viol	υἱοὶ	υἱοὶ	υἱοὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	24	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	24	Aeveitns	Λευείτης	Λευείτης	Λευείτης	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	25	μῶν,	μῶν,	ὑμῶν,	ὑμῶν,	image (3x): ὑ with rough breathing present; OCR lost it
+deut	theoldtestamenti00unknuoft	400	25	οὐκ +κ	οὐκ	οὐκ	οὐκ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	25	μεθ᾽ +θ᾽	μεθ᾽ +θ᾽	μεθ᾽	μεθ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	25	ὑμῶν. +13	ὑμῶν. +13	ὑμῶν.	ὑμῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	26	ὁλοκαυτώματά	ὁλοκαυτώματά	ὁλοκαυτώματά	ὁλοκαυτώματά	image (3x): acute before enclitic, as printed
+deut	theoldtestamenti00unknuoft	400	27	ions,	ἴδης,	ἴδῃς,	ἴδῃς,	image (3x): smooth + acute on ι, iota subscript under η
+deut	theoldtestamenti00unknuoft	400	27	“aAX	"᾿αλλ᾽	ἀλλ᾽	ἀλλ᾽	image (3x): ἀλλ᾽ with smooth breathing and elision mark
+deut	theoldtestamenti00unknuoft	400	27	Beds	θεός	θεός	θεός	image (3x): acute before enclitic, as printed
+deut	theoldtestamenti00unknuoft	400	27	σου +14	σου +τΆ	σου	σου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	400	4	-	-	ἢ	ἢ	image (3x): smooth + grave, same open two-part mark as ἂν on the same line, unlike the closed mark on ὃν
+deut	theoldtestamenti00unknuoft	400	27	-	-	ἢ	ἢ	image (3x): smooth + grave, same open two-part mark as ἂν on the same line, unlike the closed mark on ὃν
+deut	theoldtestamenti00unknuoft	400	19	-	-	οἴσετε	οἴσετε	ambiguous: first letter filled with ink (heavy impression); read ο with smooth + acute

@@ -30,6 +30,11 @@ is settled against an enlarged crop of the image and logged.
 - **No guessing in silence.** Damaged, faint or ambiguous print gets your best
   reading *and* a logged decision that says it is ambiguous (see step 7).
 - No git commits or pushes. No Python. Images stay in the cache, never in the repo.
+- **Edit Greek text with the edit tools** (Edit/Write), never `perl -pi`,
+  `sed -i` or shell redirection: they mangle combining characters and NFC.
+- **Pass BOOK and LEAF as separate arguments.** In zsh a variable holding
+  `lev 275` is not split into two words (`L="lev 275"; ./scripts/gsb-swete.sh
+  collate $L` fails); write `collate lev 275`, or use two variables.
 
 ## Setup (once per session)
 
@@ -123,10 +128,21 @@ one) and lines that look indented (a paragraph you have not marked with `{P}`).
 Read the sheets. For each row decide what the print shows:
 
 ```sh
-./scripts/gsb-swete.sh decide gen 39 4 'image (3x): rough breathing'           # you were right
-./scripts/gsb-swete.sh decide gen 39 7,9 'image (3x): acute before capitalized quotation'
-./scripts/gsb-swete.sh decide gen 39 12 'image (3x): Γ, not Τ' 'Γενηθήτω'         # chosen = what the print has
+./scripts/gsb-swete.sh decide gen 39 4@97tpd 'image (3x): rough breathing'           # you were right
+./scripts/gsb-swete.sh decide gen 39 7,9@97tpd 'image (3x): acute before capitalized quotation'
+./scripts/gsb-swete.sh decide gen 39 12@97tpd 'image (3x): Γ, not Τ' 'Γενηθήτω'         # chosen = what the print has
 ```
+
+Without CHOSEN, `decide` records what the page file says at that row now
+(reading C), so edit the page first and then decide; with CHOSEN it records
+that reading. If the page changed in a way that renumbers rows, it asks you to
+collate again.
+
+`@97tpd` is the **rows revision** the last `collate` printed ("Rows revision
+97tpd"). Every collate after a page edit can renumber the rows; `decide`
+refuses a revision that is no longer current ("rows were renumbered by the
+last collate: list them again ..."), so old row numbers can never settle the
+wrong rows. Settling rows and `flag` do not change the revision.
 
 When the chosen reading differs from your page file, **edit the page file** to
 match (collate and done refuse a mismatch). If a crop is unclear, zoom further:
@@ -135,6 +151,13 @@ match (collate and done refuse a mismatch). If a crop is unclear, zoom further:
 ./scripts/gsb-swete.sh zoom gen 39 14            # line 14 in three pieces, 2x (add a scale: 14 3)
 ./scripts/gsb-swete.sh zoom gen 39 600 900 1100 1000 4   # any rectangle X0 Y0 X1 Y1, 4x
 ```
+
+`zoom LINE` counts lines the way `collate`, `decide` and `flag` do: the page
+file's text lines, `#` lines not counted. It finds the OCR line those words
+align to and prints both (`page line 14 = OCR line 13: <your text>`); check
+the text it prints. Before the page file has text, LINE is the OCR's line, as
+in the strips. For a single word, the rectangle form at 6-8x with the word's
+box is sharper; compare it with a clear example of the same glyph on the page.
 
 The basis says what you saw: `image (3x): smooth breathing`, `image: speck, not a
 period`, `image: Τ, not Γ`. Rerun `collate` after edits; it keeps your decisions
@@ -157,8 +180,9 @@ Write your best reading and log it, even if no OCR disagreed:
 ./scripts/gsb-swete.sh flag gen 39 22 'Ἀσσυρίων,' 'ambiguous: mark after the word is half comma half period; read comma'
 ```
 
-WORD must be on that line exactly as in the page file (punctuation included);
-`flag` refuses otherwise and prints the line's words.
+WORD must be on that line as in the page file (punctuation included; `¶` `§`
+and `{...}` markers may be given or left out); `flag` refuses otherwise and
+prints the line's words.
 
 Never invent text for a hole in the scan; if words are unreadable, stop and
 report the leaf to the coordinator instead of finishing it.
@@ -170,6 +194,19 @@ Both OCRs fail *together* here, so agreement means nothing:
 - **H1 breathing on a capital** (Ἀ/Ἁ, Ἐ/Ἑ, Ὁ/Ὀ, Εὐ/Εὑ). Rough looks like a
   reversed comma (‘, opening left), smooth like an apostrophe (’). Examples
   from the pilot: Ἁνανίας, Ἁμελσάδ, Εὑειλάτ.
+  **Breathing + accent on a capital** sits to the left of the letter and comes
+  in four shapes (checked on Gen-Num, `ursinia-vff.14`), the same as over a
+  lowercase vowel:
+  rough + grave is one compact closed mark like a small `d` (Ὃς Exod leaf 177
+  l18, Ἓξ leaf 181 l11, every Ὣρ);
+  rough + acute is an open curl like `c` then a separate rising stroke (Ὅσα
+  Num leaf 361 l12, Ὅρα leaf 286 l10, Ὥσπερ Lev leaf 250 l3);
+  smooth + acute is an apostrophe then a rising stroke, like `”` (Ὤφθη Gen
+  leaf 99 l4, Ὄφελον Num leaf 316 l15, Ὄρθρισον Exod leaf 150 l30);
+  smooth + grave is an apostrophe then a stroke falling to the right, like
+  the mark on ἂν (Ὢγ Num leaves 335, 343, 361; Ἢρ; Ὢς). The test between
+  the two graves is whether the mark is closed (rough) or open with two
+  parts (smooth); zoom at 8x or more and set it beside ἂν and ὃς on the page.
 - **H2 accent before an enclitic** (σου, μου, με, τε, ἐστιν, τις, ...): Swete
   writes ὅ τε, καλόν σου, φωνήν σου.
 - **H3 accent before a capitalized word**: Swete puts an acute (not grave) on an
@@ -213,8 +250,9 @@ third. Text lines:
 | `{C4}` | Swete's chapter 4 starts here (the Roman numeral in the margin). Put it right before the chapter's `{1}`. |
 | `{7}` | Swete's verse 7 starts here: where the superscript number stands in the text. |
 | `{=2:25}` | The **common** reference from here on, from a number Swete prints *in parentheses*, in the margin or inside the text, e.g. `(25)(II)` = 2:25, `(1)(III)` = 3:1. Put it where that verse starts in the text (after Swete's own `{n}` if both start there). It holds until Swete's next `{n}`, which resets the common reference to Swete's number; so every verse that differs needs its own `{=c:v}`. It may go backwards (the Septuagint transposes verses), but each common verse may be given only once per book. |
-| `{=31:48a}` | A half verse: Swete's margin prints `(48 a)`, `(48 b)`, or an unparenthesized `52 b` beside his own number. Keep the letter; the table gets verse `48a`. A whole verse and its halves cannot both appear. |
-| `{52!}` | Swete's verse 52 starts here **and his own numbering really skips** (he prints no 51). Without `!` a skip fails as a misread number; with `!` and no skip it fails too. |
+| `{=31:48a}` | A half verse: Swete's margin prints `(48 a)`, `(48 b)`, or an unparenthesized `52 b` beside his own number. Keep the letter; the table gets verse `48a`. A whole verse and its halves cannot both appear. **Also** where Swete prints the same parenthesized number twice in a book (Exod 25:34 on leaf 186, 39:40 on leaf 217): the first place gets `a`, the second `b`, and a `#` comment says the letters are ours, not printed. |
+| `{=40:30-31}` `{=36:34,36}` | One Swete verse for several common verses: the margin prints `(30, 31)`, `(19-22)`, `(34, 36)`. Consecutive numbers are a range (`(4, 5)` = `{=37:4-5}`), others a list in ascending order; the table gets one row, verse `30-31`, and every verse in it counts as given. A list member printed twice elsewhere takes its letter: `{=36:34,36b}`. |
+| `{52!}` | Swete's verse 52 starts here **and his own number is printed out of sequence**: it really skips (he prints no 51), or comes early or late (Num 6 prints 23, 27, 24, 25, 26: `{27!}` and `{24!}`; Num 10 prints 33, 35, 36, 34: `{35!}` and `{34!}`). Mark every number that does not follow the one before by one. Without `!` a break fails as a misread number; with `!` and none it fails too; a Swete number twice in a chapter always fails. |
 | `{P}` | New paragraph: the line is indented in print. First thing on the line. (A blank-line gap before a paragraph, as before Gen 6:9, is not marked separately.) |
 | `{S}` | A line of poetry: Swete sets a song or oracle as indented verse lines (Gen 4:23–24). Put `{S}` first on every such line, whatever its indent depth; the introducing prose line (`εἶπεν δὲ Λάμεχ ...`) gets none. |
 | `¶` `§` | Witness marks printed *in the text* (a fragmentary manuscript stops / resumes). Keep them where they stand. The `¶D` / `§D` in the margin are not text. |
@@ -286,7 +324,21 @@ with these words, so it is a misprint for `(25)` and is encoded `{=49:25}`.
 
 Swete's chapter 32 runs one ahead of his margin throughout (his 31:55 is
 common 32:1, his 32:1 is common 32:2, ...): every verse gets its `{=32:n}`,
-and a forgotten one fails as a duplicate common reference.
+and a forgotten one fails as a duplicate common reference. Write the numbers
+as printed, even where they follow the Hebrew chapter division (Gen 32:1,
+Exod 7:26-8:28, 21:37-22:30, Lev 5:20-6:23, Num 17:1-28, 25:19, 30:1-17,
+Deut 13:1-19, 23:1-26, 28:69-29:28): `merge` converts them to the English division
+with `gsb/sources/swete/versification.tsv`.
+
+**A Swete verse with no parenthesized number inside a stretch where the
+numbering differs** (Exod 35-40: e.g. leaf 208, Swete 35:13 and 35:14 between
+`12 (17)` and `15 (13)`). Without a marker it falls back to Swete's own number,
+which another verse already holds (status fails) or which belongs to another
+chapter (status warns). It has no counterpart of its own: run it on with the
+common verse before it, `{13}{=35:17}`, with a `#` comment line above saying
+what the margin prints and a `flag` row. Where Swete's own number simply equals
+the common one (Exod 28:24-25 between `23 (29)` and `26 (30)`: the verses match
+common 28:24-25) leave it unmarked.
 
 **Conventions** (transcribe, never normalize):
 
@@ -297,6 +349,12 @@ and a forgotten one fails as a duplicate common reference.
   apparent misprints.
 - UTF-8, NFC. Ano teleia `·` (U+00B7), question mark `;` (U+003B), elision
   `᾽` (U+1FBD, e.g. `καθ᾽`). No Latin letters, digits or other symbols outside markers.
+- **Letter numerals**: Swete prints a keraia after a numeral (`ιβ΄` = 12,
+  Exod 15:27; `κ΄` = 20). Write it as `ʹ` (U+02B9, which is what NFC makes of
+  U+0374 GREEK NUMERAL SIGN) right after the letters: `ιβʹ`. Not an apostrophe
+  `'`, not the tonos `΄` (U+0384); the checker refuses those, and refuses `ʹ`
+  anywhere but after a Greek letter. Type it with `printf 'ʹ'` or copy it
+  from here.
 - A page that starts mid-verse simply starts with the text; one that starts
   mid-word starts with the word's second half (the previous page ends in `-`).
 - Wide spaces inside a line (Swete's section breaks) are a single space; the
@@ -372,8 +430,14 @@ and status would then fail them.
 `status` says per leaf `done`, `wip` (file exists, not stamped), `missing` or
 `FAIL` with the reasons (Swete's own verse out of sequence across leaves, a
 common verse given twice, unbalanced brackets, non-Greek or non-NFC text,
-unknown markers, TODO rows on a done leaf). Warnings (a common reference that
-jumps) do not fail a leaf.
+unknown markers, TODO rows on a done leaf). A leaf that is not done ends the
+order and duplicate checks: the next leaf starts fresh (no chapter carried
+over) and gets a warning that its checks against earlier leaves were skipped
+because that leaf is unfinished; they run once it is done.
+Warnings (a common reference that jumps; a Swete verse with no `{=c:v}` that
+lands in another chapter than the common verse before it) do not fail a leaf.
+`done` also refuses a leaf that gives a common verse another page file
+already gives, and names that leaf.
 `merge` builds each book's verse table from the done leaves from the book's
 first leaf up to the first gap, so a verse or word that crosses into a leaf
 another agent did comes out whole once both are done.

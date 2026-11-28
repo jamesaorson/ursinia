@@ -1,0 +1,75 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+deut	theoldtestamenti00unknuoft	428	1	‘Kai	Κ̓αὶ	Καὶ	Καὶ	image (3x): superscript 1 then Καὶ, no breathing
+deut	theoldtestamenti00unknuoft	428	1	Ἰσραηλειτῶν	Ἰσραηλειτῶν	Ἰσραηλειτῶν	Ἰσραηλειτῶν	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	428	2	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	428	3	ἧ	ἣ	ᾗ	ᾗ	image (3x): rough breathing, circumflex and iota subscript, ᾗ
+deut	theoldtestamenti00unknuoft	428	3	ἡμέρᾳ	ἡμέρᾳ +ὃ	ἡμέρᾳ	ἡμέρᾳ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	428	3	Ἰορδάνην	Ἰορδάνην	Ἰορδάνην	Ἰορδάνην	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	428	3	ἣν	ἣν	ἣν	ἣν	image (3x): accent before capitalized word as printed
+deut	theoldtestamenti00unknuoft	428	3	Κύριος	Κυριος	Κύριος	Κύριος	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	428	4	δίδωσίν	δίδωσίν	δίδωσίν	δίδωσίν	image (3x): accent before enclitic as printed
+deut	theoldtestamenti00unknuoft	428	5	κονίᾳ:	κονίᾳ:	κονίᾳ·	κονίᾳ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	428	5	ϑκαὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	428	6	ws	ὡς	ὡς	ὡς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	428	6	“lopdavny,	3 +Ιορδάνην,	Ἰορδάνην,	Ἰορδάνην,	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	428	7	ἣν	ἣν	ἣν	ἣν	image (3x): accent before capitalized word as printed
+deut	theoldtestamenti00unknuoft	428	7	cov	σου	σου	σου	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	428	7	δίδωσίν	δίδωσίν	δίδωσίν	δίδωσίν	image (3x): accent before enclitic as printed
+deut	theoldtestamenti00unknuoft	428	8	γάλα	γά	γάλα	γάλα	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	428	8	καὶ	ὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	428	8	θεὸς	εὡὼὺς	θεὸς	θεὸς	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	428	8	τῶν	τῶ	τῶν	τῶν	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	428	9	καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	428	9	Ἰορδάνην,	Ιορδάνην,	Ἰορδάνην,	Ἰορδάνην,	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	428	10	οὺς	οὺς	οὓς	οὓς	image (3x): closed d-shaped mark = rough + grave, οὓς
+deut	theoldtestamenti00unknuoft	428	10	ἐντέλλομαί	ἐντέλλομαί	ἐντέλλομαί	ἐντέλλομαί	image (3x): accent before enclitic as printed
+deut	theoldtestamenti00unknuoft	428	10	Ταιβάλ,	Ταιβάλ,	Γαιβάλ,	Γαιβάλ,	image (3x): Γ, not Τ
+deut	theoldtestamenti00unknuoft	428	11	κονίᾳ. +5	κονίᾳ. +5	κονίᾳ.	κονίᾳ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	428	13	“λίθους	“λίθους	σίδηρον·	λίθους	image (3x): superscript verse number fused, word as on page
+deut	theoldtestamenti00unknuoft	428	15	Τκαὶ	7 +Τκαὶ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	428	15	ἐκεῖ	ἐκεῖ +θ	ἐκεῖ	ἐκεῖ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	428	16	σου"	σου"	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	428	16	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	428	17	σφόδρα.	σφόδρα. +9	σφόδρα.	σφόδρα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	428	17	ϑΚαὶ	Καὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	428	18	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	428	18	παντὶ	παντὶ	παντὶ	παντὶ	image (3x): accent before capitalized word as printed
+deut	theoldtestamenti00unknuoft	428	18	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	428	19	toma	ιώπα	Σιώπα	Σιώπα	image (3x): Σιώπα
+deut	theoldtestamenti00unknuoft	428	19	Ἰσραήλ:	Ἰσραήλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	428	19	λαὸν	λαὸν	λαὸν	λαὸν	image (3x): accent before capitalized word as printed
+deut	theoldtestamenti00unknuoft	428	20	και	1ο	καὶ	καὶ	image (3x): line read clearly from image, OCR garbled
+deut	theoldtestamenti00unknuoft	428	20	εἰσακουσῇῃ	και	εἰσακούσῃ	εἰσακούσῃ	image (3x): line read clearly from image, OCR garbled
+deut	theoldtestamenti00unknuoft	428	20	TS	ειἰσακουσῇῃ +Τὴς	τῆς	τῆς	image (3x): line read clearly from image, OCR garbled
+deut	theoldtestamenti00unknuoft	428	20	υριου	Κυρίου	Κυρίου	Κυρίου	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	428	20	του	του	τοῦ	τοῦ	image (3x): line read clearly from image, OCR garbled
+deut	theoldtestamenti00unknuoft	428	20	εου	θ	θεοῦ	θεοῦ	image (3x): line read clearly from image, OCR garbled
+deut	theoldtestamenti00unknuoft	428	21	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	428	22	ἐντέλλομαί	ἐντέλλομαί	ἐντέλλομαί	ἐντέλλομαί	image (3x): accent before enclitic as printed
+deut	theoldtestamenti00unknuoft	428	23	; +"Kat	Καὶ	Καὶ	Καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	428	24	Ταριζείν,	Ταριζείν,	Γαριζείν,	Γαριζείν,	image (3x): Γ, not Τ
+deut	theoldtestamenti00unknuoft	428	25	Ἰορδάνην:	Ἰορδάνην:	τὸν	Ἰορδάνην·	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	428	25	Συμεών,	Συμεών,	Συμεών,	Συμεών,	image (3x): accent before capitalized word as printed
+deut	theoldtestamenti00unknuoft	428	25	Aevei,	Λευεί,	Λευεί,	Λευεί,	image (3x): accent before capitalized word as printed
+deut	theoldtestamenti00unknuoft	428	25	Ἰουδά,	Ἰουδά,	Ἰουδά,	Ἰουδά,	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	428	25	Ἰσσαχάρ,	Ἰσσαχάρ,	Ἰσσαχάρ,	Ἰσσαχάρ,	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	428	25	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	428	25	Bev-	Βεν-	Βεν-	Βεν-	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	428	26	“3kal	"Ξκαὶ	ιαμείν.	καὶ	image (3x): superscript verse number fused, word as on page
+deut	theoldtestamenti00unknuoft	428	26	Ῥαιβάλ:	Ταιβάλ᾽	Γαιβάλ·	Γαιβάλ·	image (3x): Γ, not Τ
+deut	theoldtestamenti00unknuoft	428	27	Tad	Τὰδ	Ῥουβήν,	Γὰδ	image (3x): Γ, not Τ
+deut	theoldtestamenti00unknuoft	428	27	Aonp,	Ἀσήρ,	Ἀσήρ,	Ἀσήρ,	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	428	27	Ζαβουλών,	Ζαβουλών,	Ζαβουλών,	Ζαβουλών,	image (3x): accent before capitalized word as printed
+deut	theoldtestamenti00unknuoft	428	27	Νεφθαλεί. +14	Νεφθαλεί. +14	Νεφθαλεί.	Νεφθαλεί.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	428	28	παντὶ	παντὶ	παντὶ	παντὶ	image (3x): accent before capitalized word as printed
+deut	theoldtestamenti00unknuoft	428	28	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	428	29	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	428	2	σήμερον.	σήμερον. +2,	σήμερον.	σήμερον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	428	4	θεός	θεός	θεός	θεός	image (3x): accent before enclitic as printed
+deut	theoldtestamenti00unknuoft	428	9	σου	σού	σού	σού	image (3x): accent before enclitic as printed
+deut	theoldtestamenti00unknuoft	428	13	σίδηρον:	σίδηρον:	σίδηρον·	σίδηρον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	428	15	σου:	σου:	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	428	20	σόοῦυ,	εου +σοῦ,	σου,	σου,	image (3x): line read clearly from image, OCR garbled
+deut	theoldtestamenti00unknuoft	428	24	Οὗτοι	Ξ̓οὗτοι	Οὗτοι	Οὗτοι	image (3x): rough breathing + circumflex on υ of Οὗτοι
+deut	theoldtestamenti00unknuoft	428	27	Ῥουβήν,	Ῥουβήν,	Ῥουβήν,	Ῥουβήν,	image (3x): rough breathing on capital Ρ, Ῥουβήν
+deut	theoldtestamenti00unknuoft	428	28	"" +Ἔπι-	"" +Ἔπι-	Ἐπι-	Ἐπι-	image (3x): smooth breathing on capital

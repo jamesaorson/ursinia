@@ -79,7 +79,8 @@
                  (key (cons (car cv) (cadr cv)))
                  (parts (split-punct text))
                  (row (make-word (first parts) (normalize-elision (second parts)) (third parts)
-                                 lemma (parse-strong strong) morph '()))
+                                 ;; Nestle lemmas spell acute as oxia (U+1F7x).
+                                 (string-normalize-nfc lemma) (parse-strong strong) morph '()))
                  (verses (hash-ref books code '())))
             (hash-set! books code
                        (if (and (pair? verses) (equal? (caar verses) key))

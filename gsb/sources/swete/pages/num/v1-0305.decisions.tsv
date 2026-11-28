@@ -1,0 +1,72 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+num	theoldtestamenti00unknuoft	305	1	ἁμαρτίας.	ἁμαρτίας. +ὅ᾽	ἁμαρτίας.	ἁμαρτίας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	305	1	ὅΞ᾽	πᾶσαι	πᾶσαι	πᾶσαι	class R6 (OCR letters differ): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	305	1	’πᾶσαι +ai	αἱ	αἱ	αἱ	class R6 (OCR letters differ): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	305	1	cis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	305	2	'σωτηρίου	σωτηρίου	σωτηρίου	σωτηρίου	class R6 (OCR letters differ): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	305	2	τέσσαρες"	τέσσαρες"	τέσσαρες·	τέσσαρες·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	305	2	ἑξη-	ἑξη-	ἑξή-	ἑξή-	image (3x): letters, accents and punctuation as transcribed; OCR dropped or misread diacritics
+num	theoldtestamenti00unknuoft	305	4	pera	μετὰ	μετὰ	μετὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	305	4	μετὰ	μετὰ +᾿	μετὰ	μετὰ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	305	4	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	305	5	δὲν	δέν	ἐν	ἐν	image (3x): letters, accents and punctuation as transcribed; OCR dropped or misread diacritics
+num	theoldtestamenti00unknuoft	305	5	Μωυσὴν	Μωυσὴν	Μωυσῆν	Μωυσῆν	image (3x): letters, accents and punctuation as transcribed; OCR dropped or misread diacritics
+num	theoldtestamenti00unknuoft	305	6	φωνὴν	φωνὴν	φωνὴν	φωνὴν	image (3x): accent as transcribed (acute on αὐτόν before capitalized quotation Ὅταν; grave before names)
+num	theoldtestamenti00unknuoft	305	7	Tos	τὸς	τος	τος	image (3x): letters, accents and punctuation as transcribed; OCR dropped or misread diacritics
+num	theoldtestamenti00unknuoft	305	7	6	ὅ᾽	ὅ	ὅ	image (3x): ὅ with rough+acute before enclitic ἐστιν
+num	theoldtestamenti00unknuoft	305	8	ava	ἀνὰ	ἀνὰ	ἀνὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	305	8	χερουβείμ:	χερουβείμ:	χερουβείμ·	χερουβείμ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	305	9	αὐτόν.	αὐτόν. +'	αὐτόν.	αὐτόν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	305	10	: +"Kai	Καὶ	Καὶ	Καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	305	10	Μωυσῆν	Μωυσὴν	Μωυσῆν	Μωυσῆν	image (3x): letters, accents and punctuation as transcribed; OCR dropped or misread diacritics
+num	theoldtestamenti00unknuoft	305	10	“Λάλησον	“Λάλησον	Λάλησον	Λάλησον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	305	10	ΛΔαρὼν	Δαρὼν	Ἀαρὼν	Ἀαρὼν	image (3x): breathing on the capital as transcribed (smooth apostrophe; Ὅταν rough+acute)
+num	theoldtestamenti00unknuoft	305	11	αὐτόν	αὐτόν	αὐτόν	αὐτόν	image (3x): accent as transcribed (acute on αὐτόν before capitalized quotation Ὅταν; grave before names)
+num	theoldtestamenti00unknuoft	305	11	Ὅταν	Ὅταν	Ὅταν	Ὅταν	image (3x): breathing on the capital as transcribed (smooth apostrophe; Ὅταν rough+acute)
+num	theoldtestamenti00unknuoft	305	11	ἐπιτιθῇς	ἐπιτιθῇς +:	ἐπιτιθῇς	ἐπιτιθῇς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	305	11	EK	ἐκ	ἐκ	ἐκ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	305	12	3καὶ	53καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	305	13	Ἀαρών:	Ἀαρών:	Ἀαρών·	Ἀαρών·	image (3x): breathing on the capital as transcribed (smooth apostrophe; Ὅταν rough+acute)
+num	theoldtestamenti00unknuoft	305	14	αὐτῆς:	αὐτῆς:	αὐτῆς.	αὐτῆς.	image (3x): period on baseline; faint speck above is not a colon/ano teleia
+num	theoldtestamenti00unknuoft	305	14	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	305	14	λυχνίας"	λυχνίας	λυχνίας·	λυχνίας·	image (3x): letters, accents and punctuation as transcribed; OCR dropped or misread diacritics
+num	theoldtestamenti00unknuoft	305	15	ὃ	ὃ	ὁ	ὁ	image (3x): ὁ rough breathing only, no accent
+num	theoldtestamenti00unknuoft	305	15	ὅλη:	ὅλη:	ὅλη·	ὅλη·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	305	17	Καὶ	5Καὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	305	17	“Λάβε	“Λάβε	Λάβε	Λάβε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	305	17	Λευείτας	Λευείτας +γ	Λευείτας	Λευείτας	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	305	18	γἐκ	ἐκ	ἐκ	ἐκ	class R6 (OCR letters differ): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	305	18	‘Iopand	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): breathing on the capital as transcribed (smooth apostrophe; Ὅταν rough+acute)
+num	theoldtestamenti00unknuoft	305	18	Τκαὶ	Τκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	305	19	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	305	19	ἁγνισμοῦ,	ἁγνισμοῦ;	ἁγνισμοῦ,	ἁγνισμοῦ,	class R6 (OCR letters differ): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	305	19	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	305	20	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	305	20	ἱμάτια +8	ἱμάτια +8	ἱμάτια	ἱμάτια	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	305	21	*Kai	ὅκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	305	21	βοῶν +.	βοῶν +.	βοῶν	βοῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	305	22	μόσχον +α	μόσχον +ο	μόσχον	μόσχον	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	305	23	ἁμαρτίας. +9	ἁμαρτίας. +9	ἁμαρτίας.	ἁμαρτίας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	305	24	ἔναντι.	ἔναντι.	ἔναντι	ἔναντι	image (3x): light speck after ἔναντι at mid-height, not punctuation
+num	theoldtestamenti00unknuoft	305	25	Ἰσραήλ:	ΕῚ	Ἰσραήλ·	Ἰσραήλ·	image (3x): breathing on the capital as transcribed (smooth apostrophe; Ὅταν rough+acute)
+num	theoldtestamenti00unknuoft	305	25	“Kal	Ἰσραήλ: +Ιο “καὶ	καὶ	καὶ	image (3x): letters, accents and punctuation as transcribed; OCR dropped or misread diacritics
+num	theoldtestamenti00unknuoft	305	26	ἐπιθήσουσιν	ἐπιθησουσιν	ἐπιθήσουσιν	ἐπιθήσουσιν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	305	26	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): accent as transcribed (acute on αὐτόν before capitalized quotation Ὅταν; grave before names)
+num	theoldtestamenti00unknuoft	305	26	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): breathing on the capital as transcribed (smooth apostrophe; Ὅταν rough+acute)
+num	theoldtestamenti00unknuoft	305	27	Λευείτας".	Λευείτας".	Λευείτας·	Λευείτας·	image (3x): letters, accents and punctuation as transcribed; OCR dropped or misread diacritics
+num	theoldtestamenti00unknuoft	305	27	“καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	305	27	Ἀαρὼν	Ἀαρὼν	Ἀαρὼν	Ἀαρὼν	image (3x): breathing on the capital as transcribed (smooth apostrophe; Ὅταν rough+acute)
+num	theoldtestamenti00unknuoft	305	28	IopanA,	Ισραηλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): breathing on the capital as transcribed (smooth apostrophe; Ὅταν rough+acute)
+num	theoldtestamenti00unknuoft	305	29	"οἱ	“οἱ	οἱ	οἱ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	305	29	κεφαλὰς +ον	κεφαλὰς	κεφαλὰς	κεφαλὰς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	305	29	τῶν +τοῖν	τῶν +"	τῶν	τῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	305	30	-σχῶν,	σχων,	σχων,	σχων,	class R6 (OCR letters differ): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	305	30	Και	Και	καὶ	καὶ	image (3x): letters, accents and punctuation as transcribed; OCR dropped or misread diacritics
+num	theoldtestamenti00unknuoft	305	30	ποιησει	ποιησει	ποιήσει	ποιήσει	image (3x): letters, accents and punctuation as transcribed; OCR dropped or misread diacritics
+num	theoldtestamenti00unknuoft	305	30	TOV	τον	τὸν	τὸν	image (3x): letters, accents and punctuation as transcribed; OCR dropped or misread diacritics
+num	theoldtestamenti00unknuoft	305	30	ενα	ενα	ἕνα	ἕνα	image (3x): letters, accents and punctuation as transcribed; OCR dropped or misread diacritics
+num	theoldtestamenti00unknuoft	305	30	περι	περι	περὶ	περὶ	image (3x): letters, accents and punctuation as transcribed; OCR dropped or misread diacritics
+num	theoldtestamenti00unknuoft	305	30	αμαρτιας	αμαρτιας	ἁμαρτίας	ἁμαρτίας	image (3x): letters, accents and punctuation as transcribed; OCR dropped or misread diacritics
+num	theoldtestamenti00unknuoft	305	30	Και	Και	καὶ	καὶ	image (3x): letters, accents and punctuation as transcribed; OCR dropped or misread diacritics
+num	theoldtestamenti00unknuoft	305	30	TOV	Τὸν	τὸν	τὸν	image (3x): letters, accents and punctuation as transcribed; OCR dropped or misread diacritics
+num	theoldtestamenti00unknuoft	305	30	ενα	ενα	ἕνα	ἕνα	image (3x): letters, accents and punctuation as transcribed; OCR dropped or misread diacritics

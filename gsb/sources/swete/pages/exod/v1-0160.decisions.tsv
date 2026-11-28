@@ -1,0 +1,63 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+exod	theoldtestamenti00unknuoft	160	1	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	1	dpov.	ὦμων.	ὤμων.	ὤμων.	image (3x): ὤμων, smooth breathing and acute (not circumflex)
+exod	theoldtestamenti00unknuoft	160	2	35οἱ	35οἱ	οἱ	οἱ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	2	viol	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave on υἱοὶ before Ἰσραὴλ (not a quotation)
+exod	theoldtestamenti00unknuoft	160	2	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on Ἰ
+exod	theoldtestamenti00unknuoft	160	3	ἤἥτησαν	ἤἥτησαν	ᾔτησαν	ᾔτησαν	image (3x): ᾔτησαν, smooth breathing, acute, iota subscript
+exod	theoldtestamenti00unknuoft	160	3	Αἰγυπτίων	Αἰγυπτίων	Αἰγυπτίων	Αἰγυπτίων	image (3x): smooth breathing on Αἰ
+exod	theoldtestamenti00unknuoft	160	4	Κυριος	Κύριος	Κύριος	Κύριος	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	160	4	Aa@	λαῷ	λαῷ	λαῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	4	avTov	αὐτοῦ	αὐτοῦ	αὐτοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	4	Αἰγυπτίων,	Αἰγυπτίων,	Αἰγυπτίων,	Αἰγυπτίων,	image (3x): smooth breathing on Αἰ
+exod	theoldtestamenti00unknuoft	160	5	εχρῆσαν	ἔχρησαν	ἔχρησαν	ἔχρησαν	image (3x): ἔχρησαν, smooth breathing and acute, no circumflex
+exod	theoldtestamenti00unknuoft	160	5	αὐυτοις"	αὐτοῖς:	αὐτοῖς·	αὐτοῖς·	image (3x): αὐτοῖς followed by ano teleia
+exod	theoldtestamenti00unknuoft	160	5	Και	καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	160	5	τους	τοὺς	τοὺς	τοὺς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	160	5	Αἰγυπτιους. +37	Αἰγυπτίους.	Αἰγυπτίους.	Αἰγυπτίους.	image (3x): smooth breathing on Αἰ
+exod	theoldtestamenti00unknuoft	160	6	Ἀπάραντες	37 +Απάραντες	Ἀπάραντες	Ἀπάραντες	image (3x): smooth breathing on Ἀ
+exod	theoldtestamenti00unknuoft	160	6	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave on υἱοὶ before Ἰσραὴλ (not a quotation)
+exod	theoldtestamenti00unknuoft	160	6	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on Ἰ
+exod	theoldtestamenti00unknuoft	160	6	Ῥαμεσσὴ	Ῥαμεσσὴ	Ῥαμεσσῆ	Ῥαμεσσὴ	image (3x): rough breathing on Ρ; grave on final η, Ῥαμεσσὴ
+exod	theoldtestamenti00unknuoft	160	7	ἀποσκευῆς: +5	ἀποσκευῆς"	ἀποσκευῆς·	ἀποσκευῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	7	καὶ	38	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	160	9	kal	Ξ3ϑκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	9	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing on Αἰ
+exod	theoldtestamenti00unknuoft	160	10	ἐζυμώθη:	ἐζυμώθη:	ἐζυμώθη·	ἐζυμώθη·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	10	Αἰγύ-	Αἰγύ-	Αἰγύ-	Αἰγύ-	image (3x): smooth breathing on Αἰ
+exod	theoldtestamenti00unknuoft	160	12	Ἢ	19.	Ἡ	Ἡ	image (3x): rough breathing on Η, no accent: Ἡ
+exod	theoldtestamenti00unknuoft	160	12	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on Ἰ
+exod	theoldtestamenti00unknuoft	160	12	κατῴ- +40	κατῴ- +40	κατῴ-	κατῴ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	13	Δἰγύπτῳ	Διἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	image (3x): smooth breathing on Αἰ
+exod	theoldtestamenti00unknuoft	160	14	πέντε:	πέντε: +“᾽	πέντε·	πέντε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	14	“kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	14	ἐξῆλθεν +41	ἐξῆλθεν +41	ἐξῆλθεν	ἐξῆλθεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	15	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing on Αἰ
+exod	theoldtestamenti00unknuoft	160	15	“mpodvAakn	“ΖΞ +προφυλακὴ	προφυλακή	προφυλακή	image (3x): acute on final syllable before enclitic ἐστιν
+exod	theoldtestamenti00unknuoft	160	15	ἐστιν +42	ἐστιν +42	ἐστιν	ἐστιν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	16	Αἰγύπτου:	Αἰγύπτου:	Αἰγύπτου·	Αἰγύπτου·	image (3x): smooth breathing on Αἰ
+exod	theoldtestamenti00unknuoft	160	16	νὺξ	ν	νὺξ	νὺξ	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	160	16	αὕτη	ὑξ +αὕτ ἢ	αὕτη	αὕτη	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	160	17	προφυλακὴ	προφυλακὴ	προφυλακὴ	προφυλακὴ	image (3x): grave on προφυλακὴ before Κυρίῳ (not a quotation)
+exod	theoldtestamenti00unknuoft	160	17	υἱοῖς	υἱοῖς +3	υἱοῖς	υἱοῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	17	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on Ἰ
+exod	theoldtestamenti00unknuoft	160	17	εἰναι	εἰναι	εἶναι	εἶναι	image (3x): εἶναι, smooth breathing and circumflex
+exod	theoldtestamenti00unknuoft	160	18	43ἘἾἶπεν	43Εἶπεν	Εἶπεν	Εἶπεν	image (3x): smooth breathing with circumflex, Εἶ
+exod	theoldtestamenti00unknuoft	160	18	Ἀαρὼν	Ἀαρὼν	Ἀαρὼν	Ἀαρὼν	image (3x): smooth breathing on Ἀ
+exod	theoldtestamenti00unknuoft	160	18	λέγων +43	λέγων +“43	λέγων	λέγων	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	19	Οὗτος	Οὗτος	Οὗτος	Οὗτος	image (3x): rough breathing with circumflex, Οὗτος
+exod	theoldtestamenti00unknuoft	160	19	πάσχα:	πάσχα᾽	πάσχα·	πάσχα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	19	αὐτοῦ:	9 +αὐτοῦ: “"	αὐτοῦ·	αὐτοῦ·	image (3x): αὐτοῦ followed by ano teleia
+exod	theoldtestamenti00unknuoft	160	19	“Kai +44	καὶ +44	καὶ	καὶ	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	21	αὐτοῦ: +“5	αὐτοῦ: +“5.	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	21	“év	“ἐν	ἐν	ἐν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	21	οἰκίᾳ +Ἢ	οἰκίᾳ +1	οἰκίᾳ	οἰκίᾳ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	23	“πᾶσα	“πᾶσα	πᾶσα	πᾶσα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	23	Ἰ̓σραὴλ +47	Ἰ̓σραὴλ +47	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on Ἰ
+exod	theoldtestamenti00unknuoft	160	24	“ἐὰν	“ἐὰν	ἐὰν	ἐὰν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	24	δέ	δέ	δέ	δέ	image (3x): acute on δέ before enclitic τις
+exod	theoldtestamenti00unknuoft	160	24	ποιῆσαι +48	ποιῆσαι +48	ποιῆσαι	ποιῆσαι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	25	ἀρσενικόν"	ἀρσενικόν"	ἀρσενικόν·	ἀρσενικόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	25	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	25	TpoTeEdeEv-	προσελεύ-	προσελεύ-	προσελεύ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	160	16	-	-	κυρίῳ	κυρίῳ	image (3x): lowercase κ in τῷ κυρίῳ (elsewhere Κυρίῳ), kept as printed

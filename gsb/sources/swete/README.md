@@ -14,7 +14,8 @@ are done. The procedure is `.claude/skills/gsb-transcribe/SKILL.md`.
 | `pages/<book>/v<vol>-<leaf>.txt` | The transcription itself, one file per scan leaf: one printed line per text line (see *Page format*). The source of truth. |
 | `pages/<book>/v<vol>-<leaf>.decisions.tsv` | That leaf's decision log (same columns as `decisions.tsv`). |
 | `leaves.tsv` | Each book's volume, scan and leaf range (`step` 2 for Daniel's facing texts). |
-| `NN-<id>.tsv` | One row per verse (`chapter<TAB>verse<TAB>text`) in the **common** numbering, in Swete's printed order, generated. `verse` is a number or a half verse (`48a`). |
+| `NN-<id>.tsv` | One row per verse (`chapter<TAB>verse<TAB>text`) in the **common** numbering (English chapter division), in Swete's printed order, generated. `verse` is a number, a half verse (`48a`), or several common verses Swete prints as one (`4-5`, `34,36b`). |
+| `versification.tsv` | Our own map (CC0) from the Hebrew chapter division Swete's parenthesized numbers follow to the English one, applied by `merge`: `book`, `from` and `to` (a Hebrew `c:v` range within one chapter), `english` (the English `c:v` of `from`). Only the known chapter-boundary differences of the books we have. |
 | `decisions.tsv` | All decision logs, generated: every token where the readings disagreed or a mandatory check applied, the readings, what was chosen and why. |
 | `provenance.tsv` | Per book and Swete chapter: scan, leaves, printed pages, dates, method versions; generated. |
 
@@ -52,7 +53,9 @@ leaf numbers here; the images and OCR layers stay out of the repo
   (`ἐσθόντων`, Dan. Th. 1:13; `Ἑιὼχ`, Gen 5:19). Nothing is normalized.
 - **Characters** (UTF-8, NFC): ano teleia `·` (U+00B7, what NFC makes of
   U+0387), question mark `;` (U+003B, likewise from U+037E), elision mark `᾽`
-  (U+1FBD, e.g. `καθ᾽`).
+  (U+1FBD, e.g. `καθ᾽`), the keraia of a letter numeral `ʹ` (U+02B9, what NFC
+  makes of U+0374 GREEK NUMERAL SIGN; allowed only right after the letters:
+  `ιβʹ` = 12, Exod 15:27).
 - **Square brackets are kept.** In Genesis Swete prints the text of Codex
   Alexandrinus and brackets the letters that have perished in it
   (apparatus: "quae uncis incl sunt perier in A"), e.g. `πετόμεν[α]`. Brackets
@@ -83,15 +86,56 @@ leaf numbers here; the images and OCR layers stay out of the repo
     `50a`, `52b` in that order. No `50b` is printed.
   - *A gap in Swete's own numbers*: he has no 31:51 (his 48 is common 51); the
     page file marks the printed skip as `{52!}`.
+  - *Swete's own numbers printed out of order*: Num 6 runs 23, 27, 24, 25, 26
+    (leaf 300: verse 27 stands before the blessing) and Num 10 runs 33, 35, 36,
+    34 (leaf 310), with no parentheses. Every number that breaks the sequence
+    is marked (`{27!}`, `{24!}`; `{35!}`, `{34!}`); the table keeps the printed
+    order (6:23, 6:27, 6:24, ...; 10:33, 10:35, 10:36, 10:34).
   - *Numbers in the text*: a parenthesized common number printed inside a line
     (Gen 15:21, 19:4, 22:4, 22:16, 23:5–6, 23:14–15, 24:19, 24:25–26, 31:54,
     47:6) is a `{=c:v}` at that point. At Gen 49:24 (leaf 132) Swete prints
     `(24)` before παρὰ θεοῦ τοῦ πατρός σου, four lines after his own 24: a
     misprint for `(25)`, encoded `{=49:25}`, with the printed form in a comment
     in the page file and a flag row in its decisions.
-  - Swete's 31:55 is common 32:1 and his chapter 32 runs one behind the
-    common (Hebrew) numbering throughout, so Genesis 31 has 54 verses and 32
-    has 33 in the table, as in Hebrew numbering (English Bibles: 55 and 32).
+  - *One Swete verse for several common verses*: the margin prints `(4, 5)`,
+    `(19-22)`, `(34, 36)` (Exod 37-38, 40:30-31). The page file writes it as
+    printed, `{=37:4-5}`, `{=37:19-22}`, `{=36:34,36}` (ascending); the table
+    has one row with verse `4-5`, and each verse in it counts as given.
+  - *A common number printed twice* (Exod 25:34, 36:36, 38:20, 39:1, 39:40):
+    the two places get the half-verse letters `a` and `b` (`{=25:34a}`,
+    `{=25:34b}`; inside a list, `{=36:34,36b}`). These letters are ours, not
+    Swete's; the page file says so in a `#` comment.
+  - *A Swete verse with no parenthesized number inside a stretch where the
+    numbering differs* (Exod 35:13-14, 36:8, 36:26 and others in 35-40): it
+    has no counterpart of its own, so it runs on with the common verse before
+    it (`{13}{=35:17}`), with a `#` comment and a flag row; left alone it
+    would fall back to Swete's own number and clash or mislead. `status`
+    warns when such a verse lands in another chapter than the common verse
+    before it.
+  - *Hebrew and English chapter division*: Swete's parenthesized numbers
+    follow the Hebrew. His Gen 31:55 is `(32:1)` and his chapter 32 runs one
+    behind; his Exod 8:1-4 is `(7:26-29)` and 8:5-32 is `(8:1-28)`; his
+    Exod 22:1 is `(21:37)` and 22:2-31 is `(22:1-30)`. His Lev 6:1-7 is
+    `(5:20-26)`, 6:8-30 is `(6:1-23)`, 6:31-40 is `(7:1-10)` and 7:1-28 is
+    `(7:11-38)` (Hebrew and English agree on chapter 7). His Num 16:36-50 is
+    `(17:1-15)` and 17:1-13 is `(17:16-28)`; his Num 30:1-17 is the Hebrew
+    numbering as his own (Hebrew 30:1 = English 29:40, 30:2-17 = 30:1-16); his
+    Num 26:1 opens with `(19)`, Hebrew 25:19, which English counts as the
+    start of 26:1, so `merge` joins the two rows. His Deut 12:32 is
+    `(13:1)` and 13:1-18 `(13:2-19)`; 22:30 is `(23:1)` and 23:1-24 `(23:2-26)`
+    (he has no counterpart of English 23:2 and 23:12, and prints 23:25 before
+    23:24); his 29:1 is `(28:69)` and 29:2-29 `(29:1-28)`. In Deut 5 his
+    `(17)`, with a brace over the four short commandments, and `(18)`-`(30)`
+    beside his 21-33 are the Hebrew count; English splits Hebrew 5:17 into four
+    verses and so equals Swete's own 17-33, and those markers stay out of the
+    page files (a comment records them) except that his 17 (adultery) and 18
+    (murder) carry our own `{=5:18}` and `{=5:17}`, as he numbers Exod 20:13-15.
+    The page files keep
+    the printed (Hebrew) numbers; `merge` converts them to the English
+    division with `versification.tsv`, so the tables have Genesis 31 with 55
+    verses and 32 with 32, Exodus 8 with 32 and 22 with 31, Leviticus 5 with 19
+    and 6 with 30, Numbers 16 with 50, 25 with 18, 29 with 40 and 30 with 16,
+    Deuteronomy 12 with 32, 22 with 30 and 29 with 29, and verse anchors match the English Bibles.
 - **Editorial marks** in the text, such as Swete's asterisk at Gen 37:1 tied to
   a note, are apparatus and are left out.
 - **Daniel** is printed twice: the Old Greek (Chigi MS 87, `ΔΑΝΙΗΛ ΚΑΤΑ ΤΟΥΣ Ο'`)
@@ -118,8 +162,9 @@ per line (`#` lines below the header are comments). Markers:
 | `{C3}` | Swete's chapter 3 starts |
 | `{7}` | Swete's verse 7 starts (where his superscript stands); the common reference becomes chapter:7 |
 | `{=2:25}` | the common reference from here until Swete's next `{n}` (his parenthesized number, in the margin or the text); may go backwards, but each common verse is given once per book |
-| `{=31:48a}` | the same for a half verse (Swete's `(48 a)`) |
-| `{52!}` | Swete's verse 52, where his own numbering skips (as printed); an unmarked skip fails |
+| `{=31:48a}` | the same for a half verse (Swete's `(48 a)`, or our letters where he prints a number twice) |
+| `{=40:30-31}` `{=36:34,36}` | one Swete verse for several common verses, as printed (`(30, 31)` with consecutive numbers is a range) |
+| `{52!}` | Swete's verse 52 as printed, out of sequence: his own numbering skips (Gen 31:52) or prints a number early or late (Num 6: 23, `{27!}`, `{24!}`, 25, 26; Num 10: 33, `{35!}`, 36, `{34!}`); each Swete number still occurs once per chapter. An unmarked break in sequence fails |
 | `{P}` | the line starts an indented paragraph |
 | `{S}` | the line is a line of poetry |
 | `¶` `§` | witness marks printed in the text |
@@ -161,7 +206,8 @@ OCR is a list of places to look again, not a vote.
    no settled decision is ever dropped. A lone OCR `;` (Swete's thin space
    before the question mark) is joined to its word.
 5. **Validate** (`done`, `status`): markers, NFC, characters, brackets, Swete's
-   own verse order (skips only where marked `{n!}`), each common verse given
+   own verse order (breaks only where marked `{n!}`, each number once per
+   chapter), each common verse given
    once per book, every decision settled.
 
 Version `swete-pilot-1` (Genesis leaves 33–37, Daniel 522–527) did steps 1–4 by

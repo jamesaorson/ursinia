@@ -1,9 +1,9 @@
-nn	id	english	greek	testament	deuterocanonical	role	source	notes
-01	gen	Genesis	Γένεσις	OT	no	main	swete
-02	exod	Exodus	Ἔξοδος	OT	no	main	swete
-03	lev	Leviticus	Λευιτικόν	OT	no	main	swete
-04	num	Numbers	Ἀριθμοί	OT	no	main	swete
-05	deut	Deuteronomy	Δευτερονόμιον	OT	no	main	swete
+nn	id	english	greek	testament	deuterocanonical	role	source	notes	chapters
+01	gen	Genesis	Γένεσις	OT	no	main	swete		50
+02	exod	Exodus	Ἔξοδος	OT	no	main	swete		40
+03	lev	Leviticus	Λευιτικόν	OT	no	main	swete		27
+04	num	Numbers	Ἀριθμοί	OT	no	main	swete		36
+05	deut	Deuteronomy	Δευτερονόμιον	OT	no	main	swete		34
 06	josh	Joshua	Ἰησοῦς Ναυῆ	OT	no	main	swete	Swete's text (Codex Vaticanus).
 07	judg	Judges	Κριταί	OT	no	main	swete	Swete's text (Codex Vaticanus, the B-type text).
 08	ruth	Ruth	Ῥούθ	OT	no	main	swete
@@ -57,30 +57,30 @@ nn	id	english	greek	testament	deuterocanonical	role	source	notes
 56	dan-th	Daniel (Theodotion)	Δανιήλ (Θ)	OT	no	comparison	swete	Theodotion's version, for comparison only.
 57	bel	Bel and the Dragon	Βὴλ καὶ Δράκων	OT	yes	main	swete	Old Greek: the authoritative text.
 58	bel-th	Bel and the Dragon (Theodotion)	Βὴλ καὶ Δράκων (Θ)	OT	yes	comparison	swete	Theodotion's version, for comparison only.
-60	matt	Matthew	Κατὰ Μαθθαῖον	NT	no	main	nestle:Matt tr:MT rp:MAT
-61	mark	Mark	Κατὰ Μᾶρκον	NT	no	main	nestle:Mark tr:MR rp:MAR
-62	luke	Luke	Κατὰ Λουκᾶν	NT	no	main	nestle:Luke tr:LU rp:LUK
-63	john	John	Κατὰ Ἰωάννην	NT	no	main	nestle:John tr:JOH rp:JOH,PA
-64	acts	Acts	Πράξεις Ἀποστόλων	NT	no	main	nestle:Acts tr:AC rp:ACT,ACT24
-65	rom	Romans	Πρὸς Ῥωμαίους	NT	no	main	nestle:Rom tr:RO rp:ROM
-66	1cor	1 Corinthians	Πρὸς Κορινθίους Αʹ	NT	no	main	nestle:1Cor tr:1CO rp:1CO
-67	2cor	2 Corinthians	Πρὸς Κορινθίους Βʹ	NT	no	main	nestle:2Cor tr:2CO rp:2CO
-68	gal	Galatians	Πρὸς Γαλάτας	NT	no	main	nestle:Gal tr:GA rp:GAL
-69	eph	Ephesians	Πρὸς Ἐφεσίους	NT	no	main	nestle:Eph tr:EPH rp:EPH
-70	phil	Philippians	Πρὸς Φιλιππησίους	NT	no	main	nestle:Phil tr:PHP rp:PHP
-71	col	Colossians	Πρὸς Κολοσσαεῖς	NT	no	main	nestle:Col tr:COL rp:COL
-72	1thess	1 Thessalonians	Πρὸς Θεσσαλονικεῖς Αʹ	NT	no	main	nestle:1Thess tr:1TH rp:1TH
-73	2thess	2 Thessalonians	Πρὸς Θεσσαλονικεῖς Βʹ	NT	no	main	nestle:2Thess tr:2TH rp:2TH
-74	1tim	1 Timothy	Πρὸς Τιμόθεον Αʹ	NT	no	main	nestle:1Tim tr:1TI rp:1TI
-75	2tim	2 Timothy	Πρὸς Τιμόθεον Βʹ	NT	no	main	nestle:2Tim tr:2TI rp:2TI
-76	titus	Titus	Πρὸς Τίτον	NT	no	main	nestle:Titus tr:TIT rp:TIT
-77	phlm	Philemon	Πρὸς Φιλήμονα	NT	no	main	nestle:Phlm tr:PHM rp:PHM
-78	heb	Hebrews	Πρὸς Ἑβραίους	NT	no	main	nestle:Heb tr:HEB rp:HEB
-79	jas	James	Ἰακώβου	NT	no	main	nestle:Jas tr:JAS rp:JAM
-80	1pet	1 Peter	Πέτρου Αʹ	NT	no	main	nestle:1Pet tr:1PE rp:1PE
-81	2pet	2 Peter	Πέτρου Βʹ	NT	no	main	nestle:2Pet tr:2PE rp:2PE
-82	1john	1 John	Ἰωάννου Αʹ	NT	no	main	nestle:1John tr:1JO rp:1JO
-83	2john	2 John	Ἰωάννου Βʹ	NT	no	main	nestle:2John tr:2JO rp:2JO
-84	3john	3 John	Ἰωάννου Γʹ	NT	no	main	nestle:3John tr:3JO rp:3JO
-85	jude	Jude	Ἰούδα	NT	no	main	nestle:Jude tr:JUDE rp:JUD
-86	rev	Revelation	Ἀποκάλυψις Ἰωάννου	NT	no	main	nestle:Rev tr:RE rp:REV
+60	matt	Matthew	Κατὰ Μαθθαῖον	NT	no	main	nestle:Matt tr:MT rp:MAT		28
+61	mark	Mark	Κατὰ Μᾶρκον	NT	no	main	nestle:Mark tr:MR rp:MAR		16
+62	luke	Luke	Κατὰ Λουκᾶν	NT	no	main	nestle:Luke tr:LU rp:LUK		24
+63	john	John	Κατὰ Ἰωάννην	NT	no	main	nestle:John tr:JOH rp:JOH,PA		21
+64	acts	Acts	Πράξεις Ἀποστόλων	NT	no	main	nestle:Acts tr:AC rp:ACT,ACT24		28
+65	rom	Romans	Πρὸς Ῥωμαίους	NT	no	main	nestle:Rom tr:RO rp:ROM		16
+66	1cor	1 Corinthians	Πρὸς Κορινθίους Αʹ	NT	no	main	nestle:1Cor tr:1CO rp:1CO		16
+67	2cor	2 Corinthians	Πρὸς Κορινθίους Βʹ	NT	no	main	nestle:2Cor tr:2CO rp:2CO		13
+68	gal	Galatians	Πρὸς Γαλάτας	NT	no	main	nestle:Gal tr:GA rp:GAL		6
+69	eph	Ephesians	Πρὸς Ἐφεσίους	NT	no	main	nestle:Eph tr:EPH rp:EPH		6
+70	phil	Philippians	Πρὸς Φιλιππησίους	NT	no	main	nestle:Phil tr:PHP rp:PHP		4
+71	col	Colossians	Πρὸς Κολοσσαεῖς	NT	no	main	nestle:Col tr:COL rp:COL		4
+72	1thess	1 Thessalonians	Πρὸς Θεσσαλονικεῖς Αʹ	NT	no	main	nestle:1Thess tr:1TH rp:1TH		5
+73	2thess	2 Thessalonians	Πρὸς Θεσσαλονικεῖς Βʹ	NT	no	main	nestle:2Thess tr:2TH rp:2TH		3
+74	1tim	1 Timothy	Πρὸς Τιμόθεον Αʹ	NT	no	main	nestle:1Tim tr:1TI rp:1TI		6
+75	2tim	2 Timothy	Πρὸς Τιμόθεον Βʹ	NT	no	main	nestle:2Tim tr:2TI rp:2TI		4
+76	titus	Titus	Πρὸς Τίτον	NT	no	main	nestle:Titus tr:TIT rp:TIT		3
+77	phlm	Philemon	Πρὸς Φιλήμονα	NT	no	main	nestle:Phlm tr:PHM rp:PHM		1
+78	heb	Hebrews	Πρὸς Ἑβραίους	NT	no	main	nestle:Heb tr:HEB rp:HEB		13
+79	jas	James	Ἰακώβου	NT	no	main	nestle:Jas tr:JAS rp:JAM		5
+80	1pet	1 Peter	Πέτρου Αʹ	NT	no	main	nestle:1Pet tr:1PE rp:1PE		5
+81	2pet	2 Peter	Πέτρου Βʹ	NT	no	main	nestle:2Pet tr:2PE rp:2PE		3
+82	1john	1 John	Ἰωάννου Αʹ	NT	no	main	nestle:1John tr:1JO rp:1JO		5
+83	2john	2 John	Ἰωάννου Βʹ	NT	no	main	nestle:2John tr:2JO rp:2JO		1
+84	3john	3 John	Ἰωάννου Γʹ	NT	no	main	nestle:3John tr:3JO rp:3JO		1
+85	jude	Jude	Ἰούδα	NT	no	main	nestle:Jude tr:JUDE rp:JUD		1
+86	rev	Revelation	Ἀποκάλυψις Ἰωάννου	NT	no	main	nestle:Rev tr:RE rp:REV		22

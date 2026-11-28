@@ -1,0 +1,54 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+deut	theoldtestamenti00unknuoft	399	1	Evdpdrov,	Ἑὐφράτου,	Εὐφράτου,	Εὐφράτου,	image (3x): smooth breathing on υ (Εὐ)
+deut	theoldtestamenti00unknuoft	399	1	θαλάσσης +B	θαλάσσης +Β	θαλάσσης	θαλάσσης	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	2	ὅριά	ὅριά	ὅριά	ὅριά	image (3x): acute before enclitic σου, as printed
+deut	theoldtestamenti00unknuoft	399	2	gov.	σου.	σου.	σου.	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	2	*ovK	“Ξοὐκ	οὐκ	οὐκ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	3	ὑμῶν:	ὑμῶν:	ὑμῶν·	ὑμῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	4	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	399	5	ὑμᾶς. +ΞΟ	ὑμᾶς.	ὑμᾶς.	ὑμᾶς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	5	Ἰδοὺ	Ξο᾽Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	399	6	κατάραν"	κατάραν"	κατάραν·	κατάραν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	7	“τὴν	“τὴν	τὴν	τὴν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	7	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	7	ἐντολὰς	ἐντολὰς	ἐντολὰς	ἐντολὰς	image (3x): grave as printed (no quotation follows)
+deut	theoldtestamenti00unknuoft	399	7	Tov	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	7	as	ἃς	ἃς	ἃς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	8	σήμερον᾽	σήμερον᾽	σήμερον·	σήμερον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	8	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	8	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	9	ἐντολὰς	ἐντολὰς	ἐντολὰς	ἐντολὰς	image (3x): grave as printed (no quotation follows)
+deut	theoldtestamenti00unknuoft	399	11	ods	οὗς	οὓς	οὓς	image (3x): rough + grave, compact closed mark
+deut	theoldtestamenti00unknuoft	399	11	Kal	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	12	∅	σε	σε	σε	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	12	∅	Κύριος	Κύριος	Κύριος	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	12	∅	ὁ	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	12	∅	θεός	θεός	θεός	image (3x): acute before enclitic σου, as printed
+deut	theoldtestamenti00unknuoft	399	12	∅	σου	σου	σου	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	12	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	12	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	12	∅	γῆν	γῆν	γῆν	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	12	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	12	∅	ἣν	ἣν	ἣν	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	12	∅	διαβαίνεις	διαβαίνεις	διαβαίνεις	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	12	∅	ἐκεῖ	ἐκεῖ	ἐκεῖ	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	12	∅	κληρονο-	κληρονο-	κληρονο-	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	13	αὐτήν,	αὐτὴν,	αὐτήν,	αὐτήν,	image (3x): acute
+deut	theoldtestamenti00unknuoft	399	13	Ταριζεὶν	Ταριζεὶν	Γαριζεὶν	Γαριζεὶν	image (3x): Γ, not Τ
+deut	theoldtestamenti00unknuoft	399	14	Ταιβάλ.	Ταιβάλ.	Γαιβάλ.	Γαιβάλ.	image (3x): Γ, not Τ
+deut	theoldtestamenti00unknuoft	399	14	*ovx«	8»οὐκ	οὐκ	οὐκ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	14	Ἰορδάνου	Ἰορδάνου	Ἰορδάνου	Ἰορδάνου	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	399	16	ὑψηλῆς; +3.	ὑψηλῆς; +3.	ὑψηλῆς;	ὑψηλῆς;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	17	Ιορδάνην,	» +Ιορδάνην,	Ἰορδάνην,	Ἰορδάνην,	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	399	17	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	17	ἣν	ἣν	ἣν	ἣν	image (3x): grave as printed (no quotation follows)
+deut	theoldtestamenti00unknuoft	399	18	αὐτῇ. +5)	αὐτῇ. +5	αὐτῇ.	αὐτῇ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	20	σήμερον.	σήμερον. +1	σήμερον.	σήμερον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	21	"Kal	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	21	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	22	7	ἡ	ᾗ	ᾗ	image (3x): rough breathing, circumflex, iota subscript
+deut	theoldtestamenti00unknuoft	399	23	"ἀπωλίᾳ	"“ἀπωλίᾳ	ἀπωλίᾳ	ἀπωλίᾳ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	24	ois	οἷς	οἷς	οἷς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	24	ovs	οὗς	οὓς	οὓς	image (3x): rough + grave, compact closed mark
+deut	theoldtestamenti00unknuoft	399	26	δασέος:	δασέος:	δασέος·	δασέος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	399	26	Ξκαὶ	Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip

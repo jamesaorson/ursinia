@@ -8,7 +8,7 @@ gen	theoldtestamenti00unknuoft	68	2	λέγοντες	λέγοντες +»	λέγ
 gen	theoldtestamenti00unknuoft	68	2	᾿δοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on capital
 gen	theoldtestamenti00unknuoft	68	2	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave as printed before capitalized name (not a quotation)
 gen	theoldtestamenti00unknuoft	68	3	*1rov	“τὸν	τὸν	τὸν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
-gen	theoldtestamenti00unknuoft	68	3	QE	Ωξ	Ὣξ	Ὣξ	image (3x+zoom): rough breathing with grave before Ω, same combined mark as on οὓς (line 6); partly blurred, see flag
+gen	theoldtestamenti00unknuoft	68	3	QE	Ωξ	Ὣξ	Ὢξ	image (12x, capital-shape re-check vff.14): blob with a tail falling to the left (smooth) and a separate stroke falling to the right (grave), the open smooth + grave mark of ἂν and of Ὢγ (Num leaves 335, 343); not the closed d of rough + grave, which οὓς on line 6 shows beside it; read smooth + grave
 gen	theoldtestamenti00unknuoft	68	4	Σύρων,	Σύρων, +3 “"	Σύρων,	Σύρων,	class R3: OCR appended accent-row or margin junk; c read from the image strip
 gen	theoldtestamenti00unknuoft	68	4	“καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 gen	theoldtestamenti00unknuoft	68	4	Ἀζαῦ	Ἀζαῦ	Ἁζαῦ	Ἁζαῦ	image (3x): rough breathing on capital
@@ -115,3 +115,4 @@ gen	theoldtestamenti00unknuoft	68	32	pov	μου	μου	μου	class R5: Latin-le
 gen	theoldtestamenti00unknuoft	68	3	-	-	Ὣξ	Ὣξ	ambiguous: breathing/accent mark before Ω is blurred; read rough+grave (matches οὓς on line 6); smooth+grave not excluded
 gen	theoldtestamenti00unknuoft	68	15	-	-	Μή,	Μή,	image: inline (6) after Μή, before κύριε; Swete superscript 6 before Μή; encoded {6}{=23:5}Μή, {=23:6}κύριε
 gen	theoldtestamenti00unknuoft	68	1	-	-	Ἐγένετο	Ἐγένετο	image: superscript 20 printed broken (reads 2:)); verse 20 by sequence and margin 20
+gen	theoldtestamenti00unknuoft	68	3	-	-	Ὢξ	Ὢξ	corrected (capital-shape re-check, vff.14): at 12x the mark before Ω is open (smooth breathing then a separate grave stroke), unlike the closed d of οὓς on line 6; slightly smudged but no loop; supersedes the earlier row reading Ὣξ

@@ -17,10 +17,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v7
 
-      - name: Install - guile
+      - name: Install - guile, sqlite3
         run: |
           sudo apt-get install -y \
-            guile-3.0
+            guile-3.0 \
+            sqlite3
 
       - name: Test
         run: |

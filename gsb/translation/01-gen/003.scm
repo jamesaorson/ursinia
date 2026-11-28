@@ -163,7 +163,7 @@
             ("the woman," (10 the) 11))
     (clause ("and" (12 and)) ("between" 13 (14 between)) ("your" 17) ("seed" (15 absorbed) 16) ("and" (18 and)) ("between" 19 (20 between))
             ("her" 23) ("seed;" (21 absorbed) 22))
-    (clause ("he" 24) ("will watch" (26 watch)) ("your" 25) ("head," 27))
+    (clause ("he" 24) ("will watch" (26 watch "τηρέω")) ("your" 25) ("head," 27))
     (clause ("and" (28 and)) ("you" 29) ("will watch" (30 watch "τηρέω")) ("his" 31) ("heel." 32)))
   (readable "And I will put enmity between you and the woman, and between your seed and her seed; he will watch your head, and you will watch his heel.")
   (note "**Differs from the Hebrew.** The Greek verb is τηρέω, \"watch, keep watch on, lie in wait for\", in both halves; translations from the Hebrew have \"bruise\", \"crush\" or \"strike\". Romans 16:20 (\"the God of peace will crush Satan under your feet\") uses συντρίψει, \"will crush\", which follows the sense of the Hebrew, not the Greek of Genesis. (From the translator's knowledge of the Hebrew.)")

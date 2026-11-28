@@ -1,0 +1,37 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+deut	theoldtestamenti00unknuoft	443	1	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave before capitalized name (not a quotation)
+deut	theoldtestamenti00unknuoft	443	1	Ἀδάμ,	Ἀδάμ,	Ἀδάμ,	Ἀδάμ,	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	443	4	ϑκαὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	443	4	μερὶς	μερὶς	μερὶς	μερὶς	image (3x): grave before capitalized name (not a quotation)
+deut	theoldtestamenti00unknuoft	443	4	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	443	5	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	443	6	᾿οαὐτάρκησεν	᾿σαὐτάρκησεν	αὐτάρκησεν	αὐτάρκησεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	443	6	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	443	7	ἀνύδρῳ"	ἀνύδρῳ.	ἀνύδρῳ·	ἀνύδρῳ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	443	9	ws	ὡς	ὡς	ὡς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	443	10	τὼς	τὼς	ὡς	ὡς	image (3x): ὡς with rough breathing, no accent
+deut	theoldtestamenti00unknuoft	443	12	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	443	14	∅	Κυριος	Κύριος	Κύριος	image (3x): Κύριος μόνος ἦγεν αὐτούς, as read (ἦ smooth + circumflex, αὐ smooth)
+deut	theoldtestamenti00unknuoft	443	14	∅	μονος	μόνος	μόνος	image (3x): Κύριος μόνος ἦγεν αὐτούς, as read (ἦ smooth + circumflex, αὐ smooth)
+deut	theoldtestamenti00unknuoft	443	14	∅	ἤγεν	ἦγεν	ἦγεν	image (3x): Κύριος μόνος ἦγεν αὐτούς, as read (ἦ smooth + circumflex, αὐ smooth)
+deut	theoldtestamenti00unknuoft	443	14	∅	αὑτοὺς,	αὐτούς,	αὐτούς,	image (3x): Κύριος μόνος ἦγεν αὐτούς, as read (ἦ smooth + circumflex, αὐ smooth)
+deut	theoldtestamenti00unknuoft	443	15	μετ᾽	μετ᾽ +»	μετ᾽	μετ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	443	16	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	443	17	ἀγρῶν".	ἀγρῶν".	ἀγρῶν·	ἀγρῶν·	ambiguous (4x): raised point after ἀγρῶν then a fainter, smaller dot on the baseline; read ano teleia, baseline dot taken as a speck
+deut	theoldtestamenti00unknuoft	443	19	πέτρας"	πέτρας"	πέτρας·	πέτρας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	443	22	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	443	25	Skat	᾿ϑκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	443	25	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	443	26	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	443	27	∅	ἐλιπάνθη,	ἐλιπάνθη,	ἐλιπάνθη,	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	443	27	∅	ἐπαχύνθη,	ἐπαχύνθη,	ἐπαχύνθη,	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	443	27	∅	ἐπλατύνθη"	ἐπλατύνθη·	ἐπλατύνθη·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	443	29	αὐτοῦ.	αὐτοῦ. +ὁ	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	443	30	παρώξυνάν	παρώξυνάν	παρώξυνάν	παρώξυνάν	image (3x): acute before enclitic as printed
+deut	theoldtestamenti00unknuoft	443	30	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	443	31	παρεπίκρανάν	παρεπίκρανάν	παρεπίκρανάν	παρεπίκρανάν	image (3x): acute before enclitic as printed
+deut	theoldtestamenti00unknuoft	443	31	pe:	με:	με·	με·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	443	32	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	443	33	ois	οἷς	οἷς	οἷς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	443	33	ἤδεισαν"	ἤδεισαν"	ᾔδεισαν·	ᾔδεισαν·	image (3x): ᾔ smooth + acute with iota subscript; raised point = ano teleia
+deut	theoldtestamenti00unknuoft	443	1	-	-	ὡς	ὡς	image (8x): breathing mark on ὡς has a thick stem but is a single rough breathing, no grave; read ὡς

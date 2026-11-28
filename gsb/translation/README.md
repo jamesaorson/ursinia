@@ -3,12 +3,13 @@
 The English of the Greek Source Bible (GSB), one file per chapter, written as
 Scheme data (plain s-expressions; Guile's `read` loads them). Agents draft, the
 owner reviews. `make gsb/lint` checks every file; `make gsb/site` renders them
-at `/bible/versions/gsb/text/`.
+at `/bible/versions/gsb/study/` (Greek beside English) and `/bible/versions/gsb/text/`
+(the readable layer only, as a reading text), by way of the database (`make gsb/db`).
 
 ```
 gsb/translation/NN-<id>/book.scm     book decision notes (optional)
 gsb/translation/NN-<id>/CCC.scm      chapter CCC, three digits: 001.scm
-gsb/lexicon/glosses.scm              the concordance: lemma -> senses -> gloss
+gsb/lexicon/glosses/*.scm            the concordance: lemma -> senses -> gloss (one file per initial letter)
 ```
 
 `NN-<id>` is the book's prefix and id from `gsb/books.tsv`, the same stem as
@@ -109,7 +110,14 @@ ref is bare) and its English, with `(cont N)` pieces joined by `…`.
 
 Only `(note "markdown")` forms.
 
-## Concordance: `gsb/lexicon/glosses.scm`
+## Concordance: `gsb/lexicon/glosses/`
+
+One file per initial letter of the lemma, accents ignored
+(`01-alpha.scm` ... `24-omega.scm`), each in Greek alphabetical order, so
+agents working on different words rarely touch the same file. A new lemma
+goes into its letter's file at its alphabetical place; the checker reads them
+all and reports a lemma listed twice in any of them. A `why` marked "(LXX,
+supplied)" is for a lemma the Greek table does not have.
 
 ```scheme
 (lemma "ὁ"
@@ -131,6 +139,11 @@ unrendered (it is still aligned, so its color shows). A sense may add
 `(readable "word")` when the readable layer uses a different word from the
 literal gloss (ἐπιφέρω: literal "borne", readable "moving"); it is shown in
 the concordance on the page and not checked.
+
+A sense may also carry fields for the scripted literal layer, such as
+`(verb "bear" "bore" "borne")`, `(dative "on")`, `(person)` or
+`(with-preposition "εἰς" for)`; `make gsb/lint` ignores them and
+`gsb/literal/README.md` documents them.
 
 ## Readable layer: `gsb/lexicon/readable-avoid.scm`
 
@@ -216,7 +229,7 @@ order change is explained in the verse note. Every word 1–17 appears once.
    the book is not transcribed yet).
 2. List the verse's words: `awk -F'\t' '$1=="john.1.6"' gsb/greek/63-john.tsv`.
 3. Write `gsb/translation/NN-<id>/CCC.scm`, verse by verse, `(status draft)`.
-4. For each new lemma or new sense, add it to `gsb/lexicon/glosses.scm`
+4. For each new lemma or new sense, add it to its letter's file in `gsb/lexicon/glosses/`
    with its `why` before using it; a new sense goes after the established
    one, then review the earlier uses with `make gsb/uses LEMMA=...`.
 5. Record chapter decisions as `(note ...)` at the top; book-wide ones in

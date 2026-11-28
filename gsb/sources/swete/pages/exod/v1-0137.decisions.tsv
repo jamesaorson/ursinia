@@ -1,0 +1,137 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+exod	theoldtestamenti00unknuoft	137	1	Bia,	βίᾳ,	βίᾳ,	βίᾳ,	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	1	“kal	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	2	∅	∅	τῷ	τῷ	image (3x): τῷ printed at line start; OCR lost it
+exod	theoldtestamenti00unknuoft	137	3	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	3	βίας. +15	βίας. +15	βίας.	βίας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	4	Αἰγυπτίων	Αἰγυπτίων	Αἰγυπτίων	Αἰγυπτίων	image (3x): smooth breathing
+exod	theoldtestamenti00unknuoft	137	4	paias	μαίαις	μαίαις	μαίαις	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	4	Ἑβραίων,	Ἐβραίων,	Ἐβραίων,	Ἐβραίων,	image (3x): smooth breathing
+exod	theoldtestamenti00unknuoft	137	5	∅	ἢ	τῇ	τῇ	image (3x): τῇ with iota subscript
+exod	theoldtestamenti00unknuoft	137	5	7	ἣ	ᾗ	ᾗ	image (3x): rough breathing, circumflex and iota subscript: ᾗ
+exod	theoldtestamenti00unknuoft	137	5	ὄνομα	ὅ	ὄνομα	ὄνομα	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	5	Φουά	Φουά᾽	Φουά·	Φουά·	image (3x): raised ano teleia after Φουά
+exod	theoldtestamenti00unknuoft	137	6	kal	Ἰὁκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	6	Ὅταν	Ὅταν	Ὅταν	Ὅταν	image (3x): rough breathing and acute on capitalized quotation
+exod	theoldtestamenti00unknuoft	137	6	EBpaias	Ἔβραίας	Ἐβραίας	Ἐβραίας	image (3x): smooth breathing
+exod	theoldtestamenti00unknuoft	137	7	∅	ΣΝ	ἐὰν	ἐὰν	image (3x): ἐὰν smooth breathing and grave
+exod	theoldtestamenti00unknuoft	137	7	ἢ,	ἢ,	ᾖ,	ᾖ,	image (3x): smooth breathing, circumflex and iota subscript: ᾖ
+exod	theoldtestamenti00unknuoft	137	7	αὐτό:	αὐτό:	αὐτό·	αὐτό·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	8	"Τέἐφοβήθησαν	"Τέἐφοβήθησαν	ἐφοβήθησαν	ἐφοβήθησαν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	8	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	9	∅	∅	συνέταξεν	συνέταξεν	image (3x): συνέταξεν printed at line start; OCR lost it
+exod	theoldtestamenti00unknuoft	137	9	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave on βασιλεὺς before Αἰγύπτου (name, not quotation)
+exod	theoldtestamenti00unknuoft	137	9	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	image (3x): smooth breathing
+exod	theoldtestamenti00unknuoft	137	10	᾿δἐέκάλεσεν	᾿ϑἐκάλεσεν	ἐκάλεσεν	ἐκάλεσεν	image (3x): margin 18 and superscript 18, then ἐκάλεσεν
+exod	theoldtestamenti00unknuoft	137	10	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave on βασιλεὺς before Αἰγύπτου (name, not quotation)
+exod	theoldtestamenti00unknuoft	137	10	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing
+exod	theoldtestamenti00unknuoft	137	11	∅	∅	ὅτι	ὅτι	image (3x): ὅτι at line start, rough breathing and acute
+exod	theoldtestamenti00unknuoft	137	11	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	11	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	11	"εἶπαν	"ϑεἶπαν	εἶπαν	εἶπαν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	12	ai	∅	δὲ	δὲ	class R5+R0: Latin-letter substitution in OCR; OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	12	∅	αἱ	αἱ	αἱ	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	12	Φαραὼ	Φαραώ	Φαραὼ	Φαραὼ	image (3x): grave on Φαραὼ before capitalized quotation Οὐχ
+exod	theoldtestamenti00unknuoft	137	12	Οὐχ	Οὐχ	Οὐχ	Οὐχ	image (3x): smooth breathing
+exod	theoldtestamenti00unknuoft	137	12	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing
+exod	theoldtestamenti00unknuoft	137	12	Εβραῖαι,	᾽ +Ἑβραῖαι,	Ἐβραῖαι,	Ἐβραῖαι,	image (3x): smooth breathing
+exod	theoldtestamenti00unknuoft	137	13	∅	σιν	σιν	σιν	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	13	∅	γὰρ	γὰρ	γὰρ	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	13	∅	πρὶν	πρὶν	πρὶν	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	13	∅	ἢ	ἢ	ἢ	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	13	∅	εἰσελθεῖν	εἰσελθεῖν	εἰσελθεῖν	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	13	∅	πρὸς	πρὸς	πρὸς	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	13	∅	αὐτὰς	αὐτὰς	αὐτὰς	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	13	∅	τὰς	τὰς	τὰς	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	13	∅	μαίας,	μαίας,	μαίας,	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	13	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	13	∅	ἔτικτον.	ἔτικτον.	ἔτικτον.	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	13	∅	“εὖ	εὖ	εὖ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	14	∅	ἐ	δὲ	δὲ	image (3x): δὲ grave
+exod	theoldtestamenti00unknuoft	137	14	6	ὁ +θ	ὁ	ὁ	image (3x): ὁ rough breathing
+exod	theoldtestamenti00unknuoft	137	14	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	14	ἴσχυεν	ἰσχυεν	ἴσχυεν	ἴσχυεν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	15	“ἐπειδὴ	“᾿ἐπειδὴ	ἐπειδὴ	ἐπειδὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	16	ΞΞΣυνέταξεν	“ΞΣυνέταξεν	Συνέταξεν	Συνέταξεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	17	∅	∅	Πᾶν	Πᾶν	image (3x): Πᾶν at line start
+exod	theoldtestamenti00unknuoft	137	17	Ἔ +βραίοις	Ἐ̓βραίοις	Ἐβραίοις	Ἐβραίοις	image (3x): smooth breathing
+exod	theoldtestamenti00unknuoft	137	19	Ἤν	᾿τἮν	Ἦν	Ἦν	image (3x): smooth breathing and circumflex: Ἦν
+exod	theoldtestamenti00unknuoft	137	19	δέ	δέ	δέ	δέ	image (3x): acute on δέ before enclitic τις
+exod	theoldtestamenti00unknuoft	137	19	Aevel	Λευεὶ	Λευεὶ	Λευεὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	20	και	"καὶ	καὶ	καὶ	image (3x): margin 2 and superscript 2, then καὶ
+exod	theoldtestamenti00unknuoft	137	20	εν	ἐν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	20	γαστρι	γαστρὶ	γαστρὶ	γαστρὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	20	€	ἔλαβεν	ἔλαβεν	ἔλαβεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	20	aBev	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	20	Και	ἔτεκεν	ἔτεκεν	ἔτεκεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	20	€TEKEV	ἄρσεν"	ἄρσεν·	ἄρσεν·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	20	αρσεν	ἰδόντες	ἰδόντες	ἰδόντες	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	20	ἰόοντες	δὲ	δὲ	δὲ	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	20	€	αὐτὸ	αὐτὸ	αὐτὸ	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	20	αὑτὸ	ἀστεῖον	ἀστεῖον	ἀστεῖον	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	21	αστειον	ἐσκέπασαν	ἐσκέπασαν	ἐσκέπασαν	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	21	εσκεπασαν	αὐτὸ	αὐτὸ	αὐτὸ	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	21	AUTO	μῆνας	μῆνας	μῆνας	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	21	μηνας	τρεῖς. +3	τρεῖς.	τρεῖς.	image (3x): τρεῖς. circumflex and period
+exod	theoldtestamenti00unknuoft	137	21	Τρεις.	ἐπεὶ	ἐπεὶ	ἐπεὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	21	εστει +€	δὲ	δὲ	δὲ	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	21	θυναντο	ἠδύναντο	ἠδύναντο	ἠδύναντο	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	21	AUTO	αὐτὸ	αὐτὸ	αὐτὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	21	ETL	ἔτι	ἔτι	ἔτι	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	22	κρύυττειν,	κρύπτειν,	κρύπτειν,	κρύπτειν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	22	ελαβεν	ἔλαβεν	ἔλαβεν	ἔλαβεν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	22	7)	ἡ	ἡ	ἡ	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	22	PNT)	μήτηρ	μήτηρ	μήτηρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	22	p	αὐτοῦ	αὐτοῦ	αὐτοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	22	auTou	θῖβιν	θῖβιν	θῖβιν	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	22	ιβϑιν	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	22	Και +κατεχρισεν	κατέχρισεν	κατέχρισεν	κατέχρισεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	23	αὐτὴν,	αὐτήν,	αὐτήν,	αὐτήν,	image (3x): acute, smooth breathing on υ
+exod	theoldtestamenti00unknuoft	137	23	αὑτὴν	αὐτὴν	αὐτὴν	αὐτὴν	image (3x): grave, smooth breathing on υ
+exod	theoldtestamenti00unknuoft	137	24	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	24	∅	τὸ	τὸ	τὸ	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	24	∅	ελ +ἔλος	ἕλος	ἕλος	image (3x): rough breathing and acute on ε
+exod	theoldtestamenti00unknuoft	137	24	∅	παρὰ	παρὰ	παρὰ	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	24	∅	τὸν	τὸν	τὸν	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	24	∅	ποταμόν.	ποταμόν.	ποταμόν.	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	24	∅	4 +ἐκαὶ	καὶ	καὶ	image (3x): margin 4 and superscript 4, then καὶ
+exod	theoldtestamenti00unknuoft	137	24	∅	κατεσκόπευεν	κατεσκόπευεν	κατεσκόπευεν	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	24	∅	ἡ	ἡ	ἡ	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	24	∅	ἀδελφὴ	ἀδελφὴ	ἀδελφὴ	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	24	∅	αὐτοῦ	αὐτοῦ	αὐτοῦ	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	25	∅	∅	μακρόθεν	μακρόθεν	image (3x): μακρόθεν at line start
+exod	theoldtestamenti00unknuoft	137	25	τι	τί	τί	τί	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	25	Τὺ	τὸ	τὸ	τὸ	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	25	avT@.	αὐτῷ.	αὐτῷ.	αὐτῷ.	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	25	κατέβη	"κατέβη	κατέβη	κατέβη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	25	n	ἡ	ἡ	ἡ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	26	apaw	∅	Φαραὼ	Φαραὼ	class R5+R0: Latin-letter substitution in OCR; OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	26	ουσασῦσαι	λούσασθαι	λούσασθαι	λούσασθαι	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	26	ἐπιτον	ἐπὶ	ἐπὶ	ἐπὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	26	πόταμον,	τὸν	τὸν	τὸν	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	26	Και	ποταμόν,	ποταμόν,	ποταμόν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	26	αι	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	137	26	∅	αἱ	αἱ	αἱ	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	26	auTns	αὐτῆς	αὐτῆς	αὐτῆς	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	27	∅	παρὰ	παρὰ	παρὰ	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	27	∅	τὸν	τὸν	τὸν	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	27	∅	ποταμόν	ποταμόν·	ποταμόν·	image (3x): raised ano teleia after ποταμόν
+exod	theoldtestamenti00unknuoft	137	27	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	27	∅	ἰδοῦσα	ἰδοῦσα	ἰδοῦσα	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	27	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	27	∅	θίβιν	θῖβιν	θῖβιν	image (3x): circumflex on ι: θῖβιν (as in verse 3)
+exod	theoldtestamenti00unknuoft	137	27	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	27	∅	τῷ	τῷ	τῷ	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	27	∅	ἕλει,	ἕλει,	ἕλει,	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	27	∅	ἀποστείλασα	ἀποστείλασα	ἀποστείλασα	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	27	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	28	“ἀνοίξασα	“ἀνοίξασα	ἀνοίξασα	ἀνοίξασα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	28	θίβει-	θίβει:"	θίβει·	θίβει·	image (3x): acute on ι, raised ano teleia: θίβει·
+exod	theoldtestamenti00unknuoft	137	29	Ἀπὸ	Ἀπὸ	Ἀπὸ	Ἀπὸ	image (3x): smooth breathing
+exod	theoldtestamenti00unknuoft	137	30	∅	Ἑβραίων	τῶν	τῶν	image (3x): τῶν at line start
+exod	theoldtestamenti00unknuoft	137	30	Ἐβραίων	∅	Ἐβραίων	Ἐβραίων	image (3x): smooth breathing
+exod	theoldtestamenti00unknuoft	137	30	‘Kal	1καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+exod	theoldtestamenti00unknuoft	137	30	θυγατρὶ	θυγατρὶ	θυγατρὶ	θυγατρὶ	image (3x): grave on θυγατρὶ before name Φαραώ
+exod	theoldtestamenti00unknuoft	137	30	Φαραώ	Φαραώ	Φαραὼ	Φαραώ	image (3x): acute on Φαραώ at line end before capitalized quotation Θέλεις
+exod	theoldtestamenti00unknuoft	137	31	Ἐβραίων,	Ἐβραίων,	Ἐβραίων,	Ἐβραίων,	image (3x): smooth breathing
+exod	theoldtestamenti00unknuoft	137	1	-	-	κατωδύνων	κατωδύνων	ambiguous: a stray grave-like mark prints over the final ν (and touches it, ν looks slightly broken); read κατωδύνων with acute on υ only, mark treated as damaged type

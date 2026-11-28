@@ -1,0 +1,61 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+deut	theoldtestamenti00unknuoft	451	1	γὴν	∅	τὴν	τὴν	image (3x): τὴν first word; margin 3 outside it
+deut	theoldtestamenti00unknuoft	451	1	∅	γῆν	γῆν	γῆν	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	1	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	451	1	ἔως	ἔως	ἕως	ἕως	image (3x): rough + acute, curl then rising stroke
+deut	theoldtestamenti00unknuoft	451	1	*Kat	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	1	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	2	kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	2	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	2	Ἰ̓ερειχώ,	Ἰ̓ερειχώ,	Ἰερειχώ,	Ἰερειχώ,	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	451	2	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	3	Μωυσῆν	Μωυδὴν	Μωυσῆν	Μωυσῆν	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	451	3	Αὕτη	Αὕτη	Αὕτη	Αὕτη	image (3x): breathing on second vowel of diphthong: Αὕτη rough + acute, Αἰγύπτῳ smooth
+deut	theoldtestamenti00unknuoft	451	3	@pooa	ὦμοσα	ὤμοσα	ὤμοσα	image (3x): smooth + acute on ω, not circumflex
+deut	theoldtestamenti00unknuoft	451	3	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	451	3	καὶ	καὶ +᾽	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	3	Ἰσαὰκ	Ἰσαὰκ	Ἰσαὰκ	Ἰσαὰκ	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	451	4	Ιακὼβ	Ιακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	451	4	αὐτήν"	αὐτήν:	αὐτήν·	αὐτήν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	5	pois	μοῖς	μοῖς	μοῖς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	5	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	5	Skat	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	6	Κυρίου. +“	Κυρίου. +“	Κυρίου.	Κυρίου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	7	Tai	Γαὶ	Γαὶ	Γαὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	7	Poywp:	Φογώρ:	Φογώρ·	Φογώρ·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	7	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	8	ταύ	ταύτης.	ταύτης.	ταύτης.	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	451	8	ἡΜωυσῆς	ΤΜωυσῆς	Μωυσῆς	Μωυσῆς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	9	ἡμέρας	τελευτᾷν	τελευτᾶν	τελευτᾷν	image (3x): circumflex on α with iota subscript below it; τελευτᾷν as printed (B agrees)
+deut	theoldtestamenti00unknuoft	451	9	αὐτόν:	αὐτόν:	αὐτόν·	αὐτόν·	image (3x): acute, ano teleia
+deut	theoldtestamenti00unknuoft	451	9	ἡμαυρώθησαν	ἡμαυρώθησαν	ἠμαυρώθησαν	ἠμαυρώθησαν	image (3x): smooth breathing on η
+deut	theoldtestamenti00unknuoft	451	10	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before capitalized word, as printed
+deut	theoldtestamenti00unknuoft	451	10	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	451	10	Μωυσὴν	Μωυσὴν	Μωυσῆν	Μωυσῆν	image (3x): circumflex on η
+deut	theoldtestamenti00unknuoft	451	10	ἀραβὼθ	ἀραβὼθ	ἀραβὼθ	ἀραβὼθ	image (3x): grave before capitalized word, as printed
+deut	theoldtestamenti00unknuoft	451	11	Tov	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	11	Ιορδάνου	Ἰορδάνου	Ἰορδάνου	Ἰορδάνου	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	451	11	Ἰερειχὼ	Ἰερειχὼ	Ἰερειχὼ	Ἰερειχὼ	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	451	11	ἡμέρας:	ἡμέρας"	ἡμέρας·	ἡμέρας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	12	Μωυσῆ. +9	Μωυσῆ. +9	Μωυσῆ.	Μωυσῆ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	12	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	Ἰησοῦς	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	451	12	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave before capitalized word, as printed
+deut	theoldtestamenti00unknuoft	451	13	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	14	αὐτόν:	αὐτόν:	αὐτόν·	αὐτόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	14	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before capitalized word, as printed
+deut	theoldtestamenti00unknuoft	451	14	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	451	15	Kat	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	16	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	16	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	451	16	ov	ὃν	ὃν	ὃν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	17	πρόσωπον"	πρόσωπον"	πρόσωπον·	πρόσωπον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	17	“ev	"ἐν	ἐν	ἐν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	18	αὐτὸν	αὐτὸν	αὐτὸν	αὐτὸν	image (3x): grave before capitalized word, as printed
+deut	theoldtestamenti00unknuoft	451	18	Αἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	image (3x): breathing on second vowel of diphthong: Αὕτη rough + acute, Αἰγύπτῳ smooth
+deut	theoldtestamenti00unknuoft	451	19	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	19	“τὰ	“τὰ	τὰ	τὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	20	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	20	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	451	20	παντὸς	παντὸς	παντὸς	παντὸς	image (3x): grave before capitalized word, as printed
+deut	theoldtestamenti00unknuoft	451	21	Ισραηλ.	Ισραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	451	8	τῷ +ἡμέρας ταύτης. νυσῆς ἢ καὶ εἴ ἐτῶν ἐν τῷ	τῷ	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip

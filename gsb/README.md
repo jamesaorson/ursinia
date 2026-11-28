@@ -26,13 +26,73 @@ make test        # includes scripts/lib/test/gsb/test.scm
 Code: `scripts/gsb-fetch.sh`, `scripts/gsb-build.sh` -> `scripts/gsb-build.scm`,
 shared helpers in `scripts/lib/gsb.scm`.
 
+## The database
+
+Everything the site publishes comes from one SQLite database, built from the
+files in this directory and never edited by hand. Edits are made to the text
+files here; the database is generated from them, the same files always giving
+the same database.
+
+```sh
+make gsb/db      # wwwroot/bible/versions/gsb/data/gsb.sqlite (+ .gz); needs sqlite3 3.38+
+make gsb/site    # every GSB page and the page data, read from the database only
+./scripts/gsb-db.sh doctor   # check sqlite3
+```
+
+The schema and data dictionary is `schema.sql` (also stored in the database as
+`meta.schema`). Code: `scripts/gsb-db.sh` -> `scripts/gsb-db.scm` and
+`scripts/lib/gsb-db.scm` (loader: text files -> SQLite), `scripts/gsb-site.scm`
+(renderer: SQLite -> HTML and JSON). A new input is a `CREATE TABLE` in
+`schema.sql`, one insert in `write-sql` in `scripts/lib/gsb-db.scm`, and its
+path in `GSB_DB_INPUTS` in the `Makefile`.
+
+Published at `/bible/versions/gsb/`:
+
+| address    | what                                                                    |
+| ---------- | ----------------------------------------------------------------------- |
+| `/`        | landing page: links, download, why, limits, sources                     |
+| `text/`    | the readable translation as a plain reading text, `#genesis-1-1` anchors |
+| `study/`   | Greek and English side by side, word lookup, notes, concordance         |
+| `data/`    | the dataset page; `gsb.sqlite`, `gsb.sqlite.gz`, `schema.sql`, and the per-book files the study page loads |
+
+## Known gaps in open resources
+
+These are the gaps we found in openly licensed Greek Bible resources, and how
+the GSB data fills them or where it is still blank.
+
+- **No public-domain Septuagint with lemmas or Strong's numbers.** Every
+  tagged Septuagint in circulation derives from Rahlfs' edition and the CCAT
+  morphology, which may not be redistributed freely. Our text is our own
+  transcription of Swete's edition from public-domain scans. Its words get a
+  lemma and Strong's number only where the same form occurs in the CC0 New
+  Testament data (about 86-92% of words so far); the rest are lemmatized by
+  hand as the translation proceeds (`translation_words.lemma` in the
+  database).
+- **Strong's numbers stop at G5624** and cover New Testament vocabulary only.
+  Words found only in the Septuagint have no number. The extended numbering
+  schemes that exist are not public domain.
+- **No public-domain digital text of Joshua and Judges in the Alexandrinus
+  form.** Swete prints the Vaticanus form.
+- **No accented public-domain Textus Receptus with Strong's numbers.** Restored
+  TR words take their accents from the Robinson-Pierpont text; the few that
+  could not be accented are listed in the `nt_unaccented` table. Whole verses
+  restored from the TR have no punctuation yet.
+- **Open Swete transcriptions are OCR-noisy, incomplete, or not openly
+  licensed.** Ours records every place where the readings disagreed and how
+  each was settled (`transcription_decisions`).
+- **The Göttingen critical Septuagint is copyrighted**, so our base text is
+  less critical than the one modern scholarly translations use.
+
 ## `books.tsv`
 
 Book order, ids and canon flags. Columns: `nn` (file prefix), `id`, `english`,
 `greek`, `testament` (`OT`/`NT`), `deuterocanonical` (`yes` for books outside
 the 39-book Protestant OT; Greek additions inside Esther and Daniel stay in
 those books), `role` (`main`; `comparison` for Theodotion's Susanna, Daniel and
-Bel and Sinaiticus Tobit, which follow their main text), `source`, `notes`.
+Bel and Sinaiticus Tobit, which follow their main text), `source`, `notes`,
+`chapters` (the book's chapter total, filled once verified; the site labels an
+Old Testament book "partially transcribed" while it has fewer chapters than
+this, or always when it is blank).
 
 ## `greek/NN-<id>.tsv`
 
@@ -40,7 +100,7 @@ UTF-8, NFC, tab-separated, header row, one row per Greek word in text order.
 
 | column   | meaning                                                                                        |
 | -------- | ---------------------------------------------------------------------------------------------- |
-| `ref`    | `<id>.<chapter>.<verse>`; LXX verses use the common numbering Swete prints in parentheses (rule 7), including lettered verses and half verses (`3kgdms.2.35a`, `gen.31.48a`); rows keep Swete's printed order, so a transposed verse comes out of numerical order (`gen.35.21` before `gen.35.16`) |
+| `ref`    | `<id>.<chapter>.<verse>`; LXX verses use the common numbering Swete prints in parentheses (rule 7), converted to the English chapter division where Hebrew and English differ (`gsb/sources/swete/versification.tsv`), including lettered verses and half verses (`3kgdms.2.35a`, `gen.31.48a`) and one Greek verse for several common ones as Swete prints it (`exod.37.4-5`, `exod.36.34,36b`); rows keep Swete's printed order, so a transposed verse comes out of numerical order (`gen.35.21` before `gen.35.16`) |
 | `n`      | 1-based word number within the verse                                                           |
 | `pre`    | punctuation before the word (`(`, `[[`, `“`)                                                    |
 | `word`   | the word, NFC; elision marks are written U+2019 (`κατ’`)                                       |

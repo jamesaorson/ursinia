@@ -93,15 +93,36 @@ gsb/uses: ## Lists every literal-layer use of a lemma with its sense and English
 	@if [ -z "$(LEMMA)" ]; then echo "Usage: make gsb/uses LEMMA=<lemma as in gsb/greek/>, e.g. make gsb/uses LEMMA=ἀρχή" >&2; exit 2; fi
 	./scripts/gsb-check.sh --uses "$(LEMMA)"
 
-GSB_SITE_INPUTS := $(wildcard gsb/books.tsv gsb/README.md gsb/greek/*.tsv gsb/lexicon/* gsb/translation/*.md gsb/translation/*/*.scm) \
-	scripts/gsb-site.scm scripts/gsb-site.sh scripts/lib/gsb.scm scripts/lib/gsb-translation.scm scripts/lib/md.scm \
-	assets/bible/gsb/gsb.css assets/bible/gsb/gsb.js
+.PHONY: gsb/literal gsb/literal/check
+gsb/literal: ## Regenerates the scripted hyper-literal English (gsb/literal/) from the Greek, form analyses, glosses and overrides
+	./scripts/gsb-literal.sh generate
+
+gsb/literal/check: ## Checks the data behind the scripted literal layer and lints its output
+	./scripts/gsb-literal.sh check
+
+GSB_DB := wwwroot/bible/versions/gsb/data/gsb.sqlite
+GSB_DB_INPUTS := $(wildcard gsb/books.tsv gsb/README.md gsb/schema.sql gsb/greek/*.tsv gsb/lexicon/* \
+	gsb/translation/*.md gsb/translation/*/*.scm gsb/reports/*.tsv gsb/sources/*/README.md \
+	gsb/sources/swete/*.tsv gsb/sources/swete/pages/*/*.txt gsb/lexicon/glosses/*.scm \
+	gsb/literal/*.scm gsb/literal/*/*.scm gsb/literal/*/*.tsv) \
+	scripts/gsb-db.scm scripts/gsb-db.sh scripts/lib/gsb-db.scm scripts/lib/gsb.scm scripts/lib/gsb-translation.scm \
+	scripts/lib/gsb-literal.scm scripts/lib/swete.scm scripts/lib/bible.scm
+
+.PHONY: gsb/db
+gsb/db: $(GSB_DB) ## Builds the Greek Source Bible database (and its .gz) from gsb/ into wwwroot/bible/versions/gsb/data/
+
+$(GSB_DB): $(GSB_DB_INPUTS)
+	./scripts/gsb-db.sh $@
+	gzip -9 -n -c $@ > $@.gz
+
+GSB_SITE_INPUTS := $(GSB_DB) scripts/gsb-site.scm scripts/gsb-site.sh scripts/lib/gsb-db.scm scripts/lib/gsb.scm \
+	scripts/lib/md.scm scripts/lib/dirs.scm assets/bible/gsb/gsb.css assets/bible/gsb/gsb.js assets/bible/gsb/copy.css assets/bible/gsb/copy.js \
+	$(wildcard templates/bible/versions/*/index.md)
 
 .PHONY: gsb/site
-gsb/site: wwwroot/bible/versions/gsb/text/index.html ## Generates the Greek Source Bible page and dataset into wwwroot/bible/versions/gsb/
+gsb/site: wwwroot/bible/versions/gsb/index.html ## Renders every Greek Source Bible page from the database into wwwroot/bible/versions/gsb/
 
-wwwroot/bible/versions/gsb/text/index.html: $(GSB_SITE_INPUTS)
-	mkdir -p wwwroot/bible/versions/gsb/text wwwroot/bible/versions/gsb/data/translation
+wwwroot/bible/versions/gsb/index.html: $(GSB_SITE_INPUTS)
 	./scripts/gsb-site.sh
 	touch $@
 
@@ -109,7 +130,8 @@ wwwroot/bible/versions/gsb/text/index.html: $(GSB_SITE_INPUTS)
 
 SCM_TEMPLATES := $(shell find templates/ -type f -not -path '*/.*' -name '*.html.scm')
 _MD_TEMPLATES_ALL := $(shell find templates/ -type f -not -path '*/.*' -name '*.md')
-MD_TEMPLATES := $(filter-out %body.md %README.md %AGENTS.md %CLAUDE.md,$(_MD_TEMPLATES_ALL))
+# templates/bible/versions/gsb/index.md only names the page for the version list; gsb/site renders it.
+MD_TEMPLATES := $(filter-out %body.md %README.md %AGENTS.md %CLAUDE.md templates/bible/versions/gsb/index.md,$(_MD_TEMPLATES_ALL))
 ASSET_FILES := $(shell find assets/ -type f -not -path '*/.*' 2>/dev/null)
 SCM_RENDERS := $(patsubst templates/%.html.scm,wwwroot/%.html,$(SCM_TEMPLATES))
 MD_RENDERS := $(patsubst templates/%.md,wwwroot/%.html,$(MD_TEMPLATES))

@@ -1,0 +1,70 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+lev	theoldtestamenti00unknuoft	220	1	KAI	ΚΑΙ	ΚΑΙ	ΚΑΙ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	1	τῆς +τ	τῆς	τῆς	τῆς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	2	“Λάλησον	“Λάλησον	Λάλησον	Λάλησον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	2	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+lev	theoldtestamenti00unknuoft	220	2	ἐρεῖς	ἐρεῖς +2	ἐρεῖς	ἐρεῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	3	αὐτούς	αὐτούς	αὐτούς	αὐτούς	image (3x): acute before capitalized quotation
+lev	theoldtestamenti00unknuoft	220	3	"Ανθρωπος	"Ανθρωπος	Ἄνθρωπος	Ἄνθρωπος	image (3x): smooth breathing + acute
+lev	theoldtestamenti00unknuoft	220	5	Ἐὰν	Ἐὰν	Ἐὰν	Ἐὰν	image (3x): smooth breathing
+lev	theoldtestamenti00unknuoft	220	5	βοῶν, +3	βοῶν, +5	βοῶν,	βοῶν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	6	προσάξει:	προσάξει:	προσάξει·	προσάξει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	7	προσοισει	προσοίσει	προσοίσει	προσοίσει	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	220	7	avuTo,	αὐτό,	αὐτό,	αὐτό,	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	7	εναντιον	ἐναντίον	ἐναντίον	ἐναντίον	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	220	7	και	“καὶ	καὶ	καὶ	image (3x): καὶ after verse superscript
+lev	theoldtestamenti00unknuoft	220	7	επισήησει	ἐπιθήσει	ἐπιθήσει	ἐπιθήσει	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	220	7	τὴν	τὴν +4	τὴν	τὴν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	8	καρττώματος,	καρττώματος,	καρπώματος,	καρπώματος,	image (3x): π, not ττ
+lev	theoldtestamenti00unknuoft	220	8	ait@	αὐτῴ	αὐτῷ	αὐτῷ	image (3x): circumflex + iota subscript
+lev	theoldtestamenti00unknuoft	220	9	δκαὶ	ὅκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	9	Κυρίου:	Κυρίου:	Κυρίου·	Κυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	9	προσ-	προσ- +5	προσ-	προσ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	10	5 +οἰσουσιν	οίσουσιν	οίσουσιν	οίσουσιν	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	220	10	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	10	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave on υἱοὶ before Ἀαρὼν (name, not a quotation)
+lev	theoldtestamenti00unknuoft	220	10	Ἀαρὼν	Δ̓αρὼν	Ἀαρὼν	Ἀαρὼν	image (3x): smooth breathing
+lev	theoldtestamenti00unknuoft	220	11	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	11	pap-	μαρ-	μαρ-	μαρ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	12	τυρίου:	τυρῤίου:	τυρίου·	τυρίου·	image (3x): ano teleia
+lev	theoldtestamenti00unknuoft	220	12	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	12	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	12	μέλη"	μέλη" +6 7	μέλη·	μέλη·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	13	6	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	220	13	Και	ἐπιθήσουσιν	ἐπιθήσουσιν	ἐπιθήσουσιν	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	220	13	ἐπι	οἱ	οἱ	οἱ	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	220	13	ησουσιν	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave on υἱοὶ before Ἀαρὼν (name, not a quotation)
+lev	theoldtestamenti00unknuoft	220	13	οι	Ἀαρὼν	Ἀαρὼν	Ἀαρὼν	image (3x): smooth breathing
+lev	theoldtestamenti00unknuoft	220	13	VLOL	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	13	Ααρὼν	ἱερεῖς	ἱερεῖς	ἱερεῖς	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	220	13	οι	πῦρ	πῦρ	πῦρ	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	220	13	ιερεις	ἐπὶ	ἐπὶ	ἐπὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	220	13	πυρ	τὸ	τὸ	τὸ	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	220	13	€7l +TO υσιαστήηριον,	θυσιαστήριον,	θυσιαστήριον,	θυσιαστήριον,	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	14	rip:	πῦρ᾽	πῦρ·	πῦρ·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	14	“καὶ	8 +“καὶ	καὶ	καὶ	image (3x): καὶ after verse superscript
+lev	theoldtestamenti00unknuoft	220	14	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave on υἱοὶ before Ἀαρὼν (name, not a quotation)
+lev	theoldtestamenti00unknuoft	220	15	Aapov	8 +3 Ααρὼν	Ἀαρὼν	Ἀαρὼν	image (3x): smooth breathing
+lev	theoldtestamenti00unknuoft	220	16	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	16	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	16	τοῦ	τοῦ +θ	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	16	ϑτὰ	5. +ϑτὰ	τὰ	τὰ	image (3x): τὰ after verse superscript 9
+lev	theoldtestamenti00unknuoft	220	16	δὲ +9	δὲ +9	δὲ	δὲ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	17	ὕδατι:	ὕδατι:	ὕδατι·	ὕδατι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	18	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	18	θυσιαστήριον: +.	θυσιαστήριον".	θυσιαστήριον·	θυσιαστήριον·	image (3x): ano teleia
+lev	theoldtestamenti00unknuoft	220	18	κάρπωμά	κάρπωμά	κάρπωμά	κάρπωμά	image (3x): κάρπωμά with second acute before enclitic
+lev	theoldtestamenti00unknuoft	220	19	°K +ay	Ἐὰν	Ἐὰν	Ἐὰν	image (3x): smooth breathing
+lev	theoldtestamenti00unknuoft	220	20	Τῷ	τῷ	τῷ	τῷ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	220	20	KUpL@	κυρίῳ	κυρίῳ	κυρίῳ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	20	avo	ἀπό	ἀπό	ἀπό	image (3x): ἀπό acute before enclitic τε
+lev	theoldtestamenti00unknuoft	220	20	ΤΕ	τε	τε	τε	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	220	20	Τῶν	τῶν	τῶν	τῶν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	220	20	αρνωῶν	ἀρνῶν	ἀρνῶν	ἀρνῶν	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	220	20	Και	καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	220	20	Τῶν	τῶν	τῶν	τῶν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	220	20	εις	εἰς	εἰς	εἰς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	220	20	O	ὁλοκαύτωμα,	ὁλοκαύτωμα,	ὁλοκαύτωμα,	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	220	20	οΚαύυτωμα, +αρσεν	ἄρσεν	ἄρσεν	ἄρσεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	220	9	-	-	καὶ	καὶ	ambiguous: mark over ι of the second καὶ is a hooked stroke like a rough breathing fused with a grave (broken type); read grave
+lev	theoldtestamenti00unknuoft	220	17	-	-	ἐνκοίλια	ἐνκοίλια	image (3x): spelled with ν (ἐνκ-), as printed

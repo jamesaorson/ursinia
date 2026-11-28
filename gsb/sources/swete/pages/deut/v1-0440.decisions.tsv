@@ -1,0 +1,53 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+deut	theoldtestamenti00unknuoft	440	2	9Kal	ϑΚαὶ	Καὶ	Καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	2	τοῦ	τοῦ +9	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	3	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	4	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	440	5	ἑπτὰ +το	ἑπτὰ +το	ἑπτὰ	ἑπτὰ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	6	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	6	"ἐν	"ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	6	συν- +τι	συν- +τι	συν-	συν-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	7	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	440	8	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	8	@	ᾧ	ᾧ	ᾧ	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	440	9	παντὸς	παντὸς +᾽	παντὸς	παντὸς	image (3x): grave before Ἰσραὴλ (not a quotation)
+deut	theoldtestamenti00unknuoft	440	9	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	440	9	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	9	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	9	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	9	""ἐκκλησιάσας	1Ι2 +""ἐκκλησιάσας	ἐκκλησιάσας	ἐκκλησιάσας	image (3x): superscript verse number fused into the word, not text
+deut	theoldtestamenti00unknuoft	440	9	λαόν, +12	λαόν, +τ2	λαόν,	λαόν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	10	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	10	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	13	τούτου:	τούτου:	τούτου·	τούτου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	13	3Kal	"3καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	13	viol	υἱοὶ	υἱοὶ	υἱοὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	13	ot	οἱ	οἳ	οἳ	image (8x): rough + grave, compact closed mark (relative οἳ)
+deut	theoldtestamenti00unknuoft	440	14	μαθήσονται	αθήσονται	μαθήσονται	μαθήσονται	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	440	14	θεόν	θεόν	θεόν	θεόν	image (3x): acute before enclitic as printed
+deut	theoldtestamenti00unknuoft	440	15	Ἰορδάνην	Ἰορδάνην	Ἰορδάνην	Ἰορδάνην	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	440	17	™%Kal	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	17	Mavonv	Μωυσῆν	Μωυσῆν	Μωυσῆν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	17	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	440	17	ίκασιν	ἠγγίκασιν	ἠγγίκασιν	ἠγγίκασιν	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	440	17	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	18	σου"	σου"	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	18	Ἰησοῦν,	Ἰησοῦν,	Ἰησοῦν,	Ἰησοῦν,	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	440	18	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	18	THs	τῆς	τῆς	τῆς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	20	Ιησοῦς	Ιησοῦς	Ἰησοῦς	Ἰησοῦς	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	440	21	θύρας	ὕρας	θύρας	θύρας	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	440	21	Kal	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	21	νεφέλη,	νεφέλῃ,	νεφέλῃ,	νεφέλῃ,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	440	22	tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	22	μαρτυρίου:	μαρτυρίου:	μαρτυρίου·	μαρτυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	22	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	440	23	σκηνῆς.	σκηνῆς. +Ἰδ	σκηνῆς.	σκηνῆς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	23	Kal	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	24	“Sov	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on capital
+deut	theoldtestamenti00unknuoft	440	24	Koma	κοιμᾷ	κοιμᾷ	κοιμᾷ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	24	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	25	θεών	θεών	θεῶν	θεῶν	image (3x): circumflex, θεῶν
+deut	theoldtestamenti00unknuoft	440	26	καταλείψουσίν	καταλείψουσίν	καταλείψουσίν	καταλείψουσίν	image (3x): acute before enclitic as printed
+deut	theoldtestamenti00unknuoft	440	27	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	440	27	Kat	17 +"7καὶ	καὶ	καὶ	image (3x): superscript verse number fused into the word, not text

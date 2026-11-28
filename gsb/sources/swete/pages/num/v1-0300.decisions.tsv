@@ -1,0 +1,76 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+num	theoldtestamenti00unknuoft	300	1	Raney	λάγανον	λάγανον	λάγανον	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	300	2	29	χεῖράς	χεῖρας	χεῖρας	image (3x): reads as page file (letters and diacritics; superscript numbers, § and margin not text; ιβ with keraia)
+num	theoldtestamenti00unknuoft	300	2	∅	τοῦ	τοῦ	τοῦ	class R0: OCR lost the word in extraction; c read from the image strip
+num	theoldtestamenti00unknuoft	300	2	∅	ηὐγμένου,	ηὐγμένου,	ηὐγμένου,	class R0: OCR lost the word in extraction; c read from the image strip
+num	theoldtestamenti00unknuoft	300	2	∅	μετὰ	μετὰ	μετὰ	class R0: OCR lost the word in extraction; c read from the image strip
+num	theoldtestamenti00unknuoft	300	2	∅	τὸ	τὸ	τὸ	class R0: OCR lost the word in extraction; c read from the image strip
+num	theoldtestamenti00unknuoft	300	2	∅	ἐυρήσασθαι	ξυρήσασθαι	ξυρήσασθαι	image (3x): reads as page file (letters and diacritics; superscript numbers, § and margin not text; ιβ with keraia)
+num	theoldtestamenti00unknuoft	300	2	∅	αὐτὸν	αὐτὸν	αὐτὸν	class R0: OCR lost the word in extraction; c read from the image strip
+num	theoldtestamenti00unknuoft	300	2	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+num	theoldtestamenti00unknuoft	300	2	∅	εὐχὴν	εὐχὴν	εὐχὴν	class R0: OCR lost the word in extraction; c read from the image strip
+num	theoldtestamenti00unknuoft	300	2	∅	αὐτοῦ: +30	αὐτοῦ·	αὐτοῦ·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	300	3	ΤρῦτΟ +σε	προσοίσει	προσοίσει	προσοίσει	class R6 (OCR letters differ): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	300	3	Ls	Ἑυρίου᾽	Κυρίου·	Κυρίου·	image (3x): reads as page file (letters and diacritics; superscript numbers, § and margin not text; ιβ with keraia)
+num	theoldtestamenti00unknuoft	300	3	ἔσται +20	ἔσται +20	ἔσται	ἔσται	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	300	4	βρόχινοι	βραχίξος	βραχίονος	βραχίονος	image (3x): reads as page file (letters and diacritics; superscript numbers, § and margin not text; ιβ with keraia)
+num	theoldtestamenti00unknuoft	300	5	ἀφαιρέματος"	ἀφαιρέματος"	ἀφαιρέματος·	ἀφαιρέματος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	300	5	μετὰ	βετὰ	μετὰ	μετὰ	class R6 (OCR letters differ): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	300	5	ΠΥ +θὲ	ὐγμένοΣ	ηὐγμένος	ηὐγμένος	image (3x): reads as page file (letters and diacritics; superscript numbers, § and margin not text; ιβ with keraia)
+num	theoldtestamenti00unknuoft	300	5	“"οὗτος	“"οὗτος	οὗτος	οὗτος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	300	5	ὁ +21	ὁ +«1	ὁ	ὁ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	300	7	εὔχηρ;	εὐχῇ»,	εὐχῆς,	εὐχῆς,	image (3x): reads as page file (letters and diacritics; superscript numbers, § and margin not text; ιβ with keraia)
+num	theoldtestamenti00unknuoft	300	7	xelp	χορ	χεὶρ	χεὶρ	image (3x): reads as page file (letters and diacritics; superscript numbers, § and margin not text; ιβ with keraia)
+num	theoldtestamenti00unknuoft	300	8	§22Kai	δϑοκαὶ	ἂν	ἂν	image (3x): reads as page file (letters and diacritics; superscript numbers, § and margin not text; ιβ with keraia)
+num	theoldtestamenti00unknuoft	300	8	∅	∅	εὔξηται	εὔξηται	image (3x): reads as page file (letters and diacritics; superscript numbers, § and margin not text; ιβ with keraia)
+num	theoldtestamenti00unknuoft	300	8	∅	∅	κατὰ	κατὰ	image (3x): reads as page file (letters and diacritics; superscript numbers, § and margin not text; ιβ with keraia)
+num	theoldtestamenti00unknuoft	300	8	∅	∅	νόμον	νόμον	image (3x): reads as page file (letters and diacritics; superscript numbers, § and margin not text; ιβ with keraia)
+num	theoldtestamenti00unknuoft	300	8	∅	∅	ἁγνείας.	ἁγνείας.	image (3x): reads as page file (letters and diacritics; superscript numbers, § and margin not text; ιβ with keraia)
+num	theoldtestamenti00unknuoft	300	9	∅	∅	Καὶ	Καὶ	image (3x): reads as page file (letters and diacritics; superscript numbers, § and margin not text; ιβ with keraia)
+num	theoldtestamenti00unknuoft	300	9	"λάλησον	"λάλησον	Λάλησον	Λάλησον	image (3x): reads as page file (letters and diacritics; superscript numbers, § and margin not text; ιβ with keraia)
+num	theoldtestamenti00unknuoft	300	9	Δ̓αρὼν	Δ̓αρὼν +5"	Ἀαρὼν	Ἀαρὼν	image (3x): smooth breathing on Ἀαρὼν, Ἰσραὴλ/Ἰσραήλ, Εὐλογήσαι
+num	theoldtestamenti00unknuoft	300	10	Οὕτως	Οὕτως	Οὕτως	Οὕτως	image (8x): Οὕτως rough breathing + acute
+num	theoldtestamenti00unknuoft	300	10	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave kept before capitalized proper names Ἰσραὴλ, Κύριος, Μωυσῆς (not a quotation)
+num	theoldtestamenti00unknuoft	300	10	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on Ἀαρὼν, Ἰσραὴλ/Ἰσραήλ, Εὐλογήσαι
+num	theoldtestamenti00unknuoft	300	11	αὐτοῖς"	αὐτοῖς:	αὐτοῖς·	αὐτοῖς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	300	11	kai	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	300	11	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): ὄνομά acute before enclitic μου
+num	theoldtestamenti00unknuoft	300	11	υἱοὺς +97	υἱοὺς +97	υἱοὺς	υἱοὺς	image (3x): grave kept before capitalized proper names Ἰσραὴλ, Κύριος, Μωυσῆς (not a quotation)
+num	theoldtestamenti00unknuoft	300	12	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on Ἀαρὼν, Ἰσραὴλ/Ἰσραήλ, Εὐλογήσαι
+num	theoldtestamenti00unknuoft	300	12	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave kept before capitalized proper names Ἰσραὴλ, Κύριος, Μωυσῆς (not a quotation)
+num	theoldtestamenti00unknuoft	300	12	εὐλογησῶ	εὐλογήσω	εὐλογήσω	εὐλογήσω	image (3x): reads as page file (letters and diacritics; superscript numbers, § and margin not text; ιβ with keraia)
+num	theoldtestamenti00unknuoft	300	12	αὐτούς"	αὐτούς" +4	αὐτούς·	αὐτούς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	300	13	Seal	Εὐλογήσαι	Εὐλογήσαι	Εὐλογήσαι	image (3x): smooth breathing on Ἀαρὼν, Ἰσραὴλ/Ἰσραήλ, Εὐλογήσαι
+num	theoldtestamenti00unknuoft	300	13	∅	σε	σε	σε	class R0: OCR lost the word in extraction; c read from the image strip
+num	theoldtestamenti00unknuoft	300	13	∅	Κύριος	Κύριος	Κύριος	class R0: OCR lost the word in extraction; c read from the image strip
+num	theoldtestamenti00unknuoft	300	13	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+num	theoldtestamenti00unknuoft	300	13	∅	φυλάξαι,	φυλάξαι,	φυλάξαι,	class R0: OCR lost the word in extraction; c read from the image strip
+num	theoldtestamenti00unknuoft	300	14	∅	24 +οἐκαὶ	καὶ	καὶ	image (3x): reads as page file (letters and diacritics; superscript numbers, § and margin not text; ιβ with keraia)
+num	theoldtestamenti00unknuoft	300	14	ἐλεή-	ἐλεή- +55	ἐλεή-	ἐλεή-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	300	15	25	σαι	σαι	σαι	class R6 (OCR letters differ): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	300	15	"ὁ	σε" +“6	σε·	σε·	image (3x): reads as page file (letters and diacritics; superscript numbers, § and margin not text; ιβ with keraia)
+num	theoldtestamenti00unknuoft	300	16	καὶ	καὶ +ὃ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	300	16	εἰρήνην. +26 :	εἰρήνην. +2 1:	εἰρήνην.	εἰρήνην.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	300	17	ἧ	ἣ	ᾗ	ᾗ	image (3x): reads as page file (letters and diacritics; superscript numbers, § and margin not text; ιβ with keraia)
+num	theoldtestamenti00unknuoft	300	17	τὴν +τ	τὴν +τ	τὴν	τὴν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	300	20	αὐτά:	αὐτά:	αὐτά·	αὐτά·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	300	20	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	300	20	προσήνεγκαν	προσηνεγκαν	προσήνεγκαν	προσήνεγκαν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	300	20	Ἰσραήλ,	Ἰσραὴλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on Ἀαρὼν, Ἰσραὴλ/Ἰσραήλ, Εὐλογήσαι
+num	theoldtestamenti00unknuoft	300	20	ιβ΄	ιβ᾽ +:	ιβʹ	ιβʹ	image (3x): reads as page file (letters and diacritics; superscript numbers, § and margin not text; ιβ with keraia)
+num	theoldtestamenti00unknuoft	300	21	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	300	22	ἐπισκοπῆς"	ἐπισκοπῆς"	ἐπισκοπῆς·	ἐπισκοπῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	300	22	3Kal	3καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	300	22	αὐτῶν	αὐτῶν +53	αὐτῶν	αὐτῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	300	23	ἐξ	ἐξ	ἓξ	ἓξ	image (3x): ἓξ compact d-shape = rough + grave
+num	theoldtestamenti00unknuoft	300	23	ιβ΄	ιβ΄	ιβʹ	ιβʹ	image (3x): reads as page file (letters and diacritics; superscript numbers, § and margin not text; ιβ with keraia)
+num	theoldtestamenti00unknuoft	300	25	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	300	25	"Μωυσῆν	"Μωυσῆν	Μωυσῆν	Μωυσῆν	image (3x): reads as page file (letters and diacritics; superscript numbers, § and margin not text; ιβ with keraia)
+num	theoldtestamenti00unknuoft	300	25	5AdBe	5Λάβε	Λάβε	Λάβε	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	300	26	μαρτυρίου"	μαρτυρίου" +δὲ	μαρτυρίου·	μαρτυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	300	28	δκαὶ	ὁκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	300	28	λαβὼν	λαβὼν	λαβὼν	λαβὼν	image (3x): grave kept before capitalized proper names Ἰσραὴλ, Κύριος, Μωυσῆς (not a quotation)
+num	theoldtestamenti00unknuoft	300	28	τοῖς	τοῖς +6	τοῖς	τοῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	300	29	Aeveiras.	Λευείταις.	Λευείταις.	Λευείταις.	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	300	29	Boas	βόας	βόας	βόας	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	300	11	-	-	ἐπιθήσουσιν	ἐπιθήσουσιν	numbering: Swete prints 27 unparenthesized (text superscript and margin) between his 23 and 24; his order is 23, 27, 24, 25, 26; recorded as printed, order check cannot express it

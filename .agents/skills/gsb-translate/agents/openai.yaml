@@ -1,0 +1,4 @@
+interface:
+  display_name: "GSB literal translation"
+  short_description: "Analyze Septuagint forms and review the generated literal English"
+  default_prompt: "Use $gsb-translate for the chapters you were given."

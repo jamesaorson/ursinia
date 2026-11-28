@@ -1,0 +1,62 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+exod	theoldtestamenti00unknuoft	150	1	∅	περιελέτω	περιελέτω	περιελέτω	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	1	∅	τοὺς	τοὺς	τοὺς	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	1	∅	βατράχους	βατράχους	βατράχους	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	1	∅	ἀπ᾽	ἀπ᾽	ἀπ᾽	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	1	∅	ἐμοῦ	ἐμοῦ	ἐμοῦ	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	1	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	1	∅	ἀπὸ	ἀπὸ	ἀπὸ	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	1	∅	τοῦ	τοῦ	τοῦ	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	1	∅	ἐμοῦ.	ἐμοῦ	ἐμοῦ	image (3x): ἐμοῦ, speck after it, not a period
+exod	theoldtestamenti00unknuoft	150	1	∅	λαοῦ,	λαοῦ,	λαοῦ,	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	2	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	2	κυρίῳ. +9	κυρίῳ. +9	κυρίῳ.	κυρίῳ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	3	Φαραώ	Φαραώ	Φαραώ	Φαραώ	image (3x): acute on Φαραώ before capitalized quotation Τάξαι
+exod	theoldtestamenti00unknuoft	150	3	Taga	Τάξαι	Τάξαι	Τάξαι	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	3	pe	μὲ	μὲ	μὲ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	5	add	λαδῦ	λαοῦ	λαοῦ	image (3x): λαοῦ with circumflex; reddish stain over α is not ink
+exod	theoldtestamenti00unknuoft	150	5	ὀϊκιῶν	ὀϊκιῶν	οἰκιῶν	οἰκιῶν	image (3x): οἰκιῶν smooth breathing on ι; dot before ο is a speck
+exod	theoldtestamenti00unknuoft	150	5	ὑμῶν:	ὑμῶν:	ὑμῶν·	ὑμῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	6	*°6	"““ὁ	ὁ	ὁ	image (3x): ὁ with rough breathing after superscript 10
+exod	theoldtestamenti00unknuoft	150	6	Eis	Εἰς	Εἰς	Εἰς	image (3x): smooth breathing on the capital
+exod	theoldtestamenti00unknuoft	150	7	‘Qs	Ὡς	Ὡς	Ὡς	image (3x): rough breathing on Ω
+exod	theoldtestamenti00unknuoft	150	7	εἴρηκας:	εἴρηκας:	εἴρηκας·	εἴρηκας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	7	πλὴν	πλὴν	πλὴν	πλὴν	image (3x): grave on πλὴν before Κυ- (not a quotation)
+exod	theoldtestamenti00unknuoft	150	8	ρίου:	ρίου:	ρίου·	ρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	8	“kat	τι +"καὶ	καὶ	καὶ	image (3x): καὶ with grave; OCR junk is the superscript verse number
+exod	theoldtestamenti00unknuoft	150	10	σου:	σου:	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	11	7eEnOev	"Ξέξῆλθεν	ἐξῆλθεν	ἐξῆλθεν	image (3x): smooth breathing on ε, circumflex on η
+exod	theoldtestamenti00unknuoft	150	11	Ἀαρὼν	Ἀαρὼν	Ἀαρὼν	Ἀαρὼν	image (3x): smooth breathing on the capital
+exod	theoldtestamenti00unknuoft	150	11	Φαραώ"	Φαραώ"	Φαραώ·	Φαραώ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	13	"3Ξἐποίησεν	"Ξἐποίησεν	ἐποίησεν	ἐποίησεν	image (3x): ἐποίησεν; OCR junk is the superscript 13
+exod	theoldtestamenti00unknuoft	150	13	ἐτελεύ- +13	ἐτελεύ- +15	ἐτελεύ-	ἐτελεύ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	15	ἀγρῶν:	ἀγρῶν:	ἀγρῶν·	ἀγρῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	15	“kai	"“Γκαὶ	καὶ	καὶ	image (3x): καὶ with grave; OCR junk is the superscript verse number
+exod	theoldtestamenti00unknuoft	150	15	ὠζεσεν	ὠζεσεν +τ4	ὤζεσεν	ὤζεσεν	image (3x): smooth breathing and acute on ω; OCR junk is the margin number 14
+exod	theoldtestamenti00unknuoft	150	16	14 +ἢ	ἡ	ἡ	ἡ	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	150	16	ἰδὼν	"ἰδὼν	ἰδὼν	ἰδὼν	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	150	16	ἡ +15	ἡ +ιτ5	ἡ	ἡ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	18	Εἶπεν	Εἶπεν	Εἶπεν	Εἶπεν	image (3x): smooth breathing and circumflex on ι of the Ει diphthong
+exod	theoldtestamenti00unknuoft	150	18	Μωυσῆν	Μωυσὴν	Μωυσῆν	Μωυσῆν	image (3x): circumflex on η
+exod	theoldtestamenti00unknuoft	150	18	Εἰπὸν	Εἰπὸν	Εἰπὸν	Εἰπὸν	image (3x): Εἰπὸν: smooth breathing on ι, grave on ο before Ἀαρών
+exod	theoldtestamenti00unknuoft	150	18	Ἀαρών	Ἀαρών	Ἀαρών	Ἀαρών	image (3x): smooth breathing; acute on ω before capitalized quotation Ἔκτεινον
+exod	theoldtestamenti00unknuoft	150	18	“Extewvov	Ἔκτεινον	Ἔκτεινον	Ἔκτεινον	image (3x): smooth breathing and acute on the capital
+exod	theoldtestamenti00unknuoft	150	18	τῇ +16	τῇ +τ6	τῇ	τῇ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	20	ἔν	ἔν	ἔν	ἔν	image (3x): accent before enclitic printed as in the page file
+exod	theoldtestamenti00unknuoft	150	21	Αἰγύπτου. +“7	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	image (3x): smooth breathing on the capital
+exod	theoldtestamenti00unknuoft	150	21	ἐξέτεινεν	"“7ἐξέτεινεν	ἐξέτεινεν	ἐξέτεινεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	150	21	Ἀαρὼν	Ἀαρὼν	Ἀαρὼν	Ἀαρὼν	image (3x): smooth breathing on the capital
+exod	theoldtestamenti00unknuoft	150	21	ῥάβδον +17	ῥάβδον +τ7	ῥάβδον	ῥάβδον	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	23	τετράποσιν"	τετράποσιν"	τετράποσιν·	τετράποσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	24	“é€rroincay	“ἐποίησαν	ἐποίησαν	ἐποίησαν	image (3x): ἐποίησαν; OCR junk is the superscript 18
+exod	theoldtestamenti00unknuoft	150	24	ταῖς +18	ταῖς +18	ταῖς	ταῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	25	ἠδύναντο"	ἠδύναντο"	ἠδύναντο·	ἠδύναντο·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	27	%eirav	Ἰϑεἶῖπαν	εἶπαν	εἶπαν	image (3x): εἶπαν; OCR junk is the superscript 19 and margin ¶ F
+exod	theoldtestamenti00unknuoft	150	27	Φαραώ	Φαραώ	Φαραὼ	Φαραώ	image (3x): acute on Φαραώ before capitalized quotation Δάκτυλος
+exod	theoldtestamenti00unknuoft	150	27	τοῦτο" +19	τοῦτο" +το	τοῦτο·	τοῦτο·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	28	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	30	°Kimev	“οεἶπεν	Εἶπεν	Εἶπεν	image (3x): smooth breathing and circumflex on ι of the Ει diphthong
+exod	theoldtestamenti00unknuoft	150	30	Μωυσὴν	Μωυσῆν	Μωυσῆν	Μωυσῆν	image (3x): circumflex on η
+exod	theoldtestamenti00unknuoft	150	30	Ορθρισον	Ὄρθρισον	Ὄρθρισον	Ὄρθρισον	image (3x): smooth breathing and acute on the capital
+exod	theoldtestamenti00unknuoft	150	30	στῆθι +20	στῆθι +20	στῆθι	στῆθι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	150	27	τῷ +Ἵ	τῷ +Ἵ	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip

@@ -18,6 +18,7 @@
             page-lines
             line-items
             book-verses
+            english-numbering
             book-problems
             greek-char?
             hocr-lines
@@ -31,6 +32,9 @@
             reconcile
             indent-hints
             todo?
+            stale-rows
+            rows-revision
+            ocr-line-of
             replace-all))
 
 ;;; ---------------------------------------------------------------------------
@@ -93,16 +97,23 @@ printed lines, n counting from 1."
 (define (page-lines page) (second page))
 
 (define (parse-marker s)
-  "'(chapter n), '(verse n), '(verse n skip) for {52!} (Swete's own numbering
-skips to 52 here, as printed), '(common c v part) with PART \"\" or a half-verse
-letter (\"a\" for {=31:48a}), '(para), '(stich) or #f."
+  "'(chapter n), '(verse n), '(verse n skip) for {52!} (Swete's own number 52
+as printed, out of sequence: a skip or a number printed early or late), '(common c v part) with PART \"\", a half-verse
+letter (\"a\" for {=31:48a}), or the rest of a combined number as printed
+(\"-31\" for {=40:30-31}, \",36\" for {=36:34,36}; ascending), '(para),
+'(stich) or #f."
   (cond
    ((string-match "^C([0-9]+)$" s) => (lambda (m) (list 'chapter (string->number (match:substring m 1)))))
    ((string-match "^([0-9]+)$" s) => (lambda (m) (list 'verse (string->number (match:substring m 1)))))
    ((string-match "^([0-9]+)!$" s) => (lambda (m) (list 'verse (string->number (match:substring m 1)) 'skip)))
-   ((string-match "^=([0-9]+):([0-9]+)([a-z]?)$" s)
-    => (lambda (m) (list 'common (string->number (match:substring m 1)) (string->number (match:substring m 2))
-                         (match:substring m 3))))
+   ((string-match "^=([0-9]+):([0-9]+)([a-z]?|-[0-9]+|(,[0-9]+[a-z]?)+)$" s)
+    => (lambda (m)
+         (let ((c (string->number (match:substring m 1))) (v (string->number (match:substring m 2)))
+               (part (match:substring m 3)))
+           (and (or (not (string-index part char-numeric?))
+                    (apply < v (map (lambda (x) (string->number (string-trim-right x char-alphabetic?)))
+                                    (cdr (string-split (string-map (lambda (ch) (if (char=? ch #\-) #\, ch)) part) #\,)))))
+                (list 'common c v part)))))
    ((string=? s "P") '(para))
    ((string=? s "S") '(stich))
    (else #f)))
@@ -192,19 +203,58 @@ dropped. Returns (values rows problems), problems as for book-problems."
          (('common c v part) (loop rest ch (list c v part) "" #f where (flush) problems))
          (_ (loop rest ch ref text join? where rows problems)))))))
 
+(define (english-numbering rows ranges)
+  "ROWS (chapter verse text) with the verses that fall in RANGES renumbered to
+the English chapter division. RANGES: ((chapter from to english-chapter
+english-first) ...), e.g. (7 26 29 8 1) for Exod 7:26-29 = English 8:1-4.
+Every number in a verse (\"48a\", \"4-5\") shifts by the same amount.
+Consecutive rows that land on one English verse are joined when their third
+element is text (Hebrew Num 25:19 + 26:1 = English 26:1); other payloads (the
+database's word locations) are left for the caller."
+  (fold-right
+   (lambda (r acc)
+     (match acc
+       (((c v text) . more) (=> next)
+        (if (and (string? text) (string? (third r)) (equal? (take r 2) (list c v))) (cons (list c v (string-append (third r) " " text)) more) (next)))
+       (_ (cons r acc))))
+   '()
+   (map (lambda (r)
+         (match r
+           ((c v text)
+            (let ((n (if (number? v) v (string->number (match:substring (string-match "^[0-9]+" v))))))
+              (match (find (match-lambda ((rc from to . _) (and (= rc c) (<= from n to)))) ranges)
+                (#f r)
+                ((_ from _ ec ev)
+                 (list ec
+                       (if (number? v)
+                           (+ v (- ev from))
+                           (regexp-substitute/global #f "[0-9]+" v 'pre
+                                                     (lambda (m) (number->string (+ (string->number (match:substring m)) (- ev from))))
+                                                     'post))
+                       text)))))))
+       rows)))
+
 ;;; ---------------------------------------------------------------------------
 ;;; Validation
 ;;; ---------------------------------------------------------------------------
 
-(define %allowed-punct (string->char-set ".,·;:᾽()[]¶§-' "))
+(define %allowed-punct (string->char-set ".,·;:᾽()[]¶§- "))
+
+(define %keraia #\x2B9)  ; what NFC makes of U+0374 GREEK NUMERAL SIGN: ιβʹ = 12
 
 (define (bad-chars s)
-  "Characters of S that are neither Greek letters/diacritics nor allowed punctuation."
+  "Characters of S that are neither Greek letters/diacritics nor allowed
+punctuation. The keraia is allowed only right after a Greek letter."
   (delete-duplicates
-   (filter (lambda (c) (not (or (char-set-contains? %allowed-punct c)
-                                (and (greek-char? c) (not (memv c '(#\; #\·))))
-                                (combining? c))))
-           (string->list s))))
+   (filter-map (lambda (c prev)
+                 (and (not (or (char-set-contains? %allowed-punct c)
+                               ;; not U+0384, a spacing tonos typed for the keraia
+                               (and (greek-char? c) (not (memv c '(#\; #\· #\x384))))
+                               (combining? c)
+                               (and (eqv? c %keraia) prev (greek-char? prev) (char-alphabetic? prev))))
+                      c))
+               (string->list s)
+               (cons #f (string->list s)))))
 
 (define (ref<? a b) (or (< (first a) (first b)) (and (= (first a) (first b)) (< (second a) (second b)))))
 
@@ -223,10 +273,10 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
            (match (bad-chars text)
              (() '())
              (cs (list (list leaf n 'fail
-                             (format #f "non-Greek character~a ~a: read the image again (Latin look-alikes, stray digits?)"
+                             (format #f "non-Greek character~a ~a: read the image again (Latin look-alikes, stray digits?; a numeral's keraia is ʹ U+02B9, right after its letters)"
                                      (if (> (length cs) 1) "s" "")
                                      (string-join (map (lambda (c) (format #f "~a (U+~a)" c (string-upcase (number->string (char->integer c) 16)))) cs) ", "))))))
-           (filter-map (match-lambda (('bad s) (list leaf n 'fail (format #f "unknown marker ~a (use {C3} {7} {7!} {=2:25} {=31:48a} {P} {S})" s)))
+           (filter-map (match-lambda (('bad s) (list leaf n 'fail (format #f "unknown marker ~a (use {C3} {7} {7!} {=2:25} {=31:48a} {=40:30-31} {=36:34,36} {P} {S}; combined numbers ascend)" s)))
                                      (_ #f))
                        (line-items line))))))
      (page-lines page)))
@@ -244,22 +294,42 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
     (let* ((opens? (and first-leaf (= (car (first run)) first-leaf)))
            (ends? (and last-leaf (= (car (last run)) last-leaf)))
            ;; (c v) -> ((part leaf line) ...): common references that have text
-           (seen (make-hash-table)))
+           (seen (make-hash-table))
+           ;; (chapter verse) -> (leaf line): Swete's own numbers met
+           (swete-seen (make-hash-table)))
       (define (ref-text ref) (apply format #f "~a:~a" (ref-key ref)))
       (define (duplicate ref where)
-        ;; A message if REF starts a second row for the same common verse (or
-        ;; mixes a whole verse with its halves), else #f; records REF.
+        ;; A message if REF starts a second row for a common verse already
+        ;; given (or mixes a whole verse with its halves), else #f; records
+        ;; REF. A combined reference (40:30-31, 36:34,36) claims each verse.
         (match ref
           ((c v part . _)
-           (let* ((before (hash-ref seen (list c v) '()))
-                  (clash (find (lambda (p) (or (string=? (car p) part) (string-null? (car p)) (string-null? part))) before)))
-             (hash-set! seen (list c v) (cons (cons part where) before))
-             (and clash
-                  (format #f "common reference ~a again (already at leaf ~a line ~a): each common verse or half verse is given once per book; a {=c:v} marker is wrong, or the halves need letters ({=~a:~aa} ... {=~a:~ab})"
-                          (ref-text ref) (second clash) (third clash) c v c v))))))
+           (let* ((members   ; ((verse . half-letter) ...)
+                   (cond ((string-prefix? "-" part)
+                          (map (lambda (n) (cons n "")) (iota (- (string->number (string-drop part 1)) v -1) v)))
+                         ((string-prefix? "," part)
+                          (cons (cons v "")
+                                (map (lambda (x) (let ((n (string-trim-right x char-alphabetic?)))
+                                                   (cons (string->number n) (string-drop x (string-length n)))))
+                                     (cdr (string-split part #\,)))))
+                         (else (list (cons v part)))))
+                  (clashes (filter-map
+                            (match-lambda
+                              ((m . letter)
+                               (let* ((before (hash-ref seen (list c m) '()))
+                                      (clash (find (lambda (p) (or (string=? (car p) letter) (string-null? (car p)) (string-null? letter))) before)))
+                                 (hash-set! seen (list c m) (cons (cons letter where) before))
+                                 (and clash (cons m clash)))))
+                            members)))
+             (match clashes
+               (() #f)
+               (((m . clash) . _)
+                (format #f "common reference ~a again (~a:~a already at leaf ~a line ~a): each common verse or half verse is given once per book; a {=c:v} marker is wrong, or Swete prints the number twice and the halves need letters ({=~a:~aa} ... {=~a:~ab})"
+                        (ref-text ref) c m (second clash) (third clash) c m c m)))))))
       (let loop ((evs (book-events run)) (where '(0 0)) (ch #f) (v #f) (ref #f) (last-ref #f)
                  (pending-text? #f) (depth (if opens? 0 #f)) (hyphen? #f) (acc '()))
         (define (add sev fmt . args) (cons (list (first where) (second where) sev (apply format #f fmt args)) acc))
+        (define (seq fmt . args) (apply add 'fail fmt args))
         (match evs
           (()
            (reverse
@@ -272,21 +342,29 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
              (('hyphen) (loop rest where ch v ref last-ref pending-text? depth #t acc))
              (('chapter n)
               (loop rest where n 'after-chapter ref last-ref pending-text? depth hyphen?
-                    (if (and ch (not (= n (+ ch 1)))) (add 'fail "Swete chapter {C~a} after chapter ~a" n ch)
+                    (if (and ch (not (= n (+ ch 1)))) (seq "Swete chapter {C~a} after chapter ~a" n ch)
                         (if (and (not ch) opens? (not (= n 1))) (add 'fail "book opens with {C~a}, expected {C1}" n) acc))))
              (('verse n . skip)
               ;; V is the last Swete verse, 'after-chapter right after {C},
               ;; #f at the start of a run (unknown). Swete's own numbers must
-              ;; run on by one, unless the page marks a printed skip {52!}.
-              (loop rest where ch n (and ch (list ch n "")) last-ref pending-text? depth hyphen?
-                    (cond ((eq? v 'after-chapter)
-                           (if (= n 1) acc (add 'fail "Swete chapter ~a starts with verse {~a}, expected {1}" ch n)))
-                          ((and (number? v) (pair? skip) (<= n (+ v 1)))
-                           (add 'fail "{~a!} marks a skip in Swete's numbers, but it follows {~a}: write {~a}" n v n))
-                          ((and (number? v) (null? skip) (not (= n (+ v 1))))
-                           (add 'fail "Swete verse {~a} after {~a}: misread number or missing marker (if Swete really prints no ~a, write {~a!})"
-                                n v (+ v 1) n))
-                          (else acc))))
+              ;; run on by one, unless the page marks the number as printed
+              ;; out of sequence, {52!} (a skip, Gen 31:52, or a number
+              ;; printed early or late, Num 6:27, 10:34). Either way each
+              ;; Swete number occurs once per chapter. A {n!} reference is
+              ;; explicit: the common-order warnings do not judge it.
+              (let ((again (and ch (hash-ref swete-seen (list ch n)))))
+                (when ch (hash-set! swete-seen (list ch n) where))
+                (loop rest where ch n (and ch (if (pair? skip) (list ch n "" 'explicit) (list ch n ""))) last-ref pending-text? depth hyphen?
+                      (cond (again
+                             (seq "Swete verse {~a} again in chapter ~a (already at leaf ~a line ~a): misread number?" n ch (first again) (second again)))
+                            ((eq? v 'after-chapter)
+                             (if (= n 1) acc (seq "Swete chapter ~a starts with verse {~a}, expected {1}" ch n)))
+                            ((and (number? v) (pair? skip) (= n (+ v 1)))
+                             (seq "{~a!} marks Swete's number as out of sequence, but it follows {~a}: write {~a}" n v n))
+                            ((and (number? v) (null? skip) (not (= n (+ v 1))))
+                             (seq "Swete verse {~a} after {~a}: misread number or missing marker (if Swete really prints ~a here, skipping or out of order, write {~a!})"
+                                  n v n n))
+                            (else acc)))))
              (('common c vv part) (loop rest where ch v (list c vv part 'explicit) last-ref pending-text? depth hyphen? acc))
              (('text s)
               (let* ((s (squeeze (strip-sigla s)))
@@ -300,6 +378,13 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
                                        ;; transposes verses); only the references
                                        ;; that follow Swete's own numbers are judged,
                                        ;; against the one before when that did too.
+                                       ;; Except: a Swete verse with no {=c:v}
+                                       ;; that lands in another chapter than the
+                                       ;; common verse before it (Exod 36-39).
+                                       ((and (not (memq 'explicit ref)) last-ref (memq 'explicit last-ref)
+                                             (not (= (first ref) (first last-ref))) (not (eqv? (second ref) 1)))
+                                        (add 'warn "Swete's verse ~a has no {=c:v}, so it falls back to his own number, after common ~a: if the margin prints no parenthesized number beside it, run it on ({=~a})"
+                                             (ref-text ref) (ref-text last-ref) (ref-text last-ref)))
                                        ((or (memq 'explicit ref) (and last-ref (memq 'explicit last-ref))) acc)
                                        ((and last-ref (not (ref<? last-ref ref)))
                                         (add 'warn "common reference ~a comes after ~a: a {=c:v} marker is wrong or missing?"
@@ -326,10 +411,12 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
                       (loop rest where ch v ref (or ref last-ref) #t depth hyphen? acc3)))))
              (_ (loop rest where ch v ref last-ref pending-text? depth hyphen? acc))))))))
   (define (runs pages)
-    ;; Split into runs of consecutive leaves (leaf, leaf+step, ...).
+    ;; Split into runs of consecutive leaves (leaf, leaf+step, ...). A leaf
+    ;; not yet done ends its run: its text may be partial (a missing {C}), so
+    ;; chapter and verse context is not carried past it.
     (fold-right (lambda (p acc)
                   (match acc
-                    (((q . more) . others) (if (= (+ (car p) step) (car q))
+                    (((q . more) . others) (if (and (= (+ (car p) step) (car q)) (page-header (cdr p) "done"))
                                                (cons (cons p (cons q more)) others)
                                                (cons (list p) acc)))
                     (() (list (list p)))))
@@ -338,6 +425,12 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
    (append
     (append-map (match-lambda ((leaf . page) (append (header-problems leaf page) (line-problems leaf page)))) pages)
     (append-map run-problems (runs pages))
+    ;; Say where the order and duplicate checks were cut short.
+    (filter-map (lambda (p q)
+                  (and (= (+ (car p) step) (car q)) (not (page-header (cdr p) "done"))
+                       (list (car q) 0 'warn
+                             (format #f "order and duplicate checks against earlier leaves skipped: leaf ~a is unfinished (they run once it is done)" (car p)))))
+                (drop-right pages (min 1 (length pages))) (if (null? pages) '() (cdr pages)))
     ;; Text before the first marker is only an error when the book's opening is here.
     (if (and (pair? pages) first-leaf (= (car (first pages)) first-leaf))
         (call-with-values (lambda () (book-verses pages)) (lambda (rows problems) problems))
@@ -516,18 +609,31 @@ page of poetry has no flush lines to compare with."
                                 (and c (not (string-null? c)) (not (string-null? o))
                                      (or (string-suffix? c o) (string-suffix? o c)))))))
           (filter-map
-           (lambda (x l pl)
-             (let ((indented? (> (- x left) em))
-                   (para? (string-contains (cdr pl) "{P}"))
-                   (stich? (string-contains (cdr pl) "{S}")))
+           (lambda (x l pl x-above x-below pl-above pl-below)
+             ;; Right of the page's flush edge, and not level with a neighbor: a
+             ;; block set narrower beside a double margin number column
+             ;; (Num 1:24-37, leaf 285) starts right of the flush edge on
+             ;; every line, a paragraph's first line alone.
+             (let* ((indented? (and (> (- x left) em)
+                                    (not (any (lambda (n) (and n (< (abs (- x n)) (/ em 2)))) (list x-above x-below)))))
+                    (para? (string-contains (cdr pl) "{P}"))
+                    (stich? (string-contains (cdr pl) "{S}"))
+                    ;; A {P} line is judged against its prose neighbors only, not
+                    ;; the page's edge: a wider margin-number column shifts the
+                    ;; block locally (Deut leaf 437), and poetry lines ({S},
+                    ;; leaves 448-450) are indented themselves.
+                    (prose-nbrs (filter-map (lambda (n p) (and n p (not (string-contains (cdr p) "{S}")) n))
+                                            (list x-above x-below) (list pl-above pl-below)))
+                    (flush-p? (and (pair? prose-nbrs) (<= (- x (apply min prose-nbrs)) (/ em 2)))))
                (cond ((and indented? (not (or para? stich?)) (> (car pl) 1) (same-start? l (car pl))
                            ;; a superscript verse number at the line start pushes the word right
                            (not (string-match "^\\{[0-9]+!?\\}" (cdr pl))))
                       (format #f "line ~a looks indented in the scan: a new paragraph? (add {P} at its start, or {S} for a line of poetry)" (car pl)))
-                     ((and para? (not indented?))
+                     ((and para? (not stich?) flush-p?)
                       (format #f "line ~a has {P} but does not look indented: check the image" (car pl)))
                      (else #f))))
-           x0s lines plines)))))
+           x0s lines plines (cons #f (drop-right x0s 1)) (append (cdr x0s) '(#f))
+           (cons #f (drop-right plines 1)) (append (cdr plines) '(#f)))))))
 
 ;;; ---------------------------------------------------------------------------
 ;;; Collation
@@ -820,16 +926,61 @@ for the crop, or #f) next-word."
 
 (define (todo? d) (string-prefix? "TODO" (ninth d)))
 
+(define (stale-rows decisions orphans toks)
+  "The ORPHANS (indexes into DECISIONS: settled rows and flags no collate row
+matches) whose chosen word is no longer on the page at their line (TOKS from
+page-tokens), unless a later row settles the same letters with a word that is
+on its own line, at most 2 lines away (a correction that supersedes it; a flag
+keeps the line it was logged on, so a line added above leaves it behind and
+the fix is to flag the word again where it now stands)."
+  (define (word d) ; older rows keep markers and witness marks in the word
+    (string-delete (lambda (c) (memv c '(#\¶ #\§)))
+                   (regexp-substitute/global #f "\\{[^}]*\\}" (eighth d) 'pre 'post)))
+  (define (line d) (string->number (fourth d)))
+  (define (present? d) (any (lambda (t) (and (= (second t) (line d)) (string=? (first t) (word d)))) toks))
+  ;; ponytail: "same letters within 2 lines" can take an unrelated later row for
+  ;; a correction; rows carry no word id to tell them apart.
+  (filter (lambda (i)
+            (let ((d (list-ref decisions i)))
+              (not (or (present? d)
+                       (any (lambda (e) (and (<= (abs (- (line e) (line d))) 2) (not (todo? e)) (present? e)
+                                             (string=? (base-letters (word e)) (base-letters (word d)))))
+                            (drop decisions (+ i 1)))))))
+          orphans))
+
+(define (rows-revision decisions)
+  "Short token for the numbering of DECISIONS (rows of strings): it changes
+when collate renumbers or rereads rows, not when decide settles one or flag
+appends one, so `decide ROWS@REV` refuses row numbers from an older listing."
+  (let ((ids (filter-map (lambda (d i)
+                           (and (not (and (string=? (fifth d) "-") (string=? (sixth d) "-")))
+                                (string-join (cons (number->string i) (take d 7)) "\t")))
+                         decisions (iota (length decisions) 1))))
+    (number->string (string-hash (string-join ids "\n") #x1000000) 36)))
+
+(define (ocr-line-of c-toks o-toks n)
+  "0-based index of the OCR line that most tokens of our printed line N
+(C-TOKS from page-tokens) align to in O-TOKS (from ocr-tokens), or #f."
+  (let* ((cv (list->vector c-toks)) (ov (list->vector o-toks))
+         (ks (filter-map (match-lambda
+                           (('= i j) (and (= (second (vector-ref cv i)) n) (third (vector-ref ov j))))
+                           (_ #f))
+                         (lcs-ops (list->vector (map first c-toks)) (list->vector (map first o-toks)) string=?))))
+    (and (pair? ks)
+         (fold (lambda (k best) (if (> (count (lambda (x) (= x k)) ks) (count (lambda (x) (= x best)) ks)) k best))
+               (car ks) ks))))
+
 (define (reconcile rows old)
   "Match collate ROWS to the OLD decision rows. Returns (values matches
 decisions orphans): MATCHES the decision index of each row; DECISIONS the new
 decision list, with #f where a row needs a new decision; ORPHANS the indexes of
-settled decisions no row matches. Matching, in order: the same line and OCR
+settled decisions and flags no row matches. Matching, in order: the same line and OCR
 readings; else a settled decision for the same token (our reading is its first
 or chosen reading) with the same OCR readings on another line (a line was added
 or removed), or on the same line with other OCR readings (the box changed). A
 carried-over decision takes the row's new line and readings and keeps its
-choice and basis. A TODO row that matches nothing is stale and dropped: it
+choice and basis; a carried-over TODO row takes the page's current reading as
+its chosen one (nobody chose it). A TODO row that matches nothing is stale and dropped: it
 settled nothing, and done would otherwise count it while collate did not; a
 settled decision or a flag is never dropped."
   (let* ((ov (list->vector old))
@@ -847,7 +998,9 @@ settled decision or a flag is never dropped."
             (vector-set! used i #t)
             (vector-set! m k i)
             (let ((d (vector-ref ov i)) (r (vector-ref rv k)))
-              (vector-set! ov i (append (take d 3) (list (line-of r) (assq-ref r 'a) (assq-ref r 'b)) (drop d 6))))))))
+              ;; Nobody chose a TODO row's reading: it follows the page.
+              (vector-set! ov i (append (take d 3) (list (line-of r) (assq-ref r 'a) (assq-ref r 'b))
+                                        (if (todo? d) (list (seventh d) (assq-ref r 'c) (ninth d)) (drop d 6)))))))))
     (define (same-token? d r) (and (settled? d) (not (flag? d)) (member (assq-ref r 'c) (list (seventh d) (eighth d)))))
     (for-each (lambda (k) (claim! k (lambda (d r) (equal? (list (fourth d) (fifth d) (sixth d))
                                                           (list (line-of r) (assq-ref r 'a) (assq-ref r 'b))))))
@@ -866,4 +1019,4 @@ settled decision or a flag is never dropped."
       (values (map (lambda (k) (if (vector-ref m k) (assv-ref pos (vector-ref m k)) (assv-ref new-pos k)))
                    (iota (vector-length rv)))
               (append (map (lambda (i) (vector-ref ov i)) kept) (map (const #f) unmatched))
-              (filter-map (lambda (i) (and (not (vector-ref used i)) (not (flag? (vector-ref ov i))) (assv-ref pos i))) kept)))))
+              (filter-map (lambda (i) (and (not (vector-ref used i)) (assv-ref pos i))) kept)))))

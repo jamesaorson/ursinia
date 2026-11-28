@@ -1,7 +1,7 @@
-// Greek Source Bible full-text page (/bible/versions/gsb/text/): page options,
+// Greek Source Bible study edition (/bible/versions/gsb/study/): page options,
 // per-word lookup and color modes. The page is complete without this file; it
 // only adds markup to a verse when the reader points at, taps or tabs to it.
-// Data comes from /bible/versions/gsb/data/ (written by scripts/gsb-site.scm).
+// Data comes from /bible/versions/gsb/data/ (written by scripts/gsb-site.scm from the GSB database).
 (function () {
   "use strict";
   var DATA = "/bible/versions/gsb/data/";

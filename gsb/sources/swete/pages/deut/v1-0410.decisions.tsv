@@ -1,0 +1,65 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+deut	theoldtestamenti00unknuoft	410	1	πόλεών	πόλεών	πόλεών	πόλεών	image (3x): acute before the enclitic, as typed
+deut	theoldtestamenti00unknuoft	410	1	θεός	θεός	θεός	θεός	image (3x): acute before the enclitic, as typed
+deut	theoldtestamenti00unknuoft	410	1	δίδωσίν	δίδωσίν	δίδωσίν	δίδωσίν	image (3x): acute before the enclitic, as typed
+deut	theoldtestamenti00unknuoft	410	2	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	3	αὐτοῦ, +3	αὐτοῦ, +3	αὐτοῦ,	αὐτοῦ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	3	προσκυνήσουσιν +3	προσκυνήσουσιν +3	προσκυνήσουσιν	προσκυνήσουσιν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	5	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	5	σοι:	σοι:	σοι·	σοι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	5	καὶ	καὶ +4	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	7	Ἰσραήλ:	Ἰσραήλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing on Ἰ; raised ano teleia after Ἰσραήλ
+deut	theoldtestamenti00unknuoft	410	7	"καὶ	5καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	7	ἐκεί-	ἐκεί- +5	ἐκεί-	ἐκεί-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	8	“ἐπὶ	“ἐπὶ	ἐπὶ	ἐπὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	9	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	410	9	ἀποθνήσκων"	ἀποθνήσκων"	ἀποθνήσκων·	ἀποθνήσκων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	10	Τκαὶ	Τκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	12	Tov:	των"	των·	των·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	12	αὐτῶν.	αὐτῶν. +δ᾽ Ε	αὐτῶν.	αὐτῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	12	Ἐὰν	Ἐὰν	Ἐὰν	Ἐὰν	image (3x): smooth breathing on capital, apostrophe shape
+deut	theoldtestamenti00unknuoft	410	12	ἀδυνα-	ἀδυνα- +8	ἀδυνα-	ἀδυνα-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	13	THON	τήσῃ	τήσῃ	τήσῃ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	13	ava	ἀνὰ	ἀνὰ	ἀνὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	13	kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	13	ava	ἀνὰ	ἀνὰ	ἀνὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	15	ὑμῶν:	ὑμῶν:	ὑμῶν·	ὑμῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	16	θεός	θεός	θεός	θεός	image (3x): acute before the enclitic, as typed
+deut	theoldtestamenti00unknuoft	410	17	καὶ	Και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	410	17	πρὸς	προς	πρὸς	πρὸς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	410	17	τὸν	τον	τὸν	τὸν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	410	17	Κριτὴν	Κριτὴν	κριτὴν	κριτὴν	image (3x): lowercase κ in κριτὴν
+deut	theoldtestamenti00unknuoft	410	17	ὃς	ος	ὃς	ὃς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	410	17	ἂν	ὧν	ἂν	ἂν	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	410	17	γένηται	γεέενηται	γένηται	γένηται	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	410	17	εν	εν	ἐν	ἐν	image (3x): ἐν smooth, ταῖς circumflex
+deut	theoldtestamenti00unknuoft	410	17	Tals	Ταις	ταῖς	ταῖς	image (3x): ἐν smooth, ταῖς circumflex
+deut	theoldtestamenti00unknuoft	410	17	ἡμέραις	ἡμεραις	ἡμέραις	ἡμέραις	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	410	17	ἐκείναις,	εκειναιίις., +.	ἐκείναις,	ἐκείναις,	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	410	18	TO	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	18	∅	ἐκζητήσαντες	ἐκζητήσαντες	ἐκζητήσαντες	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	18	∅	ἀναγγελοῦσίν	ἀναγγελοῦσίν	ἀναγγελοῦσίν	image (3x): acute before the enclitic, as typed
+deut	theoldtestamenti00unknuoft	410	18	∅	σοι	σοι	σοι	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	18	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	18	∅	κρίσιν. +1Ιο	κρίσιν.	κρίσιν.	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	18	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	18	∅	ποιήσεις	ποιήσεις	ποιήσεις	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	18	∅	κατα	κατὰ	κατὰ	image (3x): κατὰ with grave; OCR A lost it beside margin number
+deut	theoldtestamenti00unknuoft	410	19	∅	τὸ	τὸ	τὸ	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	19	ἀναγγείλωσίν	ἀναγγείλωσίν	ἀναγγείλωσίν	ἀναγγείλωσίν	image (3x): acute before the enclitic, as typed
+deut	theoldtestamenti00unknuoft	410	19	ov	οὗ	οὗ	οὗ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	20	θεός	θεός	θεός	θεός	image (3x): acute before the enclitic, as typed
+deut	theoldtestamenti00unknuoft	410	21	σοι:	σοι:	σοι·	σοι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	21	‘kata	᾿"᾿κατὰ	κατὰ	κατὰ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	21	εἴπωσίν	εἴπωσίν	εἴπωσίν	εἴπωσίν	image (3x): acute before the enclitic, as typed
+deut	theoldtestamenti00unknuoft	410	22	ἀναγγείλωσίν	ἀναγγείλωσίν	ἀναγγείλωσίν	ἀναγγείλωσίν	image (3x): acute before the enclitic, as typed
+deut	theoldtestamenti00unknuoft	410	23	ἀριστερά.	ἀριστερά. +12	ἀριστερά.	ἀριστερά.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	23	12 +"καὶ	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	410	24	Tov	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	410	25	ἢ	ἢ	ᾖ	ᾖ	image (3x): smooth breathing + circumflex with iota subscript, ᾖ
+deut	theoldtestamenti00unknuoft	410	26	ἐκείναις,	εκειναῖς,	ἐκείναις,	ἐκείναις,	image (3x): acute on ί, ἐκείναις
+deut	theoldtestamenti00unknuoft	410	26	καὶ	και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	410	26	ὁ	ο	ὁ	ὁ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	410	26	ἐκεῖνος,	εκεινος.,	ἐκεῖνος,	ἐκεῖνος,	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	410	26	καὶ	Και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	410	26	τὸν	τον	τὸν	τὸν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c

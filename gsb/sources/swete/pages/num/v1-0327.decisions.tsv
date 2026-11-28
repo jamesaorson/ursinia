@@ -1,0 +1,42 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+num	theoldtestamenti00unknuoft	327	1	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	327	2	τοῦ.	τοῦ.	τοῦ	τοῦ	image (3x): no period after τοῦ (speck/OCR noise)
+num	theoldtestamenti00unknuoft	327	3	οκηνῆς,	οὁκηνῆς,	σκηνῆς,	σκηνῆς,	ambiguous: a stray inked mark (broken type or speck) sits over the σ of σκηνῆς; read σκηνῆς
+num	theoldtestamenti00unknuoft	327	4	ἐλεύσεται	ἐλεύσεται	ελεύσεται	ελεύσεται	image (3x): second half of hyphenated προσ-ελεύσεται, no breathing printed on the continuation
+num	theoldtestamenti00unknuoft	327	4	Skat	σκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	327	4	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	327	5	Tov	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	327	6	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on the capital, as transcribed
+num	theoldtestamenti00unknuoft	327	6	ὅκαὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	327	7	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on the capital, as transcribed
+num	theoldtestamenti00unknuoft	327	8	μαρτυρίου:	μαρτυρίου:	μαρτυρίου·	μαρτυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	327	8	7Kai	Τκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	327	8	υἱοί	υἱοί	υἱοί	υἱοί	image (3x): acute before the enclitic, as printed
+num	theoldtestamenti00unknuoft	327	11	ὑμῶν:	ὑμῶν:	ὑμῶν·	ὑμῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	327	12	ἀποθανεῖται. +δ	ἀποθανεῖται.	ἀποθανεῖται.	ἀποθανεῖται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	327	13	Ἀαρών	Ἀαρών	Ἀαρὼν	Ἀαρών	image (3x): smooth breathing; acute (not grave) on Ἀαρών before capitalized Καὶ
+num	theoldtestamenti00unknuoft	327	15	Ἰσραήλ:	2 +Ἰσραήλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing on the capital, as transcribed
+num	theoldtestamenti00unknuoft	327	16	ϑκαὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	327	19	πασῶν	πασών	πασῶν	πασῶν	image (3x): circumflex on ω
+num	theoldtestamenti00unknuoft	327	19	ἀποδιδόασίν	ἀποδιδόασίν	ἀποδιδόασίν	ἀποδιδόασίν	image (3x): acute before the enclitic, as printed
+num	theoldtestamenti00unknuoft	327	20	“ev	το +““ἐν	ἐν	ἐν	image (3x): reads as transcribed; OCR fused verse superscript
+num	theoldtestamenti00unknuoft	327	21	αὐτά:	αὐτά:	αὐτά·	αὐτά·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	327	21	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	327	21	υἱοί	υἱοί	υἱοί	υἱοί	image (3x): acute before the enclitic, as printed
+num	theoldtestamenti00unknuoft	327	21	σου:	σου:	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	327	22	“kal	“᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	327	23	Ἰσραήλ:	» +Ἰσραήλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing on the capital, as transcribed
+num	theoldtestamenti00unknuoft	327	24	αἰώνιον:	αἰώνιον:	αἰώνιον·	αἰώνιον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	327	24	mas	πᾶς	πᾶς	πᾶς	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	327	25	€Y	∅	ἐν	ἐν	class R5+R0: Latin-letter substitution in OCR; OCR lost the word in extraction; c read from the image strip
+num	theoldtestamenti00unknuoft	327	25	“πᾶσα	“πᾶσα	πᾶσα	πᾶσα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	327	27	“ta	"τὰ	τὰ	τὰ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	327	28	ἔσται:	ἔσται:	ἔσται·	ἔσται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	327	29	“πᾶν	“πᾶν	πᾶν	πᾶν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	327	29	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital, as transcribed
+num	theoldtestamenti00unknuoft	327	30	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	327	31	ἔσται:	ἔσται:	ἔσται·	ἔσται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	327	32	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	327	32	TOV	τῶν	τῶν	τῶν	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	327	5	-	-	ἔστάι	ἔστάι	image (3x): misprint, an extra acute stands over the α/ι of ἔσται; kept as printed (both OCRs read it too)
+num	theoldtestamenti00unknuoft	327	14	-	-	μὸι	μὸι	image (3x): misprint, grave printed on enclitic μοι; kept as printed

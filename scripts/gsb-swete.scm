@@ -32,12 +32,16 @@ scan leaf, e.g. 39). Fetch first: ./scripts/gsb-swete-fetch.sh VOLUME LEAF...
   collate BOOK LEAF             compare the page file with both OCR readings; log
                                 disagreements and mandatory checks in the leaf's
                                 decisions file; make zoom sheets for open rows
-  decide BOOK LEAF ROWS BASIS [CHOSEN]
-                                settle decision rows (ROWS like 3 or 3,5,9)
+  decide BOOK LEAF ROWS@REV BASIS [CHOSEN]
+                                settle decision rows (ROWS like 3 or 3,5,9; REV the
+                                rows revision the last collate printed); without
+                                CHOSEN the row records what the page file says now
   flag BOOK LEAF LINE WORD BASIS
                                 log a reading no OCR row covers (damaged or ambiguous
                                 print): BASIS starts 'ambiguous:' or 'image:'
-  zoom BOOK LEAF LINE [SCALE]   enlarged crop of one printed line (in 3 pieces)
+  zoom BOOK LEAF LINE [SCALE]   enlarged crop of one printed line (in 3 pieces);
+                                LINE counts the page file's text lines, as flag and
+                                decide do (the OCR's lines before the file has text)
   zoom BOOK LEAF X0 Y0 X1 Y1 [SCALE]
                                 enlarged crop of any rectangle (page pixels)
   done BOOK LEAF                check the leaf and stamp it done
@@ -54,7 +58,7 @@ Example session:
   ./scripts/gsb-swete.sh strips gen 39
   (write gsb/sources/swete/pages/gen/v1-0039.txt from the strips)
   ./scripts/gsb-swete.sh collate gen 39
-  ./scripts/gsb-swete.sh decide gen 39 4 'image (3x): rough breathing' 'Ἁβραάμ'
+  ./scripts/gsb-swete.sh decide gen 39 4@k3f9 'image (3x): rough breathing' 'Ἁβραάμ'
   ./scripts/gsb-swete.sh done gen 39
 "))
 
@@ -275,10 +279,20 @@ leading comment lines."
        (let* ((page (load-page info leaf))
               (box (page-box info leaf page))
               (lines (main-lines info leaf box))
-              (scale (if (pair? scale) (car scale) 2)))
-         (unless (<= 1 line (length lines))
+              (scale (if (pair? scale) (car scale) 2))
+              ;; LINE is the page file's printed line (what collate, decide and
+              ;; flag count) once it has text, mapped to the OCR line its words
+              ;; align to; before that, the OCR's own line (as strips number them).
+              (k (if (null? (page-lines page))
+                     (- line 1)
+                     (begin
+                       (unless (assv line (page-lines page))
+                         (die "~a has no printed line ~a" (page-path info leaf) line))
+                       (or (ocr-line-of (page-tokens page) (ocr-tokens lines) line)
+                           (die "page line ~a matches no OCR line: use the rectangle form X0 Y0 X1 Y1 instead" line))))))
+         (unless (< -1 k (length lines))
            (die "line ~a: the OCR finds ~a main-text lines; use the rectangle form X0 Y0 X1 Y1 instead" line (length lines)))
-         (match (list-ref lines (- line 1))
+         (match (list-ref lines k)
            ((y0 y1 _)
             (match box
               ((_ _ X0 X1)
@@ -291,7 +305,11 @@ leading comment lines."
                          (string-append (piece 0) ";" (piece 1) ";" (piece 2) ";"
                                         "[p0][p1][p2]vstack=inputs=3")
                          out)
-                 (say "~a  (line ~a in three overlapping pieces, ~ax)" out line scale))))))))
+                 (say "~a  (~a in three overlapping pieces, ~ax)" out
+                      (match (assv line (page-lines page))
+                        ((_ . text) (format #f "page line ~a = OCR line ~a: ~a" line (+ k 1) text))
+                        (#f (format #f "OCR line ~a (the page file has no text yet)" line)))
+                      scale))))))))
       ((x0 y0 x1 y1 . scale)
        (let ((out (format #f "~a/zoom-~a-~a.png" dir x0 y0)))
          (ffmpeg "-i" img "-vf" (crop-filter x0 y0 x1 y1 (if (pair? scale) (car scale) 3)) out)
@@ -356,13 +374,14 @@ sidecar rows after adding the new ones, PROBLEMS a list of strings."
                       out)
                      (map (lambda (i)
                             (let ((d (list-ref decisions i)))
-                              (format #f "row #~a (line ~a): its reading ~a is no longer on the page (the decision is kept): check the page, or delete the row if the decision itself is wrong"
-                                      (+ i 1) (fourth d) (eighth d))))
+                              (format #f "row #~a (line ~a): its reading ~a is no longer on that line (open until settled again): check the page; if the page is right, ./scripts/gsb-swete.sh decide ~a ~a ~a@~a 'image: ...' WORD-ON-THE-PAGE"
+                                      (+ i 1) (fourth d) (eighth d) (assq-ref info 'book) leaf (+ i 1) (rows-revision decisions))))
                           ;; A settled row that no OCR disagreement matches any more is
-                          ;; normal (the page was corrected, the OCR now agrees); only one
-                          ;; whose chosen word has left the page is worth a look.
-                          (let ((words (map first (page-tokens page))))
-                            (filter (lambda (i) (not (member (eighth (list-ref decisions i)) words))) orphans)))))))))))
+                          ;; normal (the page was corrected, the OCR now agrees); one
+                          ;; whose chosen word has left its line is open again.
+                          (stale-rows decisions orphans (page-tokens page)))))))))))
+
+(define (stale? problem) (string-contains problem "no longer on that line"))
 
 (define (decisions-text rows)
   (string-append %decisions-header "\n"
@@ -387,9 +406,9 @@ sidecar rows after adding the new ones, PROBLEMS a list of strings."
       ;; Word box (with the next word for an enclitic), else the whole line.
       (let ((w (assq-ref r 'word)) (nw (assq-ref r 'next-word)))
         (cond (w (list (first w) (second w) (third (or nw w)) (max (fourth w) (fourth (or nw w)))))
-              ((<= 1 (assq-ref r 'line) (length lines))
-               (let ((l (list-ref lines (- (assq-ref r 'line) 1))))
-                 (list (third box) (first l) (fourth box) (second l))))
+              ((ocr-line-of (page-tokens page) (ocr-tokens lines) (assq-ref r 'line))
+               => (lambda (k) (let ((l (list-ref lines k)))
+                                (list (third box) (first l) (fourth box) (second l)))))
               (else #f))))
     (let loop ((rs todo) (k 1) (acc '()))
       (if (null? rs)
@@ -436,9 +455,10 @@ sidecar rows after adding the new ones, PROBLEMS a list of strings."
       (let* ((sheets (make-sheets info leaf rows decisions))
              (todo (filter (lambda (r) (todo? (list-ref decisions (assq-ref r 'decision)))) rows)))
         ;; Every TODO decision belongs to a current row (reconcile drops stale
-        ;; ones), so this count is the one done checks.
+        ;; ones); with the settled rows whose word left its line, this count
+        ;; is the one done checks.
         (say "~a tokens differ or need a check; ~a settled, ~a open."
-             (length rows) (- (length rows) (length todo)) (count todo? decisions))
+             (length rows) (- (length rows) (length todo)) (+ (count todo? decisions) (count stale? problems)))
         (for-each
          (lambda (r)
            (let ((n (+ 1 (assq-ref r 'decision))))
@@ -449,25 +469,44 @@ sidecar rows after adding the new ones, PROBLEMS a list of strings."
          todo)
         (when (pair? sheets) (say "zoom sheets in ~a (rows top to bottom; the word is underlined in red)" (work-dir info leaf)))
         (for-each (lambda (p) (say "NOTE ~a" p)) (append problems (paragraph-hints info leaf page)))
-        (say "Settle each open row: ./scripts/gsb-swete.sh decide ~a ~a ROWS 'image (3x): ...' [CHOSEN]" book leaf)))))
+        (say "Rows revision ~a. Settle each open row: ./scripts/gsb-swete.sh decide ~a ~a ROWS@~a 'image (3x): ...' [CHOSEN]"
+             (rows-revision decisions) book leaf (rows-revision decisions))))))
 
 (define (cmd-decide book leaf-s rows-s basis . chosen)
   (let* ((info (book-info book)) (leaf (leaf-number leaf-s))
          (path (decisions-path info leaf))
          (rows (tsv-rows path))
-         (picks (map (lambda (s) (or (string->number s) (die "ROWS must be numbers like 3 or 3,5,9"))) (string-split rows-s #\,))))
+         (nums+rev (match (string-split rows-s #\@)
+                     ((nums rev) (cons nums rev))
+                     (_ (die "give ROWS with the revision collate printed, e.g. 3,5@~a: run ./scripts/gsb-swete.sh collate ~a ~a to list the rows"
+                             "k3f9" book leaf))))
+         (picks (map (lambda (s) (or (string->number s) (die "ROWS must be numbers like 3 or 3,5,9 (then @REV)"))) (string-split (car nums+rev) #\,))))
     (when (null? rows) (die "~a has no rows: run ./scripts/gsb-swete.sh collate ~a ~a first" path book leaf))
+    (unless (string=? (cdr nums+rev) (rows-revision rows))
+      (die "rows were renumbered by the last collate (revision ~a is not the current one): list them again with ./scripts/gsb-swete.sh collate ~a ~a and use the new numbers and revision"
+           (cdr nums+rev) book leaf))
     (when (or (string-prefix? "TODO" basis) (string-any (lambda (c) (memv c '(#\tab #\newline))) basis)
               (string-null? (string-trim basis)))
       (die "BASIS must say what the image shows (no tabs, not TODO), e.g. 'image (3x): rough breathing'"))
     (for-each (lambda (p) (unless (<= 1 p (length rows)) (die "row ~a: ~a has rows 1-~a" p path (length rows)))) picks)
-    (let ((new (map (lambda (r i)
-                      (if (memv i picks)
-                          (append (take r 7) (list (match chosen ((c) (string-normalize-nfc c)) (() (eighth r)))) (list basis))
-                          r))
-                    rows (iota (length rows) 1))))
+    (let* ((current   ; row number -> the page file's reading now (reading C)
+            (if (pair? chosen) '()
+                (let-values (((crows decisions problems) (collation info leaf)))
+                  (unless (string=? (rows-revision decisions) (rows-revision rows))
+                    (die "the page file changed since the last collate: run ./scripts/gsb-swete.sh collate ~a ~a and use the new row numbers and revision" book leaf))
+                  (map (lambda (r) (cons (+ 1 (assq-ref r 'decision)) (assq-ref r 'c))) crows))))
+           (new (map (lambda (r i)
+                       (if (memv i picks)
+                           (append (take r 7) (list (match chosen ((c) (string-normalize-nfc c)) (() (or (assv-ref current i) (eighth r))))) (list basis))
+                           r))
+                     rows (iota (length rows) 1))))
       (write-file! path (decisions-text new))
-      (for-each (lambda (p) (let ((r (list-ref new (- p 1)))) (say "#~a L~a chosen=~a  ~a" p (fourth r) (eighth r) (ninth r)))) picks)
+      (for-each (lambda (p)
+                  (let ((r (list-ref new (- p 1))) (old (list-ref rows (- p 1))))
+                    (say "#~a L~a chosen=~a  ~a" p (fourth r) (eighth r) (ninth r))
+                    (unless (or (todo? old) (equal? (drop old 7) (drop r 7)))
+                      (say "   replaced the settled decision: chosen=~a  ~a" (eighth old) (ninth old)))))
+                picks)
       (match chosen
         ((c) (let* ((c (string-normalize-nfc c))
                     (lines (delete-duplicates (map (lambda (p) (string->number (fourth (list-ref new (- p 1))))) picks)))
@@ -485,10 +524,13 @@ correction found by eye."
   (let* ((info (book-info book)) (leaf (leaf-number leaf-s))
          (page (load-page info leaf))
          (line (or (string->number line-s) (die "LINE must be a number")))
-         (path (decisions-path info leaf)))
+         (path (decisions-path info leaf))
+         ;; the word as page-tokens has it: markers and witness marks stripped
+         (word (string-delete (lambda (c) (memv c '(#\¶ #\§)))
+                              (regexp-substitute/global #f "\\{[^}]*\\}" word 'pre 'post))))
     (unless (assv line (page-lines page)) (die "~a has no printed line ~a" (page-path info leaf) line))
     (unless (any (lambda (t) (and (= (second t) line) (string=? (first t) (string-normalize-nfc word)))) (page-tokens page))
-      (die "line ~a of ~a has no word ~a (give the word exactly as on the page, with its punctuation): ~a"
+      (die "line ~a of ~a has no word ~a (give the word as on the page, with its punctuation; ¶ § and {...} markers may be left out): ~a"
            line (page-path info leaf) word
            (string-join (filter-map (lambda (t) (and (= (second t) line) (first t))) (page-tokens page)) " ")))
     (when (or (string-prefix? "TODO" basis) (string-any (lambda (c) (memv c '(#\tab #\newline))) (string-append word basis))
@@ -507,6 +549,14 @@ correction found by eye."
     (let-values (((rows decisions problems) (collation info leaf)))
       (append
        (map (match-lambda ((l n sev msg) (format #f "~a line ~a: ~a" sev n msg))) own)
+       ;; A common verse this leaf shares with another page file (status's
+       ;; check across leaves; the own-page check above sees only this leaf).
+       (filter-map (match-lambda
+                     ((l n sev msg)
+                      (and (eq? sev 'fail) (string-contains msg "already at leaf")
+                           (not (eq? (= l leaf) (and (string-contains msg (format #f "already at leaf ~a line" leaf)) #t)))
+                           (format #f "fail: leaf ~a line ~a: ~a" l n msg))))
+                   (book-problems (present-pages info) (assq-ref info 'first) (assq-ref info 'last) (assq-ref info 'step)))
        ;; The same reconciliation collate writes: done never disagrees with it.
        (if (string=? (decisions-text decisions)
                      (let ((p (decisions-path info leaf))) (if (file-exists? p) (read-file p) "")))
@@ -516,7 +566,7 @@ correction found by eye."
        (match (count todo? decisions)
          (0 '())
          (n (list (format #f "fail: ~a decision rows still TODO: settle them (collate lists them)" n))))
-       (map (lambda (p) (string-append (if (string-contains p "chose") "fail: " "note: ") p)) problems)))))
+       (map (lambda (p) (string-append (if (or (string-contains p "chose") (stale? p)) "fail: " "note: ") p)) problems)))))
 
 (define (cmd-done book leaf-s)
   (let* ((info (book-info book)) (leaf (leaf-number leaf-s))
@@ -597,6 +647,23 @@ correction found by eye."
            (tsv-rows "gsb/books.tsv"))
       (die "book '~a' is not in gsb/books.tsv" book)))
 
+(define (versification book)
+  "BOOK's rows of versification.tsv (book from to english: Hebrew c:v range in
+one chapter, English c:v of its first verse) as (chapter from to english-chapter
+english-first) for english-numbering."
+  (filter-map
+   (match-lambda
+     ((b from to english . _)
+      (and (string=? b book)
+           (match (map (lambda (s) (map string->number (string-split s #\:))) (list from to english))
+             ((((? number? c) (? number? f)) ((? number? c2) (? number? t)) ((? number? ec) (? number? ev)))
+              (=> fail)
+              (if (and (= c c2) (<= f t)) (list c f t ec ev) (fail)))
+             (_ (die "~a/versification.tsv: bad row ~a ~a ~a ~a (FROM and TO are c:v in one chapter, ENGLISH is c:v)"
+                     %root b from to english)))))
+     (row (die "~a/versification.tsv: a row needs 4 columns: ~a" %root (string-join row " "))))
+   (tsv-rows (string-append %root "/versification.tsv"))))
+
 (define (cmd-merge)
   (let loop ((infos (books)) (decisions '()) (prov '()))
     (match infos
@@ -619,10 +686,15 @@ correction found by eye."
          (when (and (pair? pages) (< (length run) (length pages)))
            (say "~a: table stops before leaf ~a (missing or not done); ~a later page files left out"
                 book (+ (if (null? run) (- (assq-ref info 'first) step) (car (last run))) step) (- (length pages) (length run))))
-         (let-values (((rows problems) (book-verses run)))
+         (let*-values (((printed problems) (book-verses run))
+                       ((rows) (english-numbering printed (versification book))))
            (unless (null? problems)
              (die "~a: ~a~%  fix the page, then rerun merge" book
                   (match (car problems) ((l n sev msg) (format #f "leaf ~a line ~a: ~a" l n msg)))))
+           (let ((keys (map (lambda (r) (take r 2)) rows)))
+             (unless (= (length keys) (length (delete-duplicates keys)))
+               (die "~a: two rows share a reference after applying ~a/versification.tsv: check its rows for ~a"
+                    book %root book)))
            (when (pair? run)
              (let ((out (format #f "~a/~a-~a.tsv" %root (nn-of book) book)))
                (when (write-file! out (string-append "chapter\tverse\ttext\n"
@@ -672,7 +744,7 @@ correction found by eye."
     (("strips" book leaf) (cmd-strips book leaf))
     (("collate" book leaf) (cmd-collate book leaf))
     (("decide" book leaf rows basis . chosen) (if (<= (length chosen) 1) (apply cmd-decide book leaf rows basis chosen)
-                                                  (die "decide takes BOOK LEAF ROWS BASIS [CHOSEN]; quote BASIS")))
+                                                  (die "decide takes BOOK LEAF ROWS@REV BASIS [CHOSEN]; quote BASIS")))
     (("flag" book leaf line word basis) (cmd-flag book leaf line word basis))
     (("zoom" book leaf . more) (apply cmd-zoom book leaf more))
     (("done" book leaf) (cmd-done book leaf))

@@ -1,4 +1,8 @@
 book	volume	scan	first_leaf	last_leaf	step	note
 gen	1	theoldtestamenti00unknuoft	33	135	1	printed pp. 1-103 (leaf = page + 32); Exodus starts on leaf 136
+exod	1	theoldtestamenti00unknuoft	136	219	1	printed pp. 104-187 (leaf = page + 32); Leviticus starts on leaf 220
+lev	1	theoldtestamenti00unknuoft	220	282	1	printed pp. 188-250 (leaf = page + 32); Numbers starts on leaf 283
+num	1	theoldtestamenti00unknuoft	283	370	1	printed pp. 251-338 (leaf = page + 32); Deuteronomy starts on leaf 371
+deut	1	theoldtestamenti00unknuoft	371	451	1	printed pp. 339-419 (leaf = page + 32); Joshua starts on leaf 452
 dan	3	oldtestgreek00unknuoft	522		2	Old Greek on the even (left) leaves from p. 498 (leaf = page + 24); last leaf not yet checked
 dan-th	3	oldtestgreek00unknuoft	523		2	Theodotion on the odd (right) leaves from p. 499; last leaf not yet checked

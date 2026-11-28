@@ -56,16 +56,20 @@ ursinia-vff`). Use `bd` for all task tracking, as the root `AGENTS.md` says.
 6. **Daniel:** the Old Greek is the authoritative text. Theodotion is shown
    for comparison only (role `comparison` in `books.tsv`). Same for Susanna,
    Bel, and the second Tobit text.
-7. **Verse numbering:** common numbering (the numbers Swete prints in
-   parentheses in the margin where his own differ). Swete's own numbers are
-   kept in the page files.
+7. **Verse numbering:** common numbering: the numbers Swete prints in
+   parentheses in the margin where his own differ, converted to the English
+   chapter division by `gsb/sources/swete/versification.tsv` where Hebrew and
+   English differ (Swete's parenthesized numbers follow the Hebrew: his
+   Exod 8:1-4 is `(7:26-29)`, English 8:1-4), so verse anchors match the
+   KJV/BSB pages. Swete's own numbers and his parenthesized ones are kept in
+   the page files as printed.
 8. **Proper names:** traditional English forms (Joshua, Isaiah, Moses, Eve),
    the same in both testaments. The Greek form is visible on hover.
 9. **Two English layers per verse:**
    - `literal` (hyper-literal), done first:
      - English word order changed only as far as grammar requires.
      - One English gloss per Greek lemma per sense, enforced by script against
-       `gsb/lexicon/glosses.scm`.
+       `gsb/lexicon/glosses/`.
      - Aspect rendered consistently: imperfect "was X-ing", aorist simple
        past, perfect "has X-ed", historical present kept present.
      - Particles (δέ, καί, γάρ, μέν) always rendered.
@@ -105,6 +109,57 @@ ursinia-vff`). Use `bd` for all task tracking, as the root `AGENTS.md` says.
 14. **Git:** do not commit or push unless the owner asks. When committing, use
     `-s`; no AI attribution or session links.
 
+### Direction set by the owner on 2026-11-27 (overrides anything above it conflicts with)
+
+15. **Old Testament first, entirely.** No New Testament work for now: no NT
+    translation, no NT accenting or variant review. The NT Greek data stays in
+    the repo because the concordance and rule 18 need it.
+16. **Only the hyper-literal layer now**, for the whole Old Testament. It may
+    be produced by a script straight from the Greek (lexicon + grammar tags +
+    rendering rules); the owner wants it cheap and reproducible. Agent effort
+    goes into the data the script reads (lemmas, grammar tags, glosses,
+    per-word overrides), not into hand-writing verses. Rule 10's per-chapter
+    owner review does not gate this layer.
+16a. **Rulings on the scripted literal layer (owner, 2026-11-27):**
+    - Stiff English is fine for the literal layer; the generator's quality
+      as piloted on Genesis 4 and Exodus 20 is accepted. The script writes
+      each chapter, an agent reads it once, and every fix is stored as data
+      (form row, gloss field, override, rule), never as hand-edited output.
+    - Supplied articles and linking verbs: left out by default. Add a
+      bracketed "[a]", "[the]", "[is]" by override only where a verse is
+      unreadable without it.
+    - A third-person singular verb whose subject the Greek does not state is
+      rendered so the ambiguity shows ("he/she/it"), not resolved to "he",
+      "she" or "it" from a nearby noun. Gender is given only when a word in
+      the Greek gives it (an expressed subject, an agreeing participle,
+      adjective or pronoun).
+    - The relative pronoun is "who"/"whom" for persons, "which" otherwise.
+    - The generated text in `gsb/literal/` is the literal layer for every
+      book, Genesis 1-3 included; the hand drafts in `gsb/translation/` keep
+      their notes and readable text.
+17. **The readable translation comes afterwards** as a separate, fine-tuned
+    edit of the finished literal layer: idiom for idiom, very readable. Do not
+    write readable text now. The Genesis 1-3 readable drafts and the
+    readable-layer word rulings in rule 9 are kept for that later pass.
+18. **Later, the NT may correct the LXX.** Where the New Testament quotes the
+    Old in a form that follows the Hebrew (Masoretic) text against the
+    Septuagint, those places are to be flagged and the NT Greek allowed to
+    "correct" the Septuagint Greek, always with a footnote. This starts only
+    after the literal layer is done. Do not do it now; do record candidates
+    in notes when you meet them.
+19. **Site structure.** `/bible/versions/gsb/` is laid out like the other
+    Bibles on this site: its text page is a plain reading text. The parallel
+    Greek / research page lives at its own address, linked from the top.
+20. **SQLite is the single source of truth for publication.** One SQLite
+    database holds everything: Greek text, both verse numberings, lemmas,
+    Strong's, grammar tags, glosses and their reasoning, the translation and
+    its word alignment, notes, and every transcription decision. Every GSB
+    page is rendered from that database and from nothing else. The download
+    is linked prominently on the GSB landing page with its use cases
+    explained. (Coordinator's reading, not yet confirmed by the owner: the
+    database is built deterministically from the text files in git, which
+    stay the place edits are made, so changes remain reviewable as diffs.)
+
 ## How to work
 
 - **Write code to enforce standards.** When a rule can be checked by a script,
@@ -112,7 +167,7 @@ ursinia-vff`). Use `bd` for all task tracking, as the root `AGENTS.md` says.
   `make gsb/lint`) with a test, instead of relying on care. A rule that lives
   only in prose will be broken by a later session.
 - **Record decisions where they are used.**
-  - A word choice goes in `gsb/lexicon/glosses.scm` with its `why`.
+  - A word choice goes in `gsb/lexicon/glosses/` with its `why`.
   - A verse or chapter choice goes in a `(note ...)` in the translation file;
     it renders in the collapsible notes on the page.
   - A project-level decision by the owner goes in this file under the rules
@@ -124,7 +179,10 @@ ursinia-vff`). Use `bd` for all task tracking, as the root `AGENTS.md` says.
   multi-step task a second time, write it up as a skill in
   `.claude/skills/<name>/SKILL.md` (mirrored for other agents under
   `.agents/skills/`), precise enough for a fresh agent to follow with no other
-  context. Existing: `gsb-transcribe` (transcribing Swete pages).
+  context. Existing: `gsb-transcribe` (transcribing Swete pages) and
+  `gsb-translate` (the scripted literal layer: analyze word forms, add
+  glosses, generate and review chapters; about two chapters per agent).
+  The literal layer's data and rules are described in `gsb/literal/README.md`.
 - **Prefer subagents for execution**, briefed with this file. Transcription
   runs about 5 pages per fresh agent context.
 - **Report honestly.** Say what was verified and what was not. Ambiguous print
@@ -140,12 +198,15 @@ ursinia-vff`). Use `bd` for all task tracking, as the root `AGENTS.md` says.
 | `gsb/sources/swete/` | Our Swete transcription: `pages/` is the source of truth; `NN-<id>.tsv` verse tables are generated |
 | `gsb/greek/NN-<id>.tsv` | Generated, committed: one row per Greek word (`ref n pre word post lemma strong morph flags`); a word is addressed as `<ref>#<n>` |
 | `gsb/lexicon/strongs.tsv` | Generated: Strong's number, lemma, gloss, definition |
-| `gsb/lexicon/glosses.scm` | Our concordance: lemma, senses, gloss, reasoning |
+| `gsb/lexicon/glosses/` | Our concordance: lemma, senses, gloss, reasoning |
 | `gsb/translation/NN-<id>/CCC.scm` | The translation, one file per chapter; format in `gsb/translation/README.md` |
 | `gsb/reports/` | Generated: NT variants, LXX lemma coverage, unresolved forms |
 | `scripts/gsb-*.{sh,scm}`, `scripts/lib/gsb*.scm` | All tooling |
 | `assets/bible/gsb/` | Page CSS and JS |
-| `wwwroot/bible/versions/gsb/` | Generated site and public dataset (gitignored) |
+| `gsb/schema.sql` | The database schema and data dictionary |
+| `scripts/gsb-db.{sh,scm}`, `scripts/lib/gsb-db.scm` | Loader: `gsb/` text files to SQLite. A new input needs a `CREATE TABLE` in `schema.sql`, an insert in `write-sql`, and its path in `GSB_DB_INPUTS` in the Makefile |
+| `scripts/gsb-site.scm` | Renderer: SQLite to pages. Reads nothing under `gsb/` |
+| `wwwroot/bible/versions/gsb/` | Generated, gitignored: `index.html` (landing), `text/` (reading text), `study/` (Greek beside English), `data/` (`gsb.sqlite`, `.gz`, `schema.sql`, the study page's data files) |
 
 ## Commands
 
@@ -155,8 +216,9 @@ make gsb         # rebuild gsb/greek, reports, lexicon (about 1-2 minutes)
 make gsb/check   # fail if committed generated data is stale
 make gsb/lint    # check translation files and concordance (also run by make test)
 make gsb/uses LEMMA=ἀρχή  # every use of a lemma with sense and English (after adding a sense)
-make gsb/site    # generate the page; make render depends on it
-make serve       # http://127.0.0.1:8081/bible/versions/gsb/text/
+make gsb/db      # build the SQLite database (needs sqlite3 3.38+; ./scripts/gsb-db.sh doctor)
+make gsb/site    # render every GSB page from the database; make render depends on it
+make serve       # http://127.0.0.1:8081/bible/versions/gsb/ (study page under study/)
 ```
 
 ## Translating a chapter
@@ -164,7 +226,7 @@ make serve       # http://127.0.0.1:8081/bible/versions/gsb/text/
 Follow `gsb/translation/README.md`. In short: confirm the Greek table exists;
 read the chapter's words from `gsb/greek`; for NT chapters read that chapter's
 rows in `gsb/reports/nt-variants.tsv` and note each restored or differing
-reading; add any new lemma or sense to `glosses.scm` with its `why` before
+reading; add any new lemma or sense to `gsb/lexicon/glosses/` with its `why` before
 using it, checking how the lemma is already rendered elsewhere; write the
 chapter with every verse `(status draft)`; run `make gsb/lint` until clean and
 `make gsb/site`; summarize the decisions for the owner.

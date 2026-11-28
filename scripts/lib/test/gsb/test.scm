@@ -39,6 +39,7 @@
 (check (split-punct "γῆν.") '("" "γῆν" "."))
 (check (split-punct "“Διδάσκαλε”),") '("“" "Διδάσκαλε" "”),"))
 (check (split-punct "[[Ἀναστὰς") '("[[" "Ἀναστὰς" ""))
+(check (split-punct "ιβʹ,") '("" "ιβʹ" ","))                 ; a numeral keeps its keraia (U+02B9)
 (check (split-punct "μετ’") '("" "μετ’" ""))
 (check (split-punct "ὅ,_τι") '("" "ὅ,_τι" ""))
 (check (split-punct "⸆") '("⸆" "" ""))
@@ -111,6 +112,13 @@
        '("gen.1.1\t5\t\tθεὸς\t\tθεός\tG2316\t\t"))
 (check (filter (lambda (line) (string-contains line "ὕδατος")) (string-split table #\newline))
        '("gen.1.2\t19\t\tὕδατος\t.\tὕδωρ\tG5204\t\tlemma?"))
+
+;; Committed lemmas are NFC (Nestle spells acute as oxia; the translation
+;; checker matches lemmas by string). John 1:1 ἀρχή is the bug that was.
+(check (filter (lambda (line) (let ((lemma (sixth (split-tab line))))
+                                (not (string=? lemma (string-normalize-nfc lemma)))))
+               (cdr (read-lines "gsb/greek/63-john.tsv")))
+       '())
 
 (if (zero? failures)
     (begin (format #t "gsb: all checks passed~%") (exit 0))

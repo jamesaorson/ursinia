@@ -1,0 +1,48 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+deut	theoldtestamenti00unknuoft	448	1	∅	7Καὶ	Καὶ	Καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	1	∅	αὕτη	αὕτη	αὕτη	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	1	∅	Ἰούδα᾽	Ἰούδα·	Ἰούδα·	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	448	2	Εἰσάκουσον,	Εἰσάκουσον,	Εἰσάκουσον,	Εἰσάκουσον,	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	448	2	Ἰούδα,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	448	3	av:	ἄν"	ἄν·	ἄν·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	5	ἔσῃ.	ἔσῃ. +δ	ἔσῃ.	ἔσῃ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	6	∅	Καὶ	Καὶ	Καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	6	∅	τῷ	τῷ	τῷ	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	6	∅	Λευεὶ	Λευεὶ	Λευεὶ	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	6	∅	εἶπεν +,	εἶπεν	εἶπεν	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	7	Aevel	Λευεὶ	Λευεὶ	Λευεὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	9	∅	ὃν	ὃν	ὃν	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	9	∅	ἐπείρασαν	ἐπείρασαν	ἐπείρασαν	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	9	∅	αὑτὸν	αὐτὸν	αὐτὸν	image (3x): smooth breathing and grave on αὐτὸν
+deut	theoldtestamenti00unknuoft	448	9	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	9	∅	ἹΠείρᾳ,	Πείρᾳ,	Πείρᾳ,	image (3x): Πείρᾳ with iota subscript
+deut	theoldtestamenti00unknuoft	448	10	Ἀντιλογίας.	Ἀντιλογίας.	Ἀντιλογίας.	Ἀντιλογίας.	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	448	11	ϑλέγων	ϑλέγων	λέγων	λέγων	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	11	μητρί	μητρί	μητρί	μητρί	image (3x): acute before capitalized quotation
+deut	theoldtestamenti00unknuoft	448	11	Οὐχ +Οὐχ	Οὐχ +Οὐχ	Οὐχ	Οὐχ	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	448	11	ἑόρακά	ἑόρακά	ἑόρακά	ἑόρακά	image (3x): acute before enclitic
+deut	theoldtestamenti00unknuoft	448	11	σε +᾿	σε;	σε,	σε,	image (3x): σε followed by comma
+deut	theoldtestamenti00unknuoft	448	13	ἀπέγνω"	ἀπέγνω"	ἀπέγνω·	ἀπέγνω·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	14	λόγιά	λόγιά	λόγιά	λόγιά	image (3x): acute before enclitic
+deut	theoldtestamenti00unknuoft	448	16	δηλώσουσιν	Ἰοδηλώσουσιν	δηλώσουσιν	δηλώσουσιν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	16	δικαιώματά	δικαιώματά	δικαιώματά	δικαιώματά	image (3x): acute before enclitic
+deut	theoldtestamenti00unknuoft	448	16	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	448	17	Ἰσραήλ᾽	Ἰ̓Ἰσραήλ᾽	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	448	19	θυσιαστήριόν	θυσιαστήριόν	θυσιαστήριόν	θυσιαστήριόν	image (3x): acute before enclitic
+deut	theoldtestamenti00unknuoft	448	19	cov.	σου.	σου.	σου.	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	20	avrov,	αὐτοῦ, +.	αὐτοῦ,	αὐτοῦ,	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	21	|	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	448	21	kal +Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	21	δέξαι:	δέξαι:	δέξαι·	δέξαι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	23	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	23	ἀναστήτωσαν. +Ξ̓	ἀναστήτωσαν. +Ξ̓	ἀναστήτωσαν.	ἀναστήτωσαν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	25	ῤ +Ηγαπημένος	: +Ηγαπημένος	Ἠγαπημένος	Ἠγαπημένος	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	448	26	καὶ	αἱ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	448	26	θεὸς	θεὸς +ς	θεὸς	θεὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	26	σκιάζει	σκιάζει +ι	σκιάζει	σκιάζει	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	26	ἡμέ	ἡμέ	ἡμέρας,	ἡμέρας,	image (3x): ἡμέρας, complete
+deut	theoldtestamenti00unknuoft	448	27	ὦμων	ὦμων	ὤμων	ὤμων	image (3x): smooth + acute (two rising strokes) on ω, not circumflex
+deut	theoldtestamenti00unknuoft	448	27	κατέπαυσεν. +13	κατέπαυσεν.	κατέπαυσεν.	κατέπαυσεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	448	28	Καὶ	13 +αὶ	Καὶ	Καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	448	28	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	448	29	Ἔπ᾽	Ἔπ᾽	Ἐπ᾽	Ἐπ᾽	image (3x): smooth breathing only, no accent, on Ε; elision mark after π

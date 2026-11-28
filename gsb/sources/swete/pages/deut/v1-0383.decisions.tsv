@@ -1,0 +1,64 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+deut	theoldtestamenti00unknuoft	383	1	ὦμοσεν	ὦμοσεν;	ὤμοσεν	ὤμοσεν	image (3x): two parallel strokes (smooth + acute), not a circumflex; no punctuation after it
+deut	theoldtestamenti00unknuoft	383	1	αὐτοῖς.	αὐτοῖς. +3“	αὐτοῖς.	αὐτοῖς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	1	*€repwTnoate	ἐπερωτήσατε	ἐπερωτήσατε	ἐπερωτήσατε	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	3	ἄκρου.	ἄκρου.	ἄκρου	ἄκρου	image (3x): light speck after ἄκρου, not a period
+deut	theoldtestamenti00unknuoft	383	3	εἰ	εἰ +- εἰς τ Ξ ,	εἰ	εἰ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	4	τοιοῦτο"	τοιοῦτο"	τοιοῦτο·	τοιοῦτο·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	4	33εἰ	33εἰ	εἰ	εἰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	5	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	6	ἔζησας"	ἔζησας"	ἔζησας·	ἔζησας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	6	ei	5:εἰ	εἰ	εἰ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	8	πολέ	πολέμῳ	πολέμῳ	πολέμῳ	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	383	8	i	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	8	κραταιᾷ +κ	κραταιᾷ	κραταιᾷ	κραταιᾷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	8	ἐ	ἐ	ἐν	ἐν	image (3x): word complete in print; OCR lost letters at the line end
+deut	theoldtestamenti00unknuoft	383	9	Αἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	image (3x): smooth breathing (apostrophe shape) on the capital
+deut	theoldtestamenti00unknuoft	383	10	(33)	(33)	βλέποντος·	βλέποντος·	image (3x): (35) printed in the text before βλέποντος, encoded {=4:35}; βλέποντος· follows
+deut	theoldtestamenti00unknuoft	383	10	βλέποντος- +Saat	βλέποντος: +δῶστε	ὥστε	ὥστε	image (3x): superscript 35 then ὥστε, rough breathing + acute
+deut	theoldtestamenti00unknuoft	383	10	εἰδῆσαί	εἰδῆσαί	εἰδῆσαί	εἰδῆσαί	image (3x): acute before the enclitic, as printed
+deut	theoldtestamenti00unknuoft	383	10	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	383	10	θεός	θεός	θεός	θεός	image (3x): acute before the enclitic, as printed
+deut	theoldtestamenti00unknuoft	383	11	θεός	θεός	θεός	θεός	image (3x): acute before the enclitic, as printed
+deut	theoldtestamenti00unknuoft	383	11	αὐτοῦ. +3	αὐτοῦ. +3	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	12	παιδεῦσαί	παιδεῦσαί	παιδεῦσαί	παιδεῦσαί	image (3x): acute before the enclitic, as printed
+deut	theoldtestamenti00unknuoft	383	12	THs	τῆς	τῆς	τῆς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	12	ἔδειξέν	ἔδειξέν	ἔδειξέν	ἔδειξέν	image (3x): acute before the enclitic, as printed
+deut	theoldtestamenti00unknuoft	383	13	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	13	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	14	la	ιἰὰ	διὰ	διὰ	image (3x): διὰ
+deut	theoldtestamenti00unknuoft	383	15	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	15	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	15	ἐξήγαγέν	ἐξήγαγέν	ἐξήγαγέν	ἐξήγαγέν	image (3x): acute before the enclitic, as printed
+deut	theoldtestamenti00unknuoft	383	15	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	16	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	16	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	image (3x): smooth breathing (apostrophe shape) on the capital
+deut	theoldtestamenti00unknuoft	383	16	33καὶ	35καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	17	ἰσχυρότερά	ἰσχυρότερά	ἰσχυρότερά	ἰσχυρότερά	image (3x): acute before the enclitic, as printed
+deut	theoldtestamenti00unknuoft	383	17	δοῦναί	δοῦναί	δοῦναί	δοῦναί	image (3x): acute before the enclitic, as printed
+deut	theoldtestamenti00unknuoft	383	18	39καὶ	39καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	19	ραφήσῃ	ραφήσῃ	ἐπιστραφήσῃ	ἐπιστραφήσῃ	image (3x): word complete in print; OCR lost letters at the line end
+deut	theoldtestamenti00unknuoft	383	19	θεός	θεός	θεός	θεός	image (3x): acute before the enclitic, as printed
+deut	theoldtestamenti00unknuoft	383	20	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	20	αὐτοῦ: +“	αὐτοῦ" +“	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	21	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	22	ἐντέλλομαί	ἐντέλλομαί	ἐντέλλομαί	ἐντέλλομαί	image (3x): acute before the enclitic, as printed
+deut	theoldtestamenti00unknuoft	383	22	iva	ἵνα	ἵνα	ἵνα	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	23	θεός	θεός	θεός	θεός	image (3x): acute before the enclitic, as printed
+deut	theoldtestamenti00unknuoft	383	23	δίδωσίν	δίδωσίν	δίδωσίν	δίδωσίν	image (3x): acute before the enclitic, as printed
+deut	theoldtestamenti00unknuoft	383	24	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	25	‘Tore	Τότε	Τότε	Τότε	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	25	Ἰορδάνου	Ἰορδάνου	Ἰορδάνου	Ἰορδάνου	image (3x): smooth breathing (apostrophe shape) on the capital
+deut	theoldtestamenti00unknuoft	383	26	*hevyeyv	“φεύγειν	φεύγειν	φεύγειν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	26	Tov	τὸν	τὸν	τὸν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	27	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	27	THs	τῆς	τῆς	τῆς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	28	τρίτης"	τρίτης"	τρίτης·	τρίτης·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	28	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	28	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	28	ζήη-	ζη-	ζή-	ζή-	image (3x): word complete in print; OCR lost letters at the line end
+deut	theoldtestamenti00unknuoft	383	29	σεται:	σεται:	σεται·	σεται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	29	rv	3τὴν	τὴν	τὴν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	383	29	ἐρή	ἐρή	ἐρήμῳ	ἐρήμῳ	image (3x): word complete in print; OCR lost letters at the line end
+deut	theoldtestamenti00unknuoft	383	29	Ῥουβή	Ῥουβή	Ῥουβήν,	Ῥουβήν,	image (3x): rough breathing (reversed comma) on capital Ρ: Ῥουβήν
+deut	theoldtestamenti00unknuoft	383	29	k +αἱ	κ +αἱ	καὶ	καὶ	image (3x): word complete in print; OCR lost letters at the line end

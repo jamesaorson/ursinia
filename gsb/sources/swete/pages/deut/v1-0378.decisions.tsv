@@ -1,0 +1,105 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+deut	theoldtestamenti00unknuoft	378	1	Ἀμορραίων,	Ἀμορραίων,	Ἀμορραίων,	Ἀμορραίων,	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	378	1	Ἐσεβών. +ὅδ	“Εσεβών. +ὅδ	Ἑσεβών.	Ἑσεβών.	image (3x): rough breathing (reversed comma) on capital
+deut	theoldtestamenti00unknuoft	378	1	παρέ- +3	παρέ- +3	παρέ-	παρέ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	2	αὐτὸν	αὐτὸν	αὐτὸν	αὐτὸν	image (3x): grave before capitalized name (not a quotation)
+deut	theoldtestamenti00unknuoft	378	2	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	2	Tov	τὸν	τὸν	τὸν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	2	“Qy	"Ὧγ	Ὢγ	Ὢγ	image (8x): smooth breathing + grave on Omega (apostrophe then stroke falling right, open two-part mark), as Num leaves 335/343/361; no asterisk
+deut	theoldtestamenti00unknuoft	378	3	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	3	ἐπατάξαμεν.	ἐπαταξαμὲν	ἐπατάξαμεν	ἐπατάξαμεν	image (3x): acute on penult, no grave on final; speck after word is not a period
+deut	theoldtestamenti00unknuoft	378	4	σπέρμα.	σπέρμα. +4	σπέρμα.	σπέρμα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	4	“καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	4	ἐκρατήσαμεν +4	ἐκρατήσαμεν +4	ἐκρατήσαμεν	ἐκρατήσαμεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	5	ἢν	ἢν	ἦν	ἦν	image (3x): smooth breathing + circumflex
+deut	theoldtestamenti00unknuoft	378	6	αὐτῶν:	αὐτῶν.	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	7	Ἀργὸβ	Ἀργὸβ	Ἀργὸβ	Ἀργὸβ	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	378	7	Ὧγ	᾽Ὧγ	Ὢγ	Ὢγ	image (8x): smooth breathing + grave on Omega (apostrophe then stroke falling right, open two-part mark), as Num leaves 335/343/361; no asterisk
+deut	theoldtestamenti00unknuoft	378	7	Βασάν:	Βασάν:	Βασάν·	Βασάν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	7	>raca	5πᾶσαι	πᾶσαι	πᾶσαι	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	7	ὀχυραί,	ὀχυραίΐ, +5	ὀχυραί,	ὀχυραί,	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	378	8	μοχλοί:	μοχλοί:	μοχλοί·	μοχλοί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	9	“ἐξωλεθρεύσαμεν	“ἐξωλεθρεύσαμεν	ἐξωλεθρεύσαμεν	ἐξωλεθρεύσαμεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	9	ἐποιήσαμεν +6	ἐποιήσαμεν +6	ἐποιήσαμεν	ἐποιήσαμεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	10	σεβών,	Ἐσεβών,	Ἑσεβών,	Ἑσεβών,	image (3x): rough breathing (reversed comma) on capital
+deut	theoldtestamenti00unknuoft	378	11	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	11	∅	τὰς	τὰς	τὰς	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	11	∅	γυναῖκας	γυναῖκας	γυναῖκας	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	11	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	11	∅	τὰ	τὰ	τὰ	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	11	∅	παιδία	παιδία	παιδία	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	11	∅	7καὶ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	11	∅	πάντα	πάντα	πάντα	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	11	∅	τὰ	τὰ	τὰ	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	11	∅	κτήνη"	κτήνη·	κτήνη·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	11	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	11	∅	τὰ	τὰ	τὰ	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	11	∅	σκῦλα +7	σκῦλα	σκῦλα	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	12	∅	τῶν	τῶν	τῶν	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	12	∅	πόλεων	πόλεων	πόλεων	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	12	∅	ἐπρονομεύσαμεν	ἐπρονομεύσαμεν	ἐπρονομεύσαμεν	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	12	∅	ἑαυτοῖς.	ἑαυτοῖς.	ἑαυτοῖς.	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	12	∅	“καὶ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	12	∅	ἐλάβομεν	ἐλάβομεν	ἐλάβομεν	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	12	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	12	∅	τῷ	τῷ	τῷ	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	12	∅	καιρῷ +8	καιρῷ	καιρῷ	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	13	∅	ἐκείνῳ	ἐκείνῳ	ἐκείνῳ	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	13	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	13	∅	γῆν	γῆν	γῆν	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	13	∅	ἐκ	ἐκ	ἐκ	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	13	∅	χειρῶν	χειρῶν	χειρῶν	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	13	∅	δύο	δύο	δύο	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	13	∅	βασιλέων	βασιλέων	βασιλέων	class R0: OCR lost the word in extraction; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	13	∅	τῶν +᾽Ἂ	τῶν	τῶν	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	13	∅	Ἀμορραίων,	Ἀμορραίων,	Ἀμορραίων,	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	378	13	∅	οἱ	οἳ	οἳ	image (3x): rough breathing + grave on iota (closed compact mark, like ὃς in line 1)
+deut	theoldtestamenti00unknuoft	378	13	∅	ἢ	ἦσαν	ἦσαν	image (3x): smooth breathing + circumflex
+deut	theoldtestamenti00unknuoft	378	14	Ιορδάνου	Ιορδάνου	Ἰορδάνου	Ἰορδάνου	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	378	14	Tov	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	14	Ἀρνὼν	Ἀρνὼν	Ἀρνὼν	Ἀρνὼν	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	378	14	€ws	ἕως	ἕως	ἕως	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	14	“Aeppov«	Ἀερμών"	Ἁερμών·	Ἁερμών·	image (3x): rough breathing (reversed comma) on capital
+deut	theoldtestamenti00unknuoft	378	15	θϑοὶ	ϑοὶ	οἱ	οἱ	image (3x): οἱ with rough breathing; 9 is the verse superscript
+deut	theoldtestamenti00unknuoft	378	15	Ἀ̓ερμὼν	Ἀερμὼν	Ἁερμὼν	Ἁερμὼν	image (3x): rough breathing (reversed comma) on capital
+deut	theoldtestamenti00unknuoft	378	15	Ἀμορραῖος	Ἀμορραῖος +9	Ἀμορραῖος	Ἀμορραῖος	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	378	16	αὐτὸ	αὐτὸ	αὐτὸ	αὐτὸ	image (3x): grave before capitalized name (not a quotation)
+deut	theoldtestamenti00unknuoft	378	16	Σανείρ᾽	Σανείρ᾽	Σανείρ·	Σανείρ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	16	macau	"πᾶσαι	πᾶσαι	πᾶσαι	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	16	Ταλαάδ, +10	Ταλαάδ, +το	Γαλαάδ,	Γαλαάδ,	image (3x): Γ, not Τ; margin number not text
+deut	theoldtestamenti00unknuoft	378	17	Ἐλχὰ	Ἐλχὰ	Ἐλχὰ	Ἐλχὰ	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	378	17	Ἔδράειμ,	Ἔδράειμ,	Ἐδράειμ,	Ἐδράειμ,	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	378	17	*Qy	Ὧγ	Ὢγ	Ὢγ	image (8x): smooth breathing + grave on Omega (apostrophe then stroke falling right, open two-part mark), as Num leaves 335/343/361; no asterisk
+deut	theoldtestamenti00unknuoft	378	18	Βασάν:	Βασάν:	Βασάν·	Βασάν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	18	"ὅτι	"ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	18	πλὴν	πλὴν	πλὴν	πλὴν	image (3x): grave before capitalized name (not a quotation)
+deut	theoldtestamenti00unknuoft	378	18	*“Qy	Ὧγ	Ὢγ	Ὢγ	image (8x): smooth breathing + grave on Omega (apostrophe then stroke falling right, open two-part mark), as Num leaves 335/343/361; no asterisk
+deut	theoldtestamenti00unknuoft	378	18	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave before capitalized name (not a quotation)
+deut	theoldtestamenti00unknuoft	378	19	1 +Ραφαείν.	τι +ἹῬαφαείν.	Ῥαφαείν.	Ῥαφαείν.	image (3x): rough breathing (reversed comma) on capital
+deut	theoldtestamenti00unknuoft	378	19	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	20	Ἀμμών:	Ἀμμών:	Ἀμμών·	Ἀμμών·	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	378	21	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	21	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	21	‘kal	"Ζκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	21	ἐπρονομεύσαμεν +12	ἐπρονομεύσαμεν +τ2	ἐπρονομεύσαμεν	ἐπρονομεύσαμεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	22	Ἀροήρ,	Ἀροήρ,	Ἀροήρ,	Ἀροήρ,	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	378	22	ἥ	ἥ	ἥ	ἥ	image (3x): rough breathing + acute on ἥ before enclitic ἐστιν
+deut	theoldtestamenti00unknuoft	378	23	Αρνών,	Ἀρνών,	Ἀρνών,	Ἀρνών,	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	378	23	Ταλαάδ᾽	Ταλαάδ᾽	Γαλαάδ·	Γαλαάδ·	image (3x): Γ, not Τ; margin number not text
+deut	theoldtestamenti00unknuoft	378	24	Ῥουβὴν	Ῥουβὴν	Ῥουβὴν	Ῥουβὴν	image (3x): rough breathing (reversed comma) on capital
+deut	theoldtestamenti00unknuoft	378	24	Tad.	Γάδ.	Γάδ.	Γάδ.	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	24	"Ξκαὶ	"Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	24	Γαλαὰδ	Ταλαὰδ	Γαλαὰδ	Γαλαὰδ	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	378	24	τὴν.	τὴν.	τὴν	τὴν	image (3x): speck after τὴν, not a period; 13 is margin
+deut	theoldtestamenti00unknuoft	378	25	Toy,	Τώγ,	Γώγ,	Γώγ,	image (3x): Γώγ with acute, Γ not Τ
+deut	theoldtestamenti00unknuoft	378	25	Μανασσῆ,	Μανασσή,	Μανασσή,	Μανασσή,	image (3x): acute on final eta, not circumflex
+deut	theoldtestamenti00unknuoft	378	26	Ἀργόβ,	Αργόβ,	Ἀργόβ,	Ἀργόβ,	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	378	26	γῆν	γὴν	γῆν	γῆν	image (3x): circumflex on eta
+deut	theoldtestamenti00unknuoft	378	26	yn	γῆ	γῆ	γῆ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	26	Ῥαφαεὶν	Ῥαφαεὶν	Ῥαφαεὶν	Ῥαφαεὶν	image (3x): rough breathing (reversed comma) on capital
+deut	theoldtestamenti00unknuoft	378	27	σθησεται.	σθησεται.	σθήσεται.	σθήσεται.	image (3x): acute on eta
+deut	theoldtestamenti00unknuoft	378	27	kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	378	27	laeip	Ιαεὶρ	Ἰαεὶρ	Ἰαεὶρ	image (3x): smooth breathing (apostrophe shape) on capital
+deut	theoldtestamenti00unknuoft	378	27	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave before capitalized name (not a quotation)
+deut	theoldtestamenti00unknuoft	378	27	ἔλαβεν	ε +αβεν	ἔλαβεν	ἔλαβεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	378	19	-	-	αὕτη	αὕτη	image (3x): mark over upsilon is rough + acute (curl then rising stroke), unlike the smooth + acute on ἄκρᾳ in the same line; read αὕτη

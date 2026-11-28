@@ -1,0 +1,46 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+lev	theoldtestamenti00unknuoft	241	1	∅	ὁ	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	1	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	241	1	*pvyadn	30 +Ξ'-.μυγαλῆ	μυγαλῆ	μυγαλῆ	image (3x): word clear; OCR fused or lost it at the verse number
+lev	theoldtestamenti00unknuoft	241	2	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	2	*ratra	3᾽"ταῦτα	ταῦτα	ταῦτα	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	3	τῶν	τών	τῶν	τῶν	image (3x): circumflex on ω
+lev	theoldtestamenti00unknuoft	241	3	γῆς᾽	γῆς᾽	γῆς·	γῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	3	αὐτών	αὐτῶν	αὐτῶν	αὐτῶν	image (3x): circumflex on ω
+lev	theoldtestamenti00unknuoft	241	4	ἑσπέρας.	ἑσπέρας. +3	ἑσπέρας.	ἑσπέρας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	4	Kail	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	6	σάκκου:	σάκκου:	σάκκου·	σάκκου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	7	ὕδωρ +ὕδωρ	ὕδωρ +ὕδωρ	ὕδωρ	ὕδωρ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	7	βαφήσεται, +;	βαφήσεται, +Ἶ	βαφήσεται,	βαφήσεται,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	8	33καὶ	33καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	9	ἦν	ἦν	ᾖν	ἦν	image (3x): no iota subscript, ἦν
+lev	theoldtestamenti00unknuoft	241	10	συντριβήσεται.	συντριβήσεται. +3,	συντριβήσεται.	συντριβήσεται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	10	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	10	βρώμα	βρώμα	βρῶμα	βρῶμα	image (3x): circumflex on ω
+lev	theoldtestamenti00unknuoft	241	10	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	11	ἔσται:	ἔσται:	ἔσται·	ἔσται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	12	55καὶ	55καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	13	ἔσται:	ἔσται:	ἔσται·	ἔσται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	14	σονται:	σονται:	σονται·	σονται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	14	ταῦτά	ταῦτά	ταῦτά	ταῦτά	image (3x): acute before enclitic ἐστιν, as printed
+lev	theoldtestamenti00unknuoft	241	14	ἔσονται. +Ξ'᾽	ἔσονται. +Ξ'᾽	ἔσονται.	ἔσονται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	15	ὕδατος"	ὕδατος" +Ὴ	ὕδατος·	ὕδατος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	15	Kaba-	καθα-	καθα-	καθα-	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	16	pov:	ρόν᾽	ρόν·	ρόν·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	16	τών	τών +θ	τῶν	τῶν	image (3x): circumflex on ω
+lev	theoldtestamenti00unknuoft	241	16	ἔσται.	ἔσται. +37	ἔσται.	ἔσται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	16	37 +éav	ἐὰν	ἐὰν	ἐὰν	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	241	17	αὐτών	αὐτών	αὐτῶν	αὐτῶν	image (3x): circumflex on ω
+lev	theoldtestamenti00unknuoft	241	18	ἔσται:	ἔσται:	ἔσται·	ἔσται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	18	*eav	Ξ +38 3ϑ:έὰν	ἐὰν	ἐὰν	image (3x): word clear; OCR fused or lost it at the verse number
+lev	theoldtestamenti00unknuoft	241	19	ἀκάθαρτόν	ἀκάθαρτόν	ἀκάθαρτόν	ἀκάθαρτόν	image (3x): acute before enclitic ἐστιν, as printed
+lev	theoldtestamenti00unknuoft	241	20	ν	ν	ἐὰν	ἐὰν	image (3x): word clear; OCR fused or lost it at the verse number
+lev	theoldtestamenti00unknuoft	241	20	6	ὅ	ὅ	ὅ	image (3x): open V mark = rough + acute, before enclitic ἐστιν
+lev	theoldtestamenti00unknuoft	241	21	ἑσπέρας: +*	ἑσπέρας: +“᾽	ἑσπέρας·	ἑσπέρας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	22	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	23	€ws	ἔως	ἕως	ἕως	image (3x): open V mark = rough + acute
+lev	theoldtestamenti00unknuoft	241	23	ἑσπέρας:	ἑσπέρας:	ἑσπέρας·	ἑσπέρας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	24	“kal	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+lev	theoldtestamenti00unknuoft	241	25	ἕρπει	ἔρπει	ἕρπει	ἕρπει	image (3x): open V mark = rough + acute
+lev	theoldtestamenti00unknuoft	241	25	βρωθη-	βρωθη-	βρωθή-	βρωθή-	image (3x): small speck over ω is not an accent; acute on η
+lev	theoldtestamenti00unknuoft	241	26	“Ξκαὶ	“Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip

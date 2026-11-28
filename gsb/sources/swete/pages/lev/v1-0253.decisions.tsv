@@ -1,0 +1,64 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+lev	theoldtestamenti00unknuoft	253	1	πλυνεῖ	πλυνεὶ	πλυνεῖ	πλυνεῖ	image (3x): reads as in the page file; OCR dropped or garbled diacritics, punctuation or margin numbers
+lev	theoldtestamenti00unknuoft	253	2	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	2	ἕως	ἔως	ἕως	ἕως	image (3x): reads as in the page file; OCR dropped or garbled diacritics, punctuation or margin numbers
+lev	theoldtestamenti00unknuoft	253	2	*Meav	. +23 “5ἐὰν	ἐὰν	ἐὰν	image (3x): reads as in the page file; OCR dropped or garbled diacritics, punctuation or margin numbers
+lev	theoldtestamenti00unknuoft	253	3	€	δὲ	δὲ	δὲ	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	253	3	κοίτῃ	κοί	κοίτῃ	κοίτῃ	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	253	3	αὐτῆς	ὑτῆς	αὐτῆς	αὐτῆς	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	253	3	οὔσης	οὔ	οὔσης	οὔσης	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	253	3	σκεύους	ύους	σκεύους	σκεύους	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	253	3	ET	ἐπ᾽	ἐπ᾽	ἐπ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	3	αὑτῷ	αὐτῷ	αὐτῷ	αὐτῷ	image (3x): smooth breathing on αὐτῷ
+lev	theoldtestamenti00unknuoft	253	4	ἐν	∅	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	4	ews	ἕως	ἕως	ἕως	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	4	““ἐὰν	““ἐὰν	ἐὰν	ἐὰν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	6	ἡμέρας:	ἡμέρας:	ἡμέρας·	ἡμέρας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	6	7	ἧ	ᾗ	ᾗ	image (3x): reads as in the page file; OCR dropped or garbled diacritics, punctuation or margin numbers
+lev	theoldtestamenti00unknuoft	253	7	ἔσται.	ἔσται +: 5	ἔσται.	ἔσται.	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	253	7	ῥέῃ	ῥέ	ῥέῃ	ῥέῃ	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	253	9	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	10	““καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	11	ep	ἐφ᾽	ἐφ᾽	ἐφ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	11	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	11	ρύσεως	ῥύσεως	ῥύσεως	ῥύσεως	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	253	12	Ep	ἐφ᾽	ἐφ᾽	ἐφ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	13	ἐπ᾽	ἐπ᾽ +»	ἐπ᾽	ἐπ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	13	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	14	7aras	πᾶς	πᾶς	πᾶς	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	15	ἑσπέρας. +““	ἑσπέρας. +“ὃ	ἑσπέρας.	ἑσπέρας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	16	€	ἐ	δὲ	δὲ	image (3x): reads as in the page file; OCR dropped or garbled diacritics, punctuation or margin numbers
+lev	theoldtestamenti00unknuoft	253	17	kal	2ο +“ϑκαὶ	καὶ	καὶ	image (3x): reads as in the page file; OCR dropped or garbled diacritics, punctuation or margin numbers
+lev	theoldtestamenti00unknuoft	253	18	αὑτῇ	αὑτῇ	αὐτῇ	αὑτῇ	image (3x): rough breathing on αὑτῇ (open-left hook)
+lev	theoldtestamenti00unknuoft	253	19	μαρτυρίου:	μαρτυρίου: +3)	μαρτυρίου·	μαρτυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	19	*Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	20	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	22	αὐτῆς.	αὐτῆς. +βι	αὐτῆς.	αὐτῆς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	22	3*Kal	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	22	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave on υἱοὺς (Ἰσραήλ/Ἀαρών are names, not a quotation)
+lev	theoldtestamenti00unknuoft	253	22	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+lev	theoldtestamenti00unknuoft	253	23	av-	αὐ-	αὐ-	αὐ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	24	TOV,	τῶν,	τῶν,	τῶν,	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	24	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	24	σκηνήν	σκηνὴν	σκηνήν	σκηνήν	image (3x): acute before the enclitic
+lev	theoldtestamenti00unknuoft	253	24	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	24	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	24	αὐτοῖς.	αὑτοῖς. +ὅδ᾽	αὐτοῖς.	αὐτοῖς.	image (3x): smooth breathing on αὐτοῖς
+lev	theoldtestamenti00unknuoft	253	24	"οὗτος	οὗτος	οὗτος	οὗτος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	25	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	25	ἐάν	ἐάν	ἐάν	ἐάν	image (3x): acute before the enclitic
+lev	theoldtestamenti00unknuoft	253	26	αὐτῇ"	αὐτῇ"	αὐτῇ·	αὐτῇ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	26	53καὶ	53καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	28	ἂν +κοιμηθῆ μ	κοιμηθῇ	κοιμηθῇ	κοιμηθῇ	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	253	28	ἀποκαθημένης	ἀποκαθημένης +᾿	ἀποκαθημένης.	ἀποκαθημένης.	image (3x): reads as in the page file; OCR dropped or garbled diacritics, punctuation or margin numbers
+lev	theoldtestamenti00unknuoft	253	29	"Kat	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	253	30	υἱοὺς	υιους	υἱοὺς	υἱοὺς	image (3x): grave on υἱοὺς (Ἰσραήλ/Ἀαρών are names, not a quotation)
+lev	theoldtestamenti00unknuoft	253	30	Ἀαρὼν	Ααρὼν	Ἀαρὼν	Ἀαρὼν	image (3x): smooth breathing on the capital
+lev	theoldtestamenti00unknuoft	253	30	ἐν	εν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	253	30	προσάγειν	προσαγειν	προσάγειν	προσάγειν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	253	30	αὐτοὺς	αὐτοὺυς	αὐτοὺς	αὐτοὺς	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	253	30	πῦρ +ρ	πὺυρ	πῦρ	πῦρ	image (3x): reads as in the page file; OCR dropped or garbled diacritics, punctuation or margin numbers
+lev	theoldtestamenti00unknuoft	253	30	ἔναντι	εναντι	ἔναντι	ἔναντι	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	253	30	Κυρίου	Κυριου,	Κυρίου,	Κυρίου,	image (3x): reads as in the page file; OCR dropped or garbled diacritics, punctuation or margin numbers
+lev	theoldtestamenti00unknuoft	253	1	-	-	ἁπτόμενος	ἁπτόμενος	ambiguous: first letter faintly printed at the line start; breathing barely visible, read rough as elsewhere on these pages
+lev	theoldtestamenti00unknuoft	253	3	-	-	ἢ	ἢ	image (8x): smooth breathing (comma shape) + grave; the same on lines 18 and 27

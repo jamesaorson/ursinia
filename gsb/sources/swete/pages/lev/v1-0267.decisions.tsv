@@ -1,0 +1,55 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+lev	theoldtestamenti00unknuoft	267	1	δι	δι᾽	δι᾽	δι᾽	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lev	theoldtestamenti00unknuoft	267	1	αὐτό:	αὐτό:	αὐτό·	αὐτό·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lev	theoldtestamenti00unknuoft	267	1	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave ἐγὼ before Κύριος (not a quotation)
+lev	theoldtestamenti00unknuoft	267	3	"Καὶ	"Καὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+lev	theoldtestamenti00unknuoft	267	3	ἅγια᾽	ἅγια᾽	ἅγια·	ἅγια·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lev	theoldtestamenti00unknuoft	267	4	"ἐὰν	"ἐὰν	ἐὰν	ἐὰν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+lev	theoldtestamenti00unknuoft	267	5	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lev	theoldtestamenti00unknuoft	267	5	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	267	6	“Kal	1Ω +"καὶ θ	καὶ	καὶ	image (3x): word after superscript verse number
+lev	theoldtestamenti00unknuoft	267	8	3xKal	Ξ̓καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+lev	theoldtestamenti00unknuoft	267	9	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	267	10	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	267	10	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	267	11	φάγεται	ῴφαγεται	φάγεται	φάγεται	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	267	11	“kat	"“᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+lev	theoldtestamenti00unknuoft	267	13	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	267	13	“kat	"βκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+lev	theoldtestamenti00unknuoft	267	13	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing, grave Ἰσραὴλ
+lev	theoldtestamenti00unknuoft	267	14	“Kal	τό +“καὶ	καὶ	καὶ	image (3x): word after superscript verse number
+lev	theoldtestamenti00unknuoft	267	14	ἀνομίαν	ἀνομίαι	ἀνομίαν	ἀνομίαν	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	267	15	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+lev	theoldtestamenti00unknuoft	267	15	αὐτῶν"	αὐτῶν	αὐτῶν·	αὐτῶν·	image (3x): ano teleia after αὐτῶν
+lev	theoldtestamenti00unknuoft	267	15	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave ἐγὼ before Κύριος (not a quotation)
+lev	theoldtestamenti00unknuoft	267	17	λέγων +᾿᾽	λέγων +᾿᾽	λέγων	λέγων	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lev	theoldtestamenti00unknuoft	267	17	Δ̓αρὼν	Δ̓Ααρὼν	Ἀαρὼν	Ἀαρὼν	image (3x): smooth breathing Ἀαρὼν
+lev	theoldtestamenti00unknuoft	267	18	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing, grave Ἰσραὴλ
+lev	theoldtestamenti00unknuoft	267	18	αὐτούς	αὐτούς	αὐτούς	αὐτούς	image (3x): acute αὐτούς before capitalized quotation
+lev	theoldtestamenti00unknuoft	267	19	Ανθρωπος	Ανθρωπος	Ἄνθρωπος	Ἄνθρωπος	image (3x): smooth breathing + acute Ἄνθρωπος
+lev	theoldtestamenti00unknuoft	267	19	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing, grave Ἰσραὴλ
+lev	theoldtestamenti00unknuoft	267	20	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing, grave Ἰσραὴλ
+lev	theoldtestamenti00unknuoft	267	21	αἵρέσιν	αἵρέσιν	αἵρεσιν	αἵρεσιν	ambiguous (5x): rough+acute on ι; the short dot-like mark over ε is much smaller than an acute (compare ὁμολογίαν); read as a speck, αἵρεσιν
+lev	theoldtestamenti00unknuoft	267	22	αὑτῶν,	αὑτῶν,	αὐτῶν,	αὐτῶν,	image (3x): smooth breathing αὐτῶν
+lev	theoldtestamenti00unknuoft	267	22	ὁλοκαύτωμα,	ὁλοκαύτωμα, +"ὁ	ὁλοκαύτωμα,	ὁλοκαύτωμα,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lev	theoldtestamenti00unknuoft	267	22	“δεκτὰ	δεκτὰ	δεκτὰ	δεκτὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+lev	theoldtestamenti00unknuoft	267	24	““πάντα	““ππάντα	πάντα	πάντα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+lev	theoldtestamenti00unknuoft	267	24	ἔχῃ	ἔ	ἔχῃ	ἔχῃ	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	267	24	μῶμον	ὦμον	μῶμον	μῶμον	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	267	24	προσάξουσιν	προσάξο	προσάξουσιν	προσάξουσιν	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	267	24	Κυρίῳ,	Κυρί	Κυρίῳ,	Κυρίῳ,	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	267	25	διότι	διότε	διότι	διότι	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	267	25	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+lev	theoldtestamenti00unknuoft	267	26	ἣ	ἣ	ἢ	ἢ	image (3x): ἢ smooth + grave
+lev	theoldtestamenti00unknuoft	267	28	μῶμος	μῶμ	μῶμος	μῶμος	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	267	28	*TudAdv	“᾿τυφλὸν	τυφλὸν	τυφλὸν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+lev	theoldtestamenti00unknuoft	267	29	ἢ	μ)	ἢ	ἢ	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	267	29	ἢ	μ)	ἢ	ἢ	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	267	29	μυρμηκιῶντα	μυρμηκιωντα	μυρμηκιῶντα	μυρμηκιῶντα	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	267	29	ἢ	μ)	ἢ	ἢ	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	267	29	Ψωραγριῶντα	ψωραγριῶντα	ψωραγριῶντα	ψωραγριῶντα	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	267	29	ἢ	μ)	ἢ	ἢ	class R6 (OCR letters differ): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	267	29	ἔχοντα,	εχόντα,	ἔχοντα,	ἔχοντα,	image (3x): ἔχοντα
+lev	theoldtestamenti00unknuoft	267	29	οὐ	ου	οὐ	οὐ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+lev	theoldtestamenti00unknuoft	267	21	-	-	αἵρεσιν	αἵρεσιν	ambiguous: a short dot-like mark over ε (both OCRs read an acute there); smaller than an acute, read as a speck
+lev	theoldtestamenti00unknuoft	267	25	-	-	διότι	διότι	ambiguous: first letters heavily inked/smudged; read διότι

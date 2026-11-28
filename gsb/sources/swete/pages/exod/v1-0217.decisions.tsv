@@ -1,0 +1,59 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+exod	theoldtestamenti00unknuoft	217	1	κύκλῳ,	κύκλῳ, +"	κύκλῳ,	κύκλῳ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	1	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	4	tupiov. +(32)1|	τυρίου. +[31	τυρίου.	τυρίου.	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	4	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before a capitalized name (not a quotation)
+exod	theoldtestamenti00unknuoft	217	4	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on Ἰ
+exod	theoldtestamenti00unknuoft	217	5	∅	τῷ	τῷ	τῷ	class R0: OCR lost the word in extraction; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	5	ἐποίησαν. +᾿ς	ἐποίησαν. +᾿5	ἐποίησαν.	ἐποίησαν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	6	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	7	Κυρίου:	Κυρίου:	Κυρίου·	Κυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	7	Ξ̓καὶ	"Ξκαὶ	καὶ	καὶ	image (3x): superscript verse number fused into the word, not text
+exod	theoldtestamenti00unknuoft	217	8	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	8	λειτουργικὰς	λειτουργικὰς	λειτουργικὰς	λειτουργικὰς	image (3x): grave before a capitalized name (not a quotation)
+exod	theoldtestamenti00unknuoft	217	8	Δαρών,	Ἀαρών,	Ἀαρών,	Ἀαρών,	image (3x): smooth breathing on Ἀ
+exod	theoldtestamenti00unknuoft	217	9	ἁγίῳ +4	ἁγίῳ. +14	ἁγίῳ.	ἁγίῳ.	image (3x): ἁγίῳ. rough breathing, acute, iota subscript, period; trailing OCR junk is the next superscript 14
+exod	theoldtestamenti00unknuoft	217	9	στολὰ	στολὰς	στολὰς	στολὰς	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	217	10	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	10	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	11	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	11	Skal	"καὶ	καὶ	καὶ	image (3x): superscript verse number then καὶ
+exod	theoldtestamenti00unknuoft	217	11	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	12	Kai	τό	καὶ	καὶ	image (3x): superscript verse number then καὶ
+exod	theoldtestamenti00unknuoft	217	12	τὸ	εοΝ	τὸ	τὸ	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	217	12	θυσιαστήριον	,	θυσιαστήριον	θυσιαστήριον	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	217	12	καὶ	ν	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	217	14	συνθέσεως, +37	συνθέσεως, +(37	συνθέσεως,	συνθέσεως,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	14	καθαρὰν	καθαρὰν +“1	καθαρὰν	καθαρὰν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	14	“1 +Kai	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+exod	theoldtestamenti00unknuoft	217	15	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	15	“καὶ	"καὶ	καὶ	καὶ	image (3x): superscript verse number fused into the word, not text
+exod	theoldtestamenti00unknuoft	217	16	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	16	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	17	προκειμένους,	προκειμένους, +᾽	προκειμένους,	προκειμένους,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	17	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	17	αἵ	αἵ	αἵ	αἵ	image (3x): αἵ with rough breathing and acute before enclitic εἰσιν
+exod	theoldtestamenti00unknuoft	217	17	Δ̓αρών,	Δ̓αρών,	Ἀαρών,	Ἀαρών,	image (3x): smooth breathing on Ἀ
+exod	theoldtestamenti00unknuoft	217	18	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	18	ἱερατίαν, +“	ἱερατίαν, +2	ἱερατίαν,	ἱερατίαν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	19	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	19	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	20	* +Kal	“᾿καὶ	καὶ	καὶ	image (3x): superscript verse number fused into the word, not text
+exod	theoldtestamenti00unknuoft	217	20	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	21	αὐτῆς, +(5)	αὐτῆς, +(59	αὐτῆς,	αὐτῆς,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	23	ἐπικαλύμματα, +(“)	ἐπικαλύμματα,	ἐπικαλύμματα,	ἐπικαλύμματα,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	24	μαρτυρίου:	μαρτυρίου:	μαρτυρίου·	μαρτυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	24	“ὃ	“ὃ	ὃ	ὃ	image (3x): superscript verse number fused into the word, not text
+exod	theoldtestamenti00unknuoft	217	25	Moon,	Μωσῇ,	Μωσῇ,	Μωσῇ,	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	25	υἱοὶ	υἱοὶ +ΕΣ	υἱοὶ	υἱοὶ	image (3x): grave before a capitalized name (not a quotation)
+exod	theoldtestamenti00unknuoft	217	25	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on Ἰ
+exod	theoldtestamenti00unknuoft	217	26	“53καὶ	“3καὶ	καὶ	καὶ	image (3x): superscript verse number fused into the word, not text
+exod	theoldtestamenti00unknuoft	217	27	αὐτά᾽	αὐτά᾽	αὐτά·	αὐτά·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	28	αὐτοὺς	αὐτοὺς	αὐτοὺς	αὐτοὺς	image (3x): grave before a capitalized name (not a quotation)
+exod	theoldtestamenti00unknuoft	217	28	Μωυσῆς.	Μωυσῆς. +᾿	Μωυσῆς.	Μωυσῆς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	29	*Kal	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+exod	theoldtestamenti00unknuoft	217	29	“Ἔν	“Ἔν	Ἐν	Ἐν	image (3x): smooth breathing on Ἐ, no accent; superscript 2 not text
+exod	theoldtestamenti00unknuoft	217	18	-	-	καὶ	καὶ	image: margin (40) beside Swete 20 and a second (40) in the text at line 23; encoded as halves {=39:40a}/{=39:40b} because each common verse may be given once; letters are ours, not printed
+exod	theoldtestamenti00unknuoft	217	23	-	-	καὶ	καὶ	image: second parenthesized (40) printed in the text before καὶ τοὺς πασσάλους; encoded {=39:40b}
+exod	theoldtestamenti00unknuoft	217	5	-	-	Τὸ	Τὸ	image: no parenthesized number beside Swete 39:12 (nor 39:10, 39:17, 39:21): run on in the preceding common verse
+exod	theoldtestamenti00unknuoft	217	7	-	-	καταλειφθεῖσαν	καταλειφθεῖσαν	numbering: image (0.7x): margin prints (1) beside Swete 13; common 39:1 is printed twice (also in the text at Swete 36:8, leaf 210): encoded {=39:1b} here, {=39:1a} there, letters ours, not printed

@@ -1,0 +1,31 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+num	theoldtestamenti00unknuoft	370	1	Ovyarépes	θυγατέρες	θυγατέρες	θυγατέρες	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	370	1	Σαλ-"	Σαλ-"	Σαλ-	Σαλ-	image (3x): hyphen at line end; dots after it are specks
+num	theoldtestamenti00unknuoft	370	2	madd:	παάδ᾽	παάδ·	παάδ·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	370	2	“kal	“᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	370	2	“Εγλὰ	“Εγλὰ	Ἑγλὰ	Ἑγλὰ	image (3x): rough breathing (reversed comma) on capital
+num	theoldtestamenti00unknuoft	370	2	Nova	Νουὰ	Νουὰ	Νουὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	370	2	καὶ +τι	καὶ +τι	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	370	3	αὐτῶν"	αὐτῶν"	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	370	3	"ἐκ	"ἐκ	ἐκ	ἐκ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	370	3	τοῦ +τ2	τοῦ +τ:	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	370	4	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	Ἰωσὴφ	image (3x): smooth breathing on capital
+num	theoldtestamenti00unknuoft	370	4	γυναῖκες"	γυναῖκες"	γυναῖκες·	γυναῖκες·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	370	4	7	ἡ	ἡ	ἡ	class R6 (OCR letters differ): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	370	5	αὐτῶν.	αὐτῶν.	αὐτῶν	αὐτῶν	image (3x): speck at baseline after αὐτῶν, lighter and smaller than a period, mid-clause
+num	theoldtestamenti00unknuoft	370	5	“Batra	""αὗται	αὗται	αὗται	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	370	5	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	370	5	ἐντολαὶ	ἐντολαὶ +τ:	ἐντολαὶ	ἐντολαὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	370	6	13	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	370	6	Και +TQ.	τὰ	τὰ	τὰ	class R6 (OCR letters differ): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	370	6	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	370	6	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	370	6	κριματα	κρίματα	κρίματα	κρίματα	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	370	6	a	ἃ	ἃ	ἃ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	370	6	εν	ἐν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	370	6	χειρι	χειρὶ	χειρὶ	χειρὶ	image (3x): grave on χειρὶ before Μωυσῆ (not a quotation)
+num	theoldtestamenti00unknuoft	370	6	Movo7	Μωυσῆ	Μωυσῇ	Μωυσῆ	image (3x): circumflex, no iota subscript printed (line 1 Μωυσῇ has one)
+num	theoldtestamenti00unknuoft	370	7	ice	δυσμῶν	δυσμῶν	δυσμῶν	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	370	7	λον	Μωὰβ	Μωὰβ	Μωὰβ	class R6 (OCR letters differ): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	370	7	Ἰορδάνου	Ἰορδάνου	Ἰορδάνου	Ἰορδάνου	image (3x): smooth breathing on capital
+num	theoldtestamenti00unknuoft	370	7	Ἰερειχώ.	Ἰερειχώ.	Ἰερειχώ.	Ἰερειχώ.	image (3x): smooth breathing on capital

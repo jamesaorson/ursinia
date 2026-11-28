@@ -1,0 +1,64 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+deut	theoldtestamenti00unknuoft	371	1	ΟΥ̓́ΤΟΙ	∅	ΟΥΤΟΙ	ΟΥΤΟΙ	image (3x): book-opening capitals, unaccented, no breathing
+deut	theoldtestamenti00unknuoft	371	1	ods	οὗς	οὓς	οὓς	image (3x): rough + grave, compact closed mark
+deut	theoldtestamenti00unknuoft	371	1	παντὶ	παντὶ	παντὶ	παντὶ	image (3x): grave before capitalized proper name (not a quotation)
+deut	theoldtestamenti00unknuoft	371	1	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape)
+deut	theoldtestamenti00unknuoft	371	2	Ιορδάνου	Ἰορδάνου	Ἰορδάνου	Ἰορδάνου	image (3x): smooth breathing (apostrophe shape)
+deut	theoldtestamenti00unknuoft	371	2	ava	ἀνὰ	ἀνὰ	ἀνὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	371	3	Φαρὰν	Φαρὰν	Φαρὰν	Φαρὰν	image (3x): grave before capitalized proper name (not a quotation)
+deut	theoldtestamenti00unknuoft	371	3	AoBov	Λοβὸν	Λοβὸν	Λοβὸν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	371	3	Αὐλῶν	Αὐλῶν	Αὐλῶν	Αὐλῶν	image (3x): smooth breathing on υ
+deut	theoldtestamenti00unknuoft	371	3	Καταχρύσεα:	Καταχρύσεα:	Καταχρύσεα·	Καταχρύσεα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	371	3	“ἕνδεκα	“ἕνδεκα	ἕνδεκα	ἕνδεκα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	371	4	Καδὴς	Καδὴς	Καδὴς	Καδὴς	image (3x): grave before capitalized proper name (not a quotation)
+deut	theoldtestamenti00unknuoft	371	4	Βαρνή. +3	Βαρνή.	Βαρνή.	Βαρνή.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	371	5	EV	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	371	5	TH	τῷ	τῷ	τῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	371	6	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave before capitalized proper name (not a quotation)
+deut	theoldtestamenti00unknuoft	371	6	Ισραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape)
+deut	theoldtestamenti00unknuoft	371	7	pera	ἐμετὰ	μετὰ	μετὰ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	371	7	Ἀμορραίων	Ἀμορραίων	Ἀμορραίων	Ἀμορραίων	image (3x): smooth breathing (apostrophe shape)
+deut	theoldtestamenti00unknuoft	371	8	Ἐσεβὼν	ἐς +Ἐσεβὼν	Ἑσεβὼν	Ἑσεβὼν	image (3x): rough breathing (reversed comma)
+deut	theoldtestamenti00unknuoft	371	8	Ὧγ	Δ +Ὧγ	Ὢγ	Ὢγ	image (8x): smooth + grave, apostrophe then falling stroke, two parts, as Num Ὢγ
+deut	theoldtestamenti00unknuoft	371	9	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	371	9	Ἀσταρὼθ	Ἀσταρὼθ	Ἀσταρὼθ	Ἀσταρὼθ	image (3x): smooth breathing (apostrophe shape)
+deut	theoldtestamenti00unknuoft	371	9	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	371	9	Ἐ̔δράειν,	Ἐδράειν,	Ἐδράειν,	Ἐδράειν,	image (3x): smooth breathing (apostrophe shape)
+deut	theoldtestamenti00unknuoft	371	9	Sev	δὲν	ἐν	ἐν	image (3x): superscript verse number then word; smooth breathing
+deut	theoldtestamenti00unknuoft	371	9	Ἰορδάνου	Ἰορδάνου	Ἰορδάνου	Ἰορδάνου	image (3x): smooth breathing (apostrophe shape)
+deut	theoldtestamenti00unknuoft	371	9	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	371	10	“Κύριος	“Κύριος	Κύριος	Κύριος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	371	11	Ἱκανούσθω	Ἱκανούσθω	Ἱκανούσθω	Ἱκανούσθω	image (3x): rough breathing
+deut	theoldtestamenti00unknuoft	371	12	τούτῳ"	τούτῳ:	τούτῳ·	τούτῳ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	371	12	7erLoTpadnte	7 +᾿ἐπιστράφητε	ἐπιστράφητε	ἐπιστράφητε	image (3x): superscript verse number then word; smooth breathing
+deut	theoldtestamenti00unknuoft	371	13	Αμορραίων	Αμορραίων	Ἀμορραίων	Ἀμορραίων	image (3x): smooth breathing (apostrophe shape)
+deut	theoldtestamenti00unknuoft	371	13	Ἀραβά,	Ἀραβά,	Ἀραβά,	Ἀραβά,	image (3x): smooth breathing (apostrophe shape)
+deut	theoldtestamenti00unknuoft	371	13	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	371	14	Ἀντιλίβανον,	Ἀντιλίβανον,	Ἀντιλίβανον,	Ἀντιλίβανον,	image (3x): smooth breathing (apostrophe shape)
+deut	theoldtestamenti00unknuoft	371	15	TOU	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	371	15	Εὐφράτου.	Εὐφράτου.	Εὐφράτου.	Εὐφράτου.	image (3x): smooth breathing on υ
+deut	theoldtestamenti00unknuoft	371	15	*idere	ὅἴδετε	ἴδετε	ἴδετε	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	371	16	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	371	16	γῆν"	γῆν"	γῆν·	γῆν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	371	16	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+deut	theoldtestamenti00unknuoft	371	16	γὴν	γὴν	γῆν	γῆν	image (3x): circumflex
+deut	theoldtestamenti00unknuoft	371	16	ὦμοσα	ὦμοσα	ὤμοσα	ὤμοσα	image (3x): smooth + acute, not circumflex
+deut	theoldtestamenti00unknuoft	371	17	ὑμών,	ὑμῶν,	ὑμῶν,	ὑμῶν,	image (3x): circumflex
+deut	theoldtestamenti00unknuoft	371	17	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	image (3x): smooth breathing (apostrophe shape)
+deut	theoldtestamenti00unknuoft	371	17	Ἰσαὰκ	Ἰσαὰκ	Ἰσαὰκ	Ἰσαὰκ	image (3x): smooth breathing (apostrophe shape)
+deut	theoldtestamenti00unknuoft	371	17	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing (apostrophe shape)
+deut	theoldtestamenti00unknuoft	371	17	αὐτοῖς	αὐτοῖς +ν “ , βεθίῳ Ι ᾽ , ν 3 ᾿ ς κα » -	αὐτοῖς	αὐτοῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+deut	theoldtestamenti00unknuoft	371	18	αὐτών	αὐτών	αὐτῶν	αὐτῶν	image (3x): circumflex
+deut	theoldtestamenti00unknuoft	371	19	OV	Οὐ	Οὐ	Οὐ	image (3x): smooth breathing on υ
+deut	theoldtestamenti00unknuoft	371	19	ὑμᾶς"	ὑμᾶς"	ὑμᾶς·	ὑμᾶς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+deut	theoldtestamenti00unknuoft	371	19	"Κύριος	"Κύριος	Κύριος	Κύριος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+deut	theoldtestamenti00unknuoft	371	20	ἰδού	ἰδού	ἰδοὺ	ἰδού	image (3x): acute before enclitic ἐστε (H2), not grave
+deut	theoldtestamenti00unknuoft	371	21	οὐρανοῦ	ουρανου	οὐρανοῦ	οὐρανοῦ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	371	21	πλήθει"	πλησει"	πλήθει·	πλήθει·	image (3x): ano teleia
+deut	theoldtestamenti00unknuoft	371	21	"Κύριος	ΙΙ	Κύριος	Κύριος	image (3x): verse number 11 superscript, not text
+deut	theoldtestamenti00unknuoft	371	21	ὁ	Κύυριος	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	371	21	θεὸς	οΟ	θεὸς	θεὸς	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	371	21	τῶν	θ	τῶν	τῶν	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	371	21	πατέρων	σεος	πατέρων	πατέρων	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	371	21	ὑμῶν	Τῶν +πατερὼν υμωῶν	ὑμῶν	ὑμῶν	class R6 (OCR letters differ): the other OCR reading agrees with c
+deut	theoldtestamenti00unknuoft	371	21	ὑμῖν	υμιν	ὑμῖν	ὑμῖν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c

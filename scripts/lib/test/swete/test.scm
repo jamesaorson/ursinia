@@ -138,7 +138,7 @@
 
 ;; Half verses and a printed skip in Swete's own numbers.
 (define p92 (page 40 "# s leaf 0040\n# box 1 2 3 4\n{46}α. {=31:48a}β. {47}γ. {48}{=31:51}δ. {=31:52a}ε. {=31:48b}ζ.\n{49}η. {50}{=31:50a}θ. {52!}{=31:52b}ι. {53}κ.\n"))
-(check (messages (list (page 39 "# s leaf 0039\n# box 1 2 3 4\n{C31}{1}ξ.\n") p92) #f #f) '((40 1 fail)))  ; 1 -> 46 across the leaves
+(check (messages (list (page 39 "# s leaf 0039\n# box 1 2 3 4\n# done 2026-11-27 swete-2\n{C31}{1}ξ.\n") p92) #f #f) '((40 1 fail)))  ; 1 -> 46 across the leaves
 (check (messages (list p92) #f #f) '())
 (call-with-values (lambda () (book-verses (list (page 39 "# s\n{C31}{45}x.\n") p92)))
   (lambda (rows problems)
@@ -147,12 +147,91 @@
        '((40 1 fail)))                                   ; an unmarked skip still fails
 (check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{49}α. {50!}β.\n")) #f #f)
        '((40 1 fail)))                                   ; {n!} where nothing is skipped
+;; Swete's own numbers printed out of sequence (Num 6:23-27, 10:33-36): each
+;; out-of-place number is marked; the table keeps the printed order, no warnings.
+(check (book-problems (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C10}{1}α. {2}β. {3}γ. {5!}δ. {6}ε. {4!}ζ. {C11}{1}η.\n")) #f #f 1)
+       '())                                              ; no failures and no warnings
+(call-with-values (lambda () (book-verses (list (page 40 "{C10}{33}α. {35!}β. {36}γ. {34!}δ. {C11}{1}ε."))))
+  (lambda (rows problems) (check (map second rows) '(33 35 36 34 1))))
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{23}α. {27!}β. {24}γ.\n")) #f #f)
+       '((40 1 fail)))                                   ; the number after an early one is marked too
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C10}{1}α. {2}β. {3}γ. {2!}{=10:9}δ.\n")) #f #f)
+       '((40 1 fail)))                                   ; a Swete number twice in a chapter
 (check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C31}{1}α. {2}{=31:5}β. {3}γ. {4}{=31:5}δ.\n")) #f #f)
        '((40 1 fail)))                                   ; the same common verse twice
 (check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C31}{1}α. {2}{=31:1a}β.\n")) #f #f)
        '((40 1 fail)))                                   ; a whole verse and a half of it
 (check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C31}{1}α. {=31:1}β.\n")) #f #f)
        '())                                              ; the same reference running on is one row
+
+;; Combined common numbers (Exod 37:4-5, 36:34,36): one row, each verse claimed.
+(call-with-values (lambda () (book-verses (list (page 40 "{C38}{1}{=37:4-5}α. {2}{=36:34,36}β. {3}{=37:6}γ."))))
+  (lambda (rows problems) (check (map second rows) '("4-5" "34,36" 6))))
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C38}{1}{=37:4-5}α. {2}{=36:34,36}β. {3}{=36:35}γ.\n")) #f #f)
+       '())                                              ; 36:35 is not in 34,36
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C38}{1}{=37:4-5}α. {2}{=37:5}β.\n")) #f #f)
+       '((40 1 fail)))                                   ; 37:5 is inside 37:4-5
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C38}{1}{=36:36}α. {2}{=36:34,36}β.\n")) #f #f)
+       '((40 1 fail)))                                   ; 36:36 is in 36:34,36
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C38}{1}{=37:5-4}α.\n")) #f #f)
+       '((40 1 fail)))                                   ; a range must ascend
+;; A number Swete prints twice: our a/b halves, also inside a list (Exod 36:36).
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C39}{1}{=39:1a}α. {2}{=38:2}β. {3}{=39:1b}γ.\n")) #f #f)
+       '())
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C38}{1}{=36:36a}α. {2}{=36:34,36b}β.\n")) #f #f)
+       '())
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C38}{1}{=36:36a}α. {2}{=36:34,36a}β.\n")) #f #f)
+       '((40 1 fail)))
+
+;; A Swete verse with no {=c:v} landing in another chapter than the common
+;; verse before it warns (run it on); the next chapter's verse 1 does not.
+(define (warnings pages) (filter-map (lambda (p) (and (eq? (third p) 'warn) (second p))) (book-problems pages #f #f 1)))
+(check (warnings (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C36}{25}{=39:17}α.\n{26}β.\n"))) '(2))
+(check (warnings (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C36}{25}{=39:17}α.\n{26}{=39:17}β.\n"))) '())
+(check (warnings (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C8}{32}{=8:28}α.\n{C9}{1}β.\n"))) '())
+
+;; An unfinished leaf ends the run: no chapter is inferred past it (Lev
+;; leaves 262-266), and the next leaf says its checks were skipped.
+(define (fail-text pages) (filter-map (lambda (p) (and (eq? (third p) 'fail) (fourth p))) (book-problems pages #f #f 1)))
+(define (problem-text pages) (map (lambda (p) (list (first p) (third p) (fourth p))) (book-problems pages #f #f 1)))
+(check (problem-text (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C1}{1}α.\n")
+                           (page 41 "# s leaf 0041\n# box 1 2 3 4\n{5}β.\n")))
+       '((41 warn "order and duplicate checks against earlier leaves skipped: leaf 40 is unfinished (they run once it is done)")))
+(check (problem-text (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n# done 2026-11-27 swete-2\n{C1}{1}α. {2}β.\n")
+                           (page 41 "# s leaf 0041\n# box 1 2 3 4\nβ.\n")      ; partial: its {C2}{1} not yet written
+                           (page 42 "# s leaf 0042\n# box 1 2 3 4\n# done 2026-11-27 swete-2\n{2}γ.\n")))
+       '((42 warn "order and duplicate checks against earlier leaves skipped: leaf 41 is unfinished (they run once it is done)")))
+(check (length (fail-text (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n# done 2026-11-27 swete-2\n{C1}{1}α.\n")
+                                (page 41 "# s leaf 0041\n# box 1 2 3 4\n{5}β.\n"))))
+       1)                                               ; a done leaf before: still judged
+
+;; Decision rows: the revision token decide checks.
+(define dr (list (list "lev" "s" "40" "3" "ὁ" "ὁ" "ὃ" "ὃ" "TODO zoom") (list "lev" "s" "40" "5" "Τῇ" "Τῇ" "Γῇ" "Γῇ" "TODO zoom")))
+(check (rows-revision dr) (rows-revision (list (append (take (car dr) 8) '("image: rough")) (cadr dr))))  ; decide: same
+(check (rows-revision dr) (rows-revision (append dr (list (list "lev" "s" "40" "7" "-" "-" "ω" "ω" "ambiguous")))))  ; flag: same
+(check (equal? (rows-revision dr) (rows-revision (reverse dr))) #f)                           ; renumbered: differs
+
+;; Printed line -> OCR line: the OCR split our line 2 and lost line 1's last word.
+(check (ocr-line-of (page-tokens (parse-page "α β γ\nδ ε ζ η\nθ"))
+                    (map (lambda (t k) (list t #f k)) '("α" "β" "δ" "ε" "ζ" "η" "θ") '(0 0 1 1 1 2 3))
+                    2)
+       1)
+(check (ocr-line-of (page-tokens (parse-page "α\nβ")) '() 1) #f)
+
+;; Numerals: the keraia is ʹ (U+02B9) right after the letters, nothing else.
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C1}{1}ἦσαν ιβʹ πηγαί.\n")) #f #f) '())
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C1}{1}κ' στύλους ιβ΄ ʹα.\n")) #f #f)
+       '((40 1 fail)))                                   ; ASCII apostrophe, U+0384, a keraia after a space
+(check (map first (page-tokens (parse-page "{C1}{1}ἦσαν ιβʹ, πηγαί"))) '("ἦσαν" "ιβʹ," "πηγαί"))
+
+;;; English chapter division (versification.tsv): Hebrew 7:26-29 = English
+;;; 8:1-4, Hebrew 8:1-28 = English 8:5-32; other rows and the text untouched.
+(check (english-numbering '((7 25 "a") (7 26 "b") (7 29 "c") (8 1 "d") (8 "2a" "e") (8 "3-4" "f") (9 1 "g"))
+                          '((7 26 29 8 1) (8 1 28 8 5)))
+       '((7 25 "a") (8 1 "b") (8 4 "c") (8 5 "d") (8 "6a" "e") (8 "7-8" "f") (9 1 "g")))
+;; Hebrew Num 25:19 is the start of English 26:1: the two rows join.
+(check (english-numbering '((25 18 "a") (25 19 "b") (26 1 "c") (26 2 "d")) '((25 19 19 26 1)))
+       '((25 18 "a") (26 1 "b c") (26 2 "d")))
 
 ;;; Decision rows: collate's reconciliation
 
@@ -173,13 +252,30 @@
     (check (map (lambda (d) (and d (list (fourth d) (fifth d) (ninth d)))) decisions)
            '(("3" "ὁ" "image: rough breathing") ("5" "Τῇ" "image: Γ") ("8" "p" "image: omega")
              ("8" "-" "ambiguous: ink") #f))
-    (check orphans '(2))))
+    (check orphans '(2 3))))
 ;; A line inserted above: the settled row follows its token to the next line.
 (call-with-values
     (lambda () (reconcile (list (crow 6 "Τῇ" "Τῇ" "Γῇ")) (list (drow "5" "Τῇ" "Τῇ" "Γῇ" "Γῇ" "image: Γ"))))
   (lambda (matches decisions orphans)
     (check (map fourth decisions) '("6"))
     (check orphans '())))
+;; A TODO row nobody settled takes the page's current reading after an edit.
+(call-with-values
+    (lambda () (reconcile (list (crow 4 "ὁ" "ὁ" "ὅ")) (list (drow "4" "ὁ" "ὁ" "ὃ" "ὃ" "TODO zoom"))))
+  (lambda (matches decisions orphans)
+    (check (map eighth decisions) '("ὅ"))))
+
+;; Settled rows whose word left their line are open again, unless a later row
+;; near it corrects the same letters (a flag left behind by a shifted line).
+(let ((toks (page-tokens (parse-page "{C1}{1}καὶ ὅ θεός\nὃ ἐὰν\nὪξ ἐκεῖ.¶\n")))
+      (ds (list (drow "1" "ὅ" "ὅ" "ὁ" "ὃ" "image: d-shape")       ; 0: ὃ left line 1 (an ὃ on line 2 is another word): open
+                (drow "3" "-" "-" "Ὣξ" "Ὣξ" "ambiguous: rough")  ; 1: superseded by row 2
+                (drow "3" "-" "-" "Ὢξ" "Ὢξ" "corrected")         ; 2: on its line
+                (drow "3" "-" "-" "{2}ἐκεῖ.¶" "{2}ἐκεῖ.¶" "image") ; 3: old row with markers: on its line
+                (drow "2" "-" "-" "Ὢξ" "Ὢξ" "image")             ; 4: shifted flag (line 2): superseded by row 5
+                (drow "3" "-" "-" "Ὢξ" "Ὢξ" "image: re-flagged") ; 5
+                (drow "1" "-" "-" "θεὸς" "θεὸς" "image"))))      ; 6: θεός on the page: open
+  (check (stale-rows ds '(0 1 3 4 6) toks) '(0 6)))
 
 ;;; OCR tokens: the question mark after Swete's thin space
 
@@ -203,6 +299,22 @@
                      hint-page)
        '("line 3 looks indented in the scan: a new paragraph? (add {P} at its start, or {S} for a line of poetry)"
          "line 4 has {P} but does not look indented: check the image"))
+;; A block set narrower beside a double margin column (Num 1, leaf 285): lines
+;; 2-3 start right of the page's flush edge together; no paragraph.
+(check (indent-hints (list (ocr-line 0 300 "καὶ" "ἦν") (ocr-line 70 450 "τὸ" "φῶς") (ocr-line 140 450 "καὶ" "ἐγένετο")
+                           (ocr-line 210 300 "Καὶ" "εἶπεν") (ocr-line 280 300 "ὁ" "θεὸς"))
+                     hint-page)
+       '("line 4 has {P} but does not look indented: check the image"))
+;; {P} is judged against its prose neighbors: the block shifted right above it
+;; (a wider margin-number column, Deut leaf 437), or poetry around it (448).
+(check (indent-hints (list (ocr-line 0 300 "καὶ" "ἦν") (ocr-line 70 450 "τὸ" "φῶς") (ocr-line 140 450 "καὶ" "ἐγένετο")
+                           (ocr-line 210 400 "Καὶ" "εἶπεν") (ocr-line 280 300 "καὶ" "ἦν"))
+                     (parse-page "{C1}{1}καὶ ἦν\nτὸ φῶς\nκαὶ ἐγένετο\n{P}Καὶ εἶπεν\nκαὶ ἦν\n"))
+       '())
+(check (indent-hints (list (ocr-line 0 300 "καὶ" "ἦν") (ocr-line 70 400 "τὸ" "φῶς") (ocr-line 140 300 "καὶ" "ἐγένετο")
+                           (ocr-line 210 400 "Καὶ" "εἶπεν"))
+                     (parse-page "{C1}{1}καὶ ἦν\n{S}τὸ φῶς\n{P}καὶ ἐγένετο\n{S}Καὶ εἶπεν\n"))
+       '())
 
 
 ;;; Box suggestion: a short last line comes in, the running head and the

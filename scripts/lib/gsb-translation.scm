@@ -19,6 +19,8 @@
             read-greek-table
             word-n word-pre* word-text* word-post* word-lemma* word-strong* word-morph* word-flags*
             read-forms
+            gloss-files
+            read-gloss-forms
             parse-glosses
             check-glosses
             translation-dir
@@ -36,7 +38,7 @@
 ;;; Books and Greek tables
 ;;; ---------------------------------------------------------------------------
 
-(define %book-columns '(nn id english greek testament deuterocanonical role source notes))
+(define %book-columns '(nn id english greek testament deuterocanonical role source notes chapters))
 
 (define (read-books)
   "Rows of gsb/books.tsv as alists keyed by column name."
@@ -105,6 +107,25 @@
 (define (sense-field sense key)
   (let ((f (find (lambda (x) (and (pair? x) (eq? (car x) key))) (cddr sense))))
     (and f (cdr f))))
+
+(define %glosses-dir "gsb/lexicon/glosses")
+
+(define (gloss-files)
+  "The concordance files: gsb/lexicon/glosses/*.scm in name order (one per
+initial letter), or the older single gsb/lexicon/glosses.scm."
+  (if (file-exists? %glosses-dir)
+      (map (lambda (f) (string-append %glosses-dir "/" f))
+           (sort (filter (lambda (f) (string-suffix? ".scm" f))
+                         (let ((d (opendir %glosses-dir)))
+                           (let loop ((acc '()))
+                             (let ((e (readdir d)))
+                               (if (eof-object? e) (begin (closedir d) acc) (loop (cons e acc)))))))
+                 string<?))
+      (if (file-exists? "gsb/lexicon/glosses.scm") (list "gsb/lexicon/glosses.scm") '())))
+
+(define (read-gloss-forms)
+  "Every (lemma ...) form of the concordance, file by file."
+  (append-map read-forms (gloss-files)))
 
 (define (check-glosses forms)
   "Problems with the concordance forms, as strings (empty when it is valid)."
@@ -450,7 +471,7 @@ fail the check)."
                  ((string-null? lemma)
                   (list (e "Greek word ~a (~a) has no lemma in the table; write (~a <sense> \"<lemma>\")" n (word-text* w) n)))
                  ((not senses)
-                  (list (e "lemma ~a (word ~a, ~a) is not in gsb/lexicon/glosses.scm; add (lemma \"~a\" (sense <name> (gloss \"...\") (why \"...\")))"
+                  (list (e "lemma ~a (word ~a, ~a) is not in the concordance; add (lemma \"~a\" (sense <name> (gloss \"...\") (why \"...\")))"
                            lemma n (word-text* w) lemma)))
                  (else
                   (let ((sense (if (ref-sense r) (assq (ref-sense r) senses) (car senses))))

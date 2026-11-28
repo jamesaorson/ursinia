@@ -11,7 +11,9 @@ and download at their leisure.
 - [Berean Standard Bible](/bible/versions/bsb) —
   [read the full text](/bible/versions/bsb/text/)
 - [Greek Source Bible](/bible/versions/gsb) — our own translation from
-  the Greek, in progress; [read the full text](/bible/versions/gsb/text/)
+  the Greek, in progress; [read the full text](/bible/versions/gsb/text/),
+  the [study edition](/bible/versions/gsb/study/) with the Greek, or
+  [download the data](/bible/versions/gsb/data/)
 
 The full-text versions carry an anchor on every verse, so any verse can be
 linked directly: `/bible/versions/bsb/text/#genesis-1-1`. All of them share

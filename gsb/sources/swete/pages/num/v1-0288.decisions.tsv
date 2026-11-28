@@ -1,0 +1,57 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+num	theoldtestamenti00unknuoft	288	1	πεντακόσιοι.	πεντακόσιοι. +““	πεντακόσιοι.	πεντακόσιοι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	288	1	*Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	288	1	oi	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	288	1	παρεμβάλλοντες +20	παρεμβάλλοντες +90	παρεμβάλλοντες	παρεμβάλλοντες	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	288	2	Mavacon,	Μανασσή,	Μανασσή,	Μανασσή,	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	288	2	Μανασσὴ	Μανασσὴ	Μανασσὴ	Μανασσὴ	image (3x): grave before capitalized name, as printed
+num	theoldtestamenti00unknuoft	288	2	Ταμαλιὴλ	Ταμαλιὴλ	Γαμαλιὴλ	Γαμαλιὴλ	image (3x): Γ, not Τ
+num	theoldtestamenti00unknuoft	288	3	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave before capitalized name, as printed
+num	theoldtestamenti00unknuoft	288	3	Φαδασσούρ-	Φαδασσούρ᾽	Φαδασσούρ·	Φαδασσούρ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	288	3	7 +Svvapis	“᾿δύναμις	δύναμις	δύναμις	image (3x): superscript verse number then δύναμις, acute on υ
+num	theoldtestamenti00unknuoft	288	3	τριάκοντα	τριάκοντα +::	τριάκοντα	τριάκοντα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	288	4	“Kal	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	288	4	φυλῆς +22	φυλῆς +22	φυλῆς	φυλῆς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	288	5	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+num	theoldtestamenti00unknuoft	288	5	Βενιαμεὶν	Βενιαμεὶν	Βενιαμεὶν	Βενιαμεὶν	image (3x): grave before capitalized name, as printed
+num	theoldtestamenti00unknuoft	288	5	Ἀβειδὰν	Ἀβειδὰν	Ἀβειδὰν	Ἀβειδὰν	image (3x): smooth breathing on capital
+num	theoldtestamenti00unknuoft	288	5	vids	υἱὸς	υἱὸς	υἱὸς	image (3x): grave before capitalized name, as printed
+num	theoldtestamenti00unknuoft	288	5	Tadewve:	Γαδεων	Γαδεωνεί·	Γαδεωνεί·	image (3x): Γαδεωνεί with acute on ι, followed by ano teleia
+num	theoldtestamenti00unknuoft	288	6	ξβδύναμις	εἰ: +ξϑδύναμις	δύναμις	δύναμις	image (3x): superscript verse number then δύναμις, acute on υ
+num	theoldtestamenti00unknuoft	288	6	καὶ +23	καὶ +23	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	288	7	“Ῥπάντες	“πάντες	πάντες	πάντες	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	288	7	“Edpaup +24	Ἐφράιμ +94	Ἐφράιμ	Ἐφράιμ	image (3x): smooth breathing on E, acute on α, no diaeresis on ι
+num	theoldtestamenti00unknuoft	288	8	αὐτῶν"	αὐτῶν"	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	288	9	τάγμα	ϑτάγμα	Τάγμα	Τάγμα	image (3x): capital Τ after superscript 25
+num	theoldtestamenti00unknuoft	288	10	Δὰν	Δὰν	Δὰν	Δὰν	image (3x): grave before capitalized name, as printed
+num	theoldtestamenti00unknuoft	288	10	Ἀχιέζερ	Ἀχιέζερ	Ἀχιέζερ	Ἀχιέζερ	image (3x): smooth breathing on capital
+num	theoldtestamenti00unknuoft	288	10	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave before capitalized name, as printed
+num	theoldtestamenti00unknuoft	288	10	Ἀμεισαδαί: +Ξ6	Ἀμεισαδαί: +Ξ6	Ἀμεισαδαί·	Ἀμεισαδαί·	image (3x): smooth breathing on capital
+num	theoldtestamenti00unknuoft	288	12	“7καὶ	“7καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	288	12	Ἀσήρ,	Ἀσήρ,	Ἀσήρ,	Ἀσήρ,	image (3x): smooth breathing on capital
+num	theoldtestamenti00unknuoft	288	13	Ἀσὴρ	Ἀσὴρ	Ἀσὴρ	Ἀσὴρ	image (3x): smooth breathing on A; grave before capitalized name, as printed
+num	theoldtestamenti00unknuoft	288	13	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave before capitalized name, as printed
+num	theoldtestamenti00unknuoft	288	13	Ἔχράν:	Ἔχράν:	Ἐχράν·	Ἐχράν·	image (3x): smooth breathing on E, acute on α; no accent on capital
+num	theoldtestamenti00unknuoft	288	13	“ξδύναμις	“ξδύναμις	δύναμις	δύναμις	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	288	13	αὐτοῦ +28	αὐτοῦ +8	αὐτοῦ	αὐτοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	288	14	πεντακόσιοι.	πεντακόσιοι. +9	πεντακόσιοι.	πεντακόσιοι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	288	15	39καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	288	16	Νεφθαλεὶ	Νεφθαλεὶ	Νεφθαλεὶ	Νεφθαλεὶ	image (3x): grave before capitalized name, as printed
+num	theoldtestamenti00unknuoft	288	16	Ἀχειρὲ	Ἀχειρὲ	Ἀχειρὲ	Ἀχειρὲ	image (3x): smooth breathing on capital
+num	theoldtestamenti00unknuoft	288	16	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave before capitalized name, as printed
+num	theoldtestamenti00unknuoft	288	16	Αἰνάν: +3	Αἰνάν: +3	Αἰνάν·	Αἰνάν·	image (3x): Αἰ with smooth breathing on ι, acute on α
+num	theoldtestamenti00unknuoft	288	17	τετρακόσιοι. +3:	τετρακόσιοι. +3᾽	τετρακόσιοι.	τετρακόσιοι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	288	17	οἱ	οἷ	οἱ	οἱ	image (3x): rough breathing only, no circumflex
+num	theoldtestamenti00unknuoft	288	18	ν΄	ν΄	νʹ	νʹ	image (3x): letter numeral ν with keraia, written ʹ
+num	theoldtestamenti00unknuoft	288	19	ἑξακόσιοι:	ἑξακόσιοι:	ἑξακόσιοι·	ἑξακόσιοι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	288	19	αὐτών.	αὐτών. +3:	αὐτῶν.	αὐτῶν.	image (3x): circumflex on ω
+num	theoldtestamenti00unknuoft	288	19	35 +AUTH	Αὕτη	Αὕτη	Αὕτη	image (3x): rough breathing + acute on υ (open V shape)
+num	theoldtestamenti00unknuoft	288	20	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital
+num	theoldtestamenti00unknuoft	288	20	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+num	theoldtestamenti00unknuoft	288	21	τών	τών	τῶν	τῶν	image (3x): circumflex on ω
+num	theoldtestamenti00unknuoft	288	22	33οἱ	33οἱ	οἱ	οἱ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+num	theoldtestamenti00unknuoft	288	23	Μωυσῇ.	Μωυσῇ. +53᾽	Μωυσῇ.	Μωυσῇ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+num	theoldtestamenti00unknuoft	288	23	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+num	theoldtestamenti00unknuoft	288	24	viol	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before capitalized name, as printed
+num	theoldtestamenti00unknuoft	288	24	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital
+num	theoldtestamenti00unknuoft	288	24	Μωυσῇ:	Μωυσῇ:	Μωυσῇ·	Μωυσῇ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
