@@ -245,6 +245,7 @@
     ("had mercy on" 9)
     ("me" 10)
     ("and" 13)
+    ("[there]")
     ("is" 14)
     ("to me" 15)
     ("all." 16)

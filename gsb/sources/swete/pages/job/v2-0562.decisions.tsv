@@ -1,0 +1,25 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	562	1	"διάγων	“διάγων	διάγων	διάγων	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	562	2	ἐξέστησεν. +τ	ἐξέστησεν. +τ	ἐξέστησεν.	ἐξέστησεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	562	5	᾿έξαποστέλλων	᾿ϑέξαποστέλλων	ἐξαποστέλλων	ἐξαποστέλλων	image (3x): superscript verse number fused in OCR, not text; breathing as printed
+job	oldtestamenting02swet	562	7	"διαλλάσσων	"διαλλάσσων	διαλλάσσων	διαλλάσσων	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	562	11	Ξανακαλύπτων	Ξανακαλύπτων	ἀνακαλύπτων	ἀνακαλύπτων	image (3x): superscript verse number fused in OCR, not text; breathing as printed
+job	oldtestamenting02swet	562	11	σκύτους,.	σκύτους.	σκότους,	σκότους,	image (3x): omicron, not upsilon; acute as printed
+job	oldtestamenting02swet	562	13	καταστρωννύων	53 +κ αταστρωννύων	καταστρωννύων	καταστρωννύων	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	562	14	“διαλλάσσων	“διαλλάσσων	διαλλάσσων	διαλλάσσων	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	562	15	ἣ	ἣ	ᾗ	ᾗ	image (3x): rough breathing + circumflex with iota subscript
+job	oldtestamenting02swet	562	15	ἤδεισαν"	ἤδεισαν"	ᾔδεισαν·	ᾔδεισαν·	image (3x): smooth breathing + acute with iota subscript; ano teleia
+job	oldtestamenting02swet	562	16	σκύτος	σκύτος	σκότος	σκότος	image (3x): omicron, not upsilon; acute as printed
+job	oldtestamenting02swet	562	18	εἰδοὺ	"ἰδοὺ	ἰδοὺ	ἰδοὺ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	562	18	ἑόρακέν	ἑόρακέν	ἑόρακέν	ἑόρακέν	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	562	18	ὁ	ὃ	ὁ	ὁ	image (3x): rough breathing only, no accent
+job	oldtestamenting02swet	562	19	ἀκήκοέν	ἀκήκοέν	ἀκήκοέν	ἀκήκοέν	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	562	19	οὖς" +ΕῚ	οὖς" +Ε	οὖς·	οὖς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	562	21	ἀσυνετώτερός	ἀσυνετώτερός	ἀσυνετώτερός	ἀσυνετώτερός	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	562	22	ϑοὺ	ϑοὺ	οὐ	οὐ	image (3x): superscript verse number fused in OCR, not text; breathing as printed
+job	oldtestamenting02swet	562	24	δέ	δέ	δέ	δέ	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	562	26	5εἴη	5εἴη	εἴη	εἴη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	562	28	δακούσατε	δακούσατε	ἀκούσατε	ἀκούσατε	image (3x): superscript verse number fused in OCR, not text; breathing as printed
+job	oldtestamenting02swet	562	28	στύματός	στύματός	στόματός	στόματός	image (3x): omicron, not upsilon; acute as printed
+job	oldtestamenting02swet	562	23	-	-	αὐτοῦ	αὐτοῦ	ambiguous: alpha printed as a heavy ink blot (overinked type); read α
+job	oldtestamenting02swet	562	16	-	-	ψηλαφήσαισαν	ψηλαφήσαισαν	image: Swete editorial asterisk before verse number 25 left out (apparatus mark)

@@ -1,0 +1,41 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+prov	oldtestamenting02swet	479	1	πρροβαλλομένοις	προβαλλομένοις	προβαλλομένοις	προβαλλομένοις	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	479	2	γάρ	γάρ	γάρ	γάρ	image (3x): acute before enclitic
+prov	oldtestamenting02swet	479	3	ἀσθενῆ	αἀσθενὴ	ἀσθενῆ	ἀσθενῆ	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	479	4	3ὁ	36	ὁ	ὁ	image (3x): ὁ rough breathing; 23 is the verse superscript
+prov	oldtestamenting02swet	479	6	““μὴ	“"μὴ	μὴ	μὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	479	8	ϑμή	ϑμή	μή	μή	image (3x): acute before enclitic
+prov	oldtestamenting02swet	479	8	μάθῃς	μάθης	μάθῃς	μάθῃς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	479	9	μὴ"	ΞΟμὴ	ψυχῇ.	ψυχῇ.	image (3x): reading as on the page; OCR misaligned around short turned-over lines
+prov	oldtestamenting02swet	479	10	δίδ	δίδ	μὴ	μὴ	image (3x): reading as on the page; OCR misaligned around short turned-over lines
+prov	oldtestamenting02swet	479	10	εαυτὸν	αὐτὸν	δίδου	δίδου	image (3x): reading as on the page; OCR misaligned around short turned-over lines
+prov	oldtestamenting02swet	479	10	∅	∅	σεαυτὸν	σεαυτὸν	image (3x): reading as on the page; OCR misaligned around short turned-over lines
+prov	oldtestamenting02swet	479	10	πρόσωπον" +27	πρόσωπον"	πρόσωπον·	πρόσωπον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	479	12	πλευράς	πλευράς	πλευράς	πλευράς	image (3x): acute before enclitic
+prov	oldtestamenting02swet	479	12	σου.	σου. +ΞΘ	σου.	σου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	479	13	ἔ	ἔ	ἔθεντο	ἔθεντο	image (3x): reading as on the page; OCR misaligned around short turned-over lines
+prov	oldtestamenting02swet	479	13	έρες	έρες	πατέρες	πατέρες	image (3x): reading as on the page; OCR misaligned around short turned-over lines
+prov	oldtestamenting02swet	479	16	και	και	καὶ	καὶ	image (3x): reading as on the page; OCR misaligned around short turned-over lines
+prov	oldtestamenting02swet	479	16	παρέεσταναι	παρεέσταναι	παρεστάναι	παρεστάναι	image (3x): παρεστάναι, single acute on second alpha
+prov	oldtestamenting02swet	479	17	᾿έἐὰν	ἐὰν	ἐὰν	ἐὰν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	479	17	καθίσης	καθίσης	καθίσῃς	καθίσῃς	image (3x): iota subscript under eta
+prov	oldtestamenting02swet	479	18	παρατιθέμενά	παρατιθέμενά	παρατιθέμενά	παρατιθέμενά	image (3x): acute before enclitic
+prov	oldtestamenting02swet	479	18	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	479	18	χεῖρά	χεῖρά	χεῖρά	χεῖρά	image (3x): acute before enclitic
+prov	oldtestamenting02swet	479	19	∅	∅	σου,	σου,	image (3x): reading as on the page; OCR misaligned around short turned-over lines
+prov	oldtestamenting02swet	479	20	τοιαῦτά	τοιαῦτά	τοιαῦτά	τοιαῦτά	image (3x): acute before enclitic
+prov	oldtestamenting02swet	479	21	ἁπληστότερος	ἀπληστότερος	ἀπληστότερος	ἀπληστότερος	image (3x): smooth breathing on alpha
+prov	oldtestamenting02swet	479	21	Ξμὴ	"ἡμὴ	μὴ	μὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	479	21	αὐτοῦ"	αὐτοῦ"	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	479	22	Ψευδοῦς.	Ψευδοῦς.	ψευδοῦς.	ψευδοῦς.	image (3x): lowercase ψ
+prov	oldtestamenting02swet	479	23	ἐμὴ	ἡμὴ	μὴ	μὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	479	23	ὧν	ὧν	ὢν	ὢν	image (3x): smooth + grave (open two-part mark), ὢν participle
+prov	oldtestamenting02swet	479	25	βέὰν	ἐὰν	ἐὰν	ἐὰν	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	479	25	ἐπιστήσης	ἐπιστήσης	ἐπιστήσῃς	ἐπιστήσῃς	image (3x): iota subscript under eta
+prov	oldtestamenting02swet	479	25	πεσεῖται:	πεσεῖται:	πεσεῖται·	πεσεῖται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	479	29	αὐτοῦ"	αὐτοῦ"	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	479	30	ἃ +,ὔ ᾿ Ε ,ὔ , Τὃν	Τὸν	ὃν	ὃν	image (3x): rough + grave on omicron, ὃν; 7 is the verse superscript
+prov	oldtestamenting02swet	479	30	εἴ	εἴ	εἴ	εἴ	image (3x): acute before enclitic
+prov	oldtestamenting02swet	479	31	οὐυτωῶς	οὕτως	οὕτως	οὕτως	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	479	31	Και	καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	479	31	πσῖινει.	πίνει.	πίνει.	πίνει.	class R6 (OCR letters differ): the other OCR reading agrees with c

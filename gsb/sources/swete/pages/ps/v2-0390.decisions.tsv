@@ -1,0 +1,42 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	390	1	(ὁ) +Ἀλληλουιά.	(ὁ) +Αλληλουιά.	Ἁλληλουιά.	Ἁλληλουιά.	image (10x): rough breathing (reversed comma) on the capital; the parenthesized (9) before it is a Hebrew verse number, # comment only
+ps	oldtestamenting02swet	390	2	Ἐν	Ἐν	Ἐν	Ἐν	image (3x): smooth breathing on the capital
+ps	oldtestamenting02swet	390	2	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+ps	oldtestamenting02swet	390	2	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	image (3x): Αἰ with smooth breathing on iota, no breathing on the capital
+ps	oldtestamenting02swet	390	3	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	Ἰακὼβ	image (3x): smooth breathing on the capital
+ps	oldtestamenting02swet	390	4	ἐγενηθη	ἐγενηθη	ἐγενήθη	ἐγενήθη	image (3x): accents and breathings as in reading C
+ps	oldtestamenting02swet	390	4	Ἰουδαία	Ἰουδαία	Ἰουδαία	Ἰουδαία	image (3x): smooth breathing on the capital
+ps	oldtestamenting02swet	390	5	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+ps	oldtestamenting02swet	390	6	3ὴ	3ὴ	ἡ	ἡ	image (3x): rough breathing + acute on ἡ
+ps	oldtestamenting02swet	390	6	καὶ	καὶ +ν	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	390	6	ἔφυγεν, +:	ἔφυγεν, +Ϊ	ἔφυγεν,	ἔφυγεν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	390	7	Ἰορδάνης	Ἰορδάνης	Ἰορδάνης	Ἰορδάνης	image (3x): smooth breathing on the capital
+ps	oldtestamenting02swet	390	7	ὀπίσω:	ὀπίσω:	ὀπίσω·	ὀπίσω·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	390	8	τὰ	“τὰ	τὰ	τὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	390	10	ὅτί	ὅτί	τί	τί	image (3x): τί with acute before enclitic ἐστιν
+ps	oldtestamenting02swet	390	11	και	και	καὶ	καὶ	image (3x): accents and breathings as in reading C
+ps	oldtestamenting02swet	390	11	συ,	συ,	σύ,	σύ,	image (3x): acute on σύ (followed by comma)
+ps	oldtestamenting02swet	390	11	Ιορδάνη,	Ιορδάνη,	Ἰορδάνη,	Ἰορδάνη,	image (3x): smooth breathing on the capital
+ps	oldtestamenting02swet	390	11	οτι	οτι	ὅτι	ὅτι	image (3x): accents and breathings as in reading C
+ps	oldtestamenting02swet	390	11	ανεχωρήῆσας	ανεχωρήησας	ἀνεχώρησας	ἀνεχώρησας	image (3x): accents and breathings as in reading C
+ps	oldtestamenting02swet	390	11	εις	εἰς	εἰς	εἰς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	390	11	Τὰ	τὰ	τὰ	τὰ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	390	11	οπισω:ς	Ὀπίσω:	ὀπίσω;	ὀπίσω;	image (3x): question mark after the word, as in reading C
+ps	oldtestamenting02swet	390	12	ΓΡΑΣΝ	Τα	τὰ	τὰ	image (3x): τὰ ὄρη, (smooth breathing + acute on ὄρη)
+ps	oldtestamenting02swet	390	12	τως	Ορὴ»:	ὄρη,	ὄρη,	image (3x): τὰ ὄρη, (smooth breathing + acute on ὄρη)
+ps	oldtestamenting02swet	390	12	2 +“ «ς ΄ Τὰ Ορὴ; εσκιρτήησατε	εσκιρτησατε	ἐσκιρτήσατε	ἐσκιρτήσατε	image (3x): accents and breathings as in reading C
+ps	oldtestamenting02swet	390	12	Κριοι;	Κριοι;	κριοί;	κριοί;	image (3x): question mark after the word, as in reading C
+ps	oldtestamenting02swet	390	13	αττὸ	αττὸ	ἀπὸ	ἀπὸ	image (3x): accents and breathings as in reading C
+ps	oldtestamenting02swet	390	13	εσαλευσὴ	εσαλευσὴ	ἐσαλεύθη	ἐσαλεύθη	image (3x): accents and breathings as in reading C
+ps	oldtestamenting02swet	390	13	ἢ	ἢ	ἡ	ἡ	image (3x): rough breathing + acute on ἡ
+ps	oldtestamenting02swet	390	13	γὴ»:	γὴ:	γῆ,	γῆ,	image (3x): γῆ with circumflex, followed by comma
+ps	oldtestamenting02swet	390	14	Ἰακώβ, +8	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing on the capital
+ps	oldtestamenting02swet	390	16	ὑδάτων. +9	ὑδάτων. +9	ὑδάτων.	ὑδάτων.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	390	17	ἡμίν	ημῖν	ἡμῖν	ἡμῖν	image (3x): rough breathing and circumflex on ἡμῖν
+ps	oldtestamenting02swet	390	18	ὀνόματί	ὀνόματί	ὀνόματί	ὀνόματί	image (3x): acute on ὀνόματί before enclitic σου
+ps	oldtestamenting02swet	390	18	δύξαν	δύξαν	δόξαν	δόξαν	image (3x): accents and breathings as in reading C
+ps	oldtestamenting02swet	390	19	τῷ	τῴ	τῷ	τῷ	image (3x): circumflex and iota subscript on τῷ
+ps	oldtestamenting02swet	390	20	μή	Ἰομή	μή	μή	image (3x): μή with acute before enclitic ποτε
+ps	oldtestamenting02swet	390	22	ἄνω +ἔ	ἄνω +Η	ἄνω·	ἄνω·	image (3x): ἄνω followed by ano teleia
+ps	oldtestamenting02swet	390	24	ηβούλετο	ηβούλετο	ἠβούλετο	ἠβούλετο	image (3x): accents and breathings as in reading C
+ps	oldtestamenting02swet	390	26	ἔργα	εργα	ἔργα	ἔργα	class R7 (OCR dropped diacritics): the other OCR reading agrees with c

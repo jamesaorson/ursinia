@@ -1,0 +1,33 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	591	1	ἢ	ὅ᾽η	ἡ	ἡ	image (3x): verse superscript read as junk; word as printed
+job	oldtestamenting02swet	591	1	εὑρέθη; +Ῥ	εὑρέθη; +Β	εὑρέθη;	εὑρέθη;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	591	6	Ακηκόαμεν	Ἀκηκόαμεν	Ἀκηκόαμεν	Ἀκηκόαμεν	image (3x): smooth breathing on the capital
+job	oldtestamenting02swet	591	10	“5ἐποίησεν,	“ἐποίησεν,	ἐποίησεν,	ἐποίησεν,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	591	11	“ὅτε	“ὅτε	ὅτε	ὅτε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	591	11	ἐποίησεν"	ἐποίησεν"	ἐποίησεν·	ἐποίησεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	591	14	εἰδεν	εἰδεν	εἶδεν	εἶδεν	image (3x): circumflex on ει
+job	oldtestamenting02swet	591	15	ἐξιχνίασεν"	ἐξιχνίασεν"	ἐξιχνίασεν·	ἐξιχνίασεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	591	16	ἔδείπεν	ἔδείπεν	εἶπεν	εἶπεν	image (3x): verse superscript read as junk; word as printed
+job	oldtestamenting02swet	591	16	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on the capital
+job	oldtestamenting02swet	591	16	θεοσέβειά	θεοσέβειά	θεοσέβειά	θεοσέβειά	image (3x): acute before the enclitic
+job	oldtestamenting02swet	591	16	σοφία.	σοφία.	σοφία,	σοφία,	image (3x): comma, not period
+job	oldtestamenting02swet	591	17	ΤΟ	τὸ	τὸ	τὸ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	591	17	ΑἼἸΤῸ	ἀπὸ	ἀπὸ	ἀπὸ	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	591	17	Κακῶὼῶν	κακῶν	κακῶν	κακῶν	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	591	17	εστιν	ἐστὶν	ἐστὶν	ἐστὶν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	591	17	εἐπιστημηῆη.	ἐπιστήμη.	ἐπιστήμη.	ἐπιστήμη.	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	591	18	“Ἔτι	Ἔτι	Ἔτι	Ἔτι	image (3x): smooth breathing + acute on capital E (apostrophe then rising stroke)
+job	oldtestamenting02swet	591	18	προσθεὶς	προσθεὶς	προσθεὶς	προσθεὶς	image (3x): grave on προσθεὶς before the capitalized name (not a quotation)
+job	oldtestamenting02swet	591	18	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing on the capital
+job	oldtestamenting02swet	591	19	“Τίς	ίς	Τίς	Τίς	image (3x): verse superscript read as junk; word as printed
+job	oldtestamenting02swet	591	19	ἄν	ἄν	ἄν	ἄν	image (3x): acute before the enclitic
+job	oldtestamenting02swet	591	21	ϑὼς	ϑῶς	ὡς	ὡς	image (3x): verse superscript read as junk; word as printed
+job	oldtestamenting02swet	591	22	σκότει	σκότει	σκότει·	σκότει·	image (3x): ano teleia printed
+job	oldtestamenting02swet	591	24	μου.	μου᾽	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	591	25	ὅτε	δὅτε	ὅτε	ὅτε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	591	25	δέ	δέ	δέ	δέ	image (3x): acute before the enclitic
+job	oldtestamenting02swet	591	25	παῖδες	παῖδες"	παῖδες·	παῖδες·	image (3x): ano teleia printed
+job	oldtestamenting02swet	591	26	ΟΤΕε	ὅτε	ὅτε	ὅτε	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	591	26	ὁδοί	ὁδοί	ὁδοί	ὁδοί	image (3x): acute before the enclitic
+job	oldtestamenting02swet	591	26	μου	βουτύ	μου	μου	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	591	26	βουτύρῳ,	∅	βουτύρῳ,	βουτύρῳ,	class R0: OCR lost the word in extraction; c read from the image strip

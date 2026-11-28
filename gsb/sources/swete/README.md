@@ -225,6 +225,42 @@ leaf numbers here; the images and OCR layers stay out of the repo
   printed line (`# margin: XIV (XV)`, `# margin: (X) (1) 22`,
   `# in-text: (11) before ἡ βοήθειά`) for a later conversion to English
   anchors (`ursinia-vff.10`).
+- **Proverbs** (leaves v2 436-499) is set wholly as verse lines with the
+  Psalms depth markers (`{S}`, `{S1}`, `{S2}`; no `{T}`, no `{P}`); some
+  numbered verses stand at the `{S1}` depth. Its extra couplets are Swete's
+  own lettered verses (`{8a}`; at 6:8c the superscript prints only `8`).
+  Parenthesized numbers are ordinary `{=c:v}` markers with a `# margin:` /
+  `# in-text:` comment; the chapter is the parenthesized Roman numeral
+  printed with or before them. In the last third Swete keeps his own running
+  numbers (his 24 runs to 77, his 29 to 49) with the Hebrew in parentheses:
+  his 24:24-37 = 30:1-14, 24:38-49 = 24:23-34, 24:50-68 = 30:15-33,
+  24:69-77 = 31:1-9, chapters 25-29 as numbered, 29:28-49 = 31:10-31 (31:26
+  before 31:25, as printed). Earlier parenthesized stretches: 15:30-16:9
+  (leaf 466), 19:3-29 and 20:10-30 (leaves 472-475), in-text 17:19-20 (leaf
+  470: also Swete's own 19-20, so `{=17:19a}`/`{=17:19b}`, letters ours),
+  22:18 and 23:8 in the text. Hebrew = English in Proverbs, so there are no
+  `versification.tsv` rows.
+- **Ecclesiastes and Song of Songs** (leaves v2 500-538) are set wholly as
+  verse lines with the Psalms depth markers (`{S}`, `{S1}`, `{S2}`; no `{T}`).
+  Unlike Psalms, their parenthesized numbers are ordinary `{=c:v}` markers
+  (with a `# margin:` / `# in-text:` comment above the line), converted by
+  `versification.tsv`. *Ecclesiastes*: Swete's own 4:17 and 5:1-19 are the
+  Hebrew numbers, printed without parentheses (English 5:1, 5:2-20). From
+  Swete 7:1 to 7:30 his own numbers run one ahead of the Hebrew/English ones,
+  printed in parentheses (`VII 1` = end of 6:11, `(VI) (12)`, `(VII) (1) 2`
+  ... `30 (29)`, `(1) (VIII)` before his VIII 1); further in-text numbers at
+  1:17 (`(17)`, leaf 502), 8:3, 9:1-2 and 12:10 (`¹⁰πολλὰ ⁽¹⁰⁾ἐζήτησεν`):
+  words before an in-text number run on with the previous common verse. At
+  7:24 (leaf 515) the in-text number prints `(25)` with the margin `(24)` on
+  the same line and `(25)` beside his 26: a misprint for `(24)`, encoded
+  `{=7:24}` with a comment and a flag row. *Song*: in-text `(14)` at 2:14;
+  his 5:1 begins inside common 4:16 (in-text `(1)` before Εἰσῆλθον); his
+  5:17 is `(1) (VI)`, his chapter 6 runs one behind (`1 (2) VI` ... `11 (12)`),
+  his 6:12 is `(VII) (1)` (Hebrew 7:1 = English 6:13; his `VII 1` Τί ὄψεσθε
+  continues it), in-text `(2)` before Ὡραιώθησαν, then `2 (3)` ... `13 (14)`
+  (Hebrew 7:2-14 = English 7:1-13). So the tables have Ecclesiastes 4 with 16
+  and 5 with 20 verses and Song 6 with 13 and 7 with 13, all chapters equal to
+  the English count.
 - **Editorial marks** in the text, such as Swete's asterisk at Gen 37:1 tied to
   a note, are apparatus and are left out.
 - **Daniel** is printed twice: the Old Greek (Chigi MS 87, `ΔΑΝΙΗΛ ΚΑΤΑ ΤΟΥΣ Ο'`)

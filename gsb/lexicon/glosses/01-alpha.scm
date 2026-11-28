@@ -35,7 +35,8 @@
 
 (lemma "Ἁγγείς" (sense name (gloss "Haggi") (why "(LXX, supplied.) A son of Gad (Genesis 46:16), Greek Ἁγγείς; traditional English Haggi.")))
 
-(lemma "ἄγγελος" (sense angel (person) (gloss "angel" "angels") (why "Messenger, angel (Matthew 1:20; Hebrews 1:4-7). Genesis 6:2 in Swete reads οἱ ἄγγελοι τοῦ θεοῦ, \"the angels of God\", where 6:4 has οἱ υἱοὶ τοῦ θεοῦ and the Hebrew has \"sons of God\" in both; we translate the Greek. A human messenger (Luke 7:24) may become its own sense.")))
+(lemma "ἄγγελος" (sense angel (person) (gloss "angel" "angels") (why "Messenger, angel (Matthew 1:20; Hebrews 1:4-7). Genesis 6:2 in Swete reads οἱ ἄγγελοι τοῦ θεοῦ, \"the angels of God\", where 6:4 has οἱ υἱοὶ τοῦ θεοῦ and the Hebrew has \"sons of God\" in both; we translate the Greek. A human messenger (Luke 7:24) may become its own sense."))
+  (sense messenger (person) (gloss "messenger" "messengers") (why "A human messenger: the men Jacob sends to Esau (Genesis 32:3, 6, ἀπέστειλεν δὲ Ἰακὼβ ἀγγέλους; Luke 7:24, 9:52; James 2:25). \"Angels\" there would say Jacob sent heavenly beings. Chosen by override where the sender and the story make them men; 32:1 οἱ ἄγγελοι τοῦ θεοῦ stays \"angels\".")))
 
 (lemma "ἁγιάζω"
   (sense sanctify

@@ -1,0 +1,23 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+prov	oldtestamenting02swet	492	3	βαρὺ	βϑβαρὺ	βαρὺ	βαρὺ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	492	4	ἀφρονος	ἄφρονος	ἄφρονος	ἄφρονος	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	492	4	ἀμφοτέρων.	ἀμφοτέρων. +ΠῚ	ἀμφοτέρων.	ἀμφοτέρων.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	492	5	ἀνελεήμων	ἀνελεήμων +0	ἀνελεήμων	ἀνελεήμων	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	492	6	ζῆλος. +5	ζῆλος.	ζῆλος.	ζῆλος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	492	8	δἀξιοπιστότερά	δἀξιοπιστότερά	ἀξιοπιστότερά	ἀξιοπιστότερά	image (3x): acute on ultima before enclitic ἐστιν; δ is the margin/superscript 6
+prov	oldtestamenting02swet	492	12	δὥσπερ	ὠσπερ	ὥσπερ	ὥσπερ	image (3x): ὥσπερ rough+acute on ω
+prov	oldtestamenting02swet	492	12	ὅταν	οταν	ὅταν	ὅταν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	492	12	ὄρνεον	ορνέον	ὄρνεον	ὄρνεον	image (3x): ὄρνεον smooth+acute on ο
+prov	oldtestamenting02swet	492	12	καταπετασθῇ	Καταπετασσῇ	καταπετασθῇ	καταπετασθῇ	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	492	12	ἐκ	εκ	ἐκ	ἐκ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	492	12	νοσσιᾶς,	νοσσίιας,	νοσσιᾶς,	νοσσιᾶς,	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	492	16	Ψυχή.	Ψυχή.	ψυχή.	ψυχή.	image (3x): lowercase ψ with acute
+prov	oldtestamenting02swet	492	18	ατυχῶν-	ἀτυχῶν"	ἀτυχῶν·	ἀτυχῶν·	image (3x): raised point = ano teleia; accents/breathing as written
+prov	oldtestamenting02swet	492	20	ἸΣοφὸς	Σοφὸς	Σοφὸς	Σοφὸς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	492	21	λόγους. +τς	λόγους. +ἱς	λόγους.	λόγους.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	492	24	᾿ϑάφελοῦ	᾿τϑβφελοῦ	ἀφελοῦ	ἀφελοῦ	image (3x): ἀφελοῦ, smooth+acute on α; OCR junk is the superscript 13
+prov	oldtestamenting02swet	492	24	γαρ᾽	γάρ᾽	γάρ·	γάρ·	image (3x): raised point = ano teleia; accents/breathing as written
+prov	oldtestamenting02swet	492	26	δὸς	ὃς	ὃς	ὃς	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	492	28	σταγόνες	Ἰόσταγόνες	σταγόνες	σταγόνες	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	492	28	χειμερινῇ	χειμερινῆῇ	χειμερινῇ	χειμερινῇ	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	492	29	οἰκου"	οἰκου"	οἴκου·	οἴκου·	image (3x): raised point = ano teleia; accents/breathing as written

@@ -1,0 +1,35 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	317	3	τα-	τα-	τά-	τά-	image (3x): acute on τά- before hyphen
+ps	oldtestamenting02swet	317	4	∅	∅	φοις.	φοις.	image (strip): turned-over φοις. the OCR missed
+ps	oldtestamenting02swet	317	5	τῷ	τῳ	τῷ	τῷ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	317	5	ἐκπορεύεσθαί	ἐκπορεύεσθαί	ἐκπορεύεσθαί	ἐκπορεύεσθαί	image (3x): acute before enclitic, as printed
+ps	oldtestamenting02swet	317	6	ἐν	εν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	317	6	διάψαλμα.	διάψαλμα. +9	διάψαλμα.	διάψαλμα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	317	7	ϑγῆ	γῆ	γῆ	γῆ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	317	9	θεοῦ +ὃ	θεοῦ	θεοῦ	θεοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	317	9	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on Ἰ
+ps	oldtestamenting02swet	317	10	“βροχὴν	“βροχὴν	βροχὴν	βροχὴν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	317	10	σου᾽	σου᾽	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	317	11	αὐτὴν.	αὐτήν.	αὐτήν.	αὐτήν.	image (3x): acute on αὐτήν
+ps	oldtestamenting02swet	317	12	"τὰ	"τὰ	τὰ	τὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	317	12	ζῶα	ζῶά	ζῷά	ζῶά	image (3x): circumflex on ω and acute on α, no iota subscript: ζῶά
+ps	oldtestamenting02swet	317	13	χρηστότητί	χρηστότητί	χρηστότητί	χρηστότητί	image (3x): acute before enclitic, as printed
+ps	oldtestamenting02swet	317	14	"ὁ	"ὁ	ὁ	ὁ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	317	14	(τκύριος	(κύριος	κύριος	κύριος	image (3x): (12) is a Hebrew verse number, recorded as # in-text comment
+ps	oldtestamenting02swet	317	20	διάψαλμα.	διάψαλμα +᾽5	διάψαλμα.	διάψαλμα.	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	317	21	"δὲν	ἐν	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	317	23	δόρος	ὄρος	ὄρος	ὄρος	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	317	26	αὐτῷ:	αὐτῷ"	αὐτῷ·	αὐτῷ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	317	28	μυριοπλάσιον,	ιοπλάσιον +Ἶ	μυριοπλάσιον,	μυριοπλάσιον,	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	317	29	εὐθηνούντῶΩν᾽	εὐθηνούντῶΩν':	εὐθηνούντων·	εὐθηνούντων·	image (3x): εὐθηνούντων with ano teleia
+ps	oldtestamenting02swet	317	30	Ὁ	[	ὁ	ὁ	image (3x): lowercase ὁ with rough breathing
+ps	oldtestamenting02swet	317	30	κυριος	κυριος	κύριος	κύριος	image (3x): acute on υ
+ps	oldtestamenting02swet	317	30	ἐν	εν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	317	30	αὑτοῖς	αὐυτοις	αὐτοῖς	αὐτοῖς	image (3x): smooth breathing, circumflex on ῖ: αὐτοῖς
+ps	oldtestamenting02swet	317	30	ἐν	εν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	317	30	Σινᾶ,	Σινα,	Σινά,	Σινά,	image (3x): acute on α: Σινά
+ps	oldtestamenting02swet	317	30	ἐν	εν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	317	30	τῳ	Τῷ	τῷ	τῷ	image (3x): circumflex and iota subscript: τῷ
+ps	oldtestamenting02swet	317	30	ἁγίῳ.	αγιῳ.	ἁγίῳ.	ἁγίῳ.	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	317	31	"ἀναβὰς	"ἀναβὰς	ἀναβὰς	ἀναβὰς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	317	31	ἠχμαλώτευσας	ἠχμαλώτευσας	ᾐχμαλώτευσας	ᾐχμαλώτευσας	image (3x): smooth breathing, iota subscript under η: ᾐχμαλώτευσας

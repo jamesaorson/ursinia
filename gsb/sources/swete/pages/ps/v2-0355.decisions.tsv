@@ -1,0 +1,25 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	355	1	ἹΙροσευχὴ	ἹΙροσευχὴ	Προσευχὴ	Προσευχὴ	image (3x): capital Π, OCR doubled the stroke
+ps	oldtestamenting02swet	355	1	ΔΜίωυσῆ	ΔΙωυσῆ	Μωυσῆ	Μωυσῆ	image (3x): capital Μ, OCR split it
+ps	oldtestamenting02swet	355	1	θεού.	θεοῦ.	θεοῦ.	θεοῦ.	image (3x): circumflex on υ
+ps	oldtestamenting02swet	355	2	γενεᾷ:	γενεᾷ:	γενεᾷ·	γενεᾷ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	355	3	πρὸ	“πρὸ	πρὸ	πρὸ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	355	5	ἕως	ἔως	ἕως	ἕως	image (3x): rough breathing + acute (open curl then stroke)
+ps	oldtestamenting02swet	355	5	εἰ.	εἰ.	εἶ.	εἶ.	image (3x): breathing-circumflex group over ι: εἶ
+ps	oldtestamenting02swet	355	6	βμὴ	βμὴ	μὴ	μὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	355	6	ἀποστρέψης	ἀποστρέψης	ἀποστρέψῃς	ἀποστρέψῃς	image (3x): iota subscript under η
+ps	oldtestamenting02swet	355	7	εἶπας +)	εἶπας	εἶπας	εἶπας	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	355	7	Ἐπιστρέψατε	Ἐπιστρέψατε	Ἐπιστρέψατε	Ἐπιστρέψατε	image (3x): smooth breathing (apostrophe shape)
+ps	oldtestamenting02swet	355	7	υἱοὶ +Ὁ	υἱοὶ	υἱοὶ	υἱοὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	355	8	“ὅτι	ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	355	11	παρέλθοι"	παρέλθοι:	παρέλθοι·	παρέλθοι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	355	12	ἀνθῆσαι	ἀνθῆσαι	ἀνθήσαι	ἀνθήσαι	image (3x): acute on η, not circumflex
+ps	oldtestamenting02swet	355	13	ἑσπέρας	εσπέρας	ἑσπέρας	ἑσπέρας	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	355	13	ἀποπέσοι,	ἀπόπεέσοι,	ἀποπέσοι,	ἀποπέσοι,	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	355	14	ὅτι	7ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	355	15	ἐταράχθημεν"	ἐταράχθημεν"	ἐταράχθημεν·	ἐταράχθημεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	355	16	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	image (3x): acute on ό before enclitic σου
+ps	oldtestamenting02swet	355	19	ἐξελίπομεν"	ἐξελίπομεν:	ἐξελίπομεν·	ἐξελίπομεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	355	20	ἐτὴ	ἔτη	ἔτη	ἔτη	image (3x): smooth + acute on ε, no accent on η
+ps	oldtestamenting02swet	355	23	πόνος"	πόνος"	πόνος·	πόνος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	355	5	-	-	καὶ	καὶ	ambiguous: broken type, α prints as a faint fragment (κ ι); read καὶ

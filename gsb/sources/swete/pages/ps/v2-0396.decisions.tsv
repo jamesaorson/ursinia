@@ -1,0 +1,42 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	396	1	δὄφελον	δὄφελον	ὄφελον	ὄφελον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	396	1	ὅδοί	ὁδοί	ὁδοί	ὁδοί	image (3x): acute before the enclitic as typed; OCR junk/superscript ignored
+ps	oldtestamenting02swet	396	2	δικαιώματά	δικαιώματά	δικαιώματά	δικαιώματά	image (3x): acute before the enclitic as typed; OCR junk/superscript ignored
+ps	oldtestamenting02swet	396	2	σου"	σου"	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	396	4	ἐντολάς	ἐντολάς	ἐντολάς	ἐντολάς	image (3x): acute before the enclitic as typed; OCR junk/superscript ignored
+ps	oldtestamenting02swet	396	5	"ἐξομολογήσομαί	"ἐξομολογήσομαί	ἐξομολογήσομαί	ἐξομολογήσομαί	image (3x): acute before the enclitic as typed; OCR junk/superscript ignored
+ps	oldtestamenting02swet	396	7	ὅτὰ	ὅτὰ	τὰ	τὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	396	7	δικαιώματά	δικαιώματά	δικαιώματά	δικαιώματά	image (3x): acute before the enclitic as typed; OCR junk/superscript ignored
+ps	oldtestamenting02swet	396	8	μή	μή	μή	μή	image (3x): acute before the enclitic as typed; OCR junk/superscript ignored
+ps	oldtestamenting02swet	396	8	σφύδρα.	σφύδρα.	σφόδρα.	σφόδρα.	image (3x): σφόδρα, ο not υ
+ps	oldtestamenting02swet	396	9	Ἐν	Ἐν	Ἐν	Ἐν	image (3x): smooth breathing on Ἐν (apostrophe shape)
+ps	oldtestamenting02swet	396	11	ἴον	Ἰοὲν	ἐν	ἐν	image (3x): ἐν after superscript verse number
+ps	oldtestamenting02swet	396	11	ἐξεζήτησά	ἐξεζήτησά	ἐξεζήτησά	ἐξεζήτησά	image (3x): acute before the enclitic as typed; OCR junk/superscript ignored
+ps	oldtestamenting02swet	396	13	λόγιά	λόγιά	λόγιά	λόγιά	image (3x): acute before the enclitic as typed; OCR junk/superscript ignored
+ps	oldtestamenting02swet	396	14	σοι. +Ξ̓	σοι. +Ξ̓	σοι.	σοι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	396	15	Κύριε,	Κύριε, +ΐ	Κύριε,	Κύριε,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	396	16	δίδαξόν	δίδαξόν	δίδαξόν	δίδαξόν	image (3x): acute before the enclitic as typed; OCR junk/superscript ignored
+ps	oldtestamenting02swet	396	16	δικαιώματά	δικαιώματά	δικαιώματά	δικαιώματά	image (3x): acute before the enclitic as typed; OCR junk/superscript ignored
+ps	oldtestamenting02swet	396	17	᾽3ἐν	᾽3ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	396	17	χείλεσίν	χείλεσίν	χείλεσίν	χείλεσίν	image (3x): acute before the enclitic as typed; OCR junk/superscript ignored
+ps	oldtestamenting02swet	396	18	στόματός	στόματός	στόματός	στόματός	image (3x): acute before the enclitic as typed; OCR junk/superscript ignored
+ps	oldtestamenting02swet	396	18	σου"	σου" +14	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	396	19	δὲν	ἐν	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	396	21	"δέν	"δέν	ἐν	ἐν	image (3x): ἐν after superscript verse number
+ps	oldtestamenting02swet	396	22	ὁδούς	ὁδούς	ὁδούς	ὁδούς	image (3x): acute before the enclitic as typed; OCR junk/superscript ignored
+ps	oldtestamenting02swet	396	22	σου:	σου":	σου·	σου·	image (3x): ano teleia after σου
+ps	oldtestamenting02swet	396	23	δὲν	δὲν	ἐν	ἐν	image (3x): ἐν after superscript verse number
+ps	oldtestamenting02swet	396	23	δικαιώμασίν	δικαιώμασίν	δικαιώμασίν	δικαιώμασίν	image (3x): acute before the enclitic as typed; OCR junk/superscript ignored
+ps	oldtestamenting02swet	396	25	"᾽Ανταπόδος	Τ᾽ +Ανταπόδος	Ἀνταπόδος	Ἀνταπόδος	image (3x): smooth breathing on Ἀνταπόδος
+ps	oldtestamenting02swet	396	25	σου"	σου"	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	396	26	σου.	σου. +18	σου.	σου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	396	27	18 +ἡποκάλυψον	ἀποκάλυψον	ἀποκάλυψον	ἀποκάλυψον	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	396	27	ὀφθαλμοὺς	ὀφθαλμοὺς	ὀφθαλμούς	ὀφθαλμούς	image (3x): acute on ὀφθαλμούς before μου
+ps	oldtestamenting02swet	396	28	θαυμάσιά	θαυμάσιά	θαυμάσιά	θαυμάσιά	image (3x): acute before the enclitic as typed; OCR junk/superscript ignored
+ps	oldtestamenting02swet	396	29	᾿ϑπάροικός	ϑπάροικός	πάροικός	πάροικός	image (3x): acute before the enclitic as typed; OCR junk/superscript ignored
+ps	oldtestamenting02swet	396	29	εἰμι	εἶμι	εἰμι	εἰμι	image (3x): εἰμι smooth breathing, no accent
+ps	oldtestamenting02swet	396	29	γῇ:	γῆ:	γῇ,	γῇ,	image (3x): γῇ with iota subscript, then comma
+ps	oldtestamenting02swet	396	30	ἀπ᾽ +»	ἀπ᾽	ἀπ᾽	ἀπ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	396	30	ἐντολάς	ἐντολάς	ἐντολάς	ἐντολάς	image (3x): acute before the enclitic as typed; OCR junk/superscript ignored
+ps	oldtestamenting02swet	396	31	ἐπεπόθησεν	Ξοἐπεπόθησεν	ἐπεπόθησεν	ἐπεπόθησεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	396	31	Ψυχή	Ψυχή	ψυχή	ψυχή	image (3x): acute before the enclitic as typed; OCR junk/superscript ignored

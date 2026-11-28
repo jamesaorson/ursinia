@@ -1,0 +1,31 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+prov	oldtestamenting02swet	480	1	αὐτὸν +(Ῥ)	αὐτὸν +(δ)	αὐτὸν	αὐτὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	480	1	ψωμόν	ψωμόν	ψωμόν	ψωμόν	image (3x): acute before enclitic
+prov	oldtestamenting02swet	480	2	αὐτοῦ"	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	480	3	καὶ	Και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	480	3	τοὺς	τους	τοὺς	τοὺς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	480	3	τοὺς +8	τους +8	τοὺς	τοὺς	image (3x): τοὺς; the 8 after it is the margin verse number touching the text, not text
+prov	oldtestamenting02swet	480	6	μὴ	μὴ	μή	μή	image (3x): acute before enclitic
+prov	oldtestamenting02swet	480	7	μεταθῆς	μεταθῆς	μεταθῇς	μεταθῇς	image (3x): iota subscript under eta
+prov	oldtestamenting02swet	480	8	εἰσέλθῃς"	εἰσέλθῃς"	εἰσέλθῃς·	εἰσέλθῃς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	480	9	γὰρ +λ	γὰρ +λ	γὰρ	γὰρ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	480	9	αὑτοὺς	αὐτοὺς	αὐτοὺς	αὐτοὺς	image (3x): smooth breathing on υ; grave before Κύριος (not a quotation)
+prov	oldtestamenting02swet	480	9	Κύριος"	Κύριος"	Κύριος·	Κύριος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	480	10	κραταιός	κραταιός	κραταιός	κραταιός	image (3x): acute before enclitic
+prov	oldtestamenting02swet	480	10	σοῦ. +το	σοῦ.	σοῦ.	σοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	480	11	δὸς	“δὸς	δὸς	δὸς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	480	12	ὦτά	ὦτά	ὦτά	ὦτά	image (3x): acute before enclitic
+prov	oldtestamenting02swet	480	13	᾿ϑμὴ	᾿βμὴ	μὴ	μὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	480	14	πατάξης	πατάξῃς	πατάξῃς	πατάξῃς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	480	14	ἀποθάνῃ +Ξ	ἀποθάνῃ"	ἀποθάνῃ·	ἀποθάνῃ·	image (3x): ano teleia after ἀποθάνῃ
+prov	oldtestamenting02swet	480	16	ῥύσῃ. +ΤΡ	ῥύσῃ.	ῥύσῃ.	ῥύσῃ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	480	17	γένηταί	γένηταί	γένηταί	γένηταί	image (3x): acute before enclitic
+prov	oldtestamenting02swet	480	18	καρδίαν, +16	καρδίαν, +16	καρδίαν,	καρδίαν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	480	22	ἡμέραν.	ἡμέραν. +18	ἡμέραν.	ἡμέραν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	480	24	ἐλπίς	ἐλπίς	ἐλπίς	ἐλπίς	image (3x): acute before enclitic
+prov	oldtestamenting02swet	480	26	καρδίας. +ο	καρδίας.	καρδίας.	καρδίας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	480	27	ἀγορασμοῖς" +᾿ Ἰ	ἀγορασμοῖς" +Ἰ	ἀγορασμοῖς·	ἀγορασμοῖς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	480	29	ἐνδύσεται	ἐνδύσεται +ὃ	ἐνδύσεται	ἐνδύσεται	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	480	30	“ἄκουε,	“ἄκουε,	ἄκουε,	ἄκουε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	480	30	γεννήῆσαντός	γεννήσαντός	γεννήσαντός	γεννήσαντός	image (3x): acute before enclitic
+prov	oldtestamenting02swet	480	31	γεγήρακέν	γεγήρακέν	γεγήρακέν	γεγήρακέν	image (3x): acute before enclitic

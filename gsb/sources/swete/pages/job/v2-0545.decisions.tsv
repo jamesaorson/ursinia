@@ -1,0 +1,32 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	545	1	ἡ	ἣ	ἣ	ᾗ	image (3x): rough breathing + circumflex with iota subscript (ῃ visible below)
+job	oldtestamenting02swet	545	1	εἶπαν +Ἰὃ	εἶπαν	εἶπαν	εἶπαν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	545	1	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on Ι
+job	oldtestamenting02swet	545	3	ἀναζητήσαι	ἀναζητῆσαι	ἀναζητήσαι	ἀναζητήσαι	image (3x): acute on η, not circumflex
+job	oldtestamenting02swet	545	4	φέγγος:	φέγγος"	φέγγος·	φέγγος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	545	5	5ἐκλάβοι	5Βἐκλάβοι	ἐκλάβοι	ἐκλάβοι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	545	7	ἡ +ς	ἡ	ἡ	ἡ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	545	7	6 +“καὶ	“καὶ	καὶ	καὶ	image (3x): superscript verse number, not text
+job	oldtestamenting02swet	545	8	σκότος"	σκότος"	σκότος·	σκότος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	545	10	μηνῶν. +Τ	μηνῶν.	μηνῶν.	μηνῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	545	11	ἀλλὰ	Τἀλλὰ	ἀλλὰ	ἀλλὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	545	12	μὴ +«,	μὴ	μὴ	μὴ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	545	12	χαρμονή:"	χαρμονή:"	χαρμονή·	χαρμονή·	image (3x): ano teleia
+job	oldtestamenting02swet	545	13	δἀλλὰ	δάλλὰ	ἀλλὰ	ἀλλὰ	image (3x): superscript verse number, not text
+job	oldtestamenting02swet	545	13	ὃ	ὁ	ὁ	ὁ	image (3x): rough breathing only, no accent
+job	oldtestamenting02swet	545	14	ὃ	ὃ	ὁ	ὁ	image (3x): rough breathing only, no accent
+job	oldtestamenting02swet	545	15	ϑσκοτωθείη	ϑσκοτωθείη	σκοτωθείη	σκοτωθείη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	545	15	ἐκείνης"	ἐκείνης"	ἐκείνης·	ἐκείνης·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	545	17	ἀνατέλλοντα. +1το	ἀνατέλλοντα. +το	ἀνατέλλοντα.	ἀνατέλλοντα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	545	18	μητρὸς	μητρὸς	μητρός	μητρός	image (3x): acute before enclitic
+job	oldtestamenting02swet	545	18	μου"	μου"	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	545	20	ιὰ	διὰ	διὰ	διὰ	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	545	22	Τἶἴἵνα	ἵνα	ἵνα	ἵνα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	545	22	συνήντησάν	συνήντησάν	συνήντησάν	συνήντησάν	image (3x): acute before enclitic
+job	oldtestamenting02swet	545	26	“μετὰ	“μετὰ	μετὰ	μετὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	545	27	οἱ	οἱ	οἳ	οἳ	image (3x): rough + grave, compact closed mark
+job	oldtestamenting02swet	545	27	ἡηγαυριῶντο	ἡγαυριῶντο	ἠγαυριῶντο	ἠγαυριῶντο	image (3x): smooth breathing + circumflex on ω
+job	oldtestamenting02swet	545	29	οἱ	οἱ	οἳ	οἳ	image (3x): rough + grave, compact closed mark
+job	oldtestamenting02swet	545	30	“ἢ	ἢ	ἢ	ἢ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	545	28	-	-	ἢ	ἢ	ambiguous: breathing+grave on η printed as a small peaked mark; read smooth + grave
+job	oldtestamenting02swet	545	30	-	-	ἢ	ἢ	ambiguous: breathing+grave on η printed as a small peaked mark; read smooth + grave

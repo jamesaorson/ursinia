@@ -1,0 +1,47 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	606	2	δάνάβλεψον	δάνάβλεψον	ἀνάβλεψον	ἀνάβλεψον	TODO zoom: A OPEN, B OPEN
+job	oldtestamenting02swet	606	4	ει	εἰ	εἰ	εἰ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	606	4	ἡμαρτες,	ἡμαρτεέες,	ἥμαρτες,	ἥμαρτες,	TODO zoom: A DROP, B OPEN
+job	oldtestamenting02swet	606	4	τι	τι	τί	τί	TODO zoom: A DROP, B DROP
+job	oldtestamenting02swet	606	5	ἠνόμησας,	ηνόμησας,	ἠνόμησας,	ἠνόμησας,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	606	5	ποιῆσαι; +7	ποιῆσαι;	ποιῆσαι;	ποιῆσαι;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	606	6	εἰ,	εἰ,	εἶ,	εἶ,	TODO zoom: A DROP, B DROP
+job	oldtestamenting02swet	606	7	χειρός	χειρός	χειρός	χειρός	TODO zoom: accent before an enclitic
+job	oldtestamenting02swet	606	8	ρι	“ἀνδρὶ	ἀνδρὶ	ἀνδρὶ	TODO zoom: A OPEN, B R1
+job	oldtestamenting02swet	606	8	τῳ	τῷ	τῷ	τῷ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	606	8	ομοιῳ	ὁμοίῳ	ὁμοίῳ	ὁμοίῳ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	606	8	ἢ	ἡ	ἡ	ἡ	TODO zoom: A DIA, B same
+job	oldtestamenting02swet	606	8	ασεβειᾶα	ἀσέβειά	ἀσέβειά	ἀσέβειά	TODO zoom: accent before an enclitic; A OPEN, B same
+job	oldtestamenting02swet	606	10	ϑάπὸ	ϑάπὸ	ἀπὸ	ἀπὸ	TODO zoom: A OPEN, B OPEN
+job	oldtestamenting02swet	606	11	βοήσονται	βοησονται	βοήσονται	βοήσονται	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	606	11	απὸ	απὸ	ἀπὸ	ἀπὸ	TODO zoom: A DROP, B DROP
+job	oldtestamenting02swet	606	11	πολλῶν. +Το	πολλῶν.	πολλῶν.	πολλῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	606	12	εἰπεν	εἶπεν	εἶπεν	εἶπεν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	606	12	ὁ +θ	ὁ	ὁ	ὁ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	606	12	με, +Ἴ	με,	με,	με,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	606	18	᾿ϑάτοπα	ἰϑάτοπα	ἄτοπα	ἄτοπα	TODO zoom: A OPEN, B OPEN
+job	oldtestamenting02swet	606	18	ἰδεῖν	ἰδεῖν"	ἰδεῖν·	ἰδεῖν·	TODO zoom: A OPEN, B R2
+job	oldtestamenting02swet	606	19	ὁρατῆς	ὁρατῆς	ὁρατής	ὁρατής	TODO zoom: accent before an enclitic; A DIA, B DIA
+job	oldtestamenting02swet	606	19	“'τῶν	᾿'τῶν	τῶν	τῶν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	606	21	εναντιον	ἐναντίον	ἐναντίον	ἐναντίον	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	606	21	αὕτου,	αὐτοῦ,	αὐτοῦ,	αὐτοῦ,	TODO zoom: A DIA, B same
+job	oldtestamenting02swet	606	21	αινεσαι	αἰνέσαι	αἰνέσαι	αἰνέσαι	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	606	21	αὑτὸν	αὐτὸν	αὐτὸν	αὐτὸν	TODO zoom: A DIA, B same
+job	oldtestamenting02swet	606	21	ἐστιν.	ἔστιν.	ἔστιν.	ἔστιν.	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	606	22	καὶ	᾿δκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	606	22	αὐτοῦ,	αὐτοῦ, +Ἷ	αὐτοῦ,	αὐτοῦ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	606	23	παράπτωμά	παράπτωμά	παράπτωμά	παράπτωμά	TODO zoom: accent before an enclitic
+job	oldtestamenting02swet	606	23	σφόδρα, +τό	σφόδρα, +τό	σφόδρα,	σφόδρα,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	606	24	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+job	oldtestamenting02swet	606	24	στύμα	στόμα	στόμα	στόμα	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	606	25	ἐν	εν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	606	25	ἀγνωσίᾳ	αγνωσιᾳ	ἀγνωσίᾳ	ἀγνωσίᾳ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	606	25	ῥήματα	ρήματα	ῥήματα	ῥήματα	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	606	25	βαρύνει.	βαρυνει.	βαρύνει.	βαρύνει.	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	606	26	:Προσθεὶς	Π̓ροσθεὶς	Προσθεὶς	Προσθεὶς	TODO zoom: A R1, B DIA
+job	oldtestamenting02swet	606	26	Ἐλιοῦς	Ἐλιοῦς	Ἐλιοῦς	Ἐλιοῦς	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+job	oldtestamenting02swet	606	27	“Μεῖνόν	“Μεῖνόν	Μεῖνόν	Μεῖνόν	TODO zoom: accent before an enclitic
+job	oldtestamenting02swet	606	27	σε:	σε:	σε·	σε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	606	28	ἐμοί	ἐμοί	ἐμοί	ἐμοί	TODO zoom: accent before an enclitic
+job	oldtestamenting02swet	606	29	ἀναλαβὼν	βαναλαβὼν	ἀναλαβὼν	ἀναλαβὼν	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	606	29	ἐπιστημὴν	ἐπιστήμην	ἐπιστήμην	ἐπιστήμην	TODO zoom: A DIA, B same

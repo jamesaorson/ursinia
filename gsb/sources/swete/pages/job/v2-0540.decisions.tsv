@@ -1,0 +1,21 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	540	1	Ἰώβ	Ἰώβ	Ἰὼβ	Ἰώβ	image (3x): smooth breathing; acute on oxytone before capitalized Μή
+job	oldtestamenting02swet	540	1	Μὴ	Μή	Μή	Μή	image (3x): acute as printed (before enclitic)
+job	oldtestamenting02swet	540	1	υἱοί	υἱοί	υἱοί	υἱοί	image (3x): acute as printed (before enclitic)
+job	oldtestamenting02swet	540	3	Ἰὼβ	Ιὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing on capital Ι
+job	oldtestamenting02swet	540	3	ἡμέρας. +5	ἡμέρας. +5	ἡμέρας.	ἡμέρας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	540	9	τῴ	τῴ	τῷ	τῷ	image (3x): circumflex with iota subscript
+job	oldtestamenting02swet	540	11	πάρειμι. +8 ᾿ 3 ΝΟ δος ΤῈ ,	πάρειμι.	πάρειμι.	πάρειμι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	540	13	παιδός	παιδὸς	παιδός	παιδός	image (3x): acute as printed (before enclitic)
+job	oldtestamenting02swet	540	13	Ἰώβ;	Ἰώβ;	Ἰώβ;	Ἰώβ;	image (3x): smooth breathing on capital Ι
+job	oldtestamenting02swet	540	17	ϑάπεκρίθη	ϑάπεκρίθη	ἀπεκρίθη	ἀπεκρίθη	image (3x): superscript verse number 9 fused, not text; smooth breathing, acute
+job	oldtestamenting02swet	540	17	εἰπεν	εἶπεν	εἶπεν	εἶπεν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	540	18	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing on capital Ι
+job	oldtestamenting02swet	540	23	ἀπόστειλον	ἀπύστειλον	ἀπόστειλον	ἀπόστειλον	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	540	23	χεῖρά	χεῖρά	χεῖρά	χεῖρά	image (3x): acute as printed (before enclitic)
+job	oldtestamenting02swet	540	23	ἔχει᾽	ἔχει:	ἔχει·	ἔχει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	540	24	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): acute as printed (before enclitic)
+job	oldtestamenting02swet	540	25	∅	∅	τότε	τότε	image (3x): τότε after superscript 12
+job	oldtestamenting02swet	540	26	Ιδοὺ	Ιδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on capital Ι
+job	oldtestamenting02swet	540	26	χειρί	χειρί	χειρί	χειρί	image (3x): acute as printed (before enclitic)
+job	oldtestamenting02swet	540	27	ἅψη.	ἅψη.	ἅψῃ.	ἅψῃ.	image (3x): iota subscript under final η

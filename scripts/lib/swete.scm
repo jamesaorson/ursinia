@@ -416,6 +416,7 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
                     ;; a later title line, also after Swete's {2} printed
                     ;; inside the title (Ps 50, 51: no verse line between)
                     ((or (memq v '(after-title #f)) in-title)
+                     (set! in-title #t)
                      (loop rest where ch v ref last-ref pending-text? depth hyphen? acc))
                     (else (loop rest where ch v ref last-ref pending-text? depth hyphen?
                                 (seq "{T} (a psalm title) after verse {~a}: a title stands right after its {C~a}" v ch)))))

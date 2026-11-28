@@ -1,0 +1,19 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	539	1	ΑΝΘΡΩΠΟΣ	ΑΝΘΡΩΠΟΣ	ΑΝΘΡΩΠΟΣ	ΑΝΘΡΩΠΟΣ	image (3x): unaccented capitals at book opening; τις enclitic unaccented
+job	oldtestamenting02swet	539	1	Αὐσίτιδι	Αὐσίτιδι	Αὐσίτιδι	Αὐσίτιδι	image (3x): smooth breathing on Αὐ
+job	oldtestamenting02swet	539	1	Ἰώβ: +Β	Ἰώβ᾽	Ἰώβ·	Ἰώβ·	image (3x): smooth breathing; ano teleia after Ἰώβ (B in margin is siglum)
+job	oldtestamenting02swet	539	2	ἣν	ἦν	ἦν	ἦν	image (3x): circumflex, smooth breathing
+job	oldtestamenting02swet	539	5	“ἐγένοντο	“ἐγένοντο	ἐγένοντο	ἐγένοντο	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	539	6	ϑκαὶ	βκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	539	6	κτηνὴ	κτήνη	κτήνη	κτήνη	image (3x): κτήνη acute on first η
+job	oldtestamenting02swet	539	8	πεντακύσια,	πεντακύσια,	πεντακόσια,	πεντακόσια,	image (3x): ο, not υ
+job	oldtestamenting02swet	539	9	πεντακόσιαι.	πεντακύσιαι.	πεντακόσιαι.	πεντακόσιαι.	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	539	11	γῆς"	γῆς"	γῆς·	γῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	539	17	5 +και	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	539	17	συνετελεσύῦησαν	συνετελέσθησαν	συνετελέσθησαν	συνετελέσθησαν	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	539	17	αἱι	αἱ	αἱ	αἱ	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	539	17	ἡμεραι	ἡμέραι	ἡμέραι	ἡμέραι	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	539	17	Του	τοῦ	τοῦ	τοῦ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	539	18	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing; ano teleia after Ἰώβ (B in margin is siglum)
+job	oldtestamenting02swet	539	19	∅	∅	πρωί,	πρωί,	image (5x): πρωί, acute on ι, turned-over line both OCRs missed
+job	oldtestamenting02swet	539	21	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

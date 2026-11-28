@@ -1,0 +1,27 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	543	2	δέρματος"	δέρματος"	δέρματος·	δέρματος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	543	3	Ψυχῆς	Ψυχῆς	ψυχῆς	ψυχῆς	image (3x): lowercase ψ
+job	oldtestamenting02swet	543	4	βϑοὺ	βϑοὺ	οὐ	οὐ	image (3x): superscript verse number fused, not text
+job	oldtestamenting02swet	543	4	χεῖρά	χεῖρά	χεῖρά	χεῖρά	image (3x): acute before enclitic
+job	oldtestamenting02swet	543	5	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	543	6	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): acute before enclitic
+job	oldtestamenting02swet	543	7	δεἶπεν	εἶπεν	εἶπεν	εἶπεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	543	7	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on capital Ι
+job	oldtestamenting02swet	543	7	παραδίδωμί	παραδίδωμί	παραδίδωμί	παραδίδωμί	image (3x): acute before enclitic
+job	oldtestamenting02swet	543	8	∅	∅	τόν·	τόν·	image (3x): τόν· turned-over end of αὐ-τόν, ano teleia
+job	oldtestamenting02swet	543	10	Τέξῆλθεν	Τέξῆλθεν	ἐξῆλθεν	ἐξῆλθεν	image (3x): superscript verse number fused, not text
+job	oldtestamenting02swet	543	11	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing on capital Ι
+job	oldtestamenting02swet	543	11	ἕλκει	ἐἔλκει	ἕλκει	ἕλκει	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	543	13	δκαὶ	ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	543	13	ἕξύῃ:	ξύῃ:	ξύῃ,	ξύῃ,	image (3x): iota subscript under η, comma
+job	oldtestamenting02swet	543	17	∅	Ιδου	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on capital Ι
+job	oldtestamenting02swet	543	17	ἔτι	ετι	ἔτι	ἔτι	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	543	19	"ἰδοὺ	"ἰδοὺ	ἰδοὺ	ἰδοὺ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	543	19	ἠηφάνισταί	ἠφάνισταί	ἠφάνισταί	ἠφάνισταί	image (3x): acute before enclitic
+job	oldtestamenting02swet	543	19	γῆς;	γῆς,	γῆς,	γῆς,	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	543	21	οὺς	οὗς	οὓς	οὓς	image (3x): rough + grave closed mark on υ
+job	oldtestamenting02swet	543	22	∅	“᾿σύ	σύ	σύ	image (3x): acute before enclitic
+job	oldtestamenting02swet	543	23	αἴθριος"	αἴθριος:	αἴθριος·	αἴθριος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	543	24	∅	∅	κἀγὼ	κἀγὼ	image (3x): coronis on α, grave on ω
+job	oldtestamenting02swet	543	25	τύπου	τόπου	τόπου	τόπου	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	543	27	αἴ	αἴ	αἵ	αἵ	image (8x): curl then acute, same shape as ἵνα on this line (rough+acute), unlike the apostrophe on αἴθριος

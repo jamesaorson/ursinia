@@ -1,0 +1,32 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+song	oldtestamenting02swet	530	1	Ψυχή	Ψυχή	ψυχή	ψυχή	image (3x): accents as transcribed (lowercase ψ)
+song	oldtestamenting02swet	530	2	ἰῶὼς	ἰῶς	ὡς	ὡς	image (3x): ὡς with rough breathing and acute; superscript 4 before it
+song	oldtestamenting02swet	530	2	ἀπ᾽ +9	ἀπ᾽ +Ε	ἀπ᾽	ἀπ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+song	oldtestamenting02swet	530	3	Ὁ +ηγάπησεν	ηγάπησεν	ἠγάπησεν	ἠγάπησεν	image (3x): smooth breathing on η, acute on α
+song	oldtestamenting02swet	530	3	Ψυχή	Ψυχή	ψυχή	ψυχή	image (3x): accents as transcribed (lowercase ψ)
+song	oldtestamenting02swet	530	3	μου:	μου:	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+song	oldtestamenting02swet	530	5	μητρός	μητρός	μητρός	μητρός	image (3x): accents as transcribed (lowercase ψ)
+song	oldtestamenting02swet	530	7	ϑὨρκισα	ϑὨὭρκισα	Ὥρκισα	Ὥρκισα	image (3x): rough + acute (open curl then rising stroke) on Ω
+song	oldtestamenting02swet	530	7	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing on capital
+song	oldtestamenting02swet	530	9	ἐὰν	εαν	ἐὰν	ἐὰν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+song	oldtestamenting02swet	530	9	ἐγείρητε	εἐγειρὴτε	ἐγείρητε	ἐγείρητε	class R6 (OCR letters differ): the other OCR reading agrees with c
+song	oldtestamenting02swet	530	9	καὶ	Και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+song	oldtestamenting02swet	530	9	τὴν	Τὴν	τὴν	τὴν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+song	oldtestamenting02swet	530	9	ἀγάπην	αγατπην	ἀγάπην	ἀγάπην	class R6 (OCR letters differ): the other OCR reading agrees with c
+song	oldtestamenting02swet	530	9	ἕως	εως	ἕως	ἕως	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+song	oldtestamenting02swet	530	9	θελήσῃ.	θελήση.	θελήσῃ.	θελήσῃ.	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+song	oldtestamenting02swet	530	10	Τίς	Γίς	Τίς	Τίς	class R6 (OCR letters differ): the other OCR reading agrees with c
+song	oldtestamenting02swet	530	10	αὕτη	αὑτη	αὕτη	αὕτη	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+song	oldtestamenting02swet	530	13	γἰδοὺ	γἰδοὺ	ἰδοὺ	ἰδοὺ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+song	oldtestamenting02swet	530	15	Ἰσραήλ:	Ἰσραήλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing on capital
+song	oldtestamenting02swet	530	17	πόλεμον"	πόλεμον"	πόλεμον·	πόλεμον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+song	oldtestamenting02swet	530	18	αὐτοῦ +Ὁ	αὐτοῦ	αὐτοῦ	αὐτοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+song	oldtestamenting02swet	530	20	φφορεῖον	φφορεῖον	φορεῖον	φορεῖον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+song	oldtestamenting02swet	530	20	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave on βασιλεὺς before the name Σαλωμὼν (not a quotation)
+song	oldtestamenting02swet	530	20	Σαλωμὼν +ἵἿ	Σαλωμὼν +Ἷ	Σαλωμὼν	Σαλωμὼν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+song	oldtestamenting02swet	530	21	Λιβάνου: +1ο	Λιβάνου: +Το	Λιβάνου·	Λιβάνου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+song	oldtestamenting02swet	530	23	χρύσεον"	χρύσεον"	χρύσεον·	χρύσεον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+song	oldtestamenting02swet	530	26	Ἰ̔ερουσαλήμ.	᾿ερουσαλήμ. +τ	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing on capital
+song	oldtestamenting02swet	530	27	πτἐξέλθατε	ἐξέλθατε	ἐξέλθατε	ἐξέλθατε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+song	oldtestamenting02swet	530	9	-	-	ἂν	ἂν	ambiguous: worn mark over α prints as a small blob with a short stroke (8x); read smooth breathing + grave
+song	oldtestamenting02swet	530	20	-	-	Σαλωμὼν	Σαλωμὼν	image (3x): ¶ witness mark printed in the text after Σαλωμὼν, kept

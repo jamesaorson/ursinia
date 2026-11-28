@@ -1,0 +1,37 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	541	1	βκαὶ	βκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	541	2	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave on υἱοὶ (next word Ἰὼβ is a name, not a quotation)
+job	oldtestamenting02swet	541	2	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing on capital Ι, grave
+job	oldtestamenting02swet	541	5	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	541	5	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing on capital Ι, grave
+job	oldtestamenting02swet	541	5	εἰπεν	εἰπεν	εἶπεν	εἶπεν	image (3x): circumflex on εἶπεν
+job	oldtestamenting02swet	541	6	ηροτρία,	ηροτρία,	ἠροτρία,	ἠροτρία,	image (3x): smooth breathing on η
+job	oldtestamenting02swet	541	7	αὐτῶν"	αὐτῶν"	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	541	8	καὶ	5καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	541	8	ἡχμαλώτευσαν	ἡχμαλώτευσαν	ᾐχμαλώτευσαν	ᾐχμαλώτευσαν	image (3x): smooth breathing and iota subscript under initial η
+job	oldtestamenting02swet	541	9	μαχαίραις"	μαχαίραις"	μαχαίραις·	μαχαίραις·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	541	10	ἀπαγγεῖλαί	ἀπαγγεῖλαί	ἀπαγγεῖλαί	ἀπαγγεῖλαί	image (3x): acute before enclitic σοι
+job	oldtestamenting02swet	541	11	᾿δέτι	"δέτι	ἔτι	ἔτι	image (3x): superscript verse number fused, not text
+job	oldtestamenting02swet	541	11	εἶπεν	εἰπεν	εἶπεν	εἶπεν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	541	12	∅	∅	Ἰώβ	Ἰώβ	image (3x): smooth breathing; acute on Ἰώβ before capitalized quotation
+job	oldtestamenting02swet	541	14	ὁμοίως"	ὁμοίως"	ὁμοίως·	ὁμοίως·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	541	15	ἀπαγγεῖλαί	ἀπαγγεῖλαί	ἀπαγγεῖλαί	ἀπαγγεῖλαί	image (3x): acute before enclitic σοι
+job	oldtestamenting02swet	541	16	ἔτι	"ἸἼξτι	ἔτι	ἔτι	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	541	17	∅	∅	Ἰώβ	Ἰώβ	image (3x): smooth breathing; acute on Ἰώβ before capitalized quotation
+job	oldtestamenting02swet	541	18	Οἱ	Οἱ	Οἱ	Οἱ	image (3x): rough breathing on Οἱ
+job	oldtestamenting02swet	541	18	γ΄,	γ΄,	γʹ,	γʹ,	image (3x): letter numeral γ with keraia
+job	oldtestamenting02swet	541	19	ἡχμαλώτευσαν	ἡχμαλώτευσαν	ᾐχμαλώτευσαν	ᾐχμαλώτευσαν	image (3x): smooth breathing and iota subscript under initial η
+job	oldtestamenting02swet	541	20	μαχαίραις"	μαχαίραις"	μαχαίραις·	μαχαίραις·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	541	21	ἀπαγγεῖλαί	ἀπαγγεῖλαί	ἀπαγγεῖλαί	ἀπαγγεῖλαί	image (3x): acute before enclitic σοι
+job	oldtestamenting02swet	541	22	᾿ἥέτι	᾿ϑἔτι	ἔτι	ἔτι	image (3x): superscript verse number fused, not text
+job	oldtestamenting02swet	541	22	Ἰώβ	Ἰώβ	Ἰώβ	Ἰώβ	image (3x): smooth breathing; acute on Ἰώβ before capitalized quotation
+job	oldtestamenting02swet	541	25	᾿ϑέξαίφνης	᾿ϑέξαίφνης	ἐξαίφνης	ἐξαίφνης	image (3x): superscript verse number fused, not text
+job	oldtestamenting02swet	541	26	οἰκίας"	οἰκίας"	οἰκίας·	οἰκίας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	541	27	και	Και	καὶ	καὶ	image (3x): last line read clearly; OCR garbled it
+job	oldtestamenting02swet	541	27	εἐπεσεν	ἐπεσεν	ἔπεσεν	ἔπεσεν	image (3x): last line read clearly; OCR garbled it
+job	oldtestamenting02swet	541	27	Ὦ	Ὦ	ἡ	ἡ	image (3x): last line read clearly; OCR garbled it
+job	oldtestamenting02swet	541	27	οικια	οικια	οἰκία	οἰκία	image (3x): last line read clearly; OCR garbled it
+job	oldtestamenting02swet	541	27	ἐπι	ἐπι	ἐπὶ	ἐπὶ	image (3x): last line read clearly; OCR garbled it
+job	oldtestamenting02swet	541	27	Τα	Τα	τὰ	τὰ	image (3x): last line read clearly; OCR garbled it
+job	oldtestamenting02swet	541	27	Και	Και	καὶ	καὶ	image (3x): last line read clearly; OCR garbled it
+job	oldtestamenting02swet	541	27	ἐτελεύτησαν"	ἐτελεύτησαν"	ἐτελεύτησαν·	ἐτελεύτησαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

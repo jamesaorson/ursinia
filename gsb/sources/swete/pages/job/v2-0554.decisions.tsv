@@ -1,0 +1,34 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	554	1	καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	554	4	εἰμί. +᾿ι	εἰμί. +᾿ι	εἰμί.	εἰμί.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	554	5	Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	image (3x): rough breathing on Υ
+job	oldtestamenting02swet	554	6	“Μέχρι	Μέχρι	Μέχρι	Μέχρι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	554	7	στόματός	στόματός	στόματός	στόματός	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	554	7	σου. +3	σου.	σου.	σου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	554	8	μὴ	ϑμὴ	μὴ	μὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	554	9	ἢ +᾿	ἢ	ἢ	ἢ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	554	10	“εἰ	Δεἰ	εἰ	εἰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	554	10	υἱοί	υἱοί	υἱοί	υἱοί	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	554	10	αὐτοῦ, +᾿	αὐτοῦ, +ὶ	αὐτοῦ,	αὐτοῦ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	554	11	εν	εν	ἐν	ἐν	image (3x): reads as page file (ἐν smooth+grave, χειρὶ, ἀνομίας, αὐτῶν smooth, ἢ smooth+grave)
+job	oldtestamenting02swet	554	11	χέειρι	χέίρι	χειρὶ	χειρὶ	image (3x): reads as page file (ἐν smooth+grave, χειρὶ, ἀνομίας, αὐτῶν smooth, ἢ smooth+grave)
+job	oldtestamenting02swet	554	11	ανομιαᾶς	ανομιᾶς	ἀνομίας	ἀνομίας	image (3x): reads as page file (ἐν smooth+grave, χειρὶ, ἀνομίας, αὐτῶν smooth, ἢ smooth+grave)
+job	oldtestamenting02swet	554	11	αὑτων.	αὑτων.	αὐτῶν.	αὐτῶν.	image (3x): reads as page file (ἐν smooth+grave, χειρὶ, ἀνομίας, αὐτῶν smooth, ἢ smooth+grave)
+job	oldtestamenting02swet	554	12	δεόμενος.	δεύμενος.	δεόμενος.	δεόμενος.	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	554	13	ἐπακούσεταί	ἐπακούσεταί	ἐπακούσεταί	ἐπακούσεταί	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	554	14	δέ	δέ	δέ	δέ	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	554	14	δικαιοσύνης"	δικαιοσύνης"	δικαιοσύνης·	δικαιοσύνης·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	554	15	πρῶτά	πρῶτά	πρῶτά	πρῶτά	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	554	16	ἔσχατά	ἔσχατά	ἔσχατά	ἔσχατά	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	554	17	δέἐπερώτησον	δέἐπερώτησον	ἐπερώτησον	ἐπερώτησον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	554	18	πατέρων"	πατέρων"	πατέρων·	πατέρων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	554	19	“χθιζοὶ	“χθιζοὶ	χθιζοὶ	χθιζοὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	554	19	γάρ	γάρ	γάρ	γάρ	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	554	20	γάρ	γάρ	γάρ	γάρ	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	554	21	σὴ	σὴ	ἢ	ἢ	image (3x): reads as page file (ἐν smooth+grave, χειρὶ, ἀνομίας, αὐτῶν smooth, ἢ smooth+grave)
+job	oldtestamenting02swet	554	21	οὗτοί	οὗτοί	οὗτοί	οὗτοί	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	554	24	πότου;	πότου; +12	πότου;	πότου;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	554	25	ὃν	ὃν	ὂν	ὂν	image (6x): smooth + grave, open two-part mark identical to the ἢ marks on this page, not the closed rough+grave of ὃ
+job	oldtestamenting02swet	554	25	θερισθῇ"	θερισθῇ"	θερισθῇ·	θερισθῇ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	554	26	ξηραίνεται; +τ,	ξηραίνεται;	ξηραίνεται;	ξηραίνεται;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	554	28	κυρίου"	κυρίου:	κυρίου·	κυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

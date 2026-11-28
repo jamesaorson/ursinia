@@ -1,0 +1,31 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	542	1	ἀπαγγεῖλαί	ἀπαγγεῖλαί	ἀπαγγεῖλαί	ἀπαγγεῖλαί	image (3x): acute before enclitic
+job	oldtestamenting02swet	542	2	∅	∅	οὕτως	οὕτως	image (3x): οὕτως after superscript 20, rough breathing + acute
+job	oldtestamenting02swet	542	2	ἀναστὰς	ἀναστὰς	ἀναστὰς	ἀναστὰς	image (3x): grave on ἀναστὰς before the name Ἰὼβ
+job	oldtestamenting02swet	542	2	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing on the capital
+job	oldtestamenting02swet	542	3	κύμην	κύμην	κόμην	κόμην	image (3x): ο with acute, not υ
+job	oldtestamenting02swet	542	4	προσεκύνησεν	προσεκύνησεν +“"	προσεκύνησεν	προσεκύνησεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	542	4	“"καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	542	5	Αὐτὸς	Αὐτὸς	Αὐτὸς	Αὐτὸς	image (3x): smooth breathing on υ of Αὐτὸς
+job	oldtestamenting02swet	542	5	μητρός	μητρός	μητρός	μητρός	image (3x): acute before enclitic
+job	oldtestamenting02swet	542	5	μου:	μου᾽	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	542	7	ἀφείλατο"	ἀφείλατο"	ἀφείλατο·	ἀφείλατο·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	542	8	ἐγένετο +Ἁ	ἐγένετο	ἐγένετο·	ἐγένετο·	image (3x): ano teleia after ἐγένετο; no other mark
+job	oldtestamenting02swet	542	9	εἴη	εἰὴ	εἴη	εἴη	image (3x): smooth breathing + acute on ι
+job	oldtestamenting02swet	542	11	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing on the capital
+job	oldtestamenting02swet	542	12	θεῷ	θεῷ +ΓΣ	θεῷ.	θεῷ.	image (3x): period after θεῷ; nothing else
+job	oldtestamenting02swet	542	13	Ἐγένετο	Ἐγένετο	Ἐγένετο	Ἐγένετο	image (3x): smooth breathing on the capital
+job	oldtestamenting02swet	542	13	ἢ	ἢ	ἡ	ἡ	image (3x): ἡ rough breathing, no accent
+job	oldtestamenting02swet	542	17	εἰπεν	εἶπεν	εἶπεν	εἶπεν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	542	17	ἐρχῃ:	ἔρχη:	ἔρχῃ;	ἔρχῃ;	image (3x): smooth + acute, iota subscript under η, question mark
+job	oldtestamenting02swet	542	19	Διαπορευθεὶξᾷ	Διαπορευθεὶς	Διαπορευθεὶς	Διαπορευθεὶς	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	542	21	Ξείῖπεν	βείπεν	εἶπεν	εἶπεν	image (3x): superscript 3 not text; circumflex on ι (slightly blotted)
+job	oldtestamenting02swet	542	22	θεράποντί	θεράποντί	θεράποντί	θεράποντί	image (3x): acute before enclitic
+job	oldtestamenting02swet	542	22	Ἰώβ;	Ἰώβ;	Ἰώβ;	Ἰώβ;	image (3x): smooth breathing on the capital
+job	oldtestamenting02swet	542	26	ἀκακίας"	ἀκακίας"	ἀκακίας·	ἀκακίας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	542	27	συ	σὺ	σὺ	σὺ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	542	27	ειπας	εἶπας	εἶπας	εἶπας	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	542	27	Τα	τὰ	τὰ	τὰ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	542	27	ὑπαρχόντα	ὑπάρχοντα	ὑπάρχοντα	ὑπάρχοντα	image (3x): acute on ά
+job	oldtestamenting02swet	542	27	αὐτου	αὐτοῦ	αὐτοῦ	αὐτοῦ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	542	27	κενὴης	κενῆς	κενῆς	κενῆς	class R6 (OCR letters differ): the other OCR reading agrees with c

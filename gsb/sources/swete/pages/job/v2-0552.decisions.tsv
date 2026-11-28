@@ -1,0 +1,33 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	552	1	Ῥαλλ᾽	"Ῥαλλ᾽	ἀλλ᾽	ἀλλ᾽	image (3x): reads as page file; OCR misread superscript number or diacritics
+job	oldtestamenting02swet	552	2	παρ᾽	παρ	παρ᾽	παρ᾽	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	552	2	αἰτοῦμαι:	αἰτοῦμαι:	αἰτοῦμαι·	αἰτοῦμαι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	552	3	ῥήμασίν	ῥήμασίν	ῥήμασίν	ῥήμασίν	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	552	7	δγυνὶ	δνυνὶ	νυνὶ	νυνὶ	image (3x): reads as page file; OCR misread superscript number or diacritics
+job	oldtestamenting02swet	552	7	ψεύσομαι. +29	ψεύσομαι. +29	ψεύσομαι.	ψεύσομαι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	552	10	γάρ	γάρ	γάρ	γάρ	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	552	10	ἄδικον"	ἄδικον"	ἄδικον·	ἄδικον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	552	12	πότερον	ἱπότερον	πότερον	πότερον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	552	12	πειρατήριόν	πειρατήριόν	πειρατήριόν	πειρατήριόν	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	552	12	γῆς,	γῆς.	γῆς,	γῆς,	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	552	14	Ξῇἢῇ	Ξῇἢῇ	ἢ	ἢ	image (3x): reads as page file; OCR misread superscript number or diacritics
+job	oldtestamenting02swet	552	17	βοὕτως	ϑουτως	οὕτως	οὕτως	image (3x): reads as page file; OCR misread superscript number or diacritics
+job	oldtestamenting02swet	552	17	κἀγὼ	καγῶ	κἀγὼ	κἀγὼ	image (3x): reads as page file; OCR misread superscript number or diacritics
+job	oldtestamenting02swet	552	17	κενούς,	κενοὺς,	κενούς,	κενούς,	image (3x): reads as page file; OCR misread superscript number or diacritics
+job	oldtestamenting02swet	552	18	μοί	μοί	μοί	μοί	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	552	19	“ἐὰν	ἐἐὰν	ἐὰν	ἐὰν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	552	20	Πύτε	Πότε	Πότε	Πότε	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	552	21	ἔως	ἕως	ἕως	ἕως	image (3x): reads as page file; OCR misread superscript number or diacritics
+job	oldtestamenting02swet	552	22	δέ	δέ	δέ	δέ	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	552	22	το	το	τὸ	τὸ	image (3x): reads as page file; OCR misread superscript number or diacritics
+job	oldtestamenting02swet	552	22	εν	εν	ἐν	ἐν	image (3x): reads as page file; OCR misread superscript number or diacritics
+job	oldtestamenting02swet	552	24	δὸ	δὸ	ὁ	ὁ	image (3x): reads as page file; OCR misread superscript number or diacritics
+job	oldtestamenting02swet	552	24	μού	μού	μού	μού	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	552	26	μνησθητι	μνήσθητι	μνήσθητι	μνήσθητι	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	552	26	ὁτι	ὅτι	ὅτι	ὅτι	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	552	26	πνεῦμά	πνεῦμά	πνεῦμά	πνεῦμά	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	552	27	ὀφθαλμός	ὀφθαλμός	ὀφθαλμός	ὀφθαλμός	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	552	28	δοὺ	ἵ +δοὺ	οὐ	οὐ	image (3x): reads as page file; OCR misread superscript number or diacritics
+job	oldtestamenting02swet	552	28	περιβλέψεταί	περιβλέψεταί	περιβλέψεταί	περιβλέψεταί	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	552	28	ὁρῶντός	ὁρῶντός	ὁρῶντός	ὁρῶντός	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	552	28	με:	με:	με·	με·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

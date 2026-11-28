@@ -1,0 +1,35 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	578	3	“Τἀνακαλύψαι	ἀνακαλύψαι	ἀνακαλύψαι	ἀνακαλύψαι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	578	4	αὐτῷ. +58	αὐτῷ. +38	αὐτῷ.	αὐτῷ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	578	7	ἢ	ἡ	ἡ	ἡ	image (3x): ἡ, rough breathing, no accent
+job	oldtestamenting02swet	578	8	Και	Και	καὶ	καὶ	image (3x): reading C as printed; OCR lowered or garbled the letters
+job	oldtestamenting02swet	578	8	ΚΤΉμα	Κτημα	κτῆμα	κτῆμα	image (3x): reading C as printed; OCR lowered or garbled the letters
+job	oldtestamenting02swet	578	8	πυπαρχοντῶν	πυπαρχοντῶν	ὑπαρχόντων	ὑπαρχόντων	image (3x): reading C as printed; OCR lowered or garbled the letters
+job	oldtestamenting02swet	578	8	σαρα	παρα	παρὰ	παρὰ	image (3x): reading C as printed; OCR lowered or garbled the letters
+job	oldtestamenting02swet	578	8	Του	του	τοῦ	τοῦ	image (3x): reading C as printed; OCR lowered or garbled the letters
+job	oldtestamenting02swet	578	8	ἐεἐπισκοτου. +:	επισκοπτου. +:	ἐπισκόπου.	ἐπισκόπου.	ambiguous: final ου of ἐπισκόπου. prints faint and broken (worn type); read ου
+job	oldtestamenting02swet	578	9	Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	image (3x): rough breathing on Ὑ
+job	oldtestamenting02swet	578	9	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing on Ἰ
+job	oldtestamenting02swet	578	10	Ακούσατε,	Ακούσατε, +᾽	Ἀκούσατε,	Ἀκούσατε,	image (3x): smooth breathing on Ἀ
+job	oldtestamenting02swet	578	10	ἀκούσατέ	ἀκούσατέ +μ	ἀκούσατέ	ἀκούσατέ	image (3x): acute before the enclitic, as printed
+job	oldtestamenting02swet	578	10	λόγων,	λόγων	λόγων,	λόγων,	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	578	11	ἢ	ἢ	ᾖ	ᾖ	image (3x): ᾖ, smooth breathing, circumflex, iota subscript
+job	oldtestamenting02swet	578	11	παράκλησις. +Ὥ	παράκλησις.	παράκλησις.	παράκλησις.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	578	12	ἄρατέ	βάρατέ	ἄρατέ	ἄρατέ	image (3x): acute before the enclitic, as printed
+job	oldtestamenting02swet	578	13	εἶτ	εἶτ᾽	εἶτ᾽	εἶτ᾽	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	578	13	καταγελάσετέ	καταγελάσετέ	καταγελάσετέ	καταγελάσετέ	image (3x): acute before the enclitic, as printed
+job	oldtestamenting02swet	578	13	μου.	μου. +4	μου.	μου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	578	14	ἔλεγέις:	ἔλεγξις:	ἔλεγξις;	ἔλεγξις;	image (3x): ἔλεγξις with question mark
+job	oldtestamenting02swet	578	16	5εἰσβλέψαντες	δεἰσβλέψαντες	εἰσβλέψαντες	εἰσβλέψαντες	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	578	16	θαυμάσετε, +:	θαυμάσετε, +:	θαυμάσετε,	θαυμάσετε,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	578	18	ἐὰν	δἐάν	ἐάν	ἐάν	image (3x): ἐάν acute before enclitic τε
+job	oldtestamenting02swet	578	18	μνησθω,	μνησθῶ,	μνησθῶ,	μνησθῶ,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	578	18	ἐσπουδακα,	ἐσπούδακα,	ἐσπούδακα,	ἐσπούδακα,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	578	19	δέ	δέ	δέ	δέ	image (3x): acute before the enclitic, as printed
+job	oldtestamenting02swet	578	20	7διὰ	ἡδιὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	578	21	πλούτῳ;	πλούτῳ:	πλούτῳ;	πλούτῳ;	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	578	24	ϑοΐ	ϑοὶ	οἱ	οἱ	image (4x): οἱ, rough breathing only, no accent
+job	oldtestamenting02swet	578	26	θῇ	οῦς	ἡ	ἡ	image (3x): ἡ, rough breathing; OCR fused the verse number
+job	oldtestamenting02swet	578	26	βοῦς	∅	βοῦς	βοῦς	class R0: OCR lost the word in extraction; c read from the image strip
+job	oldtestamenting02swet	578	26	ὠμοτόκησεν,	ὠμοτόκησεν	ὠμοτόκησεν,	ὠμοτόκησεν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	578	8	-	-	ἐπισκόπου.	ἐπισκόπου.	ambiguous: final ου prints faint and broken (worn type); read ου

@@ -1,0 +1,28 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	553	1	ὀφθαλμοί	ὀφθαλμοί	ὀφθαλμοί	ὀφθαλμοί	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	553	1	εἰμί, +9ο	εἰμί, +9	εἰμί,	εἰμί,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	553	2	ἀπ᾽ +᾽	ἀπ᾽ +ΕῚ	ἀπ᾽	ἀπ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	553	3	ἅδην,	ἅδην,	ᾅδην,	ᾅδην,	image (3x): reads as page file (iota subscripts present, lowercase ψ, superscript number not text)
+job	oldtestamenting02swet	553	4	ἐπιστρέψη	ἐπιστρέψη	ἐπιστρέψῃ	ἐπιστρέψῃ	image (3x): reads as page file (iota subscripts present, lowercase ψ, superscript number not text)
+job	oldtestamenting02swet	553	6	στόματί	στόματί	στόματί	στόματί	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	553	7	ὧν,	ὧν,	ὤν,	ὤν,	image (3x): smooth breathing + acute (apostrophe then rising stroke), not circumflex
+job	oldtestamenting02swet	553	8	Ψυχῆς	Ψυχῆς	ψυχῆς	ψυχῆς	image (3x): reads as page file (iota subscripts present, lowercase ψ, superscript number not text)
+job	oldtestamenting02swet	553	9	θάλασσά	θάλασσά	θάλασσά	θάλασσά	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	553	11	᾿βείπα	᾿ϑείπα	εἶπα	εἶπα	image (3x): reads as page file (iota subscripts present, lowercase ψ, superscript number not text)
+job	oldtestamenting02swet	553	12	μου:	μου:	μου·	μου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	553	13	ὁράμασίν	ὁράμασίν	ὁράμασίν	ὁράμασίν	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	553	14	᾿δάἀπαλλάξεις	Ἰδάπαλλάξεις	ἀπαλλάξεις	ἀπαλλάξεις	image (3x): reads as page file (iota subscripts present, lowercase ψ, superscript number not text)
+job	oldtestamenting02swet	553	14	πνεύματός	πνεύματός	πνεύματός	πνεύματός	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	553	14	Ψυχήν	ψυχήν	ψυχήν	ψυχήν	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	553	16	οὐ	"οὐ	οὐ	οὐ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	553	16	μακροθυμήσω"	μακροθυμήσω."	μακροθυμήσω·	μακροθυμήσω·	image (3x): reads as page file (iota subscripts present, lowercase ψ, superscript number not text)
+job	oldtestamenting02swet	553	17	ἀπ᾽	ἀπ	ἀπ᾽	ἀπ᾽	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	553	17	γάρ	γάρ	γάρ	γάρ	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	553	18	γάρ	γάρ	γάρ	γάρ	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	553	20	ἢ	“ἢ	ἢ	ἢ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	553	21	κρινεῖς; +το “᾽ , ᾿ γα	κρινεῖς;	κρινεῖς;	κρινεῖς;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	553	22	ἕως	το +“᾽ , ᾽ γα ἔως	ἕως	ἕως	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	553	23	πτύελόν	πτύελόν	πτύελόν	πτύελόν	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	553	23	μον	μὸν	μου	μου	ambiguous: υ of μου printed blotted/broken (worn type); read μου
+job	oldtestamenting02swet	553	23	ὀδύνῃ; +δ	ὀδύνῃ;	ὀδύνῃ;	ὀδύνῃ;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	553	26	κατεντευκτὴν	κατεντευκτὴν	κατεντευκτήν	κατεντευκτήν	image (3x): accent before enclitic as printed

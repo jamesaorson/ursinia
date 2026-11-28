@@ -1,0 +1,17 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	576	1	Ξπαιδείαν	Ξπαιδείαν	παιδείαν	παιδείαν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	576	2	ἀποκριθήσεταί	ἀποκριθήσεταί	ἀποκριθήσεταί	ἀποκριθήσεταί	image (3x): acute before enclitic μοι, as printed
+job	oldtestamenting02swet	576	3	“μὴ	“μὴ	μὴ	μὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	576	6	ἀπώλεια"	ἀπώλεια"	ἀπώλεια·	ἀπώλεια·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	576	10	ἀπολεῖται"	ἀπολεῖται"	ἀπολεῖται·	ἀπολεῖται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	576	11	ἐστιν; +ὃ	ἐστιν;	ἐστιν;	ἐστιν;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	576	13	νυκτερινόν"	νυκτερινόν"	νυκτερινόν·	νυκτερινόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	576	15	αὐτοῦ.	αὐτοῦ. +1Ο	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	576	18	τόστα	τόστα	ὀστᾶ	ὀστᾶ	image (3x): ὀστᾶ, smooth breathing and circumflex; OCR fused the verse number
+job	oldtestamenting02swet	576	19	κοιμηθήσεται. +19	κοιμηθήσεται. +9	κοιμηθήσεται.	κοιμηθήσεται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	576	22	αὐτήν'᾽	αὐτήν'᾽	αὐτήν·	αὐτήν·	image (3x): ano teleia after the word
+job	oldtestamenting02swet	576	23	αὐτοῦ, +14	αὐτοῦ,	αὐτοῦ,	αὐτοῦ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	576	24	καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	576	24	ἑαυτῷ	ἑαυτῷ:	ἑαυτῷ·	ἑαυτῷ·	image (3x): ano teleia after the word
+job	oldtestamenting02swet	576	26	"πλοῦτος	πλοῦτος	πλοῦτος	πλοῦτος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	576	26	ἐξεμεσθήσεται.	ἐξεμεσθήσεται,	ἐξεμεσθήσεται,	ἐξεμεσθήσεται,	class R6 (OCR letters differ): the other OCR reading agrees with c

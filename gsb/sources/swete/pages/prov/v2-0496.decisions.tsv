@@ -1,0 +1,33 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+prov	oldtestamenting02swet	496	1	σφι +θυ σοι	οὐέρθυσια	στένουσιν	στένουσιν	image (3x): reading as written; OCR garbled or fused superscripts / dropped diacritics
+prov	oldtestamenting02swet	496	2	ΟΣ	᾿άνδρὸβ	ἀνδρὸς	ἀνδρὸς	image (3x): reading as written; OCR garbled or fused superscripts / dropped diacritics
+prov	oldtestamenting02swet	496	2	ἐλουῦτοΣ	Φιλοῦντος	φιλοῦντος	φιλοῦντος	image (3x): reading as written; OCR garbled or fused superscripts / dropped diacritics
+prov	oldtestamenting02swet	496	3	ποιμανεῖ	ποιμαίνες	ποιμαίνει	ποιμαίνει	image (3x): reading as written; OCR garbled or fused superscripts / dropped diacritics
+prov	oldtestamenting02swet	496	3	ποῦ +ος	πόρναφη	πόρνας	πόρνας	image (3x): reading as written; OCR garbled or fused superscripts / dropped diacritics
+prov	oldtestamenting02swet	496	4	“βασιλεὺς	“βασιλεὺς	βασιλεὺς	βασιλεὺς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	496	6	ὃς	ος	ὃς	ὃς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	496	6	ἐπὶ	εττι	ἐπὶ	ἐπὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	496	6	πρόσωπον	προσῶπον	πρόσωπον	πρόσωπον	image (3x): reading as written; OCR garbled or fused superscripts / dropped diacritics
+prov	oldtestamenting02swet	496	6	τοῦ	Του	τοῦ	τοῦ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	496	6	ἑαυτοῦ	εαὐυτου	ἑαυτοῦ	ἑαυτοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	496	6	φίλου	φί	φίλου	φίλου	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	496	6	δίκτυον,	ου +ιΚτυον,	δίκτυον,	δίκτυον,	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	496	10	7έἐπίσταζαι	7ἐπίσταζαι	ἐπίσταται	ἐπίσταται	image (5x): ἐπίσταται; dot and mark over the second τ are a speck/broken type, not an accent; OCR ζ is τ
+prov	oldtestamenting02swet	496	13	δάνδρες	δάνδρες	ἄνδρες	ἄνδρες	image (3x): reading as written; OCR garbled or fused superscripts / dropped diacritics
+prov	oldtestamenting02swet	496	15	ϑάνὴρ	ϑάνὴρ	ἀνὴρ	ἀνὴρ	image (3x): reading as written; OCR garbled or fused superscripts / dropped diacritics
+prov	oldtestamenting02swet	496	18	τοἄνδρες	τοἄνδρες	ἄνδρες	ἄνδρες	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	496	19	Ψυχὴν	Ψυχὴν	ψυχὴν	ψυχὴν	image (3x): reading as written; OCR garbled or fused superscripts / dropped diacritics
+prov	oldtestamenting02swet	496	20	τπῦλον	ὅλον	ὅλον	ὅλον	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	496	21	μέρος. +᾿ς	μέρος. +τς	μέρος.	μέρος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	496	24	ιϑδανιστοῦ	᾿ϑδανιστοῦ	δανιστοῦ	δανιστοῦ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	496	26	"βασιλέως	"βασιλέως	βασιλέως	βασιλέως	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	496	27	ὁ	ρόνος	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	496	27	θρόνος	∅	θρόνος	θρόνος	class R0: OCR lost the word in extraction; c read from the image strip
+prov	oldtestamenting02swet	496	27	κατασταθήσεται. +᾿δ	κατασταθήσεται.	κατασταθήσεται.	κατασταθήσεται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	496	28	πληγαὶ	᾿δπληγαὶ	πληγαὶ	πληγαὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	496	29	αὐτοῦ. +᾿ὁ	αὐτοῦ. +1	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	496	32	Ἰπαίδευε	Ἰπαίδευε	παίδευε	παίδευε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	496	32	υἱόν	υἱόν	υἱόν	υἱόν	image (3x): acute on υἱόν before enclitic σου
+prov	oldtestamenting02swet	496	33	ψυχῇ	ψυχῆ	ψυχῇ	ψυχῇ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	496	10	-	-	ἐπίσταται	ἐπίσταται	ambiguous: speck and stroke above the second τα (broken type or ink spot); read no accent there
+prov	oldtestamenting02swet	496	8	-	-	μεγάλη	μεγάλη	image (5x): no iota subscript printed under η; kept as printed

@@ -51,7 +51,7 @@
     ("But" 2)
     ("Jacob" 3)
     ("sent" 1)
-    ("angels" 4)
+    ("messengers" (4 messenger))
     ("to" (5 to))
     ("Esau" 6)
     ("his" 9)
@@ -121,7 +121,7 @@
   (status draft)
   (literal
     ("And" 1)
-    ("the angels" 3 4)
+    ("the messengers" 3 (4 messenger))
     ("came back" (2 come-back "ἀναστρέφω"))
     ("to" (5 to))
     ("Jacob" 6)

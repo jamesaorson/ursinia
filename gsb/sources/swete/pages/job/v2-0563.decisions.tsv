@@ -1,0 +1,33 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	563	1	δἢ	δἢ	ἦ	ἢ	image (4x): smooth breathing + grave (pointed mark as on ἂν, line 28), not the rounded ἦ of line 15; superscript 8 not text
+job	oldtestamenting02swet	563	2	γένεσθε. +ο	γένεσθε.	γένεσθε.	γένεσθε.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	563	5	οοὐθὲν	οὐθὲν	οὐθὲν	οὐθὲν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	563	5	ὑμᾶς:	ὑμᾶς:	ὑμᾶς·	ὑμᾶς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	563	6	κρυφῇ	κρυφῆ	κρυφῇ	κρυφῇ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	563	6	θαυμάσεσθε, +ΤΤ	θαυμάσεσθε,	θαυμάσεσθε,	θαυμάσεσθε,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	563	11	"βκωφεύσατε,	"Ῥκωφεύσατε,	κωφεύσατε,	κωφεύσατε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	563	13	Ψυχὴν	Ψυχὴν	ψυχὴν	ψυχὴν	image (3x): lowercase ψ
+job	oldtestamenting02swet	563	13	δέ	δέ	δέ	δέ	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	563	14	ἐάν	ἐάν	ἐάν	ἐάν	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	563	14	ὁ +ὃ	ὁ	ὁ	ὁ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	563	15	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	563	16	τοῦτό	τοῦτό	τοῦτό	τοῦτό	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	563	18	7Ζακούσατε,	᾿ακούσατε,	ἀκούσατε,	ἀκούσατε,	image (3x): smooth breathing; superscript 17 not text
+job	oldtestamenting02swet	563	18	ῥήματά	ῥήματά	ῥήματά	ῥήματά	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	563	20	ἐγγύς	ἐγγύς	ἐγγύς	ἐγγύς	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	563	20	κρίματός	κρίματός	κρίματός	κρίματός	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	563	22	“τίς	"τίς	τίς	τίς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	563	22	γάρ	γάρ	γάρ	γάρ	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	563	22	κριθησόμενὸς	κριθησόμενὸς	κριθησόμενός	κριθησόμενός	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	563	24	“δυεῖν	“δυεῖν	δυεῖν	δυεῖν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	563	24	δέ	δέ	δέ	δέ	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	563	25	κρυβήσομαι:	κρυβήσομαι:	κρυβήσομαι·	κρυβήσομαι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	563	26	"τὴν	"τὴν	τὴν	τὴν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	563	27	μὴ	μὴ	μή	μή	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	563	28	εἰτ	εἰτ	εἶτ᾽	εἶτ᾽	image (4x): smooth breathing + circumflex on ι, elision mark
+job	oldtestamenting02swet	563	28	ἂν	τἂν	ἂν	ἂν	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	563	28	ἐγὼ	εγω	ἐγὼ	ἐγὼ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	563	28	δέ	δέ	δέ	δέ	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	563	28	ὑπακούσομαι:	υπακουσόομαι"	ὑπακούσομαι·	ὑπακούσομαι·	image (3x): ano teleia
+job	oldtestamenting02swet	563	15	-	-	ἦ	ἦ	image (4x): rounded smooth+circumflex mark, unlike the pointed smooth+grave of ἢ on line 1; read ἦ
+job	oldtestamenting02swet	563	21	-	-	οἶδα	οἶδα	image: witness mark § printed in the text before οἶδα (margin §C is not text)

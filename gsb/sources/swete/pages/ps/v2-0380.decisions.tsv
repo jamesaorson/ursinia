@@ -1,0 +1,16 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	380	1	Μκαὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	380	2	αὐτῶν᾽ +“5	αὐτῶν" +“5	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	380	6	αὐτούς.	αὐτούς. +47	αὐτούς.	αὐτούς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	380	7	Κύριε	Κυριε	Κύριε	Κύριε	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	380	7	ὁ	ὁ +θ	ὁ	ὁ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	380	10	του	τοῦ	τοῦ	τοῦ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	380	10	∅	ἐνκαυχᾶσθαι	ἐνκαυχᾶσθαι	ἐνκαυχᾶσθαι	class R0: OCR lost the word in extraction; c read from the image strip
+ps	oldtestamenting02swet	380	10	καυχᾶσθαι	τῇ	τῇ	τῇ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	380	10	ἐν +Τῇ αινέσει	αἰνέσει	αἰνέσει	αἰνέσει	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	380	11	“δεὐλογητὸς	“εὐλογητὸς	εὐλογητὸς	εὐλογητὸς	image (3x): grave before capitalized word (not a quotation)
+ps	oldtestamenting02swet	380	11	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave before capitalized word (not a quotation)
+ps	oldtestamenting02swet	380	11	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+ps	oldtestamenting02swet	380	12	αἰῶνος:	αἰῶνος"	αἰῶνος·	αἰῶνος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	380	13	λαὸς	λαὸς	λαός	λαός	image (3x): acute before capitalized quotation
+ps	oldtestamenting02swet	380	13	Τένοιτο.	Τένοιτο. +-	Γένοιτο.	Γένοιτο.	image (3x): Γ, not Τ

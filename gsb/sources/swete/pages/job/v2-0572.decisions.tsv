@@ -1,0 +1,28 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	572	1	“Μέχρι	“Μέχρι	Μέχρι	Μέχρι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	572	1	τίνος	τινος	τίνος	τίνος	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	572	1	παυσῇῃ;	παυσῇῃ;	παύσῃ;	παύσῃ;	image (3x): παύσῃ with acute on υ and iota subscript
+job	oldtestamenting02swet	572	2	ἐπίσχες,	ἐπίσχες;	ἐπίσχες,	ἐπίσχες,	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	572	2	λαλησωμεν.	λαλησωμεν.	λαλήσωμεν.	λαλήσωμεν.	image (3x): acute on η printed
+job	oldtestamenting02swet	572	3	ϑδιὰ	Ξδιὰ	διὰ	διὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	572	4	“κέχρηταί	Ἵκέχρηταί	κέχρηταί	κέχρηταί	image (3x): accent before enclitic; superscript fused
+job	oldtestamenting02swet	572	5	ὑπ᾽ +᾽	ὑπ᾽ +)	ὑπ᾽	ὑπ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	572	7	55καὶ	5καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	572	11	7θηρεύσαισαν	7θηρεύσαισαν	θηρεύσαισαν	θηρεύσαισαν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	572	11	αὐτοῦ, +;	αὐτοῦ, +ὲ	αὐτοῦ,	αὐτοῦ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	572	13	δἐμβέβληται	δἐμβέβληται	ἐμβέβληται	ἐμβέβληται	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	572	13	παγίδι:	παγίδι:	παγίδι·	παγίδι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	572	15	ϑέλθοισαν	ϑἔέλθοισαν	ἔλθοισαν	ἔλθοισαν	image (3x): verse superscript fused into the word by OCR; word as printed
+job	oldtestamenting02swet	572	15	παγίδες +-Ἷ	παγίδες +-ἵ	παγίδες·	παγίδες·	image (3x): ano teleia then witness mark ¶ printed in text
+job	oldtestamenting02swet	572	16	αὐτὸν.	αὐτὸν.	αὐτὸν	αὐτὸν	ambiguous: small light dot at mid height between αὐτὸν and διψῶντας, lighter and lower than an ano teleia; read speck, no punctuation
+job	oldtestamenting02swet	572	17	᾿οκέκρυπται	᾿οκέκρυπται	κέκρυπται	κέκρυπται	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	572	19	ὀδύναι"	ὀδύναι"	ὀδύναι·	ὀδύναι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	572	21	ἐξαίσιον. +ι3	ἐξαίσιον.	ἐξαίσιον.	ἐξαίσιον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	572	22	βρωθείησαν	ι3βρωθείησαν	βρωθείησαν	βρωθείησαν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	572	24	ἐκραγειὴ	ἐκραγείη	ἐκραγείη	ἐκραγείη	image (3x): acute on ι, ἐκραγείη
+job	oldtestamenting02swet	572	24	ὁε	δὲ	δὲ	δὲ	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	572	24	εκ	ἐκ	ἐκ	ἐκ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	572	24	ὀΟιαιτῆης	διαίτης	διαίτης	διαίτης	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	572	24	αὕτοῦυ	αὐτοῦ	αὐτοῦ	αὐτοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	572	24	ἰιασις,	ἴασις,	ἴασις,	ἴασις,	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	572	6	-	-	ἢ	ἢ	image (4x): smooth + grave (apostrophe then falling stroke); ἢ

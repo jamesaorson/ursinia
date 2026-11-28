@@ -1,0 +1,22 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	567	1	πατρός	πατρός	πατρός	πατρός	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	567	2	"ὀλίγα	"ὀλίγα	ὀλίγα	ὀλίγα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	567	3	λελάληκας. +γον.	λελάληκας. +12	λελάληκας.	λελάληκας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	567	5	ὀφθαλμοί	ὀφθαλμοί	ὀφθαλμοί	ὀφθαλμοί	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	567	6	[᾿3Ξὅτι	᾿ϑὅτι	ὅτι	ὅτι	image (3x): reading as typed; OCR junk from margin verse number
+job	oldtestamenting02swet	567	8	ὧν	ὧν	ὢν	ὢν	image (4x): grave, not circumflex; breathing+grave mark the same shape as on ἢ in lines 5 and 9 (smooth+grave): ὢν
+job	oldtestamenting02swet	567	10	ἰδεὶ	ἰδεὶ	εἰ	εἰ	image (3x): reading as typed; OCR junk from margin verse number
+job	oldtestamenting02swet	567	12	'ἔξα	'ὅξα	ἔα	ἔα	image (3x): reading as typed; OCR junk from margin verse number
+job	oldtestamenting02swet	567	14	δέ	δέ	δέ	δέ	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	567	14	ἄκουέ	ἄκουέ	ἄκουέ	ἄκουέ	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	567	16	ἃ	"δἃ	ἃ	ἃ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	567	16	αὐτῶν	αὐτῶν᾽ +το	αὐτῶν·	αὐτῶν·	image (3x): ano teleia
+job	oldtestamenting02swet	567	19	“πᾶς	“πᾶς	πᾶς	πᾶς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	567	21	τὸ	τὸ	ὁ	ὁ	image (3x): ὁ with rough breathing only; the OCR τ is the margin numeral 21
+job	oldtestamenting02swet	567	21	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	567	24	"ξμὴ	“μὴ	μὴ	μὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	567	24	σκότους"	σκότους"	σκότους·	σκότους·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	567	26	“βκατατέτακται	ϑκατατέτακται	κατατέτακται	κατατέτακται	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	567	26	γυψίν᾽	γυψίν	γυψίν·	γυψίν·	image (3x): ano teleia
+job	oldtestamenting02swet	567	8	-	-	ὢν	ὢν	ambiguous: small breathing+grave mark on ω, read smooth+grave by comparison with ἢ on lines 5 and 9
+job	oldtestamenting02swet	567	27	-	-	οἶδεν	οἶδεν	image: line starts at the poetry left edge after the indented 23 line; recorded {S} by depth

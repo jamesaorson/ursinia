@@ -1,0 +1,24 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+prov	oldtestamenting02swet	497	1	᾿ξδοὺ	οὐ	οὐ	οὐ	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	497	1	παρανόμῳ, +Β	παρανόμῳ, +Β	παρανόμῳ,	παρανόμῳ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	497	3	λόγοις	ϑλόγοις	λόγοις	λόγοις	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	497	3	σκληρός"	σκληρός	σκληρός·	σκληρός·	image (3x): ano teleia after the word
+prov	oldtestamenting02swet	497	5	ἐὰν	““ἐὰν	ἐὰν	ἐὰν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	497	5	ἴδης	ἴδης	ἴδῃς	ἴδῃς	image (3x): iota subscript under eta
+prov	oldtestamenting02swet	497	6	-ἔχει	-ἔχει	ἔχει	ἔχει	image (3x): a short mid-height dash-like mark between ἐλπίδα and ἔχει, not at line end and not an ano teleia height; read as stray spacing/blemish, no punctuation (ambiguous)
+prov	oldtestamenting02swet	497	8	ἑαυτῷ.	ἑαυτῴ.	ἑαυτῷ.	ἑαυτῷ.	image (3x): circumflex and iota subscript on omega
+prov	oldtestamenting02swet	497	9	ἀνὴρ	“ἀνὴρ	ἀνὴρ	ἀνὴρ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	497	11	Ξϑὕβρις	Ξϑὕβρις	ὕβρις	ὕβρις	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	497	12	Κύριος. +24	Κύριος. +24	Κύριος.	Κύριος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	497	13	Ψυχὴν	ψυχήν +Β	ψυχήν·	ψυχήν·	image (3x): ano teleia after the word
+prov	oldtestamenting02swet	497	15	βφοβηθέντες	Ξφοβηθέντες	φοβηθέντες	φοβηθέντες	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	497	15	ὑπεσκελίσθησαν"	ὑπεσκελίσθησαν"	ὑπεσκελίσθησαν·	ὑπεσκελίσθησαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	497	19	“ὁπολλοὶ	πολλοὶ	πολλοὶ	πολλοὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	497	21	Ἰβδέλυγμα	Ὡ +7βδέλυγμα	βδέλυγμα	βδέλυγμα	image (3x): superscript verse number fused in OCR; word as read
+prov	oldtestamenting02swet	497	23	ὃ᾿'υναῖκα	““Ιυναῖκα	Γυναῖκα	Γυναῖκα	image (3x): superscript verse number fused in OCR; word as read
+prov	oldtestamenting02swet	497	24	δέ	δέ	δέ	δέ	image (3x): acute on δέ before enclitic ἐστιν
+prov	oldtestamenting02swet	497	25	“ὁθαρσεῖ	“ὁθαρσεῖ	θαρσεῖ	θαρσεῖ	image (3x): superscript verse number fused in OCR; word as read
+prov	oldtestamenting02swet	497	26	ἀπορήσει"	ἀπορήσει"	ἀπορήσει·	ἀπορήσει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	497	27	"ἐνεργεῖ	"ἐνεργεῖ	ἐνεργεῖ	ἐνεργεῖ	image (3x): superscript verse number fused in OCR; word as read
+prov	oldtestamenting02swet	497	27	βίον. +3:	βίον. +3:	βίον.	βίον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	497	6	-	-	ἔχει	ἔχει	ambiguous: short mid-height dash between ἐλπίδα and ἔχει; read as a blemish, not punctuation

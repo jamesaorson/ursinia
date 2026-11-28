@@ -260,7 +260,8 @@
 
 (lemma "οὐδείς" (sense no-one (person) (gloss "no one") (why "No one, nobody (Genesis 19:31 οὐδείς ἐστιν ἐπὶ τῆς γῆς; 20:9 ἔργον ὃ οὐδεὶς ποιήσει; John 1:18). The neuter οὐδέν, \"nothing\", will be its own sense."))
   (sense nothing (gloss "nothing") (why "The neuter οὐδέν (Swete also οὐθέν), nothing (Genesis 39:6, 8, 9, 23; 40:15 οὐκ ἐποίησα οὐδέν; John 5:19). Shares \"nothing\" with μηδέν, the same word with μή: one English for the pair, as for οὐ and μή \"not\"."))
-  (sense anyone (person) (gloss "anyone") (why "After another negative in its clause (καὶ οὐ παριστήκει οὐδείς, Genesis 45:1), the Greek doubles the negation for strength; English takes one, so the verb keeps \"not\" and οὐδείς is \"anyone\" (\"had not stood by anyone\"). \"No one\" there would cancel the \"not\" and reverse the sense. Chosen by override.")))
+  (sense anyone (person) (gloss "anyone") (why "After another negative in its clause (καὶ οὐ παριστήκει οὐδείς, Genesis 45:1), the Greek doubles the negation for strength; English takes one, so the verb keeps \"not\" and οὐδείς is \"anyone\" (\"had not stood by anyone\"). \"No one\" there would cancel the \"not\" and reverse the sense. Chosen by override."))
+  (sense anything (gloss "anything") (why "The neuter οὐδέν (οὐθέν) after another negative, as the sense anyone for persons (Genesis 39:9 οὐχ ὑπερέχει ... οὐθέν, οὐδὲ ὑπεξῄρηται ... οὐδέν): English takes one negation, \"nothing does not surpass\" would reverse it. Shares \"anything\" with μηδέν, the same word with μή, as \"nothing\" does. Chosen by override.")))
 
 (lemma "Οὐκάν" (sense name (gloss "Akan") (why "(LXX, supplied.) A son of Ezer, the Horite Σάαρ (Genesis 36:27), Greek Οὐκάν; traditional English Akan. See Ἰωυκάμ.")))
 

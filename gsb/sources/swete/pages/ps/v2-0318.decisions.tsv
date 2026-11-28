@@ -1,0 +1,24 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	318	3	Ξοκύριος	Κύριος	Κύριος	Κύριος	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	318	3	()εὐλογητός,	(“)εὐλογητός,	εὐλογητός,	εὐλογητός,	image (3x): (20) is a Hebrew verse number, recorded as # in-text comment
+ps	oldtestamenting02swet	318	4	εὐλογητὸς	εὐλογητὸς	εὐλογητὸς	εὐλογητὸς	image (3x): grave on εὐλογητὸς before Κύριος (not a quotation), as printed
+ps	oldtestamenting02swet	318	6	τὸ	τὸ	ὁ	ὁ	image (3x): ὁ with rough breathing after superscript 21; no τ
+ps	oldtestamenting02swet	318	7	θανάτου. +“Ξ	θανάτου. +Ξ̓	θανάτου.	θανάτου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	318	10	ξϑεἶπεν	ϑεἶπεν	εἶπεν	εἶπεν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	318	10	Ἔκ	Ἔκ	Ἐκ	Ἐκ	image (3x): smooth breathing only, no accent: Ἐκ
+ps	oldtestamenting02swet	318	11	θαλάσσης:	θαλάσσης"	θαλάσσης·	θαλάσσης·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	318	12	πούς	πούς	πούς	πούς	image (3x): acute before enclitic, as printed
+ps	oldtestamenting02swet	318	12	αἵματι, +:	αἵματι,	αἵματι,	αἵματι,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	318	14	ἐθεωρήθησαν	Ξ"ἐέθεωρήθησαν	ἐθεωρήθησαν	ἐθεωρήθησαν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	318	15	ἁγίῳ" +"ὁ	ἁγίῳ" +"ὁ	ἁγίῳ·	ἁγίῳ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	318	16	Ψαλλόντων,	Ψαλλόντων,	ψαλλόντων,	ψαλλόντων,	image (3x): lowercase ψ
+ps	oldtestamenting02swet	318	18	57ἐν	57ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	318	19	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing (apostrophe shape) on Ι
+ps	oldtestamenting02swet	318	21	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing (apostrophe shape) on Ι
+ps	oldtestamenting02swet	318	24	Ξοέντειλαι,	Ξέντειλαι,	ἔντειλαι,	ἔντειλαι,	image (3x): smooth + acute on ἔ; superscript 29 not text
+ps	oldtestamenting02swet	318	26	Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing (apostrophe shape) on Ι
+ps	oldtestamenting02swet	318	27	δῶρα. +δ:	δῶρα. +δ:	δῶρα.	δῶρα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	318	28	καλάμου:	καλάμου:	καλάμου·	καλάμου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	318	30	ἀργυρίῳ"	ἀργυρίῳ"	ἀργυρίῳ·	ἀργυρίῳ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	318	18	-	-	θεύν,	θεύν,	image (4x): misprint θεύν for θεόν (second vowel prints as υ with acute, both OCRs agree), kept as printed; ambiguous: could be a damaged ο
+ps	oldtestamenting02swet	318	6	-	-	σώζειν,	σώζειν,	image (3x): no iota subscript printed under ω, kept as printed

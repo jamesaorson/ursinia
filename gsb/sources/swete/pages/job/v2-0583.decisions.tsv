@@ -1,0 +1,29 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	583	2	Ξ3τίς	Ξ3τίς	τίς	τίς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	583	2	δ᾽ +᾿	δ᾽	δ᾽	δ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	583	3	Δεἴποιμι	Τεἴποιμι	εἴποιμι	εἴποιμι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	583	4	ἐλέγχων᾽	ἐλέγχων:	ἐλέγχων·	ἐλέγχων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	583	5	γνῳην	γνῳῴην	γνῴην	γνῴην	image (3x): γνῴην acute on ω with iota subscript
+job	oldtestamenting02swet	583	5	ε	ειάματα	δὲ	δὲ	image (3x): δὲ ἰάματα as written; OCR merged words
+job	oldtestamenting02swet	583	5	ιἅματα	ἃ	ἰάματα	ἰάματα	image (3x): δὲ ἰάματα as written; OCR merged words
+job	oldtestamenting02swet	583	5	α	∅	ἅ	ἅ	image (3x): ἅ rough + acute (open curl then stroke)
+job	oldtestamenting02swet	583	5	εἐρεέι;	ερέι;	ἐρεῖ,	ἐρεῖ,	image (3x): ἐρεῖ circumflex, comma
+job	oldtestamenting02swet	583	7	ἐπελεύσεταί	ἐπελεύσεταί	ἐπελεύσεταί	ἐπελεύσεταί	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	583	7	μοι:	μοι:	μοι·	μοι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	583	8	χρήσεται. +7	χρήσεται.	χρήσεται.	χρήσεται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	583	9	παρ᾽ +3	παρ᾽	παρ᾽	παρ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	583	11	δεἰὶς	δεὶς	εἰς	εἰς	image (3x): word as written; OCR fused verse number
+job	oldtestamenting02swet	583	13	ϑάριστερὰ	θάριστερὰ	ἀριστερὰ	ἀριστερὰ	image (3x): word as written; OCR fused verse number
+job	oldtestamenting02swet	583	15	ὁδόν	ὁδόν	ὁδόν	ὁδόν	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	583	16	δέ	δέ	δέ	δέ	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	583	17	"ἐξελεύσομαι	ἐξελεύσομαι	ἐξελεύσομαι	ἐξελεύσομαι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	583	18	ἐκκλίνω"	ἐκκλίνω:	ἐκκλίνω·	ἐκκλίνω·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	583	20	κόλπῳ	κόλπῳ +ΜῈ	κόλπῳ	κόλπῳ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	583	20	αὐτοῦ. +13	αὐτοῦ +ς	αὐτοῦ.	αὐτοῦ.	image (3x): period; following text is next line
+job	oldtestamenting02swet	583	21	τίς	τίς	τίς	τίς	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	583	21	ὁ	ὃ	ὁ	ὁ	image (3x): ὁ rough, no accent
+job	oldtestamenting02swet	583	23	ιὰ	ιὰ	διὰ	διὰ	image (3x): διὰ
+job	oldtestamenting02swet	583	23	ἐσπούδακα᾽	ἐσπούδακα:	ἐσπούδακα·	ἐσπούδακα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	583	25	ἐπὶ	᾿ϑΞἐπὶ	ἐπὶ	ἐπὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	583	25	κατασπουδασθῶ.	κατασπουδασθῶ᾽	κατασπουδασθῶ·	κατασπουδασθῶ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	583	27	"Κύριος	"Κύριος	Κύριος	Κύριος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip

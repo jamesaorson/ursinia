@@ -45,7 +45,8 @@
 
 (lemma "ἐγκοτέω" (sense resent (dative "") (gloss "resent" "resented" "resents" "resenting") (why "(LXX, supplied.) To bear a grudge against, with the dative (Genesis 27:41 ἐνεκότει Ἠσαὺ τῷ Ἰακώβ, \"Esau was resenting Jacob\"). \"Resent\" because \"bear a grudge\" would need an unbracketed \"a\".")))
 
-(lemma "ἔγκειμαι" (sense lie-in (gloss "lie in" "lay in" "lain in" "lies in" "lying in") (why "(LXX, supplied.) To lie in or on, be set on, be intent on (Genesis 8:21, ἔγκειται ἡ διάνοια ... ἐπὶ τὰ πονηρά, the mind lies intent on evil things). \"Lie in\" renders the ἐν- of the compound; the readable layer will say \"is set on\".")))
+(lemma "ἔγκειμαι" (sense lie-in (gloss "lie in" "lay in" "lain in" "lies in" "lying in") (why "(LXX, supplied.) To lie in or on, be set on, be intent on (Genesis 8:21, ἔγκειται ἡ διάνοια ... ἐπὶ τὰ πονηρά, the mind lies intent on evil things). \"Lie in\" renders the ἐν- of the compound; the readable layer will say \"is set on\"."))
+  (sense be-devoted (verb "be devoted" "was devoted" "been devoted") (dative "to") (gloss "be devoted" "is devoted" "was devoted" "were devoted" "been devoted" "being devoted") (why "With a dative person: to be bent on, devoted to (Genesis 34:19, ἐνέκειτο γὰρ τῇ θυγατρὶ Ἰακώβ, Shechem's love for Dinah). \"Was lying in to the daughter\" does not say it. Chosen by override.")))
 
 (lemma "ἐγκισσάω" (sense crave (intransitive) (gloss "crave" "craved" "craves" "craving") (why "(LXX, supplied.) Of animals in heat, to crave, desire to conceive (Genesis 30:38-41, the flocks ἐνκισσήσωσιν at the peeled rods; 31:10). From κίσσα, the craving of pregnancy. Swete prints the unassimilated ἐνκισσ- (and the augmented ἐνεκίσσων); the lemma has the usual ἐγ-.")))
 

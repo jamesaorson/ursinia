@@ -461,9 +461,9 @@
     ("them" 15)
     ("and" 16)
     ("spoke" 17)
-    ("of them" 18)
     ("into" 19)
-    ("the heart." 20 21)))
+    ("their" 18)
+    ("heart." (20 absorbed) 21)))
 
 (verse 22
   (status draft)
@@ -495,8 +495,8 @@
     ("And" 1)
     ("Joseph" 3)
     ("saw" 2)
-    ("Ephraim" 4)
     ("little children" 5)
+    ("of Ephraim" 4)
     ("until" 6)
     ("third" 7)
     ("generation;" 8)

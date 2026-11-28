@@ -1,0 +1,28 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	555	3	"'βἐὰν	᾿βέὰν	ἐὰν	ἐὰν	image (3x): smooth breathing + grave; superscript 15 not text
+job	oldtestamenting02swet	555	3	στῇ:	στῇ"	στῇ·	στῇ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	555	4	ὑπομείνῃ	ὑπομείνῃ:	ὑπομείνῃ·	ὑπομείνῃ·	image (3x): ano teleia; iota subscript
+job	oldtestamenting02swet	555	5	Ζ +“ὑγρὸς	“ὑγρὸς	ὑγρὸς	ὑγρὸς	image (3x): rough breathing; superscript 16 not text
+job	oldtestamenting02swet	555	5	γάρ	γάρ	γάρ	γάρ	image (3x): acute before enclitic ἐστιν
+job	oldtestamenting02swet	555	9	ψεύσεται	Ψεύσεται	ψεύσεται	ψεύσεται	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	555	9	αὐτόν"	αὐτόν"	αὐτόν·	αὐτόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	555	11	ὅτι	᾿ϑὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	555	14	δέξεται.	δέξεται. +“:	δέξεται.	δέξεται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	555	15	“᾿ἀληθινῶν	ἀληθινῶν	ἀληθινῶν	ἀληθινῶν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	555	16	ἐξομολογήσεως"	ἐξομολογήσεως" +“5.	ἐξομολογήσεως·	ἐξομολογήσεως·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	555	19	“Ὑπολαβὼν	"Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	image (3x): rough breathing on capital Υ; superscript 1 not text
+job	oldtestamenting02swet	555	19	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing on Ἰ
+job	oldtestamenting02swet	555	20	“ +γ Ἔπ᾽ ᾽	ΖΞ +Ἔπ᾽	Ἐπ᾽	Ἐπ᾽	image (3x): smooth breathing only, no accent; elision mark after π
+job	oldtestamenting02swet	555	22	3ἐὰν	3ἐὰν	ἐὰν	ἐὰν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	555	22	αὐτῷ, +᾽ ᾿ « ’ ΕῚ ΄	αὐτῷ, +᾽ ᾿ « ’ ΕῚ ΄	αὐτῷ,	αὐτῷ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	555	24	ἕνα	ένα	ἕνα	ἕνα	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	555	25	γάρ	γάρ	γάρ	γάρ	image (3x): acute before enclitic ἐστιν
+job	oldtestamenting02swet	555	25	κραταιός	κραταιός	κραταιός	κραταιός	image (3x): acute before enclitic τε
+job	oldtestamenting02swet	555	25	μέγας"	μέγας"	μέγας·	μέγας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	555	27	ὃ	5ὸ	ὁ	ὁ	image (3x): rough breathing, no accent
+job	oldtestamenting02swet	555	28	ὁ	ο	ὁ	ὁ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	555	28	αὐτὰ	αὐυτα	αὐτὰ	αὐτὰ	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	555	28	ὀργῇ:	ΟργΎῆ᾽	ὀργῇ·	ὀργῇ·	image (3x): circumflex, iota subscript, ano teleia
+job	oldtestamenting02swet	555	29	ὁ	∅	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
+job	oldtestamenting02swet	555	29	ὑπ᾽	ὑπ᾽ +»	ὑπ᾽	ὑπ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	555	30	σαλεύονται:	σαλεύονται:	σαλεύονται·	σαλεύονται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

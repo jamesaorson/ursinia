@@ -1,0 +1,25 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	354	1	“ὁἐσμίκρυνας	“ὁἐσμίκρυνας	ἐσμίκρυνας	ἐσμίκρυνας	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	354	2	αὑτοῦ	αὑτοῦ	αὐτοῦ	αὐτοῦ	image (3x): smooth breathing (apostrophe shape), not rough
+ps	oldtestamenting02swet	354	2	αἰσχύνην.	αἰσχυνην.	αἰσχύνην.	αἰσχύνην.	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	354	3	ξως	ξως	ἕως	ἕως	image (3x): rough + acute on epsilon; verse superscript 47
+ps	oldtestamenting02swet	354	4	ὀργὴ	ὀργὴ	ὀργή	ὀργή	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	354	5	τίς	τίς	τίς	τίς	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	354	5	ὑπόστασις"	ὑπόστασις"	ὑπόστασις·	ὑπόστασις·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	354	6	ἀνθρώπων +;᾽	ἀνθρώπων; +40	ἀνθρώπων;	ἀνθρώπων;	image (3x): question mark; margin number outside text
+ps	oldtestamenting02swet	354	7	τίς	τίς	τίς	τίς	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	354	8	ἅδου;	δου;	ᾅδου;	ᾅδου;	image (3x): rough + acute over alpha with iota subscript
+ps	oldtestamenting02swet	354	8	διάψαλμα. +5350	διάψαλμα. +δ	διάψαλμα.	διάψαλμα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	354	9	ἀρχαία,	ἀρχαῖα,	ἀρχαῖα,	ἀρχαῖα,	image (3x): circumflex on αι
+ps	oldtestamenting02swet	354	10	ὦμοσας	ὦμοσας	ὤμοσας	ὤμοσας	image (3x): smooth + acute on omega
+ps	oldtestamenting02swet	354	11	δ'μνήσθητι,	διμνήσθητι,	μνήσθητι,	μνήσθητι,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	354	11	σου, +-	σου, +-	σου,	σου,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	354	12	ἐθνῶν"	ἐθνῶν"	ἐθνῶν·	ἐθνῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	354	13	δξοὗὺ	βοὗὺ	οὗ	οὗ	image (3x): rough + circumflex; verse superscript 52
+ps	oldtestamenting02swet	354	13	ἐχθροί	ἐχθροί	ἐχθροί	ἐχθροί	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	354	15	ευ	ευ	εὐλογητὸς	εὐλογητὸς	image (3x): grave printed before Κύριος (not a quotation); OCR split the word
+ps	oldtestamenting02swet	354	15	ογῆτος	ογῆτος	Κύριος	Κύριος	image (3x): words and accents as typed; OCR misaligned the line
+ps	oldtestamenting02swet	354	15	Κυριος	Κυριος	εἰς	εἰς	image (3x): words and accents as typed; OCR misaligned the line
+ps	oldtestamenting02swet	354	15	εις +ΤῸν	εις +ΤΟν	τὸν	τὸν	image (3x): words and accents as typed; OCR misaligned the line
+ps	oldtestamenting02swet	354	15	γενοιτο.	γενοιτο.	γένοιτο.	γένοιτο.	image (3x): words and accents as typed; OCR misaligned the line
+ps	oldtestamenting02swet	354	10	-	-	τῇ	τῇ	image (3x): small raised dot after τῇ is a speck, not punctuation

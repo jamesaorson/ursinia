@@ -1,0 +1,45 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	343	1	αὐτό. +12	αὐτό.	αὐτό.	αὐτό.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	343	2	ὁ +Χ	ὁ	ὁ	ὁ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	343	2	λαός	λαός	λαός	λαός	image (3x): acute before enclitic, as printed
+ps	oldtestamenting02swet	343	3	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on capital
+ps	oldtestamenting02swet	343	3	μοι:	μοι:	μοι·	μοι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	343	4	ἐπιτη +εὔματα	ἐπιτὴ +εὔματα	ἐπιτηδεύματα	ἐπιτηδεύματα	image (3x): letters and accents as in C; OCR split/garbled
+ps	oldtestamenting02swet	343	4	καρδιῶν	καρδιὼν	καρδιῶν	καρδιῶν	image (3x): letters and accents as in C; OCR split/garbled
+ps	oldtestamenting02swet	343	5	αυτών,	αὐτῶν,	αὐτῶν,	αὐτῶν,	image (3x): letters and accents as in C; OCR split/garbled
+ps	oldtestamenting02swet	343	6	εν	εν»	ἐν	ἐν	image (3x): smooth breathing + grave/none as in C; superscript numbers not text
+ps	oldtestamenting02swet	343	6	Τοῖς	τοῖς	τοῖς	τοῖς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	343	6	αὐτῶ.	αὐτῶ.	αὐτῶν.	αὐτῶν.	image (3x): letters and accents as in C; OCR split/garbled
+ps	oldtestamenting02swet	343	7	"ἐεἰ	Τ̓εὲ	εἰ	εἰ	image (4x): εἰ smooth breathing, no accent; superscript 14 not text
+ps	oldtestamenting02swet	343	7	ἤκουσέν	ἤκουσέν	ἤκουσέν	ἤκουσέν	image (3x): acute before enclitic, as printed
+ps	oldtestamenting02swet	343	7	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on capital
+ps	oldtestamenting02swet	343	9	δὲν	δὲν	ἐν	ἐν	image (3x): smooth breathing + grave/none as in C; superscript numbers not text
+ps	oldtestamenting02swet	343	10	χεῖρά	χεῖρά	χεῖρά	χεῖρά	image (3x): acute before enclitic, as printed
+ps	oldtestamenting02swet	343	11	∅	“δορὶ	οἱ	οἱ	image (4x): οἱ rough breathing, no accent; superscript 16 and a speck before it not text
+ps	oldtestamenting02swet	343	11	ἐχθροὶ	ἐχθροὶ	ἐχθροὶ	ἐχθροὶ	image (3x): grave before capitalized word (not a quotation)
+ps	oldtestamenting02swet	343	12	αἰῶνα"	αἰῶνα"	αἰῶνα·	αἰῶνα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	343	13	Τκαὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	343	15	Ἀσάφ.	Ἀσάφ.	Ἀσάφ.	Ἀσάφ.	image (3x): smooth breathing on capital
+ps	oldtestamenting02swet	343	16	Ο	Ο	Ὁ	Ὁ	image (3x): rough breathing on capital
+ps	oldtestamenting02swet	343	16	ἐστὴ	ἐστὴ	ἔστη	ἔστη	image (3x): smooth + acute, ἔστη
+ps	oldtestamenting02swet	343	16	εν	εν	ἐν	ἐν	image (3x): smooth breathing + grave/none as in C; superscript numbers not text
+ps	oldtestamenting02swet	343	18	εως	εως	ἕως	ἕως	image (3x): rough + acute, ἕως
+ps	oldtestamenting02swet	343	20	Ξκρίνατε	ϑκρίνατε	κρίνατε	κρίνατε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	343	20	πτωχὸν,	πτωχόν,	πτωχόν,	πτωχόν,	image (3x): letters and accents as in C; OCR split/garbled
+ps	oldtestamenting02swet	343	21	δικαιώσατε:	δικαιώσατε:	δικαιώσατε·	δικαιώσατε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	343	22	“ἐξέλεσθε	᾿ἐξέλεσθε	ἐξέλεσθε	ἐξέλεσθε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	343	23	εκ	εκ	ἐκ	ἐκ	image (3x): smooth breathing + grave/none as in C; superscript numbers not text
+ps	oldtestamenting02swet	343	25	ἐν	εν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ps	oldtestamenting02swet	343	25	σκύτει	σκότει	σκότει	σκότει	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	343	25	διαπορεύονται:	διαπορεύονται:	διαπορεύονται·	διαπορεύονται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	343	27	δἐγὼ	ὁἐγὼ	ἐγὼ	ἐγὼ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	343	27	Θεοί	Θεοί	Θεοί	Θεοί	image (3x): acute before enclitic, as printed
+ps	oldtestamenting02swet	343	27	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before capitalized word (not a quotation)
+ps	oldtestamenting02swet	343	27	Ὑψίστου	Ὑψίστου	Ὑψίστου	Ὑψίστου	image (3x): rough breathing on capital
+ps	oldtestamenting02swet	343	27	πάντες"	πάντες"	πάντες·	πάντες·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	343	28	ἡὑμεῖς	ὑμεῖς	ὑμεῖς	ὑμεῖς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	343	29	" +ς τς ΄ ᾽ , , Και	ν +« 2 ΄ ᾽ , ν᾽ Και	καὶ	καὶ	image (3x): καὶ; OCR junk from accents above
+ps	oldtestamenting02swet	343	29	εἰς	εἰς	εἷς	εἷς	image (3x): rough breathing + circumflex, εἷς
+ps	oldtestamenting02swet	343	29	Τῶν	Τῶν	τῶν	τῶν	image (3x): letters and accents as in C; OCR split/garbled
+ps	oldtestamenting02swet	343	29	αρχοντωῶν	αρχόοντων	ἀρχόντων	ἀρχόντων	image (3x): letters and accents as in C; OCR split/garbled
+ps	oldtestamenting02swet	343	29	ΤΙΤΤΕεΤΕε.	πιπτετε.	πίπτετε.	πίπτετε.	image (3x): letters and accents as in C; OCR split/garbled

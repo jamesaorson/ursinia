@@ -1,0 +1,47 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	550	4	ω)	μ)	ἢ	ἢ	image (3x): reads as page file (ἢ grave + smooth, ὥσπερ, θιμωνιὰ, ἅλωνος rough+acute, καθ᾽, ὥραν)
+job	oldtestamenting02swet	550	4	ὠσπερ	ὠσπερ	ὥσπερ	ὥσπερ	image (3x): reads as page file (ἢ grave + smooth, ὥσπερ, θιμωνιὰ, ἅλωνος rough+acute, καθ᾽, ὥραν)
+job	oldtestamenting02swet	550	4	60	ιμωῶνια	θιμωνιὰ	θιμωνιὰ	image (3x): reads as page file (ἢ grave + smooth, ὥσπερ, θιμωνιὰ, ἅλωνος rough+acute, καθ᾽, ὥραν)
+job	oldtestamenting02swet	550	4	μωῶνια	αλῶνος	ἅλωνος	ἅλωνος	image (3x): reads as page file (ἢ grave + smooth, ὥσπερ, θιμωνιὰ, ἅλωνος rough+acute, καθ᾽, ὥραν)
+job	oldtestamenting02swet	550	4	αλώῶνος	Κα	καθ᾽	καθ᾽	image (3x): reads as page file (ἢ grave + smooth, ὥσπερ, θιμωνιὰ, ἅλωνος rough+acute, καθ᾽, ὥραν)
+job	oldtestamenting02swet	550	4	Κα +θ᾽ ωραν	ραν	ὥραν	ὥραν	image (3x): reads as page file (ἢ grave + smooth, ὥσπερ, θιμωνιὰ, ἅλωνος rough+acute, καθ᾽, ὥραν)
+job	oldtestamenting02swet	550	4	συνκομισθεῖσα.	συνκομισδεισα.	συνκομισθεῖσα.	συνκομισθεῖσα.	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	550	5	“ἰδοὺ	“ἰδοὺ	ἰδοὺ	ἰδοὺ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	550	6	ταῦτά	ταῦτά	ταῦτά	ταῦτά	image (3x): accents before enclitic as printed
+job	oldtestamenting02swet	550	6	ἀκηκύαμεν"	ἀκηκύαμεν"	ἀκηκόαμεν·	ἀκηκόαμεν·	image (3x): reads as page file; OCR misread punctuation, siglum § or verse number
+job	oldtestamenting02swet	550	7	ἐσὺ	ἐσὺ	σὺ	σὺ	image (3x): reads as page file; OCR misread punctuation, siglum § or verse number
+job	oldtestamenting02swet	550	7	εἴ	εἴ	εἴ	εἴ	image (3x): accents before enclitic as printed
+job	oldtestamenting02swet	550	7	ἔπραξας. +:	ἔπραξας. +᾿	ἔπραξας.	ἔπραξας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	550	8	Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	image (3x): rough breathing on Υ
+job	oldtestamenting02swet	550	8	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing
+job	oldtestamenting02swet	550	9	“Εἰ	“Εἰ	Εἰ	Εἰ	image (3x): smooth breathing
+job	oldtestamenting02swet	550	9	γάρ	γάρ	γάρ	γάρ	image (3x): accents before enclitic as printed
+job	oldtestamenting02swet	550	10	ὁμοθυμαδόν.	ὁμοθυμαδόν.	ὁμοθυμαδόν,	ὁμοθυμαδόν,	image (3x): reads as page file; OCR misread punctuation, siglum § or verse number
+job	oldtestamenting02swet	550	11	βκαὶ	βϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	550	11	ἔσται"	ἔσται"	ἔσται·	ἔσται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	550	12	μού	μού	μού	μού	image (3x): accents before enclitic as printed
+job	oldtestamenting02swet	550	13	βέλη +γ	βέλη	βέλη	βέλη	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	550	13	γὰρ +ρ	γὰρ	γὰρ	γὰρ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	550	13	σώματί +μ	σώματί	σώματί	σώματί	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	550	13	μού	μού	μού	μού	image (3x): accents before enclitic as printed
+job	oldtestamenting02swet	550	13	ἐστιν +᾽	ἐστιν	ἐστιν,	ἐστιν,	image (3x): accents before enclitic as printed
+job	oldtestamenting02swet	550	15	κεντοῦσί	κεντοῦσί	κεντοῦσί	κεντοῦσί	image (3x): accents before enclitic as printed
+job	oldtestamenting02swet	550	16	ὅτί	5τί	τί	τί	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	550	18	ῥήξει	ῥηξει	ῥήξει	ῥήξει	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	550	19	δεἰ	δεἰ	εἰ	εἰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	550	20	κενοῖς;	κενοῖς; +7	κενοῖς;	κενοῖς;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	550	21	παύσασθαί	παύσασθαί	παύσασθαί	παύσασθαί	image (3x): accents before enclitic as printed
+job	oldtestamenting02swet	550	21	ὀργή-	ὀργή	ὀργή·	ὀργή·	image (3x): reads as page file; OCR misread punctuation, siglum § or verse number
+job	oldtestamenting02swet	550	22	σῖτά	σῖτά	σῖτά	σῖτά	image (3x): accents before enclitic as printed
+job	oldtestamenting02swet	550	23	δεὶ	δεὶ	εἰ	εἰ	image (3x): reads as page file; OCR misread punctuation, siglum § or verse number
+job	oldtestamenting02swet	550	24	μου +μου	μου	μου	μου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	550	24	κύριο	κύριος.	κύριος.	κύριος.	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	550	25	ϑάρξάμενος	ϑάρξάμενος	ἀρξάμενος	ἀρξάμενος	image (3x): reads as page file; OCR misread punctuation, siglum § or verse number
+job	oldtestamenting02swet	550	26	μή	μή	μή	μή	image (3x): accents before enclitic as printed
+job	oldtestamenting02swet	550	27	᾿σεἴη	᾿σεἴη	εἴη	εἴη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	550	27	δέ	δέ	δέ	δέ	image (3x): accents before enclitic as printed
+job	oldtestamenting02swet	550	27	ἧἣς	ἧς	ἧς	ἧς	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	550	28	ΤῊ".	τῆς.	τῆς.	τῆς.	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	550	28	ου	οὐ	οὐ	οὐ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	550	28	φείσομαι:	φείσομαι:	φείσομαι·	φείσομαι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	550	28	-	-	τῆς.	τῆς.	ambiguous: turned-over line stands about 40 px deeper than the S1 lines but short of ζητῶν (S2); read S2

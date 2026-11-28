@@ -32,7 +32,8 @@
 
 (lemma "ῥήγνυμι"(sense burst (voice active) (verb "burst" "burst" "burst") (gloss "burst" "bursts" "bursting") (why "To break, tear; the passive, to break open, burst, is rendered as the intransitive \"burst\" (Genesis 7:11, all the springs of the abyss burst; Matthew 9:17, the wineskins burst). The transitive \"tear\" (Mark 9:18) will be its own sense.")))
 
-(lemma "ῥῆμα" (sense utterance (gloss "utterance" "utterances") (why "A thing said, an utterance, and (as a Hebraism) the matter it speaks of (Genesis 18:14 μὴ ἀδυνατεῖ παρὰ τῷ θεῷ ῥῆμα, taken up in Luke 1:37; 18:25 ὡς τὸ ῥῆμα τοῦτο). \"Utterance\" keeps it apart from λόγος \"word\" and from \"saying\", the participle of λέγω; the readable layer may say \"thing\".")))
+(lemma "ῥῆμα" (sense utterance (gloss "utterance" "utterances") (why "A thing said, an utterance, and (as a Hebraism) the matter it speaks of (Genesis 18:14 μὴ ἀδυνατεῖ παρὰ τῷ θεῷ ῥῆμα, taken up in Luke 1:37; 18:25 ὡς τὸ ῥῆμα τοῦτο). \"Utterance\" keeps it apart from λόγος \"word\" and from \"saying\", the participle of λέγω; the readable layer may say \"thing\"."))
+  (sense thing (gloss "thing" "things") (why "The Hebraism: the matter an utterance speaks of, a thing done, as object of ποιέω (Genesis 34:19 and 44:7, 17 ποιῆσαι τὸ ῥῆμα τοῦτο; 39:9 ποιήσω τὸ ῥῆμα τὸ πονηρὸν τοῦτο; Luke 2:15 ἴδωμεν τὸ ῥῆμα τοῦτο τὸ γεγονός). \"Make this utterance\" would say speaking, not doing. Chosen by override; the unbracketed \"thing\" is no other lemma's gloss.")))
 
 (lemma "ῥητίνη" (sense resin (gloss "resin" "resins") (why "(LXX, supplied; Swete spells ῥιτίνη.) Resin, the gum of trees such as the pine or terebinth (Genesis 37:25; 43:11, among the gifts for Joseph).")))
 

@@ -720,7 +720,7 @@
   (literal
     ("And" 1)
     ("he/she/it recognized" (2 recognize "ἐπιγινώσκω"))
-    ("him" 3)
+    ("him/it" 3)
     ("and" 4)
     ("said," 5)
     ("Tunic" 6)

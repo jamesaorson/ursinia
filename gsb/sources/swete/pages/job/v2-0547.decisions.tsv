@@ -1,0 +1,36 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	547	1	ὅνῦν	νῦν	νῦν	νῦν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	547	1	ἥψατό	ἥψατό	ἥψατό	ἥψατό	image (3x): acute before enclitic
+job	oldtestamenting02swet	547	2	ὁπότερον	ὁπότερον	πότερον	πότερον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	547	2	σού	σού	σού	σού	image (3x): acute before enclitic
+job	oldtestamenting02swet	547	3	ἐλπίς	ἐλπίς	ἐλπίς	ἐλπίς	image (3x): acute before enclitic
+job	oldtestamenting02swet	547	3	σου; +᾿	σου;	σου;	σου;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	547	4	ὧν	ὧν	ὢν	ὢν	image (5x): smooth + grave (same peaked mark as ἂν on leaf 545 l24), not circumflex
+job	oldtestamenting02swet	547	5	ἀπώλοντο;	ἀπώλοντο; +Ε	ἀπώλοντο;	ἀπώλοντο;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	547	6	καθ᾽	καθ᾽ +5	καθ᾽	καθ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	547	6	ἄτοπα"	ἀτοπα᾽	ἄτοπα·	ἄτοπα·	image (3x): ano teleia
+job	oldtestamenting02swet	547	8	ϑάπὸ	ϑάπὸ	ἀπὸ	ἀπὸ	image (3x): superscript verse number, not text
+job	oldtestamenting02swet	547	12	ὦλετο	ὦλετο	ὤλετο	ὤλετο	image (3x): smooth + acute (apostrophe then rising stroke), not circumflex
+job	oldtestamenting02swet	547	13	ἀλλήλους. +Τ	ἀλλήλους. +Τ	ἀλλήλους.	ἀλλήλους.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	547	14	δέ	δέ	δέ	δέ	image (3x): acute before enclitic
+job	oldtestamenting02swet	547	14	λύγοις	λόγοις	λόγοις	λόγοις	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	547	14	σου,	σου, +Ἷ	σου,	σου,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	547	15	ἄν	ἄν	ἄν	ἄν	image (3x): acute before enclitic
+job	oldtestamenting02swet	547	16	δέξεταί	δέξεταί	δέξεταί	δέξεταί	image (3x): acute before enclitic
+job	oldtestamenting02swet	547	16	παρ΄	παρ᾽	παρ᾽	παρ᾽	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	547	17	᾿βΞφόβος	᾿βΞφόβος	φόβος	φόβος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	547	19	φρίκη	"φρίκη	φρίκη	φρίκη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	547	20	διέσεισεν, +ΤΙΣ	διέσεισεν,	διέσεισεν,	διέσεισεν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	547	21	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): acute before enclitic
+job	oldtestamenting02swet	547	22	δέ	δέ	δέ	δέ	image (3x): acute before enclitic
+job	oldtestamenting02swet	547	23	ανεστην,	ἀνέστην,	ἀνέστην,	ἀνέστην,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	547	23	και	καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	547	23	εἐπεγΎνων'"	ἐπέγνων"	ἐπέγνων·	ἐπέγνων·	image (3x): ano teleia
+job	oldtestamenting02swet	547	26	710	Τί	Τί	Τί	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	547	27	ἀνήρ;	ἀνήρ; +1	ἀνήρ;	ἀνήρ;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	547	29	κατα	κατὰ	κατὰ	κατὰ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	547	29	αὐτου	αὐτοῦ	αὐτοῦ	αὐτοῦ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	547	29	σκολιόν	σκολιόν	σκολιόν	σκολιόν	image (3x): acute before enclitic
+job	oldtestamenting02swet	547	29	ἐπεμοήῆσεν"	ἐπενόησεν"	ἐπενόησεν·	ἐπενόησεν·	image (3x): ano teleia
+job	oldtestamenting02swet	547	7	-	-	ἑαυτοῖς.	ἑαυτοῖς.	ambiguous: rough breathing printed low beside ε; read ἑ
+job	oldtestamenting02swet	547	1	-	-	νῦν	νῦν	image: verse 5 line set at the S1 indent, like a second stich

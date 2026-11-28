@@ -1,0 +1,37 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	548	2	τρόπον. +“0	τρόπον.	τρόπον.	τρόπον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	548	3	πρωίθεν	πρωϊιθεν	πρωίθεν	πρωίθεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	548	3	ἑσπέρας	εσπέρας	ἑσπέρας	ἑσπέρας	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	548	3	οὐκέτι	οὔκετι	οὐκέτι	οὐκέτι	image (3x): acute on ε, smooth on υ
+job	oldtestamenting02swet	548	3	εἰσίν,	εἰσιν,	εἰσίν,	εἰσίν,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	548	4	παρὰ	παρα	παρὰ	παρὰ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	548	4	τὸ	ΤΟ	τὸ	τὸ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	548	4	δύνασθαι	υνασῦσαι	δύνασθαι	δύνασθαι	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	548	4	αὐτοὺς	αὐυτους	αὐτοὺς	αὐτοὺς	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	548	4	ἑαυτοῖς	εαῦυτοις	ἑαυτοῖς	ἑαυτοῖς	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	548	4	βοηθῆσαι	βοη	βοηθῆσαι	βοηθῆσαι	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	548	4	ἀπώλοντο.	σαι +ατπῶώλοντο. αἴ	ἀπώλοντο.	ἀπώλοντο.	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	548	6	σοφίαν. +ι	σοφίαν. +χ	σοφίαν.	σοφίαν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	548	7	τίς	τίς	τίς	τίς	image (3x): acute before enclitic
+job	oldtestamenting02swet	548	8	εἴ	εἴ	εἴ	εἴ	image (3x): acute before enclitic
+job	oldtestamenting02swet	548	8	ὄψη. +2	ὀψῃῃ. +2	ὄψῃ.	ὄψῃ.	image (3x): iota subscript under η
+job	oldtestamenting02swet	548	9	ἀφρονα	ἄφρονα	ἄφρονα	ἄφρονα	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	548	11	Ξέἐγὼ	Ξέἐγὼ	ἐγὼ	ἐγὼ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	548	13	ἱπόρρω	ἱἹπόρρω	πόρρω	πόρρω	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	548	14	∅	∅	ὁ	ὁ	image (3x): ὁ printed at the line end (OCR lost it at the box edge)
+job	oldtestamenting02swet	548	15	ἐξαιρούμενος.	ἐξαιρούμενος. +5	ἐξαιρούμενος.	ἐξαιρούμενος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	548	17	ἔσονται:	ἔσονται:	ἔσονται·	ἔσονται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	548	19	δοὺ	δοὺ	οὐ	οὐ	image (3x): superscript verse number, not text
+job	oldtestamenting02swet	548	19	ἐξέλθη	ἐξέλθη	ἐξέλθῃ	ἐξέλθῃ	image (3x): iota subscript under η
+job	oldtestamenting02swet	548	19	κύπος,	κύπος,	κόπος,	κόπος,	image (3x): ο, not υ
+job	oldtestamenting02swet	548	20	πόνος" +7	πόνος" +7	πόνος·	πόνος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	548	23	ϑοὺ	ϑοὺ	οὐ	οὐ	image (3x): superscript verse number, not text
+job	oldtestamenting02swet	548	25	τὸν	ϑτὸν	τὸν	τὸν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	548	25	ἀνεξιχνίαστα, +:	ἀνεξιχνίαστα, +:	ἀνεξιχνίαστα,	ἀνεξιχνίαστα,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	548	26	ἔνδοξά	ἔνδοξά	ἔνδοξά	ἔνδοξά	image (3x): acute before enclitic
+job	oldtestamenting02swet	548	26	ἀριθμός" +ΤῸ	ἀριθμός"	ἀριθμός·	ἀριθμός·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	548	27	τὸν +ὃ	τὸν +ὃ	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	548	28	ἐστι	ἐπὶ	ἐπὶ	ἐπὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	548	28	Τὴν	τὴν	τὴν	τὴν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	548	28	υὑτῦ	ὑπ᾽	ὑπ᾽	ὑπ᾽	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	548	28	ουρανον"	οὐρανόν"	οὐρανόν·	οὐρανόν·	image (3x): ano teleia

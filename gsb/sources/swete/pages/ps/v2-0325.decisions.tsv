@@ -1,0 +1,31 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	325	1	Εἰς	Ἐς	Εἰς	Εἰς	image (3x): Εἰς, smooth breathing on iota of the diphthong
+ps	oldtestamenting02swet	325	2	Ο	Ὃ	Ὁ	Ὁ	ambiguous: breathing on the article prints as a round dot (worn type), no accent; read rough Ὁ
+ps	oldtestamenting02swet	325	2	θεύς,	θεύς,	θεός,	θεός,	ambiguous: broken type, the epsilon prints as a filled blob; read θεός
+ps	oldtestamenting02swet	325	2	δός,	δός, +μετ , π Ἔε υν Ῥ: ΤΑ Δο	δός,	δός,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	325	4	Ξκρίνειν	“κρίνειν	κρίνειν	κρίνειν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	325	4	λαόν	λαόν	λαόν	λαόν	image (3x): acute before the enclitic σου
+ps	oldtestamenting02swet	325	4	πτωχούς	πτωχούς	πτωχούς	πτωχούς	image (3x): acute before the enclitic σου
+ps	oldtestamenting02swet	325	6	ϑἀναλαβέτω	ἀναλαβέτω	ἀναλαβέτω	ἀναλαβέτω	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	325	6	βουνοί	βουνοί.	βουνοί.	βουνοί.	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	325	7	Δὲν	ἐν	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ps	oldtestamenting02swet	325	7	δι +καιοσύνῃ ὥ)	δικαιοσύνῃ +“)	δικαιοσύνῃ	δικαιοσύνῃ	image (3x): δικαιοσύνῃ with iota subscript; (4) after it is the Hebrew verse number, recorded as a comment
+ps	oldtestamenting02swet	325	7	“τοῦ	“τοῦ	τοῦ	τοῦ	image (3x): § is printed in the text before τοῦ, kept; not a quotation mark
+ps	oldtestamenting02swet	325	7	λαοῦ	λαοῦ"	λαοῦ·	λαοῦ·	image (3x): ano teleia after λαοῦ
+ps	oldtestamenting02swet	325	9	συκοφαάντην᾽	συκοφαντην᾽	συκοφάντην·	συκοφάντην·	image (3x): συκοφάντην with acute, ano teleia
+ps	oldtestamenting02swet	325	11	γενεῶν. +ἘΠ	γενεῶν.	γενεῶν.	γενεῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ps	oldtestamenting02swet	325	14	7ἀνατελεῖ	7ἀνατελεῖ	ἀνατελεῖ	ἀνατελεῖ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	325	16	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	325	18	ϑένώπιον	ϑένώπιον	ἐνώπιον	ἐνώπιον	image (3x): superscript 9 then ἐνώπιον; no θ
+ps	oldtestamenting02swet	325	18	Αἰθίοπες,	Αἰθίοπες, +ἰ	Αἰθίοπες,	Αἰθίοπες,	image (3x): smooth breathing on iota, Αἰθίοπες
+ps	oldtestamenting02swet	325	19	λίξουσιν"	λίξουσιν"	λίξουσιν·	λίξουσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	325	20	“βασιλεῖς	“βασιλεῖς	βασιλεῖς	βασιλεῖς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	325	20	αἵ	αἵ	αἱ	αἱ	image (3x): single rough breathing on ι, no acute stroke: αἱ
+ps	oldtestamenting02swet	325	21	Ἀράβων	Ἀράβων	Ἀράβων	Ἀράβων	image (3x): smooth breathing, Ἀράβων
+ps	oldtestamenting02swet	325	21	προσάξουσιν᾽	προσάξουσιν"	προσάξουσιν·	προσάξουσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	325	22	“καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	325	24	Ὅτι	Ὅτι	ὅτι	ὅτι	image (3x): lowercase ὅτι, rough + acute
+ps	oldtestamenting02swet	325	25	β	βοηθός"	βοηθός·	βοηθός·	image (3x): βοηθός with ano teleia
+ps	oldtestamenting02swet	325	26	βοηθός +᾿ Ρ̓̔φείσεται	᾿βφείσεται	φείσεται	φείσεται	image (3x): superscript 13 then φείσεται
+ps	oldtestamenting02swet	325	27	σώσει:	σώσει:	σώσει·	σώσει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	325	28	ἐκ	"ἐκ	ἐκ	ἐκ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip

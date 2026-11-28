@@ -1,0 +1,29 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	595	1	δέ	δέ	δέ	δέ	image (3x): accent before the enclitic as printed
+job	oldtestamenting02swet	595	2	ἀπέρριψάς	ἀπέρριψάς	ἀπέρριψάς	ἀπέρριψάς	image (3x): accent before the enclitic as printed
+job	oldtestamenting02swet	595	3	"βοῖδα	"βοῖδα	οἶδα	οἶδα	image (3x): οἶδα, smooth + circumflex; OCR prefix is the verse number
+job	oldtestamenting02swet	595	3	θάνατός	θάνατός	θάνατός	θάνατός	image (3x): accent before the enclitic as printed
+job	oldtestamenting02swet	595	3	ἐκτρίψει:	ἐκτρίψει:	ἐκτρίψει·	ἐκτρίψει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	595	4	γῆ:	γῆ.	γῇ.	γῆ.	image (4x): γῆ with circumflex, no iota subscript printed (dative expected; kept as printed); point stands mid-height, lower than the ano teleia after ἐκτρίψει on the line above: read period
+job	oldtestamenting02swet	595	5	“εἰ	εἰ	εἰ	εἰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	595	6	δεηθείς	δεηθείς	δεηθείς	δεηθείς	image (3x): accent before the enclitic as printed
+job	oldtestamenting02swet	595	9	“ἐγὼ	“δέἐγὼ	ἐγὼ	ἐγὼ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	595	9	συνήντησάν	συνήντησάν	συνήντησάν	συνήντησάν	image (3x): accent before the enclitic as printed
+job	oldtestamenting02swet	595	11	7Ἵ7ὴ	7Ἃ7ὴ	ἡ	ἡ	image (4x): ἡ with rough breathing only (open c-shape, same as ὁ line 20), no accent
+job	oldtestamenting02swet	595	12	προέφθασάν	προέφθασάν	προέφθασάν	προέφθασάν	image (3x): accent before the enclitic as printed
+job	oldtestamenting02swet	595	13	ὅστένων	στένων	στένων	στένων	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	595	14	ἕστηκα	ἔστηκα	ἕστηκα	ἕστηκα	image (3x): rough breathing + acute on ἕστηκα
+job	oldtestamenting02swet	595	15	“ἀδελφὸς	“ἀδελφὸς	ἀδελφὸς	ἀδελφὸς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	595	17	ΞΡ̓̔τὸ	"τὸ	τὸ	τὸ	image (3x): τὸ; OCR junk is the verse number
+job	oldtestamenting02swet	595	18	καύματος.	καύματος. +3:	καύματος.	καύματος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	595	19	3:ἀπέβη	ἀπέβη	ἀπέβη	ἀπέβη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	595	20	ψαλμός	ψαλμός	ψαλμός	ψαλμός	image (3x): accent before the enclitic as printed
+job	oldtestamenting02swet	595	21	᾿διαθήκην	᾿διαθήκην	διαθήκην	διαθήκην	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	595	23	Ξκαὶ	Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	595	24	Ἱκανοῦ	Ἱκανοῦ	Ἱκανοῦ	Ἱκανοῦ	image (3x): rough breathing on Ἱκανοῦ
+job	oldtestamenting02swet	595	25	ϑοὐαί,	ϑοὐαί,	οὐαί,	οὐαί,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	595	27	“οὐχὶ	“οὐχὶ	οὐχὶ	οὐχὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	595	27	ὁδόν	ὁδόν	ὁδόν	ὁδόν	image (3x): accent before the enclitic as printed
+job	oldtestamenting02swet	595	28	διαβήματά	διαβήματά	διαβήματά	διαβήματά	image (3x): accent before the enclitic as printed
+job	oldtestamenting02swet	595	28	ἐξαριθμηθήσεται:	ἐξαριθμηθήσεται:	ἐξαριθμηθήσεται;	ἐξαριθμηθήσεται;	image (3x): question mark ; printed
+job	oldtestamenting02swet	595	4	-	-	γῆ.	γῆ.	ambiguous: point stands between baseline and ano teleia height; read period. No iota subscript printed under η, kept as printed

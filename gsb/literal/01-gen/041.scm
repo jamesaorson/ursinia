@@ -169,8 +169,9 @@
     ("to them" 23)
     ("the dream," 25 (26 dream "ἐνύπνιον"))
     ("and" 27)
-    ("the [one] reporting" 30 31)
+    ("[there]")
     ("was not" 28 29)
+    ("the [one] reporting" 30 31)
     ("it" 32)
     ("to Pharaoh." (33 unrendered) 34)))
 
@@ -310,12 +311,13 @@
     ("I" 14)
     ("have heard" 16)
     ("concerning" 17)
-    ("you" 18)
-    ("[ones] saying," 19)
+    ("you," 18)
+    ("[ones] saying" 19)
+    ("[that]")
+    ("you," 21)
     ("having heard" (20 hear "ἀκούω"))
-    ("you" 21)
-    ("dreams" 22)
-    ("to interpret" 23)
+    ("dreams," 22)
+    ("interpret" 23)
     ("them." 24)))
 
 (verse 16
@@ -502,8 +504,9 @@
     ("I said" 18)
     ("to the expounders," 20 (21 expounder "ἐξηγητής"))
     ("and" 22)
-    ("the [one] reporting" 25 26)
+    ("[there]")
     ("was not" 23 24)
+    ("the [one] reporting" 25 26)
     ("to me." 27)))
 
 (verse 25

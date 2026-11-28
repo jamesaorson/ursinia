@@ -1,0 +1,20 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	549	2	ἐξεγείροντα"	ἐξεγείροντα"	ἐξεγείροντα·	ἐξεγείροντα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	549	3	᾿διαλλάσσοντα	Ζ̓διαλλάσσοντα	διαλλάσσοντα	διαλλάσσοντα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	549	5	1ι3ὁ	13	ὁ	ὁ	image (3x): superscript verse number, not text
+job	oldtestamenting02swet	549	6	ἐξέστησεν"	ἐξέστησεν"	ἐξέστησεν·	ἐξέστησεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	549	7	σκύτος,	σκύτος,	σκότος,	σκότος,	image (3x): ο, not υ
+job	oldtestamenting02swet	549	9	᾿ϑάπόλοιντο	᾿ϑάπόλοιντο	ἀπόλοιντο	ἀπόλοιντο	image (3x): superscript verse number, not text
+job	oldtestamenting02swet	549	10	δυνάστου"	δυνάστου"	δυνάστου·	δυνάστου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	549	11	"“εἴη	"“εἴη	εἴη	εἴη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	549	12	ἐμφραχθείη.	ἐμφραχθείη. +17	ἐμφραχθείη.	ἐμφραχθείη.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	549	13	κύριος +.	κύριος +ε .	κύριος·	κύριος·	image (3x): ano teleia after κύριος; the heavier isolated dot far to the right, in the gap before the margin, is not text
+job	oldtestamenting02swet	549	15	ἀποκαθίστησιν᾽	ἀποκαθίστησιν	ἀποκαθίστησιν·	ἀποκαθίστησιν·	image (3x): ano teleia
+job	oldtestamenting02swet	549	18	ἅψηταί	ἅψηταί	ἅψηταί	ἅψηταί	image (3x): acute before enclitic
+job	oldtestamenting02swet	549	19	ῥύσεταί	ῥύσεταί	ῥύσεταί	ῥύσεταί	image (3x): acute before enclitic
+job	oldtestamenting02swet	549	21	“Ιἀπὸ	“Ιἀπὸ	ἀπὸ	ἀπὸ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	549	24	φοβηθῇς:	φοβηθῇς:	φοβηθῇς·	φοβηθῇς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	549	25	ξΞθῆρες	ξΞθῆρες	θῆρες	θῆρες	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	549	25	εἰρηνεύσουσίν	εἰρηνεύσουσίν	εἰρηνεύσουσίν	εἰρηνεύσουσίν	image (3x): acute before enclitic
+job	oldtestamenting02swet	549	26	“εἶτα	Γῥεἶτα	εἶτα	εἶτα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	549	13	-	-	κύριος·	κύριος·	ambiguous: an isolated heavy dot stands well to the right of this line end, outside the text; read as a stray mark, not punctuation

@@ -1,0 +1,32 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	560	3	ἅδου:	ἅδου"	ᾅδου·	ᾅδου·	image (3x): rough breathing + acute with iota subscript (dot under alpha)
+job	oldtestamenting02swet	560	4	θῇ	θῇ	ἢ	ἢ	image (4x): smooth breathing + grave, open two-part mark; superscript 9 is not text
+job	oldtestamenting02swet	560	6	᾿"ἐὰν	᾿"ἐὰν	ἐὰν	ἐὰν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	560	6	ἐποίησας;	ἐποίησας; +χω	ἐποίησας;	ἐποίησας;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	560	9	“ἄνθρωπος	“ἄνθρωπος	ἄνθρωπος	ἄνθρωπος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	560	9	λόγοις"	λόγοις"	λόγοις·	λόγοις·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	560	10	ἐρημίτῃ. +13	ἐρημίτῃ.	ἐρημίτῃ.	ἐρημίτῃ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	560	11	εἰ	13 +ἰ	εἰ	εἰ	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	560	11	σου, +.	σου, +-	σου,	σου,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	560	12	αὐτόν"	αὐτόν"	αὐτόν·	αὐτόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	560	13	ἄνομόν	ἀνομόν	ἄνομόν	ἄνομόν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	560	13	τί	τί	τί	τί	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	560	13	χερσίν	χερσίν	χερσίν	χερσίν	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	560	16	οὕτως	᾿ϑρούὕτως	οὕτως	οὕτως	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	560	16	καθαρόν,	καθαρὸν,	καθαρόν,	καθαρόν,	image (3x): acute on final omicron before comma
+job	oldtestamenting02swet	560	17	φοβηθῆς"	φοβηθῆς"	φοβηθῇς·	φοβηθῇς·	image (3x): iota subscript under eta; colon in OCR is ano teleia
+job	oldtestamenting02swet	560	19	πτοηθήση:	πτοηθήση"	πτοηθήσῃ·	πτοηθήσῃ·	image (3x): iota subscript under eta; colon in OCR is ano teleia
+job	oldtestamenting02swet	560	20	17 +ἢ	Τὴ	ἡ	ἡ	image (3x): rough breathing alone on eta; 17 is the verse superscript
+job	oldtestamenting02swet	560	20	εὐχή	εὐχή	εὐχή	εὐχή	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	560	20	ἑωσφύρος,	ἑωσφύρος,	ἑωσφόρος,	ἑωσφόρος,	image (3x): omicron, not upsilon
+job	oldtestamenting02swet	560	21	ζωή"	ζωή"	ζωή·	ζωή·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	560	22	πεποιθώς	πεποιθώς	πεποιθώς	πεποιθώς	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	560	23	ἀναφανεῖταί	ἀναφανεῖταί	ἀναφανεῖταί	ἀναφανεῖταί	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	560	24	ϑησυχάσεις	ϑἡσυχάσεις	ἡσυχάσεις	ἡσυχάσεις	image (3x): rough breathing on eta; superscript 19 not text
+job	oldtestamenting02swet	560	24	σε:	σε:	σε·	σε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	560	25	πολλοί	πολλοί	πολλοί	πολλοί	image (3x): acute before enclitic as printed
+job	oldtestamenting02swet	560	26	“οσωτηρία	“οσωτηρία	σωτηρία	σωτηρία	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	560	26	ἀπολείψει"	ἀπολείψει"	ἀπολείψει·	ἀπολείψει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	560	28	τακήσονται.	τακήσονται. +᾿	τακήσονται.	τακήσονται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	560	29	Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	image (3x): rough breathing (reversed comma)
+job	oldtestamenting02swet	560	29	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing (apostrophe)

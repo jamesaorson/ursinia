@@ -1,0 +1,34 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ps	oldtestamenting02swet	332	1	δφωτίζεις	δφωτίζεις	φωτίζεις	φωτίζεις	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	332	2	“ἐταράχθησαν	“ἐταράχθησαν	ἐταράχθησαν	ἐταράχθησαν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	332	2	καρδίᾳ:	καρδίᾳ:	καρδίᾳ·	καρδίᾳ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	332	5	ἐπιτιμησεὼς	ἐπιτιμησεὼς	ἐπιτιμήσεώς	ἐπιτιμήσεώς	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	332	5	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave on θεὸς before the name Ἰακώβ (not a quotation)
+ps	oldtestamenting02swet	332	5	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing on the capital
+ps	oldtestamenting02swet	332	7	συ	συ	σὺ	σὺ	image (3x): σὺ grave, εἶ smooth+circumflex, καὶ and τίς lowercase as in page file
+ps	oldtestamenting02swet	332	7	ει,	ει,	εἶ,	εἶ,	image (3x): σὺ grave, εἶ smooth+circumflex, καὶ and τίς lowercase as in page file
+ps	oldtestamenting02swet	332	7	Και	Και	καὶ	καὶ	image (3x): σὺ grave, εἶ smooth+circumflex, καὶ and τίς lowercase as in page file
+ps	oldtestamenting02swet	332	7	Τις	Τις	τίς	τίς	image (3x): σὺ grave, εἶ smooth+circumflex, καὶ and τίς lowercase as in page file
+ps	oldtestamenting02swet	332	7	αντιστήσεται	αντΤιστήσεται	ἀντιστήσεταί	ἀντιστήσεταί	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	332	9	ϑἐκ	ϑέκ	ἐκ	ἐκ	image (3x): word as in page file; OCR fused verse number
+ps	oldtestamenting02swet	332	10	“ἐν	“ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	332	13	ἐξομολογήσεταί	ἐξομολογήσεταί	ἐξομολογήσεταί	ἐξομολογήσεταί	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	332	15	Ξεύὔξασθε	᾿ξεὔξασθε	εὔξασθε	εὔξασθε	image (3x): word as in page file; OCR fused verse number
+ps	oldtestamenting02swet	332	15	ἡμῶν:	ἡμῶν"	ἡμῶν·	ἡμῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	332	17	βτῷ	ϑ'τῷ	τῷ	τῷ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	332	17	("53καὶ	("33καὶ	καὶ	καὶ	image (3x): in-text (13) is a parenthesized Hebrew number, recorded as # comment, not text
+ps	oldtestamenting02swet	332	19	Εἰς	Εὶς	Εἰς	Εἰς	image (3x): smooth breathing on the capital
+ps	oldtestamenting02swet	332	19	Ἰδιθούμ:	Ἰδιθούμ:	Ἰδιθούμ·	Ἰδιθούμ·	image (3x): smooth breathing on the capital
+ps	oldtestamenting02swet	332	19	Ἀσὰφ	Ἀσὰφ	Ἀσὰφ	Ἀσὰφ	image (3x): smooth breathing on the capital
+ps	oldtestamenting02swet	332	20	“Φωνῇ	“Φωνῇ	Φωνῇ	Φωνῇ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	332	21	ἡ	ἣ	ἡ	ἡ	image (3x): rough breathing + acute ἡ
+ps	oldtestamenting02swet	332	21	φωνή	φωνή	φωνή	φωνή	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	332	22	δὲν	δὲν	ἐν	ἐν	image (3x): word as in page file; OCR fused verse number
+ps	oldtestamenting02swet	332	22	θλίψεώς	θλίψεώς	θλίψεώς	θλίψεώς	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	332	23	χερσίν	χερσίν	χερσίν	χερσίν	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	332	23	ἡπατήθην"	ἡπατήθην"	ἠπατήθην·	ἠπατήθην·	image (3x): smooth breathing on η, ano teleia
+ps	oldtestamenting02swet	332	24	Ψυχή	Ψυχή	ψυχή	ψυχή	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	332	25	“ἐμνήσθην	ἐμνήσθην	ἐμνήσθην	ἐμνήσθην	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ps	oldtestamenting02swet	332	25	εὐφράνθην" +.	εὐφράνθην" +.	εὐφράνθην·	εὐφράνθην·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ps	oldtestamenting02swet	332	26	πνεῦμά	πνεῦμά	πνεῦμά	πνεῦμά	image (3x): acute before enclitic as printed
+ps	oldtestamenting02swet	332	3	-	-	εὗρον	εὗρον	ambiguous: breathing under the circumflex is a small curled mark, read rough (both OCRs agree)

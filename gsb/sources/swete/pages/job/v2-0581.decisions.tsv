@@ -1,0 +1,39 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	581	1	ὅὁδόν	ὁδόν	ὁδόν	ὁδόν	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	581	1	σου; +Β	σου; +Ῥ	σου;	σου;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	581	2	συνεισελεύσεταί	συνεισελεύσεταί	συνεισελεύσεταί	συνεισελεύσεταί	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	581	4	ἢ	ἢ	ἡ	ἡ	image (3x): ἡ, rough breathing, no accent
+job	oldtestamenting02swet	581	4	σοὺ	σοὺ	σού	σού	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	581	5	σου	σού	σού	σού	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	581	5	εισιν	εἰσιν	εἰσιν	εἰσιν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	581	5	αμαρτιαι;	ἁμαρτίαι;	ἁμαρτίαι;	ἁμαρτίαι;	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	581	6	δηνεχύραζες	δηνεχύραζες	ἠνεχύραζες	ἠνεχύραζες	image (3x): smooth breathing; OCR read verse number as δ
+job	oldtestamenting02swet	581	6	ἀδελφούς	ἀδελφούς	ἀδελφούς	ἀδελφούς	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	581	7	ἀφείλου:	ἀφείλου:	ἀφεῖλου·	ἀφείλου·	image (3x): acute on ι, ano teleia
+job	oldtestamenting02swet	581	8	Τοὐδὲ	Τοὐδὲ	οὐδὲ	οὐδὲ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	581	9	ψωμόν:	Ψψωμόν᾽	ψωμόν·	ψωμόν·	image (3x): ano teleia
+job	oldtestamenting02swet	581	10	δέ	δέ	δέ	δέ	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	581	11	ᾧκισας	ᾧκισας	ᾤκισας	ᾤκισας	image (3x): ω with smooth breathing + acute and iota subscript
+job	oldtestamenting02swet	581	11	γῆς"	γῆς"	γῆς·	γῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	581	12	χήρας	ϑχήρας	χήρας	χήρας	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	581	14	ἐκύκλωσάν	ἐκύκλωσάν	ἐκύκλωσάν	ἐκύκλωσάν	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	581	15	ἐσπούδασέν	ἐσπούδασέν	ἐσπούδασέν	ἐσπούδασέν	image (3x): accent before enclitic as printed
+job	oldtestamenting02swet	581	16	ἀχὸ	“τὸ	τὸ	τὸ	image (3x): τὸ after verse number 11
+job	oldtestamenting02swet	581	18	“μὴ	“μὴ	μὴ	μὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	581	20	καὶ	Και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	581	20	εἰπας	εἰιπας	εἶπας	εἶπας	image (3x): εἶπας circumflex with smooth breathing
+job	oldtestamenting02swet	581	20	Τὶ	ίἰ	Τί	Τί	image (3x): Τί acute
+job	oldtestamenting02swet	581	20	ἐγνὼω	εγνῶ	ἔγνω	ἔγνω	image (3x): smooth + acute
+job	oldtestamenting02swet	581	20	ὁ	ο	ὁ	ὁ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	581	20	ἰσχυρὸς,	ισχυρος,	ἰσχυρός,	ἰσχυρός,	image (3x): acute on ό, smooth breathing on ι
+job	oldtestamenting02swet	581	22	ἀγνεφέλη	᾿ἀγνεφέλη	νεφέλη	νεφέλη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	581	22	ὁραθήσεται, +«“.	ὁραθήσεται, +-..ς	ὁραθήσεται,	ὁραθήσεται,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	581	24	“μὴ	μὴ	μὴ	μὴ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	581	24	(ΐνδρες	ἄνδρες	ἄνδρες	ἄνδρες	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	581	25	τοὶ	τοὶ	οἳ	οἳ	image (6x): compact closed mark = rough + grave, οἳ
+job	oldtestamenting02swet	581	25	συνελημφθησαν	συνελημῴφθησαν	συνελήμφθησαν	συνελήμφθησαν	image (3x): acute on ή
+job	oldtestamenting02swet	581	26	αὐτῶν	αὐτῶν	αὐτῶν·	αὐτῶν·	image (3x): ano teleia
+job	oldtestamenting02swet	581	27	Τοἱ	7οἱ	οἱ	οἱ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	581	29	“ὃς	δὸς	ὃς	ὃς	image (3x): rough + grave (closed d-shape)
+job	oldtestamenting02swet	581	1	-	-	ἢ	ἢ	image (6x): smooth + grave. Line depth ambiguous: text starts ~20px right of the {S} edge, far left of {S1}; read {S}
+job	oldtestamenting02swet	581	25	-	-	οἳ	οἳ	line depth: 16 begins deeper than {S1} (near {S2} depth) though it starts a verse; recorded {S2} by depth

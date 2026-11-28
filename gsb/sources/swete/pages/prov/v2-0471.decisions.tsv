@@ -1,0 +1,17 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+prov	oldtestamenting02swet	471	1	ϑὅταν	ϑὅταν	ὅταν	ὅταν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	471	6	κρίσει. +6	κρίσει.	κρίσει.	κρίσει.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	471	10	Ψψυχῇ	ψυχῇ	ψυχῇ	ψυχῇ	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	471	11	ϑὀκνηροὺς	δὀκνηροὺς	ὀκνηροὺς	ὀκνηροὺς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	471	13	ϑὺ	ὃ	ὁ	ὁ	image (3x): ὁ rough breathing, no accent
+prov	oldtestamenting02swet	471	14	ἀδελφός	ἀδελφός	ἀδελφός	ἀδελφός	image (3x): acute on ἀδελφός before the enclitic ἐστιν
+prov	oldtestamenting02swet	471	16	ὑψοῦνται	ὑψοῦνται	ὑψοῦνται.	ὑψοῦνται.	image (3x): period printed after ὑψοῦνται
+prov	oldtestamenting02swet	471	17	ὕπαρξις	δπαρξις	ὕπαρξις	ὕπαρξις	class R6 (OCR letters differ): the other OCR reading agrees with c
+prov	oldtestamenting02swet	471	18	δὴ	δὴ	ἡ	ἡ	image (4x): ἡ with rough breathing only, no accent; the § before it is an in-text witness mark, kept; §C in the right margin is not text
+prov	oldtestamenting02swet	471	21	ϑὸς	ϑὸς	ὃς	ὃς	image (3x): ὃς rough + grave (compact closed mark); superscript 13 not text
+prov	oldtestamenting02swet	471	23	πρᾳύνει	πραᾳύνει	πραΰνει	πρᾳύνει	image (3x): iota subscript under α and acute on υ, no diaeresis: πρᾳύνει
+prov	oldtestamenting02swet	471	24	ὑποίσει;	ὑποίσει; +15	ὑποίσει;	ὑποίσει;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	471	25	δκαρδία	καρδία	καρδία	καρδία	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	471	29	δίκαιος	"δίκαιος	δίκαιος	δίκαιος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	471	29	πρωτολογίᾳ"	πρωτολογίᾳ"	πρωτολογίᾳ·	πρωτολογίᾳ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+prov	oldtestamenting02swet	471	31	“ἀντιλογίας	ἀντιλογίας	ἀντιλογίας	ἀντιλογίας	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip

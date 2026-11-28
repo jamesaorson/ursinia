@@ -8,7 +8,8 @@
 
 (lemma "παιδίον" (sense little-child (person) (gloss "little child" "little children") (why "The diminutive of παῖς: a little child, an infant (Genesis 17:12 παιδίον ὀκτὼ ἡμερῶν \"a little child of eight days\"; Matthew 2:8-21; Luke 2:17). \"Little child\" keeps it apart from τέκνον \"child\" and παῖς \"servant\".")))
 
-(lemma "παιδίσκη" (sense maidservant (person) (gloss "maidservant" "maidservants") (why "A female slave, maidservant.")))
+(lemma "παιδίσκη" (sense maidservant (person) (gloss "maidservant" "maidservants") (why "A female slave, maidservant."))
+  (sense maiden (person) (gloss "maiden" "maidens") (why "The diminutive of παῖς in its first meaning, a young girl, not a slave: Shechem's word for Dinah, Λάβε μοι τὴν παιδίσκην ταύτην εἰς γυναῖκα (Genesis 34:4), whom the chapter also calls ἡ παῖς and ἡ παρθένος. \"Maiden\", not \"girl\", which is παῖς's (feminine), so the two words stay apart in the same chapter. Chosen by override.")))
 
 (lemma "παίζω" (sense play (gloss "play" "played" "plays" "playing") (why "To play as a child does, to sport (Genesis 21:9; 1 Corinthians 10:7 ἀνέστησαν παίζειν).")))
 
@@ -180,7 +181,8 @@
     (gloss "walk" "walks" "walked" "walking")
     (why "To walk, walk about; figuratively, to live (Romans 6:4), kept as \"walk\" there too.")))
 
-(lemma "περιποιέω" (sense preserve (gloss "preserve" "preserved" "preserves" "preserving") (why "Middle: to keep safe for oneself, preserve alive, acquire (Genesis 12:12, \"but you they will preserve\"; Luke 17:33; Acts 20:28, which he acquired). \"Preserve\" for the Genesis sense; \"acquire\" is κτάομαι's.")))
+(lemma "περιποιέω" (sense preserve (gloss "preserve" "preserved" "preserves" "preserving") (why "Middle: to keep safe for oneself, preserve alive, acquire (Genesis 12:12, \"but you they will preserve\"; Luke 17:33; Acts 20:28, which he acquired). \"Preserve\" for the Genesis sense; \"acquire\" is κτάομαι's."))
+  (sense gain (gloss "gain" "gained" "gains" "gaining") (why "The middle of possessions: to get for oneself, gain (Genesis 31:18, τὴν ἀποσκευὴν αὐτοῦ ἣν περιεποιήσατο ἐν τῇ Μεσοποταμίᾳ, the baggage he had gained in Mesopotamia; Acts 20:28; 1 Timothy 3:13). \"Preserved\" there would say he kept what he got. \"Gain\" because \"acquire\" is κτάομαι's. Chosen by override.")))
 
 (lemma "περιστερά" (sense dove (gloss "dove" "doves") (why "A dove, pigeon (Genesis 8:8-12, the dove Noah sent out; Matthew 3:16, the Spirit descending as a dove).")))
 

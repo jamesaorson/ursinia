@@ -1,0 +1,24 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+prov	oldtestamenting02swet	495	3	ἀσφαλείᾳ.	ἀσφαλείᾳ. +7	ἀσφαλείᾳ.	ἀσφαλείᾳ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	495	5	ψυχῇ;	Ψυχῇ;	ψυχῇ·	ψυχῇ·	image (3x): reading as written; OCRs dropped diacritics or fused superscripts; raised point is ano teleia
+prov	oldtestamenting02swet	495	7	ὁ	᾿δὁ	ὁ	ὁ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	495	8	ὁ	ο	ὁ	ὁ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+prov	oldtestamenting02swet	495	8	ἐμπλακήσεται.	ἐμπλακῆσεται. +το	ἐμπλακήσεται.	ἐμπλακήσεται.	image (3x): reading as written; OCRs dropped diacritics or fused superscripts; raised point is ano teleia
+prov	oldtestamenting02swet	495	11	“ἀνὴρ	“ἀνὴρ	ἀνὴρ	ἀνὴρ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	495	14	Ψωμοῦ	Ψωμοῦ	ψωμοῦ	ψωμοῦ	image (3x): reading as written; OCRs dropped diacritics or fused superscripts; raised point is ano teleia
+prov	oldtestamenting02swet	495	15	“σπεύδει	σπεύδει	σπεύδει	σπεύδει	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	495	17	3ὁ	3ὁ	ὁ	ὁ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	495	17	ὁδοὺς	ὁδοὺς +:	ὁδοὺς	ὁδοὺς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	495	18	ἔξει	ἔξει	ἕξει	ἕξει	image (6x): rough+acute (open curl then rising stroke), unlike the smooth+acute on ἔστιν/ἴασις on this page
+prov	oldtestamenting02swet	495	18	γλωσσοχαριτοῦντος.	γλωσσοχαριτοῦντος. +24	γλωσσοχαριτοῦντος.	γλωσσοχαριτοῦντος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	495	19	καὶ	καὶ +ὃ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+prov	oldtestamenting02swet	495	20	κοινωνός	κοινωνός	κοινωνός	κοινωνός	image (3x): acute on κοινωνός before enclitic ἐστιν
+prov	oldtestamenting02swet	495	21	ὕβάπιστος	ἔάπιστος	ἄπιστος	ἄπιστος	image (3x): reading as written; OCRs dropped diacritics or fused superscripts; raised point is ano teleia
+prov	oldtestamenting02swet	495	23	“δὸς	“δὸς	ὃς	ὃς	image (3x): reading as written; OCRs dropped diacritics or fused superscripts; raised point is ano teleia
+prov	oldtestamenting02swet	495	23	ἄφρων"	ἀφρων᾽	ἄφρων·	ἄφρων·	image (3x): reading as written; OCRs dropped diacritics or fused superscripts; raised point is ano teleia
+prov	oldtestamenting02swet	495	25	ὋἸἴὸς	ὋἪἴὮὸς	ὃς	ὃς	image (3x): reading as written; OCRs dropped diacritics or fused superscripts; raised point is ano teleia
+prov	oldtestamenting02swet	495	28	δὲν	δὲν	ἐν	ἐν	image (3x): reading as written; OCRs dropped diacritics or fused superscripts; raised point is ano teleia
+prov	oldtestamenting02swet	495	31	ἰασις.	ἰασις.	ἴασις.	ἴασις.	image (3x): reading as written; OCRs dropped diacritics or fused superscripts; raised point is ano teleia
+prov	oldtestamenting02swet	495	32	Ξἐγκωμιαζομένων	5Ξἐγκωμιαζομένων	ἐγκωμιαζομένων	ἐγκωμιαζομένων	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+prov	oldtestamenting02swet	495	4	-	-	υἱὸν	υἱὸν	image (3x): grave on υἱὸν before καὶ (no comma)
+prov	oldtestamenting02swet	495	21	-	-	εἰκῆ,	εἰκῆ,	image (5x): no iota subscript printed under η (Swete prints ῃ with marks below elsewhere on this page); kept as printed

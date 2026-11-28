@@ -1,0 +1,24 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	544	1	ϑαλλὰ	αλλὰ	ἀλλὰ	ἀλλὰ	image (3x): superscript verse number fused, not text; letters as in page file
+job	oldtestamenting02swet	544	1	εἰπόν	εἰπὸν	εἰπόν	εἰπόν	image (3x): acute before enclitic τι
+job	oldtestamenting02swet	544	2	το	το	ὁ	ὁ	image (3x): superscript verse number fused, not text; letters as in page file
+job	oldtestamenting02swet	544	3	Ὥσπερ	Ὥσπερ	Ὥσπερ	Ὥσπερ	image (3x): rough + acute (open curl then stroke) on capital Ω
+job	oldtestamenting02swet	544	3	ἐλάλησας"	ἐλάλησας"	ἐλάλησας·	ἐλάλησας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	544	4	χειρὸς	χειρὸς	χειρὸς	χειρὸς	image (3x): grave on χειρὸς before the name Κυρίου
+job	oldtestamenting02swet	544	6	τοῖς	τοῖς +ς	τοῖς	τοῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	544	7	ἡμαρτεν	ἥμαρτεν	ἥμαρτεν	ἥμαρτεν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	544	7	Ιὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing on capital Ι
+job	oldtestamenting02swet	544	8	πΑκούσαντες	πΑκούσαντες	Ἀκούσαντες	Ἀκούσαντες	image (3x): smooth breathing on the capital; verse number not text
+job	oldtestamenting02swet	544	8	ἐπεὰ-	ἐπεὰ-	ἐπελ-	ἐπελ-	image (3x): λ before the hyphen, not ὰ
+job	oldtestamenting02swet	544	10	αὐτόν,	αὐτόν,	αὐτόν,	αὐτόν,	image (3x): acute at a line end before a comma; next line starts a name list, not a quotation
+job	oldtestamenting02swet	544	11	Ἐ̓λειφὰζ	Ἐ̓λειφὰζ	Ἐλειφὰζ	Ἐλειφὰζ	image (3x): smooth breathing on the capital; verse number not text
+job	oldtestamenting02swet	544	11	βασιλεύς,	βασιλεύς,	βασιλεύς,	βασιλεύς,	image (3x): acute at a line end before a comma; next line starts a name list, not a quotation
+job	oldtestamenting02swet	544	13	βασιλεύς"	βασιλεύς"	βασιλεύς·	βασιλεύς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	544	18	ῥηξαντες	ξ +ῥηξαντες	ῥήξαντες	ῥήξαντες	image (3x): § printed in the text before ῥήξαντες; rough breathing + acute on ρ/η
+job	oldtestamenting02swet	544	18	στολῆν,	στολην,	στολήν,	στολήν,	image (3x): acute on η
+job	oldtestamenting02swet	544	20	Ξ̓παρεκάθισαν	Ξ̓παρεκάθισαν	παρεκάθισαν	παρεκάθισαν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	544	21	ἐλάλησεν:	ἐλάλησεν"	ἐλάλησεν·	ἐλάλησεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	544	23	Ἰὼβ	Ἰὼβ	Ἰὼβ	Ἰὼβ	image (3x): smooth breathing on capital Ι
+job	oldtestamenting02swet	544	24	“λέγων	“λέγων	λέγων	λέγων	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	544	25	Ξ᾽Απόλοιτο	Β᾽Απόλοιτο	Ἀπόλοιτο	Ἀπόλοιτο	image (3x): smooth breathing on the capital; verse number not text
+job	oldtestamenting02swet	544	25	ἧ	ἧ	ᾗ	ᾗ	image (3x): rough + circumflex and iota subscript

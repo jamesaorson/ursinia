@@ -1822,13 +1822,11 @@ form	lemma	tag	sense	note
 σπονδήν	σπονδή	N-ASF
 πύργου	πύργος	N-GSM
 Γάδερ	Γάδερ	N-PRI
-Ἐφράθα	Ἐφράθα	N-PRI
 ἐδυστόκησεν	δυστοκέω	V-AAI-3S
 τοκετῷ	τοκετός	N-DSM
 σκληρῶς	σκληρῶς	ADV
 μαῖα	μαῖα	N-NSF
 ἀπέθνησκεν	ἀποθνῄσκω	V-IAI-3S
-ὀδύνης	ὀδύνη	N-GSF
 ἐκλιπὼν	ἐκλείπω	V-2AAP-NSM
 Ἐλὼμ	Ἐλώμ	N-PRI
 Ὀλιβεμά	Ὀλιβεμά	N-PRI
@@ -2121,7 +2119,6 @@ form	lemma	tag	sense	note
 πίονι	πίων	A-DSM
 Ἀποθανοῦμαι	ἀποθνῄσκω	V-FDI-1S
 ἐρῶ	λέγω	V-FAI-1S		future of λέγω (the table's εἶπον)
-ἐρεῖτε	λέγω	V-FAI-2P		future of λέγω (the table's εἶπον)
 κτηνοτρόφοι	κτηνοτρόφος	A-NPM
 ἀγιόχασιν	ἄγω	V-RAI-3P		perfect of ἄγω; Swete prints ἀγιόχασιν, the spelling of ἀγειόχασιν without ει (Genesis 46:32)
 καλέσῃ	καλέω	V-AAS-3S

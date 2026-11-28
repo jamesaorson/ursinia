@@ -1,0 +1,28 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	568	1	στροβήσει, +Ἢ	στροβήσει, +Ἂς	στροβήσει,	στροβήσει,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	568	3	πίπτων"	πίπτων"	πίπτων·	πίπτων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	568	4	δὅτι	ϑὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	568	5	Παντοκράτορος	Παυτοκράτορου	Παντοκράτορος	Παντοκράτορος	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	568	6	∅	∅	ἔδραμεν	ἔδραμεν	image (3x): ἔδραμεν, smooth breathing + acute; OCR lost the line; blot in left margin is not text
+job	oldtestamenting02swet	568	6	ὕβρει,	ὕβρει:	ὕβρει,	ὕβρει,	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	568	7	αὐτοῦ"	αὐτοῦ"	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	568	10	“δαὐλισθείη	"δαὐλισθείη	αὐλισθείη	αὐλισθείη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	568	11	ἀοικήτους"	ἀοικήτους"	ἀοικήτους·	ἀοικήτους·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	568	12	ἀποίσονται. +50,	ἀποίσονται.	ἀποίσονται.	ἀποίσονται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	568	13	ὑπάρχοντα"	ὑπάρχοντα"	ὑπάρχοντα·	ὑπάρχοντα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	568	14	γὴν	γῆν	γῆν	γῆν	image (3x): circumflex
+job	oldtestamenting02swet	568	15	∅	βοοὐδὲ	οὐδὲ	οὐδὲ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	568	15	∅	μὴ	μὴ	μὴ	class R0: OCR lost the word in extraction; c read from the image strip
+job	oldtestamenting02swet	568	15	∅	ἐκφύγῃ	ἐκφύγῃ	ἐκφύγῃ	class R0: OCR lost the word in extraction; c read from the image strip
+job	oldtestamenting02swet	568	15	∅	τὸ	τὸ	τὸ	class R0: OCR lost the word in extraction; c read from the image strip
+job	oldtestamenting02swet	568	15	∅	σκότος"	σκότος·	σκότος·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	568	16	ἘΣ +ΝΣ	ἄνεμος,	ἄνεμος,	ἄνεμος,	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	568	17	ἄνθος. +ϑ:	ἄνθος. +8:	ἄνθος.	ἄνθος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	568	19	αὐτῷ	αὐτῷ	αὐτῷ·	αὐτῷ·	image (3x): ano teleia; iota subscript
+job	oldtestamenting02swet	568	20	ϑΞῇ	ϑΞῇ	ἡ	ἡ	image (3x): ἡ with rough breathing, no accent; OCR junk from verse number
+job	oldtestamenting02swet	568	20	αὐτοῦ +(3)	αὐτοῦ +(3)	αὐτοῦ	αὐτοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	568	21	πυκάσῃ:	πυκάσῃ:;	πυκάσῃ·	πυκάσῃ·	image (3x): ano teleia; iota subscript
+job	oldtestamenting02swet	568	22	ϑϑτρυγηθείη	ϑϑτρυγηθείη	τρυγηθείη	τρυγηθείη	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	568	24	βμαρτύριον	μαρτύριον	μαρτύριον	μαρτύριον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	568	26	35ἐν	35ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	568	20	-	-	πρὸ	πρὸ	in-text parenthesized (32) printed before πρὸ ὥρας after Swete own 32; encoded {32}{=15:31} ... {=15:32} as printed

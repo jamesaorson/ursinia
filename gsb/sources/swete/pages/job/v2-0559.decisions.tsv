@@ -1,0 +1,48 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+job	oldtestamenting02swet	559	1	"ὁἀγρεύομαι	"᾿ὁἀγρεύομαι	ἀγρεύομαι	ἀγρεύομαι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	559	1	σφαγὴν᾽"	σφαγην᾽ +Β	σφαγήν·	σφαγήν·	image (3x): acute, ano teleia; margin siglum B outside
+job	oldtestamenting02swet	559	3	ἔτασίν	ἔτασίν	ἔτασίν	ἔτασίν	image (3x): acute before enclitic
+job	oldtestamenting02swet	559	3	μου	μου	μου·	μου·	image (3x): ano teleia after μου
+job	oldtestamenting02swet	559	4	ὀργῇ	Οργῇ	ὀργῇ	ὀργῇ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	559	4	δὲ	θεὲ.	δὲ	δὲ	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	559	4	μοι	μοί	μοι	μοι	image (3x): μοι unaccented
+job	oldtestamenting02swet	559	4	ἐχρήσω,	ἐχρησῶ,	ἐχρήσω,	ἐχρήσω,	image (3x): acute on η, ἐχρήσω
+job	oldtestamenting02swet	559	7	δέ	δέ	δέ	δέ	image (3x): acute on δέ before enclitic με
+job	oldtestamenting02swet	559	7	εἰδεν,	εἰδεν,	εἶδεν,	εἶδεν,	image (3x): circumflex over smooth breathing, εἶδεν
+job	oldtestamenting02swet	559	8	ὧν	ὧν	ὢν	ὢν	image (4x): smooth + grave, same shape as ἂν on line 24; ὢν
+job	oldtestamenting02swet	559	9	ἀπηλλάγην;	ἀπηλλαγην;	ἀπηλλάγην;	ἀπηλλάγην;	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	559	10	Ξοῇ	Ζοῇ	ἢ	ἢ	image (3x): smooth + grave cluster on η, same as ἂν line 24; superscript 20 not text
+job	oldtestamenting02swet	559	11	ἔασόν	ἔασόν	ἔασόν	ἔασόν	image (3x): acute before enclitic
+job	oldtestamenting02swet	559	11	μικρὸν	μικρὸν +ι	μικρὸν	μικρὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	559	14	γὴν	γῆν	γῆν	γῆν	image (3x): circumflex on γῆν
+job	oldtestamenting02swet	559	14	σκότους	σκύτους	σκότους	σκότους	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	559	14	ουὐυ	οὗ	οὗ	οὗ	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	559	14	Ουκ	οὐκ	οὐκ	οὐκ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	559	14	εστιν	ἔστιν	ἔστιν	ἔστιν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	559	15	ὁρᾷν	ὁρᾷν	ὁρᾶν	ὁρᾷν	image (3x): circumflex with iota subscript under α: ὁρᾷν as printed
+job	oldtestamenting02swet	559	16	"Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	Ὑπολαβὼν	image (3x): rough breathing on Υ
+job	oldtestamenting02swet	559	17	“Ὁ	“Ὁ	Ὁ	Ὁ	image (3x): rough breathing on capital Ο, no accent; superscript 2 not text
+job	oldtestamenting02swet	559	17	ἀντακούσεται"	ἀντακούσεται"	ἀντακούσεται·	ἀντακούσεται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+job	oldtestamenting02swet	559	18	ὃ	ὁ	ὁ	ὁ	image (3x): rough breathing, no accent
+job	oldtestamenting02swet	559	21	γάρ	γάρ	γάρ	γάρ	image (3x): acute on γάρ before enclitic ἐστιν
+job	oldtestamenting02swet	559	21	ἀντικρινόμενός	ἀντικρινόμενός	ἀντικρινόμενός	ἀντικρινόμενός	image (3x): acute before enclitic
+job	oldtestamenting02swet	559	21	σοι.	σοι. +4	σοι.	σοι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	559	22	ὅτι	ὅτι +Κ	ὅτι	ὅτι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+job	oldtestamenting02swet	559	22	Καθαρός	Καθαρός	Καθαρός	Καθαρός	image (3x): acute before enclitic
+job	oldtestamenting02swet	559	22	εἶμι	εἰμι	εἰμι	εἰμι	image (3x): smooth breathing only, no accent on εἰμι
+job	oldtestamenting02swet	559	24	Ξάλλὰ	βΞάλλὰ	ἀλλὰ	ἀλλὰ	image (3x): smooth breathing, grave; superscript 5 not text
+job	oldtestamenting02swet	559	26	δεἶῖτα	εἶτα	εἶτα	εἶτα	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	559	27	σέ;	σέ:	σέ·	σέ·	image (3x): ano teleia after σέ
+job	oldtestamenting02swet	559	28	και	καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	559	28	Τότε	τότε	τότε	τότε	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	559	28	γνωσῆ	γνώσῃ	γνώσῃ	γνώσῃ	image (3x): acute on ω, iota subscript
+job	oldtestamenting02swet	559	28	οτι	ὅτι	ὅτι	ὅτι	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	559	28	ἀξιά	ἄξιά	ἄξιά	ἄξιά	image (3x): acute before enclitic
+job	oldtestamenting02swet	559	28	7Γ +ὺ	ἀπὸ	ἀπὸ	ἀπὸ	class R6 (OCR letters differ): the other OCR reading agrees with c
+job	oldtestamenting02swet	559	28	ων	ὧν	ὧν	ὧν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+job	oldtestamenting02swet	559	28	ἡμαρτήκας.	ἡμάρτηκας.	ἡμάρτηκας.	ἡμάρτηκας.	image (3x): rough breathing, acute on α
+job	oldtestamenting02swet	559	29	“ἢ	ἢ	ἢ	ἢ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+job	oldtestamenting02swet	559	29	ιχνὸς	ἰχνὸος	ἴχνος	ἴχνος	image (3x): smooth + acute on ι, no accent on ο
+job	oldtestamenting02swet	559	29	ευρησεις;	εὑυρῆησεις;	εὑρήσεις;	εὑρήσεις;	image (3x): rough breathing on υ, acute on η
+job	oldtestamenting02swet	559	15	-	-	ὁρᾷν	ὁρᾷν	apparent misprint: iota subscript under α in infinitive ὁρᾷν (expected ὁρᾶν); kept as printed
+job	oldtestamenting02swet	559	14	-	-	εἰς	εἰς	in-text (22) before εἰς: Swete prints no own 22 (margin 21 then XI 1); encoded {=10:22}
