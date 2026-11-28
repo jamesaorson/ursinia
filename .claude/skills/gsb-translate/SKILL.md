@@ -222,10 +222,17 @@ first place that applies, then regenerate:
    - `inf-subject-by-rule`: the one pronoun after a transitive articular
      infinitive taken as its subject ("in her bearing"); if it is the object,
      pin or override.
-   - `kyrios-capital-at-start`: Κύριε/Κύριος with a capital at a speech or
-     sentence start stays "Lord"; if the context shows a man is meant, add
-     `(english "lord")`. Lower-case κύριος is "lord" by rule (Swete's capitals,
-     README "κύριος"): never add an override for that.
+   - `kyrios-check`: every κύριος is "Lord", capital or lower case (Swete's
+     lower case with the article still means God: τῷ κυρίῳ, ὁ κύριος; README
+     "κύριος"). The warning marks the forms a human lord is likely in
+     (lower case without the article, vocative, plural, a possessor after
+     it: κύριός μου, τοῦ κυρίου αὐτοῦ). Read each: if God is meant, leave
+     it; if the referent is a human being (a master, owner, husband, "lord"
+     said to a man), add `(word "ref#n" (sense master) (why "..."))`. Also
+     read every other κύριος in narrative about masters and servants: a
+     human lord with the article and no possessor (ὁ κύριος εἰς τὸν οἶκον,
+     Gen 39:16) is not flagged. Never override κύριος to `(english "Lord")`
+     or `(english "lord")`.
 
 Never edit `gsb/literal/NN-<id>/*.scm` (generated), the hand files in
 `gsb/translation/`, or the library.
@@ -276,9 +283,9 @@ Deuteronomy; from a look-ahead at Lev 1 and Deut 6):
   before εἰμί, with nothing after it but a dative, is the predicate: "he/she/it
   is fruit offering" (by rule). With a genitive after (κάρπωμά ἐστιν θυσίας)
   the rule does not fire and θυσίας may need `(tag "N-GSF")`.
-- Lower-case τῷ κυρίῳ in the formula ὀσμὴ εὐωδίας τῷ κυρίῳ is "to the lord"
-  by Swete's capitals (README "κύριος"); report it, do not override it (an
-  owner question).
+- Lower-case τῷ κυρίῳ in the formula ὀσμὴ εὐωδίας τῷ κυρίῳ is "to the Lord"
+  by rule (README "κύριος"); no override. Only a human κύριος needs data
+  (sense `master`).
 - The future as command ("you will not ...") is rendered as a future, as the
   Greek has it; οὐ before a form that could be imperative is read as the
   indicative (a form row with both readings is needed, imperative first).

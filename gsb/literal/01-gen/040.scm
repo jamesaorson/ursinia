@@ -18,7 +18,7 @@
     ("the chief baker" 14 (15 chief-baker "ἀρχισιτοποιός"))
     ("sinned" 7)
     ("to their" 18)
-    ("lord" (16 absorbed) 17)
+    ("lord" (16 absorbed) (17 master))
     ("to king" 19)
     ("of Egypt." 20)))
 
@@ -131,7 +131,7 @@
     ("the custody" 11 12)
     ("beside" 13)
     ("his" 16)
-    ("lord," (14 absorbed) 15)
+    ("lord," (14 absorbed) (15 master))
     ("saying," 17)
     ("Why" (18 why))
     ("[is it]")

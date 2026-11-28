@@ -457,7 +457,7 @@
   (literal
     ("saying," 1)
     ("We beg," 2)
-    ("lord;" 3)
+    ("lord;" (3 master))
     ("we went down" (4 go-down "καταβαίνω"))
     ("the beginning" 5 6)
     ("to purchase" (7 purchase "ὠνέομαι"))

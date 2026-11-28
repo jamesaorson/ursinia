@@ -174,19 +174,24 @@ would have sent you out"); with an optative it is potential, "would" (πῶς �
 "ever" (ὡς ἂν εἰσεπορεύοντο "as ever ... were entering"); with a subjunctive
 it stays "ever" (ὃς ἄν).
 
-**κύριος and Swete's capitals.** The generator follows the capital of the
-word as transcribed (the `word` column): Swete capitalizes Κύριος where he
-reads the divine name (mostly anarthrous: "[the] Lord", "Lord"), and prints
-κύριος in lower case for the appellative "lord": a human lord or master (ὁ
-κύριός μου, κύριε to Joseph), and also some articular or vocative uses of
-God (πρὸς τὸν κύριον Gen 4:13, 18:27; κύριε 18:30, 32; διὰ τὸ τὸν κύριον
-μετ’ αὐτοῦ εἶναι 39:23; and anarthrous Παρὰ κυρίου 24:50, to be checked on the
-scan). So lower case is "lord", with no supplied "[the]"; the capital is
-"Lord". This rests on Swete's editorial capitals, not on the Greek, which
-has none: the English keeps open what his lower case leaves open. A capital
-that may be only the position's (Κύριε opening speech, Κύριος opening a
-sentence) stays "Lord" and `check` warns `kyrios-capital-at-start`; if the
-context shows a man is addressed, override `(english "lord")`, do not guess.
+**κύριος: "Lord" unless marked human** (coordinator's decision,
+2026-11-28, awaiting the owner's confirmation; `ursinia-vff.56`). Swete's
+capital does not separate God from man: it marks the word used *without the
+article* as the divine name (Κύριος εἶπεν), while with the article he prints
+lower case even where it plainly means God (τῷ κυρίῳ, ὁ κύριος: Gen 4:3,
+18:17, Lev 1:2 and throughout Leviticus-Deuteronomy). So the generator
+ignores the case: every κύριος is "Lord", capital or lower case, and the
+article is rendered as the Greek has it (ὁ κύριος "the Lord", anarthrous
+Κύριος "[the] Lord", vocative Κύριε "Lord"). A human lord or master (a
+slave's master, an owner, a husband, a courteous "lord" to a man) is marked
+by data: sense `master` ("lord", no supplied "[the]"), by a `(word ...
+(sense master))` override or a form row, wherever the referent is a human
+being (Gen 18:12, 23-24, 39-47; Exod 21-22, 32:22). `check` warns
+`kyrios-check` for the forms a human is likely in: lower-case κύριος without
+the article, a vocative, a plural, or one followed by a genitive possessor
+(κύριός μου, τοῦ κυρίου αὐτοῦ, ὁ κύριος Ἰωσήφ). Each such word is read:
+confirm God is meant, else add the `master` override. No override is
+needed to mark God.
 
 **μή, decided in Greek order** (`mark-mh`):
 - *A question expecting "no".* μή opening a sentence that ends in a
@@ -537,8 +542,8 @@ person (see the pronoun rules); `subject-unsure` (Greek order kept, read the
 verse); `spelling` (an -ing/-ed form whose consonant doubling the rule
 cannot decide); `person-unsure` (a first singular / third plural form with
 no cue, see the pronoun rules); `inf-subject-by-rule` (an infinitive's one
-pronoun taken as its subject); `kyrios-capital-at-start` (a capital Κύριος
-that may be only the position's).
+pronoun taken as its subject); `kyrios-check` (a κύριος rendered "Lord"
+in a form a human lord is likely in: see "κύριος").
 
 Supplied words, the test (rule 16a "middle"): an override adds `[is]`,
 `[was]`, `[There]` where the verse, or a clause of it, cannot be read as an

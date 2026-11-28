@@ -96,7 +96,7 @@
 (verse 6
   (status draft)
   (literal
-    ("lord;" 1)
+    ("lord;" (1 master))
     ("but" 3)
     ("hear" (2 hear "ἀκούω"))
     ("us." 4)
@@ -228,7 +228,7 @@
     ("Beside" 1)
     ("me" 2)
     ("come to be," (3 come-to-be "γίνομαι"))
-    ("lord," 4)
+    ("lord," (4 master))
     ("and" 5)
     ("hear" (6 hear "ἀκούω"))
     ("me." 7)
@@ -300,7 +300,7 @@
 (verse 15
   (status draft)
   (literal
-    ("lord," 1)
+    ("lord," (1 master))
     ("for" 3)
     ("I have heard;" 2)
     ("of four hundred" 4)

@@ -689,8 +689,12 @@
   (sense lord
     (person)
     (anarthrous "[the]")
-    (gloss "Lord" "lord" "lords")
-    (why "Lord, master. Without the article it stands in the Septuagint for the divine name; Κύριος ὁ θεός is \"the Lord God\" as one segment, with the Greek article (before θεός) carrying the English \"the\" (see the Genesis book notes). Capitalized for God.")))
+    (gloss "Lord" "lords")
+    (why "Lord, the divine name. Without the article it stands in the Septuagint for the divine name; Κύριος ὁ θεός is \"the Lord God\" as one segment, with the Greek article (before θεός) carrying the English \"the\" (see the Genesis book notes). The default for every κύριος, capital or lower case (Swete's capital marks only the anarthrous name; gsb/literal/README.md \"κύριος\")."))
+  (sense master
+    (person)
+    (gloss "lord" "lords")
+    (why "A human lord or master: a slave's or servant's master (Genesis 24:9; Exodus 21:4-8), a courteous \"lord\" to a man (Genesis 23:6; 44:18), a husband (Genesis 18:12). Marked by data (override or form row) wherever the referent is a human being; lower-case \"lord\" against the divine \"Lord\".")))
 
 (lemma "κυρόω" (sense ratify (gloss "ratify" "ratified" "ratifies" "ratifying") (why "To make valid, ratify, confirm (Genesis 23:20, the field and cave were ratified to Abraham; Galatians 3:15; 2 Corinthians 2:8).")))
 

@@ -781,7 +781,7 @@
     ("father," (3 absorbed) 4)
     ("Do not carry" 6 8)
     ("heavily," 7)
-    ("lord;" 9)
+    ("lord;" (9 master))
     ("I am not able" 10 11)
     ("to stand up" 12)
     ("in sight of" 13)

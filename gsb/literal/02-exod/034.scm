@@ -211,7 +211,7 @@
     ("you," 7)
     ("let" (8 travel-together "συμπορεύομαι"))
     ("my" 11)
-    ("lord" (9 absorbed) 10)
+    ("Lord" (9 absorbed) 10)
     ("travel together" (cont 8))
     ("with" 12)
     ("us;" 13)

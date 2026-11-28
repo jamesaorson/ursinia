@@ -264,7 +264,7 @@
     ("the now;" 12 13)
     ("but" 15)
     ("my" 17)
-    ("lord" (14 absorbed) 16)
+    ("lord" (14 absorbed) (16 master))
     ("[is]")
     ("older." 18)))
 

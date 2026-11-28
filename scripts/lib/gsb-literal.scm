@@ -720,6 +720,11 @@ capital for a paragraph or direct speech, not for a name."
   (and (capital? text) (string? lem) (not (string-null? lem))
        (char-lower-case? (string-ref lem 0)) (not (equal? lem "κύριος"))))
 
+(define (human-lord? x)
+  "κύριος of a human lord or master: sense master (by override or form row);
+every other κύριος is \"Lord\" (gsb/literal/README.md \"κύριος\")."
+  (and (lemma-in? x "κύριος") (eq? (u x 'sense) 'master)))
+
 (define (base-units env ref words)
   (map (lambda (w r i)
          (let* ((n (word-n w))
@@ -735,11 +740,13 @@ capital for a paragraph or direct speech, not for a name."
              ;; direct speech in Swete: "said, Let".
              (lower-cap . ,(lower-cap? (word-text* w) lem))
              (person-unsure . ,(and r (> (length r) 3)))
-             ;; Swete prints Κύριος with a capital for God and κύριος in lower
-             ;; case for a human lord or master: "lord", no supplied "[the]"
-             (human-lord . ,(and (equal? lem "κύριος")
-                                 (let ((c (string-index (word-text* w) char-alphabetic?)))
-                                   (and c (char-lower-case? (string-ref (word-text* w) c))))))
+             ;; κύριος in Swete's lower case (his capital marks the anarthrous
+             ;; divine name; with the article he prints lower case even for
+             ;; God): only for the kyrios-check warning, the English is "Lord"
+             ;; either way (a human lord is sense master, by data)
+             (lower-kyrios . ,(and (equal? lem "κύριος")
+                                   (let ((c (string-index (word-text* w) char-alphabetic?)))
+                                     (and c (char-lower-case? (string-ref (word-text* w) c))))))
              ;; also a capital vocative (εἶπεν Κύριε): its capital is the speech's
              (speech . ,(and (> i 0) (or (lower-cap? (word-text* w) lem)
                                          (and (capital? (word-text* w)) (eqv? (tag-field (parse-tag tag) 'case) #\V)
@@ -1008,11 +1015,21 @@ Clauses):
     (do ((i 0 (+ i 1))) ((>= i n))
       (let* ((x (at i)) (s (and (is? x "N") (not (u x 'phrase)) (unit-sense env x))) (a (and s (field1 s 'anarthrous))))
         (when (and a (not (u x 'before)) (not (is? (at (skip-post (- i 1) -1)) "T"))
-                   ;; (not for a human lord, κύριος in lower case)
-                   (not (u x 'human-lord))
                    ;; a vocative takes no article: Κύριε "Lord"
                    (not (eqv? (case-of x) #\V)))
           (vector-set! v i (u+ x 'before a)))))
+    ;; κύριος rendered "Lord" where a human may be meant, for the
+    ;; kyrios-check warning: lower case without the article, a vocative, a
+    ;; plural, or a genitive possessor after it (κύριός μου, τοῦ κυρίου αὐτοῦ,
+    ;; ὁ κύριος Ἰωσήφ)
+    (do ((i 0 (+ i 1))) ((>= i n))
+      (let ((x (at i)) (nx (at (skip-post (+ i 1) 1))))
+        (when (and (lemma-in? x "κύριος") (not (human-lord? x)) (not (u x 'phrase)) (not (u x 'english))
+                   (or (and (u x 'lower-kyrios) (not (is? (at (skip-post (- i 1) -1)) "T")))
+                       (eqv? (case-of x) #\V)
+                       (eqv? (num-of x) #\P)
+                       (and nx (eqv? (case-of nx) #\G) (not (is? nx "T")))))
+          (vector-set! v i (u+ x 'kyrios-check #t)))))
     ;; ἐκ γῆς Αἰγύπτου, εἰς γῆν Χανάαν: γῆ with the name of a country after it
     ;; (no article on the name) is a named land, "land of Egypt" (sense land)
     (do ((i 0 (+ i 1))) ((>= i (- n 1)))
@@ -2803,7 +2820,7 @@ oblique noun, two nominatives), leave the Greek order and mark the verb
                                                  (and (numeral? s) (is? (third np) "N"))
                                                  (name-like? env s)
                                                  ;; ἦν Κύριος μετὰ Ἰωσήφ: the divine name
-                                                 (and (lemma-in? s "κύριος") (not (u s 'human-lord)))
+                                                 (and (lemma-in? s "κύριος") (not (human-lord? s)))
                                                  ;; τῷ δὲ Λαβὰν ἦσαν δύο θυγατέρες: with a dative
                                                  ;; possessor it is existential, the noun the subject
                                                  (dative-possessor?))))
@@ -3180,8 +3197,7 @@ third person imperative (let . rest)."
         ((pronoun) (cond ((eqv? (num-of x) #\P) "they") ((eqv? (gen-of x) #\F) "she") ((eqv? (gen-of x) #\N) "it") (else "he")))
         (else "")))
      ((member (gloss1 sense) '("")) "")
-     ((is? x "N") (let ((e (noun-english sense (num-of x))))
-                    (if (u x 'human-lord) (string-downcase e) e)))
+     ((is? x "N") (noun-english sense (num-of x)))
      ;; the intensive: "yourselves"; standing for the verb's subject, "you
      ;; yourselves" (αὐτοὶ ἑωράκατε "you yourselves have seen")
      ((and (is? x "P") (u x 'intensive-person))
@@ -3539,19 +3555,13 @@ speech, and a verse more than half of whose words are overridden."
                                (list 'person-unsure (format #f "~a#~a" ref (u x 'n)) (u x 'greek)
                                      "first singular or third plural, nothing in the sentence decides: the first form row is used; check it, else (tag ...) override")))
                         units)
-            ;; Κύριε opening speech, Κύριος opening a sentence: Swete's capital
-            ;; may be the position's, not the divine name's (gsb/literal/README.md)
-            (let loop ((us units) (prev #f) (acc '()))
-              (match us
-                (() (reverse acc))
-                ((x . rest)
-                 (loop rest x
-                       (if (and (lemma-in? x "κύριος") (not (u x 'human-lord)) (not (u x 'phrase)) (not (u x 'english))
-                                (or (eqv? (case-of x) #\V) (u x 'speech) (not prev) (strong-stop? (u prev 'post))))
-                           (cons (list 'kyrios-capital-at-start (format #f "~a#~a" ref (u x 'n)) (u x 'greek)
-                                       "a capital at a speech or sentence start: \"Lord\" (God) by Swete's capital; if a human is addressed or meant, override (english \"lord\")")
-                                 acc)
-                           acc)))))
+            ;; κύριος is "Lord" unless marked human (sense master): the forms a
+            ;; human is likely in are flagged (assign-roles, gsb/literal/README.md)
+            (filter-map (lambda (x)
+                          (and (u x 'kyrios-check)
+                               (list 'kyrios-check (format #f "~a#~a" ref (u x 'n)) (u x 'greek)
+                                     "rendered \"Lord\" (God); lower case without the article, vocative, plural or with a possessor: confirm God is meant, else override (sense master) for a human lord")))
+                        units)
             ;; ἐν τῷ τίκτειν αὐτήν: a transitive infinitive's one pronoun taken
             ;; as its subject by rule (mark-gerunds)
             (filter-map (lambda (x)

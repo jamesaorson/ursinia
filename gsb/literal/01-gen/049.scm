@@ -410,7 +410,7 @@
     ("deliberating" (3 deliberate "διαβουλεύομαι"))
     ("they were reviling," (4 revile "λοιδορέω"))
     ("and" 5)
-    ("lords" 8)
+    ("lords" (8 master))
     ("of arrows" (9 arrow "τόξευμα"))
     ("were pressing hard" (6 press-hard "ἐνέχω"))
     ("upon him/it;" 7)))

@@ -187,7 +187,7 @@
     ("But" 2)
     ("they said," (1 pronoun) 3)
     ("No," 4)
-    ("lord;" 5)
+    ("lord;" (5 master))
     ("your" 8)
     ("servants" (6 absorbed) (7 servant "παῖς"))
     ("we came" 9)
@@ -607,7 +607,7 @@
   (status draft)
   (literal
     ("The human" 2 3)
-    ("the lord" 4 5)
+    ("the lord" 4 (5 master))
     ("of the earth" 6 7)
     ("has spoken" 1)
     ("to" (8 to))
@@ -659,7 +659,7 @@
   (literal
     ("But" 2)
     ("the human" 4 5)
-    ("the lord" 6 7)
+    ("the lord" 6 (7 master))
     ("of the earth" 8 9)
     ("said" 1)
     ("to us," 3)

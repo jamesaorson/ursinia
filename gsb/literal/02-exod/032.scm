@@ -518,7 +518,7 @@
     ("to" (4 to))
     ("Moses," 5)
     ("Do not become angry," 6 (7 become-angry "ὀργίζω"))
-    ("lord;" 8)
+    ("lord;" (8 master))
     ("for" 10)
     ("you" 9)
     ("know" 11)

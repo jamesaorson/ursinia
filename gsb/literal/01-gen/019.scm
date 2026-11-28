@@ -38,7 +38,7 @@
     ("and" 1)
     ("he/she/it said," 2)
     ("Behold," (3 behold))
-    ("lords," 4)
+    ("lords," (4 master))
     ("turn aside" 5)
     ("to" (6 to))
     ("the house" 7 8)
@@ -447,7 +447,7 @@
     ("to" (4 to))
     ("them," 5)
     ("I beg," 6)
-    ("lord," 7)))
+    ("Lord," 7)))
 
 (verse 19
   (status draft)

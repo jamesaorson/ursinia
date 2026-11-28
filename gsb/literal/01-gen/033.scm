@@ -180,7 +180,7 @@
     ("in" 22)
     ("your" 24)
     ("eyes," 23)
-    ("lord." 25)))
+    ("lord." (25 master))))
 
 (verse 9
   (status draft)
@@ -271,7 +271,7 @@
     ("he/she/it said" 1)
     ("to him/it," 3)
     ("My" 6)
-    ("lord" (4 absorbed) 5)
+    ("lord" (4 absorbed) (5 master))
     ("knows" 7)
     ("that" 8)
     ("the little children" 9 10)
@@ -299,7 +299,7 @@
   (literal
     ("Let" (1 go-forward "προέρχομαι"))
     ("my" 4)
-    ("lord" (2 absorbed) 3)
+    ("lord" (2 absorbed) (3 master))
     ("go forward" (cont 1))
     ("ahead of" 5)
     ("the servant;" 6 7)
@@ -322,7 +322,7 @@
     ("coming" 29)
     ("to" (30 to))
     ("my" 33)
-    ("lord" (31 absorbed) 32)
+    ("lord" (31 absorbed) (32 master))
     ("into" 34)
     ("Seir." (35 name "Σηείρ"))))
 
@@ -350,7 +350,7 @@
     ("grace" 22)
     ("in front of" 23)
     ("you," 24)
-    ("lord." 25)))
+    ("lord." (25 master))))
 
 (verse 16
   (status draft)

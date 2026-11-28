@@ -266,9 +266,27 @@
 (has "gen.31.27" "I would have sent you out")
 (has "gen.44.8" "how would we steal")
 (has "gen.6.4" "as ever the sons of God were entering")             ; ὡς ἄν: iterative
-;; 6. κύριος: Swete's capital is the divine name; lower case is "lord".
-(has "gen.39.3" "lord knew that [the] Lord with him")
-(has "gen.32.4" "to my lord Esau")
+;; 6. κύριος: "Lord" in either case (Swete's capital marks only the
+;; anarthrous name); a human lord is sense master, by data.
+(has "gen.39.3" "Lord knew that [the] Lord with him")      ; no override: "Lord", no "[the]" after ὁ
+(has "gen.32.4" "to my Lord Esau")
+(let ((master-env (call-with-values load-literal-env
+                    (lambda (e problems)
+                      (let ((o (make-hash-table)))
+                        (hash-set! o "gen.39.3#4" '((sense master)))
+                        (hash-set! o "gen.32.4#8" '((sense master)))
+                        (hash-set! o "gen.24.50#8" '((sense master)))
+                        (make-env (env-forms e) (env-nt e) (env-senses e) (env-phrases e) o (make-hash-table)))))))
+  (define (gen-m ref)
+    (call-with-values (lambda () (render-verse master-env ref (assoc-ref gen-verses ref) #t (prev-verse-words ref)))
+      (lambda (segs stop?) (string-join (map car segs) " "))))
+  (check "gen.39.3 master" (and (string-contains (gen-m "gen.39.3") "lord knew that [the] Lord with him") #t) #t)
+  (check "gen.32.4 master" (and (string-contains (gen-m "gen.32.4") "to my lord Esau") #t) #t)
+  ;; master takes no supplied "[the]" (anarthrous Παρὰ κυρίου; God by default: "From [the] Lord")
+  (check "gen.24.50 master no [the]" (string-contains (gen-m "gen.24.50") "[the] lord") #f))
+(has "gen.24.50" "[the] Lord")
+(has "gen.4.13" "to the Lord")                             ; πρὸς τὸν κύριον: no override
+(has "gen.18.27" "to the Lord")
 ;; 7. Speech opening at a name, a hanging nominative, a capital after a
 ;; preposition or article (a name, not speech).
 (has "gen.16.8" "said to her, Hagar maidservant of Sarai, from where do you come?")
@@ -314,7 +332,7 @@
 (lacks "exod.23.33" "not to sin")
 (has "exod.22.28" "you will not say badly.")
 (has "exod.33.15" "If you yourself do not go, do not lead me up")
-(has "exod.22.14" "but the lord not be with him")
+(has "exod.22.14" "but the Lord not be with him")                ; no override here: "Lord"
 (has "exod.23.29" "so that the earth may not come to be wilderness")
 (has "deut.6.12" "lest you forget")
 (has "deut.6.14" "You do not go behind")
