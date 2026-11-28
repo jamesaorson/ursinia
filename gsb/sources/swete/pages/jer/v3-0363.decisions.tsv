@@ -1,0 +1,63 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	363	1	Spas.	ὃρας	δρας	δρας	image (3x): reads as page file; OCR noise from superscript number / speck
+jer	oldtestgreek00unknuoft	363	1	ods +B	οὗς +Β	οὓς	οὓς	image (8x): rough+grave compact mark (οὓς), as ὃν on the page
+jer	oldtestgreek00unknuoft	363	2	Ταβαών, +"	Γαβαών, +"	Γαβαών,	Γαβαών,	image (3x): Γ, not Τ
+jer	oldtestgreek00unknuoft	363	2	ᾧχοντο	ᾧχοντο	ᾤχοντο	ᾤχοντο	image (3x): ᾤ smooth+acute with iota subscript
+jer	oldtestgreek00unknuoft	363	2	Ταβηρωχαμάα	Ταβηρωχαμάα	Γαβηρωχαμάα	Γαβηρωχαμάα	image (3x): Γ, not Τ
+jer	oldtestgreek00unknuoft	363	3	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	image (3x): breathing on capital as in page file (smooth on Ἰ/Ἀ, smooth+acute on Ἤ/Ἔ, Αἴ diaeresis-free smooth+acute on ι)
+jer	oldtestgreek00unknuoft	363	3	“dard	"ἀπὸ	ἀπὸ	ἀπὸ	image (3x): reads as page file; OCR noise from superscript number / speck
+jer	oldtestgreek00unknuoft	363	4	αὐτῶν"	αὐτῶν"	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	363	5	Ἰσμαὴλ	Ἰσμαὴλ	Ἰσμαὴλ	Ἰσμαὴλ	image (3x): breathing on capital as in page file (smooth on Ἰ/Ἀ, smooth+acute on Ἤ/Ἔ, Αἴ diaeresis-free smooth+acute on ι)
+jer	oldtestgreek00unknuoft	363	5	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave before capitalized name
+jer	oldtestgreek00unknuoft	363	6	*Kal	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	363	6	oi	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	363	6	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	363	6	Ἰωανὰν	Ἰωὡανὰν	Ἰωανὰν	Ἰωανὰν	image (3x): breathing on capital as in page file (smooth on Ἰ/Ἀ, smooth+acute on Ἤ/Ἔ, Αἴ diaeresis-free smooth+acute on ι)
+jer	oldtestgreek00unknuoft	363	7	Ἀζαρίας	Ἀζαρίας	Ἀζαρίας	Ἀζαρίας	image (3x): breathing on capital as in page file (smooth on Ἰ/Ἀ, smooth+acute on Ἤ/Ἔ, Αἴ diaeresis-free smooth+acute on ι)
+jer	oldtestgreek00unknuoft	363	7	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave before capitalized name
+jer	oldtestgreek00unknuoft	363	8	“πρὸς	“πρὸς	πρὸς	πρὸς	image (3x): reads as page file; OCR noise from superscript number / speck
+jer	oldtestgreek00unknuoft	363	8	“lepepiay	Ἱερεμίαν	Ἰερεμίαν	Ἰερεμίαν	image (3x): breathing on capital as in page file (smooth on Ἰ/Ἀ, smooth+acute on Ἤ/Ἔ, Αἴ diaeresis-free smooth+acute on ι)
+jer	oldtestgreek00unknuoft	363	8	προφή	προφήτην	προφήτην	προφήτην	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	363	8	αἱ	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	363	8	ἸπΤεσέτω	Πεσέτω	Πεσέτω	Πεσέτω	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	363	8	ἔλεο +ς	ἔλεος	ἔλεος	ἔλεος	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	363	9	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	363	9	θεόν	θεόν	θεόν	θεόν	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	363	10	τούτων-	τούτων"	τούτων·	τούτων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	363	11	ὀφθαλμοί	ὀφθαλμοί	ὀφθαλμοί	ὀφθαλμοί	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	363	11	3xal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	363	11	6	ὃ	ὁ	ὁ	image (3x): ὁ rough breathing only, no accent
+jer	oldtestgreek00unknuoft	363	12	θεός	θεός	θεός	θεός	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	363	12	ἣ	ἣ	ᾗ	ᾗ	image (3x): ᾗ rough+circumflex with iota subscript
+jer	oldtestgreek00unknuoft	363	13	∅	"καὶ	καὶ	καὶ	image (3x): reads as page file; OCR noise from superscript number / speck
+jer	oldtestgreek00unknuoft	363	13	Ἱερεμίας	Ἱερεμίας	Ἰερεμίας	Ἰερεμίας	image (3x): breathing on capital as in page file (smooth on Ἰ/Ἀ, smooth+acute on Ἤ/Ἔ, Αἴ diaeresis-free smooth+acute on ι)
+jer	oldtestgreek00unknuoft	363	13	"Ἤκουσα:	"Ἤκουσα"	Ἤκουσα·	Ἤκουσα·	image (3x): breathing on capital as in page file (smooth on Ἰ/Ἀ, smooth+acute on Ἤ/Ἔ, Αἴ diaeresis-free smooth+acute on ι)
+jer	oldtestgreek00unknuoft	363	14	τὸν	τὸν +θ	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	363	14	τοὺς	τοὺς +λ᾽	τοὺς	τοὺς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	363	14	6	ὁ +λ	ὁ	ὁ	image (3x): ὁ rough breathing only, no accent
+jer	oldtestgreek00unknuoft	363	14	λόγος	λόγος +ὃ	λόγος	λόγος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	363	14	ὃν	ὃν +ὰ	ὃν	ὃν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	363	15	ἀναγγελώ	ἀναγγελῶ	ἀναγγελῶ	ἀναγγελῶ	image (3x): circumflex on ω
+jer	oldtestgreek00unknuoft	363	15	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	363	15	ap	ἀφ᾽	ἀφ᾽	ἀφ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	363	16	5 +ρῆμα.	5 +ρῆμα.	ῥῆμα.	ῥῆμα.	image (3x): reads as page file; OCR noise from superscript number / speck
+jer	oldtestgreek00unknuoft	363	16	Ἱερεμίᾳ	Ἱερεμίᾳ	Ἰερεμίᾳ	Ἰερεμίᾳ	image (3x): breathing on capital as in page file (smooth on Ἰ/Ἀ, smooth+acute on Ἤ/Ἔ, Αἴ diaeresis-free smooth+acute on ι)
+jer	oldtestgreek00unknuoft	363	16	Ἑστω	Ἑστω	Ἔστω	Ἔστω	image (3x): breathing on capital as in page file (smooth on Ἰ/Ἀ, smooth+acute on Ἤ/Ἔ, Αἴ diaeresis-free smooth+acute on ι)
+jer	oldtestgreek00unknuoft	363	17	ἀποστείλῃ +6	ἀποστείλῃ +6	ἀποστείλῃ	ἀποστείλῃ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	363	18	“καὶ	6 +“καὶ	καὶ	καὶ	image (3x): reads as page file; OCR noise from superscript number / speck
+jer	oldtestgreek00unknuoft	363	19	φωνὴν	φωνὴν	φωνὴν	φωνὴν	image (3x): grave before capitalized name
+jer	oldtestgreek00unknuoft	363	19	ἀποστέλλομέν	ἀποστέλλομέν	ἀποστέλλομέν	ἀποστέλλομέν	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	363	20	τῆς +7	τῆς +7	τῆς	τῆς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	363	21	τοῦ	τοῦ +θ	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	363	21	ἡμῶν.	ἡμῶν. +γ	ἡμῶν.	ἡμῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	363	21	ἡμέρας	ἡμέρας +8	ἡμέρας	ἡμέρας	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	363	22	∅	ἐγενήθη	ἐγενήθη	ἐγενήθη	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	363	22	∅	λόγος	λόγος	λόγος	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	363	22	∅	Κυρίου	Κυρίου	Κυρίου	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	363	22	∅	πρὸς	πρὸς	πρὸς	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	363	22	∅	Ἰ̓ερεμίαν.	Ἰερεμίαν.	Ἰερεμίαν.	image (3x): breathing on capital as in page file (smooth on Ἰ/Ἀ, smooth+acute on Ἤ/Ἔ, Αἴ diaeresis-free smooth+acute on ι)
+jer	oldtestgreek00unknuoft	363	22	∅	ὃκαὶ	καὶ	καὶ	image (3x): reads as page file; OCR noise from superscript number / speck
+jer	oldtestgreek00unknuoft	363	22	∅	ἐκάλεσεν	ἐκάλεσεν	ἐκάλεσεν	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	363	22	∅	Ἰωανὰν	Ἰωανὰν	Ἰωανὰν	image (3x): breathing on capital as in page file (smooth on Ἰ/Ἀ, smooth+acute on Ἤ/Ἔ, Αἴ diaeresis-free smooth+acute on ι)
+jer	oldtestgreek00unknuoft	363	22	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	363	23	ἀπὸ.	ἀπὸ.	ἀπὸ	ἀπὸ	image (3x): reads as page file; OCR noise from superscript number / speck

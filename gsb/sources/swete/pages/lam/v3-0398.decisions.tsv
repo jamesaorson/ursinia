@@ -1,0 +1,34 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+lam	oldtestgreek00unknuoft	398	1	3Kai	Τίμελ,	Γίμελ.	Γίμελ.	image (5x): centered letter heading as transcribed; OCR merged it
+lam	oldtestgreek00unknuoft	398	2	ye	∅	Καί	Καί	image (3x): acute on Καί before enclitic γε
+lam	oldtestgreek00unknuoft	398	2	∅	γε	γε	γε	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	398	4	ἐρήμῳ...	ἐρήμῳ...	ἐρήμῳ.	ἐρήμῳ.	image (3x): single period / no point, OCR added specks
+lam	oldtestgreek00unknuoft	398	5	Δάλεθ. +4	Δάλεθ. +4	Δάλεθ.	Δάλεθ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lam	oldtestgreek00unknuoft	398	6	Ἐκολλήθη	Ἐκολλήθη	Ἐκολλήθη	Ἐκολλήθη	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	398	7	δίψει"	δίψει"	δίψει·	δίψει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	398	8	ἤτησαν	ἥτησαν	ᾔτησαν	ᾔτησαν	image (3x): smooth breathing + acute and iota subscript under η: ᾔτησαν
+lam	oldtestgreek00unknuoft	398	9	530i	50ἱ	Ἤ.	Ἤ.	image (5x): heading, smooth breathing + acute (apostrophe then rising stroke) before Η
+lam	oldtestgreek00unknuoft	398	10	∅	∅	Οἱ	Οἱ	image (8x): rough breathing on ι, no accent: Οἱ
+lam	oldtestgreek00unknuoft	398	12	ὁ	ὁ	Οὐαύ.	Οὐαύ.	image (5x): centered letter heading as transcribed; OCR merged it
+lam	oldtestgreek00unknuoft	398	13	θυγατρὸς	θυγαρὺς	θυγατρὸς	θυγατρὸς	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	398	13	μου	μοὺ	μου	μου	image (3x): reads as transcribed; OCR misread or lost the word
+lam	oldtestgreek00unknuoft	398	14	Σοδόμων,	∅	Σοδόμων,	Σοδόμων,	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	398	17	| +7	᾿ +7	Ζάιν.	Ζάιν.	image (5x): centered letter heading as transcribed; OCR merged it
+lam	oldtestgreek00unknuoft	398	18	Ἐκαθαριώθησαν	Ἐκαθαριώθησαν	Ἐκαθαριώθησαν	Ἐκαθαριώθησαν	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	398	19	γάλα,	γάλα, +Ἶ	γάλα,	γάλα,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lam	oldtestgreek00unknuoft	398	20	Ἶ +ἐπυρώϑθησαν	ἐπυρώθησαν	ἐπυρώθησαν	ἐπυρώθησαν	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	398	21	ϑΕσκότασεν	δ᾽	Ἤθ.	Ἤθ.	image (5x): heading, smooth breathing + acute (apostrophe then rising stroke) before Η
+lam	oldtestgreek00unknuoft	398	22	∅	Ἐσκότασεν	Ἐσκότασεν	Ἐσκότασεν	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	398	23	Be	ἐξόδοις.	ἐξόδοις·	ἐξόδοις·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	398	26	ἐπορεύθησαν.	"Καλοὶ	Τήθ.	Τήθ.	image (5x): centered letter heading as transcribed; OCR merged it
+lam	oldtestgreek00unknuoft	398	27	∅	∅	Καλοὶ	Καλοὶ	image (3x): reads as transcribed; OCR misread or lost the word
+lam	oldtestgreek00unknuoft	398	27	∅	ἦσαν	ἦσαν	ἦσαν	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	398	27	∅	οἱ	οἱ	οἱ	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	398	27	∅	τραυμάτίαι᾽	τραυματίαι	τραυματίαι	image (3x): reads as transcribed; OCR misread or lost the word
+lam	oldtestgreek00unknuoft	398	27	∅	ῥομφαίας	ῥομφαίας	ῥομφαίας	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	398	27	∅	ἢ	ἢ	ἢ	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	398	27	∅	οἱ	οἱ	οἱ	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	398	27	∅	τρευμιαπίαι	τραυματίαι	τραυματίαι	image (3x): reads as transcribed; OCR misread or lost the word
+lam	oldtestgreek00unknuoft	398	27	∅	λιμοῦ:	λιμοῦ·	λιμοῦ·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	398	28	∅	᾿ +ἐπορεύθησαν.	ἐπορεύθησαν	ἐπορεύθησαν	image (3x): reads as transcribed; OCR misread or lost the word
+lam	oldtestgreek00unknuoft	398	28	ἀπὸ.	ἀπὸ.	ἀπὸ	ἀπὸ	image (3x): single period / no point, OCR added specks

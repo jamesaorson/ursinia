@@ -1,0 +1,56 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	362	1	∅	αὐτοῖς	αὐτοῖς	αὐτοῖς	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	362	1	Ἰσμαήλ,	Ἰσμαήλ,	Ἰσμαήλ,	Ἰσμαήλ,	image (3x): smooth breathing; accent and point as written
+jer	oldtestgreek00unknuoft	362	1	ἐπορεύοντο.	ἐπορεύοντο.	ἐπορεύοντο	ἐπορεύοντο	image (3x): speck, no point
+jer	oldtestgreek00unknuoft	362	2	Εἰσέλθετε	Εἰσέλθετε	Εἰσέλθετε	Εἰσέλθετε	image (3x): smooth breathing; accent and point as written
+jer	oldtestgreek00unknuoft	362	2	Τοδολίαν.	Τοδολίαν.	Γοδολίαν.	Γοδολίαν.	image (3x): Γ, not Τ
+jer	oldtestgreek00unknuoft	362	2	Τκαὶ	Τκαὶ	καὶ	καὶ	image (3x): verse superscript fused into καὶ
+jer	oldtestgreek00unknuoft	362	3	“kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	362	4	τῷ	τῷ +Ἰ	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	362	4	Ἰσμαήλ	Ἰσμαήλ	Ἰσμαήλ	Ἰσμαήλ	image (3x): smooth breathing; accent and point as written
+jer	oldtestgreek00unknuoft	362	4	avéAns	ἀνέλῃς	ἀνέλῃς	ἀνέλῃς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	362	5	ἔλαιον:	ἔλαιον:	ἔλαιον·	ἔλαιον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	362	6	ἐν.	ἐν.	ἐν	ἐν	image (3x): speck, no point
+jer	oldtestgreek00unknuoft	362	6	9ϑκαὶ	ϑθκαὶ	καὶ	καὶ	image (3x): verse superscript fused into καὶ
+jer	oldtestgreek00unknuoft	362	7	Ἰσμαὴλ	Ἰσμαὴλ	Ἰσμαὴλ	Ἰσμαὴλ	image (3x): smooth breathing; accent and point as written
+jer	oldtestgreek00unknuoft	362	7	ots	οὺὗς	οὓς	οὓς	image (3x): rough breathing + grave
+jer	oldtestgreek00unknuoft	362	7	φρέαρ᾽	φρέαρ᾽	φρέαρ	φρέαρ	image (3x): speck, no point
+jer	oldtestgreek00unknuoft	362	8	τοῦτό	τοῦτό	τοῦτό	τοῦτό	image (3x): τοῦτό with acute before ἐστιν
+jer	oldtestgreek00unknuoft	362	8	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave as printed before capitalized word
+jer	oldtestgreek00unknuoft	362	8	Ἀσὰ	Ἀσὰ	Ἀσὰ	Ἀσὰ	image (3x): smooth breathing; accent and point as written
+jer	oldtestgreek00unknuoft	362	9	Ἰσραήλ:	Ἰσραήλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing; accent and point as written
+jer	oldtestgreek00unknuoft	362	9	Ἰσμαὴλ	Ἰσμαὴλ	Ἰσμαὴλ	Ἰσμαὴλ	image (3x): smooth breathing; accent and point as written
+jer	oldtestgreek00unknuoft	362	9	τραυματιῶν. +*	τραυματιῶν.	τραυματιῶν.	τραυματιῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	362	10	Ἰσμαὴλ	Ἰσμαὴλ	Ἰσμαὴλ	Ἰσμαὴλ	image (3x): smooth breathing; accent and point as written
+jer	oldtestgreek00unknuoft	362	12	γειρος	εἰρος	γειρος	γειρος	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	362	12	Τοδολίᾳ	Γοδολίᾳ	Γοδολίᾳ	Γοδολίᾳ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	362	12	Ἀχεικάμ,	Ἀχεικάμ,	Ἀχεικάμ,	Ἀχεικάμ,	image (3x): smooth breathing; accent and point as written
+jer	oldtestgreek00unknuoft	362	12	ᾧχετο	ᾧχετο	ᾤχετο	ᾤχετο	image (3x): smooth + acute (apostrophe then rising stroke), ᾤ
+jer	oldtestgreek00unknuoft	362	12	Ἀμμών.	Ἀμμών +αἰ τ	Ἀμμών.	Ἀμμών.	image (3x): smooth breathing; accent and point as written
+jer	oldtestgreek00unknuoft	362	13	“kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	362	13	ἤκουσεν	ἤκουσεν +ε	ἤκουσεν	ἤκουσεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	362	13	Ἰωανὰν	Ἰωανὰν	Ἰωανὰν	Ἰωανὰν	image (3x): smooth breathing; accent and point as written
+jer	oldtestgreek00unknuoft	362	13	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave as printed before capitalized word
+jer	oldtestgreek00unknuoft	362	14	pews	μεως	μεως	μεως	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	362	14	Ἰσμαήλ,	Ἰσμαήλ,	Ἰσμαήλ,	Ἰσμαήλ,	image (3x): smooth breathing; accent and point as written
+jer	oldtestgreek00unknuoft	362	14	“καὶ	“καὶ	καὶ	καὶ	image (3x): verse superscript fused into καὶ
+jer	oldtestgreek00unknuoft	362	15	ᾧχοντο	ᾧχοντο	ᾤχοντο	ᾤχοντο	image (3x): smooth + acute (apostrophe then rising stroke), ᾤ
+jer	oldtestgreek00unknuoft	362	16	πολλοῦ	πολλοῦ.	πολλοῦ	πολλοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	362	16	Γαβαών,	Ταβαών,	Γαβαών,	Γαβαών,	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	362	16	xa	"Ξκαὶ	καὶ	καὶ	image (3x): verse superscript fused into καὶ
+jer	oldtestgreek00unknuoft	362	17	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	362	17	Ἰσμαὴλ	Ἰσμαὴλ	Ἰσμαὴλ	Ἰσμαὴλ	image (3x): smooth breathing; accent and point as written
+jer	oldtestgreek00unknuoft	362	17	Ἰωανὰν	Ἰωανὰν	Ἰωανὰν	Ἰωανὰν	image (3x): smooth breathing; accent and point as written
+jer	oldtestgreek00unknuoft	362	18	per	μετ᾽	μετ᾽	μετ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	362	18	αὐτοῦ; +"	αὐτοῦ; +"	αὐτοῦ,	αὐτοῦ,	image (3x): comma, not question mark
+jer	oldtestgreek00unknuoft	362	18	ἀνέστρεψαν.	ἀνέστρεψαν.	ἀνέστρεψαν	ἀνέστρεψαν	image (3x): speck, no point
+jer	oldtestgreek00unknuoft	362	18	Ἰωανάν.	Ἰωανάν.	Ἰωανάν.	Ἰωανάν.	image (3x): smooth breathing; accent and point as written
+jer	oldtestgreek00unknuoft	362	18	“xa	᾿"καὶ	καὶ	καὶ	image (3x): verse superscript fused into καὶ
+jer	oldtestgreek00unknuoft	362	18	Ἰσμαὴλ	Ἰσμαὴλ	Ἰσμαὴλ	Ἰσμαὴλ	image (3x): smooth breathing; accent and point as written
+jer	oldtestgreek00unknuoft	362	19	ᾧχετο	ᾧχετο	ᾤχετο	ᾤχετο	image (3x): smooth + acute (apostrophe then rising stroke), ᾤ
+jer	oldtestgreek00unknuoft	362	19	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave as printed before capitalized word
+jer	oldtestgreek00unknuoft	362	19	Ἀμμών.	Ἀμμών.	Ἀμμών.	Ἀμμών.	image (3x): smooth breathing; accent and point as written
+jer	oldtestgreek00unknuoft	362	19	‘xa	"καὶ	καὶ	καὶ	image (3x): verse superscript fused into καὶ
+jer	oldtestgreek00unknuoft	362	20	Ἰωανὰν	Ἰωανὰν	Ἰωανὰν	Ἰωανὰν	image (3x): smooth breathing; accent and point as written
+jer	oldtestgreek00unknuoft	362	21	ods	οὺς	οὓς	οὓς	image (3x): rough breathing + grave
+jer	oldtestgreek00unknuoft	362	21	Ἰσμαήλ,	Ἰσμαήλ,	Ἰσμαήλ,	Ἰσμαήλ,	image (3x): smooth breathing; accent and point as written

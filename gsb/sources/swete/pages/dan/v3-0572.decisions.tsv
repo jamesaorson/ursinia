@@ -1,0 +1,59 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan	oldtestgreek00unknuoft	572	1	kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	572	1	“Kai	"“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	572	1	αὐτοῦ +12	αὐτοῦ +τ2	αὐτοῦ	αὐτοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	572	3	Ξ̓ἐθεώρουν	Ξ̓ἐθεώρουν	ἐθεώρουν	ἐθεώρουν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	572	3	ἐπὶ +χ3	ἐπὶ +χ3	ἐπὶ	ἐπὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	572	4	vids	υἱὸς	υἱὸς	υἱὸς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	572	4	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	572	4	παλαιὸς	παλαιὸς +Ἶ	παλαιὸς	παλαιὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	572	5	παρῆν"	παρῆν:	παρῆν·	παρῆν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	572	5	“Kat	"“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	572	5	ἐδόθη +14	ἐδόθη +τ4	ἐδόθη	ἐδόθη	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	572	7	Aarpevovoa	λατρεύουσα"	λατρεύουσα·	λατρεύουσα·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	572	8	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	572	9	"Καὶ	Καὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	572	9	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ before name Δανιὴλ (not a quotation), as printed
+dan	oldtestgreek00unknuoft	572	9	Δαπιὴλ	Δανιὴλ	Δανιὴλ	Δανιὴλ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	572	9	ὁράματι +x5	ὁράματι +τε	ὁράματι	ὁράματι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	572	10	ἐτάρασσόν	ἐτάρασσόν	ἐτάρασσόν	ἐτάρασσόν	image (3x): accent before enclitic as in page file
+dan	oldtestgreek00unknuoft	572	10	διαλογισμοί	διαλογισμοί	διαλογισμοί	διαλογισμοί	image (3x): accent before enclitic as in page file
+dan	oldtestgreek00unknuoft	572	10	““προσῆλθον	““προσῆλθον	προσῆλθον	προσῆλθον	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	572	10	πρὸς +16	πρὸς +τό	πρὸς	πρὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	572	11	αὐτοῦ.	αὐτοῦ	αὐτοῦ	αὐτοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	572	12	€dy-	ἐδή-	ἐδή-	ἐδή-	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	572	13	λωσέ	λωσέ	λωσέ	λωσέ	image (3x): accent before enclitic as in page file
+dan	oldtestgreek00unknuoft	572	13	“Ταῦτα	“Ταῦτα	Ταῦτα	Ταῦτα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	572	13	τέσσαρες.	τέσσαρες.	τέσσαρες	τέσσαρες	image (3x): no point after the word; specks only
+dan	oldtestgreek00unknuoft	572	13	ai +17	αἵ +τ	αἳ	αἳ	image (8x): compact closed mark = rough breathing + grave, αἳ; margin 17 not text
+dan	oldtestgreek00unknuoft	572	14	γῆς"	γῆς"	γῆς·	γῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	572	14	‘Kal	᾿᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	572	14	ἅγιοι +18	ἅγιοι +18	ἅγιοι	ἅγιοι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	572	15	Ὑψίστου,	Ὑψίστου,	Ὑψίστου,	Ὑψίστου,	image (3x): rough breathing on capital, Ὑ
+dan	oldtestgreek00unknuoft	572	16	τότε	ϑχότε	τότε	τότε	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	572	16	θηρίου.	θηρίου.	θηρίου	θηρίου	image (3x): no point after the word; specks only
+dan	oldtestgreek00unknuoft	572	16	τοῦ +i9	τοῦ +τὸ	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	572	17	ὑπερφόβου:	ὑπερφόβου:	ὑπερφόβου·	ὑπερφόβου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	572	17	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	572	18	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	572	18	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	572	18	αὐτοῦ.	αὐτοῦ.	αὐτοῦ	αὐτοῦ	image (3x): no point after the word; specks only
+dan	oldtestgreek00unknuoft	572	19	περιπατοῦντὲς	περιπατοῦντὲς	περιπατοῦντες	περιπατοῦντες	ambiguous: image (8x): a short dot-like mark above the final ε, much smaller than a grave elsewhere on the page; read as a speck, no accent
+dan	oldtestgreek00unknuoft	572	19	ποσί:	ποσί:	ποσί·	ποσί·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	572	19	““καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	572	19	αὐτοῦ +20	αὐτοῦ +90	αὐτοῦ	αὐτοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	572	20	τοῦ.	τοῦ.	τοῦ	τοῦ	image (3x): no point after the word; specks only
+dan	oldtestgreek00unknuoft	572	20	Tod,	τοῦ:	τοῦ	τοῦ	image (3x): τοῦ with circumflex, no comma or point after
+dan	oldtestgreek00unknuoft	572	22	πρύσοψις	πρύσοψις	πρόσοψις	πρόσοψις	image (3x): ο with acute, πρόσοψις
+dan	oldtestgreek00unknuoft	572	22	«αὐτοῦ	«αὐτοῦ	αὐτοῦ	αὐτοῦ	image (3x): mark before αὐτοῦ is a speck, not text
+dan	oldtestgreek00unknuoft	572	22	ἄλχα.	ἄλλα. +ξι	ἄλλα.	ἄλλα.	image (3x): λλ, ἄλλα.
+dan	oldtestgreek00unknuoft	572	23	«al	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	572	23	τοὺς +21	τοὺς +-1	τοὺς	τοὺς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	572	24	“ἕως	“ἕως	ἕως	ἕως	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	572	24	ἡμε- +22	ἡμε- +29	ἡμε-	ἡμε-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	572	26	Kal	“ϑΞκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	572	26	περὶ +23	περὶ +23	περὶ	περὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	572	28	mapa	παρὰ	παρὰ	παρὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	572	29	kal	24 +“'καὶ	καὶ	καὶ	image (3x): superscript verse number, not text
+dan	oldtestgreek00unknuoft	572	29	κέρατα +24	κέρατα +4	κέρατα	κέρατα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	572	19	-	-	περιπατοῦντες	περιπατοῦντες	ambiguous: dot-like mark over final ε (OCRs read grave); read as a speck

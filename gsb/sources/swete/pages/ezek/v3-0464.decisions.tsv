@@ -1,0 +1,59 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	464	1	τείχη.	τείχη.	τείχη	τείχη	image (3x): speck, not a period
+ezek	oldtestgreek00unknuoft	464	1	ἐπιθυμητούς	ἐπιθυμητούς	ἐπιθυμητούς	ἐπιθυμητούς	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	464	1	cov.	σοὺ	σου	σου	image (3x): reads as in page file (σου unaccented, κατοι- unaccented, πρὸς present; OCR noise)
+ezek	oldtestgreek00unknuoft	464	2	σοὺ	σοὺ	σου	σου	image (3x): reads as in page file (σου unaccented, κατοι- unaccented, πρὸς present; OCR noise)
+ezek	oldtestgreek00unknuoft	464	2	σοὺ	σοὺ	σου	σου	image (3x): reads as in page file (σου unaccented, κατοι- unaccented, πρὸς present; OCR noise)
+ezek	oldtestgreek00unknuoft	464	3	"ϑκαὶ	""καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	464	3	τὸ.	τὸ.	τὸ	τὸ	ambiguous: small light dot after τὸ, lighter and smaller than the real points on the line; read as speck, not a period
+ezek	oldtestgreek00unknuoft	464	3	ἡ +13	ἡ	ἡ	ἡ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	464	4	φωνὴ	13 +φ ὠνὴ	φωνὴ	φωνὴ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	464	4	Ψαλτηρίων	ψαλτηρίων	ψαλτηρίων	ψαλτηρίων	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	464	4	gov.	σου	σου	σου	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	464	4	“Kai	14 +"καὶ	καὶ	καὶ	image (3x): reads as in page file (σου unaccented, κατοι- unaccented, πρὸς present; OCR noise)
+ezek	oldtestgreek00unknuoft	464	4	σε +14	σε	σε	σε	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	464	5	λεωπετρίαν,	τη +εωπετρίαν,	λεωπετρίαν,	λεωπετρίαν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	464	5	Ψψυγμὸς	ψυγμὸς	ψυγμὸς	ψυγμὸς	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	464	5	ἔσῃ"	ἔσῃ"	ἔσῃ·	ἔσῃ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	464	5	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave before Κύριος as printed
+ezek	oldtestgreek00unknuoft	464	6	᾿δ5διότι	᾿δδιότε	διότι	διότι	image (3x): reads as in page file (σου unaccented, κατοι- unaccented, πρὸς present; OCR noise)
+ezek	oldtestgreek00unknuoft	464	6	τῇ +15	τῇ +τ5	τῇ	τῇ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	464	7	Σόρ	Σόρ	Σόρ	Σόρ	image (3x): acute on Σόρ before capitalized quotation Οὐκ
+ezek	oldtestgreek00unknuoft	464	7	Οὐκ	Οὐκ	Οὐκ	Οὐκ	image (3x): breathing as printed (Οὐκ smooth; Υἱὲ rough on ι)
+ezek	oldtestgreek00unknuoft	464	7	πτώσεώς	πτώσεώς	πτώσεώς	πτώσεώς	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	464	8	ἐν.	ἐν.	ἐν	ἐν	image (3x): speck, not a period
+ezek	oldtestgreek00unknuoft	464	8	“καὶ +τό	“καὶ +τό	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	464	9	ἐκ.	ἐκ.	ἐκ	ἐκ	image (3x): speck, not a period
+ezek	oldtestgreek00unknuoft	464	10	μίτρας.	μίτρας	μίτρας	μίτρας	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	464	11	ποικίλον.	ποικίλον.	ποικίλον	ποικίλον	image (3x): speck, not a period
+ezek	oldtestgreek00unknuoft	464	11	ἐκδύσονται:	ἐκδύσονται:	ἐκδύσονται·	ἐκδύσονται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	464	13	σέ:	σέ:	σέ·	σέ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	464	13	Kai	"7καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	464	14	17 +ἐροῦσίν.	17 +ἐροῦσίν.	ἐροῦσίν	ἐροῦσίν	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	464	15	πᾶσι.	πᾶσι	πᾶσι	πᾶσι	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	464	15	«κατοικοῦσιν	«κατοικοῦσιν	κατοικοῦσιν	κατοικοῦσιν	image (3x): reads as in page file (σου unaccented, κατοι- unaccented, πρὸς present; OCR noise)
+ezek	oldtestgreek00unknuoft	464	15	"καὶ	"“᾿καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	464	15	φοβη- +18	φοβη- +τ8	φοβη-	φοβη-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	464	16	νῆσοι.	νῆσοι.	νῆσοι	νῆσοι	image (3x): speck, not a period
+ezek	oldtestgreek00unknuoft	464	16	πτὠώσεώς	πτώσεώς	πτώσεώς	πτώσεώς	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	464	16	᾿ὅτι	“ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	464	16	κύριος +τὸ	κύριος +τὸ	κύριος	κύριος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	464	17	Ὅταν.	ὍὍσταν.	Ὅταν	Ὅταν	image (3x): Ὅταν, rough + acute (open curl then rising stroke)
+ezek	oldtestgreek00unknuoft	464	17	oe	σε	σε	σε	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	464	17	κατοί-	κατοί-	κατοι-	κατοι-	image (3x): reads as in page file (σου unaccented, κατοι- unaccented, πρὸς present; OCR noise)
+ezek	oldtestgreek00unknuoft	464	19	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	464	19	σε:πρὸς	σε:πρὸς	σε	σε	image (3x): reads as in page file (σου unaccented, κατοι- unaccented, πρὸς present; OCR noise)
+ezek	oldtestgreek00unknuoft	464	19	∅	∅	πρὸς	πρὸς	image (3x): reads as in page file (σου unaccented, κατοι- unaccented, πρὸς present; OCR noise)
+ezek	oldtestgreek00unknuoft	464	19	καταβαίνοντας +20	καταβαίνοντας +90	καταβαίνοντας	καταβαίνοντας	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	464	20	εἰς	εἰς +ὁ6θ	εἰς	εἰς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	464	20	πρὸς	πρὸς +λ	πρὸς	πρὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	464	20	κατοικιῶ.	κατοικιῶ	κατοικιῶ	κατοικιῶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	464	22	“᾿ἀπώλειάν	“᾿ἀπώλειάν	ἀπώλειάν	ἀπώλειάν	image (3x): acute before enclitic as printed
+ezek	oldtestgreek00unknuoft	464	23	21 +ἔτι.	«΄ +ἔτι.	ἔτι	ἔτι	image (3x): speck, not a period
+ezek	oldtestgreek00unknuoft	464	23	Tov	τὸν.	τὸν	τὸν	image (3x): reads as in page file (σου unaccented, κατοι- unaccented, πρὸς present; OCR noise)
+ezek	oldtestgreek00unknuoft	464	23	Κύριος.	Κύριος. +. ᾿	Κύριος.	Κύριος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	464	24	ι +*Kal	Καὶ	Καὶ	Καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	464	24	λύγος	λύγος	λόγος	λόγος	image (3x): reads as in page file (σου unaccented, κατοι- unaccented, πρὸς present; OCR noise)
+ezek	oldtestgreek00unknuoft	464	24	“Υἱὲ	“Υἱὲ	Υἱὲ	Υἱὲ	image (3x): breathing as printed (Οὐκ smooth; Υἱὲ rough on ι)
+ezek	oldtestgreek00unknuoft	464	25	εἰσόδου +3	εἰσόδου	εἰσόδου	εἰσόδου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	464	9	-	-	καταβήσονται	καταβήσονται	ambiguous: β partly blotted by an ink smudge; letter shape and context read β

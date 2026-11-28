@@ -1,0 +1,44 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan	oldtestgreek00unknuoft	548	1	Kal	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	548	1	αὖ-	αὐὖ-	αὐ-	αὐ-	image (3x): αὐ- with smooth breathing and hyphen
+dan	oldtestgreek00unknuoft	548	2	ἑστὼς	ἑστὼς.	ἑστὼς	ἑστὼς	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	548	2	“αὐτοὺς.	αὐτοὺς.	αὐτοὺς	αὐτοὺς	image (3x): no point after the word, OCR noise
+dan	oldtestgreek00unknuoft	548	2	ζῶντας:	ζῶντας:	ζῶντας·	ζῶντας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	548	3	εἶπεν	εἶπεν.	εἶπεν	εἶπεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	548	4	Οὐχὶ	Οὐχὶ	Οὐχὶ	Οὐχὶ	image (3x): smooth breathing on the capital
+dan	oldtestgreek00unknuoft	548	5	Ἀληθῶς,	Ἀληθῶς,	Ἀληθῶς,	Ἀληθῶς,	image (3x): smooth breathing on the capital
+dan	oldtestgreek00unknuoft	548	5	βασιλεῦ.	βασιλεῦ. +59	βασιλεῦ.	βασιλεῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	548	5	“Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	548	6	βασιλεύς	βασιλεύς	βασιλεύς	βασιλεύς	image (3x): acute before capitalized quotation
+dan	oldtestgreek00unknuoft	548	6	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on the capital
+dan	oldtestgreek00unknuoft	548	7	av-	αὖ-	αὐ-	αὐ-	image (3x): αὐ- with smooth breathing and hyphen
+dan	oldtestgreek00unknuoft	548	8	τοῖς,	ἢ	τοῖς,	τοῖς,	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	548	8	ὁμοίωμα.	ὁμοίωμα.	ὁμοίωμα	ὁμοίωμα	image (3x): no point after the word, OCR noise
+dan	oldtestgreek00unknuoft	548	8	93καὶ	93καὶ +93	καὶ	καὶ	image (3x): superscript verse number, not text
+dan	oldtestgreek00unknuoft	548	9	βασίχλεὺς	βασίχεὺς	βασιλεὺς	βασιλεὺς	image (3x): βασιλεὺς with grave
+dan	oldtestgreek00unknuoft	548	10	Σεδράχ,	Σεδράχ,	Σεδράχ,	Σεδράχ,	image (3x): name oxytone with acute before comma, as printed
+dan	oldtestgreek00unknuoft	548	10	Μισάχ,	Μισάχ,	Μισάχ,	Μισάχ,	image (3x): name oxytone with acute before comma, as printed
+dan	oldtestgreek00unknuoft	548	10	Ἀβδε-	Ἀβδε-	Ἀβδε-	Ἀβδε-	image (3x): smooth breathing on the capital
+dan	oldtestgreek00unknuoft	548	12	Tov	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	548	12	πυρός. +9.	πυρός. +9.	πυρός.	πυρός.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	548	13	τοπάρχαι,	τοπάρχαϊι,;	τοπάρχαι,	τοπάρχαι,	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	548	17	ἢν	ἢν	ἦν	ἦν	image (3x): circumflex, ἦν
+dan	oldtestgreek00unknuoft	548	17	οδὑπολαβὼν	οδὑπολαβὼν	ὑπολαβὼν	ὑπολαβὼν	image (3x): superscript verse number, not text
+dan	oldtestgreek00unknuoft	548	18	Ἐὐλογητὸς	Εὐλογητὸς	Εὐλογητὸς	Εὐλογητὸς	image (3x): Εὐ smooth breathing on υ; acute on Εὐλογητὸς not applicable, grave on final syllable as printed
+dan	oldtestgreek00unknuoft	548	18	Σεδράχ,	Σεδράχ,	Σεδράχ,	Σεδράχ,	image (3x): name oxytone with acute before comma, as printed
+dan	oldtestgreek00unknuoft	548	18	Μισάχ,	Μισάχ,	Μισάχ,	Μισάχ,	image (3x): name oxytone with acute before comma, as printed
+dan	oldtestgreek00unknuoft	548	18	᾽Αβδε-	Ἀβδε-	Ἀβδε-	Ἀβδε-	image (3x): smooth breathing on the capital
+dan	oldtestgreek00unknuoft	548	20	αὐτόν:	αὐτόν:	αὐτόν·	αὐτόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	548	23	αὐτῶν.	αὐτῶν. +ὁ	αὐτῶν.	αὐτῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	548	23	“Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	548	23	καὶ	καὶ +96	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	548	25	θεὸν	θεὸν	θεὸν	θεὸν	image (3x): grave on θεὸν before a name (not a quotation)
+dan	oldtestgreek00unknuoft	548	25	Σεδράχ,	Σεδράχ,	Σεδράχ,	Σεδράχ,	image (3x): name oxytone with acute before comma, as printed
+dan	oldtestgreek00unknuoft	548	25	Μισάχ,	Μισάχ,	Μισάχ,	Μισάχ,	image (3x): name oxytone with acute before comma, as printed
+dan	oldtestgreek00unknuoft	548	25	Ἀβδεναγώ,	Ἀβδεναγώ,	Ἀβδεναγώ,	Ἀβδεναγώ,	image (3x): smooth breathing on the capital
+dan	oldtestgreek00unknuoft	548	26	δημευθήσεται:	δημευθήσεται"	δημευθήσεται·	δημευθήσεται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	548	27	“Τοὕτως	“Τοὕτως	οὕτως	οὕτως	image (3x): superscript verse number, not text
+dan	oldtestgreek00unknuoft	548	27	Σεδράχ,	Σεδράχ, +ο7	Σεδράχ,	Σεδράχ,	image (3x): name oxytone with acute before comma, as printed
+dan	oldtestgreek00unknuoft	548	28	Μιαάχ,	Μισάχ,	Μισάχ,	Μισάχ,	image (3x): name oxytone with acute before comma, as printed
+dan	oldtestgreek00unknuoft	548	28	ἐβδιναγώ)	Ἀβδεναγώ,	Ἀβδεναγώ,	Ἀβδεναγώ,	image (3x): smooth breathing on the capital
+dan	oldtestgreek00unknuoft	548	28	nip	χώρας	χώρας	χώρας	class R5: Latin-letter substitution in OCR; c read from the image strip

@@ -1,7 +1,7 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
 ezek	oldtestgreek00unknuoft	500	1	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 ezek	oldtestgreek00unknuoft	500	1	τῆς +40	τῆς +40	τῆς	τῆς	class R3: OCR appended accent-row or margin junk; c read from the image strip
-ezek	oldtestgreek00unknuoft	500	3	αἴλὰμ	αἴλὰμ	αἰλὰμ	αἰλὰμ	TODO zoom: A DIA, B DIA
+ezek	oldtestgreek00unknuoft	500	3	αἴλὰμ	αἴλὰμ	αἰλὰμ	αἰλὰμ	image (3x): smooth breathing only on iota, grave on second alpha; no acute
 ezek	oldtestgreek00unknuoft	500	4	“τέσσαρες	“τέσσαρες	τέσσαρες	τέσσαρες	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 ezek	oldtestgreek00unknuoft	500	4	αὐτὰ +4x	αὐτὰ +4τ	αὐτὰ	αὐτὰ	class R3: OCR appended accent-row or margin junk; c read from the image strip
 ezek	oldtestgreek00unknuoft	500	5	θυμάτων. +“Ξ	θυμάτων. +ἹΞ	θυμάτων.	θυμάτων.	class R3: OCR appended accent-row or margin junk; c read from the image strip
@@ -9,11 +9,11 @@ ezek	oldtestgreek00unknuoft	500	6	λελαξευμέναι +42	λελαξευμ�
 ezek	oldtestgreek00unknuoft	500	8	ὕψος:	ὕψος:	ὕψος·	ὕψος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 ezek	oldtestgreek00unknuoft	500	8	ois	οἷς	οἷς	οἷς	class R5: Latin-letter substitution in OCR; c read from the image strip
 ezek	oldtestgreek00unknuoft	500	9	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
-ezek	oldtestgreek00unknuoft	500	9	“Kai	43 +“3καὶ	καὶ	καὶ	TODO zoom: A R5, B OPEN
+ezek	oldtestgreek00unknuoft	500	9	“Kai	43 +“3καὶ	καὶ	καὶ	image (3x): verse superscript then καὶ
 ezek	oldtestgreek00unknuoft	500	9	παλαιστὴν +43	παλαιστὴν +43	παλαιστὴν	παλαιστὴν	class R3: OCR appended accent-row or margin junk; c read from the image strip
 ezek	oldtestgreek00unknuoft	500	12	∅	ξηρασίας.	ξηρασίας.	ξηρασίας.	class R0: OCR lost the word in extraction; c read from the image strip
 ezek	oldtestgreek00unknuoft	500	12	∅	““καὶ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
-ezek	oldtestgreek00unknuoft	500	12	∅	εἰσηγαγέν	εἰσήγαγέν	εἰσήγαγέν	TODO zoom: accent before an enclitic; A R0, B DROP
+ezek	oldtestgreek00unknuoft	500	12	∅	εἰσηγαγέν	εἰσήγαγέν	εἰσήγαγέν	image (3x): acute on last syllable before enclitic με
 ezek	oldtestgreek00unknuoft	500	12	∅	με	με	με	class R0: OCR lost the word in extraction; c read from the image strip
 ezek	oldtestgreek00unknuoft	500	12	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
 ezek	oldtestgreek00unknuoft	500	12	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
@@ -22,28 +22,29 @@ ezek	oldtestgreek00unknuoft	500	12	∅	τὴν	τὴν	τὴν	class R0: OCR los
 ezek	oldtestgreek00unknuoft	500	12	∅	ἐσωτέραν,	ἐσωτέραν,	ἐσωτέραν,	class R0: OCR lost the word in extraction; c read from the image strip
 ezek	oldtestgreek00unknuoft	500	12	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
 ezek	oldtestgreek00unknuoft	500	12	∅	ἰδοὺ +44	ἰδοὺ	ἰδοὺ	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
-ezek	oldtestgreek00unknuoft	500	14	καὶ.	καὶ.	καὶ	καὶ	TODO zoom: A OPEN, B OPEN
+ezek	oldtestgreek00unknuoft	500	14	καὶ.	καὶ.	καὶ	καὶ	image (3x): faint speck below line after καὶ, not a period
 ezek	oldtestgreek00unknuoft	500	14	pia	μία	μία	μία	class R5: Latin-letter substitution in OCR; c read from the image strip
 ezek	oldtestgreek00unknuoft	500	15	“"καὶ	“"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 ezek	oldtestgreek00unknuoft	500	15	εἶπεν +45	εἶπεν +45	εἶπεν	εἶπεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
-ezek	oldtestgreek00unknuoft	500	16	μέ	μέ	μέ	μέ	TODO zoom: acute or grave before a capitalized word
-ezek	oldtestgreek00unknuoft	500	16	Ἢ	Ἢ	Ἡ	Ἡ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B DIA
+ezek	oldtestgreek00unknuoft	500	16	μέ	μέ	μέ	μέ	image (3x): acute before capitalized quotation
+ezek	oldtestgreek00unknuoft	500	16	Ἢ	Ἢ	Ἡ	Ἡ	image (3x): rough breathing alone (opens left), no accent
 ezek	oldtestgreek00unknuoft	500	17	οἴκου"	οἴκου"	οἴκου·	οἴκου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 ezek	oldtestgreek00unknuoft	500	17	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 ezek	oldtestgreek00unknuoft	500	17	πρὸς +46	πρὸς +46	πρὸς	πρὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
 ezek	oldtestgreek00unknuoft	500	19	στηρίου:	στηρίου:	στηρίου·	στηρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
-ezek	oldtestgreek00unknuoft	500	19	ἐκεῖνοί	ἐκεῖνοί	ἐκεῖνοί	ἐκεῖνοί	TODO zoom: accent before an enclitic
-ezek	oldtestgreek00unknuoft	500	19	εἶσιν	εἶσιν	εἰσιν	εἰσιν	TODO zoom: A DIA, B DIA
+ezek	oldtestgreek00unknuoft	500	19	ἐκεῖνοί	ἐκεῖνοί	ἐκεῖνοί	ἐκεῖνοί	image (3x): circumflex plus acute before enclitic εἰσιν
+ezek	oldtestgreek00unknuoft	500	19	εἶσιν	εἶσιν	εἰσιν	εἰσιν	image (3x): smooth breathing only, enclitic unaccented
 ezek	oldtestgreek00unknuoft	500	19	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
-ezek	oldtestgreek00unknuoft	500	19	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	TODO zoom: acute or grave before a capitalized word
+ezek	oldtestgreek00unknuoft	500	19	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before proper name (not a quotation)
 ezek	oldtestgreek00unknuoft	500	19	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
 ezek	oldtestgreek00unknuoft	500	19	Aevel	Λευεὶ	Λευεὶ	Λευεὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 ezek	oldtestgreek00unknuoft	500	20	Κύριον	Κύριον +λ	Κύριον	Κύριον	class R3: OCR appended accent-row or margin junk; c read from the image strip
-ezek	oldtestgreek00unknuoft	500	20	“7καὶ	47 +“7καὶ ὃ	καὶ	καὶ	TODO zoom: A R1, B OPEN
+ezek	oldtestgreek00unknuoft	500	20	“7καὶ	47 +“7καὶ ὃ	καὶ	καὶ	image (3x): verse superscript then καὶ
 ezek	oldtestgreek00unknuoft	500	20	μῆκος +47	μῆκος +47	μῆκος	μῆκος	class R3: OCR appended accent-row or margin junk; c read from the image strip
 ezek	oldtestgreek00unknuoft	500	22	οἴκου.	οἴκου. +4“	οἴκου.	οἴκου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
-ezek	oldtestgreek00unknuoft	500	22	εἰσήγαγέν	εἰσήγαγέν	εἰσήγαγέν	εἰσήγαγέν	TODO zoom: accent before an enclitic
-ezek	oldtestgreek00unknuoft	500	23	48	48 +εἷς	εἰς	εἰς	TODO zoom: A OPEN, B OPEN
+ezek	oldtestgreek00unknuoft	500	22	εἰσήγαγέν	εἰσήγαγέν	εἰσήγαγέν	εἰσήγαγέν	image (3x): acute on last syllable before enclitic με
+ezek	oldtestgreek00unknuoft	500	23	48	48 +εἷς	εἰς	εἰς	image (3x): εἰς; the 48 is the margin number
 ezek	oldtestgreek00unknuoft	500	23	eis +TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
-ezek	oldtestgreek00unknuoft	500	23	aid	αἷλ	αἲλ	αἲλ	TODO zoom: A R5, B DIA
-ezek	oldtestgreek00unknuoft	500	25	αἴλὰμ	αἴλὰμ	αἰλὰμ	αἰλὰμ	TODO zoom: A DIA, B DIA
+ezek	oldtestgreek00unknuoft	500	23	aid	αἷλ	αἲλ	αἲλ	image (8x): breathing plus falling stroke over iota, read smooth + grave; ambiguous
+ezek	oldtestgreek00unknuoft	500	25	αἴλὰμ	αἴλὰμ	αἰλὰμ	αἰλὰμ	image (3x): smooth breathing only on iota, grave on second alpha; no acute
+ezek	oldtestgreek00unknuoft	500	23	-	-	αἲλ	αἲλ	ambiguous: mark over iota worn; read smooth breathing + grave (two parts, open)

@@ -1,0 +1,96 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan	oldtestgreek00unknuoft	530	1	λῶσαι.	λῶσαι.	λῶσαι	λῶσαι	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	1	“εἰσελθὼν	“᾿εἰσελθὼν	εἰσελθὼν	εἰσελθὼν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	530	1	Δανιὴλ.	Δανιὴλ.	Δανιὴλ	Δανιὴλ	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	2	24 +Αριὼχ	54 +Αριὼχ	Ἀριὼχ	Ἀριὼχ	image (3x): smooth breathing; margin 24 not text
+dan	oldtestgreek00unknuoft	530	2	τοῦ.	τοῦ	τοῦ	τοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	530	3	Βαβυλωνίας.	Βαβυλωνίας.	Βαβυλωνίας	Βαβυλωνίας	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	3	αὐτῷ.	αὐτῷ.	αὐτῷ	αὐτῷ	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	3	BaBu-	Βαβυ-	Βαβυ-	Βαβυ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	530	4	λωνίας.	λωνίας.	λωνίας	λωνίας	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	4	ἀπολέσῃς;	ἀπολέσῃς;	ἀπολέσῃς,	ἀπολέσῃς,	image (3x): comma, not question mark
+dan	oldtestgreek00unknuoft	530	4	δέ	δέ	δέ	δέ	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	530	4	με:	μέ.	με	με	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	4	τὸν	τὸν.	τὸν	τὸν	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	530	5	“βασιλεῖ	βασιλεῖ	βασιλεῖ	βασιλεῖ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	530	5	δηλώσω.	δηλώσω. +Ῥ5᾽	δηλώσω.	δηλώσω.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	530	5	Tore	Τότε	Τότε	Τότε	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	530	5	Ἀριὼχ	Ἀριὼχ	Ἀριὼχ	Ἀριὼχ	image (3x): smooth breathing
+dan	oldtestgreek00unknuoft	530	5	εἰσήγαγεν +25	εἰσήγαγεν +25	εἰσήγαγεν	εἰσήγαγεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	530	6	αὐτῷ.	αὐτῷ.	αὐτῷ	αὐτῷ	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	6	Evpnxa	Ἑὕρηκα	Εὕρηκα	Εὕρηκα	image (3x): rough + acute on υ (curl then stroke)
+dan	oldtestgreek00unknuoft	530	6	ἄνθρωπον.	ἄνθρωπον.	ἄνθρωπον	ἄνθρωπον	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	7	τῶν	τῶν +Ὶ	τῶν	τῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	530	7	βουδαίας,	Ἰουδαίας,	Ἰουδαίας,	Ἰουδαίας,	image (3x): smooth breathing
+dan	oldtestgreek00unknuoft	530	7	τῴ	τῷ +’	τῷ	τῷ	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	8	““ἀποκριθεὶς	“ἀποκριθεὶς	ἀποκριθεὶς	ἀποκριθεὶς	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	530	8	ἐπι- +26	ἐπι- +96	ἐπι-	ἐπι-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	530	9	Χαλδαιστὶ	Χαλδαιστὶ	Χαλδαιστὶ	Χαλδαιστὶ	image (3x): grave before the name Βαλτασάρ
+dan	oldtestgreek00unknuoft	530	9	Βαλτασάρ.	Βαλτασάρ.	Βαλτασάρ	Βαλτασάρ	image (3x): acute before capitalized quotation Δυνήσῃ; no period (show-through speck)
+dan	oldtestgreek00unknuoft	530	9	Δυνήσῃ.	Δυνήσῃ.	Δυνήσῃ	Δυνήσῃ	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	9	δηλῶσαί	δηλῶσαί	δηλῶσαί	δηλῶσαί	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	530	9	por	μοι.	μοι	μοι	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	10	Tovrov	τούτου	τούτου	τούτου	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	530	10	“7ἐκφωνήσας	"7ἐκφωνήσας	ἐκφωνήσας	ἐκφωνήσας	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	530	10	τοῦ +27	τοῦ +27	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	530	11	εἶπεν.	εἶπεν:	εἶπεν	εἶπεν	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	11	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	530	12	γαζάρηνῶν	γαζάαρηνῶν	γαζαρηνῶν	γαζαρηνῶν	image (3x): γαζαρηνῶν, no accent on first alpha
+dan	oldtestgreek00unknuoft	530	12	δήλωσις"	δήλωσις"	δήλωσις·	δήλωσις·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	530	12	“ἀλλ᾽	“ἀλλ᾽	ἀλλ᾽	ἀλλ᾽	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	530	12	ἔστι +28	ἔστι +.8	ἔστι	ἔστι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	530	13	ἐν.	ς	ἐν	ἐν	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	13	οὐρανῷ.	ἐν.	οὐρανῷ	οὐρανῷ	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	13	ἀνακαλύπτων.	οὐρανῷ. +ἀνακαλύπτων.	ἀνακαλύπτων	ἀνακαλύπτων	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	13	μυστήρια,	μυστήρια, +μυστήρια,	μυστήρια,	μυστήρια,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	530	13	ἐδήλωσε.	ἐδήλ	ἐδήλωσε	ἐδήλωσε	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	13	τῷ	Ὁ	τῷ	τῷ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	530	14	«ἃ	«ἃ	ἃ	ἃ	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	14	δεῖ.	δεῖ.	δεῖ	δεῖ	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	14	ἡμερῶν: +“9	ἡμερῶν: +29	ἡμερῶν·	ἡμερῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	530	14	καὶ +29	καὶ +29	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	530	15	ἐδήλωσέ	ἐδήλωσέ	ἐδήλωσέ	ἐδήλωσέ	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	530	15	γενέσθαι. +3.	γενέσθαι. +3.	γενέσθαι.	γενέσθαι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	530	15	δὲ +30	δὲ +30	δὲ	δὲ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	530	16	σοφίαν.	σοφίαν.	σοφίαν	σοφίαν	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	16	ἐμοὶ.	ἐμοὶ.	ἐμοὶ	ἐμοὶ	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	16	ὑπὲρ.	ὑπὲρ	ὑπὲρ	ὑπὲρ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	530	17	mous	πους	πους	πους	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	530	17	«μυστήριον	«μυστήριον	μυστήριον	μυστήριον	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	17	τοῦτο.	τοῦτο.	τοῦτο	τοῦτο	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	18	γνώσει. +53"	γνώσει. +3"	γνώσει.	γνώσει.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	530	18	καὶ +31	καὶ +31	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	530	19	ἰδοὺ.	ἰδοὺ.	ἰδοὺ	ἰδοὺ	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	19	εἰκὼν.	εἰκὼν.	εἰκὼν	εἰκὼν	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	19	καὶ.	καὶ.	καὶ	καὶ	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	19	εἰκὼν.	εἰκὼν.	εἰκὼν	εἰκὼν	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	19	ἐκείνη.	ἐκείνη.	ἐκείνη	ἐκείνη	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	20	πρόσοψις	πρόσοψις.	πρόσοψις	πρόσοψις	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	530	21	σου"	σου"	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	530	21	φοβερά.	φοβερά. +3᾽	φοβερά.	φοβερά.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	530	21	“Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	530	21	αὐτῆς +32	αὐτῆς +3:	αὐτῆς	αὐτῆς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	530	22	βραχίονες.	βραχίονες.	βραχίονες	βραχίονες	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	23	οἱ.	οἱ.	οἱ	οἱ	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	23	χαλκοῖ:	χαλκοῖ:	χαλκοῖ·	χαλκοῖ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	530	23	Bra	ϑ3':τὰ	τὰ	τὰ	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	23	δὲ.	δὲ.	δὲ	δὲ	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	23	σκέλη.	σκέλη.	σκέλη	σκέλη	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	23	πόδες.	πόδες.	πόδες	πόδες	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	23	μέν	μέν	μέν	μέν	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	530	23	τι +33	τι +33	τι	τι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	530	24	δέ	δέ	δέ	δέ	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	530	24	ὀστράκινον.	ὀστράκινον. +3:	ὀστράκινον.	ὀστράκινον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	530	24	3:ἑώρακας	ἑώρακας	ἑώρακας	ἑώρακας	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	530	24	ἕως.	ἕως.	ἕως	ἕως	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	24	λίθος +34	λίθος +34	λίθος	λίθος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	530	25	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	530	25	εἰκόνα	εἰκόνα"	εἰκόνα	εἰκόνα	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	530	26	σιδηροῦς.	σιδηροῦς.	σιδηροῦς	σιδηροῦς	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	26	καὶ.	καὶ.	καὶ	καὶ	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	26	κατήλεσεν.	κατήλεσεν:	κατήλεσεν	κατήλεσεν	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	26	35τότε	35τότε	τότε	τότε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	530	26	λεπτὰ.	λεπτὰ.	λεπτὰ	λεπτὰ	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	27	35 +veto:	35 +νετο:	νετο	νετο	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	27	τὸ.	τὸ.	τὸ	τὸ	image (3x): word as on page; the OCR period/quote/colon is a faint show-through speck from the verso (or a superscript verse number / misaligned token), not printed punctuation
+dan	oldtestgreek00unknuoft	530	27	ὃ	ὁ	ὁ	ὁ	image (3x): ὁ rough, no accent

@@ -395,9 +395,9 @@
   (status draft)
   (literal
     ("But" 2)
+    ("they came to be" 1)
     ("sons" 3)
     ("of Joseph" 4)
-    ("came to be" 1)
     ("in" 5)
     ("earth" 6)
     ("Egypt," 7)

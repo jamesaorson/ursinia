@@ -1,0 +1,22 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan	oldtestgreek00unknuoft	560	1	αὐ-	αὐὖ-	αὐ-	αὐ-	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	560	2	Koviduaros᾽	κονιάματος"	κονιάματος·	κονιάματος·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	560	3	γράφουσαν.	γράφουσαν. +5	γράφουσαν.	γράφουσαν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	560	3	“καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	560	6	Τ7καὶ	Τ7καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	560	14	*xai	ὅἕκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	560	16	ϑτότε	ϑτότε	τότε	τότε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	560	16	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	560	17	petov,	μείου,	μείου,	μείου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	560	18	"τότε	τὸ. +“τότε	τότε	τότε	image (3x): as in page file (τότε after superscript 10; smooth on Ἰ; rough only, no accent, on Ὁ; grave on σοφοὺς before a name, not a quotation; acute before enclitic σου)
+dan	oldtestgreek00unknuoft	560	20	Ἰουδαίας,	Ἰουδαίας,	Ἰουδαίας,	Ἰουδαίας,	image (3x): as in page file (τότε after superscript 10; smooth on Ἰ; rough only, no accent, on Ὁ; grave on σοφοὺς before a name, not a quotation; acute before enclitic σου)
+dan	oldtestgreek00unknuoft	560	20	“kat	"᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	560	20	Ὃ	Ὃ	Ὁ	Ὁ	image (3x): as in page file (τότε after superscript 10; smooth on Ἰ; rough only, no accent, on Ὁ; grave on σοφοὺς before a name, not a quotation; acute before enclitic σου)
+dan	oldtestgreek00unknuoft	560	21	σοφοὺς	σοφοὺς	σοφοὺς	σοφοὺς	image (3x): as in page file (τότε after superscript 10; smooth on Ἰ; rough only, no accent, on Ὁ; grave on σοφοὺς before a name, not a quotation; acute before enclitic σου)
+dan	oldtestgreek00unknuoft	560	22	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	560	23	πατρός	πατρός	πατρός	πατρός	image (3x): as in page file (τότε after superscript 10; smooth on Ἰ; rough only, no accent, on Ὁ; grave on σοφοὺς before a name, not a quotation; acute before enclitic σου)
+dan	oldtestgreek00unknuoft	560	23	NaBov-	Ναβου-	Ναβου-	Ναβου-	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	560	24	πατρί	πατρί	πατρί	πατρί	image (3x): as in page file (τότε after superscript 10; smooth on Ἰ; rough only, no accent, on Ὁ; grave on σοφοὺς before a name, not a quotation; acute before enclitic σου)
+dan	oldtestgreek00unknuoft	560	24	3Τότε	ϑΤότε	Τότε	Τότε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	560	2	-	-	κονιάματος·	κονιάματος·	ambiguous: small raised dot after the word, lighter than the letters; read ano teleia as printed (both OCRs too)
+dan	oldtestgreek00unknuoft	560	2	-	-	τοῦ	τοῦ	image (3x): faint mid-height speck after the first τοῦ, not punctuation

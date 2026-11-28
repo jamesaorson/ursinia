@@ -1,0 +1,46 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	492	1	μάχαιραι:	μάχαιραι:	μάχαιραι·	μάχαιραι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	1	"Πέρσαι	"Πέρσαι	Πέρσαι	Πέρσαι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	1	Αἰθίοπες	Αἰθίοπες	Αἰθίοπες	Αἰθίοπες	image (3x): smooth breathing on the diphthong Αἰ
+ezek	oldtestgreek00unknuoft	492	1	Λίβυες, +5	Λίβυες, +ς	Λίβυες,	Λίβυες,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	2	“Τόμερ	“Τόμερ	Γόμερ	Γόμερ	image (3x): Γόμερ, Γ not Τ; no mark before it but the superscript 6
+ezek	oldtestgreek00unknuoft	492	2	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	2	αὐτόν, +6	αὐτόν, +6	αὐτόν,	αὐτόν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	3	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	3	αὐτόν,	αὐτόν;	αὐτόν,	αὐτόν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	492	4	σοῦ.	σοῦ. +7	σοῦ.	σοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	4	7ἑτοιμάσθητι,	ἑτοιμάσθητι,	ἑτοιμάσθητι,	ἑτοιμάσθητι,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	4	καὶ +7	καὶ +7	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	5	συναγωγή	συναγωγή	συναγωγή	συναγωγή	image (3x): accents as transcribed before the enclitic
+ezek	oldtestgreek00unknuoft	492	5	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	5	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	6	ὥάφ᾽	ὥάφ᾽	ἀφ᾽	ἀφ᾽	image (3x): ἀφ᾽ after superscript 8
+ezek	oldtestgreek00unknuoft	492	6	ἐσχά- +8	ἐσχά- +8	ἐσχά-	ἐσχά-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	8	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing on the capital
+ezek	oldtestgreek00unknuoft	492	9	dv.	δι᾽	δι᾽	δι᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	9	ὅλου:	ὅλου:	ὅλου·	ὅλου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	10	ϑκαὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	10	ὡς	ὡς +9	ὡς	ὡς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	12	rade	“τάδε	τάδε	τάδε	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	12	ἡμέρᾳ +το	ἡμέρᾳ +το	ἡμέρᾳ	ἡμέρᾳ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	13	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	14	“kal	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	14	Ἀναβήσομαι	Ἀναβήσομαι	Ἀναβήσομαι	Ἀναβήσομαι	image (3x): smooth breathing on the capital
+ezek	oldtestgreek00unknuoft	492	14	ἐπὶ +τι	ἐπὶ +τι	ἐπὶ	ἐπὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	16	γὴν	γὴν	γῆν	γῆν	image (3x): circumflex on γῆν
+ezek	oldtestgreek00unknuoft	492	16	ἧ	ἧ	ᾗ	ᾗ	image (5x): rough breathing under a circumflex, iota subscript: ᾗ
+ezek	oldtestgreek00unknuoft	492	17	αὐτοῖς"	αὐτοῖς"	αὐτοῖς·	αὐτοῖς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	17	““προνομεῦσαι	““προνομεῦσαι	προνομεῦσαι	προνομεῦσαι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	17	τοῦ +12	τοῦ +τὰ	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	18	χεῖρά	χεῖρά	χεῖρά	χεῖρά	image (3x): accents as transcribed before the enclitic
+ezek	oldtestgreek00unknuoft	492	18	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	18	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	18	ἣ	ἢ	ἣ	ἣ	image (3x): compact closed rough+grave mark: ἣ
+ezek	oldtestgreek00unknuoft	492	20	"Σαβὰ	᾿Σ̓αβὰ	Σαβὰ	Σαβὰ	image (3x): Σαβὰ after superscript 13; no breathing on Σ
+ezek	oldtestgreek00unknuoft	492	20	Καρχη- +13	Καρχη- +13	Καρχη-	Καρχη-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	21	ἐροῦσίν	ἐροῦσίν	ἐροῦσίν	ἐροῦσίν	image (3x): accents as transcribed before the enclitic
+ezek	oldtestgreek00unknuoft	492	21	Eis	ἙἘϊς	Εἰς	Εἰς	image (3x): Εἰς, smooth breathing and acute on ι
+ezek	oldtestgreek00unknuoft	492	22	mpovopedoa	πτρονομεῦσαι	προνομεῦσαι	προνομεῦσαι	image (3x): προνομεῦσαι
+ezek	oldtestgreek00unknuoft	492	22	συναγωγήν	συναγωγήν	συναγωγήν	συναγωγήν	image (3x): accents as transcribed before the enclitic
+ezek	oldtestgreek00unknuoft	492	24	“Ata	Διὰ	Διὰ	Διὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	492	24	τῷ +14	τῷ +τῷ	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip

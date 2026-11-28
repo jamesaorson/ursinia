@@ -111,7 +111,7 @@
     ("he/she/it acquired" 30)
     ("and" 31)
     ("as many as" 32)
-    ("he/she/it preserved" 33)
+    ("he/she/it gained" (33 gain))
     ("in" 34)
     ("earth" 35)
     ("of Canaan;" 36)

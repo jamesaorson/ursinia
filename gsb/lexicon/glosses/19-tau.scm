@@ -111,7 +111,8 @@
     (why "τί used adverbially, \"why\" (Genesis 3:1, τί ὅτι, \"why [is it] that\"; Matthew 6:28).")))
 
 (lemma "τὶς" (sense one (gloss "one") (why "The indefinite pronoun, someone, anyone, a certain one. Genesis 6:5 πᾶς τις is \"every one\"; it shares \"one\" with the numeral εἷς there, and the alignment shows which. \"Someone\" and \"a certain\" (Luke 10:30) will be their own senses."))
-  (sense certain (gloss "certain") (why "With a noun, \"certain\", some (Genesis 27:44 ἡμέρας τινάς, \"days certain\"; Luke 10:30 ἄνθρωπός τις; Acts 9:19 ἡμέρας τινάς). Chosen by word override.")))
+  (sense certain (gloss "certain") (why "With a noun, \"certain\", some (Genesis 27:44 ἡμέρας τινάς, \"days certain\"; Luke 10:30 ἄνθρωπός τις; Acts 9:19 ἡμέρας τινάς). Chosen by word override."))
+  (sense anything (gloss "anything") (why "The neuter τι with μή, \"[not] anything\", \"[in] anything\" (Genesis 18:30, 32 Μή τι, κύριε; 20:9 μή τι ἡμάρτομεν): \"one\" there would assert that no one is meant. Shares \"anything\" with οὐδείς/μηδείς after a negation. Chosen by word override.")))
 
 (lemma "τμητός" (sense hewn (gloss "hewn") (why "(LXX, supplied.) Cut, hewn (of stone).")))
 

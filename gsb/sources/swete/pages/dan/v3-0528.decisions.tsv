@@ -1,0 +1,46 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan	oldtestgreek00unknuoft	528	3	Χαλδαῖον"	Χαλδαῖον"	Χαλδαῖον·	Χαλδαῖον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	528	3	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	528	3	βασιλεῦ,	βασιλεῦ, +τι	βασιλεῦ,	βασιλεῦ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	528	4	βαρύς	βαρύς	βαρύς	βαρύς	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	528	4	οὐδείς	οὐδείς	οὐδείς	οὐδείς	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	528	5	μή	μή	μή	μή	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	528	6	σαρκός"	σαρκός:	σαρκός·	σαρκός·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	528	6	"“τότε	"“τότε	τότε	τότε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	528	6	βασι-	βασι- +τς	βασι-	βασι-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	528	8	“xai	"3καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	528	8	ἀποκτεῖναι"	ἀποκτεῖναι" +13	ἀποκτεῖναι·	ἀποκτεῖναι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	528	9	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	528	10	"τότε	"τότε	τότε	τότε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	528	10	Ἀριώχῃ	Ἀριώχῃ	Ἀριώχῃ	Ἀριώχῃ	image (3x): smooth breathing
+dan	oldtestgreek00unknuoft	528	12	"φιστὰς	"φιστὰς	φιστὰς	φιστὰς	image (3x): speck in margin, not a quote; word is φιστὰς
+dan	oldtestgreek00unknuoft	528	12	kai	""καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	528	12	ΓΑρχων	ΓΑρχων	Ἄρχων	Ἄρχων	image (3x): smooth + acute
+dan	oldtestgreek00unknuoft	528	12	τοῦ	τοῦ +ι5	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	528	14	πρόσταγμα.	πρόσταγμα.	πρόσταγμα	πρόσταγμα	image (3x): faint mid-height speck between words, not punctuation (ambiguous); read none
+dan	oldtestgreek00unknuoft	528	14	Ἀριώχης	Ἀριώχης	Ἀριώχης	Ἀριώχης	image (3x): smooth breathing
+dan	oldtestgreek00unknuoft	528	14	"ὁ	"ὁ	ὁ	ὁ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	528	15	ἤλθε	τό +ἤλθε	ῆλθε	ῆλθε	image (3x): second half of εἰσ-ῆλθε: circumflex, no breathing
+dan	oldtestgreek00unknuoft	528	15	ἵνα	ἵνα +ὃ	ἵνα	ἵνα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	528	16	7 +Tore	17 +7ότε 17	Τότε	Τότε	image (3x): superscript 17 then Τότε, margin 17 not text
+dan	oldtestgreek00unknuoft	528	17	ἀπελθὼν	ἀπελθὼν	ἀπελθὼν	ἀπελθὼν	image (3x): grave, next word Δανιὴλ is a name not a quotation
+dan	oldtestgreek00unknuoft	528	17	‘Avavia	Ἀνανίᾳ	Ἁνανίᾳ	Ἁνανίᾳ	image (3x): rough breathing (reversed comma)
+dan	oldtestgreek00unknuoft	528	18	ζαρίᾳ	Αζαρίᾳ	Ἀζαρίᾳ	Ἀζαρίᾳ	image (3x): smooth breathing
+dan	oldtestgreek00unknuoft	528	18	i	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	528	18	νη-	νη- +τ8	νη-	νη-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	528	21	"τότε	"τότε	τότε	τότε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	528	21	τῷ	τῷ +τὸ	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	528	24	“Ἔσται	“Ἔσται	Ἔσται	Ἔσται	image (3x): smooth + acute
+dan	oldtestgreek00unknuoft	528	24	μεγάλου	μεγάλου +20	μεγάλου	μεγάλου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	528	26	ἐστι	ἐστι	ἐστι·	ἐστι·	image (3x): ano teleia after ἐστι
+dan	oldtestgreek00unknuoft	528	26	“᾿καὶ	“᾿καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	528	26	βασιλεῖς	βασιλεῖς +«“ι	βασιλεῖς	βασιλεῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	528	28	οὖσιν:	οὖσιν:	οὖσιν·	οὖσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	528	28	““ἀνακαλύπτων	“᾿ἀνακαλύπτων	ἀνακαλύπτων	ἀνακαλύπτων	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	528	28	ἐν	ἐν +92	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	528	29	κατάλυσις.	ἀλ	κατάλυσις.	κατάλυσις.	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	528	29	coi,	“Ξ3σοί +23	σοί,	σοί,	image (3x): superscript 23 then σοί,
+dan	oldtestgreek00unknuoft	528	30	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	528	31	ἔδωκάς	ἔδωκάς	ἔδωκάς	ἔδωκάς	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	528	31	ἐσήμανάς	ἐσήμανάς	ἐσήμανάς	ἐσήμανάς	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	528	14	-	-	πρόσταγμα	πρόσταγμα	ambiguous: faint mid-height dot after the word, read as a speck, no punctuation

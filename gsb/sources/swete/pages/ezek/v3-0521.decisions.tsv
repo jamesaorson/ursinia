@@ -1,0 +1,11 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	521	1	∅	∅	τρεῖς,	τρεῖς,	image (3x): word as written; OCR lost it
+ezek	oldtestgreek00unknuoft	521	1	Tad	Τὰδ	Γὰδ	Γὰδ	image (3x): word as written; OCR Τ for Γ / margin number fused
+ezek	oldtestgreek00unknuoft	521	1	pia,	μία,	μία,	μία,	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	521	1	Ἀσὴρ	Ἀσὴρ	Ἀσὴρ	Ἀσὴρ	image (3x): smooth breathing on Α
+ezek	oldtestgreek00unknuoft	521	1	pia,	μία,	μία,	μία,	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	521	2	SkvKAopa,	ϑδκύκλωμα,	μία.	μία.	image (3x): word as written; OCR Τ for Γ / margin number fused
+ezek	oldtestgreek00unknuoft	521	2	∅	∅	κύκλωμα,	κύκλωμα,	image (3x): word as written; OCR lost it
+ezek	oldtestgreek00unknuoft	521	3	ad᾽	∅	λεως,	λεως,	class R5+R0: Latin-letter substitution in OCR; OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	521	3	∅	ἀφ᾽	ἀφ᾽	ἀφ᾽	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	521	3	αὐτῆς	αὐτῆς.	αὐτῆς.	αὐτῆς.	class R6 (OCR letters differ): the other OCR reading agrees with c

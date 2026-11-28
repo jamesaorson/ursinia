@@ -1,0 +1,44 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan-th	oldtestgreek00unknuoft	535	1	“Tére	ἡ +γότε	Τότε	Τότε	image (3x): superscript verse number before the word, not text
+dan-th	oldtestgreek00unknuoft	535	1	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave/acute as set before a capitalized name
+dan-th	oldtestgreek00unknuoft	535	2	πρόσωπον.	πρόσωπον.	πρόσωπον	πρόσωπον	image (3x): no extra point or mark, only a speck
+dan-th	oldtestgreek00unknuoft	535	3	∅	μαννὰ	μαννὰ	μαννὰ	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	535	3	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	535	3	∅	εὐωδίας	εὐωδίας	εὐωδίας	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	535	3	∅	εἶπεν	εἶπεν	εἶπεν	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	535	3	∅	σπεῖσαι	σπεῖσαι	σπεῖσαι	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	535	3	∅	αὐτῷ. +“7	αὐτῷ.	αὐτῷ.	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	535	3	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	535	3	∅	ἀποκριθεὶς	ἀποκριθεὶς	ἀποκριθεὶς	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	535	3	∅	ὁ	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	535	3	∅	βασι-	βασι-	βασι-	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	535	4	Δανιήλ.	Δανιήλ.	Δανιήλ	Δανιήλ	image (3x): acute before capitalized quotation; no point after the word
+dan-th	oldtestgreek00unknuoft	535	4	Ἔπ᾽	Ἔπ᾽	Ἐπ᾽	Ἐπ᾽	image (3x): smooth breathing only, no accent (apostrophe shape): Ἐπ᾽
+dan-th	oldtestgreek00unknuoft	535	4	αὐτός	αὐτός	αὐτός	αὐτός	image (3x): second acute before enclitic ἐστιν
+dan-th	oldtestgreek00unknuoft	535	5	μυστήρια:	μυστήρια:	μυστήρια·	μυστήρια·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	535	6	“Kat	“Ξκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	535	7	“Δανιήλ,	“Δανιήλ,	Δανιήλ,	Δανιήλ,	image (3x): no extra point or mark, only a speck
+dan-th	oldtestgreek00unknuoft	535	7	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	535	7	μεγάλα.	μεγάλα.	μεγάλα	μεγάλα	image (3x): no extra point or mark, only a speck
+dan-th	oldtestgreek00unknuoft	535	9	πῶν	∅	πῶν	πῶν	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	535	9	σοφοὺς	σοφοὺς	σοφοὺς	σοφοὺς	image (3x): grave/acute as set before a capitalized name
+dan-th	oldtestgreek00unknuoft	535	9	“Kat	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	535	9	ἡτήσατο	ἤτήσατο	ᾐτήσατο	ᾐτήσατο	image (8x): η with smooth breathing, acute on second η, iota subscript mark under the first η: ᾐτήσατο
+dan-th	oldtestgreek00unknuoft	535	10	βασϊλέως,	βασϊλέως,	βασιλέως,	βασιλέως,	image (3x): plain ι, no diaeresis
+dan-th	oldtestgreek00unknuoft	535	11	Σεδράχ,	Σεδράχ,	Σεδράχ,	Σεδράχ,	image (3x): grave/acute as set before a capitalized name
+dan-th	oldtestgreek00unknuoft	535	11	Μεισάχ,	Μεισάχ,	Μεισάχ,	Μεισάχ,	image (3x): grave/acute as set before a capitalized name
+dan-th	oldtestgreek00unknuoft	535	11	Ἀβδεναγώ:	Ἀβδεναγώ"	Ἀβδεναγώ·	Ἀβδεναγώ·	image (3x): smooth breathing on Α; ano teleia after the word
+dan-th	oldtestgreek00unknuoft	535	11	καὶ +-	καὶ +-	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	535	13	I +'*"Erous	᾿	Ἔτους	Ἔτους	image (3x): smooth + acute (apostrophe then rising stroke): Ἔτους; § printed in the text before the verse number
+dan-th	oldtestgreek00unknuoft	535	13	ὀκτωκαιδεκάτου	ἑτὔέτους +ὀκτωκαϊιδεκάτου	ὀκτωκαιδεκάτου	ὀκτωκαιδεκάτου	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	535	15	e€	2. +ἕξ᾽	ἕξ·	ἕξ·	image (8x): rough + acute (curl opening left then stroke), unlike smooth + acute on ἔστησεν beside it; ano teleia after
+dan-th	oldtestgreek00unknuoft	535	15	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	535	16	ἀπέστεϊλεν	ἀπέστεϊλεν	ἀπέστειλεν	ἀπέστειλεν	image (3x): plain ι, no diaeresis
+dan-th	oldtestgreek00unknuoft	535	18	εἰ-	εἰ- +3	εἰ-	εἰ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	535	19	3καὶ	3καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	535	21	Ths	τῆς	τῆς	τῆς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	535	23	4“	“καὶ	καὶ	καὶ	image (3x): superscript verse number before the word, not text
+dan-th	oldtestgreek00unknuoft	535	23	“καὶ +6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	535	23	Ὑμῖν	Ὑμῖν	Ὑμῖν	Ὑμῖν	image (3x): rough breathing on Υ (reversed comma)
+dan-th	oldtestgreek00unknuoft	535	23	'λαοῖς,	'λαοῖς,	λαοῖς,	λαοῖς,	image (3x): no extra point or mark, only a speck
+dan-th	oldtestgreek00unknuoft	535	23	φυχαί,	φυλαί,	φυλαί,	φυλαί,	class R6 (OCR letters differ): the other OCR reading agrees with c

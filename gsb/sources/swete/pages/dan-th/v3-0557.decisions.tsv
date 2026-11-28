@@ -1,0 +1,29 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan-th	oldtestgreek00unknuoft	557	1	αὐτήν. +3»	αὐτήν. +3.»	αὐτήν.	αὐτήν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	557	4	αἱ	αἱ,	αἱ	αἱ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	557	6	ὀρνέων. +3:	ὀρνέων. +381:	ὀρνέων.	ὀρνέων.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	557	6	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave before capitalized name (not a quotation)
+dan-th	oldtestgreek00unknuoft	557	7	ὀφθαλμούς	ὀφθαλμούς	ὀφθαλμούς	ὀφθαλμούς	image (3x): acute before enclitic
+dan-th	oldtestgreek00unknuoft	557	8	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	557	8	φρένες +pi	φρένες +μ	φρένες	φρένες	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	557	9	ynoa,	γησα,	γησα,	γησα,	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	557	9	ἤνεσα	ἤνεσα	ᾔνεσα	ᾔνεσα	image (3x): smooth + acute on η with iota subscript
+dan-th	oldtestgreek00unknuoft	557	9	7	ἣἧ	ἡ	ἡ	image (3x): ἡ rough breathing only
+dan-th	oldtestgreek00unknuoft	557	10	ἐξουσία	ἐξουσία.	ἐξουσία	ἐξουσία	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	557	11	γενεάν"	γενεάν"	γενεάν·	γενεάν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	557	11	55καὶ	55καὶ	καὶ	καὶ	image (3x): superscript verse number not text
+dan-th	oldtestgreek00unknuoft	557	12	γίσθησαν:	γίσθησαν:	γίσθησαν·	γίσθησαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	557	14	ποιήσεται	οἰήσεται	ποιήσεται	ποιήσεται	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	557	14	33αὐτῷ	33αὐτῷ	αὐτῷ	αὐτῷ	image (3x): superscript verse number not text
+dan-th	oldtestgreek00unknuoft	557	15	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	557	15	pou	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	557	16	pou	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	557	16	ἦλθον:	ἦλθον:	ἦλθον·	ἦλθον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	557	16	μορφή	μορφή	μορφή	μορφή	image (3x): acute before enclitic
+dan-th	oldtestgreek00unknuoft	557	16	pou	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	557	17	τύραννοί	τύραννοί	τύραννοί	τύραννοί	image (3x): acute before enclitic
+dan-th	oldtestgreek00unknuoft	557	17	μεγιστᾶνές	μεγιστᾶνές	μεγιστᾶνές	μεγιστᾶνές	image (3x): acute before enclitic
+dan-th	oldtestgreek00unknuoft	557	19	“viv	ϑΞ'νῦν	νῦν	νῦν	image (3x): superscript verse number not text
+dan-th	oldtestgreek00unknuoft	557	19	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave before capitalized name (not a quotation)
+dan-th	oldtestgreek00unknuoft	557	20	δοξάζω.	δοξάζω.	δοξάζω	δοξάζω	image (3x): speck, not a period
+dan-th	oldtestgreek00unknuoft	557	13	-	-	καὶ	καὶ	image (3x): a small raised tick before καὶ (after οὐρανοῦ) in the word space; read as a speck, not text

@@ -1,0 +1,30 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	479	1	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave before the name Φαραώ (not a quotation)
+ezek	oldtestgreek00unknuoft	479	1	ἰσχὺν +Β	ἰσχὺν +Β	ἰσχὺν	ἰσχὺν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	479	2	% +re	3.ὅτι	ὅτι	ὅτι	image (3x): word after superscript verse number as written
+ezek	oldtestgreek00unknuoft	479	6	‘Kai	:Καὶ	Καὶ	Καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	479	6	“Υἱὲ	“Υἱὲ	Υἱὲ	Υἱὲ	image (3x): rough breathing + grave on ιὲ, Υ bare
+ezek	oldtestgreek00unknuoft	479	7	αὐτούς	αὐτούς	αὐτούς	αὐτούς	image (3x): acute before capitalized quotation
+ezek	oldtestgreek00unknuoft	479	7	Τῇ	Τῇ	Γῆ	Γῆ	image (3x): Γ, not Τ; circumflex, no iota subscript
+ezek	oldtestgreek00unknuoft	479	8	ads	λαὸς	λαὸς	λαὸς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	479	9	Ξκαὶ	3 +ϑ3καὶ	καὶ	καὶ	image (3x): word after superscript verse number as written
+ezek	oldtestgreek00unknuoft	479	11	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	479	12	αὐτόν:	αὐτόν:	αὐτόν·	αὐτόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	479	13	"ὅτι	"ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	479	14	ἔσται:	ἔσται:	ἔσται·	ἔσται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	479	15	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	479	17	ψυχήν"	ψυχήν"	ψυχήν·	ψυχήν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	479	18	ex	ἐκ	ἐκ	ἐκ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	479	19	Τκαὶ	Ἰκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	479	19	ov,	σύ,	σύ,	σύ,	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	479	19	vie	υἱὲ	υἱὲ	υἱὲ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	479	19	δέδωκά	δέδωκά	δέδωκά	δέδωκά	image (3x): acute before enclitic
+ezek	oldtestgreek00unknuoft	479	20	Ἰσραήλ,	Ἰσραῆλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on capital, acute on ή
+ezek	oldtestgreek00unknuoft	479	20	στόματός	στόματός	στόματός	στόματός	image (3x): acute before enclitic
+ezek	oldtestgreek00unknuoft	479	20	ὅὃὲν	“ἐν	ἐν	ἐν	image (3x): word after superscript verse number as written
+ezek	oldtestgreek00unknuoft	479	20	εἶπαί	εἰπαί	εἶπαί	εἶπαί	image (3x): smooth breathing + circumflex on εἶ, acute before enclitic με
+ezek	oldtestgreek00unknuoft	479	20	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	479	20	TO	τῷ	τῷ	τῷ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	479	23	χειρός	χειρός	χειρός	χειρός	image (3x): acute before enclitic
+ezek	oldtestgreek00unknuoft	479	24	αὐτῆ	αὐτῇ	αὐτῆς,	αὐτῆς,	image (3x): αὐτῆς, complete, circumflex, comma
+ezek	oldtestgreek00unknuoft	479	25	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip

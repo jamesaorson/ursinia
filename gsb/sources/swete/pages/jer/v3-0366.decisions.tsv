@@ -1,0 +1,49 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	366	1	pas	ρας	ρας	ρας	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	366	1	ds	ἃς	ἃς	ἃς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	366	1	“μετὰ	μετὰ	μετὰ	μετὰ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	366	2	Ἀχεικάμ,	Ἀχέικάμ,	Ἀχεικάμ,	Ἀχεικάμ,	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	366	2	Ἱερεμίαν	Ἱερεμίαν	Ἰερεμίαν	Ἰερεμίαν	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	366	2	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): grave before capitalized name
+jer	oldtestgreek00unknuoft	366	3	1καὶ	Τκαὶ	καὶ	καὶ	image (3x): reads as page file; OCR noise from superscript number
+jer	oldtestgreek00unknuoft	366	3	Αἴγυπτον,	Αἴγυπτον,	Αἴγυπτον,	Αἴγυπτον,	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	366	3	φωνῆς	φωνῆς +7	φωνῆς	φωνῆς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	366	4	Ταφνάς. +8	Ταφνάς. +8	Ταφνάς.	Ταφνάς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	366	5	Ἱερεμίαν	Ἰερεμίαν	Ἰερεμίαν	Ἰερεμίαν	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	366	6	. +2AdBe	ϑλάβε	Λάβε	Λάβε	image (3x): reads as page file; OCR noise from superscript number
+jer	oldtestgreek00unknuoft	366	6	mpobv-	προθύ-	προθύ-	προθύ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	366	7	pos,	ροις,	ροις,	ροις,	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	366	8	Ἰούδα,	Ἰούδα, +“᾽	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	366	8	kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	366	8	Οὕτως	Οὕτως	Οὕτως	Οὕτως	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	366	8	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	366	8	ἀποστέλλω.	ἀποστέλλω.	ἀποστέλλω	ἀποστέλλω	image (3x): speck, not a period
+jer	oldtestgreek00unknuoft	366	10	αὐτούς,	αὐτούς, +ἐξ	αὐτούς,	αὐτούς,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	366	11	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	366	11	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	366	11	ods	οὖς	οὓς	οὓς	image (3x): οὓς rough+grave compact mark
+jer	oldtestgreek00unknuoft	366	11	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	366	12	obs	οὗς	οὓς	οὓς	image (3x): οὓς rough+grave compact mark
+jer	oldtestgreek00unknuoft	366	12	ovs	οὖς	οὓς	οὓς	image (3x): οὓς rough+grave compact mark
+jer	oldtestgreek00unknuoft	366	13	ῥομφαίαν:	ῥομφαίαν.	ῥομφαίαν·	ῥομφαίαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	366	13	"“καὶ	"“καὶ	καὶ	καὶ	image (3x): reads as page file; OCR noise from superscript number
+jer	oldtestgreek00unknuoft	366	14	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	366	15	εἰρήνῃ, +"3	εἰρήνῃ,	εἰρήνῃ,	εἰρήνῃ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	366	15	καὶ	"3 +αὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	366	16	Ἡλίου	Ἡλίου	Ἡλίου	Ἡλίου	image (3x): rough breathing on capital
+jer	oldtestgreek00unknuoft	366	16	*Qv,	Ὧν,	Ὣν,	Ὣν,	ambiguous: image (8x) mark before Ω is one compact closed blob with a short stroke (no circumflex arc); read rough+grave Ὣν
+jer	oldtestgreek00unknuoft	366	18	χῸ	χῸ	Ὁ	Ὁ	image (3x): rough breathing on capital
+jer	oldtestgreek00unknuoft	366	18	γενόμενος	γενόμενος.	γενόμενος	γενόμενος	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	366	18	Ἰερεμίαν	Ἰερεμίαν	Ἰερεμίαν	Ἰερεμίαν	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	366	18	Ἰουδαίοις	Ἰουδαίοις	Ἰουδαίοις	Ἰουδαίοις	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	366	19	Κοῦσιν	Κοῦσιν	κοῦσιν	κοῦσιν	image (3x): lowercase κ continuing κατοι-κοῦσιν
+jer	oldtestgreek00unknuoft	366	19	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	366	21	"Οὕτως	"Οὕτως	Οὕτως	Οὕτως	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	366	21	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	366	21	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave before capitalized name
+jer	oldtestgreek00unknuoft	366	21	Ἰσραήλ	Ἰσραήλ	Ἰσραήλ	Ἰσραήλ	image (3x): smooth breathing; acute before capitalized Ὑμεῖς
+jer	oldtestgreek00unknuoft	366	21	Ὑμεῖς	Ὑμεῖς	Ὑμεῖς	Ὑμεῖς	image (3x): rough breathing on capital
+jer	oldtestgreek00unknuoft	366	22	Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	366	22	ras	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	366	22	Ἰούδα"	Ἰούδα"	Ἰούδα·	Ἰούδα·	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	366	16	-	-	Ὣν,	Ὣν,	ambiguous: compact breathing+accent mark before Ω; read rough+grave (not rough+circumflex)

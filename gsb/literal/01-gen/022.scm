@@ -414,7 +414,7 @@
     ("seed" (29 absorbed) 30)
     ("will inherit" 28)
     ("the cities" 32 33)
-    ("of the adversary." 34 (35 adversary "ὑπεναντίος"))))
+    ("of the of the adversaries." 34 (35 adversary "ὑπεναντίος"))))
 
 (verse 18
   (status draft)

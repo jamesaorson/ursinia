@@ -1,0 +1,55 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	352	1	Ἰουδεὶν	Ἰουδεὶν	Ἰουδεὶν	Ἰουδεὶν	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	352	1	“λαβεῖν	“λαβεῖν	λαβεῖν	λαβεῖν	image (3x): word as in page file; OCR read a speck or the verse superscript as a quote mark
+jer	oldtestgreek00unknuoft	352	1	Ἐ̓λεισά,	Ἐ̓λεισά,	Ἐλεισά,	Ἐλεισά,	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	352	2	Ἰουδεὶν	Ἰουδεὶν	Ἰουδεὶν	Ἰουδεὶν	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	352	3	~ +Kal	““καὶ	καὶ	καὶ	image (3x): word as in page file; OCR picked up verse superscript or margin number
+jer	oldtestgreek00unknuoft	352	3	βασιλεὺς +22	βασιλεὺς +.:	βασιλεὺς	βασιλεὺς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	352	4	αὖ-	αὐὖ-	αὐ-	αὐ-	image (3x): αὐ- smooth breathing, hyphen
+jer	oldtestgreek00unknuoft	352	5	“Ξ3καὶ	23 +"“Ξϑκαὶ	καὶ	καὶ	image (3x): word as in page file; OCR picked up verse superscript or margin number
+jer	oldtestgreek00unknuoft	352	5	ἀναγινώσκοντος	ἀναγινώσκοντος +Ἶ	ἀναγινώσκοντος	ἀναγινώσκοντος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	352	5	Ἰουδεὶν	Ἰουδεὶν	Ἰουδεὶν	Ἰουδεὶν	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	352	5	τέσ-	τέσ- +23	τέσ-	τέσ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	352	6	23 +gapas,	σαρας,	σαρας,	σαρας,	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	352	7	εἷς	εἰς	εἰς	εἰς	image (3x): εἰς smooth breathing
+jer	oldtestgreek00unknuoft	352	7	“τὸ	“τὸ	τὸ	τὸ	image (3x): word as in page file; OCR read a speck or the verse superscript as a quote mark
+jer	oldtestgreek00unknuoft	352	8	*Katovx	““καὶ	καὶ	καὶ	image (3x): word as in page file; OCR picked up verse superscript or margin number
+jer	oldtestgreek00unknuoft	352	8	∅	οὐκ	οὐκ	οὐκ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	352	8	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	352	8	τὰ +24	τὰ +54	τὰ	τὰ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	352	10	“Ξκαὶ	“Ξκαὶ	καὶ	καὶ	image (3x): word as in page file; OCR picked up verse superscript or margin number
+jer	oldtestgreek00unknuoft	352	10	᾿λναθὰν	᾿λναθὰν	Ἐλναθὰν	Ἐλναθὰν	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	352	10	Τοδολίας	Τοδολίας	Γοδολίας	Γοδολίας	image (3x): Γ, not Τ
+jer	oldtestgreek00unknuoft	352	11	25 +βασιλεῖ.	:5 +βασιλεῖ.	βασιλεῖ	βασιλεῖ	image (3x): word as in page file; OCR picked up verse superscript or margin number
+jer	oldtestgreek00unknuoft	352	11	χαρτίον. +““	χαρτίον. +56	χαρτίον.	χαρτίον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	352	11	“ἐνετείλατο	“ἐνετείλατο	ἐνετείλατο	ἐνετείλατο	image (3x): word as in page file; OCR read a speck or the verse superscript as a quote mark
+jer	oldtestgreek00unknuoft	352	11	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	352	11	βασι- +26	βασι- +26	βασι-	βασι-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	352	12	ἸἹερεμεὴλ	Ἰερεμεὴλ	Ἰερεμεὴλ	Ἰερεμεὴλ	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	352	12	Saped	Σαρεὰ	Σαρεὰ	Σαρεὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	352	12	Ἐσριὴλ	Ἐσριὴλ	Ἐσριὴλ	Ἐσριὴλ	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	352	13	Ἰερεμίαν:	Ἰερεμίαν-	Ἰερεμίαν·	Ἰερεμίαν·	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	352	13	κατεκρύβησαν. +27	κατεκρύβησαν. +37	κατεκρύβησαν.	κατεκρύβησαν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	352	13	Καὶ +27	Καὶ +97	Καὶ	Καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	352	14	Ἱερεμίαν,	Ἱερεμίαν,	Ἰερεμίαν,	Ἰερεμίαν,	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	352	15	ods	οὺς	οὓς	οὓς	image (3x): οὓς, rough + grave
+jer	oldtestgreek00unknuoft	352	16	᾿ερεμίου,	Ἰερεμίου,	Ἰερεμίου,	Ἰερεμίου,	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	352	16	“Πάλιν	“Πάλιν	Πάλιν	Πάλιν	image (3x): word as in page file; OCR read a speck or the verse superscript as a quote mark
+jer	oldtestgreek00unknuoft	352	16	γράψον +28	γράψον +:8	γράψον	γράψον	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	352	17	ods	οὺς	οὓς	οὓς	image (3x): οὓς, rough + grave
+jer	oldtestgreek00unknuoft	352	17	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	352	18	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave βασιλεὺς before capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	352	18	Ἰωακείμ,	Ἰωακείμ,	Ἰωακείμ,	Ἰωακείμ,	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	352	18	Kai	“καὶ	καὶ	καὶ	image (3x): word as in page file; OCR picked up verse superscript or margin number
+jer	oldtestgreek00unknuoft	352	18	Οὕτως	Οὕτως	Οὕτως	Οὕτως	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	352	18	κατέκαυσας +29	κατέκαυσας +90	κατέκαυσας	κατέκαυσας	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	352	19	Ἑἰσπο-	Ἑἰσπο-	Εἰσπο-	Εἰσπο-	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	352	20	ῥευόμενος	ρῥευόμενος	ρευόμενος	ρευόμενος	image (3x): ρευόμενος after hyphen, no breathing
+jer	oldtestgreek00unknuoft	352	20	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	352	20	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave βασιλεὺς before capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	352	21	κτήνη; +3	κτήνη; +3	κτήνη;	κτήνη;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	352	21	διὰ +30	διὰ +30	διὰ	διὰ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	352	22	ἔπὶ	ἔπὶ	ἐπὶ	ἐπὶ	image (3x): ἐπὶ smooth breathing + grave; brown stain over the breathing
+jer	oldtestgreek00unknuoft	352	22	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	352	22	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	352	22	Οὐκ	Οὐκ	Οὐκ	Οὐκ	image (3x): smooth breathing on capital as in page file

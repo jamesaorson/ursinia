@@ -1,0 +1,46 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	368	1	"Ξϑκαὶ	"Ξκαὶ	καὶ	καὶ	image (3x): superscript verse number before the word (not text); word as read
+jer	oldtestgreek00unknuoft	368	1	ἐπὶ +x3	ἐπὶ +τ3	ἐπὶ	ἐπὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	368	2	Αἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	image (3x): smooth breathing on the capital; letters and punctuation as read
+jer	oldtestgreek00unknuoft	368	2	Ἰερουσαλὴμ	᾿ερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on the capital; letters and punctuation as read
+jer	oldtestgreek00unknuoft	368	3	"““καὶ	"“᾿καὶ	καὶ	καὶ	image (3x): superscript verse number before the word (not text); word as read
+jer	oldtestgreek00unknuoft	368	3	ἐπι- +14	ἐπι- +τὰ	ἐπι-	ἐπι-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	368	4	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on the capital; letters and punctuation as read
+jer	oldtestgreek00unknuoft	368	4	Αἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	image (3x): smooth breathing on the capital; letters and punctuation as read
+jer	oldtestgreek00unknuoft	368	5	Ἰούδα;	Ἰούδα;	Ἰούδα,	Ἰούδα,	image (3x): comma after Ἰούδα, not ano teleia/semicolon
+jer	oldtestgreek00unknuoft	368	6	Wa	ψαι	ψαι	ψαι	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	368	6	ἐκεῖ:	ἐκεῖ:	ἐκεῖ·	ἐκεῖ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	368	6	ἀνασεσωμένοι.	ἀνασεσωμένοι. +"5	ἀνασεσωμένοι.	ἀνασεσωμένοι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	368	6	Kat +15	καὶ +τ5	καὶ	καὶ	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	368	7	“lepepia	Ἰ̔ερεμίᾳ	Ἰερεμίᾳ	Ἰερεμίᾳ	image (3x): smooth breathing on the capital; letters and punctuation as read
+jer	oldtestgreek00unknuoft	368	7	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	368	8	ὃ	ὁ	ὁ	ὁ	image (3x): rough breathing, no accent: ὁ
+jer	oldtestgreek00unknuoft	368	9	Αἰγύπτῳ,	Αἰγύπτῳ,	Αἰγύπτῳ,	Αἰγύπτῳ,	image (3x): smooth breathing on the capital; letters and punctuation as read
+jer	oldtestgreek00unknuoft	368	9	Τ̓αθούρῃ,	ἸΤαθούρῃ,	Παθούρῃ,	Παθούρῃ,	image (3x): capital Π, no breathing
+jer	oldtestgreek00unknuoft	368	9	*°O	"Ὀ	Ὁ	Ὁ	image (3x): rough breathing on Ο: Ὁ
+jer	oldtestgreek00unknuoft	368	9	ὃν +τὸ	ὃν +τὸ	ὃν	ὃν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	368	10	ἀκούσομέν	ἀκούσομέν	ἀκούσομέν	ἀκούσομέν	image (3x): acute on final syllable before enclitic σου
+jer	oldtestgreek00unknuoft	368	10	σου"	σου" +Ὑ	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	368	10	“ὅτι +17	ὅτι +17	ὅτι	ὅτι	image (3x): superscript verse number before the word (not text); word as read
+jer	oldtestgreek00unknuoft	368	13	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	368	13	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	368	13	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	368	14	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	368	14	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on the capital; letters and punctuation as read
+jer	oldtestgreek00unknuoft	368	14	“lepovoadnp-	Ἰερουσαλήμ:	Ἰερουσαλήμ·	Ἰερουσαλήμ·	image (3x): smooth breathing on the capital; letters and punctuation as read
+jer	oldtestgreek00unknuoft	368	16	τϑ +αἱ	τϑ +καἱ	καὶ	καὶ	image (3x): superscript verse number before the word (not text); word as read
+jer	oldtestgreek00unknuoft	368	16	ἠλαττώ-	ἠλαττώ- +τ8	ἠλαττώ-	ἠλαττώ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	368	17	18 +npev	θημεν	θημεν	θημεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	368	17	Kal	“καὶ	καὶ	καὶ	image (3x): superscript verse number before the word (not text); word as read
+jer	oldtestgreek00unknuoft	368	17	ὅτι +τὸ	ὅτι +τὸ	ὅτι	ὅτι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	368	20	““καὶ	“καὶ	καὶ	καὶ	image (3x): superscript verse number before the word (not text); word as read
+jer	oldtestgreek00unknuoft	368	20	“lepepias	Ἱερεμίας	Ἰερεμίας	Ἰερεμίας	image (3x): smooth breathing on the capital; letters and punctuation as read
+jer	oldtestgreek00unknuoft	368	20	τοῖς +20	τοῖς +20	τοῖς	τοῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	368	22	λέγων +*	λέγων +“"	λέγων	λέγων	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	368	22	Οὐχὶ	Οὐχὶ	Οὐχὶ	Οὐχὶ	image (3x): smooth breathing on the capital; letters and punctuation as read
+jer	oldtestgreek00unknuoft	368	22	πόλεσιν +2x	πόλεσιν +τ	πόλεσιν	πόλεσιν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	368	23	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on the capital; letters and punctuation as read
+jer	oldtestgreek00unknuoft	368	23	Ἱερουσαλήμ,	Ἱερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing on the capital; letters and punctuation as read
+jer	oldtestgreek00unknuoft	368	23	ὑμῶν	ὑμῶν +᾿	ὑμῶν	ὑμῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	368	23	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	368	23	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip

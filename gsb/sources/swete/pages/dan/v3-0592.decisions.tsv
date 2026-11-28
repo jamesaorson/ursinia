@@ -1,0 +1,48 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan	oldtestgreek00unknuoft	592	1	pera	μετὰ	μετὰ	μετὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	592	2	“Kat	"“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	592	2	αὐτὸν.	αὐτὸν	αὐτὸν	αὐτὸν	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	592	2	τὸ +τό	τὸ +τό	τὸ	τὸ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	592	3	αὐτοῦ-	αὐτοῦ-	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	592	4	πάντα	πάντάὰ	πάντα	πάντα	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	592	4	ταῖς.	ταῖς.	ταῖς	ταῖς	image (3x): no point after the word (faint speck at most)
+dan	oldtestgreek00unknuoft	592	5	"Ἰκαὶ	"Ἰκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	592	5	Bia	βίᾳ	βίᾳ	βίᾳ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	592	5	ἔργον +17	ἔργον +17	ἔργον	ἔργον	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	592	6	αὐτοῦ.	᾽	αὐτοῦ	αὐτοῦ	image (3x): word as transcribed; OCR junk from elision mark, verse numbers or specks
+dan	oldtestgreek00unknuoft	592	6	ποιήσεται:	αὐτοῦ. +ποιήσεται:	ποιήσεται·	ποιήσεται·	image (3x): word as transcribed; OCR junk from elision mark, verse numbers or specks
+dan	oldtestgreek00unknuoft	592	7	ἔσται. +"8	ἔσται.	ἔσται.	ἔσται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	592	9	18 +λλούς,	18 +ολλούς,	πολλούς,	πολλούς,	image (3x): word as transcribed; OCR junk from elision mark, verse numbers or specks
+dan	oldtestgreek00unknuoft	592	9	ὅρκῳ +κ	ὅρκῳ	ὅρκῳ	ὅρκῳ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	592	10	"ἐπιστρέψει	"ἐπιστρέψει	ἐπιστρέψει	ἐπιστρέψει	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	592	10	«αὐτοῦ	«αὐτοῦ	αὐτοῦ	αὐτοῦ	image (3x): word as transcribed; OCR junk from elision mark, verse numbers or specks
+dan	oldtestgreek00unknuoft	592	10	κατι- +19	κατι- +τὸ	κατι-	κατι-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	592	12	““καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	592	12	βασιλείας +20	βασιλείας +20	βασιλείας	βασιλείας	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	592	13	βασιλέως"	βασιλέως"	βασιλέως·	βασιλέως·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	592	14	πολέμῳ- +*	πολέμῳ: +“᾽	πολέμῳ·	πολέμῳ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	592	14	ἄνα- +2x	ἄνα- +“τ	ἀνα-	ἀνα-	image (3x): word as transcribed; OCR junk from elision mark, verse numbers or specks
+dan	oldtestgreek00unknuoft	592	15	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	592	16	βασιλέως:	βασιλέως:	βασιλέως·	βασιλέως·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	592	17	““καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	592	17	συν-	σὺυν-	συν-	συν-	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	592	18	ρίψει	τρίψει	τρίψει	τρίψει	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	592	18	ἀπὸ	ἀπὸ +ὸ	ἀπὸ	ἀπὸ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	592	18	“Ξκαὶ	23 +“Ξκαὶ	καὶ	καὶ	image (3x): word as transcribed; OCR junk from elision mark, verse numbers or specks
+dan	oldtestgreek00unknuoft	592	18	τῆς	τῆς +ὃ	τῆς	τῆς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	592	19	ποιήσει.	ποιήσει.	ποιήσει	ποιήσει	image (3x): no point after the word (faint speck at most)
+dan	oldtestgreek00unknuoft	592	20	“ἐξάπινα	““ἐξάπινα	ἐξάπινα	ἐξάπινα	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	592	21	αὐὖ-	αὐὖ-	αὐ-	αὐ-	image (3x): word as transcribed; OCR junk from elision mark, verse numbers or specks
+dan	oldtestgreek00unknuoft	592	22	τοῦ:	τοῦ:	τοῦ·	τοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	592	24	kal	25 +"βκαὶ	καὶ	καὶ	image (3x): word as transcribed; OCR junk from elision mark, verse numbers or specks
+dan	oldtestgreek00unknuoft	592	25	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing on ι of Αι
+dan	oldtestgreek00unknuoft	592	25	TOAAG,	πολλῷ,	πολλῷ,	πολλῷ,	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	592	25	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave before capitalized name as printed
+dan	oldtestgreek00unknuoft	592	25	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing on ι of Αι
+dan	oldtestgreek00unknuoft	592	26	ἐν	ἐν.	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	592	26	λίαν:	λίαν:	λίαν·	λίαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	592	26	στή-	στή-:	στή-	στή-	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	592	27	“Kal	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	592	29	“καὶ	“Τκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	592	30	βασιλεῖς.	βασιλεῖς.	βασιλεῖς	βασιλεῖς	image (3x): no point after the word (faint speck at most)
+dan	oldtestgreek00unknuoft	592	31	εὐοδωθήσονται:	εὐοδωθήσονται:	εὐοδωθήσονται·	εὐοδωθήσονται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

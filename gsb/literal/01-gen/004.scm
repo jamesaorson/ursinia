@@ -317,13 +317,14 @@
     ("put" 17)
     ("sign" 21)
     ("to Cain" (22 unrendered) 23)
-    ("of not" (24 infinitive) 25)
-    ("taking" 26)
-    ("him" 27)
-    ("away" (cont 26))
+    ("of" (24 infinitive))
     ("all" 28)
     ("the [one] finding" 29 (30 find "εὑρίσκω"))
-    ("him." 31)))
+    ("him" 31)
+    ("not" 25)
+    ("taking" 26)
+    ("him" 27)
+    ("away." (cont 26))))
 
 (verse 16
   (status draft)
@@ -426,7 +427,7 @@
   (literal
     ("And" 1)
     ("name" 2)
-    ("to its" 5)
+    ("to his/its" 5)
     ("brother" (3 absorbed) 4)
     ("Jubal;" (6 name "Ἰουβάλ"))
     ("this" 7)

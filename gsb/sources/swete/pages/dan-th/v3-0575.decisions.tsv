@@ -1,0 +1,62 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan-th	oldtestgreek00unknuoft	575	1	ἀναστήσονται:	ἀναστήσονται:	ἀναστήσονται·	ἀναστήσονται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	575	1	ὑπεροίσει +Β	ὑπεροίσει +Β	ὑπεροίσει	ὑπεροίσει	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	575	2	Kal	"“"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	575	3	Ὑψίστου	Ὑψίστου	Ὑψίστου	Ὑψίστου	image (3x): rough breathing on capital Υ
+dan-th	oldtestgreek00unknuoft	575	4	καὶ;	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	575	5	καί	καί	καί	καί	image (3x): acute before the enclitic as printed
+dan-th	oldtestgreek00unknuoft	575	5	καιροῦ. +"ὁ	καιροῦ. +“ὁ	καιροῦ.	καιροῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	575	7	τέλους, +57	τέλους, +57	τέλους,	τέλους,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	575	9	Ὑψίστου:	Ὑψίστου:	Ὑψίστου·	Ὑψίστου·	image (3x): as in the page file; OCR read specks, superscript numbers or wrong diacritics
+dan-th	oldtestgreek00unknuoft	575	10	ovis,	ὦνιος,	ώνιος,	ώνιος,	image (3x): as in the page file; OCR read specks, superscript numbers or wrong diacritics
+dan-th	oldtestgreek00unknuoft	575	10	ὑπακούσονται:	ὑπακούσονται:	ὑπακούσονται·	ὑπακούσονται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	575	11	λύγου.	λύγου.	λόγου.	λόγου.	image (3x): as in the page file; OCR read specks, superscript numbers or wrong diacritics
+dan-th	oldtestgreek00unknuoft	575	11	“ἐγὼ	“᾿ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ before Δανιήλ (not a quotation), as printed
+dan-th	oldtestgreek00unknuoft	575	11	διαλογισμοί	διαλογισμοί	διαλογισμοί	διαλογισμοί	image (3x): acute before the enclitic as printed
+dan-th	oldtestgreek00unknuoft	575	12	συνετάρασσόν	συνετάρασσόν	συνετάρασσόν	συνετάρασσόν	image (3x): acute before the enclitic as printed
+dan-th	oldtestgreek00unknuoft	575	12	pe,	με,	με,	με,	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	575	12	ἣ	ἣ	ἡ	ἡ	image (3x): plain rough breathing on ἡ, no grave
+dan-th	oldtestgreek00unknuoft	575	12	μορφή	μορφή	μορφή	μορφή	image (3x): acute before the enclitic as printed
+dan-th	oldtestgreek00unknuoft	575	14	Ev	Ἐν	Ἐν	Ἐν	image (3x): smooth breathing on capital Ε
+dan-th	oldtestgreek00unknuoft	575	15	@POn	ὥφθη	ὤφθη	ὤφθη	image (3x): smooth + acute over ω: ὤφθη
+dan-th	oldtestgreek00unknuoft	575	15	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ before Δανιήλ (not a quotation), as printed
+dan-th	oldtestgreek00unknuoft	575	15	pera	μετὰ	μετὰ	μετὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	575	15	ὀφθεῖσάν	ὀφθεῖσάν	ὀφθεῖσάν	ὀφθεῖσάν	image (3x): acute before the enclitic as printed
+dan-th	oldtestgreek00unknuoft	575	15	ἀρχῆν.	ἀρχήν.	ἀρχήν.	ἀρχήν.	image (3x): as in the page file; OCR read specks, superscript numbers or wrong diacritics
+dan-th	oldtestgreek00unknuoft	575	16	Ξκαὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	575	16	ἤμην.	ἤμην.	ἤμην	ἤμην	image (3x): as in the page file; OCR read specks, superscript numbers or wrong diacritics
+dan-th	oldtestgreek00unknuoft	575	16	tH	τῇ,	τῇ	τῇ	image (3x): as in the page file; OCR read specks, superscript numbers or wrong diacritics
+dan-th	oldtestgreek00unknuoft	575	16	ἥ	ἥ	ἥ	ἥ	image (3x): acute before the enclitic as printed
+dan-th	oldtestgreek00unknuoft	575	16	Αἰλάμ,	Αἰλάμ,	Αἰλάμ,	Αἰλάμ,	image (3x): Αἰλάμ, smooth breathing on ι, no breathing on Α
+dan-th	oldtestgreek00unknuoft	575	17	Οὐβάλ.	Οὐβάλ.	Οὐβάλ.	Οὐβάλ.	image (3x): Οὐβάλ, smooth breathing on υ
+dan-th	oldtestgreek00unknuoft	575	17	3καὶ	3καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	575	17	ὀφθαλμούς	ὀφθαλμούς	ὀφθαλμούς	ὀφθαλμούς	image (3x): acute before the enclitic as printed
+dan-th	oldtestgreek00unknuoft	575	18	Οὐβάλ,	Οὐβάλ,	Οὐβάλ,	Οὐβάλ,	image (3x): Οὐβάλ, smooth breathing on υ
+dan-th	oldtestgreek00unknuoft	575	18	ὑψηλά:	ὑψηλά:	ὑψηλά·	ὑψηλά·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	575	19	ἕν	ἕν	ἓν	ἓν	image (3x): compact closed rough+grave over ε: ἓν
+dan-th	oldtestgreek00unknuoft	575	20	ασσαν	θάλασσαν	θάλασσαν	θάλασσαν	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	575	20	νότον:	νότον:	νότον·	νότον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	575	21	στήσονται.	στήσονται.	στήσονται	στήσονται	image (3x): as in the page file; OCR read specks, superscript numbers or wrong diacritics
+dan-th	oldtestgreek00unknuoft	575	22	aipovpevos	αιρούμενος	αιρούμενος	αιρούμενος	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	575	22	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	575	22	αὐτοῦ.	αὐτοῦ.	αὐτοῦ	αὐτοῦ	image (3x): as in the page file; OCR read specks, superscript numbers or wrong diacritics
+dan-th	oldtestgreek00unknuoft	575	23	ἐμεγαλύνθη.	ἐμεγαλύνθη. +5	ἐμεγαλύνθη.	ἐμεγαλύνθη.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	575	23	ἤ	ἤρχετο	ἤρχετο	ἤρχετο	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	575	25	“καὶ	6 +"καὶ	καὶ	καὶ	image (3x): as in the page file; OCR read specks, superscript numbers or wrong diacritics
+dan-th	oldtestgreek00unknuoft	575	26	ἕως	εῶς	ἕως	ἕως	image (3x): as in the page file; OCR read specks, superscript numbers or wrong diacritics
+dan-th	oldtestgreek00unknuoft	575	26	τοῦ	∅	τοῦ	τοῦ	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	575	26	κριοῦ	∅	κριοῦ	κριοῦ	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	575	26	τοῦ	τοῦ +κριου του	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	575	26	κέρατα	κερατα	κέρατα	κέρατα	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	575	26	ἔχοντος,	ἐχόντος,	ἔχοντος,	ἔχοντος,	image (3x): as in the page file; OCR read specks, superscript numbers or wrong diacritics
+dan-th	oldtestgreek00unknuoft	575	26	οὗ	οὐ	οὗ	οὗ	image (3x): as in the page file; OCR read specks, superscript numbers or wrong diacritics
+dan-th	oldtestgreek00unknuoft	575	26	ἑστὼς	εστῶς	ἑστῶς	ἑστὼς	image (3x): rough breathing on ε, grave on ω: ἑστὼς
+dan-th	oldtestgreek00unknuoft	575	26	ἐνώπιον	ενῶώπίον	ἐνώπιον	ἐνώπιον	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	575	27	τοῦ	του	τοῦ	τοῦ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	575	27	Οὐβάλ,	Οὐβάλ,	Οὐβάλ,	Οὐβάλ,	image (3x): Οὐβάλ, smooth breathing on υ
+dan-th	oldtestgreek00unknuoft	575	27	καὶ	και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	575	27	ἐν	εν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	575	27	ὁρμῇ	ορμῇῃ	ὁρμῇ	ὁρμῇ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	575	27	τῆς	Τὴς	τῆς	τῆς	image (3x): as in the page file; OCR read specks, superscript numbers or wrong diacritics
+dan-th	oldtestgreek00unknuoft	575	27	ἰσχύος	ἐσχυος	ἰσχύος	ἰσχύος	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	575	27	αὐτοῦ,	αὐτου,	αὐτοῦ.	αὐτοῦ.	image (3x): as in the page file; OCR read specks, superscript numbers or wrong diacritics

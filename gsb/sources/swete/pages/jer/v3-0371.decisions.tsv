@@ -1,0 +1,54 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	371	1	∅	ἦλθεν	ἦλθεν	ἦλθεν	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	371	1	∅	Ναβουχοδονοσὸρ	Ναβουχοδονοσὸρ	Ναβουχοδονοσὸρ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	371	1	∅	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave on βασιλεὺς before proper name Βαβυλῶνος (not a quotation)
+jer	oldtestgreek00unknuoft	371	1	∅	Βαβυλῶνος	Βαβυλῶνος	Βαβυλῶνος	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	371	1	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	371	1	∅	πᾶσα	πᾶσα	πᾶσα	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	371	1	∅	ἡ	ἡ	ἡ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	371	1	∅	δύναμις	δύναμις	δύναμις	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	371	2	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	371	2	περιῳκοδό- +5	περιῳκοδό- +5	περιῳκοδό-	περιῳκοδό-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	371	4	6 +ἕως.	6 +ἕως.	ἕως	ἕως	ambiguous: faint small speck after ἕως, lighter than a real point; read no punctuation
+jer	oldtestgreek00unknuoft	371	4	Sedexia	Σεδεκίᾳ	Σεδεκίᾳ	Σεδεκίᾳ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	371	4	“ἐν	“ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	371	5	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	371	5	γῆς.	γῆς-	γῆς.	γῆς.	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	371	6	7 +1καὶ.	γ +1καὶ.	καὶ	καὶ	image (3x): superscript 7 before καὶ, margin 7; no period
+jer	oldtestgreek00unknuoft	371	8	Χαλδαῖοι	Χαλδαῖοι +8	Χαλδαῖοι	Χαλδαῖοι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	371	9	∅	ἐπὶ	ἐπὶ	ἐπὶ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	371	9	∅	τῆς	τῆς	τῆς	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	371	9	∅	πόλεως	πόλεως	πόλεως	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	371	9	∅	κύκλῳ.	κύκλῳ.	κύκλῳ.	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	371	9	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	371	9	∅	ἐπορεύθησαν	ἐπορεύθησαν	ἐπορεύθησαν	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	371	9	∅	ὁδὸν	ὁδὸν	ὁδὸν	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	371	9	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	371	9	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	371	9	∅	ἀραβά,	ἀραβά,	ἀραβά,	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	371	9	∅	“καὶ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	371	10	κατέχα-	κατέλα-	κατέλα-	κατέλα-	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	371	11	βον.	βον.	βον	βον	image (3x): speck after βον, not a period
+jer	oldtestgreek00unknuoft	371	11	Ἰερειχώ,	Ἰερειχώ,	Ἰερειχώ,	Ἰερειχώ,	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	371	12	ορῆσαν	ορησαν	ρησαν	ρησαν	image (3x): ρησαν (end of διεσπά-ρησαν), unaccented; margin 9 before it
+jer	oldtestgreek00unknuoft	371	12	ϑκαὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	371	13	Δεβλάθα"	Δεβλάθα"	Δεβλάθα·	Δεβλάθα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	371	13	"ἐλάλησεν	"ἐλάλησεν	ἐλάλησεν	ἐλάλησεν	image (3x): § witness mark printed in the text before ἐλάλησεν (kept); smooth breathing
+jer	oldtestgreek00unknuoft	371	14	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	371	14	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave on βασιλεὺς before proper name Βαβυλῶνος (not a quotation)
+jer	oldtestgreek00unknuoft	371	14	υἱοὺς	υἱοὺς	υἱοὺς	υἱοὺς	image (3x): grave before proper name Σεδεκίου (not a quotation)
+jer	oldtestgreek00unknuoft	371	15	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	371	16	“kal	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	371	16	ὀφθαλμοὺς	ὀφθαλμοὺς	ὀφθαλμοὺς	ὀφθαλμοὺς	image (3x): grave before proper name Σεδεκίου (not a quotation)
+jer	oldtestgreek00unknuoft	371	17	πέδαις"	πέδαις"	πέδαις·	πέδαις·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	371	17	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave on βασιλεὺς before proper name Βαβυλῶνος (not a quotation)
+jer	oldtestgreek00unknuoft	371	19	"Καὶ	"Καὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	371	19	μηνὶ	μηνὺ	μηνὶ	μηνὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	371	19	πέμπτῳ.	πέμπτῳ	πέμπτῳ	πέμπτῳ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	371	21	Ἱερουσαλήμ,	Ἱερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	371	21	"Ξκαὶ	"Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	371	23	“kal	“᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	371	23	Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	371	24	∅	και	καὶ	καὶ	image (3x): last line read from image: καὶ τοὺς κατα-, lowercase κ
+jer	oldtestgreek00unknuoft	371	24	∅	τοὺς	τοὺς	τοὺς	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	371	24	∅	Κατα-	κατα-	κατα-	image (3x): last line read from image: καὶ τοὺς κατα-, lowercase κ

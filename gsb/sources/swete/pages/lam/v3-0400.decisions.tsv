@@ -1,0 +1,36 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+lam	oldtestgreek00unknuoft	400	1	∅	∅	Φή.	Φή.	image (6x): centered letter heading as printed (Φή., Χσέν., Θαύ.), acute, final period
+lam	oldtestgreek00unknuoft	400	2	Ἔτι	Ἔτι	Ἔτι	Ἔτι	image (3x): smooth breathing + acute (apostrophe then rising stroke)
+lam	oldtestgreek00unknuoft	400	3	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	400	3	ἡμῶν.	ἡμῶν. +ὁ	ἡμῶν.	ἡμῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lam	oldtestgreek00unknuoft	400	4	'	Τιαδή.	Τιαδή.	Τιαδή.	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	400	5	Τιαδή." +᾿ϑ᾽Απεσκοπεύσαμεν	᾿ϑ᾽ +Απεσκοπεύσαμεν	Ἀπεσκοπεύσαμεν	Ἀπεσκοπεύσαμεν	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	400	8	Hyytxey	∅	Κώφ.	Κώφ.	class R5+R0: Latin-letter substitution in OCR; OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	400	9	∅	Ἤγγικεν	Ἤγγικεν	Ἤγγικεν	image (3x): smooth breathing + acute (apostrophe then rising stroke)
+lam	oldtestgreek00unknuoft	400	9	mdp-	πάρ-	πάρ-	πάρ-	image (3x): πάρ-/εστιν hyphenated across lines, no breathing on continuation
+lam	oldtestgreek00unknuoft	400	10	εστιν	ἐστιν	εστιν	εστιν	image (3x): πάρ-/εστιν hyphenated across lines, no breathing on continuation
+lam	oldtestgreek00unknuoft	400	10	ἡμῶν"	ἡμῶν"	ἡμῶν·	ἡμῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	400	13	᾿οπνεῦμα	Ξοηνεῦμα	Ῥήχς.	Ῥήχς.	image (12x): rough breathing on Ρ (reversed comma, tail down-right), acute on η; heading Ῥήχς.
+lam	oldtestgreek00unknuoft	400	14	∅	∅	Πνεῦμα	Πνεῦμα	image (3x): word as written, OCR garbled or merged
+lam	oldtestgreek00unknuoft	400	14	χριστὸς	χριστὸς	χριστὸς	χριστὸς	image (3x): grave on χριστὸς; Κύριος is not a quotation
+lam	oldtestgreek00unknuoft	400	16	Ἔν	Ἔν	Ἐν	Ἐν	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	400	17	ἘΞ	Ἐ	Χσέν.	Χσέν.	image (6x): centered letter heading as printed (Φή., Χσέν., Θαύ.), acute, final period
+lam	oldtestgreek00unknuoft	400	18	Ἰδουμαίας	Ἰδουμαίας	Ἰδουμαίας	Ἰδουμαίας	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	400	18	κατοικοῦσα	“κατοικοῦσα	κατοικοῦσα	κατοικοῦσα	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	400	19	καί	καί	καί	καί	image (3x): accent as printed before enclitic (καί γε, ἀσεβήματά σου, ὅ τι)
+lam	oldtestgreek00unknuoft	400	19	Κυρίου;	Κυρίου;	Κυρίου,	Κυρίου,	image (3x): comma, not question mark
+lam	oldtestgreek00unknuoft	400	21	ΞοἘ̓ξέλιπεν	Ξε:	Θαύ.	Θαύ.	image (6x): centered letter heading as printed (Φή., Χσέν., Θαύ.), acute, final period
+lam	oldtestgreek00unknuoft	400	22	∅	Ἐξέλιπεν	Ἐξέλιπεν	Ἐξέλιπεν	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	400	22	Σειών, +᾿	Σειών,	Σειών,	Σειών,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lam	oldtestgreek00unknuoft	400	24	Ἐδώμ,	Ἐδώμ,	Ἐδώμ,	Ἐδώμ,	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	400	25	ἀσεβήματά	ἀσεβήματά	ἀσεβήματά	ἀσεβήματά	image (3x): accent as printed before enclitic (καί γε, ἀσεβήματά σου, ὅ τι)
+lam	oldtestgreek00unknuoft	400	26	"Μνήσθητι,	"Μμνήξθητι,	Μνήσθητι,	Μνήσθητι,	image (3x): word as written, OCR garbled or merged
+lam	oldtestgreek00unknuoft	400	26	Kopie}	Κύριεν	Κύριε,	Κύριε,	image (3x): word as written, OCR garbled or merged
+lam	oldtestgreek00unknuoft	400	26	ὅ	ὅ	ὅ	ὅ	image (3x): accent as printed before enclitic (καί γε, ἀσεβήματά σου, ὅ τι)
+lam	oldtestgreek00unknuoft	400	27	|	: +ἘΘΟΝ, ἐξίβλεψεν	ἐπίβλεψον	ἐπίβλεψον	image (6x): ἐπίβλεψον; stray slanted mark above π between the lines is not text
+lam	oldtestgreek00unknuoft	400	27	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	400	27	∅	ἴδε	ἴδε	ἴδε	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	400	27	∅	τὸν	τὸν	τὸν	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	400	27	∅	ηὐνειδισμὸν	ὀνειδισμὸν	ὀνειδισμὸν	image (3x): word as written, OCR garbled or merged
+lam	oldtestgreek00unknuoft	400	27	∅	ἡμῶν.	ἡμῶν.	ἡμῶν.	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	400	27	-	-	ἐπίβλεψον	ἐπίβλεψον	image (6x): a stray slanted ink mark between lines 26 and 27 above π; not an accent (the acute on ι is separate); not text

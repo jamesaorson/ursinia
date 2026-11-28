@@ -1,0 +1,48 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan-th	oldtestgreek00unknuoft	547	1	Τόεὐλογεῖτε,	Τόεὐλογεῖτε,	εὐλογεῖτε,	εὐλογεῖτε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	1	γῇ;	γῇ;	γῇ,	γῇ,	image (3x): reads as page file (comma not semicolon after γῇ/ποταμοί; ano teleia after κύριον; period after αἰῶνας; Ἁνανία rough, Ἀζαρία and Ἰσραήλ smooth; ᾅδου rough+acute with iota subscript; ἐξομολογεῖσθε smooth)
+dan-th	oldtestgreek00unknuoft	547	1	κύριον" +Β	κύριον" +Β	κύριον·	κύριον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	2	ὑπερυψοῦτε	ὑπερυψοῦτε.	ὑπερυψοῦτε	ὑπερυψοῦτε	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	547	3	Τϑεὐλογεῖτε,	Τδϑεὐλογεῖτε,	εὐλογεῖτε,	εὐλογεῖτε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	3	ποταμοί;	ποταμοί;	ποταμοί,	ποταμοί,	image (3x): reads as page file (comma not semicolon after γῇ/ποταμοί; ano teleia after κύριον; period after αἰῶνας; Ἁνανία rough, Ἀζαρία and Ἰσραήλ smooth; ᾅδου rough+acute with iota subscript; ἐξομολογεῖσθε smooth)
+dan-th	oldtestgreek00unknuoft	547	3	κύριον"	κύριον"	κύριον·	κύριον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	5	Τ]εὐλογεῖτε,	ΤΤεὐλογεῖτε,	εὐλογεῖτε,	εὐλογεῖτε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	5	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	5	κύριον"	κύριον"	κύριον·	κύριον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	6	ὑμνεῖτε.	ὑμνεῖτε.	ὑμνεῖτε	ὑμνεῖτε	image (3x): reads as page file (comma not semicolon after γῇ/ποταμοί; ano teleia after κύριον; period after αἰῶνας; Ἁνανία rough, Ἀζαρία and Ἰσραήλ smooth; ᾅδου rough+acute with iota subscript; ἐξομολογεῖσθε smooth)
+dan-th	oldtestgreek00unknuoft	547	6	αἰῶνας.	αἰῶνας. +9	αἰῶνας.	αἰῶνας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	7	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	7	Kwovpeva	κινούμενα	κινούμενα	κινούμενα	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	7	ἐν	ἐν +ὕδ	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	7	κύριον"	κύριον"	κύριον·	κύριον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	9	“edAoyeire,	ϑοεὐλογεῖτε,	εὐλογεῖτε,	εὐλογεῖτε,	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	9	κύριον"	κύριον"	κύριον·	κύριον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	10	αἰῶνας.	αἰῶνας. +8ι	αἰῶνας.	αἰῶνας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	11	εὐλογεῖτε,	εὐλογεῖτε, +᾽	εὐλογεῖτε,	εὐλογεῖτε,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	11	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	11	κτήνη,	κτήνη, +᾽	κτήνη,	κτήνη,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	11	κύριον"	κύριον"	κύριον·	κύριον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	12	eis	“εἰς	εἰς	εἰς	image (3x): reads as page file (comma not semicolon after γῇ/ποταμοί; ano teleia after κύριον; period after αἰῶνας; Ἁνανία rough, Ἀζαρία and Ἰσραήλ smooth; ᾅδου rough+acute with iota subscript; ἐξομολογεῖσθε smooth)
+dan-th	oldtestgreek00unknuoft	547	13	viol	υἱοὶ	υἱοὶ	υἱοὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	13	κύριον"	κύριον-	κύριον·	κύριον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	15	βϑεὐλογεῖτε,	3εὐλογεῖτε,	εὐλογεῖτε,	εὐλογεῖτε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	15	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): reads as page file (comma not semicolon after γῇ/ποταμοί; ano teleia after κύριον; period after αἰῶνας; Ἁνανία rough, Ἀζαρία and Ἰσραήλ smooth; ᾅδου rough+acute with iota subscript; ἐξομολογεῖσθε smooth)
+dan-th	oldtestgreek00unknuoft	547	15	κύριον"	κύριον	κύριον·	κύριον·	image (3x): reads as page file (comma not semicolon after γῇ/ποταμοί; ano teleia after κύριον; period after αἰῶνας; Ἁνανία rough, Ἀζαρία and Ἰσραήλ smooth; ᾅδου rough+acute with iota subscript; ἐξομολογεῖσθε smooth)
+dan-th	oldtestgreek00unknuoft	547	17	κύριον"	κύριον	κύριον·	κύριον·	image (3x): reads as page file (comma not semicolon after γῇ/ποταμοί; ano teleia after κύριον; period after αἰῶνας; Ἁνανία rough, Ἀζαρία and Ἰσραήλ smooth; ᾅδου rough+acute with iota subscript; ἐξομολογεῖσθε smooth)
+dan-th	oldtestgreek00unknuoft	547	18	αἰῶνας:	αἰῶνας: +δ5	αἰῶνας.	αἰῶνας.	image (3x): reads as page file (comma not semicolon after γῇ/ποταμοί; ano teleia after κύριον; period after αἰῶνας; Ἁνανία rough, Ἀζαρία and Ἰσραήλ smooth; ᾅδου rough+acute with iota subscript; ἐξομολογεῖσθε smooth)
+dan-th	oldtestgreek00unknuoft	547	19	∅	εὐλογεῖτε,	εὐλογεῖτε,	εὐλογεῖτε,	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	19	∅	δοῦλοι,	δοῦλοι,	δοῦλοι,	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	19	∅	τὸν	τὸν	τὸν	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	19	∅	κύριον"	κύριον·	κύριον·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	21	κύριον"	κύριον	κύριον·	κύριον·	image (3x): reads as page file (comma not semicolon after γῇ/ποταμοί; ano teleia after κύριον; period after αἰῶνας; Ἁνανία rough, Ἀζαρία and Ἰσραήλ smooth; ᾅδου rough+acute with iota subscript; ἐξομολογεῖσθε smooth)
+dan-th	oldtestgreek00unknuoft	547	23	κύριον	κύριον	κύριον·	κύριον·	image (3x): reads as page file (comma not semicolon after γῇ/ποταμοί; ano teleia after κύριον; period after αἰῶνας; Ἁνανία rough, Ἀζαρία and Ἰσραήλ smooth; ᾅδου rough+acute with iota subscript; ἐξομολογεῖσθε smooth)
+dan-th	oldtestgreek00unknuoft	547	25	δῥεὐλογεῖτε,	δϑεὐλογεῖτε,	εὐλογεῖτε,	εὐλογεῖτε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	25	Ἀνανία,	ε +Ἀνανία, Ε]	Ἁνανία,	Ἁνανία,	image (3x): reads as page file (comma not semicolon after γῇ/ποταμοί; ano teleia after κύριον; period after αἰῶνας; Ἁνανία rough, Ἀζαρία and Ἰσραήλ smooth; ᾅδου rough+acute with iota subscript; ἐξομολογεῖσθε smooth)
+dan-th	oldtestgreek00unknuoft	547	25	Ἀζαρία,	Ἀζαρία,	Ἀζαρία,	Ἀζαρία,	image (3x): reads as page file (comma not semicolon after γῇ/ποταμοί; ano teleia after κύριον; period after αἰῶνας; Ἁνανία rough, Ἀζαρία and Ἰσραήλ smooth; ᾅδου rough+acute with iota subscript; ἐξομολογεῖσθε smooth)
+dan-th	oldtestgreek00unknuoft	547	25	κύριον"	κύριον"	κύριον·	κύριον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	26	αἰῶνας"	αἰῶνας"	αἰῶνας·	αἰῶνας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	27	ddov,	ἄδου,	ᾅδου,	ᾅδου,	image (3x): reads as page file (comma not semicolon after γῇ/ποταμοί; ano teleia after κύριον; period after αἰῶνας; Ἁνανία rough, Ἀζαρία and Ἰσραήλ smooth; ᾅδου rough+acute with iota subscript; ἐξομολογεῖσθε smooth)
+dan-th	oldtestgreek00unknuoft	547	30	ἐξομολογεῖσθε	έξομολογεῖσθε	ἐξομολογεῖσθε	ἐξομολογεῖσθε	image (3x): reads as page file (comma not semicolon after γῇ/ποταμοί; ano teleia after κύριον; period after αἰῶνας; Ἁνανία rough, Ἀζαρία and Ἰσραήλ smooth; ᾅδου rough+acute with iota subscript; ἐξομολογεῖσθε smooth)
+dan-th	oldtestgreek00unknuoft	547	32	ϑοεὐλογεῖτε,	εὐλογεῖτε,	εὐλογεῖτε,	εὐλογεῖτε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	32	θεῶν"	θεῶν"	θεῶν·	θεῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	547	33	ἐξομολογεῖσθε:	ἐξομολογεῖσθε:	ἐξομολογεῖσθε·	ἐξομολογεῖσθε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

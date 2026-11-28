@@ -1,62 +1,62 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
-ezek	oldtestgreek00unknuoft	472	1	Αἰγύπτου;	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B same
+ezek	oldtestgreek00unknuoft	472	1	Αἰγύπτου;	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	image (3x): breathing on the capital as transcribed
 ezek	oldtestgreek00unknuoft	472	1	πτρονομὴν	προνομὴν	προνομὴν	προνομὴν	class R6 (OCR letters differ): the other OCR reading agrees with c
 ezek	oldtestgreek00unknuoft	472	2	““ἀντὶ	“ἀντὶ	ἀντὶ	ἀντὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 ezek	oldtestgreek00unknuoft	472	2	λειτουρ-	Χειτουρ-	λειτουρ-	λειτουρ-	class R6 (OCR letters differ): the other OCR reading agrees with c
-ezek	oldtestgreek00unknuoft	472	3	20	-ο	γίας	γίας	TODO zoom: A OPEN, B OPEN
-ezek	oldtestgreek00unknuoft	472	3	ίας	ίας	αὐτοῦ	αὐτοῦ	TODO zoom: A OPEN, B OPEN
-ezek	oldtestgreek00unknuoft	472	3	avrod\ +ἣς	αὐτοῦ'. +ἣς	ἧς	ἧς	TODO zoom: A R5, B OPEN
-ezek	oldtestgreek00unknuoft	472	3	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+ezek	oldtestgreek00unknuoft	472	3	20	-ο	γίας	γίας	image (3x): word as transcribed; OCR noise (margin number, show-through, specks)
+ezek	oldtestgreek00unknuoft	472	3	ίας	ίας	αὐτοῦ	αὐτοῦ	image (3x): word as transcribed; OCR noise (margin number, show-through, specks)
+ezek	oldtestgreek00unknuoft	472	3	avrod\ +ἣς	αὐτοῦ'. +ἣς	ἧς	ἧς	image (3x): word as transcribed; OCR noise (margin number, show-through, specks)
+ezek	oldtestgreek00unknuoft	472	3	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	image (3x): breathing on the capital as transcribed
 ezek	oldtestgreek00unknuoft	472	4	τάδε.	τάδε	τάδε	τάδε	class R6 (OCR letters differ): the other OCR reading agrees with c
-ezek	oldtestgreek00unknuoft	472	4	λέγεί	λέγεί	λέγει	λέγει	TODO zoom: A DIA, B DIA
-ezek	oldtestgreek00unknuoft	472	4	"Ev	“᾽	Ἐν	Ἐν	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A R5, B OPEN
+ezek	oldtestgreek00unknuoft	472	4	λέγεί	λέγεί	λέγει	λέγει	image (3x): word as transcribed; OCR noise (margin number, show-through, specks)
+ezek	oldtestgreek00unknuoft	472	4	"Ev	“᾽	Ἐν	Ἐν	image (3x): breathing on the capital as transcribed
 ezek	oldtestgreek00unknuoft	472	4	τῇ	Ἔν	τῇ	τῇ	class R6 (OCR letters differ): the other OCR reading agrees with c
 ezek	oldtestgreek00unknuoft	472	4	ἡμέρᾳ	ἔρᾳ	ἡμέρᾳ	ἡμέρᾳ	class R6 (OCR letters differ): the other OCR reading agrees with c
 ezek	oldtestgreek00unknuoft	472	4	παντὶ +21	παντὶ +“1	παντὶ	παντὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
-ezek	oldtestgreek00unknuoft	472	5	‘Iopandr,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+ezek	oldtestgreek00unknuoft	472	5	‘Iopandr,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): breathing on the capital as transcribed
 ezek	oldtestgreek00unknuoft	472	5	μέσῳ	μέσῳ᾽	μέσῳ	μέσῳ	class R6 (OCR letters differ): the other OCR reading agrees with c
-ezek	oldtestgreek00unknuoft	472	6	dri	ὅτὶ	ὅτι	ὅτι	TODO zoom: A R5, B DIA
-ezek	oldtestgreek00unknuoft	472	6	ἐγώ.	ἐγώ.	ἐγώ	ἐγώ	TODO zoom: accent before an enclitic; A OPEN, B OPEN
-ezek	oldtestgreek00unknuoft	472	7	Καὶ	Κ̓αὶ	Καὶ	Καὶ	TODO zoom: A same, B DIA
-ezek	oldtestgreek00unknuoft	472	7	"Υἱὲ	“Υἱὲ	Υἱὲ	Υἱὲ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+ezek	oldtestgreek00unknuoft	472	6	dri	ὅτὶ	ὅτι	ὅτι	image (3x): word as transcribed; OCR noise (margin number, show-through, specks)
+ezek	oldtestgreek00unknuoft	472	6	ἐγώ.	ἐγώ.	ἐγώ	ἐγώ	image (3x): accent before enclitic as transcribed
+ezek	oldtestgreek00unknuoft	472	7	Καὶ	Κ̓αὶ	Καὶ	Καὶ	image (3x): word as transcribed; OCR noise (margin number, show-through, specks)
+ezek	oldtestgreek00unknuoft	472	7	"Υἱὲ	“Υἱὲ	Υἱὲ	Υἱὲ	image (3x): breathing on the capital as transcribed
 ezek	oldtestgreek00unknuoft	472	7	προ-	προ:	προ-	προ-	class R6 (OCR letters differ): the other OCR reading agrees with c
-ezek	oldtestgreek00unknuoft	472	8	εἶπόν	εἶπόν	εἰπόν	εἰπόν	TODO zoom: acute or grave before a capitalized word; A DIA, B DIA
-ezek	oldtestgreek00unknuoft	472	8	Ω	Ω	Ὦ	Ὢ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DROP, B DROP
-ezek	oldtestgreek00unknuoft	472	8	ὦ	ὦ	ὢ	ὢ	TODO zoom: A DIA, B DIA
+ezek	oldtestgreek00unknuoft	472	8	εἶπόν	εἶπόν	εἰπόν	εἰπόν	image (3x): acute before capitalized quotation
+ezek	oldtestgreek00unknuoft	472	8	Ω	Ω	Ὦ	Ὢ	image (8x): apostrophe then falling stroke on both (smooth + grave), Ὢ ὢ
+ezek	oldtestgreek00unknuoft	472	8	ὦ	ὦ	ὢ	ὢ	image (8x): apostrophe then falling stroke on both (smooth + grave), Ὢ ὢ
 ezek	oldtestgreek00unknuoft	472	8	3ὅτι	53ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 ezek	oldtestgreek00unknuoft	472	8	ἡμέρα,	ἡμέρα, +3	ἡμέρα,	ἡμέρα,	class R3: OCR appended accent-row or margin junk; c read from the image strip
-ezek	oldtestgreek00unknuoft	472	9	πέρὰς	πέρας	πέρας	πέρας	TODO zoom: A DIA, B same
+ezek	oldtestgreek00unknuoft	472	9	πέρὰς	πέρας	πέρας	πέρας	image (3x): word as transcribed; OCR noise (margin number, show-through, specks)
 ezek	oldtestgreek00unknuoft	472	9	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-ezek	oldtestgreek00unknuoft	472	9	Αἰγυ-	Αἰγυ- +4	Αἰγυ-	Αἰγυ-	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+ezek	oldtestgreek00unknuoft	472	9	Αἰγυ-	Αἰγυ- +4	Αἰγυ-	Αἰγυ-	image (3x): breathing on the capital as transcribed
 ezek	oldtestgreek00unknuoft	472	10	πτίους,	πτίους, +᾽	πτίους,	πτίους,	class R3: OCR appended accent-row or margin junk; c read from the image strip
-ezek	oldtestgreek00unknuoft	472	10	Αἰθιοπίᾳ;	Αἰθιοπίᾳ;	Αἰθιοπίᾳ,	Αἰθιοπίᾳ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B OPEN
-ezek	oldtestgreek00unknuoft	472	11	Αἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+ezek	oldtestgreek00unknuoft	472	10	Αἰθιοπίᾳ;	Αἰθιοπίᾳ;	Αἰθιοπίᾳ,	Αἰθιοπίᾳ,	image (3x): breathing on the capital as transcribed
+ezek	oldtestgreek00unknuoft	472	11	Αἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	image (3x): breathing on the capital as transcribed
 ezek	oldtestgreek00unknuoft	472	11	“Πέρσαι	“Πέρσαι +ς	Πέρσαι	Πέρσαι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-ezek	oldtestgreek00unknuoft	472	13	μαχαίρᾳ.	μαχαίρᾳ.	μαχαίρᾳ	μαχαίρᾳ	TODO zoom: A OPEN, B OPEN
+ezek	oldtestgreek00unknuoft	472	13	μαχαίρᾳ.	μαχαίρᾳ.	μαχαίρᾳ	μαχαίρᾳ	image (3x): word as transcribed; OCR noise (margin number, show-through, specks)
 ezek	oldtestgreek00unknuoft	472	13	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 ezek	oldtestgreek00unknuoft	472	14	ἀντιστηρίγματα	6 +ἀντι ίγματα	ἀντιστηρίγματα	ἀντιστηρίγματα	class R6 (OCR letters differ): the other OCR reading agrees with c
-ezek	oldtestgreek00unknuoft	472	14	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+ezek	oldtestgreek00unknuoft	472	14	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	image (3x): breathing on the capital as transcribed
 ezek	oldtestgreek00unknuoft	472	15	Συήνης"	Συήνης"	Συήνης·	Συήνης·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 ezek	oldtestgreek00unknuoft	472	15	πεσοῦνται	πεσοῦνται"	πεσοῦνται	πεσοῦνται	class R6 (OCR letters differ): the other OCR reading agrees with c
 ezek	oldtestgreek00unknuoft	472	16	7καὶ	7καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-ezek	oldtestgreek00unknuoft	472	16	ἠρημωμένων;	ἠρημωμένων;	ἠρημωμένων,	ἠρημωμένων,	TODO zoom: A OPEN, B OPEN
+ezek	oldtestgreek00unknuoft	472	16	ἠρημωμένων;	ἠρημωμένων;	ἠρημωμένων,	ἠρημωμένων,	image (3x): word as transcribed; OCR noise (margin number, show-through, specks)
 ezek	oldtestgreek00unknuoft	472	16	αὐτῶν +7	αὐτῶν +7	αὐτῶν	αὐτῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
-ezek	oldtestgreek00unknuoft	472	17	«μέσῳ	«μέσῳ	μέσῳ	μέσῳ	TODO zoom: A OPEN, B OPEN
+ezek	oldtestgreek00unknuoft	472	17	«μέσῳ	«μέσῳ	μέσῳ	μέσῳ	image (3x): word as transcribed; OCR noise (margin number, show-through, specks)
 ezek	oldtestgreek00unknuoft	472	17	ecovra	ἔσονται"	ἔσονται·	ἔσονται·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 ezek	oldtestgreek00unknuoft	472	17	ὃκαὶ	ὃκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-ezek	oldtestgreek00unknuoft	472	17	ἐγώ	ἐγώ	ἐγώ	ἐγώ	TODO zoom: accent before an enclitic
+ezek	oldtestgreek00unknuoft	472	17	ἐγώ	ἐγώ	ἐγώ	ἐγώ	image (3x): accent before enclitic as transcribed
 ezek	oldtestgreek00unknuoft	472	17	εἰμι	εἰμι +8	εἰμι	εἰμι	class R3: OCR appended accent-row or margin junk; c read from the image strip
-ezek	oldtestgreek00unknuoft	472	18	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+ezek	oldtestgreek00unknuoft	472	18	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	image (3x): breathing on the capital as transcribed
 ezek	oldtestgreek00unknuoft	472	19	9ἐν	ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-ezek	oldtestgreek00unknuoft	472	20	9 +dovres	9 +δοντες.	δοντες	δοντες	TODO zoom: A OPEN, B OPEN
-ezek	oldtestgreek00unknuoft	472	20	Αἰθιοπίαν;	Αἰθιοπίαν;	Αἰθιοπίαν,	Αἰθιοπίαν,	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B OPEN
-ezek	oldtestgreek00unknuoft	472	21	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-ezek	oldtestgreek00unknuoft	472	21	(Tbe	το +άδε	Τάδε	Τάδε	TODO zoom: A R5, B OPEN
-ezek	oldtestgreek00unknuoft	472	21	κύριὸς	κύριὸς	κύριος	κύριος	TODO zoom: A DIA, B DIA
+ezek	oldtestgreek00unknuoft	472	20	9 +dovres	9 +δοντες.	δοντες	δοντες	image (3x): word as transcribed; OCR noise (margin number, show-through, specks)
+ezek	oldtestgreek00unknuoft	472	20	Αἰθιοπίαν;	Αἰθιοπίαν;	Αἰθιοπίαν,	Αἰθιοπίαν,	image (3x): breathing on the capital as transcribed
+ezek	oldtestgreek00unknuoft	472	21	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	image (3x): breathing on the capital as transcribed
+ezek	oldtestgreek00unknuoft	472	21	(Tbe	το +άδε	Τάδε	Τάδε	image (3x): word as transcribed; OCR noise (margin number, show-through, specks)
+ezek	oldtestgreek00unknuoft	472	21	κύριὸς	κύριὸς	κύριος	κύριος	image (3x): word as transcribed; OCR noise (margin number, show-through, specks)
 ezek	oldtestgreek00unknuoft	472	21	Καὶ +το	Καὶ +το	Καὶ	Καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
-ezek	oldtestgreek00unknuoft	472	22	“πλῆθος	“πλῆθος	πλῆθος	πλῆθος	TODO zoom: A OPEN, B OPEN
-ezek	oldtestgreek00unknuoft	472	22	Αἰγυπτίων	Αἰγυπτίων	Αἰγυπτίων	Αἰγυπτίων	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-ezek	oldtestgreek00unknuoft	472	22	“χειρὸς	“χειρὸς	χειρὸς	χειρὸς	TODO zoom: acute or grave before a capitalized word; A OPEN, B OPEN
+ezek	oldtestgreek00unknuoft	472	22	“πλῆθος	“πλῆθος	πλῆθος	πλῆθος	image (3x): word as transcribed; OCR noise (margin number, show-through, specks)
+ezek	oldtestgreek00unknuoft	472	22	Αἰγυπτίων	Αἰγυπτίων	Αἰγυπτίων	Αἰγυπτίων	image (3x): breathing on the capital as transcribed
+ezek	oldtestgreek00unknuoft	472	22	“χειρὸς	“χειρὸς	χειρὸς	χειρὸς	image (3x): grave before a name, not a quotation
 ezek	oldtestgreek00unknuoft	472	23	Βαβυλῶνος,	Βαβυλῶνος, +τ᾽	Βαβυλῶνος,	Βαβυλῶνος,	class R3: OCR appended accent-row or margin junk; c read from the image strip
 ezek	oldtestgreek00unknuoft	472	23	τ᾽ +ἃὐτοῦ	αὐτοῦ	αὐτοῦ	αὐτοῦ	class R6 (OCR letters differ): the other OCR reading agrees with c
 ezek	oldtestgreek00unknuoft	472	23	αὐτοῦ"	αὐτοῦ"	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip

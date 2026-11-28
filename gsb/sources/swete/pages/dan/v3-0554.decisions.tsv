@@ -1,0 +1,53 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan	oldtestgreek00unknuoft	554	1	ἐκκόψαι:	ἐκκόψαι"	ἐκκόψαι·	ἐκκόψαι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	554	1	σέ, +“"	σέ, +“"	σέ,	σέ,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	554	2	κατατρέχουσιν-	κατατρέχουσιν-:	κατατρέχουσιν·	κατατρέχουσιν·	image (3x): ano teleia
+dan	oldtestgreek00unknuoft	554	2	* +eis	“εἰς	εἰς	εἰς	image (3x): superscript verse number, not text
+dan	oldtestgreek00unknuoft	554	3	ἀπάξουσί	ἀπάξουσί	ἀπάξουσί	ἀπάξουσί	image (3x): acute before enclitic as Swete prints
+dan	oldtestgreek00unknuoft	554	3	ἀποστελοῦσί	ἀποστελοῦσί	ἀποστελοῦσί	ἀποστελοῦσί	image (3x): acute before enclitic as Swete prints
+dan	oldtestgreek00unknuoft	554	4	kat	ϑβϑκαὶ	καὶ	καὶ	image (3x): superscript verse number, not text
+dan	oldtestgreek00unknuoft	554	4	ἐξεριζώθη"	ἐξεριζώθη"	ἐξεριζώθη·	ἐξεριζώθη·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	554	4	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	554	5	σού	σού	σού	σού	image (3x): acute before enclitic as Swete prints
+dan	oldtestgreek00unknuoft	554	6	μαστιγώσουσί	μαστιγώσουσί	μαστιγώσουσί	μαστιγώσουσί	image (3x): acute before enclitic as Swete prints
+dan	oldtestgreek00unknuoft	554	7	ὰ	τὰ	τὰ	τὰ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	554	7	‘va	κεκριμένα	κεκριμένα	κεκριμένα	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	554	8	“᾿αὐτοῦ	“᾿αὐτοῦ	αὐτοῦ	αὐτοῦ	image (3x): superscript verse number, not text
+dan	oldtestgreek00unknuoft	554	11	ἀγάπησον"	ἀγάπησον"	ἀγάπησον·	ἀγάπησον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	554	12	γάρ	γάρ	γάρ	γάρ	image (3x): acute before enclitic as Swete prints
+dan	oldtestgreek00unknuoft	554	12	ὃ	ὃ	ὁ	ὁ	image (3x): ὁ with rough breathing only, no accent
+dan	oldtestgreek00unknuoft	554	12	ὃ	ὃ	ὁ	ὁ	image (3x): ὁ with rough breathing only, no accent
+dan	oldtestgreek00unknuoft	554	12	σου. +55	σου. +55	σου.	σου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	554	14	συνετήρησε. +"ὁ	συνετήρησε.	συνετήρησε.	συνετήρησε.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	554	15	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	554	17	“Kai	“7καὶ	καὶ	καὶ	image (3x): superscript verse number, not text
+dan	oldtestgreek00unknuoft	554	17	Αὕτη	Αὕτη	Αὕτη	Αὕτη	image (3x): Αὕ rough + acute on υ
+dan	oldtestgreek00unknuoft	554	17	ἐστὶ	ἐστὶ	ἐστὶ	ἐστὶ	image (3x): grave on ἐστὶ before a name (not a quotation)
+dan	oldtestgreek00unknuoft	554	18	τὸυς	γάλη,	γάλη,	γάλη,	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	554	18	∅	ἣν	ἣν	ἣν	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	554	18	∅	ἐγὼ	ἐγὼ	ἐγὼ	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	554	18	∅	ὠκοδόμησα,	ᾠκοδόμησα,	ᾠκοδόμησα,	image (3x): smooth breathing on ῳ with iota subscript
+dan	oldtestgreek00unknuoft	554	18	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	554	18	∅	οἶκος	οἶκος	οἶκος	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	554	18	∅	βασιλείας	βασιλείας	βασιλείας	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	554	18	∅	μου	μου	μου	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	554	18	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	554	18	∅	ἰσχύι	ἰσχύι	ἰσχύι	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	554	18	∅	κρά-	κρά-	κρά-	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	554	19	∅	τοὺς	τους	τους	image (3x): τους unaccented (second half of κρά-τους)
+dan	oldtestgreek00unknuoft	554	19	κληθήσέται	κληθήσέται	κληθήσεται	κληθήσεται	image (4x): faint dot over ε is a speck, not an accent
+dan	oldtestgreek00unknuoft	554	19	“ἔτι	“ἔτι	ἔτι	ἔτι	image (3x): superscript verse number, not text
+dan	oldtestgreek00unknuoft	554	21	NaBovxodo-	Ναβουχοδο-	Ναβουχοδο-	Ναβουχοδο-	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	554	22	ἀφήρηταί	ἀφήρηταί	ἀφῄρηταί	ἀφῄρηταί	image (3x): acute before enclitic as Swete prints
+dan	oldtestgreek00unknuoft	554	25	τρυφήν	τρυφήν	τρυφήν	τρυφήν	image (3x): acute before enclitic as Swete prints
+dan	oldtestgreek00unknuoft	554	26	rod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	554	27	αὐτήν"	αὐτήν"	αὐτήν·	αὐτήν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	554	27	dva-	ἀνα-	ἀνα-	ἀνα-	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	554	28	σου,	σου, +᾽	σου,	σου,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	554	29	σου.	σου. +[5]	σου.	σου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	554	30	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	554	30	διώξονταί	διώξονταί	διώξονταί	διώξονταί	image (3x): acute before enclitic as Swete prints
+dan	oldtestgreek00unknuoft	554	31	ἀνθρώπου:	ἀνθρώπου:	ἀνθρώπου·	ἀνθρώπου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	554	32	νομή	νομή	νομή	νομή	image (3x): acute before enclitic as Swete prints
+dan	oldtestgreek00unknuoft	554	32	σου"	σου"	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	554	33	δήσουσί	δήσουσί	δήσουσί	δήσουσί	image (3x): acute before enclitic as Swete prints

@@ -105,8 +105,8 @@
     ("youth" (15 youth "νεανίσκος"))
     ("until" 16)
     ("older," 17)
-    ("entire" 18)
-    ("the people" 19 20)
+    ("the entire" 19 18)
+    ("people" 20)
     ("together." 21)))
 
 (verse 5
@@ -831,7 +831,7 @@
     ("let us give to drink" (19 give-drink "ποτίζω"))
     ("him" 20)
     ("wine" 21)
-    ("and" 22)
+    ("also" (22 also))
     ("this" 25)
     ("night," (23 absorbed) 24)
     ("and" 26)
@@ -851,7 +851,7 @@
   (literal
     ("But" 2)
     ("they gave to drink" (1 give-drink "ποτίζω"))
-    ("and" 3)
+    ("also" (3 also))
     ("in" 4)
     ("that" 7)
     ("night" (5 absorbed) 6)

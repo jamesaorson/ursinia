@@ -1,0 +1,64 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan-th	oldtestgreek00unknuoft	541	1	ἀλήθεια. +"ὁ	ἀλήθεια.	ἀλήθεια.	ἀλήθεια.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	1	καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	2	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	2	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	3	Ἱερουσαλήμ:	Ἱερουσαλήμ:	Ἰερουσαλήμ·	Ἰερουσαλήμ·	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)
+dan-th	oldtestgreek00unknuoft	541	3	ἐν-	ἐν-	ἐν	ἐν	image (3x): light speck between words, not a period or hyphen
+dan-th	oldtestgreek00unknuoft	541	3	κρίσει.	κρίσει.	κρίσει	κρίσει	image (3x): light speck between words, not a period or hyphen
+dan-th	oldtestgreek00unknuoft	541	3	ἐπήγαγες.	ἐπήγαγες.	ἐπήγαγες	ἐπήγαγες	image (3x): light speck between words, not a period or hyphen
+dan-th	oldtestgreek00unknuoft	541	4	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	4	ἡμῶν:	ἡμῶν.	ἡμῶν.	ἡμῶν.	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	541	4	dre	“ὅτι	ὅτι	ὅτι	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	5	ἐν.	ἐν.	ἐν	ἐν	image (3x): light speck between words, not a period or hyphen
+dan-th	oldtestgreek00unknuoft	541	5	πᾶσιν"	πᾶσιν"	πᾶσιν·	πᾶσιν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	5	kai	35καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	5	ἐντοχῶν	ἐντοχῶν	ἐντολῶν	ἐντολῶν	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)
+dan-th	oldtestgreek00unknuoft	541	7	γένηται.	γένηται. +3᾽	γένηται.	γένηται.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	7	“Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	8	ἐποίησας. +3“	ἐποίησας. +3"	ἐποίησας.	ἐποίησας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	9	«is	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	10	πονηροτάτῳ.	πονηροτάτῳ.	πονηροτάτῳ	πονηροτάτῳ	image (3x): light speck between words, not a period or hyphen
+dan-th	oldtestgreek00unknuoft	541	10	53καὶ	53καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	11	ἡμῶν"	ἡμῶν":	ἡμῶν·	ἡμῶν·	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)
+dan-th	oldtestgreek00unknuoft	541	11	ἐγε-	ἐγε:	ἐγε-	ἐγε-	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	541	12	On	νήθη	νήθη	νήθη	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	12	σου.	σου.	σου	σου	image (3x): light speck between words, not a period or hyphen
+dan-th	oldtestgreek00unknuoft	541	12	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	12	47	3:μὴ	μὴ	μὴ	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)
+dan-th	oldtestgreek00unknuoft	541	13	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)
+dan-th	oldtestgreek00unknuoft	541	14	SKal	35 +ϑϑκαὶ	καὶ	καὶ	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)
+dan-th	oldtestgreek00unknuoft	541	14	ἔχεός	ἔχεός	ἔλεός	ἔλεός	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)
+dan-th	oldtestgreek00unknuoft	541	14	δι	δι᾽ +».»	δι᾽	δι᾽	class R2+R3: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	14	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	Ἀβραὰμ	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)
+dan-th	oldtestgreek00unknuoft	541	15	Ἰσαὰκ	Ἰσαὰκ	Ἰσαὰκ	Ἰσαὰκ	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)
+dan-th	oldtestgreek00unknuoft	541	15	δοῦλόν	δοῦλόν	δοῦλόν	δοῦλόν	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)
+dan-th	oldtestgreek00unknuoft	541	15	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)
+dan-th	oldtestgreek00unknuoft	541	16	ιἅγιόν	ιἅγιόν	ἅγιόν	ἅγιόν	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)
+dan-th	oldtestgreek00unknuoft	541	16	σου,	σου, +3	σου,	σου,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	16	ois	οἷς	οἷς	οἷς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	18	37ὅτι,	37ὅτι,	ὅτι,	ὅτι,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	18	καί	καί	καί	καί	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)
+dan-th	oldtestgreek00unknuoft	541	19	Séopev	"έσμεν	ἐσμεν	ἐσμεν	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)
+dan-th	oldtestgreek00unknuoft	541	20	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	20	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	20	ἡγού	ἡγού	ἡγού-	ἡγού-	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)
+dan-th	oldtestgreek00unknuoft	541	22	cov	σου	σου	σου	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	22	ἔλεος.	ἔλεος. +35	ἔλεος.	ἔλεος.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	22	ad᾽	ἀλλ᾽	ἀλλ᾽	ἀλλ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	23	Ψυχῇ	Ψυχῇ	ψυχῇ	ψυχῇ	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)
+dan-th	oldtestgreek00unknuoft	541	23	προσδεχθείημεν"	προσδεχθείημεν"	προσδεχθείημεν·	προσδεχθείημεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	24	ws	ὡς	ὡς	ὡς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	24	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	25	ἡμῶν.	ἡμῶν.	ἡμῶν	ἡμῶν	image (3x): light speck between words, not a period or hyphen
+dan-th	oldtestgreek00unknuoft	541	25	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)
+dan-th	oldtestgreek00unknuoft	541	26	ὄπισθέν	ὄπισθέν	ὄπισθέν	ὄπισθέν	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)
+dan-th	oldtestgreek00unknuoft	541	27	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	27	ἐν.	ἐν.	ἐν	ἐν	image (3x): light speck between words, not a period or hyphen
+dan-th	oldtestgreek00unknuoft	541	27	φοβούμεθά	φοβούμεθά	φοβούμεθά	φοβούμεθά	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)
+dan-th	oldtestgreek00unknuoft	541	28	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)
+dan-th	oldtestgreek00unknuoft	541	28	“pn	“μὴ	μὴ	μὴ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	29	σον	σον	ησον	ησον	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)
+dan-th	oldtestgreek00unknuoft	541	29	ἐπιείκειάν	ἐπιείκειάν	ἐπιείκειάν	ἐπιείκειάν	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)
+dan-th	oldtestgreek00unknuoft	541	30	σου. +43	σου. +“3	σου.	σου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	541	30	θαυμάσιά	θαυμάσιά	θαυμάσιά	θαυμάσιά	image (3x): reads as page file (smooth breathings on Ἰ/Ἀ capitals; acute before enclitics; ano teleia; § then ἐσμεν with smooth breathing, no accent; ψυχῇ lowercase; ησον after ποί-)

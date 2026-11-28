@@ -117,7 +117,7 @@
 
 (lemma "σκηνή" (sense tent (gloss "tent" "tents") (why "Tent, tabernacle; \"tent\" in the literal layer (Hebrews 11:9). Whether the tabernacle of Exodus keeps \"tent\" is a decision for the owner.")) (sense name (gloss "Tents") (why "(LXX, supplied.) The place name the Greek gives at Genesis 33:17, εἰς Σκηνάς ... Σκηναί, \"Tents\", where the Hebrew has Succoth; we translate the Greek name (rule 8, as Σύγχυσις \"Confusion\"), capitalized as a name.")))
 
-(lemma "σκιρτάω" (sense leap (gloss "leap" "leaped" "leaps" "leaping") (why "To spring, leap, of a child in the womb (Genesis 25:22 ἐσκίρτων δὲ τὰ παιδία ἐν αὐτῇ; Luke 1:41, 44) or for joy (Luke 6:23).")))
+(lemma "σκιρτάω" (sense leap (intransitive) (gloss "leap" "leaped" "leaps" "leaping") (why "To spring, leap, of a child in the womb (Genesis 25:22 ἐσκίρτων δὲ τὰ παιδία ἐν αὐτῇ; Luke 1:41, 44) or for joy (Luke 6:23).")))
 
 (lemma "σκοτεινός" (sense dark (gloss "dark") (why "Dark, full of darkness (Genesis 15:12 φόβος σκοτινὸς μέγας, Swete's spelling σκοτινός; Matthew 6:23). The adjective of σκότος \"darkness\".")))
 

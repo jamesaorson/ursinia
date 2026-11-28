@@ -1,0 +1,49 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	501	1	“Kal	“Θκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	1	τοῦ +B	τοῦ	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	2	δώδεκα:	δώδεκα:	δώδεκα·	δώδεκα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	3	εἷς	εἷς +τ	εἷς	εἷς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	4	1 +€vOev	ἔνθεν	ἔνθεν	ἔνθεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	501	4	ἐντεῦθεν. +τ	ἐντεῦθεν.	ἐντεῦθεν.	ἐντεῦθεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	4	εἰσήγαγέν	εἰσήγαγέν	εἰσήγαγέν	εἰσήγαγέν	image (3x): acute on last syllable before enclitic με
+ezek	oldtestgreek00unknuoft	501	4	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	5	ἕξ	ἕξ	ἓξ	ἓξ	image (3x): compact closed mark = rough breathing + grave
+ezek	oldtestgreek00unknuoft	501	5	“καὶ	“καὶ	καὶ	καὶ	image (3x): superscript 2 then καὶ
+ezek	oldtestgreek00unknuoft	501	5	ἕξ	ἑξ	ἓξ	ἓξ	image (3x): compact closed mark = rough breathing + grave
+ezek	oldtestgreek00unknuoft	501	6	ἔνθεν,	ἔνθεν, +()	ἔνθεν,	ἔνθεν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	6	(cai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	7	πυλώνος	πυλῶνος	πυλῶνος	πυλῶνος	image (3x): circumflex
+ezek	oldtestgreek00unknuoft	501	7	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	8	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	9	ϑ3καὶ	ϑ3καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	9	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	10	ald	αἷλ	αἲλ	αἲλ	image (8x): open two-part mark = smooth breathing + grave
+ezek	oldtestgreek00unknuoft	501	12	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	13	∅	κοντα	κοντα	κοντα	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	13	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	13	∅	εὖρος	εὖρος	εὖρος	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	13	∅	πηχῶν	πηχῶν	πηχῶν	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	13	∅	εἴκοσι	εἴκοσι	εἴκοσι	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	13	∅	κατὰ	κατὰ	κατὰ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	13	∅	πρόσωπον	πρόσωπον	πρόσωπον	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	13	∅	τοῦ	τοῦ	τοῦ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	13	∅	ναοῦ.	ναοῦ.	ναοῦ.	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	13	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	13	∅	εἶπεν	εἶπεν	εἶπεν	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	15	ἕξ	ἕξ	ἓξ	ἓξ	image (3x): compact closed mark = rough breathing + grave
+ezek	oldtestgreek00unknuoft	501	16	καὶ	δ +"καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	501	16	δίς:	δίς"	δίς·	δίς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	17	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	19	∅	-	τοῦ	τοῦ	image (3x): τοῦ with circumflex; the 7 is the margin number
+ezek	oldtestgreek00unknuoft	501	19	Τκαὶ	Τκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	21	ιαπιλατύνηται	διαπλατύνηται	διαπλατύνηται	διαπλατύνηται	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	501	22	ὑπερῷα	ὕπερῷα	ὑπερῷα	ὑπερῷα	image (3x): rough breathing on upsilon; circumflex and iota subscript on omega
+ezek	oldtestgreek00unknuoft	501	22	τριώροφα, +ὃ	τριώροφα,	τριώροφα,	τριώροφα,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	22	καὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	22	Opaed	θραὲλ	θραὲλ	θραὲλ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	22	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	23	ὕψος +ς	ὕψος	ὕψος	ὕψος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	23	THX	πήχεων	πήχεων	πήχεων	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	23	ἕξ +?	ἕξ.	ἕξ.	ἕξ.	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	501	24	διαστήματα +9	διαστήματα	διαστήματα	διαστήματα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	501	24	καὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip

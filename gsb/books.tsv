@@ -50,7 +50,7 @@ nn	id	english	greek	testament	deuterocanonical	role	source	notes	chapters
 49	bar	Baruch	Βαρούχ	OT	yes	main	swete
 50	lam	Lamentations	Θρῆνοι	OT	no	main	swete
 51	epjer	Epistle of Jeremiah	Ἐπιστολὴ Ἰερεμίου	OT	yes	main	swete
-52	ezek	Ezekiel	Ἰεζεκιήλ	OT	no	main	swete
+52	ezek	Ezekiel	Ἰεζεκιήλ	OT	no	main	swete		48
 53	sus	Susanna	Σουσάννα	OT	yes	main	swete	Old Greek: the authoritative text.
 54	sus-th	Susanna (Theodotion)	Σουσάννα (Θ)	OT	yes	comparison	swete	Theodotion's version, for comparison only.
 55	dan	Daniel	Δανιήλ	OT	no	main	swete	Old Greek: the authoritative text (Swete prints it from Codex Chisianus, 88). The Greek additions (Prayer of Azariah, Song of the Three) stay inside chapter 3 as Swete numbers them.

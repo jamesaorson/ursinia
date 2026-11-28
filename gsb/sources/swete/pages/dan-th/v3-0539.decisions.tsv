@@ -1,0 +1,59 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan-th	oldtestgreek00unknuoft	539	1	καιομένην"	καιομένην:	καιομένην·	καιομένην·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	1	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	1	Tis	τίς	τίς	τίς	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	2	χειρός	χειρός	χειρός	χειρός	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	2	μου; +16	μου; +“ὁ	μου;	μου;	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	2	Σεδράχ,	Σεδράχ,	Σεδράχ,	Σεδράχ,	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	2	Μεισάχ,	Μεισάχ,	Μεισάχ,	Μεισάχ,	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	3	∅	Ἀβδεναγώ,	Ἀβδεναγώ,	Ἀβδεναγώ,	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	3	∅	λέγοντες	λέγοντες	λέγοντες	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	3	∅	τῷ	τῷ	τῷ	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	3	∅	βασιλεῖ	βασιλεῖ	βασιλεῖ	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	3	∅	Ναβουχοδονοσόρ	Ναβουχοδονοσόρ	Ναβουχοδονοσόρ	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	3	∅	Οὐ	Οὐ	Οὐ	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	3	∅	χρείαν	χρείαν	χρείαν	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	3	∅	ἔχομεν	ἔχομεν	ἔχομεν	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	4	ἀποκριθῆναί	ἀποκριθῆναί	ἀποκριθῆναί	ἀποκριθῆναί	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	4	cow	σοι.	σοι.	σοι.	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	4	"Πἔστιν	"Τἔστιν	ἔστιν	ἔστιν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	6	καιομένης"	καιομένης"	καιομένης·	καιομένης·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	7	"καὶ	"δκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	7	γνωστὸν	γνωστὸν.	γνωστὸν	γνωστὸν	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	539	7	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	8	ἣ	ἣὗ	ᾗ	ᾗ	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	8	Na-	Να-	Να-	Να-	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	10	Σεδράχ,	Σεδράχ,	Σεδράχ,	Σεδράχ,	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	10	Ἀβδεναγώ,	Ἀβδεναγώ,	Ἀβδεναγώ,	Ἀβδεναγώ,	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	11	“καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	12	Σεδράχ,	Σεδράχ,	Σεδράχ,	Σεδράχ,	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	12	Ἀβδε-	Ἀβδε-	Ἀβδε-	Ἀβδε-	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	13	vay@,	Ψαγώ,	ναγώ,	ναγώ,	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	13	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	13	** +Tore	Ὠ̔τ,- +“᾿τότε	τότε	τότε	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	15	pas	ραις	ραις	ραις	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	15	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	15	τὸ	τὸ +Ξ	τὸ	τὸ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	16	TOU	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	16	“ἐπεὶ	“ἐπεὶ	ἐπεὶ	ἐπεὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	16	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	16	ὑπερίσχυεν"	ὑπερίσχυεν"	ὑπερίσχυεν·	ὑπερίσχυεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	17	“kal	“Ξ3καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	17	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	17	Σεδράχ,	Σεδράχ,	Σεδράχ,	Σεδράχ,	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	18	Ἀβδεναγώ,	Ἀβδεναγώ,	Ἀβδεναγώ,	Ἀβδεναγώ,	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	19	πεπεδημένοι.	πεπεδημένοι. +24	πεπεδημένοι.	πεπεδημένοι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	20	Kat	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	20	τὸν	τὸν +θ	τὸν	τὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	21	“Ξκαὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	21	συνστὰς	συνστὰς	συνστὰς	συνστὰς	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	21	Ἀζαρίας	Ἀζαρίας	Ἀζαρίας	Ἀζαρίας	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	22	στύμα	στύμα	στόμα	στόμα	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	22	“Εὐλογητὸς	“Εὐλογητὸς	Εὐλογητὸς	Εὐλογητὸς	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	23	ὁ	ὁ +θ	ὁ	ὁ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	23	aiverds,	αἰνετός,	αἰνετός,	αἰνετός,	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	23	καὶ	καὶ +ὃ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	24	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	24	“7ὅτι	“7ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	539	25	ὁδοί	ὁδοί	ὁδοί	ὁδοί	image (3x): reads as in page file (breathings smooth on Ἀβδεναγώ/Ἀζαρίας/Οὐ/Εὐ; acute before enclitic/capital; ᾗ rough circumflex subscript; στόμα; ναγώ; τότε)
+dan-th	oldtestgreek00unknuoft	539	25	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip

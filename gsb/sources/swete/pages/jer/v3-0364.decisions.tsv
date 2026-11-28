@@ -1,0 +1,43 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	364	1	ϑκαὶ	ϑκαὶ	καὶ	καὶ	image (3x): reads as page file; OCR noise from superscript number / speck
+jer	oldtestgreek00unknuoft	364	1	Οὕτως	Οὕτως	Οὕτως	Οὕτως	image (3x): breathing on capital as in page file
+jer	oldtestgreek00unknuoft	364	1	"Ἐὰν	"Ἐὰν	Ἐὰν	Ἐὰν	image (3x): breathing on capital as in page file
+jer	oldtestgreek00unknuoft	364	2	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	364	3	υτεύσω	φυτεύσω	φυτεύσω	φυτεύσω	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	364	3	exTiAw	ἐκτίλω:	ἐκτίλω·	ἐκτίλω·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	364	4	“ph	""μὴ	μὴ	μὴ	image (3x): reads as page file; OCR noise from superscript number / speck
+jer	oldtestgreek00unknuoft	364	5	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	364	5	φησὶν	φησὶν	φησὶν	φησὶν	image (3x): grave before capitalized name
+jer	oldtestgreek00unknuoft	364	8	γῆν	γῆ»	γῆν	γῆν	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	364	8	“Bxal	""καὶ	καὶ	καὶ	image (3x): reads as page file; OCR noise from superscript number / speck
+jer	oldtestgreek00unknuoft	364	8	Οὐ	Οὐ	Οὐ	Οὐ	image (3x): breathing on capital as in page file
+jer	oldtestgreek00unknuoft	364	9	"ὅτι	"ὅτι	ὅτι	ὅτι	image (3x): reads as page file; OCR noise from superscript number / speck
+jer	oldtestgreek00unknuoft	364	9	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	364	9	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): breathing on capital as in page file
+jer	oldtestgreek00unknuoft	364	11	οἰκήσομεν"	οἰκήσομεν"	οἰκήσομεν·	οἰκήσομεν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	364	11	did	᾿5διὰ	διὰ	διὰ	image (3x): reads as page file; OCR noise from superscript number / speck
+jer	oldtestgreek00unknuoft	364	12	Οὕτως	Οὕτως	Οὕτως	Οὕτως	image (3x): breathing on capital as in page file
+jer	oldtestgreek00unknuoft	364	12	Ἐὰν	Ἐὰν	Ἐὰν	Ἐὰν	image (3x): breathing on capital as in page file
+jer	oldtestgreek00unknuoft	364	13	τροσῶπον	πρόσωπον	πρόσωπον	πρόσωπον	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	364	13	πυμων	ὑμῶν	ὑμῶν	ὑμῶν	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	364	13	εἷς	εἷς	εἰς	εἰς	image (3x): εἰς smooth breathing, no circumflex
+jer	oldtestgreek00unknuoft	364	13	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	image (3x): breathing on capital as in page file
+jer	oldtestgreek00unknuoft	364	13	και	καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	364	13	€KEL	ἐκεῖ	ἐκεῖ	ἐκεῖ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	364	13	Κατοικειν,	κατοικεῖν, +"ὁ	κατοικεῖν,	κατοικεῖν,	image (3x): reads as page file; OCR noise from superscript number / speck
+jer	oldtestgreek00unknuoft	364	15	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	image (3x): breathing on capital as in page file
+jer	oldtestgreek00unknuoft	364	15	προσώ-	προσώ-	προσώ-	προσώ-	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	364	16	Αἰγύπτῳ,	Αἰγύπτῳ,	Αἰγύπτῳ,	Αἰγύπτῳ,	image (3x): breathing on capital as in page file
+jer	oldtestgreek00unknuoft	364	17	"καὶ	"Ἰκαὶ	καὶ	καὶ	image (3x): reads as page file; OCR noise from superscript number / speck
+jer	oldtestgreek00unknuoft	364	17	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	364	17	οἷ	οἷ	οἱ	οἱ	image (4x): οἱ rough breathing only (accent-like mark is the breathing)
+jer	oldtestgreek00unknuoft	364	18	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): breathing on capital as in page file
+jer	oldtestgreek00unknuoft	364	19	ἐκλείψουσιν:	ἐκλείψουσιν:	ἐκλείψουσιν	ἐκλείψουσιν	ambiguous: small light dot at mid-height after ἐκλείψουσιν, much lighter and smaller than the page's ano teleia; read speck, no punctuation
+jer	oldtestgreek00unknuoft	364	20	ért	᾿ξὅτι	ὅτι	ὅτι	image (3x): reads as page file; OCR noise from superscript number / speck
+jer	oldtestgreek00unknuoft	364	21	θυμός	θυμός	θυμός	θυμός	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	364	21	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	364	22	Ἱερουσαλήμ,	Ἱερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): breathing on capital as in page file
+jer	oldtestgreek00unknuoft	364	22	θυμός	θυμός	θυμός	θυμός	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	364	23	Αἴγυπτον:	Αἴγυπτον:	Αἴγυπτον·	Αἴγυπτον·	image (3x): breathing on capital as in page file
+jer	oldtestgreek00unknuoft	364	24	∅	∅	ἃ	ἃ	image (3x): ἃ rough+grave after superscript 19
+jer	oldtestgreek00unknuoft	364	19	-	-	ἐκλείψουσιν	ἐκλείψουσιν	ambiguous: small light mid-height dot after the word; read speck, not ano teleia

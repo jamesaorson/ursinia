@@ -227,7 +227,7 @@
     ("to" (9 to))
     ("her" 12)
     ("brothers," (10 absorbed) 11)
-    ("I may find" (13 find "εὑρίσκω"))
+    ("May I find" (13 find "εὑρίσκω"))
     ("grace" 14)
     ("in front of" 15)
     ("you," 16)

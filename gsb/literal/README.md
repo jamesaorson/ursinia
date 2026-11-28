@@ -144,7 +144,10 @@ imperfect "was making" (εἰμί "was"); aorist "made", passive "was made";
 future "will make"; perfect "has made"; pluperfect "had made"; οἶδα perfect
 as present. Imperative "make", third person "let X make"; first plural
 subjunctive with no subordinator "let us make"; subjunctive after ἵνα/ὅπως
-"may make"; optative "may make". Participle present "making", aorist "having
+"may make"; optative "may make", and in a main clause an optative of wish
+puts "may" before its subject like "let" (καὶ ὁ θεὸς δῴη σοι "And may God
+give to you", μὴ γένοιτο "May it not come to be", μὴ ἔλθοι ἡ ψυχή μου "may
+my soul not come"). Participle present "making", aorist "having
 made", perfect passive "made". Infinitive "to make"; articular infinitive
 after a noun or preposition "of making". Middle and deponent forms are active
 English; passive is passive unless the sense says `(voice active)`.
@@ -453,7 +456,8 @@ present, brackets, "the" needs ὁ, demonstratives and names kept).
 
 Also errors: a word doubled inside one segment ("came back back"); a lemma
 listed twice in the concordance (the message names both files; `make
-gsb/lint` gives the same one).
+gsb/lint` gives the same one); two overrides of one word or two pins of one
+verse (they would silently replace each other: merge them).
 
 Warnings (listed): a reading borrowed from the New Testament where that form
 had readings of different lemmas or parts of speech (decide with a form row
@@ -461,7 +465,10 @@ or override); a pinned verse; a verse more than half of whose words carry an
 override; a καί-joined verb with no pronoun after a clause naming another
 person (see the pronoun rules); `subject-unsure` (Greek order kept, read the
 verse); `spelling` (an -ing/-ed form whose consonant doubling the rule
-cannot decide).
+cannot decide); `person-unsure` (a first singular / third plural form with
+no cue, see the pronoun rules); `inf-subject-by-rule` (an infinitive's one
+pronoun taken as its subject); `kyrios-capital-at-start` (a capital Κύριος
+that may be only the position's).
 
 Supplied words, the test (rule 16a "middle"): an override adds `[is]`,
 `[was]`, `[There]` where the verse, or a clause of it, cannot be read as an

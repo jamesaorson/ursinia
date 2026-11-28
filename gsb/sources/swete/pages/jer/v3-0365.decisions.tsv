@@ -1,0 +1,65 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	365	1	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	ambiguous: image (10x) breathing is a worn hook, top-heavy and closing downward like the smooth marks on this page; read smooth
+jer	oldtestgreek00unknuoft	365	1	εἰσέλθητε +Β	εἰσέλθητε	εἰσέλθητε	εἰσέλθητε	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	365	2	Αἴγυπτον.	Αὐγυατόν:	Αἴγυπτον.	Αἴγυπτον.	image (3x): smooth breathing on capital (Αἴ smooth+acute on ι)
+jer	oldtestgreek00unknuoft	365	2	viv	νῦν	νῦν	νῦν	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	365	2	drt	“ὅτι	ὅτι	ὅτι	image (3x): reads as page file; OCR noise from superscript number
+jer	oldtestgreek00unknuoft	365	2	ἐπονηρεύσασθε	ἐπθνηρεύσαῦ᾽ +ε	ἐπονηρεύσασθε	ἐπονηρεύσασθε	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	365	2	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	365	3	ἀποστείλαντές	ἀποστείλαντές	ἀποστείλαντές	ἀποστείλαντές	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	365	4	Κύριον,	Κύριον;	Κύριον,	Κύριον,	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	365	4	ποιήσομεν.	ποιήσομεν. +“"	ποιήσομεν.	ποιήσομεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	365	4	**	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	365	5	kat	οὐκ	οὐκ	οὐκ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	365	5	∅	ἠκούσατε	ἠκούσατε	ἠκούσατε	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	365	5	∅	τῆς	τῆς	τῆς	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	365	5	∅	φωνῆς	φωνῆς	φωνῆς	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	365	5	∅	Κυρίου	Κυρίου	Κυρίου	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	365	5	∅	ἧς	ἧς	ἧς	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	365	5	∅	ἀπέστειλέν	ἀπέστειλέν	ἀπέστειλέν	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	365	5	∅	με	με	με	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	365	5	∅	πρὸς	πρὸς	πρὸς	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	365	5	∅	ὑμᾶς.	ὑμᾶς.	ὑμᾶς.	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	365	5	∅	““καὶ	καὶ	καὶ	image (3x): reads as page file; OCR noise from superscript number
+jer	oldtestgreek00unknuoft	365	7	εἰσελθεῖν	∅	εἰσελθεῖν	εἰσελθεῖν	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	365	7	κατοικεῖν	∅	κατοικεῖν	κατοικεῖν	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	365	7	ἐκεῖ.	∅	ἐκεῖ.	ἐκεῖ.	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	365	7	Καὶ	∅	Καὶ	Καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	365	7	ἐγενηθη	∅	ἐγενήθη	ἐγενήθη	image (3x): ἐγενήθη with acute
+jer	oldtestgreek00unknuoft	365	7	ὡς	∅	ὡς	ὡς	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	365	7	ἐπαύσατο	∅	ἐπαύσατο	ἐπαύσατο	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	365	7	Jepeuias	∅	Ἰερεμίας	Ἰερεμίας	image (3x): smooth breathing on capital (Αἴ smooth+acute on ι)
+jer	oldtestgreek00unknuoft	365	8	λόγους	λύγους	λόγους	λόγους	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	365	8	Κυρίου	Ἱκυρίοῦ	Κυρίου	Κυρίου	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	365	8	ods	οὺς	οὓς	οὓς	image (3x): οὓς rough+grave compact mark
+jer	oldtestgreek00unknuoft	365	9	αὐτὸν	αὐτὸν	αὐτὸν	αὐτὸν	image (3x): grave before capitalized name
+jer	oldtestgreek00unknuoft	365	9	“καὶ	“καὶ	καὶ	καὶ	image (3x): reads as page file; OCR noise from superscript number
+jer	oldtestgreek00unknuoft	365	10	∅	Ἀζαρίας	Ἀζαρίας	Ἀζαρίας	image (3x): smooth breathing on capital (Αἴ smooth+acute on ι)
+jer	oldtestgreek00unknuoft	365	10	∅	υἱὸς	υἱὸς	υἱὸς	image (3x): grave before capitalized name
+jer	oldtestgreek00unknuoft	365	10	∅	Μαασσαίου	Μαασσαίου	Μαασσαίου	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	365	10	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	365	10	∅	Ἰωανὰν	Ἰωανὰν	Ἰωανὰν	image (3x): smooth breathing on capital (Αἴ smooth+acute on ι)
+jer	oldtestgreek00unknuoft	365	10	∅	υἱὸς	υἱὸς	υἱὸς	image (3x): grave before capitalized name
+jer	oldtestgreek00unknuoft	365	10	∅	Καρῆε	Καρῆε	Καρῆε	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	365	10	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	365	10	∅	πάντες	πάντες	πάντες	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	365	10	∅	ἄνδρες	ἄνδρες	ἄνδρες	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	365	11	∅	οἱ	οἱ	οἱ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	365	11	Ἱερεμίᾳ	Ἰερεμίᾳ	Ἰερεμίᾳ	Ἰερεμίᾳ	image (3x): smooth breathing on capital (Αἴ smooth+acute on ι)
+jer	oldtestgreek00unknuoft	365	11	ἀπέστειλέν	ἀπέστειλέν	ἀπέστειλέν	ἀπέστειλέν	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	365	12	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	image (3x): smooth breathing on capital (Αἴ smooth+acute on ι)
+jer	oldtestgreek00unknuoft	365	12	3ἀλλ᾽ +>	3ἀλλ᾽	ἀλλ᾽	ἀλλ᾽	image (3x): reads as page file; OCR noise from superscript number
+jer	oldtestgreek00unknuoft	365	13	vids	υἱὸς	υἱὸς	υἱὸς	image (3x): grave before capitalized name
+jer	oldtestgreek00unknuoft	365	13	wa	ἵνα	ἵνα	ἵνα	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	365	13	δῷς	δῷς +τ	δῷς	δῷς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	365	15	‘kal	ὁκαὶ	λῶνα.	λῶνα.	image (3x): reads as page file; OCR noise from superscript number
+jer	oldtestgreek00unknuoft	365	15	∅	∅	καὶ	καὶ	image (3x): reads as page file; OCR noise from superscript number
+jer	oldtestgreek00unknuoft	365	15	Ἰωανὰν	Ἰωανὰν	Ἰωανὰν	Ἰωανὰν	image (3x): smooth breathing on capital (Αἴ smooth+acute on ι)
+jer	oldtestgreek00unknuoft	365	16	pews	μεως	μεως	μεως	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	365	16	Ἰούδα.	Ἰούδα.	Ἰούδα.	Ἰούδα.	image (3x): smooth breathing on capital (Αἴ smooth+acute on ι)
+jer	oldtestgreek00unknuoft	365	17	5 +"καὶ	5 +"καὶ	καὶ	καὶ	image (3x): reads as page file; OCR noise from superscript number
+jer	oldtestgreek00unknuoft	365	17	Ἰωανὰν	Ἰωανὰν	Ἰωανὰν	Ἰωανὰν	image (3x): smooth breathing on capital (Αἴ smooth+acute on ι)
+jer	oldtestgreek00unknuoft	365	17	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	365	18	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on capital (Αἴ smooth+acute on ι)
+jer	oldtestgreek00unknuoft	365	19	6 +“τοὺς	6 +“τοὺς	τοὺς	τοὺς	image (3x): reads as page file; OCR noise from superscript number
+jer	oldtestgreek00unknuoft	365	1	-	-	Ἰούδα	Ἰούδα	ambiguous: worn breathing hook; read smooth like the other Ἰούδα on the page

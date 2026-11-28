@@ -425,8 +425,8 @@
   (status draft)
   (literal
     ("But" 2)
-    ("they were leaping" (1 leap "σκιρτάω"))
     ("the little children" 3 4)
+    ("were leaping" (1 leap "σκιρτάω"))
     ("in" 5)
     ("her;" 6)
     ("but" 8)

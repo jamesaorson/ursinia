@@ -1,0 +1,40 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	512	1	Ξ̓3καὶ	Ξ̓3καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	1	γόμορ +13	γόμορ +13	γόμορ	γόμορ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	3	"καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	3	κοτυλῶν, +14	κοτυλῶν, +τὰ	κοτυλῶν,	κοτυλῶν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	4	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	4	yopop.	γόμορ.	γόμορ.	γόμορ.	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	4	“καὶ	"“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	4	προβάτων +15	προβάτων +ι5	προβάτων	προβάτων	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	5	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing on Ι
+ezek	oldtestgreek00unknuoft	512	5	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	7	"Kal	"“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	7	τῷ +τό	τῷ +τό	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	8	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on Ι
+ezek	oldtestgreek00unknuoft	512	8	Kal	"Ἰκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	8	τὰ +17	τὰ +17	τὰ	τὰ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	11	Ἰσραήλ"	Ἰσραήλ᾽	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing on Ι
+ezek	oldtestgreek00unknuoft	512	11	ἁμαρτίας"	ἁμαρτίας"	ἁμαρτίας	ἁμαρτίας	image (3x): no point after the word; OCR junk
+ezek	oldtestgreek00unknuoft	512	12	TOD	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	13	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	Ἰσραήλ.	image (3x): smooth breathing on Ι
+ezek	oldtestgreek00unknuoft	512	13	®Tabde	τάδε	Τάδε	Τάδε	image (3x): capital Τάδε after verse superscript
+ezek	oldtestgreek00unknuoft	512	13	θεός	θεός	θεός	θεός	image (3x): acute before capitalized quotation Ἐν
+ezek	oldtestgreek00unknuoft	512	13	Ἔν	Ἔν	Ἐν	Ἐν	image (3x): smooth breathing only, no accent on Ἐν
+ezek	oldtestgreek00unknuoft	512	13	τοῦ +18	τοῦ +τ8	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	14	ἅγιον.	ἅγιον. +"9	ἅγιον.	ἅγιον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	15	"καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	15	ι'λήμψεται	λήμψεται	λήμψεται	λήμψεται	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	512	15	δώσει +τὸ	δώσει +τὸ	δώσει	δώσει	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	18	ἐσωτέρας. +"᾽	ἐσωτέρας.	ἐσωτέρας.	ἐσωτέρας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	18	καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	18	μηνὸς +20	μηνὸς +90	μηνὸς	μηνὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	19	οἶκον. +“"	οἶκον. +“"	οἶκον.	οἶκον.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	19	πρώτῳ +21	πρώτῳ +«1	πρώτῳ	πρώτῳ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	20	ἑορτή:	ἑορτή"	ἑορτή·	ἑορτή·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	21	ἔδεσθε...	ἔδεσθε...	ἔδεσθε.	ἔδεσθε.	image (3x): no point after the word; OCR junk
+ezek	oldtestgreek00unknuoft	512	21	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	21	“ἐν	ἐν	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	512	21	ἡμέρᾳ +22	ἡμέρᾳ +--	ἡμέρᾳ	ἡμέρᾳ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	23	“Ξκαὶ	“Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	512	23	ὁλοκαυ- +23	ὁλοκαυ- +93	ὁλοκαυ-	ὁλοκαυ-	class R3: OCR appended accent-row or margin junk; c read from the image strip

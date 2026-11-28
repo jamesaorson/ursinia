@@ -1,0 +1,35 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan	oldtestgreek00unknuoft	584	3	“Ξκαὶ	“Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	584	3	εὐ- +25	εὐ- +25	εὐ-	εὐ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	584	5	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing (apostrophe shape)
+dan	oldtestgreek00unknuoft	584	5	““καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	584	5	ἑβδομήκοντα	ἑβδομήκοντα +6	ἑβδομήκοντα	ἑβδομήκοντα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	584	8	per	μετ᾽	μετ᾽	μετ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	584	8	συντελείας:	συντελείας:	συντελείας·	συντελείας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	584	9	“17καὶ	“17καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	584	9	πολλούς" +27	πολλούς" +27	πολλούς·	πολλούς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	584	10	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	584	12	povs	ροὺς	ροὺς	ροὺς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	584	12	ξβ΄	ξβ᾽	ξβʹ	ξβʹ	image (3x): numeral ξβ with keraia, written ʹ
+dan	oldtestgreek00unknuoft	584	13	ἤἥκην	διαθήκην	διαθήκην	διαθήκην	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	584	13	ἐπὶ +3	ἐπὶ	ἐπὶ	ἐπὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	584	13	ς	ἐβδο-	ἑβδο-	ἑβδο-	image (3x): rough breathing (reversed comma) + acute
+dan	oldtestgreek00unknuoft	584	14	ἐβδο-᾽ +μάδας:	μάδας:	μάδας·	μάδας·	image (3x): raised dot, ano teleia
+dan	oldtestgreek00unknuoft	584	14	ἑβδομάδος.	ἑβδομάδος.	ἑβδομάδος	ἑβδομάδος	image (3x): faint speck, not a period
+dan	oldtestgreek00unknuoft	584	15	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	584	16	τελείας,	λεί	τελείας,	τελείας,	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	584	16	καὶ	ὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	584	16	ἐρήμωσιν.	ἐρήμωσιν	ἐρήμωσιν.	ἐρήμωσιν.	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	584	17	Ev	ΤῈν	Ἐν	Ἐν	image (3x): smooth breathing, no accent, on capital E
+dan	oldtestgreek00unknuoft	584	17	πρόσ-	πρόσ-:	πρόσ-	πρόσ-	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	584	18	Badracdp:	Βαλτασάρ"	Βαλτασάρ·	Βαλτασάρ·	class R5+R2: Latin-letter substitution in OCR; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	584	19	ὅραμα.	ὅραμα.	ὅραμα·	ὅραμα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	584	20	πρόσταγμα:	πρόσταγμα᾽	πρόσταγμα·	πρόσταγμα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	584	20	“ἐν	“ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	584	21	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave before capitalized name (not a quotation)
+dan	oldtestgreek00unknuoft	584	21	πενθῶν.	πενθῶν.	πενθῶν	πενθῶν	image (3x): faint speck, not a period
+dan	oldtestgreek00unknuoft	584	21	ἑβδομάδας"	ἑβδομάδας"	ἑβδομάδας·	ἑβδομάδας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	584	22	Sdprov	ϑἄρτον	ἄρτον	ἄρτον	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	584	23	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	584	24	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	584	19	-	-	ὅραμα·	ὅραμα·	ambiguous: small light dot at mid height after ὅραμα, smaller than the ano teleia after πρόσταγμα next line; read ano teleia

@@ -1,0 +1,46 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	369	1	* +kat	““καὶ	καὶ	καὶ	image (3x): superscript verse number before the word (not text); word as read
+jer	oldtestgreek00unknuoft	369	1	ἔτι +B	ἔτι +Β	ἔτι	ἔτι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	369	3	ἐποιήσατε:	ἐποιήσατε"	ἐποιήσατε·	ἐποιήσατε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	369	3	yn	γῆ	γῆ	γῆ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	369	4	ἄβατον.	ἄβατον.	ἄβατον	ἄβατον	image (3x): no point after the word (OCR speck)
+jer	oldtestgreek00unknuoft	369	4	ws	ὡς	ὡς	ὡς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	369	4	“ἀπὸ	“᾿ἀπὸ	ἀπὸ	ἀπὸ	image (3x): superscript verse number before the word (not text); word as read
+jer	oldtestgreek00unknuoft	369	4	προσώπου	προσώπου +ὴ	προσώπου	προσώπου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	369	4	dv	ὧν	ὧν	ὧν	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	369	5	κυρίῳ:	κυρίῳ-	κυρίῳ·	κυρίῳ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	369	5	ἠκούσατε.	ἠκούσατε.	ἠκούσατε	ἠκούσατε	image (3x): no point after the word (OCR speck)
+jer	oldtestgreek00unknuoft	369	6	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	369	8	“kat	"Γκαὶ	καὶ	καὶ	image (3x): superscript verse number before the word (not text); word as read
+jer	oldtestgreek00unknuoft	369	8	Ἱερεμίας	Ἱερεμίας	Ἰερεμίας	Ἰερεμίας	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	369	8	γυναιξίν	γυναιξίν	γυναιξὶν	γυναιξίν	image (3x): acute before capitalized quotation (and smooth breathing on Ἰσραήλ)
+jer	oldtestgreek00unknuoft	369	8	Ἀκούσατε	Ἀκούσατε	Ἀκούσατε	Ἀκούσατε	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	369	9	*ovtws	“βοὕτως	οὕτως	οὕτως	image (3x): superscript verse number before the word (not text); word as read
+jer	oldtestgreek00unknuoft	369	9	θεὸς	θεὸς	θεὸς	θεὸς	image (3x): grave, next word is a proper name not a quotation
+jer	oldtestgreek00unknuoft	369	9	Ἰσραήλ	Ἰσραήλ	Ἰσραὴλ	Ἰσραήλ	image (3x): acute before capitalized quotation (and smooth breathing on Ἰσραήλ)
+jer	oldtestgreek00unknuoft	369	9	Ὑμεῖς	Ὑμεῖς	Ὑμεῖς	Ὑμεῖς	image (3x): rough breathing on Υ
+jer	oldtestgreek00unknuoft	369	11	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	369	11	ds	ἃς	ἃς	ἃς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	369	12	σπονδάς"	σπονδάς"	σπονδάς·	σπονδάς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	369	13	““διὰ	““διὰ	διὰ	διὰ	image (3x): superscript verse number before the word (not text); word as read
+jer	oldtestgreek00unknuoft	369	14	ουδὰ	Ἰουδὰ	Ἰουδὰ	Ἰουδὰ	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	369	14	Αἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	369	14	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	369	15	ὦμοσα	ὦμοσα	ὤμοσα	ὤμοσα	image (3x): smooth breathing + acute (open apostrophe then rising stroke), not circumflex
+jer	oldtestgreek00unknuoft	369	15	ὀνόματί	ὀνόματί	ὀνόματί	ὀνόματί	image (3x): extra acute before enclitic μου
+jer	oldtestgreek00unknuoft	369	16	ὄνομά	ὄνομά	ὄνομά	ὄνομά	image (3x): extra acute before enclitic μου
+jer	oldtestgreek00unknuoft	369	16	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	369	16	παντὸς	παντὸς	παντὸς	παντὸς	image (3x): grave, next word is a proper name not a quotation
+jer	oldtestgreek00unknuoft	369	16	‘lovda	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	369	17	Αἰγύπτῳ.	Αἰγύπτῳ.	Αἰγύπτῳ.	Αἰγύπτῳ.	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	369	17	“7ὅτι	“77ὅτι	ὅτι	ὅτι	image (3x): superscript verse number before the word (not text); word as read
+jer	oldtestgreek00unknuoft	369	18	Ἰουδὰ	Ἰ̓Ιουδὰ	Ἰουδὰ	Ἰουδὰ	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	369	19	Αἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	369	19	ἐκλίπωσιν. +““	ἐκλίπωσιν. +28	ἐκλίπωσιν.	ἐκλίπωσιν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	369	20	Ἰούδα	Ἰ̓ούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	369	21	Και	καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	369	21	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on the capital
+jer	oldtestgreek00unknuoft	369	21	οὐ	οἱ	οἱ	οἱ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	369	21	κατασταντες	καταστάντες	καταστάντες	καταστάντες	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	369	21	εν	ἐν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	369	21	yn	γῇ	γῇ	γῇ	class R5: Latin-letter substitution in OCR; c read from the image strip

@@ -1,0 +1,13 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+lam	oldtestgreek00unknuoft	402	1	“ἐπ᾽	“ἐπ᾽	ἐπ᾽	ἐπ᾽	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+lam	oldtestgreek00unknuoft	402	1	ὅτε	ὅτε	ὅτι	ὅτι	image (3x): ὅτι, final ι, not ε
+lam	oldtestgreek00unknuoft	402	6	ἡμεῤῶν; +ξι	ἡμερῶν; +ξι	ἡμερῶν;	ἡμερῶν;	image (3x): ἡμερῶν; as printed; OCR junk from show-through
+lam	oldtestgreek00unknuoft	402	7	σέ;	σέ;	σέ,	σέ,	image (3x): comma, not question mark
+lam	oldtestgreek00unknuoft	402	7	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	402	7	∅	ἐπιστραφησόμεθα"	ἐπιστραφησόμεθα·	ἐπιστραφησόμεθα·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	402	8	ἐπιστραφησόμεθα"	ἀνακαίνισον	ἀνακαίνισον	ἀνακαίνισον	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	402	8	∅	ἡμέρας	ἡμέρας	ἡμέρας	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	402	8	∅	ἡμῶν	ἡμῶν	ἡμῶν	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	402	8	∅	καθὼς.	καθὼς	καθὼς	image (3x): καθὼς, no point after it
+lam	oldtestgreek00unknuoft	402	8	∅	ἔμπροσθεν.	ἔμπροσθεν.	ἔμπροσθεν.	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	402	9	ἡμᾶς;	ἡμᾶς;	ἡμᾶς,	ἡμᾶς,	image (3x): comma, not question mark

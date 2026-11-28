@@ -1,0 +1,56 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan	oldtestgreek00unknuoft	596	1	ἀλλοτρίου:	ἀλλοτρίου:	ἀλλοτρίου·	ἀλλοτρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	596	2	δωρεάν.	δωρεάν. +““	δωρεάν.	δωρεάν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	596	2	“Kal +,ο	καὶ +,ο	καὶ	καὶ	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	596	3	oupreheiae	συντελείας	συντελείας	συντελείας	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	596	3	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	TODO zoom: acute or grave before a capitalized word
+dan	oldtestgreek00unknuoft	596	3	Αἰ-	Αἰ-	Αἰ-	Αἰ-	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+dan	oldtestgreek00unknuoft	596	6	σκανδαλισθήσονται:	χώραν	χώραν	χώραν	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	596	6	∅	Αἰγύπτου. +“᾽	Αἰγύπτου.	Αἰγύπτου.	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+dan	oldtestgreek00unknuoft	596	6	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	596	6	∅	ἐπελεύσεται	ἐπελεύσεται	ἐπελεύσεται	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	596	6	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	596	6	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	596	6	∅	χώραν	χώραν	χώραν	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	596	6	∅	μου,	μου,	μου,	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	596	6	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	596	6	∅	πολλαὶ	πολλαὶ	πολλαὶ	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	596	7	∅	41 +σκανδαλισθήσονται:	σκανδαλισθήσονται·	σκανδαλισθήσονται·	TODO zoom: A R0, B OPEN
+dan	oldtestgreek00unknuoft	596	7	Ἐδὼμ	Ἐδὼμ	Ἐδὼμ	Ἐδὼμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+dan	oldtestgreek00unknuoft	596	8	Ἀμμών.	Ἀμμών.	Ἀμμών.	Ἀμμών.	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+dan	oldtestgreek00unknuoft	596	8	“kal	“Ζκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	596	8	αὐ- +42	αὐ- +4:	αὐ-	αὐ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	596	9	Αἰγύπτου	Δἰγύπτου	Αἰγύπτου	Αἰγύπτου	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A same, B OPEN
+dan	oldtestgreek00unknuoft	596	10	“βΞκαὶ	“βΞκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	596	10	τόπου +43	τόπου +43	τόπου	τόπου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	596	11	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+dan	oldtestgreek00unknuoft	596	12	Αἰθίοπες	Αἰθίοπες	Αἰθίοπες	Αἰθίοπες	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+dan	oldtestgreek00unknuoft	596	12	αὐτὸν	αὐτὸν +μα	αὐτὸν	αὐτὸν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	596	13	44 +ἀπὸ.	ἀπὸ	ἀπὸ	ἀπὸ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	596	13	ἰσχυρῷ +κ	ἰσχυρῷ	ἰσχυρῷ	ἰσχυρῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	596	14	πολλούς:	πολλούς:	πολλούς·	πολλούς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	596	14	SKal	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	596	14	τὴν +45	τὴν +45	τὴν	τὴν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	596	16	ἁγίου:	ἁγίου"	ἁγίου·	ἁγίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	596	17	βοηθῶν.	βοηθῶν.	βοηθῶν	βοηθῶν	TODO zoom: A OPEN, B OPEN
+dan	oldtestgreek00unknuoft	596	17	αὐτῷ. +᾿	αὐτῷ. +᾿	αὐτῷ.	αὐτῷ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	596	17	παρελεύσεται +τ	παρελεύσεται +τ	παρελεύσεται	παρελεύσεται	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	596	18	ἄγγελος.	ἄγγελος.	ἄγγελος	ἄγγελος	TODO zoom: A OPEN, B OPEN
+dan	oldtestgreek00unknuoft	596	18	σου"	σου"	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	596	19	ἡμέρα	ἡμέρα.	ἡμέρα	ἡμέρα	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	596	19	θχίψεως,	θλίψεως,	θλίψεως,	θλίψεως,	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	596	19	ad᾽	ἀφ᾽	ἀφ᾽	ἀφ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	596	20	ἐκείνης:	ἐκείνης"	ἐκείνης·	ἐκείνης·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	596	20	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	596	20	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	596	20	ads	λαὸς	λαὸς	λαὸς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	596	21	εὑρεθῇ.	εὑρεθῇ.	εὑρεθῇ	εὑρεθῇ	TODO zoom: A OPEN, B OPEN
+dan	oldtestgreek00unknuoft	596	21	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	596	21	καθευ- +2	καθευ- +2	καθευ-	καθευ-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	596	23	αἰώνιον"	αἰώνιον"	αἰώνιον·	αἰώνιον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	596	23	3xai +3	ϑκαὶ +3	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	596	25	μοὺ	μοὺ	μου	μου	TODO zoom: A DIA, B DIA
+dan	oldtestgreek00unknuoft	596	26	“καὶ	ἐκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	596	26	σύ,	σύ,	σύ,	σύ,	TODO zoom: acute or grave before a capitalized word
+dan	oldtestgreek00unknuoft	596	26	σφρά- +4	σφρά- +4	σφρά-	σφρά-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	596	27	οἱ +\	οἱ	οἱ	οἱ	class R3: OCR appended accent-row or margin junk; c read from the image strip

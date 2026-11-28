@@ -1,0 +1,49 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan-th	oldtestgreek00unknuoft	551	1	∅	Ν̓αβουχοδονοσὸρ	Ναβουχοδονοσὸρ	Ναβουχοδονοσὸρ	image (3x): plain N, superscript 98 not text; no breathing
+dan-th	oldtestgreek00unknuoft	551	1	∅	ὁ	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	1	∅	βασιλεὺς	βασιλεὺς	βασιλεὺς	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	1	∅	πᾶσι	πᾶσι	πᾶσι	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	1	∅	τοῖς	τοῖς	τοῖς	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	1	∅	λαοῖς,	λαοῖς,	λαοῖς,	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	1	∅	φυλαῖς,	φυλαῖς,	φυλαῖς,	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	1	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	2	Ἑἰρήνη	Ἑἰρήνη	Εἰρήνη	Εἰρήνη	image (3x): smooth breathing + acute on ι (Εἰ), no breathing on Ε
+dan-th	oldtestgreek00unknuoft	551	3	ra	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	3	per	μετ᾽	μετ᾽	μετ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	4	oros	στὸος	στος	στος	image (3x): στος, end of ὕψι-στος
+dan-th	oldtestgreek00unknuoft	551	4	ὑμῖν.	ὑμῖν. +"“	ὑμῖν.	ὑμῖν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	5	ἰσχυρά:	ἰσχυρά:	ἰσχυρά·	ἰσχυρά·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	5	εἰς +1	εἰς +τ:	εἰς	εἰς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	6	Ἐγὼ	Ἐγὼ	Ἐγὼ	Ἐγὼ	image (3x): smooth breathing
+dan-th	oldtestgreek00unknuoft	551	7	“ἐνύπνιον	“ἐνύπνιον	ἐνύπνιον	ἐνύπνιον	image (3x): superscript verse number not text
+dan-th	oldtestgreek00unknuoft	551	7	ἐφοβέρισέν	ἐφοβέρισέν	ἐφοβέρισέν	ἐφοβέρισέν	image (3x): acute before enclitic
+dan-th	oldtestgreek00unknuoft	551	7	με;	με;	με,	με,	image (3x): comma, not semicolon
+dan-th	oldtestgreek00unknuoft	551	8	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	8	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	9	συνετάραξάν	συνετάραξάν	συνετάραξάν	συνετάραξάν	image (3x): acute before enclitic
+dan-th	oldtestgreek00unknuoft	551	9	pe. +3	με. +3	με.	με.	class R5+R3: Latin-letter substitution in OCR; OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	9	dv	δι᾽	δι᾽	δι᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	10	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	image (3x): acute before enclitic
+dan-th	oldtestgreek00unknuoft	551	10	σοφοὺς	σοφοὺς	σοφοὺς	σοφοὺς	image (3x): grave before capitalized word (not a quotation, Βαβυλῶνος)
+dan-th	oldtestgreek00unknuoft	551	11	γνωρίσωσίν	γνωρίσωσίν	γνωρίσωσίν	γνωρίσωσίν	image (3x): acute before enclitic
+dan-th	oldtestgreek00unknuoft	551	11	μοι. +5	μοι. +“	μοι.	μοι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	11	οἵ	οἵ	οἱ	οἱ	image (8x): rough breathing only, no accent
+dan-th	oldtestgreek00unknuoft	551	12	γαζαρηνοί,	γαζαρηνοί,	γαζαρηνοί,	γαζαρηνοί,	image (3x): acute before capitalized word
+dan-th	oldtestgreek00unknuoft	551	13	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	13	ἐγνώρισάν	ἐγνώρισάν	ἐγνώρισάν	ἐγνώρισάν	image (3x): acute before enclitic
+dan-th	oldtestgreek00unknuoft	551	14	5€ms	"έως	ἕως	ἕως	image (3x): rough breathing + acute, superscript 5 not text
+dan-th	oldtestgreek00unknuoft	551	15	“Βαλ-	“Βαλ-	Βαλ-	Βαλ-	image (3x): superscript verse number not text
+dan-th	oldtestgreek00unknuoft	551	18	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	18	εἰπόν	εἰπόν	εἰπόν	εἰπόν	image (3x): acute before enclitic
+dan-th	oldtestgreek00unknuoft	551	19	pot.	μοι.	μοι.	μοι.	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	19	7ἐπὶ	7ἐπὶ	ἐπὶ	ἐπὶ	image (3x): superscript verse number not text
+dan-th	oldtestgreek00unknuoft	551	22	γῆς"	γῆς"	γῆς·	γῆς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	22	τὰ	“τὰ	τὰ	τὰ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	551	23	@paia,	ὡραῖα,	ὡραῖα,	ὡραῖα,	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	23	αὐτῷ	αὐτῷ	αὐτῷ·	αὐτῷ·	image (3x): ano teleia after αὐτῷ
+dan-th	oldtestgreek00unknuoft	551	24	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	551	26	“ἐθεώρουν	"ἐθεώρουν	ἐθεώρουν	ἐθεώρουν	image (3x): superscript verse number not text
+dan-th	oldtestgreek00unknuoft	551	27	εἰρ	εἰρ	εἶρ	εἳρ	ambiguous (8x): mark over ι is a compact blob joined to a falling stroke, like ὃς on line 15; read rough + grave εἳρ, smooth + grave not excluded
+dan-th	oldtestgreek00unknuoft	551	28	“καὶ	“καὶ	καὶ	καὶ	image (3x): superscript verse number not text
+dan-th	oldtestgreek00unknuoft	551	28	Ἐκκόψατε	᾿κκόψατε	Ἐκκόψατε	Ἐκκόψατε	image (3x): smooth breathing
+dan-th	oldtestgreek00unknuoft	551	29	ὃρον,	δρον,	δρον,	δρον,	class R6 (OCR letters differ): the other OCR reading agrees with c

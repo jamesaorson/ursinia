@@ -439,7 +439,7 @@
 
 (lemma "ἐξελκύω" (sense draw-out (verb "draw out" "drew out" "drawn out") (gloss "draw out" "drew out" "drawn out" "draws out" "drawing out") (why "(LXX, supplied.) To draw out, haul out (Genesis 37:28, the merchants ἐξείλκυσαν Joseph out of the pit). The ἐξέλκω of James 1:14 is the same verb in its short form.")))
 
-(lemma "ἐξέρχομαι" (sense go-forth (gloss "go forth" "went forth" "goes forth" "going forth" "gone forth") (why "To go out, go forth. \"Go forth\" so as not to share \"go out\" with ἐκπορεύομαι.")))
+(lemma "ἐξέρχομαι" (sense go-forth (intransitive) (gloss "go forth" "went forth" "goes forth" "going forth" "gone forth") (why "To go out, go forth. \"Go forth\" so as not to share \"go out\" with ἐκπορεύομαι.")))
 
 (lemma "ἐξηγητής" (sense expounder (person) (gloss "expounder" "expounders") (why "(LXX, supplied.) One who explains, an expounder of signs and dreams (Genesis 41:8, 24, Pharaoh's ἐξηγηταί). From ἐξηγέομαι; \"expounder\" keeps it apart from ἑρμηνευτής \"interpreter\".")))
 

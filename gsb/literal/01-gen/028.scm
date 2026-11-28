@@ -52,9 +52,10 @@
   (status draft)
   (literal
     ("But" 2)
+    ("may" (5 bless "εὐλογέω"))
     ("my" 4)
     ("God" (1 absorbed) 3)
-    ("may bless" (5 bless "εὐλογέω"))
+    ("bless" (cont 5))
     ("you" 6)
     ("and" 7)
     ("may grow" 8)
@@ -72,7 +73,7 @@
   (status draft)
   (literal
     ("and" 1)
-    ("he/she/it may give" 2)
+    ("may he/she/it give" 2)
     ("to you" 3)
     ("the blessing" 4 5)
     ("of Abraham" 6)

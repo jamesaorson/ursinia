@@ -1,0 +1,67 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	499	1	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	1	∅	ἐσωτέραν	ἐσωτέραν	ἐσωτέραν	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	1	∅	τῆς	τῆς	τῆς	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	1	∅	πύλης	πύλης	πύλης	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	1	∅	τῆς	τῆς	τῆς	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	1	∅	πρὸς	πρὸς	πρὸς	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	1	∅	νότον,	νότον,	νότον,	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	1	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	1	∅	διεμέτρησεν	διεμέτρησεν	διεμέτρησεν	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	1	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	1	∅	πύλην +Β	πύλην	πύλην	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	2	ταῦτα,	ταῦτα, +“9	ταῦτα,	ταῦτα,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	2	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	2	aided	αἰλεὺ	αἰλεὺ	αἰλεὺ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	3	τὰ +a	τὰ	τὰ	τὰ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	3	ταῦτα, +»	ταῦτα, +;	ταῦτα,	ταῦτα,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	3	θυρίδ	θυρίδες	θυρίδες	θυρίδες	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	499	3	ὑτῇ	αὐτῇ	αὐτῇ	αὐτῇ	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	499	3	αἰἴλαμμὰ	αἰλαμμὰ	αἰλαμμὼν	αἰλαμμὼν	image (3x): λ not χ; smooth breathing on ι; αἰλαμμὼν / αἰλεὺ as printed
+ezek	oldtestgreek00unknuoft	499	3	ὕὑκλῳ:	ὕκλῳ:	κύκλῳ·	κύκλῳ·	image (3x): κύκλῳ with iota subscript and ano teleia
+ezek	oldtestgreek00unknuoft	499	3	πή	πή	πήχεις	πήχεις	image (3x): full word πήχεις printed at line end; OCR truncated it
+ezek	oldtestgreek00unknuoft	499	4	πέντε +3"	πέντε +3"	πέντε	πέντε	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	5	τὴν.	τὴν	τὴν	τὴν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	499	6	κλιμακτῆρες.	κλιμακτῆρες. +5:	κλιμακτῆρες.	κλιμακτῆρες.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	6	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	6	εἰσήγαγέν	εἰσήγαγέν	εἰσήγαγέν	εἰσήγαγέν	image (3x): acute before enclitic
+ezek	oldtestgreek00unknuoft	499	6	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	7	33καὶ	33καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	8	αἰχεὺ	αἰχεὺ	αἰλεὺ	αἰλεὺ	image (3x): λ not χ; smooth breathing on ι; αἰλαμμὼν / αἰλεὺ as printed
+ezek	oldtestgreek00unknuoft	499	8	αἰλαμμὼν	αἰλαμμὼν.	αἰλαμμὼν	αἰλαμμὼν	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	499	10	εἰκοσι	εἴκοσι	εἴκοσι	εἴκοσι	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	499	10	αἴλαμμὼν	αἰχαμμὼν	αἰλαμμὼν	αἰλαμμὼν	image (3x): λ not χ; smooth breathing on ι; αἰλαμμὼν / αἰλεὺ as printed
+ezek	oldtestgreek00unknuoft	499	11	aided	αἰλεὺ	αἰλεὺ	αἰλεὺ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	12	∅	Κλιμἀάκτῆρες	κλιμακτῆρες	κλιμακτῆρες	image (3x): lowercase κλιμακτῆρες, no accent on α
+ezek	oldtestgreek00unknuoft	499	12	∅	αὐτῇ.	αὐτῇ.	αὐτῇ.	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	12	∅	"καὶ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	12	∅	εἰσήγαγέν	εἰσήγαγέν	εἰσήγαγέν	image (3x): acute before enclitic
+ezek	oldtestgreek00unknuoft	499	12	∅	με	με	με	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	12	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	12	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	12	∅	πύλην	πύλην	πύλην	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	12	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	12	∅	πρὸς	πρὸς	πρὸς	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	13	ταῦτα,	ταῦτα, +5"	ταῦτα,	ταῦτα,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	13	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	14	aided	αἰλεὺ	αἰλεὺ	αἰλεὺ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	14	αἰχαμμὼν	αἰχαμμὼν	αἰλαμμὼν	αἰλαμμὼν	image (3x): λ not χ; smooth breathing on ι; αἰλαμμὼν / αἰλεὺ as printed
+ezek	oldtestgreek00unknuoft	499	14	αὐτῆς	αὐτῆς"	αὐτῆς·	αὐτῆς·	image (3x): ano teleia after αὐτῆς
+ezek	oldtestgreek00unknuoft	499	15	πέντε:	πέντε" +5]	πέντε·	πέντε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	16	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	16	∅	τὰ	τὰ	τὰ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	16	∅	αἰλαμμὼν	αἰλαμμὼν	αἰλαμμὼν	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	16	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	16	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	16	∅	αὐλὴν	αὐλὴν	αὐλὴν	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	16	∅	τὴν	τὴν	τὴν	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	16	∅	ἐξωτέραν,	ἐξωτέραν,	ἐξωτέραν,	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	16	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	16	∅	φοίνικες	φοίνικες	φοίνικες	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	16	∅	τῷ	τῷ	τῷ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	16	∅	αἰλεὺ	αἰλεὺ	αἰλεὺ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	17	35	38)	Τὰ	Τὰ	image (3x): Τὰ capital with grave after superscript 38
+ezek	oldtestgreek00unknuoft	499	17	ὰ +παστοφύρια	ὰ +παστοφύρια	παστοφόρια	παστοφόρια	image (3x): ό in παστοφόρια, not ύ
+ezek	oldtestgreek00unknuoft	499	18	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	499	19	ὅπως.	ὅπως	ὅπως	ὅπως	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	499	19	Kat	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip

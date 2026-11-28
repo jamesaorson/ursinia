@@ -1,0 +1,79 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan	oldtestgreek00unknuoft	588	1	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	588	2	ἐσιώπησα.	ἐσιώπησα. +"΄	ἐσιώπησα.	ἐσιώπησα.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	588	2	‘Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	588	2	ἥψατό	ἥψατό +τό	ἥψατό	ἥψατό	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	588	3	16 +pov	μου	μου	μου	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	588	3	χειλέων:	χειλέων:	χειλέων·	χειλέων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	588	4	ἀπέναντί	ἀπέναντί	ἀπέναντί	ἀπέναντί	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	588	4	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	588	4	Κύριε"	Κύριε"	Κύριε·	Κύριε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	588	5	πλευρόν	πλευρόν	πλευρόν	πλευρόν	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	588	5	ἐπ᾽	ἐπ	ἐπ᾽	ἐπ᾽	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	588	5	ἐμέ,	εμε,	ἐμέ,	ἐμέ,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	588	5	καὶ	Καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	588	5	ἦν	ἣν	ἦν	ἦν	image (3x): circumflex, not grave
+dan	oldtestgreek00unknuoft	588	5	ἐπ᾽	ἐπ	ἐπ᾽	ἐπ᾽	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	588	5	ἐμοὶ	εμοι	ἐμοὶ	ἐμοὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	588	5	ἰσχύς"	ἐσχὺυς"	ἰσχύς·	ἰσχύς·	image (3x): ano teleia; word as transcribed
+dan	oldtestgreek00unknuoft	588	5	"Ἰκαὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	588	5	δυνή- +17	θυνὴῆ-	δυνή-	δυνή-	image (3x): word as transcribed; verse/margin numbers not text
+dan	oldtestgreek00unknuoft	588	7	πνεῦμα.	πνεῦμα.	πνεῦμα	πνεῦμα	image (3x): no point after the word
+dan	oldtestgreek00unknuoft	588	7	ἐμοί.	ἐμοί. +18	ἐμοί.	ἐμοί.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	588	8	ἥψατό	ἥψατό.	ἥψατό	ἥψατό	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	588	8	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	588	8	κατί-	κατί- +τ8	κατί-	κατί-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	588	9	18	σχυσέ	σχυσέ	σχυσέ	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	588	9	᾽	με,	με,	με,	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	588	9	4	"καὶ	καὶ	καὶ	image (3x): word as transcribed; verse/margin numbers not text
+dan	oldtestgreek00unknuoft	588	9	»	εἶπέν	εἶπέν	εἶπέν	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	588	9	μῆ	μοι	μοι	μοι	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	588	9	νιν	ἔΛνθρωπος	Ἄνθρωπος	Ἄνθρωπος	image (3x): breathing on capital as transcribed (Ἄ smooth+acute, Ἑ rough, Αἰ smooth on ι)
+dan	oldtestgreek00unknuoft	588	9	ἡ	ἐλεεινὸς	ἐλεεινὸς	ἐλεεινὸς	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	588	9	9	εἶ,	εἶ,	εἶ,	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	588	9	ave:	μὴ	μὴ	μὴ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	588	9	∅	φοβοῦ,	φοβοῦ,	φοβοῦ,	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	588	9	∅	ὑγί-	ὑγί-	ὑγί-	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	588	10	∅	τὸ +αινε"	αινε·	αινε·	image (3x): ano teleia; word as transcribed
+dan	oldtestgreek00unknuoft	588	10	toxvoa.	ἴσχυσαι.	ἴσχυσαι.	ἴσχυσαι.	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	588	11	κύριός	κύριός	κύριός	κύριός	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	588	11	pov,	μου,	μου,	μου,	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	588	11	ἐνίσχυσέν	ἐνίσχυσέν	ἐνίσχυσέν	ἐνίσχυσέν	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	588	11	kal +20	"Καὶ +20	καὶ	καὶ	image (3x): word as transcribed; verse/margin numbers not text
+dan	oldtestgreek00unknuoft	588	12	μέ	μέ	μέ	μέ	image (3x): acute/grave before capitalized word as printed
+dan	oldtestgreek00unknuoft	588	12	Τινώσκεις	Τινώσκεις	Γινώσκεις	Γινώσκεις	image (3x): Γ, not Τ
+dan	oldtestgreek00unknuoft	588	13	τῶν.	τῶν.	τῶν	τῶν	image (3x): no point after the word
+dan	oldtestgreek00unknuoft	588	13	Περσῶν"	ἸΤερσῶν"	Περσῶν·	Περσῶν·	image (3x): ano teleia; word as transcribed
+dan	oldtestgreek00unknuoft	588	14	στρατηγὸς	στρατηγὸς	στρατηγὸς	στρατηγὸς	image (3x): acute/grave before capitalized word as printed
+dan	oldtestgreek00unknuoft	588	14	νων	Ἑλλήνων	Ἑλλήνων	Ἑλλήνων	image (3x): breathing on capital as transcribed (Ἄ smooth+acute, Ἑ rough, Αἰ smooth on ι)
+dan	oldtestgreek00unknuoft	588	14	εἰσεπορεύετο. +™	εἰσεπορεύετο.	εἰσεπορεύετο.	εἰσεπορεύετο.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	588	14	καὶ +21	καὶ +91	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	588	15	ἀληθείας"	ἀληθείας"	ἀληθείας·	ἀληθείας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	588	17	‘Kal	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	588	17	εἶπέν	εἶπέν	εἶπέν	εἶπέν	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	588	17	μοι +τ	μοι +τ	μοι	μοι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	588	18	“Καὶ	“Καὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	588	18	ὑπο- +2	ὑπο- +.	ὑπο-	ὑπο-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	588	19	δεῖξαί	δεῖξαί	δεῖξαί	δεῖξαί	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	588	19	σοι:	σοι"	σοι·	σοι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	588	19	6	ὃ	ὁ	ὁ	image (3x): ὁ rough, no accent
+dan	oldtestgreek00unknuoft	588	20	πάντας"	πάντας"	πάντας·	πάντας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	588	20	κατι-	'κατι-	κατι-	κατι-	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	588	22	Ἑλλήνων.	Ἑλλήνων.	Ἑλλήνων.	Ἑλλήνων.	image (3x): breathing on capital as transcribed (Ἄ smooth+acute, Ἑ rough, Αἰ smooth on ι)
+dan	oldtestgreek00unknuoft	588	22	3καὶ	3καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	588	22	κυρείας	κυρείας +53	κυρείας	κυρείας	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	588	23	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	588	23	ἀναστῆναι	ἀναστῆναι +4	ἀναστῆναι	ἀναστῆναι	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	588	24	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	588	25	οὐ	οὐ.	οὐ	οὐ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	588	26	Kupelay	κυρείαν	κυρείαν	κυρείαν	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	588	26	ἐδυνάστευσε᾽	ἐδυνάστευσε:	ἐδυνάστευσε·	ἐδυνάστευσε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	588	27	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	588	27	Ai- +5	Αἰ- +ς	Αἰ-	Αἰ-	image (3x): breathing on capital as transcribed (Ἄ smooth+acute, Ἑ rough, Αἰ smooth on ι)
+dan	oldtestgreek00unknuoft	588	28	καὶ	και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	588	28	εἷς	εἰς	εἷς	εἷς	image (3x): circumflex, not grave
+dan	oldtestgreek00unknuoft	588	28	ἐκ	εκ	ἐκ	ἐκ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	588	28	τῶν	Τῶν	τῶν	τῶν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	588	28	δυναστῶν	υναστωῶν	δυναστῶν	δυναστῶν	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	588	28	καὶ	Καὶι	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	588	28	δυναστεύ-	υναστευ-	δυναστεύ-	δυναστεύ-	class R6 (OCR letters differ): the other OCR reading agrees with c

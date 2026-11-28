@@ -1,0 +1,49 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	349	1	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): breathing on capital as in page file (smooth Ἰ-, Οὐ, Ἀ-, Ἐ-; rough Ῥ)
+jer	oldtestgreek00unknuoft	349	1	Ἰερουσαλήμ	᾿ερουσαλήμ	Ἰερουσαλήμ	Ἰερουσαλήμ	image (3x): smooth Ἰ; acute Ἰερουσαλήμ before capitalized quotation Οὐ
+jer	oldtestgreek00unknuoft	349	2	Οὐ	Οὐ	Οὐ	Οὐ	image (3x): breathing on capital as in page file (smooth Ἰ-, Οὐ, Ἀ-, Ἐ-; rough Ῥ)
+jer	oldtestgreek00unknuoft	349	2	"“ἔστησαν	““ἔστησαν	ἔστησαν	ἔστησαν	image (3x): word as in page file; OCR picked up verse superscript
+jer	oldtestgreek00unknuoft	349	3	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave υἱοὶ before capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	349	3	Ἰωναδὰβ	Ἰωναδὰβ	Ἰωναδὰβ	Ἰωναδὰβ	image (3x): breathing on capital as in page file (smooth Ἰ-, Οὐ, Ἀ-, Ἐ-; rough Ῥ)
+jer	oldtestgreek00unknuoft	349	3	Ῥηχάβ,	Ῥηχάβ,	Ῥηχάβ,	Ῥηχάβ,	image (3x): breathing on capital as in page file (smooth Ἰ-, Οὐ, Ἀ-, Ἐ-; rough Ῥ)
+jer	oldtestgreek00unknuoft	349	4	πιεῖν	πιεὶιν	πιεῖν	πιεῖν	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	349	4	οἶνον,	οἱινον,	οἶνον,	οἶνον,	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	349	4	ἐπίοσαν-	επίιοσαν"	ἐπίοσαν·	ἐπίοσαν·	image (3x): ano teleia after ἐπίοσαν
+jer	oldtestgreek00unknuoft	349	4	καὶ	και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	349	4	ἐγὼ	εγὼ	ἐγὼ	ἐγὼ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	349	4	ἐχάλησα	ἐχάλησα	ἐλάλησα	ἐλάλησα	image (3x): λ, not χ
+jer	oldtestgreek00unknuoft	349	4	ὑμᾶς	υμας	ὑμᾶς	ὑμᾶς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	349	5	"καὶ	"Ῥκαὶ	καὶ	καὶ	image (3x): word as in page file; OCR picked up verse superscript
+jer	oldtestgreek00unknuoft	349	6	παῖδάς	παῖδάς	παῖδάς	παῖδάς	image (3x): acute before enclitic μου
+jer	oldtestgreek00unknuoft	349	6	Ἀποστράφητε	Ἀποστράφητε.	Ἀποστράφητε	Ἀποστράφητε	image (3x): breathing on capital as in page file (smooth Ἰ-, Οὐ, Ἀ-, Ἐ-; rough Ῥ)
+jer	oldtestgreek00unknuoft	349	9	ὑμῖν.	ὑμῖν.	ὑμῖν	ὑμῖν	image (3x): speck, not a period (light, off the baseline)
+jer	oldtestgreek00unknuoft	349	9	ὑμῶν"	ὑμῶν-	ὑμῶν·	ὑμῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	349	10	καὶ	και	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	349	10	ἔστησαν	εστησαν	ἔστησαν	ἔστησαν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	349	11	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave υἱοὶ before capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	349	11	‘IwvadaB	Ιωναδὰβ	Ἰωναδὰβ	Ἰωναδὰβ	image (3x): breathing on capital as in page file (smooth Ἰ-, Οὐ, Ἀ-, Ἐ-; rough Ῥ)
+jer	oldtestgreek00unknuoft	349	11	Ῥηχὰβ	Ῥηχὰβ	Ῥηχὰβ	Ῥηχὰβ	image (3x): breathing on capital as in page file (smooth Ἰ-, Οὐ, Ἀ-, Ἐ-; rough Ῥ)
+jer	oldtestgreek00unknuoft	349	12	ἤκουσέν	ἤκουσέν	ἤκουσέν	ἤκουσέν	image (3x): acute before enclitic μου
+jer	oldtestgreek00unknuoft	349	12	pov.	μου.	μου.	μου.	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	349	12	"“7διὰ	"7διὰ	διὰ	διὰ	image (3x): word as in page file; OCR picked up verse superscript
+jer	oldtestgreek00unknuoft	349	12	Κύριος	Κύριος +ΕἸ	Κύριος	Κύριος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	349	12	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): breathing on capital as in page file (smooth Ἰ-, Οὐ, Ἀ-, Ἐ-; rough Ῥ)
+jer	oldtestgreek00unknuoft	349	13	Ἰούδαν	Ἰούδαν	Ἰούδαν	Ἰούδαν	image (3x): breathing on capital as in page file (smooth Ἰ-, Οὐ, Ἀ-, Ἐ-; rough Ῥ)
+jer	oldtestgreek00unknuoft	349	13	Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing (Ἰερουσαλὴμ, Ἐπει-), no accent on Ε
+jer	oldtestgreek00unknuoft	349	14	“dia	"ὁδιὰ	διὰ	διὰ	image (3x): word as in page file; OCR picked up verse superscript
+jer	oldtestgreek00unknuoft	349	14	Ἔπει-	Ἔπει-	Ἐπει-	Ἐπει-	image (3x): smooth breathing (Ἰερουσαλὴμ, Ἐπει-), no accent on Ε
+jer	oldtestgreek00unknuoft	349	15	viol	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave υἱοὶ before capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	349	15	Ἰωναδὰβ	Ἰωναδὰβ	Ἰωναδὰβ	Ἰωναδὰβ	image (3x): breathing on capital as in page file (smooth Ἰ-, Οὐ, Ἀ-, Ἐ-; rough Ῥ)
+jer	oldtestgreek00unknuoft	349	15	“PnyaB	Ῥηχὰβ	Ῥηχὰβ	Ῥηχὰβ	image (3x): breathing on capital as in page file (smooth Ἰ-, Οὐ, Ἀ-, Ἐ-; rough Ῥ)
+jer	oldtestgreek00unknuoft	349	16	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	349	16	"οὐ	"οὐ	οὐ	οὐ	image (3x): word as in page file; OCR picked up verse superscript
+jer	oldtestgreek00unknuoft	349	17	Ἰωναδὰβ	Ἰωναδὰβ	Ἰωναδὰβ	Ἰωναδὰβ	image (3x): breathing on capital as in page file (smooth Ἰ-, Οὐ, Ἀ-, Ἐ-; rough Ῥ)
+jer	oldtestgreek00unknuoft	349	17	Ῥηχὰβ	Ῥηχὰβ	Ῥηχὰβ	Ῥηχὰβ	image (3x): breathing on capital as in page file (smooth Ἰ-, Οὐ, Ἀ-, Ἐ-; rough Ῥ)
+jer	oldtestgreek00unknuoft	349	17	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): acute before enclitic μου
+jer	oldtestgreek00unknuoft	349	18	γῆς. +Σ᾽	γῆς. +Σ᾽	γῆς.	γῆς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	349	19	Ἐν	Ἐν	Ἐν	Ἐν	image (3x): breathing on capital as in page file (smooth Ἰ-, Οὐ, Ἀ-, Ἐ-; rough Ῥ)
+jer	oldtestgreek00unknuoft	349	19	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	image (3x): breathing on capital as in page file (smooth Ἰ-, Οὐ, Ἀ-, Ἐ-; rough Ῥ)
+jer	oldtestgreek00unknuoft	349	19	"Iwoela	Ἰωσεία	Ἰωσεία	Ἰωσεία	image (3x): breathing on capital as in page file (smooth Ἰ-, Οὐ, Ἀ-, Ἐ-; rough Ῥ)
+jer	oldtestgreek00unknuoft	349	19	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): breathing on capital as in page file (smooth Ἰ-, Οὐ, Ἀ-, Ἐ-; rough Ῥ)
+jer	oldtestgreek00unknuoft	349	21	"λάβε	λάβε	Λάβε	Λάβε	image (3x): capital Λ
+jer	oldtestgreek00unknuoft	349	21	γράψον.	γράψον.	γράψον	γράψον	image (3x): speck, not a period (light, off the baseline)

@@ -1,0 +1,67 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan-th	oldtestgreek00unknuoft	587	1	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	1	ἤμην.	ἤμην.	ἤμην	ἤμην	image (3x): no point after the word; specks or OCR noise only
+dan-th	oldtestgreek00unknuoft	587	1	αὐτός +Β΄	αὐτός +Β΄	αὐτός	αὐτός	image (3x): acute before enclitic
+dan-th	oldtestgreek00unknuoft	587	2	.“δδέκελ.	.Ἑδδέκελ.	Ἑδδέκελ.	Ἑδδέκελ.	image (3x): rough breathing; period after
+dan-th	oldtestgreek00unknuoft	587	2	ὅκαὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	2	ὀφθαλμούς.	ὀφθαλμούς.	ὀφθαλμούς	ὀφθαλμούς	image (3x): acute before enclitic
+dan-th	oldtestgreek00unknuoft	587	2	μου.	μου.	μου	μου	image (3x): no point after the word; specks or OCR noise only
+dan-th	oldtestgreek00unknuoft	587	4	“Adal,	Ὠφάζ,	Ὠφάζ,	Ὠφάζ,	image (3x): smooth breathing on Ω
+dan-th	oldtestgreek00unknuoft	587	4	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	4	θαρσείς,	θαρσείς;	θαρσείς,	θαρσείς,	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	587	5	ὡπον	ὡπον	ωπον	ωπον	image (3x): ωπον, second half of πρόσ-ωπον, no breathing
+dan-th	oldtestgreek00unknuoft	587	5	λαμ--	λαμ--	λαμ-	λαμ-	image (3x): no point after the word; specks or OCR noise only
+dan-th	oldtestgreek00unknuoft	587	6	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	7	7	7καὶ	καὶ	καὶ	image (3x): καὶ after superscript verse number
+dan-th	oldtestgreek00unknuoft	587	8	Kai +ἴδον.	ἴδον.	ἴδον	ἴδον	image (3x): no point after the word; specks or OCR noise only
+dan-th	oldtestgreek00unknuoft	587	8	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave; following capital is a name, not a quotation
+dan-th	oldtestgreek00unknuoft	587	8	per	μετ᾽	μετ᾽	μετ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	10	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	10	“Kal	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	11	ὑπελείφθη,	ὑπελείφθη,	ὑπελείφθη	ὑπελείφθη	image (3x): no point after the word; specks or OCR noise only
+dan-th	oldtestgreek00unknuoft	587	12	δόξα.	δόξα	δόξα	δόξα	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	587	12	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	13	ϑκαὶ	∅	καὶ	καὶ	class R1+R0: OCR fused/misread the superscript verse number into the word; OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	13	τὴν:	τὴν:	τὴν	τὴν	image (3x): no point after the word; specks or OCR noise only
+dan-th	oldtestgreek00unknuoft	587	13	ἐν.	ἐν.	ἐν	ἐν	image (3x): no point after the word; specks or OCR noise only
+dan-th	oldtestgreek00unknuoft	587	13	ἀκοῦσαί	ἀκοῦσαί	ἀκοῦσαί	ἀκοῦσαί	image (3x): acute before enclitic
+dan-th	oldtestgreek00unknuoft	587	14	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): acute before enclitic
+dan-th	oldtestgreek00unknuoft	587	15	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	15	“χεὶρ	“χεὶρ	χεὶρ	χεὶρ	image (3x): χεὶρ, grave; no mark before it
+dan-th	oldtestgreek00unknuoft	587	15	ἤγειρίν	ἤγειρίν	ἤγειρέν	ἤγειρέν	ambiguous (3x): letter after ἤγειρ prints as a dot (broken type) under an acute; read ἤγειρέν
+dan-th	oldtestgreek00unknuoft	587	15	γόνατά	γόνατά	γόνατά	γόνατά	image (3x): acute before enclitic
+dan-th	oldtestgreek00unknuoft	587	16	‘kal	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	16	μέ	μέ	μέ	μέ	image (3x): acute on μέ before capital (Δανιήλ name / Μὴ quotation)
+dan-th	oldtestgreek00unknuoft	587	17	ois	οἷς	οἷς	οἷς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	18	στάλην.	στάλην.	στάλην	στάλην	image (3x): no point after the word; specks or OCR noise only
+dan-th	oldtestgreek00unknuoft	587	18	ἐν	ἐν.	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	587	18	λαλῆσαι	λαλῆδαι	λαλῆσαι	λαλῆσαι	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	587	19	kal	"““Ζκαὶ	καὶ	καὶ	image (3x): καὶ after superscript verse number
+dan-th	oldtestgreek00unknuoft	587	19	μέ	μέ	μέ	μέ	image (3x): acute on μέ before capital (Δανιήλ name / Μὴ quotation)
+dan-th	oldtestgreek00unknuoft	587	19	Δανιήλ"	Δανιήλ:	Δανιήλ·	Δανιήλ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	20	ἔδωκας.	ἔδωκας.	ἔδωκας	ἔδωκας	image (3x): no point after the word; specks or OCR noise only
+dan-th	oldtestgreek00unknuoft	587	20	'σου.	'σου.	σου	σου	image (3x): no point after the word; specks or OCR noise only
+dan-th	oldtestgreek00unknuoft	587	21	εἶναι.	εἶναι.	εῖναι	εῖναι	image (3x): no point after the word; specks or OCR noise only
+dan-th	oldtestgreek00unknuoft	587	21	σου,	σόυ,	σου,	σου,	image (3x): σου, unaccented
+dan-th	oldtestgreek00unknuoft	587	22	"Ξκαὶ	"“Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	23	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	23	καὶ	καὶ.	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	587	23	ἡμέραν:	ἡμέραν:	ἡμέραν·	ἡμέραν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	23	ἰδοὺ	ἰδοὺ	ἰδοὺ	ἰδοὺ	image (3x): grave; following capital is a name, not a quotation
+dan-th	oldtestgreek00unknuoft	587	24	ἦλθεν.	ἦλθεν.	ἦλθεν	ἦλθεν	image (3x): no point after the word; specks or OCR noise only
+dan-th	oldtestgreek00unknuoft	587	24	βοηθῆσαί	βοηθῆσαί.	βοηθῆσαί	βοηθῆσαί	image (3x): acute before enclitic
+dan-th	oldtestgreek00unknuoft	587	24	Karé-	κατέ-	κατέ-	κατέ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	25	‘Kal	"Γκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	27	∅	ὅτε	ὅτι	ὅτι	image (3x): ὅτι, not ὅτε; margin 15 outside
+dan-th	oldtestgreek00unknuoft	587	27	∅	ἔτι	ἔτι	ἔτι	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	27	∅	ἡ	ἡ	ἡ	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	27	∅	ὅρασις	ὅρασις	ὅρασις	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	27	∅	εἰς.	εἰς	εἰς	image (3x): no point after the word; specks or OCR noise only
+dan-th	oldtestgreek00unknuoft	587	27	∅	ἡμέρας.	ἡμέρας.	ἡμέρας.	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	27	∅	"καὶ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	27	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	27	∅	τῷ	τῷ	τῷ	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	27	∅	λαλῆσαι	λαλῆσαι	λαλῆσαι	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	27	∅	αὐτὸν	αὐτὸν	αὐτὸν	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	27	∅	μετ᾽	μετ᾽	μετ᾽	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	587	27	∅	ἐμοῦ	ἐμοῦ	ἐμοῦ	class R0: OCR lost the word in extraction; c read from the image strip

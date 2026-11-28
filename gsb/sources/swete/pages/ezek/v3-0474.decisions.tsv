@@ -1,0 +1,50 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	474	1	αὐτοῦ"	αὐτοῦ"	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	1	“3Ξκαὶ	“Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	1	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	image (3x): breathing on the capital as transcribed
+ezek	oldtestgreek00unknuoft	474	1	καὶ +23	καὶ +23	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	2	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	2	“kat	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	2	βραχίονας +24	βραχίονας +24	βραχίονας	βραχίονας	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	3	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	4	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	image (3x): breathing on the capital as transcribed
+ezek	oldtestgreek00unknuoft	474	5	kal	“Ξκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	6	25 +βασὶϊλέως	:5 +βασὶϊλέως	βασιλέως	βασιλέως	image (3x): word as transcribed; OCR noise (verse number, dropped accents)
+ezek	oldtestgreek00unknuoft	474	6	πεσοῦνται:	πεσοῦνται:	πεσοῦνται·	πεσοῦνται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	7	ἐγώ	ἐγώ	ἐγώ	ἐγώ	image (3x): acute before enclitic
+ezek	oldtestgreek00unknuoft	474	7	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	7	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	7	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	8	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	Αἰγύπτου.	image (3x): breathing on the capital as transcribed
+ezek	oldtestgreek00unknuoft	474	8	∅	∅	καὶ	καὶ	image (3x): καὶ δια- printed at line end before margin 26; OCR lost them
+ezek	oldtestgreek00unknuoft	474	8	∅	∅	δια-	δια-	image (3x): καὶ δια- printed at line end before margin 26; OCR lost them
+ezek	oldtestgreek00unknuoft	474	9	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	image (3x): breathing on the capital as transcribed
+ezek	oldtestgreek00unknuoft	474	9	χώρας"	χώρας"	χώρας·	χώρας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	10	ἐγώ	ἐγώ	ἐγώ	ἐγώ	image (3x): acute before enclitic
+ezek	oldtestgreek00unknuoft	474	11	αἱ	αἱ	Καὶ	Καὶ	image (3x): word as transcribed; OCR noise (verse number, dropped accents)
+ezek	oldtestgreek00unknuoft	474	11	μηνὸς +x	μηνὸς +τ	μηνὸς	μηνὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	12	“Υἱὲ	“Υἱὲ	Υἱὲ	Υἱὲ	image (3x): breathing on the capital as transcribed
+ezek	oldtestgreek00unknuoft	474	12	πρὸς +2	πρὸς +.	πρὸς	πρὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	13	Αἰγύπτου	ΔΛἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): breathing on the capital as transcribed
+ezek	oldtestgreek00unknuoft	474	13	Tivt	Τίνε	Τίνι	Τίνι	image (3x): word as transcribed; OCR noise (verse number, dropped accents)
+ezek	oldtestgreek00unknuoft	474	14	λἰδοὺ	ἰδοὺ	ἰδοὺ	ἰδοὺ	image (3x): grave on ἰδοὺ before a name, not a quotation
+ezek	oldtestgreek00unknuoft	474	14	Ἀσσοὺρ	Ἀσσοὺρ	Ἀσσοὺρ	Ἀσσοὺρ	image (3x): breathing on the capital as transcribed
+ezek	oldtestgreek00unknuoft	474	14	καλὸς +3	καλὸς +3	καλὸς	καλὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	16	αὐτοῦ"	αὐτοῦ"	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	16	τοὺς +4	τοὺς +α	τοὺς	τοὺς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	18	ἐξαπέστειλεν +Ἵ	ἐξαπέστειλεν +Ἵ	ἐξαπέστειλεν	ἐξαπέστειλεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	18	τούτου +§	τούτου +ς	τούτου	τούτου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	20	ἐν	“ἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	20	παραφυάσιν +6	παραφυάσιν +6	παραφυάσιν	παραφυάσιν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	21	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	23	TKal	Τκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	23	τῷ +7	τῷ +7	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	24	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	474	25	αὐτου	αὐτου	αὐτοῦ	αὐτοῦ	image (3x): word as transcribed; OCR noise (verse number, dropped accents)
+ezek	oldtestgreek00unknuoft	474	25	VOM@pP	υνθὼώρ	ὕδωρ	ὕδωρ	image (3x): word as transcribed; OCR noise (verse number, dropped accents)
+ezek	oldtestgreek00unknuoft	474	25	ποόολὺυ.	πολυ.	πολύ.	πολύ.	image (3x): word as transcribed; OCR noise (verse number, dropped accents)
+ezek	oldtestgreek00unknuoft	474	25	Kal	και	καὶ	καὶ	image (3x): word as transcribed; OCR noise (verse number, dropped accents)
+ezek	oldtestgreek00unknuoft	474	25	κυπαρισσοι	κυπαρισσοι	κυπάρισσοι	κυπάρισσοι	image (3x): word as transcribed; OCR noise (verse number, dropped accents)
+ezek	oldtestgreek00unknuoft	474	25	εν	εν	ἐν	ἐν	image (3x): word as transcribed; OCR noise (verse number, dropped accents)
+ezek	oldtestgreek00unknuoft	474	25	παραδείσῳ +8	παρα +εἰσῷ ὃ	παραδείσῳ	παραδείσῳ	image (3x): word as transcribed; OCR noise (verse number, dropped accents)
+ezek	oldtestgreek00unknuoft	474	24	-	-	κλάδων	κλάδων	ambiguous: worn type, ω of κλάδων prints as a blot; read κλάδων

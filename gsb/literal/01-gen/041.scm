@@ -397,7 +397,7 @@
     ("in" 23)
     ("the sedge;" 24 (25 sedge "ἄχει"))
     ("such as" (26 such-as "οἷος"))
-    ("they did not see" 27 28)
+    ("I did not see" 27 28)
     ("such" 29)
     ("in" 30)
     ("whole" 31)
@@ -597,7 +597,7 @@
     ("in" 7)
     ("every" (8 every))
     ("earth" 9)
-    ("to Egypt;" 10)))
+    ("Egypt;" 10)))
 
 (verse 30
   (status draft)
@@ -616,7 +616,7 @@
     ("in" 12)
     ("whole" 13)
     ("to the earth" 14 15)
-    ("to Egypt," 16)
+    ("Egypt," 16)
     ("and" 17)
     ("the famine" 19 20)
     ("will consume" 18)
@@ -740,7 +740,7 @@
     ("will be" 15)
     ("in" 16)
     ("earth" 17)
-    ("to Egypt," 18)
+    ("Egypt," 18)
     ("and" 19)
     ("the earth" 22 23)
     ("will not be rubbed out" 20 (21 rub-out "ἐκτρίβω"))
@@ -1099,7 +1099,7 @@
     ("came to be" 9)
     ("in" 10)
     ("earth" 11)
-    ("to Egypt," 12)))
+    ("Egypt," 12)))
 
 (verse 54
   (status draft)

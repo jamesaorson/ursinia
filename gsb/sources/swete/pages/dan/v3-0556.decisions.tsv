@@ -1,0 +1,51 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan	oldtestgreek00unknuoft	556	1	ἕξει. +3	ἕξει. +35.	ἕξει.	ἕξει.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	556	1	πάντα +30	πάντα +30	πάντα	πάντα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	556	2	σέ,	σέ,	σέ,	σέ,	image (3x): σέ, acute, followed by comma
+dan	oldtestgreek00unknuoft	556	3	τούτων᾽	τούτων᾽	τούτων	τούτων	image (3x): faint speck after τούτων, not an elision mark
+dan	oldtestgreek00unknuoft	556	3	οὐθέν. +39.	οὐθέν. +396	οὐθέν.	οὐθέν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	556	3	Ἐγὼ	Ἐγὼ	Ἐγὼ	Ἐγὼ	image (3x): smooth breathing on the capital; grave on Ἐγὼ
+dan	oldtestgreek00unknuoft	556	3	Ναβου- +30a	Ναβου- +304	Ναβου-	Ναβου-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	556	4	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave on βασιλεὺς before a name (not a quotation)
+dan	oldtestgreek00unknuoft	556	4	ἐπεδήθην:	ἐπεδήθην:	ἐπεδήθην·	ἐπεδήθην·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	556	5	ἐψώμισάν	ἐψώμισάν	ἐψώμισάν	ἐψώμισάν	image (3x): acute before enclitic as Swete prints
+dan	oldtestgreek00unknuoft	556	6	μετὰ.	μετὰ.	μετὰ	μετὰ	image (3x): no point after the word
+dan	oldtestgreek00unknuoft	556	6	ψυχήν	ψυχήν	ψυχήν	ψυχήν	image (3x): acute before enclitic as Swete prints
+dan	oldtestgreek00unknuoft	556	7	pov	μοὺ	μου	μου	image (3x): μου unaccented
+dan	oldtestgreek00unknuoft	556	8	θεῶν.	θεῶν.	θεῶν	θεῶν	image (3x): no point after the word
+dan	oldtestgreek00unknuoft	556	9	ἐδεήθην. +390	ἐδεήθην. +390	ἐδεήθην.	ἐδεήθην.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	556	9	πτέρυγες +30b	πτέρυγες +3οὉ	πτέρυγες	πτέρυγες	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	556	10	ὄνυχές	ὄνυχές	ὄνυχές	ὄνυχές	image (3x): acute before enclitic as Swete prints
+dan	oldtestgreek00unknuoft	556	10	λέοντος:	λέοντος:	λέοντος·	λέοντος·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	556	10	σάρξ	σάρξ	σάρξ	σάρξ	image (3x): acute before enclitic as Swete prints
+dan	oldtestgreek00unknuoft	556	11	καρδία.	καρδία.	καρδία	καρδία	image (3x): no point after the word
+dan	oldtestgreek00unknuoft	556	12	ὑπόνοιαί	ὑπόνοιαί	ὑπόνοιαί	ὑπόνοιαί	image (3x): acute before enclitic as Swete prints
+dan	oldtestgreek00unknuoft	556	13	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	556	13	ἐπέπεσέ	ἐπέπεσέ	ἐπέπεσέ	ἐπέπεσέ	image (3x): acute before enclitic as Swete prints
+dan	oldtestgreek00unknuoft	556	13	μοι.	μοι. +35“	μοι.	μοι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	556	15	ἄγνοιαί	ἄγνοιαί	ἄγνοιαί	ἄγνοιαί	image (3x): acute before enclitic as Swete prints
+dan	oldtestgreek00unknuoft	556	16	οὐρανοῦ:	οὐρανοῦ:	οὐρανοῦ·	οὐρανοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	556	17	ἐκάλεσέν	ἐκάλεσέν	ἐκάλεσέν	ἐκάλεσέν	image (3x): acute before enclitic as Swete prints
+dan	oldtestgreek00unknuoft	556	19	dds	δὸς	δὸς	δὸς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	556	19	ὑψίστῳ:	ὑψίστῳ:	ὑψίστῳ·	ὑψίστῳ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	556	20	σού	σού	σού	σού	image (3x): acute before enclitic as Swete prints
+dan	oldtestgreek00unknuoft	556	20	Bév	33ἐν	ἐν	ἐν	image (3x): superscript verse number, not text
+dan	oldtestgreek00unknuoft	556	21	“rh	9'τῷ	τῷ	τῷ	image (3x): superscript verse number, not text
+dan	oldtestgreek00unknuoft	556	22	THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	556	24	αἰνῶ:	αἰνῶ"	αἰνῶ·	αἰνῶ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	556	24	αὐτός	αὐτός	αὐτός	αὐτός	image (3x): acute before enclitic as Swete prints
+dan	oldtestgreek00unknuoft	556	27	αὐτῶν. +34"	αὐτῶν. +3.5	αὐτῶν.	αὐτῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	556	28	Δ	λατρεύσω, +»	λατρεύσω,	λατρεύσω,	image (3x): λατρεύσω, with comma; nothing else
+dan	oldtestgreek00unknuoft	556	28	ύ +ὶ	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	556	29	Anpé	ληφέ	ληφέ	ληφέ	image (3x): acute before enclitic as Swete prints
+dan	oldtestgreek00unknuoft	556	29	pe,	με,	με,	με,	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	556	29	αἰνῶ:	αἰνῶ"	αἰνῶ·	αἰνῶ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	556	29	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	556	32	joa	σαι	ῆσαι	ῆσαι	image (3x): ῆσαι with circumflex (second half of ποι-ῆσαι)
+dan	oldtestgreek00unknuoft	556	34	ρανοῦ.	ρανοῦ.	ρανοῦ	ρανοῦ	image (3x): no point after the word
+dan	oldtestgreek00unknuoft	556	31	-	-	ζῇν	ζῇν	image (3x): iota subscript printed under η (ζῇν); kept as printed, apparent misprint
+dan	oldtestgreek00unknuoft	556	3	-	-	Ἐγὼ	Ἐγὼ	numbering: margin prints Swete own lettered verse (no parenthesized number) inside the stretch where his numbers differ; run on with the common verse before it per skill (30 a -> 4:33)
+dan	oldtestgreek00unknuoft	556	9	-	-	καὶ	καὶ	numbering: margin prints Swete own lettered verse (no parenthesized number) inside the stretch where his numbers differ; run on with the common verse before it per skill (30 b -> 4:33)
+dan	oldtestgreek00unknuoft	556	13	-	-	καὶ	καὶ	numbering: margin prints Swete own lettered verse (no parenthesized number) inside the stretch where his numbers differ; run on with the common verse before it per skill (30 c -> 4:33)
+dan	oldtestgreek00unknuoft	556	27	-	-	ἀπὸ	ἀπὸ	numbering: margin prints Swete own lettered verse (no parenthesized number) inside the stretch where his numbers differ; run on with the common verse before it per skill (34 a -> 4:37)
+dan	oldtestgreek00unknuoft	556	20	-	-	ἐν	ἐν	numbering: margin prints 33 (36); Swete prints no 31 or 32, so {33!}

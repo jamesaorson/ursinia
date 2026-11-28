@@ -1,0 +1,31 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	358	1	Ἰωναθὰμ	Ἰωναθὰμ	Ἰωναθὰμ	Ἰωναθὰμ	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	358	1	Kai +27	"“Ἰκαὶ +27	καὶ	καὶ	image (3x): verse superscript then καὶ; OCR junk
+jer	oldtestgreek00unknuoft	358	2	‘lepepiay	Ἰερεμίαν	Ἰερεμίαν	Ἰερεμίαν	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	358	2	αὐτόν"	αὐτόν"	αὐτόν·	αὐτόν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	358	3	ἀνήγγεῖλεν	ἀνήγγεῖλεν	ἀνήγγειλεν	ἀνήγγειλεν	image (3x): acute, no circumflex
+jer	oldtestgreek00unknuoft	358	3	ods	οὖς	οὓς	οὓς	image (3x): rough breathing + grave
+jer	oldtestgreek00unknuoft	358	4	βασιλεύς:	βασιλεύς:	βασιλεύς·	βασιλεύς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	358	4	Κυρίου.	Κυρίου. +τ	Κυρίου.	Κυρίου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	358	5	kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	358	5	Ἱερεμίας	Ἱερεμίας	Ἰερεμίας	Ἰερεμίας	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	358	5	οὗ +28	οὗ +-8	οὗ	οὗ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	358	6	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	358	7	"Kal	' +τΚαὶ	Καὶ	Καὶ	image (3x): verse superscript then καὶ; OCR junk
+jer	oldtestgreek00unknuoft	358	7	Ἰ̓Ιούδα +τ	Ἰούδα +τ	Ἰούδα	Ἰούδα	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	358	8	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): accent as written, before capitalized name
+jer	oldtestgreek00unknuoft	358	8	∅	∅	ἡ	ἡ	image (3x): ἡ at line end, rough breathing
+jer	oldtestgreek00unknuoft	358	9	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing
+jer	oldtestgreek00unknuoft	358	9	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	358	9	"καὶ	"καὶ	καὶ	καὶ	image (3x): verse superscript then καὶ; OCR junk
+jer	oldtestgreek00unknuoft	358	9	ἐν +2	ἐν +2.	ἐν	ἐν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	358	11	ϑκαὶ	3 +"καὶ	καὶ	καὶ	image (3x): verse superscript then καὶ; OCR junk
+jer	oldtestgreek00unknuoft	358	11	πᾶντες	πᾶντες	πάντες	πάντες	image (3x): acute, no circumflex
+jer	oldtestgreek00unknuoft	358	11	βασιλέως +3	βασιλέως +3	βασιλέως	βασιλέως	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	358	12	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	358	12	Mapyavacap	Μαργανασὰρ	Μαργανασὰρ	Μαργανασὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	358	13	Ναβουσαρείς,	Ναβουσαρείς,	Ναβουσαρείς,	Ναβουσαρείς,	image (3x): accent as written, before capitalized name
+jer	oldtestgreek00unknuoft	358	13	Ναγαργασνασέρ,	Ναγαργασνασέρ,	Ναγαργασνασέρ,	Ναγαργασνασέρ,	image (3x): accent as written, before capitalized name
+jer	oldtestgreek00unknuoft	358	13	Ῥαβαμάθ,	Ῥαβαμάθ,	Ῥαβαμάθ,	Ῥαβαμάθ,	image (3x): rough breathing on Ρ
+jer	oldtestgreek00unknuoft	358	14	“kal	"““καὶ	καὶ	καὶ	image (3x): verse superscript then καὶ; OCR junk
+jer	oldtestgreek00unknuoft	358	14	καὶ +x4	καὶ +τὰ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip

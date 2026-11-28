@@ -362,10 +362,36 @@ leaf numbers here; the images and OCR layers stay out of the repo
   XXVI 1 (leaf 301): `{=49:34a}` and `{=49:34b}`, letters ours. In chapters
   1-25 the parenthesized numbers are Hebrew: his IX 1 = `(VIII) (23)`, IX 2-26
   = `(IX) (1)`-`(25)` (leaf 267), so his own numbers there are the English;
-  `versification.tsv` converts. The table keeps the Greek order (so the
+  `versification.tsv` converts. His `(XXXI)` numbers (in his XXXVIII) run
+  one below the English: `(XXXI) (1)` stands beside Εὗρον θερμὸν (English
+  31:2) and his transposed `35 (36)`, `36 (34)`, `37 (35)` are English
+  31:37, 31:35, 31:36; his XXXVIII 1 (Ἐν τῷ χρόνῳ ἐκείνῳ, English 31:1) has
+  an in-text `(24)` (leaf 334) after his XXXVII 24 = (XXX) 24, a misprint
+  for `(25)`, encoded `{=30:25}` with a comment and flag row. So Hebrew
+  30:25 = English 31:1 and Hebrew 31:1-39 = English 31:2-40 in
+  `versification.tsv`. The table keeps the Greek order (so the
   English chapters stand where the Greek has them), each verse labeled with
   its Hebrew/English reference; Swete's own reference stays in
   `verses.swete_ref` of the database.
+- **Lamentations** (leaves v3 384-402) is set wholly as verse lines with the
+  Psalms depth markers (`{S}`, `{S1}`, `{S2}` on every line; no `{P}`). The
+  prose preface before 1:1 (`ΚΑΙ ἐγένετο μετὰ τὸ αἰχμαλωτισθῆναι ...
+  καὶ εἶπεν`) is text, written as `{T}` title lines after `{C1}`, so it runs
+  on into verse 1 (one row, as Ps 14). The spelled Hebrew letter centered
+  on its own line before a verse (`Ἄλεφ.`, `Βήθ.`, ...) is text, a line
+  `{S2}{n}Βήθ.` carrying the number of the first verse after it (Swete's
+  superscript stands on the next line), so the heading begins that verse's
+  row; in chapter 3 one heading stands over a group of verses. Chapter 5 has
+  no headings. The headings are spelled as printed and vary (Λάμεδ / Λάβδ,
+  Σάμχ / Σάμεχ, Βήθ / Βή, Ζάιν / Ζάι, Τιαδή for Tsade; a Τίμελ at 2:3 is a
+  misprint kept as printed). Where a heading falls inside a verse (Ἄιν. at
+  3:45-46, leaf 396: 46 is printed mid-line after it) it is an unnumbered
+  `{S2}` line and runs on with the verse before. In-text `(2)` at 2:2 (leaf
+  389): the heading Βήθ. and the words before it run on with 2:1. Swete
+  prints no 3:22-24 and no 3:29 (Codex B lacks them; `{25!}`, `{30!}`), so
+  chapter 3 has 62 rows against the English 66. Hebrew = English, so there
+  are no `versification.tsv` rows; the preface has no English counterpart
+  and stands in 1:1.
 - **Editorial marks** in the text, such as Swete's asterisk at Gen 37:1 tied to
   a note, are apparatus and are left out.
 - **Daniel** is printed twice: the Old Greek (Chigi MS 87, `ΔΑΝΙΗΛ ΚΑΤΑ ΤΟΥΣ Ο'`)
@@ -444,7 +470,8 @@ OCR is a list of places to look again, not a vote.
    chapter), each common verse given
    once per book, every decision settled.
 
-Version `swete-pilot-1` (Genesis leaves 33–37, Daniel 522–527) did steps 1–4 by
+Version `swete-pilot-1` (Genesis leaves 33–37, Daniel 522–525; the pilot's
+526-527 held only their first two lines and were redone with `swete-2`) did steps 1–4 by
 hand with throwaway scripts; its measured accuracy, cost and hazards are in the
 beads issue `ursinia-vff.6`.
 

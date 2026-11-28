@@ -1,0 +1,49 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan-th	oldtestgreek00unknuoft	563	1	ἀναγγεῖλαί	ἀναγγεῖλαί	ἀναγγεῖλαί	ἀναγγεῖλαί	image (3x): accent before enclitic as printed
+dan-th	oldtestgreek00unknuoft	563	1	μοι.	μοι. +"ὁ	μοι.	μοι.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	563	1	“Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	563	2	συνκρῖναι:	συνκρῖναι:	συνκρῖναι·	συνκρῖναι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	563	3	σύγκρισιν.	σύγκρισιν	σύγκρισιν	σύγκρισιν	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	563	4	μανιάκης.	μανιάκης.	μανιάκης	μανιάκης	image (3x): speck, no punctuation printed here
+dan-th	oldtestgreek00unknuoft	563	4	ὃ	ὃ	ὁ	ὁ	image (3x): rough breathing, no accent
+dan-th	oldtestgreek00unknuoft	563	5	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	563	6	cob	σού	σού	σού	image (3x): accent before enclitic as printed
+dan-th	oldtestgreek00unknuoft	563	6	δός"	δός"	δός·	δός·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	563	8	“Baowded,	"βασιλεῦ,	βασιλεῦ,	βασιλεῦ,	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	563	10	πατρί	πατρί	πατρί	πατρί	image (3x): accent before enclitic as printed
+dan-th	oldtestgreek00unknuoft	563	10	σου;	σου;	σου,	σου,	image (3x): speck, no punctuation printed here
+dan-th	oldtestgreek00unknuoft	563	10	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	563	12	ὦπου	ὦπου	ώπου	ώπου	image (3x): acute on omega, no breathing (continuation of προσ-ώπου)
+dan-th	oldtestgreek00unknuoft	563	12	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	563	12	ovs	οὺς	οὓς	οὓς	image (8x): rough + grave, compact closed mark (unlike the rough + circumflex of οὗ on line 28)
+dan-th	oldtestgreek00unknuoft	563	12	ἀνήρει,	ἀνήρει,	ἀνῄρει,	ἀνῄρει,	image (4x): iota subscript under eta, acute above
+dan-th	oldtestgreek00unknuoft	563	12	ods	οὺς	οὓς	οὓς	image (8x): rough + grave, compact closed mark (unlike the rough + circumflex of οὗ on line 28)
+dan-th	oldtestgreek00unknuoft	563	13	ods	οὺς	οὓς	οὓς	image (8x): rough + grave, compact closed mark (unlike the rough + circumflex of οὗ on line 28)
+dan-th	oldtestgreek00unknuoft	563	13	ods	οὺς	οὓς	οὓς	image (8x): rough + grave, compact closed mark (unlike the rough + circumflex of οὗ on line 28)
+dan-th	oldtestgreek00unknuoft	563	14	πείνου.	πείνου. +20	πείνου.	πείνου.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	563	16	*‘xal	Ὡτ +“᾿καὶ	καὶ	καὶ	image (3x): καὶ after superscript 21
+dan-th	oldtestgreek00unknuoft	563	17	αὐτοῦ	αὐτοῦ +Ἱ	αὐτοῦ	αὐτοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	563	17	pera	μετὰ	μετὰ	μετὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	563	20	ὅτι.	ὅτι.	ὅτι	ὅτι	image (3x): speck, no punctuation printed here
+dan-th	oldtestgreek00unknuoft	563	20	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	563	20	ἵψιστος	ἵψιστος	ὕψιστος	ὕψιστος	image (3x): rough + acute on upsilon
+dan-th	oldtestgreek00unknuoft	563	21	““καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	563	22	«τοῦ	.τοῦ	τοῦ	τοῦ	image (3x): speck, no punctuation printed here
+dan-th	oldtestgreek00unknuoft	563	22	θεοῦ:	θεοῦ:	θεοῦ·	θεοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	563	23	ἔγνως"	ἔγνως"	ἔγνως·	ἔγνως·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	563	23	“Ξκαὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	563	24	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	image (3x): accent before enclitic as printed
+dan-th	oldtestgreek00unknuoft	563	25	μεγιστᾶνές	μεγιστᾶνές	μεγιστᾶνές	μεγιστᾶνές	image (3x): accent before enclitic as printed
+dan-th	oldtestgreek00unknuoft	563	25	παλλακαί	παλλακαί	παλλακαί	παλλακαί	image (3x): accent before enclitic as printed
+dan-th	oldtestgreek00unknuoft	563	25	παράκοιτοί	παράκοιτοί	παράκοιτοί	παράκοιτοί	image (3x): accent before enclitic as printed
+dan-th	oldtestgreek00unknuoft	563	26	αὐτοῖς:	αὐτοῖς"	αὐτοῖς·	αὐτοῖς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	563	27	οἱ	οἱ	οἳ	οἳ	image (8x): rough + grave, compact closed mark
+dan-th	oldtestgreek00unknuoft	563	28	οἱ	οἱ	οἳ	οἳ	image (8x): rough + grave, compact closed mark
+dan-th	oldtestgreek00unknuoft	563	28	ἤνεσας,	ἦνεσας,	ᾔνεσας,	ᾔνεσας,	image (4x): iota subscript under eta, smooth + acute
+dan-th	oldtestgreek00unknuoft	563	29	πνοή.	πνοή	πνοή	πνοή	image (3x): accent before enclitic as printed
+dan-th	oldtestgreek00unknuoft	563	29	σὸυ	σου	σου	σου	image (3x): σου unaccented
+dan-th	oldtestgreek00unknuoft	563	29	πᾶσαϊ	πᾶσαϊ	πᾶσαι	πᾶσαι	image (3x): no diaeresis
+dan-th	oldtestgreek00unknuoft	563	29	ὁδοί	ὁδοί	ὁδοί	ὁδοί	image (3x): accent before enclitic as printed
+dan-th	oldtestgreek00unknuoft	563	20	-	-	ὁ	ὁ	ambiguous: article prints heavy and blotted, like a bold δ (damaged type); read ὁ
+dan-th	oldtestgreek00unknuoft	563	6	-	-	σού	σού	ambiguous: a small extra stroke under the acute on σού (damaged type or speck); read σού
+dan-th	oldtestgreek00unknuoft	563	15	-	-	κατηνέχθη	κατηνέχθη	ambiguous: accent on epsilon prints broken (damaged type); read acute

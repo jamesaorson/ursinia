@@ -193,8 +193,7 @@
     ("will die" 23)
     ("and" 25)
     ("all" 26)
-    ("[things]")
-    ("yours" (27 absorbed) 28)
+    ("your" (27 absorbed) 28)
     ("[things].")))
 
 (verse 8
@@ -239,7 +238,7 @@
     ("you did" (11 do))
     ("to us?" 12)
     ("Did we sin" (13 question) (15 sin "ἁμαρτάνω"))
-    ("one" 14)
+    ("anything" (14 anything))
     ("into" 16)
     ("you," 17)
     ("that" 18)

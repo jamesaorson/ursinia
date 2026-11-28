@@ -1,0 +1,41 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan	oldtestgreek00unknuoft	574	1	στήσονται:	στήσονται:	στήσονται·	στήσονται·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	574	1	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	574	1	pera	μετὰ	μετὰ	μετὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	574	3	“Ξκαὶ	“Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	574	3	λαλήσει +25	λαλήσει +:-	λαλήσει	λαλήσει	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	574	4	κατατρίψει;	κατατρίψει;	καταρτίψει,	κατατρίψει,	image (3x): comma after the word, not a question mark; κατατρίψει
+dan	oldtestgreek00unknuoft	574	5	mapadoOnoera	πἀραδοθήσεται	παραδοθήσεται	παραδοθήσεται	image (3x): no breathing on α; παραδοθήσεται
+dan	oldtestgreek00unknuoft	574	6	““καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	574	6	κρίσις +26	κρίσις +96	κρίσις	κρίσις	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	574	7	“βουλεύσονται.	βουλεύσονται.	βουλεύσονται	βουλεύσονται	image (3x): no point after the word; specks only
+dan	oldtestgreek00unknuoft	574	8	“Ἰκαὶ	“Ἰκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	574	8	καὶ +27	καὶ +97	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	574	9	μεγαλειότητα	μεγαλειότητα.	μεγαλειότητα	μεγαλειότητα	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	574	10	λαῷ.	λαῷ.	λαῷ	λαῷ	image (3x): no point after the word; specks only
+dan	oldtestgreek00unknuoft	574	12	“ἐγὼ	“ἐγὼ	ἐγὼ	ἐγὼ	image (3x): superscript verse number; grave on ἐγὼ before the name, as printed
+dan	oldtestgreek00unknuoft	574	12	περιει- +28	περιει- +α	περιει-	περιει-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	574	13	μου.	μου.	μου	μου	image (3x): no point after the word; specks only
+dan	oldtestgreek00unknuoft	574	15	[Ἔτους	Ἔτους	Ἔτους	Ἔτους	image (3x): superscript 1; smooth breathing + acute, Ἔ
+dan	oldtestgreek00unknuoft	574	15	ἐγὼ +x	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ at line end; margin 1 VIII not text
+dan	oldtestgreek00unknuoft	574	16	pera	μετὰ	μετὰ	μετὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	574	16	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	574	16	τοῦ +2	τοῦ +.	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	574	17	Ἔλυ-	Ἔλυ-	Ἐλυ-	Ἐλυ-	image (3x): smooth breathing only, no accent, Ἐ
+dan	oldtestgreek00unknuoft	574	18	paid:	μαίδι	μαΐδι	μαίδι	image (3x): acute on ι, no diaeresis visible; μαίδι as printed
+dan	oldtestgreek00unknuoft	574	18	Αἰλάμ:	Αἰλάμ:	Αἰλάμ·	Αἰλάμ·	image (3x): breathing on ι of Αἰ smooth; ano teleia after
+dan	oldtestgreek00unknuoft	574	19	ϑάἀναβλέψας	ϑἀναβλέψας	ἀναβλέψας	ἀναβλέψας	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	574	19	καὶ +3	καὶ +3	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	574	20	ὑψηλά:	ὑψηλά:	ὑψηλά·	ὑψηλά·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	574	20	ἕν	ἕν	ἓν	ἓν	image (3x): compact closed mark = rough breathing + grave, ἓν
+dan	oldtestgreek00unknuoft	574	20	ἑτέρου,	“ἑτέρου,	ἑτέρου,	ἑτέρου,	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	574	21	“μετὰ	“μετὰ	μετὰ	μετὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	574	23	μεσημβρίαν:	μεσημβρίαν:	μεσημβρίαν·	μεσημβρίαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	574	24	ἤθελε	ἤθελε.	ἤθελε	ἤθελε	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	574	25	καὶ	5καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	574	25	ἐπὶ +5	ἐπὶ +ς	ἐπὶ	ἐπὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	574	26	ἕν	ἕν	ἓν	ἓν	image (3x): compact closed mark = rough breathing + grave, ἓν
+dan	oldtestgreek00unknuoft	574	27	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	574	27	τὸν᾽	'τὸν᾽	τὸν	τὸν	image (3x): stroke after τὸν is a speck/show-through, not an elision mark
+dan	oldtestgreek00unknuoft	574	27	κέρατα +6	κέρατα +6	κέρατα	κέρατα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	574	28	ἐν.	ἐν	ἐν	ἐν	class R6 (OCR letters differ): the other OCR reading agrees with c

@@ -1,0 +1,72 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan	oldtestgreek00unknuoft	534	1	κρίσις. +4	κρίσις.	κρίσις.	κρίσις.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	534	1	Τότε	“Τότε	Τότε	Τότε	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	534	1	βασιλεὺς +46	βασιλεὺς +46	βασιλεὺς	βασιλεὺς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	534	3	rage	τάξε.	ταξε	ταξε	image (3x): second half of ἐπέ-ταξε, no accent
+dan	oldtestgreek00unknuoft	534	3	θυσίας.	θυσίας.	θυσίας	θυσίας	image (3x): word as on page; OCR period/quote/dash is a show-through speck or superscript, not printed
+dan	oldtestgreek00unknuoft	534	3	σπονδὰς	σπονδὰς.	σπονδὰς	σπονδὰς	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	534	3	“Kai	“71καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	534	3	βασι- +47	βασι- +47	βασι-	βασι-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	534	4	-πρὸς	-πρὸς	πρὸς	πρὸς	image (3x): word as on page; OCR period/quote/dash is a show-through speck or superscript, not printed
+dan	oldtestgreek00unknuoft	534	4	τὸν.	τὸν.	τὸν	τὸν	image (3x): word as on page; OCR period/quote/dash is a show-through speck or superscript, not printed
+dan	oldtestgreek00unknuoft	534	4	Ἔπ᾽	Ἔπ᾽	Ἐπ᾽	Ἐπ᾽	image (3x): smooth breathing, as page
+dan	oldtestgreek00unknuoft	534	4	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	534	4	Odds	θέὸς	θεὸς	θεὸς	image (3x): accents/letters as page; OCR misread
+dan	oldtestgreek00unknuoft	534	4	«θεὸς	“θεὸς	θεὸς	θεὸς	image (3x): word as on page; OCR period/quote/dash is a show-through speck or superscript, not printed
+dan	oldtestgreek00unknuoft	534	5	μόνος"	τῶν	τῶν	τῶν	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	534	5	∅	θεῶν	θεῶν	θεῶν	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	534	5	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	534	5	∅	κύριος	κύριος	κύριος	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	534	5	∅	τῶν	τῶν	τῶν	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	534	5	∅	βασιλέων,	βασιλέων,	βασιλέων,	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	534	5	∅	ὁ	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	534	5	∅	ἐκφαίνων	ἐκφαίνων	ἐκφαίνων	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	534	5	∅	μυστήρια	μυστήρια	μυστήρια	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	534	5	∅	κρυπτὰ	κρυπτὰ	κρυπτὰ	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	534	6	∅	μόνος"	μόνος·	μόνος·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	534	6	“rdére	““τότε	τότε	τότε	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	534	6	βασι- +48	βασι- +48	βασι-	βασι-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	534	7	λεὺς	λεὺς	λεὺς	λεὺς	image (3x): accent as printed; following capital is a name, not a quotation
+dan	oldtestgreek00unknuoft	534	7	Ναβουχοδονοσὸρ	Ναβουχοδονοσὸρ	Ναβουχοδονοσὸρ	Ναβουχοδονοσὸρ	image (3x): accent as printed; following capital is a name, not a quotation
+dan	oldtestgreek00unknuoft	534	7	Δ̓ανιὴλ.	᾿Δ̓ανιὴλ..	Δανιὴλ	Δανιὴλ	image (3x): word as on page; OCR period/quote/dash is a show-through speck or superscript, not printed
+dan	oldtestgreek00unknuoft	534	8	«καὶ	«καὶ	καὶ	καὶ	image (3x): word as on page; OCR period/quote/dash is a show-through speck or superscript, not printed
+dan	oldtestgreek00unknuoft	534	10	λωνίας. +“9	λωνίας.	λωνίας.	λωνίας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	534	10	καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	534	10	ἵνα.	ἵνα.	ἵνα	ἵνα	image (3x): word as on page; OCR period/quote/dash is a show-through speck or superscript, not printed
+dan	oldtestgreek00unknuoft	534	10	ἐπὶ +49	ἐπὶ +49	ἐπὶ	ἐπὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	534	11	-Βαβυλωνίας	-Βαβυλωνίας	Βαβυλωνίας	Βαβυλωνίας	image (3x): word as on page; OCR period/quote/dash is a show-through speck or superscript, not printed
+dan	oldtestgreek00unknuoft	534	11	Σεδράχ,	Σεδράχ,	Σεδράχ,	Σεδράχ,	image (3x): accent as printed; following capital is a name, not a quotation
+dan	oldtestgreek00unknuoft	534	11	-Μισάχ,	-Μισάχ,	Μισάχ,	Μισάχ,	image (3x): accent as printed; following capital is a name, not a quotation
+dan	oldtestgreek00unknuoft	534	11	Ἀβδεναγώ-	Ἀβδεναγώ-	Ἀβδεναγώ·	Ἀβδεναγώ·	image (3x): smooth breathing, as page
+dan	oldtestgreek00unknuoft	534	13	™"Erous	τ +τους	Ἔτους	Ἔτους	image (3x): smooth + acute (apostrophe then rising stroke); margin 1 superscript not text
+dan	oldtestgreek00unknuoft	534	13	πόλεις	“πόλεις	πόλεις	πόλεις	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	534	14	τ +καὶ:	τ +καὶ:	καὶ	καὶ	image (3x): word as on page; OCR period/quote/dash is a show-through speck or superscript, not printed
+dan	oldtestgreek00unknuoft	534	14	Ἰνδικῆς	Ἰνδικῆς	Ἰνδικῆς	Ἰνδικῆς	image (3x): smooth breathing, as page
+dan	oldtestgreek00unknuoft	534	15	Αἰθιοπίας	Αἰθιοπίας	Αἰθιοπίας	Αἰθιοπίας	image (3x): Αἰ, smooth breathing on ι
+dan	oldtestgreek00unknuoft	534	15	εἰκόνα.	εἰκόνα.	εἰκόνα	εἰκόνα	image (3x): word as on page; OCR period/quote/dash is a show-through speck or superscript, not printed
+dan	oldtestgreek00unknuoft	534	16	ἕξ᾽	ἕξ᾽	ἕξ·	ἕξ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	534	16	πεδίῳ	“πεδίῳ	πεδίῳ	πεδίῳ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	534	16	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	534	17	βόλου.	βόλου.	βόλου	βόλου	image (3x): word as on page; OCR period/quote/dash is a show-through speck or superscript, not printed
+dan	oldtestgreek00unknuoft	534	17	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	534	17	Ναβουχοδονοσὸρ.	Ναβουχοδονοσὸρ.	Ναβουχοδονοσὸρ	Ναβουχοδονοσὸρ	image (3x): word as on page; OCR period/quote/dash is a show-through speck or superscript, not printed
+dan	oldtestgreek00unknuoft	534	17	βασιλέων	βασιλέων +2	βασιλέων	βασιλέων	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	534	19	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	534	21	εἰκόνὸς	εἰκόνὸς	εἰκόνος	εἰκόνος	image (3x): accents/letters as page; OCR misread
+dan	oldtestgreek00unknuoft	534	22	∅	χρυσῆς	χρυσῆς	χρυσῆς	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	534	22	∅	ἣν	ἣν	ἣν	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	534	22	∅	ἔστησεν	ἔστησεν	ἔστησεν	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	534	22	∅	Ναβουχοδονοσὸρ	Ναβουχοδονοσὸρ	Ναβουχοδονοσὸρ	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	534	22	∅	ὁ	ὁ	ὁ	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	534	22	∅	βασιλεύς.	βασιλεύς.	βασιλεύς.	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	534	22	∅	Ξτότε	τότε	τότε	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	534	22	∅	συνήχθησαν +3	συνήχθησαν	συνήχθησαν	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	534	23	στρατήγοί,	στρατήγοί,	στρατηγοί,	στρατηγοί,	image (3x): accents/letters as page; OCR misread
+dan	oldtestgreek00unknuoft	534	23	ToT +dpxal,	τοπάρχαϊ,	τοπάρχαι,	τοπάρχαι,	image (3x): accents/letters as page; OCR misread
+dan	oldtestgreek00unknuoft	534	23	ἡγούμενοι,	ἡγούμενοι;	ἡγούμενοι,	ἡγούμενοι,	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	534	23	μεγάχοι +-	μεγάχοι +-	μεγάλοι	μεγάλοι	image (3x): accents/letters as page; OCR misread
+dan	oldtestgreek00unknuoft	534	24	ἐῶν	Τῶν	τῶν	τῶν	image (3x): accents/letters as page; OCR misread
+dan	oldtestgreek00unknuoft	534	27	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	534	27	κήρυξ	κἠρυξ	κῆρυξ	κήρυξ	image (3x): acute on η, κήρυξ as printed (not circumflex)
+dan	oldtestgreek00unknuoft	534	27	Ὑμῖν	Ὑμῖν.	Ὑμῖν	Ὑμῖν	image (3x): rough breathing + circumflex on ι
+dan	oldtestgreek00unknuoft	534	27	παραγγέλλεται, +4	παραγγέλλεται, +4	παραγγέλλεται,	παραγγέλλεται,	class R3: OCR appended accent-row or margin junk; c read from the image strip

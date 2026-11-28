@@ -1,0 +1,65 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	351	1	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	351	1	∅	ὠσὶ	ὠσὶ	ὠσὶ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	351	1	∅	παντὸς	παντὸς	παντὸς	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	351	1	∅	τοῦ	τοῦ	τοῦ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	351	1	∅	λαοῦ.	λαοῦ.	λαοῦ.	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	351	1	∅	“᾿καὶ	καὶ	καὶ	image (3x): καὶ; OCR picked up verse superscript or margin number
+jer	oldtestgreek00unknuoft	351	1	∅	ἤκουσεν	ἤκουσεν	ἤκουσεν	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	351	1	∅	Μειχαίας	Μειχαίας	Μειχαίας	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	351	1	∅	υἱὸς	υἱὸς	υἱὸς	image (3x): grave υἱὸς/υἱὸν before capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	351	1	∅	Ταμαρείου	Γαμαρείου	Γαμαρείου	image (3x): Γ, not Τ
+jer	oldtestgreek00unknuoft	351	1	∅	υἱοῦ	υἱοῦ	υἱοῦ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	351	2	'᾿λόγους	'᾿λόγους	λόγους	λόγους	image (3x): raised speck between τοὺς and λόγους, not a mark
+jer	oldtestgreek00unknuoft	351	2	"“καὶ	"““καὶ	καὶ	καὶ	image (3x): καὶ; OCR picked up verse superscript or margin number
+jer	oldtestgreek00unknuoft	351	3	TOV	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	351	3	Οἰκον	οἶκον	οἶκον	οἶκον	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	351	3	TOU	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	351	3	γραμματεῶς,	γραμματέως,	γραμματέως,	γραμματέως,	image (3x): acute γραμματέως
+jer	oldtestgreek00unknuoft	351	4	€K€L	ἐκεῖ	ἐκεῖ	ἐκεῖ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	351	4	WaVTES	πάντες	πάντες	πάντες	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	351	4	Ἐλεισαμὰ	Ἐ̓λεισαμὰ	Ἐλεισαμὰ	Ἐλεισαμὰ	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	351	4	ο	ὃ	ὁ	ὁ	image (3x): ὁ rough breathing, no accent
+jer	oldtestgreek00unknuoft	351	4	και	καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	351	5	∅	Δαλαΐας	Δαλαίας	Δαλαίας	image (3x): Δαλαίας, acute on ί, no diaeresis
+jer	oldtestgreek00unknuoft	351	5	∅	υἱὸς	υἱὸς	υἱὸς	image (3x): grave υἱὸς/υἱὸν before capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	351	5	∅	Σελεμίου	Σελεμίου	Σελεμίου	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	351	5	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	351	5	∅	Ἰωναθὰν	Ἰωναθὰν	Ἰωναθὰν	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	351	5	∅	υἱὸς	υἱὸς	υἱὸς	image (3x): grave υἱὸς/υἱὸν before capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	351	5	∅	Ἀκχοβὼρ	Ἀκχοβὼρ	Ἀκχοβὼρ	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	351	5	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	351	5	∅	Τ'αμαρίας	Γαμαρίας	Γαμαρίας	image (3x): Γ, not Τ
+jer	oldtestgreek00unknuoft	351	6	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave υἱὸς/υἱὸν before capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	351	6	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave υἱὸς/υἱὸν before capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	351	6	Ἀνανίου	ς +Ἀνανίου	Ἁνανίου	Ἁνανίου	image (3x): rough breathing (reversed comma) on Ἁνανίου
+jer	oldtestgreek00unknuoft	351	7	3xal.	13 +᾿3καὶ	καὶ	καὶ	image (3x): καὶ; OCR picked up verse superscript or margin number
+jer	oldtestgreek00unknuoft	351	7	ods	οὺς	οὓς	οὓς	image (3x): οὓς, rough + grave
+jer	oldtestgreek00unknuoft	351	8	“kal	"“καὶ	καὶ	καὶ	image (3x): καὶ; OCR picked up verse superscript or margin number
+jer	oldtestgreek00unknuoft	351	9	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): grave υἱὸς/υἱὸν before capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	351	9	υἱὸν	υἱὸν	υἱὸν	υἱὸν	image (3x): grave υἱὸς/υἱὸν before capitalized name (not a quotation)
+jer	oldtestgreek00unknuoft	351	11	τοῦ	τοῦ +λ	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	351	11	χεῖρά	χεῖρά	χεῖρά	χεῖρά	image (3x): acute before enclitic σου/μοι
+jer	oldtestgreek00unknuoft	351	12	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	351	12	“Kal	"“καὶ	καὶ	καὶ	image (3x): καὶ; OCR picked up verse superscript or margin number
+jer	oldtestgreek00unknuoft	351	13	ἡμῶν:	ἡμῶν:	ἡμῶν·	ἡμῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	351	13	Βαρούχ.	Βαρούχ. +““	Βαρούχ.	Βαρούχ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	351	13	““καὶ	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	351	15	εἶπαν	εἶπαν +3	εἶπαν	εἶπαν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	351	15	Ἀναγγέλλοντες	Ἀναγγέλλοντες	Ἀναγγέλλοντες	Ἀναγγέλλοντες	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	351	16	∅	τῷ	τῷ	τῷ	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	351	16	"7καὶ	"καὶ	καὶ	καὶ	image (3x): καὶ; OCR picked up verse superscript or margin number
+jer	oldtestgreek00unknuoft	351	16	ἡρώ-	ἡρώ-	ἠρώ-	ἠρώ-	image (3x): ἠρώ- smooth breathing
+jer	oldtestgreek00unknuoft	351	17	τῆσαν	τήσαν	τησαν	τησαν	image (3x): τησαν unaccented (accent on ἠρώ- above)
+jer	oldtestgreek00unknuoft	351	17	lod	Ποῦ	Ποῦ	Ποῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	351	17	“καὶ	““καὶ	καὶ	καὶ	image (3x): καὶ; OCR picked up verse superscript or margin number
+jer	oldtestgreek00unknuoft	351	18	Bapovy	Βαρούχ᾽Ἀπὸ	Βαρούχ	Βαρούχ	image (3x): acute Βαρούχ before capitalized quotation
+jer	oldtestgreek00unknuoft	351	18	“Amd	∅	Ἀπὸ	Ἀπὸ	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	351	18	ἀνήγγειλέν	ἀνήγγειλέν	ἀνήγγειλέν	ἀνήγγειλέν	image (3x): acute before enclitic σου/μοι
+jer	oldtestgreek00unknuoft	351	18	Ἱερεμίας	Ἱερεμίας	Ἰερεμίας	Ἰερεμίας	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	351	19	“καὶ	"καὶ	καὶ	καὶ	image (3x): καὶ; OCR picked up verse superscript or margin number
+jer	oldtestgreek00unknuoft	351	19	Βαρούχ	Βαρούχ	Βαρούχ	Βαρούχ	image (3x): acute Βαρούχ before capitalized quotation
+jer	oldtestgreek00unknuoft	351	20	Ἰερεμίας:	Ἰερεμίας:	Ἰερεμίας·	Ἰερεμίας·	image (3x): smooth breathing on capital as in page file
+jer	oldtestgreek00unknuoft	351	21	““καὶ	““καὶ	καὶ	καὶ	image (3x): καὶ; OCR picked up verse superscript or margin number
+jer	oldtestgreek00unknuoft	351	22	“Ἐλεισά,	“Ἐλεισά,	Ἐλεισά,	Ἐλεισά,	image (3x): smooth breathing on Ἐλεισά; brown stain to its left is not ink
+jer	oldtestgreek00unknuoft	351	23	“καὶ	“καὶ	καὶ	καὶ	image (3x): καὶ; OCR picked up verse superscript or margin number

@@ -1,0 +1,52 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	367	1	Ξἀπὸ	Ξἀπὸ	ἀπὸ	ἀπὸ	image (3x): reads as page file; OCR noise from superscript number
+jer	oldtestgreek00unknuoft	367	2	παραπικρᾶναί	παραπικρᾶναί	παραπικρᾶναί	παραπικρᾶναί	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	367	2	θυμιᾷν.	θυμιᾷν.	θυμιᾶν	θυμιᾷν	image (3x): speck, not a period
+jer	oldtestgreek00unknuoft	367	3	καὶ	Γκαὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	367	3	παῖδάς	παῖδάς	παῖδάς	παῖδάς	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	367	4	ταύτης.	ταύτης.	ταύτης	ταύτης	ambiguous: faint gray dot on baseline after ταύτης (8x), much lighter than the page's periods; read speck, no punctuation
+jer	oldtestgreek00unknuoft	367	5	ἐμίσησα.	εμισησα.	ἐμίσησα.	ἐμίσησα.	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	367	5	5 +και	και	καὶ	καὶ	image (3x): reads as page file; OCR noise from superscript number
+jer	oldtestgreek00unknuoft	367	5	ἡκοῦυσαν	ἡκούυσαν	ἤκουσαν	ἤκουσαν	image (3x): ἤ smooth+acute
+jer	oldtestgreek00unknuoft	367	5	Και	Και	καὶ	καὶ	image (3x): reads as page file (lowercase, accents as printed)
+jer	oldtestgreek00unknuoft	367	5	EKALVGV	εκλιναᾶν	ἔκλιναν	ἔκλιναν	image (3x): reads as page file (lowercase, accents as printed)
+jer	oldtestgreek00unknuoft	367	5	TO	ΤῸ	τὸ	τὸ	image (3x): reads as page file (lowercase, accents as printed)
+jer	oldtestgreek00unknuoft	367	5	OUS	οὺὑὺς	οὖς	οὖς	image (3x): reads as page file (lowercase, accents as printed)
+jer	oldtestgreek00unknuoft	367	5	ἀπόοστρε-	ἀπόοστρε-	ἀποστρέ-	ἀποστρέ-	image (3x): reads as page file (lowercase, accents as printed)
+jer	oldtestgreek00unknuoft	367	6	Wa	Ψψαι	ψαι	ψαι	image (3x): reads as page file (lowercase, accents as printed)
+jer	oldtestgreek00unknuoft	367	6	ἑτέροις:	ἑτέροις.	ἑτέροις.	ἑτέροις.	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	367	6	“καὶ	“καὶ	καὶ	καὶ	image (3x): reads as page file; OCR noise from superscript number
+jer	oldtestgreek00unknuoft	367	7	ἔσταξεν.	ἔσταξεν.	ἔσταξεν	ἔσταξεν	image (3x): speck, not a period
+jer	oldtestgreek00unknuoft	367	7	ὀργή	ὀργή	ὀργή	ὀργή	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	367	7	θυμός	θυμός	θυμός	θυμός	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	367	7	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on capital
+jer	oldtestgreek00unknuoft	367	8	Ἱερουσαλήμ,	Ἱερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing on capital
+jer	oldtestgreek00unknuoft	367	8	Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	367	8	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	367	9	αὕτη...	αὑτη..	αὕτη.	αὕτη.	image (3x): αὕτη rough+acute, single period
+jer	oldtestgreek00unknuoft	367	9	1καὶ	7	καὶ	καὶ	image (3x): reads as page file; OCR noise from superscript number
+jer	oldtestgreek00unknuoft	367	9	νῦν	1καὶ	νῦν	νῦν	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	367	9	οὕτως	νὺν +οὑτῶς	οὕτως	οὕτως	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	367	9	‘Iva	ψ +να	Ἵνα	Ἵνα	image (3x): rough+acute on capital Ἵ
+jer	oldtestgreek00unknuoft	367	11	Ἰούδα,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing on capital
+jer	oldtestgreek00unknuoft	367	12	μηδένα, +ὃ	μηδένα,	μηδένα,	μηδένα,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	367	12	παραπικρᾶναί	᾿παραπικρᾶναί	παραπικρᾶναί	παραπικρᾶναί	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	367	13	Αἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	Αἰγύπτῳ	image (3x): smooth breathing on capital
+jer	oldtestgreek00unknuoft	367	14	ἵνα.	ἵνα.	ἵνα	ἵνα	image (3x): speck, not a period
+jer	oldtestgreek00unknuoft	367	16	Ἰούδα	Ἰ̓Ιούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on capital
+jer	oldtestgreek00unknuoft	367	18	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on capital
+jer	oldtestgreek00unknuoft	367	18	Ἰερουσαλήμ;	Ἰερουσαλήμ;	Ἰερουσαλήμ;	Ἰερουσαλήμ;	image (3x): smooth breathing on capital
+jer	oldtestgreek00unknuoft	367	18	“Kai	“καὶ	καὶ	καὶ	image (3x): reads as page file; OCR noise from superscript number
+jer	oldtestgreek00unknuoft	367	19	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	367	19	TOV	τῶν	τῶν	τῶν	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	367	20	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	367	20	ὧν.	ὧν.	ὧν	ὧν	image (3x): speck, not a period
+jer	oldtestgreek00unknuoft	367	20	αὐτών.	αὐτών.	αὐτῶν.	αὐτῶν.	image (3x): circumflex on ω
+jer	oldtestgreek00unknuoft	367	20	dia	"διὰ	διὰ	διὰ	image (3x): reads as page file; OCR noise from superscript number
+jer	oldtestgreek00unknuoft	367	21	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	Ἰδοὺ	image (3x): smooth breathing on capital
+jer	oldtestgreek00unknuoft	367	21	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): acute before enclitic
+jer	oldtestgreek00unknuoft	367	21	“τοῦ	“τοῦ	τοῦ	τοῦ	image (3x): reads as page file; OCR noise from superscript number
+jer	oldtestgreek00unknuoft	367	22	Αἰγύπτῳ,	Αἰγύπτῳ,	Αἰγύπτῳ,	Αἰγύπτῳ,	image (3x): smooth breathing on capital
+jer	oldtestgreek00unknuoft	367	22	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	367	23	καὶ	ὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	367	4	-	-	ταύτης	ταύτης	ambiguous: faint gray baseline dot after the word; read speck, no period

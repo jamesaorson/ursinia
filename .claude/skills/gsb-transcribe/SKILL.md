@@ -426,7 +426,7 @@ reading at all, and the H1–H3 checks.
 
 ## Pilot leaves
 
-Genesis leaves 33–37 and Daniel leaves 522–527 come from the pilot (stamped
+Genesis leaves 33–37 and Daniel leaves 522–525 come from the pilot (stamped
 `swete-pilot-1`); their decision files use the pilot's OCR extraction. Do not
 run `collate` or `done` on them: collate would add rows that no longer match
 and status would then fail them.

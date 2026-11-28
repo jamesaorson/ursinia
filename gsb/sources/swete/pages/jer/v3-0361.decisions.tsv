@@ -1,0 +1,45 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	361	1	πρὸς +B	πρὸς +Β	πρὸς	πρὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	361	2	"καὶ	"καὶ	καὶ	καὶ	image (3x): verse superscript fused into καὶ
+jer	oldtestgreek00unknuoft	361	2	Ei	Ἐῤλ	Εἰ	Εἰ	image (3x): smooth breathing, no accent on the capital beyond as written
+jer	oldtestgreek00unknuoft	361	3	Ἀμμὼν	Ἀμμὼν	Ἀμμὼν	Ἀμμὼν	image (3x): smooth breathing, no accent on the capital beyond as written
+jer	oldtestgreek00unknuoft	361	3	Ἰσμαὴλ	Ἰσμαὴλ	Ἰσμαὴλ	Ἰσμαὴλ	image (3x): smooth breathing, no accent on the capital beyond as written
+jer	oldtestgreek00unknuoft	361	4	πατάξαι	σοῦ	πατάξαι	πατάξαι	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	361	4	σοῦ	∅	σου	σου	image (3x): σου unaccented (enclitic)
+jer	oldtestgreek00unknuoft	361	4	Tododias.	Τοδολίας. +"5	Γοδολίας.	Γοδολίας.	image (3x): Γ, not Τ
+jer	oldtestgreek00unknuoft	361	4	“Kai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	361	5	Ἰωανὰν	Ἰωανὰν	Ἰωανὰν	Ἰωανὰν	image (3x): smooth breathing, no accent on the capital beyond as written
+jer	oldtestgreek00unknuoft	361	5	Μασσηφά	Μασσηφά	Μασσηφά	Μασσηφά	image (3x): accent as printed before capitalized word
+jer	oldtestgreek00unknuoft	361	6	Ἰσμαήλ,	Ἰσμαήλ,	Ἰσμαήλ,	Ἰσμαήλ,	image (3x): smooth breathing, no accent on the capital beyond as written
+jer	oldtestgreek00unknuoft	361	7	Ἰουδὰ	Ἰουδὰ	Ἰουδὰ	Ἰουδὰ	image (3x): smooth breathing, no accent on the capital beyond as written
+jer	oldtestgreek00unknuoft	361	7	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	361	8	Ἰούδα. +"ὁ	Ἰούδα. +“ὅ	Ἰούδα.	Ἰούδα.	image (3x): smooth breathing, no accent on the capital beyond as written
+jer	oldtestgreek00unknuoft	361	8	Τοδολίας	Τοδολίας	Γοδολίας	Γοδολίας	image (3x): Γ, not Τ
+jer	oldtestgreek00unknuoft	361	8	Ἰωανάν	Ἰωανάν	Ἰωανάν	Ἰωανάν	image (3x): smooth breathing, no accent on the capital beyond as written
+jer	oldtestgreek00unknuoft	361	9	ὑπὲρ	ὑπὲρ᾽	ὑπὲρ	ὑπὲρ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	361	9	Ἰσμαήλ.	Ἰσμαήλ. +ο᾽	Ἰσμαήλ.	Ἰσμαήλ.	image (3x): smooth breathing, no accent on the capital beyond as written
+jer	oldtestgreek00unknuoft	361	10	Kai	Καὶ	Καὶ	Καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	361	10	ἐγένετο.	ἐγένετο:	ἐγένετο	ἐγένετο	image (3x): no point after ἐγένετο
+jer	oldtestgreek00unknuoft	361	10	Ἰσμαὴλ	Ἰσμαὴλ	Ἰσμαὴλ	Ἰσμαὴλ	image (3x): smooth breathing, no accent on the capital beyond as written
+jer	oldtestgreek00unknuoft	361	10	vids	υἱὸς	υἱὸς	υἱὸς	image (3x): accent as printed before capitalized word
+jer	oldtestgreek00unknuoft	361	11	Ἔλασὰ	Ἔλασὰ	Ἐλασὰ	Ἐλασὰ	image (3x): smooth breathing, no accent on the capital beyond as written
+jer	oldtestgreek00unknuoft	361	11	per	μετ᾽	μετ᾽	μετ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	361	12	Τοδολίαν	Τοδολίαν	πρὸς	πρὸς	image (3x): πρὸς, margin 2 beside it; OCR misaligned
+jer	oldtestgreek00unknuoft	361	12	eis	∅	Γοδολίαν	Γοδολίαν	class R5+R0: Latin-letter substitution in OCR; OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	361	12	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+jer	oldtestgreek00unknuoft	361	12	“καὶ	“καὶ	καὶ	καὶ	image (3x): verse superscript fused into καὶ
+jer	oldtestgreek00unknuoft	361	13	ἀνέστη	ἀνέστη +᾽	ἀνέστη	ἀνέστη	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	361	13	Ἰσμαὴλ	Ἰσμαὴλ	Ἰσμαὴλ	Ἰσμαὴλ	image (3x): smooth breathing, no accent on the capital beyond as written
+jer	oldtestgreek00unknuoft	361	13	of	οἱ	οἳ	οἳ	image (3x): closed rough+grave mark, οἳ
+jer	oldtestgreek00unknuoft	361	13	per᾽	μετ᾽	μετ᾽	μετ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	361	14	Γοδολίαν,	Τοδολίαν,	Γοδολίαν,	Γοδολίαν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	361	14	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): accent as printed before capitalized word
+jer	oldtestgreek00unknuoft	361	14	"καὶ	"καὶ	καὶ	καὶ	image (3x): verse superscript fused into καὶ
+jer	oldtestgreek00unknuoft	361	15	Ἰουδαίους	Ἰουδαίους	Ἰουδαίους	Ἰουδαίους	image (3x): smooth breathing, no accent on the capital beyond as written
+jer	oldtestgreek00unknuoft	361	15	per	μετ᾽	μετ᾽	μετ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	361	16	“καὶ	“καὶ	καὶ	καὶ	image (3x): verse superscript fused into καὶ
+jer	oldtestgreek00unknuoft	361	17	Γοδολίαν,	Τοδολίαν,	Γοδολίαν,	Γοδολίαν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	361	18	∅	∅	οὐκ	οὐκ	image (3x): οὐκ at line start, margin 5 beside it
+jer	oldtestgreek00unknuoft	361	18	"καὶ	"καὶ	καὶ	καὶ	image (3x): verse superscript fused into καὶ
+jer	oldtestgreek00unknuoft	361	21	“καὶ	“καὶ	καὶ	καὶ	image (3x): verse superscript fused into καὶ
+jer	oldtestgreek00unknuoft	361	9	-	-	ὑπὲρ	ὑπὲρ	ambiguous: grave on ε, plus a small acute-like tick after ρ (stray or broken type); read ὑπὲρ

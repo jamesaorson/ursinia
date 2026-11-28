@@ -1,0 +1,55 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan	oldtestgreek00unknuoft	546	1	*eddoyetre,	7ϑεὐλογεῖτε,	εὐλογεῖτε,	εὐλογεῖτε,	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	546	1	κύριον" +76	κύριον" +γ6	κύριον·	κύριον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	546	3	mnyai,	πηγάΐ,	πηγαί,	πηγαί,	image (3x): πηγαί, acute on ι, no diaeresis
+dan	oldtestgreek00unknuoft	546	3	κύριον, +77	κύριον, +77	κύριον,	κύριον,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	546	5	73εὐλογεῖτε,	7ϑεὐλογεῖτε,	εὐλογεῖτε,	εὐλογεῖτε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	546	5	κύριον" +78	κύριον" +78	κύριον·	κύριον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	546	7	79εὐλογεῖτε,	79εὐλογεῖτε,	εὐλογεῖτε,	εὐλογεῖτε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	546	7	Κύριον" +79	Κύριον" +70	κύριον·	κύριον·	image (3x): lowercase κύριον with ano teleia; 79 is the margin number
+dan	oldtestgreek00unknuoft	546	9	eddoyeire,	εὐλογεῖτε,	εὐλογεῖτε,	εὐλογεῖτε,	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	546	9	κύριον" +80	κύριον" +80	κύριον·	κύριον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	546	10	ὑπέρυψοῦτε	ὑπέρυψοῦτε	ὑπερυψοῦτε	ὑπερυψοῦτε	image (3x): ὑπερυψοῦτε, no accent on ε
+dan	oldtestgreek00unknuoft	546	11	διεὐλογεῖτε,	διεὐλογεῖτε,	εὐλογεῖτε,	εὐλογεῖτε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	546	11	κύριον" +8x	κύριον" +ΕΣ	κύριον·	κύριον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	546	13	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	546	13	viol	υἱοὶ	υἱοὶ	υἱοὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	546	13	κύριον" +82	κύριον" +85	κύριον·	κύριον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	546	15	ξϑεὐλογεῖτε,	ξϑεὐλογεῖτε,	εὐλογεῖτε,	εὐλογεῖτε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	546	15	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing (apostrophe) on the capital
+dan	oldtestgreek00unknuoft	546	15	κύριον"	κύριον" +83	κύριον·	κύριον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	546	16	83	ὑμνεῖτε	ὑμνεῖτε	ὑμνεῖτε	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	546	16	Ἡφθλογεῖτε,	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	546	16	ἱερεῖ,	ὑπέρυψοῦτε	ὑπερυψοῦτε	ὑπερυψοῦτε	image (3x): ὑπερυψοῦτε, no accent on ε
+dan	oldtestgreek00unknuoft	546	16	∅	αὐτὸν	αὐτὸν	αὐτὸν	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	546	16	∅	εἰς	εἰς	εἰς	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	546	16	∅	τοὺς	τοὺς	τοὺς	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	546	16	∅	αἰῶνας.	αἰῶνας.	αἰῶνας.	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	546	17	∅	ϑιεὐλογεῖτε,	εὐλογεῖτε,	εὐλογεῖτε,	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	546	17	∅	ἱερεῖς,	ἱερεῖς,	ἱερεῖς,	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	546	17	κύριον" +f 84	κύριον" +: : 84	κύριον·	κύριον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	546	18	ὑπέρυψόδτε	ὑπέρυψοῦτε	ὑπερυψοῦτε	ὑπερυψοῦτε	image (3x): ὑπερυψοῦτε, no accent on ε
+dan	oldtestgreek00unknuoft	546	19	∅	εὐλογεῖτε,	εὐλογεῖτε,	εὐλογεῖτε,	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	546	19	∅	δοῦλοι,	δοῦλοι,	δοῦλοι,	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	546	19	∅	τὸν	τὸν	τὸν	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	546	19	∅	κύριον" +85	κύριον·	κύριον·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	546	20	αἰῶνας. +δδ	αἰῶνας. +δδ	αἰῶνας.	αἰῶνας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	546	21	κύριον" +86	κύριον" +86	κύριον·	κύριον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	546	22	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	546	23	“εὐλογεῖτε,	“εὐλογεῖτε,	εὐλογεῖτε,	εὐλογεῖτε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	546	23	κύριον"	κύριον"	κύριον·	κύριον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	546	24	87 +ὑμνεῖτε:	87 +ὑμνεῖτε.	ὑμνεῖτε	ὑμνεῖτε	image (3x): ὑμνεῖτε; 87 is the superscript of the line above / margin
+dan	oldtestgreek00unknuoft	546	24	αἰῶνας. +ξ8	αἰῶνας. +ξϑ	αἰῶνας.	αἰῶνας.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	546	25	‘Avavia,	Ἀνανία,	Ἁνανία,	Ἁνανία,	image (3x): rough breathing (reversed comma, opening left) on Α
+dan	oldtestgreek00unknuoft	546	25	Ἀζαρία,	Ἀζαρία,	Ἀζαρία,	Ἀζαρία,	image (3x): smooth breathing (apostrophe) on the capital
+dan	oldtestgreek00unknuoft	546	25	κύριον" +88	κύριον" +88	κύριον·	κύριον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	546	26	αἰῶνας"	αἰῶνας"	αἰῶνας·	αἰῶνας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	546	27	Bory	ἅδου,	ᾅδου,	ᾅδου,	image (3x): rough + acute on α with iota subscript below: ᾅδου
+dan	oldtestgreek00unknuoft	546	28	ὑμῶε	ἡμᾶς	ἡμᾶς	ἡμᾶς	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	546	28	mania	καιομένης	καιομένης	καιομένης	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	546	30	ξοέξομολογεῖσθε	ἐξομολογεῖσθε	ἐξομολογεῖσθε	ἐξομολογεῖσθε	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	546	30	xpnoTds, +| 89	χρηστός,. +80	χρηστός,	χρηστός,	image (3x): χρηστός, comma only; 89 is the margin number
+dan	oldtestgreek00unknuoft	546	31	αὐτοῦ. +ϑο	αὐτοῦ. +ϑο	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	546	32	θεῶν" +90	θεῶν" +90	θεῶν·	θεῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	546	33	ἐξομολογεῖσθε:	ἐξομολογεῖσθε:	ἐξομολογεῖσθε·	ἐξομολογεῖσθε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	546	3	-	-	κύριον,	κύριον,	image (3x): comma after κύριον here where every other refrain line has ano teleia; kept as printed

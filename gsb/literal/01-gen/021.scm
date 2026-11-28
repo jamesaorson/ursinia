@@ -100,7 +100,7 @@
     ("for" 9)
     ("who" 8)
     ("ever" 10)
-    ("he/she/it hear" 11)
+    ("hear" 11)
     ("will rejoice" (12 rejoice-with "συγχαίρω"))
     ("with me." 13)))
 

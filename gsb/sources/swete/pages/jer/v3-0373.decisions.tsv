@@ -1,0 +1,34 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	373	1	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	373	1	Kal	“"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	373	1	ds	ὃς	ὃς	ὃς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	373	1	ἦν +B	ἦν +Β	ἦν	ἦν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	373	3	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	373	5	ἐκ	εκ	ἐκ	ἐκ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	373	5	τοῦ	του	τοῦ	τοῦ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	373	5	τῆς	ΤὴΞς	τῆς	τῆς	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	373	5	γῆς	γὴϑς	γῆς	γῆς	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	373	5	τοὺς	τους	τοὺς	τοὺς	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	373	5	ἐν	εν	ἐν	ἐν	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	373	5	μέσῳ	μεσῳ	μέσῳ	μέσῳ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	373	6	πόλεως. +*	πόλεως. +“ὅ	πόλεως.	πόλεως.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	373	6	αὐτοὺς	αὐτοὺς	αὐτοὺς	αὐτοὺς	image (3x): grave before a proper name (not a quotation)
+jer	oldtestgreek00unknuoft	373	7	Δεβλάθα" +“7	Δεβλάθα᾽	Δεβλάθα·	Δεβλάθα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	373	7	καὶ	“17καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	373	8	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave before a proper name (not a quotation)
+jer	oldtestgreek00unknuoft	373	8	Αἱμάθ.	Αἱμάθ. +3:	Αἱμάθ.	Αἱμάθ.	image (3x): rough breathing + acute on ι: Αἱμάθ
+jer	oldtestgreek00unknuoft	373	10	Ἰωακεὶμ +μ	Ἰωακεὶμ +μ	Ἰωακεὶμ	Ἰωακεὶμ	image (3x): smooth breathing on the capital; OCR extras are margin junk
+jer	oldtestgreek00unknuoft	373	10	Ἰούδα, +»	Ἰούδα, +:	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing on the capital; OCR extras are margin junk
+jer	oldtestgreek00unknuoft	373	10	δωδεκάτῳ +μη	δωδεκάτῳ +μη	δωδεκάτῳ	δωδεκάτῳ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	373	11	Οὐλαιμαδαχὰρ	Οὐλαιμαδαχὰρ	Οὐλαιμαδαχὰρ	Οὐλαιμαδαχὰρ	image (3x): smooth breathing on the capital; OCR extras are margin junk
+jer	oldtestgreek00unknuoft	373	11	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave before a proper name (not a quotation)
+jer	oldtestgreek00unknuoft	373	12	κεφαλὴν	κεφαλὴν	κεφαλὴν	κεφαλὴν	image (3x): grave before a proper name (not a quotation)
+jer	oldtestgreek00unknuoft	373	12	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	Ἰωακεὶμ	image (3x): smooth breathing on the capital; OCR extras are margin junk
+jer	oldtestgreek00unknuoft	373	12	Ἰούδα	Ἰούδα	Ἰούδα	Ἰούδα	image (3x): smooth breathing on the capital; OCR extras are margin junk
+jer	oldtestgreek00unknuoft	373	13	hs	ἧς	ἧς	ἧς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	373	13	ἐφυλάσσετο, +*	ἐφυλάσσετο, +3"	ἐφυλάσσετο,	ἐφυλάσσετο,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	373	15	33καὶ	33καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	373	16	dia	διὰ	διὰ	διὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	373	17	ἔζησεν.	ἔζησεν. +3:	ἔζησεν.	ἔζησεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	373	17	3:καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	373	18	τὸῦ	τὸῦ	τοῦ	τοῦ	image (3x): τοῦ circumflex only

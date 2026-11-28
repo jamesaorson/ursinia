@@ -1,0 +1,54 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan	oldtestgreek00unknuoft	536	1	ϑὅταν	ϑὅταν	ὅταν	ὅταν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	536	4	βασιλεύς:	βασιλεύς": +“	βασιλεύς·	βασιλεύς·	image (3x): ano teleia after βασιλεύς
+dan	oldtestgreek00unknuoft	536	4	“καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	536	6	Τκαὶ	Τκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	536	7	mavra	πάντα᾽	πάντα	πάντα	image (3x): πάντα, the mark after it is a speck, not an apostrophe
+dan	oldtestgreek00unknuoft	536	7	σύριγγός	σύριγγός	σύριγγός	σύριγγός	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	536	10	ὅἐν	ὅἐν	ἐν	ἐν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	536	11	Ἰουδαίους-	Ἰουδαίους-	Ἰουδαίους·	Ἰουδαίους·	image (3x): smooth breathing; ano teleia/comma as page
+dan	oldtestgreek00unknuoft	536	11	9xai	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	536	13	“ov,	"σύ,	σύ,	σύ,	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	536	14	bs	ὃς	ὃς	ὃς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	536	14	σύριγγός	σύριγγός	σύριγγός	σύριγγός	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	536	14	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	536	15	κιθάρας	κιθάρας.	κιθάρας	κιθάρας	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	536	15	ἤχου +"μι	ἤχου	ἤχου	ἤχου	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	536	15	μουσικῶν, +᾿	μουσικῶν,	μουσικῶν,	μουσικῶν,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	536	16	"καὶ	"᾿καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	536	16	ds	ὃς	ὃς	ὃς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	536	16	προσκυνήσῃ;	προσκυνήσῃ;	προσκυνήσῃ,	προσκυνήσῃ,	image (3x): comma, not question mark
+dan	oldtestgreek00unknuoft	536	17	"“Ζεἰσὶ	"“εἰσὶ	εἰσὶ	εἰσὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	536	17	δέ	δέ	δέ	δέ	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	536	18	Ἰουδαῖοι,	Ἰουδαῖοι,	Ἰουδαῖοι,	Ἰουδαῖοι,	image (3x): smooth breathing; ano teleia/comma as page
+dan	oldtestgreek00unknuoft	536	18	ods	οὺς	οὓς	οὓς	image (3x): rough + grave on υ: οὓς
+dan	oldtestgreek00unknuoft	536	19	Σεδράχ,	Σεδράχ,	Σεδράχ,	Σεδράχ,	image (3x): accent as printed; following capital is a name or quotation per print
+dan	oldtestgreek00unknuoft	536	19	Μισάχ,	Μισάχ,	Μισάχ,	Μισάχ,	image (3x): accent as printed; following capital is a name or quotation per print
+dan	oldtestgreek00unknuoft	536	19	Ἀβδεναγώ-	Ἀβδεναγώ:	Ἀβδεναγώ·	Ἀβδεναγώ·	image (3x): smooth breathing; ano teleia/comma as page
+dan	oldtestgreek00unknuoft	536	19	ἐφοβήθησάν	ἐφοβήθησάν	ἐφοβήθησάν	ἐφοβήθησάν	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	536	21	∅	χρυσῇ	χρυσῇ	χρυσῇ	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	536	21	∅	ἧ	ᾗ	ᾗ	image (3x): rough breathing + circumflex + iota subscript: ᾗ
+dan	oldtestgreek00unknuoft	536	21	∅	ἔστησας	ἔστησας	ἔστησας	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	536	21	∅	οὐ	οὐ	οὐ	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	536	21	∅	προσεκύνησαν.	προσεκύνησαν.	προσεκύνησαν.	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	536	21	∅	"Ξτότε	τότε	τότε	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	536	21	∅	Ναβουχοδονοσὸρ	Ναβουχοδονοσὸρ	Ναβουχοδονοσὸρ	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	536	21	∅	θυμω-	θυμω-	θυμω-	class R0: OCR lost the word in extraction; c read from the image strip
+dan	oldtestgreek00unknuoft	536	22	Σεδράχ,	Σεδράχ,	Σεδράχ,	Σεδράχ,	image (3x): accent as printed; following capital is a name or quotation per print
+dan	oldtestgreek00unknuoft	536	22	Μισάχ,	Μισάχ,	Μισάχ,	Μισάχ,	image (3x): accent as printed; following capital is a name or quotation per print
+dan	oldtestgreek00unknuoft	536	22	Ἀβδεναγώ-	Ἀβδεναγώ-	Ἀβδεναγώ·	Ἀβδεναγώ·	image (3x): smooth breathing; ano teleia/comma as page
+dan	oldtestgreek00unknuoft	536	23	“ods	"᾿οὗς	οὓς	οὓς	image (3x): rough + grave on υ: οὓς
+dan	oldtestgreek00unknuoft	536	23	συνιδὼν	συνιδὼν	συνιδὼν	συνιδὼν	image (3x): accent as printed; following capital is a name or quotation per print
+dan	oldtestgreek00unknuoft	536	23	NaBovxo-	Ναβουχο-	Ναβουχο-	Ναβουχο-	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	536	24	τί,	τί,	τί,	τί,	image (3x): accent as printed; following capital is a name or quotation per print
+dan	oldtestgreek00unknuoft	536	24	Σεδράχ,	Σεδράχ,	Σεδράχ,	Σεδράχ,	image (3x): accent as printed; following capital is a name or quotation per print
+dan	oldtestgreek00unknuoft	536	24	Μισάχ,	Μισάχ,	Μισάχ,	Μισάχ,	image (3x): accent as printed; following capital is a name or quotation per print
+dan	oldtestgreek00unknuoft	536	24	Ἀβδεναγώ,	Ἀβδεναγώ,	Ἀβδεναγώ,	Ἀβδεναγώ,	image (3x): smooth breathing; ano teleia/comma as page
+dan	oldtestgreek00unknuoft	536	26	kal	""καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	536	27	σύριγγός	σύριγγός	σύριγγός	σύριγγός	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	536	29	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	536	29	ἣἧ	ἡἣ	ᾗ	ᾗ	image (3x): rough breathing + circumflex + iota subscript: ᾗ
+dan	oldtestgreek00unknuoft	536	29	ἔστησα:	ἔστησα:	ἔστησα·	ἔστησα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	536	29	μή	μή	μή	μή	image (3x): accent before enclitic as printed
+dan	oldtestgreek00unknuoft	536	29	ye,	γε,	γε,	γε,	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	536	25	-	-	ἣν	ἣν	ambiguous: broken type, η prints as a thin stroke with the iota-like right leg only; rough + grave visible above; read ἣν

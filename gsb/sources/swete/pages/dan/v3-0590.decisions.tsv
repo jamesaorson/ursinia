@@ -1,0 +1,53 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan	oldtestgreek00unknuoft	590	1	ve	σει	σει	σει	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	590	1	“δυναστεία	᾿δυναστέία	δυναστεία	δυναστεία	image (3x): no mark before the word; stray OCR quote
+dan	oldtestgreek00unknuoft	590	1	αὐτοῦ.	αὐτοῦ. +ὃ	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	590	1	“καὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	590	1	συντέλειαν +6	συντέλειαν +6	συντέλειαν	συντέλειαν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	590	2	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave before capitalized name as printed
+dan	oldtestgreek00unknuoft	590	2	ir	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing on ι of Αι, as transcribed
+dan	oldtestgreek00unknuoft	590	2	seh +eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	590	3	συνθήκας"	συνθήκας"	συνθήκας·	συνθήκας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	590	4	ἰσχύν;	ἰσχύν;	ἰσχύν,	ἰσχύν,	image (3x): comma, not question mark
+dan	oldtestgreek00unknuoft	590	4	νὰρ-	νὰρ-	ναρ-	ναρ-	image (3x): letters and diacritics as transcribed
+dan	oldtestgreek00unknuoft	590	5	᾿αὐτοῦ,	᾿αὐτοῦ,	αὐτοῦ,	αὐτοῦ,	image (3x): no mark before the word; stray OCR quote
+dan	oldtestgreek00unknuoft	590	5	pevel	μενεῖ	μενεῖ	μενεῖ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	590	5	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	590	6	καὶ	Τκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	590	6	ἥξει	ἥξει +7	ἥξει	ἥξει	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	590	7	Καὶ	καὶ	καὶ	καὶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+dan	oldtestgreek00unknuoft	590	8	“kat	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	590	10	‘aiypa-	᾿αἰχμὰ-	αἰχμα-	αἰχμα-	image (3x): letters and diacritics as transcribed
+dan	oldtestgreek00unknuoft	590	11	Αἴγυπτον:	Αἴγυπτον:	Αἴγυπτον·	Αἴγυπτον·	image (3x): smooth breathing on ι of Αι, as transcribed
+dan	oldtestgreek00unknuoft	590	11	“βορρᾶ.	“βορρᾶ.	βορρᾶ.	βορρᾶ.	image (3x): no mark before the word; stray OCR quote
+dan	oldtestgreek00unknuoft	590	12	ϑκαὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	590	12	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave before capitalized name as printed
+dan	oldtestgreek00unknuoft	590	12	Αἰγύπτου +᾿	Αἰγύπτου +'	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing on ι of Αι, as transcribed
+dan	oldtestgreek00unknuoft	590	12	καὶ	καὶ +9	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	590	13	“kal	το, +"καὶ	καὶ	καὶ	image (3x): no mark before the word; stray OCR quote
+dan	oldtestgreek00unknuoft	590	13	vids	υἱὸς	υἱὸς	υἱὸς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	590	13	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	590	13	ἐρεθισθή- +το	ἐρεθισθή- +τὸ	ἐρεθισθή-	ἐρεθισθή-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	590	15	κατ᾽	κατ᾽ +᾽	κατ᾽	κατ᾽	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	590	15	ἐπιστρέψει:	ἐπιστρέψει:	ἐπιστρέψει·	ἐπιστρέψει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	590	16	Kai	"“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	590	16	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave before capitalized name as printed
+dan	oldtestgreek00unknuoft	590	16	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	image (3x): smooth breathing on ι of Αι, as transcribed
+dan	oldtestgreek00unknuoft	590	16	καὶ +τι	καὶ +τι	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	590	17	ὄχχὸν	ὄχχὸν	ὄχλον	ὄχλον	image (3x): ὄχλον
+dan	oldtestgreek00unknuoft	590	18	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	590	18	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan	oldtestgreek00unknuoft	590	18	∅	"“καὶ +τὸ	καὶ	καὶ	class R0+R1: OCR lost the word in extraction; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	590	19	ἣ	ἧἡ	ἡ	ἡ	image (3x): ἡ rough, no accent
+dan	oldtestgreek00unknuoft	590	20	“καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	590	20	βασιλεὺς +13	βασιλεὺς +13	βασιλεὺς	βασιλεὺς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	590	22	αὖ- +᾿	αὖ-	αὐ-	αὐ-	image (3x): letters and diacritics as transcribed
+dan	oldtestgreek00unknuoft	590	23	“Kal	χά +““καὶ	καὶ	καὶ	image (3x): no mark before the word; stray OCR quote
+dan	oldtestgreek00unknuoft	590	23	καιροῖς +14	καιροῖς +τὰ	καιροῖς	καιροῖς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan	oldtestgreek00unknuoft	590	24	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	Αἰγύπτου,	image (3x): smooth breathing on ι of Αι, as transcribed
+dan	oldtestgreek00unknuoft	590	24	ἀνδι-	ἄνοι-	ἀνοι-	ἀνοι-	image (3x): letters and diacritics as transcribed
+dan	oldtestgreek00unknuoft	590	25	ἀναστήσεταϊ	ἀναστήσεταϊ	ἀναστήσεται	ἀναστήσεται	image (3x): letters and diacritics as transcribed
+dan	oldtestgreek00unknuoft	590	26	Kal	""καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan	oldtestgreek00unknuoft	590	26	ἐπελεύσεταϊι +15	ἐπελεύσεταϊ +15	ἐπελεύσεται	ἐπελεύσεται	image (3x): letters and diacritics as transcribed
+dan	oldtestgreek00unknuoft	590	28	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan	oldtestgreek00unknuoft	590	28	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	Αἰγύπτου	image (3x): smooth breathing on ι of Αι, as transcribed

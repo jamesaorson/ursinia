@@ -1,0 +1,38 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+jer	oldtestgreek00unknuoft	372	2	“Kal	"Τκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	372	2	οἴκῳ	οἴκῳ +17	οἴκῳ	οἴκῳ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	372	3	17	Κυρίου	Κυρίου	Κυρίου	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	372	3	Κυρί +ὶ	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	372	3	βά	βάσεις	βάσεις	βάσεις	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	372	3	καὶ +αἱ	καὶ	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	372	5	“Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	372	5	φιάλας +18	φιάλας +τ8	φιάλας	φιάλας	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	372	7	"καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	372	7	ὑποχυτῆρας +19	ὑποχυτῆρας +τὸ	ὑποχυτῆρας	ὑποχυτῆρας	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	372	8	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	372	9	ἦν	ἣν	ἦν	ἦν	image (3x): smooth breathing + circumflex: ἦν
+jer	oldtestgreek00unknuoft	372	9	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	372	9	δύο, +20	δύο, +20	δύο,	δύο,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	372	10	pia,	μία;	μία,	μία,	image (3x): comma after μία
+jer	oldtestgreek00unknuoft	372	10	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	372	11	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave before proper name Σαλωμὼν (not a quotation)
+jer	oldtestgreek00unknuoft	372	11	Κυρίου"	Κυρίου"	Κυρίου·	Κυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	372	12	*kal	“"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	372	12	πηχῶν +2x	πηχῶν +9:1	πηχῶν	πηχῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	372	13	σπαρτίον	σπαρτίον +ὃ	σπαρτίον	σπαρτίον	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	372	14	“Kal	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	372	14	γεῖσος +22	γεῖσος +22	γεῖσος	γεῖσος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	372	16	pda	ῥόαι	ῥόαι	ῥόαι	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	372	16	γείσουςἿ	γείσους	γείσους	γείσους	class R6 (OCR letters differ): the other OCR reading agrees with c
+jer	oldtestgreek00unknuoft	372	17	χαλκᾶ"	χαλκᾶ"	χαλκᾶ·	χαλκᾶ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+jer	oldtestgreek00unknuoft	372	17	pda	ῥόαι	ῥόαι	ῥόαι	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	372	18	kal	"Ξκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+jer	oldtestgreek00unknuoft	372	18	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	372	18	pda	᾿ῥόαι	ῥόαι	ῥόαι	image (3x): rough breathing + acute: ῥόαι
+jer	oldtestgreek00unknuoft	372	18	ἐξ	ἐξ	ἓξ	ἓξ	image (6x): compact closed d-shaped mark = rough + grave (ἓξ, ἓν), as on ὃς
+jer	oldtestgreek00unknuoft	372	18	ἕν	ἕν	ἓν	ἓν	image (6x): compact closed d-shaped mark = rough + grave (ἓξ, ἓν), as on ὃς
+jer	oldtestgreek00unknuoft	372	18	μέρος, +23	μέρος, +3	μέρος,	μέρος,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	372	19	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	372	19	poa	ῥόαι	ῥόαι	ῥόαι	class R5: Latin-letter substitution in OCR; c read from the image strip
+jer	oldtestgreek00unknuoft	372	19	κύκλῳ.	κύκλῳ. +5	κύκλῳ.	κύκλῳ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+jer	oldtestgreek00unknuoft	372	19	ἔλαβεν +24	ἔλαβεν +24	ἔλαβεν	ἔλαβεν	class R3: OCR appended accent-row or margin junk; c read from the image strip

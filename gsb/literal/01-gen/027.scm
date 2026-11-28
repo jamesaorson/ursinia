@@ -591,8 +591,9 @@
   (status draft)
   (literal
     ("And" 1)
+    ("may" 2)
     ("God" (4 unrendered) 5)
-    ("may give" 2)
+    ("give" (cont 2))
     ("to you" 3)
     ("from" 6)
     ("the dew" 7 (8 dew "δρόσος"))
@@ -970,10 +971,10 @@
   (status draft)
   (literal
     ("But" 2)
-    ("he/she/it was reported" 1)
-    ("to Rebekah" 3)
     ("the utterances" 4 5)
     ("of Esau" 6)
+    ("were reported" 1)
+    ("to Rebekah" 3)
     ("her" 9)
     ("older" (7 absorbed) (10 attributive) 11)
     ("son;" 8)

@@ -413,7 +413,7 @@
     ("was divided up," 16)
     ("and" 19)
     ("name" 20)
-    ("to its" 23)
+    ("to his/its" 23)
     ("brother" (21 absorbed) 22)
     ("[is]")
     ("Joktan." (24 name "Ἰεκτάν"))))

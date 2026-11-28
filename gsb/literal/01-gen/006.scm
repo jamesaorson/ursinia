@@ -229,7 +229,7 @@
     ("saw" (2 see "ὁράω"))
     ("the earth," 6 7)
     ("and" 8)
-    ("was" 9)
+    ("he/she/it was" 9)
     ("ruined," (10 ruin "καταφθείρω"))
     ("because" (11 because))
     ("every" (13 every))

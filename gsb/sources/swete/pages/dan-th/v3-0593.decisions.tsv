@@ -1,0 +1,65 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan-th	oldtestgreek00unknuoft	593	1	τοῦ.	τοῦ.	τοῦ	τοῦ	image (3x): no point after the word; OCR speck/bleed-through
+dan-th	oldtestgreek00unknuoft	593	1	"“καὶ	τό +"““καὶ	καὶ	καὶ	image (3x): καὶ, superscript verse number or OCR junk before it is not text
+dan-th	oldtestgreek00unknuoft	593	1	6 +Β	ὃ +Β	ὁ	ὁ	image (3x): ὁ with rough breathing only, no accent
+dan-th	oldtestgreek00unknuoft	593	2	πρὸς.	πρὸς.	πρὸς	πρὸς	image (3x): no point after the word; OCR speck/bleed-through
+dan-th	oldtestgreek00unknuoft	593	2	ἀὐτὸν	ἀὐτὸν	αὐτὸν	αὐτὸν	image (3x): smooth breathing on υ, αὐτὸν
+dan-th	oldtestgreek00unknuoft	593	3	κατὰ.	κατὰ.	κατὰ	κατὰ	image (3x): no point after the word; OCR speck/bleed-through
+dan-th	oldtestgreek00unknuoft	593	3	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	3	σαβείρ;	σαβείρ;	σαβείρ,	σαβείρ,	image (3x): comma after σαβείρ
+dan-th	oldtestgreek00unknuoft	593	4	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	4	αὐτοῦ."	αὐτοῦ." +"7	αὐτοῦ.	αὐτοῦ.	image (3x): period after αὐτοῦ, then superscript 17
+dan-th	oldtestgreek00unknuoft	593	4	7kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	4	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	4	πρόσῳπον᾽	πρόσῳπον᾽	πρόσωπον	πρόσωπον	image (3x): πρόσωπον, plain ω, no mark after
+dan-th	oldtestgreek00unknuoft	593	5	Tov	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	6	ποιήσει:	ποιήσει:	ποιήσει·	ποιήσει·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	7	“καὶ	χϑι. +““καὶ	καὶ	καὶ	image (3x): καὶ, superscript verse number or OCR junk before it is not text
+dan-th	oldtestgreek00unknuoft	593	8	TO	τὸ	τὸ	τὸ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	8	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	8	συλλήμψεταὶι	συλλήμψεταὶι	συλλήμψεται	συλλήμψεται	image (3x): συλλήμψεται, no extra letter
+dan-th	oldtestgreek00unknuoft	593	9	καταπαύσει.	καταπαύσει.	καταπαύσει	καταπαύσει	image (3x): no point after the word; OCR speck/bleed-through
+dan-th	oldtestgreek00unknuoft	593	9	αὐτῶν:	αὐτῶν:	αὐτῶν·	αὐτῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	9	dvet-	ὀνει-	ὀνει-	ὀνει-	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	11	ἰσχὺν.	ἰσχὺν.	ἰσχὺν	ἰσχὺν	image (3x): no point after the word; OCR speck/bleed-through
+dan-th	oldtestgreek00unknuoft	593	11	πεσεῖται,	πεσεῖται, +.	πεσεῖται,	πεσεῖται,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	12	““καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	12	ἀναστήσεται	ἀναστήσεται.	ἀναστήσεται	ἀναστήσεται	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	593	13	αὐτοῦ.	αὐτοῦ.	αὐτοῦ	αὐτοῦ	image (3x): no point after the word; OCR speck/bleed-through
+dan-th	oldtestgreek00unknuoft	593	14	βασιλείας.	βασιλείας.	βασιλείας·	βασιλείας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	14	ἡμέραις.	ἡμέραις.	ἡμέραις	ἡμέραις	image (3x): no point after the word; OCR speck/bleed-through
+dan-th	oldtestgreek00unknuoft	593	15	“'στήσεται	“'στήσεται	στήσεται	στήσεται	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	15	ἑτοιμασίαν.	ἑτοιμασίαν.	ἑτοιμασίαν	ἑτοιμασίαν	image (3x): no point after the word; OCR speck/bleed-through
+dan-th	oldtestgreek00unknuoft	593	15	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	16	βασιλείας"	βασιλείας"	βασιλείας·	βασιλείας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	16	Kal.	καὶ.	καὶ	καὶ	image (3x): καὶ, superscript verse number or OCR junk before it is not text
+dan-th	oldtestgreek00unknuoft	593	17	Kai	““καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	18	κατακλυσθήσονταε	κατακλυσθήσονταε	κατακλυσθήσονται	κατακλυσθήσονται	image (3x): final αι, κατακλυσθήσονται
+dan-th	oldtestgreek00unknuoft	593	19	διαθήκης-	διαθήκης"	διαθήκης·	διαθήκης·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	19	“Ξκαὶ	“Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	19	συνανά-	συνανά-	συνανα-	συνανα-	image (3x): συνανα- unaccented before the hyphen
+dan-th	oldtestgreek00unknuoft	593	21	“'καὶ	““καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	23	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	23	ὕπαρξιν.	ὕπαρξιν	ὕπαρξιν	ὕπαρξιν	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	593	24	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	Αἴγυπτον	image (3x): smooth breathing + acute, Αἴγυπτον
+dan-th	oldtestgreek00unknuoft	593	24	λογισμοὺς.	λογισμοὺς.	λογισμοὺς	λογισμοὺς	image (3x): no point after the word; OCR speck/bleed-through
+dan-th	oldtestgreek00unknuoft	593	24	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	24	καιροῦ...	καιροῦ.	καιροῦ.	καιροῦ.	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	593	24	““καὶ	25 +““καὶ	καὶ	καὶ	image (3x): καὶ, superscript verse number or OCR junk before it is not text
+dan-th	oldtestgreek00unknuoft	593	25	νότοὺ	νότοὺ	νότου	νότου	image (3x): νότου, circumflex-less final ου, no grave
+dan-th	oldtestgreek00unknuoft	593	26	δυνάμει.	δυνάμει.	δυνάμει	δυνάμει	image (3x): no point after the word; OCR speck/bleed-through
+dan-th	oldtestgreek00unknuoft	593	26	Kat	«καὶ	καὶ	καὶ	image (3x): καὶ, superscript verse number or OCR junk before it is not text
+dan-th	oldtestgreek00unknuoft	593	26	6	ὃ	ὁ	ὁ	image (3x): ὁ with rough breathing only, no accent
+dan-th	oldtestgreek00unknuoft	593	26	τοῦ.	τοῦ.	τοῦ	τοῦ	image (3x): no point after the word; OCR speck/bleed-through
+dan-th	oldtestgreek00unknuoft	593	26	νότου	νότου.	νότου	νότου	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	593	26	συνάψει.	συνάψει.	συνάψει	συνάψει	image (3x): no point after the word; OCR speck/bleed-through
+dan-th	oldtestgreek00unknuoft	593	27	σφόδρα-	σφόδρα-.	σφόδρα·	σφόδρα·	image (3x): raised point, ano teleia after σφόδρα
+dan-th	oldtestgreek00unknuoft	593	27	ὅτι	ὅτε	ὅτι	ὅτι	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	593	27	Χογι-	λογι-	λογι-	λογι-	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	593	28	Kal	“ὁκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	28	φάγονται.	φάγονται	φάγονται	φάγονται	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	593	28	αὐτοῦ.	αὐτοῦ.	αὐτοῦ	αὐτοῦ	image (3x): no point after the word; OCR speck/bleed-through
+dan-th	oldtestgreek00unknuoft	593	29	Tpav-	τραυ-	τραυ-	τραυ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	30	“7καὶ	“7καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	30	ai	αἱ	αἱ	αἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	593	11	-	-	πεσεῖται,	πεσεῖται,	image (3x): faint acute-like stroke after the comma is show-through from the reverse, not text

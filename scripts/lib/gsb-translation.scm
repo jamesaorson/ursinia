@@ -249,10 +249,14 @@ PATHS, when given, is each form's file, for naming a duplicate's files."
 
 (define (words-of text)
   "Lowercased English words of TEXT, padded with spaces for whole-word search;
-a possessive \"'s\" is dropped (\"Lot's\" holds the gloss \"Lot\")."
+a possessive \"'s\" or plural \"'\" is dropped (\"Lot's\" holds the gloss
+\"Lot\", \"shepherds'\" the gloss \"shepherds\")."
   (string-append
    " "
-   (string-join (map (lambda (t) (if (string-suffix? "'s" t) (substring t 0 (- (string-length t) 2)) t))
+   ;; (and a plural's bare apostrophe: "shepherds'" holds "shepherds")
+   (string-join (map (lambda (t) (cond ((string-suffix? "'s" t) (substring t 0 (- (string-length t) 2)))
+                                       ((string-suffix? "'" t) (substring t 0 (- (string-length t) 1)))
+                                       (else t)))
                      (string-tokenize (string-downcase text)
                                       (char-set-union char-set:letter (char-set #\' #\-))))
                 " ")

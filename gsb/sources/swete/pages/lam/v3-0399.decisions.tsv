@@ -1,0 +1,36 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+lam	oldtestgreek00unknuoft	399	1	᾿“Χεῖρες	᾿“Χεῖρες	Ἰώδ.	Ἰώδ.	image (5x): heading Ἰώδ, smooth breathing
+lam	oldtestgreek00unknuoft	399	2	γυναικῶν.	γυναικῶν.	Χεῖρες	Χεῖρες	image (3x): reads as transcribed; OCR misread or lost the word
+lam	oldtestgreek00unknuoft	399	2	∅	∅	γυναικῶν	γυναικῶν	image (3x): reads as transcribed; OCR misread or lost the word
+lam	oldtestgreek00unknuoft	399	5	|	᾿	Χάφ.	Χάφ.	image (5x): centered letter heading as transcribed; OCR merged it
+lam	oldtestgreek00unknuoft	399	6	“ZuveréAecev	Χάφι +᾿Σ̓Συνετέλεσεν	Συνετέλεσεν	Συνετέλεσεν	image (3x): reads as transcribed; OCR misread or lost the word
+lam	oldtestgreek00unknuoft	399	6	ἐξέχεεν.	ἐξέχεεν	ἐξέχεεν	ἐξέχεεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	399	8	“Οὐκ	“Οὐκ	Λάβδ.	Λάβδ.	image (5x): centered letter heading as transcribed; OCR merged it
+lam	oldtestgreek00unknuoft	399	9	∅	∅	Οὐκ	Οὐκ	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	399	9	of	οἱ	οἱ	οἱ	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	399	9	οἱ-	οἱ-	οἰ-	οἰ-	image (3x): smooth breathing on ι of οἰ-
+lam	oldtestgreek00unknuoft	399	11	εἰσεχεύσεται	εἰσελεύσεται	εἰσελεύσεται	εἰσελεύσεται	class R6 (OCR letters differ): the other OCR reading agrees with c
+lam	oldtestgreek00unknuoft	399	11	ἐχϑρὸς	ἐχϑρὸς	ἐχθρὸς	ἐχθρὸς	image (3x): reads as transcribed; OCR misread or lost the word
+lam	oldtestgreek00unknuoft	399	11	‘le-	Ἰε-	Ἰε-	Ἰε-	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	399	12	ῥουσαλήμ.	ῥουσαλήμ.	ρουσαλήμ.	ρουσαλήμ.	image (3x): no breathing on ρ in the continued word
+lam	oldtestgreek00unknuoft	399	13	73	3Ἐς	Μήμ.	Μήμ.	image (5x): centered letter heading as transcribed; OCR merged it
+lam	oldtestgreek00unknuoft	399	14	E€	∅	Ἐξ	Ἐξ	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	399	16	∅	᾿	Νούν.	Νούν.	image (5x): centered letter heading as transcribed; OCR merged it
+lam	oldtestgreek00unknuoft	399	17	∅	Ἐσαλεύθησαν	Ἐσαλεύθησαν	Ἐσαλεύθησαν	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	399	17	∅	ἐγρήγοροι	ἐγρήγοροι	ἐγρήγοροι	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	399	17	∅	αὐτῆς	αὐτῆς	αὐτῆς	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	399	17	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	399	17	∅	ταῖς	ταῖς	ταῖς	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	399	17	∅	ἐξόδοις,	ἐξόδοις,	ἐξόδοις,	class R0: OCR lost the word in extraction; c read from the image strip
+lam	oldtestgreek00unknuoft	399	21	᾿5᾽Ἀπόστητε	᾿Ἀπόστητε	Ἀπόστητε	Ἀπόστητε	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	399	21	αὐτούς	αὐτούς	αὐτούς	αὐτούς	image (3x): acute before capitalized quotation Ἀπόστητε
+lam	oldtestgreek00unknuoft	399	21	Ἀπόστητε	Ἀπόστητε	Ἀπόστητε	Ἀπόστητε	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	399	22	ἅπτεσθε, +᾿	ἅπτεσθε, +ΡῈ	ἅπτεσθε,	ἅπτεσθε,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+lam	oldtestgreek00unknuoft	399	23	καί	καί	καί	καί	image (3x): acute on καί before enclitic γε
+lam	oldtestgreek00unknuoft	399	23	ἐσαλεύθησαν"	ἐσαλεύθησαν"	ἐσαλεύθησαν·	ἐσαλεύθησαν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+lam	oldtestgreek00unknuoft	399	24	Οὐ	Οὐ	Οὐ	Οὐ	image (3x): smooth breathing (apostrophe shape)
+lam	oldtestgreek00unknuoft	399	24	παροικεῖν.	πάροικεῖν.	παροικεῖν.	παροικεῖν.	image (3x): reads as transcribed; OCR misread or lost the word
+lam	oldtestgreek00unknuoft	399	25	"Πρόσωπον	"Πρόσωπον	Ἄιν.	Ἄιν.	image (5x): heading Ἄιν, smooth breathing + acute (apostrophe then rising stroke)
+lam	oldtestgreek00unknuoft	399	26	∅	∅	Πρόσωπον	Πρόσωπον	image (3x): reads as transcribed; OCR misread or lost the word
+lam	oldtestgreek00unknuoft	399	26	av-	αὐ-	αὐ-	αὐ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+lam	oldtestgreek00unknuoft	399	27	∅	∅	τοῖς·	τοῖς·	image (3x): reads as transcribed; OCR misread or lost the word

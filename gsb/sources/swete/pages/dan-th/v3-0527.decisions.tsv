@@ -1,4 +1,85 @@
 book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
-dan-th	oldtestgreek00unknuoft	527	1	βασιλείᾳ.	βασιλείᾳ.	βασιλείᾳ	βασιλείᾳ	image: no period
-dan-th	oldtestgreek00unknuoft	527	1	Kal	“᾿καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from image
-dan-th	oldtestgreek00unknuoft	527	2	βασιλέως.	βασιλέως. +;	βασιλέως.	βασιλέως.	class R3: OCR appended accent-row or margin junk
+dan-th	oldtestgreek00unknuoft	527	1	βασιλείᾳ.	βασιλείᾳ.	βασιλείᾳ	βασιλείᾳ	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	1	Kal	“᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	1	ἑνὸς	ἑνὸς	ἑνὸς	ἑνὸς	image (3x): grave on ἑνὸς before proper name Κύρου, rough breathing
+dan-th	oldtestgreek00unknuoft	527	1	τοῦ +Β	τοῦ +Β	τοῦ	τοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	2	βασιλέως.	βασιλέως. +;	βασιλέως.	βασιλέως.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	3	"Ἐν.	Ἐν	Ἐν	Ἐν	image (3x): smooth breathing (apostrophe shape) on Ε
+dan-th	oldtestgreek00unknuoft	527	3	τῷ,	τῷ,	τῷ	τῷ	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	3	NaBovxodo-	Ναβουχοδο-	Ναβουχοδο-	Ναβουχοδο-	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	4	νοσὸρ.	νοσὸρ.	νοσὸρ	νοσὸρ	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	4	ἐνύπνιον,	ἐνύπψιον,	ἐνύπνιον,	ἐνύπνιον,	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	527	5	“καὶ	"καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	5	ὁ.	ὁ.	ὁ	ὁ	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	6	φαρμακοὺς.	φαρμακοὺς.	φαρμακοὺς	φαρμακοὺς	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	6	Χαλδαίους.	Χαλδαίους.	Χαλδαίους	Χαλδαίους	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	6	rod.	τοῦ.	τοῦ	τοῦ	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	6	dvay-	ἀναγ-	ἀναγ-	ἀναγ-	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	7	αὐτοῦ:	αὐτοῦ:	αὐτοῦ·	αὐτοῦ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	7	ἔστησαν.	ἔστησαν.	ἔστησαν	ἔστησαν	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	8	πίον	πίον	πιον	πιον	image (3x): πιον unaccented (accent is on ώ of ἐνώ- on line above)
+dan-th	oldtestgreek00unknuoft	527	8	3ϑκαὶ	ϑκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	8	βασιλεύς	βασιλεύς	βασιλεύς	βασιλεύς	image (3x): acute before capitalized quotation
+dan-th	oldtestgreek00unknuoft	527	8	Ἠνυπνιάσθὴν,	νυπνιάσθὴν,	Ἠνυπνιάσθην,	Ἠνυπνιάσθην,	image (3x): smooth breathing on Η, η unaccented at end
+dan-th	oldtestgreek00unknuoft	527	9	πνεῦμά	πνεῦμά	πνεῦμά	πνεῦμά	image (3x): second acute before enclitic as printed
+dan-th	oldtestgreek00unknuoft	527	9	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	9	ἔλάλησαν	ἔλάλησαν	ἐλάλησαν	ἐλάλησαν	image (3x): smooth breathing only on ε, accent on ά
+dan-th	oldtestgreek00unknuoft	527	10	Χαλδαῖοι.	Χαλδαῖοι	Χαλδαῖοι	Χαλδαῖοι	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	527	10	τῷ.	τῷ.	τῷ	τῷ	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	10	βασιλεῖ.	βασιλεῖ.	βασιλεῖ	βασιλεῖ	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	10	Συριστί	Συριστί	Συριστί	Συριστί	image (3x): acute before capitalized quotation
+dan-th	oldtestgreek00unknuoft	527	10	αἰῶνας"	αἰῶνας"	αἰῶνας	αἰῶνας	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	10	ζῆθι:	ζῆθι:	ζῆθι·	ζῆθι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	11	παισίν	παισίν	παισίν	παισίν	image (3x): second acute before enclitic as printed
+dan-th	oldtestgreek00unknuoft	527	12	pev.	∅	μεν.	μεν.	class R5+R0: Latin-letter substitution in OCR; OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	12	Ὃ	Ὃ	Ὁ	Ὁ	image (3x): rough breathing alone on Ο, no accent (article)
+dan-th	oldtestgreek00unknuoft	527	13	-	-	ἀπέστη·	ἀπέστη·	image (3x): ἀπέστη· then ἐὰν; raised point is an ano teleia, OCR split the line
+dan-th	oldtestgreek00unknuoft	527	13	ἀπέστη; +ἐὰν.	ἀπέστη; +ἐὰν.	ἐὰν	ἐὰν	image (3x): ἀπέστη· then ἐὰν; raised point is an ano teleia, OCR split the line
+dan-th	oldtestgreek00unknuoft	527	13	γνωρίσητέ	γνωρίσητέ	γνωρίσητέ	γνωρίσητέ	image (3x): second acute before enclitic as printed
+dan-th	oldtestgreek00unknuoft	527	13	μοι.	μοι.	μοι	μοι	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	14	∅	ἀπωλίαν..	ἀπωλίαν	ἀπωλίαν	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	14	∅	ἔσεσθε,	ἔσεσθε,	ἔσεσθε,	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	14	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	14	∅	οἱ	οἱ	οἱ	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	14	∅	οἶκοι	οἶκοι	οἶκοι	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	14	∅	ὑμῶν.	ὑμῶν	ὑμῶν	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	14	∅	διαρπαγήσονται.	διαρπαγήσονται.	διαρπαγήσονται.	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	14	∅	“ἐὰν.	ἐὰν	ἐὰν	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	14	∅	δὲ:	δὲ	δὲ	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	14	∅	τὸ	τὸ	τὸ	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	15	αὐτοῦ.	αὐτοῦ.	αὐτοῦ	αὐτοῦ	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	15	γνωρίσητέ.	γνωρίσητέ.	γνωρίσητέ	γνωρίσητέ	image (3x): second acute before enclitic as printed
+dan-th	oldtestgreek00unknuoft	527	16	peas	ρεὰς	ρεὰς	ρεὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	16	λήμψεσθε.	λήμψεσθε.	λήμψεσθε	λήμψεσθε	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	16	map᾽	παρ᾽	παρ᾽	παρ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	16	ἐμοῦ:	ΕἸ +ἐμοῦ:	ἐμοῦ·	ἐμοῦ·	image (3x): raised point after ἐμοῦ, ano teleia
+dan-th	oldtestgreek00unknuoft	527	16	ἐνύπνιον.	ἐνύπνιον.	ἐνύπνιον	ἐνύπνιον	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	17	σύγκρισιν.	σύγκρισιν.	σύγκρισιν	σύγκρισιν	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	17	ἀπαγγείλατέ.	ἀπαγγείλατέ.	ἀπαγγείλατέ	ἀπαγγείλατέ	image (3x): second acute before enclitic as printed
+dan-th	oldtestgreek00unknuoft	527	17	ἀπεκρίθησαν.	ἀπεκρίθησαν.	ἀπεκρίθησαν	ἀπεκρίθησαν	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	17	δεύτερον.	δεύτερον.	δεύτερον	δεύτερον	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	18	Ὃ	Ὃ	Ὁ	Ὁ	image (3x): rough breathing alone on Ο, no accent (article)
+dan-th	oldtestgreek00unknuoft	527	19	ἀναγγελοῦμεν. +8	ἀναγγελοῦμεν. +ὅ“	ἀναγγελοῦμεν.	ἀναγγελοῦμεν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	19	ἀπεκρίθη.	ἀπεκρίθη.	ἀπεκρίθη	ἀπεκρίθη	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	20	Ἐπ᾽	Ἐπ᾽	Ἐπ᾽	Ἐπ᾽	image (3x): smooth breathing (apostrophe shape) on Ε
+dan-th	oldtestgreek00unknuoft	527	20	ὅτι.	ὅτι.	ὅτι	ὅτι	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	21	ὅτε	ὅτι	ὅτι	ὅτι	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	527	21	ἐμοῦ.	ἐμοῦ.	ἐμοῦ	ἐμοῦ	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	21	9ἐὰν	9ἐὰν	ἐὰν	ἐὰν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	21	τὸ:	τὸ	τὸ	τὸ	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	527	21	ἐνύπνιον,	ἐνύπνιον.	ἐνύπνιον	ἐνύπνιον	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	22	λητέ	λητέ	λητέ	λητέ	image (3x): second acute before enclitic as printed
+dan-th	oldtestgreek00unknuoft	527	22	ὅτι.	ὅτι.	ὅτι	ὅτι	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	22	διεφθαρμένον.	διεφθαρμένον.	διεφθαρμένον	διεφθαρμένον	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	23	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	ἐνώπιόν	image (3x): second acute before enclitic as printed
+dan-th	oldtestgreek00unknuoft	527	23	παρέλθῃ:	παρέλθῃ:	παρέλθῃ·	παρέλθῃ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	23	ἐνύπνιόν.	ἐνύπνιόν.	ἐνύπνιόν	ἐνύπνιόν	image (3x): second acute before enclitic as printed
+dan-th	oldtestgreek00unknuoft	527	23	εἴπατέ	εἴπατέ	εἴπατέ	εἴπατέ	image (3x): second acute before enclitic as printed
+dan-th	oldtestgreek00unknuoft	527	24	ἀναγγελεῖτέ	ἀναγγελεῖτέ	ἀναγγελεῖτέ	ἀναγγελεῖτέ	image (3x): second acute before enclitic as printed
+dan-th	oldtestgreek00unknuoft	527	24	"“ἀπε-	"“ἀπε-	ἀπε-	ἀπε-	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	527	25	κρίθησαν.	κρίθησαν.	κρίθησαν	κρίθησαν	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	25	λέγουσιν.	λέγουσιν.	λέγουσιν	λέγουσιν	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	25	Οὐκ	Οὐκ	Οὐκ	Οὐκ	image (3x): smooth breathing on υ of Οὐκ
+dan-th	oldtestgreek00unknuoft	527	26	τοῦ.	τοῦ.	τοῦ	τοῦ	image (3x): no point after the word; OCR read a speck or show-through as punctuation
+dan-th	oldtestgreek00unknuoft	527	26	-	-	βασιλέως	βασιλέως	ambiguous: small light dot over ω, lighter than an accent and dot-shaped; read as speck, βασιλέως with one acute
+dan-th	oldtestgreek00unknuoft	527	14	-	-	ἀπωλίαν	ἀπωλίαν	image (3x): ἀπωλίαν with ι as printed (not -ειαν), kept as printed

@@ -1,0 +1,57 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+ezek	oldtestgreek00unknuoft	459	1	∅	ναῖκες	ναῖκες	ναῖκες	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	1	∅	καὶ.	καὶ	καὶ	image (3x): letters, accents and punctuation as in the page file; OCR marks are specks, margin numbers or garbles
+ezek	oldtestgreek00unknuoft	459	1	∅	οὐ	οὐ	οὐ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	1	∅	μὴ.	μὴ	μὴ	image (3x): letters, accents and punctuation as in the page file; OCR marks are specks, margin numbers or garbles
+ezek	oldtestgreek00unknuoft	459	1	∅	ποιήσουσιν	ποιήσουσιν	ποιήσουσιν	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	1	∅	κατὰ	κατὰ	κατὰ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	1	∅	τὰς	τὰς	τὰς	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	1	∅	ἀσεβείας	ἀσεβείας	ἀσεβείας	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	1	∅	αὐτῶν.	αὐτῶν.	αὐτῶν.	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	1	∅	49 +49καὶ ὃ	καὶ	καὶ	image (3x): letters, accents and punctuation as in the page file; OCR marks are specks, margin numbers or garbles
+ezek	oldtestgreek00unknuoft	459	1	∅	δο-	δο-	δο-	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	2	ras	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	3	λήμψεσθε:	λήμψεσθε:	λήμψεσθε·	λήμψεσθε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	3	ἐγὼ	ἐγὼ	ἐγὼ	ἐγὼ	image (3x): grave on ἐγὼ/λεὺς before a name, acute on αὐτούς before capitalized quotation, as printed
+ezek	oldtestgreek00unknuoft	459	4	Κ̓αὶ	Καὶ	Καὶ	Καὶ	image (3x): letters, accents and punctuation as in the page file; OCR marks are specks, margin numbers or garbles
+ezek	oldtestgreek00unknuoft	459	4	ἐγένετο	γένετο	ἐγένετο	ἐγένετο	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	459	4	Κυρίο	Κυρίου	Κυρίου	Κυρίου	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	459	4	ὃς	πρὸς	πρὸς	πρὸς	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	459	5	“Υἱὲ	“Υἱὲ	Υἱὲ	Υἱὲ	image (3x): smooth breathing (apostrophe shape) on the capital; Υἱὲ breathing on ι
+ezek	oldtestgreek00unknuoft	459	6	εἰς.	εἰς.	εἰς	εἰς	image (3x): letters, accents and punctuation as in the page file; OCR marks are specks, margin numbers or garbles
+ezek	oldtestgreek00unknuoft	459	7	λεὺς	λεὺς	λεὺς	λεὺς	image (3x): grave on ἐγὼ/λεὺς before a name, acute on αὐτούς before capitalized quotation, as printed
+ezek	oldtestgreek00unknuoft	459	7	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	Ἰερουσαλήμ,	image (3x): smooth breathing (apostrophe shape) on the capital; Υἱὲ breathing on ι
+ezek	oldtestgreek00unknuoft	459	7	σήμερον:	σήμερον"	σήμερον·	σήμερον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	7	3καὶ	53καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	8	οἶκόν	οἶκον	οἶκον	οἶκον	image (3x): letters, accents and punctuation as in the page file; OCR marks are specks, margin numbers or garbles
+ezek	oldtestgreek00unknuoft	459	8	τὸν.	τὸν.	τὸν	τὸν	image (3x): letters, accents and punctuation as in the page file; OCR marks are specks, margin numbers or garbles
+ezek	oldtestgreek00unknuoft	459	8	παραπικραίνοντα.	παραπικραίνοντα	παραπικραίνοντα	παραπικραίνοντα	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	459	8	ἐρέϊς	ἐρέϊς	ἐρεῖς	ἐρεῖς	image (3x): letters, accents and punctuation as in the page file; OCR marks are specks, margin numbers or garbles
+ezek	oldtestgreek00unknuoft	459	9	αὐτούς	αὐτούς	αὐτούς	αὐτούς	image (3x): grave on ἐγὼ/λεὺς before a name, acute on αὐτούς before capitalized quotation, as printed
+ezek	oldtestgreek00unknuoft	459	9	Ἐπίστησον	Ἐπίστησον	Ἐπίστησον	Ἐπίστησον	image (3x): smooth breathing (apostrophe shape) on the capital; Υἱὲ breathing on ι
+ezek	oldtestgreek00unknuoft	459	10	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	10	ἔμβαλε.	ἔμβαλε.	ἔμβαλε	ἔμβαλε	image (3x): letters, accents and punctuation as in the page file; OCR marks are specks, margin numbers or garbles
+ezek	oldtestgreek00unknuoft	459	11	5ἐξ	5ἐξ	ἐξ	ἐξ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	13	»	ἔζεσεν,	ἔζεσεν,	ἔζεσεν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+ezek	oldtestgreek00unknuoft	459	13	∅	Διὰ	Διὰ	Διὰ	class R0: OCR lost the word in extraction; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	14	Κύριος	Κύριος +ΕῚ	Κύριος	Κύριος	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	14	Ὦ	Ὦ	Ὦ	Ὦ	image (3x): smooth breathing + circumflex on Ὦ
+ezek	oldtestgreek00unknuoft	459	15	αὐτῷ +κ	αὐτῷ	αὐτῷ	αὐτῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	15	ἰὸς +ς	ἰὸς	ἰὸς	ἰὸς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	15	οὐκ +οὐκ	οὐκ	οὐκ	οὐκ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	15	αὐτῆς,	αὐτῆς, +9)	αὐτῆς,	αὐτῆς,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	15	κατὰ +μ	κατὰ +μ	κατὰ	κατὰ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	15	ἐξήνεγκεν	ἐξήνεγκεν	ἐξήνεγκεν,	ἐξήνεγκεν,	image (3x): letters, accents and punctuation as in the page file; OCR marks are specks, margin numbers or garbles
+ezek	oldtestgreek00unknuoft	459	16	76rt	Τ7ὅτι	ὅτι	ὅτι	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	17	αὐτό:	αὐτό"	αὐτό·	αὐτό·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	18	ὅτοῦ	τοῦ	τοῦ	τοῦ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	19	θῆναι:	θῆναι:	θῆναι·	θῆναι·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	20	Kab	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	21	ἔλατ-	ἔλατ-	ἐλατ-	ἐλατ-	image (3x): letters, accents and punctuation as in the page file; OCR marks are specks, margin numbers or garbles
+ezek	oldtestgreek00unknuoft	459	22	Cwpos	ζωμὸς	ζωμὸς	ζωμὸς	class R5: Latin-letter substitution in OCR; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	22	“kal	ΟῚ +""καὶ	καὶ	καὶ	image (3x): letters, accents and punctuation as in the page file; OCR marks are specks, margin numbers or garbles
+ezek	oldtestgreek00unknuoft	459	23	'χαλκὸς	'χαλκὸς	χαλκὸς	χαλκὸς	image (3x): letters, accents and punctuation as in the page file; OCR marks are specks, margin numbers or garbles
+ezek	oldtestgreek00unknuoft	459	24	ὃ	ὁ	ὁ	ὁ	image (3x): letters, accents and punctuation as in the page file; OCR marks are specks, margin numbers or garbles
+ezek	oldtestgreek00unknuoft	459	24	αὕτης,	αὐτῆς,	αὐτῆς,	αὐτῆς,	image (3x): letters, accents and punctuation as in the page file; OCR marks are specks, margin numbers or garbles
+ezek	oldtestgreek00unknuoft	459	24	καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+ezek	oldtestgreek00unknuoft	459	24	ἐξέλθῃ	ἐξέλθη	ἐξέλθῃ	ἐξέλθῃ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c

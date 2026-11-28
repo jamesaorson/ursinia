@@ -834,7 +834,8 @@ Clauses):
           (vector-set! v i (u+ x 'speech #f 'keep-cap #t)))
          ;; (a preposition's or article's name is no speech: πρὸς Κάιν, τῷ Ἀβραάμ)
          ((or (u x 'speech) (not (u x 'cap)) (not (is? x "N")) (memv (case-of x) '(#\G #\D #\A #\V))
-              (and p (is? p "PREP" "T")))
+              ;; (nor one joined by καί: ταῖς γυναιξίν Ἀδὰ καὶ Σελλά)
+              (and p (is? p "PREP" "T")) (and p (lemma-in? p "καί")))
           #f)
          ((and p (participle? p) (lemma-in? p "λέγω") (string-null? (u p 'post)))
           (speech! i))
@@ -862,7 +863,8 @@ Clauses):
                     (speech! i)))))
                ((finite? y) #f)
                (else (back (- k 1)
-                           (or nom? (and (eqv? (case-of y) #\N) (or (nominal? y) (u y 'phrase))))
+                           ;; (a caseless name counts: εἶπεν δὲ Ἀβραὰμ πρὸς τὸν θεόν Ἰσμαήλ)
+                           (or nom? (and (eqv? (case-of y) #\N) (or (nominal? y) (u y 'phrase))) (caseless-name? y))
                            (or dat? (eqv? (case-of y) #\D) (lemma-in? y "πρός"))
                            (and only-objects? (is? y "P") (not (eqv? (case-of y) #\N))))))))))))))
 
@@ -1036,7 +1038,9 @@ Clauses):
          ((and (lemma-in? x "τέ") (not (u x 'sense)))
           (vector-set! v i (set-sense x (if (any (lambda (k) (lemma-in? (at k) "καί")) (iota (max 0 (- n i 1)) (+ i 1))) 'both 'and))))
          ((and (is? x "D") p (is? p "N") (agree? p x)
-               (let ((a (if (numeral? (at (- i 2))) (at (- i 3)) (at (- i 2)))))
+               ;; (past δέ: ὁ δὲ λάκκος ἐκεῖνος "but that pit")
+               (let* ((k (skip-post (- i 2) -1))
+                      (a (if (numeral? (at k)) (at (skip-post (- k 1) -1)) (at k))))
                  (and a (is? a "T") (agree? a p)))
                ;; εἶπεν δὲ ὁ παῖς Οὗτός ἐστιν: a demonstrative opening speech is not the noun's
                (not (u x 'speech)) (string-null? (u p 'post)))
@@ -1177,6 +1181,17 @@ Clauses):
                               (cond
                                ;; after a preposition, or an adverb used as one (ἐπάνω τῆς ἀβύσσου)
                                ((and p (or (is? p "PREP") (and (is? p "ADV") (assoc (lemma p) %prep-case)))) (values "" #t))
+                               ;; ἐν γῇ Αἰγύπτῳ "in earth Egypt": a declined name in
+                               ;; the dative right after a dative noun is its apposition
+                               ((and p (name-like? env x) (eqv? c #\D) (is? p "N") (eqv? (case-of p) #\D)
+                                     (not (name-like? env p)) (string-null? (u p 'post)))
+                                (values "" #f))
+                               ;; ἤκουσα αὐτῶν λεγόντων "I heard them saying": a
+                               ;; genitive participle agreeing with the word before
+                               ;; shares its case, no second "of"
+                               ((and p (participle? x) (not (is? p "T")) (or (nominal? p) (u p 'phrase)) (agree? p x)
+                                     (string-null? (u p 'post)))
+                                (values "" #f))
                                ;; an apposition shares its name's helper: ἀπὸ Ἀβραὰμ
                                ;; τοῦ παιδός μου "from Abraham my servant", Σάρᾳ τῇ
                                ;; γυναικὶ αὐτοῦ "to Sarai his woman"
@@ -1701,6 +1716,12 @@ article), attributive adjectives before their noun."
            ((and (is? x "T") (is? nx "F") (eqv? (case-of nx) #\G) (not (u nx 'moved))
                  (at (+ i 2)) (is? (at (+ i 2)) "N") (agree? x (at (+ i 2))))
             (loop (move (list-set-copy span (+ i 1) (u+ nx 'moved #t)) (+ i 2) (+ i 1)) (+ i 1)))
+           ;; ἅπας ὁ λαός: "the entire people" (English puts "entire" after
+           ;; the article, where πᾶς ὁ is "all the")
+           ((and (lemma-in? x "ἅπας") (is? nx "T") (agree? x nx) (not (u x 'moved)) (at (+ i 2)) (is? (at (+ i 2)) "N"))
+            (loop (move (list-set-copy span i (u+ x 'moved #t 'cap #f 'speech #f))
+                        (+ i 1) i)
+                  (+ i 2)))
            ;; article + πᾶς: "all the" (τὰ πάντα).
            ((and (is? x "T") (lemma-in? nx "πᾶς") (agree? x nx) (not (u nx 'moved)))
             (let ((span (move (list-set-copy span (+ i 1) (u+ nx 'moved #t)) (+ i 1) i)))
@@ -2016,10 +2037,15 @@ indeclinable name followed by a person noun in another case (ἐκάλεσεν �
     ((#\2) "you")
     (else (if (eqv? number #\P) "they" #f))))
 
+(define (neg-ref? r) (and (pair? r) (member (third r) '("οὐ" "μή")) #t))
+
 (define (insert-let span vi at x)
   "A third person imperative at VI with its subject before it: \"let\" (owning
 the verb's Greek) goes in at AT, the verb itself becomes its (cont) rest."
-  (let ((marker `((let-marker . #t) (refs . ,(u x 'refs)) (idx . ,(u x 'idx)) (helper . "") (post . "")
+  ;; (a wish's negation stays with the rest: "may" | "my soul" | "not come")
+  (let ((marker `((let-marker . #t) (wish . ,(u x 'wish))
+                  (refs . ,(if (u x 'wish) (remove neg-ref? (u x 'refs)) (u x 'refs)))
+                  (idx . ,(u x 'idx)) (helper . "") (post . "")
                   (cap . ,(u x 'cap)) (speech . ,(u x 'speech)) (greek . ,(u x 'greek)) (neg . ,(u x 'neg))))
         (span (list-set-copy span vi (u+ x 'let-rest #t 'cap #f 'speech #f))))
     (append (take span at) (list marker) (drop span at))))
@@ -2118,7 +2144,9 @@ English-style: ποῦ εἶ \"where are you\", ἵνα τί συνέπεσεν 
                              between)
                       ;; the whole subject phrase find-subjects moved there (ποῦ
                       ;; εἰσιν οἱ ἄνδρες οἱ εἰσελθόντες πρὸς σέ)
-                      (and (u x 'subj-moved) (every (lambda (y) (eqv? (u y 'cl) (u x 'cl))) between)
+                      ;; (not past a subordinator: Τί ὅτι εἶπεν ὁ θεός "Why [is it]
+                      ;; that God said")
+                      (and (u x 'subj-moved) (every (lambda (y) (and (eqv? (u y 'cl) (u x 'cl)) (not (apply lemma-in? y %clause-openers)))) between)
                            (not (any finite? between))))
                   ;; The auxiliary goes before the subject, the rest after it.
                   (let ((marker `((let-marker . #t) (question-aux . #t) (refs . ,(u x 'refs)) (idx . ,(u x 'idx))
@@ -2188,7 +2216,12 @@ oblique noun, two nominatives), leave the Greek order and mark the verb
                                                                             (is? (at (+ k 1)) "T" "P")))))))
                                           (iota (- i clause-start) clause-start)))
                      (x (u+ x 'subj-done #t
-                            'may (and (eqv? (mood x) #\S) (any (lambda (y) (lemma-in? y "ἵνα" "ὅπως")) (take span i))))))
+                            'may (and (eqv? (mood x) #\S) (any (lambda (y) (lemma-in? y "ἵνα" "ὅπως")) (take span i)))
+                            ;; an optative of wish in a main clause: "may God give",
+                            ;; "may it not come to be" (the subject after "may")
+                            'wish (and (eqv? (mood x) #\O) (not (u x 'would))
+                                       (not (any (lambda (y) (apply lemma-in? y (delete "μή" %subordinators))) (take span i))))))
+                     (wish (u x 'wish)))
                 (define (dative-possessor?)
                   ;; καὶ τῷ Σὴθ ἐγένετο υἱός: a bare dative (it has "to") makes
                   ;; the person noun the subject, "son came to be to Seth"
@@ -2286,7 +2319,7 @@ oblique noun, two nominatives), leave the Greek order and mark the verb
                   ;; "let" goes before the nominative run touching the verb.
                   (let ((run-start (nominative-run span i clause-start #t))
                         (x (plural-agreement x (map at before-noms))))
-                    (if (and imper (< run-start i))
+                    (if (and (or imper wish) (< run-start i))
                         (loop (insert-let span i run-start x) (+ i 2))
                         (loop (list-set-copy span i x) (+ i 1)))))
                  (else
@@ -2313,7 +2346,10 @@ oblique noun, two nominatives), leave the Greek order and mark the verb
                                                     (if c (or (eqv? (case-of z) c) (eqv? (case-of z) #\G)) #t))
                                                (obj (+ m 1) (or c (and (not (eq? (u z 'role) 'possessive)) (case-of z))))
                                                ;; only if a nominative comes next
-                                               (if (and (in-cl? z) (nom? z #t (at (- m 1))))
+                                               ;; (or a neuter after a passive: ἀπηγγέλη τῇ
+                                               ;; Ῥεβέκκᾳ τὰ ῥήματα)
+                                               (if (and (in-cl? z) (or (nom? z #t (at (- m 1)))
+                                                                       (and (eqv? (tag-field (tp x) 'voice) #\P) (nom? z #f (at (- m 1))))))
                                                    (skip m left pp adv 0)
                                                    k)))))
                                       ((and (> left 0) (is? y "P" "F") (not (eqv? (case-of y) #\N)) (not (eq? (u y 'role) 'possessive)))
@@ -2431,7 +2467,7 @@ oblique noun, two nominatives), leave the Greek order and mark the verb
                     (cond
                      ((and run-start (< run-start i))
                       (let ((x (plural-agreement x (map at (iota (- i run-start) run-start)))))
-                        (if imper
+                        (if (or imper wish)
                             (loop (insert-let span i run-start x) (+ i 2))
                             (loop (list-set-copy span i x) (+ i 1)))))
                      (ok
@@ -2463,7 +2499,7 @@ oblique noun, two nominatives), leave the Greek order and mark the verb
                                        (let ((rest (append (take span (- i 1)) (drop span i))))
                                          (append (take rest vi) (list adj) (drop rest vi)))
                                        span)))
-                        (if imper
+                        (if (or imper wish)
                             (loop (insert-let span vi i x) (+ vi 2))
                             (loop span (+ vi 1)))))
                      (unsure
@@ -2496,7 +2532,10 @@ there is none): nominatives with their genitives (πνεῦμα θεοῦ)."
                    (memq (u y 'role) '(possessive post-demonstrative attributive))
                    (and (eqv? (case-of y) #\G) (is? y "N" "T" "A")))))
         (back (- k 1)
-              (if (nom-or-participle? (list-ref span k) (and (> k 0) (list-ref span (- k 1))) definite?) k start))
+              ;; (a possessive moved before the subject starts it: μου ὁ θεός)
+              (if (or (nom-or-participle? (list-ref span k) (and (> k 0) (list-ref span (- k 1))) definite?)
+                      (and (eq? (u (list-ref span k) 'role) 'possessive) (u (list-ref span k) 'moved) (< k (- start 0))))
+                  k start))
         start)))
 
 ;;; English for one unit.
@@ -2763,13 +2802,21 @@ lemma) or (cont n)."
            (lambda (x k)
              ;; μὴ λαλείτω ... ὁ θεός: "let not God speak" (KJV order keeps
              ;; the μή in the segment that owns it)
-             (let* ((e (cond ((u x 'question-aux) (car (split-first (cdr (unit-english env (u x 'verb))))))
-                             ((u x 'let-marker) (if (u x 'neg) "let not" "let"))
+             (let* ((e (cond ((u x 'question-aux)
+                              ;; with a pronoun subject after the auxiliary: Τίνος
+                              ;; θυγάτηρ εἶ "Of whom are you daughter?"
+                              (let ((aux (car (split-first (cdr (unit-english env (u x 'verb))))))
+                                    (s (u (u x 'verb) 'subj)))
+                                (if (and (string? s) (not (string-null? s))) (string-append aux " " s) aux)))
+                             ((u x 'let-marker) (cond ((u x 'wish) "may") ((u x 'neg) "let not") (else "let")))
                              ((u x 'tail-piece) (u x 'text))
                              ((u x 'supplied-piece) (u x 'text))
                              (else (unit-english env x))))
                     ;; an infinitive's noun subject: "after Lot's being separated"
-                    (e (if (and (u x 'poss-s) (string? e) (not (string-null? e))) (string-append e "'s") e))
+                    ;; (a plural in -s takes the apostrophe only: "the shepherds'")
+                    (e (if (and (u x 'poss-s) (string? e) (not (string-null? e)))
+                           (string-append e (if (and (eqv? (num-of x) #\P) (string-suffix? "s" e)) "'" "'s"))
+                           e))
                     (speech? (and (u x 'speech) (u x 'cap) (not (eqv? (u x 'idx) (u first-greek 'idx))) (> k 0)))
                     (compose (lambda (core subj)
                                (string-join (filter (lambda (s) (and s (not (string-null? s))))
@@ -2803,7 +2850,14 @@ lemma) or (cont n)."
                   (match e
                     ((_ . rest) (=> next)
                      (if (u x 'let-rest)
-                         (list (mk (if (u x 'question-rest) (cdr (split-first rest)) rest) (list (list 'cont (u x 'n)))))
+                         ;; (a wish's "may" went before its subject: "may my soul not come")
+                         (list (mk (if (or (u x 'question-rest) (and (u x 'wish) (string-prefix? "may " rest))) (cdr (split-first rest)) rest)
+                                   (append (if (u x 'wish) (filter neg-ref? (u x 'refs)) '()) (list (list 'cont (u x 'n))))))
+                         (next)))
+                    ((_ . rest) (=> next)
+                     ;; a wish with a pronoun subject: "May it not come to be"
+                     (if (and (u x 'wish) (string? (u x 'subj)) (not (string-null? (u x 'subj))) (string-prefix? "may " rest))
+                         (list (mk (compose (string-append "may " (u x 'subj) " " (cdr (split-first rest))) #f) (u x 'refs)))
                          (next)))
                     ((_ . rest) (=> next)
                      ;; ποῦ εἶ: "where are you" (auxiliary, subject, rest)

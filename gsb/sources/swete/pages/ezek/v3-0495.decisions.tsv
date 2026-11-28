@@ -5,16 +5,16 @@ ezek	oldtestgreek00unknuoft	495	1	γῆν +B	γῆν	γῆν	γῆν	class R3: O
 ezek	oldtestgreek00unknuoft	495	3	θάψωσιν	ἄψωσιν	θάψωσιν	θάψωσιν	class R6 (OCR letters differ): the other OCR reading agrees with c
 ezek	oldtestgreek00unknuoft	495	3	cis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
 ezek	oldtestgreek00unknuoft	495	3	yal	γαὶ	γαὶ	γαὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
-ezek	oldtestgreek00unknuoft	495	3	Tw᾽	Τώγ	Γώγ·	Γώγ·	TODO zoom: A R5, B OPEN
+ezek	oldtestgreek00unknuoft	495	3	Tw᾽	Τώγ	Γώγ·	Γώγ·	image (3x): Γ with acute on ω; raised point is ano teleia
 ezek	oldtestgreek00unknuoft	495	4	“kal	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 ezek	oldtestgreek00unknuoft	495	4	yap	γὰρ	γὰρ	γὰρ	class R5: Latin-letter substitution in OCR; c read from the image strip
-ezek	oldtestgreek00unknuoft	495	4	Πολυάνδριον"	Πολυάνδριον᾽"	Πολυάνδριον·	Πολυάνδριον·	TODO zoom: A R2, B OPEN
-ezek	oldtestgreek00unknuoft	495	5	ἢ	ἡ	ἡ	ἡ	TODO zoom: A DIA, B same
+ezek	oldtestgreek00unknuoft	495	4	Πολυάνδριον"	Πολυάνδριον᾽"	Πολυάνδριον·	Πολυάνδριον·	image (3x): Γ with acute on ω; raised point is ano teleia
+ezek	oldtestgreek00unknuoft	495	5	ἢ	ἡ	ἡ	ἡ	image (3x): rough breathing, no accent
 ezek	oldtestgreek00unknuoft	495	5	γῆ.	.	γῆ.	γῆ.	class R6 (OCR letters differ): the other OCR reading agrees with c
 ezek	oldtestgreek00unknuoft	495	5	"Ἰκαὶ	καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-ezek	oldtestgreek00unknuoft	495	5	εἰπόν	εἰπόν	εἰπόν	εἰπόν	TODO zoom: acute or grave before a capitalized word
-ezek	oldtestgreek00unknuoft	495	5	Eimov	ἘΪΠπὸν	Εἰπὸν	Εἰπὸν	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A R5, B OPEN
-ezek	oldtestgreek00unknuoft	495	8	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+ezek	oldtestgreek00unknuoft	495	5	εἰπόν	εἰπόν	εἰπόν	εἰπόν	image (3x): acute before capitalized quotation
+ezek	oldtestgreek00unknuoft	495	5	Eimov	ἘΪΠπὸν	Εἰπὸν	Εἰπὸν	image (3x): smooth breathing on Ει, grave on ο
+ezek	oldtestgreek00unknuoft	495	8	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing
 ezek	oldtestgreek00unknuoft	495	9	“xpéa	"Ξκρέα	κρέα	κρέα	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 ezek	oldtestgreek00unknuoft	495	10	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 ezek	oldtestgreek00unknuoft	495	11	“Kal	"ϑκαὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
@@ -24,36 +24,36 @@ ezek	oldtestgreek00unknuoft	495	12	* +Kai	καὶ	καὶ	καὶ	class R6 (OCR 
 ezek	oldtestgreek00unknuoft	495	13	yi-	γί-	γί-	γί-	class R5: Latin-letter substitution in OCR; c read from the image strip
 ezek	oldtestgreek00unknuoft	495	14	yavta	γαντα	γαντα	γαντα	class R5: Latin-letter substitution in OCR; c read from the image strip
 ezek	oldtestgreek00unknuoft	495	14	*xal	“᾿καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
-ezek	oldtestgreek00unknuoft	495	16	χεῖρά	χεῖρά	χεῖρά	χεῖρά	TODO zoom: accent before an enclitic
+ezek	oldtestgreek00unknuoft	495	16	χεῖρά	χεῖρά	χεῖρά	χεῖρά	image (3x): acute before enclitic
 ezek	oldtestgreek00unknuoft	495	16	“kal	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
 ezek	oldtestgreek00unknuoft	495	17	οἶκος	οἶκος +3	οἶκος	οἶκος	class R3: OCR appended accent-row or margin junk; c read from the image strip
-ezek	oldtestgreek00unknuoft	495	17	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-ezek	oldtestgreek00unknuoft	495	17	ἐγώ	ἐγώ	ἐγώ	ἐγώ	TODO zoom: accent before an enclitic
+ezek	oldtestgreek00unknuoft	495	17	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing
+ezek	oldtestgreek00unknuoft	495	17	ἐγώ	ἐγώ	ἐγώ	ἐγώ	image (3x): acute before enclitic
 ezek	oldtestgreek00unknuoft	495	17	ὁ	ὁ +θ	ὁ	ὁ	class R3: OCR appended accent-row or margin junk; c read from the image strip
 ezek	oldtestgreek00unknuoft	495	18	“Ξκαὶ	“Ξκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 ezek	oldtestgreek00unknuoft	495	18	ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
 ezek	oldtestgreek00unknuoft	495	18	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
-ezek	oldtestgreek00unknuoft	495	19	ἠχμαλωτεύθησαν	ἠχμαλωτεύθησαν	ᾐχμαλωτεύθησαν	ᾐχμαλωτεύθησαν	TODO zoom: A DROP, B DROP
-ezek	oldtestgreek00unknuoft	495	19	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+ezek	oldtestgreek00unknuoft	495	19	ἠχμαλωτεύθησαν	ἠχμαλωτεύθησαν	ᾐχμαλωτεύθησαν	ᾐχμαλωτεύθησαν	image (4x): iota subscript printed under eta, smooth breathing
+ezek	oldtestgreek00unknuoft	495	19	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing
 ezek	oldtestgreek00unknuoft	495	19	ἠθέτησαν	ἠθέτησαν +δ	ἠθέτησαν	ἠθέτησαν	class R3: OCR appended accent-row or margin junk; c read from the image strip
 ezek	oldtestgreek00unknuoft	495	20	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
-ezek	oldtestgreek00unknuoft	495	20	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	TODO zoom: accent before an enclitic
+ezek	oldtestgreek00unknuoft	495	20	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): acute before enclitic
 ezek	oldtestgreek00unknuoft	495	20	am	ἀπ᾽	ἀπ᾽	ἀπ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
 ezek	oldtestgreek00unknuoft	495	20	παρέδωκα +§	παρέδωκα	παρέδωκα	παρέδωκα	class R3: OCR appended accent-row or margin junk; c read from the image strip
 ezek	oldtestgreek00unknuoft	495	22	“ἑκατὰ	“Γκατὰ	κατὰ	κατὰ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 ezek	oldtestgreek00unknuoft	495	22	Tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
-ezek	oldtestgreek00unknuoft	495	23	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	TODO zoom: accent before an enclitic
+ezek	oldtestgreek00unknuoft	495	23	πρόσωπόν	πρόσωπόν	πρόσωπόν	πρόσωπόν	image (3x): acute before enclitic
 ezek	oldtestgreek00unknuoft	495	23	αὐτῶν.	αὐτῶν. +55	αὐτῶν.	αὐτῶν.	class R3: OCR appended accent-row or margin junk; c read from the image strip
-ezek	oldtestgreek00unknuoft	495	24	Ἰακώβ,	Ἰακώ	Ἰακώβ,	Ἰακώβ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A same, B OPEN
-ezek	oldtestgreek00unknuoft	495	25	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
-ezek	oldtestgreek00unknuoft	495	25	ἅγιόν	ἅγιόν	ἅγιόν	ἅγιόν	TODO zoom: accent before an enclitic
+ezek	oldtestgreek00unknuoft	495	24	Ἰακώβ,	Ἰακώ	Ἰακώβ,	Ἰακώβ,	image (3x): smooth breathing, Ἰακώβ
+ezek	oldtestgreek00unknuoft	495	25	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	Ἰσραήλ,	image (3x): smooth breathing
+ezek	oldtestgreek00unknuoft	495	25	ἅγιόν	ἅγιόν	ἅγιόν	ἅγιόν	image (3x): acute before enclitic
 ezek	oldtestgreek00unknuoft	495	25	pov.	μου.	μου.	μου.	class R5: Latin-letter substitution in OCR; c read from the image strip
 ezek	oldtestgreek00unknuoft	495	26	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
 ezek	oldtestgreek00unknuoft	495	28	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
 ezek	oldtestgreek00unknuoft	495	28	“ev	“71ἐν	ἐν	ἐν	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
-ezek	oldtestgreek00unknuoft	495	28	αἰτοὺς	αἰτοὺς	αὐτοὺς	αὐτοὺς	TODO zoom: A OPEN, B OPEN
+ezek	oldtestgreek00unknuoft	495	28	αἰτοὺς	αἰτοὺς	αὐτοὺς	αὐτοὺς	image (3x): αὐ with smooth breathing on υ, not αἰ
 ezek	oldtestgreek00unknuoft	495	28	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
 ezek	oldtestgreek00unknuoft	495	29	pe	με	με	με	class R5: Latin-letter substitution in OCR; c read from the image strip
 ezek	oldtestgreek00unknuoft	495	30	ἐθνῶν"	ἐθνῶν"	ἐθνῶν·	ἐθνῶν·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
 ezek	oldtestgreek00unknuoft	495	30	“καὶ	“ἡκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
-ezek	oldtestgreek00unknuoft	495	30	ἐγώ	ἐγώ	ἐγώ	ἐγώ	TODO zoom: accent before an enclitic
+ezek	oldtestgreek00unknuoft	495	30	ἐγώ	ἐγώ	ἐγώ	ἐγώ	image (3x): acute before enclitic

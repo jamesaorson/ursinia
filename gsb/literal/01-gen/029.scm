@@ -175,7 +175,7 @@
     ("We will not be able" 4 5)
     ("until" 6)
     ("all" (7 infinitive) 9)
-    ("the shepherds's" 10 11)
+    ("the shepherds'" 10 11)
     ("being gathered," 8)
     ("and" 12)
     ("they roll away" (13 roll-away "ἀποκυλίω"))

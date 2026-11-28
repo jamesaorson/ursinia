@@ -78,8 +78,7 @@
     ("called upon" (12 call-upon "ἐπικαλέω"))
     ("there" 13)
     ("the name" 15 16)
-    ("[the]")
-    ("of Lord." 17)))
+    ("of [the] Lord." 17)))
 
 (verse 5
   (status draft)

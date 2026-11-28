@@ -548,8 +548,9 @@
 (verse 27
   (status draft)
   (literal
+    ("May" (1 enlarge "πλατύνω"))
     ("God" (2 unrendered) 3)
-    ("may enlarge" (1 enlarge "πλατύνω"))
+    ("enlarge" (cont 1))
     ("for Japheth," (4 unrendered) (5 name "Ἰάφεθ"))
     ("and" 6)
     ("let him/her/it reside" (7 reside "κατοικέω"))

@@ -399,7 +399,7 @@
     ("soul," 37)
     ("this" 39)
     ("[was]")
-    ("his" 41)
+    ("his/its" 41)
     ("name." 40)))
 
 (verse 20

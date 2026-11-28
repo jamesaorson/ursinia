@@ -1,0 +1,36 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+dan-th	oldtestgreek00unknuoft	543	1	ὀνόματί	ὀνόματί	ὀνόματί	ὀνόματί	image (3x): reads as page file (acute before enclitic; superscript 48 fused; οὓς rough+grave; smooth breathing on Ἀ and Εὐ)
+dan-th	oldtestgreek00unknuoft	543	1	“Kal	“'καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	543	1	ἐνδει- +B	ἐνδει- +Β	ἐνδει-	ἐνδει-	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	543	3	“γνώτωσαν	“γνώτωσαν	γνώτωσαν	γνώτωσαν	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	543	4	et	εἶ	εἶ	εἶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	543	5	“Καὶ	“Καὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	543	5	ὑπηρέται.	ὑπηρέται.	ὑπηρέται	ὑπηρέται	image (3x): light speck after the word, not a period
+dan-th	oldtestgreek00unknuoft	543	7	“Τκαὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	543	7	ἐπάνω.	ἐπάνω	ἐπάνω	ἐπάνω	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	543	8	“Ξκαὶ	48 +“Ξκαὶ ὃ	καὶ	καὶ	image (3x): reads as page file (acute before enclitic; superscript 48 fused; οὓς rough+grave; smooth breathing on Ἀ and Εὐ)
+dan-th	oldtestgreek00unknuoft	543	8	ods	οὗς	οὓς	οὓς	image (3x): reads as page file (acute before enclitic; superscript 48 fused; οὓς rough+grave; smooth breathing on Ἀ and Εὐ)
+dan-th	oldtestgreek00unknuoft	543	9	“ὁ	“ὁ	ὁ	ὁ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	543	10	Ἀζαρίαν	Ἀζαρίαν	Ἀζαρίαν	Ἀζαρίαν	image (3x): reads as page file (acute before enclitic; superscript 48 fused; οὓς rough+grave; smooth breathing on Ἀ and Εὐ)
+dan-th	oldtestgreek00unknuoft	543	11	καμίνου,	καμίνου, +5»	καμίνου,	καμίνου,	class R3: OCR appended accent-row or margin junk; c read from the image strip
+dan-th	oldtestgreek00unknuoft	543	11	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	543	12	δρόσου.	δρόσου.	δρόσου	δρόσου	image (3x): light speck after the word, not a period
+dan-th	oldtestgreek00unknuoft	543	12	διασυρίζον:	διασυρίζον-	διασυρίζον·	διασυρίζον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	543	13	Kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	543	13	πϑβηρ +λησεν	παρηνώχλησεν	παρηνώχλησεν	παρηνώχλησεν	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	543	13	Τότε	δότε	Τότε	Τότε	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	543	15	ϑευὐλογητὸς	θεὸν	θεὸν	θεὸν	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	543	15	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	543	15	∅	τῇ	τῇ	τῇ	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	543	15	∅	καμίνῳ	καμίνῳ	καμίνῳ	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	543	15	∅	λέγοντες	λέγοντες	λέγοντες	class R0: OCR lost the word in extraction; c read from the image strip
+dan-th	oldtestgreek00unknuoft	543	16	∅	: +3Ἐὐλογητὸς	Εὐλογητὸς	Εὐλογητὸς	image (3x): reads as page file (acute before enclitic; superscript 48 fused; οὓς rough+grave; smooth breathing on Ἀ and Εὐ)
+dan-th	oldtestgreek00unknuoft	543	16	Κύριε.	Κύριε	Κύριε	Κύριε	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	543	16	εἰμὴ	ἡμῶν,	ἡμῶν,	ἡμῶν,	class R6 (OCR letters differ): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	543	17	αἰῶνας"	αἰῶνας"	αἰῶνας·	αἰῶνας·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+dan-th	oldtestgreek00unknuoft	543	22	“εὐλογημένος	"εὐλογημένος	εὐλογημένος	εὐλογημένος	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	543	23	∅	∅	βείν,	βείν,	image (strip-05, full res): turned-over end βείν, of χερου- on its own indented line; OCR missed the short line
+dan-th	oldtestgreek00unknuoft	543	25	εἰ	εἶ	εἶ	εἶ	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+dan-th	oldtestgreek00unknuoft	543	26	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+dan-th	oldtestgreek00unknuoft	543	29	"“Ἰεὐλογεῖτε,	"Ἰεὐλογεῖτε,	εὐλογεῖτε,	εὐλογεῖτε,	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+dan-th	oldtestgreek00unknuoft	543	29	κύριον"	κύριον"	κύριον·	κύριον·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
