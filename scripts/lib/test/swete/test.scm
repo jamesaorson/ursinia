@@ -163,6 +163,13 @@
        '((40 1 fail)))                                   ; the number after an early one is marked too
 (check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C10}{1}α. {2}β. {3}γ. {2!}{=10:9}δ.\n")) #f #f)
        '((40 1 fail)))                                   ; a Swete number twice in a chapter
+;; ... unless marked as printed a second time (2 Kgdms 23: 29, 31, ... 39, 30, 31)
+(check (book-problems (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C23}{1}ω. {29!}α. {31!}{=23:31a}β. {32}γ. {30!}δ. {31!!}{=23:31b}ε. {C24}{1}ζ.\n")) #f #f 1)
+       '())
+(call-with-values (lambda () (book-verses (list (page 40 "{C23}{29}α. {31!}{=23:31a}β. {32}γ. {30!}δ. {31!!}{=23:31b}ε."))))
+  (lambda (rows problems) (check (map second rows) '(29 "31a" 32 30 "31b"))))
+(check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C10}{1}α. {2}β. {4!!}γ.\n")) #f #f)
+       '((40 1 fail)))                                   ; {n!!} for a number not printed before
 (check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C31}{1}α. {2}{=31:5}β. {3}γ. {4}{=31:5}δ.\n")) #f #f)
        '((40 1 fail)))                                   ; the same common verse twice
 (check (messages (list (page 40 "# s leaf 0040\n# box 1 2 3 4\n{C31}{1}α. {2}{=31:1a}β.\n")) #f #f)

@@ -106,6 +106,9 @@ letter (\"a\" for {=31:48a}), or the rest of a combined number as printed
    ((string-match "^C([0-9]+)$" s) => (lambda (m) (list 'chapter (string->number (match:substring m 1)))))
    ((string-match "^([0-9]+)$" s) => (lambda (m) (list 'verse (string->number (match:substring m 1)))))
    ((string-match "^([0-9]+)!$" s) => (lambda (m) (list 'verse (string->number (match:substring m 1)) 'skip)))
+   ;; {31!!}: Swete prints his own number a second time in the chapter
+   ;; (2 Kgdms 23:30-31 again after 39); its common verse needs its own {=c:v}.
+   ((string-match "^([0-9]+)!!$" s) => (lambda (m) (list 'verse (string->number (match:substring m 1)) 'skip 'again)))
    ;; {42a}: Swete's own lettered verse as printed (Josh 21:42a-d, 24:33a-b):
    ;; an extra verse after his 42, not a half of it.
    ((string-match "^([0-9]+)([a-z])$" s)
@@ -280,7 +283,7 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
                              (format #f "non-Greek character~a ~a: read the image again (Latin look-alikes, stray digits?; a numeral's keraia is ʹ U+02B9, right after its letters)"
                                      (if (> (length cs) 1) "s" "")
                                      (string-join (map (lambda (c) (format #f "~a (U+~a)" c (string-upcase (number->string (char->integer c) 16)))) cs) ", "))))))
-           (filter-map (match-lambda (('bad s) (list leaf n 'fail (format #f "unknown marker ~a (use {C3} {7} {7!} {7a} {=2:25} {=31:48a} {=40:30-31} {=36:34,36} {P} {S}; combined numbers ascend)" s)))
+           (filter-map (match-lambda (('bad s) (list leaf n 'fail (format #f "unknown marker ~a (use {C3} {7} {7!} {7!!} {7a} {=2:25} {=31:48a} {=40:30-31} {=36:34,36} {P} {S}; combined numbers ascend)" s)))
                                      (_ #f))
                        (line-items line))))))
      (page-lines page)))
@@ -361,6 +364,13 @@ FIRST-LEAF / LAST-LEAF (or #f) say whether the book's opening and end are presen
                             ((and v (not (eqv? v n)))
                              (seq "Swete verse {~a~a} after {~a}: a lettered verse follows its own number ({~a} ... {~a~a})" n l v n n l))
                             (else acc)))))
+             (('verse n 'skip 'again)
+              ;; {31!!}: a number Swete prints a second time in this chapter.
+              ;; It must have occurred already; no sequence check.
+              (let ((before (and ch (hash-ref swete-seen (list ch n)))))
+                (loop rest where ch n (and ch (list ch n "" 'explicit)) last-ref pending-text? depth hyphen?
+                      (if (or before (not ch)) acc
+                          (seq "{~a!!} marks a number Swete prints a second time, but chapter ~a has no {~a} before it" n ch n)))))
              (('verse n . skip)
               ;; V is the last Swete verse, 'after-chapter right after {C},
               ;; #f at the start of a run (unknown). Swete's own numbers must

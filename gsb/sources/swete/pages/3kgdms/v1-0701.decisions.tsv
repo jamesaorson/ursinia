@@ -1,0 +1,55 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+3kgdms	theoldtestamenti00unknuoft	701	1	KAI	ΚΑῚ	ΚΑΙ	ΚΑΙ	image (3x): unaccented capitals ΚΑΙ at the book opening
+3kgdms	theoldtestamenti00unknuoft	701	1	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave as printed
+3kgdms	theoldtestamenti00unknuoft	701	2	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	701	2	εἶττον	εἶπον	εἶπον	εἶπον	class R6 (OCR letters differ): the other OCR reading agrees with c
+3kgdms	theoldtestamenti00unknuoft	701	5	κύριός	κύριός	κύριός	κύριός	image (3x): acute before the enclitic
+3kgdms	theoldtestamenti00unknuoft	701	5	pov	μου	μου	μου	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	701	5	6	ὁ	ὁ	ὁ	class R6 (OCR letters differ): the other OCR reading agrees with c
+3kgdms	theoldtestamenti00unknuoft	701	5	3καὶ	3καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	701	6	Ἰσραήλ:	Ἰσραήλ:	Ἰσραήλ·	Ἰσραήλ·	image (3x): smooth breathing (apostrophe shape)
+3kgdms	theoldtestamenti00unknuoft	701	6	Ἀβεισὰ	Ἀβεισὰ	Ἀβεισὰ	Ἀβεισὰ	image (3x): smooth breathing (apostrophe shape)
+3kgdms	theoldtestamenti00unknuoft	701	7	Σωμανειτιν,	Σωμανεῖτιν,	Σωμανεῖτιν,	Σωμανεῖτιν,	class R7 (OCR dropped diacritics): the other OCR reading agrees with c
+3kgdms	theoldtestamenti00unknuoft	701	7	αὑτὴν	αὐτὴν	αὐτὴν	αὐτὴν	image (3x): smooth breathing
+3kgdms	theoldtestamenti00unknuoft	701	7	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	701	8	σφόδρα:	σφόδρα:	σφόδρα·	σφόδρα·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	701	8	ἦν	ἣν	ἦν	ἦν	image (3x): smooth breathing + circumflex
+3kgdms	theoldtestamenti00unknuoft	701	9	Ἀδωνείας	Ἀδωνείας	Ἀδωνείας	Ἀδωνείας	image (3x): smooth breathing (apostrophe shape)
+3kgdms	theoldtestamenti00unknuoft	701	9	υἱὸς	υἱὸς	υἱὸς	υἱὸς	image (3x): grave as printed
+3kgdms	theoldtestamenti00unknuoft	701	9	Ἀγγεὶθ	Ἀγγεὶθ	Ἁγγεὶθ	Ἁγγεὶθ	image (3x): rough breathing (reversed comma)
+3kgdms	theoldtestamenti00unknuoft	701	10	∅	ἐπήρετο	ἐπήρετο	ἐπῄρετο	image (3x line zoom): iota subscript under η, ἐπῄρετο
+3kgdms	theoldtestamenti00unknuoft	701	10	∅	λέγων	λέγων	λέγων	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	701	10	∅	Ἐγὼ	Ἐγὼ	Ἐγὼ	image (3x): smooth breathing (apostrophe shape)
+3kgdms	theoldtestamenti00unknuoft	701	10	∅	βασιλεύσω:	βασιλεύσω·	βασιλεύσω·	class R0+R2: OCR lost the word in extraction; OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	701	10	∅	καὶ	καὶ	καὶ	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	701	10	∅	∅	ἐποίησεν	ἐποίησεν	image (3x): read from the line zoom; OCRs lost these words
+3kgdms	theoldtestamenti00unknuoft	701	10	∅	∅	ἑαυτῷ	ἑαυτῷ	image (3x): read from the line zoom; OCRs lost these words
+3kgdms	theoldtestamenti00unknuoft	701	10	∅	∅	ἅρματα	ἅρματα	image (3x): read from the line zoom; OCRs lost these words
+3kgdms	theoldtestamenti00unknuoft	701	10	∅	καὶ +ἐποί ἑαυτῷ ἅ ὶ	καὶ	καὶ	class R0+R3: OCR lost the word in extraction; OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	701	11	kal	καὶ	καὶ	καὶ	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	701	11	“καὶ	“καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	701	12	Ti	τί	τί	τί	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	701	12	ov	σὺ	σὺ	σὺ	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	701	13	καί	καί	καί	καί	image (3x): acute before the enclitic
+3kgdms	theoldtestamenti00unknuoft	701	14	Ἀβεσσαλώμ.	Ἀβεσσαλώμ.	Ἀβεσσαλώμ.	Ἀβεσσαλώμ.	image (3x): smooth breathing (apostrophe shape)
+3kgdms	theoldtestamenti00unknuoft	701	14	Τκαὶ	Τ1καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	701	14	Ἰωὰβ	Ἰωὰβ	Ἰωὰβ	Ἰωὰβ	image (3x): smooth breathing (apostrophe shape)
+3kgdms	theoldtestamenti00unknuoft	701	15	Sapovias	Σαρουίας	Σαρουίας	Σαρουίας	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	701	15	μετὰ	μετὰ +3	μετὰ	μετὰ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	701	15	Ἀβιαθὰρ	Ἀβιαθὰρ	Ἀβιαθὰρ	Ἀβιαθὰρ	image (3x): smooth breathing (apostrophe shape)
+3kgdms	theoldtestamenti00unknuoft	701	16	Αδωνειού.	Ἀδωνειού.	Ἀδωνειού.	Ἀδωνειού.	image (3x): smooth breathing (apostrophe shape)
+3kgdms	theoldtestamenti00unknuoft	701	16	“καὶ	ὅκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	701	16	vids	υἱὸς	υἱὸς	υἱὸς	image (3x): grave as printed
+3kgdms	theoldtestamenti00unknuoft	701	16	Ἰωδᾶε	Ἰωδᾶε	Ἰωδᾶε	Ἰωδᾶε	image (3x): smooth breathing (apostrophe shape)
+3kgdms	theoldtestamenti00unknuoft	701	16	Nadav	Ναθὰν	Ναθὰν	Ναθὰν	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	701	17	προφή	προφήτης	προφήτης	προφήτης	class R6 (OCR letters differ): the other OCR reading agrees with c
+3kgdms	theoldtestamenti00unknuoft	701	17	ἘΣ	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+3kgdms	theoldtestamenti00unknuoft	701	17	ὶ	Σεμεεὶ	Σεμεεὶ	Σεμεεὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+3kgdms	theoldtestamenti00unknuoft	701	17	Ῥησεὶ	Ῥησεὶ	Ῥησεὶ	Ῥησεὶ	image (3x): rough breathing (reversed comma)
+3kgdms	theoldtestamenti00unknuoft	701	18	Ἀδωνειού.	Ἀδωνειού.	Ἀδωνειού.	Ἀδωνειού.	image (3x): smooth breathing (apostrophe shape)
+3kgdms	theoldtestamenti00unknuoft	701	18	ϑθκαὶ	ϑθκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	701	18	Ἀδωνειοὺ	Ἀδωνειοὺ	Ἀδωνειοὺ	Ἀδωνειοὺ	image (3x): smooth breathing (apostrophe shape)
+3kgdms	theoldtestamenti00unknuoft	701	19	Αἰθὴ	Αἰθὴ	Αἰθὴ	Αἰθὴ	image (3x): capital A unbreathed, smooth breathing + grave on ι
+3kgdms	theoldtestamenti00unknuoft	701	19	Ῥωγήλ,	Ῥωγήλ,	Ῥωγήλ,	Ῥωγήλ,	image (3x): rough breathing (reversed comma)
+3kgdms	theoldtestamenti00unknuoft	701	20	ἁδροὺς	ἁδροὺς	ἁδροὺς	ἁδροὺς	image (3x): grave as printed
+3kgdms	theoldtestamenti00unknuoft	701	20	Ἰούδα,	Ἰούδα,	Ἰούδα,	Ἰούδα,	image (3x): smooth breathing (apostrophe shape)
