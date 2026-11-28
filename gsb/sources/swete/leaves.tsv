@@ -4,5 +4,37 @@ exod	1	theoldtestamenti00unknuoft	136	219	1	printed pp. 104-187 (leaf = page + 3
 lev	1	theoldtestamenti00unknuoft	220	282	1	printed pp. 188-250 (leaf = page + 32); Numbers starts on leaf 283
 num	1	theoldtestamenti00unknuoft	283	370	1	printed pp. 251-338 (leaf = page + 32); Deuteronomy starts on leaf 371
 deut	1	theoldtestamenti00unknuoft	371	451	1	printed pp. 339-419 (leaf = page + 32); Joshua starts on leaf 452
-dan	3	oldtestgreek00unknuoft	522		2	Old Greek on the even (left) leaves from p. 498 (leaf = page + 24); last leaf not yet checked
-dan-th	3	oldtestgreek00unknuoft	523		2	Theodotion on the odd (right) leaves from p. 499; last leaf not yet checked
+josh	1	theoldtestamenti00unknuoft	452	506	1	printed pp. 420-474 (leaf = page + 32); one text (B) with an apparatus of A and F readings; lettered verses (24:30a, 33a, 33b); Judges starts on leaf 507
+judg	1	theoldtestamenti00unknuoft	507	569	1	printed pp. 475-537 (leaf = page + 32); ONE text, Vaticanus (B in the margin), with the A readings only in the apparatus (no second text on the page); the Song of Deborah (ch. 5) is set as indented verse lines in one column; pencil marks in the margin of p. 475; Ruth starts on leaf 570
+ruth	1	theoldtestamenti00unknuoft	570	576	1	printed pp. 538-544 (leaf = page + 32); one text (B), apparatus A; 1 Kingdoms starts on leaf 577
+1kgdms	1	theoldtestamenti00unknuoft	577	642	1	printed pp. 545-610 (leaf = page + 32); one text (B), apparatus A; 2 Kingdoms starts on leaf 643
+2kgdms	1	theoldtestamenti00unknuoft	643	700	1	printed pp. 611-668 (leaf = page + 32); one text (B), apparatus A; 3 Kingdoms starts on leaf 701
+3kgdms	1	theoldtestamenti00unknuoft	701	772	1	printed pp. 669-740 (leaf = page + 32); one text (B), apparatus A; lettered supplements (running heads show e.g. XII 24a-24z); 4 Kingdoms starts on leaf 773
+4kgdms	1	theoldtestamenti00unknuoft	773	834	1	printed pp. 741-802 (leaf = page + 32); one text (B), apparatus A; Swete's (4) beside 1:4 is a parenthesized number; ink marks on p. 741; leaves 835-836 are the contents list and a motto page, the Appendix starts on leaf 837
+1chr	2	oldtestamenting02swet	21	80	1	printed pp. 1-60 (leaf = page + 20 throughout vol. II in this leaf numbering); leaf 20 is the list of sigla; one text (B), apparatus A; 2 Chronicles starts on leaf 81
+2chr	2	oldtestamenting02swet	81	148	1	printed pp. 61-128 (leaf = page + 20); one text (B), apparatus A; parenthesized Hebrew numbers from ch. 2 (Swete 2:1 is marked (18), Hebrew 1:18; his 2:2 is (1) (II), Hebrew 2:1); 1 Esdras (leaves 149-181) follows, then 2 Esdras on leaf 182
+2esd	2	oldtestamenting02swet	182	232	1	printed pp. 162-212 (leaf = page + 20); Ezra-Nehemiah as one book, running head ΕΣΔΡΑΣ Β (ΝΕΕΜΙΑΣ) from ch. 11; one text (B), apparatus ℵA; the last page ends with the subscription and a long colophon note in the apparatus; Psalms starts on leaf 233
+esth	2	oldtestamenting02swet	775	800	1	printed pp. 755-780 (leaf = page + 20); one text (B), apparatus ℵA; the additions are numbered by letter and verse in the margin (A 1-17, ... F 1-11) with the Vulgate chapter and verse in parentheses (A 1 = (XI 2), A 12 = (XII 1), F 1 = (X 4), F 11 = (XI 1)); Addition A stands before 1:1; heavy ink and pencil annotations over the text of pp. 755-756; Judith starts on leaf 801
+ps	2	oldtestamenting02swet	233	435	1	printed pp. 213-415 (leaf = page + 20); ONE column of indented verse lines, one text (B), apparatus ℵAR(T); each psalm headed by a Greek numeral (Α', Β', Γ') and its Roman number in the outer margin; superscriptions in smaller type above the first verse, unnumbered (first numbered verse 2); διάψαλμα at line end; LXX numbering; leaf 435 is Psalm 151 alone ([CLI], deuterocanonical); Proverbs starts on leaf 436
+prov	2	oldtestamenting02swet	436	499	1	printed pp. 416-479 (leaf = page + 20); one column of verse lines, one text (B), apparatus ℵAC; Greek chapter order of 24-31 differs: Swete's own numbers with the Hebrew in parentheses (e.g. XXIX 46 = (28), up to XXIX 49); Ecclesiastes starts on leaf 500
+eccl	2	oldtestamenting02swet	500	525	1	printed pp. 480-505 (leaf = page + 20); one column of verse lines, one text (B), apparatus ℵAC; handwritten pencil underlining and marginal notes on several pages (e.g. p. 504); Song starts on leaf 526
+song	2	oldtestamenting02swet	526	538	1	printed pp. 506-518 (leaf = page + 20); one column of verse lines, one text (B), apparatus ℵAC; parenthesized Hebrew numbers in 7:10-13 ((11) 10 ...); pencil marks on the title page; Job starts on leaf 539
+job	2	oldtestamenting02swet	539	623	1	printed pp. 519-603 (leaf = page + 20); one column of verse lines, one text (B), apparatus ℵAC; no asterisks or obeli in the text on the pages checked (pp. 519-522, 540, 580, 602-603); ends with the lettered epilogue 42:17a-17e; Wisdom starts on leaf 624
+hos	3	oldtestgreek00unknuoft	25	39	1	printed pp. 1-15 (leaf = page + 24); leaf 24 is blank (back of the sigla page); one text (B), apparatus AQ; each of the Twelve starts on a new page; Amos starts on leaf 40
+amos	3	oldtestgreek00unknuoft	40	52	1	printed pp. 16-28 (leaf = page + 24); one text (B), apparatus AQΓ; Micah starts on leaf 53
+mic	3	oldtestgreek00unknuoft	53	61	1	printed pp. 29-37 (leaf = page + 24); one text (B), apparatus AQ; Joel starts on leaf 62
+joel	3	oldtestgreek00unknuoft	62	68	1	printed pp. 38-44 (leaf = page + 24); one text (B), apparatus ℵAQ; Obadiah starts on leaf 69
+obad	3	oldtestgreek00unknuoft	69	71	1	printed pp. 45-47 (leaf = page + 24); one chapter; Jonah starts on leaf 72
+jonah	3	oldtestgreek00unknuoft	72	76	1	printed pp. 48-52 (leaf = page + 24); Nahum starts on leaf 77
+nah	3	oldtestgreek00unknuoft	77	81	1	printed pp. 53-57 (leaf = page + 24); parenthesized Hebrew numbers at 1:15 ((1)(II)); Habakkuk starts on leaf 82
+hab	3	oldtestgreek00unknuoft	82	87	1	printed pp. 58-63 (leaf = page + 24); ch. 3 (the prayer) set as verse lines; Zephaniah starts on leaf 88
+zeph	3	oldtestgreek00unknuoft	88	93	1	printed pp. 64-69 (leaf = page + 24); Haggai starts on leaf 94
+hag	3	oldtestgreek00unknuoft	94	97	1	printed pp. 70-73 (leaf = page + 24); parenthesized Hebrew numbers at 1:15-2:1 (II (15), (1)); Zechariah starts on leaf 98
+zech	3	oldtestgreek00unknuoft	98	117	1	printed pp. 74-93 (leaf = page + 24); parenthesized Hebrew numbers at 1:18 ((II)(1) 18); Malachi starts on leaf 118
+mal	3	oldtestgreek00unknuoft	118	124	1	printed pp. 94-100 (leaf = page + 24); ch. 4 has the Hebrew 3:19-24 in parentheses (4:6 = (22)); Isaiah starts on leaf 125
+isa	3	oldtestgreek00unknuoft	125	246	1	printed pp. 101-222 (leaf = page + 24); one text (B), apparatus ℵAQΓ; Jeremiah starts on leaf 247
+jer	3	oldtestgreek00unknuoft	247	373	1	printed pp. 223-349 (leaf = page + 24); Septuagint chapter order and numbers: from 25:14 the oracles against the nations, with the Hebrew chapter and verse in parentheses in the running head and margin (e.g. LI 29 (XLIV 29), 31 (1) (XLV)); leaf 374 (p. 350) is Swete's table COLLATIO CAPITUM IEREMIAE (no text, not in the range); Baruch starts on leaf 375
+lam	3	oldtestgreek00unknuoft	384	402	1	printed pp. 360-378 (leaf = page + 24); one column of verse lines; a prose preface before 1:1; each verse of chs. 1-4 headed by the spelled Hebrew letter (Ἄλεφ, Βήθ, ...) on its own line; Epistle of Jeremiah (leaves 403-408) follows, then Ezekiel on leaf 409
+ezek	3	oldtestgreek00unknuoft	409	521	1	printed pp. 385-497 (leaf = page + 24); one text (B), apparatus AQ(Γ); Daniel starts on leaf 522
+dan	3	oldtestgreek00unknuoft	522	598	2	Old Greek on the even (left) leaves, printed pp. 498-574 (leaf = page + 24); Theodotion on the facing odd leaves; ends with 12:13 on leaf 598; Susanna (O' 600, Θ 601, to leaf 609) and Bel (610-617) follow and are not in the range
+dan-th	3	oldtestgreek00unknuoft	523	599	2	Theodotion on the odd (right) leaves, printed pp. 499-575; ends with 12:13 on leaf 599; Susanna and Bel follow (leaves 600-617), not in the range

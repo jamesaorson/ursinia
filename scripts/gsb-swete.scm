@@ -151,9 +151,13 @@ if the content changes. Returns #t when written."
 
 (define (page-numbers info)
   "Alist leaf -> printed page from archive.org's page_numbers.json (if fetched)."
-  (let ((json (format #f "~a/~a/~a_page_numbers.json" (cache-dir) (assq-ref info 'scan) (assq-ref info 'scan))))
+  ;; The JSON counts the scan's "Delete" leaves, which /page/nK (our leaf
+  ;; numbering) skips: vol. II drops jp2 0510-0511 (blank), so its JSON leaf
+  ;; N >= 512 is our leaf N-2.
+  (let ((json (format #f "~a/~a/~a_page_numbers.json" (cache-dir) (assq-ref info 'scan) (assq-ref info 'scan)))
+        (leaf (lambda (n) (if (and (equal? (assq-ref info 'scan) "oldtestamenting02swet") (>= n 512)) (- n 2) n))))
     (if (file-exists? json)
-        (map (lambda (m) (cons (string->number (match:substring m 1)) (match:substring m 2)))
+        (map (lambda (m) (cons (leaf (string->number (match:substring m 1))) (match:substring m 2)))
              (list-matches "\"leafNum\": ([0-9]+),[^}]*\"pageNumber\": \"([^\"]+)\"" (read-file json)))
         '())))
 

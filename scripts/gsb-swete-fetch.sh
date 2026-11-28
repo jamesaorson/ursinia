@@ -30,7 +30,7 @@ The Tesseract grc model is downloaded once into $tessdata.
 
 VOLUME is 1 (Genesis-4 Kingdoms), 2 (1 Chronicles-Tobit) or 3 (Hosea-4 Maccabees).
 LEAF is the scan leaf number (archive.org leafNum, 1-based), not the printed page;
-printed page p of vol. I is leaf p+32, of vol. III leaf p+24.
+printed page p of vol. I is leaf p+32, of vol. II leaf p+20, of vol. III leaf p+24.
 gsb/sources/swete/leaves.tsv lists each book's leaves.
 
 Set GSB_SWETE_CACHE to put the cache elsewhere.
@@ -132,8 +132,12 @@ for leaf in "$@"; do
       || die "download of leaf $leaf failed: check the leaf against gsb/sources/swete/leaves.tsv"
   fi
   if [ ! -s "$dir/leaf-$n.ia.hocr" ]; then
-    # Leaf L is the volume hOCR's ocr_page whose image is ..._LLLL.jp2.
-    awk -v key="_$n.jp2" '/class="ocr_page"/ { p = index($0, key) > 0 } p' \
+    # Leaf L is the volume hOCR's ocr_page whose image is ..._LLLL.jp2, except
+    # that the scan's own "Delete" leaves (scandata.xml) are in the hOCR but not
+    # in /page/nK: vol. II skips jp2 0510-0511 (blank), so leaf L >= 510 is jp2 L+2.
+    jp2=$leaf
+    [ "$id" = oldtestamenting02swet ] && [ "$leaf" -ge 510 ] && jp2=$((leaf + 2))
+    awk -v key="_$(printf %04d "$jp2").jp2" '/class="ocr_page"/ { p = index($0, key) > 0 } p' \
       "$dir/${id}_hocr.html" > "$dir/leaf-$n.ia.hocr.$$"
     [ -s "$dir/leaf-$n.ia.hocr.$$" ] || echo "$prog: archive OCR has no page for leaf $leaf" >&2
     mv -f "$dir/leaf-$n.ia.hocr.$$" "$dir/leaf-$n.ia.hocr"
