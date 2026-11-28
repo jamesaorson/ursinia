@@ -2,7 +2,13 @@
 ;; in Greek alphabetical order. Format: gsb/translation/README.md; generator
 ;; fields: gsb/literal/README.md. Checked by `make gsb/lint`.
 
+(lemma "Ἀαρών" (sense name (gloss "Aaron") (why "Moses' brother (Exodus 4:14; 17:10-12, holding up Moses' hands with Hur; Luke 1:5; Hebrews 5:4); traditional English Aaron.")))
+
 (lemma "Ἅβελ" (sense name (gloss "Abel") (why "Traditional English form; also Matthew 23:35, Hebrews 11:4.")))
+
+(lemma "Ἀβιασάρ" (sense name (gloss "Abiasaph") (why "(LXX, supplied.) A son of Korah (Exodus 6:24), Greek Ἀβιασάρ for the Hebrew Abiasaph, the same name with ρ for φ; traditional English Abiasaph (rule 8). Not Abiathar (Mark 2:26 Ἀβιαθάρ), another man.")))
+
+(lemma "Ἀβιούδ" (sense name (gloss "Abihu") (why "Aaron's second son (Exodus 6:23), Greek Ἀβιούδ for the Hebrew Abihu; traditional English Abihu. Matthew 1:13 Ἀβιούδ (Abiud) is another man of the same Greek name; his English is a second sense when the New Testament is done.")))
 
 (lemma "ἅβρα" (sense maid (person) (gloss "maid" "maids") (why "(LXX, supplied.) A favorite maidservant, a lady's own maid (Genesis 24:61, Rebekah's maids). \"Maid\" keeps it apart from παιδίσκη \"maidservant\".")))
 
@@ -43,7 +49,15 @@
     (gloss "sanctify" "sanctified" "sanctifies" "sanctifying")
     (why "To make or treat as holy (ἅγιος). \"Sanctify\" rather than \"make holy\" or \"hallow\", one English verb for one Greek verb; it keeps the link with the noun ἁγιασμός, \"sanctification\".")))
 
-(lemma "ἀγνοέω" (sense be-ignorant (verb "be ignorant" "was ignorant" "been ignorant") (gloss "be ignorant" "is ignorant" "was ignorant" "been ignorant" "being ignorant") (why "Not to know, be ignorant (Genesis 20:4 ἔθνος ἀγνοοῦν, a nation acting in ignorance; Romans 10:3). \"Be ignorant\" keeps it apart from γινώσκω \"know\" and its negation.")))
+(lemma "ἅγιος" (sense holy (gloss "holy") (why "Holy, set apart to God (Exodus 3:5, γῆ ἁγία ἐστίν, \"is holy ground\" said of the place of the bush; Matthew 4:5 the holy city; 1 Peter 1:16 quoting Leviticus). The adjective of ἁγιάζω \"sanctify\". (LXX form supplied.)")))
+
+(lemma "ἀγκύλη" (sense loop (gloss "loop" "loops") (why "(LXX, supplied.) A loop, a bent cord or eye (ἀγκ- \"bend\"): the fifty loops of blue on the edges of the tabernacle's curtains and skin-cloths, which the clasps (κρίκοι) join (Exodus 26:4-11; 36). Tabernacle term: always \"loop\".")))
+
+(lemma "ἀγκωνίσκος" (sense little-elbow (gloss "little elbow" "little elbows") (why "(LXX, supplied.) Diminutive of ἀγκών \"elbow\": the two small bent arms at the foot of each column of the tabernacle, by which it stands in its bases (Exodus 26:17; 36), where the Hebrew has \"hands\" (tenons). \"Little elbow\" keeps the Greek picture. Tabernacle term.")))
+
+(lemma "ἁγνίζω" (sense purify (gloss "purify" "purified" "purifies" "purifying") (why "To purify, make ritually clean (Exodus 19:10, the people purified before the third day at Sinai; John 11:55; James 4:8). Kept apart from ἁγιάζω \"sanctify\". (LXX form supplied.)")))
+
+(lemma "ἀγνοέω"(sense be-ignorant (verb "be ignorant" "was ignorant" "been ignorant") (gloss "be ignorant" "is ignorant" "was ignorant" "been ignorant" "being ignorant") (why "Not to know, be ignorant (Genesis 20:4 ἔθνος ἀγνοοῦν, a nation acting in ignorance; Romans 10:3). \"Be ignorant\" keeps it apart from γινώσκω \"know\" and its negation.")))
 
 (lemma "ἀγνόημα" (sense mistake (gloss "mistake" "mistakes") (why "(LXX, supplied.) A thing done in ignorance, an error, mistake (Genesis 43:12, the silver returned in the sacks: μή ποτε ἀγνόημά ἐστιν, \"lest it is mistake\"; Hebrews 9:7 τῶν τοῦ λαοῦ ἀγνοημάτων). \"Mistake\" keeps it apart from ἄγνοια \"ignorance\".")))
 
@@ -94,17 +108,25 @@
 
 (lemma "ἀδολεσχέω" (sense muse (gloss "muse" "mused" "muses" "musing") (why "(LXX, supplied.) To talk at length, ponder, muse (Genesis 24:63, Isaac went out into the plain ἀδολεσχῆσαι; the Psalms use it of musing on God's works). The Hebrew word there is uncertain; the Greek is musing, talking with oneself.")))
 
+(lemma "ἁδρύνω" (sense grow-up (voice active) (intransitive) (verb "grow up" "grew up" "grown up") (gloss "grow up" "grew up" "grown up" "grows up" "growing up") (why "(LXX, supplied.) To ripen, bring to maturity; passive, to grow up, come of age (Exodus 2:10 ἁδρυνθέντος δὲ τοῦ παιδίου, the child having grown up). The passive is rendered active, \"grow up\"; kept apart from αὐξάνω \"grow\".")))
+
 (lemma "ἀδυνατέω" (sense be-impossible (intransitive) (verb "be impossible" "was impossible" "been impossible") (gloss "be impossible" "is impossible" "was impossible" "been impossible" "being impossible" "is not impossible") (why "(LXX, supplied.) To be impossible, unable (Genesis 18:14 μὴ ἀδυνατεῖ παρὰ τῷ θεῷ ῥῆμα; Luke 1:37 echoes it, οὐκ ἀδυνατήσει παρὰ τοῦ θεοῦ πᾶν ῥῆμα; Matthew 17:20). \"Be impossible\" keeps the δυνατός root (\"possible\") visible.")))
 
 (lemma "ἀέναος" (sense everflowing (gloss "everflowing") (why "(LXX, supplied.) Ever-flowing, and so everlasting (Genesis 49:26 θινῶν ἀενάων, \"of everflowing mounds\"). \"Everflowing\" keeps it apart from αἰώνιος and ἀΐδιος.")))
 
-(lemma "Ἁζαῦ" (sense name (gloss "Hazo") (why "(LXX, supplied.) Nahor's son (Genesis 22:22); the Greek form of the Hebrew Hazo. Traditional English Hazo.")))
+(lemma "ἀετός" (sense eagle (gloss "eagle" "eagles") (why "An eagle (Exodus 19:4, ὡσεὶ ἐπὶ πτερύγων ἀετῶν, \"as upon wings of eagles\"; Matthew 24:28; Revelation 4:7). (LXX form supplied.)")))
+
+(lemma "Ἁζαῦ"(sense name (gloss "Hazo") (why "(LXX, supplied.) Nahor's son (Genesis 22:22); the Greek form of the Hebrew Hazo. Traditional English Hazo.")))
 
 (lemma "ἄζυμος" (sense unleavened (gloss "unleavened") (why "Unleavened (Genesis 19:3, Lot bakes ἀζύμους, unleavened loaves; τὰ ἄζυμα, the feast of unleavened bread, Mark 14:1; 1 Corinthians 5:8).")))
 
 (lemma "Ἀηδίς" (sense name (gloss "Eri") (why "(LXX, supplied.) A son of Gad (Genesis 46:16), Greek Ἀηδίς, standing where the Hebrew has Eri (the Greek δ for ρ); traditional English Eri.")))
 
-(lemma "ἀθῷος" (sense innocent (gloss "innocent") (why "Guiltless, free of a charge or obligation (Genesis 24:41, ἀθῷος ἔσῃ ἐκ τῆς ἀρᾶς μου; Matthew 27:4, 24). Kept apart from καθαρός \"clean\", which Genesis 24:8 uses for the same release.")))
+(lemma "ἀθετέω" (sense reject (gloss "reject" "rejected" "rejects" "rejecting") (why "To set aside, reject, break faith with (Exodus 21:8, ὅτι ἠθέτησεν ἐν αὐτῇ, the master who has set aside the slave girl; Mark 6:26; Luke 10:16; Galatians 3:15). (LXX form supplied.)")))
+
+(lemma "ἀθῷος"(sense innocent (gloss "innocent") (why "Guiltless, free of a charge or obligation (Genesis 24:41, ἀθῷος ἔσῃ ἐκ τῆς ἀρᾶς μου; Matthew 27:4, 24). Kept apart from καθαρός \"clean\", which Genesis 24:8 uses for the same release.")))
+
+(lemma "αἴγειος" (sense goats (gloss "goat's") (why "(LXX, supplied.) Of a goat, goat's (Exodus 25:4 τρίχας αἰγίας, Swete's spelling, the goats' hair given for the tent; Hebrews 11:37 ἐν αἰγείοις δέρμασιν). \"Goat's\" goes before its noun as an adjective; αἴξ is the noun \"goat\".")))
 
 (lemma "Αἰγύπτιος" (sense name (person) (gloss "Egyptian" "Egyptians") (why "(Supplied for Genesis 12.) An Egyptian, one of the people of Αἴγυπτος (Genesis 12:12, 14; Acts 7:22, 24).")))
 
@@ -113,6 +135,8 @@
 (lemma "Ἀιέ" (sense name (gloss "Aiah") (why "(LXX, supplied.) A son of Zibeon (Genesis 36:24), Greek Ἀιέ; traditional English Aiah.")))
 
 (lemma "Αἰζήλ"(sense name (gloss "Uzal") (why "(LXX, supplied.) A son of Joktan (Genesis 10:27), Greek Αἰζήλ; traditional English Uzal.")))
+
+(lemma "αἰθάλη" (sense soot (gloss "soot" "soots") (why "(LXX, supplied.) Soot, the fine ash of a kiln (Exodus 9:8, 10, αἰθάλης καμιναίας, which Moses sprinkles toward heaven and which becomes sores).")))
 
 (lemma "Αἰθιοπία"
   (sense name
@@ -150,6 +174,8 @@
     (gloss "ashamed")
     (why "Lemma form as in the New Testament table. The middle/passive, the only voice used so far, is \"be ashamed\"; the imperfect is \"were being ashamed\" in the literal layer (Genesis 2:25).")))
 
+(lemma "αἰτέω" (sense request (gloss "request" "requested" "requests" "requesting") (why "To ask for, request something (Exodus 3:22, each woman will request vessels of silver and gold from her neighbor; Matthew 7:7; John 14:13). \"Request\" keeps it apart from ἐρωτάω \"ask\", as that entry foresees.")))
+
 (lemma "αἰτία" (sense charge (gloss "charge" "charges") (why "Cause, accusation, the charge against someone (Matthew 27:37, the charge over the cross). Genesis 4:13 \"greater [is] my charge\".")))
 
 (lemma "αἰχμαλωτεύω" (sense capture (gloss "capture" "captured" "captures" "capturing") (why "(LXX, supplied.) To take a prisoner of war, from αἰχμάλωτος \"captive\" (Genesis 14:14, Lot was captured; Ephesians 4:8 quoting Psalm 67:19 has the same verb).")))
@@ -173,7 +199,11 @@
     (gloss "unfurnished")
     (why "(LXX, supplied.) \"Not built, not equipped\", from κατασκευάζω, \"to prepare, build, furnish\" (Hebrews 3:3-4, God the builder of all things; 11:7, the ark). Genesis 1:2 describes an earth not yet furnished with what days 3-6 bring. \"Unformed\" would import the Hebrew-based \"without form\"; \"unfurnished\" is the Greek word's own sense.")))
 
-(lemma "ἀκουστός" (sense audible (gloss "audible") (why "(LXX, supplied.) Heard, audible, the verbal adjective of ἀκούω (Genesis 45:2, Joseph's weeping became audible into Pharaoh's house).")))
+(lemma "ἀκίνητος" (sense immovable (gloss "immovable") (why "(LXX, supplied.) Not moved, immovable (Exodus 25:15, the carrying poles stay in the ark's rings, οἱ ἀναφορεῖς ἀκίνητοι). From κινέω \"move\"; kept apart from ἀσάλευτος.")))
+
+(lemma "ἀκοή" (sense hearing (dative "by") (gloss "hearing" "hearings") (why "Hearing, the act or sense of hearing, and what is heard, a report (Exodus 19:5, ἐὰν ἀκοῇ ἀκούσητε, \"if you hear by hearing\", the Hebrew infinitive absolute in Greek dress; Matthew 13:14 quoting Isaiah; Romans 10:17). The English \"hearing\" is also a form of ἀκούω \"hear\"; the cognate noun cannot well avoid it. (LXX form supplied.)")))
+
+(lemma "ἀκουστός"(sense audible (gloss "audible") (why "(LXX, supplied.) Heard, audible, the verbal adjective of ἀκούω (Genesis 45:2, Joseph's weeping became audible into Pharaoh's house).")))
 
 (lemma "ἀκούω"
   (sense hear
@@ -181,6 +211,8 @@
     (dative "")
     (gloss "hear" "heard" "hears" "hearing")
     (why "To hear. With the genitive of a person's voice it can mean \"heed, obey\" (Genesis 3:17); the literal layer keeps \"hear\" and the readable layer may say \"listen to\".")))
+
+(lemma "ἀκρίς" (sense locust (gloss "locust" "locusts") (why "The locust (Exodus 10:4-19, the eighth plague; Matthew 3:4; Revelation 9:3, 7). The Greek singular is collective (ἀκρίδα πολλήν, \"much locust\"); the literal layer keeps the singular.")))
 
 (lemma "ἀκροβυστία" (sense foreskin (gloss "foreskin" "foreskins") (why "The foreskin (Genesis 17:11-25, ἡ σὰρξ τῆς ἀκροβυστίας \"the flesh of the foreskin\"; Acts 11:3); in Paul also uncircumcision as a state (Romans 2:25-29), which will be its own sense.")))
 
@@ -198,7 +230,8 @@
 
 (lemma "ἀλλά" (sense rather (gloss "rather") (why "The strong adversative, usually after a negative: \"not ... rather\" (Genesis 17:5, 15; 18:15 Οὐχί, ἀλλὰ ἐγέλασας \"No, rather you laughed\"). Not \"but\", which δέ always takes so the two stay apart (see δέ); \"rather\" keeps the correction ἀλλά makes. The owner may prefer a different split.")))
 
-(lemma "ἀλλάσσω" (sense change (gloss "change" "changed" "changes" "changing") (why "(LXX form supplied.) To change, exchange (Genesis 35:2 ἀλλάξατε τὰς στολὰς ὑμῶν, \"change your robes\"; Acts 6:14; Galatians 4:20).")))
+(lemma "ἀλλάσσω" (sense change (gloss "change" "changed" "changes" "changing") (why "(LXX form supplied.) To change, exchange (Genesis 35:2 ἀλλάξατε τὰς στολὰς ὑμῶν, \"change your robes\"; Acts 6:14; Galatians 4:20)."))
+  (sense exchange (dative "for") (gloss "exchange" "exchanged" "exchanges" "exchanging") (why "To give one thing for another, exchange, with the price in the dative (Exodus 13:13, ὄνου ἀλλάξεις προβάτῳ, \"you will exchange for sheep\"; Romans 1:23). Chosen by the form rows.")))
 
 (lemma "ἀλλήλων"(sense one-another (gloss "one another") (why "The reciprocal pronoun: one another (Genesis 15:10; John 13:34).")))
 
@@ -208,9 +241,13 @@
 
 (lemma "ἀλλότριος" (sense foreign (gloss "foreign") (why "Belonging to another, foreign (Genesis 17:12 υἱὸς ἀλλότριος \"foreign son\"; Hebrews 11:9, 34; Matthew 17:25-26).")))
 
+(lemma "ἄλογος" (sense speechless (gloss "speechless") (why "(LXX sense.) Without speech, without reason. Exodus 6:12 ἐγὼ δὲ ἄλογός εἰμι, Moses of himself (the Hebrew has \"uncircumcised of lips\"): \"speechless\", without the gift of speech, beside ἰσχνόφωνος \"thin-voiced\" (6:30). In 2 Peter 2:12 and Jude 10, of animals, \"unreasoning\", a later sense.")))
+
 (lemma "Ἁλοήλ" (sense name (gloss "Jahleel") (why "(LXX, supplied.) A son of Zebulun (Genesis 46:14), Greek Ἁλοήλ; traditional English Jahleel.")))
 
-(lemma "ἀλλοτριόω" (sense estrange (gloss "estrange" "estranged" "estranges" "estranging") (why "(LXX, supplied.) To make strange, alienate; middle, to make oneself a stranger (Genesis 42:7 ἠλλοτριοῦτο ἀπ’ αὐτῶν, Joseph acting as a stranger to his brothers). From ἀλλότριος.")))
+(lemma "ἀλοιφή" (sense smearing (dative "with") (gloss "smearing") (why "(LXX, supplied.) A smearing, an ointment or plaster (the noun of ἀλείφω \"anoint\", smear). Exodus 17:14, ἀλοιφῇ ἐξαλείψω τὸ μνημόσυνον Ἀμαλήκ, \"with smearing I will blot out\": the noun is set beside its compound verb ἐξαλείφω, as the Hebrew doubles \"blot out\"; the literal keeps the noun's own sense. Not \"wiping\", which ἀπαλείφω \"wipe out\" has.")))
+
+(lemma "ἀλλοτριόω"(sense estrange (gloss "estrange" "estranged" "estranges" "estranging") (why "(LXX, supplied.) To make strange, alienate; middle, to make oneself a stranger (Genesis 42:7 ἠλλοτριοῦτο ἀπ’ αὐτῶν, Joseph acting as a stranger to his brothers). From ἀλλότριος.")))
 
 (lemma "Ἁμαθί" (sense name (gloss "Hamathite") (why "(LXX, supplied.) The people of Hamath, last of Canaan's descendants (Genesis 10:18, τὸν Ἁμαθί, indeclinable); traditional English \"the Hamathite\".")))
 
@@ -239,6 +276,10 @@
 (lemma "Ἀμαρφάλ" (sense name (gloss "Amraphel") (why "(LXX, supplied.) King of Shinar (Genesis 14:1, 9); traditional English Amraphel.")))
 
 (lemma "ἀμβλύνω" (sense dull (gloss "dull" "dulled" "dulls" "dulling") (why "(LXX, supplied.) To blunt, dull; passive of eyes grown dim (Genesis 27:1 ἠμβλύνθησαν οἱ ὀφθαλμοὶ αὐτοῦ, \"his eyes were dulled\"). \"Dull\" keeps the image of a blunted edge.")))
+
+(lemma "Ἀμβράμ" (sense name (gloss "Amram") (why "(LXX, supplied.) Kohath's son, father of Aaron and Moses (Exodus 6:18, 20; Swete prints Ἀμβράμ and Ἀμβράν). The Greek has β inside the Hebrew Amram; the same name, traditional English Amram (rule 8).")))
+
+(lemma "Ἀμειναδάβ" (sense name (gloss "Amminadab") (why "(LXX, supplied.) Father of Elisheba, Aaron's wife, and of Nahshon (Exodus 6:23); Matthew 1:4 and Luke 3:33 spell Ἀμιναδάβ, the same man. Traditional English Amminadab.")))
 
 (lemma "ἄμεμπτος" (sense blameless (gloss "blameless") (why "Without blame (Genesis 17:1 γίνου ἄμεμπτος; Luke 1:6; Philippians 2:15; 3:6).")))
 
@@ -287,7 +328,10 @@
     (gloss "go up" "goes up" "going up" "went up" "gone up")
     (why "(Supplied in Genesis 2:6, where the form is LXX-only.) To go up, ascend. \"Go up\" covers both a spring rising (Genesis 2:6) and going up to Jerusalem (Mark 10:33).")))
 
-(lemma "ἀναβιβάζω" (sense mount-up (verb "mount up" "mounted up" "mounted up") (gloss "mount up" "mounted up" "mounts up" "mounting up") (why "To make go up, set up on (Genesis 41:43 ἀνεβίβασεν αὐτὸν ἐπὶ τὸ ἅρμα, Pharaoh putting Joseph on the chariot; Matthew 13:48, drawing up the net). \"Mount up\" (transitive) keeps it apart from ἐπιβαίνω \"mount\" and ἀναφέρω \"bring up\".")))
+(lemma "ἀναβάτης" (sense rider (person) (gloss "rider" "riders") (why "(LXX, supplied.) One mounted, a rider (Exodus 14:23, 26, 28, οἱ ἀναβάται with Pharaoh's chariots; 15:1). From ἀναβαίνω, go up, mount.")))
+
+(lemma "ἀναβιβάζω" (sense mount-up (verb "mount up" "mounted up" "mounted up") (gloss "mount up" "mounted up" "mounts up" "mounting up") (why "To make go up, set up on (Genesis 41:43 ἀνεβίβασεν αὐτὸν ἐπὶ τὸ ἅρμα, Pharaoh putting Joseph on the chariot; Matthew 13:48, drawing up the net). \"Mount up\" (transitive) keeps it apart from ἐπιβαίνω \"mount\" and ἀναφέρω \"bring up\"."))
+  (sense make-go-up (verb "make go up" "made go up" "made go up") (gloss "make go up" "made go up" "makes go up" "making go up") (why "The causative of ἀναβαίνω, of bringing a people up out of a land (Exodus 17:3, Ἵνα τί τοῦτο ἀνεβίβασας ἡμᾶς ἐξ Αἰγύπτου;). \"Make go up\" because \"bring up\" is ἀναφέρω's and \"lead up\" ἀνάγω's; chosen by the form row of ἀνεβίβασας.")))
 
 (lemma "ἀναβοάω" (sense cry-aloud (gloss "cry aloud" "cried aloud" "cries aloud" "crying aloud") (why "(LXX, supplied.) To cry out loud, shout (Genesis 27:34, Esau ἀνεβόησεν φωνὴν μεγάλην; Matthew 27:46). \"Cry aloud\" keeps it apart from βοάω \"cry out\".")))
 
@@ -298,13 +342,20 @@
     (gloss "declare" "declared" "declares" "declaring")
     (why "To report, announce, declare (John 4:25; 16:13-15). \"Declare\" keeps it apart from λέγω \"say\" and ἀπαγγέλλω.")))
 
+(lemma "ἀναγινώσκω" (sense read (verb "read" "read" "read") (gloss "read" "reads" "reading") (why "(LXX form supplied.) To read, read aloud (Exodus 24:7, Moses read the book of the covenant into the ears of the people; Luke 4:16; Acts 8:28).")))
+
 (lemma "ἀνάγω" (sense lead-up (verb "lead up" "led up" "led up") (gloss "lead up" "led up" "leads up" "leading up") (why "(LXX form supplied.) To lead or bring up (Genesis 50:24, God will lead you up out of this land; Luke 2:22; Matthew 4:1). \"Lead up\" because ἀναφέρω has \"bring up\".")))
 
 (lemma "ἀναγνωρίζω" (sense make-known (verb "make known" "made known" "made known") (gloss "make known" "made known" "makes known" "making known") (why "(LXX, supplied.) Passive: to be recognized, make oneself known again (Genesis 45:1, ἀνεγνωρίζετο Ἰωσὴφ τοῖς ἀδελφοῖς αὐτοῦ, \"Joseph was being made known to his brothers\"; Acts 7:13 quotes it).")))
 
+(lemma "ἀναζεύγνυμι" (sense break-camp (intransitive) (verb "break camp" "broke camp" "broken camp") (gloss "break camp" "broke camp" "broken camp" "breaks camp" "breaking camp") (why "(LXX, supplied.) To yoke up again, so to break camp and move on (Exodus 14:15, λάλησον τοῖς υἱοῖς Ἰσραὴλ καὶ ἀναζευξάτωσαν, \"let them break camp\"). Kin to ζεύγνυμι \"yoke\".")))
+
+(lemma "ἀναζέω" (sense boil-up (intransitive) (verb "boil up" "boiled up" "boiled up") (gloss "boil up" "boiled up" "boils up" "boiling up") (why "(LXX, supplied.) To boil up, break out (Exodus 9:9-10, φλυκτίδες ἀναζέουσαι, \"blisters boiling up\", of the sores).")))
+
 (lemma "ἀναζωπυρέω" (sense rekindle (intransitive) (gloss "rekindle" "rekindled" "rekindles" "rekindling") (why "To kindle again, come to life again (Genesis 45:27, the spirit of Jacob rekindled; 2 Timothy 1:6, ἀναζωπυρεῖν τὸ χάρισμα). Intransitive in Genesis.")))
 
-(lemma "ἀναιρέω" (sense take-away (verb "take away" "took away" "taken away") (gloss "take away" "took away" "taken away" "taking away") (why "To take up, take away, and so do away with, kill (Acts 2:23). Kept apart from ἀποκτείνω \"kill\".")))
+(lemma "ἀναιρέω" (sense take-away (verb "take away" "took away" "taken away") (gloss "take away" "took away" "taken away" "taking away") (why "To take up, take away, and so do away with, kill (Acts 2:23). Kept apart from ἀποκτείνω \"kill\"."))
+  (sense take-up (verb "take up" "took up" "taken up") (gloss "take up" "took up" "taken up" "takes up" "taking up") (why "The middle, to take up for oneself, pick up, of a foundling (Exodus 2:5 ἀνείλατο αὐτήν, Pharaoh's daughter took up the basket; 2:10 ἐκ τοῦ ὕδατος αὐτὸν ἀνειλόμην; Acts 7:21 ἀνείλατο αὐτόν). \"Take away\" would say she removed him; chosen by form row or override.")))
 
 (lemma "ἀναλαμβάνω" (sense take-up(gloss "take up" "took up" "taken up" "takes up" "taking up") (why "To take up, take along (Genesis 24:61, the servant took up Rebekah; Acts 1:2, 11; 2 Timothy 4:11). Kept apart from λαμβάνω \"take\" by the particle.")))
 
@@ -344,9 +395,17 @@
 
 (lemma "ἀναφέρω" (sense bring-up (gloss "bring up" "brought up" "brings up" "bringing up") (why "To carry up, bring up, and so offer up a sacrifice on an altar (Genesis 8:20, Noah brought up a whole offering on the altar; Hebrews 7:27; James 2:21). \"Bring up\" keeps the ἀνα- and the literal motion; it is kept apart from φέρω \"carry\".")))
 
+(lemma "ἀναφορεύς" (sense carrying-pole (gloss "carrying pole" "carrying poles") (why "(LXX, supplied.) A bearer, the pole by which a thing is carried (from ἀναφέρω \"bring up\", φέρω \"carry\"): the poles of the ark, the table and the altars, put through their rings (Exodus 25:13-15, 27-28; 27:6-7; 30:4-5; 35-40). Tabernacle term: always \"carrying pole\", kept apart from ῥάβδος \"rod\" and στῦλος.")))
+
+(lemma "ἀνάψυξις" (sense respite (gloss "respite") (why "(LXX, supplied.) A cooling off, a breathing space, relief (Exodus 8:15, Pharaoh saw that respite had come when the frogs died; Acts 3:20 καιροὶ ἀναψύξεως). \"Respite\" keeps it apart from ἀνάπαυσις \"rest\".")))
+
+(lemma "ἄνεμος" (sense wind (gloss "wind" "winds") (why "Wind (Exodus 10:13, 19, the south wind that brings the locust and the sea wind that takes it away; Matthew 7:25; 8:26). Kept apart from πνεῦμα \"spirit, breath\".")))
+
 (lemma "ἀνέχομαι" (sense bear-with (genitive "") (verb "bear with" "bore with" "borne with") (gloss "bear with" "bore with" "borne with" "bears with" "bearing with") (why "To hold up under, bear with, endure, with the genitive (Genesis 45:1, Joseph could not bear with all those standing by him; Matthew 17:17; 2 Corinthians 11:1).")))
 
 (lemma "ἀναφύω" (sense spring-up (verb "spring up" "sprang up" "sprung up") (gloss "spring up" "sprang up" "sprung up" "springs up" "springing up") (why "(LXX, supplied.) To make grow up; middle, to spring up, sprout (Genesis 41:6, 23 ἀνεφύοντο, the thin ears springing up after the full ones). Compare φύω, \"grow\" (Luke 8:6).")))
+
+(lemma "ἀναχωρέω" (sense retreat (intransitive) (gloss "retreat" "retreated" "retreats" "retreating") (why "To go back, withdraw, take refuge away from danger (Exodus 2:15 ἀνεχώρησεν δὲ Μωυσῆς ἀπὸ προσώπου Φαραώ; Matthew 2:14, 22; 12:15). \"Retreat\" keeps it apart from ἀφίστημι \"withdraw\".")))
 
 (lemma "ἀνεμόφθορος" (sense wind-blighted (gloss "wind-blighted") (why "(LXX, supplied.) Spoiled by wind (ἄνεμος + φθείρω), of ears of grain blasted by the east wind (Genesis 41:6-27).")))
 
@@ -392,12 +451,18 @@
 
 (lemma "ἀντιλαμβάνω" (sense lay-hold (genitive "of") (verb "lay hold" "laid hold" "laid hold") (gloss "lay hold" "laid hold" "lays hold" "laying hold") (why "Middle, with the genitive: to take hold of, lay hold of (Genesis 48:17, Joseph laid hold of his father's hand; Luke 1:54; Acts 20:35, \"help\"). \"Lay hold\" keeps it apart from ἐπιλαμβάνω \"take hold\". The sense \"help\" may become its own.")))
 
+(lemma "ἀντιλογία" (sense contention (gloss "contention" "contentions") (why "(LXX form supplied.) Speaking against, a dispute brought for judgment (Exodus 18:16, ὅταν γένηται αὐτοῖς ἀντιλογία, the cases brought to Moses; Hebrews 6:16; Jude 11). \"Contention\" because \"dispute\" is κρίνω's middle sense.")))
+
 (lemma "ἀντιλέγω"(sense speak-against(gloss "speak against" "spoke against" "spoken against" "speaks against" "speaking against") (why "To speak against, contradict (Luke 2:34; John 19:12). The table lemmatizes the aorist ἀντειπεῖν under it (Genesis 24:50; Acts 4:14)."))
   (sense reply (gloss "reply" "replied" "replies" "replying") (why "(LXX sense, supplied.) The future ἀντερῶ, \"I will say back, reply\" (Genesis 44:16 Τί ἀντεροῦμεν τῷ κυρίῳ; \"What will we reply to the lord?\"), Judah with no defense to make, not contradicting. Chosen in the form row for ἀντεροῦμεν.")))
+
+(lemma "ἀντιπίπτω" (sense fall-opposite (intransitive) (verb "fall opposite" "fell opposite" "fallen opposite") (gloss "fall opposite" "fell opposite" "fallen opposite" "falls opposite" "falling opposite") (why "To fall against, lie over against: the loops of two curtains facing one another (Exodus 26:5, ἀντιπρόσωποι ἀντιπίπτουσαι ἀλλήλαις) and the two little elbows of a column (26:17). The New Testament's resisting (Acts 7:51, ἀντιπίπτετε, falling against the Spirit) will be its own sense.")))
 
 (lemma "ἀντιπρόσωπος" (sense face-to-face (gloss "face to face") (why "(LXX, supplied.) Facing, set opposite (ἀντί + πρόσωπον \"face\"): Genesis 15:10, the halves set \"face to face to one another\". Not \"facing\", which ἀπέναντι has.")))
 
 (lemma "ἀντλέω" (sense draw (gloss "draw" "drew" "drawn" "draws" "drawing") (why "To draw water (Genesis 24:13, 20; John 2:8-9; 4:7, 15). Kept apart from ὑδρεύομαι \"fetch water\".")))
+
+(lemma "ἀνυπομόνητος" (sense unendurable (gloss "unendurable") (why "(LXX, supplied.) Not to be endured, unbearable (ἀ- + ὑπομένω; Exodus 18:18, φθορᾷ ... ἀνυπομονήτῳ, Jethro on Moses judging alone).")))
 
 (lemma "ἄνω" (sense above (gloss "above") (why "Above (Exodus 20:4; John 8:23).")))
 
@@ -406,6 +471,10 @@
 (lemma "ἄξιος" (sense worthy (gloss "worthy") (why "Worthy, of full value (Genesis 23:9, ἀργυρίου τοῦ ἀξίου, \"for the worthy silver\", the full price; Matthew 10:10; Luke 15:19).")))
 
 (lemma "ἀξιόω" (sense deem-worthy (verb "deem worthy" "deemed worthy" "deemed worthy") (gloss "deem worthy" "deemed worthy" "deems worthy" "deeming worthy") (why "To count worthy (Genesis 31:28 οὐκ ἠξιώθην καταφιλῆσαι, \"I was not deemed worthy to kiss\"; Luke 7:7; 2 Thessalonians 1:11). The verb of ἄξιος.")))
+
+(lemma "ἀξίωμα" (sense assessment (gloss "assessment" "assessments") (why "(LXX, supplied.) What is reckoned fit (ἀξιόω \"deem worthy\"), a valuation or an assessed amount (Exodus 21:22, δώσει μετὰ ἀξιώματος, the fine paid \"with assessment\").")))
+
+(lemma "ἄξων"(sense axle (gloss "axle" "axles") (why "(LXX, supplied.) The axle of a wheel (Exodus 14:25, συνέδησεν τοὺς ἄξονας τῶν ἁρμάτων αὐτῶν).")))
 
 (lemma "ἀορασία" (sense blindness (dative "with") (gloss "blindness") (why "(LXX, supplied.) Blindness, inability to see (ἀ- + ὁράω): Genesis 19:11 ἐπάταξαν ἀορασίᾳ, struck with blindness. The dative is instrumental, \"with blindness\".")))
 
@@ -422,9 +491,13 @@
 
 (lemma "ἀπαλείφω" (sense wipe-out (gloss "wipe out" "wiped out" "wipes out" "wiping out") (why "(LXX, supplied.) To wipe off, wipe out (Genesis 6:7; 7:4, of the flood). Kept apart from ἐξαλείφω (Acts 3:19), which will need its own English.")))
 
-(lemma "ἁπαλός" (sense tender (comparative "more tender") (gloss "tender") (why "Soft, tender (Genesis 27:9, two tender kids; Matthew 24:32, the branch becomes tender). (LXX form supplied.)")))
+(lemma "ἀπαλλάσσω" (sense be-rid (verb "be rid" "was rid" "been rid") (intransitive) (gloss "be rid" "was rid" "is rid" "been rid" "being rid") (why "(LXX, supplied.) To set free, remove, and intransitively to be quit of, be rid, depart (Exodus 19:22, μή ποτε ἀπαλλάξῃ ἀπ’ αὐτῶν Κύριος, \"lest the Lord be rid from them\"; the sense there, whether the Lord withdraws or does away with some of them, is uncertain; Luke 12:58, Hebrews 2:15, \"set free\", will be its own sense). Kept apart from ἀφίστημι \"withdraw\" and ἀφαιρέω \"remove\".")))
+
+(lemma "ἁπαλός"(sense tender (comparative "more tender") (gloss "tender") (why "Soft, tender (Genesis 27:9, two tender kids; Matthew 24:32, the branch becomes tender). (LXX form supplied.)")))
 
 (lemma "ἀπαντάω" (sense meet (dative "") (gloss "meet" "met" "meets" "meeting") (why "To meet, come upon, with the dative (Genesis 28:11 ἀπήντησεν τόπῳ, \"met [a] place\", came upon it; Mark 14:13). (LXX form supplied.)")))
+
+(lemma "ἀπαρχή" (sense firstfruit (gloss "firstfruit" "firstfruits") (why "The first part taken off, firstfruits (Romans 8:23; 1 Corinthians 15:20), and so an offering set apart: Exodus 25:2-3, the gifts for the tent, λάβετε ἀπαρχάς. \"Firstfruit\" kept in both uses so the word stays recognizable.")))
 
 (lemma "ἅπαξ" (sense once (gloss "once") (why "Once, a single time (Genesis 18:32 ἔτι ἅπαξ \"yet once\", as Hebrews 12:26-27; 9:7).")))
 
@@ -453,12 +526,16 @@
   (sense have-in-full (verb "have in full" "had in full" "had in full") (gloss "have in full" "had in full" "has in full" "having in full") (why "(LXX form supplied.) Transitive: to have received in full, have paid (Genesis 43:23 τὸ δὲ ἀργύριον ὑμῶν εὐδοκιμοῦν ἀπέχω, \"but your silver, being approved, I have in full\"; Matthew 6:2, they have their reward in full; Philippians 4:18)."))
   (sense be-distant (verb "be distant" "was distant" "been distant") (gloss "be distant" "is distant" "was distant" "were distant" "been distant" "being distant" "were not distant" "was not distant") (why "(LXX, supplied.) Intransitive: to be away, be distant (Genesis 44:4 οὐκ ἀπέσχον μακράν, \"they were not distant far off\"; Luke 7:6; 15:20). Chosen in the form row for ἀπέσχον.")))
 
+(lemma "ἀπηλιώτης" (sense east-wind (gloss "east wind" "east winds") (why "(LXX, supplied.) The wind from the sunrise (ἀπὸ ἡλίου), and so the east as a quarter: the side of the court τῷ πρὸς ἀπηλιώτην, \"toward east wind\" (Exodus 27:11; 38). Kept apart from ἀνατολή \"east\" (the rising) and from νότος \"south\", βορρᾶς \"north\", λίψ \"southwest\", θάλασσα \"sea\" (west).")))
+
 (lemma "ἄπλαστος" (sense plain (gloss "plain") (why "(LXX, supplied.) Literally \"unmolded\", not shaped or put on: simple, plain, without guile. Genesis 25:27, Jacob \"plain human dwelling [a] house\", over against Esau the hunter. \"Plain\" is an adjective; πεδίον has the noun \"plain\", a different part of speech.")))
 
 (lemma "ἀπό"
   (sense from
     (gloss "from")
     (why "Separation or source: \"from\". Partitive uses (\"from every tree\", \"of\") keep \"from\" in the literal layer.")))
+
+(lemma "ἀποβαίνω" (sense turn-out (intransitive) (verb "turn out" "turned out" "turned out") (gloss "turn out" "turned out" "turns out" "turning out") (why "To step off, and so to come out, result, turn out (Exodus 2:4 μαθεῖν τί τὸ ἀποβησόμενον αὐτῷ, to learn what would turn out for him; Luke 21:13; Philippians 1:19). Kept apart from στρέφω \"turn\".")))
 
 (lemma "ἀπογαλακτίζω" (sense wean (gloss "wean" "weaned" "weans" "weaning") (why "(LXX, supplied.) To wean a child from milk (γάλα): Genesis 21:8.")))
 
@@ -478,7 +555,8 @@
 
 (lemma "ἀποίχομαι" (sense go-off (verb "go off" "went off" "gone off") (gloss "go off" "went off" "gone off" "goes off" "going off") (why "(LXX, supplied.) To be gone, go off (Genesis 14:12, the kings took Lot and were going off). \"Go off\" keeps it apart from ἀπέρχομαι \"go away\" and ἀπαίρω \"depart\".")))
 
-(lemma "ἀποκαθίστημι" (sense restore (gloss "restore" "restored" "restores" "restoring") (why "To restore, give back (Matthew 12:13; Acts 1:6); in Genesis 23:16 of paying over the silver to Ephron. Swete's ἀπεκατέστησεν has the double augment.")))
+(lemma "ἀποκαθίστημι" (sense restore (gloss "restore" "restored" "restores" "restoring") (why "To restore, give back (Matthew 12:13; Acts 1:6); in Genesis 23:16 of paying over the silver to Ephron. Swete's ἀπεκατέστησεν has the double augment."))
+  (sense be-restored (intransitive) (verb "be restored" "was restored" "been restored") (gloss "be restored" "was restored" "been restored" "is restored" "being restored") (why "(LXX, supplied.) The intransitive second aorist ἀπεκατέστη: to be restored, return to a former state (Exodus 4:7, Moses' hand restored to the color of its flesh; Mark 8:25 ἀπεκατέστη, the blind man restored). Active Greek, but English \"restored\" with no object reads as if the hand restored something; \"was restored\" says what the Greek says. Chosen by the form row.")))
 
 (lemma "ἀποκαλύπτω" (sense uncover (gloss "uncover" "uncovered" "uncovers" "uncovering") (why "To uncover, reveal. \"Uncover\" for the literal sense (Exodus 20:26); \"reveal\" becomes its own sense for revelation (Matthew 11:25).")))
 
@@ -492,7 +570,11 @@
 
 (lemma "ἀποκυλίω" (sense roll-away (verb "roll away" "rolled away" "rolled away") (gloss "roll away" "rolled away" "rolls away" "rolling away") (why "To roll away, roll off (Genesis 29:3, 8, 10, the stone from the mouth of the well; Matthew 28:2; Mark 16:3-4).")))
 
-(lemma "ἀπόλλυμι" (sense destroy (gloss "destroy" "destroyed" "destroys" "destroying") (why "Active: to destroy (Genesis 18:24-32, ἀπολεῖς, οὐ μὴ ἀπολέσω; Matthew 10:28). The middle \"perish\" (Luke 13:3) and \"lose\" (Luke 15:4) will be their own senses.")))
+(lemma "ἀπολείπω" (sense fall-short (verb "fall short" "fell short" "fallen short") (gloss "fall short" "fell short" "fallen short" "falls short" "falling short") (why "To leave behind, leave off; of a set task, to fall short of it (Exodus 5:19 Οὐκ ἀπολείψετε τῆς πλινθίας, \"You will not fall short of the brickwork\", the genitive of the part). The New Testament's \"remain\" (Hebrews 4:6, 9 ἀπολείπεται) and \"leave behind\" (2 Timothy 4:13, 20) become senses of their own when needed."))
+  (sense leave-over (verb "leave over" "left over" "left over") (gloss "leave over" "left over" "leaves over" "leaving over") (why "To leave over, leave remaining; the future middle used as a passive in Exodus 12:10 οὐκ ἀπολείψεται ἀπ’ αὐτοῦ ἕως πρωί, \"[anything] will not be left over from it until morning\", the Passover meat. \"Leave over\" keeps it apart from καταλείπω \"leave\" and ὑπολείπω \"leave behind\".")))
+
+(lemma "ἀπόλλυμι" (sense destroy (gloss "destroy" "destroyed" "destroys" "destroying") (why "Active: to destroy (Genesis 18:24-32, ἀπολεῖς, οὐ μὴ ἀπολέσω; Matthew 10:28). The middle \"perish\" (Luke 13:3) and \"lose\" (Luke 15:4) will be their own senses."))
+  (sense perish (intransitive) (gloss "perish" "perished" "perishes" "perishing") (why "The middle and the second perfect ἀπόλωλα: to perish, be lost (Exodus 10:7 ἀπόλωλεν Αἴγυπτος, \"Egypt has perished\"; Luke 13:3; 15:24). \"Perish\" because the active \"destroy\" would make Egypt the destroyer.")))
 
 (lemma "ἀποπεμπτόω" (sense pay-fifth (verb "pay fifth" "paid fifth" "paid fifth") (gloss "pay fifth" "paid fifth" "pays fifth" "paying fifth") (why "(LXX, supplied.) To pay one fifth (πέμπτος) of the produce as a levy: Genesis 47:26, Joseph's decree that the land of Egypt pay [the] fifth to Pharaoh. \"Pay fifth\" keeps the numeral visible, as ἀποδεκατόω is \"tithe\".")))
 
@@ -502,7 +584,9 @@
 
 (lemma "ἀποσκηνόω" (sense decamp (gloss "decamp" "decamped" "decamps" "decamping") (why "(LXX, supplied.) To strike one's tent and move off (Genesis 13:18), from σκηνή \"tent\". \"Decamp\" keeps it apart from ἀπαίρω \"depart\" and σκηνόω \"tent\".")))
 
-(lemma "ἀπολύω" (sense release (gloss "release" "released" "releases" "releasing") (why "To release, let go, send away (Matthew 27:15; Luke 2:29, \"now you release your slave ... in peace\", of dying). Genesis 15:2 ἀπολύομαι ἄτεκνος, \"I am released childless\": I depart this life without children.")))
+(lemma "ἀπολυτρόω" (sense ransom-off (verb "ransom off" "ransomed off" "ransomed off") (gloss "ransom off" "ransomed off" "ransoms off" "ransoming off") (why "(LXX, supplied.) To release on payment of a ransom (λύτρον), let be redeemed (Exodus 21:8, the slave girl her master does not please: ἀπολυτρώσει αὐτήν). \"Ransom off\" keeps it apart from ἀπολύω \"release\"; the noun λύτρον is \"ransom\".")))
+
+(lemma "ἀπολύω"(sense release (gloss "release" "released" "releases" "releasing") (why "To release, let go, send away (Matthew 27:15; Luke 2:29, \"now you release your slave ... in peace\", of dying). Genesis 15:2 ἀπολύομαι ἄτεκνος, \"I am released childless\": I depart this life without children.")))
 
 (lemma "ἀπορέω" (sense be-perplexed (verb "be perplexed" "was perplexed" "been perplexed") (gloss "be perplexed" "was perplexed" "were perplexed" "is perplexed" "been perplexed" "being perplexed") (why "To be at a loss, perplexed (Genesis 32:7 ἠπορεῖτο, Jacob hearing of Esau's four hundred men; Mark 6:20; John 13:22; 2 Corinthians 4:8). The middle is rendered active.")))
 
@@ -518,6 +602,8 @@
   (sense turning
     (gloss "turning")
     (why "(LXX, supplied.) A turning (away or back) to someone, recourse. Genesis 3:16 \"your turning [is] to your man\", where translations from the Hebrew have \"desire\". Same root as ἀποστρέφω (sense turn-back), as in Genesis 3:19.")))
+
+(lemma "ἀποτείνω" (sense stretch-away (verb "stretch away" "stretched away" "stretched away") (gloss "stretch away" "stretched away" "stretches away" "stretching away") (why "(LXX, supplied.) To stretch out away, extend at length (Exodus 8:28 οὐ μακρὰν ἀποτενεῖτε πορευθῆναι, Pharaoh's \"you will not stretch away far to go\"). \"Stretch away\" keeps it apart from ἐκτείνω \"stretch out\" and παρατείνω \"extend\".")))
 
 (lemma "ἀποτίνω" (sense make-good (verb "make good" "made good" "made good") (gloss "make good" "made good" "makes good" "making good") (why "To pay what is owed, make good a loss (Genesis 31:39 ἐγὼ ἀπετίννυον ἀπ’ ἐμαυτοῦ, from the -νυμι form ἀποτιννύω; Philemon 19 ἐγὼ ἀποτίσω). \"Make good\" because \"repay\" is ἀποδίδωμι's and \"pay back\" ἀνταποδίδωμι's.")))
 
@@ -549,7 +635,11 @@
 
 (lemma "Ἀραράτ" (sense name (gloss "Ararat") (why "(LXX, supplied.) Genesis 8:4, τὰ ὄρη τὰ Ἀραράτ, the mountains of Ararat, where the ark settled; indeclinable. Greek and traditional English agree.")))
 
-(lemma "ἀργύριον" (sense silver (gloss "silver") (why "Silver, as metal and as money (Genesis 13:2, rich in silver and gold; Matthew 25:18; Acts 3:6). It shares \"silver\" with the adjective ἀργυροῦς \"of silver\"; a sense \"money\" (Matthew 28:12) may be added where the coins are meant.")))
+(lemma "ἀργία" (sense idleness (gloss "idleness") (why "(LXX, supplied.) Idleness, time lost from work (ἀ- + ἔργον; Exodus 21:19, the striker pays for the injured man's idleness).")))
+
+(lemma "ἀργύριον"(sense silver (gloss "silver") (why "Silver, as metal and as money (Genesis 13:2, rich in silver and gold; Matthew 25:18; Acts 3:6). It shares \"silver\" with the adjective ἀργυροῦς \"of silver\"; a sense \"money\" (Matthew 28:12) may be added where the coins are meant.")))
+
+(lemma "ἄργυρος" (sense silver (gloss "silver") (why "Silver as a metal (Exodus 27:11, the clasps and bands περιηργυρωμέναι ἀργύρῳ, \"silvered around with silver\"; Matthew 10:9; Acts 17:29; James 5:3). It shares \"silver\" with ἀργύριον (silver, money) and the adjective ἀργυροῦς: one metal; the alignment shows which Greek word stands behind it.")))
 
 (lemma "ἀργυροῦς" (sense silver (gloss "silver") (why "Made of silver (Exodus 20:23; Acts 19:24).")))
 
@@ -571,6 +661,8 @@
 (lemma "ἀριστάω" (sense lunch (gloss "lunch" "lunched" "lunches" "lunching") (why "(LXX, supplied.) To take the first or midday meal, ἄριστον (Genesis 43:25 ἐκεῖ μέλλει ἀριστᾷν, at midday; John 21:12, 15; Luke 11:37). \"Lunch\" for the midday meal keeps it apart from δειπνέω \"dine\" (the evening meal) and ἐσθίω \"eat\".")))
 
 (lemma "ἀριστερός" (sense left (gloss "left") (why "Left, the left hand or side (Genesis 13:9, εἰς ἀριστερά \"into left [parts]\"; 14:15; Matthew 6:3).")))
+
+(lemma "ἀρκέω" (sense suffice (gloss "suffice" "sufficed" "suffices" "sufficing") (why "To be enough, suffice (Exodus 12:4 τὸ ἀρκοῦν αὐτῷ, \"the [thing] sufficing to him\", the share of the lamb each can eat; John 14:8; 2 Corinthians 12:9 Ἀρκεῖ σοι ἡ χάρις μου). \"Suffice\" keeps it apart from ἱκανός \"sufficient\".")))
 
 (lemma "Ἀριώχ" (sense name (gloss "Arioch") (why "(LXX, supplied.) King of Ellasar (Genesis 14:1, 9); traditional English Arioch.")))
 
@@ -622,6 +714,8 @@
     (why "Rule, dominion, and (plural) rulers or powers: Genesis 1:16 εἰς ἀρχὰς τῆς ἡμέρας, \"for rules of the day\"; Luke 12:11; Ephesians 1:21; Colossians 1:16. Same English root as ἄρχω (sense rule)."))
   (sense office (gloss "office" "offices") (why "A post held under a ruler, office (Genesis 40:13, 20-21; 41:13, the cupbearer restored to his office; Jude 6, the angels who did not keep their own ἀρχήν). Chosen by word override.")))
 
+(lemma "ἀρχηγός" (sense leader (person) (gloss "leader" "leaders") (why "One who goes first, a head of a family or people (Exodus 6:14 ἀρχηγοὶ οἴκων πατριῶν αὐτῶν, \"leaders of houses of their families\"); of Jesus in Acts 3:15; 5:31; Hebrews 2:10; 12:2. \"Leader\" keeps it apart from ἡγεμών \"chief\".")))
+
 (lemma "ἀρχιδεσμοφύλαξ" (sense chief-jailer (person) (gloss "chief jailer" "chief jailers") (why "(LXX, supplied.) The chief keeper of prisoners (Genesis 39:21-23; 40:3). ἀρχι- \"chief\" with δεσμοφύλαξ, the jailer of Acts 16:23, 27, 36.")))
 
 (lemma "ἀρχιδεσμώτης" (sense chief-prisoner (person) (gloss "chief prisoner" "chief prisoners") (why "(LXX, supplied.) Chief of the prisoners (δεσμώτης \"prisoner\"). Swete prints it in Genesis 40:4 where the verses around have ἀρχιδεσμοφύλαξ \"chief jailer\"; it is rendered as printed.")))
@@ -647,6 +741,8 @@
 
 (lemma "ἄρχων" (sense ruler (person) (gloss "ruler" "rulers") (why "A ruler, chief, official (Genesis 12:15, Pharaoh's officials; Matthew 9:18; John 3:1): the participle of ἄρχω used as a noun, so \"ruler\" beside ἄρχω \"rule\".")))
 
+(lemma "ἀσάλευτος" (sense unshaken (gloss "unshaken") (why "Not shaken, immovable (Exodus 13:16, ἀσάλευτον πρὸ ὀφθαλμῶν σου, where the Hebrew has frontlets; Acts 27:41, the bow stuck fast; Hebrews 12:28, a kingdom not to be shaken). From σαλεύω, to shake.")))
+
 (lemma "Ἁσαρμώθ" (sense name (gloss "Hazarmaveth") (why "(LXX, supplied.) A son of Joktan (Genesis 10:26), Greek Ἁσαρμώθ; traditional English Hazarmaveth.")))
 
 (lemma "Ἁσασάν" (sense name (gloss "Hazazon") (why "(LXX, supplied.) Ἁσασὰν Θαμάρ (Genesis 14:7), Hazazon-tamar: two Greek words, each glossed; traditional English Hazazon.")))
@@ -657,11 +753,17 @@
 
 (lemma "ἀσεβής"(sense ungodly (person) (gloss "ungodly") (why "Without reverence for God, ungodly (Genesis 18:23, 25, the righteous against the ungodly; Romans 4:5; 5:6; 1 Peter 4:18). Against δίκαιος \"righteous\".")))
 
+(lemma "Ἀσείρ" (sense name (gloss "Assir") (why "(LXX, supplied.) A son of Korah (Exodus 6:24), Greek Ἀσείρ; traditional English Assir.")))
+
 (lemma "Ἁσενναῖος" (sense name (person) (gloss "Sinite" "Sinites") (why "(LXX, supplied.) A people descended from Canaan (Genesis 10:17), Greek Ἁσενναῖος; traditional English Sinite.")))
 
 (lemma "Ἀσεννέθ" (sense name (gloss "Asenath") (why "(LXX, supplied.) Joseph's wife, daughter of Potiphera (Genesis 41:45, 50; 46:20), Greek Ἀσεννέθ; traditional English Asenath.")))
 
 (lemma "ἄσημος" (sense unmarked (gloss "unmarked") (why "(LXX, supplied.) Without a mark, unmarked (Genesis 30:42, τὰ ἄσημα, the plain animals that became Laban's, against τὰ ἐπίσημα \"the marked\"). Acts 21:39 has it of a city, \"no mean\".")))
+
+(lemma "ἄσηπτος" (sense unrotting (gloss "unrotting") (why "(LXX, supplied.) Not rotting, not decaying (from σήπω \"rot\"): the Septuagint's name for the acacia wood of the tabernacle, ξύλα ἄσηπτα (Exodus 25:5, 10, 13, 23, 28; 26-27; 30; 35-38), where the Hebrew has shittim (acacia). Tabernacle term: always \"unrotting\"; the Greek gives a quality, not a tree name, and we translate the Greek. With ξύλον chosen as sense timber.")))
+
+(lemma "ἄσηπτος" (sense unrotting (gloss "unrotting") (why "(LXX, supplied.) Not liable to rot (ἀ- + σήπω \"rot\"), the wood of the tabernacle and its furniture: ξύλα ἄσηπτα, \"unrotting timbers\" (Exodus 25-27; 30; 35-38), where the Hebrew names the acacia. The English says what the Greek says of the wood, not the tree's name. Tabernacle term: always \"unrotting\", with ξύλον in its sense \"timber\".")))
 
 (lemma "Ἀσήρ" (sense name (gloss "Asher") (why "Jacob's son by Zilpah (Genesis 30:13, named from μακαρίζουσιν \"call happy\"); Luke 2:36 and Revelation 7:6 Ἀσήρ. Traditional English Asher.")))
 
@@ -688,10 +790,18 @@
 
 (lemma "Ἀσταρώθ" (sense name (gloss "Ashteroth") (why "(LXX, supplied.) Ἀσταρὼθ Καρνάιν (Genesis 14:5), Ashteroth-karnaim: two Greek words, each glossed; traditional English Ashteroth.")))
 
+(lemma "ἀσπάζομαι" (sense greet (gloss "greet" "greeted" "greets" "greeting") (why "(LXX form supplied.) To greet, embrace in welcome (Exodus 18:7, Moses and Jethro ἠσπάσαντο ἀλλήλους; Matthew 5:47; Romans 16:3). Middle deponent, rendered active.")))
+
+(lemma "ἀστεῖος" (sense comely (gloss "comely") (why "Of the town, refined, and so well-formed, comely, of a child (Exodus 2:2 ἰδόντες δὲ αὐτὸ ἀστεῖον; quoted in Acts 7:20 ἀστεῖος τῷ θεῷ and Hebrews 11:23). \"Comely\" keeps it apart from καλός \"fair\" and ὡραῖος \"beautiful\".")))
+
 (lemma "ἀστήρ"
   (sense star
     (gloss "star" "stars")
     (why "A star (Genesis 1:16; Matthew 2:2). ἄστρον, a near synonym, will take \"constellation\" or a note if needed.")))
+
+(lemma "ἀστραπή" (sense lightning (gloss "lightning" "lightnings") (why "A flash of lightning (Exodus 19:16, φωναὶ καὶ ἀστραπαί at Sinai; Matthew 24:27; Revelation 4:5, the same pair). (LXX form supplied.)")))
+
+(lemma "ἀσφαλτόπισσα"(sense asphalt-pitch (dative "with") (gloss "asphalt-pitch") (why "(LXX, supplied.) Asphalt and pitch together, bitumen-pitch (ἄσφαλτος + πίσσα), with which the basket was daubed (Exodus 2:3). The dative is the means, \"with asphalt-pitch\"; the English keeps both parts of the compound.")))
 
 (lemma "ἄσφαλτος" (sense asphalt (dative "with") (gloss "asphalt") (why "(LXX, supplied.) Asphalt, bitumen, natural pitch (Genesis 6:14; 11:3). The dative of Genesis 6:14 is the means, \"with the asphalt\". The verb ἀσφαλτόω shares the English, as the Greek shares the word.")))
 
@@ -717,7 +827,13 @@
 
 (lemma "ἀτιμάζω" (sense dishonor (gloss "dishonor" "dishonored" "dishonors" "dishonoring") (why "To dishonor, treat with contempt (Genesis 16:4-5, Sarai slighted in Hagar's eyes; Romans 1:24; James 2:6).")))
 
+(lemma "ἄτρυγος" (sense dregless (gloss "dregless") (why "(LXX, supplied.) Without lees or dregs (ἀ- + τρύξ \"lees\"), of the oil for the lamp (Exodus 27:20, ἔλαιον ἐξ ἐλαίων ἄτρυγον καθαρόν; Leviticus 24:2). \"Dregless\" keeps it apart from καθαρός \"clean\".")))
+
 (lemma "αὐθάδης" (sense self-willed (gloss "self-willed") (why "(LXX form supplied.) Self-pleasing, stubborn, arrogant (Genesis 49:3, 7, of Reuben and of the fury of Simeon and Levi; Titus 1:7; 2 Peter 2:10).")))
+
+(lemma "αὐλαία" (sense curtain (gloss "curtain" "curtains") (why "(LXX, supplied.) A curtain, hanging (from αὐλή \"court\"): the ten curtains of the tabernacle (Exodus 26:1-6; 36). Tabernacle term: \"curtain\" for αὐλαία only; καταπέτασμα is \"veil\", ἐπίσπαστρον \"screen\", ἱστίον \"sheet\", δέρρις \"skin-cloth\", κάλυμμα \"cover\".")))
+
+(lemma "αὐλή" (sense court (gloss "court" "courts") (why "An enclosed yard, a court: the court of the tabernacle (Exodus 27:9-19; 35-40); the high priest's court (Matthew 26:3, 58, 69; John 18:15); the sheepfold (John 10:1, 16). \"Court\" for all; kept apart from πύλη \"gate\" and οἶκος \"house\".")))
 
 (lemma "αὐξάνω"
   (sense grow
@@ -739,6 +855,8 @@
 (lemma "αὐτοῦ" (sense right-here (gloss "right here") (why "The adverb αὐτοῦ, \"in the very place\", here or there (Genesis 22:5 Καθίσατε αὐτοῦ, as Matthew 26:36 Καθίσατε αὐτοῦ; Acts 18:19). The same spelling as the genitive of αὐτός; a word override picks it. \"Right here\" keeps it apart from ὧδε \"here\".")))
 
 (lemma "ἀφαιρέω" (sense remove (gloss "remove" "removed" "removes" "removing") (why "To take away from, remove (Genesis 21:25, the wells which the servants removed, that is took for themselves; Luke 1:25; Matthew 26:51 ἀφεῖλεν αὐτοῦ τὸ ὠτίον). \"Remove\" keeps it apart from ἀναιρέω \"take away\".")))
+
+(lemma "ἀφανίζω" (sense obliterate (gloss "obliterate" "obliterated" "obliterates" "obliterating") (why "To make unseen (ἀ- + φαίνω), do away with, destroy (Exodus 8:9, to obliterate the frogs; Matthew 6:19-20, where moth and rust obliterate; James 4:14, passive, a vapor obliterated). \"Obliterate\" keeps it apart from ἀπόλλυμι \"destroy\" and ἐξολεθρεύω \"destroy utterly\".")))
 
 (lemma "Ἄφερ" (sense name (gloss "Epher") (why "(LXX, supplied.) A son of Midian (Genesis 25:4), traditional English Epher.")))
 

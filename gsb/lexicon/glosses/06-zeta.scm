@@ -24,6 +24,8 @@
 
 (lemma "ζεύγνυμι" (sense yoke (verb "yoke" "yoked" "yoked") (gloss "yoke" "yoked" "yokes" "yoking") (why "(LXX, supplied.) To yoke, harness (Genesis 46:29, Joseph yoked his chariots). Shares \"yoke\" with the noun ζυγός; the verb is its action.")))
 
+(lemma "Ζεχρεί" (sense name (gloss "Zichri") (why "(LXX, supplied.) A son of Izhar (Exodus 6:21), Greek Ζεχρεί; traditional English Zichri.")))
+
 (lemma "ζηλόω" (sense envy (gloss "envy" "envied" "envies" "envying") (why "To be jealous of, envy (Genesis 26:14, the Philistines envied Isaac; 37:11; Acts 7:9, the patriarchs envied Joseph). The good sense, \"be zealous\" (1 Corinthians 12:31), will be its own sense beside ζηλωτής \"zealous\".")))
 
 (lemma "ζηλωτής" (sense zealous (gloss "zealous") (why "One who is zealous, jealous for (Exodus 20:5 θεὸς ζηλωτής; Acts 21:20). \"Zealous\" keeps the link with ζῆλος; the readable layer may say \"jealous\".")))
@@ -38,10 +40,16 @@
 
 (lemma "ζυγός"(sense yoke (gloss "yoke" "yokes") (why "A yoke (Genesis 27:40, Esau shall loosen Jacob's yoke from his neck; Matthew 11:29-30; Acts 15:10). (LXX form supplied.)")))
 
+(lemma "ζύμη" (sense leaven (gloss "leaven") (why "Leaven, sourdough (Exodus 12:15, 19; 13:3, 7; Matthew 13:33; 16:6; 1 Corinthians 5:6). ἄζυμος, unleavened, is its negative.")))
+
+(lemma "ζυμωτός" (sense leavened (gloss "leavened") (why "(LXX, supplied.) Leavened, made with ζύμη \"leaven\" (Exodus 13:7, οὐκ ὀφθήσεταί σοι ζυμωτόν).")))
+
 (lemma "ζωή"
   (sense life
     (gloss "life")
     (why "ζωή, life itself, against βίος, livelihood or manner of life, which gets its own gloss. In Genesis 3:20 the Septuagint gives the woman's name as Ζωή, \"Life\" (capitalized as a name); see the note there.")))
+
+(lemma "ζωογονέω" (sense keep-alive (verb "keep alive" "kept alive" "kept alive") (gloss "keep alive" "kept alive" "keeps alive" "keeping alive") (why "To give life, preserve alive, let live (Exodus 1:17-18, 22, the midwives kept the males alive; Luke 17:33; Acts 7:19 εἰς τὸ μὴ ζωογονεῖσθαι, of the same story). From ζωή \"life\" + γόνος; kept apart from ζάω \"live\" and περιποιέω \"preserve\".")))
 
 (lemma "ζῷον"
   (sense animal

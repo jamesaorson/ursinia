@@ -33,6 +33,10 @@
 
 (lemma "φαρέτρα" (sense quiver (gloss "quiver") (why "(LXX, supplied.) A quiver for arrows (Genesis 27:3, Esau's hunting gear).")))
 
+(lemma "φαρμακεία" (sense sorcery (dative "with") (gloss "sorcery" "sorceries") (why "The use of drugs and spells, sorcery (Exodus 7:11, 22; 8:7, 18, the enchanters did likewise ταῖς φαρμακίαις αὐτῶν, Swete's spelling, \"with their sorceries\"; Galatians 5:20; Revelation 18:23). The instrumental dative takes \"with\".")))
+
+(lemma "φαρμακός" (sense sorcerer (person) (gloss "sorcerer" "sorcerers") (why "One who uses drugs and spells, a sorcerer (Exodus 7:11, Pharaoh's φαρμακοί beside the sages; Revelation 21:8; 22:15). Kept apart from ἐπαοιδός \"enchanter\". (LXX form supplied.)")))
+
 (lemma "φάσκω" (sense claim (gloss "claim" "claimed" "claims" "claiming") (why "To say, assert, claim (Genesis 26:20 φάσκοντες αὐτῶν εἶναι τὸ ὕδωρ, the herdsmen claiming the water was theirs; Acts 24:9; 25:19; Romans 1:22). \"Claim\" keeps it apart from λέγω \"say\" and φημί.")))
 
 (lemma "φαυλίζω" (sense slight (gloss "slight" "slighted" "slights" "slighting") (why "(LXX, supplied.) To think little of, make light of, slight (Genesis 25:34 ἐφαύλισεν Ἠσαὺ τὰ πρωτοτοκεῖα; compare Hebrews 12:16). From φαῦλος \"worthless\"; kept apart from καταφρονέω.")))

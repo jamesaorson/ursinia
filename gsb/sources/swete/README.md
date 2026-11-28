@@ -416,7 +416,42 @@ leaf numbers here; the images and OCR layers stay out of the repo
   a note, are apparatus and are left out.
 - **Daniel** is printed twice: the Old Greek (Chigi MS 87, `ΔΑΝΙΗΛ ΚΑΤΑ ΤΟΥΣ Ο'`)
   on the even (left) leaves, book `dan`, and Theodotion (`ΚΑΤΑ ΘΕΟΔΟΤΙΩΝΑ`) on
-  the facing odd leaves, book `dan-th`. Each is a separate table.
+  the facing odd leaves, book `dan-th` (leaves v3 522-599; Susanna and Bel
+  follow as separate books). Each is a separate table, and both use the same
+  scheme so they can be compared verse by verse. Prose with `{P}`; the Song of
+  the Three (3:52-90) is verse lines, `{S}` on every line (as Jonah's
+  prayer). *The Prayer of Azariah and the Song* (Greek only): Swete numbers
+  them with his own running 3:24-90, without parentheses, and prints his 91-97
+  with `(24)`-`(30)`. Since the table cannot hold a Greek 3:24 beside the
+  English 3:24, the Greek-only verses are a lettered section A, as Esther's
+  additions: `{P}{CA}{24!}` at his 24, his own 25-90 as printed (table chapter
+  `A`, verses 24-90: `dan.A.24`, anchor `#daniel-a-24`), and his 91, where
+  Swete prints no numeral, resumes chapter 3: `{C3}{91!}{=3:24}` (our `{C3}`,
+  with a comment), `{92}{=3:25}` ... `{97}{=3:30}`. So the table runs 3:1-23,
+  A 24-90, 3:24-30, chapter 4; `books.tsv` counts 13 chapters (12 + A).
+  Theodotion's section A lacks 67-68 (not printed) and prints 59, 58, 60-66,
+  71, 72, 69, 70, 73-76, 78, 77, 79-90 (`{n!}`, printed order kept).
+  *Chapters 3-4*: Swete's own 3:98-100 are `(1)`-`(3) (IV)` and his 4:1-34
+  are `(4)`-`(37)`: here his parentheses give the English numbers directly
+  (Aramaic 3:31-33, 4:1-34), so no conversion. *Chapters 5-6*: his own
+  numbers are the English ones and the parentheses the Aramaic: his 5:31 is
+  `(VI) (1)`, his 6:1-28 are `(2)`-`(29)` (Old Greek: `1 VI (2)` with the
+  `(2)` also in the text, so the words before it run on with 6:1);
+  `versification.tsv` converts (Aramaic 6:1 = English 5:31, 6:2-29 =
+  6:1-28). *Old Greek*: chapters 4-6 differ from Theodotion and print gaps
+  (blank space where the Old Greek lacks verses): his 4 prints 1-2, then
+  7 (10), 9 (12), 8 (11) (transposed, `{9!}`, `{8!}`), his own lettered 14a,
+  30a-c, 34a-c with no parenthesized number run on with the common verse
+  before (`{14a}{=4:17}`), no 31-32 (`{33!}`); before his 5:1 an unnumbered
+  summary of the chapter in small type beside the margin V is its title
+  (`{C5}{T}` lines, one row with 5:1, as the Lamentations preface); his 5
+  lacks 14-15, 18-22, 24-25; his 6 lacks 8 and prints `12 a (13 a)`, which
+  runs on with 6:13 (a whole verse and its half cannot both be given).
+  Theodotion 5:2 has an in-text `(2)`. The tables then have, per chapter
+  (English count 21, 49, 30, 37, 31, 28, 28, 27, 27, 21, 45, 13): Old Greek
+  21, 49, 30 (+ A 67), 31, 22, 27, 28, 27, 27, 21, 45, 13; Theodotion 21,
+  49, 30 (+ A 65), 37, 31, 28, 28, 27, 27, 21, 45, 13. The pilot's leaves
+  526-527 held only their first two lines; they were redone (2:1-10).
 
 ### Page format
 

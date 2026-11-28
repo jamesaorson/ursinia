@@ -12,6 +12,8 @@
 
 (lemma "ψηλαφάω" (sense feel (gloss "feel" "felt" "feels" "feeling") (verb "feel" "felt" "felt") (why "To feel, touch, grope for (Genesis 27:12, 21-22, Isaac feeling Jacob; Luke 24:39; Acts 17:27; 1 John 1:1). Kept apart from ἅπτω. (LXX form supplied.)")))
 
+(lemma "ψῆφος" (sense pebble (gloss "pebble" "pebbles") (why "A small smooth stone, pebble, also one used in voting (Acts 26:10; Revelation 2:17); in Exodus 4:25 the stone, a flint, with which Zipporah circumcised her son. \"Pebble\" keeps it apart from λίθος \"stone\".")))
+
 (lemma "ψόγος" (sense blame (gloss "blame") (why "(LXX, supplied.) Blame, a censure or bad report (Genesis 37:2, κατήνεγκαν δὲ Ἰωσὴφ ψόγον πονηρὸν πρὸς Ἰσραήλ). The adjective ἄμεμπτος is \"blameless\", from another root.")))
 
 (lemma "Ψονθομφανήχ" (sense name (gloss "Zaphenath-paneah") (why "(LXX, supplied.) The Egyptian name Pharaoh gave Joseph (Genesis 41:45), Greek Ψονθομφανήχ for the Hebrew Zaphenath-paneah: the same name in another transcription, so the traditional English form.")))

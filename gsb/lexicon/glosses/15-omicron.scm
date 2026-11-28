@@ -43,6 +43,8 @@
 
 (lemma "ὀδούς" (sense tooth (plural "teeth") (gloss "tooth" "teeth") (why "(LXX form supplied.) A tooth (Genesis 49:12, his teeth white rather than milk; Matthew 5:38; 8:12, the gnashing of teeth).")))
 
+(lemma "ὄζω" (sense stink (intransitive) (gloss "stink" "stank" "stunk" "stinks" "stinking") (verb "stink" "stank" "stunk") (why "To smell, give off a smell, stink (Exodus 8:14 ὤζεσεν ἡ γῆ, the land stank of the dead frogs; John 11:39 ἤδη ὄζει). \"Stink\" keeps it apart from ἐπόζω \"reek\".")))
+
 (lemma "ὅθεν" (sense from-where (gloss "from where") (why "From where, whence (Genesis 10:14, ὅθεν ἐξῆλθεν ἐκεῖθεν, \"from where came forth from there\"; Matthew 12:44; Hebrews 11:19). \"From where\" rather than archaic \"whence\".")))
 
 (lemma "οἶδα"
@@ -311,6 +313,8 @@
     (why "A snake, serpent (Genesis 3; Matthew 10:16; 2 Corinthians 11:3; Revelation 12:9). \"Serpent\" rather than \"snake\" for the link with Revelation's \"the ancient serpent\".")))
 
 (lemma "Ὀχοζάθ" (sense name (gloss "Ahuzzath") (why "(LXX, supplied.) Abimelech's νυμφαγωγός (Genesis 21:22, 32; 26:26). The Hebrew text names Ahuzzath only at 26:26; the Greek has him here as well. Ὀχοζάθ is the same name, so the traditional English Ahuzzath.")))
+
+(lemma "ὀχυρός" (sense fortified (gloss "fortified") (why "(LXX, supplied.) Firm, strong, fortified, of cities (Exodus 1:11 πόλεις ὀχυράς, built for Pharaoh). The adjective behind ὀχύρωμα \"stronghold\".")))
 
 (lemma "ὀχύρωμα" (sense stronghold (gloss "stronghold" "strongholds") (why "A fortified place, stronghold; in Genesis 39:20-40:14 the prison where the king's prisoners are held (2 Corinthians 10:4, figurative). The literal \"stronghold\" is kept.")))
 

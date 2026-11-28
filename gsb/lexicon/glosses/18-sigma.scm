@@ -72,6 +72,10 @@
 
 (lemma "Σενναάρ" (sense name (gloss "Shinar") (why "(LXX, supplied.) The plain of Babel (Genesis 10:10; 11:2), traditional English Shinar.")))
 
+(lemma "Σεπφωρά" (sense name (gloss "Shiphrah") (why "(LXX, supplied.) One of the two Hebrew midwives (Exodus 1:15 τῇ μιᾷ αὐτῶν ᾗ ὄνομα Σεπφωρά). The Greek spells her name like Moses' wife Σεπφώρα \"Zipporah\" (2:21), but the persons and the Hebrew names differ; Swete accents them differently, so the two are two lemmas. Traditional English Shiphrah.")))
+
+(lemma "Σεπφώρα" (sense name (gloss "Zipporah") (why "(LXX, supplied.) Daughter of the priest of Midian, Moses' wife (Exodus 2:21; 4:25; 18:2). Traditional English Zipporah. Kept apart from the midwife Σεπφωρά \"Shiphrah\" (1:15), spelled alike but accented differently by Swete.")))
+
 (lemma "Σέρεδ" (sense name (gloss "Sered") (why "(LXX, supplied.) Zebulun's firstborn (Genesis 46:14), Greek Σέρεδ; traditional English Sered.")))
 
 (lemma "Σερούχ" (sense name (gloss "Serug") (why "Reu's son (Genesis 11:20-23; Luke 3:35, Σερούχ), traditional English Serug.")))
@@ -112,12 +116,16 @@
 
 (lemma "σκέπτομαι" (sense look-out (verb "look out" "looked out" "looked out") (gloss "look out" "looked out" "looks out" "looking out") (why "(LXX form supplied.) To look about for, look out, choose with care (Genesis 41:33 σκέψαι ἄνθρωπον φρόνιμον; compare ἐπισκέπτομαι, Acts 6:3 \"look out\" seven men).")))
 
+(lemma "σκεπάζω" (sense shelter (gloss "shelter" "sheltered" "shelters" "sheltering") (why "(LXX, supplied.) To cover, shelter, protect (Exodus 2:2 ἐσκέπασαν αὐτὸ μῆνας τρεῖς, of hiding the child; Hebrews 11:23 tells it with κρύπτω). \"Shelter\" keeps it apart from κρύπτω \"hide\" and the καλύπτω verbs \"cover\".")))
+
 (lemma "σκεῦος" (sense gear (gloss "gear") (why "An implement, piece of equipment; here a hunter's gear (Genesis 27:3 λάβε τὸ σκεῦος, τήν τε φαρέτραν καὶ τὸ τόξον). The common New Testament sense \"vessel\" (Romans 9:21-23; 2 Timothy 2:20-21) will be its own sense."))
   (sense article (gloss "article" "articles") (why "A made object, an article (Genesis 24:53, σκεύη ἀργυρᾶ καὶ χρυσᾶ, articles of silver and gold given to Rebekah; Revelation 18:12, every article of ivory). Chosen by override where the things are goods or jewelry rather than equipment or vessels.")))
 
 (lemma "σκηνή" (sense tent (gloss "tent" "tents") (why "Tent, tabernacle; \"tent\" in the literal layer (Hebrews 11:9). Whether the tabernacle of Exodus keeps \"tent\" is a decision for the owner.")) (sense name (gloss "Tents") (why "(LXX, supplied.) The place name the Greek gives at Genesis 33:17, εἰς Σκηνάς ... Σκηναί, \"Tents\", where the Hebrew has Succoth; we translate the Greek name (rule 8, as Σύγχυσις \"Confusion\"), capitalized as a name.")))
 
 (lemma "σκιρτάω" (sense leap (intransitive) (gloss "leap" "leaped" "leaps" "leaping") (why "To spring, leap, of a child in the womb (Genesis 25:22 ἐσκίρτων δὲ τὰ παιδία ἐν αὐτῇ; Luke 1:41, 44) or for joy (Luke 6:23).")))
+
+(lemma "σκνίψ" (sense gnat (gloss "gnat" "gnats") (why "(LXX, supplied.) A small biting insect, gnat, the third plague (Exodus 8:16-18; masculine, τὸν σκνῖφα, οἱ σκνῖφες).")))
 
 (lemma "σκοτεινός" (sense dark (gloss "dark") (why "Dark, full of darkness (Genesis 15:12 φόβος σκοτινὸς μέγας, Swete's spelling σκοτινός; Matthew 6:23). The adjective of σκότος \"darkness\".")))
 
@@ -141,6 +149,8 @@
 
 (lemma "σκυθρωπός" (sense gloomy (gloss "gloomy") (why "Of a sad, sullen look, gloomy (Genesis 40:7, the prisoners' faces; Matthew 6:16; Luke 24:17).")))
 
+(lemma "σκυλεύω" (sense despoil (gloss "despoil" "despoiled" "despoils" "despoiling") (why "(LXX, supplied.) To strip a slain enemy of his arms, and so despoil, plunder (σκῦλα \"spoils\"): Exodus 3:22, σκυλεύσατε τοὺς Αἰγυπτίους. \"Despoil\" keeps it apart from διαρπάζω \"plunder\".")))
+
 (lemma "σκύμνος" (sense whelp (gloss "whelp" "whelps") (why "(LXX, supplied.) A cub, a lion's whelp (Genesis 49:9 σκύμνος λέοντος, Ἰούδα).")))
 
 (lemma "Σόδομα" (sense name (gloss "Sodom") (plural "Sodom") (why "The city, a neuter plural in Greek (Genesis 13:10-19:28; Matthew 10:15; Romans 9:29); traditional English Sodom, singular.")))
@@ -160,6 +170,8 @@
 (lemma "Σομέ" (sense name (gloss "Shammah") (why "(LXX, supplied.) A son of Reuel, Esau's grandson, and a chief (Genesis 36:13, 17), Greek Σομέ; traditional English Shammah.")))
 
 (lemma "σός"(sense your (gloss "your" "yours") (why "The possessive adjective \"your\" (singular): Genesis 21:13 σπέρμα σόν; Matthew 7:3. It shares \"your\" with the genitive σου, the same meaning in another form.")))
+
+(lemma "σοφιστής" (sense sage (person) (gloss "sage" "sages") (why "(LXX, supplied.) A man skilled in wisdom, a sage (Exodus 7:11, Pharaoh's σοφισταί called with the sorcerers). \"Sage\" keeps it apart from σοφός \"wise\"; the later sense \"sophist\" does not belong here.")))
 
 (lemma "σοφός" (sense wise (person) (gloss "wise") (why "Wise, skilled; as a noun, a wise man (Genesis 41:8 πάντας τοὺς σοφοὺς αὐτῆς, Egypt's wise men; Matthew 11:25; 1 Corinthians 1:19-27). \"Wise\" keeps it apart from φρόνιμος \"prudent\" and συνετός \"intelligent\".")))
 
@@ -261,6 +273,8 @@
 
 (lemma "συγκαίω" (sense scorch (gloss "scorch" "scorched" "scorches" "scorching") (why "(LXX, supplied.) To burn together, burn up; passive, to be scorched (Genesis 31:40 συγκαιόμενος τῷ καύσωνι, Jacob in the heat of the day).")))
 
+(lemma "συγκαλέω" (sense call-together (verb "call together" "called together" "called together") (gloss "call together" "called together" "calls together" "calling together") (why "To call together, summon (Exodus 7:11 συνεκάλεσεν δὲ Φαραὼ τοὺς σοφιστάς; Luke 9:1; 15:6). Kept apart from καλέω \"call\". (LXX form supplied.)")))
+
 (lemma "συγκλείω" (sense shut-up (gloss "shut up" "shut up" "shuts up" "shutting up") (why "To shut in, shut up, confine (Genesis 16:2, the Lord has shut Sarai up from bearing; Romans 11:32; Galatians 3:22).")))
 
 (lemma "συγκαλύπτω" (sense cover-up (gloss "cover up" "covered up" "covers up" "covering up") (why "To cover over completely (Genesis 9:23, they συνεκάλυψαν their father's nakedness; Luke 12:2). \"Cover up\" renders the συν- and leaves bare \"cover\" for καλύπτω.")))
@@ -316,6 +330,8 @@
 (lemma "συμπροπέμπω" (sense escort (gloss "escort" "escorted" "escorts" "escorting") (why "(LXX, supplied.) To join in sending someone on the way, escort (Genesis 18:16 συνπροπέμπων αὐτούς, Swete's unassimilated spelling). The simple προπέμπω (Acts 15:3; Romans 15:24) will need its own English.")))
 (lemma "συμφωνέω" (sense agree (gloss "agree" "agreed" "agrees" "agreeing") (why "To sound together, agree (Genesis 14:3, all these agreed upon the salty ravine, joined forces there; Matthew 18:19; 20:2).")))
 
+(lemma "σύν" (sense with (gloss "with") (why "With, together with, governing the dative (Exodus 7:4 σὺν δυνάμει μου, σὺν ἐκδικήσει μεγάλῃ; Luke 2:13; Acts 14:4). It shares \"with\" with μετά and πρός: English has no second plain word, and the alignment shows which Greek word stands behind it.")))
+
 (lemma "συνάγω"
   (sense gather
     (gloss "gather" "gathered" "gathers" "gathering")
@@ -367,6 +383,8 @@
 (lemma "Σύρος" (sense syrian (person) (gloss "Syrian" "Syrians") (why "A Syrian (Genesis 22:21 πατέρα Σύρων, where the Hebrew has Aram; Luke 4:27 Ναιμὰν ὁ Σύρος). The Greek gives the people's name, so the English follows it.")))
 
 (lemma "συνωμότης" (sense confederate (person) (gloss "confederate" "confederates") (why "(LXX, supplied.) One bound by oath with another, a sworn ally (Genesis 14:13, who were confederates of Abram), from σύν + ὄμνυμι \"swear\".")))
+
+(lemma "σύσκηνος" (sense tent-mate (person) (gloss "tent-mate" "tent-mates") (why "(LXX, supplied.) One sharing the same tent, a fellow lodger (σύν + σκηνή): Exodus 3:22, παρὰ γείτονος καὶ συσκήνου αὐτῆς. \"Tent-mate\" is made the same way.")))
 
 (lemma "σύστασις" (sense league (gloss "league" "leagues") (why "(LXX, supplied.) A standing together: a band, a league, a conspiracy (Genesis 49:6, ἐπὶ τῇ συστάσει αὐτῶν, of Simeon and Levi). \"League\" keeps it apart from συναγωγή \"gathering\" and σύστημα.")))
 

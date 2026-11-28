@@ -20,7 +20,8 @@
 
 (lemma "γαμβρεύω" (sense wed (gloss "wed" "wedded" "weds" "wedding") (why "(LXX, supplied.) To make a marriage tie, from γαμβρός \"son-in-law\"; in Genesis 38:8 the levirate duty, Judah to Onan: γάμβρευσαι αὐτήν, \"wed her\" (the wife of the dead brother). Matthew 22:24 has the compound ἐπιγαμβρεύω for the same duty. \"Wed\" keeps it apart from γαμέω, which should have \"marry\" when it comes.")))
 
-(lemma "γαμβρός" (sense son-in-law (person) (plural "sons-in-law") (gloss "son-in-law" "sons-in-law") (why "(LXX, supplied.) A daughter's husband, son-in-law (Genesis 19:12, 14, Lot's sons-in-law).")))
+(lemma "γαμβρός" (sense son-in-law (person) (plural "sons-in-law") (gloss "son-in-law" "sons-in-law") (why "(LXX, supplied.) A daughter's husband, son-in-law (Genesis 19:12, 14, Lot's sons-in-law)."))
+  (sense father-in-law (person) (plural "fathers-in-law") (gloss "father-in-law" "fathers-in-law") (why "The word names a relative by marriage either way; Jethro is Moses' γαμβρός, his wife's father (Exodus 3:1; 4:18; 18:1-27), chosen by the Exodus form rows. It shares \"father-in-law\" with πενθερός (Genesis 38:13, 25): English has no second word; the alignment shows which Greek word stands behind it.")))
 
 (lemma "Γάμερ" (sense name (gloss "Gomer") (why "(LXX, supplied.) Japheth's son (Genesis 10:2-3), Greek Γάμερ; traditional English Gomer.")))
 
@@ -36,6 +37,8 @@
 (lemma "γέ" (sense even (gloss "even") (why "The intensive enclitic particle, stressing the word before it (Genesis 18:13 Ἆρά γε \"is it even\"; Luke 11:8; Romans 8:32). \"Even\" is used because δή takes \"indeed\"; καί's adverbial \"even\" (still unused) would share it, and its entry should take another word or a note.")))
 
 (lemma "Γεθθάιμ" (sense name (gloss "Gittaim") (why "(LXX, supplied.) The city of the Edomite king Hadad (Genesis 36:35), where the Hebrew has Avith. The Greek gives a different name, the Gittaim of 2 Kingdoms 4:3, so the English follows the Greek (as Αἰθιοπία for Cush).")))
+
+(lemma "γείτων" (sense neighbor (person) (gloss "neighbor" "neighbors") (why "(LXX, supplied.) One living near, a neighbor (Exodus 3:22 παρὰ γείτονος, the Hebrew women asking of their Egyptian neighbors; Luke 14:12; 15:6, 9; John 9:8). Shares \"neighbor\" with πλησίον (Exodus 20:16-17): English has no second plain word for the one living next door; the alignment shows which Greek word stands behind it.")))
 
 (lemma "γελάω"(sense laugh (gloss "laugh" "laughed" "laughs" "laughing") (why "To laugh (Genesis 17:17; 18:12-15, Abraham's and Sarah's laughter, behind the name Isaac; Luke 6:21, 25).")))
 
@@ -71,6 +74,8 @@
 
 (lemma "Γεργεσαῖος" (sense name (person) (gloss "Girgashite" "Girgashites") (why "(LXX, supplied.) The Girgashites, a people of Canaan (Genesis 10:16; 15:21), by the traditional English name.")))
 
+(lemma "γερουσία" (sense senate (gloss "senate" "senates") (why "(LXX, supplied.) The body of elders, council of old men (γέρων): Exodus 3:16, 18; 4:29, ἡ γερουσία (τῶν υἱῶν) Ἰσραήλ. \"Senate\" (Latin senex, old man) is made the same way and is the English of Acts 5:21, which uses the very phrase πᾶσαν τὴν γερουσίαν τῶν υἱῶν Ἰσραήλ.")))
+
 (lemma "γεύω" (sense feed (gloss "feed" "fed" "feeds" "feeding") (why "(LXX, supplied.) The active of γεύομαι \"taste\": to make someone taste, give a taste of (Genesis 25:30 Γεῦσόν με ἀπὸ τοῦ ἑψέματος, Esau to Jacob). \"Feed\" because English \"taste\" cannot take the person as its object.")))
 
 (lemma "Γέσεμ" (sense name (gloss "Goshen") (why "(LXX, supplied.) The district of Egypt where Jacob's family settled (Genesis 45:10; 46:28-34; 47:1-6, 27), Greek Γέσεμ; traditional English Goshen.")))
@@ -95,6 +100,8 @@
 
 (lemma "γηράσκω" (sense grow-old (intransitive) (verb "grow old" "grew old" "grown old") (gloss "grow old" "grew old" "grown old" "grows old" "growing old") (why "To grow old (Genesis 18:13 ἐγὼ δὲ γεγήρακα \"but I have grown old\"; John 21:18; Hebrews 8:13).")))
 
+(lemma "Γηρσάμ" (sense name (gloss "Gershom") (why "(LXX, supplied.) Moses' son by Zipporah (Exodus 2:22; 18:3), named for Moses' being a sojourner (πάροικος) in a foreign land; Acts 7:29 mentions the two sons. Greek Γηρσάμ; traditional English Gershom, kept apart from Levi's son Γηρσών \"Gershon\".")))
+
 (lemma "Γηρσών" (sense name (gloss "Gershon") (why "(LXX, supplied.) Levi's firstborn (Genesis 46:11), Greek Γηρσών; traditional English Gershon.")))
 
 (lemma "Γηών"
@@ -117,6 +124,8 @@
     (gloss "know" "knew" "known" "knows" "knowing")
     (why "To know, come to know. It shares \"know\" with οἶδα: no English pair keeps the two apart without distorting one of them, so the alignment, not the English, shows which verb the Greek uses (Genesis 2:9 has οἶδα, 2:17 γινώσκω). The owner may prefer \"come to know\" or \"recognize\" for γινώσκω.")))
 
+(lemma "γλυφή" (sense engraving (gloss "engraving" "engravings") (why "(LXX, supplied.) Carving, engraving (from γλύφω \"carve\"): the engraved stones of the shoulder-piece and the oracle (Exodus 25:7 λίθους εἰς τὴν γλυφήν; 28:11, 21, 36 γλύμμα σφραγῖδος).")))
+
 (lemma "γλῶσσα" (sense tongue (gloss "tongue" "tongues") (why "Tongue, and so a language (Genesis 11:7, \"let us confuse their tongue\"; Acts 2:4, 11). \"Tongue\" in both, so Babel and Pentecost stay visibly linked.")))
 
 (lemma "γνόφος" (sense gloom (gloss "gloom") (why "(LXX.) Thick darkness, gloom (Exodus 20:21; Hebrews 12:18). Kept apart from σκότος \"darkness\".")))
@@ -126,11 +135,15 @@
     (gloss "known")
     (why "Known, knowable (Acts 1:19; Romans 1:19, τὸ γνωστὸν τοῦ θεοῦ). Genesis 2:9 has the tree τοῦ εἰδέναι γνωστὸν καλοῦ καὶ πονηροῦ, \"of knowing [what is] known of good and evil\".")))
 
+(lemma "γογγύζω" (sense murmur (intransitive) (gloss "murmur" "murmured" "murmurs" "murmuring") (why "(LXX form supplied.) To mutter in discontent, murmur, grumble (Exodus 17:3, the people ἐγόγγυζεν against Moses; John 6:41; 1 Corinthians 10:10, recalling the wilderness). Traditional \"murmur\".")))
+
 (lemma "Γοθόμ" (sense name (gloss "Gatam") (why "(LXX, supplied.) A son of Eliphaz (Genesis 36:11; Swete prints Γοθά at 36:16), Greek Γοθόμ; traditional English Gatam.")))
 
 (lemma "γόνυ"(sense knee (gloss "knee" "knees") (why "The knee (Genesis 48:12, Joseph brought the boys out from Israel's knees, where they had been set as his own; Mark 15:19; Romans 11:4; Philippians 2:10). (LXX form supplied.)")))
 
 (lemma "Γόμορρα" (sense name (gloss "Gomorrah") (why "The city (Genesis 10:19; 18:20; 19:24; Matthew 10:15; Romans 9:29); traditional English Gomorrah. Swete has the genitive Γομόρρας.")))
+
+(lemma "γραμματεύς" (sense scribe (person) (gloss "scribe" "scribes") (why "A writer, clerk. In Exodus 5:6-19 the Israelite officers who kept the tally of the brick quota under the taskmasters (the Hebrew has shoterim, officers); in the Gospels the scribes, teachers of the Law (Matthew 2:4; 23:2). One English word, \"scribe\", for both.")))
 
 (lemma "γυμνός"
   (sense naked

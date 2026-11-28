@@ -65,6 +65,10 @@
 
 (lemma "Ἰετούρ" (sense name (gloss "Jetur") (why "(LXX, supplied.) A son of Ishmael (Genesis 25:15), traditional English Jetur.")))
 
+(lemma "Ἰησοῦς" (sense name (gloss "Joshua") (why "Joshua son of Nun, Moses' servant and successor (Exodus 17:9-14, first named leading the fight against Amalek; 24:13). Greek Ἰησοῦς; traditional English Joshua, as in Acts 7:45 and Hebrews 4:8 (KJV \"Jesus\" there), which name this man. The New Testament's Jesus will be its own sense when the New Testament is rendered (rule 8: the same Greek, two traditional English names).")))
+
+(lemma "Ἰθαμάρ" (sense name (gloss "Ithamar") (why "(LXX, supplied.) Aaron's fourth son (Exodus 6:23), Greek Ἰθαμάρ; traditional English Ithamar.")))
+
 (lemma "ἱκανός" (sense sufficient (gloss "sufficient") (why "Enough, sufficient; of persons, fit, worthy (Genesis 30:15, Leah: Οὐχ ἱκανόν σοι ὅτι ἔλαβες τὸν ἄνδρα μου; Matthew 3:11; 2 Corinthians 2:16). \"Sufficient\" serves the things and the persons; \"many\" (Luke 7:11) may become its own sense.")))
 
 (lemma "ἱκανόω" (sense make-sufficient (verb "make sufficient" "made sufficient" "made sufficient") (gloss "make sufficient" "made sufficient" "makes sufficient" "making sufficient") (why "To make sufficient, qualify (2 Corinthians 3:6; Colossians 1:12). Genesis 32:10, as Swete is transcribed, ἱκανοῦσαί μοι, taken as the passive ἱκανοῦταί, \"it is made sufficient to me\", Jacob's \"enough for me of all the righteousness\". The reading is unsure.")))
@@ -82,6 +86,8 @@
   (sense why-phrase
     (gloss "")
     (why "ἵνα τί, \"why\" (Genesis 4:6; Matthew 9:4): the phrase's English is carried by τί (sense why); ἵνα is aligned with it and left unrendered.")))
+
+(lemma "Ἰοθόρ" (sense name (gloss "Jethro") (why "(LXX, supplied.) The priest of Midian, Moses' father-in-law (Exodus 2:16, where Swete's text names him beside Ῥαγουήλ \"Reuel\" of 2:18; 3:1; 18:1). Greek Ἰοθόρ for the Hebrew Jethro, the same name: traditional English Jethro.")))
 
 (lemma "Ἰορδάνης" (sense name (gloss "Jordan") (why "The river Jordan (Genesis 13:10-11; Matthew 3:6).")))
 
@@ -109,6 +115,8 @@
 
 (lemma "Ἴσσααρ" (sense name (gloss "Jezer") (why "(LXX, supplied.) A son of Naphtali (Genesis 46:24), Greek Ἴσσααρ for the Hebrew Jezer; traditional English Jezer.")))
 
+(lemma "Ἰσσαάρ" (sense name (gloss "Izhar") (why "(LXX, supplied.) A son of Kohath, father of Korah (Exodus 6:21), Greek Ἰσσαάρ for the Hebrew Izhar; traditional English Izhar. In 6:18 Swete prints Ἰσσαχάρ (Issachar) for the same man; there the English follows the Greek.")))
+
 (lemma "Ἰσσαχάρ" (sense name (gloss "Issachar") (why "Jacob's fifth son by Leah (Genesis 30:18, ὅ ἐστιν Μισθός \"which is Wage\"); Revelation 7:7 Ἰσσαχάρ. Traditional English Issachar.")))
 
 (lemma "ἵστημι" (sense stand (gloss "stand" "stood" "stands" "standing") (why "Intransitive: to stand. The transitive \"set, make stand\" becomes its own sense."))
@@ -118,6 +126,8 @@
   (sense set-up
     (gloss "set up" "sets up" "setting up")
     (why "Transitive, of a thing: to set up, make stand (Genesis 28:18, 22, Jacob sets up the stone as a pillar: ἔστησεν αὐτὸν στήλην, ὃν ἔστησα στήλην). Kept apart from \"establish\", which is for covenants and the like.")))
+
+(lemma "ἰσχνόφωνος" (sense thin-voiced (gloss "thin-voiced") (why "(LXX, supplied.) Thin of voice, weak in speech (ἰσχνός + φωνή): Exodus 4:10, Moses of himself, beside βραδύγλωσσος \"slow-tongued\". One English word made the same way as the Greek.")))
 
 (lemma "ἰσχυρός" (sense strong (gloss "strong") (why "Strong, mighty (Genesis 14:5, strong nations; Matthew 12:29). Beside ἰσχύς \"strength\".")))
 
@@ -143,3 +153,5 @@
 (lemma "Ἰωυάν" (sense name (gloss "Javan") (why "(LXX, supplied.) Japheth's son (Genesis 10:2, 4), Greek Ἰωυάν; traditional English Javan.")))
 
 (lemma "Ἰωυκάμ" (sense name (gloss "Jaakan") (why "(LXX, supplied.) A son of Ezer, the Horite Σάαρ (Genesis 36:27). The Hebrew lists Bilhan, Zaavan and Akan; the Greek has four names, Ἰωυκάμ and Οὐκάν both answering to Akan (1 Chronicles 1:42 Jaakan). Traditional English Jaakan for Ἰωυκάμ, Akan for Οὐκάν.")))
+
+(lemma "Ἰωχάβεδ" (sense name (gloss "Jochebed") (why "(LXX, supplied.) Amram's wife, mother of Aaron and Moses (Exodus 6:20), Greek Ἰωχάβεδ; traditional English Jochebed.")))

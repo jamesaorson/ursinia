@@ -30,6 +30,8 @@
 (lemma "Ῥεηρά" (sense name (gloss "Reumah") (why "(LXX, supplied.) Nahor's concubine (Genesis 22:24); Swete's Ῥεηρά stands for the Hebrew Reumah, a variant of the same name (ρ for μ), not a different one. Traditional English Reumah.")))
 (lemma "Ῥεισών" (sense name (gloss "Dishan") (why "(LXX, supplied.) The last son of Seir the Horite, and a chief (Genesis 36:21, 28, 30); Swete's Ῥεισών is the Hebrew Dishan with ρ for δ (the letters look alike in Hebrew), the same name, so the traditional English Dishan (rule 8).")))
 
+(lemma "ῥέω" (sense flow (gloss "flow" "flowed" "flows" "flowing") (why "(LXX, supplied.) To flow, run (John 7:38); in the Septuagint with an accusative of what flows, γῆ ῥέουσα γάλα καὶ μέλι, \"land flowing milk and honey\" (Exodus 3:8, 17).")))
+
 (lemma "ῥήγνυμι"(sense burst (voice active) (verb "burst" "burst" "burst") (gloss "burst" "bursts" "bursting") (why "To break, tear; the passive, to break open, burst, is rendered as the intransitive \"burst\" (Genesis 7:11, all the springs of the abyss burst; Matthew 9:17, the wineskins burst). The transitive \"tear\" (Mark 9:18) will be its own sense.")))
 
 (lemma "ῥῆμα" (sense utterance (gloss "utterance" "utterances") (why "A thing said, an utterance, and (as a Hebraism) the matter it speaks of (Genesis 18:14 μὴ ἀδυνατεῖ παρὰ τῷ θεῷ ῥῆμα, taken up in Luke 1:37; 18:25 ὡς τὸ ῥῆμα τοῦτο). \"Utterance\" keeps it apart from λόγος \"word\" and from \"saying\", the participle of λέγω; the readable layer may say \"thing\"."))

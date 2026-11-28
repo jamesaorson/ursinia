@@ -48,6 +48,8 @@
 
 (lemma "τελευτάω" (sense expire (intransitive) (gloss "expire" "expired" "expires" "expiring") (why "To come to the end (τελευτή) of life, die (Genesis 6:17; Matthew 2:19). \"Expire\" to keep it apart from ἀποθνῄσκω \"die\".")))
 
+(lemma "τέρας" (sense wonder (gloss "wonder" "wonders") (why "A portent, wonder (Exodus 7:3 τὰ σημεῖά μου καὶ τὰ τέρατα; 7:9 σημεῖον ἢ τέρας; Acts 2:19, 22, 43, \"signs and wonders\"). Kept apart from σημεῖον \"sign\".")))
+
 (lemma "τερέμινθος" (sense terebinth (gloss "terebinth" "terebinths") (why "(LXX, supplied.) The terebinth tree (Genesis 14:6, as far as the terebinth of Paran). Kept apart from δρῦς \"oak\".")))
 
 (lemma "τελευτή" (sense end (gloss "end") (why "The end of life, death (Genesis 27:2 τὴν ἡμέραν τῆς τελευτῆς μου; Matthew 2:15, the end of Herod). \"End\" keeps it apart from θάνατος \"death\" and beside τελευτάω \"expire\". (LXX form supplied.)")))
@@ -130,6 +132,8 @@
 
 (lemma "τόπος" (sense place (gloss "place" "places") (why "Place.")))
 
+(lemma "τοσοῦτος" (sense so-much (gloss "so much" "so many") (why "So great, so much; plural, so many (Exodus 1:12 τοσούτῳ πλείους ἐγίνοντο, \"by so much more\"; Hebrews 1:4 τοσούτῳ κρείττων; John 6:9; 14:9). The dative of measure is \"by so much\".")))
+
 (lemma "τότε" (sense at-that-time (gloss "at that time") (why "Then, at that time (Genesis 12:6, \"the Canaanites at that time were inhabiting the land\"; Matthew 4:1). \"At that time\" because \"then\" is ἄρα's English.")))
 
 (lemma "Τόχος" (sense name (gloss "Tahash") (why "(LXX, supplied.) Son of Nahor and Reumah (Genesis 22:24); the Greek form of the Hebrew Tahash. Traditional English Tahash.")))
@@ -176,6 +180,8 @@
 
 (lemma "τρόπος" (sense manner (gloss "manner" "manners") (why "A way, manner (Genesis 26:29 ὃν τρόπον, \"which manner\", the accusative of manner; Matthew 23:37; Acts 1:11).")))
 
+(lemma "τροφεύω" (sense nurse (gloss "nurse" "nursed" "nurses" "nursing") (why "(LXX, supplied.) To be a nurse, to nurse a child (Exodus 2:7 γυναῖκα τροφεύουσαν ἐκ τῶν Ἐβραίων). The verb of τροφός \"nurse\", whose English it shares as the Greek shares the root; kept apart from θηλάζω \"suckle\" and ἐκτρέφω \"rear\".")))
+
 (lemma "τροφή" (sense nourishment (gloss "nourishment") (why "(LXX form supplied.) Food, nourishment (Genesis 49:27, in the evening he gives nourishment; Matthew 3:4; 6:25). The noun of τρέφω \"nourish\"; βρῶμα has \"food\".")))
 
 (lemma "τροφός" (sense nurse (person) (gloss "nurse" "nurses") (why "(LXX, supplied form.) A nurse, one who feeds a child (Genesis 35:8 Δεββωρὰ ἡ τροφὸς Ῥεβέκκας; 1 Thessalonians 2:7). From τρέφω \"feed\".")))
@@ -190,5 +196,9 @@
     (why "(Supplied in Genesis 3:23-24.) Luxury, delight, soft living (Luke 7:25; 2 Peter 2:13). In Genesis 3:23-24 the Septuagint translates the name Eden by its meaning: \"the paradise of the delight\". \"Delight\" (not \"luxury\") because it is a translation of the place name; the New Testament uses may want \"luxury\" as a second sense.")))
 
 (lemma "τύμπανον" (sense drum (gloss "drum" "drums") (why "(LXX, supplied.) A hand drum, tambourine (Genesis 31:27 μετὰ μουσικῶν, τυμπάνων καὶ κιθάρας). The verb τυμπανίζω is in Hebrews 11:35.")))
+
+(lemma "τυφλός" (sense blind (gloss "blind") (why "Blind (Exodus 4:11, βλέποντα καὶ τυφλόν; Matthew 9:27; John 9:1). (LXX form supplied.)")))
+
+(lemma "τύπτω" (sense beat (gloss "beat" "beat" "beaten" "beats" "beating") (why "To strike, beat (Exodus 2:11 ἄνθρωπον Αἰγύπτιον τύπτοντά τινα Ἐβραῖον; 2:13 Διὰ τί σὺ τύπτεις τὸν πλησίον; Matthew 24:49; Acts 23:2-3). \"Beat\" keeps it apart from πατάσσω \"strike\".")))
 
 (lemma "τύχη" (sense fortune (gloss "fortune") (why "(LXX, supplied.) What befalls one, fortune, luck (Genesis 30:11, Leah at Gad's birth: Ἐν τύχῃ, \"In fortune\"). From τυγχάνω \"happen upon\".")))

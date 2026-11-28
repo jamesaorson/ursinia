@@ -38,6 +38,8 @@
 
 (lemma "θαυμάζω" (sense marvel-at (verb "marvel at" "marveled at" "marveled at") (gloss "marvel at" "marveled at" "marvels at" "marveling at") (why "To wonder, marvel at (Matthew 8:10; Luke 7:9). Genesis 19:21 ἐθαύμασά σου τὸ πρόσωπον, \"I marveled at your face\", is the Hebrew idiom of lifting up the face, showing favor; the literal layer keeps the Greek verb.")))
 
+(lemma "θαυμάσιος" (sense marvelous (gloss "marvelous") (why "(LXX, supplied.) Marvelous, to be marveled at (θαυμάζω \"marvel at\"); plural τὰ θαυμάσια, marvelous deeds (Exodus 3:20, ἐν πᾶσι τοῖς θαυμασίοις μου; Matthew 21:15).")))
+
 (lemma "θεῖον" (sense sulfur (gloss "sulfur") (why "(LXX form supplied.) Sulfur, brimstone (Genesis 19:24 θεῖον καὶ πῦρ; Luke 17:29, which recalls it; Revelation 14:10). Not the adjective θεῖος \"divine\".")))
 
 (lemma "Θαρσίς" (sense name (gloss "Tarshish") (why "(LXX, supplied.) Javan's son (Genesis 10:4), Greek Θαρσίς; traditional English Tarshish.")))
@@ -52,6 +54,8 @@
     (why "Capitalized for the God of Israel, lowercase for others. Whether the Greek has the article is shown by the alignment, not by the English (see ὁ, sense unrendered). The plural ὡς θεοί (Genesis 3:5) is \"as gods\".")))
 
 (lemma "θεοσέβεια" (sense piety (gloss "piety") (why "Reverence toward God, piety (Genesis 20:11 οὐκ ἔστιν θεοσέβεια ἐν τῷ τόπῳ τούτῳ; 1 Timothy 2:10). \"Piety\": an English gloss may not name God where the Greek has no θεός (the compound's θεο- is not a separate word), and \"godliness\" is left for εὐσέβεια.")))
+
+(lemma "θεοσεβής" (sense pious (gloss "pious") (why "Revering God, pious (Exodus 18:21, ἄνδρας δυνατούς, θεοσεβεῖς, the judges Jethro advises; John 9:31). \"Pious\", the adjective of θεοσέβεια \"piety\", for the same reason: the gloss does not name God, whom the Greek names only inside the compound.")))
 
 (lemma "θεραπεία" (sense retinue (gloss "retinue") (why "Service, and so the body of servants in attendance, a household (Genesis 45:16, Pharaoh and his retinue; Luke 12:42 τῆς θεραπείας αὐτοῦ). \"Healing\" (Luke 9:11; Revelation 22:2) will be its own sense. \"Retinue\" keeps it apart from οἶκος \"house\".")))
 
@@ -86,6 +90,14 @@
     (why "A wild animal, beast (Genesis 1:24-25; 2:19-20; 3:1, 14; Mark 1:13). \"Beast\" so the same word stays recognizable in Revelation 13 (the beast). κτῆνος takes \"livestock\" and ζῷον \"animal\".")))
 
 (lemma "θησαυρός" (sense treasure (gloss "treasure" "treasures") (why "A store, treasure (Genesis 43:23 ἔδωκεν ὑμῖν θησαυροὺς ἐν τοῖς μαρσίπποις ὑμῶν; Matthew 6:19-21; 13:44). (LXX form supplied.)")))
+
+(lemma "θῖβις" (sense basket (gloss "basket" "baskets") (why "(LXX, supplied.) An Egyptian word for a basket or box woven of papyrus (Exodus 2:3, 5-6, in which Moses was laid by the river). The English shares \"basket\" with κανοῦν (Genesis 40), a different Greek word for a different basket; the alignment shows which.")))
+
+(lemma "θλίβω" (sense afflict (gloss "afflict" "afflicted" "afflicts" "afflicting") (why "To press, squeeze, and so afflict, oppress (Exodus 3:9, the oppression with which the Egyptians afflict them; 2 Corinthians 4:8; 2 Thessalonians 1:6). The verb of θλῖψις \"affliction\". (LXX form supplied.)")))
+
+(lemma "θλιμμός" (sense oppression (gloss "oppression" "oppressions") (why "(LXX, supplied.) Pressing, oppression (θλίβω): Exodus 3:9, τὸν θλιμμὸν ὃν οἱ Αἰγύπτιοι θλίβουσιν αὐτούς. \"Oppression\" keeps it apart from θλῖψις \"affliction\".")))
+
+(lemma "θιμωνιά" (sense stack (gloss "stack" "stacks") (why "(LXX, supplied.) A heap, stack (of sheaves or the like): Exodus 8:14 συνήγαγον αὐτοὺς θιμωνιὰς θιμωνιάς, the dead frogs gathered \"stacks stacks\", the repetition distributive as in Hebrew. \"Stack\" because \"heap\" is βουνός's.")))
 
 (lemma "θλῖψις" (sense affliction (gloss "affliction" "afflictions") (why "(LXX form supplied.) Pressure, distress, affliction (Genesis 35:3 ἐν ἡμέρᾳ θλίψεως, \"in day of affliction\"; John 16:33; Romans 5:3). Kept apart from ταπείνωσις and λύπη \"sorrow\".")))
 

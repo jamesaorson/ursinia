@@ -2,6 +2,8 @@
 ;; in Greek alphabetical order. Format: gsb/translation/README.md; generator
 ;; fields: gsb/literal/README.md. Checked by `make gsb/lint`.
 
+(lemma "Μάγδωλος" (sense name (gloss "Migdol") (why "(LXX, supplied.) A place by the sea (Exodus 14:2, ἀνὰ μέσον Μαγδώλου), declined in the Greek; the Hebrew Migdol, \"tower\". Traditional English Migdol.")))
+
 (lemma "Μαγώγ" (sense name (gloss "Magog") (why "Japheth's son (Genesis 10:2; Revelation 20:8, Gog and Magog), traditional English Magog.")))
 
 (lemma "Μαδαί" (sense name (gloss "Madai") (why "(LXX, supplied.) Japheth's son (Genesis 10:2), traditional English Madai.")))
@@ -21,6 +23,8 @@
 (lemma "μαῖα" (sense midwife (person) (gloss "midwife" "midwives") (why "(LXX, supplied.) A midwife (Genesis 35:17, Rachel's midwife; 38:28). The Hebrew word is the same as in Exodus 1:15-21.")))
 
 (lemma "Μαιήλ"(sense name (gloss "Mehujael") (why "(LXX, supplied.) Genesis 4:18, traditional English Mehujael.")))
+
+(lemma "μαιόομαι" (sense midwife (verb "midwife" "midwifed" "midwifed") (gloss "midwife" "midwifed" "midwifes" "midwifing") (why "(LXX, supplied.) To act as midwife to, deliver a woman (Exodus 1:16 Ὅταν μαιοῦσθε τὰς Ἐβραίας). The verb of μαῖα \"midwife\", given the same English as the Greek shares the root; the alignment shows which is which.")))
 
 (lemma "μακαρίζω" (sense call-happy (verb "call happy" "called happy" "called happy") (gloss "call happy" "called happy" "calls happy" "calling happy") (why "To count or call someone happy (μακάριος) (Genesis 30:13, Leah: μακαρίζουσίν με πᾶσαι αἱ γυναῖκες; Luke 1:48; James 5:11). \"Call happy\" keeps the link with μακάριος \"happy\".")))
 
@@ -48,6 +52,8 @@
 
 (lemma "Μανασσῆ" (sense name (gloss "Manasseh") (why "Joseph's firstborn (Genesis 41:51; 46:20; 48:1-20), indeclinable; Swete spells Μανασσή and Μαννασσή. The same name as King Manasseh (Matthew 1:10) and the tribe (Revelation 7:6); traditional English Manasseh.")))
 (lemma "μανδραγόρας" (sense mandrake (gloss "mandrake" "mandrakes") (why "(LXX, supplied.) The mandrake, a plant whose fruit was thought to help conception (Genesis 30:14-16, μῆλα μανδραγόρου, Reuben's find).")))
+
+(lemma "μανθάνω" (sense learn (gloss "learn" "learned" "learns" "learning") (why "To learn, find out (Exodus 2:4 μαθεῖν τί τὸ ἀποβησόμενον αὐτῷ, to learn what would turn out for him; Matthew 9:13; Galatians 3:2). The verb of μαθητής \"disciple\".")))
 
 (lemma "Μαννάχαθ" (sense name (gloss "Manahath") (why "(LXX, supplied.) A son of Shobal the Horite (Genesis 36:23), Greek Μαννάχαθ; traditional English Manahath.")))
 
@@ -148,6 +154,8 @@
     (gloss "after")
     (why "With the accusative: \"after\" (Genesis 4:3 μεθ’ ἡμέρας, \"after days\"; Matthew 26:2). The generator picks it for an accusative object.")))
 
+(lemma "μεταβάλλω" (sense transform (gloss "transform" "transformed" "transforms" "transforming") (why "(LXX, supplied.) To turn into something else, change over: transitive, Exodus 7:20 μετέβαλεν πᾶν τὸ ὕδωρ ... εἰς αἷμα; intransitive, 7:17 μεταβαλεῖ εἰς αἷμα; Acts 28:6, middle, changing their minds. \"Transform\" because \"change\" is ἀλλάσσω's and \"turn\" στρέφω's.")))
+
 (lemma "μεταπέμπω" (sense send-for (gloss "send for" "sent for" "sends for" "sending for") (why "Middle: to send for, summon (Genesis 27:45 ἀποστείλασα μεταπέμψομαί σε ἐκεῖθεν; Acts 10:5, 22; 24:24). The middle is rendered active. (LXX form supplied.)")))
 
 (lemma "μετατίθημι" (sense transfer (verb "transfer" "transferred" "transferred") (gloss "transfer" "transferred" "transfers" "transferring") (why "To move from one place to another, transfer (Genesis 5:24, God transferred Enoch; Hebrews 11:5 quotes it, where the KJV has \"translated\"; Acts 7:16).")))
@@ -218,6 +226,8 @@
 
 (lemma "μνημεῖον" (sense tomb (gloss "tomb" "tombs") (why "A memorial, and so a tomb (Genesis 23:6, 9; Matthew 27:52-60; John 11:17). \"Tomb\" keeps it apart from τάφος \"grave\" and μνημόσυνον \"memorial\".")))
 
+(lemma "μνημόσυνον" (sense memorial (gloss "memorial" "memorials") (why "A remembrance, memorial (Exodus 3:15, the name of God μνημόσυνον γενεῶν γενεαῖς; Matthew 26:13; Mark 14:9; Acts 10:4). (LXX form supplied.)")))
+
 (lemma "μνησικακέω" (sense hold-malice (dative "against") (verb "hold malice" "held malice" "held malice") (gloss "hold malice" "held malice" "holds malice" "holding malice") (why "(LXX, supplied.) To remember wrongs, bear a grudge, with the dative (Genesis 50:15, Μή ποτε μνησικακήσῃ ἡμῖν Ἰωσήφ).")))
 
 (lemma "Μοζέ" (sense name (gloss "Mizzah") (why "(LXX, supplied.) A son of Reuel, Esau's grandson, and a chief (Genesis 36:13, 17), Greek Μοζέ; traditional English Mizzah.")))
@@ -245,6 +255,8 @@
 (lemma "μυελός" (sense marrow (gloss "marrow") (why "Marrow, and so the richest part (Genesis 45:18, you will eat the marrow of the land; Hebrews 4:12).")))
 
 (lemma "μουσικός" (sense musician (person) (gloss "musician" "musicians") (why "Skilled in music; as a noun, a musician (Genesis 31:27 μετὰ μουσικῶν, τυμπάνων καὶ κιθάρας; Revelation 18:22).")))
+
+(lemma "μόχθος" (sense hardship (gloss "hardship" "hardships") (why "Toil, hardship, labor that wears (Exodus 18:8, πάντα τὸν μόχθον τὸν γενόμενον αὐτοῖς ἐν τῇ ὁδῷ; 2 Corinthians 11:27; 1 Thessalonians 2:9). \"Hardship\" because κόπος has \"toil\". (LXX form supplied.)")))
 
 (lemma "μυριάς" (sense myriad (gloss "myriad" "myriads") (why "Ten thousand, a myriad (Genesis 24:60, εἰς χιλιάδας μυριάδων, \"into thousands of myriads\"; Luke 12:1; Revelation 5:11).")))
 

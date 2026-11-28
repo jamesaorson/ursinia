@@ -21,17 +21,23 @@
 (lemma "Βάλλα"(sense name (gloss "Bera") (why "(LXX, supplied.) King of Sodom (Genesis 14:2), Greek Βάλλα for the Hebrew Bera; traditional English Bera, the same man in the Greek spelling."))
   (sense bilhah (person) (gloss "Bilhah") (why "(LXX, supplied.) Rachel's slave girl, given to Jacob (Genesis 29:29; 30:3-7; 35:22, 25), Greek Βάλλα (accusative Βάλλαν) for the Hebrew Bilhah. The same Greek spelling as the king of Sodom, a different person and Hebrew name: her own sense, traditional English Bilhah.")))
 
+(lemma "βάλλω" (sense cast (verb "cast" "cast" "cast") (gloss "cast" "casts" "casting") (why "To throw, cast (Exodus 10:19 ἔβαλεν αὐτὴν εἰς τὴν ἐρυθρὰν θάλασσαν, the wind casting the locust into the Red Sea; Matthew 3:10; 5:29). \"Cast\" as ἐπιβάλλω's note foresaw: the compound adds ἐπί; ῥίπτω keeps \"throw\".")))
+
 (lemma "Βάραδ" (sense name (gloss "Bered") (why "(LXX, supplied.) A place in the wilderness of Shur (Genesis 16:14), Hebrew Bered; the traditional English form, the Greek being the same name.")))
 
 (lemma "Βαράδ" (sense name (gloss "Bedad") (why "(LXX, supplied.) Father of Hadad, king of Edom (Genesis 36:35); Swete's Βαράδ is the Hebrew Bedad with ρ for δ, the same name, so the traditional English Bedad (rule 8). Not the place Βάραδ \"Bered\" (Genesis 16:14).")))
 
 (lemma "Βαράθ" (sense name (gloss "Barath") (why "(LXX, supplied.) Father of the king Hadar (Ἁράθ) of Edom (Genesis 36:39); the Hebrew names no father there, so the English follows the Greek name.")))
 
+(lemma "βαρέω" (sense weigh-down (verb "weigh down" "weighed down" "weighed down") (gloss "weigh down" "weighed down" "weighs down" "weighing down") (why "To weigh down, burden (Exodus 7:14 Βεβάρηται ἡ καρδία Φαραώ, \"the heart of Pharaoh has been weighed down\"; Luke 21:34; 2 Corinthians 5:4, βαρούμενοι). \"Weigh down\" keeps it apart from βαρύνω \"make heavy\". (LXX form supplied.)")))
+
 (lemma "Βαριά" (sense name (gloss "Beriah") (why "(LXX, supplied.) A son of Asher (Genesis 46:17), Greek Βαριά; traditional English Beriah.")))
 
 (lemma "Βαρσά"(sense name (gloss "Birsha") (why "(LXX, supplied.) King of Gomorrah (Genesis 14:2); traditional English Birsha.")))
 
 (lemma "βαρυωπέω" (sense grow-dim (intransitive) (verb "grow dim" "grew dim" "grown dim") (gloss "grow dim" "grew dim" "grown dim" "grows dim" "growing dim") (why "(LXX, supplied.) To be heavy of sight (βαρύς + ὤψ), see dimly: Genesis 48:10, Israel's eyes grew dim from old age. \"Grow dim\" keeps it apart from ἀμβλύνω \"dull\" (Genesis 27:1).")))
+
+(lemma "βαρύνω" (sense make-heavy (verb "make heavy" "made heavy" "made heavy") (gloss "make heavy" "made heavy" "makes heavy" "making heavy") (why "(LXX, supplied.) To make heavy (βαρύς), of Pharaoh's heart: Exodus 8:15 ἐβαρύνθη ἡ καρδία αὐτοῦ \"his heart was made heavy\", 8:32 ἐβάρυνεν Φαραὼ τὴν καρδίαν αὐτοῦ \"Pharaoh made heavy his heart\". \"Make heavy\" keeps it apart from βαρέω \"weigh down\" (Exodus 7:14).")))
 
 (lemma "βαρύς" (sense heavy (gloss "heavy") (why "Heavy, weighty, and so burdensome, grievous (Genesis 48:17 βαρὺ αὐτῷ κατεφάνη, it seemed heavy to Joseph; Matthew 23:4; 1 John 5:3). (LXX form supplied.)")))
 
@@ -47,11 +53,19 @@
 
 (lemma "βασιλεύω" (sense reign (intransitive) (gloss "reign" "reigned" "reigns" "reigning") (why "(LXX form supplied.) To be king, reign (Genesis 36:31-39, the kings who reigned in Edom; Matthew 2:22; Luke 1:33). The verb of βασιλεύς \"king\".")))
 
+(lemma "βάτος (I)" (sense bush (gloss "bush" "bushes") (why "A thorn bush, bramble: the burning bush (Exodus 3:2-4, ὁ βάτος, masculine in Swete; Mark 12:26 ἐπὶ τοῦ βάτου; Luke 20:37; Acts 7:30, 35, retelling Exodus 3). The lemma keeps the New Testament table's name, apart from βάτος (II), the liquid measure \"bath\" (Luke 16:6).")))
+
+(lemma "βάτραχος" (sense frog (gloss "frog" "frogs") (why "A frog (Exodus 8:2-13, the second plague; Revelation 16:13, unclean spirits like frogs). The singular ὁ βάτραχος of Exodus 8:6 is collective and stays singular.")))
+
 (lemma "βδέλυγμα"(sense abomination (gloss "abomination" "abominations") (why "(LXX form supplied.) A thing abhorred, an abomination (Genesis 43:32 βδέλυγμα γάρ ἐστιν τοῖς Αἰγυπτίοις, of eating with Hebrews; Matthew 24:15; Luke 16:15). The noun of βδελύσσομαι \"abhor\".")))
 
 (lemma "βδελύσσομαι" (sense abhor (gloss "abhor" "abhorred" "abhors" "abhorring") (why "To feel loathing for, abhor (Genesis 26:29 οὐκ ἐβδελυξάμεθα, \"we did not abhor you\"; Romans 2:22). Kept with βδέλυγμα \"abomination\" in the readable layer's choices.")))
 
 (lemma "Βαύξ" (sense name (gloss "Buz") (why "(LXX, supplied.) Nahor's second son (Genesis 22:21); the Greek form of the Hebrew Buz. Traditional English Buz.")))
+
+(lemma "βδελύσσω" (sense make-loathsome (verb "make loathsome" "made loathsome" "made loathsome") (gloss "make loathsome" "made loathsome" "makes loathsome" "making loathsome") (why "(LXX sense.) Active, to make loathsome, make to stink (Exodus 5:21 ἐβδελύξατε τὴν ὀσμὴν ἡμῶν ἐναντίον Φαραώ, \"you made our smell loathsome before Pharaoh\"). The middle \"abhor\" (Romans 2:22 ὁ βδελυσσόμενος τὰ εἴδωλα) becomes its own sense when needed.")))
+
+(lemma "Βεελσεπφών" (sense name (gloss "Baal-zephon") (why "(LXX, supplied.) A place by the sea where Israel camped (Exodus 14:2, 9, ἐξ ἐναντίας Βεελσεπφών), indeclinable; traditional English Baal-zephon.")))
 
 (lemma "Βεήρ" (sense name (gloss "Beeri") (why "(LXX, supplied.) Father of Esau's wife Judith (Genesis 26:34), Greek Βεήρ for the Hebrew Beeri; traditional English Beeri.")))
 
@@ -67,12 +81,20 @@
 
 (lemma "Βηθλέεμ" (sense name (gloss "Bethlehem") (why "Bethlehem, on the way to Ephrath, where Rachel was buried (Genesis 35:19; Matthew 2:1-8; Luke 2:4). Traditional English.")))
 
+(lemma "βία" (sense violence (dative "with") (gloss "violence") (why "Force, violence (Exodus 1:13 κατεδυνάστευον ... βίᾳ; 1:14 μετὰ βίας; Acts 5:26 οὐ μετὰ βίας; 27:41). \"Violence\" keeps it apart from the verb βιάζομαι \"force\". The bare dative is the means, \"with violence\".")))
+
 (lemma "βιάζομαι"(sense force (gloss "force" "forced" "forces" "forcing") (why "To use force, press hard on (Genesis 33:11, Jacob forced Esau until he took the gifts; Matthew 11:12; Luke 16:16). Kept apart from παραβιάζομαι \"constrain\".")))
+
+(lemma "βίαιος" (sense violent (gloss "violent") (why "Forceful, violent (Exodus 14:21, ἐν ἀνέμῳ νότῳ βιαίῳ; Acts 2:2, a violent rushing wind). The adjective of βία \"violence\".")))
+
+(lemma "βιβλίον" (sense scroll (gloss "scroll" "scrolls") (why "A written roll, scroll (Exodus 17:14, Κατάγραψον τοῦτο ... εἰς βιβλίον; Luke 4:17; Revelation 5:1). \"Scroll\" keeps the diminutive apart from βίβλος \"book\", as that entry foresaw.")))
 
 (lemma "βίβλος"
   (sense book
     (gloss "book" "books")
     (why "A book or written record (Genesis 2:4; 5:1; Matthew 1:1). βιβλίον, its diminutive, will take \"scroll\".")))
+
+(lemma "βιβρώσκω" (sense eat (gloss "eat" "ate" "eaten" "eats" "eating") (why "To eat; in Exodus the passive (13:3, οὐ βρωθήσεται ζύμη, \"leaven will not be eaten\"; John 6:13 τοῖς βεβρωκόσιν). It shares \"eat\" with ἐσθίω: English has no other plain verb for eating, and \"consume\" is ἀναλίσκω.")))
 
 (lemma "βλαστάνω"
   (sense sprout
@@ -84,6 +106,8 @@
 (lemma "βλαστός" (sense shoot (gloss "shoot" "shoots") (why "(LXX, supplied.) A shoot, sprout (Genesis 40:10, the vine bringing up shoots); the noun of βλαστάνω \"sprout\".")))
 
 (lemma "βοάω" (sense cry-out (gloss "cry out" "cried out" "cries out" "crying out") (why "To cry out, shout (Genesis 4:10, the voice of blood crying out).")))
+
+(lemma "βοή" (sense cry (gloss "cry" "cries") (why "A shout, a cry for help (Exodus 2:23 ἀνέβη ἡ βοὴ αὐτῶν πρὸς τὸν θεόν; James 5:4 αἱ βοαὶ τῶν θερισάντων). The noun of βοάω \"cry out\"; kept apart from κραυγή \"outcry\".")))
 
 (lemma "βοηθέω" (sense help (dative "") (gloss "help" "helped" "helps" "helping") (why "(LXX form supplied.) To come to the aid of, help, with the dative (Genesis 49:25 ἐβοήθησέν σοι ὁ θεός; Matthew 15:25; Mark 9:24). The verb of βοηθός.")))
 
@@ -108,6 +132,8 @@
 
 (lemma "βότρυς" (sense cluster (gloss "cluster" "clusters") (why "A cluster of grapes (Genesis 40:10 οἱ βότρυες σταφυλῆς; Revelation 14:18).")))
 
+(lemma "βουκόλιον" (sense herd (gloss "herd" "herds") (why "(LXX, supplied.) A herd of cattle (Exodus 13:12, ἐκ τῶν βουκολίων). From βουκόλος, a cowherd.")))
+
 (lemma "βουλεύω" (sense plan (gloss "plan" "planned" "plans" "planning") (why "(LXX form supplied.) To take counsel, plan, resolve; mostly middle (Genesis 50:20, you planned against me for evil, but God planned for good; John 11:53; 12:10; Acts 27:39). The verb of βουλή \"counsel\".")))
 
 (lemma "βουλή" (sense counsel (gloss "counsel" "counsels") (why "(LXX form supplied.) Counsel, plan, purpose (Genesis 49:6 εἰς βουλὴν αὐτῶν μὴ ἔλθοι ἡ ψυχή μου; Luke 7:30; Acts 2:23; 20:27).")))
@@ -120,7 +146,11 @@
 
 (lemma "βούτυρον" (sense butter (gloss "butter") (why "(LXX, supplied.) Butter or curdled milk (Genesis 18:8, set before the three men with milk). \"Butter\" is the word's own sense in Greek; the readable layer may say \"curds\".")))
 
+(lemma "βραδύγλωσσος" (sense slow-tongued (gloss "slow-tongued") (why "(LXX, supplied.) Slow of tongue (βραδύς + γλῶσσα): Exodus 4:10, Moses of himself, beside ἰσχνόφωνος \"thin-voiced\". One English word made the same way as the Greek.")))
+
 (lemma "βραδύνω" (sense delay (gloss "delay" "delayed" "delays" "delaying") (why "(LXX, supplied.) To be slow, delay, linger (Genesis 43:10 εἰ μὴ γὰρ ἐβραδύναμεν, \"for if we had not delayed\"; 1 Timothy 3:15; 2 Peter 3:9). From βραδύς \"slow\".")))
+
+(lemma "βραχύς" (sense brief (gloss "brief") (why "Short, small, few; τὰ βραχέα τῶν κριμάτων, the small matters among the cases (Exodus 18:22); Luke 22:58; Hebrews 2:7 βραχύ τι \"a little\". \"Brief\" because μικρός has \"small\".")))
 
 (lemma "βραχίων" (sense arm (gloss "arm" "arms") (why "The arm (Genesis 27:16, the kids' skins put on Jacob's arms; Luke 1:51; John 12:38, the arm of the Lord). (LXX form supplied.)")))
 
@@ -139,3 +169,5 @@
     (why "The act of eating, or what is eaten. \"Eating\" (1 Corinthians 8:4) keeps it apart from βρῶμα, which will take \"food\". In Genesis 2:16 βρώσει φάγῃ is \"with eating you will eat\", a Hebrew-style intensive kept in the literal layer.")))
 
 (lemma "βύσσινος" (sense fine-linen (gloss "fine linen") (why "Made of byssus, fine linen (Genesis 41:42 στολὴν βυσσίνην, the robe Pharaoh put on Joseph; Revelation 18:12, 16; 19:8, 14).")))
+
+(lemma "βύσσος" (sense fine-linen (gloss "fine linen") (why "Byssus, fine linen, the costly flax cloth or thread (Luke 16:19 πορφύραν καὶ βύσσον). In the tabernacle and priestly chapters with ὑάκινθος \"blue\", πορφύρα \"purple\" and κόκκινος \"scarlet\" (Exodus 25:4; 26:1; 28:5-8 βύσσου κεκλωσμένης \"of twisted fine linen\"). It shares \"fine linen\" with its adjective βύσσινος, unavoidably: English has no other noun for it (\"byssus\" is not understood); λινοῦς stays plain \"linen\". Use this English in every tabernacle chapter.")))

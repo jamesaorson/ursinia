@@ -1,5 +1,6 @@
 # oldtestgreek00unknuoft leaf 0566 (printed page 542)
 # box 225 2186 184 1518
+# done 2026-11-28 swete-2
 # Swete's 7 (leaf 564) runs straight into 9 here: the Old Greek has no 8; {9!}
 παντὸς θεοῦ ἕως ἡμερῶν τριάκοντα ἀλλ᾽ ἢ παρὰ Δαρείου τοῦ
 # margin: 9 (10)
@@ -19,8 +20,8 @@
 δὲ μή, ῥιφήσεται εἰς τὸν λάκκον τῶν λεόντων; ἀποκριθεὶς δὲ ὁ
 βασιλεὺς εἶπεν αὐτοῖς Ἀκριβὴς ὁ λόγος, καὶ μενεῖ ὁ ὁρισμός.
 # margin: 12 a (13 a)
-# WIP: the checker refuses {=6:13a} after {=6:13} (whole verse and half); left for the coordinator
-{12a}{=6:13a}καὶ εἶπον αὐτῷ Ὁρκίζομέν σε τοῖς Μήδων καὶ Περσῶν δόγ-
+# Swete's own lettered 12a, printed with (13 a): a whole verse and its half cannot both be given, so 12a runs on with common 6:13 (as his 4:14a, 4:30a-c, 4:34a-c)
+{12a}{=6:13}καὶ εἶπον αὐτῷ Ὁρκίζομέν σε τοῖς Μήδων καὶ Περσῶν δόγ-
 μασιν, ἵνα μὴ ἀλλοιώσῃς τὸ πρόσταγμα μηδὲ θαυμάσῃς πρόσω-
 πον, καὶ ἵνα μὴ ἐλαττώσῃς τι τῶν εἰρημένων, καὶ κολάσῃς τὸν
 ἄνθρωπον ὃς οὐκ ἐνέμεινε τῷ ὁρισμῷ τούτῳ. καὶ εἶπεν Οὕτως

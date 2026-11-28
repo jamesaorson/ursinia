@@ -23,6 +23,8 @@
 
 (lemma "Λατουσιείμ" (sense name (gloss "Letushim") (why "(LXX, supplied.) A son of Dedan (Genesis 25:3), traditional English Letushim.")))
 
+(lemma "λατρεία" (sense service (gloss "service") (why "Service, worship rendered to God (Exodus 13:5, ποιήσεις τὴν λατρίαν ταύτην, Swete's spelling λατρία; John 16:2; Romans 12:1). The noun of λατρεύω \"serve\".")))
+
 (lemma "λατρεύω" (sense serve (gloss "serve" "served" "serves" "serving") (dative "") (why "To serve (in worship), Exodus 20:5; Matthew 4:10.")))
 
 (lemma "λάχανον" (sense vegetable (gloss "vegetable" "vegetables") (why "A garden plant, vegetable, green (Genesis 9:3, ὡς λάχανα χόρτου, \"as vegetables of grass\"; Matthew 13:32; Romans 14:2). \"Vegetable\" against χόρτος \"grass\" and βοτάνη.")))
@@ -44,6 +46,8 @@
 
 (lemma "Λευί" (sense name (gloss "Levi") (why "Jacob's third son by Leah (Genesis 29:34; 34:25; 49:5); Hebrews 7:5, 9 and Revelation 7:7 Λευί (Nestle spells Λευεί), the same name as the tax collector Levi (Mark 2:14). Traditional English Levi.")))
 
+(lemma "Λευίτης" (sense name (person) (gloss "Levite" "Levites") (why "A Levite, a man of the tribe of Levi (Exodus 4:14, Ἀαρὼν ... ὁ Λευείτης, Swete's spelling; Luke 10:32; John 1:19); traditional English.")))
+
 (lemma "λευκός" (sense white (gloss "white") (why "White (Genesis 30:35, 37; 31:8; 49:12; Matthew 5:36; 17:2; Revelation 1:14).")))
 
 (lemma "λέων" (sense lion (gloss "lion" "lions") (why "(LXX form supplied.) A lion (Genesis 49:9, Judah a lion's whelp; Revelation 5:5 ὁ λέων ὁ ἐκ τῆς φυλῆς Ἰούδα; 1 Peter 5:8).")))
@@ -56,6 +60,8 @@
     (why "Very, exceedingly (Genesis 1:31; Matthew 2:16).")))
 
 (lemma "λίθινος" (sense stony (gloss "stony") (why "Of stone, made of stone (Genesis 35:14 στήλην λιθίνην; John 2:6 λίθιναι ὑδρίαι; 2 Corinthians 3:3). \"Stony\" in its old sense \"made of stone\" (KJV Ezekiel 36:26 \"the stony heart\") keeps it apart from λίθος \"stone\".")))
+
+(lemma "λιθοβολέω" (sense stone (gloss "stone" "stoned" "stones" "stoning") (why "To throw stones at, stone (Exodus 8:26, the Egyptians would stone Israel for sacrificing their abominations; Matthew 21:35; 23:37; Acts 7:58). The verb shares the English \"stone\" with the noun λίθος, as the Greek verb is built on it; the alignment shows which.")))
 
 (lemma "λίθος"
   (sense stone
@@ -73,7 +79,11 @@
     (gloss "word" "words")
     (why "The traditional rendering. It keeps the link to God's creating word in Genesis 1 and to every other λόγος in Scripture. Capitalized when it is the Son's title (John 1:1, 14).")))
 
-(lemma "λοιδορέω" (sense revile (gloss "revile" "reviled" "reviles" "reviling") (why "(LXX form supplied.) To abuse with words, revile (Genesis 49:23, the archers ἐλοιδόρουν Joseph; John 9:28; 1 Corinthians 4:12; 1 Peter 2:23).")))
+(lemma "λοιδορέω" (sense revile (dative "") (gloss "revile" "reviled" "reviles" "reviling") (why "(LXX form supplied.) To abuse with words, revile (Genesis 49:23, the archers ἐλοιδόρουν Joseph; John 9:28; 1 Corinthians 4:12; 1 Peter 2:23).")))
+
+(lemma "λοιδόρησις" (sense revilement (gloss "revilement" "revilements") (why "(LXX, supplied.) A reviling, railing; Exodus 17:7, the second name of the place, Πειρασμός, καὶ Λοιδόρησις (Hebrew Meribah, \"strife\"). The noun of λοιδορέω \"revile\"; \"revilement\" keeps it apart from the participle \"reviling\" and from λοιδορία \"abuse\".")))
+
+(lemma "λοιδορία" (sense abuse (gloss "abuse" "abuses") (why "(LXX form supplied.) Abusive speech, railing (Exodus 17:7, διὰ τὴν λοιδορίαν τῶν υἱῶν Ἰσραήλ; 1 Timothy 5:14; 1 Peter 3:9). \"Abuse\" keeps it apart from λοιδόρησις \"revilement\" in the same verse.")))
 
 (lemma "λοιπός" (sense remaining (gloss "remaining") (why "Left, remaining, the rest (Genesis 45:6, further remaining five years; Matthew 22:6; Acts 2:37). It shares \"remaining\" with καταμένω's participle; the alignment shows which Greek word stands behind it.")))
 
@@ -82,6 +92,8 @@
 (lemma "Λουδιείμ" (sense name (person) (plural "Ludim") (gloss "Ludim") (why "(LXX, supplied.) A people descended from Mizraim (Genesis 10:13), Greek Λουδιείμ; traditional English Ludim.")))
 
 (lemma "Λοῦζα" (sense name (gloss "Luz") (why "(LXX, supplied.) The old name of Bethel (Genesis 35:6; 48:3, where God appeared to Jacob), Greek Λοῦζα; traditional English Luz. Genesis 28:19 has Οὐλαμλούς for the same place.")))
+
+(lemma "λούω" (sense bathe (voice middle) (gloss "bathe" "bathed" "bathes" "bathing") (why "To wash the whole body, bathe; middle, to bathe oneself (Exodus 2:5 κατέβη δὲ ἡ θυγάτηρ Φαραὼ λούσασθαι ἐπὶ τὸν ποταμόν; John 13:10 ὁ λελουμένος; Acts 9:37). \"Bathe\" keeps it apart from νίπτω \"wash\", washing a part of the body.")))
 
 (lemma "λοχεύω" (sense bear-young (voice active) (verb "bear young" "bore young" "borne young") (gloss "bear young" "bore young" "borne young" "bears young" "bearing young") (why "(LXX, supplied.) To bring to birth; middle and passive, to be giving birth, have young (Genesis 33:13, the sheep and the cows are bearing young upon me). Kept apart from τίκτω \"bear\".")))
 
@@ -97,6 +109,8 @@
     (why "Grief, sorrow, pain (Genesis 3:16-17; John 16:6, 20-22). John 16:21 (\"the woman, when she gives birth, has sorrow\") echoes Genesis 3:16; one gloss keeps it visible.")))
 
 (lemma "λυπηρός" (sense grievous (gloss "grievous") (why "(LXX, supplied.) Painful, grievous (Genesis 34:7, λυπηρὸν ἦν αὐτοῖς σφόδρα, it was grievous to them exceedingly). The adjective of λύπη \"grief\".")))
+
+(lemma "λυτρόω" (sense redeem (voice middle) (gloss "redeem" "redeemed" "redeems" "redeeming") (why "To set free for a ransom, redeem; mostly middle, in the active sense (Exodus 13:13, 15, λυτρώσῃ, λυτρώσομαι, of the firstborn; Luke 24:21; Titus 2:14).")))
 
 (lemma "λύω" (sense untie (gloss "untie" "untied" "unties" "untying") (why "To loose, untie (Genesis 42:27 λύσας δὲ εἷς τὸν μάρσιππον αὐτοῦ, opening his sack; Mark 1:7; John 1:27). \"Destroy\" (John 2:19) and \"release\" become their own senses when needed.")))
 

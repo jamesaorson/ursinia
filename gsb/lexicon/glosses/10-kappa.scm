@@ -63,6 +63,8 @@
     (gloss "season" "seasons")
     (why "A fixed or fitting time, a season (Genesis 1:14; Acts 14:17, fruitful seasons). \"Season\" everywhere, so that χρόνος can keep \"time\"; \"the season is fulfilled\" (Mark 1:15) is the cost. The owner may prefer \"time\" for καιρός and \"span\" or \"while\" for χρόνος.")))
 
+(lemma "καίω" (sense burn (voice middle) (gloss "burn" "burned" "burns" "burning") (why "To light, kindle, burn; middle/passive, to be burning (Exodus 3:2, ὁ βάτος καίεται πυρί, the bush burns with fire; Luke 12:35; John 5:35; Revelation 8:8). \"Burn\" so the present middle reads as the Greek, \"burns\"; kept apart from κατακαίω \"burn up\".")))
+
 (lemma "κακία" (sense wickedness (gloss "wickedness" "wickednesses") (why "Badness, wickedness, malice (Genesis 6:5, plural; Acts 8:22; 1 Corinthians 5:8). Kept apart from πονηρός \"evil\", which follows it in Genesis 6:5.")))
 
 (lemma "κακοποιέω" (sense harm (gloss "harm" "harmed" "harms" "harming") (why "To do evil, do harm; with an object, to harm someone (Genesis 31:7, 29 κακοποιῆσαί με, σε; Mark 3:4; 1 Peter 3:17). \"Harm\" with an object; the absolute \"do evil\" may need its own sense.")))
@@ -70,6 +72,10 @@
 (lemma "κακός" (sense bad (gloss "bad") (why "Bad, harmful; τὰ κακά, bad things, harm (Genesis 19:19 μὴ καταλάβῃ με τὰ κακά; Romans 12:17, 21). \"Bad\" because πονηρός has \"evil\".")))
 
 (lemma "κακόω" (sense mistreat (gloss "mistreat" "mistreated" "mistreats" "mistreating") (why "To do evil to, harm, mistreat (Genesis 15:13, quoted in Acts 7:6; 16:6, Sarai and Hagar; 19:9 σὲ κακώσομεν μᾶλλον ἢ ἐκείνους; 1 Peter 3:13). The verb of κακός \"bad\".")))
+
+(lemma "κάκωσις" (sense mistreatment (gloss "mistreatment" "mistreatments") (why "(LXX, supplied.) Ill-treatment, affliction (Exodus 3:7, 17, τὴν κάκωσιν τοῦ λαοῦ μου; Acts 7:34 quoting it). The noun of κακόω \"mistreat\".")))
+
+(lemma "καλάμη" (sense stubble (gloss "stubble") (why "The stalk left standing after reaping, stubble (Exodus 5:12 συναγαγεῖν καλάμην εἰς ἄχυρα, gathering stubble for straw; 1 Corinthians 3:12). \"Stubble\" keeps it apart from ἄχυρον \"straw\".")))
 
 (lemma "καλέω"
   (sense call
@@ -87,6 +93,10 @@
   (sense fair
     (gloss "fair")
     (why "Of a person's looks: fair, beautiful (Genesis 12:14, Sarai \"was exceedingly fair\"). \"Fair\" because \"beautiful\" is ὡραῖος's English; chosen by word override where the context is looks.")))
+
+(lemma "καλύπτω" (sense cover (gloss "cover" "covered" "covers" "covering") (why "To cover, veil (Exodus 8:6, the frog covered the land of Egypt; Matthew 8:24; 10:26; James 5:20). \"Cover\" keeps it apart from κρύπτω \"hide\".")))
+
+(lemma "καλύπτω" (sense cover (gloss "cover" "covered" "covers" "covering") (why "To cover, hide (Exodus 14:28, the water covered the chariots; Luke 23:30; James 5:20). ἐπικαλύπτω is \"cover over\", συγκαλύπτω \"cover up\".")))
 
 (lemma "καλῶς" (sense finely (gloss "finely") (why "The adverb of καλός, well, rightly, finely (Genesis 26:29 ἐχρήμεθά σοι καλῶς; Mark 7:37; John 13:13). \"Finely\" because εὖ has \"well\"; whether to share \"well\" is a question for the owner.")))
 
@@ -145,11 +155,15 @@
 
 (lemma "καταβλέπω" (sense look-down (gloss "look down" "looked down" "looks down" "looking down") (why "(LXX, supplied.) To look down on, look down toward (Genesis 18:16 κατέβλεψαν ἐπὶ πρόσωπον Σοδόμων). Kept apart from ἀναβλέπω \"look up\" and βλέπω \"see\".")))
 
+(lemma "καταβοάω" (sense clamor (intransitive) (gloss "clamor" "clamored" "clamors" "clamoring") (why "(LXX, supplied.) To cry out loudly, against or to someone, clamor (Exodus 5:15 κατεβόησαν πρὸς Φαραώ, the scribes complaining to Pharaoh). \"Clamor\" keeps it apart from βοάω \"cry out\" and κράζω \"shout\".")))
+
 (lemma "κατάβρωσις" (sense devouring (dative "with") (gloss "devouring") (why "(LXX, supplied.) An eating up, devouring (Genesis 31:15 κατέφαγεν καταβρώσει τὸ ἀργύριον ἡμῶν, \"he devoured with devouring our silver\", the cognate dative of κατεσθίω). It shares the English of its verb on purpose, so the doubling shows.")))
 
 (lemma "κατάγαιος" (sense underground (gloss "underground") (why "(LXX, supplied.) Under the earth, on the ground level, lowest (Genesis 6:16, the ark's κατάγαια, its lowest deck). \"Underground\" renders κατά + γῆ word for word.")))
 
 (lemma "καταγελάω" (sense laugh-at (verb "laugh at" "laughed at" "laughed at") (genitive "") (gloss "laugh at" "laughed at" "laughs at" "laughing at") (why "To laugh at, deride, with the genitive (Matthew 9:24 κατεγέλων αὐτοῦ); passive, to be laughed at (Genesis 38:23, Judah: μή ποτε καταγελασθῶμεν, \"lest we be laughed at\"). Kept with γελάω \"laugh\".")))
+
+(lemma "καταγράφω" (sense write-down (verb "write down" "wrote down" "written down") (gloss "write down" "wrote down" "written down" "writes down" "writing down") (why "(LXX, supplied.) To write down, record (Exodus 17:14, Κατάγραψον τοῦτο εἰς μνημόσυνον εἰς βιβλίον). John 8:6 has it of Jesus writing on the ground. \"Write down\" keeps it apart from γράφω \"write\".")))
 
 (lemma "κατάγω" (sense bring-down (verb "bring down" "brought down" "brought down") (gloss "bring down" "brought down" "brings down" "bringing down") (why "To lead down, bring down (Genesis 39:1, Joseph brought down to Egypt; Acts 9:30; 23:15, 20). \"Bring down\" as ἀνάγω would be \"bring up\"; kept apart from καταβαίνω \"go down\".")))
 
@@ -160,6 +174,10 @@
 (lemma "καταδιώκω" (sense chase (gloss "chase" "chased" "chases" "chasing") (why "To pursue closely, hunt down (Genesis 14:14, chased behind them as far as Dan; Mark 1:36). \"Chase\" keeps it apart from διώκω \"pursue\".")))
 
 (lemma "καταδουλόω" (sense subjugate (gloss "subjugate" "subjugated" "subjugates" "subjugating") (why "To reduce to slavery, subjugate (Genesis 47:21 τὸν λαὸν κατεδουλώσατο αὐτῷ εἰς παῖδας, Joseph made the people servants of Pharaoh; 2 Corinthians 11:20; Galatians 2:4). \"Subjugate\" keeps it apart from δουλόω \"enslave\". (LXX form supplied.)")))
+
+(lemma "καταδυναστεία" (sense oppression (gloss "oppression") (why "(LXX, supplied.) Oppression, the power of a master used against the weaker (Exodus 6:7 ἐκ τῆς καταδυναστείας τῶν Αἰγυπτίων), the noun of καταδυναστεύω \"oppress\".")))
+
+(lemma "καταδυναστεύω" (sense oppress (gloss "oppress" "oppressed" "oppresses" "oppressing") (why "To exercise power over, oppress (Exodus 1:13 κατεδυνάστευον οἱ Αἰγύπτιοι τοὺς υἱοὺς Ἰσραὴλ βίᾳ; Acts 10:38; James 2:6).")))
 
 (lemma "κατακαίω" (sense burn-up (verb "burn up" "burned up" "burned up") (gloss "burn up" "burned up" "burns up" "burning up") (why "To burn up, burn completely (Genesis 38:24, Judah of Tamar: κατακαυθήτω, \"let her be burned up\"; Matthew 3:12; 13:30).")))
 
@@ -192,6 +210,10 @@
     (why "To leave behind (Genesis 2:24; Matthew 19:5; Mark 10:7; Ephesians 5:31).")))
 
 (lemma "κατάλειψις" (sense remainder (gloss "remainder") (why "(LXX, supplied.) A leaving behind, and so what is left, a remainder (Genesis 45:7, to rear your great remainder). \"Remainder\" keeps it apart from κατάλειμμα \"remnant\" in the same verse.")))
+
+(lemma "καταλιθοβολέω" (sense stone-down (verb "stone down" "stoned down" "stoned down") (gloss "stone down" "stoned down" "stones down" "stoning down") (why "(LXX, supplied.) To stone down, overwhelm with stones (κατά + λιθοβολέω; Exodus 17:4, ἔτι μικρὸν καὶ καταλιθοβολήσουσίν με; Luke 20:6). \"Stone down\" renders the κατα- and keeps the verb apart from λίθος \"stone\".")))
+
+(lemma "κατάλυμα" (sense lodging-place (gloss "lodging place" "lodging places") (why "A place where travelers loose their burdens and stay, lodging place, inn or guest room (Exodus 4:24, the Lord's meeting with Moses on the way; Luke 2:7; 22:11). The noun of καταλύω \"lodge\". (LXX form supplied.)")))
 
 (lemma "καταλύω" (sense lodge (gloss "lodge" "lodged" "lodges" "lodging") (why "To unharness, and so to halt for the night, lodge (Genesis 19:2 καταλύσατε ... ἐν τῇ πλατείᾳ καταλύσομεν; Luke 9:12; 19:7). The transitive \"tear down, destroy\" (Matthew 5:17; 26:61) will be its own sense.")))
 
@@ -227,6 +249,12 @@
 
 (lemma "κατάσκοπος" (sense spy (person) (gloss "spy" "spies") (why "A spy, scout (Genesis 42:9-34, Joseph's charge Κατάσκοποί ἐστε; Hebrews 11:31, the spies Rahab received).")))
 
+(lemma "κατασοφίζομαι" (sense outwit (gloss "outwit" "outwitted" "outwits" "outwitting") (why "To get the better of by cunning, outwit (Exodus 1:10 δεῦτε οὖν κατασοφισώμεθα αὐτούς, Pharaoh's plan; Acts 7:19 κατασοφισάμενος τὸ γένος ἡμῶν, of the same plan). From σοφός \"wise\".")))
+
+(lemma "κατασπεύδω" (sense press (gloss "press" "pressed" "presses" "pressing") (why "(LXX, supplied.) To urge on, hurry someone along, press (Exodus 5:10, 13, the taskmasters κατέσπευδον αὐτούς). \"Press\" keeps it apart from ἐπισπουδάζω \"urge\" and σπεύδω.")))
+
+(lemma "καταστενάζω" (sense groan-heavily (intransitive) (verb "groan heavily" "groaned heavily" "groaned heavily") (gloss "groan heavily" "groaned heavily" "groans heavily" "groaning heavily") (why "(LXX, supplied.) To groan deeply, sigh heavily (Exodus 2:23 κατεστέναξαν οἱ υἱοὶ Ἰσραὴλ ἀπὸ τῶν ἔργων). The κατα- intensifies; \"groan heavily\" keeps it apart from στένω \"groan\" and στενάζω.")))
+
 (lemma "καταστρέφω" (sense overturn (gloss "overturn" "overturned" "overturns" "overturning") (why "To turn upside down, overturn, overthrow (Genesis 19:21, 25, 29, the overturning of Sodom; Matthew 21:12, the tables of the money-changers).")))
 
 (lemma "καταστροφή" (sense overturning (gloss "overturning") (why "(LXX form supplied.) An overturning, overthrow, ruin (Genesis 19:29 ἐκ μέσου τῆς καταστροφῆς; 2 Peter 2:6, which uses it of Sodom and Gomorrah). The noun of καταστρέφω \"overturn\".")))
@@ -245,9 +273,15 @@
 
 (lemma "καταφρονέω" (sense despise (gloss "despise" "despised" "despises" "despising") (why "To think down on, despise (Genesis 27:12 ἔσομαι ἐναντίον αὐτοῦ ὡς καταφρονῶν, \"as despising\", where the Hebrew has \"as a mocker\"; Matthew 6:24; Hebrews 12:2). (LXX form supplied.)")))
 
+(lemma "καταφυγή" (sense refuge (gloss "refuge" "refuges") (why "(LXX, supplied.) A place to flee to, refuge (Exodus 17:15, the altar named Κύριος καταφυγή μου). The noun of καταφεύγω \"take refuge\", whose English it shares as the Greek shares the root.")))
+
 (lemma "καταχέω" (sense pour-down (genitive "upon") (gloss "pour down" "poured down" "pours down" "pouring down") (why "To pour down over, with the genitive of the one poured on (Genesis 39:21 κατέχεεν αὐτοῦ ἔλεος, the Lord poured down mercy upon Joseph; Mark 14:3 κατέχεεν αὐτοῦ τῆς κεφαλῆς; Matthew 26:7). Kept apart from ἐκχέω \"pour out\" and ἐπιχέω \"pour on\".")))
 
+(lemma "καταχρίω" (sense daub (gloss "daub" "daubed" "daubs" "daubing") (why "(LXX, supplied.) To smear over, daub (Exodus 2:3 κατέχρισεν αὐτὴν ἀσφαλτοπίσσῃ, the basket daubed with asphalt-pitch). Kept apart from χρίω \"anoint\".")))
+
 (lemma "καταψύχω" (sense cool-off (gloss "cool off" "cooled off" "cools off" "cooling off") (why "To cool, refresh (Genesis 18:4 καταψύξατε ὑπὸ τὸ δένδρον \"cool off under the tree\"; Luke 16:24, to cool the tongue). \"Cool off\" for the intransitive use here.")))
+
+(lemma "κατεμβλέπω" (sense stare-at (verb "stare at" "stared at" "stared at") (gloss "stare at" "stared at" "stares at" "staring at") (why "(LXX, supplied.) To look intently, look full at (κατά + ἐμβλέπω): Exodus 3:6, Moses εὐλαβεῖτο κατεμβλέψαι ἐνώπιον τοῦ θεοῦ. \"Stare at\" keeps it apart from ἐμβλέπω and ἐπιβλέπω.")))
 
 (lemma "κατέναντι"
   (sense opposite
@@ -258,7 +292,10 @@
 
 (lemma "κατέχω" (sense hold-fast (gloss "hold fast" "held fast" "holds fast" "holding fast") (why "To hold down, hold fast (Genesis 22:13 κριὸς κατεχόμενος ἐν φυτῷ σαβέκ, a ram caught; Luke 4:42; Hebrews 10:23 κατέχωμεν). \"Hold fast\" keeps it apart from κρατέω \"hold\".")))
 
-(lemma "κατισχύω" (sense make-strong (verb "make strong" "made strong" "made strong") (gloss "make strong" "made strong" "makes strong" "making strong") (why "(LXX form supplied.) Transitive, to make strong, strengthen (Genesis 49:24 ὁ κατισχύσας Ἰσραήλ, \"the [one] having made strong Israel\"); intransitive, to prevail (Matthew 16:18; Luke 23:23), which will be its own sense. \"Make strong\" because ἐνισχύω has \"strengthen\".")))
+(lemma "κατισχύω" (sense make-strong (verb "make strong" "made strong" "made strong") (gloss "make strong" "made strong" "makes strong" "making strong") (why "(LXX form supplied.) Transitive, to make strong, strengthen (Genesis 49:24 ὁ κατισχύσας Ἰσραήλ, \"the [one] having made strong Israel\"); intransitive, to prevail (Matthew 16:18; Luke 23:23), which will be its own sense. \"Make strong\" because ἐνισχύω has \"strengthen\"."))
+  (sense grow-mighty (intransitive) (verb "grow mighty" "grew mighty" "grown mighty") (gloss "grow mighty" "grew mighty" "grown mighty" "grows mighty" "growing mighty") (why "Intransitive, to become strong, prevail (Exodus 1:7 κατίσχυον σφόδρα σφόδρα, the sons of Israel were growing mighty exceedingly; Matthew 16:18; Luke 23:23). With no object \"were making strong\" would leave a verb without its object. \"Prevail\" is ἐπικρατέω's and \"overpower\" ὑπερισχύω's. Chosen by override.")))
+
+(lemma "κατοδυνάω" (sense distress (gloss "distress" "distressed" "distresses" "distressing") (why "(LXX, supplied.) To cause sharp pain, afflict sorely (Exodus 1:14 κατωδύνων αὐτῶν τὴν ζωήν). From ὀδύνη \"pain\"; \"distress\" keeps it apart from θλῖψις \"affliction\" and ταπεινόω \"humble\".")))
 
 (lemma "κατοικέω"
   (sense reside
@@ -307,6 +344,8 @@
 
 (lemma "κέρας" (sense horn (gloss "horn" "horns") (why "A horn (Genesis 22:13 τῶν κεράτων, the ram caught by the horns; Luke 1:69; Revelation 5:6).")))
 
+(lemma "κέρκος" (sense tail (gloss "tail" "tails") (why "(LXX, supplied.) The tail of an animal: Exodus 4:4, the snake that was Moses' rod, taken by the tail.")))
+
 (lemma "κεφαλή"
   (sense head
     (gloss "head" "heads")
@@ -345,6 +384,8 @@
 
 (lemma "κλίνη" (sense bed (gloss "bed" "beds") (why "A couch, bed (Genesis 48:2 ἐκάθισεν ἐπὶ τὴν κλίνην, Israel sat up on the bed; 47:31 in the Hebrew; Matthew 9:2, 6; Mark 4:21). (LXX form supplied.)")))
 
+(lemma "κλίτος" (sense side (gloss "side" "sides") (why "(LXX, supplied.) A side, flank, quarter (from κλίνω, a slope): of the tabernacle's sides (Exodus 26:18-27, τὸ κλίτος τὸ πρὸς βορρᾶν) and of the oracle's two edges (28:24 ἐπ’ ἀμφοτέρων τῶν κλιτῶν τοῦ λογίου, \"on both the sides of the oracle\"). It shares \"side\" with πλευρά (Genesis 2:21), unavoidably: \"flank\" is πλάγιος's and no other plain English fits. Use this English in every tabernacle chapter.")))
+
 (lemma "κλῆρος" (sense lot (gloss "lot" "lots") (why "A lot cast, and the share allotted by it, an inheritance (Genesis 48:6, Joseph's later sons will be called on the lots of their brothers; Matthew 27:35; Acts 1:17, 26; Colossians 1:12). \"Lot\" keeps the root visible in κληρονομέω \"inherit\". (LXX form supplied.)")))
 
 (lemma "κληρονομέω" (sense inherit (gloss "inherit" "inherited" "inherits" "inheriting") (why "To receive a share (κλῆρος), to inherit (Genesis 21:10, quoted in Galatians 4:30; 22:17; Matthew 5:5).")))
@@ -359,6 +400,8 @@
 
 (lemma "κλοποφορέω" (sense rob (gloss "rob" "robbed" "robs" "robbing") (why "(LXX, supplied.) To carry off by theft (κλοπή + φέρω), to rob (Genesis 31:26 ἐκλοποφόρησάς με, Laban to Jacob, \"you robbed me\"). Kept apart from κλέπτω \"steal\".")))
 
+(lemma "κλώθω" (sense twist (gloss "twist" "twisted" "twists" "twisting") (why "(LXX, supplied.) To spin or twist thread; the perfect passive participle κεκλωσμένος \"twisted\", of the doubled thread of the tabernacle linen and yarn (Exodus 26:1, 31; 28:6, 8, 15 βύσσου κεκλωσμένης \"of twisted fine linen\"; 28:37). \"Twist\" (the English tradition's \"fine twined linen\") keeps it apart from διανήθω \"spin through\"; συστρέφω is \"twist together\". Use this English in every tabernacle chapter.")))
+
 (lemma "κοιλάς" (sense valley (gloss "valley" "valleys") (why "(LXX, supplied.) A hollow, valley (Genesis 14:3, 8, 10, 17, the salty valley, the valley of Shaveh).")))
 
 (lemma "κοιλία"
@@ -367,6 +410,8 @@
     (why "Belly, stomach; also womb (Luke 1:41), which may become its own sense.")))
 
 (lemma "κοίλωμα" (sense hollow (gloss "hollow" "hollows") (why "(LXX, supplied.) A hollow, a valley (Genesis 23:2, Arba ἐν τῷ κοιλώματι, \"in the hollow\"). Kept apart from κοιλάς and κοιλία.")))
+
+(lemma "κοιτών" (sense bedchamber (gloss "bedchamber" "bedchambers") (why "A bedroom, bedchamber (κοίτη \"bed\"): Exodus 8:3 τὰ ταμεῖα τῶν κοιτώνων σου, \"the inner rooms of your bedchambers\"; Acts 12:20, Blastus ὁ ἐπὶ τοῦ κοιτῶνος. (LXX form supplied.)")))
 
 (lemma "κόλπος" (sense bosom (gloss "bosom") (why "Bosom, lap (Genesis 16:5, \"into your bosom\"; Luke 16:22; John 1:18).")))
 
@@ -406,7 +451,11 @@
     (gloss "adornment")
     (why "The root sense of κόσμος is order, arrangement, adornment (1 Peter 3:3). Genesis 2:1 πᾶς ὁ κόσμος αὐτῶν, \"all their adornment\", where translations from the Hebrew have \"all their host\". The New Testament's usual sense, \"world\", becomes its own sense when first translated; the owner may prefer \"world\" or \"array\" here.")))
 
+(lemma "κουφίζω" (sense lighten (gloss "lighten" "lightened" "lightens" "lightening") (why "(LXX, supplied.) To make light, lighten a load (Exodus 18:22, κουφιοῦσιν ἀπὸ σοῦ, the judges lightening Moses' burden; Acts 27:38). From κοῦφος \"light\".")))
+
 (lemma "κράζω" (sense shout (gloss "shout" "shouted" "shouts" "shouting") (why "To cry aloud, shout (Genesis 41:55 ἐκέκραξεν δὲ πᾶς ὁ λαὸς πρὸς Φαραώ; Matthew 9:27; Mark 15:13). \"Shout\" keeps it apart from βοάω \"cry out\" and κραυγή \"cry\".")))
+
+(lemma "κραταιός" (sense powerful (gloss "powerful") (why "Powerful, mighty (κράτος): Exodus 3:19 μετὰ χειρὸς κραταιᾶς, \"with powerful hand\"; 1 Peter 5:6 ὑπὸ τὴν κραταιὰν χεῖρα τοῦ θεοῦ. \"Powerful\" keeps it apart from δυνατός and ἰσχυρός \"strong\". (LXX form supplied.)")))
 
 (lemma "κρατέω" (sense hold (genitive "") (dative "with") (gloss "hold" "held" "holds" "holding") (why "To grasp, take hold of, hold (Genesis 21:18 κράτησον τῇ χειρί σου αὐτό; Matthew 9:25; Mark 1:31). κατέχω is \"hold fast\".")))
 
@@ -416,9 +465,13 @@
 
 (lemma "κρέας" (sense meat (gloss "meat" "meats") (why "Meat, flesh as food (Genesis 9:4, πλὴν κρέας ἐν αἵματι ψυχῆς; Romans 14:21; 1 Corinthians 8:13). \"Meat\" keeps it apart from σάρξ \"flesh\".")))
 
+(lemma "κρείττων" (sense better (gloss "better") (why "Better, superior, stronger (Exodus 14:12, κρεῖσσον γὰρ ἡμᾶς δουλεύειν τοῖς Αἰγυπτίοις, \"for better [is] us to serve\"; 1 Corinthians 7:9; Hebrews 1:4). Shares \"better\" with βελτίων: English has no second plain word.")))
+
 (lemma "κρεμάννυμι" (sense hang (verb "hang" "hanged" "hanged") (gloss "hang" "hanged" "hangs" "hanging") (why "To hang, hang up; of execution (Genesis 40:19, 22, the baker hanged on wood; Acts 5:30; 10:39; Galatians 3:13 quoting Deuteronomy 21:23). \"Hanged\", the past used of execution.")))
 
 (lemma "κριθή" (sense barley (gloss "barley") (why "Barley (Genesis 26:12, Isaac's hundredfold barley; Revelation 6:6; John 6:9 has the adjective κρίθινος).")))
+
+(lemma "κρίμα" (sense decision (gloss "decision" "decisions") (why "A judicial decision, case, sentence (Exodus 18:22, τὰ βραχέα τῶν κριμάτων, the small cases; Romans 2:2-3; 11:33). \"Decision\" keeps the result of judging apart from κρίσις \"judgment\"; \"condemnation\" (Romans 13:2) may become its own sense.")))
 
 (lemma "κρίνω" (sense judge (gloss "judge" "judged" "judges" "judging") (why "To judge (Genesis 18:25 ὁ κρίνων πᾶσαν τὴν γῆν \"the [one] judging all the earth\"; Matthew 7:1; John 5:22). The participle stays a participle, not the noun κριτής."))
   (sense dispute (gloss "dispute" "disputed" "disputes" "disputing") (why "The middle, to contend, go to law with one another (Genesis 26:21 ἐκρίνοντο δὲ καὶ περὶ ἐκείνου, the herdsmen disputing over the second well; Matthew 5:40; 1 Corinthians 6:6). Chosen by the form row of the middle ἐκρίνοντο.")))
@@ -432,6 +485,8 @@
     (voice active)
     (gloss "hide" "hid" "hidden" "hides" "hiding")
     (why "(Supplied in Genesis 3:8, 10.) To hide. The aorist passive (ἐκρύβησαν) is intransitive \"hid\", as in John 8:59.")))
+
+(lemma "κρυφαῖος" (sense secret (gloss "secret") (why "(LXX, supplied.) Hidden, secret (Exodus 17:16, ἐν χειρὶ κρυφαίᾳ, the Lord's warring against Amalek; Matthew 6:18 ἐν τῷ κρυφαίῳ). The adjective of κρυφῇ \"secretly\"; kept apart from κρύπτω \"hide\".")))
 
 (lemma "κρυφῇ" (sense secretly (gloss "secretly") (why "In secret, secretly (Ephesians 5:12). Genesis 31:26 ἵνα τί κρυβῇ ἀπέδρας: Swete prints the β spelling κρυβῇ.")))
 
@@ -451,9 +506,12 @@
 (lemma "κυκλόω"
   (sense encircle
     (gloss "encircle" "encircles" "encircled" "encircling")
-    (why "(Supplied in Genesis 2:11, 13.) To go around, encircle (Luke 21:20; Hebrews 11:30).")))
+    (why "(Supplied in Genesis 2:11, 13.) To go around, encircle (Luke 21:20; Hebrews 11:30)."))
+  (sense lead-around (verb "lead around" "led around" "led around") (gloss "lead around" "led around" "leads around" "leading around") (why "(LXX, supplied.) To lead round, take a roundabout way (Exodus 13:18, ἐκύκλωσεν ὁ θεὸς τὸν λαὸν ὁδὸν τὴν εἰς τὴν ἔρημον, God led the people round by the wilderness road). Chosen by the form row.")))
 
 (lemma "κύκλῳ" (sense round-about (gloss "round about") (why "The dative of κύκλος as an adverb: in a circle, round about (Genesis 23:17, the trees in its borders round about; Mark 3:34; Revelation 4:6).")))
+
+(lemma "κυνόμυια" (sense dog-fly (gloss "dog-fly" "dog-flies") (why "(LXX, supplied.) The \"dog-fly\" (κύων + μυῖα), the fourth plague (Exodus 8:21-31), where the Hebrew has a swarm. The English follows the Greek compound; the collective singular stays singular.")))
 
 (lemma "κυρία" (sense mistress (person) (gloss "mistress" "mistresses") (why "Feminine of κύριος: the mistress of a slave (Genesis 16:4, 8-9); a lady (2 John 1, 5). \"Mistress\" for the relation to the maidservant.")))
 
@@ -479,3 +537,5 @@
 (lemma "κυρόω" (sense ratify (gloss "ratify" "ratified" "ratifies" "ratifying") (why "To make valid, ratify, confirm (Genesis 23:20, the field and cave were ratified to Abraham; Galatians 3:15; 2 Corinthians 2:8).")))
 
 (lemma "κωλύω" (sense keep-back(gloss "keep back" "kept back" "keeps back" "keeping back") (why "To hinder, prevent, keep back (Genesis 23:6, οὐδεὶς ... τὸ μνημεῖον αὐτοῦ κωλύσει ἀπὸ σοῦ, \"will keep back his tomb from you\"; Luke 6:29, do not keep back the tunic; Matthew 19:14 \"forbid\" may become its own sense).")))
+
+(lemma "κωφός" (sense mute (gloss "mute") (why "Blunt, dull, and so dull of speech or hearing: mute (Matthew 9:32-33, the mute man spoke) or deaf (Matthew 11:5). Exodus 4:11 sets it beside δύσκωφος \"hard of hearing\", so \"mute\"; a sense deaf may be added where the context is hearing. (LXX form supplied.)")))

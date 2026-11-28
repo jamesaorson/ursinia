@@ -2,6 +2,10 @@
 ;; in Greek alphabetical order. Format: gsb/translation/README.md; generator
 ;; fields: gsb/literal/README.md. Checked by `make gsb/lint`.
 
+(lemma "ὑακίνθινος" (sense blue (gloss "blue") (why "(LXX, supplied.) Of hyacinth color, blue-violet (Exodus 28:31 ὑποδύτην ποδήρη ὅλον ὑακίνθινον, \"foot-length undergarment all blue\"; Revelation 9:17). It shares \"blue\" with its noun ὑάκινθος, unavoidably: English names the color and the blue stuff with one word, as with \"purple\" and \"scarlet\". Use this English in every tabernacle chapter (Exodus 25-31, 35-40).")))
+
+(lemma "ὑάκινθος" (sense blue (gloss "blue") (why "(LXX, supplied.) Hyacinth, the flower and its color: in the tabernacle and priestly chapters the blue-violet dyed yarn or cloth, named with πορφύρα \"purple\", κόκκινος \"scarlet\" and βύσσος \"fine linen\" (Exodus 25:4; 26:1; 28:5 τὸν ὑάκινθον καὶ τὴν πορφύραν; 28:8, 33, 37). \"Blue\" used as a noun (\"the blue\", \"of blue\"), like \"the purple\" and \"the scarlet\"; the adjective ὑακίνθινος shares it. Use this English in every tabernacle chapter (Exodus 25-31, 35-40). The gem (Revelation 21:20, jacinth) will be its own sense.")))
+
 (lemma "ὑγιαίνω" (sense be-healthy (verb "be healthy" "was healthy" "been healthy") (gloss "be healthy" "healthy") (why "To be in good health, be well (Genesis 29:6, Jacob asking after Laban: Ὑγιαίνει; 37:14; 3 John 2; Luke 15:27). \"Be healthy\" so every tense can be formed.")))
 
 (lemma "ὑγίεια" (sense health (gloss "health") (why "(LXX, supplied.) Health, soundness (Genesis 42:15-16 νὴ τὴν ὑγίαν Φαραώ, Joseph swearing by Pharaoh's health; Swete spells ὑγίαν). The noun of ὑγιαίνω.")))
@@ -67,6 +71,10 @@
 (lemma "ὑποτίθημι" (sense put-under (verb "put under" "put under" "put under") (gloss "put under" "puts under" "putting under") (why "To place under (Genesis 47:29 ὑπόθες τὴν χεῖρά σου ὑπὸ τὸν μηρόν μου, the oath-gesture of 24:2; 49:15; Romans 16:4, \"laid down their necks\"). \"Put under\" keeps it apart from τίθημι \"put\"; the middle \"suggest, point out\" (1 Timothy 4:6) will be its own sense.")))
 
 (lemma "ὑποχείριος" (sense subject (gloss "subject") (why "(LXX, supplied.) Under the hand, subject (Genesis 14:20, handed over your enemies subject to you), from ὑπό + χείρ.")))
+
+(lemma "ὑφάντης" (sense weaver (person) (gloss "weaver" "weavers") (why "(LXX, supplied.) A weaver: ἔργον ὑφάντου \"work of weaver\" (Exodus 26:1, 31; 28:6, 32), and with ποικιλτής ἔργον ὑφάντου ποικιλτοῦ \"work of weaver, of embroiderer\" (28:6). The agent noun of ὑφαίνω \"weave\"; ὕφασμα is \"weaving\". Use this English in every tabernacle chapter.")))
+
+(lemma "ὕφασμα" (sense weaving (gloss "weaving" "weavings") (why "(LXX, supplied.) A thing woven, a web: τὸ ὕφασμα τῶν ἐπωμίδων (Exodus 28:8), the woven band of the shoulder-piece; ὕφασμα κατάλιθον (28:17), the woven setting of the stones. \"Weaving\" (the woven thing) from ὑφαίνω \"weave\", kept apart from ἔργον \"work\". Use this English in every tabernacle chapter.")))
 
 (lemma "ὑψηλός" (sense high (gloss "high") (why "High, lofty (Genesis 7:19-20, all the high mountains; Matthew 4:8; 17:1, a high mountain).")))
 

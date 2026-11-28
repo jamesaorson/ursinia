@@ -18,6 +18,8 @@
 
 (lemma "Ναχώρ"(sense name (gloss "Nahor") (why "Serug's son and Terah's son of the same name (Genesis 11:22-29; Luke 3:34), traditional English Nahor.")))
 
+(lemma "νεᾶνις" (sense young-woman (person) (gloss "young woman" "young women") (why "(LXX, supplied.) A young woman, girl (Exodus 2:8, Moses' sister ἡ νεᾶνις; Genesis 24 has παρθένος and παῖς for Rebekah). The feminine of νεανίας; \"young woman\" shares \"young\" with νέος, as the Greek shares the root.")))
+
 (lemma "νεανίσκος" (sense youth (person) (gloss "youth" "youths") (why "A young man; \"youth\" to keep it apart from ἀνήρ \"man\".")))
 
 (lemma "Νεβρώδ" (sense name (gloss "Nimrod") (why "(LXX, supplied.) Cush's son, the giant hunter (Genesis 10:8-9), Greek Νεβρώδ; traditional English Nimrod.")))
@@ -26,7 +28,8 @@
 
 (lemma "νέμω" (sense graze (gloss "graze" "grazed" "grazes" "grazing") (why "(LXX, supplied.) To pasture, graze (a flock), transitive (Genesis 36:24 ὅτε ἔνεμεν τὰ ὑποζύγια, \"when he was grazing the beasts of burden\"). Kept apart from βόσκω \"pasture\" and ποιμαίνω.")))
 
-(lemma "νέος"(sense young (comparative "younger") (gloss "young" "younger") (why "Young, new; the comparative νεώτερος \"younger\" (Genesis 9:24, Noah's younger son; Luke 15:12-13). \"New\" (Matthew 9:17, new wine) may become its own sense, against καινός.")))
+(lemma "νέος"(sense young (comparative "younger") (gloss "young" "younger") (why "Young, new; the comparative νεώτερος \"younger\" (Genesis 9:24, Noah's younger son; Luke 15:12-13). \"New\" (Matthew 9:17, new wine) may become its own sense, against καινός."))
+  (sense new (gloss "new") (why "New, fresh (Exodus 13:4, ἐν μηνὶ τῶν νέων, \"in month of the new [things]\", the Hebrew Abib, the month of new ears; Matthew 9:17, new wine). Chosen by the form row; καινός will need another word.")))
 
 (lemma "νεότης" (sense youth (gloss "youth") (why "Youth, the time of being young (Genesis 8:21, ἐκ νεότητος, from youth; Mark 10:20, from my youth). It shares \"youth\" with νεανίσκος (a young man, a person, plural \"youths\"); English has no other plain noun for the age, and the article and context keep them apart.")))
 
@@ -56,7 +59,11 @@
 
 (lemma "νομή" (sense pasture (gloss "pasture" "pastures") (why "Pasture, grazing ground (Genesis 47:4 οὐ γάρ ἐστιν νομὴ τοῖς κτήνεσιν, \"for there is not pasture for the livestock\"; John 10:9). The spreading of a sore (2 Timothy 2:17) will be its own sense. (LXX form supplied.)")))
 
+(lemma "νόμος" (sense law (gloss "law" "laws") (why "Law (Exodus 18:16, 20, τὰ προστάγματα τοῦ θεοῦ καὶ τὸν νόμον αὐτοῦ; Matthew 5:17; Romans 7:12). Kept apart from πρόσταγμα \"ordinance\" and δικαίωμα \"statute\". (LXX form supplied.)")))
+
 (lemma "νοσσιά" (sense nest (gloss "nest" "nests") (why "(LXX, supplied.) A nest, a brood (Genesis 6:14, the ark made in \"nests\", compartments). The literal layer keeps \"nests\".")))
+
+(lemma "νοῦς" (sense intellect (gloss "intellect" "intellects") (why "The mind as the faculty of perceiving and judging, intellect (Exodus 7:23, Pharaoh did not apply his intellect even to this; Luke 24:45; Romans 12:2; 1 Corinthians 2:16). \"Intellect\" because \"mind\" is διάνοια's, as διάνοια's entry foresaw.")))
 
 (lemma "νυμφαγωγός" (sense groomsman (person) (gloss "groomsman" "groomsmen") (why "(LXX, supplied.) The one who leads the bride (νύμφη) to the groom: the bridegroom's friend, a groomsman (Genesis 21:22, 32; 26:26), where the Hebrew has \"friend\".")))
 

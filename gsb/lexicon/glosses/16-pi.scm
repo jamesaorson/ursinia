@@ -23,6 +23,8 @@
 
 (lemma "παλλακή" (sense concubine (person) (gloss "concubine" "concubines") (why "(LXX, supplied.) A concubine, a secondary wife (Genesis 22:24, 25:6, 35:22).")))
 
+(lemma "πανοικεί" (sense with-whole-household (gloss "with whole household") (why "With all one's household (Exodus 1:1 ἕκαστος πανοικὶ αὐτῶν εἰσήλθοσαν, Swete's spelling πανοικί; Acts 16:34). The adverb of πανοικία \"whole household\", whose English it keeps.")))
+
 (lemma "πανοικία" (sense whole-household (gloss "whole household") (why "(LXX, supplied.) The whole household, all the house (Genesis 50:8, 22, ἡ πανοικία Ἰωσήφ). \"Whole household\" keeps the παν- and sets it apart from οἶκος \"house\" and οἰκία.")))
 
 (lemma "παρά" (sense beside (gloss "beside") (why "With the dative: beside, in the presence of, with (Genesis 18:14 μὴ ἀδυνατεῖ παρὰ τῷ θεῷ ῥῆμα, echoed in Luke 1:37; Matthew 19:26 παρὰ δὲ θεῷ πάντα δυνατά). \"Beside\" because μετά and πρός already share \"with\". With the genitive (\"from\") and the accusative (\"alongside\", \"contrary to\") it will take its own senses."))
@@ -38,6 +40,8 @@
     (why "An enclosed park or garden; the Septuagint's word for the garden of Eden. Kept as \"paradise\" in both layers (not \"garden\", which belongs to κῆπος, John 18:1) so the New Testament's paradise (Luke 23:43; 2 Corinthians 12:4; Revelation 2:7, \"the tree of the life which is in the paradise of God\") is visibly the same place-word as Genesis 2-3.")))
 
 (lemma "παραδίδωμι" (sense hand-over (gloss "hand over" "handed over" "hands over" "handing over") (why "To give over, hand over, deliver up (Genesis 27:20 Ὃ παρέδωκεν Κύριος ὁ θεὸς ἐναντίον μου; 14:20; Matthew 26:2, of Jesus handed over; 1 Corinthians 11:23). \"Hand over\" keeps the παρά- (\"beside, over to\") of the compound and keeps it apart from δίδωμι \"give\". (LXX form supplied.)")))
+
+(lemma "παραδοξάζω" (sense make-marvelous (verb "make marvelous" "made marvelous" "made marvelous") (gloss "make marvelous" "made marvelous" "makes marvelous" "making marvelous") (why "(LXX, supplied.) To make wonderful, set apart by a marvel (παράδοξος \"beyond expectation\", Luke 5:26): Exodus 8:22 παραδοξάσω ... τὴν γῆν Γέσεμ, God marking off Goshen from the plague. \"Make marvelous\" keeps the root; \"set apart\" is another verb's.")))
 
 (lemma "παρακύπτω" (sense peer (gloss "peer" "peered" "peers" "peering") (why "To stoop to look, peer in or out (Genesis 26:8, Abimelech peered through the window; John 20:5, 11; James 1:25; 1 Peter 1:12).")))
 
@@ -111,6 +115,8 @@
 (lemma "παύω" (sense cease (voice active) (gloss "cease" "ceased" "ceases" "ceasing") (why "Middle: to cease, stop (Genesis 18:33 ὡς ἐπαύσατο λαλῶν \"as he/she/it ceased speaking\"; Luke 5:4; Acts 5:42). Kept apart from καταπαύω \"rest\".")))
 
 (lemma "πεδίον" (sense plain (gloss "plain" "plains") (why "(LXX.) A plain, open field; kept apart from ἀγρός \"field\".")))
+
+(lemma "Πειθώ" (sense name (gloss "Pithom") (why "(LXX, supplied.) One of the store cities the sons of Israel built for Pharaoh (Exodus 1:11 τήν τε Πειθὼ καὶ Ῥαμεσσή). Greek Πειθώ for the Hebrew Pithom, the same place: traditional English Pithom. The table guessed πείθω \"persuade\".")))
 
 (lemma "πεινάω" (sense hunger (gloss "hunger" "hungered" "hungers" "hungering") (why "To be hungry, hunger (Genesis 41:55 ἐπείνασεν πᾶσα ἡ γῆ Αἰγύπτου; Matthew 4:2; 5:6).")))
 
@@ -284,6 +290,8 @@
 
 (lemma "πλησμονή" (sense satiety (gloss "satiety") (why "(LXX, supplied.) Fullness, having eaten one's fill, satiety (Genesis 41:30 ἐπιλησθήσονται τῆς πλησμονῆς, the years of plenty forgotten; Colossians 2:23). \"Satiety\" keeps it apart from πλήρης \"full\" and εὐθηνία \"plenty\".")))
 
+(lemma "πλινθεία" (sense brickmaking (gloss "brickmaking") (why "(LXX, supplied.) Brickmaking, brickwork (Exodus 1:14 τῷ πηλῷ καὶ τῇ πλινθείᾳ, Swete's spelling πλινθίᾳ). The noun of πλινθεύω \"brick\", from πλίνθος \"brick\".")))
+
 (lemma "πλινθεύω" (sense brick (gloss "brick" "bricked" "bricks" "bricking") (why "(LXX, supplied.) To make bricks (Genesis 11:3, πλινθεύσωμεν πλίνθους, \"let us brick bricks\"). The verb made from πλίνθος and given its English, as the Greek repeats its root.")))
 
 (lemma "πλίνθος" (sense brick (gloss "brick" "bricks") (why "(LXX, supplied.) A brick (Genesis 11:3). The verb πλινθεύω shares the English.")))
@@ -312,6 +320,8 @@
 
 (lemma "πόθεν" (sense from-where (gloss "from where") (why "Interrogative: from where? whence? (Genesis 16:8 πόθεν ἔρχῃ; John 1:48). \"From where\" in place of the old \"whence\".")))
 
+(lemma "ποδήρης" (sense foot-length (gloss "foot-length") (why "Reaching to the feet (πούς), of a long garment (Revelation 1:13 ἐνδεδυμένον ποδήρη). In Exodus the high priest's τὸν ποδήρη χιτῶνα \"the foot-length tunic\" (28:4; 29:5) and ὑποδύτην ποδήρη \"foot-length undergarment\" (28:31); alone, ὁ ποδήρης (25:7) is the same garment. Use this English in every tabernacle chapter.")))
+
 (lemma "ποιέω"
   (sense make
     (gloss "make" "made" "makes" "making")
@@ -321,6 +331,8 @@
     (why "To do, perform an act (Genesis 3:13-14, \"you did this\"). English cannot say \"make this\" of a deed.")))
 
 (lemma "ποικίλος" (sense many-colored (gloss "many-colored") (why "Of many colors, variegated, spotted (Genesis 30:32-39 and 31:8-12, Jacob's wage among the flocks); in the New Testament \"of many kinds, various\" (Matthew 4:24; 1 Peter 4:10), which may become its own sense. \"Many-colored\" keeps it apart from ῥαντός \"speckled\" and διάλευκος \"white-flecked\".")))
+
+(lemma "ποικιλτής" (sense embroiderer (person) (gloss "embroiderer" "embroiderers") (why "(LXX, supplied.) An embroiderer, who works colored patterns (ποικίλος \"many-colored\") into cloth: ἔργον ποικιλτοῦ \"work of embroiderer\" (Exodus 26:36; 28:15, 39), ἔργον ὑφάντου ποικιλτοῦ \"work of weaver, of embroiderer\" (28:6). Kept apart from ὑφάντης \"weaver\". Use this English in every tabernacle chapter.")))
 
 (lemma "ποιμαίνω" (sense tend (gloss "tend" "tended" "tends" "tending") (why "To be shepherd of, tend a flock (Genesis 30:31, 36, Jacob tending Laban's sheep; Luke 17:7; John 21:16; 1 Peter 5:2). \"Tend\" keeps it apart from the noun ποιμήν \"shepherd\" and βόσκω \"pasture\".")))
 
@@ -365,6 +377,8 @@
 (lemma "πορνεία" (sense fornication (gloss "fornication" "fornications") (why "Fornication, sexual immorality, the hiring out of the body (Genesis 38:24, ἐν γαστρὶ ἔχει ἐκ πορνείας; Matthew 5:32; 15:19; 1 Corinthians 6:18). \"Fornication\" in both testaments; kept with ἐκπορνεύω \"commit fornication\" and πόρνη \"harlot\".")))
 
 (lemma "πόρνη" (sense harlot (gloss "harlot" "harlots") (why "A prostitute, harlot (Genesis 34:31, ὡσεὶ πόρνῃ, as with a harlot; 38:15; Matthew 21:31; Hebrews 11:31, Rahab). The literal layer keeps the traditional \"harlot\".")))
+
+(lemma "πορφύρα" (sense purple (gloss "purple") (why "Purple, the dye of the murex shellfish, and yarn or cloth dyed with it (Luke 16:19; Mark 15:17, 20). In the tabernacle and priestly chapters it is named with ὑάκινθος \"blue\", κόκκινος \"scarlet\" and βύσσος \"fine linen\" (Exodus 25:4; 26:1; 28:5, 8, 15, 33), used as a noun: \"the purple\", \"of purple\". Use this English in every tabernacle chapter.")))
 
 (lemma "ποταμός"
   (sense river
@@ -431,6 +445,8 @@
 
 (lemma "προέρχομαι" (sense go-forward (verb "go forward" "went forward" "gone forward") (gloss "go forward" "went forward" "gone forward" "goes forward" "going forward") (why "To go forward, go on ahead (Genesis 33:14, let my lord go forward ahead of the servant; Mark 14:35, προελθὼν μικρόν; Luke 1:17). \"Go forward\" avoids \"go ahead ahead of\" with ἔμπροσθεν.")))
 
+(lemma "προΐημι" (sense send-forth (verb "send forth" "sent forth" "sent forth") (gloss "send forth" "sent forth" "sends forth" "sending forth") (why "(LXX, supplied.) To send forth, let go forward (πρό + ἵημι): Exodus 3:19, Pharaoh οὐ προήσεται ὑμᾶς πορευθῆναι. \"Send forth\" keeps it apart from ἀφίημι \"let go\", ἀπολύω \"release\" and ἐξαποστέλλω \"send out\".")))
+
 (lemma "προοράω" (sense foresee (verb "foresee" "foresaw" "foreseen") (gloss "foresee" "foresaw" "foreseen" "foresees" "foreseeing") (why "To see beforehand, see ahead (Genesis 37:18, the brothers πρόιδον αὐτὸν μακρόθεν, before he came near; Acts 2:25, 31; Galatians 3:8). The second aorist is προεῖδον, Swete's πρόιδον.")))
 
 (lemma "προπορεύομαι" (sense go-before (verb "go before" "went before" "gone before") (gloss "go before" "went before" "goes before" "going before" "gone before") (why "To go on ahead, go before (Genesis 32:16-21, Jacob's droves sent ahead; Luke 1:76; Acts 7:40). Middle, rendered active.")))
@@ -451,7 +467,8 @@
     (gloss "toward")
     (why "Of time, with a genitive or an adverb: toward, near (Genesis 24:11 τὸ πρὸς ὀψέ, \"toward late\"; 24:63 τὸ πρὸς δείλης, \"toward afternoon\"; Luke 24:29 πρὸς ἑσπέραν, \"toward evening\"). Chosen by override.")))
 
-(lemma "προσάγω" (sense bring-near (gloss "bring near" "brought near" "brings near" "bringing near") (why "To lead or bring toward, bring near (Genesis 27:25 Προσάγαγέ μοι; Luke 9:41; 1 Peter 3:18). \"Bring near\" keeps it apart from προσφέρω \"offer\" and ἄγω. (LXX form supplied.)")))
+(lemma "προσάγω" (sense bring-near (gloss "bring near" "brought near" "brings near" "bringing near") (why "To lead or bring toward, bring near (Genesis 27:25 Προσάγαγέ μοι; Luke 9:41; 1 Peter 3:18). \"Bring near\" keeps it apart from προσφέρω \"offer\" and ἄγω. (LXX form supplied.)"))
+  (sense come-near (intransitive) (verb "come near" "came near" "come near") (gloss "come near" "came near" "comes near" "coming near") (why "(LXX, supplied.) Intransitive, with no object: to come near, approach (Exodus 3:4, ὅτι προσάγει ἰδεῖν, Moses coming near to see the bush). \"Come near\" keeps it apart from ἐγγίζω \"draw near\" and προσέρχομαι \"approach\". Chosen by the form row.")))
 
 (lemma "προσδέχομαι" (sense welcome (gloss "welcome" "welcomed" "welcomes" "welcoming") (why "To receive favorably, welcome; also to wait for (Genesis 32:20 ἴσως γὰρ προσδέξεταί τὸ πρόσωπόν μου; Luke 15:2; Romans 16:2). \"Wait for\" (Luke 2:25) will be its own sense.")))
 
@@ -504,6 +521,8 @@
   (sense earlier (gloss "earlier") (why "Of two, the one before in time, \"earlier\" (Genesis 38:28, the midwife: Οὗτος ἐξελεύσεται πρότερος, \"This one will come out earlier\"). \"Former\" would make him a former person; πρῶτος keeps \"first\".")))
 
 (lemma "προφήτης" (sense prophet (person) (gloss "prophet" "prophets") (why "A prophet, one who speaks for God (Genesis 20:7, of Abraham, the first use in the Bible; Matthew 1:22).")))
+
+(lemma "προχειρίζομαι" (sense hand-pick (verb "hand-pick" "hand-picked" "hand-picked") (gloss "hand-pick" "hand-picked" "hand-picks" "hand-picking") (why "To take into one's hand beforehand, choose, appoint (πρόχειρος \"at hand\"): Exodus 4:13, Moses: προχείρισαι δυνάμενον ἄλλον; Acts 3:20; 22:14; 26:16. \"Hand-pick\" keeps the hand of the Greek and stays apart from ἐκλέγω \"choose\" and τάσσω \"appoint\". (LXX form supplied.)")))
 
 (lemma "πρωΐ"
   (sense morning

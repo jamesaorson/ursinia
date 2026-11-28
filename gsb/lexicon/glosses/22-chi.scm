@@ -77,6 +77,8 @@
     (gloss "tunic" "tunics")
     (why "The tunic, the garment worn next to the skin (Genesis 3:21; John 19:23). Against ἱμάτιον, which will take \"garment\" or \"cloak\".")))
 
+(lemma "χιών" (sense snow (gloss "snow") (why "Snow (Exodus 4:6, Moses' hand ὡσεὶ χιών; Matthew 28:3; Revelation 1:14).")))
+
 (lemma "χλωρός"
   (sense green
     (gloss "green")
@@ -112,6 +114,8 @@
 
 (lemma "χρήσιμος" (sense useful (gloss "useful") (why "Useful, profitable (Genesis 37:26, Judah: Τί χρήσιμον ἐὰν ἀποκτείνωμεν τὸν ἀδελφὸν ἡμῶν; 2 Timothy 2:14).")))
 
+(lemma "χρόα" (sense color (gloss "color" "colors") (why "(LXX, supplied.) The skin, its color, complexion: Exodus 4:7, the hand restored εἰς τὴν χρόαν τῆς σαρκὸς αὐτῆς.")))
+
 (lemma "χρονίζω" (sense delay (gloss "delay" "delayed" "delays" "delaying") (why "To spend time, delay, linger (Genesis 34:19, the young man did not delay to do the thing; Matthew 24:48; 25:5; Hebrews 10:37). The verb of χρόνος \"time\".")))
 
 (lemma "χρόνος" (sense time (gloss "time" "times") (why "Time, a stretch of time (Genesis 26:1, 15 ἐν τῷ χρόνῳ τοῦ Ἀβραάμ, \"in the time of Abraham\"; Luke 1:57; Galatians 4:4). Kept apart from καιρός \"season\".")))
@@ -124,6 +128,8 @@
 (lemma "χρυσοῦς" (sense golden (gloss "golden") (why "Made of gold.")))
 
 (lemma "Χωβάλ" (sense name (gloss "Hobah") (why "(LXX, supplied.) Genesis 14:15, the place on the left of Damascus, Greek Χωβάλ for the Hebrew Hobah; traditional English Hobah, the same place in a Greek spelling.")))
+
+(lemma "χυδαῖος" (sense teeming (gloss "teeming") (why "(LXX, supplied.) Poured out, abundant, numerous (Exodus 1:7 καὶ χυδαῖοι ἐγένοντο, the sons of Israel came to be teeming). From χέω \"pour\"; \"teeming\" keeps it apart from πολύς \"many\" and πλῆθος \"multitude\".")))
 
 (lemma "χώρα" (sense country (gloss "country" "countries") (why "A land, region, country (Genesis 11:28, 31, \"the country of the Chaldeans\"; Luke 15:13). \"Country\" keeps it apart from γῆ \"land/earth\".")))
 
