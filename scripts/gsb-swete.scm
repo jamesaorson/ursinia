@@ -161,7 +161,15 @@ if the content changes. Returns #t when written."
              (list-matches "\"leafNum\": ([0-9]+),[^}]*\"pageNumber\": \"([^\"]+)\"" (read-file json)))
         '())))
 
-(define (printed-page info leaf) (or (assv-ref (page-numbers info) leaf) "?"))
+(define (printed-page info leaf)
+  "LEAF's printed page; where archive.org gives none (vol. II leaf 21, the
+first page of 1 Chronicles), one more than the leaf before or one less than
+the leaf after, when that is a number."
+  (let* ((pages (page-numbers info))
+         (near (lambda (l d) (let ((n (string->number (or (assv-ref pages l) ""))))
+                               (and n (> (+ n d) 0) (number->string (+ n d)))))))
+    (or (let ((p (assv-ref pages leaf))) (and p (not (string-null? p)) p))
+        (near (+ leaf 1) -1) (near (- leaf 1) 1) "?")))
 
 (define (load-page info leaf)
   (let ((path (page-path info leaf)))

@@ -372,7 +372,7 @@
     (gloss "morning")
     (why "Early, in the morning; as a noun, morning (Genesis 1).")))
 
-(lemma "πρῶτος" (sense first (gloss "first") (why "The ordinal \"first\" (Genesis 8:5, 13, the first of the month; Matthew 22:38). As a noun of a month's first day, τῇ πρώτῃ τοῦ μηνός, \"on the first of the month\".")))
+(lemma "πρῶτος" (sense first (dative "on") (gloss "first") (why "The ordinal \"first\" (Genesis 8:5, 13, the first of the month; Matthew 22:38). As a noun of a month's first day, τῇ πρώτῃ τοῦ μηνός, \"on the first of the month\".")))
 
 (lemma "πρωτοτόκια" (sense birthright (gloss "birthright" "birthrights") (why "The rights of the firstborn, birthright (Genesis 25:31-34; 27:36 τά τε πρωτοτοκεῖά μου εἴληφεν; Hebrews 12:16, Esau who sold his πρωτοτόκια). Swete spells it πρωτοτοκεῖα; the lemma follows the New Testament spelling so both testaments meet.")))
 

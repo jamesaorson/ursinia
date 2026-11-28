@@ -1,0 +1,53 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+1chr	oldtestamenting02swet	21	1	Σήθ,	Σήθ,	Σήθ,	Σήθ,	image (3x): acute/grave as transcribed
+1chr	oldtestamenting02swet	21	1	Ἔνώς,	Ἔνώς,	Ἐνώς,	Ἐνώς,	image (3x): smooth breathing only on capital, acute on ω
+1chr	oldtestamenting02swet	21	1	Κ̓αινάν,	Κ̓αινάν,	Καινάν,	Καινάν,	image (3x): acute/grave as transcribed
+1chr	oldtestamenting02swet	21	1	Μαλελεήλ,	Μαλελεήλ,	Μαλελεήλ,	Μαλελεήλ,	image (3x): acute/grave as transcribed
+1chr	oldtestamenting02swet	21	1	Ἰάρεδ,	Ἰάρεδ,	Ἰάρεδ,	Ἰάρεδ,	image (3x): breathing (smooth/rough) and accent as transcribed
+1chr	oldtestamenting02swet	21	1	ΞἘ̔νώχ,	ΞἘνώχ,	Ἑνώχ,	Ἑνώχ,	image (3x): rough breathing on Ε (Ἑνώχ); margin superscript 3 not text
+1chr	oldtestamenting02swet	21	2	“Νῶε.	“Νῶε.	Νῶε.	Νῶε.	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	21	2	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): acute/grave as transcribed
+1chr	oldtestamenting02swet	21	2	Νῶε:	Νῶε:	Νῶε·	Νῶε·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	21	2	Σήμ,	Σήμ,	Σήμ,	Σήμ,	image (3x): acute/grave as transcribed
+1chr	oldtestamenting02swet	21	2	Χάμ,	Χάμ,	Χάμ,	Χάμ,	image (3x): acute/grave as transcribed
+1chr	oldtestamenting02swet	21	2	Ἰάφεθ.	Ἰάφεθ.	Ἰάφεθ.	Ἰάφεθ.	image (3x): breathing (smooth/rough) and accent as transcribed
+1chr	oldtestamenting02swet	21	2	5Υἱοὶ	5Υἱοὶ	Υἱοὶ	Υἱοὶ	image (3x): Υἱοὶ, rough on ι, grave
+1chr	oldtestamenting02swet	21	2	Ἰάφεθ:	Ἰάφεθ:	Ἰάφεθ·	Ἰάφεθ·	image (3x): breathing (smooth/rough) and accent as transcribed
+1chr	oldtestamenting02swet	21	3	Τάμερ,	Τάμερ,	Γάμερ,	Γάμερ,	image (3x): Γ, not Τ
+1chr	oldtestamenting02swet	21	3	Μαγώγ,	Μαγώγ,	Μαγώγ,	Μαγώγ,	image (3x): acute/grave as transcribed
+1chr	oldtestamenting02swet	21	3	Ἰωυάν,	Ἰωυάν,	Ἰωυάν,	Ἰωυάν,	image (3x): breathing (smooth/rough) and accent as transcribed
+1chr	oldtestamenting02swet	21	3	Ἔλεισά,	Ἔλεισά,	Ἐλεισά,	Ἐλεισά,	image (3x): smooth breathing only, acute on final α
+1chr	oldtestamenting02swet	21	3	Θοβέλ,	Θοβέλ,	Θοβέλ,	Θοβέλ,	image (3x): acute/grave as transcribed
+1chr	oldtestamenting02swet	21	3	Θειράς.	Θειράς. +ὁ	Θειράς.	Θειράς.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+1chr	oldtestamenting02swet	21	4	6 +«αἱ	καὶ	καὶ	καὶ	class R6 (OCR letters differ): the other OCR reading agrees with c
+1chr	oldtestamenting02swet	21	4	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): acute/grave as transcribed
+1chr	oldtestamenting02swet	21	4	Τάμερ:	Τάμερ:	Γάμερ·	Γάμερ·	image (3x): Γ, not Τ
+1chr	oldtestamenting02swet	21	4	Ἀσχανὰζ	Ἀσχανὰζ	Ἀσχανὰζ	Ἀσχανὰζ	image (3x): breathing (smooth/rough) and accent as transcribed
+1chr	oldtestamenting02swet	21	4	Ἐρειφὰθ	Ἐρειφὰθ	Ἐρειφὰθ	Ἐρειφὰθ	image (3x): breathing (smooth/rough) and accent as transcribed
+1chr	oldtestamenting02swet	21	4	71καὶ	71καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	21	4	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): acute/grave as transcribed
+1chr	oldtestamenting02swet	21	5	Ἰωυάν:	Ἰωυάν:	Ἰωυάν·	Ἰωυάν·	image (3x): breathing (smooth/rough) and accent as transcribed
+1chr	oldtestamenting02swet	21	5	Ἐλεισὰ	Ἐλεισὰ	Ἐλεισὰ	Ἐλεισὰ	image (3x): breathing (smooth/rough) and accent as transcribed
+1chr	oldtestamenting02swet	21	5	Θαρσείς,	Θαρσείς,	Θαρσείς,	Θαρσείς,	image (3x): acute/grave as transcribed
+1chr	oldtestamenting02swet	21	5	Ῥόδιοι. +8	Ῥόδιοι. +δ	Ῥόδιοι.	Ῥόδιοι.	image (3x): rough breathing on Ρ, period
+1chr	oldtestamenting02swet	21	5	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): acute/grave as transcribed
+1chr	oldtestamenting02swet	21	5	Χάμ-	Χάμ:	Χάμ·	Χάμ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	21	6	9καὶ	9καὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	21	6	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): acute/grave as transcribed
+1chr	oldtestamenting02swet	21	6	Χούς:	Χούς:	Χούς·	Χούς·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	21	7	Εὐειλὰτ	Εὑὐειλὰτ	Εὐειλὰτ	Εὑειλὰτ	image (3x): rough breathing on υ (same mark as υἱοὶ), Εὑειλὰτ
+1chr	oldtestamenting02swet	21	7	Ῥεγμὰ	Ῥεγμὰ	Ῥεγμὰ	Ῥεγμὰ	image (3x): breathing (smooth/rough) and accent as transcribed
+1chr	oldtestamenting02swet	21	7	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): acute/grave as transcribed
+1chr	oldtestamenting02swet	21	7	Ῥεγμά-	Ρ̓̔εγμά-	Ῥεγμά·	Ῥεγμά·	image (3x): rough on Ρ, ano teleia
+1chr	oldtestamenting02swet	21	8	Ἰουδαδάν. +"᾽	Ἰουδαδάν. +"᾽	Ἰουδαδάν.	Ἰουδαδάν.	image (3x): breathing (smooth/rough) and accent as transcribed
+1chr	oldtestamenting02swet	21	8	Νεβρώδ᾽	Νεβρώδ᾽	Νεβρώδ·	Νεβρώδ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+1chr	oldtestamenting02swet	21	9	1	1	Υἱοὶ	Υἱοὶ	image (3x): Υἱοὶ, rough on ι, grave
+1chr	oldtestamenting02swet	21	9	γἱοὶ +Σήμ:	γὶοὶ +Σήμ:	Σήμ·	Σήμ·	image (3x): Σήμ· with ano teleia
+1chr	oldtestamenting02swet	21	9	Αἰλὰμ	Αἰλὰμ	Αἰλὰμ	Αἰλὰμ	image (3x): breathing (smooth/rough) and accent as transcribed
+1chr	oldtestamenting02swet	21	9	Ἀσσοὺρ	Ἀσσοὺρ	Ἀσσουρ	Ἀσσοὺρ	image (3x): smooth breathing, grave on υ
+1chr	oldtestamenting02swet	21	10	“ἐκαὶ	“ἐκαὶ	καὶ	καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+1chr	oldtestamenting02swet	21	10	Ἀρφαξάδ,	Ἀρφαξάδ,	Ἀρφαξάδ,	Ἀρφαξάδ,	image (3x): breathing (smooth/rough) and accent as transcribed
+1chr	oldtestamenting02swet	21	10	Σαλά,	Σαλά, +“5	Σαλά,	Σαλά,	image (3x): acute/grave as transcribed
+1chr	oldtestamenting02swet	21	10	“5Ἔβερ,	Ἔβερ,	Ἔβερ,	Ἔβερ,	image (3x): breathing (smooth/rough) and accent as transcribed
+1chr	oldtestamenting02swet	21	10	Ῥαγαύ,	ἹῬαγαύ,	Ῥαγαύ,	Ῥαγαύ,	image (3x): breathing (smooth/rough) and accent as transcribed
+1chr	oldtestamenting02swet	21	10	“Σερούχ,	“Σερούχ,	Σερούχ,	Σερούχ,	image (3x): acute/grave as transcribed

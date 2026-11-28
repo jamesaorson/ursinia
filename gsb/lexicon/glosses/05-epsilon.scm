@@ -23,6 +23,7 @@
 
 (lemma "ἕβδομος"
   (sense seventh
+    (dative "on")
     (gloss "seventh")
     (why "The ordinal \"seventh\" (Genesis 2:2-3; Hebrews 4:4).")))
 

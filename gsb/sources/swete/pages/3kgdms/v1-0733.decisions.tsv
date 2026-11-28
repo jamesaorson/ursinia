@@ -1,0 +1,57 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+3kgdms	theoldtestamenti00unknuoft	733	1	Ta	τὰ	τὰ	τὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	733	1	σκεύη +η	σκεύη +ὃ	σκεύη	σκεύη	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	733	1	Λιβάνου	άνου	Λιβάνου	Λιβάνου	class R6 (OCR letters differ): the other OCR reading agrees with c
+3kgdms	theoldtestamenti00unknuoft	733	1	χρυσί	χρυσίῳ	χρυσίῳ	χρυσίῳ	class R6 (OCR letters differ): the other OCR reading agrees with c
+3kgdms	theoldtestamenti00unknuoft	733	1	λ +ἔνα"	συνκεκλεισμένα"	συνκεκλεισμένα·	συνκεκλεισμένα·	image (3x): reading C as printed (OCR junk from superscripts/margin)
+3kgdms	theoldtestamenti00unknuoft	733	2	OTL	ὅτι	ὅτι	ὅτι	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	733	3	“ὅτι	“ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	733	3	TH	τῇ	τῇ	τῇ	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	733	3	Χειράμ᾽	Χειράμ᾽	Χειράμ·	Χειράμ·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	733	4	καὶ +23	καὶ +.3	καὶ	καὶ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	733	5	"Ξαὕτη	"Ξαὕτη	αὕτη	αὕτη	image (3x): reading C as printed (OCR junk from superscripts/margin)
+3kgdms	theoldtestamenti00unknuoft	733	6	βασιλεὺς	βασιλεὺς	βασιλεὺς	βασιλεὺς	image (3x): grave before a capitalized name (not a quotation)
+3kgdms	theoldtestamenti00unknuoft	733	6	oixodo-	οἰκοδο-	οἰκοδο-	οἰκοδο-	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	733	8	ερουσαλὴμ	ερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing (apostrophe shape)
+3kgdms	theoldtestamenti00unknuoft	733	9	Ἀσσοὺρ	Ἀσσοὺρ	Ἀσσοὺρ	Ἀσσοὺρ	image (3x): smooth breathing (apostrophe shape)
+3kgdms	theoldtestamenti00unknuoft	733	9	Tatep +{7 -59)	Τάζερ +(775-59)	Γάζερ	Γάζερ	image (3x): Γ, not Τ
+3kgdms	theoldtestamenti00unknuoft	733	10	Ἰεθερμάθ,	Ἰεθερμάθ,	Ἰεθερμάθ,	Ἰεθερμάθ,	image (3x): smooth breathing (apostrophe shape)
+3kgdms	theoldtestamenti00unknuoft	733	11	ἱππέων᾽	ἱππέων᾽	ἱππέων·	ἱππέων·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	733	12	24	24 +“Γκαὶ	καὶ	καὶ	image (3x): reading C as printed (OCR junk from superscripts/margin)
+3kgdms	theoldtestamenti00unknuoft	733	12	4xal +THY	τὴν	τὴν	τὴν	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	733	13	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	image (3x): smooth breathing (apostrophe shape)
+3kgdms	theoldtestamenti00unknuoft	733	13	αὐτοῦ +™)	αὐτοῦ +()	αὐτοῦ	αὐτοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	733	14	‘Apoppaiou	Ἀμορραίου	Ἀμορραίου	Ἀμορραίου	image (3x): smooth breathing (apostrophe shape)
+3kgdms	theoldtestamenti00unknuoft	733	15	Tod	τοῦ	τοῦ	τοῦ	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	733	15	Evaiov	Ἑὑαίου	Εὐαίου	Εὑαίου	image (3x+4x): rough breathing on υ (open curl), Εὑαίου
+3kgdms	theoldtestamenti00unknuoft	733	16	eBovoaiov	εβουσαίου	Ἰεβουσαίου	Ἰεβουσαίου	image (3x): smooth breathing (apostrophe shape)
+3kgdms	theoldtestamenti00unknuoft	733	16	Τεργεσαίου,	Τεργεσαίου,	Γεργεσαίου,	Γεργεσαίου,	image (3x): Γ, not Τ
+3kgdms	theoldtestamenti00unknuoft	733	16	Ἰσραὴ	Ἰσραὴ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape)
+3kgdms	theoldtestamenti00unknuoft	733	17	“τὰ	"τὰ	τὰ	τὰ	image (3x): reading C as printed (OCR junk from superscripts/margin)
+3kgdms	theoldtestamenti00unknuoft	733	18	ovs	οὗὑς	οὓς	οὓς	image (3x): reading C as printed (OCR junk from superscripts/margin)
+3kgdms	theoldtestamenti00unknuoft	733	18	υἱοὶ	υἱοὶ	υἱοὶ	υἱοὶ	image (3x): grave before a capitalized name (not a quotation)
+3kgdms	theoldtestamenti00unknuoft	733	18	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape)
+3kgdms	theoldtestamenti00unknuoft	733	18	ἀνήγαγεν +25	ἀνήγαγεν +.ω5	ἀνήγαγεν	ἀνήγαγεν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	733	19	αὐτοὺς	αὐτοὺς	αὐτοὺς	αὐτοὺς	image (3x): grave before a capitalized name (not a quotation)
+3kgdms	theoldtestamenti00unknuoft	733	19	““καὶ	““καὶ	καὶ	καὶ	image (3x): reading C as printed (OCR junk from superscripts/margin)
+3kgdms	theoldtestamenti00unknuoft	733	20	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	image (3x): smooth breathing (apostrophe shape)
+3kgdms	theoldtestamenti00unknuoft	733	21	αὐτοῦ +26	αὐτοῦ +:6	αὐτοῦ	αὐτοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	733	22	“καὶ	““καὶ	καὶ	καὶ	image (3x): reading C as printed (OCR junk from superscripts/margin)
+3kgdms	theoldtestamenti00unknuoft	733	22	τοὺς +27	τοὺς +.7γ	τοὺς	τοὺς	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	733	23	Kai	“7καὶ	καὶ	καὶ	image (3x): reading C as printed (OCR junk from superscripts/margin)
+3kgdms	theoldtestamenti00unknuoft	733	24	αὐτοῦ +28	αὐτοῦ +.8	αὐτοῦ	αὐτοῦ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	733	25	* +Kati	““καὶ	καὶ	καὶ	image (3x): reading C as printed (OCR junk from superscripts/margin)
+3kgdms	theoldtestamenti00unknuoft	733	26	ἡδύσματα +29	ἡδύσματα +29	ἡδύσματα	ἡδύσματα	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	733	27	Kal	“καὶ	καὶ	καὶ	image (3x): reading C as printed (OCR junk from superscripts/margin)
+3kgdms	theoldtestamenti00unknuoft	733	28	τέσσαρες:	τέσσαρες: +-	τέσσαρες	τέσσαρες	ambiguous (4x): small light dot raised after τέσσαρες, smaller and lighter than a real ano teleia; read speck, no punctuation
+3kgdms	theoldtestamenti00unknuoft	733	28	ἵπποι	ἵ	ἵπποι	ἵπποι	class R6 (OCR letters differ): the other OCR reading agrees with c
+3kgdms	theoldtestamenti00unknuoft	733	28	εἰς	ἰς	εἰς	εἰς	class R6 (OCR letters differ): the other OCR reading agrees with c
+3kgdms	theoldtestamenti00unknuoft	733	29	τῶν +30	τῶν +3.	τῶν	τῶν	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	733	30	pera	μετὰ	μετὰ	μετὰ	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	733	30	ev	ἐν	ἐν	ἐν	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	733	30	Ἰ̓Ιερουσαλῆμ.	ΕῚ	Ἰερουσαλήμ.	Ἰερουσαλήμ.	image (3x): smooth breathing (apostrophe shape)
+3kgdms	theoldtestamenti00unknuoft	733	30	“καὶ	Ἰερουσαλῆμ.	καὶ	καὶ	image (3x): reading C as printed (OCR junk from superscripts/margin)
+3kgdms	theoldtestamenti00unknuoft	733	30	nv	“καὶ +ἣν	ἦν	ἦν	image (3x): reading C as printed (OCR junk from superscripts/margin)
+3kgdms	theoldtestamenti00unknuoft	733	13	-	-	πάντα	πάντα	parenthesized (20) printed in the text before πάντα; the margin beside this line prints (20) with the 0 broken (looks like 2c); encoded {=9:20}
+3kgdms	theoldtestamenti00unknuoft	733	10	-	-	καὶ	καὶ	in-text and margin (17 b-19) before καὶ τὴν Βαιθωράμ: not expressible as a marker ({=9:17b-19}), and 9:17 is given whole at Swete 4:33 (leaf 715); marker left out, leaf left wip for the coordinator; line 10 looks indented only because of the in-text (17 b-19), not a paragraph
+3kgdms	theoldtestamenti00unknuoft	733	12	-	-	καὶ	καὶ	Swete 24: margin prints 24 with no parenthesized number inside the parenthesized stretch (after (17 b-19), before (20)); left without {=c:v} pending the 17b-19 decision

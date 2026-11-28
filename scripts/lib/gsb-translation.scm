@@ -536,7 +536,12 @@ fail the check)."
                          (refs (segment-refs seg))
                          (lemmas (filter-map ref-lemma* refs))
                          (demos (filter (lambda (r) (and (not (cont-ref? r)) (member (ref-lemma* r) %demonstratives))) refs))
-                         (seg-names (filter (lambda (p) (positive? (count-name text (car p)))) names)))
+                         ;; (a capitalized ordinary word is not a name: Θὲς ... "Put"
+                         ;; at the start of speech is the gloss of τίθημι, not Φούδ)
+                         (own-glosses (append-map (lambda (l) (append-map cadr (or (hash-ref glosses l) '()))) lemmas))
+                         (seg-names (filter (lambda (p) (and (positive? (count-name text (car p)))
+                                                             (not (member (string-downcase (car p)) own-glosses))))
+                                            names)))
                     (append
                      ;; A demonstrative's English is its segment plus, in the
                      ;; literal layer, its (cont N) parts.

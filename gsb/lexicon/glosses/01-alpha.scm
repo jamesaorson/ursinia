@@ -220,7 +220,7 @@
 
 (lemma "ἀναβοάω" (sense cry-aloud (gloss "cry aloud" "cried aloud" "cries aloud" "crying aloud") (why "(LXX, supplied.) To cry out loud, shout (Genesis 27:34, Esau ἀνεβόησεν φωνὴν μεγάλην; Matthew 27:46). \"Cry aloud\" keeps it apart from βοάω \"cry out\".")))
 
-(lemma "ἀναβλέπω" (sense look-up (gloss "look up" "looked up" "looks up" "looking up") (why "To look up (Genesis 18:2 ἀναβλέψας τοῖς ὀφθαλμοῖς \"having looked up with the eyes\"; Mark 6:41); recovering sight (John 9:11) will be its own sense. Kept apart from βλέπω \"see\".")))
+(lemma "ἀναβλέπω" (sense look-up (dative "with") (gloss "look up" "looked up" "looks up" "looking up") (why "To look up (Genesis 18:2 ἀναβλέψας τοῖς ὀφθαλμοῖς \"having looked up with the eyes\"; Mark 6:41); recovering sight (John 9:11) will be its own sense. Kept apart from βλέπω \"see\".")))
 
 (lemma "ἀναγγέλλω"
   (sense declare

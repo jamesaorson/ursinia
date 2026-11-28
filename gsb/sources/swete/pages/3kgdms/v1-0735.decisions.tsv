@@ -1,0 +1,69 @@
+book	scan	leaf	line	reading_a	reading_b	reading_c_first	chosen	basis
+3kgdms	theoldtestamenti00unknuoft	735	1	Κυρίου:	Κυρίου:	Κυρίου·	Κυρίου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	735	1	Κυρίου.	Κυρίου	Κυρίου	Κυρίου	class R6 (OCR letters differ): the other OCR reading agrees with c
+3kgdms	theoldtestamenti00unknuoft	735	2	αὐτοῦ. +9	αὐτοῦ.	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	735	2	Καὶ	9Καὶ	Καὶ	Καὶ	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	735	3	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+3kgdms	theoldtestamenti00unknuoft	735	3	αὐτῷ.	αὐτῷ.	αὐτῷ	αὐτῷ	TODO zoom: A OPEN, B OPEN
+3kgdms	theoldtestamenti00unknuoft	735	4	∅	[9]	δὶς	δὶς	TODO zoom: A R0, B OPEN
+3kgdms	theoldtestamenti00unknuoft	735	4	μὴ.	μὴ.	μὴ	μὴ	TODO zoom: A OPEN, B OPEN
+3kgdms	theoldtestamenti00unknuoft	735	6	θεός:	θεός":	θεός·	θεός·	TODO zoom: A R2, B OPEN
+3kgdms	theoldtestamenti00unknuoft	735	7	αὐτοῦ.	αὐτοῦ. +1	αὐτοῦ.	αὐτοῦ.	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	735	7	Κυριος	Κυριος	Κύριος	Κύριος	TODO zoom: A DROP, B DROP
+3kgdms	theoldtestamenti00unknuoft	735	8	Σαλωμών	Σαλωμών	Σαλωμών	Σαλωμών	TODO zoom: acute or grave before a capitalized word
+3kgdms	theoldtestamenti00unknuoft	735	8	Ἀνθ᾽	Ἀνθ᾽	Ἀνθ᾽	Ἀνθ᾽	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+3kgdms	theoldtestamenti00unknuoft	735	9	ἐντολάς	ἐντολάς	ἐντολάς	ἐντολάς	TODO zoom: accent before an enclitic
+3kgdms	theoldtestamenti00unknuoft	735	9	προστάγματά	προστάγματά	προστάγματά	προστάγματά	TODO zoom: accent before an enclitic
+3kgdms	theoldtestamenti00unknuoft	735	10	χειρός	χειρός	χειρός	χειρός	TODO zoom: accent before an enclitic
+3kgdms	theoldtestamenti00unknuoft	735	11	ov	οὐ	οὐ	οὐ	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	735	12	σου"	σου"	σου·	σου·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	735	12	πλὴν	13 +"“Ξ"πλὴν	πλὴν	πλὴν	class R6 (OCR letters differ): the other OCR reading agrees with c
+3kgdms	theoldtestamenti00unknuoft	735	13	λάβω:	λάβω:	λάβω·	λάβω·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	735	13	ἕν	ἕν	ἓν	ἓν	TODO zoom: A DIA, B DIA
+3kgdms	theoldtestamenti00unknuoft	735	14	δοῦλόν	δοῦλόν	δοῦλόν	δοῦλόν	TODO zoom: accent before an enclitic
+3kgdms	theoldtestamenti00unknuoft	735	14	Ἱερουσαλὴμ	Ἱερουσαλὴμ	Ἰερουσαλὴμ	Ἰερουσαλὴμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B DIA
+3kgdms	theoldtestamenti00unknuoft	735	14	Kai	"Καὶ	Καὶ	Καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	735	15	Ἀδὲρ	Ἀδὲρ	Ἁδὲρ	Ἁδὲρ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B DIA
+3kgdms	theoldtestamenti00unknuoft	735	15	Ἰδουμαῖον +(“3	Ἰδουμαῖον +(“3	Ἰδουμαῖον	Ἰδουμαῖον	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+3kgdms	theoldtestamenti00unknuoft	735	16	∅	Ἑσρὼμ	Ἑσρὼμ	Ἑσρὼμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+3kgdms	theoldtestamenti00unknuoft	735	16	∅	υἱὸν	υἱὸν	υἱὸν	TODO zoom: acute or grave before a capitalized word
+3kgdms	theoldtestamenti00unknuoft	735	16	∅	Ἐ̓λιαδᾶε	Ἐλιαδᾶε	Ἐλιαδᾶε	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A R0, B DROP
+3kgdms	theoldtestamenti00unknuoft	735	16	∅	τὸν	τὸν	τὸν	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	735	16	∅	ἐν	ἐν	ἐν	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	735	16	∅	Ρ̓̔αεμμααὲρ	Ῥαεμμααὲρ	Ῥαεμμααὲρ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); acute or grave before a capitalized word; A R0, B DIA
+3kgdms	theoldtestamenti00unknuoft	735	16	∅	Ἀδράξαρ	Ἁδράζαρ	Ἁδράζαρ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A R0, B OPEN
+3kgdms	theoldtestamenti00unknuoft	735	16	∅	βασιλέα	βασιλέα	βασιλέα	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	735	16	∅	Σουβὰ	Σουβὰ	Σουβὰ	class R0: OCR lost the word in extraction; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	735	18	Aaudoek: +(3)	Δαμάσεκ." +(3)	Δαμάσεκ·	Δαμάσεκ·	TODO zoom: A R5, B OPEN
+3kgdms	theoldtestamenti00unknuoft	735	18	τῷ	τῷ +Ρ]	τῷ	τῷ	class R3: OCR appended accent-row or margin junk; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	735	19	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+3kgdms	theoldtestamenti00unknuoft	735	19	tas	τὰς	τὰς	τὰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	735	19	Σαλωμών"	Σαλωμών"	Σαλωμών·	Σαλωμών·	class R2: OCR renders the ano teleia (·) as " : or apostrophe, or drops the elision mark; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	735	19	Ἀδὲρ	Ἀδὲρ	Ἁδὲρ	Ἁδὲρ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B DIA
+3kgdms	theoldtestamenti00unknuoft	735	19	Ἰδουμαῖος	Ἰδουμαῖος	Ἰδουμαῖος	Ἰδουμαῖος	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+3kgdms	theoldtestamenti00unknuoft	735	20	Idovpaia.	Ἰδουμαίᾳ.	Ἰδουμαίᾳ.	Ἰδουμαίᾳ.	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+3kgdms	theoldtestamenti00unknuoft	735	20	‘kai	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	735	21	Ἐδὼμ	Ἐδὼμ	Ἐδὼμ	Ἐδὼμ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+3kgdms	theoldtestamenti00unknuoft	735	21	Ἰωὰβ	Ἰωὰβ	Ἰωὰβ	Ἰωὰβ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+3kgdms	theoldtestamenti00unknuoft	735	23	Ιδουμαίᾳ:	Ιδουμαίᾳ:	Ἰδουμαίᾳ·	Ἰδουμαίᾳ·	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A OPEN, B OPEN
+3kgdms	theoldtestamenti00unknuoft	735	23	"ὅτι	"ὅτι	ὅτι	ὅτι	class R1: OCR fused/misread the superscript verse number into the word; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	735	23	ἐξ	ἐξ	ἓξ	ἓξ	TODO zoom: A DIA, B DIA
+3kgdms	theoldtestamenti00unknuoft	735	23	Ἰωὰβ	Ἰωὰβ	Ἰωὰβ	Ἰωὰβ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+3kgdms	theoldtestamenti00unknuoft	735	23	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	Ἰσραὴλ	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+3kgdms	theoldtestamenti00unknuoft	735	24	Ἰδουμαίᾳ,	Ἰδουμαίᾳ,	Ἰδουμαίᾳ,	Ἰδουμαίᾳ,	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+3kgdms	theoldtestamenti00unknuoft	735	24	Ἰδουμαίᾳ.	Ἰδουμαίᾳ.	Ἰδουμαίᾳ.	Ἰδουμαίᾳ.	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+3kgdms	theoldtestamenti00unknuoft	735	25	Ἀδὲρ	Ἀδὲρ	Ἁδὲρ	Ἁδὲρ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B DIA
+3kgdms	theoldtestamenti00unknuoft	735	25	Ἰδουμαῖοι	Ἰδουμαῖοι	Ἰδουμαῖοι	Ἰδουμαῖοι	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+3kgdms	theoldtestamenti00unknuoft	735	26	per	μετ᾽	μετ᾽	μετ᾽	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	735	26	eis	εἰς	εἰς	εἰς	class R5: Latin-letter substitution in OCR; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	735	26	Αἴγυπτον:	Αἴγυπτον:	Αἴγυπτον·	Αἴγυπτον·	TODO zoom: breathing on a capital (OCR misreads rough/smooth)
+3kgdms	theoldtestamenti00unknuoft	735	26	‘Adep	Ἀδὲρ	Ἁδὲρ	Ἁδὲρ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A R5, B DIA
+3kgdms	theoldtestamenti00unknuoft	735	27	“Kat	“καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	735	29	Αἰγύπτου"	Αἰγύπτου":	Αἰγύπτου·	Αἰγύπτου·	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A R2, B OPEN
+3kgdms	theoldtestamenti00unknuoft	735	29	Ἀδὲρ	Ἀδὲρ	Ἁδὲρ	Ἁδὲρ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A DIA, B DIA
+3kgdms	theoldtestamenti00unknuoft	735	30	"Kai	"καὶ	καὶ	καὶ	class R5+R1: Latin-letter substitution in OCR; OCR fused/misread the superscript verse number into the word; c read from the image strip
+3kgdms	theoldtestamenti00unknuoft	735	31	E€UpeEV	εὺὑρεν	εὗρεν	εὗρεν	TODO zoom: A R5, B OPEN
+3kgdms	theoldtestamenti00unknuoft	735	31	Adep	Αδὲρ	Ἁδὲρ	Ἁδὲρ	TODO zoom: breathing on a capital (OCR misreads rough/smooth); A R5, B DROP
+3kgdms	theoldtestamenti00unknuoft	735	31	εναντιον	εναντίον	ἐναντίον	ἐναντίον	TODO zoom: A DROP, B DROP
+3kgdms	theoldtestamenti00unknuoft	735	31	Και	Και	καὶ	καὶ	TODO zoom: A DROP, B DROP
+3kgdms	theoldtestamenti00unknuoft	735	31	γυναικα	γυναικα	γυναῖκα	γυναῖκα	TODO zoom: A DROP, B DROP
